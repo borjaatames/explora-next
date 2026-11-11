@@ -95,6 +95,8 @@ Para no tener que elegir bar, el **tour de vino y tapas** recorre cuatro locales
 
 **Con niños:** **Alice Christmas**, en el Jardín Botánico-Histórico La Concepción, a las afueras, es un recorrido iluminado de 18:30 a 22:30 (entradas en lucesdelaconcepcion.es). Además, el **belén municipal**, una **guía de 73 belenes** por la ciudad en belenes.malaga.eu, los **Reyes gigantes** repartidos por el centro (en 2025, Melchor en calle Alcazabilla, Gaspar en la Plaza Félix Sáenz y Baltasar en calle Compañía) y una fiesta infantil con títeres y cuentacuentos en diciembre.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
 ## Nochevieja, Cabalgata de Reyes y festivos
 
 - **Campanadas en la Plaza de la Constitución:** en 2025 se repartieron bolsas de uvas y cotillón de 21:30 a 23:45, hasta agotar existencias.
@@ -106,11 +108,17 @@ Para no tener que elegir bar, el **tour de vino y tapas** recorre cuatro locales
 - **Alcazaba y Castillo de Gibralfaro:** cierran el 24, el 25 y el 31 de diciembre y el 1 de enero. El resto del invierno abren de 9:00 a 18:00 (comprobado en su web oficial el 10 de noviembre de 2026).
 - **Alcazaba:** de noviembre a marzo, de 9:00 a 18:00 (última entrada a las 17:00); 7 €, o 10 € con el castillo de Gibralfaro, y **gratis los domingos desde las 14:00**.
 
+[actividad: malaga-esencial-tour-privado]
+
 ## La playa en invierno y un día de excursión
 
 Según AEMET, diciembre en Málaga tiene **17,5 °C de máxima media** y unas 160 horas de sol, y enero 16,8 °C. No es tiempo de baño para casi nadie, pero sí de paseo por la **Malagueta y Pedregalejo**, espetos al mediodía y, si el día está claro, un **paseo en catamarán por la bahía** al atardecer. Para una tarde fría, los **baños árabes del Hammam Al Ándalus**, en el centro.
 
 Si tienes un día libre, en invierno la **Alhambra** se visita sin calor (hay excursión privada desde Málaga que incluye el Albaicín). Más cerca, **Nerja y Frigiliana** se hacen en un día en grupo.
+
+[actividad: hammam-al-andalus-malaga]
+
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
 
 ## Errores típicos
 

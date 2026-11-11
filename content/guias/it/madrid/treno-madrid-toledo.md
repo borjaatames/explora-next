@@ -63,6 +63,15 @@ opciones:
 
 | Opzione | Tempo | Prezzo indicativo | Frequenza | Per chi |
 | --- | --- | --- | --- | --- |
+| Treno Avant da Atocha | 33 min | 22-26 € andata e ritorno | Circa ogni ora | Chi vuole fare in fretta e prenota in anticipo |
+| Autobus Alsa da Plaza Elíptica | 50 min (diretto) - 1 h 30 | Da 6,55 € a tratta | 83 corse al giorno | Budget ridotto o rientro tardi |
+| Auto lungo la A-42 | 1 h | Benzina e parcheggio | Quando vuoi | Gruppi e chi vuole vedere il Mirador del Valle |
+| [Escursione organizzata](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 h, tutto incluso | Da 79 € | Ogni giorno | Chi non vuole organizzare niente |
+
+## Treno, autobus o auto: il confronto
+
+| Opzione | Tempo | Prezzo indicativo | Frequenza | Per chi |
+| --- | --- | --- | --- | --- |
 | Treno Avant da Atocha | 33 min | 22-26 € andata e ritorno | Circa ogni ora | Chi vuole velocità e prenota in anticipo |
 | Autobus Alsa da Plaza Elíptica | 50 min (diretto) - 1 h 30 | Da 6,55 € a tratta | 83 corse al giorno | Budget ridotto o rientro tardi |
 | Auto sulla A-42 | 1 h | Benzina e parcheggio | Quando vuoi | Gruppi e chi vuole il Mirador del Valle |
@@ -73,6 +82,8 @@ Il treno è il più veloce, ma la stazione di Toledo è in basso, vicino al fium
 [actividad: excursion-toledo-dia-completo]
 
 Questa guida parla solo di **come andare e tornare**. Per l'itinerario in città, leggi [Toledo da Madrid in un giorno](/it/guides/madrid/toledo-da-madrid-in-un-giorno).
+
+[actividad: toledo-pulsera-turistica-7-monumentos]
 
 ## Il treno Avant Madrid-Toledo: orari e prezzo
 

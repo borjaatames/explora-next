@@ -49,6 +49,16 @@ imagen_portada: "/images/guias/valencia-con-ninos.jpg"
 imagen_alt: "Elephants at Bioparc Valencia"
 ---
 
+## Kid-friendly plans you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €29.5 |
+| [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
+| [Oceanogràfic and Science Museum combo ticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket) | 4.7★ (2,797) | €39 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €40 |
+| [Day or sunset catamaran cruise with a drink](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4.0★ (3,360) | €15 |
+
 ## Things to do in Valencia with kids: the plans that work
 
 The key is not trying to see everything: the old town in short doses, and the rest of the time water, animals and parks.

@@ -51,6 +51,17 @@ faq:
 
 La clave de Cádiz no es un monumento, es la **luz** y el **mar por los cuatro costados**. Quien la ve de paso desde Sevilla se lleva media ciudad; quien se queda al atardecer en La Caleta se lleva la mejor mitad.
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado por el casco antiguo](/ciudades/cadiz/actividades/tour-guiado-cadiz-centro) | 4,7★ (225) | 20 € |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 24,5 € |
+| [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
+| [Jerez: tour por Bodegas Fundador con cata de jerez y brandy](/ciudades/jerez-de-la-frontera/actividades/bodegas-fundador-jerez-cata) | 4,8★ (959) | 18 € |
+| [Jerez: visita a la Yeguada de la Cartuja con exhibición](/ciudades/jerez-de-la-frontera/actividades/yeguada-de-la-cartuja-jerez) | 4,8★ (1.097) | 19,5 € |
+| [Excursión a los pueblos blancos de la Sierra](/ciudades/cadiz/actividades/excursion-pueblos-blancos-desde-cadiz) | 4,6★ (58) | 68 € |
+
 ## La ruta del día: qué ver en Cádiz hora a hora
 
 | Hora | Qué |

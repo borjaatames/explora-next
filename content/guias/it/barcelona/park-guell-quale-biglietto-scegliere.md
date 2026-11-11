@@ -53,6 +53,13 @@ opciones:
     etiqueta: Con guida
 ---
 
+## Quale biglietto scegliere?
+
+| Opzione | Prezzo da | Durata | Formato | Ideale per |
+|---|---|---|---|---|
+| [Biglietto salta coda per la zona monumentale](/en/cities/barcelona/activities/park-guell-admission-ticket) | 21,5 € | 1,5-2 h | Visita libera, senza guida | Chi vuole solo il biglietto più economico, con i propri tempi |
+| [Biglietto + Museo Casa Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | 28 € | 2-3 h | Visita libera + museo | Chi vuole vedere anche la casa in cui visse Gaudí |
+
 ## Cosa include ogni biglietto
 
 **Biglietto base per la zona monumentale.** Accesso nella tua fascia alla scalinata del drago, alla Sala Ipostila, alla piazza con la panchina ondulata e ai portici e, se c'è capienza, alla **Casa del Guarda**, il padiglione d'ingresso. Senza guida né audioguida. È il più venduto (4,4/5 con oltre 81.000 recensioni) e richiede **1,5-2 ore**.

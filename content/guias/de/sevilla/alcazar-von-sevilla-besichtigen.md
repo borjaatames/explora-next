@@ -59,6 +59,15 @@ opciones:
     etiqueta: Mit Kathedrale
 ---
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Regulärer Eintritt (alcazarsevilla.org) | 15,50 € | Regulärer Besuch ohne Führung; Cuarto Real Alto 5,50 € extra | Wer auf eigene Faust geht und rechtzeitig online bucht |
+| [Eintritt mit Zeitfenster](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket) | 20 € | Eintritt in den Real Alcázar mit Zeitfenster, ohne Guide | Wer auf eigene Faust geht |
+| [Führung ohne Anstehen](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour) | 36 € | Offizieller Guide (105 Min.), Eintritt, Cuarto Real Alto und Gärten | Wer den historischen Kontext erklärt haben will |
+| [Kathedrale, Giralda und Alcázar](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour) | 53 € | Führung (2,5–3 Std.) mit bevorzugtem Einlass in Kathedrale und Alcázar; Giralda je nach Option | Wer die drei Monumente an einem Vormittag sehen will |
+
 ## Was du im Real Alcázar von Sevilla siehst
 
 Der Alcázar ist ein Palast in Schichten: almohadisch, mudéjar, gotisch und Renaissance, eine über der anderen. Diese Teile solltest du nicht verpassen:
@@ -93,6 +102,8 @@ Verkauft wird in 30-Minuten-Zeitfenstern mit begrenzter Kapazität; Tickets kön
 - **Geschlossen:** 1. und 6. Januar, Karfreitag und 25. Dezember.
 
 Von März bis Oktober dauert die Schlange an der Kasse **über 2 Stunden**, also kauf ein paar Tage im Voraus. Wenn die offizielle Website schon ausverkauft ist, findest du in [Alcázar Sevilla Tickets ausverkauft: was tun?](/de/guides/sevilla/alcazar-sevilla-tickets-ausverkauft) alle Möglichkeiten, die noch bleiben.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Alcázar Sevilla Führung oder auf eigene Faust?
 

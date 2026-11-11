@@ -48,6 +48,14 @@ opciones:
     etiqueta: 'Auf eigene Faust'
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Auf eigene Faust, ohne Kasse | [Ticket für den Palau mit Besuch auf eigene Faust](/de/cities/barcelona/activities/palau-de-la-musica-catalana-eintrittskarte), 4,6★ (6.321) | 20 € |
+| Erklärungen zum Gebäude | Führung, auf der offiziellen Website | 24 € |
+| Den Saal mit Musik erleben | Ein Konzert aus dem Programm des Palau | variabel |
+
 ## Was du siehst
 
 Der Besuch dauert etwa **50 Minuten** und umfasst:

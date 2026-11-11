@@ -53,6 +53,15 @@ opciones:
     etiqueta: Gipfel zu Fuß
 ---
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Gipfelgenehmigung (Tenerife ON) | 15 € | Nur der Weg Telesforo Bravo zum Krater; Seilbahn extra | Wer auf eigene Faust zum Gipfel will |
+| [Ausflug mit Seilbahn und Transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) | 92 € | Transfer aus Nord und Süd, Guide und Seilbahnticket; ohne Gipfelgenehmigung | Wer ohne eigenes Auto hinauf will |
+| [Sonnenuntergang und Sterne](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 35 € | Sternbeobachtung in kleiner Gruppe mit Starlight-Guides, ein Glas Cava; ohne Seilbahn | Wer den Teide bei Nacht erleben will |
+| [Geführter Aufstieg zum Gipfel](/en/cities/tenerife/activities/mount-teide-summit-guided-hike) | 189 € | Bergführer; ohne Seilbahnticket und Anfahrt | Wer zu Fuß mit Bergführer zum Gipfel will |
+
 ## Die Teide-Seilbahn
 
 Sie startet an der **Talstation (2.356 m)** an der Straße TF-21 und fährt in **unter 8 Minuten** nach **La Rambleta (3.555 m)**. Oben gibt es drei Wege:

@@ -47,6 +47,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "The steps of Girona Cathedral"
 ---
 
+## Game of Thrones tours
+
+| Plan | Activity | From |
+| --- | --- | --- |
+| Top rated | [Game of Thrones small-group tour](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4.9★ (951) | €35 |
+| Just your group | [Private Game of Thrones tour](/en/cities/girona/activities/girona-game-of-thrones-private-tour), price per group | €260 |
+| Girona history plus locations | [Barri Vell walking tour](/en/cities/girona/activities/girona-walking-tour-small-group), 4.8★ (826) | €35 |
+| The cathedral inside | [Cathedral, Art Museum and Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4.5★ (195) | €12 |
+
 ## Game of Thrones locations in Girona: from the cathedral to Braavos
 
 - **Cathedral steps:** the exterior of the Great Sept of Baelor in King's Landing. Jaime Lannister rides up them with the Tyrell army.
@@ -57,6 +66,8 @@ imagen_alt: "The steps of Girona Cathedral"
 - **Passeig Arqueològic:** the city walls, backdrop to several sequences.
 
 Note: **not everything was filmed in Girona**. The Braavos scenes mix Girona with Šibenik (Croatia): if you can't find a location, it's probably not here.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## The walking route through the locations
 

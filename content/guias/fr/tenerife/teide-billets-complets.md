@@ -53,6 +53,15 @@ opciones:
     etiqueta: Ascension à pied
 ---
 
+## Quel billet choisir ?
+
+| Si vous voulez… | Option | À partir de |
+| --- | --- | --- |
+| Le téléphérique déjà inclus | [Excursion au Teide avec téléphérique et transfert](/fr/cities/tenerife/activities/teide-excursion-telepherique-transfert), 4,3★ (6 121) | 92 € |
+| Le sommet à pied avec un guide | [Randonnée guidée jusqu'au sommet du Teide](/en/cities/tenerife/activities/mount-teide-summit-guided-hike), 4,9★ (94) | 189 € |
+| Le Teide de nuit | [Coucher de soleil et observation des étoiles dans le parc national](/en/cities/tenerife/activities/teide-sunset-stargazing-tour), 4,7★ (3 691) | 35 € |
+| Le Teide et le nord | [Excursion Teide, Icod, Garachico et Masca](/fr/cities/tenerife/activities/tenerife-excursion-teide-masca-icod-garachico), 4,6★ (3 066) | 58 € |
+
 ## Téléphérique du Teide complet : changez d'heure ou de jour
 
 Le billet s'achète sur volcanoteide.com et coûte **environ 42 €** aller-retour par adulte. Il monte en moins de 8 minutes de la station inférieure (2 356 m) à **La Rambleta (3 555 m)**.
@@ -95,6 +104,8 @@ Si rien ne marche, le parc vaut quand même le voyage :
 - Le **circuit des Roques de García** (3,6 km, environ 2 heures), avec le Teide en toile de fond.
 - Les belvédères de la route TF-21, comme celui de **Minas de San José**.
 - Les **étoiles** : les sorties au coucher du soleil avec télescope se font depuis des belvédères du parc, sans téléphérique ni permis.
+
+[actividad: atardecer-estrellas-teide-telescopio]
 
 ## Conseils
 

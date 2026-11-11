@@ -47,6 +47,13 @@ faq:
 
 Regel Nummer eins beim Txikiteo: **in Bewegung bleiben**. Es geht darum, die Spezialität jeder Bar zu probieren, nicht in einer zu bleiben. Und die besten Pintxos liegen oft nicht sichtbar auf der Theke: Man bestellt sie warm.
 
+## Pintxos-Touren
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Pintxos-Tour mit Wein](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
+| [Pintxos-Kochkurs (auf Englisch)](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4,8★ (70) | 80 € |
+
 ## Wo man in Bilbao Pintxos isst
 
 | Viertel | Atmosphäre |
@@ -91,6 +98,8 @@ Wenn dich am ersten Abend lieber jemand durch die Bars führt, ist die Pintxos-T
 - **Txikiteo-Abendessen** mit 5–6 Pintxos und Getränken: **25–35 € pro Person**.
 - **Stoßzeiten:** **12:30 bis 15:00** und **19:30 bis 22:30 Uhr**. Dazwischen schließen viele Altstadtbars Küche oder Lokal (vor allem 16:00 bis 19:00 Uhr), und **montags haben etliche Ruhetag**.
 - **Pintxo-Pote:** **donnerstagabends** in den Bars von Deusto, Indautxu und der Calle Licenciado Poza, Pintxo plus Getränk für **2–3 €**. Der Abend der Studierenden und ein guter Einstieg.
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## Tipps und was wir nicht empfehlen
 

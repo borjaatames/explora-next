@@ -46,6 +46,12 @@ imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
 imagen_alt: "The Caminito del Rey walkway clinging to the gorge"
 ---
 
+## Caminito with transport from Málaga
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided tour with transport and ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+
 ## What you'll see
 
 The Caminito is a **one-way** route of about 7.7 km through the **Gaitanes gorge**: around **3 km of walkways** anchored to the rock, more than 100 metres above the river, plus access paths. You walk it in one direction only, **from north (Ardales) to south (El Chorro)**.

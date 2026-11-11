@@ -53,6 +53,17 @@ imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
 imagen_alt: "Roques de García in Teide National Park"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Teide trip with cable car and transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) | 4.3★ (6,121) | €92 |
+| [Teide, Icod de los Vinos, Garachico and Masca tour](/en/cities/tenerife/activities/tenerife-teide-masca-icod-garachico-tour) | 4.6★ (3,066) | €58 |
+| [Whales and dolphins on an eco-yacht from Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | 4.7★ (19,490) | €30 |
+| [Sunset and stargazing in Teide National Park](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 4.7★ (3,691) | €35 |
+| [Masca Gorge: hike and boat back](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) | 4.7★ (374) | €145 |
+| [Kayak and snorkel tour in Los Cristianos](/en/cities/tenerife/activities/los-cristianos-kayak-snorkel-tour) | 4.7★ (12,364) | €23 |
+
 ## Tenerife in 5 days: how to split the island
 
 With **five or six days** you'll see the essentials:

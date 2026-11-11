@@ -53,12 +53,22 @@ opciones:
 reservasArriba: true
 ---
 
+## Welches Boot solltest du nehmen?
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Boot hin und zurück zur Insel Tabarca](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4,3★ (5.628) | 25 € |
+| [Fähre hin und zurück ab Santa Pola](/en/cities/alicante/activities/santa-pola-tabarca-ferry) | 4,6★ (1.822) | 9 € |
+| [Segeltörn nach Tabarca mit Schnorcheln und Sonnenuntergang](/en/cities/alicante/activities/tabarca-snorkeling-tour) | 4,8★ (27) | 85 € |
+
 ## Was du auf der Insel Tabarca sehen und machen kannst
 
 - **Das ummauerte Dorf.** Die Mauern aus dem 18. Jahrhundert (Karl III. besiedelte die Insel neu mit Familien aus Genua), die Kirche San Pedro y San Pablo, die Torre de San José und der Leuchtturm.
 - **Der Strand.** Der Sandstreifen zwischen dem Dorf und dem Rest der Insel, mit ruhigem Wasser. Im Sommer mit Rettungsschwimmer und Duschen.
 - **Schnorcheln im Meeresschutzgebiet.** Die Hauptattraktion: Posidonia-Wiesen und Fische in glasklarem Wasser. Nimm Maske und Schnorchel mit.
 - **Inselrunde zu Fuß.** Die Insel ist winzig (**1,8 km**) und lässt sich ganz zu Fuß erkunden, mit felsigen Buchten auf der wilden Seite. Autos gibt es nicht.
+
+[actividad: snorkel-tabarca-reserva-marina]
 
 ## Tabarca ab Alicante oder Santa Pola: die Anreise
 

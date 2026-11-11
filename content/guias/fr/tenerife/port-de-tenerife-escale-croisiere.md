@@ -49,6 +49,16 @@ actividades:
   - loro-parque-entradas
 ---
 
+## Excursions compatibles avec une escale à Tenerife
+
+| Excursion | Durée | Prix à partir de |
+| --- | --- | --- |
+| [Randonnée guidée dans la laurisilva d'Anaga](/en/cities/tenerife/activities/anaga-laurel-forest-guided-hike), 4,8★ (269) | 3-6 h selon l'option | 24 € |
+| [Casa del Vino d'El Sauzal avec dégustation](/en/cities/tenerife/activities/tenerife-wine-house-tasting-el-sauzal), 4,6★ (477) | 2 h | 16 € |
+| [Bodegas Monje : visite avec dégustation de vins et de fromages](/en/cities/tenerife/activities/bodegas-monje-winery-tour-wine-cheese), 4,5★ (533) | 2 h | 35 € |
+| [Loro Parque](/en/cities/tenerife/activities/loro-parque-tickets), 4,8★ (14 827) | Journée complète | 44 € |
+| [Teide avec téléphérique et transfert](/fr/cities/tenerife/activities/teide-excursion-telepherique-transfert), 4,3★ (6 121) | 7 h | 92 € |
+
 ## Où accostent les croisières au port de Tenerife
 
 Au **port de Santa Cruz de Tenerife**, au **Muelle Sur** ou au **Muelle de Enlace**. Du navire à la **Plaza de España**, il y a **10-20 minutes à pied** par un chemin plat et balisé, selon le quai. Pas besoin de navette, même si certaines compagnies en mettent une quand le navire est au bout du quai.
@@ -77,6 +87,8 @@ Attention : beaucoup d'hôtels et d'excursions de Tenerife sont dans le **sud** 
 [actividad: anaga-bosque-laurisilva-ruta-guiada]
 
 **El Sauzal**, sur la côte nord, est à moins d'une demi-heure par l'autoroute : une dégustation à la Casa del Vino ou dans une bodega est une bonne idée pour 5-6 heures si vous ne voulez pas monter en altitude. On y va en taxi.
+
+[actividad: teide-teleferico-traslado]
 
 ## Le Teide depuis le port de Santa Cruz : temps et risques
 

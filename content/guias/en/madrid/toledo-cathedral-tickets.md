@@ -56,6 +56,15 @@ opciones:
     etiqueta: Toledo and Segovia
 ---
 
+## Which ticket?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| To go on your own | General ticket online or at the ticket office | €12 |
+| To understand what you see | [Cathedral guided tour with entry](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4.5★ (444) | €25 |
+| A day trip from Madrid with no planning | [Toledo full day with guide and Cathedral entry](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4.6★ (869) | €79 |
+| Toledo and Segovia in one day | [Segovia Alcázar and Toledo Cathedral](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4.7★ (10,421) | €41 |
+
 ## What you'll see in the Primate Cathedral
 
 It's the most expensive visit in Toledo and also the one that most justifies the price. The general ticket includes:

@@ -45,6 +45,13 @@ faq:
 
 Rule number one of the txikiteo: **keep moving**. The point is to try each bar's speciality, not to stay in one. And the best pintxos often aren't on display at the bar: you order them hot.
 
+## Pintxos tours
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
+| [Pintxos cooking class](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4.8★ (70) | €80 |
+
 ## Where to eat pintxos in Bilbao
 
 | Area | Atmosphere |
@@ -81,6 +88,8 @@ On Sunday evenings the Old Town is quiet; the Ensanche is livelier.
 If you'd like a guide to take you round the bars on your first night, the pintxos tour with wine is the top-rated option:
 
 [actividad: tour-pintxos-bilbao-vino]
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## Prices and times
 

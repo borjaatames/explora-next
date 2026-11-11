@@ -71,6 +71,10 @@ actividades:
 
 Son las fechas de la edición 2025: el programa de 2026 se publica en noviembre en barcelona.cat/nadal y actualizaremos la guía entonces.
 
+[actividad: sagrada-familia-visita-guiada-guia-oficial]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
+
 ## Luces de Navidad en Barcelona y la Fira de Santa Llúcia
 
 - **Las luces de 2026** cubren **130 km de calles**, con 255 arcos y 272 figuras de luz, y estrenan diseños de autor en el paseo de Maragall (un poema escrito con luces) y la rambla de Prim. El eje clásico sigue siendo **Passeig de Gràcia, Rambla de Catalunya y Portal de l'Àngel**.
@@ -96,6 +100,8 @@ Una tarde de diciembre bien aprovechada:
 - **Nadal al Port**, en el Moll de la Fusta, con atracciones y luces junto al mar.
 - **Llegada de los Reyes:** el 5 de enero desembarcan en el puerto y los recibe el alcalde hacia las 16:30 en la Plaça del Portal de la Pau. Menos multitudinario que la Cabalgata.
 - Si preferís un plan guiado, hay un tour privado para familias con búsqueda del tesoro y churros con chocolate.
+
+[actividad: barcelona-tour-privado-familias-churros-juegos]
 
 ## Qué abre y qué cierra en Barcelona el 24, 25 y 31 de diciembre y el 1 de enero
 

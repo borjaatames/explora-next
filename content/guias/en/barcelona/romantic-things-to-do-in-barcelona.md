@@ -50,6 +50,19 @@ actividades:
   - tablao-de-carmen-flamenco-cena-poble-espanyol
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price for two | Best for |
+| --- | --- | --- | --- |
+| [Sunset sailing](/en/cities/barcelona/activities/barcelona-sunset-sailing-experience) | 2 h | €110 | The headline plan; open bar on board |
+| [Tapas, wine and flamenco, private tour](/en/cities/barcelona/activities/barcelona-private-tapas-wine-flamenco-tour) | 3 h | €228 (€114 each) | A full evening with nothing to organise |
+| [Flamenco at Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 50-55 min | From €60 | Flamenco in a baroque palace |
+| [Casa Batlló by night with a concert](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) | 2 h | €118 | Gaudí, live music and cava |
+| [La Pedrera by night with cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava) | 1 h 30 min | €79 | A light show on the rooftop |
+| [Rooftop wine tasting](/en/cities/barcelona/activities/barcelona-rooftop-wine-tasting) | 2 h | €96 | Six wines with a view, by day |
+| [VIP private photo shoot](/en/cities/barcelona/activities/vip-private-photoshoot-barcelona) | 1 h | €125 per session | Anniversaries, honeymoons, proposals |
+| [Tablao de Carmen with dinner](/en/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-poble-espanyol) | About 3 h with dinner | From €176 | Dinner during the show |
+
 ## Sunset sailing in Barcelona
 
 This is the headline plan for two. It's **two hours on a Beneteau Oceanis 41** from Marina Vela in Port Vell: you motor out past cruise ships and superyachts, the skipper raises the sails and you cruise along the coast as the city lights come on. On board there's an **open bar of cava, wine and beer** and snacks; you can help sail or do nothing at all.
@@ -70,6 +83,10 @@ This is the headline plan for two. It's **two hours on a Beneteau Oceanis 41** f
 
 We compare them all in [flamenco in Barcelona: which venue to choose](/en/guides/barcelona/flamenco-barcelona-which-tablao-to-choose).
 
+[actividad: tapas-vino-y-flamenco-tour-privado-barcelona]
+
+[actividad: palau-dalmases-flamenco-show-palacio-siglo-xvii]
+
 ## Romantic Barcelona at night: Gaudí with cava
 
 - **Casa Batlló by night (€59, 2 hours):** an audio-guided visit plus a **one-hour live concert on the rooftop**, with a reserved table and a glass of cava. The style changes by date (jazz, soul or flamenco). It's **non-refundable** and in summer sells out one or two weeks ahead.
@@ -77,10 +94,14 @@ We compare them all in [flamenco in Barcelona: which venue to choose](/en/guides
 
 These are the best choice for a winter night, when sailing is less tempting.
 
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
+
 ## By day: wine with a view and photos
 
 - **Rooftop wine tasting (€48 per person, 2 hours):** six Spanish wines (sparkling, whites, rosé and reds) with snacks, overlooking Plaça de Catalunya and Passeig de Gràcia. Sessions between noon and 6 pm.
 - **VIP private photo shoot (€125 per session, not per person):** an hour with a professional photographer around the city's best-known spots, including the outside of the Sagrada Familia, and 45-50 edited photos. Ideal for anniversaries, honeymoons and proposals; shorter versions start at €35.
+
+[actividad: barcelona-cata-de-vinos-azotea]
 
 ## A romantic getaway in Barcelona: the perfect day
 

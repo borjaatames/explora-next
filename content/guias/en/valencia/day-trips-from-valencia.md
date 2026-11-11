@@ -45,6 +45,15 @@ faq:
   respuesta: Sagunto Castle is free, as is the Roman theatre. Xàtiva Castle costs €6 (free on Tuesdays) and Pope Luna's castle in Peñíscola €5. Sagunto and Xàtiva close on Mondays.
 ---
 
+## Day trips with transport from Valencia
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guadalest, Altea and Algar Falls](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4.7★ (553) | €30 |
+| [Cala Granadella Day Trip from Valencia](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | €85 |
+| [San José Caves Day Trip from Valencia](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4.6★ (785) | €55 |
+| [Montanejos by Bus Day Trip](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | €42 |
+
 ## The best day trips from Valencia
 
 | Destination | Distance | Ideal for |
@@ -102,6 +111,8 @@ The 10-trip Cercanías pass works out cheaper than singles, and under-6s travel 
 In La Vall d'Uixó, north of Sagunto, the **San José Caves** hold the **longest navigable underground river in Europe**, visited by small boat. Kids usually love it, and it's cool inside when the castles are baking. There are steps and low ceilings. Without a car, the organised half day includes transport from central Valencia.
 
 [actividad: excursion-cuevas-de-san-jose]
+
+[actividad: san-jose-caves-day-trip]
 
 ## Getting around and mistakes to avoid
 

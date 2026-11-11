@@ -61,6 +61,17 @@ faq:
   respuesta: Nicht in die Nasridenpaläste. Am Eingang gibt es eine kostenlose Gepäckaufbewahrung und Babytragen zum Ausleihen.
 ---
 
+## Welche Führung wählen?
+
+| Führung | Ab | Was wirklich anders ist |
+|---|---|---|
+| [Eintritt und Führung](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | 50 € | Eine der beiden günstigsten der sechs. Ohne Extras, am Ende freie Zeit |
+| [Alhambra in kleiner Gruppe](/en/cities/granada/activities/alhambra-small-group-tour) | 65 € | Mehr Zeit im Generalife (fast 1 Stunde, mehr als die anderen) |
+| [Führung durch Alhambra und Nasridenpaläste](/de/cities/granada/activities/alhambra-generalife-fuehrung) | 49 € | Die günstigste der sechs. Übliche Aufteilung auf die drei Bereiche |
+| [Nasridenpaläste ohne Anstehen](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) | 53 € | Gleiche Route, Preis im mittleren bis oberen Bereich |
+| [Führung mit Tickets](/en/cities/granada/activities/alhambra-guided-tour-with-tickets) | 99 € | Gleiche Route, der höchste Preis der Gruppe |
+| [Führung ohne Warten, Nasridenpaläste](/de/cities/granada/activities/alhambra-nasridenpalaeste-fuehrung-ohne-warten) | 96 € | Eine der teuersten der Gruppe, ohne inhaltlichen Unterschied, der das rechtfertigt |
+
 ## Alhambra-Führung: sechs Touren, eine Route
 
 Sechs Touren mit unterschiedlichen Namen („ohne Anstehen“, „mit Tickets“, „Kleingruppe“, „ohne Warten“) beschreiben **dieselbe Route**: Alcazaba, Nasridenpaläste und Generalife, etwa **3 Stunden**, mit offiziellem Guide und Einlass zum zugewiesenen Zeitfenster der Paläste.
@@ -83,6 +94,8 @@ Was dein Erlebnis wirklich bestimmt, ist **das Einlass-Zeitfenster der Nasridenp
 - **96-99 € bringen dir keinen zusätzlichen Inhalt**, nur dieselbe Tour unter anderem Namen.
 
 [actividad: entrada-y-tour-guiado-alhambra]
+
+[actividad: alhambra-visita-nocturna]
 
 ## Die drei wirklich anderen Optionen: Nachtbesuch, Privatführung und Gärten
 

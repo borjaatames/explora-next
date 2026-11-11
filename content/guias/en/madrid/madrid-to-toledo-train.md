@@ -60,6 +60,15 @@ opciones:
 
 ## Train, bus or car at a glance
 
+| Option | Time | Approx. cost | Frequency | Best for |
+| --- | --- | --- | --- | --- |
+| Avant train from Atocha | 33 min | €22–26 return | About hourly | Speed, if you book ahead |
+| Alsa bus from Plaza Elíptica | 50 min direct, up to 1 h 30 | From €6.55 each way | 83 a day | Tight budgets, late returns |
+| Car on the A-42 | About 1 h | Fuel and parking | Any time | Groups, sunset at the Mirador del Valle |
+| [Guided day trip](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 h, all-in | From €79 | Daily | No planning at all |
+
+## Train, bus or car at a glance
+
 | Option | Time | Approx. price | Frequency | Best for |
 | --- | --- | --- | --- | --- |
 | Avant train from Atocha | 33 min | €22-26 return | Roughly hourly | Speed, if you book ahead |
@@ -72,6 +81,10 @@ The train is fastest, but Toledo station is down by the river and the old town i
 [actividad: excursion-toledo-dia-completo]
 
 This guide is only about **getting there and back**. For the route around the city, read our [Toledo day trip from Madrid](/en/guides/madrid/toledo-day-trip-from-madrid) guide.
+
+[actividad: toledo-full-day-from-madrid]
+
+[actividad: toledo-tourist-bracelet-7-monuments]
 
 ## The Avant train: timetable and Madrid to Toledo by train cost
 

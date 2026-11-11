@@ -57,6 +57,17 @@ opciones:
     etiqueta: "Grupo de 6: 125 € por persona a Ronda"
 ---
 
+## Tabla de precios: por persona según cuántos seáis
+
+| Destino desde Sevilla | En grupo (por persona) | Privado, 2 personas | Privado, 4 personas | Privado, 6 personas |
+| --- | --- | --- | --- | --- |
+| Córdoba | [110 € en AVE, máx. 8](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) · [109 € en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) | [216 €](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) (432 € total) | 167 € (668 €) | 147 € (882 €) |
+| Córdoba en coche privado | — | [379 €](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) (758 €) | — | 160 € (960 €) |
+| Pueblos blancos y Ronda en privado | — | [389 €](/ciudades/sevilla/actividades/pueblos-blancos-ronda-excursion-privada-desde-sevilla) (778 €) | — | 160 € (960 €) |
+| Cádiz y Jerez | [95 €](/ciudades/sevilla/actividades/cadiz-jerez-frontera-excursion-dia-desde-sevilla) | [435 €](/ciudades/sevilla/actividades/cadiz-jerez-excursion-privada-desde-sevilla-bodega) (870 €) | 290 € (1.160 €) | 230 € (1.380 €) |
+| Gibraltar | — | [430 €](/ciudades/sevilla/actividades/gibraltar-excursion-privada-desde-sevilla) (860 €) | 260 € (1.040 €) | 200 € (1.200 €) |
+| Caminito del Rey | — | [310 €](/ciudades/sevilla/actividades/caminito-del-rey-excursion-transporte-privado-desde-sevilla) (620 €) | 220 € (880 €) | 200 € (1.200 €) |
+
 ## Excursiones desde Sevilla en grupo o privada: respuesta rápida
 
 - **Pareja o viajero solo:** en grupo. Ronda y pueblos blancos por 47 €, Córdoba por 109-110 €. El privado os costaría entre el doble y ocho veces más.

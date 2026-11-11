@@ -56,6 +56,21 @@ faq:
 tiempo_lectura: 4
 ---
 
+## The best plans with kids
+
+| Plan | Activity | From |
+| --- | --- | --- |
+| Theme park (ages 4-11) | [Isla Mágica with optional Agua Mágica](/en/cities/sevilla/activities/isla-magica-seville-ticket), 4.4★ (1,386) | €27 |
+| Indoor plan in the heat | [Seville Aquarium](/en/cities/sevilla/activities/seville-aquarium-ticket), 4.6★ (2,295) | €17 |
+| See Seville without walking | [Private electric tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, up to 4 people | €71 per group |
+| See all of Seville, incl. Cartuja and the Macarena | [2-hour private grand tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), up to 4 people | €124 per group |
+| River boat trip | [Guided Guadalquivir river cruise](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour), 4.7★ (1,746) | €25 |
+| Teens (from age 8) | [Kayaking on the Guadalquivir](/en/cities/sevilla/activities/guadalquivir-kayak-rental-seville), 4.5★ (777) | €17 |
+| By bike (confident young riders) | [Seville bike tour](/en/cities/sevilla/activities/seville-bike-tour-group), 4.9★ (1,636) | €28 |
+| Sunset viewpoint | [Setas de Sevilla with 360° viewpoint](/en/cities/sevilla/activities/seville-setas-metropol-parasol-entry-ticket-viewpoint), 4.6★ (12,014) | €16 |
+| Alcázar without queues | [Royal Alcázar guided tour, skip the line](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
+| Impossible photos indoors | [Museum of Illusions](/en/cities/sevilla/activities/museum-of-illusions-seville-ticket), 4.2★ (1,352) | €15 |
+
 ## Things to do in Seville with kids by age
 
 - **All ages: Plaza de España and María Luisa Park.** Free, with rowing boats on the canal (about €6 for 35 minutes), tiled benches for each province to hunt for, and peacocks and play areas in the park.
@@ -66,6 +81,8 @@ tiempo_lectura: 4
 - **Ages 10-16: kayaking on the Guadalquivir** at sunrise or sunset, from €17 (from age 8).
 
 [actividad: acuario-sevilla-entrada]
+
+[actividad: seville-aquarium-ticket]
 
 ## More family plans: river, tuk tuk and bike
 

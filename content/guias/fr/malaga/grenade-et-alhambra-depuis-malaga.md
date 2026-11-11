@@ -41,6 +41,14 @@ faq:
   respuesta: Oui, elle part du port de Malaga et elle est pensée pour rentrer à temps au bateau.
 ---
 
+## Trois façons de le faire
+
+| Option | Trajet | Billets | Prix approximatif |
+| --- | --- | --- | --- |
+| Voiture personnelle ou de location | 1 h 30 par trajet | Vous les achetez sur le site officiel | Essence, parking et billet |
+| Bus de ligne | un peu moins de 2 h | Vous les achetez | Ticket et billet |
+| [Excursion privée](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | Prise en charge à votre logement | Inclus, avec guide privé | 397 € par personne (minimum 2) |
+
 ## Ce que vous allez voir à l'Alhambra
 
 L'ensemble compte quatre parties, toutes incluses dans le billet Général :

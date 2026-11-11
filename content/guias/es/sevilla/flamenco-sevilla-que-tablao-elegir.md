@@ -55,6 +55,16 @@ actividades:
   - teatro-flamenco-triana-show-en-directo
 ---
 
+## Los 5 shows de flamenco en Sevilla
+
+| Show | Precio desde | Formato | Ambiente | Ideal para |
+|---|---|---|---|---|
+| [Teatro Flamenco Sevilla](/ciudades/sevilla/actividades/teatro-flamenco-sevilla-show-mas-vendido) | 25 € | Teatro, asientos escalonados | El más vendido de la ciudad, buena visión gracias a las gradas | Quien quiere la opción más segura y con más pases diarios |
+| [Casa de la Memoria](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) | 24 € | Patio andaluz, solo 2 filas | Máxima intimidad, artistas a un metro | Quien prioriza cercanía sobre comodidad de butaca |
+| [Museo del Baile Flamenco](/ciudades/sevilla/actividades/museo-baile-flamenco-puro-show-sevilla) | 33 € | Patio del s. XVIII | Coreografías de Cristina Hoyos, combinable con la visita al museo | Quien quiere contexto cultural además del show |
+| [Tablao El Arenal](/ciudades/sevilla/actividades/tablao-flamenco-el-arenal-sevilla-50-anos) | 45 € | Tablao tipo restaurante, mesas | 50 años de historia, ambiente relajado | Quien quiere cenar mientras ve el show |
+| [Teatro Flamenco Triana](/ciudades/sevilla/actividades/teatro-flamenco-triana-show-en-directo) | 25 € | Teatro, al otro lado del río | En el barrio históricamente gitano donde nació gran parte del flamenco | Quien quiere vivirlo en su barrio de origen |
+
 ## Los 5 espectáculos de flamenco en Sevilla
 
 | Espectáculo | Precio desde | Formato | Ideal para |

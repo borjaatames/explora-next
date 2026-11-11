@@ -47,6 +47,15 @@ faq:
   respuesta: 'De marzo a junio y en septiembre y octubre: buen clima y agua agradable. El invierno es muy suave. En julio y agosto la playa es perfecta, pero el centro al mediodía cansa mucho a los pequeños.'
 ---
 
+## Planes con niños que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Catamarán por la bahía](/ciudades/malaga/actividades/catamaran-malaga-atardecer) | 4,4★ (10.537) | 13 € |
+| [Cuevas de Nerja y Frigiliana](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga) | 4,6★ (3.192) | 69 € |
+| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 13 € |
+| [Caminito del Rey (desde 8 años)](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Qué hacer en Málaga con niños
 
 La clave es alternar: **una mañana de castillo o casco histórico en dosis cortas y una tarde de playa o animales**. Así Málaga cunde sin agobios.

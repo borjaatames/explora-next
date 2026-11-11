@@ -50,6 +50,17 @@ faq:
   respuesta: 'Oui si vous voyagez avec des enfants ou aimez la mer : c''est le plus grand aquarium d''Europe et il faut 3-4 heures. Les billets démarrent à 37 € et se réservent de préférence en ligne en haute saison. Sinon, la promenade gratuite entre les bâtiments de la Cité des Arts au coucher du soleil vaut déjà le détour.'
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite de la cathédrale, de San Nicolás et de la Lonja de la Seda](/fr/cities/valencia/activities/valence-visite-cathedrale-lonja-san-nicolas) | 4,8★ (1 243) | 49 € |
+| [Tour en tuk-tuk dans le centre, les plages et la Cité des Arts](/fr/cities/valencia/activities/valence-tuk-tuk-vieille-ville-plages-cite-des-arts) | 4,6★ (388) | 40 € |
+| [Billet pour l'Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4,7★ (11 540) | 37 € |
+| [Billet pour le Bioparc](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4,8★ (2 988) | 29,5 € |
+| [Balade en catamaran de jour ou au coucher du soleil avec boisson](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4,0★ (3 360) | 15 € |
+| [Dégustation de bières artisanales et tapas à Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Jour 1 : centre historique et Cité des Arts et des Sciences
 
 | Heure | Quoi |

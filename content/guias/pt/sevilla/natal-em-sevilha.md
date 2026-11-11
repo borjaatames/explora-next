@@ -85,6 +85,10 @@ O prato forte é o **mapping na fachada plateresca da Câmara Municipal**, na Pl
 5. **20h00, Setas ou Magdalena**, para o mercado de Natal.
 6. **21h00, flamenco ou tapas em Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Feira do Presépio em Sevilha, presépios e doces de convento
 
 - **Feira do Presépio:** há mais de três décadas com figuras, musgo e cortiça entre a Catedral e o Archivo de Indias. Em 2025 abria das 10h30 às 14h00 e das 17h00 às 21h00 nos dias úteis, e das 11h00 às 15h00 e das 16h30 às 21h30 aos fins de semana e feriados.
@@ -100,6 +104,8 @@ A **zambomba** é uma festa de cânticos de Natal flamencos com pandeiretas, gar
 - **Setalandia**, debaixo das Setas de la Encarnación, e a **pista de gelo do Prado de San Sebastián** (de 29 de novembro a 6 de janeiro em 2025).
 - **Navigalia** conta uma história de Natal projetada sobre o Guadalquivir, no Muelle de la Sal, por 2 €.
 - **Naturaleza Encendida**, o espetáculo de luz dos jardins do Alcázar, funciona até março.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## O que abre e fecha em Sevilha a 24, 25 e 31 de dezembro e a 1 de janeiro
 
@@ -120,6 +126,8 @@ A **zambomba** é uma festa de cânticos de Natal flamencos com pandeiretas, gar
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
 
 *Horários confirmados nos sites oficiais a 10 de novembro de 2026. Metro e mercados: horários do Natal passado, até saírem os de 2026.*
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Passagem de Ano e Cavalgada dos Reis em Sevilha
 

@@ -68,6 +68,8 @@ Vom Hafen Corralejo erreichst du in **15–20 Minuten** per Boot die **Isla de L
 
 Im Westen, bei Lajares, steigt man auf einem markierten Rundweg von rund 4,7 km (1,5 Stunden) auf den **Calderón Hondo**, mit einem 70 Meter tiefen Krater. **El Cotillo** schließt den Norden ab, mit dem Castillo de El Tostón, dem Leuchtturm und den Buchten mit weißem Sand und ruhigem Wasser nördlich des Ortes, die bei Ebbe Lagunen bilden.
 
+[actividad: catamaran-isla-lobos-corralejo]
+
 ## Die Mitte: Betancuria und Ajuy
 
 **Betancuria**, Anfang des 15. Jahrhunderts gegründet, war die erste Hauptstadt der Insel: die Kirche Santa María, weiß gekalkte Häuser und ein Tal zwischen Bergen. Fahr zum **Aussichtspunkt Morro Velosa** hinauf, um das Massiv zu sehen, und hinunter durch **Vega de Río Palmas** und die Schlucht **Las Peñitas**.
@@ -79,6 +81,8 @@ An der Westküste bergen die **Höhlen von Ajuy**, ein Naturdenkmal, die ältest
 Die Halbinsel **Jandía** hat die längsten Strände. **Sotavento**, zwischen Costa Calma und Risco del Paso, bildet mit der Flut eine türkisfarbene Lagune und ist die große Bühne für **Windsurfen und Kiten**. **Morro Jable** hat den Strand El Matorral, den Leuchtturm und den Hafen, von dem die Delfinboote ablegen.
 
 Auf der anderen Seite des Massivs liegt der **Strand von Cofete**: über zehn Kilometer unberührter Sand unter dem Pico de la Zarza (807 m), mit der **Villa Winter** am Hang. Man erreicht ihn über eine rund 20 km lange Schotterpiste ab Morro Jable, und **Baden ist gefährlich** wegen der Strömungen und fehlender Rettungsschwimmer. Alles zu Piste, Bus 111 und Villa in [Cofete und Villa Winter: Anreise](/de/guides/fuerteventura/cofete-villa-winter-anreise).
+
+[actividad: tour-cofete-villa-winter]
 
 ## Die besten Strände je nach Wunsch
 

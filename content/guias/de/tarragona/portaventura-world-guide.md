@@ -46,6 +46,12 @@ faq:
   respuesta: Ja, Essen und Getränke sind erlaubt, solange nichts in Glas ist. Drinnen kostet ein Menü 15-20 €, und von 13:30 bis 15:00 Uhr gibt es Schlangen.
 ---
 
+## Tickets für PortAventura
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Ticket für PortAventura und Ferrari Land für 1, 2 oder 3 Tage](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4,3★ (2.697) | 39 € |
+
 ## Die drei Parks von PortAventura World
 
 Der **PortAventura Park** ist der Hauptpark und ein Muss. Er hat sechs Themenbereiche: Mediterrània, Far West, México, China, Polynesia und **SésamoAventura** für die Kleinsten. Hier stehen die Star-Achterbahnen **Dragon Khan** und **Shambhala** sowie Furius Baco. Er braucht einen ganzen Tag.

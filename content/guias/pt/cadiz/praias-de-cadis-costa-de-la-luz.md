@@ -47,6 +47,14 @@ faq:
 
 A regra local: com **poniente** (vento de oeste), praia perfeita; com **levante** forte, melhor o centro histórico ou uma enseada abrigada. Vê a previsão antes de escolher.
 
+## Planos no mar que pode reservar
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Passeio de catamarã ao pôr do sol com cava](/pt/cities/cadiz/activities/cadis-catamara-por-do-sol-cava) | 4,6★ (856) | 24,5 € |
+| [Barbate: observação de golfinhos e baleias no cabo Trafalgar](/pt/cities/cadiz/activities/barbate-observacao-golfinhos-baleias-trafalgar) | 4,1★ (792) | 50 € |
+| [Tour de catamarã pela baía](/pt/cities/cadiz/activities/cadis-passeio-catamara-baia) | 4,5★ (453) | 19 € |
+
 ## Praias da cidade de Cádis
 
 | Praia | Carácter |
@@ -57,6 +65,8 @@ A regra local: com **poniente** (vento de oeste), praia perfeita; com **levante*
 | **Cortadura** | Larga e semisselvagem, em direção às salinas |
 
 **La Caleta** é a mais fotogénica (a «Havana» de James Bond), perfeita ao pôr do sol. **La Victoria** é a grande praia urbana para um dia de sol com serviços. Vai-se a pé ou nos autocarros **1 e 7**; a Cortadura, no **1**.
+
+[actividad: catamaran-cadiz-atardecer]
 
 ## As grandes praias da Costa de la Luz
 

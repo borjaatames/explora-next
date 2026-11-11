@@ -50,6 +50,17 @@ faq:
   respuesta: 'Sí si viajas con niños o te gusta el mar: es el mayor acuario de Europa y lleva 3-4 horas. Las entradas salen desde 37 € y conviene reservarlas online en temporada alta. Si no, el paseo gratis entre los edificios de la Ciudad de las Artes al atardecer ya merece la pena.'
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral, San Nicolás y la Lonja de la Seda](/ciudades/valencia/actividades/tour-catedral-lonja-san-nicolas-valencia) | 4,8★ (1.243) | 49 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
+| [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
+| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 29,5 € |
+| [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Día 1: casco histórico y Ciudad de las Artes y las Ciencias
 
 | Hora | Qué |

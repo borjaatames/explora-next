@@ -42,6 +42,12 @@ faq:
   respuesta: En Alboraya, a 15 minutos en metro (línea 3, parada Alboraya-Palmaret), están las horchaterías históricas, como Daniel o Vida. Un vaso con fartons cuesta 4-5 €. En el Mercado Central también hay una horchatería.
 ---
 
+## Experiencias gastronómicas
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Cata de cerveza artesanal y tapas en Ruzafa](/ciudades/valencia/actividades/cata-cerveza-artesanal-tapas-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Qué es la paella valenciana auténtica
 
 La regla número uno: **la paella valenciana no es la paella de marisco**. La original es de huerta y corral y lleva **pollo, conejo, garrofó (una alubia plana), judía verde (ferraúra) y, según la casa, caracoles**. Ni marisco, ni chorizo, ni guisantes, ni cebolla.

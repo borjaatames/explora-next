@@ -47,6 +47,14 @@ faq:
   respuesta: 'Im Pilgerbüro (Rúa das Carretas, 33), täglich 10:00-18:00 Uhr geöffnet außer am 25. Dezember und 1. Januar, an denen sie in der Kathedrale ausgegeben wird. Es funktioniert mit einer Nummer per QR-Code: bei Ankunft ziehen und zur angegebenen Zeit wiederkommen.'
 ---
 
+## Bei der Ankunft in Santiago
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Rundgang durch die Altstadt mit offiziellem Guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
+| [Führung durch Kathedrale und Museum ohne Anstehen](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
+| [Finisterre, Muxía und die Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2.372) | 52 € |
+
 ## Wo du startest: der Jakobsweg ab Sarria, Tui oder Ferrol
 
 | Route | Start | Entfernung |
@@ -56,6 +64,10 @@ faq:
 | Englischer Weg | Ferrol | ~118 km |
 
 Für die Compostela musst du **mindestens 100 km** gehen (oder 200 km mit dem Rad). Deshalb ist **Sarria** der beliebteste Startpunkt des Camino Francés: knapp über dem Minimum. Achtung beim Englischen Weg: Ab A Coruña sind es 75 km, das reicht nicht; du musst in Ferrol starten.
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Die Etappen des Camino Francés ab Sarria
 

@@ -50,6 +50,17 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.web
 imagen_alt: "The Corralejo Dunes with Lobos Island in the background"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Lobos Island catamaran with lunch and snorkelling](/en/cities/fuerteventura/activities/corralejo-lobos-island-catamaran) | 4.8★ (1,183) | €75 |
+| [Lobos return ferry with park entry](/en/cities/fuerteventura/activities/lobos-island-ferry-corralejo-park-entry) | 4.7★ (1,425) | €17 |
+| [Cofete and Villa Winter tour from Jandía](/en/cities/fuerteventura/activities/cofete-villa-winter-tour) | 4.8★ (1,952) | €57 |
+| [Calderón Hondo volcano by night and stargazing](/en/cities/fuerteventura/activities/calderon-hondo-volcano-stargazing-tour) | 4.8★ (1,060) | €45 |
+| [Corralejo walking tour with food tastings](/en/cities/fuerteventura/activities/corralejo-walking-tour-tastings) | 4.9★ (515) | €18 |
+| [Dolphin-watching boat from Morro Jable](/en/cities/fuerteventura/activities/morro-jable-dolphin-whale-boat-trip) | 4.2★ (5,490) | €49 |
+
 ## Fuerteventura in 5 days: how to split the island
 
 With **five or six days** you can see the whole island without rushing:

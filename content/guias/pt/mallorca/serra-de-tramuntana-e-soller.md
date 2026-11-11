@@ -55,6 +55,8 @@ faq:
 
 **Fornalutx.** A dois passos de Sóller, considerada uma das aldeias mais bonitas de Espanha: escadas de pedra, gerânios e silêncio.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## O comboio de Sóller
 
 O **comboio de madeira de 1912** liga Palma a Sóller atravessando a Tramuntana entre túneis e laranjais: **uma hora** de viagem que é uma atração em si mesma (**30 € ida e volta**). Em Sóller liga com o **elétrico histórico** até ao porto. É a melhor opção se não quiser conduzir nas curvas; na época alta, reserve.

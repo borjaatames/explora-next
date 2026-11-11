@@ -50,6 +50,18 @@ actividades:
   - barcelona-clase-de-salsa-y-sangria-azotea
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio | Para qué grupo |
+| --- | --- | --- | --- |
+| [Sagrada Familia, visita privada con entradas](/ciudades/barcelona/actividades/sagrada-familia-visita-privada-guia-entradas) | 1 h 45 min | 570 € para 6 | La visita imprescindible, sin desconocidos |
+| [Tapas y vino, tour privado](/ciudades/barcelona/actividades/tour-privado-tapas-y-vino) | 3 h | 594 € para 6 | Cena de equipo o de amigos |
+| [Montserrat, tour privado con recogida](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel) | 5 h | 894 € para 6 | Excursión de medio día en vehículo propio |
+| [Lo mejor de Barcelona, día completo privado](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) | Unas 7 h | 1.014 € para 6 (máximo 6) | Un día con todo resuelto |
+| [Tapas, vino y flamenco, tour privado](/ciudades/barcelona/actividades/tapas-vino-y-flamenco-tour-privado-barcelona) | 3 h | Unos 88 € por persona desde 4 | Noche completa con espectáculo |
+| [Montserrat y cavas Codorníu, privado](/ciudades/barcelona/actividades/montserrat-cavas-codorniu-privado-desde-barcelona) | 8 h | Unos 206 € por persona en grupo de 4 | Día de cava y montaña |
+| [Clase de salsa con sangría en azotea](/ciudades/barcelona/actividades/barcelona-clase-de-salsa-y-sangria-azotea) | 2 h | 48,60 € por persona | Team building activo (grupo compartido) |
+
 ## Cuánto sale un tour privado en Barcelona para un grupo
 
 Estos son los totales por grupo de cada actividad privada y lo que sale por cabeza (precios «desde» a 1 de noviembre de 2026; pueden variar según la fecha):
@@ -64,6 +76,8 @@ Estos son los totales por grupo de cada actividad privada y lo que sale por cabe
 Fíjate en **Montserrat**: el precio apenas sube de 2 a 6 personas, así que es la excursión en la que más compensa ir en grupo.
 
 **Grupos de 7 a 10:** estas tablas llegan a 6 personas, y el día completo admite **6 como máximo**. Para más, indicad vuestro número en el calendario de reserva de la ficha para ver el total antes de pagar, o haced dos reservas a la misma hora.
+
+[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
 
 ## La Sagrada Familia, en privado
 
@@ -81,17 +95,23 @@ Tres horas por el Barrio Gótico y el casco antiguo con un guía gastronómico s
 
 Si el grupo quiere espectáculo, el **tour privado de tapas, vino y flamenco** (3 h) termina con flamenco en un palacio medieval y sale a unos **88 € por persona** a partir de 4.
 
+[actividad: tour-privado-tapas-y-vino]
+
 ## Excursión privada a Montserrat en grupo
 
 Vehículo y guía solo para vuestro grupo, con **recogida y regreso al hotel**, entrada al monasterio y paseo por el parque natural, con paradas a vuestro gusto (Cueva Santa, Creu de Sant Miquel o miradores). Son **cinco horas** y hay que reservar con **al menos tres días de antelación**.
 
 Si el grupo prefiere un día entero con cava, la excursión privada a **Montserrat y las cavas Codorníu** dura ocho horas, con tren por las galerías y cata de dos cavas (unos **206 € por persona** en grupo de 4). Comparamos todas las opciones en [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
 
+[actividad: montserrat-tour-privado-recogida-hotel]
+
 ## Team building en Barcelona: actividades para empresas
 
 - **Cata de cerveza solo para vuestro grupo (55 € por persona, 2 h).** Es el plan más pensado para empresas, cumpleaños y despedidas: **seis cervezas artesanas** con un guía cervecero en una azotea del Passeig de Gràcia y después barra de vuestras favoritas. Hay pases cada media hora entre las 14:00 y las 16:00, la explicación es en inglés y **no es reembolsable**: reservad con la lista cerrada.
 - **Clase de salsa con sangría (48,60 € por persona, 2 h)** en otra azotea del mismo paseo, para algo más activo. Es en grupo compartido.
 - **Un día entero resuelto:** el **tour privado por lo mejor de Barcelona** (unas 7 horas) incluye recogida en el hotel, transporte privado, guía en exclusiva por Montjuïc, el Barrio Gótico y el Passeig de Gràcia, y entrada guiada a la Sagrada Família.
+
+[actividad: barcelona-cata-cerveza-grupos-privados-azotea]
 
 ## Consejos prácticos
 

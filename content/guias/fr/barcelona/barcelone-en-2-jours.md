@@ -75,6 +75,12 @@ actividades:
 
 **20 h 30 — Dîner à Gràcia**, puis métro L3 à Lesseps (15 minutes à pied du parc) pour rentrer au centre.
 
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: casa-batllo-entrada-con-audioguia]
+
+[actividad: park-guell-entrada-zona-monumental]
+
 ## Jour 2 : Gothique, Born, mer et Montjuïc
 
 **10 h — Quartier gothique.** La **cathédrale** (visite touristique payante avec cloître et terrasses ; les 13 oies de sainte Eulalie vivent dans le cloître), la **Plaça del Rei** et la **Plaça Sant Felip Neri**, avec les impacts d'éclats de la guerre civile sur la façade.
@@ -88,6 +94,10 @@ actividades:
 **18 h — Coucher de soleil à Montjuïc.** Métro jusqu'à Paral·lel et funiculaire de Montjuïc, inclus dans le ticket de métro. En haut, le **téléphérique jusqu'au château** (19 € aller-retour) offre la vue sur le port ; gratuitement, l'escalier du MNAC domine toute la ville.
 
 **21 h — Soirée.** Pintxos dans la rue Blai du Poble-sec, à 15 minutes en descendant de Montjuïc, ou flamenco de retour dans le Born, dans un palais du XVIIe siècle (à partir de 30 €).
+
+[actividad: barcelona-tour-privado-2-horas-gotico-born]
+
+[actividad: palau-dalmases-flamenco-show-palacio-siglo-xvii]
 
 ## Que réserver et budget
 

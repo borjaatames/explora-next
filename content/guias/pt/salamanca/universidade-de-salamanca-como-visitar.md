@@ -43,6 +43,7 @@ faq:
   respuesta: Só o Edifício Histórico, de 1 h 30 a 2 horas; com as Escuelas Menores e o Céu de Salamanca, 2 h 30 (o recomendável); com a Casa Unamuno, cerca de 3 horas.
 ---
 
+
 ## O que ver dentro da Universidade de Salamanca
 
 - **O claustro**, de dois pisos com 23 arcos por piso, os de cima renascentistas.
@@ -82,6 +83,8 @@ E a **rã em cima de uma caveira**: quem a encontra sem ajuda passa no exame, ca
 **Por conta própria** funciona se chegar com um mínimo de contexto: leia dez minutos antes sobre Fray Luis, Unamuno e os doutoramentos medievais e a visita muda por completo. **Com guia oficial** (contratado na bilheteira ou online, 1 h a 1 h 30) ganha histórias que não estão nos painéis, e resulta melhor com adolescentes. Os free tours noturnos **não entram no edifício**: só rodeiam a fachada.
 
 [actividad: universidad-salamanca-visita-guiada]
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Conselhos e erros típicos
 

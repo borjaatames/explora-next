@@ -48,6 +48,17 @@ faq:
   respuesta: El centro se hace a pie por la ría. Para lo demás hay metro, tranvía y el funicular de Artxanda. La tarjeta Barik (3 €) sirve para todo, se puede compartir y baja cada viaje de 1,90 € a 0,90-1,30 €.
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie por el Casco Viejo](/ciudades/bilbao/actividades/tour-a-pie-casco-viejo-bilbao) | 4,7★ (449) | 42 € |
+| [Guggenheim con guía y entrada (en español)](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada) | 4,9★ (182) | 49 € |
+| [Tour de pintxos con vino](/ciudades/bilbao/actividades/tour-pintxos-bilbao-vino) | 4,9★ (1.041) | 95 € |
+| [Barco por la ría (1 h o 2 h)](/ciudades/bilbao/actividades/barco-ria-bilbao-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## La ruta: qué ver en Bilbao en un día
 
 - **9:30 · Museo Guggenheim.** Fuera, gratis: el *Puppy* de Koons, la araña *Maman* de Bourgeois, la escultura de niebla y el fuego al anochecer. Dentro, *La materia del tiempo* de Richard Serra. Calcula **dos horas y media**.

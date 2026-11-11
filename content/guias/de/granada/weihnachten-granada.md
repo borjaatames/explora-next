@@ -68,6 +68,10 @@ actividades:
 
 Das sind die Termine der Ausgabe 2025-26. Die Stadt stellt das Programm Ende November vor; wir aktualisieren den Guide, sobald es erscheint.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Weihnachtsmarkt und Lichter in Granada
 
 2025 wurde die Beleuchtung am **Samstag, 29. November**, eingeschaltet: Tanz und Granadiner Weihnachtslieder um 20:00, Einschalten um 20:30 Uhr, dazu Chöre an der Bib-Rambla, Puerta Real, im Zacatín und an der Fuente de las Batallas.
@@ -97,6 +101,8 @@ Offizielle Tickets für die Brückentage und Weihnachten sind Wochen vorher ausv
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## Sierra Nevada an Weihnachten und Pläne mit Kindern
 
 Das Skigebiet liegt rund **30 km von Granada** entfernt. 2025-26 öffnete es am **29. November** mit Pisten in Borreguiles und Schneekanonen, und die Pisten von El Río erhielten neue Beleuchtung für das **Nachtskifahren am Samstag**. Für 2026-27 wurden neue Schneemaschinen angekündigt, um den Anfängerbereich früher zu öffnen, aber kein Datum. Die Dezember-Brückentage und die Woche zwischen Weihnachten und Dreikönig sind am vollsten. Wer nicht Ski fährt: Die **Alpujarra** im Winter, mit brennenden Kaminen und Schnee auf den Gipfeln, ist ein ruhigerer Tagesausflug.
@@ -107,6 +113,8 @@ Das Skigebiet liegt rund **30 km von Granada** entfernt. 2025-26 öffnete es am 
 - Die **Lichtshow** an der Plaza del Carmen, kurz und kostenlos.
 - Der **Königliche Briefträger**, der im Innenhof des Rathauses Wunschzettel einsammelt.
 - In der Sierra Nevada Schlittenfahren in **Mirlo Blanco** und Anfängerpisten in Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## Silvester, Día de la Toma (2. Januar) und Dreikönigsumzug
 
@@ -123,3 +131,5 @@ Die Höhlen des **Sacromonte** sind das Abendprogramm schlechthin: Die Cueva La 
 - **Um 18:30 Uhr auf den Albaicín steigen:** Im Dezember ist es dann schon dunkel; für das Abendlicht gegen 17:00 Uhr hinaufgehen.
 - **Ohne Schneeketten oder ohne Blick auf die DGT in die Sierra Nevada fahren:** Bei Schneefall kann die Straße sie vorschreiben.
 - **Annehmen, der 2. Januar sei ein Werktag:** In Granada ist Feiertag, viele Geschäfte schließen.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

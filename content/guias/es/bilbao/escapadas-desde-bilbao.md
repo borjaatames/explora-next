@@ -45,6 +45,14 @@ faq:
   respuesta: Unas 2 horas en total. Desde el aparcamiento de Eneperi hasta la ermita hay 2,5 km y 40 minutos a pie; los 241 escalones son solo el final. Con viento fuerte o temporal cierran el acceso.
 ---
 
+## Excursiones con transporte desde Bilbao
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
+| [San Sebastián, Hondarribia y Getaria](/ciudades/bilbao/actividades/san-sebastian-hondarribia-getaria-desde-bilbao) | 4,6★ (1.022) | 35 € |
+| [Biarritz, San Juan de Luz y San Sebastián](/ciudades/bilbao/actividades/biarritz-san-juan-de-luz-san-sebastian-desde-bilbao) | 4,7★ (898) | 70 € |
+
 ## San Juan de Gaztelugatxe
 
 A 45 minutos, una **ermita sobre un islote** unido a tierra por un puente y una escalera de **241 escalones**, famosa en todo el mundo como Rocadragón en *Juego de Tronos*, con vistas espectaculares de la costa.

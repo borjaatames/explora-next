@@ -54,6 +54,16 @@ opciones:
     etiqueta: Con guida
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Biglietto con orario, senza guida | [Casa Milà (La Pedrera): biglietto con audioguida salta coda](/en/cities/barcelona/activities/casa-mila-la-pedrera-audio-ticket), 4,7★ (18.195) | 29 € |
+| Andarci di sera, con spettacolo e cava | [Casa Milà: esperienza serale con spettacolo e cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4,4★ (4.913) | 39,50 € |
+| Entrare prima di tutti, con guida | [Casa Milà: tour guidato con accesso anticipato](/en/cities/barcelona/activities/casa-mila-early-morning-access-guided-tour), 4,8★ (220) | 39,50 € |
+| Tre case di Gaudí con guida | [Casa Vicens, Casa Milà e Casa Batlló: tour guidato](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
+| Una guida solo per voi | [La Pedrera e Casa Vicens: tour privato](/it/cities/barcelona/activities/case-gaudi-pedrera-casa-vicens-tour-privato) | 156 € |
+
 ## Cosa vedrai a La Pedrera
 
 La visita generale comprende:
@@ -64,6 +74,8 @@ La visita generale comprende:
 - **La terrazza**, che chiude per sicurezza quando piove.
 
 Include una **videoguida in 11 lingue** e dura circa **un'ora e mezza**.
+
+[actividad: casa-mila-experiencia-nocturna-con-cava]
 
 ## Prezzi e orari
 
@@ -110,3 +122,9 @@ La Pedrera ha una biglietteria nell'edificio, ma il sito ufficiale avverte che *
 - **Casa Milà senza biglietti:** la facciata di pietra ondulata e i balconi in ferro battuto si vedono bene dal marciapiede di fronte, all'angolo con carrer de Provença. Scendendo il Passeig de Gràcia, a circa 10 minuti a piedi, ci sono la **Casa Batlló** e il resto della **Manzana de la Discordia** (Casa Amatller e Casa Lleó Morera).
 
 Se stai organizzando un percorso di Gaudí, guarda anche [cosa fare se i biglietti della Casa Batlló sono esauriti](/it/guides/barcelona/casa-batllo-biglietti-esauriti), [e quelli della Sagrada Família](/it/guides/barcelona/sagrada-familia-biglietti-esauriti), e [Barcellona in 1 giorno](/it/guides/barcelona/barcellona-in-1-giorno).
+
+[actividad: casa-mila-tour-guiado-acceso-temprano]
+
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
+[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]

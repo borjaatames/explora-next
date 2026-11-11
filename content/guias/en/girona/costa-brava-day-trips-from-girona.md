@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
 imagen_alt: "Tossa de Mar's Vila Vella above the beach"
 ---
 
+## Trips with everything organised
+
+| Plan | Activity | From |
+| --- | --- | --- |
+| Coves and caves by kayak | [Kayak and snorkel in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4.7★ (1,393) | €34 |
+| Cadaqués by sea | [Boat from Roses to Cadaqués along Cap de Creus](/en/cities/girona/activities/roses-cadaques-boat-trip-cap-de-creus), 4.5★ (414) | €27 |
+| Medes Islands | [Boat to the Medes Islands from L'Estartit](/en/cities/girona/activities/medes-islands-boat-trip-caves-estartit), 4.6★ (634) | €24 |
+| Dalí Museum with a guide | [Guided tour of the Dalí Theatre-Museum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
+| If you're staying in Barcelona | [Girona, Figueres, Dalí and Cadaqués in one day](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
+| Barcelona, small group | [Girona, Pals and Calella de Palafrugell by minivan](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4.8★ (2,096) | €98.5 |
+| Tossa de Mar from Barcelona | [Tossa de Mar and the Costa Brava day trip](/en/cities/girona/activities/tossa-de-mar-costa-brava-day-trip-from-barcelona), 4.9★ (596) | €39 |
+
 ## Day trips from Girona at a glance
 
 | Destination | From Girona | Best for |
@@ -61,6 +73,10 @@ imagen_alt: "Tossa de Mar's Vila Vella above the beach"
 | Cadaqués and Cap de Creus | 1 h 15 (car) | White village and Dalí's house |
 
 Figueres works by train. For Cadaqués, the villages and the coves you need **a car or an organised trip**: public transport is poor.
+
+[actividad: roses-cadaques-boat-trip-cap-de-creus]
+
+[actividad: costa-brava-kayak-snorkel-sea-caves-sagaro]
 
 ## Figueres and the Dalí Theatre-Museum
 

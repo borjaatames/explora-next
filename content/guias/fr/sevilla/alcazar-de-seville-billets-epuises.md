@@ -57,6 +57,15 @@ opciones:
     etiqueta: Avec la cathédrale
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Billet horodaté, sans guide | [Entrée au Real Alcázar avec accès prioritaire](/fr/cities/sevilla/activities/seville-billet-real-alcazar), 4,6★ (36 909) | 20 € |
+| Avec guide et le Cuarto Real Alto | [Real Alcázar, visite guidée coupe-file](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| La plus choisie | [Cathédrale, Giralda et Alcázar avec accès prioritaire](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14 120) | 53 € |
+| Du temps libre dans les jardins | [Cathédrale, Giralda et Alcázar : visite de 3 h 30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2 085) | 65 € |
+
 ## D'abord, vérifiez bien le site officiel
 
 Le site officiel de vente est **alcazardesevilla.infoticketing.com**, accessible depuis alcazarsevilla.org. Le plein tarif coûte **15,50 €** (réduit 8 €) et le **Cuarto Real Alto** 5,50 € de plus. Si votre date affiche complet :
@@ -85,6 +94,8 @@ Avant de payer, vérifiez que la fiche indique **« entrée au Real Alcázar inc
 
 [actividad: real-alcazar-sevilla-entrada]
 
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
 ## Alcázar de Séville gratuit le lundi
 
 Le lundi, il y a une heure d'entrée gratuite : de **18h à 19h** d'avril à septembre et de **16h à 17h** d'octobre à mars. La réservation se fait uniquement en ligne, sur le même site, et les places partent très vite. Si vous êtes là un lundi, tentez votre chance, mais n'en faites pas votre plan.
@@ -98,6 +109,8 @@ Si vous n'obtenez rien, vous pouvez quand même voir pas mal de choses sans entr
 - Le **Callejón del Agua** et les **Jardins de Murillo**, dans le quartier de Santa Cruz, qui longent la muraille de l'Alcázar.
 
 Et si vous cherchez de l'art mudéjar ailleurs, la **Casa de Pilatos** a des patios et des azulejos de la même famille, à environ 15 minutes à pied.
+
+[actividad: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia]
 
 ## Erreurs à éviter
 

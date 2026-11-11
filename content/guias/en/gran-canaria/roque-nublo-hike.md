@@ -45,6 +45,15 @@ imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
 imagen_alt: "Roque Nublo on the summit of Gran Canaria"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Roque Nublo, Pico de las Nieves and Tejeda day tour from Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas) | 4.7★ (1,283) | €48 |
+| [Summit sunset and stargazing tour](/en/cities/gran-canaria/activities/gran-canaria-sunset-stargazing-tour) | 4.8★ (302) | €45 |
+| [Jeep safari through southern valleys and villages](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4.5★ (1,443) | €69 |
+| [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
+
 ## Booking your Roque Nublo hike
 
 The Cabildo (island government) of Gran Canaria introduced access control on **3 February 2025** to end overcrowding. As of today (2026):
@@ -105,3 +114,5 @@ It climbs through Canary pines to a rocky plateau where **Roque Nublo** appears 
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 More ideas in [what to see in Gran Canaria](/en/guides/gran-canaria/what-to-see-in-gran-canaria).
+
+[actividad: jeep-safari-sur-gran-canaria]

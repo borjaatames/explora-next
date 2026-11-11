@@ -42,6 +42,12 @@ faq:
   respuesta: Ad Alboraya, a 15 minuti in metro (linea 3, fermata Alboraya-Palmaret), ci sono le horchaterías storiche, come Daniel o Vida. Un bicchiere con fartons costa 4-5 €. Anche al Mercato Centrale c'è una horchatería.
 ---
 
+## Esperienze gastronomiche
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Degustazione di birra artigianale e tapas a Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Cos'è la paella valenciana autentica
 
 Regola numero uno: **la paella valenciana non è la paella di mare**. L'originale è di orto e cortile e porta **pollo, coniglio, garrofó (un fagiolo bianco piatto), fagiolini (ferraúra) e, secondo la casa, lumache**. Niente frutti di mare, chorizo, piselli o cipolla.

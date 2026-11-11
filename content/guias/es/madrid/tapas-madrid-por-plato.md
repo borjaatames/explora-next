@@ -100,3 +100,5 @@ Para encajar la ruta en el viaje, mira [Madrid en 3 días](/guias/madrid/madrid-
 - **No vayas a Casa Dani a media tarde:** la tortilla se acaba.
 - **Reserva en Malacatín o Casa Lucio** el fin de semana.
 - **En Casa Labra, pide bacalao**, no croquetas de jamón.
+
+[actividad: aventura-vino-tapas-la-latina]

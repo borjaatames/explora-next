@@ -43,6 +43,7 @@ faq:
   respuesta: Le bâtiment historique seul, de 1 h 30 à 2 heures ; avec les Escuelas Menores et le Cielo de Salamanca, 2 h 30 (recommandé) ; avec la Maison Unamuno, environ 3 heures.
 ---
 
+
 ## Que voir à l'intérieur de l'Université de Salamanque
 
 - **Le cloître**, sur deux niveaux avec 23 arcs par étage, ceux du haut Renaissance.
@@ -82,6 +83,8 @@ Et la **grenouille sur une tête de mort** : qui la trouve sans aide réussit so
 **Seul**, ça marche si vous arrivez avec un minimum de contexte : lisez dix minutes avant sur Fray Luis, Unamuno et les doctorats médiévaux, et la visite change du tout au tout. **Avec un guide officiel** (réservé au guichet ou en ligne, 1 h à 1 h 30), vous gagnez des anecdotes absentes des panneaux, et c'est mieux avec des adolescents. Les free tours nocturnes **n'entrent pas dans le bâtiment** : ils font seulement le tour de la façade.
 
 [actividad: universidad-salamanca-visita-guiada]
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Conseils et erreurs fréquentes
 

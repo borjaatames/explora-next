@@ -59,6 +59,20 @@ faq:
   respuesta: 'No si se marean en el coche: la carretera tiene curvas muy cerradas. Es una de las rutas que se desaconseja expresamente hacer con niños pequeños; el barco desde Port de Sóller es la alternativa.'
 ---
 
+## Los mejores planes con niños
+
+| Plan | Actividad | Desde |
+| --- | --- | --- |
+| Día de nubes | [Palma Aquarium](/ciudades/mallorca/actividades/palma-aquarium-entrada), 4,5★ (3.744) | 30,5 € |
+| Tren de Sóller desde el norte | [Tren y tranvía de Sóller, medio día](/ciudades/mallorca/actividades/tren-soller-tranvia-medio-dia-desde-el-norte), 4,4★ (381) | 56 € |
+| Tren, tranvía y barco | [Vuelta a la isla con el tren de Sóller](/ciudades/mallorca/actividades/mallorca-vuelta-isla-tren-soller-tranvia-barco), 4,4★ (4.540) | 103 € |
+| Cuevas con concierto en barca | [Cuevas del Drach desde Alcúdia](/ciudades/mallorca/actividades/cuevas-del-drach-desde-alcudia), 4,3★ (641) | 54 € |
+| Cuevas desde Palma | [Cuevas del Drach con concierto y barca](/ciudades/mallorca/actividades/cuevas-del-drach-concierto-barca-desde-palma), 4,4★ (1.489) | 54 € |
+| Delfines en libertad | [Avistamiento de delfines desde Alcúdia](/ciudades/mallorca/actividades/avistamiento-delfines-alcudia), 4,8★ (3.435) | 90 € |
+| Aventura en los árboles | [Forestal Park](/ciudades/mallorca/actividades/forestal-park-mallorca-aventura), 4,8★ (277) | 26 € |
+| Parque acuático | [Western Water Park](/ciudades/mallorca/actividades/western-water-park-magaluf-entrada), 4,3★ (582) | 38 € |
+| Espectáculos con animales | [Marineland](/ciudades/mallorca/actividades/marineland-mallorca-entrada), 4,5★ (786) | 32 € |
+
 ## Mallorca en familia: dónde alojarse
 
 - **Norte (Alcúdia, Playa de Muro, Port de Pollença):** la mejor base familiar, con playas largas y poco profundas. Las excursiones al tren de Sóller y a las Cuevas del Drach recogen aquí.

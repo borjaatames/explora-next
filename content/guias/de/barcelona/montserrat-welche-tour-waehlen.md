@@ -55,6 +55,16 @@ faq:
   respuesta: Nicht alle. Der halbe Tag in kleiner Gruppe fährt mit dem Bus direkt zum Kloster, CastlExperience enthält die Zahnradbahn nur bei den Optionen, die es angeben, die Tour zum Landgut im Bages fährt mit dem Bus hinauf und mit der Zahnradbahn hinunter, und die Privattour nutzt ein eigenes Fahrzeug.
 ---
 
+## Welchen Ausflug wählen?
+
+| Option | Ab | Dauer | Format | Ideal für |
+|---|---|---|---|---|
+| [Halber Tag in kleiner Gruppe](/en/cities/barcelona/activities/montserrat-half-day-small-group) | 59 € | 5 Std. 30 Min. | Kleine Gruppe, 4 Varianten zur Wahl | Wer einen halben Tag hat und vor den Massen ankommen will |
+| [Zahnradbahn, Schwarze Madonna und Weingut (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 47 € | 6-10 Std. | Flexibel, in der Gruppe | Wer den günstigsten ganzen Tag will |
+| [Landgut im Bages mit Mittagessen und Weinbegleitung](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | 109 € | 9 Std. | Premium, in der Gruppe | Wer ein gutes kulinarisches Erlebnis dazunehmen will |
+| [Fotoshooting Montserrat Signature](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | 180 € | 1 Std. | Privat, Fotografie | Wer professionelle Fotos sucht, keine Führung |
+| [Privattour mit Hotelabholung](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 838 € | 5 Std. | Privat, nur deine Gruppe | Wer Fahrzeug und Guide exklusiv will, mit niemandem geteilt |
+
 ## Montserrat-Ausflug ab Barcelona: die 5 Optionen
 
 | Option | Ab | Dauer | Format | Ideal für |
@@ -79,6 +89,8 @@ faq:
 - **Die Escolania** singt meist das Salve und das Virolai um **13:00 Uhr von Montag bis Freitag** und in der Messe um **11:00 Uhr am Sonntag**; samstags normalerweise nicht. Man muss reservieren, und der Kalender ändert sich mit Feiertagen und Chorreisen: Prüf ihn auf escolania.cat und wähl einen Ausflug, der zu dieser Zeit dort ist.
 - **Die Standseilbahnen:** **Sant Joan** fährt zu den Wanderwegen mit Aussicht (10 Minuten, danach ein leichter Spaziergang von 1 Stunde zur Einsiedelei); die **Santa Cova**, die zur Höhle der Jungfrau hinunterfuhr, ist bis auf Weiteres außer Betrieb (zur Höhle kommst du zu Fuß). Die Sant-Joan-Bahn ist im Trans Montserrat enthalten, bei den meisten Touren aber nicht, und schließt bei starkem Wind.
 - **Benötigte Zeit:** ein halber Tag nur für Basilika und Moreneta; der ganze Tag, wenn du nach Sant Joan hinauffährst.
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
 
 ## Auf eigene Faust, Wetter und Essen
 

@@ -58,6 +58,14 @@ opciones:
     etiqueta: Con la Cattedrale
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Ti consigliamo | Da |
+| --- | --- | --- |
+| Alcázar con guida e senza code | [Real Alcázar, tour guidato senza code](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| L'essenziale di Siviglia in una mattinata | [Cattedrale, Giralda e Alcázar con accesso prioritario](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Con tempo libero nei giardini | [Cattedrale, Giralda e Alcázar: tour di 3,5 ore](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
+
 ## Cosa vedere nel Real Alcázar di Siviglia
 
 L'Alcázar è un palazzo a strati: almohade, mudéjar, gotico e rinascimentale, uno sopra l'altro. Ecco cosa non puoi saltare:
@@ -83,6 +91,8 @@ La visita completa richiede **circa 2,5-3 ore**. Tieni almeno 45 minuti per i gi
 I biglietti si vendono per fasce di 30 minuti con posti limitati e non sono modificabili né rimborsabili.
 
 **Gratis per tutti il lunedì**, dalle 18:00 alle 19:00 da aprile a settembre e dalle 16:00 alle 17:00 da ottobre a marzo. Solo online, con posti limitati che vanno a ruba in pochi minuti: non contarci, a meno che tu non l'abbia già prenotato.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Alcázar Siviglia: orari
 

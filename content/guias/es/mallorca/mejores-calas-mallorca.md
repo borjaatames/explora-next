@@ -65,6 +65,8 @@ No todas valen para lo mismo: elige según el día y según el viento, que deja 
 | Norte | Formentor, Playa de Muro | Familiares y de aguas tranquilas |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramáticas, entre montañas |
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Las imprescindibles: Es Trenc, Cala Mondragó y Caló des Moro
 
 **Es Trenc (sur).** La playa virgen más famosa: arena blanca y agua caribeña, sin construcciones, junto a las salinas. Apenas tiene servicios (tres quioscos); lleva sombra y agua.

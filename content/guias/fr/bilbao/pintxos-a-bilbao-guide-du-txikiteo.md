@@ -45,6 +45,13 @@ faq:
 
 Règle numéro un du txikiteo : **bougez**. Le principe est de goûter la spécialité de chaque bar, pas de rester dans un seul. Et les meilleurs pintxos ne sont souvent pas exposés au comptoir : on les commande chauds.
 
+## Tournées de pintxos
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Tournée de pintxos avec vin](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1 041) | 95 € |
+| [Cours de cuisine de pintxos (en anglais)](/en/cities/bilbao/activities/bilbao-pintxos-cooking-class) | 4,8★ (70) | 80 € |
+
 ## Où manger des pintxos à Bilbao
 
 | Quartier | Ambiance |
@@ -89,6 +96,8 @@ Si vous préférez être guidé dans les bars le premier soir, le tour de pintxo
 - **Dîner de txikiteo** avec 5-6 pintxos et boissons : **25-35 € par personne**.
 - **Heures de pointe :** **12 h 30-15 h** et **19 h 30-22 h 30**. Entre les deux, beaucoup de bars de la vieille ville ferment la cuisine ou le local (surtout de 16 h à 19 h), et **pas mal ferment le lundi**.
 - **Pintxo-pote :** le **jeudi soir**, dans les bars de Deusto, d'Indautxu et de la rue Licenciado Poza, pintxo plus boisson pour **2-3 €**. La sortie des étudiants et une bonne façon de commencer.
+
+[actividad: clase-cocina-pintxos-bilbao]
 
 ## Conseils et ce que nous déconseillons
 

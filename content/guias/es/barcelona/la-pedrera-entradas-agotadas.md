@@ -54,6 +54,16 @@ opciones:
     etiqueta: Con guía
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con hora, sin guía | [Casa Milà (La Pedrera): entrada con audioguía sin colas](/ciudades/barcelona/actividades/casa-mila-la-pedrera-entrada-audioguia), 4,7★ (18.195) | 29 € |
+| Ir de noche, con espectáculo y cava | [Casa Milà: experiencia nocturna con espectáculo y cava](/ciudades/barcelona/actividades/casa-mila-experiencia-nocturna-con-cava), 4,4★ (4.913) | 39,50 € |
+| Entrar antes que nadie, con guía | [Casa Milà: tour guiado con acceso temprano](/ciudades/barcelona/actividades/casa-mila-tour-guiado-acceso-temprano), 4,8★ (220) | 39,50 € |
+| Tres casas de Gaudí con guía | [Casa Vicens, Casa Milà y Casa Batlló: tour guiado](/ciudades/barcelona/actividades/casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi), 4,6★ (331) | 119 € |
+| Un guía solo para vosotros | [La Pedrera y Casa Vicens: tour privado](/ciudades/barcelona/actividades/casas-gaudi-pedrera-casa-vicens-tour-privado) | 156 € |
+
 ## Qué vas a ver en La Pedrera
 
 La visita general recorre:
@@ -97,6 +107,8 @@ Si el día está lleno, prueba los extremos:
 - **La Pedrera Sunrise:** visita guiada en grupo de **8:00 a 9:00**, antes de que entre el público general, con patios, piso, desván y azotea. **39,50 €**; el guía habla inglés o chino.
 - **La Pedrera Night Experience:** visita guiada nocturna de **1 hora y 20 minutos** con videomapping en la azotea y una copa de cava, por **39,50 €**. En invierno las sesiones van de **19:00 a 23:00**, y del 26 de diciembre al 3 de enero de **21:00 a 23:00**. Guía en catalán, español, inglés y chino.
 
+[actividad: casa-mila-experiencia-nocturna-con-cava]
+
 ## La Pedrera en taquilla el mismo día
 
 La Pedrera tiene taquilla en el edificio, pero la web oficial avisa de que **algunas tarifas cuestan más allí** que online, y de que comprar en la web evita la cola. Sirve si queda aforo en alguna franja del día, no como plan para un día agotado. Su única ventaja: los **cupones y tarjetas de descuento** solo se aplican en taquilla.
@@ -110,3 +122,9 @@ La Pedrera tiene taquilla en el edificio, pero la web oficial avisa de que **alg
 - **Casa Milà sin entradas:** la fachada de piedra ondulada y los balcones de hierro forjado se ven bien desde la acera de enfrente, en la esquina con la calle Provença. Bajando por el paseo de Gràcia, a unos 10 minutos a pie, están la **Casa Batlló** y el resto de la **Manzana de la Discordia** (Casa Amatller y Casa Lleó Morera).
 
 Si estás montando la ruta de Gaudí, mira también [qué hacer si se agotan las entradas de la Casa Batlló](/guias/barcelona/casa-batllo-entradas-agotadas), [y las de la Sagrada Familia](/guias/barcelona/sagrada-familia-entradas-agotadas), y [Barcelona en 1 día](/guias/barcelona/barcelona-en-1-dia).
+
+[actividad: casa-mila-tour-guiado-acceso-temprano]
+
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
+[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]

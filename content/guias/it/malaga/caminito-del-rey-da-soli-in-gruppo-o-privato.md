@@ -55,6 +55,24 @@ opciones:
     etiqueta: "Coppia che vuole il prelievo in hotel"
 ---
 
+## Tabella dei prezzi a persona
+
+| Modo di andare | Cosa include | 2 persone | 4 persone | 6 persone |
+| --- | --- | --- | --- | --- |
+| Da soli, biglietto generale | Biglietto + navetta (senza guida, senza trasporto) | 12,50 € | 12,50 € | 12,50 € |
+| Da soli, visita guidata ufficiale | Biglietto con guida ufficiale (gruppi fino a 30) + navetta | 20,50 € | 20,50 € | 20,50 € |
+| [Biglietto con guida ufficiale](/it/cities/malaga/activities/caminito-del-rey-biglietto-guida-ufficiale) (prenotazione sul nostro sito) | Biglietto, guida e casco; senza trasporto | 30 € | 30 € | 30 € |
+| [Gruppo da Malaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | Autobus, biglietto e guida ufficiale | 72 € | 72 € | 72 € |
+| [Privato: trasporto privato](/en/cities/malaga/activities/caminito-del-rey-private-transport-from-malaga) | Prelievo, biglietti, guida di gruppo | 305 € (610 €) | 240 € (960 €) | 180 € (1.080 €) |
+| [Privato: guida privata](/en/cities/malaga/activities/caminito-del-rey-private-guide-from-malaga) | Transfer, biglietti e guida solo per voi | 396 € (792 €) | 214 € (856 €) | 156 € (936 €) |
+
+## E da Siviglia o Granada?
+
+| Da | In gruppo | Privato, 2 | Privato, 4 | Privato, 6 |
+| --- | --- | --- | --- | --- |
+| Siviglia | — | [310 €](/en/cities/sevilla/activities/caminito-del-rey-private-transport-day-trip-from-seville) | 220 € | 200 € |
+| Granada | [135 €](/en/cities/granada/activities/caminito-del-rey-day-trip-from-granada) con pranzo | [340 €](/en/cities/granada/activities/caminito-del-rey-from-granada-private-transport) | 210 € | 150 € |
+
 ## Cosa scegliere in base a chi viaggia
 
 - **Coppia con auto:** da soli, con il biglietto con guida ufficiale o quello generale da 10 € se lo trovate sul sito ufficiale.

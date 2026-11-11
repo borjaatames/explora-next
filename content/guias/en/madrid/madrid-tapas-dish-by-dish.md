@@ -58,6 +58,8 @@ faq:
 | Ham and cured meats | Lhardy | Sol (Carrera de San Jerónimo, 8) | Iberian ham at the standing counter |
 | Croquetas | Casa Julio | Malasaña (Madera, 37) | A mixed half ración |
 
+[actividad: madrid-oldest-taverns-private-tour]
+
 ## Dish by dish: bravas, calamari, tortilla, torreznos, callos and croquetas
 
 **Where to eat patatas bravas in Madrid: Las Bravas.** Its sauce has been a registered trademark since 1959, and much of what Spain calls "salsa brava" descends from it: genuinely spicy, tomato-free, over irregular chunks of potato. Two locations 200 meters apart, same owner; if one has a queue, try the other. Standing only, in and out. If the bar isn't on Pasaje Matheu or Callejón del Gato, it isn't Las Bravas.
@@ -91,6 +93,8 @@ faq:
 - **Salamanca:** pricier and sit-down. Jurucha (Ayala, 19), La Maruca (Velázquez, 54), Sagardi (Castellana, 13).
 
 To fit the crawl into your trip, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days) or [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget).
+
+[actividad: madrid-wine-tapas-lunch-tour]
 
 ## Tips and common mistakes
 

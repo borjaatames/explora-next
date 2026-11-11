@@ -51,6 +51,16 @@ faq:
     respuesta: "Ja, reserviere am besten und geh früh (14:00 Uhr), denn der Reis braucht 30–40 Minuten. Mit hungrigen Kindern bestellst du am besten ein paar Tapas, um die Wartezeit zu überbrücken."
 ---
 
+## Familienaktivitäten, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Eintritt in den Bioparc](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4,8★ (2.988) | 29,5 € |
+| [Eintritt ins Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4,7★ (11.540) | 37 € |
+| [Kombiticket Oceanogràfic und Wissenschaftsmuseum](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket) | 4,7★ (2.797) | 39 € |
+| [Tuk-Tuk-Tour durch Zentrum, Strände und Stadt der Künste](/de/cities/valencia/activities/valencia-tuk-tuk-tour-altstadt-straende) | 4,6★ (388) | 40 € |
+| [Katamaranfahrt tagsüber oder zum Sonnenuntergang mit Getränk](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4,0★ (3.360) | 15 € |
+
 ## Was tun in Valencia mit Kindern: die Pläne, die funktionieren
 
 Der Schlüssel: nicht alles sehen wollen. Die Altstadt in kleinen Dosen, den Rest der Zeit Wasser, Tiere und Park.

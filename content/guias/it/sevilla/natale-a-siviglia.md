@@ -85,6 +85,10 @@ Il pezzo forte è il **mapping sulla facciata plateresca del Municipio**, in Pla
 5. **20:00, Setas o Magdalena**, per il mercatino natalizio.
 6. **21:00, flamenco o tapas a Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Feria del Belén a Siviglia, presepi e dolci dei conventi
 
 - **Feria del Belén:** da oltre tre decenni statuine, muschio e sughero tra la Cattedrale e l'Archivo de Indias. Nel 2025 apriva dalle 10:30 alle 14:00 e dalle 17:00 alle 21:00 nei giorni feriali, e dalle 11:00 alle 15:00 e dalle 16:30 alle 21:30 nei fine settimana e festivi.
@@ -100,6 +104,8 @@ La **zambomba** è una festa di canti natalizi flamenchi con tamburelli, bottigl
 - **Setalandia**, sotto le Setas de la Encarnación, e la **pista di pattinaggio del Prado de San Sebastián** (dal 29 novembre al 6 gennaio nel 2025).
 - **Navigalia** racconta una storia natalizia proiettata sul Guadalquivir, al Muelle de la Sal, per 2 €.
 - **Naturaleza Encendida**, lo spettacolo di luci dei giardini dell'Alcázar, va avanti fino a marzo.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cosa è aperto e cosa chiude a Siviglia il 24, 25 e 31 dicembre e il 1° gennaio
 
@@ -120,6 +126,8 @@ La **zambomba** è una festa di canti natalizi flamenchi con tamburelli, bottigl
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
 
 *Orari verificati sui siti ufficiali il 10 novembre 2026. Metro e mercatini: orari dello scorso Natale, in attesa di quelli del 2026.*
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Capodanno e Cabalgata dei Re Magi a Siviglia
 

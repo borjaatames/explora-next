@@ -67,6 +67,10 @@ actividades:
 
 Bis auf Expojove, das seine Termine für 2026 schon veröffentlicht hat, sind das die Daten der Ausgabe 2025-26. Die Stadt stellt ihr Programm im November vor; dann aktualisieren wir diesen Guide.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Weihnachtsbeleuchtung und Feuerwerk auf der Plaza del Ayuntamiento
 
 2025 startete Valencia mit einem Piromusical, Livemusik und einem **25 Meter hohen Baum** auf der Plaza del Ayuntamiento in die Weihnachtszeit, neben der städtischen Krippe. In der Stadt:
@@ -76,6 +80,8 @@ Bis auf Expojove, das seine Termine für 2026 schon veröffentlicht hat, sind da
 - Eine begehbare Kugel und Glocke auf der Plaza de Segrelles und der Plaza del Patriarca.
 
 Am valencianischsten sind die **Piromusicales samstags um 18:30**: drei Minuten Feuerwerk zu einem Lied, gratis. Zehn Minuten vorher da sein. 2025 bauten die Händler im Zentrum außerdem Eisbahn, Karussell, Bähnchen und Riesenrad zwischen der Plaza del Ayuntamiento und der Plaza de San Agustín auf.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Weihnachtsmärkte und Krippen
 
@@ -90,6 +96,8 @@ Am valencianischsten sind die **Piromusicales samstags um 18:30**: drei Minuten 
 - **Expojove** ist das große Programm: zehn Tage Spiele, Workshops und Spielbereiche in der Feria València, vom **26. Dezember 2026 bis 4. Januar 2027**, 11:00–20:00, **ab 3 €**. Am 31. nur 10:00–14:00, am 1. Januar 16:00–21:00. Anreise mit der Metro oder Bus 62.
 - **Piromusical am Samstag:** drei Minuten, nicht zu voll, wenn du etwas früher kommst.
 - **Ciutat de les Arts i les Ciències:** verlängert über Weihnachten Öffnungszeiten und Programm und veröffentlicht den Kalender auf cac.es. Wissenschaftsmuseum und Hemisfèric waren 2025 am 25. Dezember geschlossen.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## Silvester und Dreikönigsumzug in Valencia
 

@@ -51,6 +51,13 @@ opciones:
     etiqueta: Com guia
 ---
 
+## Que bilhete escolher?
+
+| Opção | Preço desde | Duração | Formato | Ideal para |
+|---|---|---|---|---|
+| [Bilhete sem filas para a zona monumental](/en/cities/barcelona/activities/park-guell-admission-ticket) | 21,5 € | 1h30-2 h | Por conta própria, sem guia | Quem só quer o bilhete mais barato, ao seu ritmo |
+| [Bilhete + Casa-Museu Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | 28 € | 2-3 h | Por conta própria + museu | Quem também quer ver onde Gaudí viveu |
+
 ## O que inclui cada bilhete
 
 **Bilhete básico para a zona monumental.** Acesso no seu horário à escadaria do dragão, à Sala Hipostila, à praça do banco ondulado e aos pórticos e, se houver lotação, à **Casa del Guarda**, o pavilhão da entrada. Sem guia nem audioguia. É o mais vendido (4,4/5 com mais de 81.000 avaliações) e vê-se em **1,5-2 horas**.
@@ -61,6 +68,8 @@ opciones:
 - **Fica na parte alta do parque**, a 10-15 minutos a pé a subir desde a entrada de baixo.
 - **Fecha uma hora antes do parque**, por isso não a deixe para o fim.
 - **Não inclui a Casa del Guarda**, que é outro edifício.
+
+[actividad: park-guell-admission-ticket]
 
 ## Park Güell preço e horários
 

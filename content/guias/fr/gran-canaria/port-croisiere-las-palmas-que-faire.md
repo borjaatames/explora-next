@@ -49,6 +49,16 @@ actividades:
   - tour-gran-canaria-1-dia-desde-las-palmas
 ---
 
+## Excursions compatibles avec une escale à Las Palmas
+
+| Excursion | Durée | Prix à partir de |
+| --- | --- | --- |
+| [Visite privée panoramique en taxi et à pied](/en/cities/gran-canaria/activities/las-palmas-private-panoramic-tour-taxi-walking), 4,8★ (37) | 3 h 30 | 100 € |
+| [Visite privée à pied de Triana et Vegueta avec tapa](/en/cities/gran-canaria/activities/las-palmas-private-old-town-walking-tour-tapas), 4,7★ (219) | 2 h 30 | 55 € |
+| [Aquarium Poema del Mar, billet coupe-file](/en/cities/gran-canaria/activities/poema-del-mar-aquarium-ticket), 4,8★ (4 610) | Billet d'1 jour | 29 € |
+| [Roque Nublo, Pico de las Nieves et Tejeda depuis Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas), 4,7★ (1 283) | 8 h | 48 € |
+| [Excursion d'une journée à Grande Canarie depuis Las Palmas](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas), 4,6★ (716) | 7 h 30 | 48 € |
+
 ## Où accoste le navire ? Le quai de Santa Catalina pour les croisières
 
 Au **quai de Santa Catalina** (Muelle de Santa Catalina), sur l'isthme de Las Palmas, à côté du **parc de Santa Catalina** et du centre commercial El Muelle. Si de nombreux navires sont présents, certains peuvent accoster à un autre quai : consultez le programme du jour et vérifiez si la compagnie met une navette.
@@ -99,6 +109,10 @@ L'aquarium **Poema del Mar** se trouve sur le Muelle Sanapú, dans la même zone
 L'excursion depuis Las Palmas au Roque Nublo, au Pico de las Nieves et à Tejeda dure 8 heures et prend les participants dans le centre tôt le matin : **elle ne convient que si vous débarquez avant le ramassage** et que le navire part le soir. Vérifiez le lieu et l'heure sur le bon.
 
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
+
+[actividad: las-palmas-tour-privado-casco-antiguo-tapa]
+
+[actividad: las-palmas-tour-privado-panoramico-taxi-pie]
 
 ## Excursions croisière à Grande Canarie : du navire ou en autonomie ?
 

@@ -56,12 +56,30 @@ faq:
   respuesta: Etwa 1 Std. 30 mit Audioguide und etwa 2 Std. 30 mit Turm und Museum. Die Führung in kleiner Gruppe dauert 1 Std. 45 Min., die Kombi mit dem Park Güell 4 Stunden.
 ---
 
+## Welches Ticket wählen?
+
+| Option | Ab | Dauer | Format | Ideal für |
+|---|---|---|---|---|
+| [Ticket mit Audioguide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | 34 € | 1-2 Std. | Auf eigene Faust, Audioguide in 16 Sprachen | Die günstigste Option, im eigenen Tempo |
+| [Führung mit Turmaufstieg](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) | 75 € | 1,5-2 Std. | Führung + optionaler Turmaufstieg | Die einzige Option mit Zugang zu einem Turm |
+| [Führung in kleiner Gruppe](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | 99 € | 1 Std. 45 Min. | Führung, kleine Gruppe, barrierefreier Zugang | Wer eine kleine Gruppe wichtiger findet als den Preis |
+
+## Kombi-Tickets mit Park Güell und anderen Sehenswürdigkeiten
+
+| Option | Ab | Dauer | Enthalten | Ideal für |
+|---|---|---|---|---|
+| [Führung Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | 104 € | 4 Std. | Nur diese beiden Monumente, mit Guide | Wer beide mit Führung sehen will, ohne den ganzen Tag zu opfern |
+| [Barcelona an einem Tag: Sagrada Família und Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | 129 € | 7 Std. | Montjuïc, Altstadt, Passeig de Gràcia + beide Monumente | Wer das Wichtigste von Barcelona an einem einzigen Tag sehen will |
+| [Das Beste von Barcelona privat, mit Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | ab 658 €/Gruppe (1-2 Personen) | 7 Std. | Montjuïc, Gotisches Viertel, Passeig de Gràcia + Sagrada Família, **ohne Park Güell** | Wer eine private Tagestour mit Fokus auf den Rest der Stadt sucht |
+
 ## Was kosten Sagrada Familia Tickets?
 
 - **Offizielle Website (sagradafamilia.org):** Das Basisticket mit Audioguide kostet **26 €**, mit Turm **36 €**. Am günstigsten, wenn noch Plätze frei sind.
 - **Buchbare Optionen:** teurer, weil sie Guide, kleine Gruppe oder bevorzugten Einlass dazugeben, und oft noch verfügbar, wenn das offizielle Ticket ausverkauft ist. Alle enthalten **Einlass ohne Anstehen**.
 
 2026 sind die Vormittagszeitfenster Wochen im Voraus weg, die Türme noch früher. **An einer Kasse werden keine Tickets verkauft.**
+
+[actividad: sagrada-familia-park-guell-tour-guiado]
 
 ## Tickets nur für die Basilika
 

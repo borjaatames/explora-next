@@ -59,6 +59,17 @@ opciones:
     etiqueta: De nuit
 ---
 
+## Quel billet choisir ?
+
+| Visite | Prix à partir de | Ce qu'il faut vraiment savoir |
+|---|---|---|
+| [Entrée et visite guidée](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | 50 € | L'une des deux moins chères des six. Pas de remplissage superflu, temps libre à la fin |
+| [Visite de l'Alhambra en petit groupe](/en/cities/granada/activities/alhambra-small-group-tour) | 65 € | Passe plus de temps au Generalife (près d'1 heure, plus que les autres) |
+| [Visite guidée avec le Generalife](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife) | 49 € | La moins chère des six. Répartition standard entre les trois zones |
+| [Palais nasrides coupe-file](/fr/cities/granada/activities/alhambra-palais-nasrides-coupe-file-petit-groupe) | 53 € | Même parcours, prix moyen-élevé |
+| [Visite guidée avec billets](/fr/cities/granada/activities/alhambra-visite-guidee-palais-nasrides-avec-billets) | 99 € | Même parcours, le prix le plus élevé du groupe |
+| [Sans attente, palais nasrides](/fr/cities/granada/activities/visite-guidee-alhambra-sans-attente-palais-nasrides) | 96 € | L'une des plus chères du groupe, sans différence de contenu qui le justifie |
+
 ## Visite guidée de l'Alhambra : six visites, un même parcours
 
 Six visites aux noms différents (« sans file d'attente », « billets inclus », « petit groupe », « sans attente ») décrivent **le même parcours** : Alcazaba, palais nasrides et Generalife, environ **3 heures**, avec guide officiel et entrée au créneau attribué des palais.
@@ -71,6 +82,8 @@ Six visites aux noms différents (« sans file d'attente », « billets inclus �
 | Alhambra en petit groupe | 65 € | Plus de temps au Generalife (environ 1 heure) |
 | Palais nasrides sans attente | 96 € | Aucune différence de contenu qui justifie le prix |
 | Visite guidée avec billets | 99 € | Même parcours, le prix le plus élevé |
+
+[actividad: alhambra-entry-and-guided-tour]
 
 ## Quelle visite guidée réserver (et le prix qui vaut la peine)
 

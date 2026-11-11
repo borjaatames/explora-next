@@ -52,6 +52,15 @@ opciones:
     etiqueta: On foot across the lava
 ---
 
+## Which option should you choose?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| Official Fire Mountains ticket (island council website) | — | €30 |
+| [Timanfaya National Park half-day tour, with entry and pickup](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 4.3★ (2,901) | €59 |
+| [Timanfaya, Jameos del Agua and Cueva de los Verdes with tickets](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 4.5★ (2,910) | €89 |
+| [Guided hike among the volcanoes beside Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4.8★ (990) | €47 |
+
 ## What you'll see at the Fire Mountains
 
 The eruptions lasted from September 1730 to April 1736, and there was a shorter one in 1824. This is the only way to visit the inside of the park:

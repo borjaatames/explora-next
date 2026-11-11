@@ -56,6 +56,8 @@ faq:
 
 Granada has **steep cobbled streets**, and the **Nasrid Palaces don't allow pushchairs** (there's a free left-luggage service and baby carriers on loan).
 
+[actividad: albaicin-sacromonte-diurno]
+
 ## Day 1: the Alhambra with kids, adapted
 
 The Alhambra is very dense and tires a child out long before an adult.
@@ -73,6 +75,8 @@ The Alhambra is very dense and tires a child out long before an adult.
 | 12:30 | Head down to the centre |
 
 **Tickets:** general **€22.27**; **under-12s free, but with a named ticket** issued in the same purchase, or they won't get in. With very young children, the **Gardens and Generalife ticket (€12.73)** gives them what they enjoy without the hush of the palaces. To get up, take the **C30 and C32 minibuses (€1.60)**. More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
+
+[actividad: alhambra-entrada-general]
 
 ## Day 2: Granada Science Park
 

@@ -53,6 +53,14 @@ opciones:
     etiqueta: La più economica
 ---
 
+## Quale biglietto scegliere?
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Ingresso all'Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4,7★ (11.540) | 37 € |
+| [Biglietto combinato Oceanogràfic e Museo delle Scienze](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket) | 4,7★ (2.797) | 39 € |
+| [Tour in tuk tuk tra centro, spiagge e Città delle Arti](/it/cities/valencia/activities/tour-in-tuk-tuk-valencia-centro-spiagge) | 4,6★ (388) | 40 € |
+
 ## Cos'è ogni edificio della Città delle Arti e delle Scienze
 
 Non serve entrare dappertutto: il complesso, con gli specchi d'acqua che riflettono gli edifici bianchi, è gratuito e tra i luoghi più fotogenici di Spagna.
@@ -90,6 +98,8 @@ Secondo il tuo piano:
 I combinati si esauriscono in alta stagione e la biglietteria dell'Oceanogràfic ha code lunghe: **compra online** e scegli la prima fascia.
 
 [actividad: oceanografic-valencia-entrada]
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Orari e come arrivare
 

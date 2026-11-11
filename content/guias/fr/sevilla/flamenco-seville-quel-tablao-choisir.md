@@ -57,6 +57,16 @@ actividades:
 
 ## Les 5 spectacles de flamenco à Séville
 
+| Spectacle | Prix à partir de | Format | Ambiance | Idéal pour |
+|---|---|---|---|---|
+| [Teatro Flamenco Sevilla](/fr/cities/sevilla/activities/seville-spectacle-teatro-flamenco-sevilla-le-plus-reserve) | 25 € | Théâtre, sièges en gradins | Le plus vendu de la ville, bonne visibilité grâce aux gradins | Ceux qui veulent l'option la plus sûre et le plus de représentations par jour |
+| [Casa de la Memoria](/fr/cities/sevilla/activities/seville-casa-de-la-memoria-spectacle-flamenco-intimiste) | 24 € | Patio andalou, 2 rangs seulement | Intimité maximale, artistes à un mètre | Ceux qui privilégient la proximité au confort du fauteuil |
+| [Museo del Baile Flamenco](/fr/cities/sevilla/activities/seville-spectacle-puro-flamenco-musee-baile-flamenco) | 33 € | Patio du XVIIIe siècle | Chorégraphies de Cristina Hoyos, combinable avec la visite du musée | Ceux qui veulent un contexte culturel en plus du spectacle |
+| [Tablao El Arenal](/fr/cities/sevilla/activities/seville-tablao-flamenco-el-arenal-50-ans-maestranza) | 45 € | Tablao façon restaurant, avec tables | 50 ans d'histoire, ambiance détendue | Ceux qui veulent dîner pendant le spectacle |
+| [Teatro Flamenco Triana](/fr/cities/sevilla/activities/seville-spectacle-flamenco-teatro-flamenco-triana) | 25 € | Théâtre, de l'autre côté du fleuve | Dans le quartier historiquement gitan où est né une grande partie du flamenco | Ceux qui veulent le vivre dans son quartier d'origine |
+
+## Les 5 spectacles de flamenco à Séville
+
 | Spectacle | À partir de | Format | Idéal pour |
 |---|---|---|---|
 | Teatro Flamenco Sevilla | 25 € | Théâtre avec gradins | La valeur sûre, avec le plus de séances par jour |

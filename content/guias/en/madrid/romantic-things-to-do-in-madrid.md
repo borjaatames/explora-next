@@ -50,6 +50,19 @@ actividades:
   - madrid-big-bus-night-tour
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price for two | Best for |
+| --- | --- | --- | --- |
+| [Flamenco at Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | €90, one drink each | A special night in a small venue |
+| [Century-old taverns, private tour](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 2 h 10 min | €254 (€127 each) | Madrid history with tapas, no strangers |
+| [Hot-air balloon over Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) | 4 h (1 h flight) | €410 (€205 each) | Anniversaries and big occasions |
+| [Private chic picnic](/en/cities/madrid/activities/private-chic-picnic-experience-madrid) | 2 h | €140 (€70 each) | A quiet, alcohol-free afternoon |
+| [Wine and tapas in hidden bars](/en/cities/madrid/activities/madrid-food-and-wine-tour-hidden-bars) | 3 h | €180 | Couples who love wine |
+| [Winery and lunch in Chinchón](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) | 6 h | €400 | A day out of the city |
+| [Private panoramic tuk-tuk](/en/cities/madrid/activities/exclusive-panoramic-tuk-tuk-tour-madrid) | 2 h | €140 per tuk-tuk | Seeing Madrid without walking miles |
+| [Panoramic night bus](/en/cities/madrid/activities/madrid-big-bus-panoramic-night-tour) | 70 min | From €46.80 | Madrid lit up, on a budget |
+
 ## Date night in Madrid: dinner and flamenco in a small tablao
 
 **Las Carboneras** is in the basement of the former palace of the Count of Miranda, five minutes from the Plaza Mayor. It is a small, intimate venue with resident artists and plenty of improvisation.
@@ -71,6 +84,8 @@ A private guide takes you for **2 h 10 min** through taverns and restaurants mor
 - **€127 per person**, minimum 2. It can start with pick-up at your hotel.
 - Minimum age 12; not wheelchair accessible.
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## A special occasion: Segovia hot air balloon from Madrid
 
 An hour's flight over **Segovia**, with the Aqueduct, the Cathedral and the Alcázar all at once from the air. After landing, 4x4s take you to a **breakfast with cava**, and you get a flight certificate and a photo set.
@@ -79,6 +94,8 @@ An hour's flight over **Segovia**, with the Aqueduct, the Cathedral and the Alc�
 - If you don't have a car, pick-up in Madrid (Hotel Riu Plaza España) costs **€40 per person**.
 - Minimum age 6. Not recommended during pregnancy.
 - Wear comfortable clothes, trainers and something for your head. Times depend on the wind and weight limits.
+
+[actividad: vuelo-globo-segovia]
 
 ## Quieter plans and day trips
 
@@ -89,6 +106,10 @@ An hour's flight over **Segovia**, with the Aqueduct, the Cathedral and the Alc�
 - **Winery and lunch in Chinchón** (6 h, €200 per person): transport from the centre, a historic family winery with a cellar visit and tasting of three wines, and lunch at a traditional restaurant by the medieval square. Groups of eight at most; free cancellation up to 48 hours before.
 
 "From" prices on each listing as of 1 November 2026; they may vary by date and option.
+
+[actividad: picnic-chic-privado-madrid]
+
+[actividad: bodega-y-comida-en-chinchon-desde-madrid]
 
 ## Madrid for couples: a perfect evening
 

@@ -49,11 +49,20 @@ opciones:
     etiqueta: La meglio valutata
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| La più recensita | [Museo Picasso: tour guidato salta coda](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4,5★ (3.552) | 37 € |
+| La meglio valutata | [Museo Picasso: tour guidato salta coda con Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4,6★ (158) | 39 € |
+
 ## Cosa vedrai
 
 - **La collezione permanente**, che segue l'evoluzione di Picasso dagli anni di formazione a Barcellona fino a *Las Meninas*.
 - **I palazzi di carrer Montcada**: il museo occupa cinque palazzi medievali con cortili gotici.
 - **Mostre temporanee:** dal **20 novembre 2026 al 7 marzo 2027** si può vedere *Picasso e l'architettura*. Se vai per la mostra, controlla cosa include il biglietto.
+
+[actividad: museo-picasso-tour-guiado-tours-for-today]
 
 ## Prezzi e orari
 

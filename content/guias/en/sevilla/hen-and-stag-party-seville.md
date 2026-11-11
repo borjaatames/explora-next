@@ -50,6 +50,20 @@ actividades:
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price | Best for |
+| --- | --- | --- | --- |
+| [Private flamenco and tapas in Triana](/en/cities/sevilla/activities/flamenco-tapas-triana-private-tour-seville) | 4 h | €310 for 2, €540 for 4, €720 for 6 | The full evening plan |
+| [Private electric tuk tuk (1 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville) | 1 h | €89 for 2, €99 for up to 4 | Starting the afternoon with photos |
+| [Private electric tuk tuk (2 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours) | 2 h | €155 for 2, €165 for up to 4 | Seeing more of the city |
+| [Private tapas tour in Triana](/en/cities/sevilla/activities/triana-tapas-private-tour-traditional-taverns) | 3 h | €211 per person (2 to 6) | Tapas lunch or dinner, no strangers |
+| [Kayaking on the Guadalquivir](/en/cities/sevilla/activities/guadalquivir-kayak-rental-seville) | 2 h | €17 per person | Active groups who can swim |
+| [Guadalquivir river cruise with a drink](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour) | 1-1.5 h | €25 per person | A relaxed, cheap plan |
+| [Flamenco at Teatro Flamenco Triana](/en/cities/sevilla/activities/seville-flamenco-show-teatro-flamenco-triana) | 1 h | €25 per person | A show in Triana |
+| [Flamenco at Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) | 1 h | €24 per person | An intimate show in the centre |
+| [Flamenco dress workshop, private visit](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) | 2 h | €214 per person (2 to 6) | A quieter hen do |
+
 ## Seville hen party fines: the rules
 
 Seville's bylaw on conduct in public spaces was amended in early 2024 and lets the local police fine anyone **up to €750** for being in the street:
@@ -78,10 +92,14 @@ For a photo-filled start: a [private electric tuk tuk](/en/cities/sevilla/activi
 - **2 hours:** €155 for 2 and €165 for up to 4; adds the Torre del Oro, La Cartuja and La Macarena.
 - It leaves from the **Saba car park at Plaza de Armas**, with no hotel pick-up, and you see the monuments from outside.
 
+[actividad: tuk-tuk-privado-sevilla]
+
 ## Seville stag party ideas by day: the river
 
 - **Kayak (€17 per person, 2 hours):** along the Guadalquivir past the Torre del Oro and the Triana bridge, with an instructor, from the Triana canoe club. **Everyone must be able to swim** and it can be cancelled in bad weather. In summer, go first thing or at sunset.
 - **Guided cruise (€25 per person, 1-1.5 hours):** from the Muelle de Turismo, next to the Torre del Oro, with one drink included (soft drink, beer, wine or water). A relaxed, cheap plan.
+
+[actividad: kayak-guadalquivir-sevilla-alquiler]
 
 ## Flamenco on your own
 
@@ -92,11 +110,15 @@ If you skip the private tour, a one-hour show costs **€24-25 per person**:
 
 Compare every tablao in our guide to [flamenco in Seville](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
 
+[actividad: teatro-flamenco-triana-show-en-directo]
+
 ## A quieter hen party
 
 The [private visit to a haute couture flamenco dress atelier](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) (at 10:00, 2 hours, 2 to 6 people, **€214 per person**) shows how a dress is made from sketch to embroidery, with its designers, and you can try on real dresses.
 
 It pairs well with the **private tapas tour in Triana** at 13:00 (3 hours, €211 per person, 2 to 6): four bars, four tapas and four drinks per person, including the Triana Market.
+
+[actividad: taller-trajes-flamenca-alta-costura-sevilla-visita-privada]
 
 ## Practical tips
 

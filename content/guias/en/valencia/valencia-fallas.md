@@ -81,6 +81,8 @@ Each neighbourhood builds its own papier-mâché and wood monument, some **over 
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
+[actividad: ciudad-artes-3-en-1-ticket]
+
 ## The Flower Offering and the Fallas cremà
 
 - **Offering (17 and 18 March):** thousands of falleros in traditional dress parade with flowers to Plaza de la Virgen, where they form the mantle of the Virgen de los Desamparados. The best spots are **Calle San Vicente, Calle Mar and Calle Caballeros**. Afterwards, you can visit the flower tapestry.

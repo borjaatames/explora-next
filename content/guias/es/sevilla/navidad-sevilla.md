@@ -85,6 +85,10 @@ El plato fuerte es el **mapping sobre la fachada plateresca del Ayuntamiento**, 
 5. **20:00, Setas o la Magdalena**, para el mercado navideño.
 6. **21:00, flamenco o tapas en Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Feria del Belén, belenes y dulces de convento
 
 - **Feria del Belén:** más de tres décadas de figuras, musgo y corcho entre la Catedral y el Archivo de Indias. En 2025 abría de 10:30 a 14:00 y de 17:00 a 21:00 entre semana, y de 11:00 a 15:00 y de 16:30 a 21:30 los fines de semana y festivos.
@@ -100,6 +104,8 @@ La **zambomba** es una fiesta de villancicos flamencos con panderetas, botellas 
 - **Setalandia**, bajo las Setas de la Encarnación, y la **pista de hielo del Prado de San Sebastián** (del 29 de noviembre al 6 de enero en 2025).
 - **Navigalia** cuenta una historia navideña proyectada sobre el Guadalquivir, en el Muelle de la Sal, por 2 €.
 - **Naturaleza Encendida**, el espectáculo de luz de los jardines del Alcázar, funciona hasta marzo.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Qué abre y qué cierra en Sevilla el 24, 25 y 31 de diciembre y el 1 de enero
 
@@ -120,6 +126,8 @@ La **zambomba** es una fiesta de villancicos flamencos con panderetas, botellas 
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
 
 *Horarios de monumentos y museos comprobados en sus webs oficiales el 10 de noviembre de 2026. Los del metro y los mercadillos son los de la Navidad pasada hasta que salgan los de 2026.*
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Nochevieja y Cabalgata de Reyes en Sevilla
 

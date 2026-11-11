@@ -50,6 +50,19 @@ actividades:
   - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
+## Les activités en un coup d'œil
+
+| Activité | Durée | Prix pour deux | Pour quel couple |
+| --- | --- | --- | --- |
+| [Toits au coucher du soleil, tour privé](/en/cities/sevilla/activities/seville-rooftops-sunset-private-tour-setas) | 2 h 30 | 384 € (192 € par personne) | Occasion spéciale ; avec cocktail aux Setas |
+| [Calèche privée avec guide](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1 h 30 | 298 € par calèche | Le classique, avec de vraies explications |
+| [Flamenco à la Casa de la Memoria](/fr/cities/sevilla/activities/seville-casa-de-la-memoria-spectacle-flamenco-intimiste) | 1 h | 48 € | Flamenco de près, dans une petite salle |
+| [Tablao El Arenal](/fr/cities/sevilla/activities/seville-tablao-flamenco-el-arenal-50-ans-maestranza) | 1 h | À partir de 90 € | Tablao classique à côté de la Maestranza |
+| [Cours de cuisine andalouse chez l'habitant](/en/cities/sevilla/activities/andalusian-cooking-class-traditional-house-seville) | 5 h | 796 € (398 € par personne) | Couples qui aiment cuisiner |
+| [Séville mystérieuse au crépuscule, en privé](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset) | 1 h 30 | 125 € par groupe | Des légendes à la plus belle heure |
+| [Croisière sur le Guadalquivir avec boisson](/fr/cities/sevilla/activities/seville-croisiere-guidee-guadalquivir-boisson-incluse) | 1 h-1 h 30 | 50 € | Formule tranquille et économique |
+| [Belvédère des Setas](/fr/cities/sevilla/activities/seville-billet-setas-metropol-parasol-belvedere) | 40 min | 32 € | Coucher de soleil en autonomie |
+
 ## Coucher de soleil sur un rooftop de Séville
 
 C'est l'activité pour une occasion spéciale. Un guide rien que pour vous vous fait monter sur **deux toits-terrasses** du centre ; le second est le **belvédère des Setas** (Metropol Parasol), juste au moment où s'illuminent la Giralda et les coupoles. En chemin, il vous raconte des légendes qui ne se comprennent que vues d'en haut.
@@ -75,6 +88,8 @@ L'alternative est une **balade privée d'une heure et demie avec un guide** spé
 
 En juillet et en août, la chaleur dure tard ; mieux vaut partir après 20 h.
 
+[actividad: paseo-coche-caballos-sevilla-guia-privado]
+
 ## Le flamenco à deux
 
 En couple, une petite salle vaut mieux qu'un grand tablao avec dîner :
@@ -83,6 +98,8 @@ En couple, une petite salle vaut mieux qu'un grand tablao avec dîner :
 - **Tablao El Arenal :** cinquante ans de flamenco près de la Maestranza, **dès 45 €** par personne.
 
 Attention aux horaires : au printemps et en été, le soleil se couche tard, gardez donc le flamenco pour après le coucher du soleil. Pour comparer tous les tablaos un par un, consultez notre guide du [flamenco à Séville](/fr/guides/sevilla/flamenco-seville-quel-tablao-choisir).
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cuisiner ensemble
 
@@ -95,6 +112,8 @@ Le **cours de cuisine andalouse** est une expérience privée de cinq heures :
 
 Créneaux à **11 h** (avec déjeuner) et à **17 h 30** (avec dîner). Il coûte **398 € par personne** (minimum 2) ; signalez toute intolérance à la réservation. Comme il dure cinq heures, il trouve mieux sa place le premier ou le deuxième jour que le dernier.
 
+[actividad: clase-cocina-andaluza-casa-tradicional-sevilla]
+
 ## Que faire à Séville en amoureux avec un petit budget
 
 - **Plaza de España et parc de María Luisa :** gratuits, et parmi les plus beaux endroits de la ville en fin d'après-midi.
@@ -103,6 +122,8 @@ Créneaux à **11 h** (avec déjeuner) et à **17 h 30** (avec dîner). Il coût
 - **Séville mystérieuse au coucher du soleil :** balade privée d'une heure et demie entre légendes, crimes et mystères du centre, depuis les escaliers des Setas. 125 € pour le groupe (de 1 à 4 personnes), soit 62,50 € chacun en couple.
 
 Belvédère, croisière et flamenco à la Casa de la Memoria : environ **65 € par personne** pour une soirée complète.
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Une soirée parfaite pour un week-end romantique à Séville
 

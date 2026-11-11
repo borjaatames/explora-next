@@ -49,6 +49,16 @@ actividades:
   - loro-parque-entradas
 ---
 
+## Ausflüge, die zu einem Landgang auf Teneriffa passen
+
+| Ausflug | Dauer | Ab |
+| --- | --- | --- |
+| [Geführte Wanderung im Lorbeerwald von Anaga](/en/cities/tenerife/activities/anaga-laurel-forest-guided-hike), 4,8★ (269) | 3-6 Std. je nach Variante | 24 € |
+| [Casa del Vino in El Sauzal mit Weinprobe](/en/cities/tenerife/activities/tenerife-wine-house-tasting-el-sauzal), 4,6★ (477) | 2 Std. | 16 € |
+| [Bodegas Monje: Führung mit Wein- und Käseprobe](/en/cities/tenerife/activities/bodegas-monje-winery-tour-wine-cheese), 4,5★ (533) | 2 Std. | 35 € |
+| [Loro Parque](/en/cities/tenerife/activities/loro-parque-tickets), 4,8★ (14.827) | Ganzer Tag | 44 € |
+| [Teide mit Seilbahn und Transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer), 4,3★ (6.121) | 7 Std. | 92 € |
+
 ## Wo die Schiffe im Kreuzfahrthafen Santa Cruz de Tenerife anlegen
 
 Im **Hafen von Santa Cruz de Tenerife**, am **Muelle Sur** oder am **Muelle de Enlace**. Vom Schiff bis zur **Plaza de España** sind es je nach Liegeplatz **10-20 Gehminuten** auf einem ebenen, ausgeschilderten Weg. Einen Shuttle brauchst du nicht, auch wenn manche Reedereien einen einsetzen, wenn das Schiff ganz hinten am Kai liegt.
@@ -77,6 +87,8 @@ Achtung: Viele Hotels und Ausflüge auf Teneriffa liegen im **Süden** (Costa Ad
 [actividad: anaga-bosque-laurisilva-ruta-guiada]
 
 **El Sauzal** an der Nordküste liegt keine halbe Stunde über die Autobahn entfernt: Eine Weinprobe in der Casa del Vino oder einer Bodega ist ein guter Plan für 5-6 Stunden, wenn du nicht auf den Berg willst. Hin kommst du mit dem Taxi.
+
+[actividad: teide-teleferico-traslado]
 
 ## Der Teide vom Kreuzfahrthafen: Zeiten und Risiken
 

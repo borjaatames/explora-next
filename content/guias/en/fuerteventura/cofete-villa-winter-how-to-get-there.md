@@ -45,6 +45,14 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "Cofete beach seen from the viewpoint, with the Jandía massif"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cofete and Villa Winter tour from Jandía](/en/cities/fuerteventura/activities/cofete-villa-winter-tour) | 4.8★ (1,952) | €57 |
+| [Dolphin-watching boat from Morro Jable](/en/cities/fuerteventura/activities/morro-jable-dolphin-whale-boat-trip) | 4.2★ (5,490) | €49 |
+| [Catamaran with food and drinks from Morro Jable](/en/cities/fuerteventura/activities/morro-jable-catamaran-lunch-drinks) | 4.4★ (1,786) | €79 |
+
 ## How to get to Cofete by car: the track and your hire car
 
 The track leaves **Morro Jable** heading west, climbs the massif and crosses to the north side at the **Degollada de Agua Oveja** pass, where the whole beach suddenly appears: this is the **Cofete viewpoint** and the best photo of the trip. It's about **20 km** of dirt; allow **45 minutes to an hour** each way.

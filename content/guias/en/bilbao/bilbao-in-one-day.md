@@ -48,6 +48,16 @@ faq:
   respuesta: The centre is walkable along the river. Beyond that there's the metro, the tram and the Artxanda funicular. The Barik card (€3) works on everything, can be shared and brings each trip down from €1.90 to €0.90-1.30.
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old Town walking tour](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4.7★ (449) | €42 |
+| [Pintxos food tour with wine](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4.9★ (1,041) | €95 |
+| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
+| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+
 ## The route: what to see in Bilbao in one day
 
 - **9:30 · Guggenheim Museum.** Outside, free: Koons's *Puppy*, Bourgeois's spider *Maman*, the fog sculpture and the fire at dusk. Inside, Richard Serra's *The Matter of Time*. Allow **two and a half hours**.

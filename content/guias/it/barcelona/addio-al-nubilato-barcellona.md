@@ -50,6 +50,19 @@ actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
 
+## Le attività in sintesi
+
+| Attività | Durata | Prezzo | Per quale gruppo |
+| --- | --- | --- | --- |
+| [Degustazione di birra per gruppi privati in terrazza](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € a persona | Solo il vostro gruppo; addii al nubilato, compleanni e aziende |
+| [Sip & paint con sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2 h 30 min | 19 € a persona | Gruppi che vogliono ridere senza uscire la sera |
+| [Boat party in catamarano con DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | 53,10 € a persona | Gruppi con voglia di festa; non esce d'inverno |
+| [Lezione di salsa con sangria in terrazza](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € a persona | Gruppi che vogliono ballare; senza esperienza |
+| [Degustazione di birra artigianale con musica e karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 min | 17 € a persona | Serata economica con karaoke facoltativo |
+| [Servizio fotografico rapido](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € a sessione | Un ricordo del gruppo accanto alla Sagrada Família |
+| [Tour privato di tapas e vino](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € per 2, 594 € per 6 | Cena guidata solo per voi |
+| [Flamenco al City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | Da 25 € a persona | Spettacolo prima o dopo cena |
+
 ## Addio al nubilato a Barcellona: i divieti e cosa è cambiato
 
 - **Giri dei bar vietati.** Dal **29 ottobre 2025** è vietato in tutta la città, a qualsiasi ora, organizzare, vendere o partecipare a visite di più bar il cui scopo principale è bere. Per questo qui non consigliamo nessun pub crawl.
@@ -57,6 +70,8 @@ actividades:
 - **Bere per strada:** le multe vanno da **100 a 600 euro** nei casi lievi.
 
 Niente di tutto questo riguarda una degustazione, una barca o una lezione in un solo locale.
+
+[actividad: sesion-fotos-rapida-barcelona]
 
 ## Cosa fare per un addio al nubilato a Barcellona: birra in terrazza
 
@@ -74,6 +89,8 @@ Il programma più completo è una degustazione di **sei birre artigianali** con 
 - **Sip & paint (19 € a persona, 2 h 30 min):** dipingete passo passo con sangria a volontà, musica e ballo alla fine, dalle 17:30 in carrer de la Mercè, a Ciutat Vella. Non è un corso d'arte, è un momento di compagnia, e il cibo non è incluso. Cancellazione gratuita fino a 24 ore prima.
 - **Lezione di salsa in terrazza (48,60 € a persona, 2 h):** per principianti, con sangria fatta in casa illimitata e vista, sul Passeig de Gràcia. A novembre inizia alle 17:00 e a dicembre alle 16:00. Non rimborsabile.
 
+[actividad: barcelona-sip-and-paint-sangria]
+
 ## Boat party a Barcellona per l'addio al nubilato (da marzo)
 
 Due ore su un **catamarano a due piani con DJ e pista da ballo** davanti alla costa, per **53,10 € a persona**, con buoni per quattro drink e ingresso in lista in una discoteca la sera stessa (bisogna entrare prima dell'1:00). Il check-in è all'Ice Bar del lungomare della Barceloneta.
@@ -84,6 +101,8 @@ Tre cose da sapere:
 2. È **non rimborsabile**.
 3. Chi arriva ubriaco non può imbarcarsi.
 
+[actividad: fiesta-en-barco-barcelona-catamaran-dj]
+
 ## Serata con karaoke, cena, flamenco o foto
 
 - **Degustazione di birra artigianale da Craft Barcelona** (17 € a persona, 2 h 30 min), nel Barrio Gotico: visita al birrificio, degustazione guidata e bevande dopo, poi musica dal vivo e **karaoke facoltativo**. Turni alle 20:30 e alle 22:30. Chi non beve birra può scegliere sangria o vermut.
@@ -92,6 +111,8 @@ Tre cose da sapere:
 - **Servizio fotografico:** si paga a sessione, non a persona. **20 minuti con 10 foto ritoccate a 35 €** vicino alla Sagrada Família (consegna in 24-48 ore), oppure 30 minuti con 20-25 foto a 68 € alla Sagrada Família, nel Gotico o al Park Güell.
 
 Prezzi «da» al 1° novembre 2026; possono variare secondo la data e l'opzione.
+
+[actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
 
 ## Consigli ed errori tipici
 

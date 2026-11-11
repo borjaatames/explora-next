@@ -53,6 +53,15 @@ actividades:
   - flamenco-cuevas-tarantos-sacromonte
 ---
 
+## The 4 caves, compared
+
+| Cave | Price from | Duration | Atmosphere | Best for |
+|---|---|---|---|---|
+| [Cueva del Zincalé](/en/cities/granada/activities/flamenco-show-cueva-zincale-sacromonte) | €20 | 50 min | Run directly by the performing artists, artisanal feel | Wanting the closest thing to "watching the family who runs it perform" |
+| [Cueva Los Amayas](/en/cities/granada/activities/flamenco-show-cueva-los-amayas-sacromonte) | €25 | 1h | No stage, no PA system, 3 metres from the dancers, drink included | The purist who wants the most traditional format, no staging |
+| [Cueva La Faraona](/en/cities/granada/activities/flamenco-show-cueva-la-faraona-sacromonte) | €16 | 1h | The smallest (25 seats), a metre and a half from the artists | The lowest price in the group without giving up closeness |
+| [Cuevas Los Tarantos](/en/cities/granada/activities/flamenco-show-cuevas-tarantos-sacromonte) | €28 | 1h | Running since 1972, drink included, larger cast, 2,093 reviews | First time seeing flamenco in a cave: the safest bet |
+
 ## The 4 Sacromonte flamenco caves compared
 
 On paper all four offer the same thing: gypsy zambra, singing and dancing inside a cave carved into the hillside. The difference is in the details.
@@ -70,6 +79,8 @@ On paper all four offer the same thing: gypsy zambra, singing and dancing inside
 - **Looking for the most intimate experience?** La Faraona. With only 25 seats and no stage, you're a metre and a half from the performers. It's also the cheapest.
 - **Want neighbourhood flamenco with nothing staged for tourists?** Los Amayas: no stage, no microphones, in the district where this style was born.
 - **Like the idea of a show run by the performing family itself?** El Zincalé fits that best. It's the shortest show (50 minutes) and a 5-minute walk from Los Amayas.
+
+[actividad: flamenco-cuevas-tarantos-sacromonte]
 
 ## Los Tarantos or Los Amayas?
 

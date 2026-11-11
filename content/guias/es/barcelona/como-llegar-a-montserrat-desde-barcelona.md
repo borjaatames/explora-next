@@ -64,6 +64,16 @@ opciones:
 | Tren R5 + Cremallera | 1 h 30 | 20,80-32,60 € ida y vuelta, combinado | Tren cada hora, Cremallera 2-3 por hora | Quien prefiere un trayecto tranquilo |
 | Trans Montserrat | 1 h 30 | 50 € | Igual que el tren | Quien sube también al funicular de Sant Joan |
 | Coche + Cremallera desde Monistrol Vila | 1 h 15 | Gasolina, aparcamiento gratis + 15 € | Cremallera 2-3 por hora | Familias y grupos |
+| [Excursión organizada](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience) | 6-10 h, todo incluido | Desde 47 € | Diaria | Quien no quiere organizar nada |
+
+## Opciones para llegar a Montserrat
+
+| Opción | Tiempo total | Precio aprox. | Frecuencia | Para quién |
+| --- | --- | --- | --- | --- |
+| Tren R5 + Aeri (teleférico) | 1 h 15 - 1 h 30 | Tren + 15 € ida y vuelta del Aeri | Tren cada hora, Aeri cada 15 min | Quien quiere vistas y rapidez |
+| Tren R5 + Cremallera | 1 h 30 | 20,80-32,60 € ida y vuelta, combinado | Tren cada hora, Cremallera 2-3 por hora | Quien prefiere un trayecto tranquilo |
+| Trans Montserrat | 1 h 30 | 50 € | Igual que el tren | Quien sube también al funicular de Sant Joan |
+| Coche + Cremallera desde Monistrol Vila | 1 h 15 | Gasolina, aparcamiento gratis + 15 € | Cremallera 2-3 por hora | Familias y grupos |
 | Excursión organizada | 6-10 h, todo incluido | Desde 47 € | Diaria | Quien no quiere organizar nada |
 
 ## Tren a Montserrat: el R5 desde Plaça Espanya
@@ -110,6 +120,8 @@ Compra el billete en las máquinas de FGC de Plaça Espanya. La T-casual del met
 **En excursión organizada** te suben y te bajan sin mirar horarios. Hay opciones desde 47 €, como el [grupo pequeño de medio día](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) (desde 59 €). La comparativa completa está en [qué excursión a Montserrat elegir](/guias/barcelona/montserrat-que-excursion-elegir).
 
 [actividad: montserrat-cremallera-bodega-castlexperience]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
 
 ## Errores típicos
 

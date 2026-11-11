@@ -56,6 +56,15 @@ opciones:
     etiqueta: Privada
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con hora, sin guía | [Catedral y Giralda sin colas](/ciudades/sevilla/actividades/catedral-sevilla-giralda-entrada-skip-line), 4,6★ (3.500) | 17,50 € |
+| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| Los dos monumentos con tiempo | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
+| Un guía solo para tu grupo | [Real Alcázar y Catedral: tour privado con entradas](/ciudades/sevilla/actividades/real-alcazar-catedral-sevilla-tour-privado-entradas), 5,0★ (188) | 300 € por grupo |
+
 ## Qué vas a ver
 
 - **La nave y el retablo mayor**, uno de los más grandes de la cristiandad, con la sillería del coro y la Capilla Real.
@@ -74,6 +83,8 @@ La venta oficial se hace desde **catedraldesevilla.es**, que enlaza a su platafo
 - **Visita guiada a las cubiertas:** 20 € online y 21 € en taquilla (ver abajo).
 
 **Horario:** de lunes a sábado de **10:45 a 19:00** y los domingos de **14:30 a 19:00**. Las entradas llevan hora de acceso y aforo limitado; compra con 2 o 3 días de antelación.
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
 ## Si las entradas de la Catedral de Sevilla están agotadas
 
@@ -104,6 +115,8 @@ Si no consigues entrar, desde fuera se ve mucho:
 - La **Plaza del Triunfo**, entre la Catedral y el Alcázar, con la Puerta del Príncipe a un lado.
 
 Si te falta también el Alcázar, en [qué hacer si las entradas del Alcázar están agotadas](/guias/sevilla/alcazar-de-sevilla-entradas-agotadas) tienes sus opciones.
+
+[actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
 ## Consejos
 

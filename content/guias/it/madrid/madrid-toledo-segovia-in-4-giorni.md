@@ -84,6 +84,8 @@ actividades:
 
 Il programma completo, con alternative, è in [Madrid in 2 giorni](/it/guides/madrid/madrid-in-2-giorni).
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Giorno 2: Prado, Retiro e Letras
 
 - **10:00 — Museo del Prado** (2 h 30). Aperto dal lunedì al sabato dalle 10:00 alle 20:00 e la domenica fino alle 19:00; gratis nelle ultime due ore, ma con coda.
@@ -91,6 +93,10 @@ Il programma completo, con alternative, è in [Madrid in 2 giorni](/it/guides/ma
 - **14:30 — Pranzo** vicino al Retiro o in Las Letras.
 - **Pomeriggio:** il Reina Sofía (12 €, chiuso il martedì) o il Barrio de las Letras e la terrazza del Círculo de Bellas Artes (5 €).
 - **Sera:** flamenco in centro o un giro nelle taverne più antiche della città.
+
+[actividad: museo-prado-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Giorno 3: Toledo da Madrid in treno
 
@@ -108,6 +114,8 @@ Se preferisci avere tutto organizzato, l'escursione di un giorno include pullman
 
 [actividad: excursion-toledo-dia-completo]
 
+[actividad: toledo-pulsera-turistica-7-monumentos]
+
 ## Giorno 4: Segovia
 
 **9:00 — Avant da Chamartín** fino a **Segovia-Guiomar** (circa 30 minuti); da lì, l'**autobus urbano 11** ti porta all'acquedotto in 15 minuti. In alternativa, autobus Avanza da Moncloa (1 h 15, circa 5 € a tratta), che arriva a pochi minuti dall'acquedotto.
@@ -121,6 +129,8 @@ Se preferisci avere tutto organizzato, l'escursione di un giorno include pullman
 **14:30 — Maialino arrosto** (cochinillo), il motivo per cui tanti madrileni tornano a Segovia. Prenota nel fine settimana.
 
 **Pomeriggio:** scendi per il quartiere dei Caballeros o la judería fino all'acquedotto e torna a Madrid senza fretta. Segovia è a circa 1.000 metri: porta un cappotto da ottobre ad aprile. Altre tappe in [cosa vedere a Segovia in un giorno](/it/guides/madrid/cosa-vedere-a-segovia-in-un-giorno).
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Budget, varianti ed errori comuni
 

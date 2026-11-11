@@ -44,6 +44,13 @@ faq:
   respuesta: 'Pendant la seconde quinzaine de mai. Reconstitutions historiques, gladiateurs dans l''amphithéâtre et des centaines d''activités, beaucoup gratuites. Les hôtels sont pris d''assaut : réservez tôt.'
 ---
 
+## Visites à réserver
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Billet pour la cathédrale avec audioguide](/fr/cities/tarragona/activities/tarragone-billet-cathedrale-audioguide) | 4,4★ (105) | 12,50 € |
+| [Visite audio autoguidée (appli DareMapp)](/fr/cities/tarragona/activities/tarragone-visite-audioguidee-daremapp) | — | 5 € |
+
 ## Que voir dans la Tarraco romaine
 
 - **Amphithéâtre romain de Tarragone :** face à la mer, l'image la plus célèbre de la ville. Théâtre de combats de gladiateurs, il conserve aussi des vestiges wisigoths.
@@ -54,6 +61,8 @@ faq:
 - **Aqueduc de les Ferreres :** le « Pont del Diable », l'aqueduc romain le mieux conservé de la région, en périphérie.
 
 Pour comprendre l'ensemble et voir les mosaïques, le **MNAT (Musée national archéologique)**. Sur l'ancienne Via Augusta, en périphérie, se trouvent aussi l'**Arc de Berà** et la **Torre dels Escipions**.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Prix et horaires : le billet combiné
 

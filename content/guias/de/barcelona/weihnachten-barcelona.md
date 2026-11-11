@@ -71,6 +71,10 @@ actividades:
 
 Das sind die Daten von 2025: Das Programm für 2026 erscheint im November auf barcelona.cat/nadal, dann aktualisieren wir den Guide.
 
+[actividad: sagrada-familia-visita-guiada-guia-oficial]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
+
 ## Die Lichter und der Weihnachtsmarkt in Barcelona
 
 - **Die Lichter 2026** reichen über **130 km Straßen**, mit 255 Bögen und 272 Lichtfiguren, und neuen Designerstücken am Passeig de Maragall (ein Gedicht aus Licht) und an der Rambla de Prim. Die klassische Achse bleibt **Passeig de Gràcia, Rambla de Catalunya und Portal de l'Àngel**.
@@ -96,6 +100,8 @@ Ein gut geplanter Dezemberabend:
 - **Nadal al Port** am Moll de la Fusta, mit Fahrgeschäften und Lichtern am Meer.
 - **Ankunft der Heiligen Drei Könige:** Am 5. Januar landen sie im Hafen, der Bürgermeister empfängt sie gegen 16:30 Uhr auf der Plaça del Portal de la Pau. Weniger Gedränge als beim Umzug.
 - Wer einen geführten Plan bevorzugt: Es gibt eine private Familientour mit Schatzsuche und Churros mit Schokolade.
+
+[actividad: barcelona-tour-privado-familias-churros-juegos]
 
 ## Was hat in Barcelona am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
 

@@ -56,6 +56,22 @@ opciones:
     etiqueta: Gruppo ridotto
 ---
 
+## Quale biglietto scegliere?
+
+| Opzione | Prezzo da | Durata | Formato | Ideale per |
+|---|---|---|---|---|
+| [Biglietto con audioguida](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | 34 € | 1-2 h | Visita libera, audioguida in 16 lingue | Il più economico, per visitare con i propri tempi |
+| [Tour guidato con salita su una torre](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) | 75 € | 1 h 30-2 h | Guidato + salita facoltativa su una torre | L'unico con accesso a una delle torri |
+| [Visita guidata in gruppo ridotto](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | 99 € | 1 h 45 | Guidato, gruppo ridotto, accesso accessibile | Chi preferisce un gruppo piccolo al prezzo più basso |
+
+## Combinati con il Park Güell e altri monumenti
+
+| Opzione | Prezzo da | Durata | Include | Ideale per |
+|---|---|---|---|---|
+| [Tour guidato Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | 104 € | 4 h | Solo questi due monumenti, con guida | Chi li vuole entrambi con guida senza spenderci l'intera giornata |
+| [Barcellona in un giorno: Sagrada Família e Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | 129 € | 7 h | Montjuïc, centro storico, Passeig de Gràcia + entrambi i monumenti | Chi vuole vedere il più importante di Barcellona in una sola giornata |
+| [Il meglio di Barcellona in privato, con Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | da 658 €/gruppo (1-2 persone) | 7 h | Montjuïc, Barrio Gótico, Passeig de Gràcia + Sagrada Família — **non include il Park Güell** | Chi vuole un privato di una giornata intera incentrato sul resto della città, non sul Park Güell |
+
 ## Prezzo dei biglietti della Sagrada Família
 
 - **Sito ufficiale (sagradafamilia.org):** il biglietto base con audioguida costa **26 €** e con torre **36 €**. È il più economico se restano posti.

@@ -53,6 +53,14 @@ opciones:
     etiqueta: A la cima a pie
 ---
 
+## ¿Qué entrada elegir?
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Excursión al Teide con teleférico y traslado](/ciudades/tenerife/actividades/teide-teleferico-traslado) | 4,3★ (6.121) | 92 € |
+| [Atardecer y estrellas en el Parque Nacional del Teide](/ciudades/tenerife/actividades/atardecer-estrellas-teide-telescopio) | 4,7★ (3.691) | 35 € |
+| [Tour al Teide, Icod de los Vinos, Garachico y Masca](/ciudades/tenerife/actividades/tour-teide-masca-icod-garachico) | 4,6★ (3.066) | 58 € |
+
 ## El teleférico del Teide
 
 Sale de la **estación base (2.356 m)**, junto a la carretera TF-21, y sube en **menos de 8 minutos** a **La Rambleta (3.555 m)**. Arriba hay tres senderos:

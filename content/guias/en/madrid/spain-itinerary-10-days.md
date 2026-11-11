@@ -116,6 +116,12 @@ Morning flight (1 h 25) and an afternoon in the **Gothic Quarter** and the **Bor
 
 Depending on the weather and your flight time. The full plan is in [Barcelona in 3 days](/en/guides/barcelona/barcelona-in-3-days).
 
+[actividad: museo-prado-entrada]
+
+[actividad: real-alcazar-sevilla-entrada]
+
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## Spain by train: journeys and prices
 
 | Journey | How | Time | Rough price |

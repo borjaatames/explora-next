@@ -61,6 +61,19 @@ opciones:
     etiqueta: Private by day
 ---
 
+## What options are left?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Another night | Official website, Nasrid Palaces night visit | €12.73 |
+| To buy on the spot | Night box office, an hour before entry | €12 |
+| The palaces at night + gardens by day | Alhambra Experiences, two consecutive days | €22.27 |
+| A separate allocation | Granada Card 24h, night visit included | €50 |
+| Free | No free night visit; under-12s go free | €0 |
+| A guide, entry included | [Nasrid Palaces night tour](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
+| Generalife and Alcazaba by day | [Gardens and Generalife, no Nasrid Palaces](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.50 |
+| The Alhambra from outside at dusk | [Albaicín and Sacromonte sunset tour](/en/cities/granada/activities/albaicin-sacromonte-sunset-tour), 4.9★ (3,200) | €15 |
+
 ## Alhambra night visit: opening hours by season
 
 There are two different night visits. These are the times published by the Alhambra Trust (Patronato):
@@ -140,3 +153,7 @@ In this order:
 4. **Forgetting your ID.** It's checked at the entrance.
 
 To plan the rest of your visit, read [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
+
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: flamenco-cueva-zincale-sacromonte]

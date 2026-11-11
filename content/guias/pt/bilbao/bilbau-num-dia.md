@@ -48,6 +48,16 @@ faq:
   respuesta: O centro faz-se a pé ao longo da ría. Para o resto há metro, elétrico e o funicular de Artxanda. O cartão Barik (3 €) serve para tudo, pode ser partilhado e baixa cada viagem de 1,90 € para 0,90-1,30 €.
 ---
 
+## Reserve o principal
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour a pé pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4,7★ (449) | 42 € |
+| [Tour de pintxos com vinho](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
+| [Barco pela ria (1 h ou 2 h)](/pt/cities/bilbao/activities/bilbau-passeio-barco-ria-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museu e estádio de San Mamés](/pt/cities/bilbao/activities/bilbau-san-mames-museu-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica com txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## O roteiro do dia: o que ver em Bilbau
 
 - **9:30 · Museu Guggenheim.** Por fora, grátis: o *Puppy* de Koons, a aranha *Maman* de Bourgeois, a escultura de nevoeiro e o fogo ao anoitecer. Lá dentro, *A Matéria do Tempo* de Richard Serra. Conte com **duas horas e meia**.

@@ -41,6 +41,14 @@ faq:
   respuesta: Sí, sale del puerto de Málaga y está pensada para volver a tiempo al barco.
 ---
 
+## Tres formas de hacerlo
+
+| Opción | Viaje | Entradas | Precio aproximado |
+| --- | --- | --- | --- |
+| Coche propio o de alquiler | 1 h 30 por trayecto | Las compras tú en la web oficial | Gasolina, aparcamiento y entrada |
+| Autobús de línea | algo menos de 2 h | Las compras tú | Billete y entrada |
+| [Excursión privada](/ciudades/malaga/actividades/granada-alhambra-excursion-privada-desde-malaga) | Recogida en tu alojamiento | Incluidas, con guía privado | 397 € por persona (mínimo 2) |
+
 ## Qué vas a ver en la Alhambra
 
 El recinto reúne cuatro conjuntos, todos incluidos en la entrada General:

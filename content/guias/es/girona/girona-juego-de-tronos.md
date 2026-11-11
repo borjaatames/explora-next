@@ -47,6 +47,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "Escalinata de la catedral de Girona"
 ---
 
+## Tours de Juego de Tronos
+
+| Plan | Actividad | Desde |
+| --- | --- | --- |
+| El más valorado | [Tour de Juego de Tronos en grupo reducido](/ciudades/girona/actividades/girona-juego-de-tronos-tour-grupo-reducido), 4,9★ (951) | 35 € |
+| Solo para tu grupo | [Tour privado de Juego de Tronos](/ciudades/girona/actividades/girona-juego-de-tronos-tour-privado), precio por grupo | 260 € |
+| Historia de Girona y escenarios | [Tour a pie por el Barri Vell](/ciudades/girona/actividades/girona-tour-a-pie-grupo-reducido), 4,8★ (826) | 35 € |
+| La catedral por dentro | [Catedral, Museu d'Art y Sant Feliu](/ciudades/girona/actividades/girona-catedral-museu-art-sant-feliu-entrada), 4,5★ (195) | 12 € |
+
 ## Los escenarios de Juego de Tronos en Girona: de la catedral a Braavos
 
 - **Escalinata de la Catedral:** el exterior del Gran Septo de Baelor de Desembarco del Rey. Por ella sube a caballo Jaime Lannister con el ejército Tyrell.
@@ -57,6 +66,8 @@ imagen_alt: "Escalinata de la catedral de Girona"
 - **Passeig Arqueològic:** la muralla, fondo de varias secuencias.
 
 Ojo: **Girona no se rodó entera**. Las escenas de Braavos mezclan Girona con Šibenik (Croacia): si una localización no la encuentras, probablemente no está aquí.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## La ruta a pie por los escenarios
 

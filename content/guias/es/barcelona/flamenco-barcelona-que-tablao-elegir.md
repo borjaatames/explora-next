@@ -59,6 +59,15 @@ actividades:
 
 ## Los 4 shows de flamenco en Barcelona
 
+| Show | Precio desde | Formato | Ambiente | Ideal para |
+|---|---|---|---|---|
+| [Teatro City Hall](/ciudades/barcelona/actividades/flamenco-en-el-teatro-city-hall-mas-vendido) | 25 € | Teatro de gran aforo | El más reservado de Barcelona, 4 pases diarios | Quien busca el precio más bajo y máxima flexibilidad de horario |
+| [Palau Dalmases](/ciudades/barcelona/actividades/palau-dalmases-flamenco-show-palacio-siglo-xvii) | 30 € | Palacio barroco del s. XVII, El Born | El venue más espectacular arquitectónicamente, junto al Museo Picasso | Quien quiere una experiencia con más carácter histórico |
+| [Tablao de Carmen](/ciudades/barcelona/actividades/tablao-de-carmen-flamenco-cena-poble-espanyol) | 88 € | Tablao con cena servida durante el show, Poble Espanyol | El único que sirve la cena mientras ocurre el espectáculo, como se hacía tradicionalmente | Quien quiere la experiencia completa de cena + show |
+| [Tablao Cordobés](/ciudades/barcelona/actividades/tablao-flamenco-cordobes-cena-show-las-ramblas) | 48 € | Tablao histórico (1970) en La Rambla, show sin micrófonos | Formato íntimo, voz y guitarra sin amplificar | Quien quiere sonido acústico real en plena Rambla |
+
+## Los 4 shows de flamenco en Barcelona
+
 | Show | Precio desde | Formato | Ideal para |
 |---|---|---|---|
 | Teatro City Hall | 25 € | Teatro de gran aforo, el más reservado de Barcelona, 4 pases diarios | Quien busca el precio más bajo y máxima flexibilidad de horario |

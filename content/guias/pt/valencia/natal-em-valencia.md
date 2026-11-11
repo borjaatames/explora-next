@@ -68,6 +68,10 @@ actividades:
 
 Exceto a Expojove, que já publicou as datas de 2026, são as da edição 2025-26. A Câmara apresenta o programa em novembro e atualizaremos o guia quando sair.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Luzes de Natal em Valência e pirotecnia na Plaza del Ayuntamiento
 
 Em 2025 Valência acendeu o Natal com um piromusical, música ao vivo e uma **árvore de 25 metros** na Plaza del Ayuntamiento, ao lado do presépio municipal. Pela cidade:
@@ -77,6 +81,8 @@ Em 2025 Valência acendeu o Natal com um piromusical, música ao vivo e uma **á
 - Uma esfera e um sino por onde se pode passar, nas praças de Segrelles e do Patriarca.
 
 O mais valenciano são os **piromusicais de sábado às 18:30**: três minutos de pólvora ao ritmo de uma canção, grátis. Chegue dez minutos antes. Em 2025 os comerciantes do centro montaram ainda pista de gelo, carrossel, comboio e roda-gigante entre a Plaza del Ayuntamiento e a de San Agustín.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Mercados de Natal e presépios
 
@@ -91,6 +97,8 @@ O mais valenciano são os **piromusicais de sábado às 18:30**: três minutos d
 - A **Expojove** é o grande programa: dez dias de jogos, oficinas e espaços para os mais pequenos na Feria València, de **26 de dezembro de 2026 a 4 de janeiro de 2027**, das 11:00 às 20:00, **desde 3 €**. A 31 abre só das 10:00 às 14:00 e a 1 de janeiro das 16:00 às 21:00. Chega-se de metro ou no autocarro 62.
 - **Piromusical de sábado:** três minutos, sem demasiada gente se chegar um pouco antes.
 - **Ciutat de les Arts i les Ciències:** alarga horários e atividades no Natal e publica o calendário em cac.es. O Museu das Ciências e o Hemisfèric fecharam a 25 de dezembro em 2025.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## Passagem de ano e Cavalgada de Reis em Valência
 

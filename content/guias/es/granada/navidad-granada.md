@@ -69,6 +69,10 @@ actividades:
 
 Son fechas de la edición 2025-26. El Ayuntamiento presenta el programa a finales de noviembre; actualizaremos la guía cuando salga.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Luces de Navidad en Granada y mercadillos
 
 En 2025 el alumbrado se encendió el **sábado 29 de noviembre**, con baile y villancicos granadinos a las 20:00 y encendido a las 20:30, y coros repartidos por Bib-Rambla, Puerta Real, Zacatín y la Fuente de las Batallas.
@@ -98,6 +102,8 @@ Las entradas oficiales de los puentes y de Navidad se agotan con semanas. Una **
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## Sierra Nevada en Navidad y planes con niños
 
 La estación está a unos **30 km de Granada**. En 2025-26 abrió el **29 de noviembre**, con pistas en Borreguiles y cañones de nieve artificial, y estrenó iluminación en las pistas de El Río para el **esquí nocturno de los sábados**. Para 2026-27 ha anunciado nuevas máquinas de nieve para abrir antes la zona de debutantes, pero no la fecha. Los puentes de diciembre y la semana entre Navidad y Reyes son los días de más gente. Si no esquiáis, la **Alpujarra** en invierno, con chimeneas encendidas y nieve en las cumbres, es una excursión de día más tranquila.
@@ -108,6 +114,8 @@ La estación está a unos **30 km de Granada**. En 2025-26 abrió el **29 de nov
 - El **espectáculo de luces** de la Plaza del Carmen, corto y gratis.
 - El **Cartero Real**, que recoge cartas en el patio del Ayuntamiento.
 - En Sierra Nevada, trineos en la zona de **Mirlo Blanco** y pistas para principiantes en Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## Nochevieja, Toma de Granada (2 de enero) y Cabalgata de Reyes
 
@@ -124,3 +132,5 @@ Las cuevas del **Sacromonte** son el plan nocturno por excelencia: la Cueva La R
 - **Subir al Albaicín a las 18:30:** en diciembre ya es de noche; para la luz del atardecer, sube hacia las 17:00.
 - **Subir a Sierra Nevada sin cadenas o sin mirar la DGT:** con nevada, la carretera puede exigirlas.
 - **Dar por hecho que el 2 de enero es laborable:** en Granada es festivo y muchas tiendas cierran.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

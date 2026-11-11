@@ -53,6 +53,15 @@ opciones:
     etiqueta: Salita in vetta
 ---
 
+## Quale biglietto scegliere?
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Escursione al Teide con funivia e transfer](/it/cities/tenerife/activities/escursione-teide-funivia-trasferimento) | 4,3★ (6.121) | 92 € |
+| [Tramonto e stelle nel Parco Nazionale del Teide](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 4,7★ (3.691) | 35 € |
+| [Tour Teide, Icod de los Vinos, Garachico e Masca](/it/cities/tenerife/activities/tour-teide-masca-icod-garachico) | 4,6★ (3.066) | 58 € |
+| [Visita guidata all'Osservatorio del Teide](/en/cities/tenerife/activities/teide-observatory-guided-visit) | 4,6★ (918) | 21 € |
+
 ## La funivia del Teide
 
 Parte dalla **stazione a valle (2.356 m)**, lungo la strada TF-21, e sale in **meno di 8 minuti** a **La Rambleta (3.555 m)**. In cima ci sono tre sentieri:
@@ -64,6 +73,8 @@ Parte dalla **stazione a valle (2.356 m)**, lungo la strada TF-21, e sale in **m
 **Prezzo e orari:** circa **42 € andata e ritorno** per adulto (21 € bambini), con **prenotazione online obbligatoria per fascia oraria**; in biglietteria non ci sono quasi mai posti. Da fine ottobre a marzo funziona dalle 9:00 alle 17:00 (ultima salita alle 16:00); d'estate e a Pasqua, fino alle 18:40. Le fasce del mattino si esauriscono una o due settimane prima in stagione.
 
 **Chiude con vento forte o ghiaccio**, soprattutto in inverno e a volte senza preavviso. Porta una giacca pesante e scarpe chiuse: non si sale con sandali o tacchi.
+
+[actividad: teide-cable-car-tour-transfer]
 
 ## Il permesso per la vetta del Teide
 
@@ -88,6 +99,8 @@ I guardiaparco possono farti tornare indietro se non hai l'attrezzatura obbligat
 Anche se non sali, il parco merita il viaggio: il **circuito dei Roques de García** (3,6 km, circa 2 ore) gira intorno alle formazioni più famose con il Teide sullo sfondo. Fermati ai belvedere della TF-21, come quello di **Minas de San José**, e al **Parador**.
 
 Di notte, grazie all'altitudine e alla **Legge del Cielo** (Ley del Cielo), che protegge l'isola dall'inquinamento luminoso, Tenerife è uno dei posti migliori al mondo per osservare le stelle. Ci sono tour al tramonto con **telescopio** e guide Starlight, e visite all'**Osservatorio del Teide**. Porta abiti invernali: di notte fa molto freddo.
+
+[actividad: teide-sunset-stargazing-tour]
 
 ## Come arrivare, parcheggiare e mangiare
 

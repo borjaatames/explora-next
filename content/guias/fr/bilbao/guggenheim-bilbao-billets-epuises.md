@@ -50,6 +50,12 @@ opciones:
     etiqueta: Petit groupe
 ---
 
+## Quelle option choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Petit groupe et plus de temps avec le guide | [Visite VIP en petit groupe avec billet](/fr/cities/bilbao/activities/guggenheim-bilbao-visite-vip-petit-groupe), 4,5★ (763) | 95 € |
+
 ## Billets épuisés : essayez un autre horaire sur le site officiel
 
 La vente officielle se fait sur **guggenheim-bilbao.eus**, et le musée recommande de n'acheter que là pour éviter la fraude. Le Guggenheim n'est presque jamais complet pour toute la journée : ce qui se remplit, surtout le week-end, à Pâques, en été et les jours de pluie, c'est **le créneau que vous vouliez**.
@@ -84,6 +90,8 @@ Quand le site officiel n'a plus l'horaire voulu, les opérateurs ont souvent des
 Avant de payer, vérifiez que la fiche indique **« entrée au musée incluse »** et regardez les conditions d'annulation : certaines visites ne parcourent que l'extérieur.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
+
+[actividad: guggenheim-bilbao-vip-grupo-reducido]
 
 ## Sans billet : les œuvres gratuites de l'extérieur
 

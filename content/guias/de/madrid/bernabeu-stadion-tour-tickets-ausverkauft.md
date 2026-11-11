@@ -57,6 +57,19 @@ opciones:
     etiqueta: Von außen im Tuk-Tuk
 ---
 
+## Welche Möglichkeiten bleiben?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Eine andere Uhrzeit am selben Tag | Offizielle Website, Tour Classic mit Uhrzeit | 37 € |
+| Keine feste Uhrzeit | Classic mit flexibler Uhrzeit, ganztägig gültig | 44 € |
+| Direkt vor Ort kaufen | Stadionkasse | 40 € |
+| Kostenlosen Eintritt | Es gibt keine kostenlose Tour | — |
+| Das Ticket ohne Guide | [Tour Bernabéu, offizielles Ticket](/en/cities/madrid/activities/bernabeu-entry-ticket), 4,5★ (23.468) | 37 € |
+| Guide und kostenlose Stornierung | [Führung mit Fußballexperten](/en/cities/madrid/activities/bernabeu-guided-tour), 4,1★ (1.532) | 58 € |
+| Ein anderes Stadion in Madrid | [Tour durch das Riyadh Air Metropolitano](/en/cities/madrid/activities/wanda-metropolitano-atletico-tour), 4,7★ (2.188) | 25 € |
+| Das Bernabéu von außen | [Privates Tuk-Tuk: Bernabéu und Goldene Meile](/en/cities/madrid/activities/tuk-tuk-bernabeu-golden-mile-madrid) | 79 € pro Tuk-Tuk |
+
 ## Was du bei der Real-Madrid-Stadionbesichtigung siehst
 
 Das Stadion wurde 1947 eröffnet und zwischen 2019 und 2024 grundlegend umgebaut: Außenhaut aus Stahllamellen, **einziehbares Dach** und ein Rasen, der entfernt und unter den Tribünen gelagert werden kann. Die Tour umfasst:
@@ -66,6 +79,8 @@ Das Stadion wurde 1947 eröffnet und zwischen 2019 und 2024 grundlegend umgebaut
 - **Umkleiden und Trainerbänke**, wenn kein Spiel ansteht.
 
 Du gehst in eigenem Tempo, **anderthalb bis zwei Stunden**. Achtung: Der Rundgang hat **viele Treppen**.
+
+[actividad: bernabeu-ticket-acceso]
 
 ## Bernabéu-Tour: Preis und Öffnungszeiten
 
@@ -95,6 +110,10 @@ An Brückentagen, in den Schulferien und an Wochenenden sind einige Zeitfenster 
 [actividad: bernabeu-visita-guiada]
 
 Klappt gar nichts, bietet die **Tour durch das Riyadh Air Metropolitano**, das Stadion von Atlético Madrid (ab 25 €), ein interaktives Museum, Umkleiden und die Präsidentenloge. Und um das Bernabéu **von außen** zu sehen, gibt es eine private Elektro-Tuk-Tuk-Fahrt von 1 Std. 15 Min. über Cibeles, Colón, AZCA, das Stadion, das Viertel Salamanca und den Retiro, ab 79 € pro Tuk-Tuk (bis 4 Personen).
+
+[actividad: wanda-metropolitano-atletico-tour]
+
+[actividad: tuk-tuk-bernabeu-milla-oro-madrid]
 
 ## Bernabéu-Tour am Spieltag
 

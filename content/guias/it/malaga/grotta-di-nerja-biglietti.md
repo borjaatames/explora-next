@@ -53,6 +53,14 @@ opciones:
     etiqueta: Privata
 ---
 
+## Quale opzione scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Andare da solo con audioguida | [Biglietto Grotta di Nerja con audioguida](/it/cities/malaga/activities/biglietto-grotta-di-nerja-audioguida), 4,6★ (2.107) | 15,50 € |
+| Il trasporto da Malaga | [Grotta di Nerja, Nerja e Frigiliana in un giorno](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga), 4,6★ (3.192) | 69 € |
+| Solo il vostro gruppo | [Escursione privata a Nerja e Frigiliana con la grotta](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | 700 € a gruppo |
+
 ## Cosa vedrai
 
 - **La grotta:** un percorso di circa **45 minuti** tra stalattiti e colonne illuminate, con scale e passerelle. Dentro fa fresco tutto l'anno e il pavimento può essere umido: porta **scarpe chiuse**.

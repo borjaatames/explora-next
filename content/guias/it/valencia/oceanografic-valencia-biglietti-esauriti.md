@@ -60,6 +60,19 @@ opciones:
     etiqueta: Tour privato
 ---
 
+## Quale opzione ti resta?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Un altro giorno vicino | Sito ufficiale, calendario delle tariffe | 35,90 € |
+| Comprare sul posto | Biglietteria, fino a un'ora prima della chiusura | Tariffa del giorno |
+| Entrare gratis | Non ci sono orari gratuiti; solo sotto i 4 anni | 0 € |
+| Il biglietto singolo | [Ingresso all'Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket), 4,7★ (11.540) | 37 € |
+| Oceanogràfic e Museu | [Biglietto combinato](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket), 4,7★ (2.797) | 39 € |
+| Le tre attrazioni | [Biglietto 3 in 1 con Hemisfèric e Museu](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket), 4,5★ (3.518) | 46 € |
+| Tour privato con ingresso | [Valencia modernista con opzione Oceanogràfic](/en/cities/valencia/activities/valencia-art-nouveau-private-tour-oceanografic) | 137 € con ingresso |
+| Alternativa con animali | [Bioparc Valencia](/en/cities/valencia/activities/bioparc-valencia-ticket), 4,8★ (2.988) | 29,50 € |
+
 ## Oceanogràfic di Valencia: prezzi in base al giorno
 
 La vendita ufficiale è su entradas.oceanografic.org, collegato da oceanografic.org. L'Oceanogràfic **non ha un prezzo unico**: il sito pubblica un calendario con diverse tariffe a seconda della data.
@@ -102,6 +115,12 @@ Fuori stagione è raro restare senza biglietto. Il sito ufficiale non indica tem
 - **Bioparc Valencia** (da 29,50 €): zoo d'immersione con savana, foresta equatoriale e Madagascar, senza barriere visibili. È l'alternativa più simile se vai per gli animali.
 - **Il complesso da fuori, gratis:** l'Umbracle, le vasche e gli edifici di Calatrava si visitano senza biglietto. Lo spieghiamo in [come visitare la Città delle Arti e delle Scienze](/it/guides/valencia/citta-delle-arti-e-delle-scienze-come-visitarla).
 - **Tour privato «Valencia modernista»:** tre ore tra la Estació del Nord, il Mercado de Colón e le case dell'Ensanche fino alla Città delle Arti. L'opzione completa include i biglietti salta-coda per l'Oceanogràfic, da circa 137 € a persona in coppia; la guida non entra con te nell'acquario.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+
+[actividad: valencia-modernista-tour-privado-oceanografic]
+
+[actividad: bioparc-valencia-entrada]
 
 ## Consigli
 

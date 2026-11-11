@@ -57,6 +57,17 @@ faq:
 
 If you only have one day, or arrive on a cruise, the condensed version is in [Málaga in one day](/en/guides/malaga/malaga-in-one-day).
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €13 |
+| [Picasso Museum ticket with audio guide](/en/cities/malaga/activities/picasso-museum-malaga-ticket) | 4.5★ (14,246) | €13 |
+| [Cathedral, Alcazaba and Theatre with tickets](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4.6★ (1,134) | €32.76 |
+| [Sunset catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
+| [Hammam Al Ándalus Arab baths](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4.7★ (2,909) | €60 |
+| [Caminito del Rey guided tour from Málaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+
 ## Day 1: old town and museums
 
 | Time | What |
@@ -74,6 +85,8 @@ If you only have one day, or arrive on a cruise, the condensed version is in [M�
 - **Picasso Museum:** more than 200 works in the Buenavista palace, and five minutes away the **Picasso Birthplace** on Plaza de la Merced. Want more art? The Pompidou (the Cube), the Carmen Thyssen or the Russian Museum Collection.
 - **Muelle Uno and La Malagueta:** the revamped port and an **espeto de sardinas** (sardines grilled on a skewer) at a beach bar at sunset, the most Málaga plan there is.
 
+[actividad: alcazaba-roman-theatre-malaga-guided-tour]
+
 ## Day 2: Caminito del Rey or the coast
 
 The **Caminito del Rey**, an hour away by local train or car, is a walkway pinned to the walls of the Gaitanes gorge: about **8 km one way, 3–4 hours with the shuttle bus**, and it **sells out weeks ahead**; there's no entry without a booking.
@@ -87,6 +100,8 @@ All the details in [how to visit the Caminito del Rey](/en/guides/malaga/caminit
 [actividad: caminito-del-rey-guiado-desde-malaga]
 
 **Prefer the coast?** Nerja and Frigiliana (the Balcón de Europa and one of the prettiest white villages), Ronda above its gorge, or Antequera with its dolmens and El Torcal.
+
+[actividad: caminito-del-rey-guided-tour-from-malaga]
 
 ## Malaga Alcazaba, Picasso and Caminito del Rey: prices and hours
 

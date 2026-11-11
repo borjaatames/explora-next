@@ -94,6 +94,8 @@ La coda si forma accanto alla **Porta di Goya**, sul lato nord dell'edificio, mo
 - **Domenica e festivi:** più attesa e meno museo, perché chiude alle 19:00.
 - **Non arrivare alle 18:00 in punto:** quando arrivi alla biglietteria avrai perso buona parte del tempo.
 
+[actividad: museo-prado-visita-guiada]
+
 ## Cosa vedere al Prado in due ore gratis
 
 In pratica hai un'ora e un quarto o un'ora e mezza. Prendi la piantina all'ingresso e vai dritto a:

@@ -49,6 +49,16 @@ faq:
 
 Si [Salamanca en un día](/guias/salamanca/salamanca-en-1-dia) es la lista, el fin de semana es vivirla. Este es el plan.
 
+## Planes que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
+| [Tour de leyendas al anochecer](/ciudades/salamanca/actividades/salamanca-leyendas-al-anochecer) | 4,7★ (90) | 17 € |
+| [Tour guiado en bicicleta](/ciudades/salamanca/actividades/tour-bici-salamanca-panoramico) | 4,6★ (52) | 25 € |
+| [Clase magistral de jamón ibérico con cata](/ciudades/salamanca/actividades/jamon-iberico-clase-magistral-cata-salamanca) | 4,9★ (16) | 29 € |
+| [Entrada a las catedrales con audioguía](/ciudades/salamanca/actividades/catedrales-salamanca-entrada-audioguia) | 4,6★ (202) | 10 € |
+
 ## Día 1 (sábado): los grandes monumentos y la noche
 
 **Mañana (10:00-14:00).** Desayuno en una terraza de la Plaza Mayor y la ruta clásica: **Casa de las Conchas** (gratis), **torres de la Clerecía** (3,75 €, la mejor vista de la ciudad), **Universidad** (10 €; busca la rana; detalle en [cómo visitarla](/guias/salamanca/universidad-de-salamanca-como-visitar)) y las **dos catedrales** (10 €). Tres o cuatro horas con calma; no te saltes la Catedral Vieja, más interesante que la Nueva.

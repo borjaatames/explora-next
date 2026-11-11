@@ -49,6 +49,14 @@ opciones:
     etiqueta: Desde Barcelona
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrar con guía y sin depender de la web oficial | [Teatro-Museo Dalí: visita guiada con entrada](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
+| Ir desde Barcelona con el transporte resuelto | [Girona, Figueres y Cadaqués: excursión de un día desde Barcelona](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 40 € |
+| Ir desde Barcelona en grupo pequeño, con recogida en el hotel | [Museo Dalí, Cadaqués y Portlligat en grupo reducido](/ciudades/barcelona/actividades/triangulo-dali-cadaques-grupo-reducido-recogida-hotel-barcelona), 4,8★ (246) | 119 € + entradas |
+
 ## Entradas del Museo Dalí de última hora: vuelve a mirar la web oficial
 
 La única web oficial de venta es **tickets.salvador-dali.org**, enlazada desde salvador-dali.org, la web de la Fundació Gala-Salvador Dalí. Desconfía de las webs que la imitan: cobran de más y no siempre dan una entrada válida.
@@ -79,6 +87,8 @@ Cuando la web oficial no tiene nada, los operadores suelen tener plazas porque r
 Lee siempre si incluye la entrada: hay paseos por Figueres que solo pasan por la fachada y no lo dicen claro.
 
 [actividad: teatro-museo-dali-figueres-visita-guiada]
+
+[actividad: girona-figueres-dali-cadaques-desde-barcelona]
 
 ## Los otros museos Dalí: Púbol y Portlligat
 

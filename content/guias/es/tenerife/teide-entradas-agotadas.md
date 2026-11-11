@@ -53,6 +53,15 @@ opciones:
     etiqueta: A la cima a pie
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Teleférico ya incluido | [Excursión al Teide con teleférico y traslado](/ciudades/tenerife/actividades/teide-teleferico-traslado), 4,3★ (6.121) | 92 € |
+| La cima a pie con guía | [Subida guiada a la cumbre del Teide](/ciudades/tenerife/actividades/teide-subida-cumbre-ruta-guiada), 4,9★ (94) | 189 € |
+| El Teide de noche | [Atardecer y estrellas en el Parque Nacional](/ciudades/tenerife/actividades/atardecer-estrellas-teide-telescopio), 4,7★ (3.691) | 35 € |
+| Teide y norte de la isla | [Tour al Teide, Icod, Garachico y Masca](/ciudades/tenerife/actividades/tour-teide-masca-icod-garachico), 4,6★ (3.066) | 58 € |
+
 ## Teleférico del Teide agotado: cambia de hora o de día
 
 El billete se compra en volcanoteide.com y cuesta **unos 42 €** ida y vuelta por adulto. Sube en menos de 8 minutos de la estación base (2.356 m) a **La Rambleta (3.555 m)**.
@@ -95,6 +104,8 @@ Si no hay manera, el parque merece igualmente el viaje:
 - El **circuito de los Roques de García** (3,6 km, unas 2 horas), con el Teide de fondo.
 - Los miradores de la carretera TF-21, como el de **Minas de San José**.
 - Las **estrellas**: los tours de atardecer con telescopio se hacen desde miradores del parque y no necesitan teleférico ni permiso.
+
+[actividad: atardecer-estrellas-teide-telescopio]
 
 ## Consejos
 

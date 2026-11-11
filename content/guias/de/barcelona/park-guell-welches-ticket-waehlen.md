@@ -54,6 +54,13 @@ faq:
   respuesta: Etwa 1 Std. 30 für den Monumentalbereich in Ruhe, 2 bis 3 Stunden mit dem Museum und eine Stunde mehr, wenn du zum Aussichtspunkt hinaufgehst.
 ---
 
+## Welches Ticket wählen?
+
+| Option | Ab | Dauer | Format | Ideal für |
+|---|---|---|---|---|
+| [Ticket ohne Anstehen für den Monumentalbereich](/en/cities/barcelona/activities/park-guell-admission-ticket) | 21,50 € | 1,5-2 Std. | Auf eigene Faust, ohne Guide | Wer nur das günstigste Ticket will, im eigenen Tempo |
+| [Ticket + Casa Museu Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | 28 € | 2-3 Std. | Auf eigene Faust + Museum | Wer auch das Haus sehen will, in dem Gaudí lebte |
+
 ## Was jedes Ticket enthält
 
 **Basisticket für den Monumentalbereich.** Einlass in deinem Zeitfenster zur Drachentreppe, zur Säulenhalle, zum Platz mit der geschwungenen Bank und zu den Säulengängen und, je nach Kapazität, zur **Casa del Guarda**, dem Pavillon am Eingang. Ohne Guide und ohne Audioguide. Es ist die meistverkaufte Option (4,4/5 aus über 81.000 Bewertungen), Dauer **1,5-2 Stunden**.
@@ -64,6 +71,8 @@ faq:
 - **Es liegt oben im Park**, 10-15 Minuten zu Fuß bergauf vom unteren Eingang.
 - **Es schließt eine Stunde vor dem Park**, heb es dir also nicht für den Schluss auf.
 - **Die Casa del Guarda ist nicht enthalten**, das ist ein anderes Gebäude.
+
+[actividad: park-guell-entrada-zona-monumental]
 
 ## Park Güell Eintritt: Preise und Öffnungszeiten
 

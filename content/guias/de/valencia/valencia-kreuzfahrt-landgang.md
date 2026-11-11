@@ -83,6 +83,10 @@ Wenn du einen Guide willst: Die privaten Touren starten an den **Torres de Serra
 
 Für zwei Tage in der Stadt siehe [Valencia in 2 Tagen](/de/guides/valencia/valencia-in-2-tagen); zur Wahl des Reislokals [Paella in Valencia](/de/guides/valencia/paella-in-valencia).
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: oceanografic-valencia-entrada]
+
 ## Ausflug der Reederei oder auf eigene Faust
 
 In Valencia musst du die Stadt nicht verlassen: Alles Wichtige siehst du auf eigene Faust oder bei einem Stadtrundgang.

@@ -49,6 +49,15 @@ opciones:
     etiqueta: From Barcelona
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A guide, without relying on the official site | [Dalí Theatre-Museum guided tour with entry](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
+| To go from Barcelona with transport sorted | [Girona, Figueres and Cadaqués day trip from Barcelona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
+| A small group from Barcelona with entry and Dalí's house | [Dalí Museum, Portlligat house and Cadaqués, small group](/en/cities/barcelona/activities/dali-museum-house-portlligat-cadaques-small-group-from-barcelona), 4.7★ (1,120) | €109 |
+| A small group with hotel pickup | [Dalí Museum, Cadaqués and Portlligat with hotel pickup](/en/cities/barcelona/activities/dali-triangle-cadaques-small-group-hotel-pickup-barcelona), 4.8★ (246) | €119 + tickets |
+
 ## Dalí Museum last-minute tickets: check the official website again
 
 The only official sales website is **tickets.salvador-dali.org**, linked from salvador-dali.org, the Gala-Salvador Dalí Foundation's site. Beware of look-alike sites: they overcharge and don't always give a valid ticket.
@@ -79,6 +88,8 @@ When the official website has nothing, operators often still have places because
 Always check whether entry is included: some Figueres walks only pass the façade and don't make it clear.
 
 [actividad: teatro-museo-dali-figueres-visita-guiada]
+
+[actividad: girona-figueres-dali-cadaques-desde-barcelona]
 
 ## The other Dalí museums: Púbol and Portlligat
 

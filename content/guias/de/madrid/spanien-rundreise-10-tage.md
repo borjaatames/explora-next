@@ -116,6 +116,14 @@ Flug am Vormittag (1 Std. 25) und Nachmittag im **Gòtic** und im **Born**.
 
 Je nach Wetter und Abflugzeit. Der komplette Plan steht in [Barcelona in 3 Tagen](/de/guides/barcelona/barcelona-in-3-tagen).
 
+[actividad: prado-museum-entry-ticket]
+
+[actividad: real-alcazar-seville-entry-ticket]
+
+[actividad: alhambra-generalife-fuehrung]
+
+[actividad: sagrada-familia-ticket-audio-guide]
+
 ## Spanien-Rundreise mit dem Zug: Strecken und Preise
 
 | Strecke | Wie | Dauer | Preis (Richtwert) |

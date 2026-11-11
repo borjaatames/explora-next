@@ -58,6 +58,14 @@ opciones:
     etiqueta: Con la Catedral
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Te recomendamos | Desde |
+| --- | --- | --- |
+| Alcázar con guía y sin colas | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
+| Lo esencial de Sevilla en una mañana | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
+
 ## Qué ver dentro del Real Alcázar de Sevilla
 
 El Alcázar es un palacio de capas: almohade, mudéjar, gótico y renacentista, una encima de otra. Estas son las piezas que no te puedes saltar:
@@ -71,6 +79,8 @@ El Alcázar es un palacio de capas: almohade, mudéjar, gótico y renacentista, 
 - **Jardines:** más de la mitad del recinto, con la Galería del Grutesco y el Estanque de Mercurio. Fueron los Jardines del Agua de Dorne en *Juego de Tronos*.
 
 La visita completa lleva **unas 2,5-3 horas**. Reserva al menos 45 minutos para los jardines.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Precio de la entrada al Alcázar de Sevilla
 

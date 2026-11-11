@@ -45,6 +45,15 @@ faq:
   respuesta: Le château de Sagonte est gratuit, tout comme le théâtre romain. Celui de Xàtiva coûte 6 € (gratuit le mardi) et celui du Pape Luna à Peñíscola, 5 €. Sagonte et Xàtiva ferment le lundi.
 ---
 
+## Excursions avec transport depuis Valence
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Guadalest, Altea et Fuentes del Algar](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4,7★ (553) | 30 € |
+| [Excursion à la Cala Granadella à Jávea](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | 85 € |
+| [Excursion aux grottes de San José depuis Valence](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4,6★ (785) | 55 € |
+| [Excursion à Montanejos en bus](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | 42 € |
+
 ## Les meilleures escapades depuis Valence
 
 | Destination | Distance | Idéal pour |

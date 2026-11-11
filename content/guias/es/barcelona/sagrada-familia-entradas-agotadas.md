@@ -56,6 +56,15 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada suelta de reventa | [Entrada con audioguía](/ciudades/barcelona/actividades/entrada-sagrada-familia-audioguia), 4,6★ (113.748) | 34 € |
+| Con guía y grupo pequeño | [Visita guiada en grupo reducido](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-grupo-reducido), 4,7★ (3.690) | 99 € |
+| Sagrada Familia y Park Güell | [Tour de los dos sin colas](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado), 4,8★ (6.776) | 104 € |
+| Con subida a una torre | [Tour guiado con torre](/ciudades/barcelona/actividades/sagrada-familia-tour-con-torre), 4,4★ (5.518) | 75 € |
+
 ## Precios y cuándo salen las entradas
 
 La Sagrada Familia vende **solo online y con hora**, en sagradafamilia.org, aproximadamente **con dos meses de antelación**. En verano, Semana Santa y puentes, las franjas buenas se van en cuanto salen.

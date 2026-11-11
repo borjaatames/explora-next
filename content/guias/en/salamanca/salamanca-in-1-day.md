@@ -45,6 +45,12 @@ faq:
   respuesta: Sitting on a skull on the 1512 plateresque façade of the Historic Building. Tradition says you should find it without help; if you can't, someone will point it out.
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |
+
 ## The day plan: a Salamanca route in one day
 
 | Time | Plan |
@@ -74,6 +80,10 @@ Expect to walk **10-15 km** over the day: wear good shoes.
 **Casa Lis or San Esteban** (**€4** each), not both. Casa Lis is the Art Nouveau and Art Deco museum with stained glass above the river (free on Thursdays 11:00-14:00); San Esteban is the Dominican convent with a plateresque cloister.
 
 **Roman Bridge at sunset.** Ten minutes downhill, the full postcard: the cathedrals on the hill and the Clerecía in golden stone. If you have energy left, climb to the Arrabal for another view.
+
+[actividad: university-of-salamanca-guided-tour]
+
+[actividad: salamanca-legends-evening-walking-tour]
 
 ## How to get there
 

@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Grupo de 6: 150 € por persona"
 ---
 
+## Tabla de precios por persona
+
+| Excursión desde Granada | En grupo (por persona) | Privado, 2 personas | Privado, 4 personas | Privado, 6 personas |
+| --- | --- | --- | --- | --- |
+| La Alpujarra | [71 €](/ciudades/granada/actividades/alpujarra-pueblos-montana) · [115 €](/ciudades/granada/actividades/alpujarra-originals-pueblos-curados) grupo más reducido | [320 €](/ciudades/granada/actividades/alpujarra-excursion-privada-desde-granada) (640 € total) | 200 € (800 €) | 160 € (960 €) |
+| Ronda | [135 €](/ciudades/granada/actividades/ronda-desde-granada) | [270 €](/ciudades/granada/actividades/ronda-excursion-privada-desde-granada) sin guía (540 €) · 350 € con guía (700 €) | 210 € (840 €) · 250 € con guía (1.000 €) | 170 € (1.020 €) sin guía |
+| Caminito del Rey | [135 €](/ciudades/granada/actividades/caminito-del-rey-desde-granada) con almuerzo | [340 €](/ciudades/granada/actividades/caminito-del-rey-desde-granada-transporte-privado) (680 €) | 210 € (840 €) | 150 € (900 €) |
+| Úbeda y Baeza | [135 €](/ciudades/granada/actividades/ubeda-baeza-renacimiento) | [388 €](/ciudades/granada/actividades/ubeda-baeza-excursion-privada-desde-granada) (776 €) | 211 € (844 €) | — |
+| Córdoba | — | [400 €](/ciudades/granada/actividades/cordoba-excursion-privada-desde-granada) (800 €) | 260 € (1.040 €) | 200 € (1.200 €) |
+| Nerja y Frigiliana | — | [350 €](/ciudades/granada/actividades/nerja-frigiliana-excursion-privada-desde-granada) (700 €) | 220 € (880 €) | 160 € (960 €) |
+| Málaga | — | [392 €](/ciudades/granada/actividades/malaga-excursion-privada-desde-granada) (784 €) | 208 € (832 €) | — |
+
 ## Respuesta rápida según quién viaja
 
 - **Pareja:** grupo. La Alpujarra por 71 € o el Caminito del Rey con almuerzo por 135 €. En privado os costaría entre 2 y 4,5 veces más.

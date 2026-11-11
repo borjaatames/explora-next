@@ -88,6 +88,8 @@ Cette année, plus de **250 lieux illuminés** et 14 millions de LED, avec des m
 4. **20 h, chocolat et churros chez San Ginés**, dans le passage de San Ginés, près de Sol. Ouvert depuis 1894, 24 h/24 du jeudi au dimanche et les veilles de jours fériés.
 5. **21 h, dîner :** tapas dans le centre ou spectacle de flamenco.
 
+[actividad: ruta-tapas-nocturna-madrid]
+
 ## Traditions, Saint-Sylvestre et Rois mages
 
 - **Le tirage de la loterie (22 décembre) :** au Teatro Real, avec des billets numérotés gratuits à retirer au guichet sur présentation d'une pièce d'identité ou du passeport. Certains font la queue dès la veille au soir : ces dernières années, arriver après 4 h du matin, c'était rester dehors.

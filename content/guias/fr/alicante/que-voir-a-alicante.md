@@ -51,6 +51,17 @@ faq:
   respuesta: D'avril à juin et en septembre-octobre. En hiver, Alicante a l'un des climats les plus doux d'Espagne. Les Hogueras de San Juan (20-24 juin) sont la grande fête, mais les prix des hébergements s'envolent.
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée à pied des incontournables](/fr/cities/alicante/activities/alicante-visite-guidee-incontournables) | 4,7★ (111) | 27 € |
+| [Visite premium en tuk-tuk du centre, des châteaux et des plages](/en/cities/alicante/activities/alicante-tuk-tuk-tour-castles-beaches) | 4,7★ (234) | 50 € |
+| [Sortie en bateau et parachute ascensionnel avec une boisson](/fr/cities/alicante/activities/alicante-parachute-ascensionnel-balade-bateau) | 4,5★ (471) | 65 € |
+| [Cours de cuisine paella avec visite du marché, tapas et vin](/en/cities/alicante/activities/alicante-paella-cooking-class-market) | 4,9★ (514) | 49 € |
+| [Spectacle de flamenco à El Mentidero, avec option tapas](/en/cities/alicante/activities/alicante-flamenco-show-el-mentidero) | 4,8★ (1 744) | 15 € |
+| [Bateau aller-retour vers l'île de Tabarca](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4,3★ (5 628) | 25 € |
+
 ## Jour 1 : Alicante en une journée
 
 | Heure | Quoi |

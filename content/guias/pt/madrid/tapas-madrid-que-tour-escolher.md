@@ -44,6 +44,14 @@ faq:
   respuesta: Os três têm cancelamento gratuito até 24 horas antes. Nenhum dos três está adaptado para cadeira de rodas; os dois tours em inglês (jantar com paelha e almoço em La Latina) têm acesso em cadeira de rodas.
 ---
 
+## Os 3 tours de tapas em Madrid
+
+| Opção | Preço desde | Duração | Zona | Ideal para |
+|---|---|---|---|---|
+| [Roteiro de tapas noturno](/ciudades/madrid/actividades/ruta-tapas-nocturna-madrid) | 35 € + 30 € de fundo comum | 2h30 | 3 bares tradicionais do centro | Quem quer um programa simples à noite, ou guia em alemão |
+| [Tour de tapas e vinho com terraço](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) | 69 € | 3h30 | De La Latina à Plaza Mayor | Quem quer rematar com vista ao pôr do sol num terraço da Gran Vía |
+| [Tour privado pelas tabernas centenárias](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 127 € por pessoa (mín. 2) | 2h10 | Tabernas com mais de 100 anos no centro | Quem quer um guia só para o seu grupo e mais história do que comida |
+
 ## Tour de tapas em Madrid: qual escolher em 30 segundos
 
 - **Quer o preço fechado mais baixo com comida incluída:** tapas e vinho com terraço (69 €), que ainda termina ao pôr do sol num terraço da Gran Vía.

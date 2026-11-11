@@ -44,6 +44,15 @@ faq:
 
 | Opzione | Tempo | Prezzo indicativo | Per chi |
 | --- | --- | --- | --- |
+| Auto propria o a noleggio | 1 h 45 | Benzina e parcheggio | Chi vuole libertà e guidare per la sierra |
+| Autobus | circa 2 h | Biglietto di linea regolare | Viaggiatori senza auto e senza fretta |
+| [Escursione di gruppo](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 9 h in totale | da 34 € a persona | Viaggiatori soli e coppie; include Setenil |
+| [Escursione privata](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga) | 8 h in totale | 580 € (2) · 720 € (4) | Famiglie e gruppi che vogliono il proprio ritmo |
+
+## Come andare da Malaga a Ronda
+
+| Opzione | Tempo | Prezzo indicativo | Per chi |
+| --- | --- | --- | --- |
 | Auto propria o a noleggio | 1 h 45 | Benzina e parcheggio | Chi vuole libertà e guidare nella sierra |
 | Autobus | Circa 2 h | Biglietto di linea | Viaggiatori senza auto e senza fretta |
 | Escursione di gruppo | 9 h in totale | Da 34 € a persona | Viaggiatori soli e coppie; include Setenil |

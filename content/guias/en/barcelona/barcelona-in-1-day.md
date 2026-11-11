@@ -81,6 +81,8 @@ actividades:
 
 This order works all year: in winter the Bunkers close at 17:30 and the last entry to Park Güell is 17:30 (from 25 October to 6 February). Between April and October, if you take the last train back, you can swap them: Park Güell at 16:30 and the Bunkers at 18:30, in the evening light.
 
+[actividad: barcelona-in-one-day-sagrada-familia-park-guell]
+
 ## The essentials, stop by stop
 
 **Sagrada Família (10:00, 1 h 30 min).** A must, and first thing, when light pours through the Nativity windows. Only on sagradafamilia.org: **basic with audio guide €26**, with towers €36, guided €30. The Hour of Silence (9:00-10:00) avoids the crowds. No vest tops, swimwear, or shorts or skirts above mid-thigh. The towers add 30 minutes; on a day trip, skip them. In **2026, Gaudí Year**, with the Tower of Jesus newly opened (10 June), book even further ahead. Details in [how to visit the Sagrada Familia](/en/guides/barcelona/sagrada-familia-how-to-visit).

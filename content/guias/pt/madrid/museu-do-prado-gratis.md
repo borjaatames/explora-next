@@ -94,6 +94,8 @@ A fila forma-se junto à **porta de Goya**, no lado norte do edifício, muito an
 - **Domingos e feriados:** mais espera e menos museu, porque fecha às 19:00.
 - **Não chegue às 18:00 em ponto:** quando chegar à bilheteira terá perdido boa parte do tempo.
 
+[actividad: museo-prado-visita-guiada]
+
 ## O que ver no Prado em duas horas grátis
 
 Na prática tem hora e um quarto ou hora e meia. Pegue na planta à entrada e vá direto a:

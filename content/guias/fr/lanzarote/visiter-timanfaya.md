@@ -52,6 +52,15 @@ opciones:
     etiqueta: À pied sur la lave
 ---
 
+## Quelle option choisir ?
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| Billet officiel des Montagnes de Feu (site du Cabildo) | — | 30 € |
+| [Excursion d'une demi-journée au parc national de Timanfaya, avec entrée et prise en charge](/fr/cities/lanzarote/activities/lanzarote-excursion-parc-national-timanfaya-demi-journee) | 4,3★ (2 901) | 59 € |
+| [Timanfaya, Jameos del Agua et Cueva de los Verdes avec billets](/fr/cities/lanzarote/activities/lanzarote-excursion-timanfaya-jameos-cueva-de-los-verdes) | 4,5★ (2 910) | 89 € |
+| [Randonnée guidée parmi les volcans à côté de Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4,8★ (990) | 47 € |
+
 ## Ce que vous verrez dans les Montagnes de Feu
 
 Les éruptions ont duré de septembre 1730 à avril 1736, et une autre, plus courte, a eu lieu en 1824. L'intérieur du parc ne se visite que de cette façon :

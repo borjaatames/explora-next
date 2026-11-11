@@ -58,6 +58,16 @@ opciones:
     etiqueta: Com a Catedral
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Recomendamos | Desde |
+| --- | --- | --- |
+| Só um bilhete com hora marcada, sem fila | [Entrada com hora marcada no Real Alcázar](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4,6★ (36 909) | 20 € |
+| O Alcázar com guia, sem filas | [Visita guiada sem filas ao Real Alcázar](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Um guia num grupo de 10 pessoas ou menos (só em inglês) | [Visita premium ao Alcázar em grupo reduzido](/en/cities/sevilla/activities/seville-alcazar-small-group-guided-tour-premium), 4,9★ | 49,50 € |
+| O essencial de Sevilha numa manhã | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Com tempo livre nos jardins | [Catedral, Giralda e Alcázar: visita de 3h30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2085) | 65 € |
+
 ## Como visitar o Alcázar de Sevilha: o que ver lá dentro
 
 O Alcázar é um palácio em camadas: almóada, mudéjar, gótico e renascentista, umas sobre as outras. Estas são as partes a não perder:
@@ -71,6 +81,8 @@ O Alcázar é um palácio em camadas: almóada, mudéjar, gótico e renascentist
 - **Jardins:** mais de metade do recinto, com a Galeria do Grutesco e o Tanque de Mercúrio. Foram os Jardins de Água de Dorne em *A Guerra dos Tronos*.
 
 A visita completa demora **cerca de 2h30-3 horas**. Reserve pelo menos 45 minutos para os jardins.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Preço do Real Alcázar de Sevilha
 

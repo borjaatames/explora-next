@@ -52,6 +52,14 @@ opciones:
     etiqueta: Privada
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Ir desde Madrid com tudo tratado | [El Escorial e Valle de Cuelgamuros com guia](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4,7★ (1.769) | 62 € |
+| Só o bilhete, por conta própria | [Bilhete para o Real Mosteiro](/pt/cities/madrid/activities/el-escorial-mosteiro-bilhete), 4,5★ (312) | 18 € |
+| Só para vocês, com recolha | [Tour privado com guia oficial desde Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 820 € por grupo |
+
 ## O que vai ver
 
 - **A Basílica**, coroada por uma grande cúpula, preside ao conjunto. Pode ver-se sem bilhete, exceto durante os cultos.

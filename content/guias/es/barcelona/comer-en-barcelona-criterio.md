@@ -67,6 +67,8 @@ Cuatro platos que no te puedes perder:
 - **Butifarra amb mongetes:** butifarra a la brasa con alubias blancas.
 - **Crema catalana**, el postre obligado.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas y vermut en Barcelona: barras que merecen la pena
 
 - **Bar Cañete** (Unió, 17, Raval): barra de mármol y producto de lonja al máximo nivel. Caro, cierra los domingos, **reserva imprescindible**.

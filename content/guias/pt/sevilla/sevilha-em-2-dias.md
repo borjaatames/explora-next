@@ -66,6 +66,10 @@ actividades:
 
 **21:00 — Flamenco.** Para um primeiro espetáculo, a **Casa de la Memoria**: uma hora, sala pequena e artistas de primeira, desde 24 €. Se tiver dúvidas entre tablaos, veja [que tablao escolher em Sevilha](/pt/guides/sevilla/flamenco-em-sevilha-que-tablao-escolher). Depois, tapas pela Alfalfa.
 
+[actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Dia 2: Triana e a Sevilha sem filas
 
 **10:00 — Triana.** Da Torre del Oro, 10 minutos pelo passeio do rio até à **ponte de Isabel II**. Do outro lado:
@@ -81,6 +85,10 @@ actividades:
 **19:00 — Pôr do sol.** Duas opções, conforme o gosto: o miradouro das **Setas** (desde 16 €), com vistas de 360° e a Giralda ao fundo, a 10 minutos da Casa de Pilatos; ou um **cruzeiro de uma hora** pelo Guadalquivir desde a Torre del Oro (desde 16,50 €).
 
 **21:30 — Jantar na Alameda de Hércules**, a 10 minutos das Setas: o bairro com mais ambiente local à noite.
+
+[actividad: tapas-triana-tour-privado-tabernas-tradicionales]
+
+[actividad: setas-sevilla-metropol-parasol-entrada-mirador]
 
 ## Roteiro de Sevilha ao fim de semana: o que reservar e quanto custa
 

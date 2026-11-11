@@ -92,6 +92,8 @@ Se preferisci che qualcuno ti porti dritto alle opere chiave, la visita guidata 
 - **Gratis** per i cittadini UE e latinoamericani **dal lunedì al giovedì dalle 16:00 alle 18:00** (dalle 17:00 alle 19:00 da aprile a settembre), con coda in biglietteria.
 - **Tempo:** 45-60 minuti all'interno. Di fronte e accanto, la **Cattedrale dell'Almudena** e i Giardini di Sabatini.
 
+[actividad: paseo-privado-madrid-secretos-imprescindibles]
+
 ## Tramonto e sera: Debod, Gran Vía e La Latina
 
 **18:00 — Tempio di Debod**, a 15 minuti a piedi lungo calle Ferraz. Tempio egizio del II secolo a.C. con il Palazzo Reale e la sierra sullo sfondo; arriva 30-45 minuti prima del tramonto. Gratis.
@@ -99,6 +101,10 @@ Se preferisci che qualcuno ti porti dritto alle opere chiave, la visita guidata 
 **19:15 — Gran Vía.** Scendi verso Plaza de España e percorri la Gran Vía fino a Callao (20 minuti) con gli edifici illuminati. Se le gambe cedono, ci sono tuk-tuk privati che girano il centro storico e la Gran Vía in 1 h 15.
 
 **21:00 — Cena a La Latina**: Cava Baja e Cava Alta, tapas classiche e huevos rotos. Madrid non cena prima delle 21:00. Per chiudere con il flamenco, il Tablao Las Carboneras è a due passi dalla Plaza Mayor (da 45 € con bevanda; prenota 1-2 giorni prima).
+
+[actividad: tuk-tuk-centro-historico-gran-via-madrid]
+
+[actividad: flamenco-tablao-las-carboneras]
 
 ## Budget indicativo a persona
 

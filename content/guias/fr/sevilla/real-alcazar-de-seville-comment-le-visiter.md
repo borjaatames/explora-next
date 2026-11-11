@@ -58,6 +58,14 @@ opciones:
     etiqueta: Avec la cathédrale
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Nous vous recommandons | À partir de |
+| --- | --- | --- |
+| L'Alcázar avec guide et sans file d'attente | [Real Alcázar, visite guidée coupe-file](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| L'essentiel de Séville en une matinée | [Cathédrale, Giralda et Alcázar avec accès prioritaire](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14 120) | 53 € |
+| Du temps libre dans les jardins | [Cathédrale, Giralda et Alcázar : visite de 3 h 30](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2 085) | 65 € |
+
 ## Que voir pour visiter l'Alcázar de Séville
 
 L'Alcázar est un palais en couches : almohade, mudéjar, gothique et Renaissance, les unes sur les autres. Voici ce qu'il ne faut pas manquer :
@@ -83,6 +91,8 @@ La visite complète prend **environ 2 h 30 à 3 heures**. Gardez au moins 45 min
 Les billets sont vendus par créneaux de 30 minutes avec jauge limitée, et ne sont ni échangeables ni remboursables.
 
 **Gratuit pour tous le lundi**, de 18 h à 19 h d'avril à septembre et de 16 h à 17 h d'octobre à mars. Uniquement en ligne, avec peu de places qui partent en quelques minutes : n'y comptez pas sauf si vous avez déjà réservé.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Alcázar de Séville : horaires
 

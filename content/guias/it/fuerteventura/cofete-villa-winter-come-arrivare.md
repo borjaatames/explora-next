@@ -45,6 +45,14 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "La spiaggia di Cofete vista dal belvedere, con il massiccio di Jandía"
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour a Cofete e Villa Winter da Jandía](/en/cities/fuerteventura/activities/cofete-villa-winter-tour) | 4,8★ (1.952) | 57 € |
+| [Barca per i delfini da Morro Jable](/it/cities/fuerteventura/activities/morro-jable-gita-barca-delfini-balene) | 4,2★ (5.490) | 49 € |
+| [Catamarano con pranzo e bevande da Morro Jable](/en/cities/fuerteventura/activities/morro-jable-catamaran-lunch-drinks) | 4,4★ (1.786) | 79 € |
+
 ## Come arrivare a Cofete in auto: la pista e l'auto a noleggio
 
 La pista parte da **Morro Jable** verso ovest, sale sul massiccio e passa sul versante nord al valico della **Degollada de Agua Oveja**, dove all'improvviso appare tutta la spiaggia: è il **belvedere di Cofete** e la foto migliore del viaggio. Sono circa **20 km** di sterrato; calcola **da 45 minuti a un'ora** a tratta.

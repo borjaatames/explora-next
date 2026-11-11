@@ -58,6 +58,15 @@ imagen_alt: "Cala Conta mit ihrer Insel auf Ibiza"
 reservasArriba: true
 ---
 
+## Die Buchten vom Meer aus
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Buchten-Tour all inclusive mit Essen, Stand-up-Paddling und Schnorcheln](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1.410) | 60 € |
+| [Bootstour zu den Buchten mit Stand-up-Paddling, Essen und Getränken](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
+| [Kajaktour durch Meereshöhlen mit Schnorcheln ab Cala Codolar](/de/cities/ibiza/activities/ibiza-kajaktour-hoehlen-schnorcheln-cala-codolar) | 4,8★ (333) | 50 € |
+| [Boot nach Es Vedrà, Espalmador und Formentera mit Essen](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
+
 ## Ibiza-Buchten nach Gegend
 
 | Gegend | Top-Buchten | Charakter |
@@ -66,6 +75,8 @@ reservasArriba: true
 | Norden | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Wild, Pinienwälder, ruhig |
 | Süden | Ses Salines, Es Cavallet | Angesagt, an den Salinen |
 | Osten | Cala Llonga, Cala Mastella, Cala Boix | Klein und familienfreundlich |
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Die Pflichtbuchten: Cala Comte, Cala Salada, Cala d'Hort und Benirràs
 

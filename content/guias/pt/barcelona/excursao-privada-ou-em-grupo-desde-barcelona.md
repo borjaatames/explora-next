@@ -57,6 +57,19 @@ opciones:
     etiqueta: "Grupo de 6: privado a 149 € cada"
 ---
 
+## Tabela de preços por pessoa
+
+| Excursão desde Barcelona | Grupo (por pessoa) | Privado, 2 pessoas | Privado, 4 pessoas | Privado, 6 pessoas |
+| --- | --- | --- | --- | --- |
+| Montserrat | [47 €](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) · [59 €](/en/cities/barcelona/activities/montserrat-half-day-small-group) grupo reduzido · [109 €](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) com almoço numa masia | [419 €](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) (838 € no total) | 219 € (876 €) | 149 € (894 €) |
+| Montserrat de carro, máx. 8 | [121 €](/pt/cities/barcelona/activities/montserrat-privado-ou-semiprivado-bilhetes-basilica) semiprivado | — | — | — |
+| Barcelona e Montserrat num dia | [149 €](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) grupo de até 12, com recolha | — | — | — |
+| Montserrat e cava Codorníu | — | [cerca de 317 €](/pt/cities/barcelona/activities/montserrat-caves-codorniu-excursao-privada) | cerca de 206 € | — |
+| Montserrat e cripta de Gaudí (Colònia Güell) | — | [cerca de 286 €](/pt/cities/barcelona/activities/montserrat-cripta-gaudi-colonia-guell-tour-privado) | cerca de 186 € | — |
+| Montserrat e Sagrada Família | — | [cerca de 270 €](/en/cities/barcelona/activities/montserrat-and-sagrada-familia-day-trip) | cerca de 196 € | — |
+| Girona, Besalú e Rupit com almoço | — | [cerca de 340 €](/en/cities/barcelona/activities/girona-besalu-rupit-private-day-trip-from-barcelona) | cerca de 207 € | — |
+| Dia inteiro em Barcelona com Sagrada Família | [129 €](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) grupo reduzido | [329 €](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) (658 €) | 209 € (836 €) | 169 € (1014 €) |
+
 ## Excursão privada ou em grupo: resposta rápida conforme quem viaja
 
 - **Casal:** grupo. Montserrat em grupo pequeno de meio dia desde 59 € ou com a CastlExperience desde 47 €. Em privado pagariam 838 €.

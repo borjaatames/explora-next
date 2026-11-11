@@ -54,6 +54,15 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta et son îlot à Ibiza"
 ---
 
+## Les criques depuis la mer
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Circuit des criques tout compris avec repas, paddle et snorkeling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1 410) | 60 € |
+| [Croisière dans les criques avec paddle, repas et boissons](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3 570) | 69 € |
+| [Kayak dans les grottes marines avec snorkeling depuis Cala Codolar](/fr/cities/ibiza/activities/ibiza-kayak-de-mer-grottes-snorkeling-cala-codolar) | 4,8★ (333) | 50 € |
+| [Bateau vers Es Vedrà, Espalmador et Formentera avec repas](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1 335) | 155 € |
+
 ## Les plus belles criques d'Ibiza par zone
 
 | Zone | Criques phares | Caractère |
@@ -62,6 +71,8 @@ imagen_alt: "Cala Conta et son îlot à Ibiza"
 | Nord | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Sauvage, pinèdes, calme |
 | Sud | Ses Salines, Es Cavallet | À la mode, près des salines |
 | Est | Cala Llonga, Cala Mastella, Cala Boix | Petites et familiales |
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Les incontournables : Cala Comte, Cala Salada, Cala d'Hort et Benirràs
 

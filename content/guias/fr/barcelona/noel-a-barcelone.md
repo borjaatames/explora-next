@@ -71,6 +71,10 @@ actividades:
 
 Ce sont les dates de l'édition 2025 : le programme 2026 est publié en novembre sur barcelona.cat/nadal et nous mettrons le guide à jour à ce moment-là.
 
+[actividad: sagrada-familia-visita-guiada-guia-oficial]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
+
 ## Illuminations de Noël à Barcelone et Fira de Santa Llúcia
 
 - **Les illuminations 2026** couvrent **130 km de rues**, avec 255 arches et 272 figures lumineuses, et inaugurent des créations d'auteur sur le paseo de Maragall (un poème écrit en lumières) et la rambla de Prim. L'axe classique reste **Passeig de Gràcia, Rambla de Catalunya et Portal de l'Àngel**.
@@ -96,6 +100,8 @@ Un après-midi de décembre bien rempli :
 - **Nadal al Port**, sur le Moll de la Fusta, avec attractions et lumières au bord de la mer.
 - **Arrivée des Rois mages :** le 5 janvier, ils débarquent au port et le maire les accueille vers 16 h 30 sur la Plaça del Portal de la Pau. Moins de monde qu'à la cavalcade.
 - Si vous préférez une activité guidée, il existe une visite privée pour familles avec chasse au trésor et churros au chocolat.
+
+[actividad: barcelona-tour-privado-familias-churros-juegos]
 
 ## Ce qui est ouvert et fermé à Barcelone les 24, 25 et 31 décembre et le 1er janvier
 

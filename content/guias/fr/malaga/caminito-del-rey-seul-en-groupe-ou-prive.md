@@ -55,6 +55,24 @@ opciones:
     etiqueta: "Couple qui veut une prise en charge à l'hôtel"
 ---
 
+## Tableau des prix par personne
+
+| Formule | Ce qui est inclus | 2 personnes | 4 personnes | 6 personnes |
+| --- | --- | --- | --- | --- |
+| Par vous-même, entrée générale | Billet + navette (sans guide, sans transport) | 12,50 € | 12,50 € | 12,50 € |
+| Par vous-même, visite guidée officielle | Billet avec guide officiel (groupes jusqu'à 30) + navette | 20,50 € | 20,50 € | 20,50 € |
+| [Billet avec guide officiel](/fr/cities/malaga/activities/caminito-del-rey-billet-guide-officiel-sans-transport) (réservé sur notre site) | Billet, guide et casque ; sans transport | 30 € | 30 € | 30 € |
+| [Groupe depuis Malaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | Bus, billet et guide officiel | 72 € | 72 € | 72 € |
+| [Privé : transport privé](/en/cities/malaga/activities/caminito-del-rey-private-transport-from-malaga) | Prise en charge, billets, guide en groupe | 305 € (610 €) | 240 € (960 €) | 180 € (1 080 €) |
+| [Privé : guide privé](/en/cities/malaga/activities/caminito-del-rey-private-guide-from-malaga) | Transfert, billets et guide rien que pour vous | 396 € (792 €) | 214 € (856 €) | 156 € (936 €) |
+
+## Et depuis Séville ou Grenade ?
+
+| Depuis | En groupe | Privé, 2 | Privé, 4 | Privé, 6 |
+| --- | --- | --- | --- | --- |
+| Séville | — | [310 €](/en/cities/sevilla/activities/caminito-del-rey-private-transport-day-trip-from-seville) | 220 € | 200 € |
+| Grenade | [135 €](/en/cities/granada/activities/caminito-del-rey-day-trip-from-granada) avec déjeuner | [340 €](/en/cities/granada/activities/caminito-del-rey-from-granada-private-transport) | 210 € | 150 € |
+
 ## Que choisir selon qui voyage
 
 - **Couple avec voiture :** en autonomie, avec le billet avec guide officiel ou le billet général à 10 € si vous en trouvez sur le site officiel.

@@ -52,6 +52,14 @@ opciones:
     etiqueta: Con casco histórico
 ---
 
+## ¿Qué entrada elegir?
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 24 € |
+| [Tour por las cubiertas de la catedral y la torre de la Carraca](/ciudades/santiago-de-compostela/actividades/cubiertas-catedral-santiago-tour) | 4,6★ (134) | 37 € |
+
 ## Qué ver en la Catedral de Santiago: lo gratis y lo de pago
 
 **Gratis:**
@@ -67,6 +75,8 @@ opciones:
 | **Pórtico de la Gloria** | La obra maestra del Maestro Mateo, restaurada (entrada con horario) |
 | **Cubiertas** | Visita guiada por el tejado de granito, con vistas |
 | **Museo de la Catedral** | Claustro, Tesoro, capilla de las Reliquias y Pazo de Xelmírez |
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Precios, horarios y reservas: Pórtico de la Gloria y cubiertas
 

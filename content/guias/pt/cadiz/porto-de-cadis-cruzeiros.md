@@ -61,6 +61,10 @@ De qualquer um, o centro fica a uns **5 minutos a pé**. A estação de comboios
 
 **Como te deslocares:** a pé, porque o centro histórico é plano e compacto. O **autocarro urbano 1** (paragem na praça de España, a 300 metros) vai à praia de la Victoria; há **táxis** a menos de 5 minutos do porto; o **comboio** leva a Jerez e Sevilha, e o **catamarã** atravessa para El Puerto de Santa María em 30 minutos.
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## O que fazer em Cádis numa escala de cruzeiro
 
 | Horas em terra | Plano |
@@ -89,6 +93,8 @@ Sevilha fica a **cerca de 90 minutos pela AP-4**. Lá precisas de pelo menos 4 h
 | Para cruzeiristas a partir do porto | 119 € + entrada no Alcázar | O operador ajusta-se ao horário do navio e dá garantia de regresso |
 | Privada a partir do porto | Cerca de 300 € (cerca de 220 € se forem 4) | O motorista trabalha com o teu horário; o navio não espera |
 | Comboio por conta própria | Desde cerca de 20 € ida e volta | Todo o risco é teu |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez a partir de Cádis de comboio
 

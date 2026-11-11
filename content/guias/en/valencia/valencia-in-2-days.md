@@ -50,6 +50,17 @@ faq:
   respuesta: 'Yes if you''re travelling with kids or love the sea: it''s Europe''s largest aquarium and takes 3–4 hours. Tickets start at €37 and are best booked online in high season. Otherwise, the free walk among the City of Arts buildings at sunset is well worth it.'
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedral, San Nicolás and Silk Exchange tour](/en/cities/valencia/activities/valencia-cathedral-silk-exchange-san-nicolas-tour) | 4.8★ (1,243) | €49 |
+| [Tuk tuk tour of the old town, beaches and City of Arts](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4.6★ (388) | €40 |
+| [Oceanogràfic entry ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4.7★ (11,540) | €37 |
+| [Bioparc entry ticket](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4.8★ (2,988) | €29.5 |
+| [Day or sunset catamaran cruise with a drink](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4.0★ (3,360) | €15 |
+| [Craft beer and tapas tasting in Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4.8★ (128) | €28.5 |
+
 ## Day 1: old town and the City of Arts and Sciences
 
 | Time | What |
@@ -73,6 +84,8 @@ Spend the rest of the morning in **El Carmen**, the oldest quarter, with the **S
 
 **Evening.** Dinner in **Ruzafa**, the trendy quarter. Try **agua de Valencia** (cava, orange juice, vodka and gin) carefully: it goes to your head fast.
 
+[actividad: valencia-cathedral-silk-exchange-san-nicolas-tour]
+
 ## Day 2: La Albufera, paella and the beach
 
 | Time | What |
@@ -89,6 +102,8 @@ Spend the rest of the morning in **El Carmen**, the oldest quarter, with the **S
 **Malvarrosa.** On the way back, swim or stroll along the wide beach, lined with rice restaurants facing the sea. Have **horchata and fartons**; the real thing comes from nearby Alboraya.
 
 **Last evening.** Back to the centre for **Plaza Redonda**, the Modernista **Colón Market** or one last terrace in El Carmen.
+
+[actividad: valencia-catamaran-sunset-cruise]
 
 ## When to go, getting there and getting around
 

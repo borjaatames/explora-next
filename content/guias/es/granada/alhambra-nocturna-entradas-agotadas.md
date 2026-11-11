@@ -61,6 +61,19 @@ opciones:
     etiqueta: Privada de día
 ---
 
+## ¿Qué opción te queda?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Otra noche | Web oficial, nocturna de Palacios Nazaríes | 12,73 € |
+| Comprar allí mismo | Taquilla nocturna, una hora antes del pase | 12 € |
+| Nazaríes de noche + jardines de día | Alhambra Experiencias, dos días seguidos | 22,27 € |
+| Un cupo distinto | Granada Card 24 h, con la nocturna incluida | 50 € |
+| Gratis | No hay nocturna gratuita; menores de 12, sí | 0 € |
+| Guía y entrada incluida | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
+| Generalife y Alcazaba de día | [Jardines y Generalife sin Nazaríes](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,50 € |
+| La Alhambra desde fuera al anochecer | [Albaicín y Sacromonte al atardecer](/ciudades/granada/actividades/albaicin-sacromonte-atardecer), 4,9★ (3.200) | 15 € |
+
 ## Alhambra nocturna: horario por temporadas
 
 Hay dos visitas nocturnas distintas. Estos son los horarios que publica el Patronato de la Alhambra:
@@ -140,3 +153,7 @@ En este orden:
 4. **Olvidar el documento.** Te lo piden en el acceso.
 
 Para organizar el resto de la visita, lee [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: flamenco-cueva-zincale-sacromonte]

@@ -48,6 +48,14 @@ opciones:
     etiqueta: Visita libre
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Ir a tu aire, sin pasar por taquilla | [Entrada al Palau con visita libre](/ciudades/barcelona/actividades/palau-musica-catalana-entrada), 4,6★ (6.321) | 20 € |
+| Que te lo expliquen | Visita guiada, en la web oficial | 24 € |
+| Verlo con música | Un concierto de la programación del Palau | variable |
+
 ## Qué vas a ver
 
 La visita dura unos **50 minutos** y recorre:

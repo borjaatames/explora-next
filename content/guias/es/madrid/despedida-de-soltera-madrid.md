@@ -50,6 +50,17 @@ actividades:
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio | Para qué grupo |
+| --- | --- | --- | --- |
+| [Tuk-tuk fiesta privado con música](/ciudades/madrid/actividades/tuk-tuk-fiesta-privada-musica-madrid) | 1 h 30 min | 150 € por tuk-tuk | Arranque de la tarde, grupos que quieren algo solo para ellos |
+| [Taller de paella y sangría](/ciudades/madrid/actividades/taller-paella-sangria-madrid-centro) | 3 h | 64 € por persona | Cualquier grupo, también mixto o con familia |
+| [Pub crawl: 3 bares y discoteca](/ciudades/madrid/actividades/pub-crawl-madrid-bares-chupitos) | 5 h | 19 € por persona | Mayores de 18 que quieren noche |
+| [Flamenco en Torres Bermejas](/ciudades/madrid/actividades/flamenco-torres-bermejas-cena) | 1 h | Desde 31 € por persona | Cena con espectáculo junto a la Gran Vía |
+| [Flamenco en Las Carboneras](/ciudades/madrid/actividades/flamenco-tablao-las-carboneras) | 1 h | 45 € por persona, con bebida | Grupos que prefieren un tablao pequeño |
+| [Bodega familiar con sumiller](/ciudades/madrid/actividades/bodega-familiar-madrid-cata-sumiller-medio-dia) | 4 h 30 min | 110 € por persona | Despedida tranquila de día; máximo 8 |
+
 ## Tuk-tuk para la despedida en Madrid: el plan estrella
 
 Es un tuk-tuk privado en el que suena **la música que elijáis** durante hora y media por las avenidas más conocidas de Madrid. Lo mejor para una despedida: **el recorrido termina donde decidáis dentro del centro**, así que podéis acabar en la puerta del restaurante o del tablao.
@@ -72,6 +83,8 @@ Si preferís salir de la ciudad, la **bodega familiar con sumiller** (110 € po
 
 Otros planes que funcionan sin alcohol: el tuk-tuk fiesta, un espectáculo de flamenco y el picnic privado, que se marida con espumosos 0,0 %.
 
+[actividad: taller-paella-sangria-madrid-centro]
+
 ## Cena: tapas o flamenco
 
 - **Flamenco en Torres Bermejas (desde 31 €):** tablao abierto en 1960 junto a la Gran Vía, con opciones de bebida, tapas o cena de tres platos. Si queréis cenar allí, reservad el menú con la entrada: pedir en el momento no siempre funciona.
@@ -81,6 +94,8 @@ Otros planes que funcionan sin alcohol: el tuk-tuk fiesta, un espectáculo de fl
 
 Las dos rutas de tapas son **en inglés**. Para elegir tablao con más detalle, mira nuestra guía de [flamenco en Madrid](/guias/madrid/flamenco-madrid-que-tablao-elegir); para tapas, [qué tour de tapas elegir](/guias/madrid/tapas-madrid-que-tour-elegir).
 
+[actividad: flamenco-torres-bermejas-cena]
+
 ## Noche: pub crawl con discoteca
 
 La ruta (19 € por persona) recorre **tres bares y una discoteca** del centro durante cinco horas, con un chupito de bienvenida en cada local y las propinas incluidas. Se queda en el Enbabia Infuse Bar (calle de Núñez de Arce 9, junto a la plaza de Santa Ana), donde cambiáis la entrada por una pulsera. Los locales pueden variar según el día y hay guías en seis idiomas, útil si el grupo es internacional.
@@ -88,6 +103,8 @@ La ruta (19 € por persona) recorre **tres bares y una discoteca** del centro d
 - Solo mayores de 18 años.
 - **Código de vestimenta:** nada de ropa deportiva; los hombres no pueden llevar sandalias ni pantalón corto.
 - Cancelación gratuita hasta 24 horas antes.
+
+[actividad: pub-crawl-madrid-bares-chupitos]
 
 ## Un día tipo de despedida
 

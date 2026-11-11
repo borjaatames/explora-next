@@ -51,6 +51,17 @@ imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
 imagen_alt: "Plaza de Santa Ana en Vegueta, Las Palmas de Gran Canaria"
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Buggy fuera de carretera por los barrancos del sur](/ciudades/gran-canaria/actividades/buggy-barrancos-gran-canaria) | 4,8★ (3.728) | 65 € |
+| [Catamarán para ver delfines y ballenas con esnórquel](/ciudades/gran-canaria/actividades/catamaran-delfines-esnorquel-gran-canaria) | 4,4★ (6.154) | 38 € |
+| [Atardecer en las cumbres y observación de estrellas](/ciudades/gran-canaria/actividades/atardecer-estrellas-gran-canaria-telescopios) | 4,8★ (302) | 45 € |
+| [Tour de 1 día desde Las Palmas: Guayadeque, Maspalomas y Mogán](/ciudades/gran-canaria/actividades/tour-gran-canaria-1-dia-desde-las-palmas) | 4,6★ (716) | 48 € |
+| [Paseo en camello por las Dunas de Maspalomas](/ciudades/gran-canaria/actividades/paseo-camello-dunas-maspalomas) | 4,5★ (5.263) | 18 € |
+| [Jeep safari por valles, presas y pueblos del sur](/ciudades/gran-canaria/actividades/jeep-safari-sur-gran-canaria) | 4,5★ (1.443) | 69 € |
+
 ## Cuántos días: Gran Canaria en 4 días (o 5)
 
 Con **cuatro o cinco días** ves sus dos caras:

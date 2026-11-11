@@ -56,6 +56,16 @@ opciones:
     etiqueta: Sin Nazaríes
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrar seguro con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
+| La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 49 € |
+| Grupo pequeño | [Alhambra y Palacios Nazaríes en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido), 4,8★ (890) | 65 € |
+| Si solo quedan noches | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
+| Sin Nazaríes, más barato | [Jardines, Generalife y Alcazaba](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
+
 ## 1. Entradas de última hora en la web oficial
 
 La web oficial de venta es tickets.alhambra-patronato.es. La entrada general cuesta **22,27 €** e incluye los Palacios Nazaríes con hora fija, la Alcazaba, el Partal y el Generalife.
@@ -89,6 +99,8 @@ Si de día no queda nada, mira estas dos entradas oficiales, que suelen agotarse
 
 - **Visita nocturna a los Palacios Nazaríes (12,73 €):** los Palacios iluminados, sin Alcazaba ni Generalife. Dura hora y media y es una experiencia muy distinta, más tranquila.
 - **Jardines, Generalife y Alcazaba (12,73 €):** todo menos los Palacios Nazaríes. Es lo que más se pierde, pero el Generalife y la Alcazaba merecen la visita.
+
+[actividad: alhambra-visita-nocturna]
 
 ## 5. Lo que ves de la Alhambra sin entrada
 

@@ -53,6 +53,14 @@ opciones:
     etiqueta: Con la Judería
 ---
 
+## ¿Qué entrada elegir?
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado por la Mezquita-Catedral sin colas](/ciudades/cordoba/actividades/mezquita-catedral-tour-guiado-sin-colas) | 4,6★ (10.966) | 32 € |
+| [Entrada a la Mezquita-Catedral con audioguía](/ciudades/cordoba/actividades/mezquita-catedral-entrada-audioguia) | 4,2★ (3.788) | 22 € |
+| [Tour por la Mezquita y la Judería con entradas](/ciudades/cordoba/actividades/mezquita-juderia-tour-a-pie) | 4,5★ (2.200) | 34 € |
+
 ## Qué ver dentro de la Mezquita de Córdoba
 
 - **El bosque de columnas.** Quedan 856 de las casi 1.300 originales, con dobles arcos de herradura rojiblancos y mármol y granito romanos y visigodos reutilizados. Es la imagen que define el monumento.

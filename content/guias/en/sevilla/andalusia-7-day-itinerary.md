@@ -71,6 +71,8 @@ The key to this one week in Andalusia is the order: west to east, sleeping in ea
 
 **Where to stay in Seville:** **El Arenal** (by the Cathedral, quieter and a bit cheaper), **Santa Cruz** (the postcard, more touristy) or **Triana** (more local, 15 minutes from the centre).
 
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Day 2: Triana and the river
 
 Cross the Isabel II bridge to **Triana**: the market, Calle Betis and tapas on Calle Pureza. In the afternoon, **Casa de Pilatos** (€12) or the **Fine Arts Museum** (free for EU citizens), and sunset by the river. The hour-by-hour plan is in [Seville in 2 days](/en/guides/sevilla/seville-in-2-days).

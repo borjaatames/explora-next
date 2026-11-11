@@ -50,6 +50,17 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.web
 imagen_alt: "As Dunas de Corralejo com a Ilha de Lobos ao fundo"
 ---
 
+## Reserve o principal
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Catamarã à Ilha de Lobos com comida e snorkel](/pt/cities/fuerteventura/activities/corralejo-catamara-ilha-de-lobos-almoco-snorkel) | 4,8★ (1.183) | 75 € |
+| [Ferry de ida e volta a Lobos com entrada no parque](/pt/cities/fuerteventura/activities/corralejo-ferry-ilha-de-lobos-ida-volta) | 4,7★ (1.425) | 17 € |
+| [Tour a Cofete e à Villa Winter a partir de Jandía](/en/cities/fuerteventura/activities/cofete-villa-winter-tour) | 4,8★ (1.952) | 57 € |
+| [Vulcão Calderón Hondo à noite e estrelas](/en/cities/fuerteventura/activities/calderon-hondo-volcano-stargazing-tour) | 4,8★ (1.060) | 45 € |
+| [Tour a pé por Corralejo com provas](/en/cities/fuerteventura/activities/corralejo-walking-tour-tastings) | 4,9★ (515) | 18 € |
+| [Barco para ver golfinhos a partir de Morro Jable](/pt/cities/fuerteventura/activities/morro-jable-barco-golfinhos-bebidas-banho) | 4,2★ (5.490) | 49 € |
+
 ## Fuerteventura em 5 dias: como dividir a ilha
 
 Com **cinco ou seis dias** vê a ilha inteira sem pressas:

@@ -47,6 +47,16 @@ faq:
   respuesta: Eivissa capital es la base más versátil; Santa Eulària y el norte (San Juan), para calma y calas; San Antonio y Playa d'en Bossa, solo si vienes a la fiesta.
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 60 € |
+| [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 69 € |
+| [Barco a Es Vedrà, Espalmador y Formentera con comidas](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,1★ (1.335) | 155 € |
+| [Paseo en barco al atardecer con bebidas y baño](/ciudades/ibiza/actividades/barco-atardecer-ibiza-bebidas-bano) | 4,8★ (110) | 70 € |
+| [Billete de ferry de ida y vuelta a Formentera](/ciudades/ibiza/actividades/ferry-ida-vuelta-ibiza-formentera) | 4,7★ (322) | 55 € |
+
 ## Qué ver en Ibiza: Dalt Vila, calas, Es Vedrà y Formentera
 
 - **Dalt Vila.** La ciudad alta amurallada, Patrimonio de la Humanidad: entra por el Portal de ses Taules y sube entre murallas renacentistas y callejas blancas hasta la **catedral** y el castillo, con vistas al puerto. Abajo, **La Marina** y **Sa Penya**: ambiente, moda Adlib y restaurantes.

@@ -71,6 +71,10 @@ Da entrambi, il centro è a circa **5 minuti a piedi**. La stazione ferroviaria 
 
 La visita guidata alla **Torre Tavira e alla Cattedrale** (da 38 €, 2 ore) parte da plaza de San Juan de Dios, accanto al porto. Se siete in tanti, c'è un **tour privato a piedi del centro storico** da 180 € a gruppo (2 ore, 1 o 2 persone) o circa 300 € per 4, con ritrovo davanti al Municipio, a cinque minuti dalla nave. Altre idee per il percorso a piedi in [Cadice in un giorno](/it/guides/cadiz/cadice-in-un-giorno).
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## Siviglia dal porto di Cadice (e il rischio di perdere la nave)
 
 Siviglia è a **circa 90 minuti sulla AP-4**. Lì servono almeno 4 ore per Cattedrale, Alcázar e Santa Cruz, quindi la giornata intera richiede 7-8 ore. Tre modi:
@@ -89,6 +93,8 @@ Siviglia è a **circa 90 minuti sulla AP-4**. Lì servono almeno 4 ore per Catte
 | Per crocieristi dal porto | 119 € + ingresso all'Alcázar | L'operatore segue l'orario della nave e dà garanzia di rientro |
 | Privata dal porto | Circa 300 € (circa 220 € se siete in 4) | L'autista segue il tuo orario; la nave non aspetta |
 | Treno da soli | Da circa 20 € andata e ritorno | Tutto il rischio è tuo |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez da Cadice in treno
 

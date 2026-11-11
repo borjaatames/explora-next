@@ -43,6 +43,12 @@ faq:
   respuesta: À abertura, às 11:00, ou ao fim da tarde. Ao meio-dia há filas e calor, e entre as 14:00 e as 18:00 está tudo fechado.
 ---
 
+## Tour de pátios com bilhetes
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Os autênticos pátios cordoveses, tour de 2 horas com bilhetes](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1.106) | 19 € |
+
 ## A Festa dos Pátios em maio
 
 Durante cerca de **duas semanas de maio**, dezenas de casas dos bairros históricos abrem os seus pátios caiados e competem num concurso. Em 2026 foi de **4 a 17 de maio**, com **53 pátios** a concurso distribuídos por cinco rotas. A entrada é **grátis**: faz-se um percurso a pé, de pátio em pátio.

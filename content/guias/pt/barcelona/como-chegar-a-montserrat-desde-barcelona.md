@@ -63,6 +63,16 @@ opciones:
 
 | Opção | Tempo total | Preço aprox. | Frequência | Para quem |
 | --- | --- | --- | --- | --- |
+| Comboio R5 + Aeri (teleférico) | 1 h 15 - 1 h 30 | Comboio + 15 € ida e volta do Aeri | Comboio de hora a hora, Aeri a cada 15 min | Quem quer vistas e rapidez |
+| Comboio R5 + Cremallera | 1 h 30 | 20,80-32,60 € ida e volta, combinado | Comboio de hora a hora, Cremallera 2-3 por hora | Quem prefere uma viagem tranquila |
+| Trans Montserrat | 1 h 30 | 50 € | Igual ao comboio | Quem também sobe no funicular de Sant Joan |
+| Carro + Cremallera a partir de Monistrol Vila | 1 h 15 | Combustível, estacionamento grátis + 15 € | Cremallera 2-3 por hora | Famílias e grupos |
+| [Excursão organizada](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6-10 h, tudo incluído | Desde 47 € | Diária | Quem não quer organizar nada |
+
+## Opções para chegar a Montserrat
+
+| Opção | Tempo total | Preço aprox. | Frequência | Para quem |
+| --- | --- | --- | --- | --- |
 | Comboio R5 + Aeri (teleférico) | 1h15 - 1h30 | Comboio + 15 € ida e volta do Aeri | Comboio de hora a hora, Aeri a cada 15 min | Vista e rapidez |
 | Comboio R5 + cremalheira | 1h30 | 20,80-32,60 € ida e volta, combinado | Comboio de hora a hora, cremalheira 2-3 por hora | Viagem tranquila |
 | Trans Montserrat | 1h30 | 50 € | Igual ao comboio | Quem sobe também ao funicular de Sant Joan |
@@ -113,6 +123,8 @@ Compensa? O **funicular de Sant Joan**, que sobe aos trilhos com vista, custa 17
 **Em excursão organizada** levam-no e trazem-no sem ter de ver horários. Há opções desde 47 €, como o [meio dia em grupo pequeno](/en/cities/barcelona/activities/montserrat-half-day-small-group) (desde 59 €) ou [Barcelona e Montserrat com recolha no hotel](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) (desde 149 €). A comparação completa está em [que excursão a Montserrat escolher](/pt/guides/barcelona/montserrat-que-excursao-escolher).
 
 [actividad: montserrat-cremallera-bodega-castlexperience]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
 
 ## Erros típicos
 

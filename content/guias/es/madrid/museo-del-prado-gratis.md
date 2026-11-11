@@ -95,6 +95,8 @@ La cola se forma junto a la **puerta de Goya**, en el lado norte del edificio, m
 - **Domingos y festivos:** más espera y menos museo, porque cierra a las 19:00.
 - **No llegues a las 18:00 en punto:** cuando te toque la taquilla habrás perdido buena parte del tiempo.
 
+[actividad: museo-prado-visita-guiada]
+
 ## Qué ver en el Prado en dos horas gratis
 
 En la práctica tienes hora y cuarto o hora y media. Coge el plano en la entrada y ve directo:

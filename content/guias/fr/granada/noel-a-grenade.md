@@ -69,6 +69,10 @@ actividades:
 
 Ce sont les dates de l'édition 2025-26. La mairie présente le programme fin novembre ; nous mettrons ce guide à jour à sa sortie.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Illuminations de Noël à Grenade et marchés
 
 En 2025, les illuminations se sont allumées le **samedi 29 novembre** : danse et chants de Noël grenadins à 20h00, allumage à 20h30, et chœurs répartis entre Bib-Rambla, Puerta Real, le Zacatín et la Fuente de las Batallas.
@@ -98,6 +102,8 @@ Les billets officiels des ponts et de Noël s'épuisent des semaines à l'avance
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## La Sierra Nevada à Noël et sorties avec des enfants
 
 La station est à une **trentaine de kilomètres de Grenade**. En 2025-26, elle a ouvert le **29 novembre**, avec des pistes à Borreguiles et des canons à neige, et l'éclairage des pistes d'El Río a été renouvelé pour le **ski nocturne du samedi**. Pour 2026-27, de nouvelles machines à neige ont été annoncées pour ouvrir plus tôt l'espace débutants, mais pas de date. Les ponts de décembre et la semaine entre Noël et les Rois sont les jours les plus fréquentés. Si vous ne skiez pas, l'**Alpujarra** en hiver, cheminées allumées et sommets enneigés, est une excursion d'une journée plus paisible.
@@ -108,6 +114,8 @@ La station est à une **trentaine de kilomètres de Grenade**. En 2025-26, elle 
 - Le **spectacle de lumière** de la Plaza del Carmen, court et gratuit.
 - Le **Facteur royal**, qui recueille les lettres dans la cour de l'hôtel de ville.
 - Dans la Sierra Nevada, luge à **Mirlo Blanco** et pistes pour débutants à Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## Saint-Sylvestre, Toma de Granada (2 janvier) et cavalcade des Rois
 
@@ -124,3 +132,5 @@ Les grottes du **Sacromonte** sont la sortie nocturne par excellence : la Cueva 
 - **Monter à l'Albaicín à 18h30 :** en décembre, il fait déjà nuit ; pour la lumière du couchant, montez vers 17h00.
 - **Monter à la Sierra Nevada sans chaînes ou sans consulter la DGT :** en cas de neige, la route peut les exiger.
 - **Croire que le 2 janvier est un jour ouvré :** à Grenade, c'est férié et beaucoup de magasins ferment.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

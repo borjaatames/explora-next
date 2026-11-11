@@ -50,6 +50,19 @@ actividades:
   - tablao-de-carmen-flamenco-cena-poble-espanyol
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio para dos | Para qué pareja |
+| --- | --- | --- | --- |
+| [Velero al atardecer](/ciudades/barcelona/actividades/navegacion-atardecer-barcelona-vela) | 2 h | 110 € | El plan estrella; barra libre a bordo |
+| [Tapas, vino y flamenco, tour privado](/ciudades/barcelona/actividades/tapas-vino-y-flamenco-tour-privado-barcelona) | 3 h | 228 € (114 € por persona) | Una noche completa sin organizar nada |
+| [Flamenco en el Palau Dalmases](/ciudades/barcelona/actividades/palau-dalmases-flamenco-show-palacio-siglo-xvii) | 50-55 min | Desde 60 € | Flamenco en un palacio barroco |
+| [Casa Batlló de noche con concierto](/ciudades/barcelona/actividades/casa-batllo-visita-nocturna-musica-en-vivo) | 2 h | 118 € | Gaudí, música en directo y cava |
+| [La Pedrera de noche con cava](/ciudades/barcelona/actividades/casa-mila-experiencia-nocturna-con-cava) | 1 h 30 min | 79 € | Espectáculo de luz en la azotea |
+| [Cata de vinos en azotea](/ciudades/barcelona/actividades/barcelona-cata-de-vinos-azotea) | 2 h | 96 € | Seis vinos con vistas, de día |
+| [Sesión de fotos privada VIP](/ciudades/barcelona/actividades/fotografia-privada-vip-barcelona) | 1 h | 125 € por sesión | Aniversarios, lunas de miel, pedidas |
+| [Tablao de Carmen con cena](/ciudades/barcelona/actividades/tablao-de-carmen-flamenco-cena-poble-espanyol) | Unas 3 h con cena | Desde 176 € | Cena durante el espectáculo |
+
 ## Velero al atardecer en Barcelona
 
 Es el plan estrella para dos. Son **dos horas en un yate Beneteau Oceanis 41** desde Marina Vela, en el Port Vell: se sale a motor entre cruceros y superyates, el patrón iza las velas y navegáis por la costa mientras se ilumina la ciudad. A bordo hay **barra libre de cava, vino y cerveza** y aperitivos; podéis ayudar a navegar o no hacer nada.
@@ -70,6 +83,10 @@ Es el plan estrella para dos. Son **dos horas en un yate Beneteau Oceanis 41** d
 
 Los comparamos todos en [flamenco en Barcelona: qué tablao elegir](/guias/barcelona/flamenco-barcelona-que-tablao-elegir).
 
+[actividad: tapas-vino-y-flamenco-tour-privado-barcelona]
+
+[actividad: palau-dalmases-flamenco-show-palacio-siglo-xvii]
+
 ## Barcelona romántica de noche: Gaudí con cava
 
 - **Casa Batlló de noche (59 €, 2 horas):** visita con audioguía y **concierto en directo de una hora en la azotea**, con mesa reservada y una copa de cava. El estilo cambia según la fecha (jazz, soul o flamenco). Es **no reembolsable** y en verano se agota con una o dos semanas.
@@ -77,10 +94,14 @@ Los comparamos todos en [flamenco en Barcelona: qué tablao elegir](/guias/barce
 
 Son la mejor opción para una noche de invierno, cuando el velero apetece menos.
 
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
+
 ## De día: vino con vistas y fotos
 
 - **Cata de vinos en una azotea (48 € por persona, 2 horas):** seis vinos españoles (espumoso, blancos, rosado y tintos) con aperitivos, con vistas a la plaça de Catalunya y el Passeig de Gràcia. Pases entre las 12:00 y las 18:00.
 - **Sesión de fotos privada VIP (125 € la sesión, no por persona):** una hora con fotógrafo profesional por los rincones más conocidos de la ciudad, con el exterior de la Sagrada Familia, y 45-50 fotos editadas. Pensada para aniversarios, lunas de miel y pedidas; hay versiones más cortas desde 35 €.
+
+[actividad: barcelona-cata-de-vinos-azotea]
 
 ## Escapada romántica a Barcelona: un día perfecto
 

@@ -53,6 +53,15 @@ opciones:
     etiqueta: Con guía
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con hora, sin guía | [Casa Batlló: entrada con audioguía (ticket oficial)](/ciudades/barcelona/actividades/casa-batllo-entrada-con-audioguia), 4,7★ (27.982) | 29 € |
+| Ir de noche, con copa | [Casa Batlló: visita nocturna con copa de cava](/ciudades/barcelona/actividades/casa-batllo-visita-nocturna-copa-cava-bienvenida), 4,4★ (1.930) | 29 € |
+| Visita y concierto en la azotea | [Casa Batlló: visita nocturna con música en vivo](/ciudades/barcelona/actividades/casa-batllo-visita-nocturna-musica-en-vivo), 4,5★ (377) | 59 € |
+| Tres casas de Gaudí con guía | [Casa Vicens, Casa Milà y Casa Batlló: tour guiado](/ciudades/barcelona/actividades/casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi), 4,6★ (331) | 119 € |
+
 ## Entradas de la Casa Batlló agotadas: otras horas y modalidades en la web oficial
 
 La venta oficial está en casabatllo.es. La visita general parte de **29 €**, incluye audioguía en 15 idiomas y dura alrededor de **1 hora y cuarto**. Con el **precio dinámico**, cuanto antes compras, menos pagas (la web oficial habla de un ahorro de hasta 15 € por persona). En puentes, Semana Santa y verano las horas de la mañana vuelan. Si tu franja sale agotada:
@@ -70,6 +79,8 @@ Si el día está lleno, la noche es la vía más fácil. La **visita nocturna** 
 
 Entre marzo y noviembre hay además **Noches Mágicas**: visita a las 20:00 y concierto en la azotea a las 21:00, con copa y mesa, **desde 59 €**. La programación de cada mes se publica dos o tres semanas antes y los descuentos de la visita general no se aplican.
 
+[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+
 ## La taquilla: Casa Batlló el mismo día
 
 La Casa Batlló tiene taquilla en el propio edificio, pero allí **solo se vende la visita general** y, según la web oficial, cuesta **entre 4 y 15 € más** que online. Sirve si queda aforo en alguna franja del día, no como plan para un día agotado.
@@ -86,11 +97,15 @@ Comprueba en la ficha que diga **«entrada a la Casa Batlló incluida»** y la h
 
 [actividad: casa-batllo-entrada-con-audioguia]
 
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
 ## Lo que ves sin entrada
 
 - La **fachada de la Casa Batlló**, en el número 43, con sus balcones de hueso y el tejado de escamas. Se ve mejor desde la acera de enfrente.
 - La **Manzana de la Discordia**: pegada a la Batlló está la **Casa Amatller** (número 41, de Puig i Cadafalch), con visitas guiadas propias, y en la misma manzana la **Casa Lleó Morera**, de Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, subiendo por el mismo paseo, a unos 10 minutos a pie.
+
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Consejos
 

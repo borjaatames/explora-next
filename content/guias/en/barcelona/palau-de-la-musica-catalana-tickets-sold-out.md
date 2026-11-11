@@ -48,6 +48,14 @@ opciones:
     etiqueta: Self-guided visit
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| To go at your own pace, without the ticket office | [Palau ticket with self-guided visit](/en/cities/barcelona/activities/palau-de-la-musica-catalana-ticket), 4.6★ (6,321) | €20 |
+| Someone to explain it | Guided tour, on the official website | €24 |
+| To see it with music | A concert from the Palau's programme | varies |
+
 ## What you'll see
 
 The visit lasts about **50 minutes** and covers:

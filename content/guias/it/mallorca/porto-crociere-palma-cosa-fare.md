@@ -51,6 +51,16 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
+## Escursioni adatte a uno scalo a Palma
+
+| Escursione | Durata | Prezzo da |
+| --- | --- | --- |
+| [Visita guidata a piedi del centro storico](/en/cities/mallorca/activities/palma-old-town-guided-walking-tour), 4,9★ (914) | 1 h 45 min | 39 € |
+| [Tour a piedi con ingresso alla Cattedrale ed ensaïmada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4,8★ (237) | 2 h 30 min | 39 € |
+| [Tour gastronomico nel centro storico](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 h | 65 € |
+| [Cuevas del Drach con concerto, da Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4,4★ (1.489) | 5 h, partenza alle 9:30 | 54 € |
+| [Valldemossa, Sóller e Port de Sóller in autobus e tram](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 h | 49 € |
+
 ## Dove attracca la nave da crociera a Palma?
 
 Il porto di Palma ha due zone per le crociere, entrambe a ovest della città:
@@ -89,6 +99,10 @@ Conta sempre il tempo reale a terra: da quando scendi dalla nave fino a un'ora p
 **Castell de Bellver.** Il castello circolare con vista sulla baia costa **4 €** e **chiude il lunedì**. Dal martedì al sabato apre dalle 10:00 alle 18:00, la domenica dalle 10:00 alle 15:00 con ingresso gratuito. Nessun bus urbano sale fino all'ingresso: dal porto conviene il taxi.
 
 **Valldemossa per conto tuo.** La **linea 203 del TIB** parte dall'Estació Intermodal (Plaça d'Espanya) per Valldemossa, Deià e Sóller. La Certosa si visita in un'ora.
+
+[actividad: palma-visita-guiada-casco-antiguo]
+
+[actividad: valldemossa-soller-port-soller-autobus-tranvia]
 
 ## Il treno di Sóller dal porto
 

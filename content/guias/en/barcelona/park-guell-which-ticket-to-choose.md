@@ -51,6 +51,13 @@ opciones:
     etiqueta: With a guide
 ---
 
+## Which ticket should you choose?
+
+| Option | Price from | Duration | Format | Best for |
+|---|---|---|---|---|
+| [Skip-the-line ticket to the monumental zone](/en/cities/barcelona/activities/park-guell-admission-ticket) | €21.5 | 1.5-2 h | Self-guided, no guide | Travelers who just want the cheapest ticket, at their own pace |
+| [Ticket + Gaudí House Museum](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) | €28 | 2-3 h | Self-guided + museum | Travelers who also want to see where Gaudí lived |
+
 ## What each ticket includes
 
 **Basic ticket to the Monumental Zone.** Entry in your time slot to the dragon staircase, the Hypostyle Room, the square with the wavy bench and the porticoes and, if there's capacity, the **Casa del Guarda**, the entrance pavilion. No guide or audio guide. It's the best-selling option (4.4/5 from over 81,000 reviews) and takes **1.5-2 hours**.
@@ -61,6 +68,8 @@ opciones:
 - **It's in the upper part of the park**, a 10-15 minute uphill walk from the lower entrance.
 - **It closes an hour before the park**, so don't leave it until last.
 - **It doesn't include the Casa del Guarda**, which is a different building.
+
+[actividad: park-guell-admission-ticket]
 
 ## Park Güell ticket prices and opening hours
 

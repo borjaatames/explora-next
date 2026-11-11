@@ -89,6 +89,8 @@ By car, 15 minutes from the monastery; without one, a local bus from San Lorenzo
 
 [actividad: escorial-valle-cuelgamuros-excursion-grupo]
 
+[actividad: el-escorial-valley-of-cuelgamuros-group-tour]
+
 ## Day 3: the Madrid locals live in
 
 **Morning — Retiro**, the former royal garden, a World Heritage Site since 2021: the Crystal Palace (free, with Reina Sofía exhibitions), boats on the lake, the Rose Garden, the Fallen Angel and the Forest of Remembrance for the 11-M victims. Two hours.

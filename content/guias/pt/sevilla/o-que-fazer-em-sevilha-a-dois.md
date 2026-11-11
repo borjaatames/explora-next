@@ -50,6 +50,19 @@ actividades:
   - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
+## Os programas num relance
+
+| Atividade | Duração | Preço para dois | Para que casal |
+| --- | --- | --- | --- |
+| [Terraços ao pôr do sol, tour privado](/en/cities/sevilla/activities/seville-rooftops-sunset-private-tour-setas) | 2h30 | 384 € (192 € por pessoa) | Ocasião especial; com cocktail nas Setas |
+| [Charrete privada com guia](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1h30 | 298 € por charrete | O clássico, com explicações a sério |
+| [Flamenco na Casa de la Memoria](/pt/cities/sevilla/activities/casa-de-la-memoria-espetaculo-flamenco-intimo-sevilha) | 1 h | 48 € | Flamenco de perto, em sala pequena |
+| [Tablao El Arenal](/pt/cities/sevilla/activities/tablao-flamenco-el-arenal-sevilha-50-anos) | 1 h | Desde 90 € | Tablao clássico junto à Maestranza |
+| [Aula de cozinha andaluza numa casa](/en/cities/sevilla/activities/andalusian-cooking-class-traditional-house-seville) | 5 h | 796 € (398 € por pessoa) | Casais que gostam de cozinhar |
+| [Sevilha misteriosa ao entardecer, privado](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset) | 1h30 | 125 € por grupo | Lendas à hora mais bonita |
+| [Cruzeiro pelo Guadalquivir com bebida](/pt/cities/sevilla/activities/sevilha-passeio-barco-guadalquivir-guiado) | 1-1,5 h | 50 € | Programa tranquilo e económico |
+| [Miradouro das Setas](/pt/cities/sevilla/activities/setas-sevilha-metropol-parasol-bilhete-miradouro) | 40 min | 32 € | Pôr do sol por conta própria |
+
 ## Pôr do sol num terraço de Sevilha
 
 É o programa para uma ocasião especial. Um guia só para vocês leva-vos a **dois terraços** do centro; o segundo é o **miradouro das Setas** (Metropol Parasol), mesmo quando se acendem a Giralda e as cúpulas. Pelo caminho conta-vos lendas que só se percebem lá de cima.
@@ -75,6 +88,8 @@ A alternativa é um **passeio privado de hora e meia com guia** especialista em 
 
 Em julho e agosto o calor aperta até tarde; o passeio, melhor depois das 20:00.
 
+[actividad: paseo-coche-caballos-sevilla-guia-privado]
+
 ## Flamenco para dois
 
 A dois, uma sala pequena funciona melhor do que um grande tablao com jantar:
@@ -83,6 +98,8 @@ A dois, uma sala pequena funciona melhor do que um grande tablao com jantar:
 - **Tablao El Arenal:** cinquenta anos de flamenco junto à Maestranza, **desde 45 €** por pessoa.
 
 Atenção aos horários: na primavera e no verão o sol põe-se tarde, por isso deixem o flamenco para depois do pôr do sol. Para comparar todos os tablaos um a um, vejam o nosso guia de [flamenco em Sevilha](/pt/guides/sevilla/flamenco-em-sevilha-que-tablao-escolher).
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cozinhar juntos
 
@@ -95,6 +112,8 @@ A **aula de cozinha andaluza** é uma experiência privada de cinco horas:
 
 Turnos às **11:00** (com almoço) e às **17:30** (com jantar). Custa **398 € por pessoa** (mínimo 2); avisem de qualquer intolerância ao reservar. Como são cinco horas, encaixa melhor no primeiro ou segundo dia do que no último.
 
+[actividad: clase-cocina-andaluza-casa-tradicional-sevilla]
+
 ## Programas a dois em Sevilha com pouco orçamento
 
 - **Plaza de España e parque de María Luisa:** grátis, e dos sítios mais bonitos da cidade ao fim da tarde.
@@ -103,6 +122,8 @@ Turnos às **11:00** (com almoço) e às **17:30** (com jantar). Custa **398 €
 - **Sevilha misteriosa ao pôr do sol:** passeio privado de hora e meia por lendas, crimes e mistérios do centro, desde as escadas das Setas. 125 € para o grupo (de 1 a 4 pessoas), 62,50 € cada um a dois.
 
 Miradouro, cruzeiro e flamenco na Casa de la Memoria somam cerca de **65 € por pessoa** por uma tarde completa.
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Uma tarde perfeita para uma escapadinha romântica a Sevilha
 

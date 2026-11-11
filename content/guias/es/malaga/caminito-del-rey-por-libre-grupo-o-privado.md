@@ -55,6 +55,24 @@ opciones:
     etiqueta: "Pareja que quiere recogida en el hotel"
 ---
 
+## Tabla de precios por persona
+
+| Forma de ir | Qué incluye | 2 personas | 4 personas | 6 personas |
+| --- | --- | --- | --- | --- |
+| Por libre, entrada general | Entrada + lanzadera (sin guía, sin transporte) | 12,50 € | 12,50 € | 12,50 € |
+| Por libre, visita guiada oficial | Entrada con guía oficial (grupos de hasta 30) + lanzadera | 20,50 € | 20,50 € | 20,50 € |
+| [Entrada con guía oficial](/ciudades/malaga/actividades/caminito-del-rey-entrada-guia-oficial) (reserva en nuestra web) | Entrada, guía y casco; sin transporte | 30 € | 30 € | 30 € |
+| [Grupo desde Málaga](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | Autobús, entrada y guía oficial | 72 € | 72 € | 72 € |
+| [Privado: transporte privado](/ciudades/malaga/actividades/caminito-del-rey-transporte-privado-desde-malaga) | Recogida, entradas, guía en grupo | 305 € (610 €) | 240 € (960 €) | 180 € (1.080 €) |
+| [Privado: guía privado](/ciudades/malaga/actividades/caminito-del-rey-guia-privado-desde-malaga) | Traslado, entradas y guía solo para vosotros | 396 € (792 €) | 214 € (856 €) | 156 € (936 €) |
+
+## ¿Y desde Sevilla o Granada?
+
+| Desde | En grupo | Privado, 2 | Privado, 4 | Privado, 6 |
+| --- | --- | --- | --- | --- |
+| Sevilla | — | [310 €](/ciudades/sevilla/actividades/caminito-del-rey-excursion-transporte-privado-desde-sevilla) | 220 € | 200 € |
+| Granada | [135 €](/ciudades/granada/actividades/caminito-del-rey-desde-granada) con almuerzo | [340 €](/ciudades/granada/actividades/caminito-del-rey-desde-granada-transporte-privado) | 210 € | 150 € |
+
 ## Qué elegir según quién viaja
 
 - **Pareja con coche:** por libre, con la entrada con guía oficial o la general de 10 € si la encontráis en la web oficial.

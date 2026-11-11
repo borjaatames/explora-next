@@ -43,6 +43,12 @@ faq:
   respuesta: Oui, nourriture et boissons sont autorisées, sans contenant en verre. À l'intérieur, un menu coûte 15-20 € et il y a des files de 13 h 30 à 15 h.
 ---
 
+## Billets pour PortAventura
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Billet PortAventura et Ferrari Land de 1, 2 ou 3 jours](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4,3★ (2 697) | 39 € |
+
 ## Les trois parcs de PortAventura World
 
 **PortAventura Park** est le parc principal et l'incontournable. Il compte six zones thématiques : Mediterrània, Far West, México, China, Polynesia et **SésamoAventura**, pour les plus petits. C'est là que se trouvent les montagnes russes vedettes, **Dragon Khan** et **Shambhala**, ainsi que Furius Baco. Comptez une journée complète.

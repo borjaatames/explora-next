@@ -51,6 +51,16 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
+## Ausflüge, die zu einem Landgang in Palma passen
+
+| Ausflug | Dauer | Ab |
+| --- | --- | --- |
+| [Geführter Altstadtrundgang](/en/cities/mallorca/activities/palma-old-town-guided-walking-tour), 4,9★ (914) | 1 Std. 45 Min. | 39 € |
+| [Rundgang mit Kathedrale und Ensaïmada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4,8★ (237) | 2 Std. 30 Min. | 39 € |
+| [Kulinarische Altstadttour](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 Std. | 65 € |
+| [Cuevas del Drach mit Konzert, ab Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4,4★ (1.489) | 5 Std., Abfahrt 9:30 | 54 € |
+| [Valldemossa, Sóller und Port de Sóller mit Bus und Straßenbahn](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 Std. | 49 € |
+
 ## Wo legen Kreuzfahrtschiffe in Palma an?
 
 Der Hafen von Palma hat zwei Kreuzfahrtbereiche, beide im Westen der Stadt:
@@ -89,6 +99,10 @@ Rechne immer mit der echten Zeit an Land: vom Verlassen des Schiffs bis eine Stu
 **Castell de Bellver.** Die runde Burg mit Blick auf die Bucht kostet **4 €** und ist **montags geschlossen**. Dienstag bis Samstag 10:00-18:00 Uhr, sonntags 10:00-15:00 Uhr bei freiem Eintritt. Kein Stadtbus fährt bis zum Tor: Vom Hafen aus ist ein Taxi am praktischsten.
 
 **Valldemossa auf eigene Faust.** Die **TIB-Linie 203** fährt von der Estació Intermodal (Plaça d'Espanya) nach Valldemossa, Deià und Sóller. Die Kartause besichtigst du in einer Stunde.
+
+[actividad: palma-visita-guiada-casco-antiguo]
+
+[actividad: valldemossa-soller-port-soller-autobus-tranvia]
 
 ## Der Zug nach Sóller vom Hafen aus
 

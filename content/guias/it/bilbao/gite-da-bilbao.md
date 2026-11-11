@@ -45,6 +45,14 @@ faq:
   respuesta: Circa 2 ore in tutto. Dal parcheggio di Eneperi all'eremo ci sono 2,5 km e 40 minuti a piedi; i 241 gradini sono solo il tratto finale. Con vento forte o mareggiate chiudono l'accesso.
 ---
 
+## Escursioni con trasporto da Bilbao
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica con txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+| [San Sebastián, Hondarribia e Getaria](/it/cities/bilbao/activities/san-sebastian-hondarribia-getaria-escursione-da-bilbao) | 4,6★ (1.022) | 35 € |
+| [Biarritz, Saint-Jean-de-Luz e San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4,7★ (898) | 70 € |
+
 ## San Juan de Gaztelugatxe
 
 A 45 minuti, un **eremo su un isolotto** unito alla terraferma da un ponte e da una scalinata di **241 gradini**, famoso in tutto il mondo come la Roccia del Drago di *Il Trono di Spade*, con viste spettacolari sulla costa.

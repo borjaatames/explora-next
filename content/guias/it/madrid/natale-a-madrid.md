@@ -85,6 +85,8 @@ Quest'anno ci sono oltre **250 punti illuminati** e 14 milioni di LED, con diseg
 4. **20:00, cioccolata con churros da San Ginés**, nel passaggio di San Ginés, accanto a Sol. Aperto dal 1894, è aperto 24 ore dal giovedì alla domenica e alla vigilia dei festivi.
 5. **21:00, cena:** tapas in centro o uno spettacolo di flamenco.
 
+[actividad: madrid-big-bus-night-tour]
+
 ## Tradizioni, Capodanno e Re Magi
 
 - **L'estrazione della lotteria (22 dicembre):** al Teatro Real, con biglietti numerati gratuiti da ritirare in biglietteria mostrando documento o passaporto. C'è chi fa la coda dalla notte prima: nelle ultime edizioni, arrivare dopo le 4 del mattino significava restare fuori.

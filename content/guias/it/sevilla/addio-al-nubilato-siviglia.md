@@ -50,6 +50,20 @@ actividades:
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
 ---
 
+## Le proposte in breve
+
+| Attività | Durata | Prezzo | Per quale gruppo |
+| --- | --- | --- | --- |
+| [Flamenco e tapas a Triana, privato](/en/cities/sevilla/activities/flamenco-tapas-triana-private-tour-seville) | 4 h | 310 € per 2, 540 € per 4, 720 € per 6 | Il programma completo dal pomeriggio alla sera |
+| [Tuk tuk elettrico privato (1 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville) | 1 h | 89 € per 2, 99 € fino a 4 | Per iniziare il pomeriggio con le foto |
+| [Tuk tuk elettrico privato (2 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours) | 2 h | 155 € per 2, 165 € fino a 4 | Per chi vuole vedere più città |
+| [Tapas a Triana, privato](/en/cities/sevilla/activities/triana-tapas-private-tour-traditional-taverns) | 3 h | 211 € a persona (da 2 a 6) | Pranzo o cena a base di tapas senza sconosciuti |
+| [Kayak sul Guadalquivir](/it/cities/sevilla/activities/siviglia-kayak-sul-guadalquivir) | 2 h | 17 € a persona | Gruppi attivi che sanno nuotare |
+| [Crociera sul Guadalquivir con bevanda](/it/cities/sevilla/activities/siviglia-crociera-guidata-guadalquivir-con-bevanda) | 1-1,5 h | 25 € a persona | Proposta tranquilla ed economica |
+| [Flamenco al Teatro Flamenco Triana](/it/cities/sevilla/activities/siviglia-spettacolo-flamenco-teatro-triana) | 1 h | 25 € a persona | Spettacolo a Triana |
+| [Flamenco alla Casa de la Memoria](/it/cities/sevilla/activities/siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo) | 1 h | 24 € a persona | Spettacolo intimo in centro |
+| [Atelier di abiti da flamenca, visita privata](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) | 2 h | 214 € a persona (da 2 a 6) | Addio al nubilato tranquillo |
+
 ## Addio al nubilato a Siviglia: la multa e le regole
 
 L'ordinanza di convivenza negli spazi pubblici è stata modificata all'inizio del 2024 e permette alla Polizia Locale di multare fino a **750 €** chi sta per strada:
@@ -78,10 +92,14 @@ Per iniziare il pomeriggio con le foto: un [tuk tuk elettrico privato](/en/citie
 - **2 ore:** 155 € per 2 e 165 € fino a 4; si aggiungono la Torre del Oro, la Cartuja e la Macarena.
 - Si parte dal **parcheggio Saba di Plaza de Armas**, senza prelievo in hotel, e i monumenti si vedono da fuori.
 
+[actividad: tuk-tuk-privado-sevilla]
+
 ## Idee per l'addio al nubilato a Siviglia di giorno: il fiume
 
 - **Kayak (17 € a persona, 2 ore):** sul Guadalquivir passando per la Torre del Oro e il ponte di Triana, con istruttore, dal club di canoa Triana. **È indispensabile saper nuotare** e può essere annullato per maltempo. D'estate, meglio di prima mattina o al tramonto.
 - **Crociera guidata (25 € a persona, 1-1,5 ore):** dal Muelle de Turismo, accanto alla Torre del Oro, con una bevanda inclusa (bibita, birra, vino o acqua). Un piano tranquillo ed economico.
+
+[actividad: kayak-guadalquivir-sevilla-alquiler]
 
 ## Flamenco per conto vostro
 
@@ -92,11 +110,15 @@ Senza il tour privato, uno spettacolo di un'ora costa **24-25 € a persona**:
 
 Confronta tutti i tablao nella nostra guida al [flamenco a Siviglia](/it/guides/sevilla/flamenco-siviglia-quale-tablao-scegliere).
 
+[actividad: teatro-flamenco-triana-show-en-directo]
+
 ## Un addio al nubilato più tranquillo
 
 La [visita privata a un atelier di abiti da flamenca di alta moda](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) (alle 10:00, 2 ore, da 2 a 6 persone, **214 € a persona**) mostra come nasce un abito, dal bozzetto al ricamo, con i suoi stilisti, e potete provare abiti autentici.
 
 Si abbina bene al **tour privato di tapas a Triana** delle 13:00 (3 ore, 211 € a persona, da 2 a 6): quattro bar, quattro tapas e quattro bevande a persona, con il Mercato di Triana.
+
+[actividad: taller-trajes-flamenca-alta-costura-sevilla-visita-privada]
 
 ## Consigli pratici
 

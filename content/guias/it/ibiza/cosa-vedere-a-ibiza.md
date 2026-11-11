@@ -47,6 +47,16 @@ faq:
   respuesta: Eivissa città è la base più versatile; Santa Eulària e il nord (Sant Joan), per calma e calette; Sant Antoni e Playa d'en Bossa, solo se vieni per la festa.
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Giro delle calette all inclusive con pranzo, paddle surf e snorkeling](/it/cities/ibiza/activities/ibiza-giro-cale-tutto-incluso-paddle-snorkeling) | 4,9★ (1.410) | 60 € |
+| [Crociera tra le calette con paddle surf, pranzo e bevande](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
+| [Barca per Es Vedrà, Espalmador e Formentera con pasti](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
+| [Giro in barca al tramonto con bevande e bagno](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4,8★ (110) | 70 € |
+| [Biglietto del traghetto andata e ritorno per Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |
+
 ## Cosa vedere a Ibiza: Dalt Vila, calette, Es Vedrà e Formentera
 
 - **Dalt Vila.** La città alta murata, Patrimonio dell'Umanità: entra dal Portal de ses Taules e sali tra mura rinascimentali e vicoli bianchi fino alla **cattedrale** e al castello, con vista sul porto. Più in basso, **La Marina** e **Sa Penya**: atmosfera, moda Adlib e ristoranti.

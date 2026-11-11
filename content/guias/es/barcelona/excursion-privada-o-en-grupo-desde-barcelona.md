@@ -57,6 +57,19 @@ opciones:
     etiqueta: "Grupo de 6: privado a 149 € por persona"
 ---
 
+## Tabla de precios por persona
+
+| Excursión desde Barcelona | En grupo (por persona) | Privado, 2 personas | Privado, 4 personas | Privado, 6 personas |
+| --- | --- | --- | --- | --- |
+| Montserrat | [47 €](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience) · [59 €](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno) grupo pequeño · [109 €](/ciudades/barcelona/actividades/montserrat-masia-bages-almuerzo-vinos) con masía y almuerzo | [419 €](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel) (838 € total) | 219 € (876 €) | 149 € (894 €) |
+| Montserrat en coche, máx. 8 | [121 €](/ciudades/barcelona/actividades/montserrat-privado-o-semiprivado-entradas-basilica) semiprivado | — | — | — |
+| Barcelona y Montserrat en un día | [149 €](/ciudades/barcelona/actividades/barcelona-y-montserrat-grupo-reducido-recogida-hotel) grupo de hasta 12, con recogida | — | — | — |
+| Montserrat y cavas Codorníu | — | [unos 317 €](/ciudades/barcelona/actividades/montserrat-cavas-codorniu-privado-desde-barcelona) | unos 206 € | — |
+| Montserrat y cripta Gaudí (Colonia Güell) | — | [unos 286 €](/ciudades/barcelona/actividades/montserrat-cripta-gaudi-colonia-guell-privado) | unos 186 € | — |
+| Montserrat y Sagrada Familia | — | [unos 270 €](/ciudades/barcelona/actividades/montserrat-y-sagrada-familia-en-un-dia) | unos 196 € | — |
+| Girona, Besalú y Rupit con comida | — | [unos 340 €](/ciudades/barcelona/actividades/girona-besalu-rupit-privado-desde-barcelona) | unos 207 € | — |
+| Día completo en Barcelona con Sagrada Familia | [129 €](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell) grupo reducido | [329 €](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) (658 €) | 209 € (836 €) | 169 € (1.014 €) |
+
 ## Excursión privada o en grupo: respuesta rápida según quién viaja
 
 - **Pareja:** grupo. Montserrat en grupo pequeño de medio día desde 59 € o con CastlExperience desde 47 €. En privado pagaríais 838 €.

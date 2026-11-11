@@ -44,6 +44,14 @@ imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.we
 imagen_alt: "La Graciosa seen from the Famara cliffs, with Caleta de Sebo by the sea"
 ---
 
+## Ferry or tour?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| Órzola-La Graciosa return ferry, Biosfera Express (non-resident adult) | — | €29 |
+| Órzola-La Graciosa return ferry, Líneas Romero (adult) | — | €28 |
+| [La Graciosa catamaran cruise with ferry, lunch, swimming and kayaks](/en/cities/lanzarote/activities/la-graciosa-catamaran-cruise-lunch) | 4.6★ (2,132) | €66 |
+
 ## Órzola-La Graciosa ferry: companies, timetables and prices
 
 **Líneas Romero** and **Biosfera Express** run the route with fast passenger boats. The crossing takes **about 25 minutes** and arrives at the port of Caleta de Sebo.

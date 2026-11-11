@@ -55,12 +55,30 @@ opciones:
     etiqueta: Small group
 ---
 
+## Which ticket should you choose?
+
+| Option | Price from | Duration | Format | Best for |
+|---|---|---|---|---|
+| [Ticket with audio guide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | €34 | 1-2 h | Self-guided, audio guide in 16 languages | The cheapest, visit at your own pace |
+| [Guided tour with tower access](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) | €75 | 1.5-2 h | Guided + optional tower climb | The only one with access to a tower |
+| [Small-group guided visit](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | €99 | 1h45 | Guided, small group, accessible entry | Travelers who prioritize a small group over price |
+
+## Combined with Park Güell and other sights
+
+| Option | Price from | Duration | Includes | Best for |
+|---|---|---|---|---|
+| [Guided tour: Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | €104 | 4 h | Just these two monuments, guided | Travelers who want both, guided, without spending the whole day |
+| [Barcelona in one day: Sagrada Família and Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | €129 | 7 h | Montjuïc, old town, Passeig de Gràcia + both monuments | Travelers who want to see Barcelona's highlights in a single day |
+| [Best of Barcelona private tour, with Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | from €658/group (1-2 people) | 7 h | Montjuïc, Gothic Quarter, Passeig de Gràcia + Sagrada Família — **does not include Park Güell** | Travelers who want a full-day private tour focused on the rest of the city, not Park Güell |
+
 ## Sagrada Familia ticket prices
 
 - **Official website (sagradafamilia.org):** the basic ticket with audio guide costs **€26** and with a tower **€36**. That's the cheapest if there are places left.
 - **Bookable options:** they cost more because they add a guide, a small group or priority access, and they often have places when the official ticket is sold out. All include **skip-the-line entry** to the Sagrada Família.
 
 In 2026 morning slots sell out weeks ahead, and the towers even sooner. **No tickets are sold at a ticket office.**
+
+[actividad: sagrada-familia-tour-with-tower-access]
 
 ## Ticket types for the basilica alone
 
@@ -90,6 +108,8 @@ You only climb **one tower** and you don't choose it: the monument assigns it de
 The climb has limited capacity and sometimes closes for maintenance: if it's the main reason for your visit, check availability before booking.
 
 [actividad: sagrada-familia-tour-con-torre]
+
+[actividad: sagrada-familia-and-park-guell-guided-tour]
 
 ## Tips before you go
 

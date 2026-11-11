@@ -54,6 +54,15 @@ actividades:
   - flamenco-cuevas-tarantos-sacromonte
 ---
 
+## Le 4 grotte a confronto
+
+| Grotta | Prezzo da | Durata | Atmosfera | Ideale per |
+|---|---|---|---|---|
+| [Cueva del Zincalé](/it/cities/granada/activities/granada-flamenco-grotta-zincale-sacromonte) | 20 € | 50 min | Gestita direttamente dagli artisti, formato artigianale | Chi vuole la cosa più vicina a "veder esibirsi la famiglia che la gestisce" |
+| [Cueva Los Amayas](/it/cities/granada/activities/granada-flamenco-grotta-los-amayas-sacromonte) | 25 € | 1 h | Senza palco né amplificazione, a 3 metri dai ballerini, bevanda inclusa | Il purista: vuole il formato più tradizionale, senza artifici |
+| [Cueva La Faraona](/it/cities/granada/activities/granada-flamenco-grotta-la-faraona-sacromonte) | 16 € | 1 h | La più piccola (25 posti), a un metro e mezzo dagli artisti | Il prezzo più basso del gruppo, senza rinunciare alla vicinanza |
+| [Cuevas Los Tarantos](/it/cities/granada/activities/granada-flamenco-cuevas-los-tarantos-sacromonte) | 28 € | 1 h | Aperta dal 1972, bevanda inclusa, cast ampio, 2.093 recensioni | Prima volta a vedere il flamenco in grotta: l'opzione con più margine di errore |
+
 ## Le 4 grotte di flamenco del Sacromonte a confronto
 
 In apparenza tutte e quattro offrono la stessa cosa: zambra gitana, canto e ballo dentro una grotta scavata nella collina. La differenza sta nei dettagli.

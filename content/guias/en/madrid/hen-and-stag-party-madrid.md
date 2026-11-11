@@ -50,6 +50,19 @@ actividades:
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price | Best for |
+| --- | --- | --- | --- |
+| [Private party tuk-tuk with music](/en/cities/madrid/activities/madrid-private-party-tuk-tuk-tour-music) | 1 h 30 min | €150 per tuk-tuk | Kicking off the afternoon with just your group |
+| [Paella and sangria workshop](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | €64 per person | Any group, including mixed groups or family |
+| [Pub crawl: 3 bars and a club](/en/cities/madrid/activities/madrid-pub-crawl-bars-club-shots) | 5 h | €19 per person | Over-18s who want a big night |
+| [Flamenco at Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | 1 h | From €31 per person | Dinner and a show by Gran Vía |
+| [Flamenco at Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | €45 per person, drink included | Groups who prefer a small, intimate venue |
+| [Craft beer and tapas in Malasaña](/en/cities/madrid/activities/craft-beer-tapas-tour-malasana-madrid) | 3 h | €85.50 per person | Beer lovers; in English, up to 15 per booking |
+| [Tapas in three taverns from Santa Ana](/en/cities/madrid/activities/madrid-tapas-tour-three-taverns-santa-ana) | 3 h | €69.99 per person | Guided tapas dinner; starts at 5 pm |
+| [Family winery with a sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | €110 per person | A relaxed daytime plan; maximum 8 |
+
 ## Madrid party tuk-tuk: the star plan
 
 It's a private tuk-tuk playing **the music you choose** for an hour and a half along Madrid's best-known avenues. The best part for a hen or stag: **the ride ends wherever you decide within the centre**, so you can finish at the door of your restaurant or tablao.
@@ -72,6 +85,8 @@ If you'd rather leave the city, the **family winery with a sommelier** (€110 p
 
 Other plans that work without alcohol: the party tuk-tuk, a flamenco show and the private picnic, paired with 0.0% sparkling wines.
 
+[actividad: taller-paella-sangria-madrid-centro]
+
 ## Dinner: tapas or flamenco
 
 - **Flamenco at Torres Bermejas (from €31):** a tablao opened in 1960 next to the Gran Vía, with drink, tapas or three-course dinner options. If you want to eat there, book the menu with the ticket: ordering on the spot doesn't always work.
@@ -81,6 +96,8 @@ Other plans that work without alcohol: the party tuk-tuk, a flamenco show and th
 
 Both tapas routes are **in English**. To choose a tablao in more detail, see our guide to [flamenco in Madrid](/en/guides/madrid/flamenco-madrid-which-tablao-to-choose).
 
+[actividad: flamenco-torres-bermejas-cena]
+
 ## Night: pub crawl with a club
 
 The route (€19 per person) covers **three bars and a club** in the centre over five hours, with a welcome shot at each venue and tips included. You meet at Enbabia Infuse Bar (Calle de Núñez de Arce 9, next to Plaza de Santa Ana), where you swap your ticket for a wristband. Venues may vary by day and there are guides in six languages, handy for international groups.
@@ -88,6 +105,8 @@ The route (€19 per person) covers **three bars and a club** in the centre over
 - Over-18s only.
 - **Dress code:** no sportswear; men can't wear sandals or shorts.
 - Free cancellation up to 24 hours before.
+
+[actividad: pub-crawl-madrid-bares-chupitos]
 
 ## A typical day
 

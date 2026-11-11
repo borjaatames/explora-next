@@ -56,6 +56,22 @@ opciones:
     etiqueta: Petit groupe
 ---
 
+## Quel billet choisir ?
+
+| Option | Prix à partir de | Durée | Format | Idéal pour |
+|---|---|---|---|---|
+| [Billet avec audioguide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) | 34 € | 1-2 h | Visite libre, audioguide en 16 langues | La moins chère, visiter à son rythme |
+| [Visite guidée avec montée à une tour](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access) | 75 € | 1 h 30-2 h | Guidée + montée facultative à une tour | La seule avec accès à l'une des tours |
+| [Visite guidée en petit groupe](/en/cities/barcelona/activities/sagrada-familia-small-group-tour) | 99 € | 1 h 45 | Guidée, petit groupe, parcours accessible | Ceux qui privilégient un petit groupe plutôt que le prix |
+
+## Combinés avec le Park Güell et d'autres monuments
+
+| Option | Prix à partir de | Durée | Inclut | Idéal pour |
+|---|---|---|---|---|
+| [Visite guidée Sagrada Família + Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour) | 104 € | 4 h | Uniquement ces deux monuments, avec guide | Ceux qui veulent les deux avec guide sans y passer la journée |
+| [Barcelone en une journée : Sagrada Família et Park Güell](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) | 129 € | 7 h | Montjuïc, vieille ville, Passeig de Gràcia + les deux monuments | Ceux qui veulent voir l'essentiel de Barcelone en une seule journée |
+| [Le meilleur de Barcelone en privé, avec la Sagrada Família](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | à partir de 658 €/groupe (1-2 personnes) | 7 h | Montjuïc, quartier gothique, Passeig de Gràcia + Sagrada Família — **n'inclut pas le Park Güell** | Ceux qui veulent une journée complète en privé centrée sur le reste de la ville, pas sur le Park Güell |
+
 ## Prix du billet Sagrada Família
 
 - **Site officiel (sagradafamilia.org) :** le billet de base avec audioguide coûte **26 €** et avec tour **36 €**. C'est le moins cher s'il reste des places.

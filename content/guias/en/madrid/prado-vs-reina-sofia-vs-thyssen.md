@@ -55,6 +55,16 @@ opciones:
     etiqueta: All 3 museums
 ---
 
+## Which ticket should you choose?
+
+| Option | Price | What's included | Who it's for |
+| --- | --- | --- | --- |
+| Prado general ticket (official price) | €15 | The Prado only (€7.50 reduced) | Independent visitors buying on the museum's website |
+| [Prado Museum: official entry ticket](/en/cities/madrid/activities/prado-museum-entry-ticket) | €18 | Prado entry and booking fee; no guide or audio guide | Independent visitors who want everything booked in one place |
+| [Prado Museum: guided tour with entry](/en/cities/madrid/activities/prado-museum-guided-tour) | €49 | Official guide, entry and skip-the-line access (1.5–2 h) | First-timers who want to go straight to the essentials |
+| Paseo del Arte pass | €32.80 | Prado, Thyssen and Reina Sofía | Anyone genuinely visiting all three |
+| [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) | €38 | One entry to each museum (Thyssen permanent collection); valid one year | Visiting all three and booking it here |
+
 ## Prado vs Reina Sofía: which museum in Madrid?
 
 If you only have time for one museum, **go to the Prado**. If you have time for two, add the **Thyssen**. The **Reina Sofía** comes last and is only worth the time if you genuinely care about 20th-century art.
@@ -93,6 +103,8 @@ The most important private collection in the world, bought by the Spanish state 
 
 **Price:** €14. **Free** on Mondays from 12:00 to 16:00 (permanent collection only) and Saturdays from 21:00 to 23:00. **On Mondays it only opens during those free hours.** Between 1 h 30 and 2 h 30.
 
+[actividad: museo-thyssen-entrada]
+
 ## The Reina Sofía: only if you care about the 20th century
 
 Spanish and international 20th-century and contemporary art. The star is **Guernica**, alongside Dalí, Miró, Picasso and Tàpies. With limited time and general interests, **skip it** and give that time to the Prado and the Thyssen: the building is huge and, beyond Guernica, Dalí, Miró and some Picasso series, much of it is conceptual art that doesn't grab the average visitor.
@@ -100,6 +112,8 @@ Spanish and international 20th-century and contemporary art. The star is **Guern
 When it is worth it: if you love the avant-garde, if you saw the Prado and the Thyssen on a previous trip, or if you just want to see Guernica. Give the painting 20 minutes (3.5 × 7.8 m, the bombing of 26 April 1937) and the Dalí room (*The Great Masturbator*, *The Enigma of Hitler*), then leave.
 
 **Price:** €12. **Free** Monday and Wednesday to Saturday from 19:00 to 21:00, and Sundays from 12:30 to 14:30. Guernica, Dalí and Miró, 1 h 30; the whole museum, 3-4 h.
+
+[actividad: reina-sofia-entrada]
 
 ## How to plan the Paseo del Arte
 

@@ -50,6 +50,19 @@ actividades:
   - madrid-big-bus-night-tour
 ---
 
+## Le opzioni in breve
+
+| Attività | Durata | Prezzo in due | Ideale per |
+| --- | --- | --- | --- |
+| [Flamenco a Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | 90 €, una consumazione a testa | Una serata speciale in un piccolo locale |
+| [Taverne centenarie, tour privato](/it/cities/madrid/activities/madrid-tour-privato-taverne-storiche) | 2 h 10 min | 254 € (127 € a testa) | Storia di Madrid con tapas, senza sconosciuti |
+| [Mongolfiera su Segovia](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) | 4 h (1 h di volo) | 410 € (205 € a testa) | Anniversari e grandi occasioni |
+| [Picnic chic privato](/en/cities/madrid/activities/private-chic-picnic-experience-madrid) | 2 h | 140 € (70 € a testa) | Un pomeriggio tranquillo e analcolico |
+| [Vino e tapas in bar nascosti](/it/cities/madrid/activities/madrid-tour-vini-tapas-bar-nascosti) | 3 h | 180 € | Coppie amanti del vino |
+| [Cantina e pranzo a Chinchón](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) | 6 h | 400 € | Una giornata fuori città |
+| [Tuk-tuk panoramico privato](/en/cities/madrid/activities/exclusive-panoramic-tuk-tuk-tour-madrid) | 2 h | 140 € a tuk-tuk | Vedere Madrid senza camminare chilometri |
+| [Bus panoramico notturno](/en/cities/madrid/activities/madrid-big-bus-panoramic-night-tour) | 70 min | Da 46,80 € | Madrid illuminata, spendendo poco |
+
 ## Serata romantica a Madrid: cena e flamenco in un piccolo tablao
 
 **Las Carboneras** si trova nel seminterrato dell'antico palazzo del conte di Miranda, a cinque minuti dalla Plaza Mayor. È un locale piccolo e raccolto, con artisti fissi e tanta improvvisazione.
@@ -63,6 +76,8 @@ Se preferite un tablao più storico con cena di tre portate, **Torres Bermejas**
 
 [actividad: flamenco-tablao-las-carboneras]
 
+[actividad: bodega-y-comida-en-chinchon-desde-madrid]
+
 ## Madrid romantica: le taverne più antiche, solo per voi
 
 Una guida privata vi accompagna per **2 h 10 min** tra taverne e ristoranti di oltre cento e duecento anni, compreso quello che il Guinness considera il ristorante più antico del mondo, con aneddoti su re, scrittori e vita popolare della vecchia Madrid.
@@ -70,6 +85,8 @@ Una guida privata vi accompagna per **2 h 10 min** tra taverne e ristoranti di o
 - Include **due consumazioni e due tapas a persona**, nella prima e nell'ultima taverna.
 - **127 € a persona**, minimo 2. Può iniziare con prelievo in hotel.
 - Età minima 12 anni; non accessibile in sedia a rotelle.
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Un'occasione speciale: mongolfiera su Segovia da Madrid
 
@@ -80,6 +97,8 @@ Un'ora di volo su **Segovia**, con l'Acquedotto, la Cattedrale e l'Alcázar tutt
 - Età minima 6 anni. Sconsigliato in gravidanza.
 - Portate abiti comodi, scarpe sportive e qualcosa per la testa. Gli orari dipendono dal vento e dai limiti di peso.
 
+[actividad: vuelo-globo-segovia]
+
 ## Attività tranquille e gite di un giorno
 
 - **[Picnic chic privato](/en/cities/madrid/activities/private-chic-picnic-experience-madrid)** (2 h, 70 € a persona): uno staff allestisce un picnic gourmet in un angolo appartato di Madrid, svelato alla conferma, con prosciutto Reserva, formaggi artigianali e **spumanti analcolici**. Montano e smontano tutto loro. La cancellazione gratuita è solo fino a **12 ore prima**.
@@ -89,6 +108,8 @@ Un'ora di volo su **Segovia**, con l'Acquedotto, la Cattedrale e l'Alcázar tutt
 - **Cantina e pranzo a Chinchón** (6 h, 200 € a persona): trasporto dal centro, una storica cantina di famiglia con visita alla grotta e degustazione di tre vini, e pranzo in un ristorante tradizionale vicino alla piazza medievale. Gruppi di massimo otto persone; cancellazione gratuita fino a 48 ore prima.
 
 Prezzi «da» di ogni scheda al 1° novembre 2026; possono variare secondo data e opzione.
+
+[actividad: picnic-chic-privado-madrid]
 
 ## Madrid per innamorati: una serata perfetta
 

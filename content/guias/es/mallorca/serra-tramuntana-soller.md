@@ -55,6 +55,8 @@ faq:
 
 **Fornalutx.** A un paso de Sóller, considerado uno de los pueblos más bonitos de España: escaleras de piedra, geranios y silencio.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## El tren de Sóller
 
 El **tren de madera de 1912** une Palma con Sóller cruzando la Tramuntana entre túneles y naranjos: **una hora** de viaje que es una atracción en sí misma (**30 € ida y vuelta**). En Sóller enlaza con el **tranvía histórico** hasta el puerto. Es la mejor opción si no quieres conducir las curvas; en temporada, reserva.

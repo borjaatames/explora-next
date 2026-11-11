@@ -62,6 +62,15 @@ opciones:
 
 | Opção | Tempo | Preço aprox. | Frequência | Para quem |
 | --- | --- | --- | --- | --- |
+| Comboio Avant a partir de Atocha | 33 min | 22-26 € ida e volta | Aprox. de hora a hora | Quem quer rapidez e reserva com antecedência |
+| Autocarro Alsa a partir da Plaza Elíptica | 50 min (direto) - 1 h 30 | Desde 6,55 € por trajeto | 83 serviços por dia | Orçamento apertado ou regresso tardio |
+| Carro pela A-42 | 1 h | Combustível e estacionamento | Quando quiser | Grupos e quem quer ver o Mirador del Valle |
+| [Excursão organizada](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 h, tudo incluído | Desde 79 € | Diária | Quem não quer organizar nada |
+
+## Comboio, autocarro ou carro: comparação
+
+| Opção | Tempo | Preço aprox. | Frequência | Para quem |
+| --- | --- | --- | --- | --- |
 | Comboio Avant desde Atocha | 33 min | 22-26 € ida e volta | Aprox. de hora a hora | Quem quer rapidez e reserva com antecedência |
 | Autocarro Alsa desde Plaza Elíptica | 50 min (direto) - 1 h 30 | Desde 6,55 € por trajeto | 83 serviços por dia | Orçamento apertado ou regresso tardio |
 | Carro pela A-42 | 1 h | Combustível e estacionamento | Quando quiseres | Grupos e quem quer ver o Mirador del Valle |
@@ -72,6 +81,8 @@ O comboio é o mais rápido, mas a estação de Toledo fica em baixo, junto ao r
 [actividad: excursion-toledo-dia-completo]
 
 Este guia trata só de **como ir e voltar**. Para o roteiro na cidade, lê [Toledo desde Madrid num dia](/pt/guides/madrid/toledo-desde-madrid-num-dia).
+
+[actividad: toledo-pulsera-turistica-7-monumentos]
 
 ## O comboio Avant Madrid-Toledo: horários e preço
 

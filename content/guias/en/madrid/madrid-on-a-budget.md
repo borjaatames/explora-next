@@ -75,6 +75,8 @@ The state museums share a pattern, Saturday afternoon and Sunday morning, so you
 
 [actividad: museo-prado-entrada]
 
+[actividad: prado-museum-entry-ticket]
+
 ## Free things to do in Madrid outdoors: viewpoints and parks
 
 - **Temple of Debod and Parque del Oeste** at sunset: Royal Palace, mountains and an orange sun. If Debod is crowded, 50 metres higher up in the park you get the same view.
@@ -109,6 +111,8 @@ The state museums share a pattern, Saturday afternoon and Sunday morning, so you
 4. **Parks at 14:00 in July and August:** go 9:00-12:00 or after 19:00.
 5. **Free isn't cheap:** if you end up with a €30 paella in Plaza Mayor, the plan has failed. A €10-12 set menu in Chamberí, a calamari sandwich in a neighbourhood bar or a picnic in the Retiro.
 6. **The "free" clubs around Sol and Gran Vía:** €10 for the first drink. Better a neighbourhood bar with a €2.50 beer.
+
+[actividad: reina-sofia-madrid-ticket]
 
 ## What's worth paying for
 

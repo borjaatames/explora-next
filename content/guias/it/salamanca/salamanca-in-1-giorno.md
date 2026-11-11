@@ -45,6 +45,12 @@ faq:
   respuesta: Sopra un teschio, sulla facciata plateresca del 1512 dell'Edificio Storico. La tradizione vuole che la si trovi senza aiuto; se non ci riesci, qualcuno te la indicherà.
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Biglietto per le Cattedrali con audioguida](/it/cities/salamanca/activities/biglietto-cattedrali-salamanca-audioguida) | 4,6★ (202) | 10 € |
+
 ## Il programma della giornata: itinerario di Salamanca in un giorno
 
 | Ora | Programma |
@@ -74,6 +80,10 @@ Calcola **10-15 km a piedi** nella giornata: porta scarpe comode.
 **Casa Lis o San Esteban** (**4 €** ciascuno), non entrambi. Casa Lis è il museo di art nouveau e art déco con vetrate sul fiume (gratis il giovedì dalle 11:00 alle 14:00); San Esteban, il convento domenicano con chiostro plateresco.
 
 **Ponte Romano al tramonto.** A 10 minuti in discesa, la cartolina completa: le cattedrali sulla collina e la Clerecía in pietra dorata. Se hai ancora energia, sali all'Arrabal per un'altra vista.
+
+[actividad: university-of-salamanca-guided-tour]
+
+[actividad: salamanca-legends-evening-walking-tour]
 
 ## Come arrivare a Salamanca
 

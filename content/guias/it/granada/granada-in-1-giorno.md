@@ -80,6 +80,8 @@ In tutto, circa **4 ore**. Porta **documento d'identità o passaporto**: il bigl
 
 Più dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla) e, se non ci sono biglietti, in [cosa fare se sono esauriti](/en/guides/granada/alhambra-tickets-sold-out).
 
+[actividad: alhambra-palacios-nazaries-tour-privado-sin-colas]
+
 ## Pranzo e pomeriggio: tapas, Cappella Reale e Carrera del Darro
 
 **13:30, tapas gratis.** Scendi per la Cuesta de Gomérez fino a Plaza Nueva e prosegui verso **calle Navas** o **Elvira**. A Granada **la tapa è gratis con ogni bevanda**: con tre birre (1,80-2,50 € l'una) si pranza. Arriva prima delle 14:00 o dopo le 15:30 per trovare posto al bancone. Se preferite farvi portare nei bar buoni, un tour privato di tapas fa tre tappe in 2 h 30.
@@ -93,6 +95,10 @@ Più dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-vis
 **18:00.** In fondo al Paseo de los Tristes, sali all'Albaicín per la Cuesta del Chapiz (25 minuti di salita) o con il **minibus C32** da Plaza Nueva. Gironzola fino al **Mirador de San Nicolás** e arriva **45 minuti prima del tramonto**: l'Alhambra diventa rossa con la Sierra Nevada alle spalle. Se c'è troppa gente, 10 minuti più su c'è il Mirador de San Cristóbal, con la metà delle persone. Con una guida, la passeggiata al tramonto per l'Albaicín e il Sacromonte parte da 15 €.
 
 **21:30, zambra.** Da San Nicolás ci sono 15-20 minuti a piedi fino alle grotte del **Sacromonte**. La zambra è il flamenco delle grotte, intimo e di radice gitana: **22-30 € con una consumazione**. Prenota, soprattutto nel fine settimana, e torna in taxi (5-7 €). Per scegliere la grotta, guarda [il confronto del Sacromonte](/it/guides/granada/flamenco-in-grotta-sacromonte-quale-scegliere).
+
+[actividad: granada-cuatro-culturas-tour-privado]
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]
 
 ## Cosa prenotare e quanto costa
 

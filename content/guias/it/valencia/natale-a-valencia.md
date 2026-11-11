@@ -68,6 +68,10 @@ actividades:
 
 Tranne Expojove, che ha già pubblicato le date 2026, sono quelle dell'edizione 2025-26. Il Comune presenta il programma a novembre e aggiorneremo la guida appena esce.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Luci di Natale a Valencia e fuochi in Plaza del Ayuntamiento
 
 Nel 2025 Valencia ha acceso il Natale con un piromusical, musica dal vivo e un **albero di 25 metri** in Plaza del Ayuntamiento, accanto al presepe comunale. In città:
@@ -77,6 +81,8 @@ Nel 2025 Valencia ha acceso il Natale con un piromusical, musica dal vivo e un *
 - Una sfera e una campana attraversabili, nelle piazze di Segrelles e del Patriarca.
 
 La cosa più valenciana sono i **piromusicales del sabato alle 18:30**: tre minuti di fuochi a ritmo di una canzone, gratis. Arriva dieci minuti prima. Nel 2025 i commercianti del centro hanno allestito anche pista di pattinaggio, giostra, trenino e ruota panoramica tra Plaza del Ayuntamiento e Plaza de San Agustín.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Mercatini di Natale e presepi
 
@@ -91,6 +97,8 @@ La cosa più valenciana sono i **piromusicales del sabato alle 18:30**: tre minu
 - **Expojove** è il grande appuntamento: dieci giorni di giochi, laboratori e spazi per i piccoli alla Feria València, dal **26 dicembre 2026 al 4 gennaio 2027**, dalle 11:00 alle 20:00, **da 3 €**. Il 31 apre solo dalle 10:00 alle 14:00 e il 1° gennaio dalle 16:00 alle 21:00. Si arriva in metro o con l'autobus 62.
 - **Piromusical del sabato:** tre minuti, senza troppa ressa se arrivi un po' prima.
 - **Ciutat de les Arts i les Ciències:** amplia orari e attività a Natale e pubblica il calendario su cac.es. Il Museo delle Scienze e l'Hemisfèric erano chiusi il 25 dicembre nel 2025.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## Capodanno e Cabalgata dei Re Magi a Valencia
 

@@ -55,11 +55,24 @@ opciones:
     etiqueta: Con Reina Sofía e Thyssen
 ---
 
+## Quale biglietto scegliere?
+
+| Se vuoi… | Opzione | Da |
+| --- | --- | --- |
+| Un biglietto a orario, senza guida | [Biglietto d'ingresso al Museo del Prado](/en/cities/madrid/activities/prado-museum-entry-ticket), 4,7★ (23.644) | 18 € |
+| Il più votato | [Visita guidata al Prado con ingresso](/it/cities/madrid/activities/museo-del-prado-visita-guidata), 4,9★ (885) | 49 € |
+| I tre grandi musei | [Art Walk Pass: Prado, Reina Sofía e Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
+| Solo il tuo gruppo | [Visita privata con guida ufficiale](/it/cities/madrid/activities/museo-del-prado-tour-privato-guida-ufficiale) | 146 € |
+
 ## Cosa vedrai
 
 Il Prado nasce dalle collezioni reali degli Asburgo e dei Borbone, e questo ne spiega il carattere: è la migliore raccolta al mondo di **Velázquez, Goya ed El Greco**, con fondi eccezionali di Bosch, Tiziano e Rubens. Copre la pittura europea dal XII al XIX secolo.
 
 Imperdibili: *Las Meninas* e la sala di Velázquez, le *Pitture nere* di Goya e *Il Giardino delle delizie* di Bosch. Calcola **2-3 ore**; una volta dentro non c'è limite di tempo.
+
+[actividad: museo-prado-visita-guiada]
+
+[actividad: art-walk-pass-prado-reina-sofia-thyssen]
 
 ## Prezzo e orari del Museo del Prado
 

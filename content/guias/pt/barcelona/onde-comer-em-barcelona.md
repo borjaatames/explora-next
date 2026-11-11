@@ -67,6 +67,8 @@ Quatro pratos a não perder:
 - **Botifarra amb mongetes:** salsicha catalã grelhada com feijão-branco.
 - **Crema catalana**, a sobremesa obrigatória.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas e vermute em Barcelona: balcões que valem a pena
 
 - **Bar Cañete** (Unió, 17, Raval): balcão de mármore e produto da lota ao mais alto nível. Caro, fecha ao domingo, **reserva imprescindível**.

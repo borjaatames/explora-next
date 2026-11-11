@@ -54,6 +54,16 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta and its islet in Ibiza"
 ---
 
+## The coves from the sea
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
+| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €69 |
+| [Sea kayak tour through caves with snorkelling from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4.8★ (333) | €50 |
+| [Boat to Es Vedrà, Espalmador and Formentera with meals](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.1★ (1,335) | €155 |
+| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €70 |
+
 ## The best coves in Ibiza by area
 
 | Area | Top coves | Character |
@@ -62,6 +72,8 @@ imagen_alt: "Cala Conta and its islet in Ibiza"
 | North | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Wild, pine forests, quiet |
 | South | Ses Salines, Es Cavallet | Fashionable, beside the salt flats |
 | East | Cala Llonga, Cala Mastella, Cala Boix | Small and family-friendly |
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## The must-sees: Cala Comte, Cala Salada, Cala d'Hort and Benirràs
 

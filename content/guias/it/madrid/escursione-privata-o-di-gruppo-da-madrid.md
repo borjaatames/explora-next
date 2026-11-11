@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Privato con prelievo: anziani o mobilità ridotta"
 ---
 
+## Tabella dei prezzi a persona
+
+| Escursione da Madrid | In gruppo (a persona) | Privato, 2 persone | Privato, 4 persone | Privato, 6 persone |
+| --- | --- | --- | --- | --- |
+| Escorial e Valle de Cuelgamuros | [62 €](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour) | [410 €](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) (820 € totali) | 370 € (1.480 €) | 320 € (1.920 €) |
+| Toledo, giornata intera con ingressi | [79 €](/en/cities/madrid/activities/toledo-full-day-from-madrid) | — | — | — |
+| Toledo e mulini di Consuegra | [125 €](/it/cities/madrid/activities/toledo-mulini-don-chisciotte-da-madrid) (piccolo gruppo in minivan) | — | — | — |
+| Segovia e Toledo | [41 €](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) | — | — | — |
+| Ávila e Segovia con ingressi | [79 €](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) | — | — | — |
+| Alcalá de Henares e cantina | — | [da 188 €](/en/cities/madrid/activities/alcala-henares-winery-private-tour) (375 € il gruppo fino a 2) | — | — |
+| Cantina e pranzo a Chinchón | — | [200 €](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) a persona, trasporto privato | 200 € | 200 € |
+
 ## Risposta rapida in base a chi viaggia
 
 - **Coppia:** gruppo. Toledo e Segovia in un giorno a 41 € ciascuno, o Toledo con ingressi a 79 €.

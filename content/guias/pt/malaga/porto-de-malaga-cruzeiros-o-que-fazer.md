@@ -62,6 +62,10 @@ actividades:
 - **Catedral:** de segunda a sexta das 10:00 às 20:00 e aos sábados até às 18:00.
 - **Com guia:** há visita guiada à Alcazaba e ao Teatro Romano desde 13 € e a rota «Málaga esencial» desde 32,76 €. O **tour privado Málaga esencial** custa 200 € por grupo de 1 ou 2 pessoas (2 horas) e 280 € para 4; o ponto de encontro é a plaza de la Constitución, a cerca de 10 minutos a pé do shuttle (não recolhe no porto).
 
+[actividad: malaga-esencial-catedral-alcazaba-teatro]
+
+[actividad: malaga-esencial-tour-privado]
+
 ## Onde atraca o navio
 
 O porto tem três terminais de cruzeiros, todos geridos pela Cruceros Málaga:

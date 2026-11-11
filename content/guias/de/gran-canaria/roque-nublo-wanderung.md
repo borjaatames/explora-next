@@ -105,3 +105,5 @@ Er führt durch kanarische Kiefern auf ein Felsplateau, auf dem der **Roque Nubl
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 Mehr Ideen unter [was man auf Gran Canaria sehen sollte](/de/guides/gran-canaria/was-sehen-auf-gran-canaria).
+
+[actividad: jeep-safari-sur-gran-canaria]

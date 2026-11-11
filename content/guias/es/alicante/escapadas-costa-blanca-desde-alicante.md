@@ -49,6 +49,13 @@ faq:
   respuesta: Solo si están juntas, como Altea y Calpe. Guadalest (con el Algar) o Jávea ya ocupan la jornada completa.
 ---
 
+## Excursiones que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Guadalest, Altea y Fuentes del Algar](/ciudades/alicante/actividades/excursion-guadalest-altea-algar-desde-alicante) | 4,8★ (3.714) | 47 € |
+| [Barco de ida y vuelta a la isla de Tabarca](/ciudades/alicante/actividades/barco-alicante-isla-tabarca-ida-vuelta) | 4,3★ (5.628) | 25 € |
+
 ## Las mejores escapadas desde Alicante
 
 | Destino | Distancia | Ideal para |

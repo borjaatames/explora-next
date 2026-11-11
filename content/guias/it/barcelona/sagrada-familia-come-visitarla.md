@@ -87,6 +87,8 @@ Il biglietto dà accesso a **una sola torre** e non la scegli tu: il monumento l
 
 Si sale in ascensore e si scende da una **scala a chiocciola stretta**: niente per chi soffre di vertigini o claustrofobia, in sedia a rotelle o con bambini sotto i 6 anni. Da sopra non vedi le torri intere, e i Bunkers del Carmel o il Tibidabo offrono viste simili gratis. Quello che giustifica la visita sono le vetrate viste da dentro, e quelle le hai già con il biglietto base: se devi scegliere, quei 10 € rendono di più al Park Güell.
 
+[actividad: sagrada-familia-tour-con-torre]
+
 ## Ora del Silenzio e Anno Gaudí 2026
 
 **Ora del Silenzio.** Dal 2 febbraio 2026, ogni giorno dalle **9:00 alle 10:00**: auricolari obbligatori, niente audio dagli altoparlanti e silenzio all'interno. È il momento migliore per visitarla: meno gente, la luce del mattino attraverso le vetrate a est e un'atmosfera raccolta. Prenota la fascia delle 9:00.

@@ -44,6 +44,14 @@ imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.we
 imagen_alt: "L'isola di La Graciosa vista dal Risco de Famara, con Caleta de Sebo sul mare"
 ---
 
+## Traghetto o escursione?
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| Traghetto Órzola-La Graciosa andata e ritorno, Biosfera Express (adulto non residente) | — | 29 € |
+| Traghetto Órzola-La Graciosa andata e ritorno, Líneas Romero (adulto) | — | 28 € |
+| [La Graciosa in catamarano con traghetto, pranzo, bagno e kayak](/it/cities/lanzarote/activities/la-graciosa-crociera-catamarano-pranzo) | 4,6★ (2.132) | 66 € |
+
 ## Traghetto Órzola-La Graciosa: compagnie, orari e prezzi
 
 La tratta è coperta da **Líneas Romero** e **Biosfera Express**, con barche veloci per passeggeri. La traversata dura **circa 25 minuti** e arriva al porto di Caleta de Sebo.

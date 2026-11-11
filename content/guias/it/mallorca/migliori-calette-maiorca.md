@@ -102,6 +102,8 @@ La regola d'oro a luglio e agosto: arriva **prima delle 9:00** o **dopo le 18:00
 - **Meduse:** arrivano con il vento di levante; controlla le bandiere dei bagnini e le app di allerta prima di partire.
 - **Nudismo:** accettato nei tratti più appartati di Es Trenc, Cala Varques e parte di Cala Mesquida.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Consigli ed errori da evitare
 
 1. **Non andare nelle calette piccole a mezzogiorno d'estate.** Niente parcheggio e pienone; alzarsi presto è l'unico modo per parcheggiare nelle calette più famose.

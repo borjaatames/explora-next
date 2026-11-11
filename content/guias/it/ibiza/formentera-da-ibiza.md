@@ -42,6 +42,12 @@ faq:
   respuesta: 'No, soprattutto ad agosto: tra traghetto e spostamenti è troppo poco. Dedicale l''intera giornata per vedere Ses Illetes, pranzare con calma e arrivare al tramonto a Cap de Barbaria.'
 ---
 
+## Come andare a Formentera
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Biglietto del traghetto andata e ritorno per Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |
+
 ## Traghetto per Formentera: come arrivare da Ibiza
 
 I traghetti partono dal **porto di Eivissa** e arrivano a **La Savina**, il porto di Formentera. In stagione ci sono anche partenze da **Playa d'en Bossa**, comode se alloggi nel sud.

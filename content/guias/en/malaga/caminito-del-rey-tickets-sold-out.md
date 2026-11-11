@@ -45,6 +45,15 @@ faq:
   respuesta: 'Visit the reservoirs around Ardales and El Chorro and have lunch in El Chorro or Álora, or switch trips: El Torcal and the Antequera dolmens, or Ronda with its Puente Nuevo over the gorge.'
 ---
 
+## What you can book now
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Entry with a guide, getting there yourself | [Caminito del Rey ticket with official guide](/en/cities/malaga/activities/caminito-del-rey-ticket-official-guide), 4.6★ (16,892) | €30 |
+| Transport from Málaga | [Guided tour with transport and ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4.9★ (19,083) | €72 |
+| A nature backup plan | [Antequera dolmens and El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4.7★ (102) | €65 |
+| A white-village backup plan | [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4.7★ (8,742) | €34 |
+
 ## 1. Check the official website again
 
 The official website is caminitodelrey.info. There's **no trickle of cancellations** here, because tickets can't be changed or refunded, but before you give up on your date:
@@ -74,6 +83,8 @@ Before paying, check the listing clearly says it **includes Caminito entry** and
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. If there's no way in: what to do instead
 
 Without a ticket you can't get through access control. What you can do:
@@ -81,6 +92,8 @@ Without a ticket you can't get through access control. What you can do:
 - **Visit the reservoirs** around Ardales and El Chorro, with the turquoise water you see in every photo, and have lunch in El Chorro or Álora.
 - **Switch trips.** From Málaga, **El Torcal de Antequera** is the province's other great rock landscape, and it pairs with the **Antequera dolmens**, a World Heritage Site.
 - **Ronda**, with its Puente Nuevo over the gorge, is the alternative if what drew you was the drop of the gorge; it's often combined with Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Mistakes to avoid
 

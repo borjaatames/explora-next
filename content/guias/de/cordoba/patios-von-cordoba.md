@@ -45,6 +45,12 @@ faq:
   respuesta: Gleich zur Öffnung um 11:00 oder am frühen Abend. Mittags gibt es Schlangen und Hitze, und zwischen 14:00 und 18:00 ist alles geschlossen.
 ---
 
+## Patio-Tour mit Eintritt
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Die echten Patios von Córdoba, 2-stündige Tour mit Eintritt](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1.106) | 19 € |
+
 ## Das Patio-Fest im Mai: Córdoba Patios im Mai
 
 Etwa **zwei Wochen im Mai** öffnen Dutzende Häuser in den historischen Vierteln ihre weiß gekalkten Patios und treten in einem Wettbewerb gegeneinander an. 2026 lief das Fest **vom 4. bis 17. Mai**, mit **53 Patios** im Wettbewerb auf fünf Routen. Der Eintritt ist **gratis**: Du gehst zu Fuß von Patio zu Patio.

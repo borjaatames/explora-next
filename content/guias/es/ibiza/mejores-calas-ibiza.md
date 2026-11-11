@@ -54,6 +54,15 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta con su islote en Ibiza"
 ---
 
+## Las calas desde el mar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Ruta por calas todo incluido con comida, paddle surf y esnórquel](/ciudades/ibiza/actividades/ruta-calas-ibiza-todo-incluido-paddle-esnorquel) | 4,9★ (1.410) | 60 € |
+| [Crucero por calas con paddle surf, comida y bebidas](/ciudades/ibiza/actividades/crucero-calas-ibiza-paddle-surf-barra-libre) | 4,6★ (3.570) | 69 € |
+| [Tour en kayak por cuevas marinas con esnórquel desde Cala Codolar](/ciudades/ibiza/actividades/kayak-cuevas-cala-codolar-esnorquel) | 4,8★ (333) | 50 € |
+| [Barco a Es Vedrà, Espalmador y Formentera con comidas](/ciudades/ibiza/actividades/crucero-es-vedra-sant-antoni) | 4,1★ (1.335) | 155 € |
+
 ## Las mejores calas de Ibiza por zonas
 
 | Zona | Calas destacadas | Carácter |
@@ -62,6 +71,8 @@ imagen_alt: "Cala Conta con su islote en Ibiza"
 | Norte | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Agreste, pinares, tranquila |
 | Sur | Ses Salines, Es Cavallet | De moda, junto a las salinas |
 | Este | Cala Llonga, Cala Mastella, Cala Boix | Familiares y pequeñas |
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Las imprescindibles: Cala Comte, Cala Salada, Cala d'Hort y Benirràs
 

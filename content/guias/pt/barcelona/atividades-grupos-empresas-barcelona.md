@@ -50,6 +50,19 @@ actividades:
   - barcelona-clase-de-salsa-y-sangria-azotea
 ---
 
+## As opções num relance
+
+| Atividade | Duração | Preço | Ideal para |
+| --- | --- | --- | --- |
+| [Sagrada Família, visita privada com bilhetes](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1h45 | 570 € para 6 | O imperdível, sem desconhecidos |
+| [Tapas e vinho, visita privada](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 594 € para 6 | Um jantar de equipa ou de amigos |
+| [Montserrat, visita privada com recolha](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | 894 € para 6 | Excursão de meio dia em veículo próprio |
+| [Prova de cervejas num terraço para grupos privados](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € por pessoa | Empresas, aniversários, despedidas de solteiro |
+| [O melhor de Barcelona, dia completo privado](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | Cerca de 7 h | 1014 € para 6 (máximo 6) | Um dia com tudo resolvido |
+| [Tapas, vinho e flamenco, visita privada](/pt/cities/barcelona/activities/barcelona-tour-privado-tapas-vinho-flamenco) | 3 h | Cerca de 88 € por pessoa a partir de 4 | Uma noite completa com espetáculo |
+| [Montserrat e cava Codorníu, privado](/pt/cities/barcelona/activities/montserrat-caves-codorniu-excursao-privada) | 8 h | Cerca de 206 € por pessoa para 4 | Um dia de cava e montanha |
+| [Aula de salsa com sangria num terraço](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € por pessoa | Team building ativo (grupo partilhado) |
+
 ## Quanto custa uma visita privada em Barcelona para um grupo
 
 Estes são os totais por grupo de cada atividade privada e quanto sai por cabeça (preços «desde» a 1 de novembro de 2026; podem variar conforme a data):
@@ -64,6 +77,10 @@ Estes são os totais por grupo de cada atividade privada e quanto sai por cabeç
 Repara em **Montserrat**: o preço quase não sobe de 2 para 6 pessoas, por isso é a excursão em que mais compensa ir em grupo.
 
 **Grupos de 7 a 10:** estas tabelas vão até 6 pessoas, e o dia completo admite **6 no máximo**. Para mais, indiquem o vosso número no calendário de reserva da ficha para ver o total antes de pagar, ou façam duas reservas à mesma hora.
+
+[actividad: barcelona-cata-cerveza-grupos-privados-azotea]
+
+[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
 
 ## A Sagrada Família em privado
 
@@ -81,11 +98,15 @@ Três horas pelo Bairro Gótico e pelo centro histórico com um guia gastronómi
 
 Se o grupo quiser espetáculo, o **tour privado de tapas, vinho e flamenco** (3 h) termina com flamenco num palácio medieval e fica em cerca de **88 € por pessoa** a partir de 4.
 
+[actividad: tour-privado-tapas-y-vino]
+
 ## Excursão privada a Montserrat em grupo
 
 Veículo e guia só para o vosso grupo, com **recolha e regresso ao hotel**, entrada no mosteiro e passeio pelo parque natural, com paragens à vossa escolha (Santa Cova, Creu de Sant Miquel ou miradouros). São **cinco horas** e é preciso reservar com **pelo menos três dias de antecedência**.
 
 Se o grupo preferir um dia inteiro com cava, a excursão privada a **Montserrat e às caves Codorníu** dura oito horas, com comboio pelas galerias e prova de dois cavas (cerca de **206 € por pessoa** em grupo de 4). Comparamos todas as opções em [que excursão a Montserrat escolher](/pt/guides/barcelona/montserrat-que-excursao-escolher).
+
+[actividad: montserrat-tour-privado-recogida-hotel]
 
 ## Team building em Barcelona: atividades para empresas
 

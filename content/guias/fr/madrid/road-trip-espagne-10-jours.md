@@ -72,6 +72,12 @@ Tout repose sur trois décisions : **arriver par une ville et repartir par une a
 
 Cela fait 9 nuits. Si votre vol part le jour 11, ajoutez une nuit à Barcelone et consacrez la journée à [Montserrat](/fr/guides/barcelona/montserrat-quelle-excursion-choisir).
 
+[actividad: museo-prado-entrada]
+
+[actividad: seville-billet-real-alcazar]
+
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## Que voir en Espagne en 10 jours, jour par jour
 
 ### Jour 1 : Madrid
@@ -115,6 +121,8 @@ Vol du matin (1 h 25) et après-midi dans le **Gòtic** et le **Born**.
 ### Jour 10 : Montjuïc ou la Barceloneta
 
 Selon la météo et l'heure du vol. Le programme complet est dans [Barcelone en 3 jours](/fr/guides/barcelona/barcelone-en-3-jours).
+
+[actividad: visite-guidee-alhambra-palais-nasrides-generalife]
 
 ## L'Espagne en train : trajets et prix
 

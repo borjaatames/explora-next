@@ -50,6 +50,18 @@ actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio | Para qué grupo |
+| --- | --- | --- | --- |
+| [Sip & paint con sangría](/ciudades/barcelona/actividades/barcelona-sip-and-paint-sangria) | 2 h 30 min | 19 € por persona | Grupos que quieren reírse sin salir de noche |
+| [Boat party en catamarán con DJ](/ciudades/barcelona/actividades/fiesta-en-barco-barcelona-catamaran-dj) | 2 h | 53,10 € por persona | Grupos con ganas de fiesta; no sale en invierno |
+| [Clase de salsa con sangría en azotea](/ciudades/barcelona/actividades/barcelona-clase-de-salsa-y-sangria-azotea) | 2 h | 48,60 € por persona | Grupos que quieren bailar; sin experiencia |
+| [Cata de cerveza artesana con música y karaoke](/ciudades/barcelona/actividades/barcelona-cata-cerveza-artesana-musica-en-directo) | 2 h 30 min | 17 € por persona | Plan de noche barato con karaoke opcional |
+| [Sesión de fotos rápida](/ciudades/barcelona/actividades/sesion-fotos-rapida-barcelona) | 20 min | 35 € por sesión | Un recuerdo del grupo junto a la Sagrada Familia |
+| [Tour privado de tapas y vino](/ciudades/barcelona/actividades/tour-privado-tapas-y-vino) | 3 h | 298 € para 2, 594 € para 6 | Cena guiada solo para vosotros |
+| [Flamenco en el City Hall](/ciudades/barcelona/actividades/flamenco-en-el-teatro-city-hall-mas-vendido) | 1 h | Desde 25 € por persona | Espectáculo antes o después de cenar |
+
 ## Despedidas en Barcelona: la prohibición y qué ha cambiado
 
 - **Rutas de bares prohibidas.** Desde el **29 de octubre de 2025** está prohibido en toda la ciudad, a cualquier hora, organizar, vender o participar en visitas a varios bares cuya finalidad principal es beber. Por eso aquí no recomendamos ningún pub crawl.
@@ -74,6 +86,8 @@ El plan más redondo es una cata de **seis cervezas artesanas** con un guía cer
 - **Sip & paint (19 € por persona, 2 h 30 min):** pintáis paso a paso con sangría a voluntad, música y baile al final, desde las 17:30 en la calle de la Mercè, en Ciutat Vella. No es una clase de arte, es un plan social, y no incluye comida. Cancelación gratuita hasta 24 horas antes.
 - **Clase de salsa en una azotea (48,60 € por persona, 2 h):** para principiantes, con sangría casera ilimitada y vistas, en el Passeig de Gràcia. En noviembre empieza a las 17:00 y en diciembre a las 16:00. No reembolsable.
 
+[actividad: barcelona-sip-and-paint-sangria]
+
 ## Boat party en Barcelona para despedidas (de marzo en adelante)
 
 Dos horas en un **catamarán de dos pisos con DJ y pista de baile** frente a la costa, por **53,10 € por persona**, con vales para cuatro bebidas y entrada en lista a una discoteca esa misma noche (hay que entrar antes de la 1:00). El check-in es en el Ice Bar del paseo marítimo de la Barceloneta.
@@ -84,6 +98,8 @@ Tres cosas que conviene saber:
 2. Es **no reembolsable**.
 3. No dejan embarcar a quien llegue ebrio.
 
+[actividad: fiesta-en-barco-barcelona-catamaran-dj]
+
 ## Noche con karaoke, cena, flamenco o fotos
 
 - **Cata de cerveza artesana de Craft Barcelona** (17 € por persona, 2 h 30 min), en el Barrio Gótico: visita a la cervecería, cata guiada y bebidas después; luego, música en directo y **karaoke opcional**. Pases a las 20:30 y a las 22:30. Quien no beba cerveza puede elegir sangría o vermut.
@@ -92,6 +108,10 @@ Tres cosas que conviene saber:
 - **Sesión de fotos:** se paga por sesión, no por persona. **20 minutos con 10 fotos editadas por 35 €** junto a la Sagrada Familia (entrega en 24-48 horas), o 30 minutos con 20-25 fotos por 68 € en la Sagrada Familia, el Gótico o el Park Güell.
 
 Precios «desde» a 1 de noviembre de 2026; pueden variar según la fecha y la opción.
+
+[actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
+
+[actividad: sesion-fotos-rapida-barcelona]
 
 ## Consejos y errores típicos
 

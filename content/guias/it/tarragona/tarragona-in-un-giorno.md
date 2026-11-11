@@ -51,6 +51,17 @@ faq:
   respuesta: Non è consigliabile. PortAventura World e Ferrari Land, a Salou, richiedono una giornata intera; lascia il centro romano per un altro giorno.
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Ingresso alla cattedrale con audioguida](/it/cities/tarragona/activities/biglietto-cattedrale-di-tarragona-audioguida) | 4,4★ (105) | 12,5 € |
+| [Giro in catamarano con open bar, pranzo e bagno](/it/cities/tarragona/activities/cambrils-catamarano-open-bar-pranzo-bagno) | 4,5★ (2.188) | 35 € |
+| [Safari guidato in quad con prelievo in hotel](/en/cities/tarragona/activities/salou-guided-quad-safari-hotel-pickup) | 4,8★ (1.225) | 90 € |
+| [Visita alle Bodegas Yzaguirre con degustazione di 5 vermut](/en/cities/tarragona/activities/bodegas-yzaguirre-vermouth-tour-tasting) | 4,8★ (6) | 25 € |
+| [Tour guidato in kayak sull'Ebro fino a Miravet](/it/cities/tarragona/activities/kayak-sul-fiume-ebro-fino-a-miravet) | 4,7★ (97) | 35 € |
+| [Osservazione di fenicotteri e uccelli al tramonto](/en/cities/tarragona/activities/ebro-delta-flamingos-sunset-tour) | 4,7★ (63) | 40 € |
+
 ## L'itinerario della giornata: cosa vedere a Tarragona
 
 Parti presto e segui quest'ordine; è tutto a pochi minuti a piedi.

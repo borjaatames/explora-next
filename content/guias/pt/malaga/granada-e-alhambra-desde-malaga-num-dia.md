@@ -41,6 +41,14 @@ faq:
   respuesta: Sim, sai do porto de Málaga e foi pensada para voltar a tempo ao navio.
 ---
 
+## Três formas de o fazer
+
+| Opção | Viagem | Bilhetes | Preço aproximado |
+| --- | --- | --- | --- |
+| Carro próprio ou alugado | 1h30 por trajeto | Compra-os no site oficial | Gasolina, estacionamento e bilhete |
+| Autocarro de linha | pouco menos de 2 h | Compra-os você | Bilhete de autocarro e entrada |
+| [Excursão privada](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | Recolha no seu alojamento | Incluídos, com guia privado | 397 € por pessoa (mínimo 2) |
+
 ## O que vai ver na Alhambra
 
 O recinto reúne quatro conjuntos, todos incluídos no bilhete Geral:

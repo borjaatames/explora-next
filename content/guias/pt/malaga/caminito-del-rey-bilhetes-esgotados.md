@@ -45,6 +45,15 @@ faq:
   respuesta: 'Visite a zona das albufeiras de Ardales e El Chorro e almoce em El Chorro ou Álora, ou mude de excursão: El Torcal e os dólmenes de Antequera, ou Ronda com a sua Puente Nuevo sobre o desfiladeiro.'
 ---
 
+## O que pode reservar agora
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Bilhete com guia, se for por conta própria | [Caminito del Rey: bilhete com guia oficial](/pt/cities/malaga/activities/caminito-del-rey-bilhete-guia-oficial-sem-transporte), 4,6★ (16.892) | 30 € |
+| Com transporte a partir de Málaga | [Tour guiado com transporte e bilhete](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4,9★ (19.083) | 72 € |
+| Plano B de natureza | [Dólmenes de Antequera e El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4,7★ (102) | 65 € |
+| Plano B de aldeias | [Ronda e Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8.742) | 34 € |
+
 ## 1. Volte a ver o site oficial
 
 O site oficial é caminitodelrey.info. Aqui **não há lugares a vagar por cancelamentos**, porque os bilhetes não se podem trocar nem devolver, mas antes de dar a data por perdida:
@@ -74,6 +83,8 @@ Antes de pagar, confirme que a ficha diz claramente que **inclui a entrada no Ca
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. Se não houver maneira: o que fazer em alternativa
 
 Sem bilhete não se passa o controlo de acesso. O que pode fazer:
@@ -81,6 +92,8 @@ Sem bilhete não se passa o controlo de acesso. O que pode fazer:
 - **Ir à zona das albufeiras** de Ardales e El Chorro, com a água turquesa de todas as fotos, e almoçar em El Chorro ou Álora.
 - **Mudar de excursão.** A partir de Málaga, **El Torcal de Antequera** é a outra grande paisagem de rocha da província e combina-se com os **dólmenes de Antequera**, Património Mundial.
 - **Ronda**, com a sua Puente Nuevo sobre o desfiladeiro, é a alternativa se o que o atraía era a vertigem do canhão; costuma combinar-se com Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Erros a evitar
 

@@ -45,6 +45,14 @@ faq:
   respuesta: 'All''Ufficio del Pellegrino (Rúa das Carretas, 33), aperto tutti i giorni dalle 10:00 alle 18:00 tranne il 25 dicembre e il 1° gennaio, quando viene consegnata in cattedrale. Funziona con numero tramite QR: prendilo all''arrivo e torna al tuo orario.'
 ---
 
+## All'arrivo a Santiago
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour a piedi del centro storico con guida ufficiale](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
+| [Tour della cattedrale e del museo senza code](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
+| [Finisterre, Muxía e la Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2.372) | 52 € |
+
 ## Dove partire: il Cammino da Sarria, Tui o Ferrol
 
 | Percorso | Partenza | Distanza |
@@ -54,6 +62,8 @@ faq:
 | Cammino Inglese | Ferrol | ~118 km |
 
 Per la Compostela bisogna camminare **almeno 100 km** (o 200 km in bici). Per questo **Sarria** è la partenza più popolare del Cammino Francese: supera di poco il minimo. Attenzione al Cammino Inglese: da A Coruña sono 75 km e non bastano; bisogna partire da Ferrol.
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
 
 ## Le tappe del Cammino Francese da Sarria
 
@@ -99,6 +109,8 @@ Cinque tappe comode (la terza si può dividere). Il **Monte do Gozo**, a 5 km da
 - **Giacca impermeabile o poncho:** in Galizia piove spesso.
 - **Abbigliamento a strati** e zaino leggero: ogni grammo si sente dopo qualche giorno.
 - **Kit di primo soccorso:** vaselina sui piedi prima di partire, calze senza cuciture, cerotti per vesciche, ibuprofene e crema solare. C'è una farmacia a ogni fine tappa.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Consigli ed errori tipici
 

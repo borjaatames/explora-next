@@ -52,6 +52,14 @@ opciones:
     etiqueta: 'Privée'
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Partir de Madrid avec tout réglé | [L'Escurial et la vallée de Cuelgamuros avec guide](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4,7★ (1 769) | 62 € |
+| Le billet seul, par vos propres moyens | [Billet pour le monastère royal](/fr/cities/madrid/activities/el-escorial-billet-monastere-royal), 4,5★ (312) | 18 € |
+| Rien que pour vous, avec prise en charge | [Visite privée avec guide officiel depuis Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 820 € par groupe |
+
 ## Ce que vous verrez
 
 - **La basilique**, couronnée d'une grande coupole, domine l'ensemble. Elle se visite sans billet, sauf pendant les offices.

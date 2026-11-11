@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "El río Onyar y sus casas de colores en Girona"
 ---
 
+## Visitas recomendadas
+
+| Plan | Actividad | Desde |
+| --- | --- | --- |
+| Lo esencial con guía | [Tour a pie por el Barri Vell en grupo reducido](/ciudades/girona/actividades/girona-tour-a-pie-grupo-reducido), 4,8★ (826) | 35 € |
+| Para fans de la serie | [Tour de Juego de Tronos](/ciudades/girona/actividades/girona-juego-de-tronos-tour-grupo-reducido), 4,9★ (951) | 35 € |
+| Catedral y museos | [Catedral, Museu d'Art y Sant Feliu](/ciudades/girona/actividades/girona-catedral-museu-art-sant-feliu-entrada), 4,5★ (195) | 12 € |
+| Barrio judío con guía | [Tour por la Girona judía y el Call](/ciudades/girona/actividades/girona-judia-tour-guiado-call), 4,9★ (140) | 45 € |
+| A tu ritmo | [Audioguía autoguiada con la app DareMapp](/ciudades/girona/actividades/tour-autoguiado-daremapp-girona) | 5 € |
+| Desde Barcelona con Costa Brava | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 98,5 € |
+| Desde Barcelona con Dalí | [Girona, Figueres, Dalí y Cadaqués](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 40 € |
+
 ## La ruta de un día por Girona
 
 | Hora | Parada |

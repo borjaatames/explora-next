@@ -52,6 +52,13 @@ opciones:
     etiqueta: Con il centro storico
 ---
 
+## Quale biglietto scegliere?
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour della cattedrale e del museo senza code](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
+| [Tour della cattedrale, del museo e del centro storico](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4,8★ (439) | 24 € |
+
 ## Cosa vedere nella Cattedrale di Santiago: gratis e a pagamento
 
 **Gratis:**
@@ -67,6 +74,8 @@ opciones:
 | **Pórtico de la Gloria** | Il capolavoro restaurato del Maestro Mateo (biglietto con orario) |
 | **Coperture** | Visita guidata sul tetto di granito, con vista |
 | **Museo della Cattedrale** | Chiostro, Tesoro, cappella delle Reliquie e Pazo de Xelmírez |
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Prezzi, orari e prenotazioni: Pórtico de la Gloria e coperture
 

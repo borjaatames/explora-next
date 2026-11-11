@@ -52,6 +52,14 @@ faq:
   respuesta: Nur wenn sie nah beieinander liegen, wie Altea und Calpe. Guadalest (mit dem Algar) oder Jávea füllen schon den ganzen Tag.
 ---
 
+## Ausflüge, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Guadalest, Altea und Fuentes del Algar](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4,8★ (3.714) | 47 € |
+| [Boot hin und zurück zur Insel Tabarca](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4,3★ (5.628) | 25 € |
+| [Weintour aufs Land mit 4 Verkostungen in kleiner Gruppe](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4,9★ (445) | 65 € |
+
 ## Die besten Ausflüge ab Alicante
 
 | Ziel | Entfernung | Ideal für |

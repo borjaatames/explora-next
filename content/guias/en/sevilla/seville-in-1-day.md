@@ -78,6 +78,10 @@ The largest Gothic cathedral in the world, Columbus's tomb, the Patio de los Nar
 
 The authentic Seville that almost nobody sees in a day. Cross the bridge and look back; have tapas at the counters of the **Triana Market**; go down to the **Castillo de San Jorge** (free, under the market, the former seat of the Inquisition) and finish on **Calle Betis** as the lights of the centre come on across the river.
 
+[actividad: real-alcazar-seville-entry-ticket]
+
+[actividad: seville-cathedral-giralda-entry-ticket]
+
 ## AVE Madrid-Seville: times and prices
 
 - **Outbound:** the first AVE from Atocha, around **7:00**; you reach Santa Justa at **9:30**. If you arrive at 11:00, forget doing Seville properly in a day.

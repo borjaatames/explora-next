@@ -44,6 +44,14 @@ imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.we
 imagen_alt: "La Graciosa vom Famara-Kliff aus gesehen, mit Caleta de Sebo am Meer"
 ---
 
+## Fähre oder Ausflug?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Fähre Biosfera Express, hin und zurück | 29 € | Überfahrt Órzola-Caleta de Sebo; Anfahrt nach Órzola selbst | Wer die Insel auf eigene Faust erkunden will |
+| Fähre Líneas Romero, hin und zurück | ab 28 € | Überfahrt Órzola-Caleta de Sebo | Wer die Insel auf eigene Faust erkunden will |
+| [Katamaran mit Mittagessen und Baden](/en/cities/lanzarote/activities/la-graciosa-catamaran-cruise-lunch) | 66 € | Abholung, Fähre, Paella an Bord, Baden, Kajak und Schnorcheln | Wer einen Tag auf dem Meer ohne Planung will |
+
 ## Fähre Órzola-La Graciosa: Reedereien, Fahrpläne und Preise
 
 **Líneas Romero** und **Biosfera Express** bedienen die Strecke mit schnellen Passagierschiffen. Die Überfahrt dauert **rund 25 Minuten** und endet im Hafen von Caleta de Sebo.

@@ -84,6 +84,8 @@ actividades:
 
 El reparto completo, con alternativas, está en [Madrid en 2 días](/guias/madrid/madrid-en-2-dias).
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Día 2: Prado, Retiro y Letras
 
 - **10:00 — Museo del Prado** (2 h 30). Abre de lunes a sábado de 10:00 a 20:00 y domingos hasta las 19:00; gratis las dos últimas horas, pero con colas.
@@ -91,6 +93,10 @@ El reparto completo, con alternativas, está en [Madrid en 2 días](/guias/madri
 - **14:30 — Comida** junto al Retiro o en las Letras.
 - **Tarde:** el Reina Sofía (12 €, cierra los martes) o el Barrio de las Letras y la azotea del Círculo de Bellas Artes (5 €).
 - **Noche:** flamenco en el centro o un paseo por las tabernas más antiguas de la ciudad.
+
+[actividad: museo-prado-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Día 3: Toledo desde Madrid en tren
 
@@ -108,6 +114,8 @@ Si prefieres ir con todo resuelto, la excursión de día completo incluye bus, g
 
 [actividad: excursion-toledo-dia-completo]
 
+[actividad: toledo-pulsera-turistica-7-monumentos]
+
 ## Día 4: Segovia
 
 **9:00 — Avant desde Chamartín** hasta **Segovia-Guiomar** (unos 30 minutos); desde allí, el **autobús urbano 11** te deja en el acueducto en 15 minutos. Alternativa: autobús de Avanza desde Moncloa (1 h 15, unos 5 € por trayecto), que llega a pocos minutos del acueducto.
@@ -121,6 +129,8 @@ Si prefieres ir con todo resuelto, la excursión de día completo incluye bus, g
 **14:30 — Cochinillo asado**, la razón por la que muchos madrileños vuelven a Segovia. Reserva si es fin de semana.
 
 **Tarde:** baja por el barrio de los Caballeros o la judería hasta el acueducto y vuelve a Madrid sin prisa. Segovia está a unos 1.000 metros: lleva abrigo de octubre a abril. Más paradas en [qué ver en Segovia en un día](/guias/madrid/que-ver-en-segovia-en-un-dia).
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Presupuesto, variantes y errores típicos
 

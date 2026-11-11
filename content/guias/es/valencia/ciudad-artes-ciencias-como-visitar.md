@@ -53,6 +53,14 @@ opciones:
     etiqueta: La más barata
 ---
 
+## ¿Qué entrada elegir?
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
+| [Entrada combinada Oceanogràfic y Museo de las Ciencias](/ciudades/valencia/actividades/oceanografic-museo-ciencias-entrada-combinada) | 4,7★ (2.797) | 39 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
+
 ## Qué es cada edificio de la Ciudad de las Artes y las Ciencias
 
 No hace falta entrar a todo: el conjunto, con sus láminas de agua reflejando los edificios blancos, es gratis y de lo más fotogénico de España.
@@ -90,6 +98,8 @@ Según tu plan:
 Las combinadas se agotan en temporada alta y la taquilla del Oceanogràfic tiene colas largas: **compra online** y elige la primera hora.
 
 [actividad: oceanografic-valencia-entrada]
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Horarios y cómo llegar
 

@@ -67,6 +67,8 @@ faq:
 
 **20:30 — Dinner** around Aribau and Enric Granados, where locals eat; not on the touristy stretch of Passeig de Gràcia.
 
+[actividad: sagrada-familia-ticket-audio-guide]
+
 ## Day 2: Park Güell, Gràcia and sunset at the Carmel
 
 **10:00 — Park Güell.** The monumental zone costs **€18** on the official website (€13.50 for ages 7 to 12 and over-65s; free up to age 6), and you can enter up to 30 minutes after your slot starts; the rest of the park is free. Metro L3 Lesseps and a 15-20-minute uphill walk, or bus H6 or D40. Allow 1 h 30 min inside and another half hour for the **Turó de les Tres Creus**, a free viewpoint at the top. If you're short of time, it's the first thing I'd cut.

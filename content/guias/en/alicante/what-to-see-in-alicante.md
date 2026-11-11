@@ -51,6 +51,17 @@ faq:
   respuesta: April to June and September-October. In winter it has one of the warmest climates in Spain. The Hogueras de San Juan (20-24 June) are the big festival, but accommodation prices soar.
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided walking tour of the highlights](/en/cities/alicante/activities/alicante-highlights-walking-tour) | 4.7★ (111) | €27 |
+| [Premium tuk tuk tour of the centre, castles and beaches](/en/cities/alicante/activities/alicante-tuk-tuk-tour-castles-beaches) | 4.7★ (234) | €50 |
+| [Boat trip and parasailing with a drink](/en/cities/alicante/activities/alicante-parasailing-boat-trip) | 4.5★ (471) | €65 |
+| [Paella cooking class with market visit, tapas and wine](/en/cities/alicante/activities/alicante-paella-cooking-class-market) | 4.9★ (514) | €49 |
+| [Flamenco show at El Mentidero with tapas option](/en/cities/alicante/activities/alicante-flamenco-show-el-mentidero) | 4.8★ (1,744) | €15 |
+| [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
+
 ## Day 1: Alicante in one day
 
 | Time | What |

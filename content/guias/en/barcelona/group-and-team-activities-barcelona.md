@@ -50,6 +50,19 @@ actividades:
   - barcelona-clase-de-salsa-y-sangria-azotea
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price | Best for |
+| --- | --- | --- | --- |
+| [Sagrada Familia, private visit with tickets](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1 h 45 min | €570 for 6 | The must-see, without strangers |
+| [Tapas and wine, private tour](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | €594 for 6 | A team or friends dinner |
+| [Montserrat, private tour with pick-up](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | €894 for 6 | Half-day trip in your own vehicle |
+| [Rooftop beer tasting for private groups](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | €55 per person | Companies, birthdays, hens and stags |
+| [Best of Barcelona, private full day](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | About 7 h | €1,014 for 6 (maximum 6) | A day with everything sorted |
+| [Tapas, wine and flamenco, private tour](/en/cities/barcelona/activities/barcelona-private-tapas-wine-flamenco-tour) | 3 h | About €88 per person from 4 | A full evening with a show |
+| [Montserrat and Codorníu cava, private](/en/cities/barcelona/activities/montserrat-codorniu-cava-private-day-trip) | 8 h | About €206 per person for 4 | A day of cava and mountains |
+| [Rooftop salsa class with sangria](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | €48.60 per person | Active team building (shared group) |
+
 ## How much a private tour of Barcelona costs for a group
 
 These are the group totals for each private activity and what they work out at per head ("from" prices as of 1 November 2026; they may vary by date):
@@ -64,6 +77,8 @@ These are the group totals for each private activity and what they work out at p
 Look at **Montserrat**: the price barely rises from 2 to 6 people, so it is the trip where going as a group pays off most.
 
 **Groups of 7 to 10:** these tables go up to 6 people, and the full day takes **6 at most**. For more, enter your number in the booking calendar on the activity page to see the total before paying, or make two bookings at the same time.
+
+[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
 
 ## The Sagrada Familia, privately
 
@@ -81,17 +96,23 @@ Three hours through the Gothic Quarter and old town with a food guide just for y
 
 If the group wants a show, the **private tapas, wine and flamenco tour** (3 h) ends with flamenco in a medieval palace and works out at about **€88 per person** from 4 people.
 
+[actividad: tour-privado-tapas-y-vino]
+
 ## Private Montserrat tour for groups
 
 Vehicle and guide just for your group, with **hotel pick-up and drop-off**, entry to the monastery and a walk in the natural park, with stops of your choice (Holy Cave, Creu de Sant Miquel or viewpoints). It takes **five hours** and must be booked **at least three days in advance**.
 
 If the group prefers a full day with cava, the private **Montserrat and Codorníu cava cellars** trip lasts eight hours, with a train through the cellars and a tasting of two cavas (about **€206 per person** in a group of 4). We compare all the options in [which Montserrat trip to choose](/en/guides/barcelona/montserrat-which-excursion-to-choose).
 
+[actividad: montserrat-tour-privado-recogida-hotel]
+
 ## Team building in Barcelona: corporate activities
 
 - **Beer tasting just for your group (€55 per person, 2 h).** The plan most geared to companies, birthdays and stag or hen parties: **six craft beers** with a beer guide on a rooftop on Passeig de Gràcia, then a bar with your favourites. Sessions run every half hour between 14:00 and 16:00, the commentary is in English and it is **non-refundable**: book once your list is final.
 - **Salsa class with sangria (€48.60 per person, 2 h)** on another rooftop on the same avenue, for something more active. It is a shared group.
 - **A full day sorted:** the **private tour of Barcelona's highlights** (about 7 hours) includes hotel pick-up, private transport, an exclusive guide around Montjuïc, the Gothic Quarter and Passeig de Gràcia, and guided entry to the Sagrada Família.
+
+[actividad: barcelona-cata-cerveza-grupos-privados-azotea]
 
 ## Practical tips
 

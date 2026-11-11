@@ -45,12 +45,22 @@ imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
 imagen_alt: "The Maspalomas dunes in the late afternoon"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Camel ride through the Maspalomas Dunes](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4.5★ (5,263) | €18 |
+| [Day tour from Las Palmas: Guayadeque, Maspalomas and Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4.6★ (716) | €48 |
+| [Off-road buggy tour through the southern ravines](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4.8★ (3,728) | €65 |
+
 ## What you'll see
 
 - **The dunes**: sea sand carried and piled up by the wind, shifting position every year. From the inside they feel like a small desert next to the ocean.
 - **The palm grove** and **La Charca de Maspalomas**, a brackish lagoon where migrating birds stop. You watch it from the boardwalks, best at sunrise, when herons and waders are around.
 - **The Maspalomas lighthouse**, to the west: first lit in 1890 and over 50 metres tall, it marks the start of the Meloneras seafront promenade.
 - **The beach**, running along the whole edge of the dunes, with lifeguards and flags.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Access, opening hours and timing
 

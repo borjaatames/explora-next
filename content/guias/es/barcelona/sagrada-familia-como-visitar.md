@@ -87,6 +87,8 @@ La entrada da acceso a **una sola torre** y no la eliges tú: el monumento la as
 
 Se sube en ascensor y se baja por una **escalera de caracol estrecha**: nada para vértigo, claustrofobia, sillas de ruedas ni menores de 6. Desde arriba no ves las torres enteras, y los Búnkers del Carmel o el Tibidabo dan vistas comparables gratis. Lo que justifica la visita son las vidrieras desde dentro, y eso ya lo da la básica: si hay que elegir, esos 10 € van mejor al Park Güell.
 
+[actividad: sagrada-familia-tour-con-torre]
+
 ## Hora del Silencio y Año Gaudí 2026
 
 **Hora del Silencio.** Desde el 2 de febrero de 2026, todos los días de **9:00 a 10:00**: auriculares obligatorios, nada de audios en altavoz y silencio dentro. Es el mejor momento para visitarla: menos gente, la luz de la mañana por las vidrieras del este y una atmósfera íntima. Reserva la franja de las 9:00.

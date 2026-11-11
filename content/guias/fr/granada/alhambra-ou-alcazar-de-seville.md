@@ -69,6 +69,8 @@ L'Alhambra n'est pas un palais : c'est une ville fortifiée sur une colline, ave
 
 Le prix de cette grandeur, c'est la logistique : **une heure fixe pour les palais nasrides** avec seulement 30 minutes de marge, **environ 4 heures** de visite avec pas mal de montées, et des billets mis en vente jusqu'à trois mois avant dont les matinées de printemps disparaissent des semaines à l'avance. Pour choisir la formule, voyez [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## Pourquoi l'Alcazar peut être votre réponse
 
 Le Real Alcázar est le **plus ancien palais royal encore en usage d'Europe**. Sa pièce maîtresse, le palais de Pierre Ier (1364), a été bâtie par des artisans venus de Grenade et de Tolède : il rappelle l'Alhambra sans en être une copie, avec des inscriptions arabes à côté des armes de Castille, le **Patio de las Doncellas** et la coupole dorée du **salon des Ambassadeurs**.

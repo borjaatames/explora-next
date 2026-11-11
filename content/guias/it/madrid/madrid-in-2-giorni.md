@@ -77,6 +77,8 @@ Con questa divisione non serve la metro: ogni giornata è una passeggiata contin
 
 **20:30 — Malasaña**, a 15 minuti: plaza del Dos de Mayo, calle del Espíritu Santo e bar di sempre mescolati ai nuovi.
 
+[actividad: tour-privado-gran-via-madrid]
+
 ## Giorno 2: il Prado, il Retiro e il Reina Sofía
 
 **10:00 — Museo del Prado** (2 h 30). Apre dal lunedì al sabato dalle 10:00 alle 20:00 e domenica e festivi fino alle 19:00. Velázquez, Goya, Bosch ed El Greco con le sale tranquille. Se sei indeciso tra i musei, leggi [Prado, Reina Sofía o Thyssen](/it/guides/madrid/prado-reina-sofia-o-thyssen-quale-scegliere).
@@ -90,6 +92,12 @@ Con questa divisione non serve la metro: ogni giornata è una passeggiata contin
 **18:30 — Barrio de las Letras.** Plaza de Santa Ana, calle Huertas e la casa di Lope de Vega da fuori. Per vedere la città dall'alto, la terrazza del Círculo de Bellas Artes costa 5 €.
 
 **21:00 — L'ultima sera.** Due opzioni: il flamenco del **Tablao Las Carboneras**, vicino alla Plaza Mayor (da 45 € con bevanda), o un giro privato nelle taverne più antiche di Madrid, con consumazioni e tapas incluse.
+
+[actividad: museo-prado-entrada]
+
+[actividad: reina-sofia-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Cosa prenotare e budget
 

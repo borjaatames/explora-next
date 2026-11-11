@@ -43,6 +43,13 @@ faq:
   respuesta: Solo el Edificio Histórico, de 1 h 30 a 2 horas; con las Escuelas Menores y el Cielo de Salamanca, 2 h 30 (lo recomendable), y con la Casa Unamuno, unas 3 horas.
 ---
 
+## Visitas guiadas
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 12 € |
+| [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
+
 ## Qué ver dentro de la Universidad de Salamanca
 
 - **El claustro**, de dos plantas con 23 arcos por piso, los de arriba renacentistas.
@@ -82,6 +89,8 @@ Y la **rana sobre una calavera**: quien la encuentra sin ayuda aprueba el examen
 **Por libre** funciona si llegas con un mínimo de contexto: lee diez minutos antes sobre Fray Luis, Unamuno y los doctorados medievales y la visita cambia por completo. **Con guía oficial** (contratado en taquilla u online, 1 h a 1 h 30) ganas anécdotas que no están en los paneles, y funciona mejor con adolescentes. Los free tours nocturnos **no entran al edificio**: solo rodean la fachada.
 
 [actividad: universidad-salamanca-visita-guiada]
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Consejos y errores típicos
 

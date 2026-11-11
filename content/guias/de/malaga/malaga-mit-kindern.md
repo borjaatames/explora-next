@@ -49,6 +49,15 @@ faq:
   respuesta: 'März bis Juni sowie September und Oktober: gutes Wetter und angenehmes Wasser. Der Winter ist sehr mild. Im Juli und August ist der Strand perfekt, aber das Zentrum ist mittags für Kleine sehr anstrengend.'
 ---
 
+## Familienaktivitäten, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Katamaranfahrt durch die Bucht](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4,4★ (10.537) | 13 € |
+| [Höhlen von Nerja und Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3.192) | 69 € |
+| [Alcazaba und Römisches Theater mit Guide](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4,7★ (7.412) | 13 € |
+| [Caminito del Rey (ab 8 Jahren)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Málaga mit Kindern: was tun
 
 Der Trick ist der Wechsel: **morgens Burg oder Altstadt in kleinen Dosen, nachmittags Strand oder Tiere**. So bringt Málaga viel, ohne zu stressen.

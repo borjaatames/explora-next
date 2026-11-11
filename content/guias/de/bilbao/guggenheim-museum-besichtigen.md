@@ -47,6 +47,12 @@ faq:
 
 Das Guggenheim bietet zwei Besuche, die man nicht verwechseln sollte: **das Gebäude und seine Skulpturen, draußen und gratis**, und **die Säle, drinnen und kostenpflichtig**. Selbst wenn du nicht hineingehst, lohnt schon das Äußere die Reise.
 
+## Führungen durch das Guggenheim
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Guggenheim VIP in kleiner Gruppe (10 Sprachen)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4,5★ (763) | 95 € |
+
 ## Was du im Guggenheim Bilbao drinnen sehen solltest
 
 Versuch nicht, in Eile „alles“ zu sehen. Setz Prioritäten:

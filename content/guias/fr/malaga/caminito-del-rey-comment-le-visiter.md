@@ -46,6 +46,12 @@ imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
 imagen_alt: "La passerelle du Caminito del Rey suspendue dans le défilé"
 ---
 
+## Le Caminito avec transport depuis Malaga
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée avec transport et billet](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19 083) | 72 € |
+
 ## Ce que vous allez voir
 
 Le Caminito est un parcours **linéaire** d'environ 7,7 km dans le **défilé des Gaitanes** : environ **3 km de passerelles** ancrées dans la roche, à plus de 100 mètres au-dessus de la rivière, et des sentiers d'accès. Il se fait dans un seul sens, **du nord (Ardales) au sud (El Chorro)**.

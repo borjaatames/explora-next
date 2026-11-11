@@ -57,6 +57,19 @@ opciones:
     etiqueta: Por fora, de tuk-tuk
 ---
 
+## Que opções restam?
+
+| Se quer… | Opção | Desde |
+| --- | --- | --- |
+| Outro horário nesse dia | Site oficial, Classic Tour com hora marcada | 37 € |
+| Não ficar preso a um horário | Classic Flexible Time, a qualquer hora desse dia | 44 € |
+| Comprar no local | Bilheteira do estádio | 40 € |
+| Entrada gratuita | Não há tour gratuito | — |
+| O bilhete, sem guia | [Bilhete oficial do Tour Bernabéu](/en/cities/madrid/activities/bernabeu-entry-ticket), 4,5★ (23 468) | 37 € |
+| Um guia e cancelamento gratuito | [Visita guiada com guia especialista](/en/cities/madrid/activities/bernabeu-guided-tour), 4,1★ (1532) | 58 € |
+| Outro estádio de Madrid | [Tour do Riyadh Air Metropolitano](/en/cities/madrid/activities/wanda-metropolitano-atletico-tour), 4,7★ (2188) | 25 € |
+| O Bernabéu por fora | [Tuk-tuk privado: Bernabéu e Milla de Oro](/pt/cities/madrid/activities/madrid-tuk-tuk-privado-bernabeu-milha-de-ouro) | 79 € por tuk-tuk |
+
 ## O que vai ver na visita ao estádio do Real Madrid
 
 O estádio foi inaugurado em 1947 e entre 2019 e 2024 viveu a sua grande remodelação: pele exterior de lâminas de aço, **cobertura retrátil** e um relvado que se retira e se guarda debaixo das bancadas. O tour inclui:
@@ -66,6 +79,12 @@ O estádio foi inaugurado em 1947 e entre 2019 e 2024 viveu a sua grande remodel
 - **Os balneários e os bancos de suplentes**, quando não há jogo próximo.
 
 Faz-se ao seu ritmo em **hora e meia a duas horas**. Atenção: o percurso tem **muitos lanços de escadas**.
+
+[actividad: bernabeu-ticket-acceso]
+
+[actividad: wanda-metropolitano-atletico-tour]
+
+[actividad: tuk-tuk-bernabeu-milla-oro-madrid]
 
 ## Tour Bernabéu: preço e horário
 

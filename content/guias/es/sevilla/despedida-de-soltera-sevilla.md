@@ -50,6 +50,20 @@ actividades:
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio | Para qué grupo |
+| --- | --- | --- | --- |
+| [Flamenco y tapas en Triana, privado](/ciudades/sevilla/actividades/flamenco-tapas-triana-tour-privado-sevilla) | 4 h | 310 € para 2, 540 € para 4, 720 € para 6 | El plan completo de tarde-noche |
+| [Tuk tuk eléctrico privado (1 h)](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla) | 1 h | 89 € para 2, 99 € hasta 4 | Arranque de la tarde con fotos |
+| [Tuk tuk eléctrico privado (2 h)](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla-2-horas) | 2 h | 155 € para 2, 165 € hasta 4 | Quien quiere ver más ciudad |
+| [Tapas en Triana, privado](/ciudades/sevilla/actividades/tapas-triana-tour-privado-tabernas-tradicionales) | 3 h | 211 € por persona (2 a 6) | Comida o cena de tapas sin desconocidos |
+| [Kayak por el Guadalquivir](/ciudades/sevilla/actividades/kayak-guadalquivir-sevilla-alquiler) | 2 h | 17 € por persona | Grupos activos que saben nadar |
+| [Crucero por el Guadalquivir con bebida](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour) | 1-1,5 h | 25 € por persona | Plan tranquilo y barato |
+| [Flamenco en el Teatro Flamenco Triana](/ciudades/sevilla/actividades/teatro-flamenco-triana-show-en-directo) | 1 h | 25 € por persona | Espectáculo en Triana |
+| [Flamenco en la Casa de la Memoria](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) | 1 h | 24 € por persona | Espectáculo íntimo en el centro |
+| [Taller de trajes de flamenca, visita privada](/ciudades/sevilla/actividades/taller-trajes-flamenca-alta-costura-sevilla-visita-privada) | 2 h | 214 € por persona (2 a 6) | Despedida de soltera tranquila |
+
 ## Despedida en Sevilla: la multa y las normas
 
 La ordenanza de convivencia en los espacios públicos se modificó a comienzos de 2024 y permite a la Policía Local multar con **hasta 750 €** a quien esté en la calle:
@@ -78,10 +92,14 @@ Para arrancar la tarde con fotos: un [tuk tuk eléctrico privado](/ciudades/sevi
 - **2 horas:** 155 € para 2 y 165 € hasta 4; suma la Torre del Oro, la Cartuja y la Macarena.
 - Se sale del **parking Saba de la Plaza de Armas**, sin recogida en el hotel, y los monumentos se ven por fuera.
 
+[actividad: tuk-tuk-privado-sevilla]
+
 ## Planes de despedida en Sevilla de día: el río
 
 - **Kayak (17 € por persona, 2 horas):** por el Guadalquivir pasando por la Torre del Oro y el puente de Triana, con monitor, desde el club de piragüismo Triana. **Es imprescindible saber nadar** y se puede cancelar por mal tiempo. En verano, mejor a primera hora o al atardecer.
 - **Crucero guiado (25 € por persona, 1-1,5 horas):** desde el Muelle de Turismo, junto a la Torre del Oro, con una bebida incluida (refresco, cerveza, vino o agua). Plan tranquilo y barato.
+
+[actividad: kayak-guadalquivir-sevilla-alquiler]
 
 ## Flamenco por libre
 
@@ -92,11 +110,15 @@ Si no hacéis el tour privado, un espectáculo de una hora sale por **24-25 € 
 
 Compara todos los tablaos en nuestra guía de [flamenco en Sevilla](/guias/sevilla/flamenco-sevilla-que-tablao-elegir).
 
+[actividad: teatro-flamenco-triana-show-en-directo]
+
 ## Una despedida de soltera más tranquila
 
 La [visita privada a un taller de trajes de flamenca de alta costura](/ciudades/sevilla/actividades/taller-trajes-flamenca-alta-costura-sevilla-visita-privada) (a las 10:00, 2 horas, de 2 a 6 personas, **214 € por persona**) enseña cómo se hace un traje del boceto al bordado, con sus diseñadores, y podéis probaros trajes auténticos.
 
 Encaja con el **tour privado de tapas por Triana** de las 13:00 (3 horas, 211 € por persona, de 2 a 6): cuatro bares, cuatro tapas y cuatro bebidas por persona, con el Mercado de Triana.
+
+[actividad: taller-trajes-flamenca-alta-costura-sevilla-visita-privada]
 
 ## Consejos prácticos
 

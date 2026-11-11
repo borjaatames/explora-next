@@ -45,6 +45,15 @@ faq:
   respuesta: 'Visita la zona dei bacini di Ardales ed El Chorro e pranza a El Chorro o ad Álora, oppure cambia escursione: El Torcal e i dolmen di Antequera, o Ronda con il suo Puente Nuevo sulla gola.'
 ---
 
+## Cosa puoi prenotare ora
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Biglietto con guida, se vai per conto tuo | [Caminito del Rey: biglietto con guida ufficiale](/it/cities/malaga/activities/caminito-del-rey-biglietto-guida-ufficiale), 4,6★ (16.892) | 30 € |
+| Con trasporto da Malaga | [Tour guidato con trasporto e biglietto](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4,9★ (19.083) | 72 € |
+| Piano B nella natura | [Dolmen di Antequera ed El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4,7★ (102) | 65 € |
+| Piano B tra i paesi | [Ronda e Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8.742) | 34 € |
+
 ## 1. Ricontrolla il sito ufficiale
 
 Il sito ufficiale è caminitodelrey.info. Qui **non ci sono posti che si liberano a poco a poco**, perché i biglietti non si possono cambiare né rimborsare, ma prima di dare la data per persa:
@@ -74,6 +83,8 @@ Prima di pagare, verifica che la scheda dica chiaramente che **include l'ingress
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. Se non c'è modo: cosa fare al suo posto
 
 Senza biglietto non si supera il controllo d'accesso. Cosa puoi fare:
@@ -81,6 +92,8 @@ Senza biglietto non si supera il controllo d'accesso. Cosa puoi fare:
 - **Andare nella zona dei bacini** di Ardales ed El Chorro, con l'acqua turchese di tutte le foto, e pranzare a El Chorro o ad Álora.
 - **Cambiare escursione.** Da Malaga, **El Torcal de Antequera** è l'altro grande paesaggio di roccia della provincia e si abbina ai **dolmen di Antequera**, Patrimonio dell'Umanità.
 - **Ronda**, con il suo Puente Nuevo sulla gola, è l'alternativa se ti attirava la vertigine del canyon; spesso si abbina a Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Errori da evitare
 

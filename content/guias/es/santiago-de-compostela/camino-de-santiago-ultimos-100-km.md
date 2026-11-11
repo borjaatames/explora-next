@@ -45,6 +45,14 @@ faq:
   respuesta: 'En la Oficina del Peregrino (Rúa das Carretas, 33), abierta todos los días de 10:00 a 18:00 salvo el 25 de diciembre y el 1 de enero, cuando se entrega en la catedral. Funciona con número por QR: pídelo al llegar y vuelve a tu hora.'
 ---
 
+## Al llegar a Santiago
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie por el casco antiguo con guía oficial](/ciudades/santiago-de-compostela/actividades/tour-a-pie-casco-antiguo-santiago) | 4,8★ (356) | 10 € |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Finisterre, Muxía y la Costa da Morte](/ciudades/santiago-de-compostela/actividades/excursion-finisterre-muxia-costa-da-morte) | 4,7★ (2.372) | 52 € |
+
 ## Dónde empezar: el Camino desde Sarria, Tui o Ferrol
 
 | Ruta | Salida | Distancia |
@@ -54,6 +62,8 @@ faq:
 | Camino Inglés | Ferrol | ~118 km |
 
 Para la Compostela hay que caminar **al menos 100 km** (o 200 km en bici). Por eso **Sarria** es el inicio más popular del Camino Francés: justo supera el mínimo. Ojo con el Camino Inglés: desde A Coruña son 75 km y no llega; hay que salir de Ferrol.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Las etapas del Camino Francés desde Sarria
 
@@ -85,6 +95,8 @@ Son cinco etapas cómodas (puedes dividir la tercera). El **Monte do Gozo**, a 5
 - **Reserva en temporada:** Sarria, por ser el inicio masivo, se llena; reserva al menos la primera noche, y en las etapas pequeñas también.
 - **Transporte de mochila:** 6-8 € por etapa; se deja en la recepción del albergue antes de las 8:00 y la recogen en el siguiente. Hace falta tener reservado el alojamiento de destino.
 - **Llegar a Sarria:** en tren desde Madrid (5-6 horas, con enlace en Ourense o directo según el día) o desde Santiago y A Coruña con cambio en Monforte; en autobús desde Lugo (45 minutos). Muchos peregrinos vuelan a Santiago, dejan la maleta en consigna y van a Sarria en tren o taxi compartido (unos 90 € el taxi).
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
 
 ## Cuándo ir y qué llevar
 

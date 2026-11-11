@@ -57,6 +57,19 @@ opciones:
     etiqueta: "Party of 6: private at €149 each"
 ---
 
+## Price table per person
+
+| Day trip from Barcelona | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
+| --- | --- | --- | --- | --- |
+| Montserrat | [€47](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) · [€59](/en/cities/barcelona/activities/montserrat-half-day-small-group) small group · [€109](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) with farmhouse lunch | [€419](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) (€838 total) | €219 (€876) | €149 (€894) |
+| Montserrat by car, max. 8 | [€121](/en/cities/barcelona/activities/montserrat-private-or-semi-private-basilica-tickets) semi-private | — | — | — |
+| Barcelona and Montserrat in a day | [€149](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) group of up to 12, with pickup | — | — | — |
+| Montserrat and Codorníu cava | — | [about €317](/en/cities/barcelona/activities/montserrat-codorniu-cava-private-day-trip) | about €206 | — |
+| Montserrat and Gaudí crypt (Colònia Güell) | — | [about €286](/en/cities/barcelona/activities/montserrat-gaudi-crypt-colonia-guell-private-tour) | about €186 | — |
+| Montserrat and Sagrada Família | — | [about €270](/en/cities/barcelona/activities/montserrat-and-sagrada-familia-day-trip) | about €196 | — |
+| Girona, Besalú and Rupit with lunch | — | [about €340](/en/cities/barcelona/activities/girona-besalu-rupit-private-day-trip-from-barcelona) | about €207 | — |
+| Full day in Barcelona with Sagrada Família | [€129](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell) small group | [€329](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) (€658) | €209 (€836) | €169 (€1,014) |
+
 ## Private or group day trip: quick answer by who's travelling
 
 - **Couple:** group. Montserrat on a half-day small-group tour from €59 or with CastlExperience from €47. Private would cost you €838.

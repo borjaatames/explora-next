@@ -49,6 +49,14 @@ faq:
   respuesta: Only if they are next to each other, like Altea and Calpe. Guadalest (with the Algar) or Jávea already take up a full day.
 ---
 
+## Day trips you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guadalest, Altea and Algar Falls](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4.8★ (3,714) | €47 |
+| [Return boat to Tabarca island](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
+| [Small-group countryside winery tour with 4 tastings](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4.9★ (445) | €65 |
+
 ## The best day trips from Alicante
 
 | Destination | Distance | Best for |
@@ -81,6 +89,8 @@ One hour away by car, **Guadalest** is a mountain village with a castle perched 
 Without a car, the easiest way is an organised tour that covers Guadalest, Altea and the Algar in one day:
 
 [actividad: excursion-guadalest-altea-algar-desde-alicante]
+
+[actividad: guadalest-altea-algar-day-trip-from-alicante]
 
 ## Benidorm
 

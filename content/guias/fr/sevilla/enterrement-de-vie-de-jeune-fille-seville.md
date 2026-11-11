@@ -50,6 +50,20 @@ actividades:
   - casa-de-la-memoria-flamenco-show-intimo-sevilla
 ---
 
+## Les activités en un coup d'œil
+
+| Activité | Durée | Prix | Pour quel groupe |
+| --- | --- | --- | --- |
+| [Flamenco et tapas à Triana, en privé](/en/cities/sevilla/activities/flamenco-tapas-triana-private-tour-seville) | 4 h | 310 € pour 2, 540 € pour 4, 720 € pour 6 | La formule complète de fin d'après-midi et soirée |
+| [Tuk-tuk électrique privé (1 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville) | 1 h | 89 € pour 2, 99 € jusqu'à 4 | Lancer l'après-midi avec des photos |
+| [Tuk-tuk électrique privé (2 h)](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours) | 2 h | 155 € pour 2, 165 € jusqu'à 4 | Pour voir davantage la ville |
+| [Tapas à Triana, en privé](/en/cities/sevilla/activities/triana-tapas-private-tour-traditional-taverns) | 3 h | 211 € par personne (2 à 6) | Déjeuner ou dîner de tapas sans inconnus |
+| [Kayak sur le Guadalquivir](/fr/cities/sevilla/activities/seville-location-kayak-guadalquivir) | 2 h | 17 € par personne | Groupes sportifs qui savent nager |
+| [Croisière sur le Guadalquivir avec boisson](/fr/cities/sevilla/activities/seville-croisiere-guidee-guadalquivir-boisson-incluse) | 1 h-1 h 30 | 25 € par personne | Formule tranquille et bon marché |
+| [Flamenco au Teatro Flamenco Triana](/fr/cities/sevilla/activities/seville-spectacle-flamenco-teatro-flamenco-triana) | 1 h | 25 € par personne | Spectacle à Triana |
+| [Flamenco à la Casa de la Memoria](/fr/cities/sevilla/activities/seville-casa-de-la-memoria-spectacle-flamenco-intimiste) | 1 h | 24 € par personne | Spectacle intimiste dans le centre |
+| [Atelier de robes de flamenca, visite privée](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) | 2 h | 214 € par personne (2 à 6) | EVJF tranquille |
+
 ## EVJF à Séville : l'amende et les règles
 
 L'arrêté municipal sur le civisme dans l'espace public a été modifié début 2024 et permet à la police locale d'infliger **jusqu'à 750 €** d'amende à toute personne dans la rue :
@@ -70,6 +84,8 @@ C'est le programme le plus complet de fin d'après-midi et de soirée. Il commen
 
 [actividad: flamenco-tapas-triana-tour-privado-sevilla]
 
+[actividad: teatro-flamenco-triana-show-en-directo]
+
 ## Tuk tuk à Séville pour l'EVJF
 
 Pour commencer l'après-midi avec des photos : un [tuk tuk électrique privé](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), **jusqu'à 4 personnes**, par la Plaza de España, le parc de María Luisa, la Maestranza et Triana, avec des arrêts.
@@ -78,10 +94,14 @@ Pour commencer l'après-midi avec des photos : un [tuk tuk électrique privé](/
 - **2 heures :** 155 € pour 2 et 165 € jusqu'à 4 ; on ajoute la Torre del Oro, la Cartuja et la Macarena.
 - Départ du **parking Saba de la Plaza de Armas**, sans prise en charge à l'hôtel ; les monuments se voient de l'extérieur.
 
+[actividad: tuk-tuk-privado-sevilla]
+
 ## Activités EVJF à Séville en journée : le fleuve
 
 - **Kayak (17 € par personne, 2 heures) :** sur le Guadalquivir en passant par la Torre del Oro et le pont de Triana, avec moniteur, depuis le club de canoë de Triana. **Il faut impérativement savoir nager** et la sortie peut être annulée par mauvais temps. En été, plutôt tôt le matin ou au coucher du soleil.
 - **Croisière guidée (25 € par personne, 1 à 1h30) :** depuis le Muelle de Turismo, près de la Torre del Oro, avec une boisson incluse (soda, bière, vin ou eau). Un programme tranquille et bon marché.
+
+[actividad: kayak-guadalquivir-sevilla-alquiler]
 
 ## Le flamenco par vous-mêmes
 
@@ -97,6 +117,8 @@ Comparez tous les tablaos dans notre guide du [flamenco à Séville](/fr/guides/
 La [visite privée d'un atelier de robes de flamenca haute couture](/en/cities/sevilla/activities/seville-haute-couture-flamenco-dress-atelier-private-visit) (à 10h, 2 heures, de 2 à 6 personnes, **214 € par personne**) montre comment naît une robe, du croquis à la broderie, avec ses créateurs, et vous pouvez essayer de vraies robes.
 
 Elle s'enchaîne bien avec la **visite privée de tapas à Triana** de 13h (3 heures, 211 € par personne, de 2 à 6) : quatre bars, quatre tapas et quatre boissons par personne, avec le marché de Triana.
+
+[actividad: taller-trajes-flamenca-alta-costura-sevilla-visita-privada]
 
 ## Conseils pratiques
 

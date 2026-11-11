@@ -60,11 +60,26 @@ opciones:
     etiqueta: Privada
 ---
 
+## ¿Qué opción te queda?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Otra hora del mismo día | Web oficial, franjas de 10:00 a 19:00 | 12 € |
+| Comprar allí mismo | Taquilla del museo, hasta 30 min antes del cierre | 12 € |
+| Entrar gratis | Lunes y de miércoles a sábado, 19:00-21:00; domingo, 12:30-14:30 | 0 € |
+| Entrada con hora, sin guía | [Entrada al Museo Reina Sofía](/ciudades/madrid/actividades/reina-sofia-entrada), 4,5★ (10.347) | 12 € |
+| Guía y entrada incluida | [Visita guiada con el Guernica](/ciudades/madrid/actividades/reina-sofia-visita-guiada-amigo-tours), 4,3★ (676) | 29,05 € |
+| Grupo de máximo 6 | [Visita en grupo reducido](/ciudades/madrid/actividades/reina-sofia-grupo-reducido-guides-you-need), 4,9★ (418) | 45 € |
+| Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/reina-sofia-visita-privada-guia) | 124 € |
+| Alternativa cercana | [Museo Thyssen-Bornemisza](/ciudades/madrid/actividades/museo-thyssen-entrada), 4,8★ (460) | 14 € |
+
 ## Qué vas a ver
 
 El Reina Sofía es el museo de arte del siglo XX de Madrid. La pieza que todos buscan es el **Guernica** de Picasso, en la colección de la segunda planta del **Edificio Sabatini**, junto a Dalí, Miró y los surrealistas españoles. La sede principal la forman los Edificios Sabatini y Nouvel.
 
 La colección se ve bien en **dos o tres horas**; si solo quieres el Guernica, basta una hora. La entrada te sirve para volver a entrar el mismo día.
+
+[actividad: reina-sofia-visita-privada-guia]
 
 ## Precio y horario de las entradas del Museo Reina Sofía
 
@@ -111,6 +126,8 @@ Son **días gratuitos completos** el **18 de abril**, el **18 y el 22 de mayo**,
 - **Museo Thyssen-Bornemisza** (14 €), a unos 15 minutos a pie por el Paseo del Prado: arte del siglo XX (expresionismo, Pop Art), el sustituto más lógico.
 - **Museo del Prado**, a unos 7 minutos a pie. Si también está lleno, mira [entradas del Prado agotadas](/guias/madrid/museo-del-prado-entradas-agotadas).
 - **Palacio de Cristal y Palacio de Velázquez**, en el Retiro: sedes del Reina Sofía con exposiciones temporales y **entrada gratuita**. Abren de 10:00 a 18:00 de octubre a marzo y hasta las 21:00 de abril a septiembre; el de Cristal puede cerrar por lluvia o calor extremo.
+
+[actividad: museo-thyssen-entrada]
 
 ## Consejos
 

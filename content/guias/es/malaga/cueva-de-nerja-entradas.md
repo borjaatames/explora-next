@@ -54,6 +54,14 @@ opciones:
     etiqueta: Privada
 ---
 
+## ¿Qué opción elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Ir por tu cuenta con audioguía | [Entrada a la Cueva de Nerja con audioguía](/ciudades/malaga/actividades/cuevas-nerja-entrada), 4,6★ (2.107) | 15,50 € |
+| Que te lleven desde Málaga | [Cuevas de Nerja, Nerja y Frigiliana en un día](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga), 4,6★ (3.192) | 69 € |
+| Solo vuestro grupo | [Excursión privada a Nerja y Frigiliana con la cueva](/ciudades/malaga/actividades/nerja-frigiliana-excursion-privada-desde-malaga) | 700 € por grupo |
+
 ## Qué vas a ver
 
 - **La cueva:** un recorrido de unos **45 minutos** entre estalactitas y columnas iluminadas, con escaleras y pasarelas. Dentro la temperatura es fresca todo el año y el suelo puede estar húmedo: lleva **calzado cerrado**.

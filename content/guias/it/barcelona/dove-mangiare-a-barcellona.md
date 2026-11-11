@@ -67,6 +67,8 @@ Quattro piatti da non perdere:
 - **Botifarra amb mongetes:** salsiccia catalana alla brace con fagioli bianchi.
 - **Crema catalana**, il dolce d'obbligo.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas e vermut a Barcellona: banconi che valgono la pena
 
 - **Bar Cañete** (Unió, 17, Raval): bancone di marmo e prodotto del mercato del pesce al massimo livello. Caro, chiuso la domenica, **prenotazione indispensabile**.

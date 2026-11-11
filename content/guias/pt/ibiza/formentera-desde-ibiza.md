@@ -42,6 +42,12 @@ faq:
   respuesta: 'Não, sobretudo em agosto: entre o ferry e as deslocações, fica curto. Dedique-lhe o dia inteiro para ver Ses Illetes, almoçar com calma e chegar ao pôr do sol no Cap de Barbaria.'
 ---
 
+## Como ir a Formentera
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Bilhete de ferry de ida e volta para Formentera](/pt/cities/ibiza/activities/ibiza-bilhete-ferry-ida-volta-formentera) | 4,7★ (322) | 55 € |
+
 ## Ferry para Formentera: como ir a partir de Ibiza
 
 Os ferries saem do **porto de Eivissa** e chegam a **La Savina**, o porto de Formentera. Na época alta também há saídas da **Playa d'en Bossa**, práticas se ficar alojado no sul.

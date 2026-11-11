@@ -56,6 +56,18 @@ opciones:
     etiqueta: "Party of 6 or first visit: 2 hours, more neighbourhoods"
 ---
 
+## Price table per person
+
+| Option | Duration | 2 people | 4 people | 6 people |
+| --- | --- | --- | --- | --- |
+| [City Sightseeing hop-on hop-off bus](/en/cities/sevilla/activities/seville-hop-on-hop-off-bus-tour-24h) | 24 h (75-min loop) | €28 | €28 | €28 |
+| [Private tuk tuk](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville) | 1 h | €44.50 (€89) | €24.75 (€99) | €31.33 (2 tuk tuks, €188) |
+| [Private tuk tuk](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours) | 2 h | €77.50 (€155) | €41.25 (€165) | €53.33 (€320) |
+| [Private guided horse carriage](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1 h 30 min | €149 (€298) | €74.50 (€298) | €99.33 (2 carriages, €596) |
+| Street horse carriage | Varies | Council-regulated fare: ask first | — | — |
+| [Walking tour, max. 10](/en/cities/sevilla/activities/seville-small-group-city-highlights-walking-tour) | 2 h | €25 | €25 | €25 |
+| [Group bike tour](/en/cities/sevilla/activities/seville-bike-tour-group) (in English) | 3 h | €28 | €28 | €28 |
+
 ## Price per person: the comparison
 
 | Option | Duration | 2 people | 4 people | 6 people |

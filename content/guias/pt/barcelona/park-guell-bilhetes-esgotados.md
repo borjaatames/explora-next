@@ -54,6 +54,15 @@ opciones:
     etiqueta: Com guia
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Só o bilhete | [Bilhete sem filas para a zona monumental](/en/cities/barcelona/activities/park-guell-admission-ticket), 4,4★ (81.572) | 21,5 € |
+| Bilhete e casa de Gaudí | [Park Güell + Casa Museu Gaudí](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket), 4,5★ (7.565) | 28 € |
+| Com guia lá dentro | [Tour da Sagrada Família e do Park Güell](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
+| Barcelona num dia | [Sagrada Família, Park Güell e centro](/en/cities/barcelona/activities/barcelona-in-one-day-sagrada-familia-park-guell), 4,9★ (15.762) | 129 € |
+
 ## O que vai ver na zona monumental
 
 O bilhete só é necessário para a **zona monumental**, a parte que Gaudí chegou a terminar:
@@ -89,6 +98,8 @@ Os **revendedores autorizados** compram lotes com antecedência, por isso podem 
 Se além disso quiser que alguém lhe explique o parque, um **tour com entrada incluída** já leva o horário reservado. O da **Sagrada Família e do Park Güell** (desde 104 €, 4 horas) inclui as duas entradas, o guia e a deslocação entre ambos, com **cancelamento gratuito até 24 horas antes**. Antes de pagar, confirme que diz **«entrada no Park Güell incluída»** e que a visita é à zona monumental: há passeios que só percorrem a parte gratuita.
 
 As visitas guiadas oficiais do parque (desde 17 €) não resolvem neste caso: pagam-se à parte e também exigem bilhete.
+
+[actividad: sagrada-familia-park-guell-tour-guiado]
 
 ## Park Güell sem bilhetes: a zona gratuita
 

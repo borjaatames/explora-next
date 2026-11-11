@@ -55,6 +55,15 @@ opciones:
     etiqueta: Toledo und Segovia
 ---
 
+## Welches Ticket?
+
+| Wenn du … | Option | Ab |
+| --- | --- | --- |
+| auf eigene Faust gehen willst | Normales Ticket online oder an der Kasse | 12 € |
+| alles verstehen willst | [Führung durch die Kathedrale mit Eintritt](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
+| einen Tagesausflug ab Madrid ohne Planung suchst | [Toledo ganztags mit Guide und Eintritt in die Kathedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
+| Toledo und Segovia an einem Tag sehen willst | [Alcázar von Segovia und Kathedrale von Toledo](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
+
 ## Was du in der Primatialkathedrale siehst
 
 Sie ist der teuerste Besuch in Toledo, rechtfertigt den Eintritt aber auch am meisten. Das normale Ticket umfasst:

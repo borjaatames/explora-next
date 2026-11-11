@@ -53,6 +53,15 @@ opciones:
     etiqueta: Ascension à pied
 ---
 
+## Quel billet choisir ?
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Excursion au Teide avec téléphérique et transfert](/fr/cities/tenerife/activities/teide-excursion-telepherique-transfert) | 4,3★ (6 121) | 92 € |
+| [Coucher de soleil et observation des étoiles dans le parc national du Teide](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 4,7★ (3 691) | 35 € |
+| [Excursion Teide, Icod de los Vinos, Garachico et Masca](/fr/cities/tenerife/activities/tenerife-excursion-teide-masca-icod-garachico) | 4,6★ (3 066) | 58 € |
+| [Visite guidée de l'Observatoire du Teide](/en/cities/tenerife/activities/teide-observatory-guided-visit) | 4,6★ (918) | 21 € |
+
 ## Le téléphérique du Teide
 
 Il part de la **station inférieure (2 356 m)**, au bord de la route TF-21, et monte en **moins de 8 minutes** à **La Rambleta (3 555 m)**. En haut, trois sentiers :
@@ -64,6 +73,8 @@ Il part de la **station inférieure (2 356 m)**, au bord de la route TF-21, et m
 **Prix et horaires :** environ **42 € aller-retour** par adulte (21 € enfants), avec **réservation en ligne obligatoire par créneau** ; au guichet, il n'y a presque jamais de places. De fin octobre à mars, il fonctionne de 9 h à 17 h (dernière montée à 16 h) ; en été et à Pâques, jusqu'à 18 h 40. Les créneaux du matin partent une à deux semaines à l'avance en saison.
 
 **Il ferme par vent fort ou verglas**, surtout en hiver et parfois sans préavis. Prévoyez une veste chaude et des chaussures fermées : impossible de monter en sandales ou à talons.
+
+[actividad: teide-cable-car-tour-transfer]
 
 ## Le permis pour le sommet du Teide
 
@@ -88,6 +99,8 @@ Les gardes peuvent vous faire faire demi-tour sans l'équipement obligatoire : c
 Même sans monter, le parc vaut le voyage : le **circuit des Roques de García** (3,6 km, environ 2 heures) fait le tour des formations les plus célèbres avec le Teide en toile de fond. Arrêtez-vous aux belvédères de la TF-21, comme celui de **Minas de San José**, et au **Parador**.
 
 La nuit, grâce à l'altitude et à la **loi du ciel** (Ley del Cielo) qui protège l'île de la pollution lumineuse, Tenerife est l'un des meilleurs endroits au monde pour observer les étoiles. Il existe des sorties au coucher du soleil avec **télescope** et guides Starlight, et des visites de l'**observatoire du Teide**. Prenez des vêtements d'hiver : la nuit, il fait très froid.
+
+[actividad: teide-sunset-stargazing-tour]
 
 ## Accès, stationnement et repas
 

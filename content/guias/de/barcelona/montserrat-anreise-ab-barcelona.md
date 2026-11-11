@@ -59,6 +59,16 @@ opciones:
     etiqueta: Abholung am Hotel
 ---
 
+## Alle Optionen im Überblick
+
+| Option | Gesamtzeit | Preis (ca.) | Takt | Ideal für |
+| --- | --- | --- | --- | --- |
+| Zug R5 + Seilbahn Aeri | 1 Std. 15 – 1 Std. 30 | Zug + 15 € hin und zurück für die Aeri | Zug stündlich, Aeri alle 15 Min. | Aussicht und Tempo |
+| Zug R5 + Zahnradbahn | 1 Std. 30 | 20,80–32,60 € hin und zurück, kombiniert | Zug stündlich, Bahn 2–3-mal pro Stunde | Ruhigere Fahrt, Kinder, Kinderwagen |
+| Trans-Montserrat-Ticket | 1 Std. 30 | 50 € | wie der Zug | Wer auch die Standseilbahn Sant Joan nutzt |
+| Auto + Zahnradbahn ab Monistrol Vila | 1 Std. 15 | Benzin, Gratisparkplatz + 15 € | Bahn 2–3-mal pro Stunde | Familien und Gruppen |
+| [Geführte Tour](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6–10 Std., alles inklusive | ab 47 € | täglich | Null Planung |
+
 ## Möglichkeiten der Anreise nach Montserrat
 
 | Option | Gesamtzeit | Preis ca. | Takt | Für wen |
@@ -68,6 +78,8 @@ opciones:
 | Trans Montserrat | 1 h 30 | 50 € | Wie der Zug | Wer auch die Standseilbahn Sant Joan nimmt |
 | Auto + Zahnradbahn ab Monistrol Vila | 1 h 15 | Benzin, Parken gratis + 15 € | Zahnradbahn 2-3 pro Stunde | Familien und Gruppen |
 | Organisierter Ausflug | 6-10 h, alles inklusive | Ab 47 € | Täglich | Wer nichts organisieren will |
+
+[actividad: montserrat-half-day-small-group]
 
 ## Mit dem Zug nach Montserrat: die R5 ab Plaça Espanya
 

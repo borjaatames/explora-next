@@ -59,6 +59,18 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Te recomendamos | Desde |
+| --- | --- | --- |
+| La más elegida | [Visita guiada a la Alhambra y los Palacios Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100 opiniones) | 49 € |
+| La más económica con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
+| Grupo pequeño y sin colas | [Alhambra y Nazaríes sin colas en grupo reducido](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas), 4,7★ (8.443) | 53 € |
+| La mejor valorada | [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas), 4,9★ (1.018) | 99 € |
+| Algo distinto | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
+| Ir solo vosotros | [Tour privado](/ciudades/granada/actividades/alhambra-tour-privado), 4,9★ (242) | 280 € |
+| Poco tiempo o presupuesto | [Jardines y Generalife (sin Nazaríes)](/ciudades/granada/actividades/entrada-jardines-alhambra-generalife), 4,5★ (2.256) | 17,5 € |
+
 ## Precio de la entrada a la Alhambra y tipos de entrada
 
 Precios del Patronato vigentes en 2026, con la comisión web incluida:
@@ -74,6 +86,8 @@ Precios del Patronato vigentes en 2026, con la comisión web incluida:
 - **Menores de 12 años:** gratis, pero **con ticket nominativo**, que se saca en la misma compra. Sin él no entran.
 - **Descuentos:** mayores de 65 de la UE, Carnet Joven y discapacidad.
 - **No existe un día gratuito recurrente:** lo de «los miércoles gratis» que circula por internet es falso.
+
+[actividad: alhambra-entrada-general]
 
 ## Cómo comprar entradas para la Alhambra (y si están agotadas)
 

@@ -60,6 +60,17 @@ opciones:
     etiqueta: De noche
 ---
 
+## ¿Qué entrada elegir?
+
+| Tour | Precio desde | Nota real |
+|---|---|---|
+| [Entrada y tour guiado](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra) | 50€ | De las dos más baratas de las seis. Sin extras de más, tiempo libre al final |
+| [Alhambra en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido) | 65€ | Dedica más tiempo al Generalife (cerca de 1 hora, más que el resto) |
+| [Visita guiada Alhambra y Generalife](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) | 49€ | La más barata de las seis. Reparto estándar de las tres zonas |
+| [Palacios Nazaríes sin colas](/ciudades/granada/actividades/alhambra-palacios-nazaries-sin-colas) | 53€ | Mismo recorrido, precio intermedio-alto |
+| [Tour guiado con entradas](/ciudades/granada/actividades/alhambra-tour-guiado-con-entradas) | 99€ | Mismo recorrido, el precio más alto del grupo |
+| [Sin esperas Palacios Nazaríes](/ciudades/granada/actividades/alhambra-sin-esperas-palacios-nazaries) | 96€ | De los más caros del grupo, sin diferencia de contenido que lo justifique |
+
 ## Visita guiada a la Alhambra: seis tours, un mismo recorrido
 
 Hay seis tours con nombres distintos («sin colas», «con entradas incluidas», «en grupo reducido», «sin esperas») que describen **el mismo recorrido**: Alcazaba, Palacios Nazaríes y Generalife, unas **3 horas**, con guía oficial y entrada a la franja horaria asignada de los Palacios.

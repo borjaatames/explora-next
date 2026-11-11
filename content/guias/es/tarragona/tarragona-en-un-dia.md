@@ -51,6 +51,18 @@ faq:
   respuesta: No es recomendable. PortAventura World y Ferrari Land, en Salou, necesitan un día entero; deja el casco romano para otra jornada.
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado a pie por la Tarraco romana](/ciudades/tarragona/actividades/tour-tarraco-romana-a-pie) | 4,7★ (334) | 15 € |
+| [Entrada a la catedral con audioguía](/ciudades/tarragona/actividades/catedral-tarragona-entrada-audioguia) | 4,4★ (105) | 12,5 € |
+| [Paseo en catamarán con barra libre, comida y baño](/ciudades/tarragona/actividades/catamaran-cambrils-barra-libre-bano) | 4,5★ (2.188) | 35 € |
+| [Safari guiado en quad con recogida en el hotel](/ciudades/tarragona/actividades/quad-safari-salou-recogida-hotel) | 4,8★ (1.225) | 90 € |
+| [Visita a Bodegas Yzaguirre con cata de 5 vermuts](/ciudades/tarragona/actividades/bodegas-yzaguirre-vermut-visita-cata) | 4,8★ (6) | 25 € |
+| [Tour guiado en kayak por el río Ebro hasta Miravet](/ciudades/tarragona/actividades/kayak-rio-ebro-miravet) | 4,7★ (97) | 35 € |
+| [Observación de flamencos y aves al atardecer](/ciudades/tarragona/actividades/flamencos-delta-del-ebro-atardecer) | 4,7★ (63) | 40 € |
+
 ## La ruta del día: qué ver en Tarragona
 
 Empieza temprano y sigue este orden; todo está a pocos minutos a pie.

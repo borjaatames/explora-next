@@ -50,6 +50,19 @@ actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
 
+## Les activités en un coup d'œil
+
+| Activité | Durée | Prix | Pour quel groupe |
+| --- | --- | --- | --- |
+| [Dégustation de bière pour groupes privés sur toit-terrasse](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € par personne | Uniquement votre groupe ; EVJF, EVG, anniversaires et entreprises |
+| [Sip & paint avec sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2 h 30 | 19 € par personne | Groupes qui veulent rire sans sortir la nuit |
+| [Boat party en catamaran avec DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | 53,10 € par personne | Groupes qui ont envie de faire la fête ; pas de sortie en hiver |
+| [Cours de salsa avec sangria sur toit-terrasse](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € par personne | Groupes qui veulent danser ; sans expérience |
+| [Dégustation de bière artisanale avec musique et karaoké](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 | 17 € par personne | Soirée bon marché avec karaoké facultatif |
+| [Séance photo express](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € par séance | Un souvenir du groupe devant la Sagrada Família |
+| [Visite privée tapas et vin](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € pour 2, 594 € pour 6 | Dîner guidé rien que pour vous |
+| [Flamenco au City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | À partir de 25 € par personne | Spectacle avant ou après le dîner |
+
 ## EVJF et EVG à Barcelone : l'interdiction et ce qui a changé
 
 - **Tournées des bars interdites.** Depuis le **29 octobre 2025**, il est interdit dans toute la ville, à toute heure, d'organiser, de vendre ou de participer à des visites de plusieurs bars dont le but principal est de boire. C'est pourquoi nous ne recommandons ici aucun pub crawl.
@@ -57,6 +70,8 @@ actividades:
 - **Boire dans la rue :** les amendes vont de **100 à 600 euros** pour les cas légers.
 
 Rien de tout cela ne concerne une dégustation, un bateau ou un cours dans un seul lieu.
+
+[actividad: sesion-fotos-rapida-barcelona]
 
 ## Que faire pour un EVJF à Barcelone : dégustation de bière sur un rooftop
 
@@ -74,6 +89,8 @@ La formule la plus complète est une dégustation de **six bières artisanales**
 - **Sip & paint (19 € par personne, 2 h 30) :** vous peignez pas à pas avec sangria à volonté, musique et danse à la fin, dès 17 h 30 dans la rue de la Mercè, à Ciutat Vella. Ce n'est pas un cours d'art, c'est un moment convivial, et le repas n'est pas inclus. Annulation gratuite jusqu'à 24 heures avant.
 - **Cours de salsa sur un rooftop (48,60 € par personne, 2 h) :** pour débutants, avec sangria maison à volonté et vue, sur le Passeig de Gràcia. En novembre, il commence à 17 h et en décembre à 16 h. Non remboursable.
 
+[actividad: barcelona-sip-and-paint-sangria]
+
 ## Boat party à Barcelone pour un EVJF (à partir de mars)
 
 Deux heures sur un **catamaran à deux ponts avec DJ et piste de danse** au large de la côte, pour **53,10 € par personne**, avec des tickets pour quatre boissons et l'entrée sur liste dans une discothèque le soir même (il faut entrer avant 1 h). L'enregistrement se fait à l'Ice Bar du front de mer de la Barceloneta.
@@ -84,6 +101,8 @@ Trois choses à savoir :
 2. C'est **non remboursable**.
 3. Les personnes ivres ne peuvent pas embarquer.
 
+[actividad: fiesta-en-barco-barcelona-catamaran-dj]
+
 ## Soirée karaoké, dîner, flamenco ou photos
 
 - **Dégustation de bière artisanale chez Craft Barcelona** (17 € par personne, 2 h 30), dans le quartier gothique : visite de la brasserie, dégustation guidée et boissons ensuite, puis musique live et **karaoké facultatif**. Séances à 20 h 30 et 22 h 30. Ceux qui ne boivent pas de bière peuvent choisir sangria ou vermouth.
@@ -92,6 +111,8 @@ Trois choses à savoir :
 - **Séance photo :** elle se paie à la séance, pas par personne. **20 minutes et 10 photos retouchées pour 35 €** près de la Sagrada Família (livraison en 24-48 heures), ou 30 minutes et 20-25 photos pour 68 € à la Sagrada Família, dans le quartier gothique ou au parc Güell.
 
 Prix « à partir de » au 1er novembre 2026 ; ils peuvent varier selon la date et l'option.
+
+[actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
 
 ## Conseils et erreurs fréquentes
 

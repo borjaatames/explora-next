@@ -98,6 +98,8 @@ Seville's processions mostly go out in the afternoon and at night, so mornings a
 
 **If you have an extra day:** Fallas ends on Friday 19 March and Holy Week starts on Sunday 21, so in 2027 you can combine **Valencia and Seville** in one trip. From Seville, **Córdoba** is 45 minutes by high-speed train, and its Holy Week is calmer.
 
+[actividad: real-alcazar-seville-entry-ticket]
+
 ## Common mistakes
 
 - **Booking your hotel in February:** for Holy Week, people book months ahead and prices soar.

@@ -86,6 +86,8 @@ In diesem Jahr gibt es mehr als **250 beleuchtete Orte** und 14 Millionen LEDs, 
 4. **20:00, Schokolade mit Churros in der San Ginés**, im Pasadizo de San Ginés neben der Sol. Seit 1894 geöffnet, donnerstags bis sonntags und vor Feiertagen rund um die Uhr.
 5. **21:00, Abendessen:** Tapas im Zentrum oder eine Flamenco-Show.
 
+[actividad: madrid-big-bus-night-tour]
+
 ## Traditionen, Silvester und Heilige Drei Könige
 
 - **Die Lotterieziehung (22. Dezember):** im Teatro Real, mit kostenlosen nummerierten Karten, die man gegen Ausweis oder Pass an der Kasse abholt. Manche stehen schon ab der Nacht davor an: Wer in den letzten Jahren nach 4 Uhr morgens kam, blieb draußen.

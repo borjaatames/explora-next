@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Party of 6: €125 each to Ronda"
 ---
 
+## Price table: per person by group size
+
+| Destination from Seville | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
+| --- | --- | --- | --- | --- |
+| Córdoba | [€110 by AVE, max. 8](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) · [€109 by coach](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [€216](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (€432 total) | €167 (€668) | €147 (€882) |
+| Córdoba by private car | — | [€379](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (€758) | — | €160 (€960) |
+| Ronda (and white villages) | [€47](/en/cities/sevilla/activities/pueblos-blancos-ronda-day-trip-from-seville) | [€250](/en/cities/sevilla/activities/ronda-private-day-trip-from-seville-with-or-without-guide) no guide (€500) | €180 (€720) | €125 (€750) |
+| White villages and Ronda, private | — | [€389](/en/cities/sevilla/activities/white-villages-ronda-private-day-trip-from-seville) (€778) | — | €160 (€960) |
+| Cádiz and Jerez | [€95](/en/cities/sevilla/activities/cadiz-jerez-de-la-frontera-day-trip-from-seville) | [€435](/en/cities/sevilla/activities/cadiz-jerez-private-day-trip-from-seville-winery) (€870) | €290 (€1,160) | €230 (€1,380) |
+| Gibraltar | — | [€430](/en/cities/sevilla/activities/gibraltar-private-day-trip-from-seville) (€860) | €260 (€1,040) | €200 (€1,200) |
+| Caminito del Rey | — | [€310](/en/cities/sevilla/activities/caminito-del-rey-private-transport-day-trip-from-seville) (€620) | €220 (€880) | €200 (€1,200) |
+
 ## Seville day trips, group or private: the quick answer
 
 - **Couple or solo traveller:** group. Ronda and the white villages for €47, Córdoba for €109-110. Private would cost you two to eight times more.

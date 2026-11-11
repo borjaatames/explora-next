@@ -57,6 +57,15 @@ opciones:
     etiqueta: Plus the Cathedral
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A timed ticket, no guide | [Royal Alcázar timed entry](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4.6★ (36,909) | €20 |
+| A guide plus the Upper Royal Rooms | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
+| The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
+| Free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
+
 ## First, check the official website properly
 
 The official sales website is **alcazardesevilla.infoticketing.com**, linked from alcazarsevilla.org. General admission is **€15.50** (reduced €8) and the **Upper Royal Quarters (Cuarto Real Alto)** cost €5.50 extra. If your date shows as sold out:
@@ -72,6 +81,8 @@ The ticket office is in the **Patio de Banderas**, opens at **9:00**, only sells
 
 - On busy days they recommend arriving **at least an hour early**.
 - **Everyone with their own ID:** you can't buy for other people at the ticket office. If you're a group, you all have to queue.
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
 ## Alcázar Seville last minute tickets: resale or a tour with tickets
 
@@ -98,6 +109,8 @@ If you can't get anything, you can still see quite a lot without going in:
 - **Callejón del Agua** and the **Murillo Gardens**, in the Santa Cruz quarter, which run along the Alcázar wall.
 
 And if you're after Mudéjar art elsewhere, the **Casa de Pilatos** has courtyards and tiles from the same family, about 15 minutes' walk away.
+
+[actividad: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia]
 
 ## Mistakes to avoid
 

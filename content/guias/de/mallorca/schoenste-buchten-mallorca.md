@@ -101,6 +101,8 @@ Die goldene Regel im Juli und August: **vor 9:00** oder **nach 18:00 Uhr** ankom
 - **Quallen:** Sie kommen mit dem Ostwind (Levante); vor dem Losfahren die Flaggen der Rettungsschwimmer und Warn-Apps prüfen.
 - **FKK:** akzeptiert an den abgelegeneren Abschnitten von Es Trenc, Cala Varques und Teilen der Cala Mesquida.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Tipps und typische Fehler
 
 1. **Nicht mittags im Sommer in die kleinen Buchten.** Keine Parkplätze und überfüllt; früh aufstehen ist die einzige Chance auf einen Parkplatz an den beliebten Buchten.

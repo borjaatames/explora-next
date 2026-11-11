@@ -61,6 +61,10 @@ Depuis l'un ou l'autre, le centre est à environ **5 minutes à pied**. La gare 
 
 **Se déplacer :** à pied, car la vieille ville est plate et compacte. Le **bus urbain 1** (arrêt place de España, à 300 mètres) va à la plage de la Victoria ; il y a des **taxis** à moins de 5 minutes du port ; le **train** mène à Jerez et Séville, et le **catamaran** traverse vers El Puerto de Santa María en 30 minutes.
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## Que faire à Cadix pendant une escale de croisière
 
 | Temps à terre | Programme |
@@ -89,6 +93,8 @@ Séville est à **environ 90 minutes par l'AP-4**. Sur place, il faut au moins 4
 | Pour croisiéristes depuis le port | 119 € + entrée de l'Alcázar | L'opérateur suit l'horaire du bateau et offre une garantie de retour |
 | Privée depuis le port | Environ 300 € (environ 220 € à 4) | Le chauffeur suit votre horaire ; le bateau n'attend pas |
 | Train en autonomie | Dès environ 20 € aller-retour | Tout le risque est pour vous |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez depuis Cadix en train
 

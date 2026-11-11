@@ -83,6 +83,10 @@ Si vous voulez un guide, les visites privées partent des **Torres de Serranos**
 
 Pour deux jours en ville, voyez [Valence en 2 jours](/fr/guides/valencia/valence-en-2-jours) ; pour choisir où manger du riz, [où manger une paella à Valence](/fr/guides/valencia/ou-manger-une-vraie-paella-a-valence).
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: oceanografic-valencia-entrada]
+
 ## Excursion du navire ou en autonomie
 
 À Valence, inutile de quitter la ville : tout l'essentiel se visite seul ou avec une visite à pied.

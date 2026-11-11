@@ -61,6 +61,16 @@ opciones:
 
 ## Les options pour aller à Montserrat
 
+| Option | Durée totale | Prix indicatif | Fréquence | Pour qui |
+| --- | --- | --- | --- | --- |
+| Train R5 + Aeri (téléphérique) | 1 h 15 - 1 h 30 | Train + 15 € aller-retour pour l'Aeri | Train toutes les heures, Aeri toutes les 15 min | Ceux qui veulent la vue et la rapidité |
+| Train R5 + Cremallera | 1 h 30 | 20,80-32,60 € aller-retour, combiné | Train toutes les heures, Cremallera 2-3 par heure | Ceux qui préfèrent un trajet tranquille |
+| Trans Montserrat | 1 h 30 | 50 € | Comme le train | Ceux qui montent aussi au funiculaire de Sant Joan |
+| Voiture + Cremallera depuis Monistrol Vila | 1 h 15 | Carburant, parking gratuit + 15 € | Cremallera 2-3 par heure | Familles et groupes |
+| [Excursion organisée](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6-10 h, tout compris | Dès 47 € | Tous les jours | Ceux qui ne veulent rien organiser |
+
+## Les options pour aller à Montserrat
+
 | Option | Durée totale | Prix approx. | Fréquence | Pour qui |
 | --- | --- | --- | --- | --- |
 | Train R5 + Aeri (téléphérique) | 1 h 15 - 1 h 30 | Train + 15 € A/R de l'Aeri | Train toutes les heures, Aeri toutes les 15 min | Vue et rapidité |
@@ -113,6 +123,8 @@ Est-ce rentable ? Le **funiculaire de Sant Joan**, qui monte aux sentiers avec v
 **En excursion organisée**, on vous monte et vous redescend sans regarder les horaires. Il y a des options dès 47 €, comme la [demi-journée en petit groupe](/en/cities/barcelona/activities/montserrat-half-day-small-group) (dès 59 €) ou [Barcelone et Montserrat avec prise en charge à l'hôtel](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) (dès 149 €). Le comparatif complet est dans [quelle excursion à Montserrat choisir](/fr/guides/barcelona/montserrat-quelle-excursion-choisir).
 
 [actividad: montserrat-cremallera-bodega-castlexperience]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
 
 ## Erreurs fréquentes
 

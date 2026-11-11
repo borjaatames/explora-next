@@ -43,6 +43,12 @@ faq:
   respuesta: Sí, con comida y bebida, siempre que no sea en envases de cristal. Dentro, un menú cuesta 15-20 € y hay colas de 13:30 a 15:00.
 ---
 
+## Entradas a PortAventura
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Entrada a PortAventura y Ferrari Land de 1, 2 o 3 días](/ciudades/tarragona/actividades/portaventura-ferrari-land-entrada) | 4,3★ (2.697) | 39 € |
+
 ## Los tres parques de PortAventura World
 
 **PortAventura Park** es el principal y el imprescindible. Tiene seis áreas temáticas: Mediterrània, Far West, México, China, Polynesia y **SésamoAventura**, para los más pequeños. Aquí están las montañas rusas estrella, **Dragon Khan** y **Shambhala**, además de Furius Baco. Pide un día completo.

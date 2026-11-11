@@ -71,6 +71,10 @@ Von beiden ist das Zentrum etwa **5 Gehminuten** entfernt. Der Bahnhof liegt run
 
 Die Führung durch **Torre Tavira und Kathedrale** (ab 38 €, 2 Stunden) startet an der Plaza de San Juan de Dios, direkt am Hafen. Seid ihr mehrere, gibt es einen **privaten Altstadtrundgang** ab 180 € pro Gruppe (2 Stunden, 1 oder 2 Personen) oder etwa 300 € für 4, Treffpunkt gegenüber dem Rathaus, fünf Minuten vom Schiff. Mehr Ideen für den Rundgang in [Cádiz an einem Tag](/de/guides/cadiz/cadiz-in-einem-tag).
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## Sevilla vom Hafen Cádiz (und das Risiko, das Schiff zu verpassen)
 
 Sevilla liegt **etwa 90 Minuten über die AP-4** entfernt. Dort brauchst du mindestens 4 Stunden für Kathedrale, Alcázar und Santa Cruz, der ganze Tag dauert also 7–8 Stunden. Drei Möglichkeiten:
@@ -89,6 +93,8 @@ Sevilla liegt **etwa 90 Minuten über die AP-4** entfernt. Dort brauchst du mind
 | Für Kreuzfahrtgäste ab Hafen | 119 € + Eintritt Alcázar | Der Anbieter richtet sich nach dem Schiff und gibt Rückkehrgarantie |
 | Privat ab Hafen | Etwa 300 € (etwa 220 € bei 4 Personen) | Der Fahrer richtet sich nach deinem Zeitplan; das Schiff wartet nicht |
 | Zug auf eigene Faust | Ab etwa 20 € hin und zurück | Das ganze Risiko trägst du |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez von Cádiz mit dem Zug
 

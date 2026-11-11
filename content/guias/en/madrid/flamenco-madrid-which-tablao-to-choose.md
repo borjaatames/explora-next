@@ -49,6 +49,13 @@ actividades:
   - flamenco-torres-bermejas-cena
 ---
 
+## Las Carboneras vs. Torres Bermejas
+
+| Tablao | Price from | Atmosphere | Options | Best for |
+|---|---|---|---|---|
+| [Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | €45 | Basement of a 17th-century historic palace, intimate cabaret-style setting | Show + drink; show + dinner as a separate ticket | Anyone wanting a boutique tablao with a fixed cast of well-known performers |
+| [Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | €31 | Alhambra-inspired decor, larger format | Drink, tapas, or a full 3-course dinner depending on the ticket | Anyone wanting more price flexibility and an optional full dinner |
+
 ## How to choose a flamenco tablao in Madrid in 30 seconds
 
 - **Tight budget or want dinner in the same place:** Torres Bermejas, with tickets from €31 and the option of a three-course Spanish menu.

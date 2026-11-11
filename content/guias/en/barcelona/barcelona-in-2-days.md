@@ -75,6 +75,12 @@ actividades:
 
 **20:30 — Dinner in Gràcia**, then metro L3 from Lesseps (15 minutes' walk from the park) back to the centre.
 
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: casa-batllo-entrada-con-audioguia]
+
+[actividad: park-guell-entrada-zona-monumental]
+
 ## Day 2: Gothic Quarter, Born, the sea and Montjuïc
 
 **10:00 — Gothic Quarter.** The **Cathedral** (paid tourist visit with cloister and rooftops; the 13 geese of Santa Eulàlia live in the cloister), **Plaça del Rei** and **Plaça Sant Felip Neri**, with Civil War shrapnel marks on the façade.
@@ -88,6 +94,10 @@ actividades:
 **18:00 — Sunset on Montjuïc.** Metro to Paral·lel and the Montjuïc funicular, included in the metro ticket. From the top, the **cable car to the castle** (€19 return) gives you the view of the port; for free, the MNAC steps look out over the whole city.
 
 **21:00 — Evening.** Pintxos on Carrer Blai in Poble-sec, 15 minutes down from Montjuïc, or flamenco back in the Born, in a 17th-century palace (from €30).
+
+[actividad: barcelona-tour-privado-2-horas-gotico-born]
+
+[actividad: palau-dalmases-flamenco-show-palacio-siglo-xvii]
 
 ## What to book and budget
 

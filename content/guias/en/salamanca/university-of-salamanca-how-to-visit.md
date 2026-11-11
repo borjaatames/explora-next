@@ -42,6 +42,7 @@ faq:
   respuesta: The Historic Building alone, 1 h 30 to 2 hours; with the Escuelas Menores and the Cielo de Salamanca, 2 h 30 (recommended); with the Unamuno House, about 3 hours.
 ---
 
+
 ## What to see inside the University of Salamanca
 
 - **The cloister**, on two levels with 23 arches per floor, the upper ones Renaissance.
@@ -81,6 +82,8 @@ And the **frog on a skull**: whoever finds it without help passes their exam, ge
 **On your own** works if you arrive with a little context: read for ten minutes beforehand about Fray Luis, Unamuno and medieval doctorates and the visit changes completely. **With an official guide** (booked at the ticket office or online, 1 h to 1 h 30) you get stories that aren't on the panels, and it works better with teenagers. Night-time free tours **don't go inside**: they only walk around the façade.
 
 [actividad: universidad-salamanca-visita-guiada]
+
+[actividad: tour-a-pie-salamanca-guia-local]
 
 ## Tips and common mistakes
 

@@ -46,6 +46,13 @@ faq:
 
 El Guggenheim tiene dos visitas que conviene no confundir: **el edificio y sus esculturas, gratis por fuera**, y **las salas, de pago, por dentro**. Aunque no entres, el exterior ya merece el viaje.
 
+## Visitas guiadas al Guggenheim
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Guggenheim con guía y entrada (en español)](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada) | 4,9★ (182) | 49 € |
+| [Guggenheim VIP en grupo reducido (10 idiomas)](/ciudades/bilbao/actividades/guggenheim-bilbao-vip-grupo-reducido) | 4,5★ (763) | 95 € |
+
 ## Qué ver en el Museo Guggenheim por dentro
 
 No intentes «verlo todo» con prisa. Prioriza:

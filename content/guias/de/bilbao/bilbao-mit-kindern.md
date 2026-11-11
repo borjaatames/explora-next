@@ -46,6 +46,14 @@ faq:
   respuesta: 'Weitgehend: Die Altstadt ist Fußgängerzone und flach, und alle Metrostationen haben Aufzüge. Die Gehwege im Ensanche sind schmal, und in der Altstadt und in Artxanda gibt es Steigungen, bei denen die Standseilbahn hilft.'
 ---
 
+## Familienaktivitäten, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Bootsfahrt auf der Ría (1 oder 2 Std.)](/de/cities/bilbao/activities/bilbao-bootsfahrt-ria-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museum und Stadion San Mamés](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka und Guernica mit Txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## Was du in Bilbao mit Kindern machen kannst
 
 **Standseilbahn Artxanda.** In weniger als drei Minuten geht es hinauf zum Aussichtspunkt mit dem schönsten Blick auf Bilbao zwischen den Bergen. Oben gibt es einen Park mit Spielplatz. Günstig und lustig.

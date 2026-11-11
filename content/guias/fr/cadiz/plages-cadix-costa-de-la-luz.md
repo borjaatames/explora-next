@@ -47,6 +47,14 @@ faq:
 
 La règle locale : par **poniente** (vent d'ouest), plage parfaite ; par fort **levante** (vent d'est), mieux vaut la vieille ville ou une crique abritée. Regardez la météo avant de choisir.
 
+## Sorties en mer à réserver
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Croisière en catamaran au coucher du soleil avec cava](/fr/cities/cadiz/activities/cadiz-croisiere-catamaran-coucher-soleil) | 4,6★ (856) | 24,50 € |
+| [Barbate : observation des dauphins et des baleines au large du cap Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4,1★ (792) | 50 € |
+| [Tour en catamaran dans la baie de Cadix](/fr/cities/cadiz/activities/cadiz-balade-catamaran-baie) | 4,5★ (453) | 19 € |
+
 ## Les plages de la ville de Cadix
 
 | Plage | Caractère |
@@ -57,6 +65,8 @@ La règle locale : par **poniente** (vent d'ouest), plage parfaite ; par fort **
 | **Cortadura** | Large et semi-sauvage, vers les salines |
 
 **La Caleta** est la plus photogénique (la « Havane » de James Bond), parfaite au coucher du soleil. **La Victoria** est la grande plage urbaine pour une journée de soleil avec services. On y va à pied ou en bus **1 et 7** ; pour Cortadura, le **1**.
+
+[actividad: catamaran-cadiz-atardecer]
 
 ## Les grandes plages de la Costa de la Luz
 

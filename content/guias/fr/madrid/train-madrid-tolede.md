@@ -61,6 +61,15 @@ opciones:
 
 ## Train, bus ou voiture : le comparatif
 
+| Option | Durée | Prix indicatif | Fréquence | Pour qui |
+| --- | --- | --- | --- | --- |
+| Train Avant depuis Atocha | 33 min | 22-26 € aller-retour | Environ toutes les heures | Ceux qui veulent aller vite et réservent à l'avance |
+| Bus Alsa depuis Plaza Elíptica | 50 min (direct) - 1 h 30 | Dès 6,55 € l'aller | 83 départs par jour | Petit budget ou retour tardif |
+| Voiture par l'A-42 | 1 h | Carburant et parking | Quand vous voulez | Groupes, coucher de soleil au Mirador del Valle |
+| [Excursion organisée](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 h, tout compris | Dès 79 € | Tous les jours | Ceux qui ne veulent rien organiser |
+
+## Train, bus ou voiture : le comparatif
+
 | Option | Durée | Prix approx. | Fréquence | Pour qui |
 | --- | --- | --- | --- | --- |
 | Train Avant depuis Atocha | 33 min | 22-26 € aller-retour | Environ toutes les heures | Ceux qui veulent aller vite et réservent tôt |
@@ -73,6 +82,8 @@ Le train est le plus rapide, mais la gare de Tolède se trouve en bas, près du 
 [actividad: excursion-toledo-dia-completo]
 
 Ce guide ne traite que de **l'aller et du retour**. Pour l'itinéraire en ville, lisez [Tolède depuis Madrid en une journée](/fr/guides/madrid/tolede-depuis-madrid-en-une-journee).
+
+[actividad: toledo-pulsera-turistica-7-monumentos]
 
 ## Le train Avant Madrid-Tolède : horaires et prix
 

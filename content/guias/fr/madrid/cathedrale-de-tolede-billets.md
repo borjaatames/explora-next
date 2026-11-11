@@ -55,6 +55,15 @@ opciones:
     etiqueta: Tolède et Ségovie
 ---
 
+## Quel billet choisir ?
+
+| Si vous voulez… | Option | À partir de |
+| --- | --- | --- |
+| Visiter seul | Billet plein tarif en ligne ou au guichet | 12 € |
+| Tout comprendre | [Visite guidée de la cathédrale avec entrée](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
+| Une excursion depuis Madrid sans rien organiser | [Tolède à la journée avec guide et entrée à la cathédrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
+| Tolède et Ségovie le même jour | [Alcázar de Ségovie et cathédrale de Tolède](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10 421) | 41 € |
+
 ## Ce que vous verrez dans la cathédrale primatiale de Tolède
 
 C'est la visite la plus chère de Tolède et aussi celle qui justifie le mieux son prix. Le billet général comprend :

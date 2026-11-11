@@ -48,6 +48,15 @@ imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
 imagen_alt: "Globicéphale sortant de l'eau au large de Tenerife"
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Baleines et dauphins en yacht écologique depuis Los Cristianos](/fr/cities/tenerife/activities/los-cristianos-observation-baleines-dauphins-eco-yacht) | 4,7★ (19 490) | 30 € |
+| [Kayak et snorkeling à Los Cristianos](/fr/cities/tenerife/activities/los-cristianos-kayak-snorkeling-photos-offertes) | 4,7★ (12 364) | 23 € |
+| [Barranco de Masca : randonnée et retour en bateau](/en/cities/tenerife/activities/masca-gorge-hike-boat-trip) | 4,7★ (374) | 145 € |
+| [Bateau privé pour observer les cétacés depuis Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | — | 450 € par bateau |
+
 ## Globicéphales et dauphins à Tenerife : les espèces que vous verrez
 
 - **Globicéphale tropical :** la vedette. Il vit en groupes familiaux et se voit presque à chaque sortie.

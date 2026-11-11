@@ -49,6 +49,14 @@ faq:
 
 Si [Salamanque en un jour](/fr/guides/salamanca/salamanque-en-1-jour) est la liste, le week-end permet de la vivre. Voici le programme.
 
+## Activités à réserver
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée à vélo](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4,6★ (52) | 25 € |
+| [Masterclass de jambon ibérique avec dégustation](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4,9★ (16) | 29 € |
+| [Entrée aux cathédrales avec audioguide](/fr/cities/salamanca/activities/salamanque-billet-cathedrales-audioguide) | 4,6★ (202) | 10 € |
+
 ## Jour 1 (samedi) : les grands monuments et la nuit
 
 **Matin (10h-14h).** Petit-déjeuner en terrasse sur la Plaza Mayor et le parcours classique : **Casa de las Conchas** (gratuit), **tours de la Clerecía** (3,75 €, la plus belle vue de la ville), **Université** (10 € ; cherchez la grenouille ; détails dans [comment la visiter](/fr/guides/salamanca/universite-de-salamanque-comment-la-visiter)) et les **deux cathédrales** (10 €). Trois ou quatre heures tranquillement ; ne manquez pas la cathédrale ancienne, plus intéressante que la nouvelle.

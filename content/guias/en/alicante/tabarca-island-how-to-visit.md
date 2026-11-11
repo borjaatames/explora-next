@@ -51,12 +51,22 @@ opciones:
     etiqueta: With snorkelling
 ---
 
+## Which boat should you choose?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Return boat to Tabarca island from Alicante](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
+| [Return ferry from Santa Pola](/en/cities/alicante/activities/santa-pola-tabarca-ferry) | 4.6★ (1,822) | €9 |
+| [Sailing trip to Tabarca with snorkelling and sunset](/en/cities/alicante/activities/tabarca-snorkeling-tour) | 4.8★ (27) | €85 |
+
 ## What to see and do on Tabarca Island
 
 - **The walled village.** The 18th-century walls (Charles III repopulated the island with Genoese families), the church of San Pedro y San Pablo, the Torre de San José and the lighthouse.
 - **The beach.** The stretch of sand between the village and the rest of the island, with calm water. It has a lifeguard and showers in summer.
 - **Snorkelling in the marine reserve.** The main attraction: posidonia meadows and fish in crystal-clear water. Bring a mask and snorkel.
 - **A walk round the island.** It is tiny (**1.8 km**) and you can walk all of it, with rocky coves on the wild side. There are no cars.
+
+[actividad: snorkel-tabarca-reserva-marina]
 
 ## How to get to Tabarca from Alicante or Santa Pola
 

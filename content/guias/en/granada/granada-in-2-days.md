@@ -63,6 +63,8 @@ Buy it on the official website, tickets.alhambra-patronato.es: **€22.27**, wit
 
 More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
+[actividad: alhambra-night-tour]
+
 ## Day 1: Alhambra, Albaicín and Sacromonte
 
 | Time | Plan |

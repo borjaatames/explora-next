@@ -53,6 +53,13 @@ opciones:
     etiqueta: Con guía
 ---
 
+## ¿Qué entrada elegir?
+
+| Opción | Precio desde | Duración | Formato | Ideal para |
+|---|---|---|---|---|
+| [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental) | 21,5 € | 1,5-2 h | Visita libre, sin guía | Quien solo quiere la entrada más barata, a su ritmo |
+| [Entrada + Museo Casa Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi) | 28 € | 2-3 h | Visita libre + museo | Quien quiere ver también la casa donde vivió Gaudí |
+
 ## Qué incluye cada entrada
 
 **Entrada básica a la zona monumental.** Acceso en tu franja a la escalinata del dragón, la Sala Hipóstila, la plaza con el banco ondulado y los pórticos y, si hay aforo, a la **Casa del Guarda**, el pabellón de la entrada. Sin guía ni audioguía. Es la más vendida (4,4/5 con más de 81.000 opiniones) y se ve en **1,5-2 horas**.

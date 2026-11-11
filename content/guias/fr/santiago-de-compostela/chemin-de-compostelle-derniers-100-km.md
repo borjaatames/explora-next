@@ -45,6 +45,14 @@ faq:
   respuesta: Au Bureau des pèlerins (Rúa das Carretas, 33), ouvert tous les jours de 10h à 18h sauf le 25 décembre et le 1er janvier, où elle est remise à la cathédrale. On prend un numéro par QR code à l'arrivée et on revient à l'heure indiquée.
 ---
 
+## En arrivant à Saint-Jacques
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite à pied de la vieille ville avec un guide officiel](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
+| [Visite de la cathédrale et du musée sans file d'attente](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2 454) | 25 € |
+| [Finisterre, Muxía et la Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2 372) | 52 € |
+
 ## Où commencer : le Chemin depuis Sarria, Tui ou Ferrol
 
 | Itinéraire | Départ | Distance |
@@ -54,6 +62,10 @@ faq:
 | Chemin anglais | Ferrol | ~118 km |
 
 Pour la Compostela, il faut marcher **au moins 100 km** (ou 200 km à vélo). C'est pourquoi **Sarria** est le départ le plus populaire du Camino Francés : il dépasse tout juste le minimum. Attention au chemin anglais : depuis La Corogne, c'est 75 km et cela ne suffit pas ; il faut partir de Ferrol.
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Les étapes du Camino Francés depuis Sarria
 

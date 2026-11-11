@@ -51,6 +51,16 @@ actividades:
   - tour-a-pie-casco-viejo-bilbao
 ---
 
+## Shore excursions that fit a Bilbao call
+
+| Tour | Duration | From |
+| --- | --- | --- |
+| [Guggenheim private tour with guide and ticket](/en/cities/bilbao/activities/guggenheim-bilbao-private-tour-guide-ticket) | 1.5 hr (or 4 hr with the city) | €320 per group |
+| [Private walking tour of the centre and Old Town](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4.6★ (133) | 2 hr | €36 |
+| [Getxo coastal bike tour with pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4.8★ (46) | 2 hr 30 min | €60 |
+| [Old Town pintxos and drinks tour](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4.7★ (62) | 3 hr 30 min | €89 |
+| [Private Gaztelugatxe, Mundaka and Gernika trip](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 hr | €920 per group (1-2 people) |
+
 ## Getxo cruise terminal: where the ship docks
 
 At the **Getxo cruise terminal**, in the Abra bay, next to the marina and **Ereaga beach**. There are three berths: Getxo 1 and 2 share a building and Getxo 3 has its own. Central Bilbao is **12-15 km** up the estuary.
@@ -86,6 +96,12 @@ At the **Getxo cruise terminal**, in the Abra bay, next to the marina and **Erea
 **The Hanging Bridge, in Getxo.** The **Bizkaia Bridge**, a World Heritage Site, links Getxo and Portugalete and is about **3 km** from the terminal along the estuary, or by metro to **Areeta**. Crossing on the **gondola** costs **€0.60** and runs 24 hours. The **upper walkway** costs **€11** and opens 10:00-14:00 and 16:00-19:00 (may be reduced for technical issues). If you'd rather not go to Bilbao, there's a coastal bike tour of Getxo from Algorta that includes the bridge, the Old Port and a pintxo.
 
 **What about San Sebastián?** It's just over an hour away by road. To spend 3-4 hours there with a margin you need **9-10 hours ashore**, and group trips from Bilbao leave the centre early in the morning, so they don't fit a port call. If your ship is in all day, a car with driver is the option; otherwise, stay in Bilbao. The same goes for the private Gaztelugatxe, Mundaka and Gernika trip (7 hours): it only fits calls of 9 hours or more; ask when booking whether they can pick you up at the Getxo terminal.
+
+[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
+
+[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+
+[actividad: gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao]
 
 ## Cruise excursions or on your own
 

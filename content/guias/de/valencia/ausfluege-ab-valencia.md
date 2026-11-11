@@ -47,6 +47,15 @@ faq:
   respuesta: Die Burg von Sagunto ist kostenlos, ebenso das römische Theater. Die Burg von Xàtiva kostet 6 € (dienstags gratis), die Burg des Papa Luna in Peñíscola 5 €. Sagunto und Xàtiva sind montags geschlossen.
 ---
 
+## Ausflüge mit Transport ab Valencia
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Guadalest, Altea und Fuentes del Algar](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4,7★ (553) | 30 € |
+| [Ausflug zur Cala Granadella in Jávea](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | 85 € |
+| [Ausflug zu den Höhlen von San José ab Valencia](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4,6★ (785) | 55 € |
+| [Ausflug nach Montanejos mit dem Bus](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | 42 € |
+
 ## Die besten Ausflüge ab Valencia
 
 | Ziel | Entfernung | Ideal für |

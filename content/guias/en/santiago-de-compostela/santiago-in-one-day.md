@@ -53,6 +53,18 @@ faq:
   respuesta: 'May, June and September: drier, long days and Camino atmosphere. July and August have good weather but crowds; 24-25 July are the Festas do Apóstolo. It rains about 140 days a year: always carry an umbrella.'
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €24 |
+| [Old town walking tour with an official guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4.8★ (356) | €10 |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Tapas tour with drinks and live music](/en/cities/santiago-de-compostela/activities/santiago-tapas-tour-live-music) | 4.7★ (231) | €45 |
+| [Finisterre, Muxía and Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4.7★ (2,372) | €52 |
+| [Rías Baixas with boat trip and winery](/en/cities/santiago-de-compostela/activities/rias-baixas-boat-winery-day-trip) | 4.7★ (486) | €47 |
+| [Las Catedrales beach, Lugo and Ribadeo](/en/cities/santiago-de-compostela/activities/las-catedrales-beach-lugo-ribadeo-day-trip) | 4.5★ (225) | €65 |
+
 ## The one-day route: what to see in Santiago de Compostela
 
 | Time | What |

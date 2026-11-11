@@ -44,6 +44,12 @@ faq:
   respuesta: 'Nein, vor allem nicht im August: Zwischen Fähre und Wegen bleibt zu wenig Zeit. Planen Sie den ganzen Tag ein, um Ses Illetes zu sehen, in Ruhe zu essen und den Sonnenuntergang am Cap de Barbaria zu erleben.'
 ---
 
+## So kommst du nach Formentera
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Fährticket hin und zurück nach Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |
+
 ## Fähre Ibiza-Formentera: so kommen Sie hin
 
 Die Fähren starten im **Hafen von Eivissa** und kommen in **La Savina** an, dem Hafen von Formentera. In der Saison gibt es auch Abfahrten ab **Playa d'en Bossa**, praktisch, wenn Sie im Süden wohnen.

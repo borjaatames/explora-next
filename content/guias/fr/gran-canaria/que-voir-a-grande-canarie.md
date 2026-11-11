@@ -51,6 +51,17 @@ imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
 imagen_alt: "La place Santa Ana à Vegueta, Las Palmas de Gran Canaria"
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Buggy tout-terrain dans les ravins du sud](/fr/cities/gran-canaria/activities/gran-canaria-excursion-buggy-tout-terrain-ravins) | 4,8★ (3 728) | 65 € |
+| [Catamaran pour voir dauphins et baleines avec snorkeling](/en/cities/gran-canaria/activities/gran-canaria-dolphin-catamaran-snorkeling) | 4,4★ (6 154) | 38 € |
+| [Coucher de soleil dans les sommets et observation des étoiles](/en/cities/gran-canaria/activities/gran-canaria-sunset-stargazing-tour) | 4,8★ (302) | 45 € |
+| [Excursion d'une journée depuis Las Palmas : Guayadeque, Maspalomas et Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4,6★ (716) | 48 € |
+| [Balade à dos de dromadaire dans les dunes de Maspalomas](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4,5★ (5 263) | 18 € |
+| [Jeep safari dans les vallées, barrages et villages du sud](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4,5★ (1 443) | 69 € |
+
 ## Combien de jours : Grande Canarie en 4 jours (ou 5)
 
 Avec **quatre ou cinq jours**, vous voyez ses deux visages :

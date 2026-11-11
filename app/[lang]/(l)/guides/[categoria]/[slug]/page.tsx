@@ -29,6 +29,7 @@ import { obtenerListaCiudades } from "@/lib/ciudades";
 import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
+import ReservasGuia from "@/components/guia/ReservasGuia";
 import PrivadasGuia from "@/components/guia/PrivadasGuia";
 import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
@@ -353,6 +354,12 @@ export default async function GuiaPage({ params }: Props) {
         ]}
       />
 
+      <RespuestaCorta texto={guia.respuestaCorta} idioma={lang} comprobado={guia.datosComprobados} />
+      <EnlaceAtraccion idioma={lang} enlace={atraccionDeGuia(lang, guia.slugs?.es ?? "")} />
+      <OpcionesGuia opciones={opcionesGuia} idioma={lang} />
+      <ReservasGuia actividades={reservasArriba} idioma={lang} />
+      <PrivadasGuia actividades={privadasGuia} idioma={lang} />
+
       <div
         className={
           "max-w-6xl mx-auto px-4 pt-8 pb-12 md:pt-12 md:pb-16 " +
@@ -370,8 +377,6 @@ export default async function GuiaPage({ params }: Props) {
           {/* Presentación y respuesta corta, en la columna de lectura junto al índice. */}
           <div className="space-y-6 mb-10">
             <IntroGuia texto={guia.intro} idioma={lang} enColumna />
-            <RespuestaCorta texto={guia.respuestaCorta} idioma={lang} comprobado={guia.datosComprobados} enColumna />
-            <EnlaceAtraccion idioma={lang} enlace={atraccionDeGuia(lang, guia.slugs?.es ?? "")} enColumna />
           </div>
           {indice.length > 2 && <IndiceGuia titulo={t.indice} entradas={indice} solo="movil" />}
           {trozos.map((trozo, i) =>
@@ -403,10 +408,6 @@ export default async function GuiaPage({ params }: Props) {
           )}
         </article>
       </div>
-
-      {/* Las opciones de reserva van después de la información: la guía se lee primero. */}
-      <OpcionesGuia opciones={opcionesGuia} idioma={lang} />
-      <PrivadasGuia actividades={privadasGuia} idioma={lang} />
 
       <ActividadesRecomendadasGuia
         actividades={actividadesCarrusel}

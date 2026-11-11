@@ -50,6 +50,16 @@ faq:
   respuesta: O acesso é gratuito. Quando o parque de cima enche (a meio da manhã ao fim de semana), fecham a estrada e sobe-se num autocarro shuttle desde o parque de baixo, por 2 € ida e volta.
 ---
 
+## Excursões com transporte a partir de Málaga
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Caminito del Rey guiado](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+| [Ronda e Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4,7★ (8.742) | 34 € |
+| [Grutas de Nerja, Nerja e Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3.192) | 69 € |
+| [Gibraltar](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga) | 4,6★ (5.510) | 35 € |
+| [Córdova com bilhete para a Mesquita](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | 4,5★ (753) | 76 € |
+
 ## As melhores escapadinhas a partir de Málaga
 
 | Destino | De carro | Ideal para |

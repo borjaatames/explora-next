@@ -57,6 +57,17 @@ faq:
 
 Se hai un solo giorno, o arrivi in crociera, la versione condensata è in [cosa vedere a Malaga in un giorno](/it/guides/malaga/cosa-vedere-a-malaga-in-un-giorno).
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Visita guidata all'Alcazaba e al Teatro Romano](/it/cities/malaga/activities/malaga-visita-guidata-alcazaba-teatro-romano) | 4,7★ (7.412) | 13 € |
+| [Biglietto Museo Picasso con audioguida](/it/cities/malaga/activities/biglietto-museo-picasso-malaga) | 4,5★ (14.246) | 13 € |
+| [Cattedrale, Alcazaba e Teatro con biglietti](/en/cities/malaga/activities/malaga-essentials-cathedral-alcazaba-theatre) | 4,6★ (1.134) | 32,76 € |
+| [Catamarano al tramonto nella baia](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4,4★ (10.537) | 13 € |
+| [Bagni arabi Hammam Al Ándalus](/en/cities/malaga/activities/hammam-al-andalus-malaga-ticket) | 4,7★ (2.909) | 60 € |
+| [Tour guidato al Caminito del Rey da Malaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Giorno 1: centro storico e musei
 
 | Ora | Cosa |
@@ -74,6 +85,8 @@ Se hai un solo giorno, o arrivi in crociera, la versione condensata è in [cosa 
 - **Museo Picasso:** oltre 200 opere nel palazzo di Buenavista e, a cinque minuti, la **Casa Natale** in plaza de la Merced. Vuoi altri musei? Pompidou (il Cubo), Carmen Thyssen o la Collezione del Museo Russo.
 - **Muelle Uno e Malagueta:** il porto riqualificato e un **espeto de sardinas** (spiedino di sardine) in un chiosco sulla spiaggia al tramonto, il piano più malagueño che esista.
 
+[actividad: alcazaba-roman-theatre-malaga-guided-tour]
+
 ## Giorno 2: Caminito del Rey o la costa
 
 Il **Caminito del Rey**, a un'ora in treno locale o in auto, è una passerella appesa alle pareti della gola dei Gaitanes: circa **8 km lineari, 3-4 ore con la navetta**, e **si esaurisce con settimane di anticipo**; senza prenotazione non si entra.
@@ -87,6 +100,8 @@ Se non trovi il biglietto singolo, il tour guidato da Malaga include trasporto e
 [actividad: caminito-del-rey-guiado-desde-malaga]
 
 **Preferisci la costa?** Nerja e Frigiliana (il Balcón de Europa e uno dei più bei paesi bianchi), Ronda sulla sua gola, o Antequera con i dolmen e El Torcal.
+
+[actividad: caminito-del-rey-guided-tour-from-malaga]
 
 ## Alcazaba Malaga, Picasso e Caminito del Rey: prezzi e orari
 

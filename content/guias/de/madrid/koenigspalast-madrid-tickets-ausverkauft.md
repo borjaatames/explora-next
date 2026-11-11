@@ -55,6 +55,15 @@ opciones:
     etiqueta: Privat
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Die beliebteste Option | [Führung ohne Anstehen mit Königlicher Waffenkammer](/en/cities/madrid/activities/royal-palace-skip-line-guided-tour-golden), 4,8★ (4.060) | 36 € |
+| Gruppe mit erfahrenem Guide | [Premium-Tour mit Tickets ohne Anstehen](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line), 5★ (59) | 45 € |
+| Palast und Altstadt | [Königspalast und Almudena-Kathedrale](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4,5★ (9) | 54 € |
+| Nur für euch | [Private Führung mit offiziellem Guide](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | 141 € |
+
 ## Königspalast Madrid: Eintritt, Preis und Öffnungszeiten
 
 Die Tickets werden mit Uhrzeit auf der offiziellen Website von Patrimonio Nacional verkauft, **tickets.patrimonionacional.es**:

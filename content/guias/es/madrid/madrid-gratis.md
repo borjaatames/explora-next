@@ -110,6 +110,8 @@ Los museos estatales comparten patrón, sábado tarde y domingo mañana: en un f
 5. **Gratis no es barato:** si acabas en una paella de 30 € en la Plaza Mayor, el plan se ha roto. Menú del día a 10-12 € en Chamberí, bocadillo de calamares en bar de barrio o pícnic en el Retiro.
 6. **Las discotecas «gratis» de Sol y Gran Vía:** 10 € la primera copa. Mejor un bar de barrio con la caña a 2,50 €.
 
+[actividad: reina-sofia-entrada]
+
 ## Lo que sí merece pagar
 
 1. **El Prado a las 10:00 (15 €).** El mejor billete de Madrid: Velázquez sin nadie delante.

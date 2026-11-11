@@ -46,6 +46,12 @@ imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
 imagen_alt: "Passadiço do Caminito del Rey suspenso no desfiladeiro"
 ---
 
+## Caminito com transporte a partir de Málaga
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour guiado com transporte e bilhete](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## O que vais ver
 
 O Caminito é um percurso **linear** de cerca de 7,7 km pelo **desfiladeiro dos Gaitanes**: cerca de **3 km de passadiços** ancorados na rocha, a mais de 100 metros sobre o rio, e o resto trilhos de acesso. Faz-se num só sentido, **de norte (Ardales) para sul (El Chorro)**.

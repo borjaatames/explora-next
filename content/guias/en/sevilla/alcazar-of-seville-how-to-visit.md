@@ -58,6 +58,16 @@ opciones:
     etiqueta: Plus the Cathedral
 ---
 
+## Which ticket should you choose?
+
+| If you want… | We recommend | From |
+| --- | --- | --- |
+| Just a timed ticket, no queue | [Royal Alcázar timed entry](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4.6★ (36,909) | €20 |
+| The Alcázar with a guide, no queues | [Royal Alcázar skip-the-line guided tour](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
+| A guide in a group of 10 or fewer (English only) | [Alcázar premium small-group tour](/en/cities/sevilla/activities/seville-alcazar-small-group-guided-tour-premium), 4.9★ | €49.50 |
+| Seville's essentials in one morning | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
+| With free time in the gardens | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
+
 ## What to see inside the Royal Alcázar of Seville
 
 The Alcázar is a palace in layers: Almohad, Mudéjar, Gothic and Renaissance, one on top of another. These are the parts you shouldn't miss:
@@ -71,6 +81,8 @@ The Alcázar is a palace in layers: Almohad, Mudéjar, Gothic and Renaissance, o
 - **Gardens:** more than half the site, with the Grotesque Gallery and the Mercury Pond. They were the Water Gardens of Dorne in *Game of Thrones*.
 
 The full visit takes **about 2.5-3 hours**. Allow at least 45 minutes for the gardens.
+
+[actividad: real-alcazar-sevilla-entrada]
 
 ## Alcázar Seville tickets price
 

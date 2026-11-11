@@ -52,6 +52,14 @@ opciones:
     etiqueta: Privada
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Ir desde Madrid con todo resuelto | [El Escorial y Valle de Cuelgamuros con guía](/ciudades/madrid/actividades/escorial-valle-cuelgamuros-excursion-grupo), 4,7★ (1.769) | 62 € |
+| Solo la entrada, por tu cuenta | [Entrada al Real Monasterio](/ciudades/madrid/actividades/el-escorial-monasterio-entrada), 4,5★ (312) | 18 € |
+| Solo para vosotros, con recogida | [Tour privado con guía oficial desde Madrid](/ciudades/madrid/actividades/tour-privado-escorial-monasterio-real) | 820 € por grupo |
+
 ## Qué vas a ver
 
 - **La Basílica**, coronada por una gran cúpula, preside el conjunto. Se puede ver sin entrada, salvo durante los cultos.

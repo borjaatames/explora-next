@@ -51,6 +51,17 @@ faq:
 
 La chiave di Cadice non è un monumento, è la **luce** e il **mare su tutti e quattro i lati**. Chi la vede di passaggio da Siviglia si porta a casa mezza città; chi resta al tramonto alla Caleta si porta a casa la metà migliore.
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour guidato a piedi del centro storico](/en/cities/cadiz/activities/cadiz-guided-walking-tour) | 4,7★ (225) | 20 € |
+| [Crociera in catamarano al tramonto con cava](/it/cities/cadiz/activities/cadice-crociera-in-catamarano-al-tramonto) | 4,6★ (856) | 24,50 € |
+| [Giro in catamarano nella baia di Cadice](/it/cities/cadiz/activities/cadice-giro-in-catamarano-baia) | 4,5★ (453) | 19 € |
+| [Jerez: visita alle Bodegas Fundador con degustazione di sherry e brandy](/en/cities/jerez-de-la-frontera/activities/bodegas-fundador-jerez-tasting-tour) | 4,8★ (959) | 18 € |
+| [Jerez: visita all'allevamento Yeguada de la Cartuja e spettacolo](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1.097) | 19,50 € |
+| [Escursione di un giorno ai pueblos blancos della Sierra](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4,6★ (58) | 68 € |
+
 ## L'itinerario del giorno: cosa vedere a Cadice ora per ora
 
 | Ora | Cosa |

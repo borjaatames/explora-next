@@ -49,6 +49,16 @@ actividades:
   - tour-gran-canaria-1-dia-desde-las-palmas
 ---
 
+## Ausflüge, die zu einem Landgang in Las Palmas passen
+
+| Ausflug | Dauer | Ab |
+| --- | --- | --- |
+| [Private Panoramatour mit Taxi und zu Fuß](/en/cities/gran-canaria/activities/las-palmas-private-panoramic-tour-taxi-walking), 4,8★ (37) | 3 Std. 30 Min. | 100 € |
+| [Privater Rundgang durch Triana und Vegueta mit Tapa](/en/cities/gran-canaria/activities/las-palmas-private-old-town-walking-tour-tapas), 4,7★ (219) | 2 Std. 30 Min. | 55 € |
+| [Aquarium Poema del Mar, Ticket ohne Anstehen](/en/cities/gran-canaria/activities/poema-del-mar-aquarium-ticket), 4,8★ (4.610) | Tagesticket | 29 € |
+| [Roque Nublo, Pico de las Nieves und Tejeda ab Las Palmas](/en/cities/gran-canaria/activities/roque-nublo-pico-de-las-nieves-tour-from-las-palmas), 4,7★ (1.283) | 8 Std. | 48 € |
+| [Tagestour über Gran Canaria ab Las Palmas](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas), 4,6★ (716) | 7 Std. 30 Min. | 48 € |
+
 ## Wo legt das Schiff an? Der Kreuzfahrthafen am Muelle Santa Catalina
 
 Am **Muelle de Santa Catalina**, auf der Landenge von Las Palmas, neben dem **Parque de Santa Catalina** und dem Einkaufszentrum El Muelle. Wenn viele Schiffe gleichzeitig da sind, legt manches an einem anderen Kai an: Schau ins Tagesprogramm und ob die Reederei einen Shuttle anbietet.
@@ -99,6 +109,10 @@ Das Aquarium **Poema del Mar** liegt am Muelle Sanapú im selben Hafengebiet: di
 Der Ausflug ab Las Palmas zum Roque Nublo, Pico de las Nieves und Tejeda dauert 8 Stunden und holt früh am Morgen im Zentrum ab: **Er passt nur, wenn du vor der Abholung an Land bist** und das Schiff abends ablegt. Prüfe Treffpunkt und Uhrzeit auf dem Voucher.
 
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
+
+[actividad: las-palmas-tour-privado-casco-antiguo-tapa]
+
+[actividad: las-palmas-tour-privado-panoramico-taxi-pie]
 
 ## Gran Canaria Kreuzfahrt-Ausflüge: Schiffsausflug oder auf eigene Faust?
 

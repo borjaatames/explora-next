@@ -83,12 +83,18 @@ A **Sagrada Família só vende online** e no verão esgota com semanas de antece
 
 Mais ideias em [como visitar a Sagrada Família](/pt/guides/barcelona/sagrada-familia-como-visitar) e [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia).
 
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: sagrada-familia-park-guell-dia-completo-privado]
+
 ## Excursão do navio, privada ou por conta própria
 
 - **Excursão da companhia:** o preço é o que a companhia definir, mas **o navio espera pelas suas próprias excursões**.
 - **Excursão com recolha no porto:** o operador planeia com a sua hora de partida, mas o navio não espera. Diga sempre a hora de all aboard ao reservar.
 - **Privada:** a visita privada à Sagrada Família com guia oficial custa **340 € por grupo** de 1 ou 2 pessoas (480 € para 4), entradas incluídas; com **recolha no porto de cruzeiros** sobe para 390 € (560 € para 4) e **só inclui a ida**. O dia completo privado com Sagrada Família e Park Güell (6 h 30, desde cerca de 196 € por pessoa a dois) começa na Rambla, perto do Cruise Bus, e recomenda aos cruzeiristas a saída mais cedo.
 - **Por conta própria:** Cruise Bus, metro e entradas; todo o risco é seu.
+
+[actividad: barcelona-y-montserrat-grupo-reducido-recogida-hotel]
 
 ## Voltar ao navio a horas
 

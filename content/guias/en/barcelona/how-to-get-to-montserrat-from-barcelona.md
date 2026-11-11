@@ -58,6 +58,16 @@ opciones:
     etiqueta: Hotel pickup
 ---
 
+## Your options at a glance
+
+| Option | Total time | Approx. cost | Frequency | Best for |
+| --- | --- | --- | --- | --- |
+| R5 train + Aeri cable car | 1 h 15 – 1 h 30 | Train + €15 return for the Aeri | Train hourly, Aeri every 15 min | Views and speed |
+| R5 train + rack railway | 1 h 30 | €20.80–32.60 return, combined | Train hourly, railway 2–3 an hour | A calmer ride, kids, strollers |
+| Trans Montserrat ticket | 1 h 30 | €50 | Same as the train | Riding the Sant Joan funicular too |
+| Car + rack railway from Monistrol Vila | 1 h 15 | Fuel, free parking + €15 | Railway 2–3 an hour | Families and groups |
+| [Guided tour](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 6–10 h, all-in | From €47 | Daily | No planning at all |
+
 ## Ways to get to Montserrat
 
 | Option | Total time | Approx. price | Frequency | Best for |
@@ -112,6 +122,8 @@ Is it worth it? The **Sant Joan funicular** up to the trails costs €17.50 retu
 **On an organised tour** you're taken up and back without checking timetables. Options start at €47, such as the [half-day small-group tour](/en/cities/barcelona/activities/montserrat-half-day-small-group) (from €59) or [Barcelona and Montserrat with hotel pickup](/en/cities/barcelona/activities/barcelona-and-montserrat-small-group-hotel-pickup) (from €149). The full comparison is in [which Montserrat excursion to choose](/en/guides/barcelona/montserrat-which-excursion-to-choose).
 
 [actividad: montserrat-rack-railway-winery-castlexperience]
+
+[actividad: montserrat-half-day-small-group]
 
 ## Common mistakes
 

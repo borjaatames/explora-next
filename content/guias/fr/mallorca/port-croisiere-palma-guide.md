@@ -50,6 +50,16 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
+## Excursions adaptées à une escale à Palma
+
+| Excursion | Durée | À partir de |
+| --- | --- | --- |
+| [Visite guidée à pied de la vieille ville](/en/cities/mallorca/activities/palma-old-town-guided-walking-tour), 4,9★ (914) | 1 h 45 | 39 € |
+| [Visite à pied avec entrée à la cathédrale et ensaïmada](/fr/cities/mallorca/activities/palma-visite-guidee-cathedrale-ensaimada), 4,8★ (237) | 2 h 30 | 39 € |
+| [Visite gastronomique de la vieille ville](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4,6★ (663) | 3 h | 65 € |
+| [Grottes du Drach avec concert, depuis Palma](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma), 4,4★ (1 489) | 5 h, départ 9 h 30 | 54 € |
+| [Valldemossa, Sóller et Port de Sóller en bus et tramway](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4,7★ (829) | 6 h | 49 € |
+
 ## Où accostent les navires de croisière à Palma ?
 
 Le port de Palma compte deux zones de croisière, toutes deux à l'ouest de la ville :
@@ -60,6 +70,10 @@ Le port de Palma compte deux zones de croisière, toutes deux à l'ouest de la v
 | **Dique del Oeste** (Dic de l'Oest) | Gares 5 et 6, pour les plus grands navires | Environ 4-5 km | Bus EMT 1, navette de la compagnie ou taxi |
 
 Consultez le programme du jour de votre navire : les grands navires vont généralement au Dique del Oeste, plus éloigné et peu propice à la marche.
+
+[actividad: palma-visita-guiada-casco-antiguo]
+
+[actividad: valldemossa-soller-port-soller-autobus-tranvia]
 
 ## Comment aller du port de croisière à la vieille ville de Palma ?
 

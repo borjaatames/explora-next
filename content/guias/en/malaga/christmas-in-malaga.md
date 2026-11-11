@@ -95,6 +95,8 @@ To avoid choosing bars, the **wine and tapas tour** visits four places with 8 ta
 
 **With kids:** **Alice Christmas**, at La Concepción Historical-Botanical Garden on the outskirts, is an illuminated trail from 18:30 to 22:30 (tickets at lucesdelaconcepcion.es). There's also the **city nativity scene**, a **guide to 73 nativity scenes** around the city at belenes.malaga.eu, **giant Three Kings** placed around the centre (in 2025, Melchior on Calle Alcazabilla, Caspar in Plaza Félix Sáenz and Balthazar on Calle Compañía) and a children's party with puppets and storytelling in December.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
 ## New Year's Eve, Three Kings Parade and public holidays
 
 - **Chimes in Plaza de la Constitución:** in 2025 bags of grapes and party favours were handed out from 21:30 to 23:45, while stocks lasted.
@@ -106,11 +108,17 @@ To avoid choosing bars, the **wine and tapas tour** visits four places with 8 ta
 - **Alcazaba and Gibralfaro Castle:** closed on 24, 25 and 31 December and 1 January. The rest of the winter they open 9:00 to 18:00 (checked on the official website on 10 November 2026).
 - **Alcazaba:** November to March, 9:00 to 18:00 (last entry 17:00); €7, or €10 with Gibralfaro castle, and **free on Sundays from 14:00**.
 
+[actividad: malaga-esencial-tour-privado]
+
 ## The beach in winter and a day trip
 
 According to AEMET, December in Málaga has an **average high of 17.5 °C** and about 160 hours of sunshine, and January 16.8 °C. It's not swimming weather for most people, but it is for strolling along **La Malagueta and Pedregalejo**, grilled sardines at lunchtime and, on a clear day, a **catamaran trip around the bay** at sunset. For a chilly evening, the **Hammam Al Ándalus Arab baths** in the centre.
 
 With a spare day, the **Alhambra** is heat-free in winter (there's a private trip from Málaga that includes the Albaicín). Closer, **Nerja and Frigiliana** make an easy group day trip.
+
+[actividad: hammam-al-andalus-malaga]
+
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
 
 ## Common mistakes
 

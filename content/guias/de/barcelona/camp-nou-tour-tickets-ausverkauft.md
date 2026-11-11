@@ -51,6 +51,15 @@ opciones:
     etiqueta: 'Mit Virtual Reality'
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Museum und Aussichtspunkt, sonst nichts | [Barça Immersive Tour (offizielles Ticket)](/de/cities/barcelona/activities/barcelona-camp-nou-museum-barca-immersive-tour), 4,3★ (12.092) | 30 € |
+| Museum mit Virtual Reality und Robokeeper | [Total Experience](/de/cities/barcelona/activities/barcelona-camp-nou-museum-total-experience), 4,2★ (979) | 54 € |
+| Mit Guide auf die Tribüne | Spotify Camp Nou Experience, auf der Website des Vereins | 69 € |
+| Den Rasen betreten | Match Day Tour, nur an Spieltagen, auf der Website des Vereins | 149 € |
+
 ## Was die einzelnen Camp Nou Tour Tickets beinhalten
 
 Das Stadion ist noch eine Baustelle, und das verändert, was du siehst. Das ist der Stand im November 2026:

@@ -53,6 +53,15 @@ opciones:
     etiqueta: Avec guide
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Un billet avec horaire, sans guide | [Casa Batlló : billet avec audioguide (billet officiel)](/en/cities/barcelona/activities/casa-batllo-entry-with-audioguide), 4,7★ (27 982) | 29 € |
+| Y aller de nuit, avec un verre | [Casa Batlló : visite nocturne avec une coupe de cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4,4★ (1 930) | 29 € |
+| Visite et concert sur le toit-terrasse | [Casa Batlló : visite nocturne avec musique live](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4,5★ (377) | 59 € |
+| Trois maisons de Gaudí avec guide | [Casa Vicens, Casa Milà et Casa Batlló : visite guidée](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
+
 ## Billets Casa Batlló épuisés : autres horaires et formules sur le site officiel
 
 La vente officielle se fait sur casabatllo.es. La visite générale démarre à **29 €**, inclut un audioguide en 15 langues et dure environ **1 h 15**. Avec le **prix dynamique**, plus vous achetez tôt, moins vous payez (le site officiel parle d'une économie allant jusqu'à 15 € par personne). Pendant les ponts, à Pâques et en été, les créneaux du matin partent vite. Si le vôtre est complet :
@@ -70,6 +79,8 @@ Si la journée est pleine, la nuit est la voie la plus simple. La **visite noctu
 
 Entre mars et novembre, il y a aussi les **Nuits magiques** : visite à 20 h et concert sur le toit-terrasse à 21 h, avec boisson et table, **à partir de 59 €**. Le programme de chaque mois est publié deux ou trois semaines avant et les réductions de la visite générale ne s'appliquent pas.
 
+[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+
 ## Le guichet : la Casa Batlló le jour même
 
 La Casa Batlló a un guichet dans le bâtiment même, mais il **ne vend que la visite générale** et, selon le site officiel, elle y coûte **entre 4 et 15 € de plus** qu'en ligne. C'est utile s'il reste de la place sur un créneau du jour, pas comme plan pour un jour complet.
@@ -86,11 +97,15 @@ Vérifiez que la fiche indique **« entrée à la Casa Batlló incluse »** et l
 
 [actividad: casa-batllo-entrada-con-audioguia]
 
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
 ## Ce que l'on voit sans billet
 
 - La **façade de la Casa Batlló**, au numéro 43, avec ses balcons en forme d'os et son toit d'écailles. On la voit mieux depuis le trottoir d'en face.
 - Le **pâté de la Discorde** : collée à la Batlló, la **Casa Amatller** (numéro 41, de Puig i Cadafalch), qui propose ses propres visites guidées, et dans le même pâté la **Casa Lleó Morera**, de Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, en remontant le même boulevard, à environ 10 minutes à pied.
+
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Conseils
 

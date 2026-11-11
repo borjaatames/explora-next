@@ -60,6 +60,19 @@ opciones:
     etiqueta: Private Tour
 ---
 
+## Welche Möglichkeiten bleiben?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ein Datum in der Nähe | Offizielle Website, Preiskalender | 35,90 € |
+| Direkt vor Ort kaufen | Kasse, bis eine Stunde vor Schließung | Tagespreis |
+| Kostenlosen Eintritt | Keine freien Stunden; nur Kinder unter 4 | 0 € |
+| Das Einzelticket | [Ticket für das Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket), 4,7★ (11.540) | 37 € |
+| Oceanogràfic und Wissenschaftsmuseum | [Kombiticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket), 4,7★ (2.797) | 39 € |
+| Alle drei Attraktionen | [3-in-1-Ticket mit Hemisfèric und Museum](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket), 4,5★ (3.518) | 46 € |
+| Private Tour mit Eintritt | [Jugendstil-Valencia mit Oceanogràfic-Option](/en/cities/valencia/activities/valencia-art-nouveau-private-tour-oceanografic) | 137 € mit Eintritt |
+| Alternative mit Tieren | [Bioparc Valencia](/en/cities/valencia/activities/bioparc-valencia-ticket), 4,8★ (2.988) | 29,50 € |
+
 ## Oceanogràfic Valencia: Preise je nach Datum
 
 Der offizielle Verkauf läuft über entradas.oceanografic.org, verlinkt auf oceanografic.org. Das Oceanogràfic hat **keinen Einheitspreis**: Die Website zeigt einen Kalender mit mehreren Tarifen je nach Datum.
@@ -76,6 +89,10 @@ Der offizielle Verkauf läuft über entradas.oceanografic.org, verlinkt auf ocea
 **Es gibt keine Gratistage oder -stunden** für die Allgemeinheit: Gratis sind nur Kinder unter 4 und einige Berufsgruppen wie akkreditierte offizielle Guides.
 
 **Rabatte:** kinderreiche Familien und Alleinerziehende 15 % online und an der Kasse. Studierende, Carnet Jove und Arbeitslose 15 %, aber **nur an der Kasse** und mit Ausweis. Mit der **Valencia Tourist Card** gibt der Shop von Visit València 10 %.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+
+[actividad: valencia-modernista-tour-privado-oceanografic]
 
 ## Öffnungszeiten des Oceanogràfic und wann es ausverkauft ist
 
@@ -95,6 +112,8 @@ Außerhalb der Saison bekommt man fast immer Tickets. Die offizielle Website nen
 4. **Kauf bei einem autorisierten Wiederverkäufer.** Die kaufen vorab ein und haben oft noch Tickets, wenn die offizielle Website knapp ist. Du zahlst ähnlich viel oder etwas mehr und sparst dir die Schlange: Einzelticket **ab 37 €**, Kombi mit dem Wissenschaftsmuseum **ab 39 €**, 3-in-1 mit dem Hemisfèric **ab 46 €**.
 
 [actividad: oceanografic-valencia-entrada]
+
+[actividad: bioparc-valencia-entrada]
 
 ## Kombiticket Oceanogràfic und andere Alternativen
 

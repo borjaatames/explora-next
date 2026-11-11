@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Privado con recogida: mayores o movilidad reducida"
 ---
 
+## Tabla de precios por persona
+
+| Excursión desde Madrid | En grupo (por persona) | Privado, 2 personas | Privado, 4 personas | Privado, 6 personas |
+| --- | --- | --- | --- | --- |
+| El Escorial y Valle de Cuelgamuros | [62 €](/ciudades/madrid/actividades/escorial-valle-cuelgamuros-excursion-grupo) | [410 €](/ciudades/madrid/actividades/tour-privado-escorial-monasterio-real) (820 € total) | 370 € (1.480 €) | 320 € (1.920 €) |
+| Toledo, día completo con entradas | [79 €](/ciudades/madrid/actividades/excursion-toledo-dia-completo) | — | — | — |
+| Toledo y molinos de Consuegra | [125 €](/ciudades/madrid/actividades/excursion-toledo-molinos-quijote) (grupo reducido en minivan) | — | — | — |
+| Segovia y Toledo | [41 €](/ciudades/madrid/actividades/excursion-toledo-segovia-alcazar) | — | — | — |
+| Ávila y Segovia con entradas | [79 €](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas) | — | — | — |
+| Alcalá de Henares y bodega | — | [desde 188 €](/ciudades/madrid/actividades/excursion-alcala-henares-bodega-privada) (375 € el grupo de hasta 2) | — | — |
+| Bodega y comida en Chinchón | — | [200 €](/ciudades/madrid/actividades/bodega-y-comida-en-chinchon-desde-madrid) por persona, transporte privado | 200 € | 200 € |
+
 ## Respuesta rápida según quién viaja
 
 - **Pareja:** grupo. Toledo y Segovia en un día por 41 € cada uno, o Toledo con entradas por 79 €.

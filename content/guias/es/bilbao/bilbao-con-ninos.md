@@ -44,6 +44,14 @@ faq:
   respuesta: 'Bastante: el Casco Viejo es peatonal y llano y el metro tiene ascensor en todas las estaciones. Las aceras del Ensanche son estrechas y hay cuestas en el Casco Viejo y Artxanda, donde el funicular ayuda.'
 ---
 
+## Planes con niños que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Barco por la ría (1 h o 2 h)](/ciudades/bilbao/actividades/barco-ria-bilbao-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo y estadio de San Mamés](/ciudades/bilbao/actividades/san-mames-museo-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka y Guernica con txakoli](/ciudades/bilbao/actividades/gaztelugatxe-bermeo-mundaka-guernica-desde-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## Qué hacer en Bilbao con niños
 
 **Funicular de Artxanda.** Sube en menos de tres minutos al mirador con las mejores vistas de Bilbao entre montañas. Arriba hay parque y zona de juegos. Barato y divertido.

@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
 imagen_alt: "La Vila Vella de Tossa de Mar au-dessus de la plage"
 ---
 
+## Excursions tout organisées
+
+| Formule | Activité | À partir de |
+| --- | --- | --- |
+| Criques et grottes en kayak | [Kayak et snorkeling à S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4,7★ (1 393) | 34 € |
+| Cadaqués par la mer | [Bateau de Roses à Cadaqués le long du cap de Creus](/fr/cities/girona/activities/roses-cadaques-en-bateau-cap-de-creus), 4,5★ (414) | 27 € |
+| Îles Medes | [Bateau vers les îles Medes depuis L'Estartit](/fr/cities/girona/activities/iles-medes-sortie-en-bateau-grottes-estartit), 4,6★ (634) | 24 € |
+| Musée Dalí avec guide | [Visite guidée du Théâtre-Musée Dalí](/fr/cities/girona/activities/figueres-visite-guidee-theatre-musee-dali-billets), 4,7★ (105) | 31 € |
+| Si vous logez à Barcelone | [Gérone, Figueres, Dalí et Cadaqués en une journée](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2 352) | 40 € |
+| Barcelone, petit groupe | [Gérone, Pals et Calella de Palafrugell en minibus](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2 096) | 98,50 € |
+| Tossa de Mar depuis Barcelone | [Excursion à Tossa de Mar et sur la Costa Brava](/en/cities/girona/activities/tossa-de-mar-costa-brava-day-trip-from-barcelona), 4,9★ (596) | 39 € |
+
 ## Les excursions depuis Gérone en un coup d'œil
 
 | Destination | Depuis Gérone | Idéal pour |
@@ -61,6 +73,10 @@ imagen_alt: "La Vila Vella de Tossa de Mar au-dessus de la plage"
 | Cadaqués et cap de Creus | 1 h 15 (voiture) | Village blanc et maison de Dalí |
 
 Figueres se fait en train. Pour Cadaqués, les villages et les criques, il faut **une voiture ou une excursion organisée** : les transports en commun desservent mal.
+
+[actividad: roses-cadaques-boat-trip-cap-de-creus]
+
+[actividad: costa-brava-kayak-snorkel-sea-caves-sagaro]
 
 ## Figueres et le Théâtre-Musée Dalí
 

@@ -68,6 +68,10 @@ actividades:
 
 Apart from Expojove, which has already published its 2026 dates, these are the 2025-26 dates. The city presents its programme in November and we'll update this guide when it does.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Valencia Christmas lights and fireworks on Plaza del Ayuntamiento
 
 In 2025 Valencia switched on Christmas with a piromusical, live music and a **25-metre tree** on Plaza del Ayuntamiento, next to the city nativity scene. Around the city:
@@ -77,6 +81,8 @@ In 2025 Valencia switched on Christmas with a piromusical, live music and a **25
 - A walk-through sphere and bell on Plaza de Segrelles and Plaza del Patriarca.
 
 The most Valencian touch is the **Saturday piromusicales at 18:30**: three minutes of fireworks set to a song, free. Get there ten minutes early. In 2025 city-centre shopkeepers also set up an ice rink, carousel, train and Ferris wheel between Plaza del Ayuntamiento and Plaza de San Agustín.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Valencia Christmas markets and nativity scenes
 
@@ -91,6 +97,8 @@ The most Valencian touch is the **Saturday piromusicales at 18:30**: three minut
 - **Expojove** is the big plan: ten days of games, workshops and play areas at Feria València, from **26 December 2026 to 4 January 2027**, 11:00–20:00, **from €3**. On the 31st it opens only 10:00–14:00, and on 1 January 16:00–21:00. Get there by metro or bus 62.
 - **Saturday piromusical:** three minutes, not too crowded if you arrive a little early.
 - **Ciutat de les Arts i les Ciències:** extends hours and activities over Christmas and publishes its calendar on cac.es. The Science Museum and Hemisfèric closed on 25 December in 2025.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## New Year's Eve and the Three Kings Parade in Valencia
 

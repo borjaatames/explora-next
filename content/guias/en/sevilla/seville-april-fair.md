@@ -99,3 +99,5 @@ If you can only go one day, choose a **Tuesday or Wednesday afternoon**: there's
 - **Expecting to find a hotel in March:** the Fair is booked months ahead.
 - **Wearing heels or new shoes:** the albero ruins them in an afternoon.
 - **Taking photos inside a private caseta without asking:** it's a family party, not a stage set.
+
+[actividad: seville-bullring-maestranza-guided-tour-skip-line]

@@ -50,6 +50,19 @@ actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price | Best for |
+| --- | --- | --- | --- |
+| [Rooftop beer tasting for private groups](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | €55 per person | Just your group; hens, stags, birthdays, teams |
+| [Sip and paint with sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2 h 30 min | €19 per person | A laugh without a late night |
+| [Catamaran boat party with DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | €53.10 per person | Party groups; no winter sailings |
+| [Rooftop salsa class with sangria](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | €48.60 per person | Groups who want to dance; no experience needed |
+| [Craft beer tasting with live music and karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2 h 30 min | €17 per person | Cheap night out with optional karaoke |
+| [Quick photo shoot](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | €35 per session | A group keepsake by the Sagrada Familia |
+| [Private tapas and wine tour](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | €298 for 2, €594 for 6 | A guided dinner just for you |
+| [Flamenco at City Hall theatre](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | From €25 per person | A show before or after dinner |
+
 ## Barcelona stag and hen party rules: what has changed
 
 - **Pub crawls banned.** Since **29 October 2025**, organising, selling or taking part in tours of several bars whose main purpose is drinking is banned across the city, at any time. That's why we don't recommend any pub crawl here.
@@ -57,6 +70,8 @@ actividades:
 - **Drinking in the street:** fines range from **€100 to €600** for minor offences.
 
 None of this affects a tasting, a boat or a class in a single venue.
+
+[actividad: sesion-fotos-rapida-barcelona]
 
 ## Hen do activities in Barcelona: a rooftop beer tasting
 
@@ -74,6 +89,8 @@ The most complete plan is a tasting of **six craft beers** with a beer guide on 
 - **Sip & paint (€19 per person, 2 h 30 min):** paint step by step with free-flowing sangria, music and dancing at the end, from 5:30 PM on Carrer de la Mercè, in Ciutat Vella. It's not an art class, it's a social plan, and food isn't included. Free cancellation up to 24 hours before.
 - **Rooftop salsa class (€48.60 per person, 2 h):** for beginners, with unlimited homemade sangria and views, on Passeig de Gràcia. In November it starts at 5 PM and in December at 4 PM. Non-refundable.
 
+[actividad: barcelona-sip-and-paint-sangria]
+
 ## Barcelona boat party for hens and stags (from March)
 
 Two hours on a **two-deck catamaran with a DJ and dance floor** off the coast, for **€53.10 per person**, with vouchers for four drinks and guest-list entry to a club the same night (you must get in before 1 AM). Check-in is at the Ice Bar on the Barceloneta seafront.
@@ -84,6 +101,8 @@ Three things to know:
 2. It's **non-refundable**.
 3. Anyone who turns up drunk won't be allowed on board.
 
+[actividad: fiesta-en-barco-barcelona-catamaran-dj]
+
 ## A night with karaoke, dinner, flamenco or photos
 
 - **Craft beer tasting at Craft Barcelona** (€17 per person, 2 h 30 min), in the Gothic Quarter: brewery visit, guided tasting and drinks afterwards, then live music and **optional karaoke**. Sessions at 8:30 PM and 10:30 PM. Non-beer drinkers can choose sangria or vermouth.
@@ -92,6 +111,8 @@ Three things to know:
 - **Photo shoot:** priced per session, not per person. **20 minutes with 10 edited photos for €35** by the Sagrada Família (delivered in 24-48 hours), or 30 minutes with 20-25 photos for €68 at the Sagrada Família, the Gothic Quarter or Park Güell.
 
 "From" prices as of 1 November 2026; they may vary by date and option.
+
+[actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
 
 ## Tips and common mistakes
 

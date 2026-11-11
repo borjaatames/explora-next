@@ -60,6 +60,16 @@ imagen_alt: "Córdoba's Mosque-Cathedral and Roman Bridge over the Guadalquivir"
 
 The key is simple: **get into the Mosque first thing**, before the heat and the groups. And if you stay the night, you get what day-trippers miss: the old town lit up and empty.
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line guided tour of the Mosque-Cathedral](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4.6★ (10,966) | €32 |
+| [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
+| [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
+| [Equestrian show at the Royal Stables](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4.5★ (2,910) | €18.5 |
+| [Flamenco show at Tablao Cardenal with a drink](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4.8★ (1,167) | €25 |
+
 ## The one-day route: what to see in Córdoba hour by hour
 
 | Time | What |

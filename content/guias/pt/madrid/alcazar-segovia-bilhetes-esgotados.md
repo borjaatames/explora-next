@@ -52,6 +52,14 @@ opciones:
     etiqueta: Com mais bilhetes
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Ir desde Madrid com o bilhete tratado | [Segóvia e Toledo num dia, com o Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10.421) | 41 € |
+| Mais monumentos incluídos | [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), 4,6★ (4.805) | 79 € |
+| Só para vocês | [Tour privado de carro com guia oficial](/en/cities/madrid/activities/segovia-private-tour-by-car-from-madrid) | 1.649 € por grupo |
+
 ## O que vai ver
 
 - **O Palácio e o Museu de Artilharia:** o essencial da visita, cerca de **40-45 minutos**.

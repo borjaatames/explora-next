@@ -69,6 +69,10 @@ actividades:
 
 São as datas da edição 2025-26. A Câmara apresenta o programa no fim de novembro; atualizaremos o guia quando sair.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Luzes de Natal em Granada e mercados
 
 Em 2025, as luzes acenderam-se no **sábado, 29 de novembro**, com dança e cânticos granadinos às 20:00, acendimento às 20:30 e coros espalhados por Bib-Rambla, Puerta Real, Zacatín e a Fuente de las Batallas.
@@ -98,6 +102,8 @@ Os bilhetes oficiais das pontes e do Natal esgotam com semanas de antecedência.
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## Serra Nevada no Natal e planos com crianças
 
 A estância fica a cerca de **30 km de Granada**. Em 2025-26 abriu a **29 de novembro**, com pistas em Borreguiles e canhões de neve, e renovou a iluminação das pistas de El Río para o **esqui noturno aos sábados**. Para 2026-27 anunciou novas máquinas de neve para abrir mais cedo a zona de iniciação, mas não a data. As pontes de dezembro e a semana entre o Natal e os Reis são os dias com mais gente. Se não esquiarem, a **Alpujarra** no inverno, com lareiras acesas e neve nos cumes, é uma excursão de um dia mais tranquila.
@@ -108,6 +114,8 @@ A estância fica a cerca de **30 km de Granada**. Em 2025-26 abriu a **29 de nov
 - O **espetáculo de luzes** da Plaza del Carmen, curto e gratuito.
 - O **Carteiro Real**, que recolhe cartas no pátio da Câmara Municipal.
 - Na Serra Nevada, trenós na zona de **Mirlo Blanco** e pistas para principiantes em Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## Passagem de ano, Toma de Granada (2 de janeiro) e Cavalgada de Reis
 
@@ -124,3 +132,5 @@ As grutas do **Sacromonte** são o plano noturno por excelência: a Cueva La Roc
 - **Subir ao Albaicín às 18:30:** em dezembro já é de noite; para a luz do entardecer, suba por volta das 17:00.
 - **Subir à Serra Nevada sem correntes ou sem consultar a DGT:** com neve, a estrada pode exigi-las.
 - **Assumir que o 2 de janeiro é dia útil:** em Granada é feriado e muitas lojas fecham.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

@@ -84,6 +84,10 @@ The highlight is the **projection onto the Plateresque façade of City Hall**, o
 5. **20:00, Las Setas or La Magdalena**, for the Christmas market.
 6. **21:00, flamenco or tapas in Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Seville Christmas market, nativity scenes and convent sweets
 
 - **Feria del Belén:** over three decades of figurines, moss and cork between the Cathedral and the Archivo de Indias. In 2025 it opened 10:30-14:00 and 17:00-21:00 on weekdays, and 11:00-15:00 and 16:30-21:30 at weekends and on holidays.
@@ -99,6 +103,8 @@ A **zambomba** is a party of flamenco carols with tambourines, anís bottles and
 - **Setalandia**, under Las Setas de la Encarnación, and the **ice rink at Prado de San Sebastián** (29 November to 6 January in 2025).
 - **Navigalia** tells a Christmas story projected onto the Guadalquivir, at the Muelle de la Sal, for €2.
 - **Naturaleza Encendida**, the light show in the Alcázar gardens, runs until March.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## What's open and closed in Seville on 24, 25 and 31 December and 1 January
 
@@ -119,6 +125,8 @@ A **zambomba** is a party of flamenco carols with tambourines, anís bottles and
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
 
 *Monument and museum hours checked on their official websites on 10 November 2026. Metro and market times are last Christmas's until the 2026 ones are published.*
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## New Year's Eve and the Three Kings parade in Seville
 

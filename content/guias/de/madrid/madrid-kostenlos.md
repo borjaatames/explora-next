@@ -110,6 +110,8 @@ Die staatlichen Museen folgen demselben Muster, Samstagnachmittag und Sonntagvor
 5. **Gratis ist nicht billig:** Wer bei einer Paella für 30 € an der Plaza Mayor landet, hat den Plan verfehlt. Mittagsmenü für 10-12 € in Chamberí, Bocadillo de Calamares in einer Viertelbar oder Picknick im Retiro.
 6. **Die „kostenlosen“ Clubs an Sol und Gran Vía:** 10 € für den ersten Drink. Lieber eine Viertelbar mit dem Bier für 2,50 €.
 
+[actividad: reina-sofia-entrada]
+
 ## Wofür es sich wirklich zu zahlen lohnt
 
 1. **Der Prado um 10:00 (15 €).** Das beste Ticket Madrids: Velázquez ohne jemanden davor.

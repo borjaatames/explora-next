@@ -52,6 +52,14 @@ opciones:
     etiqueta: 'Privat'
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ab Madrid, alles organisiert | [El Escorial und Valle de Cuelgamuros mit Guide](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4,7★ (1.769) | 62 € |
+| Nur das Ticket, auf eigene Faust | [Ticket für das Königliche Kloster](/de/cities/madrid/activities/el-escorial-kloster-ticket), 4,5★ (312) | 18 € |
+| Nur für euch, mit Abholung | [Private Tour mit offiziellem Guide ab Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 820 € pro Gruppe |
+
 ## Was du siehst
 
 - **Die Basilika** mit ihrer großen Kuppel überragt die Anlage. Sie ist ohne Ticket zugänglich, außer während der Gottesdienste.

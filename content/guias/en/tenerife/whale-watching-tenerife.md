@@ -48,6 +48,16 @@ imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
 imagen_alt: "Pilot whale surfacing off Tenerife"
 ---
 
+## Compare the boat trips
+
+| Trip | Port | Duration | Rating | From |
+| --- | --- | --- | --- | --- |
+| [Eco-yacht whale and dolphin watching](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | Los Cristianos | 1.5 h | 4.7★ (19,490) | €30 |
+| [Whale watching at the Los Gigantes cliffs](/en/cities/tenerife/activities/whale-watching-los-gigantes-tenerife) | Los Gigantes | 2-3 h | 4.7★ (5,888) | €28 |
+| [Catamaran whale watching, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón or Los Cristianos | 3 h | 4.7★ (4,314) | €35 |
+| [Catamaran whale watching with buffet lunch](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | South coast (Costa Adeje area) | 5-6 h | 4.8★ (2,242) | €63 |
+| [Private boat from Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 or 3 h | — | €450 per boat |
+
 ## Pilot whales and dolphins in Tenerife: which species you'll see
 
 - **Short-finned pilot whale:** the star. It lives in family groups and is seen on almost every trip.
@@ -55,6 +65,8 @@ imagen_alt: "Pilot whale surfacing off Tenerife"
 - **With luck:** Atlantic spotted dolphin, common dolphin, Bryde's whale and, more rarely, sperm whale.
 
 Because pilot whales live here all year, sightings are very frequent, though nobody can guarantee them. Ask when booking whether you get a **free repeat trip** if you see nothing; many serious operators offer one.
+
+[actividad: eco-yacht-whale-dolphin-watching-tenerife]
 
 ## Whale watching boats: Los Cristianos, Puerto Colón and Los Gigantes
 
@@ -96,6 +108,8 @@ Against **seasickness**: choose a wide-hulled boat or a catamaran and the first 
 **What to bring:** sunscreen, a cap, swimwear and a towel (many trips include a swim stop), a light jacket and a seasickness tablet if you need one.
 
 **Getting there:** Los Cristianos and Puerto Colón have pay car parks next to the port. Without a car, walk to Puerto Colón from Las Américas and Costa Adeje, or take the bus to Los Cristianos.
+
+[actividad: catamaran-whale-watching-buffet-tenerife]
 
 ## Other ways to see the sea
 

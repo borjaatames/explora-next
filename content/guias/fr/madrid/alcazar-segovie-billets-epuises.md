@@ -52,6 +52,14 @@ opciones:
     etiqueta: 'Avec plus d''entrées'
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Partir de Madrid avec le billet réglé | [Ségovie et Tolède en une journée, avec l'Alcázar](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid), 4,7★ (10 421) | 41 € |
+| Plus de monuments inclus | [Ávila et Ségovie avec entrées incluses](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets), 4,6★ (4 805) | 79 € |
+| Rien que pour vous | [Visite privée en voiture avec guide officiel](/en/cities/madrid/activities/segovia-private-tour-by-car-from-madrid) | 1 649 € par groupe |
+
 ## Ce que vous verrez
 
 - **Le Palais et le Musée de l'Artillerie :** le cœur de la visite, environ **40-45 minutes**.

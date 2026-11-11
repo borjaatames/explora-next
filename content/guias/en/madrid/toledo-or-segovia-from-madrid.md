@@ -47,6 +47,19 @@ faq:
   respuesta: 'Segovia. It sits at about 1,000 metres and in July and August is usually several degrees cooler than Toledo, which reaches 35-40 °C on shadeless slopes. In winter it''s the other way round: Segovia is cold and it can snow.'
 ---
 
+## At a glance
+
+| | Toledo | Segovia |
+| --- | --- | --- |
+| Train from Madrid | Avant from Atocha, 33 min; €22–26 return | Avant from Chamartín, about 30 min, plus a 15-min city bus (€2) |
+| Bus | Alsa from Plaza Elíptica, 1 h; about €11 return | Avanza from Moncloa, 1 h 15–1 h 20; about €5 each way |
+| Time needed | A full day | A long half day, with lunch |
+| Must-sees | Cathedral, Santo Tomé, synagogues, Jewish Quarter | Aqueduct, cathedral, Alcázar |
+| Key tickets | Cathedral €12; 7-monument bracelet €14 | Alcázar €7 (€10 with the tower); cathedral €4 |
+| Terrain | Hilly throughout | One gentle climb, then mostly flat |
+| Best season | Spring and autumn | Summer and autumn |
+| Organised tour | [Toledo with guide and cathedral entry](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila and Segovia with tickets included](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+
 ## Toledo vs Segovia at a glance
 
 | | Toledo | Segovia |
@@ -84,6 +97,8 @@ Segovia runs in a straight line, and that's part of its charm: you arrive at the
 - **The weather:** at about 1,000 metres, summer evenings cool down; in winter it's properly cold.
 
 Five or six hours are enough to see the essentials without rushing and enjoy lunch; the step-by-step route is in our [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid). That's why Segovia is so often paired with [Ávila](/en/guides/madrid/avila-day-trip-from-madrid), as on the [Ávila and Segovia day trip with tickets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). And to see the aqueduct, Cathedral and Alcázar all at once, the hot air balloon over Segovia is the most memorable way.
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Getting there without losing the morning
 

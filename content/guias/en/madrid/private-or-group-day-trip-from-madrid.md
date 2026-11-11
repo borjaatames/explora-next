@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Private with pickup: older travellers or limited mobility"
 ---
 
+## Price table per person
+
+| Day trip from Madrid | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
+| --- | --- | --- | --- | --- |
+| El Escorial and Valley of Cuelgamuros | [€62](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour) | [€410](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) (€820 total) | €370 (€1,480) | €320 (€1,920) |
+| Toledo, full day with tickets | [€79](/en/cities/madrid/activities/toledo-full-day-from-madrid) | — | — | — |
+| Toledo and the Consuegra windmills | [€125](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid) (small group by minivan) | — | — | — |
+| Segovia and Toledo | [€41](/en/cities/madrid/activities/toledo-and-segovia-with-alcazar-from-madrid) | — | — | — |
+| Ávila and Segovia with tickets | [€79](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) | — | — | — |
+| Alcalá de Henares and winery | — | [from €188](/en/cities/madrid/activities/alcala-henares-winery-private-tour) (€375 for up to 2) | — | — |
+| Winery and lunch in Chinchón | — | [€200](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) per person, private transport | €200 | €200 |
+
 ## Quick answer by who's travelling
 
 - **Couple:** group. Toledo and Segovia in a day for €41 each, or Toledo with tickets for €79.

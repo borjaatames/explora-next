@@ -53,6 +53,15 @@ opciones:
     etiqueta: Zu Fuß zum Gipfel
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Seilbahn schon inbegriffen | [Teide-Ausflug mit Seilbahn und Transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer), 4,3★ (6.121) | 92 € |
+| Zu Fuß zum Gipfel mit Guide | [Geführter Aufstieg zum Teide-Gipfel](/en/cities/tenerife/activities/mount-teide-summit-guided-hike), 4,9★ (94) | 189 € |
+| Den Teide bei Nacht | [Sonnenuntergang und Sterne im Nationalpark](/en/cities/tenerife/activities/teide-sunset-stargazing-tour), 4,7★ (3.691) | 35 € |
+| Teide und der Norden der Insel | [Tour zum Teide, nach Icod, Garachico und Masca](/en/cities/tenerife/activities/tenerife-teide-masca-icod-garachico-tour), 4,6★ (3.066) | 58 € |
+
 ## Teide-Seilbahn ausverkauft: andere Uhrzeit oder anderer Tag
 
 Tickets gibt es auf volcanoteide.com für **etwa 42 €** hin und zurück pro Erwachsenem. Die Seilbahn fährt in unter 8 Minuten von der Talstation (2.356 m) nach **La Rambleta (3.555 m)**.
@@ -95,6 +104,8 @@ Wenn es gar nicht klappt, lohnt sich der Park trotzdem:
 - Der **Rundweg um die Roques de García** (3,6 km, etwa 2 Stunden) mit dem Teide im Hintergrund.
 - Die Aussichtspunkte an der Straße TF-21, etwa **Minas de San José**.
 - Die **Sterne**: Sonnenuntergangstouren mit Teleskop finden an Aussichtspunkten im Park statt und brauchen weder Seilbahn noch Genehmigung.
+
+[actividad: atardecer-estrellas-teide-telescopio]
 
 ## Tipps
 

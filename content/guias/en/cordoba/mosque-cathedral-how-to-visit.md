@@ -53,6 +53,14 @@ opciones:
     etiqueta: Plus Jewish Quarter
 ---
 
+## Which ticket should you choose?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line guided tour of the Mosque-Cathedral](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4.6★ (10,966) | €32 |
+| [Mosque-Cathedral ticket with audio guide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 4.2★ (3,788) | €22 |
+| [Mosque and Jewish Quarter tour with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4.5★ (2,200) | €34 |
+
 ## What to see inside the Mezquita of Córdoba
 
 - **The forest of columns.** 856 remain of the nearly 1,300 originals, with double red-and-white horseshoe arches and reused Roman and Visigothic marble and granite. It is the image that defines the monument.

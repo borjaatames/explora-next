@@ -54,6 +54,15 @@ opciones:
     etiqueta: Con guía
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Solo la entrada | [Entrada sin colas a la zona monumental](/ciudades/barcelona/actividades/park-guell-entrada-zona-monumental), 4,4★ (81.572) | 21,5 € |
+| Entrada y casa de Gaudí | [Park Güell + Casa Museo Gaudí](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi), 4,5★ (7.565) | 28 € |
+| Con guía dentro | [Tour de la Sagrada Familia y el Park Güell](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado), 4,8★ (6.776) | 104 € |
+| Barcelona en un día | [Sagrada Familia, Park Güell y centro](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell), 4,9★ (15.762) | 129 € |
+
 ## Qué vas a ver en la zona monumental
 
 La entrada solo es necesaria para la **zona monumental**, la parte que Gaudí sí llegó a terminar:
@@ -89,6 +98,8 @@ Los **revendedores autorizados** compran cupos con antelación, así que pueden 
 Si además quieres que alguien te explique el parque, un **tour con la entrada incluida** lleva la hora ya reservada. El de la **Sagrada Familia y el Park Güell** (desde 104 €, 4 horas) incluye las dos entradas, el guía y el traslado entre ambos, con **cancelación gratuita hasta 24 horas antes**. Antes de pagar, comprueba que diga **«entrada al Park Güell incluida»** y que la visita sea a la zona monumental: hay paseos que solo recorren la parte gratuita.
 
 Las visitas guiadas oficiales del parque (desde 17 €) no te sirven en este caso: se pagan aparte y también exigen tener la entrada.
+
+[actividad: sagrada-familia-park-guell-tour-guiado]
 
 ## Park Güell gratis: la zona sin entrada
 

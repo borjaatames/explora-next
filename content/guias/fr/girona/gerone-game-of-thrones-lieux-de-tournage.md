@@ -47,6 +47,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "L'escalier de la cathédrale de Gérone"
 ---
 
+## Visites Game of Thrones
+
+| Formule | Activité | À partir de |
+| --- | --- | --- |
+| La mieux notée | [Visite Game of Thrones en petit groupe](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Rien que pour votre groupe | [Visite privée Game of Thrones](/en/cities/girona/activities/girona-game-of-thrones-private-tour), prix par groupe | 260 € |
+| Histoire de Gérone et lieux de tournage | [Visite à pied du Barri Vell](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| La cathédrale de l'intérieur | [Cathédrale, Museu d'Art et Sant Feliu](/fr/cities/girona/activities/gerone-billet-cathedrale-musee-art-sant-feliu), 4,5★ (195) | 12 € |
+
 ## Les lieux de tournage de Game of Thrones à Gérone : de la cathédrale à Braavos
 
 - **Escalier de la cathédrale :** l'extérieur du Grand Septuaire de Baelor à Port-Réal. Jaime Lannister le monte à cheval avec l'armée Tyrell.
@@ -57,6 +66,8 @@ imagen_alt: "L'escalier de la cathédrale de Gérone"
 - **Passeig Arqueològic :** les remparts, décor de plusieurs séquences.
 
 Attention : **tout n'a pas été tourné à Gérone**. Les scènes de Braavos mêlent Gérone et Šibenik (Croatie) : si vous ne trouvez pas un lieu, il n'est probablement pas ici.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## L'itinéraire à pied entre les lieux de tournage
 

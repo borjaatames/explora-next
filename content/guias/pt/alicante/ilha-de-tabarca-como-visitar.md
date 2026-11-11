@@ -51,12 +51,22 @@ opciones:
     etiqueta: Com snorkel
 ---
 
+## Que barco escolher?
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Barco de ida e volta à ilha de Tabarca](/pt/cities/alicante/activities/alicante-barco-ilha-tabarca-ida-volta) | 4,3★ (5.628) | 25 € |
+| [Ferry de ida e volta a partir de Santa Pola](/pt/cities/alicante/activities/santa-pola-ferry-ilha-tabarca-ida-volta) | 4,6★ (1.822) | 9 € |
+| [Veleiro a Tabarca com snorkel e pôr do sol](/pt/cities/alicante/activities/santa-pola-veleiro-tabarca-snorkel-por-do-sol) | 4,8★ (27) | 85 € |
+
 ## O que ver e fazer na ilha de Tabarca
 
 - **A aldeia amuralhada.** As muralhas do século XVIII (Carlos III repovoou a ilha com famílias genovesas), a igreja de San Pedro y San Pablo, a Torre de San José e o farol.
 - **A praia.** O areal entre a aldeia e o resto da ilha, de águas calmas. Tem nadador-salvador e duches no verão.
 - **Snorkel na reserva marinha.** A grande atração: pradarias de posidónia e peixes em águas transparentes. Leva máscara e tubo.
 - **Volta a pé.** A ilha é minúscula (**1,8 km**) e percorre-se toda a pé, com enseadas rochosas na parte selvagem. Não há carros.
+
+[actividad: snorkel-tabarca-reserva-marina]
 
 ## Como ir a Tabarca a partir de Alicante ou Santa Pola
 

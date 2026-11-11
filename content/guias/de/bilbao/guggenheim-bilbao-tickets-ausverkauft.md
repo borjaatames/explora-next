@@ -49,6 +49,12 @@ opciones:
     etiqueta: Kleine Gruppe
 ---
 
+## Welche Option wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Kleine Gruppe und mehr Zeit mit dem Guide | [VIP-Führung in kleiner Gruppe mit Ticket](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour), 4,5★ (763) | 95 € |
+
 ## Tickets ausverkauft: andere Uhrzeit auf der offiziellen Website
 
 Der offizielle Verkauf läuft über **guggenheim-bilbao.eus**, und das Museum empfiehlt, nur dort zu kaufen, um Betrug zu vermeiden. Das Guggenheim ist fast nie für den ganzen Tag ausgebucht: Voll wird, vor allem an Wochenenden, zu Ostern, im Sommer und an Regentagen, **die Uhrzeit, die du wolltest**.
@@ -83,6 +89,8 @@ Wenn die offizielle Website deine Uhrzeit nicht mehr hat, haben Anbieter oft noc
 Prüfe vor dem Bezahlen, ob im Angebot **„Museumseintritt inklusive“** steht, und schau dir die Stornobedingungen an: Manche Touren zeigen nur das Äußere.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
+
+[actividad: guggenheim-bilbao-vip-grupo-reducido]
 
 ## Ohne Ticket: die kostenlosen Werke draußen
 

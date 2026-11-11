@@ -45,6 +45,15 @@ faq:
   respuesta: O castelo de Sagunto é gratuito, tal como o teatro romano. O de Xàtiva custa 6 € (grátis às terças) e o do Papa Luna em Peñíscola, 5 €. Sagunto e Xàtiva fecham às segundas.
 ---
 
+## Excursões com transporte a partir de Valência
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Guadalest, Altea e Fuentes del Algar](/en/cities/valencia/activities/guadalest-altea-algar-falls-day-trip) | 4,7★ (553) | 30 € |
+| [Excursão à Cala Granadella em Jávea](/en/cities/valencia/activities/cala-granadella-javea-day-trip) | — | 85 € |
+| [Excursão às Grutas de San José a partir de Valência](/en/cities/valencia/activities/san-jose-caves-day-trip) | 4,6★ (785) | 55 € |
+| [Excursão a Montanejos de autocarro](/en/cities/valencia/activities/montanejos-by-bus-day-trip) | — | 42 € |
+
 ## As melhores escapadinhas a partir de Valência
 
 | Destino | Distância | Ideal para |

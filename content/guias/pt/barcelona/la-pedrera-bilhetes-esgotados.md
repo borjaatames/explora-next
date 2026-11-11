@@ -54,6 +54,16 @@ opciones:
     etiqueta: Com guia
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Bilhete com hora, sem guia | [Casa Milà (La Pedrera): bilhete com audioguia sem filas](/en/cities/barcelona/activities/casa-mila-la-pedrera-audio-ticket), 4,7★ (18.195) | 29 € |
+| Ir à noite, com espetáculo e cava | [Casa Milà: experiência noturna com espetáculo e cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4,4★ (4.913) | 39,50 € |
+| Entrar antes de todos, com guia | [Casa Milà: tour guiado com acesso antecipado](/en/cities/barcelona/activities/casa-mila-early-morning-access-guided-tour), 4,8★ (220) | 39,50 € |
+| Três casas de Gaudí com guia | [Casa Vicens, Casa Milà e Casa Batlló: tour guiado](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
+| Um guia só para vocês | [La Pedrera e Casa Vicens: tour privado](/en/cities/barcelona/activities/gaudi-houses-pedrera-casa-vicens-private-tour) | 156 € |
+
 ## O que vai ver em La Pedrera
 
 A visita geral percorre:
@@ -97,6 +107,8 @@ Se o dia estiver cheio, tente os extremos:
 - **La Pedrera Sunrise:** visita guiada em grupo das **8h00 às 9h00**, antes da entrada do público geral, com pátios, andar, sótão e terraço. **39,50 €**; o guia fala inglês ou chinês.
 - **La Pedrera Night Experience:** visita guiada noturna de **1 hora e 20 minutos** com videomapping no terraço e uma taça de cava, por **39,50 €**. No inverno as sessões vão das **19h00 às 23h00**, e de 26 de dezembro a 3 de janeiro das **21h00 às 23h00**. Guia em catalão, espanhol, inglês e chinês.
 
+[actividad: casa-mila-experiencia-nocturna-con-cava]
+
 ## La Pedrera na bilheteira no próprio dia
 
 La Pedrera tem bilheteira no edifício, mas o site oficial avisa que **algumas tarifas custam mais lá** do que online e que comprar no site evita a fila. Serve se ainda houver lugar nalgum horário do dia, não como plano para um dia esgotado. A única vantagem: os **cupões e cartões de desconto** só se aplicam na bilheteira.
@@ -110,3 +122,9 @@ La Pedrera tem bilheteira no edifício, mas o site oficial avisa que **algumas t
 - **Casa Milà sem bilhetes:** a fachada de pedra ondulada e as varandas de ferro forjado veem-se bem do passeio em frente, na esquina com a rua Provença. Descendo o Passeig de Gràcia, a cerca de 10 minutos a pé, ficam a **Casa Batlló** e o resto da **Manzana de la Discordia** (Casa Amatller e Casa Lleó Morera).
 
 Se está a montar a rota de Gaudí, veja também [o que fazer se os bilhetes da Casa Batlló esgotarem](/pt/guides/barcelona/casa-batllo-bilhetes-esgotados), [e os da Sagrada Família](/pt/guides/barcelona/sagrada-familia-bilhetes-esgotados), e [Barcelona num dia](/pt/guides/barcelona/barcelona-num-dia).
+
+[actividad: casa-mila-tour-guiado-acceso-temprano]
+
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
+[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]

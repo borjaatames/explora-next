@@ -51,6 +51,16 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
+## Shore excursions that fit a Palma call
+
+| Tour | Duration | From |
+| --- | --- | --- |
+| [Guided old town walking tour](/en/cities/mallorca/activities/palma-old-town-guided-walking-tour), 4.9★ (914) | 1 hr 45 min | €39 |
+| [Walking tour with cathedral entry and ensaïmada](/en/cities/mallorca/activities/palma-walking-tour-cathedral-ensaimada), 4.8★ (237) | 2 hr 30 min | €39 |
+| [Old town food tour](/en/cities/mallorca/activities/palma-old-town-food-walking-tour), 4.6★ (663) | 3 hr | €65 |
+| [Drach Caves with concert, from Palma](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | 5 hr, leaves 9:30 | €54 |
+| [Valldemossa, Sóller and Port de Sóller by bus and tram](/en/cities/mallorca/activities/valldemossa-soller-port-soller-bus-tram-tour), 4.7★ (829) | 6 hr | €49 |
+
 ## Where do cruise ships dock in Palma? Poniente quay and Dique del Oeste
 
 Palma has two cruise areas, both west of the city:
@@ -89,6 +99,10 @@ Always count your real time ashore: from stepping off the ship until an hour bef
 **Bellver Castle.** The round castle with views over the bay costs **€4** and **closes on Mondays**. Tuesday to Saturday it opens 10:00-18:00 and on Sundays 10:00-15:00 with free entry. No city bus goes up to the gate: from the port, a taxi is the practical option.
 
 **Valldemossa on your own.** **TIB bus 203** leaves the Estació Intermodal (Plaça d'Espanya) for Valldemossa, Deià and Sóller. The Royal Charterhouse takes about an hour.
+
+[actividad: palma-visita-guiada-casco-antiguo]
+
+[actividad: valldemossa-soller-port-soller-autobus-tranvia]
 
 ## The Sóller train from the port
 

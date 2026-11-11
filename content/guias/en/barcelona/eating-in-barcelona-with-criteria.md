@@ -66,6 +66,8 @@ Four dishes not to miss:
 - **Botifarra amb mongetes:** grilled Catalan sausage with white beans.
 - **Crema catalana**, the essential dessert.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas and vermouth in Barcelona: bars worth the trip
 
 - **Bar Cañete** (Carrer Unió 17, Raval): marble bar and top-quality seafood from the fish market. Pricey, closed on Sundays, **booking essential**.

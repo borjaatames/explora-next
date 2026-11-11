@@ -53,6 +53,13 @@ actividades:
   - calo-des-moro-barco-esnorquel
 ---
 
+## The coves from the sea
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Sóller to Sa Calobra boat trip](/en/cities/mallorca/activities/boat-soller-sa-calobra) | 4.4★ (1,230) | €35 |
+| [Island tour by Sóller train, tram and boat](/en/cities/mallorca/activities/mallorca-island-tour-soller-train-tram-boat) | 4.4★ (4,540) | €103 |
+
 ## The best coves in Mallorca by area
 
 They are not all good for the same thing: choose by the day and by the wind, which leaves some sheltered and others choppy.
@@ -101,6 +108,8 @@ The golden rule in July and August: arrive **before 9:00** or **after 18:00**, o
 - **Sea temperature:** 24-27 °C from July to September and below 20 °C before June.
 - **Jellyfish:** they arrive with the easterly wind (levante); check the lifeguard flags and warning apps before you set off.
 - **Nudism:** accepted on the more secluded stretches of Es Trenc, Cala Varques and part of Cala Mesquida.
+
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
 
 ## Tips and mistakes to avoid
 

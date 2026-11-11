@@ -67,6 +67,8 @@ Quatre plats à ne pas manquer :
 - **Botifarra amb mongetes :** saucisse catalane grillée aux haricots blancs.
 - **Crème catalane**, le dessert incontournable.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas et vermouth à Barcelone : les comptoirs qui valent le détour
 
 - **Bar Cañete** (Unió, 17, Raval) : comptoir en marbre et produits de la criée au plus haut niveau. Cher, fermé le dimanche, **réservation indispensable**.

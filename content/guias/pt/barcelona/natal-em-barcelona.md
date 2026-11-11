@@ -71,6 +71,10 @@ actividades:
 
 São as datas da edição 2025: o programa de 2026 é publicado em novembro em barcelona.cat/nadal e atualizaremos o guia nessa altura.
 
+[actividad: sagrada-familia-visita-guiada-guia-oficial]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
+
 ## As luzes e o mercado de Natal de Barcelona
 
 - **As luzes de 2026** cobrem **130 km de ruas**, com 255 arcos e 272 figuras de luz, e estreiam desenhos de autor no passeig de Maragall (um poema escrito com luzes) e na rambla de Prim. O eixo clássico continua a ser **Passeig de Gràcia, Rambla de Catalunya e Portal de l'Àngel**.
@@ -96,6 +100,8 @@ Uma tarde de dezembro bem aproveitada:
 - **Nadal al Port**, no Moll de la Fusta, com diversões e luzes junto ao mar.
 - **Chegada dos Reis Magos:** a 5 de janeiro desembarcam no porto e o presidente da Câmara recebe-os por volta das 16h30 na Plaça del Portal de la Pau. Menos concorrido do que a cavalgada.
 - Se preferirem um plano guiado, há um tour privado para famílias com caça ao tesouro e churros com chocolate.
+
+[actividad: barcelona-tour-privado-familias-churros-juegos]
 
 ## O que abre e fecha em Barcelona a 24, 25 e 31 de dezembro e a 1 de janeiro
 

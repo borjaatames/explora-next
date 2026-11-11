@@ -46,6 +46,14 @@ faq:
   respuesta: About 2 hours in total. From the Eneperi car park to the hermitage it's 2.5 km and 40 minutes on foot; the 241 steps are only the final stretch. Access closes in strong wind or storms.
 ---
 
+## Day trips with transport from Bilbao
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+| [San Sebastián, Hondarribia and Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4.6★ (1,022) | €35 |
+| [Biarritz, Saint-Jean-de-Luz and San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4.7★ (898) | €70 |
+
 ## San Juan de Gaztelugatxe
 
 45 minutes away, a **hermitage on an islet** joined to the mainland by a bridge and a staircase of **241 steps**, world-famous as Dragonstone in *Game of Thrones*, with spectacular views of the coast.
@@ -65,6 +73,8 @@ An hour away, **Donostia** means elegance and food: **La Concha** bay, one of Eu
 - **Without a car:** Bizkaibus/PESA coach from Termibus every 30 minutes; 1 h 15 and €7-12 depending on the time.
 - **In town:** everything is walkable; the Igueldo funicular costs €4.50 and the Peine del Viento is free.
 - **On a tour:** some excursions add Hondarribia and Getaria, or Biarritz and Saint-Jean-de-Luz across the border.
+
+[actividad: gaztelugatxe-bermeo-mundaka-guernica-from-bilbao]
 
 ## Mundaka, Urdaibai and Gernika
 

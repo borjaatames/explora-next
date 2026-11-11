@@ -43,6 +43,12 @@ faq:
   respuesta: First thing (they open at 11:00) or in the early evening. At midday there are queues and heat, and everything is closed between 14:00 and 18:00.
 ---
 
+## Patios tour with tickets
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Authentic patios tour with tickets, 2 hours](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4.3★ (1,106) | €19 |
+
 ## The Córdoba Patio Festival in May
 
 For about **two weeks in May**, dozens of houses in the historic quarters open their whitewashed patios and compete in a contest. In 2026 it ran from **4 to 17 May**, with **53 competing patios** grouped into five routes. Entry is **free**: you walk from patio to patio.

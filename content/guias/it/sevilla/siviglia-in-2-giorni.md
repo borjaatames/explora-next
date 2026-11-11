@@ -66,6 +66,10 @@ actividades:
 
 **21:00 — Flamenco.** Per un primo spettacolo, la **Casa de la Memoria**: un'ora, sala piccola e artisti di prim'ordine, da 24 €. Se sei indeciso tra i tablao, guarda [quale tablao scegliere a Siviglia](/it/guides/sevilla/flamenco-siviglia-quale-tablao-scegliere). Dopo, tapas nella zona dell'Alfalfa.
 
+[actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Giorno 2: Triana e la Siviglia senza code
 
 **10:00 — Triana.** Dalla Torre del Oro, 10 minuti lungo il fiume fino al **ponte di Isabel II**. Dall'altra parte:
@@ -81,6 +85,10 @@ actividades:
 **19:00 — Tramonto.** Due opzioni a seconda dei gusti: il belvedere delle **Setas** (da 16 €), con vista a 360° e la Giralda sullo sfondo, a 10 minuti dalla Casa de Pilatos; oppure una **crociera di un'ora** sul Guadalquivir dalla Torre del Oro (da 16,50 €).
 
 **21:30 — Cena all'Alameda de Hércules**, a 10 minuti dalle Setas: il quartiere con più atmosfera locale la sera.
+
+[actividad: tapas-triana-tour-privado-tabernas-tradicionales]
+
+[actividad: setas-sevilla-metropol-parasol-entrada-mirador]
 
 ## Itinerario di Siviglia nel weekend: cosa prenotare e quanto costa
 

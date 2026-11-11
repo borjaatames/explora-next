@@ -50,6 +50,19 @@ actividades:
   - tablao-de-carmen-flamenco-cena-poble-espanyol
 ---
 
+## Le esperienze in sintesi
+
+| Attività | Durata | Prezzo per due | Per quale coppia |
+| --- | --- | --- | --- |
+| [Barca a vela al tramonto](/en/cities/barcelona/activities/barcelona-sunset-sailing-experience) | 2 h | 110 € | L'esperienza di punta; open bar a bordo |
+| [Tapas, vino e flamenco, tour privato](/it/cities/barcelona/activities/barcellona-tour-privato-tapas-vino-flamenco) | 3 h | 228 € (114 € a persona) | Una serata completa senza organizzare nulla |
+| [Flamenco al Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 50-55 min | Da 60 € | Flamenco in un palazzo barocco |
+| [Casa Batlló di sera con concerto](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) | 2 h | 118 € | Gaudí, musica dal vivo e cava |
+| [La Pedrera di sera con cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava) | 1 h 30 min | 79 € | Spettacolo di luci in terrazza |
+| [Degustazione di vini in terrazza](/it/cities/barcelona/activities/barcellona-degustazione-vini-in-terrazza) | 2 h | 96 € | Sei vini con vista, di giorno |
+| [Servizio fotografico privato VIP](/en/cities/barcelona/activities/vip-private-photoshoot-barcelona) | 1 h | 125 € a sessione | Anniversari, lune di miele, proposte di matrimonio |
+| [Tablao de Carmen con cena](/en/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-poble-espanyol) | Circa 3 h con cena | Da 176 € | Cena durante lo spettacolo |
+
 ## Barca a vela al tramonto a Barcellona
 
 È l'esperienza di punta in due. Sono **due ore su uno yacht Beneteau Oceanis 41** da Marina Vela, nel Port Vell: si esce a motore tra navi da crociera e superyacht, lo skipper issa le vele e navigate lungo la costa mentre la città si illumina. A bordo c'è un **open bar di cava, vino e birra** e stuzzichini; potete aiutare a navigare o non fare nulla.
@@ -70,6 +83,10 @@ actividades:
 
 Li confrontiamo tutti in [flamenco a Barcellona: quale tablao scegliere](/it/guides/barcelona/flamenco-barcellona-quale-tablao-scegliere).
 
+[actividad: tapas-vino-y-flamenco-tour-privado-barcelona]
+
+[actividad: palau-dalmases-flamenco-show-palacio-siglo-xvii]
+
 ## Barcellona romantica di sera: Gaudí e cava
 
 - **Casa Batlló di sera (59 €, 2 ore):** visita con audioguida e **concerto dal vivo di un'ora in terrazza**, con tavolo riservato e un calice di cava. Lo stile cambia a seconda della data (jazz, soul o flamenco). È **non rimborsabile** e d'estate si esaurisce con una o due settimane di anticipo.
@@ -77,10 +94,14 @@ Li confrontiamo tutti in [flamenco a Barcellona: quale tablao scegliere](/it/gui
 
 Sono la scelta migliore per una sera d'inverno, quando la barca a vela attira meno.
 
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
+
 ## Di giorno: vino con vista e foto
 
 - **Degustazione di vini in terrazza (48 € a persona, 2 ore):** sei vini spagnoli (spumante, bianchi, rosato e rossi) con stuzzichini, con vista su plaça de Catalunya e sul Passeig de Gràcia. Turni tra le 12:00 e le 18:00.
 - **Servizio fotografico privato VIP (125 € a sessione, non a persona):** un'ora con un fotografo professionista negli angoli più famosi della città, compreso l'esterno della Sagrada Família, e 45-50 foto ritoccate. Pensato per anniversari, lune di miele e proposte di matrimonio; ci sono versioni più brevi da 35 €.
+
+[actividad: barcelona-cata-de-vinos-azotea]
 
 ## Fuga romantica a Barcellona: la giornata perfetta
 

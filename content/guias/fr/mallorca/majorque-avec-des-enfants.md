@@ -59,6 +59,20 @@ faq:
   respuesta: 'Pas s''ils ont le mal des transports : la route a des virages en épingle très serrés. Elle est expressément déconseillée avec de jeunes enfants ; le bateau depuis Port de Sóller est l''alternative.'
 ---
 
+## Les meilleures idées avec des enfants
+
+| Idée | Activité | À partir de |
+| --- | --- | --- |
+| Jour nuageux | [Palma Aquarium](/en/cities/mallorca/activities/palma-aquarium-entry-ticket), 4,5★ (3 744) | 30,50 € |
+| Train de Sóller depuis le nord | [Train et tramway de Sóller, demi-journée](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4,4★ (381) | 56 € |
+| Train, tramway et bateau | [Tour de l'île avec le train de Sóller](/fr/cities/mallorca/activities/majorque-tour-ile-train-soller-tramway-bateau), 4,4★ (4 540) | 103 € |
+| Grottes avec concert en barque | [Grottes du Drach depuis Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4,3★ (641) | 54 € |
+| Grottes depuis Palma | [Grottes du Drach avec concert et traversée en barque](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma), 4,4★ (1 489) | 54 € |
+| Dauphins sauvages | [Observation des dauphins depuis Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4,8★ (3 435) | 90 € |
+| Aventure dans les arbres | [Forestal Park](/fr/cities/mallorca/activities/forestal-park-majorque-parcours-accrobranche), 4,8★ (277) | 26 € |
+| Parc aquatique | [Western Water Park](/en/cities/mallorca/activities/western-water-park-magaluf-ticket), 4,3★ (582) | 38 € |
+| Spectacles d'animaux | [Marineland](/en/cities/mallorca/activities/marineland-mallorca-entry-ticket), 4,5★ (786) | 32 € |
+
 ## Majorque en famille : où loger
 
 - **Nord (Alcúdia, Playa de Muro, Port de Pollença) :** la meilleure base familiale, avec de longues plages peu profondes. Les excursions au train de Sóller et aux grottes du Drach y prennent les passagers.
@@ -66,6 +80,8 @@ faq:
 - **Évitez Magaluf et s'Arenal :** zones de fête.
 
 Limitez les sorties à **45 minutes de route maximum**. Marineland et le Western Water Park sont au sud-ouest, à plus de 45 minutes du nord.
+
+[actividad: tren-soller-tranvia-medio-dia-desde-el-norte]
 
 ## Train de Soller avec des enfants
 

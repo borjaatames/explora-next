@@ -48,6 +48,14 @@ faq:
 
 Se [Salamanca num dia](/pt/guides/salamanca/salamanca-num-dia) é a lista, o fim de semana é para a viver. Este é o plano.
 
+## Experiências que pode reservar
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Passeio de bicicleta guiado](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4,6★ (52) | 25 € |
+| [Masterclass e prova de presunto ibérico](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4,9★ (16) | 29 € |
+| [Bilhete para as catedrais com audioguia](/pt/cities/salamanca/activities/salamanca-bilhete-catedrais-audioguia) | 4,6★ (202) | 10 € |
+
 ## Dia 1 (sábado): os grandes monumentos e a noite
 
 **Manhã (10h00-14h00).** Pequeno-almoço numa esplanada da Plaza Mayor e o percurso clássico: **Casa de las Conchas** (grátis), **torres da Clerecía** (3,75 €, a melhor vista da cidade), **Universidade** (10 €; procure a rã; detalhes em [como visitá-la](/pt/guides/salamanca/universidade-de-salamanca-como-visitar)) e as **duas catedrais** (10 €). Três ou quatro horas com calma; não salte a Catedral Velha, mais interessante do que a Nova.
@@ -63,6 +71,8 @@ Se [Salamanca num dia](/pt/guides/salamanca/salamanca-num-dia) é a lista, o fim
 - **Vintage** (Prior, 19): intimista, até às 4h00.
 
 As discotecas de Bordadores, Van Dyck e Pío XII são para os estudantes.
+
+[actividad: salamanca-walking-tour-local-guide]
 
 ## Dia 2 (domingo): o que escapa a quem vem só um dia
 

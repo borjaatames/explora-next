@@ -55,11 +55,22 @@ opciones:
     etiqueta: Con Reina Sofía y Thyssen
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con hora, sin guía | [Entrada al Museo del Prado](/ciudades/madrid/actividades/museo-prado-entrada), 4,7★ (23.644) | 18 € |
+| La mejor valorada | [Visita guiada al Prado con entrada](/ciudades/madrid/actividades/museo-prado-visita-guiada), 4,9★ (885) | 49 € |
+| Los tres grandes museos | [Abono Paseo del Arte: Prado, Reina Sofía y Thyssen](/ciudades/madrid/actividades/art-walk-pass-prado-reina-sofia-thyssen), 4,4★ (489) | 38 € |
+| Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/museo-prado-visita-privada-guia-oficial) | 146 € |
+
 ## Qué vas a ver
 
 El Prado nació de las colecciones reales de los Austrias y los Borbones, y eso explica su carácter: es el mejor conjunto del mundo de **Velázquez, Goya y El Greco**, con fondos excepcionales de El Bosco, Tiziano y Rubens. Abarca pintura europea del siglo XII al XIX.
 
 Imprescindibles: *Las Meninas* y la sala de Velázquez, las *Pinturas negras* de Goya y *El jardín de las delicias* de El Bosco. Calcula **2-3 horas**; una vez dentro no hay límite de tiempo.
+
+[actividad: art-walk-pass-prado-reina-sofia-thyssen]
 
 ## Precio y horario del Museo del Prado
 
@@ -90,6 +101,8 @@ La colección permanente es **gratis las dos últimas horas de cada día**: de l
 Las entradas gratuitas no se reservan: se recogen **en taquilla hasta completar aforo**. La cola empieza mucho antes y en domingos y festivos puede superar la hora. Lleva una lista corta: Velázquez, Goya y El Bosco, poco más. También es gratis todo el día el **18 de mayo** (Día de los Museos) y el **19 de noviembre** (aniversario del museo). Todos los detalles, en [Museo del Prado gratis](/guias/madrid/museo-del-prado-gratis).
 
 **El Prado de noche:** el **primer sábado de cada mes**, de **20:30 a 23:30**, abre gratis parte de sus salas, con entrada por la puerta de los Jerónimos y hasta completar aforo.
+
+[actividad: museo-prado-visita-guiada]
 
 ## Cómo llegar, taquilla y colas
 

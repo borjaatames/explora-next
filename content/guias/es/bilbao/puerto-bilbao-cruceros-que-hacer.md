@@ -51,6 +51,16 @@ actividades:
   - tour-a-pie-casco-viejo-bilbao
 ---
 
+## Excursiones que encajan con una escala en Bilbao
+
+| Excursión | Duración | Precio desde |
+| --- | --- | --- |
+| [Guggenheim: visita privada con guía y entrada](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-privada-guia-entrada) | 1,5 h (o 4 h con la ciudad) | 320 € por grupo |
+| [Tour privado a pie por el centro y el Casco Viejo](/ciudades/bilbao/actividades/bilbao-tour-privado-a-pie-casco-viejo-ribera), 4,6★ (133) | 2 h | 36 € |
+| [Guggenheim: visita guiada en español con entrada](/ciudades/bilbao/actividades/guggenheim-bilbao-visita-guiada-entrada), 4,9★ (182) | 2 h | 49 € |
+| [Tour de pintxos y bebidas por el Casco Viejo](/ciudades/bilbao/actividades/tour-gastronomico-pintxos-bebidas-casco-viejo-bilbao), 4,7★ (62) | 3 h 30 min | 89 € |
+| [Gaztelugatxe, Mundaka y Gernika en privado](/ciudades/bilbao/actividades/gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao) | 7 h | 920 € por grupo (1-2 personas) |
+
 ## Terminal de cruceros de Getxo: dónde atraca el barco
 
 En la **terminal de cruceros de Getxo**, en el Abra, junto al puerto deportivo y la **playa de Ereaga**. Hay tres atraques: Getxo 1 y 2 comparten edificio y Getxo 3 tiene el suyo. El centro de Bilbao queda a **12-15 km**, ría arriba.
@@ -86,6 +96,12 @@ En la **terminal de cruceros de Getxo**, en el Abra, junto al puerto deportivo y
 **El Puente Colgante, en Getxo.** El **Puente Bizkaia**, Patrimonio de la Humanidad, une Getxo y Portugalete y está a unos **3 km** de la terminal por el paseo de la ría, o en metro hasta **Areeta**. Cruzar en la **barquilla** cuesta **0,60 €** y funciona las 24 horas. La **pasarela superior** cuesta **11 €** y abre de 10:00 a 14:00 y de 16:00 a 19:00 (puede reducirse por incidencias técnicas). Si prefieres no ir a Bilbao, hay una ruta en bici por la costa de Getxo que sale de Algorta e incluye el puente, el Puerto Viejo y un pintxo.
 
 **¿Y San Sebastián?** Está a algo más de una hora por carretera. Para estar allí 3-4 horas con margen necesitas **9-10 horas en tierra**, y las excursiones en grupo desde Bilbao salen del centro a primera hora, así que no encajan con una escala. Si tu barco está todo el día, la opción es un coche con conductor; si no, quédate en Bilbao. Lo mismo vale para Gaztelugatxe, Mundaka y Gernika en privado (7 horas): solo encaja en escalas de 9 horas o más; pregunta al reservar si recogen en la terminal de Getxo.
+
+[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
+
+[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+
+[actividad: gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao]
 
 ## Excursiones del crucero o por libre
 

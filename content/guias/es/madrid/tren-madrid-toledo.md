@@ -65,6 +65,15 @@ opciones:
 | Tren Avant desde Atocha | 33 min | 22-26 € ida y vuelta | Aprox. cada hora | Quien quiere rapidez y reserva con antelación |
 | Autobús Alsa desde Plaza Elíptica | 50 min (directo) - 1 h 30 | Desde 6,55 € por trayecto | 83 servicios al día | Presupuesto ajustado o vuelta tardía |
 | Coche por la A-42 | 1 h | Gasolina y aparcamiento | Cuando quieras | Grupos y quien quiere ver el Mirador del Valle |
+| [Excursión organizada](/ciudades/madrid/actividades/excursion-toledo-dia-completo) | 8 h, todo incluido | Desde 79 € | Diaria | Quien no quiere organizar nada |
+
+## Tren, autobús o coche: comparativa
+
+| Opción | Tiempo | Precio aprox. | Frecuencia | Para quién |
+| --- | --- | --- | --- | --- |
+| Tren Avant desde Atocha | 33 min | 22-26 € ida y vuelta | Aprox. cada hora | Quien quiere rapidez y reserva con antelación |
+| Autobús Alsa desde Plaza Elíptica | 50 min (directo) - 1 h 30 | Desde 6,55 € por trayecto | 83 servicios al día | Presupuesto ajustado o vuelta tardía |
+| Coche por la A-42 | 1 h | Gasolina y aparcamiento | Cuando quieras | Grupos y quien quiere ver el Mirador del Valle |
 | Excursión organizada | 8 h, todo incluido | Desde 79 € | Diaria | Quien no quiere organizar nada |
 
 El tren es el más rápido, pero la estación de Toledo queda abajo, junto al río, y el casco está arriba. Si no quieres mirar horarios, una excursión resuelve transporte, guía y entradas; la más directa es la de día completo con entrada a la Catedral (8 horas). Sin coche y con poco tiempo compensa; en pareja y con coche, no.
@@ -72,6 +81,8 @@ El tren es el más rápido, pero la estación de Toledo queda abajo, junto al r�
 [actividad: excursion-toledo-dia-completo]
 
 Esta guía va solo de **cómo ir y volver**. Para la ruta por la ciudad, lee [qué ver en Toledo en un día](/guias/madrid/escapadas-desde-madrid-toledo).
+
+[actividad: toledo-pulsera-turistica-7-monumentos]
 
 ## El tren Avant Madrid-Toledo: horarios y precio
 

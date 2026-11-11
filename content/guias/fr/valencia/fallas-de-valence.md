@@ -81,6 +81,8 @@ Chaque quartier dresse son monument en carton-pâte et en bois, certains de **pl
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
+[actividad: ciudad-artes-3-en-1-ticket]
+
 ## L'Offrande de fleurs et la cremà des Fallas
 
 - **Offrande (17 et 18 mars) :** des milliers de falleros en costume traditionnel défilent avec des fleurs jusqu'à la place de la Virgen, où se forme le manteau de la Vierge des Désemparés. Les meilleurs endroits pour la voir sont les rues **San Vicente, Mar et Caballeros**. Une fois terminée, la tapisserie de fleurs se visite.

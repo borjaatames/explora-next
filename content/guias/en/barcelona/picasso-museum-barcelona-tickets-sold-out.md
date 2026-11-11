@@ -49,11 +49,20 @@ opciones:
     etiqueta: Top rated
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| The most reviewed | [Picasso Museum skip-the-line guided tour](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4.5★ (3,552) | €37 |
+| The top rated | [Picasso Museum skip-the-line guided tour with Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4.6★ (158) | €39 |
+
 ## What you'll see
 
 - **The permanent collection**, which follows Picasso's development from his formative years in Barcelona to *Las Meninas*.
 - **The Carrer Montcada palaces**: the museum occupies five medieval palaces with Gothic courtyards.
 - **Temporary exhibitions:** from **20 November 2026 to 7 March 2027** you can see *Picasso and Architecture*. If that's why you're going, check what your ticket includes.
+
+[actividad: museo-picasso-tour-guiado-tours-for-today]
 
 ## Prices and opening hours
 

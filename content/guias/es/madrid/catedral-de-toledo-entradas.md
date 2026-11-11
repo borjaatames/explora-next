@@ -56,6 +56,15 @@ opciones:
     etiqueta: Toledo y Segovia
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Ir por tu cuenta | Entrada general en la web oficial o en taquilla | 12 € |
+| Entenderla con guía | [Visita guiada a la Catedral con entrada](/ciudades/madrid/actividades/toledo-catedral-visita-guiada), 4,5★ (444) | 25 € |
+| Ir desde Madrid sin organizar nada | [Toledo en un día con guía y entrada a la Catedral](/ciudades/madrid/actividades/excursion-toledo-dia-completo), 4,6★ (869) | 79 € |
+| Toledo y Segovia el mismo día | [Alcázar de Segovia y Catedral de Toledo](/ciudades/madrid/actividades/excursion-toledo-segovia-alcazar), 4,7★ (10.421) | 41 € |
+
 ## Qué vas a ver en la Catedral Primada
 
 Es la visita más cara de Toledo y también la que más justifica la entrada. La general incluye:

@@ -53,6 +53,14 @@ opciones:
     etiqueta: Privat
 ---
 
+## Welche Option passt?
+
+| Wenn Sie… | Option | Ab |
+| --- | --- | --- |
+| auf eigene Faust mit Audioguide wollen | [Eintritt Höhle von Nerja mit Audioguide](/en/cities/malaga/activities/nerja-caves-entry-ticket), 4,6★ (2.107) | 15,50 € |
+| Transfer ab Málaga suchen | [Höhle von Nerja, Nerja und Frigiliana an einem Tag](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga), 4,6★ (3.192) | 69 € |
+| nur mit Ihrer Gruppe fahren | [Privatausflug nach Nerja und Frigiliana mit Höhle](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | 700 € pro Gruppe |
+
 ## Was dich erwartet
 
 - **Die Höhle:** ein Rundgang von etwa **45 Minuten** zwischen beleuchteten Stalaktiten und Säulen, mit Treppen und Stegen. Drinnen ist es das ganze Jahr kühl und der Boden kann feucht sein: Trag **geschlossene Schuhe**.

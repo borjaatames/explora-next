@@ -84,6 +84,8 @@ actividades:
 
 The full plan, with alternatives, is in [Madrid in 2 days](/en/guides/madrid/madrid-in-2-days).
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Day 2: Prado, Retiro and Las Letras
 
 - **10:00 — Prado Museum** (2 h 30). Open Monday to Saturday 10:00-20:00 and Sundays until 19:00; free in the last two hours, but with queues.
@@ -91,6 +93,10 @@ The full plan, with alternatives, is in [Madrid in 2 days](/en/guides/madrid/mad
 - **14:30 — Lunch** by the Retiro or in Las Letras.
 - **Afternoon:** the Reina Sofía (€12, closed Tuesdays) or the Barrio de las Letras and the Círculo de Bellas Artes rooftop (€5).
 - **Evening:** flamenco in the centre or a walk through the city's oldest taverns.
+
+[actividad: museo-prado-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Day 3: Toledo from Madrid by train
 
@@ -108,6 +114,8 @@ If you'd rather have everything sorted, the full-day tour includes coach, guide 
 
 [actividad: excursion-toledo-dia-completo]
 
+[actividad: toledo-pulsera-turistica-7-monumentos]
+
 ## Day 4: Segovia
 
 **9:00 — Avant from Chamartín** to **Segovia-Guiomar** (about 30 minutes); from there, **city bus 11** takes you to the aqueduct in 15 minutes. Alternative: Avanza bus from Moncloa (1 h 15, about €5 each way), which arrives a few minutes from the aqueduct.
@@ -121,6 +129,8 @@ If you'd rather have everything sorted, the full-day tour includes coach, guide 
 **14:30 — Roast suckling pig**, the reason many Madrileños keep coming back to Segovia. Book at weekends.
 
 **Afternoon:** walk down through the Caballeros quarter or the Jewish quarter to the aqueduct and head back to Madrid without rushing. Segovia sits at about 1,000 metres: bring a coat from October to April. More stops in [Segovia day trip from Madrid](/en/guides/madrid/segovia-day-trip-from-madrid).
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Budget, variations and common mistakes
 

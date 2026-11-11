@@ -45,6 +45,15 @@ faq:
   respuesta: 'Besuch die Stauseen bei Ardales und El Chorro und iss in El Chorro oder Álora, oder wähl einen anderen Ausflug: El Torcal und die Dolmen von Antequera oder Ronda mit seiner Puente Nuevo über der Schlucht.'
 ---
 
+## Was du jetzt buchen kannst
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ticket mit Guide, wenn du auf eigene Faust anreist | [Caminito del Rey: Ticket mit offiziellem Guide](/en/cities/malaga/activities/caminito-del-rey-ticket-official-guide), 4,6★ (16.892) | 30 € |
+| Mit Transfer ab Málaga | [Geführte Tour mit Transfer und Ticket](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4,9★ (19.083) | 72 € |
+| Plan B in der Natur | [Dolmen von Antequera und El Torcal](/en/cities/malaga/activities/antequera-dolmens-el-torcal-day-trip-from-malaga), 4,7★ (102) | 65 € |
+| Plan B mit Dörfern | [Ronda und Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8.742) | 34 € |
+
 ## 1. Schau noch einmal auf die offizielle Website
 
 Die offizielle Website ist caminitodelrey.info. Hier werden **kaum Plätze durch Stornierungen frei**, weil Tickets weder umgetauscht noch erstattet werden. Bevor du dein Datum abschreibst:
@@ -74,6 +83,8 @@ Prüf vor dem Bezahlen, dass im Angebot klar steht, dass **der Eintritt zum Cami
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. Wenn gar nichts geht: was du stattdessen machen kannst
 
 Ohne Ticket kommst du nicht durch die Zugangskontrolle. Was du machen kannst:
@@ -81,6 +92,8 @@ Ohne Ticket kommst du nicht durch die Zugangskontrolle. Was du machen kannst:
 - **Zu den Stauseen** bei Ardales und El Chorro fahren, mit dem türkisfarbenen Wasser aus allen Fotos, und in El Chorro oder Álora essen.
 - **Einen anderen Ausflug wählen.** Ab Málaga ist **El Torcal de Antequera** die andere große Felslandschaft der Provinz und lässt sich mit den **Dolmen von Antequera** kombinieren, UNESCO-Welterbe.
 - **Ronda** mit seiner Puente Nuevo über der Schlucht ist die Alternative, wenn dich der Abgrund gereizt hat; oft kombiniert mit Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Fehler, die du vermeiden solltest
 

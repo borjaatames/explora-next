@@ -83,6 +83,10 @@ Si quieres guía, los tours privados empiezan en las **Torres de Serranos**, a u
 
 Para dos días en la ciudad, mira [Valencia en 2 días](/guias/valencia/valencia-en-2-dias); para elegir arrocería, [dónde comer paella en Valencia](/guias/valencia/comer-en-valencia-paella).
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: oceanografic-valencia-entrada]
+
 ## Excursión del barco o por tu cuenta
 
 En Valencia no hace falta salir de la ciudad: todo lo importante se ve por tu cuenta o con un tour a pie.

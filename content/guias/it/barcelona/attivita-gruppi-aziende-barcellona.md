@@ -50,6 +50,19 @@ actividades:
   - barcelona-clase-de-salsa-y-sangria-azotea
 ---
 
+## I programmi in sintesi
+
+| Attività | Durata | Prezzo | Per quale gruppo |
+| --- | --- | --- | --- |
+| [Sagrada Família, visita privata con biglietti](/en/cities/barcelona/activities/sagrada-familia-private-tour-guide-tickets) | 1 h 45 min | 570 € per 6 | La visita imperdibile, senza sconosciuti |
+| [Tapas e vino, tour privato](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 594 € per 6 | Cena di team o tra amici |
+| [Montserrat, tour privato con prelievo](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 5 h | 894 € per 6 | Escursione di mezza giornata con veicolo riservato |
+| [Degustazione di birra per gruppi privati in terrazza](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € a persona | Aziende, compleanni e addii al celibato/nubilato |
+| [Il meglio di Barcellona, giornata intera privata](/en/cities/barcelona/activities/best-of-barcelona-private-tour-sagrada-familia) | Circa 7 h | 1.014 € per 6 (massimo 6) | Una giornata con tutto organizzato |
+| [Tapas, vino e flamenco, tour privato](/it/cities/barcelona/activities/barcellona-tour-privato-tapas-vino-flamenco) | 3 h | Circa 88 € a persona da 4 | Serata completa con spettacolo |
+| [Montserrat e cantine di cava Codorníu, privato](/it/cities/barcelona/activities/montserrat-cantine-codorniu-tour-privato-da-barcellona) | 8 h | Circa 206 € a persona in gruppo da 4 | Giornata di cava e montagna |
+| [Lezione di salsa con sangria in terrazza](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € a persona | Team building attivo (gruppo condiviso) |
+
 ## Quanto costa un tour privato di Barcellona per un gruppo
 
 Questi sono i totali per gruppo di ogni attività privata e quanto viene a testa (prezzi «da» al 1° novembre 2026; possono variare secondo la data):
@@ -64,6 +77,8 @@ Questi sono i totali per gruppo di ogni attività privata e quanto viene a testa
 Guarda **Montserrat**: il prezzo sale appena da 2 a 6 persone, quindi è l'escursione in cui conviene di più andare in gruppo.
 
 **Gruppi da 7 a 10:** queste tabelle arrivano a 6 persone, e la giornata intera ne ammette **6 al massimo**. Per gruppi più numerosi, indicate il vostro numero nel calendario di prenotazione della scheda per vedere il totale prima di pagare, oppure fate due prenotazioni alla stessa ora.
+
+[actividad: tour-privado-lo-mejor-de-barcelona-sagrada-familia]
 
 ## La Sagrada Familia in privato
 
@@ -81,17 +96,23 @@ Tre ore nel Barrio Gótico e nel centro storico con una guida gastronomica solo 
 
 Se il gruppo vuole uno spettacolo, il **tour privato di tapas, vino e flamenco** (3 h) finisce con il flamenco in un palazzo medievale e costa circa **88 € a persona** a partire da 4.
 
+[actividad: tour-privado-tapas-y-vino]
+
 ## Escursione privata a Montserrat in gruppo
 
 Veicolo e guida solo per il vostro gruppo, con **prelievo e rientro in hotel**, ingresso al monastero e passeggiata nel parco naturale, con soste a vostra scelta (Santa Cova, Creu de Sant Miquel o belvedere). Sono **cinque ore** e bisogna prenotare con **almeno tre giorni di anticipo**.
 
 Se il gruppo preferisce una giornata intera con il cava, l'escursione privata a **Montserrat e alle cantine Codorníu** dura otto ore, con trenino nelle gallerie e degustazione di due cava (circa **206 € a persona** in gruppo da 4). Confrontiamo tutte le opzioni in [quale escursione a Montserrat scegliere](/it/guides/barcelona/montserrat-quale-escursione-scegliere).
 
+[actividad: montserrat-tour-privado-recogida-hotel]
+
 ## Team building a Barcellona: attività per aziende
 
 - **Degustazione di birra solo per il vostro gruppo (55 € a persona, 2 h).** È il programma più pensato per aziende, compleanni e addii al celibato o nubilato: **sei birre artigianali** con una guida birraia su una terrazza del Passeig de Gràcia e poi un bancone con le vostre preferite. Turni ogni mezz'ora tra le 14:00 e le 16:00, spiegazione in inglese e **non rimborsabile**: prenotate con la lista chiusa.
 - **Lezione di salsa con sangria (48,60 € a persona, 2 h)** su un'altra terrazza dello stesso viale, per qualcosa di più attivo. È in gruppo condiviso.
 - **Una giornata intera organizzata:** il **tour privato con il meglio di Barcellona** (circa 7 ore) include prelievo in hotel, trasporto privato, guida in esclusiva tra Montjuïc, Barrio Gótico e Passeig de Gràcia, e ingresso guidato alla Sagrada Família.
+
+[actividad: barcelona-cata-cerveza-grupos-privados-azotea]
 
 ## Consigli pratici
 

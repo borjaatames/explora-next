@@ -47,6 +47,16 @@ faq:
   respuesta: Eivissa town is the most versatile base; Santa Eulària and the north (Sant Joan) for peace and coves; Sant Antoni and Playa d'en Bossa only if you're coming to party.
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
+| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €69 |
+| [Boat to Es Vedrà, Espalmador and Formentera with meals](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.1★ (1,335) | €155 |
+| [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €70 |
+| [Return ferry ticket to Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4.7★ (322) | €55 |
+
 ## What to see in Ibiza: Dalt Vila, coves, Es Vedrà and Formentera
 
 - **Dalt Vila.** The walled upper town, a UNESCO World Heritage Site: enter through the Portal de ses Taules and climb between Renaissance walls and white lanes to the **cathedral** and the castle, with views over the port. Below, **La Marina** and **Sa Penya**: atmosphere, Adlib fashion and restaurants.

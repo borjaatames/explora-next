@@ -88,6 +88,8 @@ Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibu
 4. **20:00, chocolate con churros en San Ginés**, en el pasadizo de San Ginés, junto a Sol. Abre desde 1894 y funciona 24 horas de jueves a domingo y las vísperas de festivo.
 5. **21:00, cena:** de tapas por el centro o con un espectáculo de flamenco.
 
+[actividad: ruta-tapas-nocturna-madrid]
+
 ## Tradiciones, Nochevieja y Reyes
 
 - **El sorteo de la Lotería (22 de diciembre):** en el Teatro Real, con entrada gratuita numerada que se recoge en taquilla enseñando el DNI o el pasaporte. Hay quien hace cola desde la noche anterior: en las últimas ediciones, llegar después de las 4 de la madrugada era quedarse fuera.

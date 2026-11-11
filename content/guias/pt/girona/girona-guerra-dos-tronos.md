@@ -47,6 +47,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "Escadaria da catedral de Girona"
 ---
 
+## Tours de A Guerra dos Tronos
+
+| Plano | Atividade | Desde |
+| --- | --- | --- |
+| O mais bem avaliado | [Tour de A Guerra dos Tronos em grupo reduzido](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Só para o seu grupo | [Tour privado de A Guerra dos Tronos](/en/cities/girona/activities/girona-game-of-thrones-private-tour), preço por grupo | 260 € |
+| História de Girona e cenários | [Tour a pé pelo Barri Vell](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| A catedral por dentro | [Catedral, Museu d'Art e Sant Feliu](/pt/cities/girona/activities/girona-catedral-museu-art-sant-feliu-bilhete), 4,5★ (195) | 12 € |
+
 ## Os cenários de A Guerra dos Tronos em Girona: da catedral a Braavos
 
 - **Escadaria da Catedral:** o exterior do Grande Septo de Baelor de Porto Real. Por ela sobe a cavalo Jaime Lannister com o exército Tyrell.
@@ -57,6 +66,8 @@ imagen_alt: "Escadaria da catedral de Girona"
 - **Passeig Arqueològic:** a muralha, fundo de várias sequências.
 
 Atenção: **nem tudo foi filmado em Girona**. As cenas de Braavos misturam Girona com Šibenik (Croácia): se não encontrar um cenário, provavelmente não é aqui.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## O percurso a pé pelos cenários
 

@@ -52,6 +52,13 @@ opciones:
     etiqueta: Avec la vieille ville
 ---
 
+## Quel billet choisir ?
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite de la cathédrale et du musée sans file d'attente](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2 454) | 25 € |
+| [Visite de la cathédrale, du musée et de la vieille ville](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4,8★ (439) | 24 € |
+
 ## Que voir dans la cathédrale de Saint-Jacques : gratuit et payant
 
 **Gratuit :**
@@ -67,6 +74,8 @@ opciones:
 | **Pórtico de la Gloria** | Le chef-d'œuvre restauré du maître Mateo (billet à horaire) |
 | **Toits** | Visite guidée sur le toit de granit, avec vue |
 | **Musée de la cathédrale** | Cloître, Trésor, chapelle des Reliques et Pazo de Xelmírez |
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Prix, horaires et réservations : Pórtico de la Gloria et toits
 

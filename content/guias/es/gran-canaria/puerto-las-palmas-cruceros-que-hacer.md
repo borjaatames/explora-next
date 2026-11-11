@@ -49,6 +49,16 @@ actividades:
   - tour-gran-canaria-1-dia-desde-las-palmas
 ---
 
+## Excursiones que encajan con una escala en Las Palmas
+
+| Excursión | Duración | Precio desde |
+| --- | --- | --- |
+| [Tour privado panorámico en taxi y a pie](/ciudades/gran-canaria/actividades/las-palmas-tour-privado-panoramico-taxi-pie), 4,8★ (37) | 3 h 30 min | 100 € |
+| [Tour privado a pie por Triana y Vegueta con tapa](/ciudades/gran-canaria/actividades/las-palmas-tour-privado-casco-antiguo-tapa), 4,7★ (219) | 2 h 30 min | 55 € |
+| [Acuario Poema del Mar, entrada sin colas](/ciudades/gran-canaria/actividades/poema-del-mar-entrada-sin-colas), 4,8★ (4.610) | Entrada de 1 día | 29 € |
+| [Roque Nublo, Pico de las Nieves y Tejeda desde Las Palmas](/ciudades/gran-canaria/actividades/roque-nublo-pico-nieves-desde-las-palmas), 4,7★ (1.283) | 8 h | 48 € |
+| [Tour de un día por Gran Canaria desde Las Palmas](/ciudades/gran-canaria/actividades/tour-gran-canaria-1-dia-desde-las-palmas), 4,6★ (716) | 7 h 30 min | 48 € |
+
 ## ¿Dónde atraca el crucero? El Muelle de Santa Catalina
 
 En el **Muelle de Santa Catalina**, en el istmo de Las Palmas, junto al **parque de Santa Catalina** y el centro comercial El Muelle. Si coinciden muchos barcos, alguno puede atracar en otro muelle del puerto: mira el programa diario y si la naviera pone lanzadera.
@@ -99,6 +109,10 @@ El acuario **Poema del Mar** está en el Muelle Sanapú, en la misma zona portua
 La excursión desde Las Palmas al Roque Nublo, el Pico de las Nieves y Tejeda dura 8 horas y recoge en el centro a primera hora: **solo te sirve si desembarcas antes de la recogida** y el barco zarpa por la noche. Confirma el punto y la hora en el bono.
 
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
+
+[actividad: las-palmas-tour-privado-casco-antiguo-tapa]
+
+[actividad: las-palmas-tour-privado-panoramico-taxi-pie]
 
 ## Excursiones de crucero en Gran Canaria: ¿del barco o por libre?
 

@@ -60,11 +60,26 @@ opciones:
     etiqueta: Privat
 ---
 
+## Welche Möglichkeiten bleiben?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Eine andere Uhrzeit am selben Tag | Offizielle Website, Zeitfenster von 10 bis 19 Uhr | 12 € |
+| Direkt vor Ort kaufen | Museumskasse, bis 30 Min. vor Schließung | 12 € |
+| Kostenlosen Eintritt | Mo und Mi-Sa 19-21 Uhr; So 12:30-14:30 Uhr | 0 € |
+| Ticket mit Uhrzeit, ohne Guide | [Ticket für das Museo Reina Sofía](/en/cities/madrid/activities/reina-sofia-madrid-ticket), 4,5★ (10.347) | 12 € |
+| Guide mit Eintritt | [Führung mit der Guernica](/en/cities/madrid/activities/reina-sofia-museum-guided-tour-amigo-tours), 4,3★ (676) | 29,05 € |
+| Maximal sechs Personen | [Führung in der Kleingruppe](/en/cities/madrid/activities/reina-sofia-museum-small-group-guides-you-need), 4,9★ (418) | 45 € |
+| Nur für euch | [Private Führung mit offiziellem Guide](/en/cities/madrid/activities/reina-sofia-museum-private-tour) | 124 € |
+| Alternative in der Nähe | [Museo Thyssen-Bornemisza](/en/cities/madrid/activities/thyssen-museum-entry-ticket), 4,8★ (460) | 14 € |
+
 ## Was du sehen wirst
 
 Das Reina Sofía ist Madrids Museum für Kunst des 20. Jahrhunderts. Alle wollen Picassos **Guernica** sehen, in der Sammlung im zweiten Stock des **Sabatini-Gebäudes**, neben Dalí, Miró und den spanischen Surrealisten. Der Hauptsitz besteht aus dem Sabatini- und dem Nouvel-Gebäude.
 
 Für die Sammlung braucht man **zwei bis drei Stunden**; nur für Guernica reicht eine. Mit dem Ticket kannst du am selben Tag wieder hinein.
+
+[actividad: reina-sofia-visita-privada-guia]
 
 ## Preise und Öffnungszeiten der Reina-Sofía-Tickets
 
@@ -111,6 +126,8 @@ Tickets werden nach Zeitfenstern verkauft, und ein bezahltes Fenster um 17:00 un
 - **Museo Thyssen-Bornemisza** (14 €), etwa 15 Minuten zu Fuß über den Paseo del Prado: Kunst des 20. Jahrhunderts (Expressionismus, Pop Art), der logischste Ersatz.
 - **Museo del Prado**, etwa 7 Minuten zu Fuß. Ist er auch voll, lies [Prado-Tickets ausverkauft](/de/guides/madrid/prado-museum-tickets-ausverkauft).
 - **Kristallpalast und Palacio de Velázquez** im Retiro: Außenstellen des Reina Sofía mit Wechselausstellungen und **freiem Eintritt**. Geöffnet 10:00-18:00 von Oktober bis März und bis 21:00 von April bis September; der Kristallpalast kann bei Regen oder extremer Hitze schließen.
+
+[actividad: museo-thyssen-entrada]
 
 ## Tipps
 

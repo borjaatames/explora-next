@@ -57,6 +57,18 @@ opciones:
     etiqueta: "Gruppo di 6: 150 € a persona"
 ---
 
+## Tabella dei prezzi a persona
+
+| Escursione da Granada | In gruppo (a persona) | Privato, 2 persone | Privato, 4 persone | Privato, 6 persone |
+| --- | --- | --- | --- | --- |
+| L'Alpujarra | [71 €](/en/cities/granada/activities/alpujarra-mountain-villages-day-trip) · [115 €](/en/cities/granada/activities/alpujarra-originals-curated-villages-day-trip) gruppo più ridotto | [320 €](/en/cities/granada/activities/alpujarra-private-day-trip-from-granada) (640 € totali) | 200 € (800 €) | 160 € (960 €) |
+| Ronda | [135 €](/en/cities/granada/activities/ronda-day-trip-from-granada) | [270 €](/en/cities/granada/activities/ronda-private-day-trip-from-granada) senza guida (540 €) · 350 € con guida (700 €) | 210 € (840 €) · 250 € con guida (1.000 €) | 170 € (1.020 €) senza guida |
+| Caminito del Rey | [135 €](/en/cities/granada/activities/caminito-del-rey-day-trip-from-granada) con pranzo | [340 €](/en/cities/granada/activities/caminito-del-rey-from-granada-private-transport) (680 €) | 210 € (840 €) | 150 € (900 €) |
+| Úbeda e Baeza | [135 €](/en/cities/granada/activities/ubeda-baeza-renaissance-day-trip) | [388 €](/en/cities/granada/activities/ubeda-baeza-private-day-trip-from-granada) (776 €) | 211 € (844 €) | — |
+| Cordova | — | [400 €](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) (800 €) | 260 € (1.040 €) | 200 € (1.200 €) |
+| Nerja e Frigiliana | — | [350 €](/en/cities/granada/activities/nerja-frigiliana-private-day-trip-from-granada) (700 €) | 220 € (880 €) | 160 € (960 €) |
+| Malaga | — | [392 €](/en/cities/granada/activities/malaga-private-day-trip-from-granada) (784 €) | 208 € (832 €) | — |
+
 ## Risposta rapida in base a chi viaggia
 
 - **Coppia:** gruppo. L'Alpujarra a 71 € o il Caminito del Rey con pranzo a 135 €. In privato vi costerebbe da 2 a 4,5 volte di più.

@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "Il fiume Onyar e le sue case colorate a Girona"
 ---
 
+## Visite consigliate
+
+| Programma | Attività | Da |
+| --- | --- | --- |
+| L'essenziale con guida | [Tour a piedi del Barri Vell in gruppo ridotto](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| Per i fan della serie | [Tour de Il Trono di Spade](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Cattedrale e musei | [Cattedrale, Museu d'Art e Sant Feliu](/it/cities/girona/activities/girona-biglietto-cattedrale-museu-art-sant-feliu), 4,5★ (195) | 12 € |
+| Quartiere ebraico con guida | [Tour della Girona ebraica e del Call](/en/cities/girona/activities/jewish-girona-guided-tour), 4,9★ (140) | 45 € |
+| Con i tuoi tempi | [Audioguida autoguidata con l'app DareMapp](/it/cities/girona/activities/tour-autoguidato-girona-app-daremapp) | 5 € |
+| Da Barcellona con la Costa Brava | [Girona, Pals e Calella de Palafrugell in gruppo ridotto](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2.096) | 98,5 € |
+| Da Barcellona con Dalí | [Girona, Figueres, Dalí e Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2.352) | 40 € |
+
 ## L'itinerario di un giorno a Girona
 
 | Ora | Tappa |

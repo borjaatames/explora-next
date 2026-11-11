@@ -61,6 +61,19 @@ opciones:
     etiqueta: Privata di giorno
 ---
 
+## Quale opzione ti resta?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Un'altra sera | Sito ufficiale, notturna dei Palazzi Nasridi | 12,73 € |
+| Comprare sul posto | Biglietteria notturna, un'ora prima del turno | 12 € |
+| Nasridi di notte + giardini di giorno | Alhambra Experiencias, due giorni consecutivi | 22,27 € |
+| Una quota diversa | Granada Card 24 h, con la notturna inclusa | 50 € |
+| Gratis | Non c'è una notturna gratuita; per i minori di 12 anni sì | 0 € |
+| Guida e ingresso inclusi | [Visita notturna ai Palazzi Nasridi](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
+| Generalife e Alcazaba di giorno | [Giardini e Generalife senza Nasridi](/it/cities/granada/activities/biglietto-giardini-alhambra-generalife-senza-palazzi-nasridi), 4,5★ (2.256) | 17,50 € |
+| L'Alhambra da fuori al calar della sera | [Albaicín e Sacromonte al tramonto](/en/cities/granada/activities/albaicin-sacromonte-sunset-tour), 4,9★ (3.200) | 15 € |
+
 ## Alhambra di notte: orari per stagione
 
 Ci sono due visite notturne diverse. Questi sono gli orari pubblicati dal Patronato dell'Alhambra:
@@ -140,3 +153,7 @@ In quest'ordine:
 4. **Dimenticare il documento.** Te lo chiedono all'ingresso.
 
 Per organizzare il resto della visita, leggi [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla).
+
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: flamenco-cueva-zincale-sacromonte]

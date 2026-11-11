@@ -95,6 +95,8 @@ The queue forms by the **Goya Gate**, on the north side of the building, long be
 - **Sundays and holidays:** more waiting and less museum time, as it closes at 19:00.
 - **Don't arrive at 18:00 sharp:** by the time you reach the box office you'll have lost a good chunk of your time.
 
+[actividad: museo-prado-visita-guiada]
+
 ## What to see in the Prado in two free hours
 
 In practice you have an hour and a quarter to an hour and a half. Grab the map at the entrance and go straight to:

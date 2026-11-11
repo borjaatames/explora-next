@@ -57,6 +57,16 @@ faq:
 
 ## Die 5 Flamenco-Shows in Sevilla
 
+| Show | Ab | Format | Atmosphäre | Ideal für |
+|---|---|---|---|---|
+| [Teatro Flamenco Sevilla](/en/cities/sevilla/activities/seville-live-flamenco-dancing-show-theater-top-pick) | 25 € | Theater, ansteigende Sitzreihen | Die meistgebuchte Show der Stadt, gute Sicht dank der Ränge | Wer die sicherste Wahl mit den meisten Vorstellungen pro Tag will |
+| [Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) | 24 € | Andalusischer Innenhof, nur 2 Reihen | Maximale Nähe, die Künstler einen Meter entfernt | Wer Nähe wichtiger findet als einen bequemen Sitz |
+| [Museo del Baile Flamenco](/en/cities/sevilla/activities/seville-puro-flamenco-show-dance-museum) | 33 € | Innenhof aus dem 18. Jahrhundert | Choreografien von Cristina Hoyos, mit Museumsbesuch kombinierbar | Wer neben der Show kulturellen Hintergrund sucht |
+| [Tablao El Arenal](/en/cities/sevilla/activities/seville-flamenco-show-tablao-el-arenal-historic) | 45 € | Tablao im Restaurantstil, mit Tischen | 50 Jahre Geschichte, entspannte Stimmung | Wer während der Show essen will |
+| [Teatro Flamenco Triana](/en/cities/sevilla/activities/seville-flamenco-show-teatro-flamenco-triana) | 25 € | Theater, auf der anderen Flussseite | Im historisch von Gitanos geprägten Viertel, in dem ein großer Teil des Flamenco entstand | Wer ihn in seinem Ursprungsviertel erleben will |
+
+## Die 5 Flamenco-Shows in Sevilla
+
 | Show | Ab | Format | Ideal für |
 |---|---|---|---|
 | Teatro Flamenco Sevilla | 25 € | Theater mit ansteigenden Sitzreihen | Die sicherste Wahl mit den meisten Vorstellungen pro Tag |

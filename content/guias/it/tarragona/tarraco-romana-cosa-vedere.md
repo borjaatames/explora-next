@@ -44,6 +44,12 @@ faq:
   respuesta: Nella seconda metà di maggio. Rievocazioni storiche, gladiatori nell'anfiteatro e centinaia di attività, molte gratuite. Gli hotel si riempiono, quindi prenota presto.
 ---
 
+## Visite che puoi prenotare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Ingresso alla cattedrale con audioguida](/it/cities/tarragona/activities/biglietto-cattedrale-di-tarragona-audioguida) | 4,4★ (105) | 12,5 € |
+
 ## Cosa vedere nella Tarraco romana
 
 - **Anfiteatro romano di Tarragona:** sul mare, l'immagine più famosa della città. Teatro di combattimenti tra gladiatori, conserva anche resti visigoti.
@@ -54,6 +60,8 @@ faq:
 - **Acquedotto di les Ferreres:** il «Pont del Diable», l'acquedotto romano meglio conservato della zona, in periferia.
 
 Per capire l'insieme e vedere i mosaici, il **MNAT (Museo Nazionale Archeologico)**. Lungo l'antica Via Augusta, in periferia, ci sono anche l'**Arc de Berà** e la **Torre dels Escipions**.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Prezzi e orari: il biglietto cumulativo
 

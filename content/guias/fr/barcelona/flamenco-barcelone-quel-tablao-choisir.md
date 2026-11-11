@@ -59,6 +59,15 @@ actividades:
 
 ## Les 4 spectacles de flamenco à Barcelone
 
+| Spectacle | Prix à partir de | Format | Ambiance | Idéal pour |
+|---|---|---|---|---|
+| [Teatro City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 25 € | Théâtre de grande capacité | Le plus réservé de Barcelone, 4 séances par jour | Ceux qui cherchent le prix le plus bas et un maximum de souplesse horaire |
+| [Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 30 € | Palais baroque du XVIIe s., le Born | La salle la plus spectaculaire sur le plan architectural, près du musée Picasso | Ceux qui veulent une expérience au caractère plus historique |
+| [Tablao de Carmen](/en/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-poble-espanyol) | 88 € | Tablao avec dîner servi pendant le spectacle, Poble Espanyol | Le seul qui sert le dîner pendant le spectacle, comme le voulait la tradition | Ceux qui veulent l'expérience complète dîner + spectacle |
+| [Tablao Cordobés](/en/cities/barcelona/activities/tablao-flamenco-cordobes-dinner-show-las-ramblas) | 48 € | Tablao historique (1970) sur La Rambla, spectacle sans micro | Format intimiste, voix et guitare sans amplification | Ceux qui veulent un vrai son acoustique en pleine Rambla |
+
+## Les 4 spectacles de flamenco à Barcelone
+
 | Spectacle | Dès | Format | Idéal pour |
 |---|---|---|---|
 | Teatro City Hall | 25 € | Grand théâtre, le plus réservé de Barcelone, 4 séances par jour | Le prix le plus bas et la plus grande souplesse d'horaires |

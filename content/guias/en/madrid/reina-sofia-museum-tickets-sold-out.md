@@ -60,11 +60,26 @@ opciones:
     etiqueta: Private
 ---
 
+## What options are left?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Another time that day | Official website, slots from 10am to 7pm | €12 |
+| To buy on the spot | Museum box office, until 30 min before closing | €12 |
+| Free entry | Mon and Wed-Sat 7pm-9pm; Sun 12:30pm-2:30pm | €0 |
+| A timed ticket, no guide | [Reina Sofía Museum ticket](/en/cities/madrid/activities/reina-sofia-madrid-ticket), 4.5★ (10,347) | €12 |
+| A guide, entry included | [Guided tour with Guernica](/en/cities/madrid/activities/reina-sofia-museum-guided-tour-amigo-tours), 4.3★ (676) | €29.05 |
+| A group of six at most | [Small-group tour](/en/cities/madrid/activities/reina-sofia-museum-small-group-guides-you-need), 4.9★ (418) | €45 |
+| Just your party | [Private tour with an official guide](/en/cities/madrid/activities/reina-sofia-museum-private-tour) | €124 |
+| A nearby alternative | [Thyssen-Bornemisza Museum](/en/cities/madrid/activities/thyssen-museum-entry-ticket), 4.8★ (460) | €14 |
+
 ## What you'll see
 
 The Reina Sofía is Madrid's museum of 20th-century art. The piece everyone comes for is Picasso's **Guernica**, in the second-floor collection of the **Sabatini Building**, alongside Dalí, Miró and the Spanish surrealists. The main site is made up of the Sabatini and Nouvel buildings.
 
 The collection takes **two or three hours** to see well; for Guernica alone, an hour is enough. Your ticket lets you re-enter the same day.
+
+[actividad: reina-sofia-visita-privada-guia]
 
 ## Reina Sofía Museum ticket prices and opening hours
 
@@ -111,6 +126,8 @@ It's **free all day** on **18 April**, **18 and 22 May**, **12 October** and **6
 - **Thyssen-Bornemisza Museum** (€14), about 15 minutes' walk along the Paseo del Prado: 20th-century art (Expressionism, Pop Art), the most logical substitute.
 - **Prado Museum**, about 7 minutes' walk. If it's full too, see [Prado tickets sold out](/en/guides/madrid/prado-museum-tickets-sold-out).
 - **Crystal Palace and Velázquez Palace** in the Retiro: Reina Sofía venues with temporary exhibitions and **free entry**. Open 10:00-18:00 from October to March and until 21:00 from April to September; the Crystal Palace may close in rain or extreme heat.
+
+[actividad: museo-thyssen-entrada]
 
 ## Tips
 

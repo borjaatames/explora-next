@@ -50,6 +50,19 @@ actividades:
   - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
+## Le proposte in breve
+
+| Attività | Durata | Prezzo per due | Per quale coppia |
+| --- | --- | --- | --- |
+| [Terrazze al tramonto, tour privato](/en/cities/sevilla/activities/seville-rooftops-sunset-private-tour-setas) | 2 h 30 min | 384 € (192 € a persona) | Occasione speciale; con cocktail alle Setas |
+| [Carrozza a cavalli privata con guida](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1 h 30 min | 298 € a carrozza | Il classico, con spiegazioni vere |
+| [Flamenco alla Casa de la Memoria](/it/cities/sevilla/activities/siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo) | 1 h | 48 € | Flamenco da vicino, in una sala piccola |
+| [Tablao El Arenal](/it/cities/sevilla/activities/siviglia-tablao-flamenco-el-arenal-maestranza) | 1 h | Da 90 € | Tablao classico vicino alla Maestranza |
+| [Corso di cucina andalusa in una casa](/en/cities/sevilla/activities/andalusian-cooking-class-traditional-house-seville) | 5 h | 796 € (398 € a persona) | Coppie a cui piace cucinare |
+| [Siviglia misteriosa al tramonto, privato](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset) | 1 h 30 min | 125 € a gruppo | Leggende all'ora più bella |
+| [Crociera sul Guadalquivir con bevanda](/it/cities/sevilla/activities/siviglia-crociera-guidata-guadalquivir-con-bevanda) | 1-1,5 h | 50 € | Proposta tranquilla ed economica |
+| [Belvedere delle Setas](/it/cities/sevilla/activities/siviglia-biglietto-setas-metropol-parasol-belvedere) | 40 min | 32 € | Tramonto per conto vostro |
+
 ## Tramonto su una terrazza di Siviglia
 
 È la proposta per un'occasione speciale. Una guida solo per voi vi porta su **due terrazze** del centro; la seconda è il **belvedere delle Setas** (Metropol Parasol), proprio quando si illuminano la Giralda e le cupole. Lungo il percorso vi racconta leggende che si capiscono solo dai tetti.
@@ -75,6 +88,8 @@ L'alternativa è un **giro privato di un'ora e mezza con guida** esperta di stor
 
 A luglio e agosto il caldo dura fino a tardi; meglio dopo le 20:00.
 
+[actividad: paseo-coche-caballos-sevilla-guia-privado]
+
 ## Flamenco per due
 
 In coppia funziona meglio una sala piccola di un grande tablao con cena:
@@ -83,6 +98,8 @@ In coppia funziona meglio una sala piccola di un grande tablao con cena:
 - **Tablao El Arenal:** cinquant'anni di flamenco vicino alla Maestranza, **da 45 €** a persona.
 
 Attenzione agli orari: in primavera e in estate il sole tramonta tardi, quindi lasciate il flamenco per dopo il tramonto. Per confrontare tutti i tablao uno per uno, c'è la nostra guida al [flamenco a Siviglia](/it/guides/sevilla/flamenco-siviglia-quale-tablao-scegliere).
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cucinare insieme
 
@@ -95,6 +112,8 @@ Il **corso di cucina andalusa** è un'esperienza privata di cinque ore:
 
 Turni alle **11:00** (con pranzo) e alle **17:30** (con cena). Costa **398 € a persona** (minimo 2); segnalate eventuali intolleranze al momento della prenotazione. Durando cinque ore, si inserisce meglio il primo o il secondo giorno che l'ultimo.
 
+[actividad: clase-cocina-andaluza-casa-tradicional-sevilla]
+
 ## Cosa fare a Siviglia in coppia con poco budget
 
 - **Plaza de España e parco di María Luisa:** gratis, e tra i posti più belli della città nel tardo pomeriggio.
@@ -103,6 +122,8 @@ Turni alle **11:00** (con pranzo) e alle **17:30** (con cena). Costa **398 € a
 - **Siviglia misteriosa al tramonto:** passeggiata privata di un'ora e mezza tra leggende, delitti e misteri del centro, dalle scale delle Setas. 125 € per il gruppo (da 1 a 4 persone), 62,50 € a testa in coppia.
 
 Belvedere, crociera e flamenco alla Casa de la Memoria fanno circa **65 € a persona** per una serata completa.
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Una serata perfetta per un weekend romantico a Siviglia
 

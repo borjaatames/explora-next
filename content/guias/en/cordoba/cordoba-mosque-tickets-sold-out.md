@@ -54,6 +54,16 @@ opciones:
     etiqueta: Plus the Jewish Quarter
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Your own pace, with an audio guide | [Mosque-Cathedral ticket with audio guide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide), 4.2★ (3,788) | €22 |
+| The most popular | [Mosque-Cathedral skip-the-line guided tour](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour), 4.6★ (10,966) | €32 |
+| The Mezquita and the old quarter in one morning | [Mezquita and Jewish Quarter with tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour), 4.5★ (2,200) | €34 |
+| Just your group | [Private Mosque-Cathedral tour with entry](/en/cities/cordoba/activities/cordoba-mosque-cathedral-private-tour), 5★ (45) | €210 per group |
+| Private, plus the Jewish Quarter | [Private Mezquita and Jewish Quarter tour](/en/cities/cordoba/activities/cordoba-mosque-jewish-quarter-private-tour), 5★ (130) | €260 per group |
+
 ## Try another time on the official website or at the box office
 
 The official sales website is **tickets.mezquita-catedraldecordoba.es**, linked from mezquita-catedraldecordoba.es. Beware of look-alike sites with similar names that overcharge.
@@ -99,6 +109,8 @@ When the official website doesn't have the time you want, operators often still 
 Before paying, check that the listing says **"Mosque-Cathedral entry included"**: some Jewish Quarter walks only pass by outside.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
+
+[actividad: mezquita-juderia-tour-a-pie]
 
 ## What you can see without a ticket
 

@@ -50,6 +50,17 @@ faq:
   respuesta: 'Sim, se viaja com crianças ou gosta do mar: é o maior aquário da Europa e leva 3-4 horas. Os bilhetes começam nos 37 € e convém reservá-los online na época alta. Caso contrário, o passeio grátis entre os edifícios da Cidade das Artes ao pôr do sol já vale a pena.'
 ---
 
+## Reserve o essencial
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour da Catedral, San Nicolás e Lonja da Seda](/pt/cities/valencia/activities/valencia-visita-guiada-catedral-lonja-san-nicolas) | 4,8★ (1243) | 49 € |
+| [Tour de tuk tuk pelo centro histórico, praias e Cidade das Artes](/en/cities/valencia/activities/valencia-tuk-tuk-tour-old-town-beaches) | 4,6★ (388) | 40 € |
+| [Bilhete do Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4,7★ (11 540) | 37 € |
+| [Bilhete do Bioparc](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4,8★ (2988) | 29,5 € |
+| [Passeio de catamarã de dia ou ao pôr do sol com bebida](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4,0★ (3360) | 15 € |
+| [Prova de cerveja artesanal e tapas em Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Dia 1: centro histórico e Cidade das Artes e das Ciências
 
 | Hora | O quê |
@@ -73,6 +84,8 @@ Passe o resto da manhã no **Carmen**, o bairro mais antigo, com as **torres de 
 
 **Noite.** Jante em **Ruzafa**, o bairro da moda, e prove a **agua de Valencia** (cava, sumo de laranja, vodka e gin) com moderação: sobe depressa.
 
+[actividad: valencia-cathedral-silk-exchange-san-nicolas-tour]
+
 ## Dia 2: Albufera, paella e praia
 
 | Hora | O quê |
@@ -89,6 +102,8 @@ Passe o resto da manhã no **Carmen**, o bairro mais antigo, com as **torres de 
 **Malvarrosa.** No regresso, banho ou passeio pela praia larga, com restaurantes de arroz em frente ao mar. Lanche **horchata com fartons**; a verdadeira vem da vizinha Alboraya.
 
 **Última tarde.** Volte ao centro para a **plaza Redonda**, o modernista **Mercado de Colón** ou uma última esplanada no Carmen.
+
+[actividad: valencia-catamaran-sunset-cruise]
 
 ## Quando ir, como chegar e como se deslocar
 

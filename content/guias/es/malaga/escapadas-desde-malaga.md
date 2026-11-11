@@ -50,6 +50,16 @@ faq:
   respuesta: El acceso es gratuito. Cuando el aparcamiento de arriba se llena (a media mañana en fin de semana), cierran la carretera y hay que subir en autobús lanzadera desde el aparcamiento inferior, por 2 € ida y vuelta.
 ---
 
+## Excursiones con transporte desde Málaga
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Caminito del Rey guiado](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
+| [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga) | 4,7★ (8.742) | 34 € |
+| [Cuevas de Nerja, Nerja y Frigiliana](/ciudades/malaga/actividades/cuevas-nerja-frigiliana-desde-malaga) | 4,6★ (3.192) | 69 € |
+| [Gibraltar](/ciudades/malaga/actividades/gibraltar-desde-malaga) | 4,6★ (5.510) | 35 € |
+| [Córdoba con entrada a la Mezquita](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | 4,5★ (753) | 76 € |
+
 ## Las mejores escapadas desde Málaga
 
 | Destino | En coche | Ideal para |

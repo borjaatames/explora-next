@@ -47,6 +47,14 @@ faq:
 
 La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor casco antiguo o una cala protegida. Mira el parte antes de elegir.
 
+## Planes en el mar que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Paseo en catamarán al atardecer con cava](/ciudades/cadiz/actividades/catamaran-cadiz-atardecer) | 4,6★ (856) | 24,5 € |
+| [Barbate: avistamiento de delfines y ballenas en el cabo Trafalgar](/ciudades/cadiz/actividades/avistamiento-delfines-trafalgar-barbate) | 4,1★ (792) | 50 € |
+| [Tour en catamarán por la bahía](/ciudades/cadiz/actividades/catamaran-bahia-de-cadiz) | 4,5★ (453) | 19 € |
+
 ## Playas de la ciudad de Cádiz
 
 | Playa | Carácter |
@@ -57,6 +65,8 @@ La regla local: con **poniente**, playa perfecta; con **levante** fuerte, mejor 
 | **Cortadura** | Ancha y semisalvaje, hacia las salinas |
 
 **La Caleta** es la más fotogénica (la «Habana» de James Bond), perfecta al atardecer. **La Victoria** es la gran playa urbana para un día de sol con servicios. Se llega andando o en los autobuses **1 y 7**; a Cortadura, en el **1**.
+
+[actividad: catamaran-cadiz-atardecer]
 
 ## Las grandes playas de la Costa de la Luz
 

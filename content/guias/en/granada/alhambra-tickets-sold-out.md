@@ -56,6 +56,16 @@ opciones:
     etiqueta: No Nasrid Palaces
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Guaranteed entry with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
+| The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €49 |
+| Small group | [Alhambra and Nasrid Palaces small-group tour](/en/cities/granada/activities/alhambra-small-group-tour), 4.8★ (890) | €65 |
+| If only evenings are left | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
+| Without the Nasrid Palaces, cheaper | [Gardens, Generalife and Alcazaba](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4.5★ (2,256) | €17.5 |
+
 ## 1. Last-minute tickets on the official site
 
 The official ticket site is tickets.alhambra-patronato.es. The general ticket costs **€22.27** and includes the Nasrid Palaces with a fixed time, the Alcazaba, the Partal and the Generalife.
@@ -89,6 +99,8 @@ If there's nothing left for daytime, look at these two official tickets, which u
 
 - **Nasrid Palaces night visit (€12.73):** the illuminated palaces, without the Alcazaba or Generalife. It lasts an hour and a half and is a very different, calmer experience.
 - **Gardens, Generalife and Alcazaba (€12.73):** everything except the Nasrid Palaces. That's what you miss most, but the Generalife and the Alcazaba are worth the visit.
+
+[actividad: alhambra-visita-nocturna]
 
 ## 5. What you can see of the Alhambra without a ticket
 

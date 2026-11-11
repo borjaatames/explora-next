@@ -70,6 +70,8 @@ faq:
 
 **19:30 — Plaza de España at sunset.** Seville's postcard, but never at midday: no shade and full sun. Go in the golden light over the province benches and the canal boats; then María Luisa Park.
 
+[actividad: royal-alcazar-seville-skip-line-guided-tour]
+
 ## Day 2: Triana and the other side of the river
 
 **10:00 — Triana.** Walk across the **Isabel II bridge** and look back. Waiting for you:

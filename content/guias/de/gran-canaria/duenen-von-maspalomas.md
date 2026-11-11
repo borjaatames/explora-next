@@ -51,6 +51,8 @@ imagen_alt: "Die Dünen von Maspalomas am Nachmittag"
 - **Der Leuchtturm von Maspalomas** im Westen: 1890 in Betrieb genommen, über 50 Meter hoch, Ausgangspunkt der Strandpromenade von Meloneras.
 - **Der Strand**, der den ganzen Dünenrand entlangläuft, mit Rettungsschwimmern und Flaggen.
 
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
+
 ## Zugang, Öffnungszeiten und Zeitbedarf
 
 - **Eintritt frei, den ganzen Tag offen.** Es gibt weder Kassen noch Öffnungszeiten, nur ein mit Pfosten markiertes Wegenetz.

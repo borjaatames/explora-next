@@ -110,6 +110,8 @@ Os museus estatais seguem o mesmo padrão, sábado à tarde e domingo de manhã:
 5. **Grátis não é barato:** se acabar numa paella de 30 € na Plaza Mayor, o plano falhou. Menu do dia a 10-12 € em Chamberí, sandes de lulas num bar de bairro ou piquenique no Retiro.
 6. **As discotecas «grátis» de Sol e Gran Vía:** 10 € a primeira bebida. Melhor um bar de bairro com a caña a 2,50 €.
 
+[actividad: reina-sofia-entrada]
+
 ## O que vale mesmo a pena pagar
 
 1. **O Prado às 10:00 (15 €).** O melhor bilhete de Madrid: Velázquez sem ninguém à frente.

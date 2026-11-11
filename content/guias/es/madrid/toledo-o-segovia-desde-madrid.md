@@ -47,6 +47,19 @@ faq:
   respuesta: 'Segovia. Está a unos 1.000 metros de altitud y en julio y agosto suele estar varios grados más fresca que Toledo, donde se llega a 35-40 °C en cuestas sin sombra. En invierno es al revés: Segovia es fría y puede nevar.'
 ---
 
+## Comparativa rápida
+
+| | Toledo | Segovia |
+| --- | --- | --- |
+| Tren desde Madrid | Avant desde Atocha, 33 min; 22-26 € ida y vuelta | Avant desde Chamartín, unos 30 min, más bus urbano de 15 min (2 €) |
+| Autobús | Alsa desde Plaza Elíptica, 1 h; unos 11 € ida y vuelta | Avanza desde Moncloa, 1 h 15-1 h 20; unos 5 € por trayecto |
+| Tiempo necesario | Un día entero | Medio día largo, con comida |
+| Imprescindibles | Catedral, Santo Tomé, sinagogas, Judería | Acueducto, Catedral, Alcázar |
+| Entradas clave | Catedral 12 €; pulsera de 7 monumentos 14 € | Alcázar 7 € (10 € con torre); Catedral 4 € |
+| Terreno | Muchas cuestas | Una subida suave y después llano |
+| Mejor época | Primavera y otoño | Verano y otoño |
+| Excursión organizada | [Toledo con guía y entrada a la Catedral](/ciudades/madrid/actividades/excursion-toledo-dia-completo) | [Ávila y Segovia con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas) |
+
 ## Toledo vs Segovia: comparativa rápida
 
 | | Toledo | Segovia |
@@ -84,6 +97,8 @@ Segovia se recorre en línea recta, y eso es parte de su encanto: llegas al **ac
 - **El clima:** a unos 1.000 metros de altitud, en verano refresca al atardecer; en invierno hace frío de verdad.
 
 Con cinco o seis horas ves lo esencial sin prisas y comes con calma; la ruta paso a paso está en [qué ver en Segovia en un día](/guias/madrid/que-ver-en-segovia-en-un-dia). Por eso Segovia se combina tan a menudo con [Ávila](/guias/madrid/que-ver-en-avila-en-un-dia), como en la [excursión a Ávila y Segovia con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas). Y si quieres ver acueducto, Catedral y Alcázar a la vez, el vuelo en globo sobre Segovia es la manera más memorable.
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Cómo llegar sin perder la mañana
 

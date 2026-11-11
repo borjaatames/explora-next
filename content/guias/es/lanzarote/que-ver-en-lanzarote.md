@@ -51,6 +51,17 @@ imagen_portada: "/images/actividades/lanzarote/zonas/el-golfo-crater.webp"
 imagen_alt: "El Charco de los Clicos, la laguna verde de El Golfo, junto a la playa de arena negra"
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Timanfaya, Jameos del Agua y Cueva de los Verdes con entradas](/ciudades/lanzarote/actividades/timanfaya-jameos-cueva-de-los-verdes) | 4,5★ (2.910) | 89 € |
+| [Tour de día completo por lo más destacado de la isla](/ciudades/lanzarote/actividades/tour-lanzarote-dia-completo) | 4,7★ (3.379) | 51 € |
+| [La Graciosa en catamarán con almuerzo, baño y kayak](/ciudades/lanzarote/actividades/la-graciosa-catamaran-almuerzo) | 4,6★ (2.132) | 66 € |
+| [Senderismo guiado por los volcanes de Timanfaya](/ciudades/lanzarote/actividades/senderismo-volcanes-timanfaya) | 4,8★ (990) | 47 € |
+| [Kayak y esnórquel en la playa de Papagayo](/ciudades/lanzarote/actividades/kayak-esnorquel-papagayo) | 4,7★ (162) | 45 € |
+| [Buggy todoterreno por el norte volcánico](/ciudades/lanzarote/actividades/buggy-volcanes-norte-lanzarote) | 4,6★ (5.653) | 150 € por buggy |
+
 ## Lanzarote en 4 días: rutas por zonas
 
 Con **cuatro o cinco días** ves lo esencial sin correr. Con tres, elige entre La Graciosa y un día de playa; con una semana, añade rutas a pie y alguna tarde en Famara o Papagayo.

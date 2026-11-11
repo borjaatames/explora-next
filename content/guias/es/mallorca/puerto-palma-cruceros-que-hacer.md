@@ -51,6 +51,13 @@ actividades:
   - cartuja-valldemossa-entrada-audioguia
 ---
 
+## Excursiones que encajan con una escala en Palma
+
+| Excursión | Duración | Precio desde |
+| --- | --- | --- |
+| [Tour a pie con entrada a la Catedral y ensaimada](/ciudades/mallorca/actividades/palma-tour-catedral-ensaimada-grupo-reducido), 4,8★ (237) | 2 h 30 min | 39 € |
+| [Cuevas del Drach con concierto, desde Palma](/ciudades/mallorca/actividades/cuevas-del-drach-concierto-barca-desde-palma), 4,4★ (1.489) | 5 h, sale a las 9:30 | 54 € |
+
 ## ¿Dónde atraca el crucero en Palma? Muelle de Poniente y Dique del Oeste
 
 El puerto de Palma tiene dos zonas para cruceros, ambas al oeste de la ciudad:
@@ -89,6 +96,10 @@ Cuenta siempre el tiempo real en tierra: desde que bajas del barco hasta una hor
 **Castell de Bellver.** El castillo circular con vistas a la bahía cuesta **4 €** y **cierra los lunes**. De martes a sábado abre de 10:00 a 18:00 y los domingos de 10:00 a 15:00, con entrada gratuita. Ningún bus urbano sube hasta la puerta: desde el puerto, lo práctico es un taxi.
 
 **Valldemossa por libre.** La **línea 203 del TIB** sale de la Estació Intermodal (Plaça d'Espanya) hacia Valldemossa, Deià y Sóller. La Real Cartuja se visita en una hora.
+
+[actividad: palma-visita-guiada-casco-antiguo]
+
+[actividad: valldemossa-soller-port-soller-autobus-tranvia]
 
 ## El tren de Sóller desde el puerto
 

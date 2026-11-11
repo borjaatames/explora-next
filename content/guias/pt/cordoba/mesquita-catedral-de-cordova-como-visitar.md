@@ -53,6 +53,14 @@ opciones:
     etiqueta: Com a Judiaria
 ---
 
+## Que bilhete escolher?
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour guiado pela Mesquita-Catedral sem filas](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 4,6★ (10.966) | 32 € |
+| [Bilhete para a Mesquita-Catedral com audioguia](/pt/cities/cordoba/activities/cordova-mesquita-catedral-bilhete-audioguia) | 4,2★ (3.788) | 22 € |
+| [Tour pela Mesquita e pela Judiaria com bilhetes](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 4,5★ (2.200) | 34 € |
+
 ## O que ver dentro da Mesquita de Córdova
 
 - **A floresta de colunas.** Restam 856 das quase 1.300 originais, com duplos arcos em ferradura vermelhos e brancos e mármore e granito romanos e visigodos reaproveitados. É a imagem que define o monumento.

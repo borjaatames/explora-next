@@ -56,6 +56,15 @@ opciones:
     etiqueta: Private
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A timed ticket, no guide | [Cathedral and Giralda skip-the-line entry](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4.6★ (3,500) | €17.50 |
+| The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
+| Both monuments without rushing | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
+| A guide just for your group | [Royal Alcázar and Cathedral private tour with tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5.0★ (188) | €300 per group |
+
 ## What you'll see
 
 - **The nave and the high altarpiece**, one of the largest in Christendom, with the choir stalls and the Royal Chapel.
@@ -93,6 +102,8 @@ The ticket office is at the **Puerta del Príncipe** and closes at **17:00** Mon
 
 **Seville Cathedral free entry on Sundays:** there's free access, subject to the liturgical calendar. Tickets are collected **in person at the Puerta del Príncipe ticket office from 17:00** until closing, with limited capacity, and can't be booked online. If you're there on a Sunday, try it, but don't make it your plan.
 
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
 ## Getting there and what you see without a ticket
 
 It's on **Avenida de la Constitución**, opposite the Real Alcázar: metro **Puerta de Jerez (L1)** and the **Archivo de Indias** tram stop, a few minutes' walk away.
@@ -104,6 +115,8 @@ If you can't get in, you still see a lot from outside:
 - **Plaza del Triunfo**, between the Cathedral and the Alcázar, with the Puerta del Príncipe on one side.
 
 If you're missing the Alcázar too, [what to do if Alcázar of Seville tickets are sold out](/en/guides/sevilla/alcazar-of-seville-tickets-sold-out) covers its options.
+
+[actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
 ## Tips
 

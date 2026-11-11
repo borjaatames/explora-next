@@ -53,6 +53,18 @@ faq:
   respuesta: 'Mayo, junio y septiembre: más seco, días largos y ambiente del Camino. Julio y agosto tienen buen tiempo pero masificación; el 24-25 de julio son las Festas do Apóstolo. Llueve unos 140 días al año: lleva paraguas siempre.'
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour por la catedral, el museo y el casco antiguo](/ciudades/santiago-de-compostela/actividades/catedral-museo-casco-antiguo-santiago) | 4,8★ (439) | 24 € |
+| [Tour a pie por el casco antiguo con guía oficial](/ciudades/santiago-de-compostela/actividades/tour-a-pie-casco-antiguo-santiago) | 4,8★ (356) | 10 € |
+| [Tour por la catedral y el museo sin colas](/ciudades/santiago-de-compostela/actividades/catedral-santiago-museo-tour-guiado) | 4,7★ (2.454) | 25 € |
+| [Tour de tapas con bebidas y música en directo](/ciudades/santiago-de-compostela/actividades/tour-tapas-santiago-musica-directo) | 4,7★ (231) | 45 € |
+| [Finisterre, Muxía y la Costa da Morte](/ciudades/santiago-de-compostela/actividades/excursion-finisterre-muxia-costa-da-morte) | 4,7★ (2.372) | 52 € |
+| [Rías Baixas con paseo en barco y bodega](/ciudades/santiago-de-compostela/actividades/excursion-rias-baixas-barco-bodega) | 4,7★ (486) | 47 € |
+| [Playa de las Catedrales, Lugo y Ribadeo](/ciudades/santiago-de-compostela/actividades/excursion-playa-catedrales-lugo-ribadeo) | 4,5★ (225) | 65 € |
+
 ## La ruta del día: qué ver en Santiago de Compostela
 
 | Hora | Qué |

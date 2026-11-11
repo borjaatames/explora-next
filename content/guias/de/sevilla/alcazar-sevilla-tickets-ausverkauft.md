@@ -57,6 +57,15 @@ opciones:
     etiqueta: Mit Kathedrale
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ticket mit Uhrzeit, ohne Guide | [Ticket für den Real Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/real-alcazar-seville-entry-ticket), 4,6★ (36.909) | 20 € |
+| Mit Guide und Cuarto Real Alto | [Real Alcázar, Führung ohne Anstehen](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Die beliebteste Option | [Kathedrale, Giralda und Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Mit freier Zeit in den Gärten | [Kathedrale, Giralda und Alcázar: 3,5-stündige Tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
+
 ## Zuerst die offizielle Website genau prüfen
 
 Die offizielle Verkaufswebsite ist **alcazardesevilla.infoticketing.com**, verlinkt von alcazarsevilla.org. Der normale Eintritt kostet **15,50 €** (ermäßigt 8 €), der **Cuarto Real Alto** 5,50 € extra. Wenn dein Datum ausverkauft ist:
@@ -85,6 +94,8 @@ Prüf vor dem Bezahlen, dass im Angebot **„Eintritt in den Real Alcázar inklu
 
 [actividad: real-alcazar-sevilla-entrada]
 
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
 ## Alcázar Sevilla kostenlos am Montag
 
 Montags gibt es eine Stunde freien Eintritt: von **18:00 bis 19:00 Uhr** (April bis September) und von **16:00 bis 17:00 Uhr** (Oktober bis März). Reserviert wird nur online, auf derselben Website, und die Plätze sind sehr schnell weg. Wenn du an einem Montag da bist, versuch es, aber plan nicht damit.
@@ -98,6 +109,8 @@ Wenn du nichts bekommst, siehst du auch ohne Eintritt einiges:
 - Den **Callejón del Agua** und die **Jardines de Murillo** im Viertel Santa Cruz, die an der Mauer des Alcázar entlangführen.
 
 Und wenn du Mudéjar-Kunst anderswo suchst: Die **Casa de Pilatos** hat Höfe und Fliesen derselben Familie, etwa 15 Gehminuten entfernt.
+
+[actividad: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia]
 
 ## Fehler, die du vermeiden solltest
 

@@ -110,6 +110,8 @@ Les musées nationaux suivent le même schéma, samedi après-midi et dimanche m
 5. **Gratuit ne veut pas dire bon marché :** une paella à 30 € sur la Plaza Mayor ruine le plan. Menu du jour à 10-12 € à Chamberí, sandwich aux calamars dans un bar de quartier ou pique-nique au Retiro.
 6. **Les boîtes « gratuites » de Sol et de la Gran Vía :** 10 € le premier verre. Mieux vaut un bar de quartier avec la caña à 2,50 €.
 
+[actividad: reina-sofia-entrada]
+
 ## Ce qui vaut vraiment la peine d'être payé
 
 1. **Le Prado à 10 h (15 €).** Le meilleur billet de Madrid : Velázquez sans personne devant.

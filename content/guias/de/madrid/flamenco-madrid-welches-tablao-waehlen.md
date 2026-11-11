@@ -50,6 +50,13 @@ faq:
   respuesta: Las Carboneras funktioniert ab etwa 7-8 Jahren; für Torres Bermejas empfehlen die Bewertungen eher ab 12.
 ---
 
+## Las Carboneras oder Torres Bermejas?
+
+| Tablao | Ab | Atmosphäre | Optionen | Ideal für |
+|---|---|---|---|---|
+| [Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 45 € | Keller eines historischen Palastes aus dem 17. Jahrhundert, intimes Format im Cabaret-Stil | Show + Getränk; Show + Abendessen als eigenes Ticket | Wer ein Boutique-Tablao mit fester Besetzung bekannter Künstler sucht |
+| [Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | 31 € | Von der Alhambra inspirierte Einrichtung, größeres Format | Nur Show, Getränk, Tapas oder 3-Gänge-Menü, je nach Ticket | Wer mehr Spielraum bei Preis und Uhrzeit und optional ein komplettes Abendessen will |
+
 ## Die beste Flamenco Show in Madrid in 30 Sekunden wählen
 
 - **Knappes Budget oder Abendessen am selben Ort:** Torres Bermejas, Ticket ab 31 €, mit Option auf ein spanisches 3-Gänge-Menü.

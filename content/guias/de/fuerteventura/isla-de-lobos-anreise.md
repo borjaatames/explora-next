@@ -81,6 +81,8 @@ Entscheidend ist, **das Boot auf dein Zeitfenster abzustimmen**: Mit Vormittagsg
 
 **Empfohlene Route:** Anleger, El Puertito, Las Lagunitas, Leuchtturm Martiño, La Caldera und zurück nach La Concha zum Baden. Etwa **drei Stunden** gemütlich, ohne Schatten. Bleib nicht nur in La Concha: Leuchtturm und La Caldera sind das Beste der Insel. Hier beginnt auch die erste Etappe des **GR 131** auf Fuerteventura.
 
+[actividad: catamaran-isla-lobos-corralejo]
+
 ## Essen auf Lobos
 
 Es gibt nur **ein Restaurant**, bei El Puertito, bekannt für Fisch und Paella. Es ist schnell voll: Wer dort essen will, trägt sich gleich nach der Ankunft ein. Nimm immer **Wasser und Essen** mit.

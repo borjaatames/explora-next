@@ -56,6 +56,17 @@ opciones:
     etiqueta: "Grupo de 6: dos tuk tuks, ruta completa"
 ---
 
+## Tabla de precios por persona
+
+| Opción | Duración | 2 personas | 4 personas | 6 personas |
+| --- | --- | --- | --- | --- |
+| Free tour (propina) | Paseo a pie | 10-20 € de media | 10-20 € | 10-20 € |
+| [Tour a pie, grupo de máx. 10](/ciudades/madrid/actividades/walking-tour-habsburgos-grupo-reducido) | 2 h | 29,95 € | 29,95 € | 29,95 € |
+| [Bus turístico Big Bus](/ciudades/madrid/actividades/madrid-big-bus-hop-on-hop-off) | 24 h, 3 rutas | 29,70 € | 29,70 € | 29,70 € |
+| [Tuk tuk privado, centro y Gran Vía](/ciudades/madrid/actividades/tuk-tuk-centro-historico-gran-via-madrid) | 1 h 15 min | 39,50 € (79 €) | 19,75 € (79 €) | 26,33 € (2 tuk tuks, 158 €) |
+| [Tuk tuk privado, ruta completa](/ciudades/madrid/actividades/tuk-tuk-madrid-completo-ruta-1-2) | 2 h 15 min | 64,50 € (129 €) | 32,25 € (129 €) | 43 € (258 €) |
+| [Tour privado a pie por la Gran Vía](/ciudades/madrid/actividades/tour-privado-gran-via-madrid) | 2 h | 82 € (164 €) | 60 € (240 €) | 50 € (300 €) |
+
 ## La mejor forma de ver Madrid en un día, según quién viaja
 
 - **Pareja con presupuesto ajustado:** free tour o tour a pie en grupo reducido (29,95 €, máximo 10). En tuk tuk pagaríais 39,50 € cada uno por 1 h 15 min.
@@ -119,3 +130,5 @@ El punto medio si queréis guía en directo solo para vosotros y preguntar sin p
 Mientras están encendidas las luces (del **21 de noviembre al 6 de enero**), hay una versión nocturna del tuk tuk privado que las recorre: hora y media para hasta 4 personas, sin colas al frío. Va abierto, así que lleva abrigo. El resto de planes de esas fechas están en [Navidad en Madrid](/guias/madrid/navidad-madrid).
 
 Para organizar el resto de la visita, mira [Madrid en 3 días](/guias/madrid/madrid-en-3-dias) y, si quieres gastar lo mínimo, [Madrid gratis](/guias/madrid/madrid-gratis).
+
+[actividad: tuk-tuk-luces-navidad-madrid]

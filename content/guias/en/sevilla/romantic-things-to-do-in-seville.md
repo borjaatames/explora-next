@@ -50,6 +50,19 @@ actividades:
   - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price for two | Best for |
+| --- | --- | --- | --- |
+| [Sunset rooftops, private tour](/en/cities/sevilla/activities/seville-rooftops-sunset-private-tour-setas) | 2 h 30 min | €384 (€192 each) | A special occasion; cocktail at the Setas |
+| [Private carriage ride with a guide](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1 h 30 min | €298 per carriage | The classic, with proper commentary |
+| [Flamenco at Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) | 1 h | €48 | Close-up flamenco in a small room |
+| [Tablao El Arenal](/en/cities/sevilla/activities/seville-flamenco-show-tablao-el-arenal-historic) | 1 h | From €90 | A classic venue by the bullring |
+| [Andalusian cooking class in a house](/en/cities/sevilla/activities/andalusian-cooking-class-traditional-house-seville) | 5 h | €796 (€398 each) | Couples who love cooking |
+| [Mysterious Seville at sunset, private](/en/cities/sevilla/activities/mysterious-seville-private-tour-sunset) | 1 h 30 min | €125 per group | Legends at the loveliest hour |
+| [Guadalquivir cruise with a drink](/en/cities/sevilla/activities/seville-guadalquivir-river-boat-tour) | 1-1.5 h | €50 | A relaxed, affordable plan |
+| [Setas viewpoint](/en/cities/sevilla/activities/seville-setas-metropol-parasol-entry-ticket-viewpoint) | 40 min | €32 | Sunset on your own |
+
 ## A sunset rooftop in Seville
 
 This is the one for a special occasion. A guide just for you takes you up to **two rooftops** in the centre; the second is the **Setas viewpoint** (Metropol Parasol), just as the Giralda and the domes light up. Along the way you hear legends that only make sense from up on the roofs.
@@ -75,6 +88,8 @@ The alternative is a **private 90-minute ride with a guide** specialising in And
 
 In July and August the heat lasts until late; ride after 8 pm.
 
+[actividad: paseo-coche-caballos-sevilla-guia-privado]
+
 ## Flamenco for two
 
 For a couple, a small room works better than a big dinner-show venue:
@@ -83,6 +98,8 @@ For a couple, a small room works better than a big dinner-show venue:
 - **Tablao El Arenal:** fifty years of flamenco next to the Maestranza, **from €45** per person.
 
 Watch the timing: in spring and summer the sun sets late, so book flamenco after sunset. To compare every venue one by one, see our guide to [flamenco in Seville](/en/guides/sevilla/flamenco-seville-which-tablao-to-choose).
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cook together
 
@@ -95,6 +112,8 @@ The **Andalusian cooking class** is a five-hour private experience:
 
 Sessions at **11 am** (with lunch) and **5.30 pm** (with dinner). It costs **€398 per person** (minimum 2); mention any food intolerance when booking. As it takes five hours, it fits better on your first or second day than on the last.
 
+[actividad: clase-cocina-andaluza-casa-tradicional-sevilla]
+
 ## Seville for couples on a budget
 
 - **Plaza de España and María Luisa Park:** free, and among the loveliest spots in the city in the late afternoon.
@@ -103,6 +122,8 @@ Sessions at **11 am** (with lunch) and **5.30 pm** (with dinner). It costs **€
 - **Mysterious Seville at sunset:** a private 90-minute walk through the legends, crimes and mysteries of the old town, from the steps of the Setas. €125 per group (1 to 4 people), €62.50 each for a couple.
 
 Viewpoint, cruise and flamenco at Casa de la Memoria add up to about **€65 per person** for a full evening.
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## A perfect evening in romantic Seville
 

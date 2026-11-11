@@ -51,6 +51,16 @@ actividades:
   - tour-a-pie-casco-viejo-bilbao
 ---
 
+## Ausflüge, die zu einem Landgang in Bilbao passen
+
+| Ausflug | Dauer | Ab |
+| --- | --- | --- |
+| [Guggenheim: private Führung mit Ticket](/en/cities/bilbao/activities/guggenheim-bilbao-private-tour-guide-ticket) | 1,5 Std. (oder 4 Std. mit Stadt) | 320 € pro Gruppe |
+| [Privater Rundgang durch Zentrum und Altstadt](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4,6★ (133) | 2 Std. | 36 € |
+| [Getxo: Fahrradtour an der Küste mit Pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4,8★ (46) | 2 Std. 30 Min. | 60 € |
+| [Pintxos- und Getränketour durch die Altstadt](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4,7★ (62) | 3 Std. 30 Min. | 89 € |
+| [Gaztelugatxe, Mundaka und Gernika privat](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 Std. | 920 € pro Gruppe (1-2 Personen) |
+
 ## Kreuzfahrtterminal Getxo: wo das Schiff anlegt
 
 Am **Kreuzfahrtterminal Getxo** in der Bucht Abra, neben dem Jachthafen und dem **Strand von Ereaga**. Es gibt drei Liegeplätze: Getxo 1 und 2 teilen sich ein Gebäude, Getxo 3 hat ein eigenes. Das Zentrum von Bilbao liegt **12–15 km** flussaufwärts.
@@ -86,6 +96,12 @@ Am **Kreuzfahrtterminal Getxo** in der Bucht Abra, neben dem Jachthafen und dem 
 **Die Schwebefähre in Getxo.** Die **Puente Bizkaia**, UNESCO-Welterbe, verbindet Getxo und Portugalete und liegt etwa **3 km** vom Terminal entfernt, am Fluss entlang oder mit der Metro bis **Areeta**. Die Überfahrt mit der **Gondel** kostet **0,60 €** und läuft rund um die Uhr. Der **obere Steg** kostet **11 €** und ist von 10:00 bis 14:00 und 16:00 bis 19:00 Uhr geöffnet (bei technischen Problemen kürzer). Wenn du nicht nach Bilbao willst, gibt es eine Radtour an der Küste von Getxo ab Algorta, mit Brücke, Altem Hafen und Pintxo.
 
 **Und San Sebastián?** Gut eine Stunde Fahrt. Für 3–4 Stunden dort mit Puffer brauchst du **9–10 Stunden an Land**, und Gruppenausflüge ab Bilbao starten früh im Zentrum, passen also nicht zu einem Landgang. Liegt dein Schiff den ganzen Tag im Hafen, ist ein Wagen mit Fahrer die Option; sonst bleib in Bilbao. Das gilt auch für den privaten Ausflug nach Gaztelugatxe, Mundaka und Gernika (7 Stunden): nur ab 9 Stunden Aufenthalt; frag bei der Buchung, ob am Terminal Getxo abgeholt wird.
+
+[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
+
+[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+
+[actividad: gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao]
 
 ## Ausflug der Reederei oder auf eigene Faust
 

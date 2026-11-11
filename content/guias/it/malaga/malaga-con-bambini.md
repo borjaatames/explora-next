@@ -47,6 +47,15 @@ faq:
   respuesta: 'Da marzo a giugno e a settembre-ottobre: bel tempo e acqua piacevole. L''inverno è molto mite. A luglio e agosto la spiaggia è perfetta, ma il centro a mezzogiorno sfinisce i più piccoli.'
 ---
 
+## Attività con bambini che puoi prenotare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Catamarano nella baia](/it/cities/malaga/activities/malaga-giro-in-catamarano-al-tramonto) | 4,4★ (10.537) | 13 € |
+| [Grotte di Nerja e Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3.192) | 69 € |
+| [Alcazaba e Teatro Romano con guida](/it/cities/malaga/activities/malaga-visita-guidata-alcazaba-teatro-romano) | 4,7★ (7.412) | 13 € |
+| [Caminito del Rey (dagli 8 anni)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Cosa fare a Malaga con bambini
 
 Il segreto è alternare: **una mattina di castello o centro storico a piccole dosi e un pomeriggio di spiaggia o animali**. Così Malaga rende senza stress.

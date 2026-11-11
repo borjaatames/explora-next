@@ -53,6 +53,14 @@ opciones:
     etiqueta: Più quartiere ebraico
 ---
 
+## Quale biglietto scegliere?
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour guidato salta-fila della Moschea-cattedrale](/it/cities/cordoba/activities/moschea-cattedrale-visita-guidata-salta-fila) | 4,6★ (10.966) | 32 € |
+| [Biglietto della Moschea-cattedrale con audioguida](/it/cities/cordoba/activities/moschea-cattedrale-biglietto-con-audioguida) | 4,2★ (3.788) | 22 € |
+| [Tour della Moschea e del quartiere ebraico con biglietti](/it/cities/cordoba/activities/tour-a-piedi-mezquita-juderia-cordoba) | 4,5★ (2.200) | 34 € |
+
 ## Cosa vedere nella Moschea di Cordova
 
 - **La foresta di colonne.** Ne restano 856 delle quasi 1.300 originali, con doppi archi a ferro di cavallo bianchi e rossi e marmi e graniti romani e visigoti di recupero. È l'immagine che definisce il monumento.

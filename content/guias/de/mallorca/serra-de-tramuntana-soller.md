@@ -55,6 +55,8 @@ faq:
 
 **Fornalutx.** Gleich neben Sóller und eines der schönsten Dörfer Spaniens: Steintreppen, Geranien und Stille.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Der Zug von Sóller
 
 Der **Holzzug von 1912** verbindet Palma mit Sóller quer durch die Tramuntana, durch Tunnel und Orangenhaine: **eine Stunde** Fahrt, die schon eine Attraktion für sich ist (**30 € hin und zurück**). In Sóller geht es mit der **historischen Straßenbahn** zum Hafen weiter. Die beste Option, wenn du die Kurven nicht fahren willst; in der Saison reservieren.

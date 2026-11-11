@@ -100,3 +100,5 @@ Per inserire il giro nel viaggio, guarda [Madrid in 3 giorni](/it/guides/madrid/
 - **Non andare da Casa Dani a metà pomeriggio:** la tortilla finisce.
 - **Prenota a Malacatín o Casa Lucio** nel fine settimana.
 - **A Casa Labra ordina il baccalà**, non le crocchette di prosciutto.
+
+[actividad: aventura-vino-tapas-la-latina]

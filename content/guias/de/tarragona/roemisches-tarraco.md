@@ -46,6 +46,12 @@ faq:
   respuesta: In der zweiten Maihälfte. Es gibt historische Nachstellungen, Gladiatoren im Amphitheater und Hunderte Aktivitäten, viele davon kostenlos. Die Hotels sind schnell voll, also früh buchen.
 ---
 
+## Besuche, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Eintritt in die Kathedrale mit Audioguide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4,4★ (105) | 12,5 € |
+
 ## Was du im römischen Tarraco sehen solltest
 
 - **Amphitheater von Tarragona:** am Meer, das berühmteste Bild der Stadt. Schauplatz von Gladiatorenkämpfen, mit erhaltenen westgotischen Resten.
@@ -56,6 +62,8 @@ faq:
 - **Aquädukt Les Ferreres:** der „Pont del Diable“, das am besten erhaltene römische Aquädukt der Gegend, am Stadtrand.
 
 Um das Ensemble zu verstehen und die Mosaiken zu sehen, lohnt das **MNAT (Museu Nacional Arqueològic)**. An der alten Via Augusta liegen am Stadtrand außerdem der **Arc de Berà** und der **Torre dels Escipions**.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Preise und Öffnungszeiten: das Kombiticket
 

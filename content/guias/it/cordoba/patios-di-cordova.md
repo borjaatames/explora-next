@@ -43,6 +43,12 @@ faq:
   respuesta: All'apertura, alle 11:00, o verso sera. A mezzogiorno ci sono code e caldo, e tra le 14:00 e le 18:00 è tutto chiuso.
 ---
 
+## Tour dei patios con biglietti
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Gli autentici patios cordovesi, tour di 2 ore con biglietti](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1.106) | 19 € |
+
 ## La Festa dei Patios a maggio
 
 Per circa **due settimane a maggio**, decine di case dei quartieri storici aprono i loro patios imbiancati e partecipano a un concorso. Nel 2026 si è svolta dal **4 al 17 maggio**, con **53 patios** in concorso distribuiti su cinque percorsi. L'ingresso è **gratuito**: si fa un percorso a piedi, di patio in patio.

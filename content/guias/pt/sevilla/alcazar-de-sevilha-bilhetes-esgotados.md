@@ -57,6 +57,15 @@ opciones:
     etiqueta: Com a Catedral
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Bilhete com hora, sem guia | [Bilhete para o Real Alcázar com acesso prioritário](/pt/cities/sevilla/activities/real-alcazar-sevilha-bilhete-entrada), 4,6★ (36.909) | 20 € |
+| Com guia e o Cuarto Real Alto | [Real Alcázar, visita guiada sem filas](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Com tempo livre nos jardins | [Catedral, Giralda e Alcázar: tour de 3,5 horas](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
+
 ## Alcázar de Sevilha esgotado, o que fazer: primeiro reveja bem o site oficial
 
 O site oficial de venda é **alcazardesevilla.infoticketing.com**, com ligação a partir de alcazarsevilla.org. A entrada geral custa **15,50 €** (reduzida, 8 €) e o **Cuarto Real Alto** mais 5,50 €. Se a sua data aparecer esgotada:
@@ -85,6 +94,8 @@ Antes de pagar, confirme que a ficha diz **«entrada no Real Alcázar incluída�
 
 [actividad: real-alcazar-sevilla-entrada]
 
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
 ## Alcázar de Sevilha segunda-feira grátis
 
 Às segundas-feiras há uma hora de entrada gratuita: das **18h00 às 19h00** de abril a setembro e das **16h00 às 17h00** de outubro a março. Reserva-se só online, no mesmo site, e os lugares esgotam muito depressa. Se calhar numa segunda-feira, tente, mas não conte com isso como plano.
@@ -98,6 +109,8 @@ Se não conseguir nada, pode ver bastante sem entrar:
 - O **Callejón del Agua** e os **Jardins de Murillo**, no bairro de Santa Cruz, que contornam a muralha do Alcázar.
 
 E se procura arte mudéjar noutro sítio, a **Casa de Pilatos** tem pátios e azulejos da mesma família, a cerca de 15 minutos a pé.
+
+[actividad: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia]
 
 ## Erros a evitar
 

@@ -69,6 +69,8 @@ La Alhambra no es un palacio: es una ciudad amurallada sobre una colina, con tre
 
 El precio de esa grandeza es la logística: **una hora fija para los Palacios Nazaríes** con solo 30 minutos de margen, **unas 4 horas** de visita con bastante cuesta, y entradas que salen hasta tres meses antes y cuyas mañanas de primavera desaparecen con semanas de antelación. Para elegir formato, mira [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## Por qué el Alcázar puede ser tu respuesta
 
 El Real Alcázar es el **palacio real en uso más antiguo de Europa**. Su estrella, el Palacio de Pedro I (1364), lo levantaron artesanos que venían de trabajar en Granada y Toledo: recuerda a la Alhambra sin ser una copia, con inscripciones árabes junto a escudos de Castilla, el **Patio de las Doncellas** y la cúpula dorada del **Salón de Embajadores**.

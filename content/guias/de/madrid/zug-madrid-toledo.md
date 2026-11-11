@@ -61,6 +61,15 @@ opciones:
 
 ## Zug, Bus oder Auto im Überblick
 
+| Option | Fahrzeit | Preis (ca.) | Takt | Ideal für |
+| --- | --- | --- | --- | --- |
+| Avant ab Atocha | 33 Min. | 22–26 € hin und zurück | etwa stündlich | Tempo, wenn du früh buchst |
+| Alsa-Bus ab Plaza Elíptica | 50 Min. direkt, bis 1 Std. 30 | ab 6,55 € pro Strecke | 83-mal am Tag | Kleines Budget, späte Rückfahrt |
+| Auto über die A-42 | etwa 1 Std. | Benzin und Parken | jederzeit | Gruppen, Sonnenuntergang am Mirador del Valle |
+| [Geführter Tagesausflug](/en/cities/madrid/activities/toledo-full-day-from-madrid) | 8 Std., alles inklusive | ab 79 € | täglich | Null Planung |
+
+## Zug, Bus oder Auto im Überblick
+
 | Option | Dauer | Preis ca. | Takt | Für wen |
 | --- | --- | --- | --- | --- |
 | Avant-Zug ab Atocha | 33 Min. | 22-26 € hin und zurück | Etwa stündlich | Wer schnell sein will und früh bucht |
@@ -73,6 +82,10 @@ Der Zug ist am schnellsten, aber der Bahnhof Toledo liegt unten am Fluss und die
 [actividad: excursion-toledo-dia-completo]
 
 Hier geht es nur um **Hin- und Rückfahrt**. Für den Rundgang durch die Stadt lies unseren [Tagesausflug nach Toledo ab Madrid](/de/guides/madrid/tagesausflug-toledo-ab-madrid).
+
+[actividad: toledo-full-day-from-madrid]
+
+[actividad: toledo-tourist-bracelet-7-monuments]
 
 ## Der Avant-Zug nach Toledo: Fahrplan und Preis
 

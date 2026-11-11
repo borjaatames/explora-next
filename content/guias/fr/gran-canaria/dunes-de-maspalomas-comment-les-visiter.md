@@ -45,6 +45,14 @@ imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
 imagen_alt: "Les dunes de Maspalomas au coucher du soleil"
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Balade à dos de dromadaire dans les dunes de Maspalomas](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4,5★ (5 263) | 18 € |
+| [Excursion d'une journée depuis Las Palmas : Guayadeque, Maspalomas et Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4,6★ (716) | 48 € |
+| [Buggy tout-terrain dans les ravins du sud](/fr/cities/gran-canaria/activities/gran-canaria-excursion-buggy-tout-terrain-ravins) | 4,8★ (3 728) | 65 € |
+
 ## Ce que vous allez voir
 
 - **Les dunes** : du sable marin que le vent transporte et accumule, et qui se déplace chaque année. De l'intérieur, on se croirait dans un petit désert au bord de l'océan.
@@ -67,6 +75,8 @@ imagen_alt: "Les dunes de Maspalomas au coucher du soleil"
 **Sans voiture :** la **ligne 30 de Global** part de Las Palmas (gare de Santa Catalina ; certains départs de San Telmo) et s'arrête à Playa del Inglés et au Faro de Maspalomas, environ toutes les 20 minutes en journée en semaine et toutes les 30 minutes le week-end (2026).
 
 **En voiture :** garez-vous dans les centres commerciaux de Playa del Inglés (Yumbo, Kasbah, payants) ou dans la zone du phare.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Les règles de la réserve naturelle
 

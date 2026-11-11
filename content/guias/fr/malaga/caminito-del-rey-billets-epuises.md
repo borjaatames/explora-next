@@ -45,6 +45,15 @@ faq:
   respuesta: 'Allez voir les lacs de barrage d''Ardales et d''El Chorro et déjeunez à El Chorro ou à Álora, ou changez d''excursion : El Torcal et les dolmens d''Antequera, ou Ronda et son Puente Nuevo au-dessus des gorges.'
 ---
 
+## Ce que vous pouvez réserver maintenant
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Billet avec guide, si vous y allez par vos propres moyens | [Caminito del Rey : billet avec guide officiel](/fr/cities/malaga/activities/caminito-del-rey-billet-guide-officiel-sans-transport), 4,6★ (16 892) | 30 € |
+| Avec transport depuis Malaga | [Visite guidée avec transport et billet](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga), 4,9★ (19 083) | 72 € |
+| Plan B nature | [Dolmens d'Antequera et El Torcal](/fr/cities/malaga/activities/excursion-dolmens-antequera-el-torcal-depuis-malaga), 4,7★ (102) | 65 € |
+| Plan B villages | [Ronda et Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), 4,7★ (8 742) | 34 € |
+
 ## 1. Retournez sur le site officiel
 
 Le site officiel est caminitodelrey.info. Ici, **pas de libération de places au compte-gouttes**, car les billets ne sont ni échangeables ni remboursables, mais avant de renoncer à votre date :
@@ -74,6 +83,8 @@ Avant de payer, vérifiez que la fiche indique clairement que **l'entrée au Cam
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. S'il n'y a vraiment aucun moyen : que faire à la place
 
 Sans billet, impossible de passer le contrôle d'accès. Ce que vous pouvez faire :
@@ -81,6 +92,8 @@ Sans billet, impossible de passer le contrôle d'accès. Ce que vous pouvez fair
 - **Aller voir les lacs de barrage** d'Ardales et d'El Chorro, à l'eau turquoise de toutes les photos, et déjeuner à El Chorro ou à Álora.
 - **Changer d'excursion.** Depuis Malaga, **El Torcal d'Antequera** est l'autre grand paysage rocheux de la province, à combiner avec les **dolmens d'Antequera**, classés au patrimoine mondial.
 - **Ronda**, avec son Puente Nuevo au-dessus des gorges, est l'alternative si c'est le vertige du défilé qui vous attirait ; on la combine souvent avec Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Erreurs à éviter
 

@@ -61,6 +61,10 @@ From either, the centre is about a **5-minute walk**. The train station is about
 
 **Getting around:** on foot, as the old town is flat and compact. **City bus 1** (stop in Plaza de España, 300 metres away) goes to La Victoria beach; there are **taxi** ranks less than 5 minutes from the port; the **train** goes to Jerez and Seville; and the **catamaran** crosses to El Puerto de Santa María in 30 minutes.
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## Things to do in Cádiz from the cruise ship
 
 | Time ashore | Plan |
@@ -89,6 +93,8 @@ Seville is **about 90 minutes away on the AP-4**. Once there you need at least 4
 | Cruise-passenger excursion from the port | €119 + Alcázar entry | The operator works to the ship's schedule and offers a return guarantee |
 | Private from the port | About €300 (about €220 if there are 4) | The driver works to your schedule; the ship doesn't wait |
 | Train on your own | From about €20 return | All the risk is yours |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez from Cádiz by train
 

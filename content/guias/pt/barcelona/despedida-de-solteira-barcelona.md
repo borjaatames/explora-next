@@ -50,6 +50,19 @@ actividades:
   - flamenco-en-el-teatro-city-hall-mas-vendido
 ---
 
+## Os planos num relance
+
+| Atividade | Duração | Preço | Para que grupo |
+| --- | --- | --- | --- |
+| [Prova de cerveja para grupos privados num terraço](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) | 2 h | 55 € por pessoa | Só o vosso grupo; despedidas, aniversários e empresas |
+| [Sip & paint com sangria](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) | 2h30 | 19 € por pessoa | Grupos que querem rir sem sair à noite |
+| [Boat party num catamarã com DJ](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) | 2 h | 53,10 € por pessoa | Grupos com vontade de festa; não sai no inverno |
+| [Aula de salsa com sangria num terraço](/en/cities/barcelona/activities/barcelona-salsa-class-and-sangria-rooftop) | 2 h | 48,60 € por pessoa | Grupos que querem dançar; sem experiência |
+| [Prova de cerveja artesanal com música e karaoke](/en/cities/barcelona/activities/barcelona-craft-beer-tasting-live-music) | 2h30 | 17 € por pessoa | Plano noturno barato com karaoke opcional |
+| [Sessão fotográfica rápida](/en/cities/barcelona/activities/quick-photo-shoot-barcelona) | 20 min | 35 € por sessão | Uma recordação do grupo junto à Sagrada Família |
+| [Tour privado de tapas e vinho](/en/cities/barcelona/activities/private-tapas-and-wine-walking-tour) | 3 h | 298 € para 2, 594 € para 6 | Jantar guiado só para vocês |
+| [Flamenco no City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 1 h | Desde 25 € por pessoa | Espetáculo antes ou depois do jantar |
+
 ## Despedidas em Barcelona: a proibição e o que mudou
 
 - **Rotas de bares proibidas.** Desde **29 de outubro de 2025** é proibido em toda a cidade, a qualquer hora, organizar, vender ou participar em visitas a vários bares cujo objetivo principal é beber. Por isso aqui não recomendamos nenhum pub crawl.
@@ -57,6 +70,8 @@ actividades:
 - **Beber na rua:** as multas vão de **100 a 600 euros** nos casos leves.
 
 Nada disto afeta uma prova, um barco ou uma aula num só local.
+
+[actividad: sesion-fotos-rapida-barcelona]
 
 ## O que fazer numa despedida em Barcelona: prova de cerveja num terraço
 
@@ -74,6 +89,8 @@ O plano mais completo é uma prova de **seis cervejas artesanais** com um guia c
 - **Sip & paint (19 € por pessoa, 2 h 30 min):** pintam passo a passo com sangria à vontade, música e dança no fim, a partir das 17h30 na rua de la Mercè, em Ciutat Vella. Não é uma aula de arte, é um plano social, e não inclui comida. Cancelamento gratuito até 24 horas antes.
 - **Aula de salsa num terraço (48,60 € por pessoa, 2 h):** para principiantes, com sangria caseira ilimitada e vista, no Passeig de Gràcia. Em novembro começa às 17h00 e em dezembro às 16h00. Não reembolsável.
 
+[actividad: barcelona-sip-and-paint-sangria]
+
 ## Boat party em Barcelona para despedidas (a partir de março)
 
 Duas horas num **catamarã de dois pisos com DJ e pista de dança** em frente à costa, por **53,10 € por pessoa**, com vales para quatro bebidas e entrada em lista numa discoteca nessa mesma noite (é preciso entrar antes da 1h00). O check-in é no Ice Bar do passeio marítimo da Barceloneta.
@@ -84,6 +101,8 @@ Três coisas a saber:
 2. É **não reembolsável**.
 3. Não deixam embarcar quem chegue embriagado.
 
+[actividad: fiesta-en-barco-barcelona-catamaran-dj]
+
 ## Noite com karaoke, jantar, flamenco ou fotos
 
 - **Prova de cerveja artesanal na Craft Barcelona** (17 € por pessoa, 2 h 30 min), no Bairro Gótico: visita à cervejaria, prova guiada e bebidas depois; a seguir, música ao vivo e **karaoke opcional**. Sessões às 20h30 e às 22h30. Quem não bebe cerveja pode escolher sangria ou vermute.
@@ -92,6 +111,8 @@ Três coisas a saber:
 - **Sessão fotográfica:** paga-se por sessão, não por pessoa. **20 minutos com 10 fotos editadas por 35 €** junto à Sagrada Família (entrega em 24-48 horas), ou 30 minutos com 20-25 fotos por 68 € na Sagrada Família, no Gótico ou no Park Güell.
 
 Preços «desde» a 1 de novembro de 2026; podem variar conforme a data e a opção.
+
+[actividad: barcelona-cata-cerveza-artesana-musica-en-directo]
 
 ## Conselhos e erros típicos
 

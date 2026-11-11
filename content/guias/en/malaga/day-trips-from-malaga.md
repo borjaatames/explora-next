@@ -50,6 +50,16 @@ faq:
   respuesta: Access is free. When the upper car park fills up (mid-morning at weekends), the road is closed and you go up by shuttle bus from the lower car park, for €2 return.
 ---
 
+## Day trips with transport from Málaga
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Caminito del Rey guided tour](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+| [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4.7★ (8,742) | €34 |
+| [Nerja Caves, Nerja and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
+| [Gibraltar](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga) | 4.6★ (5,510) | €35 |
+| [Córdoba with Mosque ticket](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | 4.5★ (753) | €76 |
+
 ## The best day trips from Málaga
 
 | Destination | By car | Best for |
@@ -69,6 +79,8 @@ An hour along the coast, **Nerja** has the **Balcón de Europa**, a viewpoint ov
 
 - **Nerja Caves:** around €16 per adult. The visit takes 45 minutes and it's 19 °C inside: bring a light jacket. In summer and on long weekends, buy ahead to skip the queue.
 - **Don't see Nerja without Frigiliana:** together they make a better plan.
+
+[actividad: nerja-caves-entry-ticket]
 
 ## Antequera and El Torcal
 

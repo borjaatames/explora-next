@@ -69,6 +69,8 @@ The Alhambra isn't a palace: it's a walled city on a hill, with three parts that
 
 The price of that grandeur is logistics: **a fixed time for the Nasrid Palaces** with only a 30-minute window, **about 4 hours** of visiting with plenty of slopes, and tickets released up to three months ahead whose spring mornings vanish weeks in advance. To choose a format, see [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
+[actividad: visita-guiada-alhambra-generalife]
+
 ## Why the Alcázar may be your answer
 
 The Real Alcázar is the **oldest royal palace still in use in Europe**. Its star, the Palace of Peter I (1364), was built by craftsmen who had worked in Granada and Toledo: it recalls the Alhambra without being a copy, with Arabic inscriptions beside the arms of Castile, the **Courtyard of the Maidens** and the golden dome of the **Hall of the Ambassadors**.

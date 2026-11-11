@@ -47,6 +47,19 @@ faq:
   respuesta: 'Segovia. È a circa 1.000 metri di altitudine e a luglio e agosto di solito è parecchi gradi più fresca di Toledo, dove si arriva a 35-40 °C su salite senza ombra. In inverno è il contrario: Segovia è fredda e può nevicare.'
 ---
 
+## Confronto rapido
+
+| | Toledo | Segovia |
+| --- | --- | --- |
+| Treno da Madrid | Avant da Atocha, 33 min; 22-26 € andata e ritorno | Avant da Chamartín, circa 30 min, più bus urbano di 15 min (2 €) |
+| Autobus | Alsa da Plaza Elíptica, 1 h; circa 11 € andata e ritorno | Avanza da Moncloa, 1 h 15-1 h 20; circa 5 € a tratta |
+| Tempo necessario | Una giornata intera | Mezza giornata abbondante, con pranzo |
+| Imperdibili | Cattedrale, Santo Tomé, sinagoghe, Judería | Acquedotto, Cattedrale, Alcázar |
+| Biglietti chiave | Cattedrale 12 €; braccialetto 7 monumenti 14 € | Alcázar 7 € (10 € con la torre); Cattedrale 4 € |
+| Terreno | Molte salite | Una salita dolce e poi pianeggiante |
+| Periodo migliore | Primavera e autunno | Estate e autunno |
+| Escursione organizzata | [Toledo con guida e ingresso alla Cattedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila e Segovia con ingressi inclusi](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+
 ## Toledo vs Segovia: confronto rapido
 
 | | Toledo | Segovia |
@@ -84,6 +97,8 @@ Segovia si percorre in linea retta, ed è parte del suo fascino: arrivi all'**ac
 - **Il clima:** a circa 1.000 metri, d'estate la sera rinfresca; d'inverno fa freddo davvero.
 
 Con cinque o sei ore vedi l'essenziale senza fretta e pranzi con calma; il percorso passo a passo è in [cosa vedere a Segovia in un giorno](/it/guides/madrid/cosa-vedere-a-segovia-in-un-giorno). Per questo Segovia si abbina così spesso ad [Ávila](/it/guides/madrid/cosa-vedere-ad-avila-in-un-giorno), come nell'[escursione ad Ávila e Segovia con biglietti](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E per vedere acquedotto, Cattedrale e Alcázar tutti insieme, la mongolfiera su Segovia è il modo più memorabile.
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Come arrivare senza perdere la mattinata
 

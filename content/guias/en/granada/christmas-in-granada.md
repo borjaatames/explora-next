@@ -69,6 +69,10 @@ actividades:
 
 These are the 2025-26 dates. The City Council presents the programme in late November; we'll update this guide when it's out.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Granada Christmas lights and markets
 
 In 2025 the lights were switched on on **Saturday 29 November**, with dancing and local carols at 20:00, the switch-on at 20:30 and choirs around Bib-Rambla, Puerta Real, Zacatín and the Fuente de las Batallas.
@@ -98,6 +102,8 @@ Official tickets for the long weekends and Christmas sell out weeks ahead. A **g
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## Sierra Nevada at Christmas and plans with kids
 
 The resort is about **30 km from Granada**. In 2025-26 it opened on **29 November**, with runs in Borreguiles and snow cannons, and new lighting on the El Río runs for **Saturday night skiing**. For 2026-27 it has announced new snow machines to open the beginners' area earlier, but no date. The December long weekends and the week between Christmas and Three Kings are the busiest days. If you don't ski, the **Alpujarra** in winter, with fires lit and snow on the peaks, is a quieter day trip.
@@ -108,6 +114,8 @@ The resort is about **30 km from Granada**. In 2025-26 it opened on **29 Novembe
 - The **light show** on Plaza del Carmen, short and free.
 - The **Royal Postman**, who collects letters in the City Hall courtyard.
 - In Sierra Nevada, sledging at **Mirlo Blanco** and beginner runs in Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## New Year's Eve, the Toma (2 January) and the Three Kings parade
 
@@ -124,3 +132,5 @@ The **Sacromonte** caves are the night-time plan par excellence: Cueva La Rocío
 - **Going up to the Albaicín at 18:30:** in December it's already dark; for sunset light, go up around 17:00.
 - **Driving to Sierra Nevada without chains or checking the DGT:** after snowfall, the road may require them.
 - **Assuming 2 January is a working day:** in Granada it's a holiday and many shops close.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

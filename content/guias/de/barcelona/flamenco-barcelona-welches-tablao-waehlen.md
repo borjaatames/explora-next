@@ -59,6 +59,15 @@ faq:
 
 ## Die 4 Flamenco-Shows in Barcelona
 
+| Show | Ab | Format | Atmosphäre | Ideal für |
+|---|---|---|---|---|
+| [Teatro City Hall](/en/cities/barcelona/activities/flamenco-show-at-the-theater-city-hall-top-pick) | 25 € | Großes Theater | Die meistgebuchte Show Barcelonas, 4 Vorstellungen am Tag | Wer den niedrigsten Preis und maximale Flexibilität bei der Uhrzeit sucht |
+| [Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 30 € | Barockpalast aus dem 17. Jahrhundert, El Born | Die architektonisch eindrucksvollste Bühne, neben dem Picasso-Museum | Wer ein Erlebnis mit mehr historischem Charakter will |
+| [Tablao de Carmen](/en/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-poble-espanyol) | 88 € | Tablao mit Abendessen während der Show, Poble Espanyol | Das einzige, das während der Vorstellung serviert, wie es traditionell üblich war | Wer das komplette Erlebnis aus Essen und Show will |
+| [Tablao Cordobés](/en/cities/barcelona/activities/tablao-flamenco-cordobes-dinner-show-las-ramblas) | 48 € | Historisches Tablao (1970) an der Rambla, Show ohne Mikrofon | Intimes Format, Stimme und Gitarre ohne Verstärkung | Wer echten akustischen Klang mitten an der Rambla hören will |
+
+## Die 4 Flamenco-Shows in Barcelona
+
 | Show | Ab | Format | Ideal für |
 |---|---|---|---|
 | Teatro City Hall | 25 € | Großes Theater, das meistgebuchte Barcelonas, 4 Vorstellungen täglich | Niedrigsten Preis und flexible Zeiten |

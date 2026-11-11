@@ -63,6 +63,10 @@ actividades:
 
 Die Show um 20:30 an einem Samstag ist die vollste; die um 18:30 oder unter der Woche genießt man viel mehr.
 
+[actividad: malaga-esencial-tour-privado]
+
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
+
 ## Málaga Weihnachten 2026: der Kalender
 
 | Was | Wo | Wann (Ausgabe 2025) |
@@ -95,6 +99,8 @@ Wer keine Bars auswählen will: Die **Wein- und Tapas-Tour** führt in dreieinha
 
 **Mit Kindern:** **Alice Christmas** im Historisch-Botanischen Garten La Concepción am Stadtrand ist ein beleuchteter Rundgang von 18:30 bis 22:30 (Tickets auf lucesdelaconcepcion.es). Dazu die **städtische Krippe**, ein **Führer zu 73 Krippen** in der Stadt auf belenes.malaga.eu, **riesige Heilige Drei Könige** im Zentrum (2025 Melchior in der Calle Alcazabilla, Caspar auf der Plaza Félix Sáenz und Balthasar in der Calle Compañía) und im Dezember ein Kinderfest mit Puppentheater und Märchenerzählern.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
 ## Silvester, Dreikönigsumzug und Feiertage
 
 - **Glockenschläge auf der Plaza de la Constitución:** 2025 wurden von 21:30 bis 23:45 Tüten mit Trauben und Partyartikeln verteilt, solange der Vorrat reichte.
@@ -110,6 +116,8 @@ Wer keine Bars auswählen will: Die **Wein- und Tapas-Tour** führt in dreieinha
 Laut AEMET hat Málaga im Dezember eine **mittlere Höchsttemperatur von 17,5 °C** und rund 160 Sonnenstunden, im Januar 16,8 °C. Für die meisten kein Badewetter, aber ideal für Spaziergänge an der **Malagueta und in Pedregalejo**, Sardinenspieße mittags und, an klaren Tagen, eine **Katamaranfahrt durch die Bucht** bei Sonnenuntergang. Für einen kühlen Abend: die **arabischen Bäder Hammam Al Ándalus** im Zentrum.
 
 Wenn du einen Tag übrig hast: Die **Alhambra** besucht man im Winter ohne Hitze (es gibt einen privaten Ausflug ab Málaga mit Albaicín). Näher liegen **Nerja und Frigiliana**, gut als Gruppenausflug an einem Tag.
+
+[actividad: hammam-al-andalus-malaga]
 
 ## Typische Fehler
 

@@ -55,6 +55,8 @@ faq:
 
 **Fornalutx.** Tout près de Sóller, considéré comme l'un des plus beaux villages d'Espagne : escaliers de pierre, géraniums et silence.
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Le train de Sóller
 
 Le **train en bois de 1912** relie Palma à Sóller à travers la Tramuntana, entre tunnels et orangers : **une heure** de trajet qui est une attraction en soi (**30 € aller-retour**). À Sóller, il est en correspondance avec le **tramway historique** jusqu'au port. C'est la meilleure option si vous ne voulez pas affronter les virages ; réservez en saison.

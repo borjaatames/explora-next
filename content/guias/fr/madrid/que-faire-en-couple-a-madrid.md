@@ -50,6 +50,19 @@ actividades:
   - madrid-big-bus-night-tour
 ---
 
+## Les sorties en un coup d'œil
+
+| Activité | Durée | Prix pour deux | Pour quel couple |
+| --- | --- | --- | --- |
+| [Flamenco à Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | 90 €, avec une boisson chacun | Soirée spéciale dans un petit tablao |
+| [Tavernes centenaires, balade privée](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 2 h 10 min | 254 € (127 € par personne) | L'histoire de Madrid avec des tapas et sans inconnus |
+| [Vol en montgolfière au-dessus de Ségovie](/en/cities/madrid/activities/segovia-hot-air-balloon-ride) | 4 h (1 h de vol) | 410 € (205 € par personne) | Anniversaires et occasions spéciales |
+| [Pique-nique chic privé](/en/cities/madrid/activities/private-chic-picnic-experience-madrid) | 2 h | 140 € (70 € par personne) | Après-midi tranquille, sans alcool |
+| [Vins et tapas dans des bars cachés](/en/cities/madrid/activities/madrid-food-and-wine-tour-hidden-bars) | 3 h | 180 € | Couples amateurs de vin |
+| [Bodega et déjeuner à Chinchón](/en/cities/madrid/activities/winery-and-lunch-in-chinchon-from-madrid) | 6 h | 400 € | Escapade d'une journée hors de Madrid |
+| [Tuk-tuk panoramique privé](/en/cities/madrid/activities/exclusive-panoramic-tuk-tuk-tour-madrid) | 2 h | 140 € par tuk-tuk | Voir Madrid sans marcher des kilomètres |
+| [Bus panoramique de nuit](/en/cities/madrid/activities/madrid-big-bus-panoramic-night-tour) | 70 min | À partir de 46,80 € | Madrid illuminée, sortie bon marché |
+
 ## Dîner flamenco à Madrid en couple : un petit tablao
 
 **Las Carboneras** se trouve dans le sous-sol de l'ancien palais du comte de Miranda, à cinq minutes de la Plaza Mayor. C'est une petite salle à l'ambiance intime, avec des artistes attitrés et beaucoup d'improvisation.
@@ -71,6 +84,8 @@ Un guide privé vous emmène pendant **2 h 10** dans des tavernes et restaurants
 - **127 € par personne**, minimum 2. Le départ peut se faire avec prise en charge à votre hôtel.
 - Âge minimum 12 ans ; non accessible en fauteuil roulant.
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## Escapade romantique : montgolfière au-dessus de Ségovie depuis Madrid
 
 Une heure de vol au-dessus de **Ségovie**, avec l'aqueduc, la cathédrale et l'Alcázar d'un seul regard depuis le ciel. À l'atterrissage, des 4x4 vous conduisent à un **petit-déjeuner au cava**, et l'on vous remet le certificat de vol et un reportage photo.
@@ -79,6 +94,8 @@ Une heure de vol au-dessus de **Ségovie**, avec l'aqueduc, la cathédrale et l'
 - Sans voiture, la prise en charge à Madrid (Hotel Riu Plaza España) coûte **40 € par personne**.
 - Âge minimum 6 ans. Déconseillé aux femmes enceintes.
 - Prévoyez des vêtements confortables, des baskets et de quoi vous couvrir la tête. Les horaires dépendent du vent et des limites de poids.
+
+[actividad: vuelo-globo-segovia]
 
 ## Sorties tranquilles et escapades d'une journée
 
@@ -89,6 +106,10 @@ Une heure de vol au-dessus de **Ségovie**, avec l'aqueduc, la cathédrale et l'
 - **Bodega et déjeuner à Chinchón** (6 h, 200 € par personne) : transport depuis le centre, une bodega familiale historique avec visite de la cave et dégustation de trois vins, et déjeuner dans un restaurant traditionnel près de sa place médiévale. Groupes de huit maximum ; annulation gratuite jusqu'à 48 heures avant.
 
 Prix « à partir de » de chaque fiche au 1er novembre 2026 ; ils peuvent varier selon la date et la formule.
+
+[actividad: picnic-chic-privado-madrid]
+
+[actividad: bodega-y-comida-en-chinchon-desde-madrid]
 
 ## Sorties en amoureux à Madrid : une soirée parfaite
 

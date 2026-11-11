@@ -69,6 +69,10 @@ actividades:
 
 Sono le date dell'edizione 2025-26. Il Comune presenta il programma a fine novembre; aggiorneremo la guida quando uscirà.
 
+[actividad: albaicin-sacromonte-atardecer]
+
+[actividad: tour-privado-tapas-granada]
+
 ## Luminarie di Natale a Granada e mercatini
 
 Nel 2025 le luminarie si sono accese **sabato 29 novembre**, con balli e canti natalizi granadini alle 20:00, accensione alle 20:30 e cori sparsi tra Bib-Rambla, Puerta Real, lo Zacatín e la Fuente de las Batallas.
@@ -98,6 +102,8 @@ I biglietti ufficiali dei ponti e di Natale si esauriscono con settimane d'antic
 
 [actividad: alhambra-visita-nocturna]
 
+[actividad: alhambra-palacios-nazaries-visita-privada-traslado]
+
 ## Sierra Nevada a Natale e programmi con i bambini
 
 La stazione è a circa **30 km da Granada**. Nel 2025-26 ha aperto il **29 novembre**, con piste a Borreguiles e cannoni da neve, e ha rinnovato l'illuminazione delle piste di El Río per lo **sci notturno del sabato**. Per il 2026-27 ha annunciato nuovi impianti di innevamento per aprire prima l'area principianti, ma non la data. I ponti di dicembre e la settimana tra Natale e l'Epifania sono i giorni più affollati. Se non sciate, l'**Alpujarra** d'inverno, con i camini accesi e la neve sulle cime, è una gita in giornata più tranquilla.
@@ -108,6 +114,8 @@ La stazione è a circa **30 km da Granada**. Nel 2025-26 ha aperto il **29 novem
 - Lo **spettacolo di luci** di Plaza del Carmen, breve e gratuito.
 - Il **Postino Reale**, che raccoglie le letterine nel cortile del Municipio.
 - In Sierra Nevada, slittino a **Mirlo Blanco** e piste per principianti a Borreguiles.
+
+[actividad: alpujarra-pueblos-montana]
 
 ## Capodanno, Toma de Granada (2 gennaio) e Cabalgata dei Re Magi
 
@@ -124,3 +132,5 @@ Le grotte del **Sacromonte** sono il programma serale per eccellenza: la Cueva L
 - **Salire all'Albaicín alle 18:30:** a dicembre è già buio; per la luce del tramonto, sali verso le 17:00.
 - **Salire in Sierra Nevada senza catene o senza controllare la DGT:** con la neve, la strada può richiederle.
 - **Dare per scontato che il 2 gennaio sia lavorativo:** a Granada è festivo e molti negozi chiudono.
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]

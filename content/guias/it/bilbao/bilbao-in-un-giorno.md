@@ -48,6 +48,16 @@ faq:
   respuesta: Il centro si gira a piedi lungo la ría. Per il resto ci sono metro, tram e la funicolare di Artxanda. La tessera Barik (3 €) vale per tutto, si può condividere e abbassa ogni corsa da 1,90 € a 0,90-1,30 €.
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour a piedi del Casco Viejo](/en/cities/bilbao/activities/bilbao-old-town-walking-tour) | 4,7★ (449) | 42 € |
+| [Tour gastronomico di pintxos con vino](/en/cities/bilbao/activities/bilbao-pintxos-food-tour-wine) | 4,9★ (1.041) | 95 € |
+| [Giro in barca sulla ría (1 h o 2 h)](/it/cities/bilbao/activities/bilbao-giro-in-barca-ria-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo e stadio del San Mamés](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4,8★ (1.710) | 16,50 € |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica con txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## L'itinerario di un giorno: cosa vedere a Bilbao
 
 - **9:30 · Museo Guggenheim.** Fuori, gratis: il *Puppy* di Koons, il ragno *Maman* di Bourgeois, la scultura di nebbia e il fuoco al calar della sera. Dentro, *La materia del tempo* di Richard Serra. Calcola **due ore e mezza**.

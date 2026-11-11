@@ -49,6 +49,14 @@ faq:
   respuesta: Solo se sono vicine, come Altea e Calpe. Guadalest (con l'Algar) o Jávea occupano già tutta la giornata.
 ---
 
+## Escursioni che puoi prenotare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Guadalest, Altea e Fuentes del Algar](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4,8★ (3.714) | 47 € |
+| [Barca andata e ritorno per l'isola di Tabarca](/it/cities/alicante/activities/alicante-barca-andata-ritorno-isola-tabarca) | 4,3★ (5.628) | 25 € |
+| [Tour del vino in campagna con 4 degustazioni in piccolo gruppo](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4,9★ (445) | 65 € |
+
 ## Le migliori gite da Alicante
 
 | Destinazione | Distanza | Ideale per |

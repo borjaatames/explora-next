@@ -49,6 +49,13 @@ opciones:
     etiqueta: Da Barcellona
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Entrare con guida e senza dipendere dal sito ufficiale | [Teatro-Museo Dalí: visita guidata con biglietto](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4,7★ (105) | 31 € |
+| Andarci da Barcellona con il trasporto organizzato | [Girona, Figueres e Cadaqués: escursione di un giorno da Barcellona](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2.352) | 40 € |
+
 ## Biglietti del Museo Dalí all'ultimo minuto: ricontrolla il sito ufficiale
 
 L'unico sito ufficiale di vendita è **tickets.salvador-dali.org**, collegato da salvador-dali.org, il sito della Fondazione Gala-Salvador Dalí. Diffida dei siti che lo imitano: fanno pagare di più e non sempre danno un biglietto valido.
@@ -79,6 +86,8 @@ Quando il sito ufficiale non ha più nulla, gli operatori spesso hanno ancora po
 Controlla sempre se l'ingresso è incluso: alcune passeggiate per Figueres passano solo davanti alla facciata e non lo dicono chiaramente.
 
 [actividad: teatro-museo-dali-figueres-visita-guiada]
+
+[actividad: girona-figueres-dali-cadaques-desde-barcelona]
 
 ## Gli altri musei Dalí: Púbol e Portlligat
 

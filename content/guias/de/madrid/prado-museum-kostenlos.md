@@ -94,6 +94,8 @@ Die Schlange bildet sich an der **Puerta de Goya** an der Nordseite des Gebäude
 - **Sonn- und Feiertage:** mehr Warten und weniger Museum, da um 19:00 geschlossen wird.
 - **Nicht um 18:00 auf die Minute kommen:** Bis du an der Kasse bist, ist ein guter Teil der Zeit weg.
 
+[actividad: museo-prado-visita-guiada]
+
 ## Was du in zwei Gratis-Stunden im Prado siehst
 
 Praktisch hast du eine gute Stunde bis anderthalb Stunden. Nimm am Eingang den Plan und geh direkt zu:

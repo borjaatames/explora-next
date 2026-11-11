@@ -68,6 +68,10 @@ actividades:
 
 Sauf pour Expojove, qui a déjà publié ses dates 2026, ce sont celles de l'édition 2025-26. La mairie présente son programme en novembre et nous mettrons ce guide à jour à ce moment-là.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Illuminations de Noël à Valence et pyrotechnie sur la Plaza del Ayuntamiento
 
 En 2025, Valence a lancé Noël avec un pyromusical, de la musique live et un **sapin de 25 mètres** sur la Plaza del Ayuntamiento, à côté de la crèche municipale. Dans la ville :
@@ -77,6 +81,8 @@ En 2025, Valence a lancé Noël avec un pyromusical, de la musique live et un **
 - Une sphère et une cloche que l'on peut traverser, sur les places de Segrelles et du Patriarca.
 
 Le plus valencien, ce sont les **pyromusicaux du samedi à 18h30** : trois minutes de feux au rythme d'une chanson, gratuitement. Arrivez dix minutes avant. En 2025, les commerçants du centre ont aussi installé patinoire, carrousel, petit train et grande roue entre la Plaza del Ayuntamiento et la Plaza de San Agustín.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Marchés de Noël et crèches
 
@@ -91,6 +97,8 @@ Le plus valencien, ce sont les **pyromusicaux du samedi à 18h30** : trois minut
 - **Expojove** est le grand rendez-vous : dix jours de jeux, d'ateliers et d'espaces pour les petits à Feria València, du **26 décembre 2026 au 4 janvier 2027**, de 11h à 20h, **dès 3 €**. Le 31, ouvert seulement de 10h à 14h, et le 1er janvier de 16h à 21h. Accès en métro ou bus 62.
 - **Pyromusical du samedi :** trois minutes, sans trop de foule si vous arrivez un peu avant.
 - **Ciutat de les Arts i les Ciències :** horaires et activités élargis à Noël, calendrier publié sur cac.es. Le Musée des sciences et l'Hemisfèric étaient fermés le 25 décembre en 2025.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## Saint-Sylvestre et défilé des Rois mages à Valence
 

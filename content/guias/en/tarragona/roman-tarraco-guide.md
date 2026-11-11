@@ -44,6 +44,13 @@ faq:
   respuesta: In the second half of May. There are historical re-enactments, gladiators in the amphitheatre and hundreds of activities, many of them free. Hotels fill up, so book early.
 ---
 
+## Visits you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Cathedral ticket with audio guide](/en/cities/tarragona/activities/tarragona-cathedral-ticket-audio-guide) | 4.4★ (105) | €12.5 |
+| [Self-guided audio tour (DareMapp app)](/en/cities/tarragona/activities/self-guided-tour-daremapp-tarragona) | — | €5 |
+
 ## What to see in Roman Tarraco
 
 - **Tarragona Roman amphitheatre:** by the sea, the city's most famous image. A setting for gladiator fights, it also preserves Visigothic remains.
@@ -54,6 +61,8 @@ faq:
 - **Les Ferreres aqueduct:** the "Pont del Diable", the best-preserved Roman aqueduct in the area, on the outskirts.
 
 To understand the whole site and see the mosaics, visit the **MNAT (National Archaeological Museum)**. On the old Via Augusta, on the outskirts, you'll also find the **Arc de Berà** and the **Torre dels Escipions**.
+
+[actividad: catedral-tarragona-entrada-audioguia]
 
 ## Prices and opening hours: the combined ticket
 

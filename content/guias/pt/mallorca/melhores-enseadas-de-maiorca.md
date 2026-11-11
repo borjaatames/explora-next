@@ -65,6 +65,8 @@ Nem todas servem para o mesmo: escolha conforme o dia e o vento, que deixa umas 
 | Norte | Formentor, Playa de Muro | Familiares, águas calmas |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Dramáticas, entre montanhas |
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## As imprescindíveis: Es Trenc, Cala Mondragó e Caló des Moro
 
 **Es Trenc (sul).** A praia selvagem mais famosa: areia branca e água caribenha, sem construções, junto às salinas. Quase não tem serviços (três quiosques); leve sombra e água.

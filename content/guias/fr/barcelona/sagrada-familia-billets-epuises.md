@@ -56,6 +56,15 @@ opciones:
     etiqueta: Petit groupe
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| Un billet seul de revente | [Billet avec audioguide](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide), 4,6★ (113 748) | 34 € |
+| Avec guide et petit groupe | [Visite guidée en petit groupe](/en/cities/barcelona/activities/sagrada-familia-small-group-tour), 4,7★ (3 690) | 99 € |
+| Sagrada Família et Park Güell | [Visite coupe-file des deux](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6 776) | 104 € |
+| Avec montée à une tour | [Visite guidée avec tour](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4,4★ (5 518) | 75 € |
+
 ## Prix et date de mise en vente
 
 La Sagrada Família vend **uniquement en ligne et avec créneau**, sur sagradafamilia.org, environ **deux mois à l'avance**. En été, à Pâques et pendant les ponts, les bons créneaux partent dès leur sortie.

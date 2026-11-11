@@ -84,6 +84,8 @@ actividades:
 
 O plano completo, com alternativas, está em [Madrid em 2 dias](/pt/guides/madrid/madrid-em-2-dias).
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Dia 2: Prado, Retiro e Letras
 
 - **10:00 — Museu do Prado** (2 h 30). Abre de segunda a sábado das 10:00 às 20:00 e aos domingos até às 19:00; grátis nas duas últimas horas, mas com filas.
@@ -91,6 +93,10 @@ O plano completo, com alternativas, está em [Madrid em 2 dias](/pt/guides/madri
 - **14:30 — Almoço** junto ao Retiro ou em Las Letras.
 - **Tarde:** o Reina Sofía (12 €, fecha às terças) ou o Barrio de las Letras e o terraço do Círculo de Bellas Artes (5 €).
 - **Noite:** flamenco no centro ou um passeio pelas tabernas mais antigas da cidade.
+
+[actividad: museo-prado-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Dia 3: Toledo desde Madrid de comboio
 
@@ -108,6 +114,8 @@ Se preferir ir com tudo resolvido, a excursão de dia inteiro inclui autocarro, 
 
 [actividad: excursion-toledo-dia-completo]
 
+[actividad: toledo-pulsera-turistica-7-monumentos]
+
 ## Dia 4: Segóvia
 
 **9:00 — Avant desde Chamartín** até **Segovia-Guiomar** (cerca de 30 minutos); daí, o **autocarro urbano 11** deixa-o no aqueduto em 15 minutos. Alternativa: autocarro da Avanza desde Moncloa (1 h 15, cerca de 5 € por trajeto), que chega a poucos minutos do aqueduto.
@@ -121,6 +129,8 @@ Se preferir ir com tudo resolvido, a excursão de dia inteiro inclui autocarro, 
 **14:30 — Leitão assado** (cochinillo), a razão pela qual muitos madrilenos voltam a Segóvia. Reserve ao fim de semana.
 
 **Tarde:** desça pelo bairro dos Caballeros ou pela judiaria até ao aqueduto e volte a Madrid sem pressa. Segóvia fica a cerca de 1.000 metros: leve casaco de outubro a abril. Mais paragens em [o que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia).
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Orçamento, variantes e erros típicos
 

@@ -66,6 +66,8 @@ Accommodation sells out **months in advance** and prices multiply. If you want t
 - **The old town**, if you can find something: everything on foot.
 - **Jerez, El Puerto de Santa María or San Fernando**, if not: many visitors come and go by train and avoid the city's sky-high prices.
 
+[actividad: bodegas-fundador-jerez-cata]
+
 ## The Falla contest and the chirigotas
 
 The **COAC** (Official Contest of Carnival Groups) runs for weeks at the **Gran Teatro Falla**, between January and February. The groups compete in categories:
@@ -83,6 +85,8 @@ It's the soul of the festival: spontaneous groups (the "ilegales") singing copla
 
 - **Not to be missed:** the **Carrusel de Coros** on the first Sunday morning, with floats around Plaza de las Flores and the market, and the **Cabalgata** that same Sunday afternoon.
 - **On weekdays**, the Falla groups go on to sing in the streets for free.
+
+[actividad: tour-guiado-cadiz-centro]
 
 ## Getting there, eating and getting around
 

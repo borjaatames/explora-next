@@ -51,6 +51,17 @@ faq:
 
 La clé de Cadix n'est pas un monument, c'est la **lumière** et la **mer des quatre côtés**. Ceux qui passent en coup de vent depuis Séville emportent la moitié de la ville ; ceux qui restent pour le coucher du soleil à La Caleta emportent la meilleure moitié.
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée de la vieille ville](/en/cities/cadiz/activities/cadiz-guided-walking-tour) | 4,7★ (225) | 20 € |
+| [Promenade en catamaran au coucher du soleil avec cava](/fr/cities/cadiz/activities/cadiz-croisiere-catamaran-coucher-soleil) | 4,6★ (856) | 24,5 € |
+| [Tour en catamaran dans la baie](/fr/cities/cadiz/activities/cadiz-balade-catamaran-baie) | 4,5★ (453) | 19 € |
+| [Jerez : visite des Bodegas Fundador avec dégustation de xérès et de brandy](/en/cities/jerez-de-la-frontera/activities/bodegas-fundador-jerez-tasting-tour) | 4,8★ (959) | 18 € |
+| [Jerez : visite de la Yeguada de la Cartuja avec démonstration](/en/cities/jerez-de-la-frontera/activities/yeguada-de-la-cartuja-jerez-tour) | 4,8★ (1 097) | 19,5 € |
+| [Excursion aux villages blancs de la Sierra](/en/cities/cadiz/activities/white-villages-day-trip-from-cadiz) | 4,6★ (58) | 68 € |
+
 ## L'itinéraire de la journée : que voir à Cadix heure par heure
 
 | Heure | Quoi |

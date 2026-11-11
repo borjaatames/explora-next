@@ -50,6 +50,12 @@ opciones:
     etiqueta: Small group
 ---
 
+## Which option should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A small group and more time with the guide | [VIP small-group tour with entry](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour), 4.5★ (763) | €95 |
+
 ## Tickets sold out: try another time on the official site
 
 Official sales are on **guggenheim-bilbao.eus**, and the museum recommends buying only there to avoid fraud. The Guggenheim almost never runs out of places for the whole day: what fills up, especially at weekends, Easter, in summer and on rainy days, is **the time you wanted**.
@@ -84,6 +90,8 @@ When the official site doesn't have the time you want, operators usually have pl
 Before paying, check that the listing says **"museum entry included"** and look at the cancellation policy: some tours only cover the outside.
 
 [actividad: guggenheim-bilbao-visita-guiada-entrada]
+
+[actividad: guggenheim-bilbao-vip-grupo-reducido]
 
 ## If you can't get in: the free outdoor artworks
 

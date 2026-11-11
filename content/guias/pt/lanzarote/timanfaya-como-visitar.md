@@ -52,6 +52,15 @@ opciones:
     etiqueta: A pé sobre a lava
 ---
 
+## Que opção escolher?
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| Bilhete oficial para as Montañas del Fuego (site do Cabildo) | — | 30 € |
+| [Parque Nacional de Timanfaya em meio dia, com bilhete e recolha](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 4,3★ (2.901) | 59 € |
+| [Timanfaya, Jameos del Agua e Cueva de los Verdes com bilhetes](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 4,5★ (2.910) | 89 € |
+| [Caminhada guiada pelos vulcões junto a Timanfaya](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 4,8★ (990) | 47 € |
+
 ## O que vai ver nas Montañas del Fuego
 
 As erupções duraram de setembro de 1730 a abril de 1736, e em 1824 houve outra, mais curta. O interior do parque só se visita assim:

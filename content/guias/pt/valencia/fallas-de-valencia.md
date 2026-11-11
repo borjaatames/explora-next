@@ -81,6 +81,8 @@ Cada bairro ergue o seu monumento de cartão e madeira, alguns com **mais de vin
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
+[actividad: ciudad-artes-3-en-1-ticket]
+
 ## A Oferenda de Flores e a cremà das Fallas
 
 - **Oferenda (17 e 18 de março):** milhares de falleros com traje tradicional desfilam com flores até à praça de la Virgen, onde se forma o manto da Virgem dos Desamparados. Os melhores sítios para a ver são as ruas **San Vicente, Mar e Caballeros**. Quando termina, a tapeçaria de flores pode ser visitada.

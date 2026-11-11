@@ -71,6 +71,8 @@ A chave deste roteiro pela Andaluzia em 7 dias é a ordem: de oeste para leste, 
 
 **Onde dormir em Sevilha:** o **Arenal** (junto à Catedral, mais tranquilo e um pouco mais barato), **Santa Cruz** (o postal, mais turístico) ou **Triana** (mais local, a 15 minutos do centro).
 
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Dia 2: Triana e o rio
 
 Atravesse a ponte de Isabel II para **Triana**: mercado, calle Betis e tapas na calle Pureza. À tarde, **Casa de Pilatos** (12 €) ou o **Museu de Belas Artes** (grátis para a UE), e o pôr do sol no rio. O plano hora a hora está em [Sevilha em 2 dias](/pt/guides/sevilla/sevilha-em-2-dias).

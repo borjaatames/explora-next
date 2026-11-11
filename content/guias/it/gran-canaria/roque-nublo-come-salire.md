@@ -45,6 +45,14 @@ imagen_portada: "/images/guias/roque-nublo-como-subir.jpg"
 imagen_alt: "Il Roque Nublo sulla vetta di Gran Canaria"
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tramonto sulle cime e osservazione delle stelle](/en/cities/gran-canaria/activities/gran-canaria-sunset-stargazing-tour) | 4,8★ (302) | 45 € |
+| [Jeep safari tra valli, dighe e paesi del sud](/it/cities/gran-canaria/activities/jeep-safari-sud-gran-canaria) | 4,5★ (1.443) | 69 € |
+| [Buggy fuoristrada nei barrancos del sud](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4,8★ (3.728) | 65 € |
+
 ## La prenotazione per salire al Roque Nublo
 
 Il Cabildo (governo dell'isola) di Gran Canaria ha introdotto il controllo degli accessi il **3 febbraio 2025** per porre fine all'affollamento. A oggi (2026):
@@ -105,3 +113,5 @@ Sale tra i pini canari fino a un altopiano roccioso dove compaiono il **Roque Nu
 [actividad: roque-nublo-pico-nieves-desde-las-palmas]
 
 Altre idee in [cosa vedere a Gran Canaria](/it/guides/gran-canaria/cosa-vedere-a-gran-canaria).
+
+[actividad: jeep-safari-sur-gran-canaria]

@@ -100,3 +100,5 @@ Pour intégrer cette tournée à votre voyage, voyez [Madrid en 3 jours](/fr/gui
 - **N'allez pas à Casa Dani en milieu d'après-midi :** la tortilla s'épuise.
 - **Réservez à Malacatín ou Casa Lucio** le week-end.
 - **À Casa Labra, commandez la morue**, pas les croquetas au jambon.
+
+[actividad: aventura-vino-tapas-la-latina]

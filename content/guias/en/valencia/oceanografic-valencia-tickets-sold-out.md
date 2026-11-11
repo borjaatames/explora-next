@@ -60,6 +60,19 @@ opciones:
     etiqueta: Private tour
 ---
 
+## What options are left?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A nearby date | Official website, price calendar | €35.90 |
+| To buy on the spot | Box office, until an hour before closing | Price of the day |
+| Free entry | No free hours; under-4s only | €0 |
+| A single ticket | [Oceanogràfic ticket](/en/cities/valencia/activities/oceanografic-valencia-ticket), 4.7★ (11,540) | €37 |
+| Oceanogràfic and Science Museum | [Combo ticket](/en/cities/valencia/activities/oceanografic-science-museum-combo-ticket), 4.7★ (2,797) | €39 |
+| All three attractions | [3-in-1 ticket with Hemisfèric and Science Museum](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket), 4.5★ (3,518) | €46 |
+| A private tour with entry | [Art Nouveau Valencia with Oceanogràfic option](/en/cities/valencia/activities/valencia-art-nouveau-private-tour-oceanografic) | €137 with entry |
+| An animal alternative | [Bioparc Valencia](/en/cities/valencia/activities/bioparc-valencia-ticket), 4.8★ (2,988) | €29.50 |
+
 ## Oceanogràfic Valencia prices by date
 
 Official sales are at entradas.oceanografic.org, linked from oceanografic.org. The Oceanogràfic **has no single price**: the website publishes a calendar with several rates depending on the date.
@@ -76,6 +89,10 @@ Official sales are at entradas.oceanografic.org, linked from oceanografic.org. T
 **There are no free days or hours** for the general public: only under-4s and some professional groups, such as accredited official guides, get in free.
 
 **Discounts:** large or single-parent families, 15% online and at the box office. Students, Carnet Jove holders and the unemployed, 15%, but **only at the box office** and with ID. With the **Valencia Tourist Card**, the Visit València shop gives 10% off.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+
+[actividad: valencia-modernista-tour-privado-oceanografic]
 
 ## Oceanogràfic opening hours and when it sells out
 
@@ -102,6 +119,8 @@ Outside peak season it's rare to miss out. The official site doesn't publish a s
 - **Bioparc Valencia** (from €29.50): an immersion zoo with savannah, equatorial forest and Madagascar, with no visible barriers. The closest alternative if you're going for the animals.
 - **The complex from outside, free:** the Umbracle, the pools and Calatrava's buildings need no ticket. We cover it in [how to visit the City of Arts and Sciences](/en/guides/valencia/city-of-arts-sciences-how-to-visit).
 - **Modernist Valencia private tour:** three hours through Estació del Nord, Mercado de Colón and the Ensanche houses to the City of Arts and Sciences. The full option includes skip-the-line Oceanogràfic tickets, from about €137 per person for two; the guide doesn't go into the aquarium with you.
+
+[actividad: bioparc-valencia-entrada]
 
 ## Tips
 

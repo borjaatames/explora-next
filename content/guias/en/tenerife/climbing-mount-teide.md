@@ -53,6 +53,15 @@ opciones:
     etiqueta: Summit hike
 ---
 
+## Which ticket should you choose?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Teide trip with cable car and transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) | 4.3★ (6,121) | €92 |
+| [Sunset and stargazing in Teide National Park](/en/cities/tenerife/activities/teide-sunset-stargazing-tour) | 4.7★ (3,691) | €35 |
+| [Teide, Icod de los Vinos, Garachico and Masca tour](/en/cities/tenerife/activities/tenerife-teide-masca-icod-garachico-tour) | 4.6★ (3,066) | €58 |
+| [Teide Observatory guided visit](/en/cities/tenerife/activities/teide-observatory-guided-visit) | 4.6★ (918) | €21 |
+
 ## The Teide cable car
 
 It leaves from the **base station (2,356 m)** on the TF-21 road and climbs in **under 8 minutes** to **La Rambleta (3,555 m)**. At the top there are three trails:
@@ -64,6 +73,10 @@ It leaves from the **base station (2,356 m)** on the TF-21 road and climbs in **
 **Price and hours:** about **€42 return** per adult (€21 children), with **compulsory online booking by time slot**; there are hardly ever places at the ticket office. From late October to March it runs 9:00-17:00 (last ascent at 16:00); in summer and at Easter, until 18:40. Morning slots sell out one or two weeks ahead in high season.
 
 **It closes in strong wind or ice**, especially in winter and sometimes without notice. Bring a warm jacket and closed shoes: you can't go up in sandals or heels.
+
+[actividad: teide-cable-car-tour-transfer]
+
+[actividad: teide-sunset-stargazing-tour]
 
 ## The Teide summit permit
 

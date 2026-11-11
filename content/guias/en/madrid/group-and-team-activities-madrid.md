@@ -50,6 +50,19 @@ actividades:
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
 
+## The options at a glance
+
+| Activity | Duration | Price | Best for |
+| --- | --- | --- | --- |
+| [Gran Vía private walking tour](/en/cities/madrid/activities/madrid-gran-via-private-walking-tour) | 2 h | €300 for 6 | Welcoming a group or team; accessible |
+| [Private tuk-tuk, historic centre](/en/cities/madrid/activities/tuk-tuk-historic-centre-gran-via-madrid) | 1 h 15 min | €79 per tuk-tuk (up to 4) | Groups of 6 to 10 in several vehicles |
+| [El Escorial and Cuelgamuros, private](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 5 h 30 min | €1,920 for 6 | Day trip with pick-up and tickets |
+| [Century-old taverns, private tour](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 2 h 10 min | €127 per person | After-work drinks or a team dinner |
+| [Jewish Madrid, private tour](/en/cities/madrid/activities/madrid-jewish-history-private-walking-tour) | 2 h | €450 for 6 | History-minded groups |
+| [Royal Palace, private visit](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | 2 h 30 min | €141 per person | A cultural visit at a time you choose |
+| [Paella and sangria workshop](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | €64 per person | Informal team building (shared group) |
+| [Family winery with a sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | €110 per person | Groups of up to 8 |
+
 ## How much it costs per person depending on group size
 
 These are the group totals for each private activity in the booking system, and what each person pays ("from" prices as of 1 November 2026; they may vary by date):
@@ -80,6 +93,8 @@ They offer the best value per group:
 
 [actividad: tour-privado-gran-via-madrid]
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Tuk-tuks for groups of 6 to 10
 
 The electric tuk-tuks leave from **Plaza de Cánovas del Castillo**, opposite the Thyssen Museum, with an audio guide in 11 languages, water and wifi.
@@ -90,11 +105,15 @@ The electric tuk-tuks leave from **Plaza de Cánovas del Castillo**, opposite th
 
 Book all the tuk-tuks for the same time so the group travels together. **The booking is non-refundable**: make it once your numbers are confirmed.
 
+[actividad: tuk-tuk-centro-historico-gran-via-madrid]
+
 ## Private day trip from Madrid for a group: El Escorial and Cuelgamuros
 
 The driver and an **official guide** pick you up at your hotel at 9:00 or 10:00 and take you to the Monastery of El Escorial (basilica, library, royal halls and Pantheon of Kings) and the Valley of Cuelgamuros. Tickets are included; lunch is not. It takes about **five and a half hours** in total.
 
 Note: **the monastery is closed on Mondays** and is not wheelchair accessible.
+
+[actividad: tour-privado-escorial-monasterio-real]
 
 ## Team building and corporate activities in Madrid
 
@@ -105,6 +124,8 @@ For a dinner, an after-work outing or a team's free morning:
 - **Paella and sangria workshop (€64 per person, 3 h, next to Sol):** the whole group cooks and the paella is lunch or dinner. It's a **shared group**, so there may be other participants.
 - **Family winery with a sommelier (€110 per person, 4 h 30 min):** for groups of up to 8.
 - **Private cultural visits:** the **Royal Palace** (€141 per person, minimum 2) includes an official guide, skip-the-line entry and hotel pick-up, and you choose the start time; the **Prado Museum** (€146 per person) lasts three hours. A good option for clients or business visitors with a free morning.
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Tips and common mistakes
 

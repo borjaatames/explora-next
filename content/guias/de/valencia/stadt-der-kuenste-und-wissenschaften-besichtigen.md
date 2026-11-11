@@ -52,6 +52,14 @@ opciones:
     etiqueta: Am günstigsten
 ---
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| [Hemisfèric + Museu de les Ciències](/en/cities/valencia/activities/hemisferic-science-museum-combo-ticket) | 14 € | Museu de les Ciències und eine Vorstellung im Hemisfèric; ohne Oceanogràfic | Wer Wissenschaft und Kino will, aber kein Aquarium |
+| [Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 37 € | Regulärer Eintritt ins Oceanogràfic, alle Bereiche | Erwachsene, die nur das Aquarium sehen wollen |
+| [3-in-1-Ticket](/en/cities/valencia/activities/ciudad-artes-3-en-1-ticket) | 46 € | Oceanogràfic, Hemisfèric (eine Vorstellung) und Museu de les Ciències | Familien, die den ganzen Tag bleiben |
+
 ## Die Gebäude der Stadt der Künste und Wissenschaften
 
 Du musst nicht überall hinein: Das Ensemble mit seinen Wasserflächen, in denen sich die weißen Bauten spiegeln, ist kostenlos und eines der fotogensten Motive Spaniens.
@@ -89,6 +97,8 @@ Je nach Plan:
 Die Kombitickets sind in der Hochsaison oft ausverkauft, und an der Kasse des Oceanogràfic sind die Schlangen lang: **online kaufen** und das erste Zeitfenster wählen.
 
 [actividad: oceanografic-valencia-entrada]
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
 ## Öffnungszeiten und Anfahrt
 

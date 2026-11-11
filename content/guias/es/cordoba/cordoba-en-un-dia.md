@@ -60,6 +60,17 @@ imagen_alt: "La Mezquita-Catedral y el Puente Romano de Córdoba sobre el Guadal
 
 La clave es una: **entra en la Mezquita a primera hora**, antes del calor y los grupos. Y si haces noche, ganas lo que el turista de día se pierde: el casco antiguo iluminado y vacío.
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado por la Mezquita-Catedral sin colas](/ciudades/cordoba/actividades/mezquita-catedral-tour-guiado-sin-colas) | 4,6★ (10.966) | 32 € |
+| [Tour por la Mezquita y la Judería con entradas](/ciudades/cordoba/actividades/mezquita-juderia-tour-a-pie) | 4,5★ (2.200) | 34 € |
+| [Los auténticos patios cordobeses, tour de 2 horas con entradas](/ciudades/cordoba/actividades/patios-cordobeses-tour-con-entradas) | 4,3★ (1.106) | 19 € |
+| [Tour guiado de 3 horas a Medina Azahara](/ciudades/cordoba/actividades/medina-azahara-tour-guiado-3-horas) | 4,6★ (1.034) | 18 € |
+| [Espectáculo ecuestre en las Caballerizas Reales](/ciudades/cordoba/actividades/espectaculo-ecuestre-caballerizas-reales) | 4,5★ (2.910) | 18,5 € |
+| [Espectáculo de flamenco en el Tablao Cardenal con bebida](/ciudades/cordoba/actividades/espectaculo-flamenco-tablao-cardenal) | 4,8★ (1.167) | 25 € |
+
 ## La ruta del día: qué ver en Córdoba hora a hora
 
 | Hora | Qué |

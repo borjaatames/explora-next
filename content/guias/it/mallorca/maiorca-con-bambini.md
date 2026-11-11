@@ -59,6 +59,20 @@ faq:
   respuesta: 'No se soffrono il mal d''auto: la strada ha tornanti strettissimi. È uno dei percorsi espressamente sconsigliati con bambini piccoli; l''alternativa è la barca da Port de Sóller.'
 ---
 
+## Le migliori attività con i bambini
+
+| Idea | Attività | Da |
+| --- | --- | --- |
+| Giornata nuvolosa | [Palma Aquarium](/it/cities/mallorca/activities/biglietto-palma-aquarium), 4,5★ (3.744) | 30,5 € |
+| Treno di Sóller dal nord | [Treno e tram di Sóller, mezza giornata](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north), 4,4★ (381) | 56 € |
+| Treno, tram e barca | [Giro dell'isola con il treno di Sóller](/it/cities/mallorca/activities/giro-maiorca-treno-soller-tram-barca), 4,4★ (4.540) | 103 € |
+| Grotte con concerto in barca | [Cuevas del Drach da Alcúdia](/en/cities/mallorca/activities/drach-caves-from-alcudia), 4,3★ (641) | 54 € |
+| Grotte da Palma | [Cuevas del Drach con concerto e barca](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4,4★ (1.489) | 54 € |
+| Delfini in libertà | [Avvistamento delfini da Alcúdia](/it/cities/mallorca/activities/alcudia-avvistamento-delfini-garantito-coll-baix), 4,8★ (3.435) | 90 € |
+| Avventura tra gli alberi | [Forestal Park](/it/cities/mallorca/activities/forestal-park-maiorca-parco-avventura), 4,8★ (277) | 26 € |
+| Parco acquatico | [Western Water Park](/it/cities/mallorca/activities/biglietto-western-water-park-magaluf), 4,3★ (582) | 38 € |
+| Spettacoli con animali | [Marineland](/it/cities/mallorca/activities/biglietto-marineland-maiorca), 4,5★ (786) | 32 € |
+
 ## Maiorca in famiglia: dove alloggiare
 
 - **Nord (Alcúdia, Playa de Muro, Port de Pollença):** la base familiare migliore, con spiagge lunghe e poco profonde. Le escursioni al treno di Sóller e alle Grotte del Drach passano a prendere qui.

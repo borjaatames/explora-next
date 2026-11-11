@@ -50,6 +50,19 @@ actividades:
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
 
+## As opções num relance
+
+| Atividade | Duração | Preço | Ideal para |
+| --- | --- | --- | --- |
+| [Passeio a pé privado pela Gran Vía](/en/cities/madrid/activities/madrid-gran-via-private-walking-tour) | 2 h | 300 € para 6 | Dar as boas-vindas a um grupo ou equipa; acessível |
+| [Tuk-tuk privado, centro histórico](/pt/cities/madrid/activities/madrid-tuk-tuk-privado-centro-historico-gran-via) | 1h15 | 79 € por tuk-tuk (até 4) | Grupos de 6 a 10 em vários veículos |
+| [El Escorial e Cuelgamuros, em privado](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | 5h30 | 1920 € para 6 | Excursão de um dia com recolha e bilhetes |
+| [Tabernas centenárias, tour privado](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) | 2h10 | 127 € por pessoa | Copos depois do trabalho ou jantar de equipa |
+| [Madrid judaico, tour privado](/en/cities/madrid/activities/madrid-jewish-history-private-walking-tour) | 2 h | 450 € para 6 | Grupos interessados em história |
+| [Palácio Real, visita privada](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | 2h30 | 141 € por pessoa | Uma visita cultural à hora que escolherem |
+| [Workshop de paella e sangria](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | 64 € por pessoa | Team building informal (grupo partilhado) |
+| [Adega familiar com sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4h30 | 110 € por pessoa | Grupos de até 8 |
+
 ## Quanto custa por pessoa consoante o tamanho do grupo
 
 Estes são os totais por grupo de cada atividade privada no sistema de reservas, e quanto paga cada um (preços «desde» a 1 de novembro de 2026; podem variar consoante a data):
@@ -71,6 +84,10 @@ Nos **tuk-tuks**, paga-se por veículo: cabem 4 pessoas em cada um.
 
 **Grupos de 7 a 10 em tours a pé:** as tabelas chegam às 6 pessoas. Para mais, indiquem o vosso número no calendário de reserva da ficha para ver o total antes de pagar, ou façam duas reservas à mesma hora, com um guia para cada metade do grupo.
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Tour privado por Madrid em grupo: os passeios a pé
 
 São a melhor relação preço-grupo:
@@ -90,11 +107,15 @@ Os tuk-tuks elétricos saem da **praça de Cánovas del Castillo**, em frente ao
 
 Reservem todos os tuk-tuks para a mesma hora para que o grupo vá junto. **A reserva não é reembolsável**: façam-na quando o número estiver fechado.
 
+[actividad: tuk-tuk-centro-historico-gran-via-madrid]
+
 ## Excursão privada desde Madrid para grupos: Escorial e Cuelgamuros
 
 O motorista e um **guia oficial** vão buscar-vos ao hotel às 9:00 ou às 10:00 e levam-vos ao Mosteiro do Escorial (basílica, biblioteca, salões reais e Panteão dos Reis) e ao Vale de Cuelgamuros. As entradas estão incluídas; o almoço não. São cerca de **cinco horas e meia** no total.
 
 Atenção: **o mosteiro fecha às segundas-feiras** e não é acessível em cadeira de rodas.
+
+[actividad: tour-privado-escorial-monasterio-real]
 
 ## Team building e atividades para empresas em Madrid
 

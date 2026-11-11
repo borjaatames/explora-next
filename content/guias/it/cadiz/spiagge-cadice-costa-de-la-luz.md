@@ -47,6 +47,14 @@ faq:
 
 La regola locale: con il **poniente** (vento di ponente), spiaggia perfetta; con **levante** forte, meglio il centro storico o una caletta riparata. Guarda le previsioni prima di scegliere.
 
+## Uscite in mare che puoi prenotare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Catamarano al tramonto con cava](/it/cities/cadiz/activities/cadice-crociera-in-catamarano-al-tramonto) | 4,6★ (856) | 24,50 € |
+| [Barbate: avvistamento di delfini e balene al largo di Capo Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4,1★ (792) | 50 € |
+| [Giro in catamarano nella baia di Cadice](/it/cities/cadiz/activities/cadice-giro-in-catamarano-baia) | 4,5★ (453) | 19 € |
+
 ## Le spiagge della città di Cadice
 
 | Spiaggia | Carattere |
@@ -57,6 +65,8 @@ La regola locale: con il **poniente** (vento di ponente), spiaggia perfetta; con
 | **Cortadura** | Ampia e semiselvaggia, verso le saline |
 
 **La Caleta** è la più fotogenica (l'«Avana» di James Bond), perfetta al tramonto. **La Victoria** è la grande spiaggia urbana per una giornata di sole con servizi. Ci si arriva a piedi o con i bus **1 e 7**; a Cortadura, con l'**1**.
+
+[actividad: catamaran-cadiz-atardecer]
 
 ## Le grandi spiagge della Costa de la Luz
 

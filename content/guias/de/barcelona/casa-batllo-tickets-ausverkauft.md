@@ -53,6 +53,15 @@ opciones:
     etiqueta: Mit Guide
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ticket mit Uhrzeit, ohne Guide | [Casa Batlló: Ticket mit Audioguide (offizielles Ticket)](/en/cities/barcelona/activities/casa-batllo-entry-with-audioguide), 4,7★ (27.982) | 29 € |
+| Abends, mit einem Glas | [Casa Batlló: Nachtbesuch mit einem Glas Cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4,4★ (1.930) | 29 € |
+| Besuch und Konzert auf der Dachterrasse | [Casa Batlló: Nachtbesuch mit Livemusik](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4,5★ (377) | 59 € |
+| Drei Gaudí-Häuser mit Guide | [Casa Vicens, Casa Milà und Casa Batlló: Führung](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
+
 ## Casa Batlló Tickets ausverkauft: andere Zeiten und Varianten auf der offiziellen Website
 
 Der offizielle Verkauf läuft über casabatllo.es. Der Standardbesuch kostet ab **29 €**, enthält einen Audioguide in 15 Sprachen und dauert etwa **1 Std. 15 Min.** Bei **dynamischen Preisen** zahlst du umso weniger, je früher du kaufst (die offizielle Website spricht von bis zu 15 € Ersparnis pro Person). An Feiertagen, zu Ostern und im Sommer sind die Vormittagszeiten schnell weg. Wenn dein Zeitfenster ausverkauft ist:
@@ -70,6 +79,8 @@ Ist der Tag voll, ist die Nacht der einfachste Weg. Der **Nachtbesuch** hat Einl
 
 Zwischen März und November gibt es außerdem die **Magic Nights**: Besuch um 20:00 Uhr und Konzert auf der Dachterrasse um 21:00 Uhr, mit Getränk und Tisch, **ab 59 €**. Das Programm jedes Monats erscheint zwei bis drei Wochen vorher, und die Rabatte des Standardbesuchs gelten nicht.
 
+[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+
 ## Die Kasse: Casa Batlló Tickets vor Ort
 
 Die Casa Batlló hat eine Kasse im Gebäude, dort gibt es aber **nur den Standardbesuch**, und laut offizieller Website kostet er **4 bis 15 € mehr** als online. Das hilft, wenn in einem Zeitfenster noch Platz ist, nicht als Plan für einen ausverkauften Tag.
@@ -86,11 +97,15 @@ Prüfe, ob im Angebot **„Eintritt in die Casa Batlló inklusive“** und die E
 
 [actividad: casa-batllo-entrada-con-audioguia]
 
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
 ## Was du ohne Ticket siehst
 
 - Die **Fassade der Casa Batlló** an Hausnummer 43, mit den knochenförmigen Balkonen und dem Schuppendach. Am besten vom gegenüberliegenden Gehweg.
 - Den **Block der Zwietracht** (Manzana de la Discordia): direkt neben der Batlló die **Casa Amatller** (Nr. 41, von Puig i Cadafalch) mit eigenen Führungen und im selben Block die **Casa Lleó Morera** von Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, weiter oben am selben Boulevard, etwa 10 Minuten zu Fuß.
+
+[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Tipps
 

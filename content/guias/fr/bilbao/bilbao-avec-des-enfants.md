@@ -44,6 +44,14 @@ faq:
   respuesta: 'Assez : la vieille ville est piétonne et plate, et toutes les stations de métro ont un ascenseur. Les trottoirs de l''Ensanche sont étroits et il y a des pentes dans la vieille ville et à Artxanda, où le funiculaire aide.'
 ---
 
+## Activités adaptées aux enfants à réserver
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Balade en bateau sur la ria (1 h ou 2 h)](/fr/cities/bilbao/activities/bilbao-balade-bateau-ria-portugalete) | 4,2★ (3 389) | 15 € |
+| [Musée et stade de San Mamés](/fr/cities/bilbao/activities/san-mames-visite-stade-musee-athletic) | 4,8★ (1 710) | 16,50 € |
+| [Gaztelugatxe, Bermeo, Mundaka et Guernica avec txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3 229) | 45 € |
+
 ## Que faire à Bilbao avec des enfants
 
 **Funiculaire d'Artxanda.** Il monte en moins de trois minutes jusqu'au belvédère offrant les plus belles vues sur Bilbao entre les montagnes. En haut, un parc et une aire de jeux. Bon marché et amusant.
@@ -59,6 +67,8 @@ faq:
 **Parc Doña Casilda.** Le grand parc de la ville : canards, étang, aire de jeux et jets d'eau. Idéal pour qu'ils se défoulent.
 
 **Tramway et Azkuna Zentroa.** Le tramway longe la ría ; à l'**Azkuna Zentroa** (Alhóndiga), une piscine au fond de verre visible d'en dessous, des colonnes étonnantes et une bibliothèque pour enfants.
+
+[actividad: bilbao-estuary-boat-tour-portugalete]
 
 ## Plages près de Bilbao en métro
 

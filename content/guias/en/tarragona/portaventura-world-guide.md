@@ -43,6 +43,13 @@ faq:
   respuesta: Yes, food and drink are allowed as long as there's no glass. Inside, a set meal costs €15-20 and there are queues from 13:30 to 15:00.
 ---
 
+## PortAventura tickets
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [PortAventura and Ferrari Land 1, 2 or 3-day ticket](/en/cities/tarragona/activities/portaventura-ferrari-land-ticket) | 4.3★ (2,697) | €39 |
+| [PortAventura + Ferrari Land + Caribe Aquatic Park ticket](/en/cities/tarragona/activities/portaventura-ferrari-caribe-aquatic-ticket) | 4.4★ (711) | €76 |
+
 ## The three parks of PortAventura World
 
 **PortAventura Park** is the main one and the must-see. It has six themed areas: Mediterrània, Far West, México, China, Polynesia and **SésamoAventura**, for the little ones. This is where the star roller coasters are, **Dragon Khan** and **Shambhala**, plus Furius Baco. It needs a full day.

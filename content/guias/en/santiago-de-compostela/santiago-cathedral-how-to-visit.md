@@ -52,6 +52,14 @@ opciones:
     etiqueta: With the old town
 ---
 
+## Which ticket should you choose?
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Cathedral, museum and old town tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4.8★ (439) | €24 |
+| [Pórtico de la Gloria, cathedral and old town tour](/en/cities/santiago-de-compostela/activities/santiago-portico-of-glory-cathedral-city-tour) | 4.8★ (206) | €40 |
+
 ## What to see in Santiago Cathedral: free and paid
 
 **Free:**
@@ -67,6 +75,8 @@ opciones:
 | **Pórtico de la Gloria** | Master Mateo's restored masterpiece (timed ticket) |
 | **Rooftops** | Guided visit over the granite roof, with views |
 | **Cathedral Museum** | Cloister, Treasury, Relics Chapel and Pazo de Xelmírez |
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Prices, hours and booking: Pórtico de la Gloria and rooftops
 

@@ -48,6 +48,14 @@ faq:
   respuesta: Insgesamt etwa 2 Stunden. Vom Parkplatz Eneperi bis zur Einsiedelei sind es 2,5 km und 40 Minuten zu Fuß; die 241 Stufen sind nur das letzte Stück. Bei starkem Wind oder Sturm wird der Zugang gesperrt.
 ---
 
+## Ausflüge mit Transport ab Bilbao
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka und Guernica mit Txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+| [San Sebastián, Hondarribia und Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4,6★ (1.022) | 35 € |
+| [Biarritz, Saint-Jean-de-Luz und San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4,7★ (898) | 70 € |
+
 ## San Juan de Gaztelugatxe
 
 45 Minuten entfernt steht eine **Einsiedelei auf einer Felsinsel**, mit dem Festland durch eine Brücke und eine Treppe mit **241 Stufen** verbunden, weltberühmt als Dragonstone aus *Game of Thrones*, mit spektakulärem Blick auf die Küste.

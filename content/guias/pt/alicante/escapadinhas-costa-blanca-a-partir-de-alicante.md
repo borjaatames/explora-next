@@ -49,6 +49,14 @@ faq:
   respuesta: Só se forem vizinhas, como Altea e Calpe. Guadalest (com o Algar) ou Jávea já ocupam o dia inteiro.
 ---
 
+## Excursões que pode reservar
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Guadalest, Altea e Fuentes del Algar](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) | 4,8★ (3.714) | 47 € |
+| [Barco de ida e volta à ilha de Tabarca](/pt/cities/alicante/activities/alicante-barco-ilha-tabarca-ida-volta) | 4,3★ (5.628) | 25 € |
+| [Tour de vinho pelo campo com 4 provas em grupo reduzido](/en/cities/alicante/activities/alicante-countryside-winery-tour-4-tastings) | 4,9★ (445) | 65 € |
+
 ## As melhores escapadinhas a partir de Alicante
 
 | Destino | Distância | Ideal para |

@@ -49,6 +49,16 @@ imagen_portada: "/images/guias/valencia-con-ninos.jpg"
 imagen_alt: "Elefantes en el Bioparc de Valencia"
 ---
 
+## Planes con niños que puedes reservar
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Entrada al Bioparc](/ciudades/valencia/actividades/bioparc-valencia-entrada) | 4,8★ (2.988) | 29,5 € |
+| [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada) | 4,7★ (11.540) | 37 € |
+| [Entrada combinada Oceanogràfic y Museo de las Ciencias](/ciudades/valencia/actividades/oceanografic-museo-ciencias-entrada-combinada) | 4,7★ (2.797) | 39 € |
+| [Tour en tuk tuk por el centro, las playas y la Ciudad de las Artes](/ciudades/valencia/actividades/tour-tuk-tuk-valencia-centro-playas) | 4,6★ (388) | 40 € |
+| [Paseo en catamarán de día o al atardecer con bebida](/ciudades/valencia/actividades/paseo-catamaran-valencia-atardecer) | 4,0★ (3.360) | 15 € |
+
 ## Qué hacer en Valencia con niños: los planes que funcionan
 
 La clave es no intentar verlo todo: el casco histórico, en dosis cortas, y el resto del tiempo, agua, animales y parque.

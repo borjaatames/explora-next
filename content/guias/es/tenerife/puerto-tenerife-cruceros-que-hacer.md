@@ -49,6 +49,16 @@ actividades:
   - loro-parque-entradas
 ---
 
+## Excursiones que encajan con una escala en Tenerife
+
+| Excursión | Duración | Precio desde |
+| --- | --- | --- |
+| [Ruta guiada por la laurisilva de Anaga](/ciudades/tenerife/actividades/anaga-bosque-laurisilva-ruta-guiada), 4,8★ (269) | 3-6 h según opción | 24 € |
+| [Casa del Vino de El Sauzal con cata](/ciudades/tenerife/actividades/casa-del-vino-tenerife-cata-el-sauzal), 4,6★ (477) | 2 h | 16 € |
+| [Bodegas Monje: visita con cata de vinos y quesos](/ciudades/tenerife/actividades/bodegas-monje-visita-cata-vino-queso), 4,5★ (533) | 2 h | 35 € |
+| [Loro Parque](/ciudades/tenerife/actividades/loro-parque-entradas), 4,8★ (14.827) | Día completo | 44 € |
+| [Teide con teleférico y traslado](/ciudades/tenerife/actividades/teide-teleferico-traslado), 4,3★ (6.121) | 7 h | 92 € |
+
 ## Dónde atracan los cruceros en el puerto de Tenerife
 
 En el **puerto de Santa Cruz de Tenerife**, en el **Muelle Sur** o en el **Muelle de Enlace**. Desde el barco hasta la **Plaza de España** hay **10-20 minutos a pie** por un camino llano y señalizado, según dónde atraques. No hace falta lanzadera, aunque algunas navieras la ponen si el barco queda al fondo del muelle.
@@ -77,6 +87,8 @@ Ojo: muchos hoteles y excursiones de Tenerife están en el **sur** (Costa Adeje,
 [actividad: anaga-bosque-laurisilva-ruta-guiada]
 
 **El Sauzal**, en la costa norte, está a menos de media hora por autopista: una cata en la Casa del Vino o en una bodega es buen plan para 5-6 horas si no quieres subir al monte. Se llega en taxi.
+
+[actividad: teide-teleferico-traslado]
 
 ## El Teide desde el puerto de Santa Cruz: tiempos y riesgos
 

@@ -45,6 +45,14 @@ faq:
   respuesta: Environ 2 heures au total. Du parking d'Eneperi à l'ermitage, il y a 2,5 km et 40 minutes à pied ; les 241 marches ne sont que la fin. L'accès ferme par vent fort ou tempête.
 ---
 
+## Excursions avec transport depuis Bilbao
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka et Guernica avec txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3 229) | 45 € |
+| [Saint-Sébastien, Hondarribia et Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4,6★ (1 022) | 35 € |
+| [Biarritz, Saint-Jean-de-Luz et Saint-Sébastien](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4,7★ (898) | 70 € |
+
 ## San Juan de Gaztelugatxe
 
 À 45 minutes, un **ermitage sur un îlot** relié à la terre par un pont et un escalier de **241 marches**, mondialement connu comme Peyredragon dans *Game of Thrones*, avec des vues spectaculaires sur la côte.

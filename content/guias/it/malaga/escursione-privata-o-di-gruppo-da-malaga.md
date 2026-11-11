@@ -42,6 +42,18 @@ faq:
   respuesta: La maggior parte delle escursioni, private e di gruppo, ha cancellazione gratuita fino a 24 ore prima. Le condizioni esatte sono in ogni scheda.
 ---
 
+## Prezzo a persona: di gruppo o privata
+
+| Escursione da Malaga | Di gruppo, a persona | Privata, 2 persone | Privata, 4 persone |
+| --- | --- | --- | --- |
+| [Ronda](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga) | 34 € ([con Setenil](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga)) | 290 € a persona | 180 € a persona |
+| [Nerja e Frigiliana](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | 69 € ([di gruppo](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga)) | 350 € a persona | 220 € a persona |
+| [Gibilterra](/en/cities/malaga/activities/gibraltar-private-day-trip-from-malaga) | 35 € ([di gruppo](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga)) | 380 € a persona | 240 € a persona |
+| [Cordova](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) | 76 € ([di gruppo](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga)) | 375 € a persona | 230 € a persona |
+| [Caminito del Rey](/en/cities/malaga/activities/caminito-del-rey-private-transport-from-malaga) | 72 € ([guidato di gruppo](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga)) | 305 € a persona | 240 € a persona |
+| [Cadice](/en/cities/malaga/activities/cadiz-private-day-trip-from-malaga) | — | 366 € a persona | 250 € a persona |
+| [Granada e l'Alhambra](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | — | 397 € a persona | 397 € a persona |
+
 ## Escursione privata da Malaga: prezzo a persona rispetto al gruppo
 
 | Escursione da Malaga | Di gruppo, a persona | Privata, 2 persone | Privata, 4 persone |

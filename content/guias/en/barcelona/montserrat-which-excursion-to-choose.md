@@ -55,6 +55,16 @@ opciones:
     etiqueta: With lunch and wine
 ---
 
+## Which excursion should you choose?
+
+| Option | Price from | Duration | Format | Best for |
+|---|---|---|---|---|
+| [Half-day small-group personalized tour](/en/cities/barcelona/activities/montserrat-half-day-small-group) | €59 | 5h 30min | Small group, 4 variants to choose from | Travelers with half a day who want to beat the crowds |
+| [Rack railway, Black Madonna and winery (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | €47 | 6-10 h | Flexible, group | Travelers who want the cheapest full-day option |
+| [Bages farmhouse with lunch and wine pairing](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | €109 | 9 h | Premium, group | Travelers who want a top-tier food experience added on |
+| [Montserrat Signature photoshoot](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | €180 | 1 h | Private, photography | Travelers after professional photos, not a guided visit |
+| [Private tour with hotel pickup](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | €838 | 5 h | Private, your group only | Travelers who want an exclusive vehicle and guide, no sharing |
+
 ## Montserrat day trip from Barcelona: the 5 options
 
 | Option | From | Duration | Format | Best for |
@@ -79,6 +89,8 @@ opciones:
 - **The Escolania** usually sings the Salve and the Virolai at **1 PM Monday to Friday** and at the **11 AM Mass on Sundays**; it normally doesn't sing on Saturdays. You need to book, and the calendar changes with holidays and choir tours: check escolania.cat and choose a trip that's there at that time.
 - **The funiculars:** the **Sant Joan** funicular climbs to trails with views (10 minutes, then an easy 1-hour walk to the hermitage); the **Santa Cova** funicular, which went down to the Virgin's cave, is out of service until further notice (you can walk down to the cave). The Sant Joan one is included in the Trans Montserrat but not in most tours, and it closes in strong wind.
 - **Time needed:** half a day for just the basilica and the Moreneta; the whole day if you go up to Sant Joan.
+
+[actividad: montserrat-half-day-small-group]
 
 ## Going on your own, weather and food
 

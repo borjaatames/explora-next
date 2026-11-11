@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "L'Onyar et ses maisons colorées à Gérone"
 ---
 
+## Visites recommandées
+
+| Formule | Activité | À partir de |
+| --- | --- | --- |
+| L'essentiel avec un guide | [Visite à pied du Barri Vell en petit groupe](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| Pour les fans de la série | [Visite Game of Thrones](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Cathédrale et musées | [Cathédrale, Museu d'Art et Sant Feliu](/fr/cities/girona/activities/gerone-billet-cathedrale-musee-art-sant-feliu), 4,5★ (195) | 12 € |
+| Le quartier juif avec un guide | [Visite de la Gérone juive et du Call](/en/cities/girona/activities/jewish-girona-guided-tour), 4,9★ (140) | 45 € |
+| À votre rythme | [Audioguide autoguidé avec l'appli DareMapp](/fr/cities/girona/activities/gerone-visite-autoguidee-application-daremapp) | 5 € |
+| Depuis Barcelone avec la Costa Brava | [Gérone, Pals et Calella de Palafrugell en petit groupe](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2 096) | 98,5 € |
+| Depuis Barcelone avec Dalí | [Gérone, Figueres, Dalí et Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2 352) | 40 € |
+
 ## L'itinéraire d'une journée à Gérone
 
 | Heure | Étape |

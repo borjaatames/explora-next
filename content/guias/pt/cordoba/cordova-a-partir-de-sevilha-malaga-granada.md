@@ -42,6 +42,15 @@ faq:
   respuesta: Sim, de segunda a sábado das 8:30 às 9:30. No resto do dia, o bilhete normal custa 15 €.
 ---
 
+## Como chegar
+
+| A partir de | Comboio | Carro | Excursão em grupo | Excursão privada |
+| --- | --- | --- | --- | --- |
+| Sevilha | AVE, cerca de 45 min | 1h30 | [desde 109 €](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) · [de AVE, grupo reduzido](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) | [de comboio: 432 € (2) · 668 € (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [de carro: desde 379 € por pessoa](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
+| Málaga | alta velocidade, pouco menos de 1 h | 1h50 | [desde 76 €](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [750 € (2) · 920 € (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
+| Granada | — | cerca de 2 h | — | [800 € (2) · 1.040 € (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
+| Cádis | — | 2h30 | — | [desde 780 € (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |
+
 ## Como ir a Córdova a partir de Sevilha, Málaga ou Granada
 
 | A partir de | Comboio | Carro | Excursão em grupo | Excursão privada |

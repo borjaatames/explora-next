@@ -51,6 +51,13 @@ opciones:
     etiqueta: Deux parcs moins cher
 ---
 
+## Quel billet choisir ?
+
+| Si vous voulez… | Option | À partir de |
+| --- | --- | --- |
+| Une journée au parc aquatique | [Billet Siam Park](/en/cities/tenerife/activities/siam-park-tickets), 4,5★ (18 955) | 44 € |
+| Siam Park et Loro Parque | [Billet combiné Twin Ticket](/en/cities/tenerife/activities/loro-parque-siam-park-combo), 4,7★ (8 501) | 78 € |
+
 ## Prix des billets Siam Park en 2026
 
 Vérifiés le 4 novembre 2026. Siam Park modifie ses tarifs en été : confirmez celui de votre date sur le site officiel, siampark.net, avant de payer.

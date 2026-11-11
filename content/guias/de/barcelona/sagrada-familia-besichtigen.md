@@ -64,6 +64,8 @@ opciones:
 
 Realistisch: **1 Std. 30 bis 2 Stunden** ohne Türme, **2 Std. 30 bis 3** mit Türmen.
 
+[actividad: sagrada-familia-tour-con-torre]
+
 ## Preise und Öffnungszeiten der Sagrada Família
 
 - **Basis:** 26 €, Basilika plus Audioguide in 19 Sprachen. Für den ersten Besuch reicht das.

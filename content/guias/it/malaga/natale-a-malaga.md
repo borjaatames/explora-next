@@ -63,6 +63,8 @@ Nel 2025 l'allestimento si chiamava **«Natividad de luz»** (Natività di luce)
 
 Lo spettacolo delle 20:30 di sabato è il più affollato; quello delle 18:30 o un giorno feriale si godono molto di più.
 
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
+
 ## Natale Malaga 2026: il calendario
 
 | Cosa | Dove | Quando (edizione 2025) |
@@ -95,6 +97,8 @@ Per non dover scegliere i locali, il **tour vino e tapas** gira quattro locali c
 
 **Con i bambini:** **Alice Christmas**, al Giardino Botanico-Storico La Concepción, in periferia, è un percorso illuminato dalle 18:30 alle 22:30 (biglietti su lucesdelaconcepcion.es). Ci sono poi il **presepe comunale**, una **guida a 73 presepi** in città su belenes.malaga.eu, i **Re Magi giganti** sparsi per il centro (nel 2025 Melchiorre in calle Alcazabilla, Gaspare in Plaza Félix Sáenz e Baldassarre in calle Compañía) e una festa per bambini con burattini e cantastorie a dicembre.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
 ## Capodanno, Cabalgata dei Re Magi e festivi
 
 - **Rintocchi in Plaza de la Constitución:** nel 2025 sono stati distribuiti sacchetti con uva e gadget dalle 21:30 alle 23:45, fino a esaurimento.
@@ -105,11 +109,15 @@ Per non dover scegliere i locali, il **tour vino e tapas** gira quattro locali c
 - **Museo Picasso:** il 24 e 31 dicembre e il 5 gennaio, dalle 10:00 alle 15:00; **chiuso il 25 dicembre e l'1 e il 6 gennaio**. Per il resto, da novembre a febbraio, dalle 10:00 alle 18:00; 13 €, gratis la domenica nelle ultime due ore.
 - **Alcazaba:** da novembre a marzo, dalle 9:00 alle 18:00 (ultimo ingresso alle 17:00); 7 €, o 10 € con il castello di Gibralfaro, e **gratis la domenica dalle 14:00**. **Alcazaba e Gibralfaro chiudono il 24, 25 e 31 dicembre e il 1° gennaio** (sito ufficiale, verificato il 10 novembre 2026).
 
+[actividad: malaga-esencial-tour-privado]
+
 ## La spiaggia in inverno e una gita
 
 Secondo l'AEMET, dicembre a Malaga ha **17,5 °C di massima media** e circa 160 ore di sole, gennaio 16,8 °C. Non è tempo di bagni per quasi nessuno, ma di passeggiate alla **Malagueta e a Pedregalejo**, espetos a pranzo e, se la giornata è limpida, un **giro in catamarano nella baia** al tramonto. Per una sera fresca, i **bagni arabi Hammam Al Ándalus**, in centro.
 
 Se hai un giorno libero, d'inverno l'**Alhambra** si visita senza caldo (c'è un'escursione privata da Malaga che include l'Albaicín). Più vicino, **Nerja e Frigiliana** si fanno in giornata in gruppo.
+
+[actividad: hammam-al-andalus-malaga]
 
 ## Errori tipici
 

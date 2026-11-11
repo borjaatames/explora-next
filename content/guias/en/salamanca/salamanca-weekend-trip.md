@@ -48,6 +48,14 @@ faq:
 
 If [Salamanca in a day](/en/guides/salamanca/salamanca-in-1-day) is the checklist, the weekend is about living it. Here's the plan.
 
+## Experiences you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guided bike tour](/en/cities/salamanca/activities/salamanca-guided-bike-tour) | 4.6★ (52) | €25 |
+| [Iberian ham masterclass and tasting](/en/cities/salamanca/activities/iberian-ham-masterclass-tasting-salamanca) | 4.9★ (16) | €29 |
+| [Cathedrals ticket with audio guide](/en/cities/salamanca/activities/salamanca-cathedrals-ticket-audio-guide) | 4.6★ (202) | €10 |
+
 ## Day 1 (Saturday): the big monuments and the night
 
 **Morning (10:00-14:00).** Breakfast on a Plaza Mayor terrace and the classic route: **Casa de las Conchas** (free), the **Clerecía towers** (€3.75, the best view of the city), the **University** (€10; look for the frog; details in [how to visit it](/en/guides/salamanca/university-of-salamanca-how-to-visit)) and the **two cathedrals** (€10). Three or four unhurried hours; don't skip the Old Cathedral, more interesting than the New.
@@ -63,6 +71,8 @@ If [Salamanca in a day](/en/guides/salamanca/salamanca-in-1-day) is the checklis
 - **Vintage** (Prior, 19): intimate, open until 4:00.
 
 The clubs on Bordadores, Van Dyck and Pío XII are for the students.
+
+[actividad: salamanca-walking-tour-local-guide]
 
 ## Day 2 (Sunday): what the one-day visitor misses
 

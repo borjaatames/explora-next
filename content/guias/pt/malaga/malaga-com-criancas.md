@@ -47,6 +47,15 @@ faq:
   respuesta: 'De março a junho e em setembro-outubro: bom tempo e água agradável. O inverno é muito ameno. Em julho e agosto a praia é perfeita, mas o centro ao meio-dia cansa muito os mais pequenos.'
 ---
 
+## Programas com crianças que pode reservar
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Catamarã pela baía](/pt/cities/malaga/activities/malaga-passeio-catamara-baia-por-do-sol) | 4,4★ (10.537) | 13 € |
+| [Grutas de Nerja e Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3.192) | 69 € |
+| [Alcazaba e Teatro Romano com guia](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4,7★ (7.412) | 13 € |
+| [Caminito del Rey (a partir dos 8 anos)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## O que fazer em Málaga com crianças
 
 O segredo é alternar: **uma manhã de castelo ou centro histórico em doses curtas e uma tarde de praia ou animais**. Assim Málaga rende sem cansaço.

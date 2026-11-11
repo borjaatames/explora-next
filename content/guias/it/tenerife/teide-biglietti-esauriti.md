@@ -53,6 +53,15 @@ opciones:
     etiqueta: Salita in vetta
 ---
 
+## Quale biglietto scegliere?
+
+| Se vuoi… | Opzione | Da |
+| --- | --- | --- |
+| La funivia già inclusa | [Escursione al Teide con funivia e transfer](/it/cities/tenerife/activities/escursione-teide-funivia-trasferimento), 4,3★ (6.121) | 92 € |
+| La vetta a piedi con una guida | [Escursione guidata alla vetta del Teide](/en/cities/tenerife/activities/mount-teide-summit-guided-hike), 4,9★ (94) | 189 € |
+| Il Teide di notte | [Tramonto e stelle nel Parco Nazionale](/en/cities/tenerife/activities/teide-sunset-stargazing-tour), 4,7★ (3.691) | 35 € |
+| Il Teide e il nord | [Tour Teide, Icod, Garachico e Masca](/it/cities/tenerife/activities/tour-teide-masca-icod-garachico), 4,6★ (3.066) | 58 € |
+
 ## Funivia del Teide esaurita: cambia orario o giorno
 
 Il biglietto si compra su volcanoteide.com e costa **circa 42 €** andata e ritorno per adulto. Sale in meno di 8 minuti dalla stazione a valle (2.356 m) a **La Rambleta (3.555 m)**.
@@ -95,6 +104,8 @@ Se non c'è modo, il parco merita comunque il viaggio:
 - Il **circuito dei Roques de García** (3,6 km, circa 2 ore), con il Teide sullo sfondo.
 - I belvedere della strada TF-21, come quello di **Minas de San José**.
 - Le **stelle**: i tour al tramonto con telescopio si fanno dai belvedere del parco e non richiedono né funivia né permesso.
+
+[actividad: atardecer-estrellas-teide-telescopio]
 
 ## Consigli
 

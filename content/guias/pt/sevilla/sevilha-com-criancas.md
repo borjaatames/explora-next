@@ -56,6 +56,21 @@ faq:
   respuesta: 'Na Semana Santa e na Feria de Abril: ruas cortadas, multidões e hotéis ao dobro do preço. E no inverno (novembro-março) a Isla Mágica está fechada, por isso nesses meses não há parque temático.'
 ---
 
+## Os melhores programas com crianças
+
+| Programa | Atividade | Desde |
+| --- | --- | --- |
+| Parque temático (4-11 anos) | [Isla Mágica com opção de Agua Mágica](/pt/cities/sevilla/activities/isla-magica-sevilha-bilhete-agua-magica), 4,4★ (1.386) | 27 € |
+| Programa coberto com calor | [Aquário de Sevilha](/pt/cities/sevilla/activities/aquario-sevilha-bilhete-entrada), 4,6★ (2.295) | 17 € |
+| Ver Sevilha sem caminhar | [Tour privado em tuk-tuk elétrico](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, até 4 pessoas | 71 € por grupo |
+| Ver toda a Sevilha, com Cartuja e Macarena | [Grande tour privado em tuk-tuk de 2 horas](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), até 4 pessoas | 124 € por grupo |
+| Passeio de barco pelo rio | [Cruzeiro guiado pelo Guadalquivir](/pt/cities/sevilla/activities/sevilha-passeio-barco-guadalquivir-guiado), 4,7★ (1.746) | 25 € |
+| Adolescentes (a partir dos 8 anos) | [Caiaque pelo Guadalquivir](/pt/cities/sevilla/activities/caiaque-guadalquivir-sevilha-aluguer), 4,5★ (777) | 17 € |
+| De bicicleta (crianças que pedalam bem) | [Tour de bicicleta por Sevilha (em inglês)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.636) | 28 € |
+| Miradouro ao pôr do sol | [Setas de Sevilha com miradouro 360°](/pt/cities/sevilla/activities/setas-sevilha-metropol-parasol-bilhete-miradouro), 4,6★ (12.014) | 16 € |
+| Alcázar sem filas | [Real Alcázar com guia e acesso sem filas](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Fotografias impossíveis em espaço coberto | [Museu das Ilusões](/pt/cities/sevilla/activities/museu-das-ilusoes-sevilha-bilhete), 4,2★ (1.352) | 15 € |
+
 ## O que fazer em Sevilha com crianças consoante a idade
 
 - **Todas as idades: Plaza de España e parque de María Luisa.** Grátis, com barcos no canal (cerca de 6 € por 35 minutos), bancos de azulejos de cada província para procurar, e pavões e zonas infantis no parque.

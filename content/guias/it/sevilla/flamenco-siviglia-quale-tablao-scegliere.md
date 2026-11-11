@@ -57,6 +57,16 @@ actividades:
 
 ## I 5 spettacoli di flamenco a Siviglia
 
+| Spettacolo | Prezzo da | Formato | Atmosfera | Ideale per |
+|---|---|---|---|---|
+| [Teatro Flamenco Sevilla](/it/cities/sevilla/activities/siviglia-spettacolo-teatro-flamenco-sevilla) | 25 € | Teatro, posti a gradinata | Il più venduto della città, buona visibilità grazie alle gradinate | Chi vuole l'opzione più sicura e con più spettacoli al giorno |
+| [Casa de la Memoria](/it/cities/sevilla/activities/siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo) | 24 € | Patio andaluso, solo 2 file | Massima intimità, artisti a un metro | Chi preferisce la vicinanza alla comodità della poltrona |
+| [Museo del Baile Flamenco](/it/cities/sevilla/activities/siviglia-puro-flamenco-museo-del-baile-flamenco) | 33 € | Patio del XVIII secolo | Coreografie di Cristina Hoyos, abbinabile alla visita del museo | Chi vuole contesto culturale oltre allo spettacolo |
+| [Tablao El Arenal](/it/cities/sevilla/activities/siviglia-tablao-flamenco-el-arenal-maestranza) | 45 € | Tablao in stile ristorante, con tavoli | 50 anni di storia, atmosfera rilassata | Chi vuole cenare mentre guarda lo spettacolo |
+| [Teatro Flamenco Triana](/it/cities/sevilla/activities/siviglia-spettacolo-flamenco-teatro-triana) | 25 € | Teatro, dall'altra parte del fiume | Nel quartiere storicamente gitano dove è nata gran parte del flamenco | Chi vuole viverlo nel suo quartiere d'origine |
+
+## I 5 spettacoli di flamenco a Siviglia
+
 | Spettacolo | Da | Formato | Ideale per |
 |---|---|---|---|
 | Teatro Flamenco Sevilla | 25 € | Teatro a gradinate | L'opzione più sicura, con più repliche al giorno |

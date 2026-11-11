@@ -87,6 +87,8 @@ Le billet donne accès à **une seule tour** et vous ne la choisissez pas : le m
 
 On monte en ascenseur et on redescend par un **escalier en colimaçon étroit** : à éviter en cas de vertige, de claustrophobie, en fauteuil roulant ou avec des moins de 6 ans. D'en haut, on ne voit pas les tours en entier, et les Bunkers del Carmel ou le Tibidabo offrent des vues comparables gratuitement. Ce qui justifie la visite, ce sont les vitraux vus de l'intérieur, et le billet de base suffit pour ça : s'il faut choisir, ces 10 € seront mieux employés au Park Güell.
 
+[actividad: sagrada-familia-tour-con-torre]
+
 ## Heure du silence et Année Gaudí 2026
 
 **Heure du silence.** Depuis le 2 février 2026, tous les jours de **9 h à 10 h** : écouteurs obligatoires, pas de son sur haut-parleur et silence à l'intérieur. C'est le meilleur moment pour visiter : moins de monde, la lumière du matin à travers les vitraux est et une atmosphère intime. Réservez le créneau de 9 h.

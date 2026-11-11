@@ -71,6 +71,8 @@ La chiave di questo itinerario in Andalusia in 7 giorni è l'ordine: da ovest a 
 
 **Dove dormire a Siviglia:** l'**Arenal** (vicino alla Cattedrale, più tranquillo e un po' più economico), **Santa Cruz** (la cartolina, più turistico) o **Triana** (più locale, a 15 minuti dal centro).
 
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Giorno 2: Triana e il fiume
 
 Attraversa il ponte di Isabel II verso **Triana**: mercato, calle Betis e tapas in calle Pureza. Nel pomeriggio, **Casa de Pilatos** (12 €) o il **Museo di Belle Arti** (gratis per i cittadini UE), e il tramonto sul fiume. Il programma ora per ora è in [Siviglia in 2 giorni](/it/guides/sevilla/siviglia-in-2-giorni).

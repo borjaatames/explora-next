@@ -55,6 +55,24 @@ opciones:
     etiqueta: "Couples who want hotel pickup"
 ---
 
+## Price table per person
+
+| How you go | What's included | 2 people | 4 people | 6 people |
+| --- | --- | --- | --- | --- |
+| Independent, general ticket | Ticket + shuttle (no guide, no transport) | €12.50 | €12.50 | €12.50 |
+| Independent, official guided visit | Ticket with official guide (groups up to 30) + shuttle | €20.50 | €20.50 | €20.50 |
+| [Ticket with official guide](/en/cities/malaga/activities/caminito-del-rey-ticket-official-guide) (booked on our site) | Ticket, guide and helmet; no transport | €30 | €30 | €30 |
+| [Group tour from Málaga](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | Coach, ticket and official guide | €72 | €72 | €72 |
+| [Private: private transport](/en/cities/malaga/activities/caminito-del-rey-private-transport-from-malaga) | Pickup, tickets, shared group guide | €305 (€610) | €240 (€960) | €180 (€1,080) |
+| [Private: private guide](/en/cities/malaga/activities/caminito-del-rey-private-guide-from-malaga) | Transfer, tickets and a guide just for you | €396 (€792) | €214 (€856) | €156 (€936) |
+
+## And from Seville or Granada?
+
+| From | Group | Private, 2 | Private, 4 | Private, 6 |
+| --- | --- | --- | --- | --- |
+| Seville | — | [€310](/en/cities/sevilla/activities/caminito-del-rey-private-transport-day-trip-from-seville) | €220 | €200 |
+| Granada | [€135](/en/cities/granada/activities/caminito-del-rey-day-trip-from-granada) with lunch | [€340](/en/cities/granada/activities/caminito-del-rey-from-granada-private-transport) | €210 | €150 |
+
 ## What to choose, by who's travelling
 
 - **Couple with a car:** go independently, with the official-guide ticket or the €10 general ticket if you find one on the official website.

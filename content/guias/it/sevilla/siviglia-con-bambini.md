@@ -56,6 +56,21 @@ faq:
   respuesta: 'Durante la Settimana Santa e la Feria de Abril: strade chiuse, folla e hotel a prezzo doppio. E in inverno (novembre-marzo) Isla Mágica è chiusa, quindi il parco a tema in quei mesi non c''è.'
 ---
 
+## Le migliori attività con i bambini
+
+| Idea | Attività | Da |
+| --- | --- | --- |
+| Parco a tema (4-11 anni) | [Isla Mágica con opzione Agua Mágica](/it/cities/sevilla/activities/biglietto-isla-magica-siviglia-agua-magica), 4,4★ (1.386) | 27 € |
+| Al coperto quando fa caldo | [Acquario di Siviglia](/it/cities/sevilla/activities/biglietto-acquario-di-siviglia), 4,6★ (2.295) | 17 € |
+| Vedere Siviglia senza camminare | [Tour privato in tuk tuk elettrico](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, fino a 4 persone | 71 € a gruppo |
+| Vedere tutta Siviglia, con Cartuja e Macarena | [Grande tour privato in tuk tuk di 2 ore](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), fino a 4 persone | 124 € a gruppo |
+| Giro in barca sul fiume | [Crociera guidata sul Guadalquivir](/it/cities/sevilla/activities/siviglia-crociera-guidata-guadalquivir-con-bevanda), 4,7★ (1.746) | 25 € |
+| Ragazzi (dagli 8 anni) | [Kayak sul Guadalquivir](/it/cities/sevilla/activities/siviglia-kayak-sul-guadalquivir), 4,5★ (777) | 17 € |
+| In bici (bambini che pedalano bene) | [Tour in bici di Siviglia (in inglese)](/en/cities/sevilla/activities/seville-bike-tour-group), 4,9★ (1.636) | 28 € |
+| Belvedere al tramonto | [Setas di Siviglia con belvedere a 360°](/it/cities/sevilla/activities/siviglia-biglietto-setas-metropol-parasol-belvedere), 4,6★ (12.014) | 16 € |
+| Alcázar senza code | [Real Alcázar con guida e accesso senza code](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
+| Foto impossibili al coperto | [Museo delle Illusioni](/it/cities/sevilla/activities/biglietto-museo-delle-illusioni-siviglia), 4,2★ (1.352) | 15 € |
+
 ## Cosa fare a Siviglia con i bambini in base all'età
 
 - **Tutte le età: Plaza de España e parco di María Luisa.** Gratis, con barche sul canale (circa 6 € per 35 minuti), panchine di azulejos di ogni provincia da cercare, e pavoni e aree giochi nel parco.

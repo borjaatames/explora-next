@@ -81,6 +81,8 @@ Ogni quartiere costruisce il suo monumento di cartapesta e legno, alcuni alti **
 
 [actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
 
+[actividad: ciudad-artes-3-en-1-ticket]
+
 ## L'Offerta dei Fiori e la cremà delle Fallas
 
 - **Offerta (17 e 18 marzo):** migliaia di falleros in abito tradizionale sfilano con i fiori fino a plaza de la Virgen, dove si forma il manto della Virgen de los Desamparados. I posti migliori per vederla sono le vie **San Vicente, Mar e Caballeros**. Alla fine, l'arazzo di fiori si può visitare.

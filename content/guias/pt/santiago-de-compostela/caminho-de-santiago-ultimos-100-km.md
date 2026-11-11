@@ -45,6 +45,14 @@ faq:
   respuesta: 'Na Oficina do Peregrino (Rúa das Carretas, 33), aberta todos os dias das 10h00 às 18h00, exceto a 25 de dezembro e a 1 de janeiro, dias em que é entregue na catedral. Funciona com senha por QR: tire-a ao chegar e volte à sua hora.'
 ---
 
+## Ao chegar a Santiago
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour a pé pelo centro histórico com guia oficial](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
+| [Tour pela catedral e pelo museu sem filas](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2.454) | 25 € |
+| [Finisterra, Muxía e a Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2.372) | 52 € |
+
 ## Onde começar: o Caminho a partir de Sarria, Tui ou Ferrol
 
 | Caminho | Partida | Distância |
@@ -54,6 +62,8 @@ faq:
 | Caminho Inglês | Ferrol | ~118 km |
 
 Para a Compostela é preciso caminhar **pelo menos 100 km** (ou 200 km de bicicleta). Por isso **Sarria** é o início mais popular do Caminho Francês: ultrapassa à justa o mínimo. Atenção ao Caminho Inglês: a partir da Corunha são 75 km e não chega; é preciso sair de Ferrol.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## As etapas do Caminho Francês a partir de Sarria
 
@@ -85,6 +95,8 @@ Cinco etapas confortáveis (pode dividir a terceira). O **Monte do Gozo**, a 5 k
 - **Reserve na época alta:** Sarria, por ser o início massivo, enche; reserve pelo menos a primeira noite, e também nas etapas pequenas.
 - **Transporte de mochila:** 6-8 € por etapa; deixa-se na receção do albergue antes das 8h00 e é levada para o seguinte, que tem de estar reservado.
 - **Chegar a Sarria:** de comboio a partir de Madrid (5-6 horas, com ligação em Ourense ou direto conforme o dia) ou a partir de Santiago e da Corunha com mudança em Monforte; de autocarro a partir de Lugo (45 minutos). Muitos peregrinos voam para Santiago, deixam a mala no depósito de bagagem e vão para Sarria de comboio ou táxi partilhado (cerca de 90 € o táxi).
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
 
 ## Quando ir e o que levar
 

@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "O rio Onyar e as suas casas coloridas em Girona"
 ---
 
+## Visitas recomendadas
+
+| Plano | Atividade | Desde |
+| --- | --- | --- |
+| O essencial com guia | [Visita a pé ao Barri Vell em grupo reduzido](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| Para fãs da série | [Tour de Guerra dos Tronos](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Catedral e museus | [Catedral, Museu de Arte e Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4,5★ (195) | 12 € |
+| Bairro judeu com guia | [Visita à Girona judaica e ao Call](/en/cities/girona/activities/jewish-girona-guided-tour), 4,9★ (140) | 45 € |
+| Ao seu ritmo | [Audioguia autoguiado com a app DareMapp](/pt/cities/girona/activities/tour-autoguiado-daremapp-girona) | 5 € |
+| Desde Barcelona com a Costa Brava | [Girona, Pals e Calella de Palafrugell em grupo reduzido](/en/cities/girona/activities/girona-costa-brava-small-group-hotel-pickup), 4,8★ (2096) | 98,50 € |
+| Desde Barcelona com Dalí | [Girona, Figueres, Dalí e Cadaqués](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2352) | 40 € |
+
 ## O percurso de um dia por Girona
 
 | Hora | Paragem |
@@ -61,6 +73,8 @@ imagen_alt: "O rio Onyar e as suas casas coloridas em Girona"
 | 16:30 | Passeio pela muralha |
 
 Tudo a pé e com subidas. Aos domingos e feriados, troque a Catedral por El Call: a Catedral só abre às 12:00.
+
+[actividad: girona-walking-tour-small-group]
 
 ## O que ver em Girona: da catedral a El Call
 

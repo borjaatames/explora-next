@@ -53,6 +53,18 @@ faq:
   respuesta: 'Mai, juin et septembre : plus sec, longues journées et ambiance du Chemin. Juillet et août ont du beau temps mais beaucoup de monde ; les 24-25 juillet, ce sont les Festas do Apóstolo. Il pleut environ 140 jours par an : ayez toujours un parapluie.'
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite de la cathédrale, du musée et de la vieille ville](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-old-town-tour) | 4,8★ (439) | 24 € |
+| [Visite à pied de la vieille ville avec un guide officiel](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4,8★ (356) | 10 € |
+| [Visite de la cathédrale et du musée sans file d'attente](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4,7★ (2 454) | 25 € |
+| [Tournée des tapas avec boissons et musique live](/fr/cities/santiago-de-compostela/activities/santiago-tour-tapas-musique-live) | 4,7★ (231) | 45 € |
+| [Finisterre, Muxía et la Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4,7★ (2 372) | 52 € |
+| [Rías Baixas avec balade en bateau et bodega](/en/cities/santiago-de-compostela/activities/rias-baixas-boat-winery-day-trip) | 4,7★ (486) | 47 € |
+| [Plage des Cathédrales, Lugo et Ribadeo](/en/cities/santiago-de-compostela/activities/las-catedrales-beach-lugo-ribadeo-day-trip) | 4,5★ (225) | 65 € |
+
 ## L'itinéraire de la journée : que voir à Saint-Jacques-de-Compostelle
 
 | Heure | Quoi |

@@ -49,6 +49,18 @@ imagen_portada: "/images/guias/escapadas-costa-brava-desde-girona.jpg"
 imagen_alt: "La Vila Vella de Tossa de Mar sobre la playa"
 ---
 
+## Excursiones con todo organizado
+
+| Plan | Actividad | Desde |
+| --- | --- | --- |
+| Calas y cuevas en kayak | [Kayak y esnórquel en S'Agaró](/ciudades/girona/actividades/costa-brava-kayak-esnorquel-cuevas-sagaro), 4,7★ (1.393) | 34 € |
+| Cadaqués por mar | [Barco de Roses a Cadaqués por el Cap de Creus](/ciudades/girona/actividades/roses-cadaques-barco-cap-de-creus), 4,5★ (414) | 27 € |
+| Islas Medes | [Barco a las islas Medes desde L'Estartit](/ciudades/girona/actividades/islas-medes-barco-cuevas-estartit), 4,6★ (634) | 24 € |
+| Museo Dalí con guía | [Visita guiada al Teatro-Museo Dalí](/ciudades/girona/actividades/teatro-museo-dali-figueres-visita-guiada), 4,7★ (105) | 31 € |
+| Si duermes en Barcelona | [Girona, Figueres, Dalí y Cadaqués en un día](/ciudades/girona/actividades/girona-figueres-dali-cadaques-desde-barcelona), 4,7★ (2.352) | 40 € |
+| Desde Barcelona, grupo reducido | [Girona, Pals y Calella de Palafrugell en grupo reducido](/ciudades/girona/actividades/girona-costa-brava-grupo-reducido-recogida-hotel), 4,8★ (2.096) | 98,5 € |
+| Tossa de Mar desde Barcelona | [Tossa de Mar y la Costa Brava en el día](/ciudades/girona/actividades/tossa-de-mar-costa-brava-excursion-desde-barcelona), 4,9★ (596) | 39 € |
+
 ## Escapadas desde Girona de un vistazo
 
 | Destino | Desde Girona | Ideal para |

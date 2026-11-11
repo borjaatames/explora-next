@@ -45,6 +45,14 @@ faq:
   respuesta: 'At the Pilgrim''s Office (Rúa das Carretas, 33), open daily 10:00-18:00 except 25 December and 1 January, when it''s issued at the cathedral. It works with a QR ticket: get your number on arrival and come back at your time.'
 ---
 
+## Once you reach Santiago
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Old town walking tour with an official guide](/en/cities/santiago-de-compostela/activities/santiago-old-town-walking-tour) | 4.8★ (356) | €10 |
+| [Skip-the-line cathedral and museum tour](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 4.7★ (2,454) | €25 |
+| [Finisterre, Muxía and Costa da Morte](/en/cities/santiago-de-compostela/activities/finisterre-muxia-costa-da-morte-day-trip) | 4.7★ (2,372) | €52 |
+
 ## Where to start: the Camino from Sarria, Tui or Ferrol
 
 | Route | Start | Distance |
@@ -54,6 +62,8 @@ faq:
 | English Way | Ferrol | ~118 km |
 
 For the Compostela you must walk **at least 100 km** (or 200 km by bike). That's why **Sarria** is the most popular start on the Camino Francés: it's just over the minimum. Watch out on the English Way: from A Coruña it's 75 km and doesn't qualify; you have to start in Ferrol.
+
+[actividad: tour-a-pie-casco-antiguo-santiago]
 
 ## The Camino Francés stages from Sarria
 
@@ -99,6 +109,8 @@ Five comfortable stages (you can split the third). **Monte do Gozo**, 5 km from 
 - **Rain jacket or poncho:** it rains often in Galicia.
 - **Layers** and a light pack: every gram counts after a few days.
 - **First-aid kit:** Vaseline on your feet before setting off, seamless socks, Compeed, ibuprofen and sunscreen. There are pharmacies at every stage end.
+
+[actividad: catedral-santiago-museo-tour-guiado]
 
 ## Tips and common mistakes
 

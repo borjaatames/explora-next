@@ -66,6 +66,10 @@ actividades:
 
 **21:00 — Flamenco.** Para un primer espectáculo, la **Casa de la Memoria**: una hora, sala pequeña y artistas de primera, desde 24 €. Si dudas entre tablaos, mira [qué tablao elegir en Sevilla](/guias/sevilla/flamenco-sevilla-que-tablao-elegir). Después, tapas por la Alfalfa.
 
+[actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Día 2: Triana y la Sevilla sin colas
 
 **10:00 — Triana.** Desde la Torre del Oro, 10 minutos por el paseo del río hasta el **puente de Isabel II**. Al otro lado:
@@ -81,6 +85,10 @@ actividades:
 **19:00 — Atardecer.** Dos opciones según el gusto: el mirador de las **Setas** (desde 16 €), con vistas de 360° y la Giralda al fondo, a 10 minutos de la Casa de Pilatos; o un **crucero de una hora** por el Guadalquivir desde la Torre del Oro (desde 16,50 €).
 
 **21:30 — Cena en la Alameda de Hércules**, a 10 minutos de las Setas: el barrio con más ambiente local de noche.
+
+[actividad: tapas-triana-tour-privado-tabernas-tradicionales]
+
+[actividad: setas-sevilla-metropol-parasol-entrada-mirador]
 
 ## Qué reservar para Sevilla en un fin de semana y cuánto cuesta
 

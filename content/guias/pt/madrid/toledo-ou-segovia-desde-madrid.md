@@ -47,6 +47,19 @@ faq:
   respuesta: 'Segóvia. Fica a cerca de 1000 metros de altitude e em julho e agosto costuma estar vários graus mais fresca do que Toledo, onde se chega aos 35-40 °C em subidas sem sombra. No inverno é ao contrário: Segóvia é fria e pode nevar.'
 ---
 
+## Comparação rápida
+
+| | Toledo | Segóvia |
+| --- | --- | --- |
+| Comboio a partir de Madrid | Avant a partir de Atocha, 33 min; 22-26 € ida e volta | Avant a partir de Chamartín, cerca de 30 min, mais autocarro urbano de 15 min (2 €) |
+| Autocarro | Alsa a partir da Plaza Elíptica, 1 h; cerca de 11 € ida e volta | Avanza a partir de Moncloa, 1h15-1h20; cerca de 5 € por trajeto |
+| Tempo necessário | Um dia inteiro | Meio dia longo, com almoço |
+| Imprescindíveis | Catedral, Santo Tomé, sinagogas, Judiaria | Aqueduto, Catedral, Alcázar |
+| Bilhetes-chave | Catedral 12 €; pulseira de 7 monumentos 14 € | Alcázar 7 € (10 € com torre); Catedral 4 € |
+| Terreno | Muitas subidas | Uma subida suave e depois plano |
+| Melhor época | Primavera e outono | Verão e outono |
+| Excursão organizada | [Toledo com guia e bilhete para a Catedral](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila e Segóvia com bilhetes incluídos](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+
 ## Toledo vs Segóvia: comparação rápida
 
 | | Toledo | Segóvia |
@@ -84,6 +97,8 @@ Segóvia percorre-se em linha reta, e isso faz parte do seu encanto: chega ao **
 - **O clima:** a cerca de 1000 metros, no verão refresca ao fim da tarde; no inverno faz frio a sério.
 
 Com cinco ou seis horas vê o essencial sem pressa e almoça com calma; o roteiro passo a passo está em [o que ver em Segóvia num dia](/pt/guides/madrid/o-que-ver-em-segovia-num-dia). Por isso Segóvia se combina tantas vezes com [Ávila](/pt/guides/madrid/o-que-ver-em-avila-num-dia), como na [excursão a Ávila e Segóvia com bilhetes](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). E para ver aqueduto, Catedral e Alcázar ao mesmo tempo, o voo de balão sobre Segóvia é a forma mais memorável.
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Como chegar sem perder a manhã
 

@@ -51,6 +51,15 @@ opciones:
     etiqueta: Con realidad virtual
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| El museo y el mirador, sin más | [Barça Immersive Tour (entrada oficial)](/ciudades/barcelona/actividades/camp-nou-museo-fc-barcelona-tour-inmersivo), 4,3★ (12.092) | 30 € |
+| Museo con realidad virtual y Robokeeper | [Total Experience](/ciudades/barcelona/actividades/camp-nou-museo-fc-barcelona-pase-total-experience), 4,2★ (979) | 54 € |
+| Entrar en la grada con guía | Spotify Camp Nou Experience, en la web del club | 69 € |
+| Pisar el césped | Match Day Tour, solo días de partido, en la web del club | 149 € |
+
 ## Qué incluye cada entrada del tour del Camp Nou
 
 El estadio sigue en obras, y eso cambia lo que ves. Esto es lo que hay en noviembre de 2026:

@@ -46,6 +46,12 @@ imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
 imagen_alt: "Pasarela del Caminito del Rey colgada en el desfiladero"
 ---
 
+## Caminito con transporte desde Málaga
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour guiado con transporte y entrada](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Qué vas a ver
 
 El Caminito es un recorrido **lineal** de unos 7,7 km por el **desfiladero de los Gaitanes**: unos **3 km de pasarelas** ancladas a la roca, a más de 100 metros sobre el río, y el resto senderos de acceso. Se hace en un solo sentido, **de norte (Ardales) a sur (El Chorro)**.

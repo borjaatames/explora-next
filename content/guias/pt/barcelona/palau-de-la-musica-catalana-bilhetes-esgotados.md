@@ -48,6 +48,14 @@ opciones:
     etiqueta: Visita livre
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Ir ao seu ritmo, sem passar pela bilheteira | [Bilhete para o Palau com visita livre](/pt/cities/barcelona/activities/palau-musica-catalana-bilhete), 4,6★ (6.321) | 20 € |
+| Que lhe expliquem tudo | Visita guiada, no site oficial | 24 € |
+| Vê-lo com música | Um concerto da programação do Palau | variável |
+
 ## O que vai ver
 
 A visita dura cerca de **50 minutos** e percorre:

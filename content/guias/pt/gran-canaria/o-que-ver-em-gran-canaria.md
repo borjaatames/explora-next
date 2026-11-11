@@ -51,6 +51,17 @@ imagen_portada: "/images/guias/que-ver-en-gran-canaria.jpg"
 imagen_alt: "Praça de Santa Ana em Vegueta, Las Palmas de Gran Canaria"
 ---
 
+## Reserve o principal
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Buggy todo-o-terreno pelos barrancos do sul](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4,8★ (3.728) | 65 € |
+| [Catamarã para ver golfinhos e baleias com snorkel](/pt/cities/gran-canaria/activities/gran-canaria-catamara-golfinhos-baleias-snorkel) | 4,4★ (6.154) | 38 € |
+| [Pôr do sol nas cumeadas e observação de estrelas](/en/cities/gran-canaria/activities/gran-canaria-sunset-stargazing-tour) | 4,8★ (302) | 45 € |
+| [Tour de 1 dia a partir de Las Palmas: Guayadeque, Maspalomas e Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4,6★ (716) | 48 € |
+| [Passeio de camelo pelas Dunas de Maspalomas](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4,5★ (5.263) | 18 € |
+| [Jeep safari por vales, barragens e vilas do sul](/en/cities/gran-canaria/activities/southern-gran-canaria-jeep-safari) | 4,5★ (1.443) | 69 € |
+
 ## Quantos dias: Gran Canaria em 4 dias (ou 5)
 
 Com **quatro ou cinco dias** vê as suas duas faces:

@@ -44,6 +44,14 @@ faq:
   respuesta: 'Abbastanza: il centro storico è pedonale e pianeggiante e tutte le stazioni della metro hanno l''ascensore. I marciapiedi dell''Ensanche sono stretti e ci sono salite nel centro storico e ad Artxanda, dove la funicolare aiuta.'
 ---
 
+## Attività con bambini che puoi prenotare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Giro in barca sulla ría (1 h o 2 h)](/it/cities/bilbao/activities/bilbao-giro-in-barca-ria-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museo e stadio del San Mamés](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica con txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## Cosa fare a Bilbao con i bambini
 
 **Funicolare di Artxanda.** Sale in meno di tre minuti al belvedere con le viste più belle su Bilbao tra le montagne. In cima c'è un parco con area giochi. Economica e divertente.

@@ -44,6 +44,14 @@ faq:
   respuesta: 'Bastante: o centro histórico é pedonal e plano e todas as estações de metro têm elevador. Os passeios do Ensanche são estreitos e há subidas no centro histórico e em Artxanda, onde o funicular ajuda.'
 ---
 
+## Planos com crianças que pode reservar
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Barco pela ria (1 h ou 2 h)](/pt/cities/bilbao/activities/bilbau-passeio-barco-ria-portugalete) | 4,2★ (3.389) | 15 € |
+| [Museu e estádio de San Mamés](/pt/cities/bilbao/activities/bilbau-san-mames-museu-estadio-athletic) | 4,8★ (1.710) | 16,5 € |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica com txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+
 ## O que fazer em Bilbau com crianças
 
 **Funicular de Artxanda.** Sobe em menos de três minutos ao miradouro com as melhores vistas de Bilbau entre montanhas. Lá em cima há parque e zona de jogos. Barato e divertido.

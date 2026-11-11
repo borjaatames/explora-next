@@ -56,6 +56,22 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
+## ¿Qué entrada elegir?
+
+| Opción | Precio desde | Duración | Formato | Ideal para |
+|---|---|---|---|---|
+| [Entrada con audioguía](/ciudades/barcelona/actividades/entrada-sagrada-familia-audioguia) | 34 € | 1-2 h | Visita libre, audioguía en 16 idiomas | La más barata, visitar a tu propio ritmo |
+| [Tour guiado con subida a una torre](/ciudades/barcelona/actividades/sagrada-familia-tour-con-torre) | 75 € | 1h30-2h | Guiado + subida opcional a una torre | La única con acceso a una de las torres |
+| [Visita guiada en grupo reducido](/ciudades/barcelona/actividades/sagrada-familia-visita-guiada-grupo-reducido) | 99 € | 1h45 | Guiado, grupo reducido, acceso accesible | Quien prioriza un grupo pequeño sobre el precio |
+
+## Combinados con Park Güell y otros monumentos
+
+| Opción | Precio desde | Duración | Incluye | Ideal para |
+|---|---|---|---|---|
+| [Tour guiado Sagrada Família + Park Güell](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado) | 104 € | 4 h | Solo estos dos monumentos, con guía | Quien quiere ambos con guía sin gastar el día entero |
+| [Barcelona en un día: Sagrada Família y Park Güell](/ciudades/barcelona/actividades/barcelona-un-dia-sagrada-familia-park-guell) | 129 € | 7 h | Montjuïc, casco antiguo, Passeig de Gràcia + ambos monumentos | Quien quiere ver lo más importante de Barcelona en una sola jornada |
+| [Lo mejor de Barcelona en privado, con Sagrada Família](/ciudades/barcelona/actividades/tour-privado-lo-mejor-de-barcelona-sagrada-familia) | desde 658 €/grupo (1-2 personas) | 7 h | Montjuïc, Barrio Gótico, Passeig de Gràcia + Sagrada Família — **no incluye Park Güell** | Quien quiere un privado de día completo centrado en el resto de la ciudad, no en Park Güell |
+
 ## Precio de la entrada a la Sagrada Familia
 
 - **Web oficial (sagradafamilia.org):** la básica con audioguía cuesta **26 €** y con torre **36 €**. Es lo más barato si quedan plazas.

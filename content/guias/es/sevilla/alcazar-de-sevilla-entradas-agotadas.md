@@ -56,6 +56,15 @@ opciones:
     etiqueta: Con la Catedral
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con hora, sin guía | [Entrada al Real Alcázar con acceso prioritario](/ciudades/sevilla/actividades/real-alcazar-sevilla-entrada), 4,6★ (36.909) | 20 € |
+| Con guía y el Cuarto Real Alto | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
+| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
+
 ## Primero, revisa bien la web oficial
 
 La web oficial de venta es **alcazardesevilla.infoticketing.com**, enlazada desde alcazarsevilla.org. La entrada general cuesta **15,50 €** (reducida, 8 €) y el **Cuarto Real Alto**, 5,50 € más. Si tu fecha sale agotada:
@@ -84,6 +93,8 @@ Antes de pagar, comprueba en la ficha que diga **«entrada al Real Alcázar incl
 
 [actividad: real-alcazar-sevilla-entrada]
 
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
 ## Alcázar de Sevilla los lunes gratis
 
 Los lunes hay una hora de entrada gratuita: de **18:00 a 19:00** de abril a septiembre y de **16:00 a 17:00** de octubre a marzo. Se reserva solo online, en la misma web, y las plazas se agotan muy rápido. Si te coincide un lunes, mírala, pero no la tomes como plan.
@@ -97,6 +108,8 @@ Si no consigues nada, puedes ver bastante sin entrar:
 - El **Callejón del Agua** y los **Jardines de Murillo**, en el barrio de Santa Cruz, que bordean la muralla del Alcázar.
 
 Y si buscas arte mudéjar en otro sitio, la **Casa de Pilatos** tiene patios y azulejos de la misma familia, a unos 15 minutos a pie.
+
+[actividad: sevilla-casa-de-pilatos-entrada-planta-baja-audioguia]
 
 ## Errores que hay que evitar
 

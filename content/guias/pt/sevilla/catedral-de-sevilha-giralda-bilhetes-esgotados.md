@@ -56,6 +56,15 @@ opciones:
     etiqueta: Privada
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| Bilhete com hora, sem guia | [Catedral e Giralda sem filas](/pt/cities/sevilla/activities/catedral-sevilha-giralda-bilhete-sem-filas), 4,6★ (3.500) | 17,50 € |
+| A mais escolhida | [Catedral, Giralda e Alcázar com acesso prioritário](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Os dois monumentos com tempo | [Catedral, Giralda e Alcázar: tour de 3,5 horas](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
+| Um guia só para o seu grupo | [Real Alcázar e Catedral: tour privado com bilhetes](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € por grupo |
+
 ## O que vai ver
 
 - **A nave e o retábulo-mor**, um dos maiores da cristandade, com o cadeiral do coro e a Capela Real.
@@ -104,6 +113,10 @@ Se não conseguir entrar, de fora vê-se muito:
 - A **Plaza del Triunfo**, entre a Catedral e o Alcázar, com a Puerta del Príncipe de um lado.
 
 Se também lhe falta o Alcázar, em [o que fazer se os bilhetes do Alcázar de Sevilha estiverem esgotados](/pt/guides/sevilla/alcazar-de-sevilha-bilhetes-esgotados) tem as opções.
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
+[actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
 ## Conselhos
 

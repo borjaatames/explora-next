@@ -49,6 +49,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "Die Treppe der Kathedrale von Girona"
 ---
 
+## Game-of-Thrones-Touren
+
+| Plan | Aktivität | Ab |
+| --- | --- | --- |
+| Am besten bewertet | [Game-of-Thrones-Tour in kleiner Gruppe](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Nur für deine Gruppe | [Private Game-of-Thrones-Tour](/en/cities/girona/activities/girona-game-of-thrones-private-tour), Preis pro Gruppe | 260 € |
+| Geschichte Gironas und Drehorte | [Rundgang durch das Barri Vell](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| Die Kathedrale von innen | [Kathedrale, Museu d'Art und Sant Feliu](/en/cities/girona/activities/girona-cathedral-art-museum-sant-feliu-ticket), 4,5★ (195) | 12 € |
+
 ## Girona Game of Thrones Drehorte: von der Kathedrale bis Braavos
 
 - **Kathedralentreppe:** die Außenansicht der Großen Septe von Baelor in Königsmund. Hier reitet Jaime Lannister mit dem Heer der Tyrells hinauf.
@@ -59,6 +68,8 @@ imagen_alt: "Die Treppe der Kathedrale von Girona"
 - **Passeig Arqueològic:** die Stadtmauer, Hintergrund mehrerer Sequenzen.
 
 Achtung: **Nicht alles wurde in Girona gedreht**. Die Braavos-Szenen mischen Girona mit Šibenik (Kroatien): Wenn du einen Drehort nicht findest, ist er wahrscheinlich nicht hier.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## Die Route zu Fuß durch die Drehorte
 

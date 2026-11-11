@@ -45,6 +45,14 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
 imagen_alt: "Lobos Island and La Caldera mountain seen from the sea"
 ---
 
+## Book the essentials
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Lobos return ferry with park entry](/en/cities/fuerteventura/activities/lobos-island-ferry-corralejo-park-entry) | 4.7★ (1,425) | €17 |
+| [Lobos catamaran with lunch, drinks and snorkelling](/en/cities/fuerteventura/activities/corralejo-lobos-island-catamaran) | 4.8★ (1,183) | €75 |
+| [Corralejo walking tour with food tastings](/en/cities/fuerteventura/activities/corralejo-walking-tour-tastings) | 4.9★ (515) | €18 |
+
 ## The Lobos Island permit, step by step
 
 Lobos has required prior authorisation since 2019. You request it at **lobospass.com**, the official website of the Cabildo de Fuerteventura, which stepped up controls and patrols in summer 2026.

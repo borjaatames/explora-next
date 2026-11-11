@@ -41,6 +41,14 @@ faq:
   respuesta: Sì, parte dal porto di Malaga ed è pensata per rientrare in tempo alla nave.
 ---
 
+## Tre modi per farlo
+
+| Opzione | Viaggio | Biglietti | Prezzo indicativo |
+| --- | --- | --- | --- |
+| Auto propria o a noleggio | 1 h 30 per tratta | Li compri tu sul sito ufficiale | Benzina, parcheggio e biglietto |
+| Autobus di linea | poco meno di 2 h | Li compri tu | Biglietto dell'autobus e ingresso |
+| [Escursione privata](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | Prelievo al tuo alloggio | Inclusi, con guida privata | 397 € a persona (minimo 2) |
+
 ## Cosa vedrai all'Alhambra
 
 Il complesso riunisce quattro parti, tutte incluse nel biglietto Generale:

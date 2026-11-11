@@ -51,6 +51,13 @@ opciones:
     etiqueta: Mit Altstadt
 ---
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| [Kathedrale und Museum ohne Anstehen](/en/cities/santiago-de-compostela/activities/santiago-cathedral-museum-guided-tour) | 25 € | Guide, Tickets für Kathedrale und Museum; Pórtico de la Gloria je nach gewählter Option | Wer Kathedrale und Museum mit Erklärungen sehen will |
+| [Pórtico de la Gloria, Kathedrale und Altstadt](/en/cities/santiago-de-compostela/activities/santiago-portico-of-glory-cathedral-city-tour) | 40 € | Eintritt zum Pórtico de la Gloria, offizieller Guide, Kathedrale und Altstadt | Wer das Pórtico und einen Altstadtrundgang verbinden will |
+
 ## Was Sie in der Kathedrale von Santiago sehen: kostenlos und kostenpflichtig
 
 **Kostenlos:**
@@ -66,6 +73,8 @@ opciones:
 | **Pórtico de la Gloria** | Das restaurierte Meisterwerk von Meister Mateo (Ticket mit Uhrzeit) |
 | **Dächer** | Führung über das Granitdach, mit Aussicht |
 | **Kathedralmuseum** | Kreuzgang, Domschatz, Reliquienkapelle und Pazo de Xelmírez |
+
+[actividad: catedral-museo-casco-antiguo-santiago]
 
 ## Preise, Öffnungszeiten und Reservierung: Pórtico de la Gloria und Dächer
 

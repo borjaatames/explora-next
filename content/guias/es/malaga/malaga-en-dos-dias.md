@@ -57,6 +57,17 @@ faq:
 
 Si solo tienes un día, o llegas en crucero, la versión condensada está en [qué ver en Málaga en un día](/guias/malaga/que-ver-en-malaga-en-un-dia).
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Alcazaba y Teatro Romano con guía](/ciudades/malaga/actividades/alcazaba-teatro-romano-malaga-visita-guiada) | 4,7★ (7.412) | 13 € |
+| [Museo Picasso, entrada con audioguía](/ciudades/malaga/actividades/museo-picasso-malaga-entrada) | 4,5★ (14.246) | 13 € |
+| [Catedral, Alcazaba y Teatro con entradas](/ciudades/malaga/actividades/malaga-esencial-catedral-alcazaba-teatro) | 4,6★ (1.134) | 32,76 € |
+| [Catamarán por la bahía al atardecer](/ciudades/malaga/actividades/catamaran-malaga-atardecer) | 4,4★ (10.537) | 13 € |
+| [Baños árabes Hammam Al Ándalus](/ciudades/malaga/actividades/hammam-al-andalus-malaga) | 4,7★ (2.909) | 60 € |
+| [Caminito del Rey guiado desde Málaga](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Día 1: casco histórico y museos
 
 | Hora | Qué |

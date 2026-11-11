@@ -85,6 +85,8 @@ Este ano há mais de **250 pontos iluminados** e 14 milhões de LED, com desenho
 4. **20:00, chocolate com churros na San Ginés**, no pasadizo de San Ginés, junto a Sol. Aberta desde 1894, funciona 24 horas de quinta a domingo e nas vésperas de feriado.
 5. **21:00, jantar:** tapas pelo centro ou um espetáculo de flamenco.
 
+[actividad: madrid-big-bus-night-tour]
+
 ## Tradições, passagem de ano e Reis Magos
 
 - **O sorteio da lotaria (22 de dezembro):** no Teatro Real, com bilhetes numerados grátis levantados na bilheteira com documento de identificação ou passaporte. Há quem faça fila desde a noite anterior: nas últimas edições, chegar depois das 4 da manhã era ficar de fora.

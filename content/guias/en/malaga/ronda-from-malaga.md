@@ -40,6 +40,15 @@ faq:
   respuesta: 'Yes, although the gorge viewpoints are very high and the old town streets are steep: a baby carrier is better than a pushchair.'
 ---
 
+## How to get from Málaga to Ronda
+
+| Option | Time | Approximate price | Best for |
+| --- | --- | --- | --- |
+| Own or hire car | 1 h 45 | Fuel and parking | Anyone who wants freedom and a mountain drive |
+| Bus | about 2 h | Regular route ticket | Travellers without a car and in no hurry |
+| [Group tour](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 9 h in total | from €34 per person | Solo travellers and couples; includes Setenil |
+| [Private trip](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga) | 8 h in total | €580 (2) · €720 (4) | Families and groups who want their own pace |
+
 ## How to get from Malaga to Ronda
 
 | Option | Time | Approximate price | Best for |

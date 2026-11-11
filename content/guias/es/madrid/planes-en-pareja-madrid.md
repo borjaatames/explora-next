@@ -50,6 +50,19 @@ actividades:
   - madrid-big-bus-night-tour
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio para dos | Para qué pareja |
+| --- | --- | --- | --- |
+| [Flamenco en Las Carboneras](/ciudades/madrid/actividades/flamenco-tablao-las-carboneras) | 1 h | 90 €, con una bebida cada uno | Noche especial en un tablao pequeño |
+| [Tabernas centenarias, paseo privado](/ciudades/madrid/actividades/tour-privado-tabernas-centenarias-madrid) | 2 h 10 min | 254 € (127 € por persona) | Historia de Madrid con tapas y sin desconocidos |
+| [Vuelo en globo sobre Segovia](/ciudades/madrid/actividades/vuelo-globo-segovia) | 4 h (1 h de vuelo) | 410 € (205 € por persona) | Aniversarios y ocasiones especiales |
+| [Picnic chic privado](/ciudades/madrid/actividades/picnic-chic-privado-madrid) | 2 h | 140 € (70 € por persona) | Tarde tranquila, sin alcohol |
+| [Vinos y tapas en bares escondidos](/ciudades/madrid/actividades/tour-vinos-y-tapas-madrid-bares-escondidos) | 3 h | 180 € | Parejas a las que les gusta el vino |
+| [Bodega y comida en Chinchón](/ciudades/madrid/actividades/bodega-y-comida-en-chinchon-desde-madrid) | 6 h | 400 € | Escapada de un día fuera de Madrid |
+| [Tuk-tuk panorámico privado](/ciudades/madrid/actividades/tuk-tuk-vistas-panoramicas-exclusivas-madrid) | 2 h | 140 € por tuk-tuk | Ver Madrid sin caminar kilómetros |
+| [Autobús panorámico nocturno](/ciudades/madrid/actividades/madrid-big-bus-night-tour) | 70 min | Desde 46,80 € | Madrid iluminado, plan barato |
+
 ## Cena con flamenco en pareja: un tablao pequeño
 
 **Las Carboneras** está en el sótano del antiguo palacio del Conde de Miranda, a cinco minutos de la Plaza Mayor. Es un local pequeño, de ambiente cercano, con artistas fijos y mucha improvisación.
@@ -71,6 +84,8 @@ Un guía privado os lleva durante **2 h 10 min** por tabernas y restaurantes de 
 - **127 € por persona**, mínimo 2. Puede empezar con recogida en vuestro hotel.
 - Edad mínima 12 años; no es accesible en silla de ruedas.
 
+[actividad: tour-privado-tabernas-centenarias-madrid]
+
 ## Escapada romántica: globo sobre Segovia desde Madrid
 
 Una hora de vuelo sobre **Segovia**, con el Acueducto, la Catedral y el Alcázar a la vez desde el aire. Al aterrizar, los 4x4 os llevan a un **desayuno con cava** y os entregan el certificado de vuelo y un reportaje de fotos.
@@ -79,6 +94,8 @@ Una hora de vuelo sobre **Segovia**, con el Acueducto, la Catedral y el Alcázar
 - Si no tenéis coche, la recogida en Madrid (Hotel Riu Plaza España) cuesta **40 € por persona**.
 - Edad mínima 6 años. No se recomienda a embarazadas.
 - Llevad ropa cómoda, calzado deportivo y algo para la cabeza. Los horarios dependen del viento y de los límites de peso.
+
+[actividad: vuelo-globo-segovia]
 
 ## Planes tranquilos y escapadas de un día
 
@@ -89,6 +106,10 @@ Una hora de vuelo sobre **Segovia**, con el Acueducto, la Catedral y el Alcázar
 - **Bodega y comida en Chinchón** (6 h, 200 € por persona): transporte desde el centro, una bodega familiar histórica con visita a la cueva y cata de tres vinos, y comida en un restaurante tradicional junto a su plaza medieval. Grupos de ocho como máximo; cancelación gratuita hasta 48 horas antes.
 
 Precios «desde» de cada ficha a 1 de noviembre de 2026; pueden variar según la fecha y la opción.
+
+[actividad: picnic-chic-privado-madrid]
+
+[actividad: bodega-y-comida-en-chinchon-desde-madrid]
 
 ## Qué hacer en Madrid en pareja: una noche perfecta
 

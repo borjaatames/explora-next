@@ -65,6 +65,8 @@ Elles ne conviennent pas toutes aux mêmes envies : choisissez selon le jour et 
 | Nord | Formentor, Playa de Muro | Familiales, eaux calmes |
 | Tramuntana | Sa Calobra, Cala Tuent, Cala Deià | Spectaculaires, entre les montagnes |
 
+[actividad: mallorca-vuelta-isla-tren-soller-tranvia-barco]
+
 ## Les incontournables : Es Trenc, Cala Mondragó et Caló des Moro
 
 **Es Trenc (sud).** La plage sauvage la plus célèbre : sable blanc et eau caribéenne, sans constructions, à côté des salines. Presque aucun service (trois kiosques) ; prévoyez ombre et eau.

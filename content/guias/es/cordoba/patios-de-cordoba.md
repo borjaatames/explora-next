@@ -43,6 +43,12 @@ faq:
   respuesta: A primera hora de la mañana (abren a las 11:00) o al caer la tarde. Al mediodía hay colas y calor, y entre las 14:00 y las 18:00 todo está cerrado.
 ---
 
+## Tour de patios con entradas
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Los auténticos patios cordobeses, tour de 2 horas con entradas](/ciudades/cordoba/actividades/patios-cordobeses-tour-con-entradas) | 4,3★ (1.106) | 19 € |
+
 ## La Fiesta de los Patios en mayo
 
 Durante unas **dos semanas de mayo**, decenas de casas de los barrios históricos abren sus patios encalados y compiten en un concurso. En 2026 fue del **4 al 17 de mayo**, con **53 patios** a concurso repartidos en cinco rutas. La entrada es **gratuita**: se hace una ruta a pie, de patio en patio.

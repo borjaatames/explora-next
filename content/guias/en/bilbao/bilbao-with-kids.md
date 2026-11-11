@@ -44,6 +44,14 @@ faq:
   respuesta: 'Fairly: the Old Town is pedestrianised and flat, and every metro station has a lift. Pavements in the Ensanche are narrow and there are slopes in the Old Town and Artxanda, where the funicular helps.'
 ---
 
+## Kid-friendly plans you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Estuary boat tour (1 h or 2 h)](/en/cities/bilbao/activities/bilbao-estuary-boat-tour-portugalete) | 4.2★ (3,389) | €15 |
+| [San Mamés museum and stadium](/en/cities/bilbao/activities/san-mames-stadium-museum-tour) | 4.8★ (1,710) | €16.5 |
+| [Gaztelugatxe, Bermeo, Mundaka and Guernica with txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4.7★ (3,229) | €45 |
+
 ## What to do in Bilbao with kids
 
 **Artxanda funicular.** It climbs in under three minutes to the viewpoint with the best views of Bilbao among the mountains. At the top there's a park and playground. Cheap and fun.
@@ -59,6 +67,8 @@ faq:
 **Doña Casilda park.** The city's big park: ducks, a pond, a playground and fountains. Perfect for letting them run.
 
 **Tram and Azkuna Zentroa.** The tram runs along the river; at **Azkuna Zentroa** (Alhóndiga) there's a swimming pool with a glass floor you can see from below, quirky columns and a children's library.
+
+[actividad: bilbao-estuary-boat-tour-portugalete]
 
 ## Beaches near Bilbao by metro
 

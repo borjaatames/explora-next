@@ -72,6 +72,12 @@ La clave son tres decisiones: **entrar por una ciudad y salir por otra**, hacer 
 
 Son 9 noches. Si tu vuelo sale el día 11, suma la noche a Barcelona y usa ese día para [Montserrat](/guias/barcelona/montserrat-que-excursion-elegir).
 
+[actividad: museo-prado-entrada]
+
+[actividad: real-alcazar-sevilla-entrada]
+
+[actividad: entrada-sagrada-familia-audioguia]
+
 ## Qué ver en España en 10 días, día a día
 
 ### Día 1: Madrid

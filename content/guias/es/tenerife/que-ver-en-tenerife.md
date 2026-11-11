@@ -53,6 +53,17 @@ imagen_portada: "/images/guias/que-ver-en-tenerife.jpg"
 imagen_alt: "Los Roques de García en el Parque Nacional del Teide"
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Excursión al Teide con teleférico y traslado](/ciudades/tenerife/actividades/teide-teleferico-traslado) | 4,3★ (6.121) | 92 € |
+| [Tour al Teide, Icod de los Vinos, Garachico y Masca](/ciudades/tenerife/actividades/tour-teide-masca-icod-garachico) | 4,6★ (3.066) | 58 € |
+| [Ballenas y delfines en yate ecológico desde Los Cristianos](/ciudades/tenerife/actividades/avistamiento-ballenas-delfines-yate-ecologico) | 4,7★ (19.490) | 30 € |
+| [Atardecer y estrellas en el Parque Nacional del Teide](/ciudades/tenerife/actividades/atardecer-estrellas-teide-telescopio) | 4,7★ (3.691) | 35 € |
+| [Barranco de Masca: senderismo y vuelta en barco](/ciudades/tenerife/actividades/barranco-masca-senderismo-barco) | 4,7★ (374) | 145 € |
+| [Kayak y esnórquel en Los Cristianos](/ciudades/tenerife/actividades/kayak-esnorquel-los-cristianos) | 4,7★ (12.364) | 23 € |
+
 ## Tenerife en 5 días: cómo repartir la isla
 
 Con **cinco o seis días** ves lo esencial:

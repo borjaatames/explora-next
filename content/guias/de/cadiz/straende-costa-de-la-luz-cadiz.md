@@ -49,6 +49,14 @@ faq:
 
 Die lokale Regel: Bei **Poniente** (Westwind) perfekter Strandtag; bei starkem **Levante** (Ostwind) lieber Altstadt oder eine geschützte Bucht. Schau vor der Wahl auf die Vorhersage.
 
+## Ausflüge aufs Meer, die du buchen kannst
+
+| Aktivität | Bewertung | Ab |
+| --- | --- | --- |
+| [Katamaranfahrt zum Sonnenuntergang mit Cava](/de/cities/cadiz/activities/cadiz-katamaran-sonnenuntergang-cava) | 4,6★ (856) | 24,5 € |
+| [Barbate: Delfin- und Walbeobachtung am Kap Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4,1★ (792) | 50 € |
+| [Katamarantour durch die Bucht](/de/cities/cadiz/activities/cadiz-katamaran-tour-bucht) | 4,5★ (453) | 19 € |
+
 ## Cádiz Strände in der Stadt
 
 | Strand | Charakter |
@@ -59,6 +67,8 @@ Die lokale Regel: Bei **Poniente** (Westwind) perfekter Strandtag; bei starkem *
 | **Cortadura** | Breit und halbwild, Richtung Salinen |
 
 **La Caleta** ist der fotogenste (das „Havanna“ aus James Bond), perfekt bei Sonnenuntergang. **La Victoria** ist der große Stadtstrand für einen Sonnentag mit Service. Zu Fuß oder mit den Bussen **1 und 7**; nach Cortadura mit der **1**.
+
+[actividad: cadiz-katamaran-sonnenuntergang-cava]
 
 ## Die großen Strände der Costa de la Luz
 

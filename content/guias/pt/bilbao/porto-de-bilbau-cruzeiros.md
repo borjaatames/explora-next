@@ -51,6 +51,16 @@ actividades:
   - tour-a-pie-casco-viejo-bilbao
 ---
 
+## Excursões que encaixam numa escala em Bilbau
+
+| Excursão | Duração | Preço desde |
+| --- | --- | --- |
+| [Guggenheim: visita privada com guia e bilhete](/en/cities/bilbao/activities/guggenheim-bilbao-private-tour-guide-ticket) | 1,5 h (ou 4 h com a cidade) | 320 € por grupo |
+| [Tour privado a pé pelo centro e pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-private-walking-tour-old-town-ribera), 4,6★ (133) | 2 h | 36 € |
+| [Getxo: percurso de bicicleta pela costa com pintxo](/en/cities/bilbao/activities/getxo-coastal-bike-tour-pintxos), 4,8★ (46) | 2h30 | 60 € |
+| [Tour de pintxos e bebidas pelo Casco Viejo](/en/cities/bilbao/activities/bilbao-pintxos-drinks-food-tour-old-town), 4,7★ (62) | 3h30 | 89 € |
+| [Gaztelugatxe, Mundaka e Gernika em privado](/en/cities/bilbao/activities/gaztelugatxe-mundaka-gernika-private-day-trip-from-bilbao) | 7 h | 920 € por grupo (1-2 pessoas) |
+
 ## Terminal de cruzeiros de Getxo: onde atraca o navio
 
 No **terminal de cruzeiros de Getxo**, no Abra, junto à marina e à **praia de Ereaga**. Há três cais: Getxo 1 e 2 partilham edifício e Getxo 3 tem o seu. O centro de Bilbau fica a **12-15 km**, ria acima.
@@ -86,6 +96,12 @@ No **terminal de cruzeiros de Getxo**, no Abra, junto à marina e à **praia de 
 **A Ponte Suspensa, em Getxo.** A **Ponte Bizkaia**, Património da Humanidade, une Getxo e Portugalete e fica a cerca de **3 km** do terminal pelo passeio da ria, ou de metro até **Areeta**. Atravessar na **barquinha** custa **0,60 €** e funciona 24 horas. A **passarela superior** custa **11 €** e abre das 10:00 às 14:00 e das 16:00 às 19:00 (pode ser reduzido por incidências técnicas). Se preferires não ir a Bilbau, há um passeio de bicicleta pela costa de Getxo que sai de Algorta e inclui a ponte, o Porto Velho e um pintxo.
 
 **E San Sebastián?** Fica a pouco mais de uma hora de estrada. Para lá estar 3-4 horas com margem precisas de **9-10 horas em terra**, e as excursões em grupo a partir de Bilbau saem do centro de manhã cedo, por isso não encaixam numa escala. Se o navio fica o dia todo, a opção é um carro com motorista; se não, fica por Bilbau. O mesmo vale para a excursão privada a Gaztelugatxe, Mundaka e Gernika (7 horas): só encaixa em escalas de 9 horas ou mais; pergunta ao reservar se te podem ir buscar ao terminal de Getxo.
+
+[actividad: bilbao-tour-privado-a-pie-casco-viejo-ribera]
+
+[actividad: getxo-bici-costa-pintxos-grupo-reducido]
+
+[actividad: gaztelugatxe-mundaka-gernika-excursion-privada-desde-bilbao]
 
 ## Excursões do cruzeiro ou por conta própria
 

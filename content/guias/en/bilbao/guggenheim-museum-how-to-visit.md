@@ -46,6 +46,12 @@ faq:
 
 The Guggenheim offers two visits you shouldn't confuse: **the building and its sculptures, free on the outside**, and **the galleries, ticketed, on the inside**. Even if you don't go in, the outside is worth the trip.
 
+## Guided Guggenheim tours
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Guggenheim VIP small group (10 languages)](/en/cities/bilbao/activities/guggenheim-bilbao-vip-small-group-tour) | 4.5★ (763) | €95 |
+
 ## What to see inside the Guggenheim Museum
 
 Don't try to "see everything" in a rush. Prioritise:

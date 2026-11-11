@@ -52,6 +52,15 @@ opciones:
     etiqueta: Zu Fuß über die Lava
 ---
 
+## Welche Option passt zu dir?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Offizielles Ticket für die Feuerberge (cactlanzarote.com) | 30 € | Vulkanroute im Bus und Geothermie-Vorführungen; Anfahrt selbst | Wer ein Auto hat und früh buchen kann |
+| [Halbtagesausflug nach Timanfaya](/en/cities/lanzarote/activities/timanfaya-national-park-half-day-tour) | 59 € | Ticket, Bus und Abholung im Hotel | Wer ohne Auto nur Timanfaya sehen will |
+| [Timanfaya, Jameos del Agua und Cueva de los Verdes](/en/cities/lanzarote/activities/timanfaya-jameos-cueva-de-los-verdes-tour) | 89 € | Drei Tickets, Bus, Guide und Abholung; ohne Mittagessen | Wer ohne Auto alles an einem Tag will |
+| [Geführte Wanderung durch die Vulkane](/en/cities/lanzarote/activities/timanfaya-volcano-hike) | 47 € | 8 km zu Fuß im Naturpark neben Timanfaya, Snack und Wein | Wer über die Lava laufen will |
+
 ## Was du in den Feuerbergen siehst
 
 Die Ausbrüche dauerten von September 1730 bis April 1736, 1824 folgte ein kürzerer. Das Innere des Parks lässt sich nur so besuchen:

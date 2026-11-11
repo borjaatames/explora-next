@@ -45,12 +45,22 @@ imagen_portada: "/images/guias/dunas-de-maspalomas.jpg"
 imagen_alt: "Dune di Maspalomas al tramonto"
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Passeggiata in cammello sulle Dune di Maspalomas](/en/cities/gran-canaria/activities/maspalomas-dunes-camel-ride) | 4,5★ (5.263) | 18 € |
+| [Tour di 1 giorno da Las Palmas: Guayadeque, Maspalomas e Mogán](/en/cities/gran-canaria/activities/gran-canaria-day-tour-from-las-palmas) | 4,6★ (716) | 48 € |
+| [Buggy fuoristrada nei barrancos del sud](/en/cities/gran-canaria/activities/gran-canaria-off-road-buggy-tour) | 4,8★ (3.728) | 65 € |
+
 ## Cosa vedrai
 
 - **Le dune**: sabbia marina che il vento trasporta e accumula e che si sposta ogni anno. Da dentro sembrano un piccolo deserto in riva all'oceano.
 - **Il palmeto** e **la Charca di Maspalomas**, una laguna di acqua salmastra dove sostano gli uccelli migratori. Si osserva dalle passerelle, meglio all'alba, quando ci sono aironi e limicoli.
 - **Il faro di Maspalomas**, a ovest: acceso nel 1890, alto più di 50 metri, segna l'inizio del lungomare di Meloneras.
 - **La spiaggia**, che corre lungo tutto il bordo delle dune, con bagnino e bandiera.
+
+[actividad: tour-gran-canaria-1-dia-desde-las-palmas]
 
 ## Accesso, orari e tempi
 

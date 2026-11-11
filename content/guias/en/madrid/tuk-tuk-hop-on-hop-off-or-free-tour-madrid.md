@@ -56,6 +56,17 @@ opciones:
     etiqueta: "Party of 6: two tuk tuks, full route"
 ---
 
+## Price table per person
+
+| Option | Duration | 2 people | 4 people | 6 people |
+| --- | --- | --- | --- | --- |
+| Free tour (tip) | Walk | €10-20 on average | €10-20 | €10-20 |
+| [Walking tour, max. 10](/en/cities/madrid/activities/madrid-habsburgs-small-group-walking-tour) | 2 h | €29.95 | €29.95 | €29.95 |
+| [Big Bus hop-on hop-off](/en/cities/madrid/activities/madrid-big-bus-hop-on-hop-off-tour) | 24 h, 3 routes | €29.70 | €29.70 | €29.70 |
+| [Private tuk tuk, centre and Gran Vía](/en/cities/madrid/activities/tuk-tuk-historic-centre-gran-via-madrid) | 1 h 15 min | €39.50 (€79) | €19.75 (€79) | €26.33 (2 tuk tuks, €158) |
+| [Private tuk tuk, full route](/en/cities/madrid/activities/complete-madrid-tuk-tuk-tour) | 2 h 15 min | €64.50 (€129) | €32.25 (€129) | €43 (€258) |
+| [Private Gran Vía walking tour](/en/cities/madrid/activities/madrid-gran-via-private-walking-tour) | 2 h | €82 (€164) | €60 (€240) | €50 (€300) |
+
 ## The best way to see Madrid in a day, by who's travelling
 
 - **Couple on a tight budget:** free tour or small-group walking tour (€29.95, maximum 10). By tuk tuk you'd pay €39.50 each for 1 h 15 min.
@@ -119,3 +130,5 @@ The middle ground if you want a live guide just for you and time to ask question
 While the lights are on (**21 November to 6 January**), there's a night version of the private tuk tuk that tours them: an hour and a half for up to 4 people, without queuing in the cold. It's open-sided, so wrap up. The rest of the season's plans are in [Christmas in Madrid](/en/guides/madrid/christmas-in-madrid).
 
 To plan the rest of your visit, see [Madrid in 3 days](/en/guides/madrid/madrid-in-3-days) and, to spend as little as possible, [Madrid on a budget](/en/guides/madrid/madrid-on-a-budget).
+
+[actividad: tuk-tuk-luces-navidad-madrid]

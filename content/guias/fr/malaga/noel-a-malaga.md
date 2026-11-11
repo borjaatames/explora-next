@@ -95,6 +95,10 @@ Pour ne pas avoir à choisir les bars, la **visite vins et tapas** parcourt quat
 
 **Avec des enfants :** **Alice Christmas**, au jardin botanique historique La Concepción, en périphérie, est un parcours illuminé de 18 h 30 à 22 h 30 (billets sur lucesdelaconcepcion.es). Il y a aussi la **crèche municipale**, un **guide de 73 crèches** dans la ville sur belenes.malaga.eu, des **Rois mages géants** dans le centre (en 2025, Melchior calle Alcazabilla, Gaspard sur la Plaza Félix Sáenz et Balthazar calle Compañía) et une fête pour enfants avec marionnettes et conteurs en décembre.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
+
 ## Saint-Sylvestre, défilé des Rois mages et jours fériés
 
 - **Douze coups sur la Plaza de la Constitución :** en 2025, des sachets de raisins et de cotillons ont été distribués de 21 h 30 à 23 h 45, jusqu'à épuisement.
@@ -105,11 +109,15 @@ Pour ne pas avoir à choisir les bars, la **visite vins et tapas** parcourt quat
 - **Musée Picasso :** les 24 et 31 décembre et le 5 janvier, de 10 h à 15 h ; **fermé le 25 décembre et les 1er et 6 janvier**. Le reste de novembre à février, de 10 h à 18 h ; 13 €, gratuit le dimanche les deux dernières heures.
 - **Alcazaba :** de novembre à mars, de 9 h à 18 h (dernière entrée 17 h) ; 7 €, ou 10 € avec le château de Gibralfaro, et **gratuit le dimanche dès 14 h**. **L'Alcazaba et Gibralfaro ferment les 24, 25 et 31 décembre et le 1er janvier** (site officiel, vérifié le 10 novembre 2026).
 
+[actividad: malaga-esencial-tour-privado]
+
 ## La plage en hiver et une excursion
 
 Selon l'AEMET, décembre à Malaga affiche **17,5 °C de maximale moyenne** et environ 160 heures de soleil, et janvier 16,8 °C. Pas un temps de baignade pour la plupart, mais idéal pour se promener à la **Malagueta et à Pedregalejo**, manger des espetos à midi et, par temps clair, faire une **balade en catamaran dans la baie** au coucher du soleil. Pour une soirée fraîche, les **bains arabes Hammam Al Ándalus**, dans le centre.
 
 Si vous avez une journée libre, l'**Alhambra** se visite sans chaleur en hiver (il existe une excursion privée depuis Malaga qui inclut l'Albaicín). Plus près, **Nerja et Frigiliana** se font en une journée en groupe.
+
+[actividad: hammam-al-andalus-malaga]
 
 ## Erreurs fréquentes
 

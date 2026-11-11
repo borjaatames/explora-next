@@ -71,6 +71,8 @@ La clave de esta ruta por Andalucía en 7 días es el orden: de oeste a este, du
 
 **Dónde dormir en Sevilla:** el **Arenal** (junto a la Catedral, más tranquilo y algo más barato), **Santa Cruz** (la postal, más turístico) o **Triana** (más local, a 15 minutos del centro).
 
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Día 2: Triana y el río
 
 Cruza el puente de Isabel II hacia **Triana**: mercado, calle Betis y tapas en Pureza. Por la tarde, **Casa de Pilatos** (12 €) o el **Museo de Bellas Artes** (gratis para la UE), y el atardecer en el río. El reparto hora a hora está en [Sevilla en 2 días](/guias/sevilla/sevilla-en-2-dias).

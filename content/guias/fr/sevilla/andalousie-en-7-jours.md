@@ -71,6 +71,8 @@ La clé de ce circuit en Andalousie en 7 jours, c'est l'ordre : d'ouest en est, 
 
 **Où dormir à Séville :** l'**Arenal** (près de la Cathédrale, plus calme et un peu moins cher), **Santa Cruz** (la carte postale, plus touristique) ou **Triana** (plus local, à 15 minutes du centre).
 
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
 ## Jour 2 : Triana et le fleuve
 
 Traversez le pont d'Isabel II vers **Triana** : le marché, la calle Betis et des tapas calle Pureza. L'après-midi, la **Casa de Pilatos** (12 €) ou le **musée des Beaux-Arts** (gratuit pour l'UE), et le coucher de soleil au bord du fleuve. Le programme heure par heure est dans [Séville en 2 jours](/fr/guides/sevilla/seville-en-2-jours).

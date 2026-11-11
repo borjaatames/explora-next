@@ -85,6 +85,10 @@ Le clou du spectacle est le **mapping sur la façade plateresque de l'hôtel de 
 5. **20h, Setas ou la Magdalena**, pour le marché de Noël.
 6. **21h, flamenco ou tapas à Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Feria del Belén à Séville, crèches et douceurs de couvent
 
 - **Feria del Belén :** plus de trois décennies de santons, mousse et liège entre la Cathédrale et l'Archivo de Indias. En 2025, ouverte de 10h30 à 14h et de 17h à 21h en semaine, et de 11h à 15h et de 16h30 à 21h30 le week-end et les jours fériés.
@@ -100,6 +104,8 @@ La **zambomba** est une fête de chants de Noël flamencos avec tambourins, bout
 - **Setalandia**, sous les Setas de la Encarnación, et la **patinoire du Prado de San Sebastián** (du 29 novembre au 6 janvier en 2025).
 - **Navigalia** raconte une histoire de Noël projetée sur le Guadalquivir, au Muelle de la Sal, pour 2 €.
 - **Naturaleza Encendida**, le spectacle de lumière des jardins de l'Alcázar, se poursuit jusqu'en mars.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Ce qui est ouvert et fermé à Séville les 24, 25 et 31 décembre et le 1er janvier
 
@@ -120,6 +126,8 @@ La **zambomba** est une fête de chants de Noël flamencos avec tambourins, bout
 [actividad: real-alcazar-sevilla-visita-privada-guia-oficial]
 
 *Horaires vérifiés sur les sites officiels le 10 novembre 2026. Métro et marchés : horaires du Noël dernier, en attendant ceux de 2026.*
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Saint-Sylvestre et défilé des Rois mages à Séville
 

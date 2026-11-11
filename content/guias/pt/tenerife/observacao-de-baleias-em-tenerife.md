@@ -48,6 +48,16 @@ imagen_portada: "/images/guias/avistamiento-ballenas-tenerife.jpg"
 imagen_alt: "Baleia-piloto a vir à superfície ao largo de Tenerife"
 ---
 
+## Compare os passeios de barco
+
+| Passeio | Porto | Duração | Avaliação | Desde |
+| --- | --- | --- | --- | --- |
+| [Observação de baleias e golfinhos em iate ecológico](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) | Los Cristianos | 1h30 | 4,7★ (19 490) | 30 € |
+| [Observação de baleias junto às falésias de Los Gigantes](/en/cities/tenerife/activities/whale-watching-los-gigantes-tenerife) | Los Gigantes | 2-3 h | 4,7★ (5888) | 28 € |
+| [Observação de baleias em catamarã, Costa Adeje](/en/cities/tenerife/activities/catamaran-whale-watching-costa-adeje) | Puerto Colón ou Los Cristianos | 3 h | 4,7★ (4.314) | 35 € |
+| [Observação de baleias em catamarã com almoço buffet](/en/cities/tenerife/activities/catamaran-whale-watching-buffet-tenerife) | Costa sul (zona de Costa Adeje) | 5-6 h | 4,8★ (2242) | 63 € |
+| [Barco privado desde Las Galletas](/en/cities/tenerife/activities/private-whale-watching-boat-las-galletas-tenerife) | Las Galletas | 2 ou 3 h | — | 450 € por barco |
+
 ## Baleias-piloto e golfinhos em Tenerife: que espécies vai ver
 
 - **Baleia-piloto tropical:** a protagonista. Vive em grupos familiares e vê-se em quase todas as saídas.
@@ -78,6 +88,8 @@ A observação de cetáceos nas Canárias é regulada pelo **Decreto 178/2000**.
 
 Se o seu barco não cumprir, está a infringir a lei. Prefira **barcos pequenos ou ecológicos**, mais silenciosos e estáveis.
 
+[actividad: eco-yacht-whale-dolphin-watching-tenerife]
+
 ## Duração e preço das saídas
 
 - **Saídas normais:** **2-3 horas**, entre **25 e 45 €** por adulto.
@@ -96,6 +108,8 @@ Contra o **enjoo**: escolha um barco de casco largo ou um catamarã e a primeira
 **O que levar:** protetor solar, boné, fato de banho e toalha (muitas saídas têm paragem para banho), um casaco leve e o comprimido para o enjoo, se precisar.
 
 **Como chegar:** em Los Cristianos e Puerto Colón há parques de estacionamento pagos junto ao porto. Sem carro, vai-se a pé para Puerto Colón desde Las Américas e Costa Adeje, e de autocarro para Los Cristianos.
+
+[actividad: catamaran-whale-watching-buffet-tenerife]
 
 ## Outras formas de ver o mar
 

@@ -43,6 +43,12 @@ faq:
   respuesta: Dès l'ouverture à 11h ou en fin de journée. À midi, il y a la queue et la chaleur, et tout est fermé entre 14h et 18h.
 ---
 
+## Visite des patios avec entrées
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Les authentiques patios de Cordoue, visite de 2 heures avec entrées](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1 106) | 19 € |
+
 ## La fête des Patios en mai
 
 Pendant environ **deux semaines en mai**, des dizaines de maisons des quartiers historiques ouvrent leurs patios blanchis à la chaux et participent à un concours. En 2026, la fête a eu lieu du **4 au 17 mai**, avec **53 patios** en concours répartis sur cinq parcours. L'entrée est **gratuite** : on fait un parcours à pied, de patio en patio.

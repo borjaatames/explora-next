@@ -54,6 +54,15 @@ opciones:
     etiqueta: Privada
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| La más elegida | [Visita guiada sin colas con Armería Real](/ciudades/madrid/actividades/palacio-real-visita-guiada-golden-tour), 4,8★ (4.060) | 36 € |
+| Grupo con guía experto | [Tour premium con entradas sin colas](/ciudades/madrid/actividades/palacio-real-tour-premium-skip-line), 5★ (59) | 45 € |
+| Palacio y centro histórico | [Palacio Real y Catedral de la Almudena](/ciudades/madrid/actividades/palacio-real-catedral-almudena-tour), 4,5★ (9) | 54 € |
+| Solo para vosotros | [Visita privada con guía oficial](/ciudades/madrid/actividades/palacio-real-visita-privada-guia-oficial) | 141 € |
+
 ## Precio de la entrada al Palacio Real y horarios
 
 Las entradas se venden con hora en la web oficial de Patrimonio Nacional, **tickets.patrimonionacional.es**:

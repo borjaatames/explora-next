@@ -59,6 +59,18 @@ opciones:
     etiqueta: Qui accanto, con guida
 ---
 
+## Quali opzioni restano?
+
+| Se vuoi… | Opzione | Da |
+| --- | --- | --- |
+| Un altro orario o giorno | Sito ufficiale, `tickets.museopicassomalaga.org` | 13 € |
+| Comprare sul posto | Biglietteria del museo, nei momenti tranquilli | 13 € |
+| Ingresso gratuito | Domenica, ultime due ore | 0 € |
+| Il biglietto, con audioguida | [Biglietto del Museo Picasso di Malaga](/it/cities/malaga/activities/biglietto-museo-picasso-malaga), 4,5★ (14.246) | 13 € |
+| Museo e casa natale con guida | [Ruta Picasso, tour privato](/en/cities/malaga/activities/picasso-route-malaga-private-tour) | 166 € |
+| Arte moderna al porto | [Centre Pompidou Málaga](/it/cities/malaga/activities/biglietto-centre-pompidou-malaga), 4,2★ (734) | 9 € |
+| A tre minuti, con guida | [Alcazaba e Teatro Romano](/it/cities/malaga/activities/malaga-visita-guidata-alcazaba-teatro-romano), 4,7★ (7.412) | 13 € |
+
 ## Biglietti del Museo Picasso Malaga: prezzo
 
 La vendita ufficiale è su **tickets.museopicassomalaga.org**, collegata da museopicassomalaga.org.
@@ -68,6 +80,8 @@ La vendita ufficiale è su **tickets.museopicassomalaga.org**, collegata da muse
 - **Gratis:** minori di 17 anni, persone con disabilità e un accompagnatore, disoccupati iscritti al SEPE, studenti dell'Università di Malaga, docenti, membri ICOM e giornalisti.
 
 Diffida dei siti che imitano quello ufficiale: quello giusto è tickets.museopicassomalaga.org.
+
+[actividad: museo-picasso-malaga-entrada]
 
 ## Museo Picasso Malaga: orari
 
@@ -117,3 +131,7 @@ Se non trovi niente:
 - **L'Alcazaba e il Teatro Romano**, a 3 minuti: l'altro imperdibile del centro.
 
 Errori che vediamo spesso: arrivare la domenica nell'ultima mezz'ora (la biglietteria non vende più), calcolare d'inverno l'orario estivo (da novembre a febbraio chiude alle 18:00) e andare l'1 o il 6 gennaio o a Natale, quando è chiuso. Per incastrarlo con il resto della città, leggi [Malaga in due giorni](/it/guides/malaga/malaga-in-due-giorni).
+
+[actividad: centre-pompidou-malaga-entrada]
+
+[actividad: alcazaba-teatro-romano-malaga-visita-guiada]

@@ -40,6 +40,14 @@ faq:
   respuesta: Yes, it leaves from Málaga port and is designed to get you back to the ship on time.
 ---
 
+## Three ways to do it
+
+| Option | Travel | Tickets | Approximate price |
+| --- | --- | --- | --- |
+| Own or hire car | 1 h 30 each way | You buy them on the official website | Fuel, parking and ticket |
+| Regular bus | just under 2 h | You buy them | Fare and ticket |
+| [Private trip](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) | Pickup from your accommodation | Included, with a private guide | €397 per person (minimum 2) |
+
 ## What you'll see at the Alhambra
 
 The complex has four areas, all included in the General ticket:

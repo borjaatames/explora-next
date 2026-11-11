@@ -49,11 +49,20 @@ opciones:
     etiqueta: La mieux notée
 ---
 
+## Quel billet choisir ?
+
+| Si vous cherchez… | Option | À partir de |
+| --- | --- | --- |
+| La plus commentée | [Musée Picasso : visite guidée coupe-file](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4,5★ (3 552) | 37 € |
+| La mieux notée | [Musée Picasso : visite guidée coupe-file avec Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4,6★ (158) | 39 € |
+
 ## Ce que vous verrez
 
 - **La collection permanente**, qui suit l'évolution de Picasso depuis ses années de formation à Barcelone jusqu'aux *Ménines*.
 - **Les palais de la rue Montcada** : le musée occupe cinq palais médiévaux avec des cours gothiques.
 - **Expositions temporaires :** du **20 novembre 2026 au 7 mars 2027**, on peut voir *Picasso et l'architecture*. Si vous y allez pour elle, vérifiez ce que comprend votre billet.
+
+[actividad: museo-picasso-tour-guiado-tours-for-today]
 
 ## Prix et horaires
 

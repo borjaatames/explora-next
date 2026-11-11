@@ -84,6 +84,8 @@ actividades:
 
 Le programme complet, avec alternatives, est dans [Madrid en 2 jours](/fr/guides/madrid/madrid-en-2-jours).
 
+[actividad: palacio-real-visita-privada-guia-oficial]
+
 ## Jour 2 : Prado, Retiro et Las Letras
 
 - **10 h — Musée du Prado** (2 h 30). Ouvert du lundi au samedi de 10 h à 20 h et le dimanche jusqu'à 19 h ; gratuit les deux dernières heures, mais avec file.
@@ -91,6 +93,10 @@ Le programme complet, avec alternatives, est dans [Madrid en 2 jours](/fr/guides
 - **14 h 30 — Déjeuner** près du Retiro ou dans Las Letras.
 - **Après-midi :** le Reina Sofía (12 €, fermé le mardi) ou le Barrio de las Letras et la terrasse du Círculo de Bellas Artes (5 €).
 - **Soirée :** flamenco dans le centre ou balade dans les plus vieilles tavernes de la ville.
+
+[actividad: museo-prado-entrada]
+
+[actividad: tour-privado-tabernas-centenarias-madrid]
 
 ## Jour 3 : Tolède depuis Madrid en train
 
@@ -108,6 +114,8 @@ Si vous préférez tout avoir réglé, l'excursion à la journée comprend bus, 
 
 [actividad: excursion-toledo-dia-completo]
 
+[actividad: toledo-pulsera-turistica-7-monumentos]
+
 ## Jour 4 : Ségovie
 
 **9 h — Avant depuis Chamartín** jusqu'à **Segovia-Guiomar** (environ 30 minutes) ; de là, le **bus urbain 11** vous dépose à l'aqueduc en 15 minutes. Autre option : bus Avanza depuis Moncloa (1 h 15, environ 5 € le trajet), qui arrive à quelques minutes de l'aqueduc.
@@ -121,6 +129,8 @@ Si vous préférez tout avoir réglé, l'excursion à la journée comprend bus, 
 **14 h 30 — Cochon de lait rôti**, la raison pour laquelle tant de Madrilènes reviennent à Ségovie. Réservez le week-end.
 
 **Après-midi :** redescendez par le quartier des Caballeros ou la juiverie jusqu'à l'aqueduc et rentrez à Madrid sans vous presser. Ségovie est à environ 1 000 mètres d'altitude : prenez un manteau d'octobre à avril. Plus d'étapes dans [que voir à Ségovie en une journée](/fr/guides/madrid/que-voir-a-segovie-en-une-journee).
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Budget, variantes et erreurs fréquentes
 

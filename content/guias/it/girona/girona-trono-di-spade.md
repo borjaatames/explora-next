@@ -47,6 +47,15 @@ imagen_portada: "/images/guias/girona-juego-de-tronos.jpg"
 imagen_alt: "Scalinata della cattedrale di Girona"
 ---
 
+## Tour de Il Trono di Spade
+
+| Programma | Attività | Da |
+| --- | --- | --- |
+| Il più apprezzato | [Tour de Il Trono di Spade in gruppo ridotto](/en/cities/girona/activities/girona-game-of-thrones-small-group-tour), 4,9★ (951) | 35 € |
+| Solo per il tuo gruppo | [Tour privato de Il Trono di Spade](/en/cities/girona/activities/girona-game-of-thrones-private-tour), prezzo per gruppo | 260 € |
+| Storia di Girona e location | [Tour a piedi del Barri Vell](/en/cities/girona/activities/girona-walking-tour-small-group), 4,8★ (826) | 35 € |
+| La cattedrale dentro | [Cattedrale, Museu d'Art e Sant Feliu](/it/cities/girona/activities/girona-biglietto-cattedrale-museu-art-sant-feliu), 4,5★ (195) | 12 € |
+
 ## Le location di Il Trono di Spade a Girona: dalla cattedrale a Braavos
 
 - **Scalinata della Cattedrale:** l'esterno del Grande Tempio di Baelor ad Approdo del Re. Qui sale a cavallo Jaime Lannister con l'esercito Tyrell.
@@ -57,6 +66,8 @@ imagen_alt: "Scalinata della cattedrale di Girona"
 - **Passeig Arqueològic:** le mura, sfondo di diverse sequenze.
 
 Attenzione: **non tutto è stato girato a Girona**. Le scene di Braavos mescolano Girona e Šibenik (Croazia): se non trovi una location, probabilmente non è qui.
+
+[actividad: girona-juego-de-tronos-tour-privado]
 
 ## L'itinerario a piedi tra le location
 

@@ -56,6 +56,15 @@ opciones:
     etiqueta: Gruppo ridotto
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| Biglietto singolo in rivendita | [Biglietto con audioguida](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide), 4,6★ (113.748) | 34 € |
+| Con guida e piccolo gruppo | [Visita guidata in gruppo ridotto](/en/cities/barcelona/activities/sagrada-familia-small-group-tour), 4,7★ (3.690) | 99 € |
+| Sagrada Família e Park Güell | [Tour di entrambi salta coda](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour), 4,8★ (6.776) | 104 € |
+| Con salita su una torre | [Tour guidato con torre](/en/cities/barcelona/activities/sagrada-familia-tour-with-tower-access), 4,4★ (5.518) | 75 € |
+
 ## Prezzi e quando escono i biglietti
 
 La Sagrada Família vende **solo online e con orario**, su sagradafamilia.org, circa **due mesi prima**. D'estate, a Pasqua e nei ponti le fasce migliori finiscono appena escono.

@@ -55,6 +55,16 @@ opciones:
     etiqueta: Avec déjeuner et vin
 ---
 
+## Quelle excursion choisir ?
+
+| Option | Prix à partir de | Durée | Format | Idéal pour |
+|---|---|---|---|---|
+| [Demi-journée en petit groupe personnalisé](/en/cities/barcelona/activities/montserrat-half-day-small-group) | 59 € | 5 h 30 | Petit groupe, 4 variantes au choix | Ceux qui ont une demi-journée et veulent arriver avant la foule |
+| [Crémaillère, Vierge noire et cave (CastlExperience)](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) | 47 € | 6-10 h | Flexible, en groupe | Ceux qui veulent la journée complète la plus économique |
+| [Masia du Bages avec déjeuner et accord mets-vins](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) | 109 € | 9 h | Premium, en groupe | Ceux qui veulent y ajouter une expérience gastronomique de qualité |
+| [Séance photo Montserrat Signature](/en/cities/barcelona/activities/montserrat-signature-photoshoot) | 180 € | 1 h | Privée, photographique | Ceux qui cherchent des photos professionnelles, pas une visite guidée |
+| [Visite privée avec prise en charge à l'hôtel](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup) | 838 € | 5 h | Privée, uniquement votre groupe | Ceux qui veulent un véhicule et un guide exclusifs, sans partager avec personne |
+
 ## Excursion à Montserrat depuis Barcelone : les 5 options
 
 | Option | Dès | Durée | Format | Idéal pour |

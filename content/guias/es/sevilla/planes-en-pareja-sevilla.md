@@ -50,6 +50,19 @@ actividades:
   - setas-sevilla-metropol-parasol-entrada-mirador
 ---
 
+## Los planes de un vistazo
+
+| Actividad | Duración | Precio para dos | Para qué pareja |
+| --- | --- | --- | --- |
+| [Azoteas al atardecer, tour privado](/ciudades/sevilla/actividades/azoteas-sevilla-atardecer-tour-privado-setas) | 2 h 30 min | 384 € (192 € por persona) | Ocasión especial; con cóctel en las Setas |
+| [Coche de caballos privado con guía](/ciudades/sevilla/actividades/paseo-coche-caballos-sevilla-guia-privado) | 1 h 30 min | 298 € por coche | El clásico, con explicaciones de verdad |
+| [Flamenco en la Casa de la Memoria](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) | 1 h | 48 € | Flamenco cercano, en sala pequeña |
+| [Tablao El Arenal](/ciudades/sevilla/actividades/tablao-flamenco-el-arenal-sevilla-50-anos) | 1 h | Desde 90 € | Tablao clásico junto a la Maestranza |
+| [Clase de cocina andaluza en una casa](/ciudades/sevilla/actividades/clase-cocina-andaluza-casa-tradicional-sevilla) | 5 h | 796 € (398 € por persona) | Parejas a las que les gusta cocinar |
+| [Sevilla misteriosa al atardecer, privado](/ciudades/sevilla/actividades/sevilla-misteriosa-tour-privado-atardecer) | 1 h 30 min | 125 € por grupo | Leyendas a la hora más bonita |
+| [Crucero por el Guadalquivir con bebida](/ciudades/sevilla/actividades/sevilla-guadalquivir-river-boat-tour) | 1-1,5 h | 50 € | Plan tranquilo y económico |
+| [Mirador de las Setas](/ciudades/sevilla/actividades/setas-sevilla-metropol-parasol-entrada-mirador) | 40 min | 32 € | Atardecer por libre |
+
 ## Atardecer en una azotea de Sevilla
 
 Es el plan para una ocasión especial. Un guía solo para vosotros os sube a **dos azoteas** del centro; la segunda es el **mirador de las Setas** (Metropol Parasol), justo cuando se encienden la Giralda y las cúpulas. Por el camino os cuenta leyendas que solo se entienden desde los tejados.
@@ -75,6 +88,8 @@ La alternativa es un **paseo privado de hora y media con guía** experto en hist
 
 En julio y agosto el calor aprieta hasta tarde; el paseo, mejor después de las 20:00.
 
+[actividad: paseo-coche-caballos-sevilla-guia-privado]
+
 ## Flamenco para dos
 
 En pareja funciona mejor una sala pequeña que un gran tablao con cena:
@@ -83,6 +98,8 @@ En pareja funciona mejor una sala pequeña que un gran tablao con cena:
 - **Tablao El Arenal:** cincuenta años de flamenco junto a la Maestranza, **desde 45 €** por persona.
 
 Ojo con los horarios: en primavera y verano el sol se pone tarde, así que deja el flamenco para después del atardecer. Si queréis comparar todos los tablaos, los tenéis uno por uno en nuestra guía de [flamenco en Sevilla](/guias/sevilla/flamenco-sevilla-que-tablao-elegir).
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Cocinar juntos
 
@@ -95,6 +112,8 @@ La **clase de cocina andaluza** es una experiencia privada de cinco horas:
 
 Hay turnos a las **11:00** (con comida) y a las **17:30** (con cena). Cuesta **398 € por persona** (mínimo 2); avisa de cualquier intolerancia al reservar. Como son cinco horas, encaja mejor el primer o segundo día que el último.
 
+[actividad: clase-cocina-andaluza-casa-tradicional-sevilla]
+
 ## Qué hacer en Sevilla en pareja con poco presupuesto
 
 - **Plaza de España y parque de María Luisa:** gratis, y de lo más bonito de la ciudad a media tarde.
@@ -103,6 +122,8 @@ Hay turnos a las **11:00** (con comida) y a las **17:30** (con cena). Cuesta **3
 - **Sevilla misteriosa al atardecer:** paseo privado de hora y media por leyendas, crímenes y misterios del centro, desde las escaleras de las Setas. 125 € para el grupo (de 1 a 4 personas), 62,50 € cada uno en pareja.
 
 Mirador, crucero y flamenco en la Casa de la Memoria suman unos **65 € por persona** por una tarde completa.
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
 
 ## Una tarde perfecta para una escapada romántica a Sevilla
 

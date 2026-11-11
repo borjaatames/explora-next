@@ -49,11 +49,20 @@ opciones:
     etiqueta: Am besten bewertet
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Die meisten Bewertungen | [Picasso-Museum: Führung ohne Anstehen](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4,5★ (3.552) | 37 € |
+| Die beste Bewertung | [Picasso-Museum: Führung ohne Anstehen mit Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4,6★ (158) | 39 € |
+
 ## Was du siehst
 
 - **Die Dauerausstellung**, die Picassos Entwicklung von seinen Lehrjahren in Barcelona bis zu *Las Meninas* nachzeichnet.
 - **Die Paläste der Carrer Montcada**: Das Museum belegt fünf mittelalterliche Paläste mit gotischen Innenhöfen.
 - **Sonderausstellungen:** Vom **20. November 2026 bis 7. März 2027** ist *Picasso und die Architektur* zu sehen. Wenn du ihretwegen kommst, prüf, was dein Ticket enthält.
+
+[actividad: museo-picasso-tour-guiado-tours-for-today]
 
 ## Preise und Öffnungszeiten
 

@@ -53,6 +53,14 @@ opciones:
     etiqueta: Avec la Juderia
 ---
 
+## Quel billet choisir ?
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée coupe-file de la Mosquée-cathédrale](/fr/cities/cordoba/activities/mosquee-cathedrale-visite-guidee-coupe-file) | 4,6★ (10 966) | 32 € |
+| [Billet pour la Mosquée-cathédrale avec audioguide](/fr/cities/cordoba/activities/mosquee-cathedrale-billet-audioguide) | 4,2★ (3 788) | 22 € |
+| [Visite de la Mosquée et de la Juderia avec billets](/fr/cities/cordoba/activities/cordoue-visite-guidee-mosquee-juiverie-billets) | 4,5★ (2 200) | 34 € |
+
 ## Que voir dans la mosquée de Cordoue
 
 - **La forêt de colonnes.** Il en reste 856 sur les quelque 1 300 d'origine, avec des doubles arcs outrepassés rouges et blancs et des marbres et granits romains et wisigoths réemployés. C'est l'image qui définit le monument.

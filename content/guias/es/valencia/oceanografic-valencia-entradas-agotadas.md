@@ -60,6 +60,19 @@ opciones:
     etiqueta: Tour privado
 ---
 
+## ¿Qué opción te queda?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Otro día cercano | Web oficial, calendario de tarifas | 35,90 € |
+| Comprar allí mismo | Taquilla, hasta una hora antes del cierre | Tarifa del día |
+| Entrar gratis | No hay horas gratis; solo menores de 4 años | 0 € |
+| La entrada suelta | [Entrada al Oceanogràfic](/ciudades/valencia/actividades/oceanografic-valencia-entrada), 4,7★ (11.540) | 37 € |
+| Oceanogràfic y Museu | [Entrada combinada](/ciudades/valencia/actividades/oceanografic-museo-ciencias-entrada-combinada), 4,7★ (2.797) | 39 € |
+| Las tres atracciones | [Entrada 3 en 1 con Hemisfèric y Museu](/ciudades/valencia/actividades/ciudad-artes-3-en-1-oceanografic-hemisferic-museu), 4,5★ (3.518) | 46 € |
+| Tour privado con entrada | [Valencia modernista con opción de Oceanogràfic](/ciudades/valencia/actividades/valencia-modernista-tour-privado-oceanografic) | 137 € con entrada |
+| Alternativa con animales | [Bioparc Valencia](/ciudades/valencia/actividades/bioparc-valencia-entrada), 4,8★ (2.988) | 29,50 € |
+
 ## Oceanográfico Valencia: precio según el día
 
 La venta oficial está en entradas.oceanografic.org, enlazada desde oceanografic.org. El Oceanogràfic **no tiene un precio único**: la web publica un calendario con varias tarifas según la fecha.
@@ -102,6 +115,12 @@ Fuera de temporada es raro quedarse sin entrada. La web oficial no publica un pl
 - **Bioparc Valencia** (desde 29,50 €): zoo de inmersión con sabana, bosque ecuatorial y Madagascar, sin barreras visibles. Es la alternativa más parecida si vas por los animales.
 - **El recinto por fuera, gratis:** el Umbracle, los estanques y los edificios de Calatrava se recorren sin entrada. Lo explicamos en [cómo visitar la Ciudad de las Artes y las Ciencias](/guias/valencia/ciudad-artes-ciencias-como-visitar).
 - **Tour privado Valencia modernista:** tres horas por la Estación del Norte, el Mercado de Colón y las casas del Ensanche hasta la Ciudad de las Artes. La opción completa incluye las entradas sin colas al Oceanogràfic, desde unos 137 € por persona en pareja; el guía no entra contigo al acuario.
+
+[actividad: ciudad-artes-3-en-1-oceanografic-hemisferic-museu]
+
+[actividad: valencia-modernista-tour-privado-oceanografic]
+
+[actividad: bioparc-valencia-entrada]
 
 ## Consejos
 

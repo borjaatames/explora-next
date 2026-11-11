@@ -71,6 +71,10 @@ actividades:
 
 Sono le date dell'edizione 2025: il programma 2026 viene pubblicato a novembre su barcelona.cat/nadal e aggiorneremo la guida allora.
 
+[actividad: sagrada-familia-visita-guiada-guia-oficial]
+
+[actividad: montserrat-medio-dia-grupo-pequeno]
+
 ## Le luci e i mercatini di Natale a Barcellona
 
 - **Le luci del 2026** coprono **130 km di strade**, con 255 archi e 272 figure luminose, e debuttano con creazioni d'autore sul passeig de Maragall (una poesia scritta con le luci) e la rambla de Prim. L'asse classico resta **Passeig de Gràcia, Rambla de Catalunya e Portal de l'Àngel**.
@@ -96,6 +100,8 @@ Una serata di dicembre fatta bene:
 - **Nadal al Port**, sul Moll de la Fusta, con giostre e luci sul mare.
 - **Arrivo dei Re Magi:** il 5 gennaio sbarcano al porto e il sindaco li accoglie verso le 16:30 in Plaça del Portal de la Pau. Meno affollato della sfilata.
 - Se preferite un'attività guidata, c'è un tour privato per famiglie con caccia al tesoro e churros con cioccolata.
+
+[actividad: barcelona-tour-privado-familias-churros-juegos]
 
 ## Cosa è aperto e cosa chiude a Barcellona il 24, 25 e 31 dicembre e il 1° gennaio
 

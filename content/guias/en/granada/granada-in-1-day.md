@@ -80,6 +80,8 @@ About **4 hours** in total. Bring your **ID or passport**: tickets are named. If
 
 More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit) and, if there are no tickets, in [what to do if they're sold out](/en/guides/granada/alhambra-tickets-sold-out).
 
+[actividad: alhambra-palacios-nazaries-tour-privado-sin-colas]
+
 ## Lunch and afternoon: tapas, Royal Chapel and Carrera del Darro
 
 **13:30, free tapas.** Walk down the Cuesta de Gomérez to Plaza Nueva and carry on to **Calle Navas** or **Elvira**. In Granada **a tapa comes free with every drink**: three beers (€1.80-2.50 each) make a meal. Arrive before 14:00 or after 15:30 to find space at the bar. If you'd rather someone took you to the good bars, a private tapas tour makes three stops in 2 h 30.
@@ -93,6 +95,10 @@ More detail in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-vi
 **18:00.** At the end of Paseo de los Tristes, climb to the Albaicín via the Cuesta del Chapiz (25 minutes uphill) or take the **C32 minibus** from Plaza Nueva. Wander up to the **Mirador de San Nicolás** and arrive **45 minutes before sunset**: the Alhambra turns red with Sierra Nevada behind. If it's too crowded, the Mirador de San Cristóbal, 10 minutes further up, has half the people. With a guide, the sunset walk through the Albaicín and Sacromonte starts from €15.
 
 **21:30, zambra.** From San Nicolás it's 15-20 minutes on foot to the **Sacromonte** caves. Zambra is cave flamenco, intimate and gypsy-rooted: **€22-30 with a drink**. Book ahead, especially at weekends, and take a taxi back (€5-7). To choose a cave, see [the Sacromonte comparison](/en/guides/granada/flamenco-cave-sacromonte-which-to-choose).
+
+[actividad: granada-cuatro-culturas-tour-privado]
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]
 
 ## What to book and what it costs
 

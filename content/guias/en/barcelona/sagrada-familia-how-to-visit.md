@@ -63,6 +63,8 @@ opciones:
 
 Realistic time: **1 h 30 to 2 hours** without towers; **2 h 30 to 3** with towers.
 
+[actividad: sagrada-familia-tour-con-torre]
+
 ## Sagrada Família prices and opening hours
 
 - **Basic:** €26, basilica plus audio guide in 19 languages. Enough for a first visit.

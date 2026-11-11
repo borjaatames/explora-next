@@ -47,6 +47,19 @@ faq:
   respuesta: 'Ségovie. Elle est à environ 1 000 mètres d''altitude et, en juillet et août, elle est généralement plus fraîche de plusieurs degrés que Tolède, où l''on atteint 35-40 °C dans des rues en pente sans ombre. En hiver, c''est l''inverse : Ségovie est froide et il peut neiger.'
 ---
 
+## Comparatif rapide
+
+| | Tolède | Ségovie |
+| --- | --- | --- |
+| Train depuis Madrid | Avant depuis Atocha, 33 min ; 22-26 € aller-retour | Avant depuis Chamartín, environ 30 min, plus 15 min de bus urbain (2 €) |
+| Bus | Alsa depuis Plaza Elíptica, 1 h ; environ 11 € aller-retour | Avanza depuis Moncloa, 1 h 15-1 h 20 ; environ 5 € le trajet |
+| Temps nécessaire | Une journée entière | Une longue demi-journée, avec le déjeuner |
+| Incontournables | Cathédrale, Santo Tomé, synagogues, quartier juif | Aqueduc, cathédrale, Alcazar |
+| Billets clés | Cathédrale 12 € ; bracelet 7 monuments 14 € | Alcazar 7 € (10 € avec la tour) ; cathédrale 4 € |
+| Terrain | Beaucoup de pentes | Une montée douce puis du plat |
+| Meilleure saison | Printemps et automne | Été et automne |
+| Excursion organisée | [Tolède avec guide et entrée à la cathédrale](/en/cities/madrid/activities/toledo-full-day-from-madrid) | [Ávila et Ségovie avec billets inclus](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets) |
+
 ## Tolède vs Ségovie : comparatif rapide
 
 | | Tolède | Ségovie |
@@ -84,6 +97,8 @@ Ségovie se parcourt en ligne droite, et c'est une partie de son charme : on arr
 - **Le climat :** à environ 1 000 mètres, les soirées d'été sont fraîches ; en hiver, il fait vraiment froid.
 
 Cinq ou six heures suffisent pour voir l'essentiel sans courir et déjeuner tranquillement ; l'itinéraire pas à pas est dans [que voir à Ségovie en une journée](/fr/guides/madrid/que-voir-a-segovie-en-une-journee). C'est pourquoi Ségovie se combine si souvent avec [Ávila](/fr/guides/madrid/que-voir-a-avila-en-une-journee), comme dans l'[excursion Ávila et Ségovie avec billets](/en/cities/madrid/activities/avila-segovia-day-trip-with-tickets). Et pour voir l'aqueduc, la cathédrale et l'Alcázar d'un seul regard, la montgolfière au-dessus de Ségovie est la façon la plus mémorable.
+
+[actividad: excursion-avila-segovia-con-entradas]
 
 ## Comment y aller sans perdre la matinée
 

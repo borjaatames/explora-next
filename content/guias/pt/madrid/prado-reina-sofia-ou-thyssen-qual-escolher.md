@@ -56,6 +56,16 @@ opciones:
     etiqueta: Os 3 museus
 ---
 
+## Que bilhete escolher?
+
+| Opção | Preço | O que inclui | Para quem |
+| --- | --- | --- | --- |
+| Bilhete geral do Prado (preço oficial) | 15 € | Só o Prado (7,50 € reduzido) | Quem vai por conta própria e compra no site do museu |
+| [Museu do Prado: bilhete oficial](/en/cities/madrid/activities/prado-museum-entry-ticket) | 18 € | Bilhete para o Prado e taxa de gestão; sem guia nem audioguia | Quem vai por conta própria e quer reservar tudo num só sítio |
+| [Museu do Prado: visita guiada com bilhete](/en/cities/madrid/activities/prado-museum-guided-tour) | 49 € | Guia oficial, bilhete e acesso sem filas (1,5-2 h) | Primeira visita, para ir direto ao imprescindível |
+| Passe Paseo del Arte | 32,80 € | Prado, Thyssen e Reina Sofía | Quem vai mesmo aos três |
+| [Art Walk Pass](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen) | 38 € | Um bilhete para cada museu (Thyssen, coleção permanente); válido um ano | Quem vai aos três e prefere reservar aqui |
+
 ## Prado ou Reina Sofía: que museu ver em Madrid
 
 Se só tiver tempo para um museu, **vá ao Prado**. Se tiver para dois, junte o **Thyssen**. O **Reina Sofía** fica para o fim e só merece o tempo se a arte do século XX lhe interessar mesmo.
@@ -94,6 +104,8 @@ A coleção privada mais importante do mundo, comprada pelo Estado espanhol em 1
 
 **Preço:** 14 €. **Grátis** às segundas das 12:00 às 16:00 (só coleção permanente) e aos sábados das 21:00 às 23:00. **Às segundas só abre nesse horário gratuito.** Entre 1 h 30 e 2 h 30.
 
+[actividad: museo-thyssen-entrada]
+
 ## O Reina Sofía: só se o século XX lhe interessar
 
 Arte espanhola e internacional do século XX e contemporânea. A estrela é o **Guernica**, e estão lá Dalí, Miró, Picasso e Tàpies. Com pouco tempo e interesse generalista, **salte-o** e dedique esse tempo ao Prado e ao Thyssen: o edifício é enorme e, fora o Guernica, Dalí, Miró e algumas séries de Picasso, muito é arte conceptual que não prende o visitante médio.
@@ -101,6 +113,8 @@ Arte espanhola e internacional do século XX e contemporânea. A estrela é o **
 Quando sim: se é apaixonado pelas vanguardas, se já viu o Prado e o Thyssen noutra viagem, ou se só quer ver o Guernica. Dê 20 minutos ao quadro (3,5 × 7,8 m, o bombardeamento de 26 de abril de 1937) e à sala de Dalí (*O Grande Masturbador*, *O Enigma de Hitler*), e saia.
 
 **Preço:** 12 €. **Grátis** à segunda e de quarta a sábado das 19:00 às 21:00, e aos domingos das 12:30 às 14:30. Guernica, Dalí e Miró, 1 h 30; completo, 3-4 h.
+
+[actividad: reina-sofia-entrada]
 
 ## Como organizar o Paseo del Arte
 

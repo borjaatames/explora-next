@@ -54,6 +54,15 @@ imagen_portada: "/images/guias/mejores-calas-ibiza.jpg"
 imagen_alt: "Cala Conta con il suo isolotto a Ibiza"
 ---
 
+## Le calette dal mare
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Giro delle calette all inclusive con pranzo, paddle surf e snorkeling](/it/cities/ibiza/activities/ibiza-giro-cale-tutto-incluso-paddle-snorkeling) | 4,9★ (1.410) | 60 € |
+| [Crociera tra le calette con paddle surf, pranzo e bevande](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
+| [Tour in kayak nelle grotte marine con snorkeling da Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4,8★ (333) | 50 € |
+| [Barca per Es Vedrà, Espalmador e Formentera con pasti](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
+
 ## Le calette più belle di Ibiza per zona
 
 | Zona | Calette principali | Carattere |
@@ -62,6 +71,8 @@ imagen_alt: "Cala Conta con il suo isolotto a Ibiza"
 | Nord | Cala Salada, Benirràs, Cala Xarraca, Portinatx | Selvaggia, pinete, tranquilla |
 | Sud | Ses Salines, Es Cavallet | Alla moda, accanto alle saline |
 | Est | Cala Llonga, Cala Mastella, Cala Boix | Piccole e per famiglie |
+
+[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Le imperdibili: Cala Comte, Cala Salada, Cala d'Hort e Benirràs
 

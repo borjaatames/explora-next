@@ -80,6 +80,8 @@ En total, unas **4 horas**. Lleva el **DNI o pasaporte**: la entrada es nominati
 
 Más detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar) y, si no hay entradas, en [qué hacer si están agotadas](/guias/granada/alhambra-entradas-agotadas).
 
+[actividad: alhambra-palacios-nazaries-tour-privado-sin-colas]
+
 ## Mediodía y tarde: tapas, Capilla Real y Carrera del Darro
 
 **13:30, tapas gratis.** Baja por la Cuesta de Gomérez hasta Plaza Nueva y sigue a la **calle Navas** o a **Elvira**. En Granada **la tapa va gratis con cada bebida**: con tres cañas (1,80-2,50 € cada una) se come. Llega antes de las 14:00 o después de las 15:30 para encontrar barra. Si preferís que alguien os lleve a los bares buenos, el [tour privado de tapas](/ciudades/granada/actividades/tour-privado-tapas-granada) hace tres paradas en 2 h 30.
@@ -93,6 +95,8 @@ Más detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar
 **18:00.** Al final del Paseo de los Tristes, sube al Albaicín por la Cuesta del Chapiz (25 minutos de cuesta) o en el **microbús C32** desde Plaza Nueva. Callejea hasta el **mirador de San Nicolás** y llega **45 minutos antes de la puesta de sol**: la Alhambra se vuelve roja con Sierra Nevada detrás. Si hay demasiada gente, 10 minutos más arriba está el mirador de San Cristóbal, con la mitad. Con guía, el [paseo del Albaicín y el Sacromonte al atardecer](/ciudades/granada/actividades/albaicin-sacromonte-atardecer) sale desde 15 €.
 
 **21:30, zambra.** Desde San Nicolás hay 15-20 minutos a pie hasta las cuevas del **Sacromonte**. La zambra es el flamenco de las cuevas, íntimo y de raíz gitana: **22-30 € con copa**. Reserva, sobre todo en fin de semana, y vuelve en taxi (5-7 €). Para elegir cueva, mira [la comparativa del Sacromonte](/guias/granada/flamenco-cueva-sacromonte-cual-elegir).
+
+[actividad: flamenco-cueva-la-rocio-sacromonte]
 
 ## Qué reservar y cuánto cuesta
 

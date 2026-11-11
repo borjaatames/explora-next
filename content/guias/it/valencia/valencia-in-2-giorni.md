@@ -50,6 +50,17 @@ faq:
   respuesta: 'Sì se viaggi con bambini o ami il mare: è il più grande acquario d''Europa e richiede 3-4 ore. I biglietti partono da 37 € ed è meglio prenotarli online in alta stagione. Altrimenti, già la passeggiata gratuita tra gli edifici della Città delle Arti al tramonto merita.'
 ---
 
+## Prenota l'essenziale
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour della cattedrale, San Nicolás e la Lonja de la Seda](/it/cities/valencia/activities/visita-guidata-cattedrale-lonja-san-nicolas-valencia) | 4,8★ (1.243) | 49 € |
+| [Tour in tuk tuk tra centro, spiagge e Città delle Arti](/it/cities/valencia/activities/tour-in-tuk-tuk-valencia-centro-spiagge) | 4,6★ (388) | 40 € |
+| [Ingresso all'Oceanogràfic](/en/cities/valencia/activities/oceanografic-valencia-ticket) | 4,7★ (11.540) | 37 € |
+| [Ingresso al Bioparc](/en/cities/valencia/activities/bioparc-valencia-ticket) | 4,8★ (2.988) | 29,5 € |
+| [Giro in catamarano di giorno o al tramonto con bevanda](/en/cities/valencia/activities/valencia-catamaran-sunset-cruise) | 4,0★ (3.360) | 15 € |
+| [Degustazione di birra artigianale e tapas a Ruzafa](/en/cities/valencia/activities/craft-beer-tapas-tasting-ruzafa) | 4,8★ (128) | 28,5 € |
+
 ## Giorno 1: centro storico e Città delle Arti e delle Scienze
 
 | Ora | Cosa |

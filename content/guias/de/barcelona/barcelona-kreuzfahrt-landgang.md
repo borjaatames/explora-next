@@ -67,6 +67,8 @@ Der Hafen reduziert die Zahl der Terminals: WTC Nord ist seit 2023 geschlossen, 
 
 **Vom Kreuzfahrthafen zur Sagrada Família:** Sie liegt etwa 3 km von der Kolumbus-Säule entfernt. Mit der Metro L3 von Drassanes bis Diagonal und L5 bis Sagrada Família, etwa 20-25 Minuten. Ein Taxi direkt vom Schiff (15-25 Minuten, etwa 20-25 €) erspart dir das Umsteigen.
 
+[actividad: barcelona-y-montserrat-grupo-reducido-recogida-hotel]
+
 ## Was du beim Landgang in Barcelona sehen kannst
 
 **Mit 4 Stunden.** Zwei Möglichkeiten: Rambla, Boqueria, Gotisches Viertel, Kathedrale und El Born, alles zu Fuß ab der Kolumbus-Säule; oder nur die Sagrada Família, mit dem Taxi hin und zurück.
@@ -82,6 +84,10 @@ Die **Sagrada Família verkauft nur online** und ist im Sommer Wochen im Voraus 
 **Montserrat** liegt 1 Stunde entfernt; Hin- und Rückfahrt plus Besuch des Klosters dauern mindestens 5 Stunden. Der Ausflug **Barcelona und Montserrat in kleiner Gruppe** (höchstens 12 Personen, Guide auf Englisch) holt dich am Hafen ab, dauert 8 Stunden und kostet ab 149 € pro Person; die Sagrada Família siehst du von außen (der Eintritt kostet 25 € extra und muss beim Veranstalter angefragt werden).
 
 Mehr Ideen findest du in [Sagrada Família besichtigen](/de/guides/barcelona/sagrada-familia-besichtigen) und [Barcelona an einem Tag](/de/guides/barcelona/barcelona-in-einem-tag).
+
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: sagrada-familia-park-guell-dia-completo-privado]
 
 ## Ausflug der Reederei, privat oder auf eigene Faust
 

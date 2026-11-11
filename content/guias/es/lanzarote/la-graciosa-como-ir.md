@@ -44,6 +44,14 @@ imagen_portada: "/images/actividades/lanzarote/zonas/la-graciosa-desde-famara.we
 imagen_alt: "La isla de La Graciosa vista desde el Risco de Famara, con Caleta de Sebo frente al mar"
 ---
 
+## ¿Ferri o excursión?
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| Ferri Órzola-La Graciosa ida y vuelta, Biosfera Express (adulto no residente) | — | 29 € |
+| Ferri Órzola-La Graciosa ida y vuelta, Líneas Romero (adulto) | — | 28 € |
+| [La Graciosa en catamarán con ferri, almuerzo, baño y kayak](/ciudades/lanzarote/actividades/la-graciosa-catamaran-almuerzo) | 4,6★ (2.132) | 66 € |
+
 ## Ferry Órzola-La Graciosa: navieras, horarios y precios
 
 Cubren la ruta **Líneas Romero** y **Biosfera Express**, con barcos rápidos de pasajeros. La travesía dura **unos 25 minutos** y llega al puerto de Caleta de Sebo.

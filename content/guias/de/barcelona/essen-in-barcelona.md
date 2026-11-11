@@ -66,6 +66,8 @@ Vier Gerichte, die du probieren solltest:
 - **Butifarra amb mongetes:** gegrillte katalanische Wurst mit weißen Bohnen.
 - **Crema catalana**, der Pflicht-Nachtisch.
 
+[actividad: tour-gastronomico-mediodia-boqueria-vinos]
+
 ## Tapas und Vermut in Barcelona: Theken, die sich lohnen
 
 - **Bar Cañete** (Carrer Unió 17, Raval): Marmortheke und Ware vom Fischmarkt auf höchstem Niveau. Teuer, sonntags geschlossen, **Reservierung unerlässlich**.

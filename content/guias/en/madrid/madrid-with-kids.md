@@ -78,6 +78,8 @@ actividades:
 
 **Aquópolis.** Only from June to early September (in 2026 it closed on the 6th): slides for every age, a wave pool and a lazy river.
 
+[actividad: zoo-aquarium-madrid-ticket]
+
 ## Museums that actually work with kids
 
 - **Natural Sciences** (Chamberí): Madrid's best museum for children, with Triceratops and Diplodocus skeletons and interactive rooms. **€7** adults, **€3.50** ages 4-18, free under 4. Also free on Tuesdays 15:00-17:00 and Sundays 18:30-20:00 (except 1 July to 14 September). 2-3 hours; closed on Mondays that aren't public holidays.

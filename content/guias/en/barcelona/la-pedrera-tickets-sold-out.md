@@ -54,6 +54,16 @@ opciones:
     etiqueta: With a guide
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A timed ticket, no guide | [Casa Milà (La Pedrera): skip-the-line ticket with audio guide](/en/cities/barcelona/activities/casa-mila-la-pedrera-audio-ticket), 4.7★ (18,195) | €29 |
+| A night visit with a show and cava | [Casa Milà: night experience with show and cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4.4★ (4,913) | €39.50 |
+| To get in before everyone else, with a guide | [Casa Milà: early-access guided tour](/en/cities/barcelona/activities/casa-mila-early-morning-access-guided-tour), 4.8★ (220) | €39.50 |
+| Three Gaudí houses with a guide | [Casa Vicens, Casa Milà and Casa Batlló: guided tour](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4.6★ (331) | €119 |
+| A guide just for your group | [La Pedrera and Casa Vicens: private tour](/en/cities/barcelona/activities/gaudi-houses-pedrera-casa-vicens-private-tour) | €156 |
+
 ## What you'll see at La Pedrera
 
 The general visit covers:
@@ -97,6 +107,8 @@ If the day is full, try the extremes:
 - **La Pedrera Sunrise:** a group guided visit from **8 to 9 AM**, before the general public, with courtyards, apartment, attic and rooftop. **€39.50**; the guide speaks English or Chinese.
 - **La Pedrera Night Experience:** a **1 hour 20 minute** guided night visit with video mapping on the rooftop and a glass of cava, for **€39.50**. In winter sessions run from **7 to 11 PM**, and from 26 December to 3 January from **9 to 11 PM**. Guides in Catalan, Spanish, English and Chinese.
 
+[actividad: casa-mila-experiencia-nocturna-con-cava]
+
 ## La Pedrera same-day tickets at the box office
 
 La Pedrera has a box office in the building, but the official site warns that **some prices are higher there** than online, and that buying online skips the queue. It's useful if a slot that day still has space, not as a plan for a sold-out day. Its only advantage: **discount vouchers and cards** are only accepted at the box office.
@@ -110,3 +122,9 @@ La Pedrera has a box office in the building, but the official site warns that **
 - **Casa Milà with no tickets:** the undulating stone façade and wrought-iron balconies are best seen from the opposite pavement, on the corner of Carrer de Provença. About 10 minutes' walk down Passeig de Gràcia are **Casa Batlló** and the rest of the **Block of Discord** (Casa Amatller and Casa Lleó Morera).
 
 If you're planning a Gaudí route, see also [what to do if Casa Batlló tickets sell out](/en/guides/barcelona/casa-batllo-tickets-sold-out), [and the Sagrada Família](/en/guides/barcelona/sagrada-familia-tickets-sold-out), and [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day).
+
+[actividad: casa-mila-tour-guiado-acceso-temprano]
+
+[actividad: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi]
+
+[actividad: casas-gaudi-pedrera-casa-vicens-tour-privado]

@@ -46,6 +46,15 @@ faq:
   respuesta: Sobre una calavera en la fachada plateresca de 1512 del Edificio Histórico. La tradición es encontrarla sin ayuda; si no la ves, alguien te la enseñará.
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Tour a pie con guía local por el casco histórico](/ciudades/salamanca/actividades/tour-a-pie-salamanca-guia-local) | 4,8★ (364) | 17 € |
+| [Visita guiada a la Universidad con entrada](/ciudades/salamanca/actividades/universidad-salamanca-visita-guiada) | 4,9★ (44) | 12 € |
+| [Entrada a las catedrales con audioguía](/ciudades/salamanca/actividades/catedrales-salamanca-entrada-audioguia) | 4,6★ (202) | 10 € |
+| [Tour de leyendas al anochecer](/ciudades/salamanca/actividades/salamanca-leyendas-al-anochecer) | 4,7★ (90) | 17 € |
+
 ## El plan del día: ruta por Salamanca en un día
 
 | Hora | Plan |

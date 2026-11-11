@@ -42,6 +42,15 @@ faq:
   respuesta: Sì, da lunedì a sabato dalle 8:30 alle 9:30. Nel resto della giornata il biglietto intero costa 15 €.
 ---
 
+## Come arrivare
+
+| Da | Treno | Auto | Escursione di gruppo | Escursione privata |
+| --- | --- | --- | --- | --- |
+| Siviglia | AVE, circa 45 min | 1 h 30 | [da 109 €](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) · [in AVE, gruppo ridotto](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) | [in treno: 432 € (2) · 668 € (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [in auto: da 379 € a persona](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
+| Malaga | alta velocità, poco meno di 1 h | 1 h 50 | [da 76 €](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [750 € (2) · 920 € (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
+| Granada | — | circa 2 h | — | [800 € (2) · 1.040 € (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
+| Cadice | — | 2 h 30 | — | [da 780 € (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |
+
 ## Come arrivare a Cordova da Siviglia, Malaga o Granada
 
 | Da | Treno | Auto | Escursione di gruppo | Escursione privata |

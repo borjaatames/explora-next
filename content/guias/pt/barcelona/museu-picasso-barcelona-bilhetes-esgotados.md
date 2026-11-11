@@ -49,6 +49,13 @@ opciones:
     etiqueta: A mais bem avaliada
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Opção | Desde |
+| --- | --- | --- |
+| A com mais avaliações | [Museu Picasso: tour guiado sem filas](/en/cities/barcelona/activities/picasso-museum-skip-the-line-guided-tour), 4,5★ (3.552) | 37 € |
+| A mais bem avaliada | [Museu Picasso: tour guiado sem filas com a Tours For Today](/en/cities/barcelona/activities/picasso-museum-tours-for-today-skip-the-line-guided-tour), 4,6★ (158) | 39 € |
+
 ## O que vai ver
 
 - **A coleção permanente**, que acompanha a evolução de Picasso desde os anos de formação em Barcelona até *As Meninas*.
@@ -80,6 +87,8 @@ Não basta aparecer: **é preciso reservar no site oficial**, e as reservas abre
 3. **Reserve uma visita guiada sem filas.** Os operadores autorizados costumam ter lugares porque reservam com antecedência. Paga mais, mas entra a hora fixa, sem bilheteira, com alguém que lhe explica a obra. Há uma visita guiada sem filas **desde 37 €**, a mais comentada, e outra com a Tours For Today **desde 39 €**, a mais bem avaliada. Confirme que a ficha diz **«entrada no Museu Picasso incluída»** e veja o cancelamento.
 
 [actividad: museo-picasso-tour-guiado-sin-colas]
+
+[actividad: museo-picasso-tour-guiado-tours-for-today]
 
 ## Conselhos
 

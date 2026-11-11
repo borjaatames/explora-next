@@ -48,6 +48,15 @@ faq:
   respuesta: 'March to June and September-October: good weather and pleasant water. Winter is very mild. In July and August the beach is perfect, but the centre at midday wears little ones out.'
 ---
 
+## Kid-friendly plans you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Catamaran in the bay](/en/cities/malaga/activities/malaga-catamaran-sunset-cruise) | 4.4★ (10,537) | €13 |
+| [Nerja Caves and Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4.6★ (3,192) | €69 |
+| [Alcazaba and Roman Theatre guided tour](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour) | 4.7★ (7,412) | €13 |
+| [Caminito del Rey (ages 8+)](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4.9★ (19,083) | €72 |
+
 ## What to do in Málaga with kids
 
 The key is to alternate: **a morning of castle or old town in short doses and an afternoon of beach or animals**. That way Málaga goes a long way without stress.
@@ -55,6 +64,8 @@ The key is to alternate: **a morning of castle or old town in short doses and an
 - **Beaches.** **La Malagueta** is at the foot of the centre; **Pedregalejo** and **El Palo** are quieter, with smaller waves and beach bars grilling espetos (sardine skewers). Sand, promenade and a swim: the star plan.
 - **Alcazaba and Gibralfaro.** Kids love exploring the **fortress** and climbing to the **castle** along the walls. Sell it as an explorers' adventure; there is a lift up to the Alcazaba if the heat is on.
 - **Museums for little ones.** **Museo Alborania** (sea and boats), **Principia** (hands-on science) and the **OXO Video Game Museum** work very well from age 5-6.
+
+[actividad: malaga-catamaran-sunset-cruise]
 
 ## Bioparc Fuengirola
 

@@ -54,6 +54,14 @@ opciones:
     etiqueta: Private
 ---
 
+## Which option suits you?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| To go on your own with an audio guide | [Nerja Caves entry ticket with audio guide](/en/cities/malaga/activities/nerja-caves-entry-ticket), 4.6★ (2,107) | €15.50 |
+| Transport from Málaga | [Nerja Caves, Nerja and Frigiliana day trip](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga), 4.6★ (3,192) | €69 |
+| Just your group | [Private day trip to Nerja and Frigiliana with the caves](/en/cities/malaga/activities/nerja-frigiliana-private-day-trip-from-malaga) | €700 per group |
+
 ## What you'll see
 
 - **The cave:** a route of about **45 minutes** among lit stalactites and columns, with stairs and walkways. It's cool inside all year and the floor can be damp: wear **closed shoes**.

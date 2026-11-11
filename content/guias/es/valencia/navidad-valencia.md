@@ -68,6 +68,10 @@ actividades:
 
 Salvo Expojove, que ya ha publicado sus fechas de 2026, son las de la edición 2025-26. El Ayuntamiento presenta el programa en noviembre y actualizaremos la guía cuando salga.
 
+[actividad: valencia-tour-privado-casco-antiguo-lonja-horchata]
+
+[actividad: flamenco-cena-la-buleria-valencia]
+
 ## Luces de Navidad en Valencia y pólvora en la Plaza del Ayuntamiento
 
 En 2025 Valencia encendió la Navidad con un piromusical, música en directo y un **árbol de 25 metros** en la Plaza del Ayuntamiento, junto al belén municipal. Por la ciudad:
@@ -77,6 +81,8 @@ En 2025 Valencia encendió la Navidad con un piromusical, música en directo y u
 - Una esfera y una campana por las que se puede pasar, en las plazas de Segrelles y del Patriarca.
 
 Lo más valenciano son los **piromusicales de los sábados a las 18:30**: tres minutos de pólvora al ritmo de una canción, gratis. Llega diez minutos antes. En 2025 los comerciantes del centro montaron además pista de hielo, carrusel, tren y noria entre la Plaza del Ayuntamiento y la de San Agustín.
+
+[actividad: tuk-tuk-privado-valencia-1-hora]
 
 ## Mercadillo de Navidad en Valencia y belenes
 
@@ -91,6 +97,8 @@ Lo más valenciano son los **piromusicales de los sábados a las 18:30**: tres m
 - **Expojove** es el gran plan: diez días de juegos, talleres y espacios para los pequeños en Feria València, del **26 de diciembre de 2026 al 4 de enero de 2027**, de 11:00 a 20:00, **desde 3 €**. El 31 abre solo de 10:00 a 14:00 y el 1 de enero de 16:00 a 21:00. Se llega en metro o con el autobús 62.
 - **Piromusical del sábado:** tres minutos, sin aglomeraciones excesivas si llegas un poco antes.
 - **Ciutat de les Arts i les Ciències:** amplía horarios y actividades en Navidad y publica su calendario en cac.es. El Museu de les Ciències y el Hemisfèric cerraron el 25 de diciembre en 2025.
+
+[actividad: valencia-tour-privado-familias-churros-museo-ciencias]
 
 ## Nochevieja y Cabalgata de Reyes en Valencia
 

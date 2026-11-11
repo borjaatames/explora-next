@@ -50,6 +50,19 @@ actividades:
   - bodega-familiar-madrid-cata-sumiller-medio-dia
 ---
 
+## Le idee in sintesi
+
+| Attività | Durata | Prezzo | Per quale gruppo |
+| --- | --- | --- | --- |
+| [Tuk-tuk festa privato con musica](/en/cities/madrid/activities/madrid-private-party-tuk-tuk-tour-music) | 1 h 30 min | 150 € a tuk-tuk | Inizio del pomeriggio, gruppi che vogliono qualcosa tutto per sé |
+| [Laboratorio di paella e sangria](/en/cities/madrid/activities/madrid-paella-sangria-workshop-city-center) | 3 h | 64 € a persona | Qualsiasi gruppo, anche misto o con la famiglia |
+| [Pub crawl: 3 bar e discoteca](/it/cities/madrid/activities/madrid-pub-crawl-bar-discoteca-shot) | 5 h | 19 € a persona | Maggiorenni che vogliono fare notte |
+| [Flamenco a Torres Bermejas](/en/cities/madrid/activities/flamenco-torres-bermejas-dining-options) | 1 h | Da 31 € a persona | Cena con spettacolo vicino alla Gran Vía |
+| [Flamenco a Las Carboneras](/en/cities/madrid/activities/flamenco-tablao-las-carboneras) | 1 h | 45 € a persona, con bevanda | Gruppi che preferiscono un tablao piccolo |
+| [Birra artigianale e tapas a Malasaña](/en/cities/madrid/activities/craft-beer-tapas-tour-malasana-madrid) | 3 h | 85,50 € a persona | Amanti della birra; in inglese, fino a 15 per prenotazione |
+| [Tapas in tre taverne da Santa Ana](/en/cities/madrid/activities/madrid-tapas-tour-three-taverns-santa-ana) | 3 h | 69,99 € a persona | Cena di tapas guidata; in inglese, parte alle 17:00 |
+| [Cantina di famiglia con sommelier](/en/cities/madrid/activities/madrid-family-winery-half-day-sommelier-tasting) | 4 h 30 min | 110 € a persona | Addio tranquillo di giorno; massimo 8 |
+
 ## Tuk-tuk per l'addio al nubilato a Madrid: il piano di punta
 
 È un tuk-tuk privato con **la musica che scegliete voi** per un'ora e mezza lungo i viali più famosi di Madrid. Il bello per un addio al nubilato: **il giro finisce dove decidete voi in centro**, quindi potete arrivare davanti al ristorante o al tablao.
@@ -72,6 +85,8 @@ Se preferite uscire dalla città, la **cantina di famiglia con sommelier** (110 
 
 Altri piani senza alcol: il tuk-tuk party, uno spettacolo di flamenco e il picnic privato, abbinato a spumanti 0,0 %.
 
+[actividad: taller-paella-sangria-madrid-centro]
+
 ## Cena: tapas o flamenco
 
 - **Flamenco al Torres Bermejas (da 31 €):** tablao aperto nel 1960 accanto alla Gran Vía, con opzioni di bevanda, tapas o cena di tre portate. Se volete cenare lì, prenotate il menù con il biglietto: ordinare sul momento non sempre funziona.
@@ -81,6 +96,8 @@ Altri piani senza alcol: il tuk-tuk party, uno spettacolo di flamenco e il picni
 
 Entrambi i giri di tapas sono **in inglese**. Per scegliere il tablao, guardate la nostra guida al [flamenco a Madrid](/it/guides/madrid/flamenco-madrid-quale-tablao-scegliere); per le tapas, [quale tour di tapas scegliere](/it/guides/madrid/tour-tapas-madrid-quale-scegliere).
 
+[actividad: flamenco-torres-bermejas-cena]
+
 ## Notte: pub crawl con discoteca
 
 Il giro (19 € a persona) tocca **tre bar e una discoteca** del centro in cinque ore, con uno shot di benvenuto in ogni locale e mance incluse. Ci si trova all'Enbabia Infuse Bar (calle de Núñez de Arce 9, vicino a plaza de Santa Ana), dove cambiate il biglietto con un braccialetto. I locali possono variare in base al giorno e ci sono guide in sei lingue, utile per un gruppo internazionale.
@@ -88,6 +105,8 @@ Il giro (19 € a persona) tocca **tre bar e una discoteca** del centro in cinqu
 - Solo maggiorenni.
 - **Dress code:** niente abbigliamento sportivo; gli uomini non possono indossare sandali né pantaloncini.
 - Cancellazione gratuita fino a 24 ore prima.
+
+[actividad: pub-crawl-madrid-bares-chupitos]
 
 ## Una giornata tipo
 

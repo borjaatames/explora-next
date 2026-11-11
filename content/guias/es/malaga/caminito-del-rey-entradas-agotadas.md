@@ -45,6 +45,15 @@ faq:
   respuesta: 'Visita la zona de los embalses de Ardales y El Chorro y come en El Chorro o Álora, o cambia de excursión: El Torcal y los dólmenes de Antequera, o Ronda con su Puente Nuevo sobre el tajo.'
 ---
 
+## Lo que puedes reservar ahora
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Entrada con guía, si vas por tu cuenta | [Caminito del Rey: entrada con guía oficial](/ciudades/malaga/actividades/caminito-del-rey-entrada-guia-oficial), 4,6★ (16.892) | 30 € |
+| Con transporte desde Málaga | [Tour guiado con transporte y entrada](/ciudades/malaga/actividades/caminito-del-rey-guiado-desde-malaga), 4,9★ (19.083) | 72 € |
+| Plan B de naturaleza | [Dólmenes de Antequera y El Torcal](/ciudades/malaga/actividades/antequera-dolmenes-torcal-excursion-desde-malaga), 4,7★ (102) | 65 € |
+| Plan B de pueblos | [Ronda y Setenil de las Bodegas](/ciudades/malaga/actividades/ronda-setenil-desde-malaga), 4,7★ (8.742) | 34 € |
+
 ## 1. Vuelve a mirar la web oficial
 
 La web oficial es caminitodelrey.info. Aquí **no hay goteo de cancelaciones**, porque las entradas no se pueden cambiar ni devolver, pero antes de dar la fecha por perdida:
@@ -74,6 +83,8 @@ Antes de pagar, comprueba que la ficha diga claramente que **incluye la entrada 
 
 [actividad: caminito-del-rey-entrada-guia-oficial]
 
+[actividad: caminito-del-rey-guiado-desde-malaga]
+
 ## 4. Si no hay forma: qué hacer en su lugar
 
 Sin entrada no se puede pasar el control de acceso. Lo que sí puedes hacer:
@@ -81,6 +92,8 @@ Sin entrada no se puede pasar el control de acceso. Lo que sí puedes hacer:
 - **Ir a la zona de los embalses** de Ardales y El Chorro, con el agua turquesa que se ve en todas las fotos, y comer en El Chorro o Álora.
 - **Cambiar de excursión.** Desde Málaga, **El Torcal de Antequera** es el otro gran paisaje de roca de la provincia, y se combina con los **dólmenes de Antequera**, Patrimonio Mundial.
 - **Ronda**, con su Puente Nuevo sobre el tajo, es la alternativa si lo que te atraía era el vértigo del desfiladero; se suele combinar con Setenil de las Bodegas.
+
+[actividad: antequera-dolmenes-torcal-excursion-desde-malaga]
 
 ## Errores que hay que evitar
 

@@ -45,6 +45,14 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/cofete-mirador.webp"
 imagen_alt: "A praia de Cofete vista do miradouro, com o maciço de Jandía"
 ---
 
+## Reserve o principal
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Tour a Cofete e à Villa Winter a partir de Jandía](/en/cities/fuerteventura/activities/cofete-villa-winter-tour) | 4,8★ (1.952) | 57 € |
+| [Barco para ver golfinhos a partir de Morro Jable](/pt/cities/fuerteventura/activities/morro-jable-barco-golfinhos-bebidas-banho) | 4,2★ (5.490) | 49 € |
+| [Catamarã com comida e bebida a partir de Morro Jable](/pt/cities/fuerteventura/activities/morro-jable-catamara-magic-select-almoco-bebidas) | 4,4★ (1.786) | 79 € |
+
 ## Como chegar a Cofete de carro: a pista e o carro de aluguer
 
 A pista sai de **Morro Jable** para oeste, sobe o maciço e passa para a vertente norte pela **degollada de Agua Oveja**, onde de repente aparece a praia inteira: é o **miradouro de Cofete** e a melhor foto da viagem. São cerca de **20 km** de terra; conte **entre 45 minutos e uma hora** por trajeto.

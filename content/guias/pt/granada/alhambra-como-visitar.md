@@ -59,6 +59,18 @@ opciones:
     etiqueta: Grupo reduzido
 ---
 
+## Que bilhete escolher?
+
+| Se procura… | Recomendamos | Desde |
+| --- | --- | --- |
+| O mais popular | [Visita guiada à Alhambra e aos Palácios Nasridas](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4,7★ (21 100 avaliações) | 49 € |
+| O mais barato com guia | [Entrada e visita guiada com os Palácios Nasridas](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4,7★ (3516) | 50 € |
+| Grupo reduzido, sem filas | [Alhambra e Palácios Nasridas sem filas em grupo reduzido](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line), 4,7★ (8443) | 53 € |
+| O mais bem avaliado | [Visita guiada com bilhetes](/en/cities/granada/activities/alhambra-guided-tour-with-tickets), 4,9★ (1018) | 99 € |
+| Algo diferente | [Visita noturna aos Palácios Nasridas](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
+| Só o seu grupo | [Visita privada](/en/cities/granada/activities/alhambra-private-tour), 4,9★ (242) | 280 € |
+| Pouco tempo ou orçamento | [Jardins e Generalife (sem Palácios Nasridas)](/en/cities/granada/activities/alhambra-gardens-generalife-skip-line-ticket), 4,5★ (2256) | 17,5 € |
+
 ## Alhambra: preço dos bilhetes e tipos de bilhete
 
 Preços oficiais do Patronato para 2026, com a comissão online incluída:
@@ -74,6 +86,8 @@ Preços oficiais do Patronato para 2026, com a comissão online incluída:
 - **Menores de 12 anos:** grátis, mas **com bilhete nominativo**, emitido na mesma compra. Sem ele não entram.
 - **Descontos:** maiores de 65 da UE, Carnet Joven (cartão jovem) e deficiência.
 - **Não existe um dia gratuito recorrente:** o «grátis às quartas-feiras» que circula na internet é falso.
+
+[actividad: alhambra-entrada-general]
 
 ## Como comprar bilhetes Alhambra (e se estiverem esgotados)
 

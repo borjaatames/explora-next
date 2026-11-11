@@ -67,6 +67,8 @@ The port is cutting back on terminals: WTC Nord closed in 2023 and Royal Caribbe
 
 **To the Sagrada Família from the cruise port:** it's about 3 km from Columbus. By metro, L3 from Drassanes to Diagonal and L5 to Sagrada Família, about 20-25 minutes. A direct taxi from the ship (15-25 minutes, about €20-25) saves you the change.
 
+[actividad: barcelona-y-montserrat-grupo-reducido-recogida-hotel]
+
 ## What to see in Barcelona on a cruise stop
 
 **With 4 hours.** Two options: La Rambla, La Boqueria, the Gothic Quarter, the Cathedral and El Born, all on foot from Columbus; or just the Sagrada Família, by taxi there and back.
@@ -82,6 +84,10 @@ The **Sagrada Família only sells online** and in summer sells out weeks ahead. 
 **Montserrat** is 1 hour away by road; there and back plus the monastery visit add up to at least 5 hours. The **Barcelona and Montserrat small-group** excursion (12 people at most, English-speaking guide) picks up at the port, lasts 8 hours and costs from €149 per person; you see the Sagrada Família from outside (going in costs €25 extra and must be requested from the operator). We compare ways to go in [which Montserrat excursion to choose](/en/guides/barcelona/montserrat-which-excursion-to-choose).
 
 More ideas in [how to visit the Sagrada Família](/en/guides/barcelona/sagrada-familia-how-to-visit) and [Barcelona in 1 day](/en/guides/barcelona/barcelona-in-1-day).
+
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: sagrada-familia-park-guell-dia-completo-privado]
 
 ## Ship excursion, private or on your own
 

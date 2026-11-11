@@ -45,6 +45,12 @@ faq:
   respuesta: Posée sur une tête de mort, sur la façade plateresque de 1512 du bâtiment historique. La tradition veut qu'on la trouve sans aide ; sinon, quelqu'un vous la montrera.
 ---
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Billet pour les cathédrales avec audioguide](/fr/cities/salamanca/activities/salamanque-billet-cathedrales-audioguide) | 4,6★ (202) | 10 € |
+
 ## Le programme de la journée : itinéraire à Salamanque en un jour
 
 | Heure | Programme |
@@ -74,6 +80,10 @@ Comptez **10-15 km à pied** dans la journée : prévoyez de bonnes chaussures.
 **Casa Lis ou San Esteban** (**4 €** chacun), pas les deux. La Casa Lis est le musée Art nouveau et Art déco aux vitraux surplombant le fleuve (gratuit le jeudi de 11h à 14h) ; San Esteban, le couvent dominicain au cloître plateresque.
 
 **Pont romain au coucher du soleil.** À 10 minutes en descente, la carte postale complète : les cathédrales sur la colline et la Clerecía en pierre dorée. S'il vous reste de l'énergie, montez à l'Arrabal pour une autre vue.
+
+[actividad: university-of-salamanca-guided-tour]
+
+[actividad: salamanca-legends-evening-walking-tour]
 
 ## Comment aller à Salamanque
 

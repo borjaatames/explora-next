@@ -59,6 +59,18 @@ opciones:
     etiqueta: Nebenan, mit Guide
 ---
 
+## Welche Möglichkeiten bleiben?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Eine andere Uhrzeit oder einen anderen Tag | Offizielle Website, `tickets.museopicassomalaga.org` | 13 € |
+| Direkt vor Ort kaufen | Museumskasse, in ruhigen Momenten | 13 € |
+| Kostenlosen Eintritt | Sonntags, die letzten zwei Stunden | 0 € |
+| Das Ticket mit Audioguide | [Ticket für das Picasso-Museum Málaga](/en/cities/malaga/activities/picasso-museum-malaga-ticket), 4,5★ (14.246) | 13 € |
+| Museum und Geburtshaus mit Guide | [Picasso-Route, private Führung](/en/cities/malaga/activities/picasso-route-malaga-private-tour) | 166 € |
+| Moderne Kunst am Hafen | [Centre Pompidou Málaga](/en/cities/malaga/activities/centre-pompidou-malaga-ticket), 4,2★ (734) | 9 € |
+| Drei Minuten entfernt, mit Guide | [Alcazaba und Römisches Theater](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour), 4,7★ (7.412) | 13 € |
+
 ## Picasso Museum Málaga Tickets: Preis
 
 Der offizielle Verkauf läuft über **tickets.museopicassomalaga.org**, verlinkt von museopicassomalaga.org.
@@ -68,6 +80,8 @@ Der offizielle Verkauf läuft über **tickets.museopicassomalaga.org**, verlinkt
 - **Gratis:** unter 17, Menschen mit Behinderung und eine Begleitperson, bei der SEPE gemeldete Arbeitslose, Studierende der Universität Málaga, Lehrkräfte, ICOM-Mitglieder und Journalisten.
 
 Vorsicht vor Seiten, die die offizielle nachahmen: Die richtige ist tickets.museopicassomalaga.org.
+
+[actividad: museo-picasso-malaga-entrada]
 
 ## Picasso Museum Málaga Öffnungszeiten
 
@@ -117,3 +131,7 @@ Wenn gar nichts geht:
 - **Alcazaba und Römisches Theater**, 3 Minuten entfernt: das andere Muss im Zentrum.
 
 Häufige Fehler: sonntags in der letzten halben Stunde kommen (die Kasse verkauft nicht mehr), im Winter mit Sommerzeiten rechnen (November bis Februar schließt es um 18:00) und am 1. oder 6. Januar oder am ersten Weihnachtstag hingehen, wenn geschlossen ist. Wie es mit dem Rest der Stadt zusammenpasst, steht in [Málaga in zwei Tagen](/de/guides/malaga/malaga-in-zwei-tagen).
+
+[actividad: centre-pompidou-malaga-entrada]
+
+[actividad: alcazaba-teatro-romano-malaga-visita-guiada]

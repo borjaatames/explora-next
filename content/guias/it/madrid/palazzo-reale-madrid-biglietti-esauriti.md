@@ -54,6 +54,15 @@ opciones:
     etiqueta: Privata
 ---
 
+## Quale biglietto scegliere?
+
+| Se cerchi… | Opzione | Da |
+| --- | --- | --- |
+| La più scelta | [Visita guidata senza code con Armeria Reale](/en/cities/madrid/activities/royal-palace-skip-line-guided-tour-golden), 4,8★ (4.060) | 36 € |
+| Gruppo con guida esperta | [Tour premium con biglietti salta coda](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line), 5★ (59) | 45 € |
+| Palazzo e centro storico | [Palazzo Reale e Cattedrale dell'Almudena](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4,5★ (9) | 54 € |
+| Solo per voi | [Visita privata con guida ufficiale](/it/cities/madrid/activities/palazzo-reale-madrid-tour-privato-guida-ufficiale) | 141 € |
+
 ## Palazzo Reale di Madrid: prezzo e orari
 
 I biglietti si vendono con orario sul sito ufficiale di Patrimonio Nacional, **tickets.patrimonionacional.es**:

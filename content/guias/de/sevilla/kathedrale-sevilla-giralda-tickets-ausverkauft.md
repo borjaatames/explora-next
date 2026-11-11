@@ -56,6 +56,15 @@ opciones:
     etiqueta: Privat
 ---
 
+## Welches Ticket wählen?
+
+| Wenn du … suchst | Option | Ab |
+| --- | --- | --- |
+| Ticket mit Uhrzeit, ohne Guide | [Kathedrale und Giralda ohne Anstehen](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4,6★ (3.500) | 17,50 € |
+| Die beliebteste Option | [Kathedrale, Giralda und Alcázar mit bevorzugtem Einlass](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4,8★ (14.120) | 53 € |
+| Beide Monumente in Ruhe | [Kathedrale, Giralda und Alcázar: 3,5-stündige Tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4,5★ (2.085) | 65 € |
+| Ein Guide nur für deine Gruppe | [Real Alcázar und Kathedrale: private Tour mit Tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5,0★ (188) | 300 € pro Gruppe |
+
 ## Was du siehst
 
 - **Das Kirchenschiff und der Hauptaltar**, einer der größten der Christenheit, mit dem Chorgestühl und der Capilla Real.
@@ -104,6 +113,10 @@ Wenn du nicht hineinkommst, siehst du von außen trotzdem viel:
 - Die **Plaza del Triunfo** zwischen Kathedrale und Alcázar, mit der Puerta del Príncipe an einer Seite.
 
 Fehlt dir auch der Alcázar, findest du seine Optionen in [Alcázar Sevilla Tickets ausverkauft: was tun?](/de/guides/sevilla/alcazar-sevilla-tickets-ausverkauft).
+
+[actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
+[actividad: sevilla-catedral-giralda-alcazar-tour-guiado-3-5h]
 
 ## Tipps
 

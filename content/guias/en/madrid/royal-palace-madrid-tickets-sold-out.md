@@ -54,6 +54,15 @@ opciones:
     etiqueta: Private
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| The most popular | [Skip-the-line guided tour with the Royal Armoury](/en/cities/madrid/activities/royal-palace-skip-line-guided-tour-golden), 4.8★ (4,060) | €36 |
+| A specialist guide | [Premium tour with skip-the-line entry](/en/cities/madrid/activities/royal-palace-premium-tour-skip-line), 5★ (59) | €45 |
+| Palace and old town | [Royal Palace and Almudena Cathedral](/en/cities/madrid/activities/royal-palace-almudena-cathedral-tour), 4.5★ (9) | €54 |
+| Just your group | [Private tour with an official guide](/en/cities/madrid/activities/royal-palace-madrid-private-tour) | €141 |
+
 ## Royal Palace Madrid tickets: price and opening hours
 
 Tickets are sold with a time slot on Patrimonio Nacional's official website, **tickets.patrimonionacional.es**:

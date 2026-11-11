@@ -74,6 +74,8 @@ The "Sagrada Família in the morning, Park Güell in the afternoon and La Rambla
 
 [actividad: tibidabo-barcelona-entrada]
 
+[actividad: tibidabo-barcelona-ticket]
+
 ## Sagrada Família and Park Güell with kids
 
 With under-6s, see the Sagrada Família from outside and not much more: the stained glass holds them for five minutes. From 7 to 12, yes, but prepared: read with them beforehand about the tree-like columns, the animals on the Nativity façade and the colours of the windows, and get them to spot details. Allow an hour inside.

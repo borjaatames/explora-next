@@ -45,6 +45,14 @@ faq:
   respuesta: Cerca de 2 horas no total. Do parque de estacionamento de Eneperi até à ermida são 2,5 km e 40 minutos a pé; os 241 degraus são só o fim. Com vento forte ou temporal fecham o acesso.
 ---
 
+## Excursões com transporte a partir de Bilbau
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Gaztelugatxe, Bermeo, Mundaka e Guernica com txakoli](/en/cities/bilbao/activities/gaztelugatxe-bermeo-mundaka-guernica-from-bilbao) | 4,7★ (3.229) | 45 € |
+| [San Sebastián, Hondarribia e Getaria](/en/cities/bilbao/activities/san-sebastian-hondarribia-getaria-from-bilbao) | 4,6★ (1.022) | 35 € |
+| [Biarritz, Saint-Jean-de-Luz e San Sebastián](/en/cities/bilbao/activities/biarritz-saint-jean-de-luz-san-sebastian-from-bilbao) | 4,7★ (898) | 70 € |
+
 ## San Juan de Gaztelugatxe
 
 A 45 minutos, uma **ermida sobre um ilhéu** ligado a terra por uma ponte e uma escadaria de **241 degraus**, famosa em todo o mundo como a Pedra do Dragão de *A Guerra dos Tronos*, com vistas espetaculares sobre a costa.

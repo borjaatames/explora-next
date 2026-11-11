@@ -52,6 +52,14 @@ opciones:
     etiqueta: Private
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| To go from Madrid with everything sorted | [El Escorial and the Valley of Cuelgamuros with a guide](/en/cities/madrid/activities/el-escorial-valley-of-cuelgamuros-group-tour), 4.7★ (1,769) | €62 |
+| Just the ticket, on your own | [Royal Monastery entry ticket](/en/cities/madrid/activities/el-escorial-monastery-entry-ticket), 4.5★ (312) | €18 |
+| Just your group, with pick-up | [Private tour with an official guide from Madrid](/en/cities/madrid/activities/el-escorial-royal-monastery-private-day-tour) | €820 per group |
+
 ## What you'll see
 
 - **The Basilica**, crowned by a great dome, presides over the complex. You can see it without a ticket, except during services.

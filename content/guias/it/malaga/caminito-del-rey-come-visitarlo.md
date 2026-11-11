@@ -45,6 +45,12 @@ imagen_portada: "/images/guias/caminito-del-rey-como-visitar.jpg"
 imagen_alt: "La passerella del Caminito del Rey sospesa nella gola"
 ---
 
+## Caminito con trasporto da Malaga
+
+| Attività | Valutazione | Da |
+| --- | --- | --- |
+| [Tour guidato con trasporto e biglietto](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19.083) | 72 € |
+
 ## Cosa vedrai
 
 Il Caminito è un percorso **lineare** di circa 7,7 km nella **gola dei Gaitanes**: circa **3 km di passerelle** ancorate alla roccia, a oltre 100 metri sopra il fiume, più i sentieri di accesso. Si fa in un solo senso, **da nord (Ardales) a sud (El Chorro)**.

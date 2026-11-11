@@ -89,6 +89,8 @@ Offizielle Preise des Patronato für 2026, inklusive Online-Gebühr:
 
 [actividad: visita-guiada-alhambra-generalife]
 
+[actividad: alhambra-entrada-general]
+
 ## Nasridenpaläste: deine Einlasszeit
 
 Die Nasridenpaläste haben eine **feste Einlasszeit**, die auf dem Ticket steht, und es gibt nur **30 Minuten Spielraum**. Danach kommst du nicht mehr hinein, und es gibt kein Geld zurück.

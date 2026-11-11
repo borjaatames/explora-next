@@ -45,6 +45,12 @@ faq:
   respuesta: Em cima de uma caveira, na fachada plateresca de 1512 do Edifício Histórico. A tradição é encontrá-la sem ajuda; se não conseguir, alguém lha mostrará.
 ---
 
+## Reserve o essencial
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Bilhete das Catedrais com audioguia](/pt/cities/salamanca/activities/salamanca-bilhete-catedrais-audioguia) | 4,6★ (202) | 10 € |
+
 ## O plano do dia: roteiro por Salamanca num dia
 
 | Hora | Plano |
@@ -74,6 +80,10 @@ Conte com **10-15 km a pé** no dia: leve bom calçado.
 **Casa Lis ou San Esteban** (**4 €** cada), não os dois. A Casa Lis é o museu de arte nova e art déco com vitrais sobre o rio (grátis à quinta das 11h00 às 14h00); San Esteban, o convento dominicano com claustro plateresco.
 
 **Ponte Romana ao pôr do sol.** A 10 minutos a descer, o postal inteiro: as catedrais na colina e a Clerecía em pedra dourada. Se tiver energia, suba ao Arrabal para outra vista.
+
+[actividad: university-of-salamanca-guided-tour]
+
+[actividad: salamanca-legends-evening-walking-tour]
 
 ## Como chegar a Salamanca
 

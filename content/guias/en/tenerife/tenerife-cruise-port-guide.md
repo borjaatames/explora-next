@@ -49,11 +49,23 @@ actividades:
   - loro-parque-entradas
 ---
 
+## Shore excursions that fit a Tenerife call
+
+| Tour | Duration | From |
+| --- | --- | --- |
+| [Guided Anaga laurel forest walk](/en/cities/tenerife/activities/anaga-laurel-forest-guided-hike), 4.8★ (269) | 3-6 hr depending on option | €24 |
+| [Casa del Vino in El Sauzal with tasting](/en/cities/tenerife/activities/tenerife-wine-house-tasting-el-sauzal), 4.6★ (477) | 2 hr | €16 |
+| [Bodegas Monje winery tour with wine and cheese](/en/cities/tenerife/activities/bodegas-monje-winery-tour-wine-cheese), 4.5★ (533) | 2 hr | €35 |
+| [Loro Parque](/en/cities/tenerife/activities/loro-parque-tickets), 4.8★ (14,827) | Full day | €44 |
+| [Teide with cable car and transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer), 4.3★ (6,121) | 7 hr | €92 |
+
 ## Where ships dock at the Tenerife cruise port
 
 At the **port of Santa Cruz de Tenerife**, on the **Muelle Sur** or the **Muelle de Enlace**. From the ship to **Plaza de España** it is a **10-20 minute walk** along a flat, signposted path, depending on your berth. You don't need a shuttle, although some cruise lines run one if the ship is at the far end of the quay.
 
 Watch out: many Tenerife hotels and tours are in the **south** (Costa Adeje, Los Cristianos), well over an hour from the port. When you book anything, check that it leaves from Santa Cruz or picks up in the capital.
+
+[actividad: teide-teleferico-traslado]
 
 ## Getting around: Santa Cruz to La Laguna tram, bus and taxi
 

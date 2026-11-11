@@ -57,6 +57,8 @@ actividades:
 
 Le port réduit le nombre de terminaux : le WTC Nord a fermé en 2023 et Royal Caribbean en construit un nouveau sur le Moll Adossat pour 2027. Votre programme du jour indique le vôtre.
 
+[actividad: barcelona-y-montserrat-grupo-reducido-recogida-hotel]
+
 ## Du terminal de croisière au centre de Barcelone
 
 - **Cruise Bus (ex-Portbus ou T3) :** relie les terminaux du Moll Adossat aux abords du monument à Colomb en 5 minutes environ. **3,50 € le trajet ou 5 € le billet journée** avec trajets illimités : utile si vous repassez déposer vos achats au bateau. Paiement par carte, **billets TMB non valables**.
@@ -82,6 +84,10 @@ La **Sagrada Família ne vend qu'en ligne** et, en été, elle est complète des
 **Montserrat** est à 1 heure de route ; aller, retour et visite du monastère font au moins 5 heures. L'excursion **Barcelone et Montserrat en petit groupe** (12 personnes maximum, guide en anglais) vient vous chercher au port, dure 8 heures et coûte dès 149 € par personne ; la Sagrada Família se voit de l'extérieur (y entrer coûte 25 € de plus, à demander à l'opérateur). Nous comparons les façons d'y aller dans [quelle excursion à Montserrat choisir](/fr/guides/barcelona/montserrat-quelle-excursion-choisir).
 
 Plus d'idées dans [comment visiter la Sagrada Família](/fr/guides/barcelona/sagrada-familia-comment-la-visiter) et [Barcelone en 1 jour](/fr/guides/barcelona/barcelone-en-1-jour-depuis-madrid).
+
+[actividad: sagrada-familia-visita-privada-guia-entradas]
+
+[actividad: sagrada-familia-park-guell-dia-completo-privado]
 
 ## Excursion du bateau, privée ou en autonomie
 

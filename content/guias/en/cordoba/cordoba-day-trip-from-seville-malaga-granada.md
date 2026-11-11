@@ -41,6 +41,15 @@ faq:
   respuesta: Yes, Monday to Saturday from 8:30 to 9:30. The rest of the day, the standard ticket costs €15.
 ---
 
+## How to get there
+
+| From | Train | Car | Group tour | Private trip |
+| --- | --- | --- | --- | --- |
+| Seville | high-speed, about 45 min | 1 h 30 | [from €109](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) · [small group by high-speed train](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) | [by train: €432 (2) · €668 (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [by car: from €379 per person](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
+| Málaga | high-speed, just under 1 h | 1 h 50 | [from €76](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [€750 (2) · €920 (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
+| Granada | — | about 2 h | — | [€800 (2) · €1,040 (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
+| Cádiz | — | 2 h 30 | — | [from €780 (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |
+
 ## How to get to Córdoba from Seville, Málaga or Granada
 
 | From | Train | Car | Group trip | Private trip |

@@ -62,6 +62,10 @@ actividades:
 - **Cathedral:** Monday to Friday 10:00 to 20:00 and Saturdays until 18:00.
 - **With a guide:** there's a guided visit to the Alcazaba and Roman Theatre from €13 and the "Málaga esencial" route from €32.76. The **private Málaga esencial tour** costs €200 per group for 1 or 2 people (2 hours) and €280 for 4; you meet in Plaza de la Constitución, about 10 minutes' walk from the shuttle stop (no port pick-up).
 
+[actividad: malaga-esencial-catedral-alcazaba-teatro]
+
+[actividad: malaga-esencial-tour-privado]
+
 ## Where the ship docks
 
 The port has three cruise terminals, all run by Cruceros Málaga:

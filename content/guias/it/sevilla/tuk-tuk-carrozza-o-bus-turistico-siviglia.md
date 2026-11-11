@@ -56,6 +56,18 @@ opciones:
     etiqueta: "Gruppo di 6 o prima volta: 2 ore, più quartieri"
 ---
 
+## Tabella dei prezzi a persona
+
+| Opzione | Durata | 2 persone | 4 persone | 6 persone |
+| --- | --- | --- | --- | --- |
+| [Bus turistico City Sightseeing](/en/cities/sevilla/activities/seville-hop-on-hop-off-bus-tour-24h) | 24 h (giro di 75 min) | 28 € | 28 € | 28 € |
+| [Tuk tuk privato](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville) | 1 h | 44,50 € (89 €) | 24,75 € (99 €) | 31,33 € (2 tuk tuk, 188 €) |
+| [Tuk tuk privato](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours) | 2 h | 77,50 € (155 €) | 41,25 € (165 €) | 53,33 € (320 €) |
+| [Carrozza a cavalli privata con guida](/en/cities/sevilla/activities/seville-private-horse-carriage-ride-guide) | 1 h 30 min | 149 € (298 €) | 74,50 € (298 €) | 99,33 € (2 carrozze, 596 €) |
+| Carrozza a cavalli in sosta per strada | Variabile | Tariffa comunale: chiedi prima | — | — |
+| [Tour a piedi, gruppo di max 10](/en/cities/sevilla/activities/seville-small-group-city-highlights-walking-tour) | 2 h | 25 € | 25 € | 25 € |
+| [Tour in bici di gruppo](/en/cities/sevilla/activities/seville-bike-tour-group) (in inglese) | 3 h | 28 € | 28 € | 28 € |
+
 ## Prezzi a persona: il confronto
 
 | Opzione | Durata | 2 persone | 4 persone | 6 persone |

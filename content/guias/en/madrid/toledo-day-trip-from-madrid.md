@@ -78,6 +78,10 @@ If you'd rather have the three cultures in concentrated form: the **Mosque of Cr
 
 The full list, with prices and opening hours for each monument, is in [things to do in Toledo](/en/guides/madrid/things-to-do-in-toledo).
 
+[actividad: toledo-full-day-from-madrid]
+
+[actividad: toledo-tourist-bracelet-7-monuments]
+
 ## Getting from Madrid to Toledo
 
 - **Avant from Atocha:** 33 minutes, departures roughly every hour from 6:50, last return around 21:30; **€22-26 return** (€13-16 one way). Early trains sell out: book ahead. The station is a 20-minute uphill walk from the old town; take bus 5 or a taxi (€6-8). All the details are in [Madrid to Toledo by train](/en/guides/madrid/madrid-to-toledo-train).

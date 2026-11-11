@@ -82,6 +82,8 @@ Und der **Frosch auf einem Totenkopf**: Wer ihn ohne Hilfe findet, besteht die P
 
 [actividad: universidad-salamanca-visita-guiada]
 
+[actividad: tour-a-pie-salamanca-guia-local]
+
 ## Tipps und typische Fehler
 
 1. **Nicht für die Fassade zahlen:** Sie ist gratis; das Ticket gilt für das Innere.

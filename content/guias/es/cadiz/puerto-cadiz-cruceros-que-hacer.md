@@ -71,6 +71,10 @@ Desde cualquiera, el centro está a unos **5 minutos a pie**. La estación de tr
 
 La visita guiada a la **Torre Tavira y la Catedral** (desde 38 €, 2 horas) sale de la plaza de San Juan de Dios, al lado del puerto. Si sois varios, hay **tour privado a pie por el casco antiguo** desde 180 € por grupo (2 horas, 1 o 2 personas) o unos 300 € para 4, con punto de encuentro frente al Ayuntamiento, a cinco minutos del barco. Más ideas para la ruta a pie en [Cádiz en un día](/guias/cadiz/cadiz-en-un-dia).
 
+[actividad: torre-tavira-catedral-cadiz-visita-guiada]
+
+[actividad: cadiz-tour-privado-a-pie-casco-antiguo]
+
 ## Sevilla desde el puerto de Cádiz (y el riesgo de no volver)
 
 Sevilla está a **unos 90 minutos por la AP-4**. Allí necesitas como mínimo 4 horas para la Catedral, el Alcázar y Santa Cruz, así que el día completo se va a 7-8 horas. Tres formas de hacerlo:
@@ -89,6 +93,8 @@ Sevilla está a **unos 90 minutos por la AP-4**. Allí necesitas como mínimo 4 
 | Para cruceristas desde el puerto | 119 € + entrada al Alcázar | El operador se ajusta a la hora del barco y da garantía de regreso |
 | Privada desde el puerto | Unos 300 € (unos 220 € si sois 4) | El conductor trabaja con tu horario; el barco no espera |
 | Tren por libre | Desde unos 20 € ida y vuelta | Todo el riesgo es tuyo |
+
+[actividad: sevilla-excursion-privada-desde-cadiz]
 
 ## Jerez desde Cádiz en tren
 

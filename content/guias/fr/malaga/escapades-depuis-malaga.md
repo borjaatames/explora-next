@@ -50,6 +50,16 @@ faq:
   respuesta: L'accès est gratuit. Quand le parking du haut est plein (en milieu de matinée le week-end), la route est fermée et l'on monte en navette depuis le parking du bas, pour 2 € aller-retour.
 ---
 
+## Excursions avec transport depuis Malaga
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Caminito del Rey guidé](/en/cities/malaga/activities/caminito-del-rey-guided-tour-from-malaga) | 4,9★ (19 083) | 72 € |
+| [Ronda et Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga) | 4,7★ (8 742) | 34 € |
+| [Grottes de Nerja, Nerja et Frigiliana](/en/cities/malaga/activities/nerja-caves-frigiliana-from-malaga) | 4,6★ (3 192) | 69 € |
+| [Gibraltar](/en/cities/malaga/activities/gibraltar-day-trip-from-malaga) | 4,6★ (5 510) | 35 € |
+| [Cordoue avec entrée à la Mezquita](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | 4,5★ (753) | 76 € |
+
 ## Les meilleures escapades depuis Malaga
 
 | Destination | En voiture | Idéal pour |

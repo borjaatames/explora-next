@@ -54,6 +54,16 @@ opciones:
     etiqueta: Avec la Juderia
 ---
 
+## Quel billet choisir ?
+
+| Si vous voulez… | Option | À partir de |
+| --- | --- | --- |
+| Votre propre rythme, avec un audioguide | [Billet pour la Mosquée-cathédrale avec audioguide](/fr/cities/cordoba/activities/mosquee-cathedrale-billet-audioguide), 4,2★ (3 788) | 22 € |
+| La plus populaire | [Visite guidée coupe-file de la Mosquée-cathédrale](/fr/cities/cordoba/activities/mosquee-cathedrale-visite-guidee-coupe-file), 4,6★ (10 966) | 32 € |
+| La Mosquée et le vieux quartier en une matinée | [Mosquée et Juderia avec billets](/fr/cities/cordoba/activities/cordoue-visite-guidee-mosquee-juiverie-billets), 4,5★ (2 200) | 34 € |
+| Rien que votre groupe | [Visite privée de la Mosquée-cathédrale avec entrée](/en/cities/cordoba/activities/cordoba-mosque-cathedral-private-tour), 5★ (45) | 210 € par groupe |
+| En privé, avec la Juderia | [Visite privée de la Mosquée et de la Juderia](/en/cities/cordoba/activities/cordoba-mosque-jewish-quarter-private-tour), 5★ (130) | 260 € par groupe |
+
 ## Essayez une autre heure sur le site officiel ou au guichet
 
 Le site officiel de vente est **tickets.mezquita-catedraldecordoba.es**, accessible depuis mezquita-catedraldecordoba.es. Méfiez-vous des sites aux noms proches qui l'imitent et font payer plus cher.
@@ -99,6 +109,8 @@ Quand le site officiel n'a pas l'heure souhaitée, les opérateurs ont souvent e
 Avant de payer, vérifiez que la fiche indique **« entrée à la mosquée-cathédrale incluse »** : certaines balades dans la Juiverie passent seulement devant.
 
 [actividad: mezquita-catedral-tour-guiado-sin-colas]
+
+[actividad: mezquita-juderia-tour-a-pie]
 
 ## Ce que l'on voit sans billet
 

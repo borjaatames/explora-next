@@ -53,6 +53,15 @@ opciones:
     etiqueta: Summit hike
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Cable car already included | [Teide trip with cable car and transfer](/en/cities/tenerife/activities/teide-cable-car-tour-transfer), 4.3★ (6,121) | €92 |
+| The summit on foot with a guide | [Guided hike to the summit of Teide](/en/cities/tenerife/activities/mount-teide-summit-guided-hike), 4.9★ (94) | €189 |
+| Teide by night | [Sunset and stargazing in the National Park](/en/cities/tenerife/activities/teide-sunset-stargazing-tour), 4.7★ (3,691) | €35 |
+| Teide and the north | [Teide, Icod, Garachico and Masca tour](/en/cities/tenerife/activities/tenerife-teide-masca-icod-garachico-tour), 4.6★ (3,066) | €58 |
+
 ## Teide cable car sold out: change the time or the day
 
 Tickets are sold at volcanoteide.com and cost **about €42** return per adult. The cable car climbs in under 8 minutes from the base station (2,356 m) to **La Rambleta (3,555 m)**.
@@ -95,6 +104,8 @@ If there's no way up, the park is still worth the trip:
 - The **Roques de García circuit** (3.6 km, about 2 hours), with Teide behind.
 - The viewpoints along the TF-21 road, such as **Minas de San José**.
 - The **stars**: sunset tours with a telescope are run from viewpoints in the park and need neither the cable car nor a permit.
+
+[actividad: atardecer-estrellas-teide-telescopio]
 
 ## Tips
 

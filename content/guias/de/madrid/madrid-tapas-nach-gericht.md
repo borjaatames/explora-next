@@ -96,3 +96,5 @@ Um die Route in deine Reise einzubauen, schau dir [Madrid in 3 Tagen](/de/guides
 - **Geh nicht am späten Nachmittag zu Casa Dani:** Die Tortilla ist dann aus.
 - **Reserviere bei Malacatín oder Casa Lucio** am Wochenende.
 - **Bestell bei Casa Labra Kabeljau**, keine Schinken-Croquetas.
+
+[actividad: aventura-vino-tapas-la-latina]

@@ -54,6 +54,16 @@ actividades:
   - teatro-flamenco-triana-show-en-directo
 ---
 
+## Seville's 5 flamenco shows
+
+| Show | Price from | Format | Atmosphere | Best for |
+|---|---|---|---|---|
+| [Teatro Flamenco Sevilla](/en/cities/sevilla/activities/seville-live-flamenco-dancing-show-theater-top-pick) | €25 | Theatre, tiered seating | The city's best-seller, good sightlines thanks to tiered seating | Anyone who wants the safest pick with the most daily showtimes |
+| [Casa de la Memoria](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) | €24 | Andalusian courtyard, only 2 rows | Maximum intimacy, performers a metre away | Anyone who values closeness over seat comfort |
+| [Museo del Baile Flamenco](/en/cities/sevilla/activities/seville-puro-flamenco-show-dance-museum) | €33 | 18th-century courtyard | Choreography by Cristina Hoyos, combinable with the museum visit | Anyone who wants cultural context alongside the show |
+| [Tablao El Arenal](/en/cities/sevilla/activities/seville-flamenco-show-tablao-el-arenal-historic) | €45 | Restaurant-style tablao, tables | 50 years of history, relaxed atmosphere | Anyone who wants dinner while watching the show |
+| [Teatro Flamenco Triana](/en/cities/sevilla/activities/seville-flamenco-show-teatro-flamenco-triana) | €25 | Theatre, across the river | In the historically Roma neighbourhood where much of flamenco was born | Anyone who wants to experience it in its neighbourhood of origin |
+
 ## The 5 flamenco shows in Seville
 
 | Show | From | Format | Best for |
@@ -81,6 +91,8 @@ actividades:
 - **Teatro Flamenco Triana:** one of the cheapest and the one that takes you across the river, to the historically Gitano neighbourhood. Plaza de Cuba metro is five minutes away, and Calle Betis and the Altozano bars are right there for afterwards.
 
 [actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
+
+[actividad: seville-casa-de-la-memoria-flamenco-show-intimate]
 
 ## Where to see flamenco in Seville: show times and getting there
 

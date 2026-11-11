@@ -60,6 +60,17 @@ opciones:
     etiqueta: À noite
 ---
 
+## Que bilhete escolher?
+
+| Tour | Preço desde | Nota real |
+|---|---|---|
+| [Bilhete e tour guiado](/en/cities/granada/activities/alhambra-entry-and-guided-tour) | 50 € | Uma das duas mais baratas das seis. Sem extras a mais, tempo livre no final |
+| [Alhambra em grupo reduzido](/en/cities/granada/activities/alhambra-small-group-tour) | 65 € | Dedica mais tempo ao Generalife (perto de 1 hora, mais do que os restantes) |
+| [Visita guiada Alhambra e Generalife](/en/cities/granada/activities/alhambra-generalife-guided-tour) | 49 € | A mais barata das seis. Distribuição padrão das três zonas |
+| [Palácios Nasridas sem filas](/en/cities/granada/activities/alhambra-nasrid-palaces-skip-the-line) | 53 € | Mesmo percurso, preço intermédio-alto |
+| [Tour guiado com bilhetes](/en/cities/granada/activities/alhambra-guided-tour-with-tickets) | 99 € | Mesmo percurso, o preço mais alto do grupo |
+| [Sem esperas Palácios Nasridas](/en/cities/granada/activities/alhambra-skip-the-wait-nasrid-palaces) | 96 € | Dos mais caros do grupo, sem diferença de conteúdo que o justifique |
+
 ## Visita guiada à Alhambra: seis tours, um mesmo percurso
 
 Seis tours com nomes diferentes («sem filas», «com bilhetes incluídos», «em grupo reduzido», «sem esperas») descrevem **o mesmo percurso**: Alcazaba, Palácios Nasridas e Generalife, cerca de **3 horas**, com guia oficial e entrada no horário atribuído dos Palácios.

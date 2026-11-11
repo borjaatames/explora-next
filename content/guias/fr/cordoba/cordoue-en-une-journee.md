@@ -60,6 +60,16 @@ imagen_alt: "La Mosquée-cathédrale de Cordoue et le pont romain sur le Guadalq
 
 La clé est simple : **entrez dans la Mosquée à la première heure**, avant la chaleur et les groupes. Et si vous dormez sur place, vous gagnez ce que le visiteur à la journée manque : la vieille ville illuminée et déserte.
 
+## Réservez l'essentiel
+
+| Activité | Note | À partir de |
+| --- | --- | --- |
+| [Visite guidée coupe-file de la Mosquée-cathédrale](/fr/cities/cordoba/activities/mosquee-cathedrale-visite-guidee-coupe-file) | 4,6★ (10 966) | 32 € |
+| [Visite de la Mosquée et du quartier juif avec billets](/fr/cities/cordoba/activities/cordoue-visite-guidee-mosquee-juiverie-billets) | 4,5★ (2 200) | 34 € |
+| [Visite des patios authentiques avec billets, 2 heures](/en/cities/cordoba/activities/cordoba-patios-tour-with-tickets) | 4,3★ (1 106) | 19 € |
+| [Spectacle équestre aux Écuries royales](/en/cities/cordoba/activities/equestrian-show-royal-stables) | 4,5★ (2 910) | 18,50 € |
+| [Spectacle de flamenco au Tablao Cardenal avec une boisson](/en/cities/cordoba/activities/flamenco-show-tablao-cardenal) | 4,8★ (1 167) | 25 € |
+
 ## L'itinéraire de la journée : que voir à Cordoue heure par heure
 
 | Heure | Quoi |

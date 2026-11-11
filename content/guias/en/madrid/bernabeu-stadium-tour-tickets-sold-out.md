@@ -57,6 +57,19 @@ opciones:
     etiqueta: From outside, by tuk-tuk
 ---
 
+## What options are left?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Another time that day | Official website, timed Classic Tour | €37 |
+| Not to be tied to a time | Classic Flexible Time, any time that day | €44 |
+| To buy on the spot | Stadium box office | €40 |
+| Free entry | There's no free tour | — |
+| The ticket, no guide | [Bernabéu Tour official ticket](/en/cities/madrid/activities/bernabeu-entry-ticket), 4.5★ (23,468) | €37 |
+| A guide and free cancellation | [Guided tour with an expert guide](/en/cities/madrid/activities/bernabeu-guided-tour), 4.1★ (1,532) | €58 |
+| Another Madrid stadium | [Riyadh Air Metropolitano tour](/en/cities/madrid/activities/wanda-metropolitano-atletico-tour), 4.7★ (2,188) | €25 |
+| The Bernabéu from outside | [Private tuk-tuk: Bernabéu and the Golden Mile](/en/cities/madrid/activities/tuk-tuk-bernabeu-golden-mile-madrid) | €79 per tuk-tuk |
+
 ## What you'll see on the Real Madrid stadium tour
 
 The stadium opened in 1947 and was given its big makeover between 2019 and 2024: an outer skin of steel slats, a **retractable roof** and a pitch that can be removed and stored under the stands. The tour includes:
@@ -66,6 +79,12 @@ The stadium opened in 1947 and was given its big makeover between 2019 and 2024:
 - **The dressing rooms and dugouts**, when there's no match nearby.
 
 You go at your own pace in **one and a half to two hours**. Note: the route has **many flights of stairs**.
+
+[actividad: bernabeu-ticket-acceso]
+
+[actividad: wanda-metropolitano-atletico-tour]
+
+[actividad: tuk-tuk-bernabeu-milla-oro-madrid]
 
 ## Bernabéu tour price and opening hours
 

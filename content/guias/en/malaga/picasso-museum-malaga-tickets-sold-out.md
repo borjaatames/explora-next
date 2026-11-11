@@ -59,6 +59,18 @@ opciones:
     etiqueta: Next door, guided
 ---
 
+## What options are left?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| Another time or day | Official website, `tickets.museopicassomalaga.org` | €13 |
+| To buy on the spot | Museum box office, at quiet times | €13 |
+| Free entry | Sundays, last two hours | €0 |
+| The ticket, with audio guide | [Picasso Museum Málaga ticket](/en/cities/malaga/activities/picasso-museum-malaga-ticket), 4.5★ (14,246) | €13 |
+| Museum and birthplace with a guide | [Picasso route, private tour](/en/cities/malaga/activities/picasso-route-malaga-private-tour) | €166 |
+| Modern art at the port | [Centre Pompidou Málaga](/en/cities/malaga/activities/centre-pompidou-malaga-ticket), 4.2★ (734) | €9 |
+| Three minutes away, guided | [Alcazaba and Roman Theatre](/en/cities/malaga/activities/alcazaba-roman-theatre-malaga-guided-tour), 4.7★ (7,412) | €13 |
+
 ## Picasso Museum Malaga tickets: price
 
 Official sales are at **tickets.museopicassomalaga.org**, linked from museopicassomalaga.org.
@@ -68,6 +80,8 @@ Official sales are at **tickets.museopicassomalaga.org**, linked from museopicas
 - **Free:** under-17s, people with disabilities plus one companion, jobseekers registered with SEPE, University of Málaga students, teachers, ICOM members and journalists.
 
 Beware of websites imitating the official one: the real one is tickets.museopicassomalaga.org.
+
+[actividad: museo-picasso-malaga-entrada]
 
 ## Picasso Museum Malaga opening hours
 
@@ -117,3 +131,7 @@ If you get nothing:
 - **The Alcazaba and the Roman Theatre**, 3 minutes away: the other must-see of the centre.
 
 Mistakes we often see: turning up on Sunday in the last half hour (the ticket office has stopped selling), using summer closing times in winter (November to February it closes at 18:00) and going on 1 or 6 January or Christmas Day, when it's closed. To fit it in with the rest of the city, see [Málaga in two days](/en/guides/malaga/malaga-in-two-days).
+
+[actividad: centre-pompidou-malaga-entrada]
+
+[actividad: alcazaba-teatro-romano-malaga-visita-guiada]

@@ -95,6 +95,8 @@ Para não ter de escolher bar, o **tour de vinhos e tapas** percorre quatro loca
 
 **Com crianças:** o **Alice Christmas**, no Jardim Botânico-Histórico La Concepción, nos arredores, é um percurso iluminado das 18:30 às 22:30 (bilhetes em lucesdelaconcepcion.es). Há ainda o **presépio municipal**, um **guia de 73 presépios** pela cidade em belenes.malaga.eu, **Reis Magos gigantes** espalhados pelo centro (em 2025, Belchior na calle Alcazabilla, Gaspar na Plaza Félix Sáenz e Baltasar na calle Compañía) e uma festa infantil com fantoches e contadores de histórias em dezembro.
 
+[actividad: tour-privado-tapas-malaga-atarazanas]
+
 ## Passagem de ano, Cavalgada dos Reis e feriados
 
 - **Badaladas na Plaza de la Constitución:** em 2025 distribuíram-se sacos de uvas e adereços de festa das 21:30 às 23:45, até esgotar.
@@ -105,11 +107,17 @@ Para não ter de escolher bar, o **tour de vinhos e tapas** percorre quatro loca
 - **Museu Picasso:** a 24 e 31 de dezembro e a 5 de janeiro, das 10:00 às 15:00; **fecha a 25 de dezembro e a 1 e 6 de janeiro**. No resto de novembro a fevereiro, das 10:00 às 18:00; 13 €, grátis aos domingos nas duas últimas horas.
 - **Alcazaba:** de novembro a março, das 9:00 às 18:00 (última entrada às 17:00); 7 €, ou 10 € com o castelo de Gibralfaro, e **grátis aos domingos a partir das 14:00**. **A Alcazaba e Gibralfaro fecham a 24, 25 e 31 de dezembro e a 1 de janeiro** (site oficial, verificado a 10 de novembro de 2026).
 
+[actividad: malaga-esencial-tour-privado]
+
 ## A praia no inverno e um dia de excursão
 
 Segundo a AEMET, dezembro em Málaga tem **17,5 °C de máxima média** e cerca de 160 horas de sol, e janeiro 16,8 °C. Não é tempo de banhos para quase ninguém, mas sim de passeio pela **Malagueta e Pedregalejo**, espetos ao almoço e, se o dia estiver limpo, um **passeio de catamarã pela baía** ao pôr do sol. Para uma tarde fria, os **banhos árabes Hammam Al Ándalus**, no centro.
 
 Se tiver um dia livre, no inverno a **Alhambra** visita-se sem calor (há excursão privada desde Málaga que inclui o Albaicín). Mais perto, **Nerja e Frigiliana** fazem-se num dia em grupo.
+
+[actividad: hammam-al-andalus-malaga]
+
+[actividad: granada-alhambra-excursion-privada-desde-malaga]
 
 ## Erros típicos
 

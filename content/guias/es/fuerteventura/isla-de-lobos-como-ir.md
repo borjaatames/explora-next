@@ -45,6 +45,14 @@ imagen_portada: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
 imagen_alt: "La Isla de Lobos y la montaña de La Caldera vistas desde el mar"
 ---
 
+## Reserva lo principal
+
+| Actividad | Valoración | Desde |
+| --- | --- | --- |
+| [Ferri de ida y vuelta a Lobos con entrada al parque](/ciudades/fuerteventura/actividades/ferry-isla-lobos-corralejo-entrada) | 4,7★ (1.425) | 17 € |
+| [Catamarán a Lobos con comida, bebida y esnórquel](/ciudades/fuerteventura/actividades/catamaran-isla-lobos-corralejo) | 4,8★ (1.183) | 75 € |
+| [Tour a pie por Corralejo con degustaciones](/ciudades/fuerteventura/actividades/tour-a-pie-corralejo-degustaciones) | 4,9★ (515) | 18 € |
+
 ## El permiso de la Isla de Lobos, paso a paso
 
 Lobos exige autorización previa desde 2019. Se pide en **lobospass.com**, la web oficial del Cabildo de Fuerteventura, que en verano de 2026 ha reforzado el control y la vigilancia.

@@ -47,6 +47,16 @@ faq:
   respuesta: Eivissa é a base mais versátil; Santa Eulària e o norte (Sant Joan), para calma e calas; Sant Antoni e Playa d'en Bossa, só se vier para a festa.
 ---
 
+## Reserve o principal
+
+| Atividade | Avaliação | Desde |
+| --- | --- | --- |
+| [Roteiro pelas calas tudo incluído com refeição, paddle surf e snorkel](/pt/cities/ibiza/activities/ibiza-rota-enseadas-tudo-incluido-paddle-snorkel) | 4,9★ (1.410) | 60 € |
+| [Cruzeiro pelas calas com paddle surf, refeição e bebidas](/pt/cities/ibiza/activities/ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas) | 4,6★ (3.570) | 69 € |
+| [Barco a Es Vedrà, Espalmador e Formentera com refeições](/pt/cities/ibiza/activities/sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes) | 4,1★ (1.335) | 155 € |
+| [Passeio de barco ao pôr do sol com bebidas e banho](/pt/cities/ibiza/activities/ibiza-passeio-barco-por-do-sol-bebidas-banho) | 4,8★ (110) | 70 € |
+| [Bilhete de ferry de ida e volta para Formentera](/pt/cities/ibiza/activities/ibiza-bilhete-ferry-ida-volta-formentera) | 4,7★ (322) | 55 € |
+
 ## O que ver em Ibiza: Dalt Vila, calas, Es Vedrà e Formentera
 
 - **Dalt Vila.** A cidade alta amuralhada, Património da Humanidade: entre pelo Portal de ses Taules e suba entre muralhas renascentistas e ruelas brancas até à **catedral** e ao castelo, com vista para o porto. Em baixo, **La Marina** e **Sa Penya**: ambiente, moda Adlib e restaurantes.

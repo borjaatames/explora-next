@@ -55,11 +55,22 @@ opciones:
     etiqueta: Plus Reina Sofía and Thyssen
 ---
 
+## Which ticket should you choose?
+
+| If you want… | Option | From |
+| --- | --- | --- |
+| A timed ticket, no guide | [Prado Museum entry ticket](/en/cities/madrid/activities/prado-museum-entry-ticket), 4.7★ (23,644) | €18 |
+| The top rated | [Prado guided tour with entry](/en/cities/madrid/activities/prado-museum-guided-tour), 4.9★ (885) | €49 |
+| All three big museums | [Art Walk Pass: Prado, Reina Sofía and Thyssen](/en/cities/madrid/activities/art-walk-pass-prado-reina-sofia-thyssen), 4.4★ (489) | €38 |
+| Just your group | [Private tour with an official guide](/en/cities/madrid/activities/prado-museum-private-tour-official-guide) | €146 |
+
 ## What you'll see
 
 The Prado grew out of the royal collections of the Habsburgs and Bourbons, and that shapes its character: it holds the world's finest collection of **Velázquez, Goya and El Greco**, with outstanding works by Bosch, Titian and Rubens. It covers European painting from the 12th to the 19th century.
 
 Must-sees: *Las Meninas* and the Velázquez room, Goya's *Black Paintings* and Bosch's *Garden of Earthly Delights*. Allow **2-3 hours**; once inside there's no time limit.
+
+[actividad: art-walk-pass-prado-reina-sofia-thyssen]
 
 ## Prado Museum ticket price and opening hours
 
@@ -70,6 +81,8 @@ The official ticket site is **entradas.museodelprado.es**, linked from museodelp
 - **Always free:** under-18s, students aged 18 to 25 and the unemployed, with proof at the box office.
 
 **Hours:** Monday to Saturday **10:00 to 20:00**, Sundays and holidays **10:00 to 19:00**. On 6 January and 24 and 31 December it closes at 14:00. There's no weekly closing day, but it **closes on 1 January, 1 May and 25 December**.
+
+[actividad: museo-prado-visita-guiada]
 
 ## If Prado Museum tickets are sold out
 

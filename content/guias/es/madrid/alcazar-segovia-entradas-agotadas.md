@@ -55,6 +55,15 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
+## ¿Qué entrada elegir?
+
+| Si buscas… | Opción | Desde |
+| --- | --- | --- |
+| Ir desde Madrid con la entrada resuelta | [Segovia y Toledo en un día, con el Alcázar](/ciudades/madrid/actividades/excursion-toledo-segovia-alcazar), 4,7★ (10.421) | 41 € |
+| Más monumentos incluidos | [Ávila y Segovia con entradas incluidas](/ciudades/madrid/actividades/excursion-avila-segovia-con-entradas), 4,6★ (4.805) | 79 € |
+| Grupo pequeño | [Segovia y La Granja en grupo reducido](/ciudades/madrid/actividades/segovia-la-granja-grupo-reducido-desde-madrid) | 140 € |
+| Solo para vosotros | [Tour privado en coche con guía oficial](/ciudades/madrid/actividades/segovia-tour-privado-coche-desde-madrid) | 1.649 € por grupo |
+
 ## Qué vas a ver
 
 - **El Palacio y el Museo de Artillería:** el núcleo de la visita, unos **40-45 minutos**.

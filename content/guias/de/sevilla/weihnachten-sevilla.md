@@ -84,6 +84,12 @@ Der Höhepunkt ist die **Projektion auf die platereske Rathausfassade** an der P
 5. **20:00 Uhr, Setas oder Magdalena**, für den Weihnachtsmarkt.
 6. **21:00 Uhr, Flamenco oder Tapas in Triana.**
 
+[actividad: tuk-tuk-privado-sevilla]
+
+[actividad: sevilla-misteriosa-tour-privado-atardecer]
+
+[actividad: cordoba-excursion-dia-completo-mezquita-desde-sevilla]
+
 ## Weihnachtsmarkt Sevilla, Krippen und Klostersüßigkeiten
 
 - **Feria del Belén:** seit über drei Jahrzehnten Krippenfiguren, Moos und Kork zwischen Kathedrale und Archivo de Indias. 2025 geöffnet werktags 10:30-14:00 und 17:00-21:00 Uhr, an Wochenenden und Feiertagen 11:00-15:00 und 16:30-21:30 Uhr.
@@ -99,6 +105,8 @@ Eine **Zambomba** ist ein Fest mit Flamenco-Weihnachtsliedern, Tamburinen, Anisf
 - **Setalandia** unter den Setas de la Encarnación und die **Eisbahn am Prado de San Sebastián** (2025 vom 29. November bis 6. Januar).
 - **Navigalia** erzählt eine Weihnachtsgeschichte, projiziert auf den Guadalquivir, am Muelle de la Sal, für 2 €.
 - **Naturaleza Encendida**, die Lichtshow in den Gärten des Alcázar, läuft bis März.
+
+[actividad: casa-de-la-memoria-flamenco-show-intimo-sevilla]
 
 ## Was hat in Sevilla am 24., 25. und 31. Dezember und am 1. Januar geöffnet?
 

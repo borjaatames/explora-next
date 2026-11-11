@@ -85,6 +85,8 @@ This year there are more than **250 illuminated spots** and 14 million LEDs, wit
 4. **20:00, chocolate and churros at San Ginés**, in the Pasadizo de San Ginés by Sol. Open since 1894, it runs 24 hours from Thursday to Sunday and on the eve of public holidays.
 5. **21:00, dinner:** tapas in the centre or a flamenco show.
 
+[actividad: madrid-big-bus-night-tour]
+
 ## Traditions, New Year's Eve and Three Kings
 
 - **The Lottery draw (22 December):** at the Teatro Real, with free numbered tickets collected at the box office on showing your ID or passport. Some people queue from the night before: in recent editions, arriving after 4 a.m. meant missing out.

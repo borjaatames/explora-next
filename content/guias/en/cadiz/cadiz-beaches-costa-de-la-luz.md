@@ -47,6 +47,14 @@ faq:
 
 The local rule: with **poniente** (westerly), perfect beach; with a strong **levante** (easterly), better the old town or a sheltered cove. Check the forecast before choosing.
 
+## Sea trips you can book
+
+| Activity | Rating | From |
+| --- | --- | --- |
+| [Sunset catamaran cruise with cava](/en/cities/cadiz/activities/cadiz-sunset-catamaran-cruise) | 4.6★ (856) | €24.5 |
+| [Barbate: dolphin and whale watching off Cape Trafalgar](/en/cities/cadiz/activities/dolphin-whale-watching-trafalgar-barbate) | 4.1★ (792) | €50 |
+| [Bay of Cádiz catamaran tour](/en/cities/cadiz/activities/cadiz-bay-catamaran-tour) | 4.5★ (453) | €19 |
+
 ## Beaches in Cádiz city
 
 | Beach | Character |
@@ -57,6 +65,8 @@ The local rule: with **poniente** (westerly), perfect beach; with a strong **lev
 | **Cortadura** | Wide and semi-wild, towards the salt flats |
 
 **La Caleta** is the most photogenic (James Bond's "Havana"), perfect at sunset. **La Victoria** is the big urban beach for a sunny day with services. Walk there or take buses **1 and 7**; for Cortadura, the **1**.
+
+[actividad: catamaran-cadiz-atardecer]
 
 ## The great Costa de la Luz beaches
 

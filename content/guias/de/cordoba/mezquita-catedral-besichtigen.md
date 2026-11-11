@@ -53,6 +53,15 @@ opciones:
     etiqueta: Mit Judería
 ---
 
+## Welches Ticket solltest du wählen?
+
+| Option | Preis | Was enthalten ist | Für wen |
+| --- | --- | --- | --- |
+| Regulärer Eintritt (offizieller Preis) | 15 € | Mezquita-Catedral ohne Führung (12 € ermäßigt) | Wer auf eigene Faust geht und online kauft |
+| [Ticket mit Audioguide](/en/cities/cordoba/activities/mosque-cathedral-ticket-audio-guide) | 22 € | Eintritt und Audioguide auf dem Handy, offline nutzbar | Wer allein, aber mit Erklärungen gehen will |
+| [Führung ohne Anstehen](/en/cities/cordoba/activities/mosque-cathedral-skip-the-line-guided-tour) | 32 € | Offizieller Guide, Eintritt ohne Anstehen, Fernandinische Kirchen und Glockenturm | Wer die Geschichte des Baus erklärt haben will |
+| [Mezquita und Judería mit Tickets](/en/cities/cordoba/activities/mosque-jewish-quarter-walking-tour) | 34 € | Guide, Eintritt in die Mezquita und Rundgang durch die Judería (2,5 Std.) | Wer beides an einem Vormittag sehen will |
+
 ## Was man in der Mezquita Córdoba sieht
 
 - **Der Säulenwald.** Von den fast 1.300 ursprünglichen Säulen sind 856 erhalten, mit doppelten rot-weißen Hufeisenbögen und wiederverwendetem römischem und westgotischem Marmor und Granit. Das Bild, das das Bauwerk ausmacht.
