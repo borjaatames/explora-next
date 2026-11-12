@@ -63,7 +63,7 @@ preguntasFrecuentes:
   respuesta: Sí, siempre que avises al proveedor de tu hora de regreso a bordo con antelación para que organice el día en torno a ella.
 opinionEditorial: 'Una forma práctica de ver toda la isla en un día de escala sin organizar nada: pueblos, la caldera central, el pico más alto y las dunas de Maspalomas, en un coche privado que te recoge en el barco. La ruta es fija y panorámica, no a medida, así que encaja con quien quiere los imprescindibles de siempre.'
 guiasRelacionadas:
-- what-to-see-in-gran-canaria
+- que-ver-en-gran-canaria
 categoria: toursCiudad
 keywords:
 - excursion crucero gran canaria

@@ -21,7 +21,7 @@ highlights:
 - Tour privado con itinerario flexible
 - El casco viejo de Las Palmas (Vegueta) y la plaza de Santa Ana
 - El paseo de Las Canteras y el barrio de Santa Catalina
-- Los pueblos del norte: Arucas, Firgas y Teror
+- Los pueblos del norte de Arucas, Firgas y Teror
 - Una tapa y una bebida por persona
 incluye:
 - Recogida y regreso en el puerto, el hotel o la estación
@@ -65,7 +65,7 @@ preguntasFrecuentes:
   respuesta: El guía trabaja en español e inglés, entre otros idiomas; confirma el idioma al reservar.
 opinionEditorial: Una forma tranquila de combinar el casco viejo de Las Palmas con los pueblos verdes del norte en un día, con guía y transporte propios. Al ser privado y flexible, encaja bien en una escala de crucero y el guía puede adaptar las paradas a lo que más te apetezca ver.
 guiasRelacionadas:
-- what-to-see-in-gran-canaria
+- que-ver-en-gran-canaria
 categoria: toursCiudad
 keywords:
 - tour privado las palmas
