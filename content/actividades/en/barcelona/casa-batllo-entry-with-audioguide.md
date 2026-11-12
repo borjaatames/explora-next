@@ -123,6 +123,9 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+alternativa:
+  slug: casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour
+  motivo: "Prefer a guide, or sold out? This tour of the three Gaudi houses includes Casa Batllo with skip-the-line entry."
 ---
 
 ## What you'll see

@@ -115,6 +115,9 @@ fecha_actualizacion: '2026-05-16'
 guiasRelacionadas:
 - alhambra-como-visitar
 - alhambra-que-tour-elegir
+alternativa:
+  slug: visita-guiada-alhambra-generalife
+  motivo: "Ojo: esta entrada es solo Jardines y Generalife, no incluye los Palacios Nazaríes. Para la Alhambra completa con los palacios, esta visita guiada incluye la entrada."
 ---
 
 # Entrada a los Jardines de la Alhambra y el Generalife (sin Palacios Nazaríes)

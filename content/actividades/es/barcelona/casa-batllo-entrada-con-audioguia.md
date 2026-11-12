@@ -123,6 +123,9 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
+alternativa:
+  slug: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
+  motivo: "¿Prefieres guía o está agotada? Este tour de las tres casas de Gaudí incluye la Casa Batlló con entrada sin colas."
 ---
 
 ## Qué vas a ver

@@ -96,6 +96,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: reina-sofia-visita-guiada-amigo-tours
+  motivo: "Si tu franja está agotada, esta visita guiada incluye la entrada y te lleva directo al Guernica."
 ---
 
 ## Qué vas a ver

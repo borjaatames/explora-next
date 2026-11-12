@@ -117,6 +117,9 @@ fecha: '2026-10-03'
 fecha_actualizacion: '2026-10-03'
 variantes:
 - museo-prado-visita-guiada
+alternativa:
+  slug: museo-prado-visita-guiada
+  motivo: "Las franjas horarias del Prado se agotan rápido. Si no queda la tuya, esta visita guiada incluye la entrada y te salta la cola."
 ---
 
 ## Qué vas a ver

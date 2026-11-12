@@ -107,6 +107,9 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+alternativa:
+  slug: mezquita-catedral-tour-guiado-sin-colas
+  motivo: "Las franjas de la Mezquita se agotan, sobre todo por la mañana. Esta visita guiada sin colas incluye tu entrada."
 ---
 
 ## Qué vas a ver

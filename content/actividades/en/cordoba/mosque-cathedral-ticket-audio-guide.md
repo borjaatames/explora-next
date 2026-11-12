@@ -107,6 +107,9 @@ publicada: true
 destacada: false
 fecha: '2026-10-07'
 fecha_actualizacion: '2026-10-07'
+alternativa:
+  slug: mosque-cathedral-skip-the-line-guided-tour
+  motivo: "Mezquita slots sell out, mornings first. This skip-the-line guided tour includes your ticket."
 ---
 
 ## What you will see

@@ -119,6 +119,9 @@ fecha: '2026-10-03'
 fecha_actualizacion: '2026-10-03'
 variantes:
 - prado-museum-guided-tour
+alternativa:
+  slug: prado-museum-guided-tour
+  motivo: "Prado time slots sell out fast. If yours is gone, this guided tour includes your entry and the queue skip."
 ---
 
 ## What you will see

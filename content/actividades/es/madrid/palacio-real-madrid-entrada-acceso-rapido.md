@@ -73,4 +73,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-11-10'
+alternativa:
+  slug: palacio-real-madrid-tour-guiado-expertos
+  motivo: "Las entradas del Palacio Real se agotan a menudo. Esta visita guiada incluye el acceso sin colas y el contexto de cada sala."
 ---

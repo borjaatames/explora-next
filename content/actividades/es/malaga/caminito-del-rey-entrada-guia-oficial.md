@@ -106,6 +106,9 @@ masReservado: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: caminito-del-rey-guiado-desde-malaga
+  motivo: "Esta entrada no incluye transporte. Desde Málaga, esta visita guiada añade el transporte de ida y vuelta y un guía."
 ---
 
 ## Qué incluye exactamente

@@ -91,6 +91,9 @@ publicada: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: reina-sofia-museum-guided-tour-amigo-tours
+  motivo: "If your slot is sold out, this guided tour includes entry and takes you straight to Guernica."
 ---
 
 ## What you'll see

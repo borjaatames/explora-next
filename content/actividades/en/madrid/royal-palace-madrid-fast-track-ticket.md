@@ -73,4 +73,7 @@ galeria:
 publicada: true
 destacada: false
 fecha: '2026-11-10'
+alternativa:
+  slug: royal-palace-madrid-expert-guided-tour
+  motivo: "Royal Palace tickets often sell out. This guided tour includes skip-the-line entry plus the story behind each room."
 ---

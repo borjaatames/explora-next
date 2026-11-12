@@ -115,6 +115,9 @@ fecha_actualizacion: '2026-05-16'
 guiasRelacionadas:
 - alhambra-how-to-visit
 - alhambra-which-tour-to-choose
+alternativa:
+  slug: alhambra-generalife-guided-tour
+  motivo: "Heads up: this ticket is the Gardens and Generalife only and does not include the Nasrid Palaces. For the full Alhambra with the palaces, this guided tour includes entry."
 ---
 
 # Alhambra Gardens and Generalife Ticket (without Nasrid Palaces)

@@ -155,6 +155,9 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'
+alternativa:
+  slug: seville-cathedral-giralda-guided-tour-fast-track
+  motivo: "If your time slot is sold out, this guided tour includes fast-track entry to the Cathedral and the Giralda."
 ---
 
 ## What you'll see

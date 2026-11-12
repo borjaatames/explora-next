@@ -106,6 +106,9 @@ masReservado: true
 destacada: true
 fecha: '2026-10-17'
 fecha_actualizacion: '2026-10-17'
+alternativa:
+  slug: caminito-del-rey-guided-tour-from-malaga
+  motivo: "This ticket does not include transport. From Malaga, this guided tour adds round-trip transport and a guide."
 ---
 
 ## What exactly is included
