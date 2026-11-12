@@ -95,6 +95,7 @@ export default function HeroHome({
         alt=""
         fill
         priority
+        quality={62}
         sizes="100vw"
         className="object-cover object-[center_40%] -z-10"
       />

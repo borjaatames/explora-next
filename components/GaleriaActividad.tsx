@@ -197,6 +197,7 @@ export default function GaleriaActividad({
                 alt={principal.alt}
                 fill
                 priority
+                quality={62}
                 // En PC la galería ocupa la columna izquierda (2/3 de max-w-6xl ≈ 740 px).
                 sizes={
                   haySecundarias
@@ -263,6 +264,7 @@ export default function GaleriaActividad({
                       // pantalla" en horizontal y Chrome las descarga a la vez
                       // que la principal: baja su prioridad para no frenar el LCP.
                       fetchPriority="low"
+                      quality={55}
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     {esUltimaConRestantes && (

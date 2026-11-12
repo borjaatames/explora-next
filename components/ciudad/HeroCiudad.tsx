@@ -66,6 +66,7 @@ export default function HeroCiudad({
             alt={imagenAlt ?? ""}
             fill
             priority
+            quality={62}
             sizes="100vw"
             className="object-cover -z-10"
           />

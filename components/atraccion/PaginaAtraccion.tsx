@@ -195,6 +195,7 @@ export default function PaginaAtraccion({ idioma, atraccion, ciudad, opciones, g
           alt={atraccion.imagenAlt}
           fill
           priority
+          quality={62}
           sizes="100vw"
           className="object-cover"
         />
