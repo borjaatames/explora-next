@@ -87,14 +87,20 @@ imagenAlt: "Fachadas de colores en el casco viejo de Las Palmas de Gran Canaria"
 galeria:
 - src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
   alt: 'La plaza de Santa Ana, en el casco viejo de Las Palmas'
+- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
+  alt: 'La catedral de Santa Ana, en Vegueta'
+- src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
+  alt: 'Una calle del casco viejo de Las Palmas'
+- src: /images/actividades/gran-canaria/canteras/playa-canteras.webp
+  alt: 'La playa de Las Canteras, en Las Palmas'
 - src: /images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp
   alt: 'Los balcones de madera de la Calle Real de Teror'
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-  alt: 'La cascada de azulejos del Paseo de Canarias de Firgas'
+- src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
+  alt: 'Una calle de Teror con las montañas al fondo'
 - src: /images/actividades/gran-canaria/norte/fgc-plaza-iglesia-arucas.webp
   alt: 'La plaza y la iglesia neogótica de Arucas'
-- src: /images/actividades/gran-canaria/vegueta/fgc-vegueta-desde-campanario.webp
-  alt: 'Vegueta desde el campanario de la catedral de Santa Ana'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'La cascada de azulejos del Paseo de Canarias de Firgas'
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
   alt: 'El puerto de Las Palmas visto desde arriba, entre palmeras'
 ---

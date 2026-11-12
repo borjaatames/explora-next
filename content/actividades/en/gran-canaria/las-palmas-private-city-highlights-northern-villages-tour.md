@@ -87,14 +87,20 @@ imagenAlt: "Colourful house fronts in the old town of Las Palmas de Gran Canaria
 galeria:
 - src: /images/actividades/gran-canaria/vegueta/plaza-santa-ana.webp
   alt: 'Plaza de Santa Ana in the old town of Las Palmas'
+- src: /images/actividades/gran-canaria/vegueta/catedral-santa-ana.webp
+  alt: 'Santa Ana Cathedral in Vegueta'
+- src: /images/actividades/gran-canaria/vegueta/vegueta-calle.webp
+  alt: 'A pedestrian street in the old town of Las Palmas'
+- src: /images/actividades/gran-canaria/canteras/playa-canteras.webp
+  alt: 'Las Canteras beach in Las Palmas'
 - src: /images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp
   alt: 'The wooden balconies of the Calle Real in Teror'
-- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
-  alt: 'The tiled waterfall of the Paseo de Canarias in Firgas'
+- src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
+  alt: 'A street in Teror with mountains behind'
 - src: /images/actividades/gran-canaria/norte/fgc-plaza-iglesia-arucas.webp
   alt: 'The square and neo-Gothic church of Arucas'
-- src: /images/actividades/gran-canaria/vegueta/fgc-vegueta-desde-campanario.webp
-  alt: 'Vegueta seen from the bell tower of Santa Ana Cathedral'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'The tiled waterfall of the Paseo de Canarias in Firgas'
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
   alt: 'The port of Las Palmas seen from above, between palm leaves'
 ---

@@ -86,12 +86,18 @@ galeria:
   alt: 'Los balcones de madera de la Calle Real de Teror'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
   alt: 'La torre de la iglesia neogótica de Arucas'
+- src: /images/actividades/gran-canaria/norte/firgas-paseo-cascada-hero.webp
+  alt: 'La cascada de azulejos del Paseo de Canarias de Firgas'
 - src: /images/actividades/gran-canaria/tejeda/fgc-caldera-tejeda-luz-dorada.webp
   alt: 'La caldera de Tejeda con luz dorada'
+- src: /images/actividades/gran-canaria/roque-nublo/fgc-roque-nublo-desde-tejeda.webp
+  alt: 'El Roque Nublo visto desde la caldera central'
 - src: /images/actividades/gran-canaria/roque-nublo/pico-nieves.webp
   alt: 'La vista desde el Pico de las Nieves, el punto más alto de Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-casas-blancas-fataga.webp
   alt: 'Las casas blancas del pueblo de Fataga'
+- src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
+  alt: 'Palmeras alrededor del pueblo de Fataga'
 - src: /images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-mar.webp
   alt: 'Las dunas de Maspalomas junto al mar'
 ---
