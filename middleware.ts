@@ -103,6 +103,20 @@ function destinoConQuery(path: string, req: NextRequest): URL {
 export function middleware(req: NextRequest) {
   const { pathname } = req.nextUrl;
 
+  // CANONICALIZACIÓN DE HOST: apex (sin www) → www con 301.
+  // El canónico de todo el sitio es www.exploraspain.com (lib/i18n/utils.ts),
+  // pero el apex respondía 200 y Google indexaba las dos versiones, partiendo
+  // la autoridad. Redirigimos SOLO el apex exacto: no afecta a *.vercel.app
+  // (previews) ni a localhost (desarrollo) ni crea bucle con www.
+  const host = (req.headers.get("host") ?? "").split(":")[0].toLowerCase();
+  if (host === "exploraspain.com") {
+    const url = req.nextUrl.clone();
+    url.protocol = "https:";
+    url.host = "www.exploraspain.com";
+    url.port = "";
+    return NextResponse.redirect(url, 301);
+  }
+
   // Todas las rutas del sitio van en minúsculas: /CIUDADES/madrid devolvía
   // 200 con contenido duplicado. Los archivos con punto no pasan por aquí.
   if (/[A-Z]/.test(pathname)) {
