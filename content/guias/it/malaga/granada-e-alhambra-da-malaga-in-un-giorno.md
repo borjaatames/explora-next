@@ -18,6 +18,7 @@ keywords:
 slugs:
   es: granada-alhambra-desde-malaga
   en: granada-alhambra-day-trip-from-malaga
+  de: granada-alhambra-ab-malaga
   fr: grenade-et-alhambra-depuis-malaga
   it: granada-e-alhambra-da-malaga-in-un-giorno
   pt: granada-e-alhambra-desde-malaga-num-dia

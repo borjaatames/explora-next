@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: caminito-del-rey-por-libre-grupo-o-privado
   en: caminito-del-rey-independent-group-or-private
+  de: caminito-del-rey-allein-gruppe-oder-privat
   fr: caminito-del-rey-seul-en-groupe-ou-prive
   it: caminito-del-rey-da-soli-in-gruppo-o-privato
   pt: caminito-del-rey-por-conta-propria-grupo-ou-privado
