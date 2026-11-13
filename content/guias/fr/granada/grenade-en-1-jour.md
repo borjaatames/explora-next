@@ -21,6 +21,7 @@ keywords:
 slugs:
   es: granada-en-1-dia
   en: granada-in-1-day
+  de: granada-in-einem-tag
   fr: grenade-en-1-jour
   it: granada-in-1-giorno
   pt: granada-num-dia

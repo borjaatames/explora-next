@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: barcelona-en-2-dias
   en: barcelona-in-2-days
+  de: barcelona-in-2-tagen
   fr: barcelone-en-2-jours
   it: barcellona-in-2-giorni
   pt: barcelona-em-2-dias

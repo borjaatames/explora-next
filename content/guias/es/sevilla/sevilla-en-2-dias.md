@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: sevilla-en-2-dias
   en: seville-in-2-days
+  de: sevilla-in-2-tagen
   fr: seville-en-2-jours
   it: siviglia-in-2-giorni
   pt: sevilha-em-2-dias

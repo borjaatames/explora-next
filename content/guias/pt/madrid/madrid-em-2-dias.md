@@ -22,6 +22,7 @@ keywords:
 slugs:
   es: madrid-en-2-dias
   en: madrid-in-2-days
+  de: madrid-in-2-tagen
   fr: madrid-en-2-jours
   it: madrid-in-2-giorni
   pt: madrid-em-2-dias
