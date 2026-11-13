@@ -4,8 +4,8 @@ descripcion: "Hen or stag do in Barcelona: private rooftop beer tasting for €5
 metaTitle: "Hen and stag party in Barcelona: ideas and rules"
 categoria: "barcelona"
 slug: "hen-and-stag-party-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

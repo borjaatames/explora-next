@@ -4,8 +4,8 @@ descripcion: "Costa Brava Ausflüge ab Girona: Dalí-Museum in Figueres (15 Min.
 metaTitle: "Costa Brava Ausflüge ab Girona"
 categoria: "girona"
 slug: "costa-brava-ausfluege-ab-girona"
-fecha: "2026-05-12"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Qué ver en Ronda en un día: Puente Nuevo, Plaza de Toros (10 €
 metaTitle: 'Qué ver en Ronda en un día: ruta y precios'
 categoria: malaga
 slug: que-ver-en-ronda-en-un-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-13"
+fecha_actualizacion: "2026-10-30"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

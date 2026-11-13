@@ -4,8 +4,8 @@ descripcion: "Comment aller de Malaga à Ronda en une journée : voiture, bus, t
 respuestaCorta: 'Ronda se trouve à **environ 100 km de Malaga, soit 1 h 45 en voiture**. En **bus**, comptez environ 2 heures, et il n''y a pas de train direct. Le plus simple sans voiture est une **excursion en groupe** (à partir de 34 €, avec Setenil de las Bodegas) ; en **privé**, à partir de 580 € pour 2 personnes ou 720 € pour 4. Une journée suffit pour le Tajo, le Puente Nuevo et la vieille ville.'
 categoria: "malaga"
 slug: "ronda-depuis-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-14"
+fecha_actualizacion: "2026-09-29"
 autor: Borja
 publicada: true
 destacada: false

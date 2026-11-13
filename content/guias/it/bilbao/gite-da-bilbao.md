@@ -3,8 +3,8 @@ titulo: "Gite da Bilbao: Gaztelugatxe, San Sebastián e la costa basca"
 descripcion: "Le migliori gite di un giorno da Bilbao: Gaztelugatxe, San Sebastián, Urdaibai e Mundaka, Gernika e la Rioja Alavesa. Come arrivare e cosa vedere."
 categoria: "bilbao"
 slug: "gite-da-bilbao"
-fecha: "2026-04-26"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

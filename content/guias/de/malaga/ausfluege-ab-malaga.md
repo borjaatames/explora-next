@@ -5,8 +5,8 @@ metaTitle: "Ausflüge ab Málaga: Ronda, Nerja & Co."
 respuestaCorta: 'Die besten Tagesausflüge ab Málaga sind **Nerja und Frigiliana** (eine Stunde; Höhlen etwa 16 €), **Antequera und El Torcal** (45 Minuten), **Ronda** (1 Std. 45 Min. mit dem Auto, 2 Stunden mit dem Bus) und **Gibraltar** (mit Personalausweis oder Reisepass). Mach einen Ausflug pro Tag: Ronda und Gibraltar füllen bereits einen ganzen Tag, und organisierte Touren gibt es ab 35 €.'
 categoria: "malaga"
 slug: "ausfluege-ab-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

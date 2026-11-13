@@ -4,8 +4,8 @@ descripcion: "Guida onesta di 3 giorni a Siviglia: Alcázar, Cattedrale, Triana 
 respuestaCorta: 'Tre giorni bastano per Siviglia senza fretta: **il giorno 1, il Real Alcázar** (15,50 € online, con qualche giorno d''anticipo), la Cattedrale e la Giralda, e Plaza de España al tramonto; **il giorno 2, Triana** e il fiume al tramonto; il giorno 3, la città con calma o **le rovine romane di Italica**, a 9 km. I mesi migliori sono da marzo a maggio, ottobre e novembre.'
 categoria: "sevilla"
 slug: "siviglia-in-3-giorni"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Alhambra Führung im Vergleich: Sechs Touren sind dieselbe 3-Stund
 metaTitle: 'Alhambra Führung: welche Tour buchen?'
 categoria: "granada"
 slug: "alhambra-welche-tour-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: false

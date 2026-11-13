@@ -4,8 +4,8 @@ descripcion: "As melhores escapadinhas de um dia a partir de Valência: a Albufe
 respuestaCorta: 'A escapadinha imprescindível a partir de Valência é a **Albufera**, a 20 minutos: passeio de barco entre arrozais e paella em El Palmar. Para história, **Sagunto** (30 minutos de comboio suburbano) e **Xàtiva** (45 minutos) têm castelos espetaculares; para praia com castelo, **Peñíscola**, a hora e meia. Em excursão organizada, Guadalest, Altea e Fuentes del Algar desde 55 €.'
 categoria: "valencia"
 slug: "escapadinhas-a-partir-de-valencia"
-fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

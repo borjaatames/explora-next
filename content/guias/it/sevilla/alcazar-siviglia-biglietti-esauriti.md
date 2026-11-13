@@ -4,8 +4,8 @@ descripcion: 'Biglietti Alcázar di Siviglia esauriti? La biglietteria tiene poc
 metaTitle: 'Alcázar Siviglia biglietti esauriti: che fare'
 categoria: sevilla
 slug: alcazar-siviglia-biglietti-esauriti
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Feria de Abril di Siviglia 2027: date, casetas aperte e come viverla se
 descripcion: "Feria de Abril 2027 (12-18 aprile): alumbrado, casetas pubbliche, sfilata dei cavalli, cosa bere e come arrivare. Guida pratica per visitarla anche se non conosci nessuno."
 categoria: "sevilla"
 slug: "feria-de-abril-siviglia"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

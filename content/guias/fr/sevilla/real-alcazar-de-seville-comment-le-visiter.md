@@ -4,8 +4,8 @@ descripcion: 'Billet Real Alcázar de Séville : 15,50 € plein tarif, 2 h 30 �
 metaTitle: 'Billet Alcázar de Séville : prix et visite'
 categoria: sevilla
 slug: real-alcazar-de-seville-comment-le-visiter
-fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

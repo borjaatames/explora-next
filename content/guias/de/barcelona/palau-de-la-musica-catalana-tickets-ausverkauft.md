@@ -4,8 +4,8 @@ descripcion: 'Palau de la Música Catalana: 20 € auf eigene Faust, 24 € mit 
 metaTitle: 'Palau de la Música Tickets: Besuch & Preis'
 categoria: barcelona
 slug: palau-de-la-musica-catalana-tickets-ausverkauft
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-11-03"
 autor: Borja
 publicada: true
 destacada: false

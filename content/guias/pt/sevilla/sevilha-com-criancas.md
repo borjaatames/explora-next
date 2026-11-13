@@ -3,8 +3,8 @@ titulo: 'O que fazer em Sevilha com crianças: guia honesto 2026'
 descripcion: 'O que fazer em Sevilha com crianças de várias idades sem cair no óbvio: monumentos que as cativam, o que saltar, onde comer e armadilhas a evitar.'
 categoria: sevilla
 slug: sevilha-com-criancas
-fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

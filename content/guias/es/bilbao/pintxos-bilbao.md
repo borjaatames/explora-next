@@ -4,8 +4,8 @@ descripcion: "Guía de pintxos en Bilbao: dónde ir de txikiteo (Plaza Nueva, Ca
 respuestaCorta: 'Ve de barra en barra por la **Plaza Nueva y el Casco Viejo**, o por Ledesma y García Rivero en el Ensanche, con **uno o dos pintxos por bar**. Empieza con una Gilda y pregunta por los calientes de cocina. Cuenta **2-3,50 € el pintxo frío y 4-6 € el caliente**; una cena de txikiteo sale por 25-35 € por persona.'
 categoria: "bilbao"
 slug: "pintxos-bilbao"
-fecha: "2026-04-04"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

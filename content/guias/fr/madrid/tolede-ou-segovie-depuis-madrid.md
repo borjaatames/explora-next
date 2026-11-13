@@ -3,8 +3,8 @@ titulo: 'Tolède ou Ségovie ? Quelle excursion choisir depuis Madrid'
 descripcion: 'Tolède ou Ségovie depuis Madrid : train et bus avec durées et prix, que voir dans chacune, combien de temps prévoir, billets et un verdict clair selon votre voyage.'
 categoria: madrid
 slug: tolede-ou-segovie-depuis-madrid
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: false

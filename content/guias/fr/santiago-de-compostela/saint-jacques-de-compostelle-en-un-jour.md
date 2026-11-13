@@ -4,8 +4,8 @@ descripcion: "Que voir à Saint-Jacques-de-Compostelle en un jour : cathédrale,
 respuestaCorta: 'Oui, **Saint-Jacques se visite bien en un jour** : commencez à 9 h 30 sur l''Obradoiro et à la cathédrale (entrée gratuite ; le **Pórtico de la Gloria exige une réservation**), continuez par les places et la Rúa do Franco, déjeunez au **Mercado de Abastos**, où l''on vous cuisine ce que vous achetez pour 4-6 €, et terminez au coucher du soleil dans l''**Alameda**. La visite à pied avec un guide officiel commence à 10 €.'
 categoria: "santiago-de-compostela"
 slug: "saint-jacques-de-compostelle-en-un-jour"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

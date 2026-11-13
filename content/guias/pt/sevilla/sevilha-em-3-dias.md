@@ -4,8 +4,8 @@ descripcion: "Guia honesto de 3 dias em Sevilha: Alcázar, Catedral, Triana e ce
 respuestaCorta: 'Três dias dão para Sevilha sem pressas: **no dia 1, o Real Alcázar** (15,50 € online, com dias de antecedência), a Catedral e a Giralda, e a Plaza de España ao pôr do sol; **no dia 2, Triana** e o rio ao pôr do sol; no dia 3, a cidade com calma ou **as ruínas romanas de Itálica**, a 9 km. Os melhores meses são de março a maio, outubro e novembro.'
 categoria: "sevilla"
 slug: "sevilha-em-3-dias"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

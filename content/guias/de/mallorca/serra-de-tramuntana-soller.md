@@ -3,8 +3,8 @@ titulo: "Serra de Tramuntana und Sóller: eine Route durch das bergige Mallorca"
 descripcion: "Ratgeber Serra de Tramuntana: Valldemossa, Deià, Sóller und sein Zug, Sa Calobra und die Aussichtspunkte. Route mit Auto oder Zug, was man sehen sollte und wann man fahren sollte."
 categoria: "mallorca"
 slug: "serra-de-tramuntana-soller"
-fecha: "2026-03-18"
-fecha_actualizacion: "2026-03-18"
+fecha: "2026-09-15"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

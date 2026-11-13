@@ -4,8 +4,8 @@ descripcion: "Romantic things to do in Barcelona: sunset sailing with an open ba
 metaTitle: "Romantic things to do in Barcelona, with prices"
 categoria: "barcelona"
 slug: "romantic-things-to-do-in-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

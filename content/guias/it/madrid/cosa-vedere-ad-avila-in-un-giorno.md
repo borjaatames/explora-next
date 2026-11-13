@@ -4,8 +4,8 @@ descripcion: 'Cosa vedere ad Ávila in un giorno da Madrid: camminata sulle mura
 metaTitle: 'Cosa vedere ad Ávila in un giorno da Madrid'
 categoria: madrid
 slug: cosa-vedere-ad-avila-in-un-giorno
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

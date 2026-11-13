@@ -3,8 +3,8 @@ titulo: "Cádiz Carnival: a guide to experiencing it (when, where and how)"
 descripcion: "Cádiz Carnival 2027 (4–14 February): the Falla final, chirigotas and comparsas, the street carnival, key days, trains and where to stay."
 categoria: "cadiz"
 slug: "cadiz-carnival"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

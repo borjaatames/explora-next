@@ -3,8 +3,8 @@ titulo: 'Billets du musée Picasso de Barcelone épuisés : que faire'
 descripcion: 'Si votre horaire au Museu Picasso est complet ou si vous n''obtenez pas de place gratuite : autres horaires sur le site officiel, le guichet, l''entrée gratuite sur réservation, l''Articket BCN et les visites guidées coupe-file.'
 categoria: barcelona
 slug: musee-picasso-barcelone-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

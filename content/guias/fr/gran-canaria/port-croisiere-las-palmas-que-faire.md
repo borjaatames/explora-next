@@ -4,8 +4,8 @@ descripcion: "Croisière à Las Palmas : Las Canteras à 10-15 min à pied, Vegu
 metaTitle: "Croisière à Las Palmas : que faire pendant l'escale"
 categoria: "gran-canaria"
 slug: "port-croisiere-las-palmas-que-faire"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-09"
 autor: Borja
 publicada: true
 destacada: false

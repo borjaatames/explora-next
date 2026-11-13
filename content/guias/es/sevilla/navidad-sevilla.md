@@ -3,8 +3,8 @@ titulo: "Navidad en Sevilla 2026: luces, mapping de San Francisco, belenes y Cab
 descripcion: "Navidad en Sevilla 2026: mapping de San Francisco (18:30-23:00), Feria del Belén, mercadillos, dulces de convento, zambombas, Cabalgata y festivos."
 categoria: "sevilla"
 slug: "navidad-sevilla"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

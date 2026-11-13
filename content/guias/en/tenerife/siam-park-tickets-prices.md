@@ -4,7 +4,7 @@ descripcion: 'Siam Park tickets 2026: €44 adults, €32 children aged 3-11. Tw
 metaTitle: 'Siam Park tickets: prices and Twin Ticket'
 categoria: tenerife
 slug: siam-park-tickets-prices
-fecha: '2026-11-04'
+fecha: "2026-05-30"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

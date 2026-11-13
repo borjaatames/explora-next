@@ -4,8 +4,8 @@ descripcion: 'Si le Tour Bernabéu affiche complet : prix officiel (37 € en li
 metaTitle: 'Tour Bernabéu complet : que faire'
 categoria: madrid
 slug: visite-bernabeu-billets-epuises
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-09-22"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Entradas al Monasterio de El Escorial: 14 € la general y 22 € 
 metaTitle: 'Entradas El Escorial: precio y gratis'
 categoria: madrid
 slug: el-escorial-entradas-agotadas
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

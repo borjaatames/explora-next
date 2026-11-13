@@ -4,8 +4,8 @@ descripcion: "O que ver em Bilbau num dia: Museu Guggenheim, Casco Viejo, Mercad
 respuestaCorta: 'Bilbau vê-se num dia a pé seguindo a ria: o **Guggenheim** logo de manhã (bilhete online com horário; fecha à segunda, exceto em julho e agosto), o Casco Viejo e as **Siete Calles**, **pintxos na Plaza Nueva** à hora de almoço, o Mercado de la Ribera e o **funicular de Artxanda** ao entardecer. Se tiver mais tempo, Gaztelugatxe fica a meia hora.'
 categoria: "bilbao"
 slug: "bilbau-num-dia"
-fecha: "2026-03-13"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: true

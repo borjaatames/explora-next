@@ -4,8 +4,8 @@ descripcion: "Madrid con bambini e ragazzi: zoo, parco divertimenti, musei che a
 respuestaCorta: 'L''attività per famiglie più affidabile di Madrid è lo **Zoo Aquarium** della Casa de Campo (da 20 € online); con bambini dagli 8 anni in su, il **Parque de Atracciones** accanto (da 24 €) è di solito il ricordo più bello. Aggiungi i dinosauri del **Museo di Scienze Naturali** (7 €) e le barche del **Retiro**, e programma una sola attività grande al giorno.'
 categoria: "madrid"
 slug: "madrid-con-bambini"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

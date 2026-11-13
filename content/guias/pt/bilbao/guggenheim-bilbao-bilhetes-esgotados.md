@@ -3,8 +3,8 @@ titulo: 'Guggenheim Bilbau esgotado ou com filas: o que fazer'
 descripcion: 'Se o seu horário no Guggenheim está cheio ou a fila da bilheteira não anda: outros horários no site oficial, a bilheteira, as segundas-feiras em que abre, as obras exteriores gratuitas e visitas guiadas com entrada.'
 categoria: bilbao
 slug: guggenheim-bilbao-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

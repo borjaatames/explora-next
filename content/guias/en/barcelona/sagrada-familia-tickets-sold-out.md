@@ -4,8 +4,8 @@ descripcion: 'Sagrada Familia tickets sold out? They go on sale about two months
 metaTitle: 'Sagrada Familia sold out: what to do'
 categoria: barcelona
 slug: sagrada-familia-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

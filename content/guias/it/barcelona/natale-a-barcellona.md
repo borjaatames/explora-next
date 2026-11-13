@@ -3,8 +3,8 @@ titulo: "Natale a Barcellona 2026: luci, mercatino di Santa Llúcia, Capodanno e
 descripcion: "Natale a Barcellona 2026: mercatino di Santa Llúcia, luci su 130 km di strade, presepe, caga tió, Capodanno a Montjuïc, Cabalgata e orari dei giorni festivi."
 categoria: "barcelona"
 slug: "natale-a-barcellona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

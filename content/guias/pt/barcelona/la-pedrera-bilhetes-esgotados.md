@@ -3,8 +3,8 @@ titulo: 'Bilhetes de La Pedrera esgotados: o que fazer e que opções restam'
 descripcion: 'Se o site oficial de La Pedrera (Casa Milà) não tem vagas: outros horários e modalidades, o bilhete de data aberta, a visita ao amanhecer, a Night Experience, a bilheteira, a revenda e o que ver sem bilhete no Passeig de Gràcia.'
 categoria: barcelona
 slug: la-pedrera-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

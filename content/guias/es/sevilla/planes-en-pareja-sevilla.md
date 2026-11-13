@@ -4,8 +4,8 @@ descripcion: "Planes en pareja en Sevilla: azoteas al atardecer en privado (384 
 metaTitle: "Planes en pareja en Sevilla: románticos y con precios"
 categoria: "sevilla"
 slug: "planes-en-pareja-sevilla"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-12"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

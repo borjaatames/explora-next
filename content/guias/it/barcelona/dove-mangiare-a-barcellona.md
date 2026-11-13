@@ -4,8 +4,8 @@ descripcion: "Dove mangiare bene a Barcellona: tapas autentiche, cene catalane, 
 respuestaCorta: 'Mangia dove mangiano i barcellonesi: **Sant Antoni, Born, Gràcia e Poble Sec**, mai sulle Ramblas. Fai il **vermut alla spina** a mezzogiorno nel weekend, ordina bomba, pa amb tomàquet e fideuà invece di paella o sangria, e prenota da Bar Cañete, Cal Pep e Bar del Pla. Si cena **dalle 20:30**.'
 categoria: "barcelona"
 slug: "dove-mangiare-a-barcellona"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "What to see in Santiago in one day: Cathedral, Obradoiro, old town
 respuestaCorta: 'Start at 9:30 in the **Plaza del Obradoiro** and the **Cathedral**, with Master Mateo''s Pórtico de la Gloria, then walk its four squares and the arcaded Rúa do Franco and Rúa do Vilar. Stop at the **Mercado de Abastos** before lunch and end at **Alameda park** for the best view of the towers at sunset. An old-town walking tour with an official guide costs from €10.'
 categoria: "santiago-de-compostela"
 slug: "santiago-in-one-day"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Guida di Fuerteventura: le Dune di Corralejo, l''Isola di Lobos, C
 respuestaCorta: 'Calcola **cinque o sei giorni** e **noleggia un''auto**: il nord (Dune di Corralejo, **Isola di Lobos**, Calderón Hondo, El Cotillo), il centro (Betancuria e Ajuy) e Jandía (Sotavento, Morro Jable e **Cofete**). Per Lobos serve un **permesso gratuito** del Cabildo e il traghetto andata e ritorno costa da 17 €. Dormi a Corralejo per il nord e a Costa Calma o Morro Jable per il sud.'
 categoria: fuerteventura
 slug: cosa-vedere-a-fuerteventura
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-09-12"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: true

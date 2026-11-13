@@ -3,8 +3,8 @@ titulo: 'Was man auf Teneriffa sehen sollte: Teide, La Laguna, Masca, Garachico 
 descripcion: 'Teneriffa-Reiseführer: Teide, La Laguna, La Orotava, Garachico, Masca, Los Gigantes, Anaga und die Wale im Süden. Wie viele Tage, wo man wohnt und wie man sich fortbewegt.'
 categoria: tenerife
 slug: was-sehen-auf-teneriffa
-fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-12"
 autor: Borja
 publicada: true
 destacada: true

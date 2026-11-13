@@ -3,8 +3,8 @@ titulo: "Natale a Granada 2026: luminarie, mercatini, Alhambra in inverno, Sierr
 descripcion: "Natale a Granada 2026: luminarie di Plaza del Carmen, mercatini, Alhambra nei festivi (chiude il 25 dic e il 1° gen), Sierra Nevada, Cabalgata e Toma."
 categoria: "granada"
 slug: "natale-a-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

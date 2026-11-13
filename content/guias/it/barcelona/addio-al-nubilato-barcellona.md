@@ -4,8 +4,8 @@ descripcion: "Addio al nubilato a Barcellona: degustazione di birra privata in t
 metaTitle: "Addio al nubilato o al celibato a Barcellona: attività e regole"
 categoria: "barcelona"
 slug: "addio-al-nubilato-barcellona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

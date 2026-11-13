@@ -4,8 +4,8 @@ descripcion: 'Granada em 2 dias: Alhambra (e o que fazer se não houver bilhetes
 respuestaCorta: 'Dois dias chegam se **reservar a Alhambra com pelo menos três semanas** (22,27 € no site oficial) e dividir a cidade em duas: no primeiro dia, Alhambra de manhã, Albaicín ao entardecer e **zambra no Sacromonte**; no segundo, Capilla Real, Catedral e a **Cartuja barroca**. Se não houver bilhetes de dia, a alternativa é a visita noturna aos Palácios Nasridas (12,73 €).'
 categoria: "granada"
 slug: "granada-em-2-dias"
-fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-10-31"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

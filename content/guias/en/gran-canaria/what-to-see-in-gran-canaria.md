@@ -4,8 +4,8 @@ descripcion: 'Gran Canaria guide: the Maspalomas Dunes, Roque Nublo, Vegueta, La
 respuestaCorta: 'Plan **four or five days**: one for **Las Palmas** (Vegueta''s old town and Las Canteras beach), one for the **summits** (Roque Nublo, Tejeda and Pico de las Nieves, 1,949 m), one for the northern towns and the rest for the Maspalomas Dunes and Puerto de Mogán. **Hire a car** for the interior; a camel ride through the dunes costs from €18.'
 categoria: gran-canaria
 slug: what-to-see-in-gran-canaria
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: true

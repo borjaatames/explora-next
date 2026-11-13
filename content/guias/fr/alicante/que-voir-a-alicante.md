@@ -4,8 +4,8 @@ descripcion: "Guide d'Alicante en un ou deux jours : château de Santa Bárbara,
 respuestaCorta: "Une journée suffit pour la ville : commencez par le **château de Santa Bárbara** à 9 h 30 (prenez l'ascenseur en face de la plage du Postiguet), descendez par le **quartier de Santa Cruz** et la vieille ville, flânez sur l'Explanada et terminez par une baignade au Postiguet. Avec une deuxième journée, ajoutez l'**île de Tabarca**, une réserve marine accessible en bateau depuis le port, avec des billets aller-retour **à partir de 25 €**."
 categoria: "alicante"
 slug: "que-voir-a-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

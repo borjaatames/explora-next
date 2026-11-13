@@ -4,8 +4,8 @@ descripcion: "Scalo in crociera a Palma: dove attracca la nave, bus EMT linea 1 
 metaTitle: "Porto di Palma in crociera: cosa fare durante lo scalo"
 categoria: "mallorca"
 slug: "porto-crociere-palma-cosa-fare"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

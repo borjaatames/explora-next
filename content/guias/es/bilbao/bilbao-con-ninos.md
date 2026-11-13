@@ -4,8 +4,8 @@ descripcion: "Guía de Bilbao con niños: funicular de Artxanda, esculturas del 
 respuestaCorta: 'Bilbao es muy cómoda con niños: llana junto a la ría, con el **funicular de Artxanda** (3 minutos de subida, cada 15 minutos), las esculturas del Guggenheim gratis por fuera y playas familiares en **Plentzia y Gorliz** a unos 40 minutos en la línea 1 de metro. Compra la **tarjeta Barik** (3 €) al llegar: una sola sirve para toda la familia en metro, tranvía y funicular.'
 categoria: "bilbao"
 slug: "bilbao-con-ninos"
-fecha: "2026-04-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-11"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: false

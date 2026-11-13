@@ -3,8 +3,8 @@ titulo: 'Timanfaya besuchen: Tickets mit Uhrzeit, Anfahrt und was du siehst'
 descripcion: 'So besuchst du 2026 den Nationalpark Timanfaya: das 30-€-Ticket nur online und mit Zeitfenster, ob man mit dem Auto hineinfahren darf, die Vulkanroute, El Diablo, die kostenlosen Rangerwanderungen und die beste Uhrzeit.'
 categoria: lanzarote
 slug: timanfaya-besuchen
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

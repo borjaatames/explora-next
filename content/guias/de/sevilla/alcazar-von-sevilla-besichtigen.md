@@ -4,8 +4,8 @@ descripcion: 'Alcázar Sevilla Tickets: 15,50 € regulär, ab 9:30 Uhr geöffne
 metaTitle: 'Alcázar Sevilla Tickets: Preis und Tipps 2026'
 categoria: "sevilla"
 slug: "alcazar-von-sevilla-besichtigen"
-fecha: "2026-04-29"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

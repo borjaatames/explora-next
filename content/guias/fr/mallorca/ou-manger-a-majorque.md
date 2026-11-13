@@ -4,8 +4,8 @@ descripcion: "Guide pour bien manger à Majorque : ensaïmada, sobrasada, pa amb
 respuestaCorta: 'Pour manger vraiment majorquin, allez dans l''intérieur des terres, dans les **cellers d''Inca, Sineu ou Algaida**, où le menu du jour coûte environ **15-20 €**. Commandez pa amb oli, tumbet, frit ou arròs brut, goûtez la **sobrasada au miel** et achetez l''ensaïmada dans une boulangerie de tradition de Palma. Évitez le front de mer de Magaluf et de s''Arenal.'
 categoria: "mallorca"
 slug: "ou-manger-a-majorque"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

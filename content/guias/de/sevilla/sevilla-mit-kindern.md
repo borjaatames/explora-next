@@ -3,8 +3,8 @@ titulo: "Was tun in Sevilla mit Kindern: ehrlicher Guide 2026"
 descripcion: "Was man in Sevilla mit Kindern verschiedener Altersgruppen unternimmt, ohne auf das Offensichtliche hereinzufallen: Monumente, die wirklich begeistern, was man auslässt, wo man isst und Fallen, die man vermeidet."
 categoria: "sevilla"
 slug: "sevilla-mit-kindern"
-fecha: "2026-05-01"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

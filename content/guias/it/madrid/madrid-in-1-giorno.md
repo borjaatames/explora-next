@@ -3,8 +3,8 @@ titulo: "Madrid in 1 giorno: itinerario a piedi dal Prado al Tempio di Debod, or
 descripcion: "Madrid in un giorno a piedi: il Prado alle 10:00 (15 €), Barrio de las Letras, Sol, Plaza Mayor, il Palazzo Reale (18 €) e il tramonto al Debod. Orari, distanze e budget."
 categoria: "madrid"
 slug: "madrid-in-1-giorno"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: 'Biglietti per il Guggenheim Bilbao esauriti o code: cosa fare'
 descripcion: 'Se il tuo orario al Guggenheim risulta pieno o la coda in biglietteria non avanza: altri orari sul sito ufficiale, la biglietteria, i lunedì di apertura, le opere gratuite all''esterno e le visite guidate con biglietto.'
 categoria: bilbao
 slug: guggenheim-bilbao-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

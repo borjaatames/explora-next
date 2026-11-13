@@ -3,8 +3,8 @@ titulo: "Beaches of Cádiz and the Costa de la Luz: the best and how to choose"
 descripcion: "The best beaches of Cádiz and the Costa de la Luz: La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca and Tarifa. Which to choose, the levante wind and tips."
 categoria: "cadiz"
 slug: "cadiz-beaches-costa-de-la-luz"
-fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Segovia Sehenswürdigkeiten an einem Tag: Aquädukt, Kathedrale (4
 metaTitle: 'Segovia Sehenswürdigkeiten: Tagesausflug'
 categoria: madrid
 slug: segovia-sehenswuerdigkeiten-tagesausflug
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

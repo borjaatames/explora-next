@@ -3,8 +3,8 @@ titulo: "Madrid, Tolède et Ségovie en 4 jours : itinéraire avec trains, horai
 descripcion: "4 jours avec Madrid pour base : 2 jours en ville (Palais royal, Prado, Retiro), Tolède en Avant (33 min) et Ségovie (environ 30 min). Trains, billets, quoi réserver et budget."
 categoria: "madrid"
 slug: "madrid-tolede-segovie-en-4-jours"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-28"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

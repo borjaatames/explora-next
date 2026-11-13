@@ -3,8 +3,8 @@ titulo: "Day trips from Bilbao: Gaztelugatxe, San Sebastián and the Basque coas
 descripcion: "The best day trips from Bilbao: Gaztelugatxe, San Sebastián, Urdaibai and Mundaka, Gernika and the Rioja Alavesa. How to get there and what to see."
 categoria: "bilbao"
 slug: "day-trips-from-bilbao"
-fecha: "2026-04-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

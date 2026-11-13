@@ -4,8 +4,8 @@ descripcion: "Despedida em Sevilha: tuk-tuk privado por 99 € até 4, flamenco 
 metaTitle: "Despedida de solteira ou solteiro em Sevilha: ideias e regras"
 categoria: "sevilla"
 slug: "despedida-de-solteira-sevilha"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

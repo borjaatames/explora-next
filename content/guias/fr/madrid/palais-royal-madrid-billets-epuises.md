@@ -4,8 +4,8 @@ descripcion: 'Palais royal de Madrid : billet à 18 € en ligne, visite guidée
 metaTitle: 'Palais royal Madrid billet : prix et gratuité'
 categoria: madrid
 slug: palais-royal-madrid-billets-epuises
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

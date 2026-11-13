@@ -4,8 +4,8 @@ descripcion: "Wie du die Alhambra und Granada als Tagesausflug ab Málaga siehst
 respuestaCorta: 'Granada liegt **1,5 Std. mit dem Auto** von Málaga und knapp 2 Stunden mit dem Bus. Man kann die Alhambra an einem Tag sehen, aber **die Tickets für die Nasridenpaläste haben eine feste Zeit und sind ausverkauft**: kauf zuerst das Ticket und plan die Reise drumherum. Ohne Auto und ohne Lust auf Aufwand umfasst die [private Tour](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) (nur auf Spanisch und Englisch) Transport, Tickets und Guide (397 € pro Person, mindestens 2).'
 categoria: "malaga"
 slug: "granada-alhambra-ab-malaga"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-15"
 autor: Borja
 publicada: true
 destacada: false

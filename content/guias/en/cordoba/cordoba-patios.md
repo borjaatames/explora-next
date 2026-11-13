@@ -3,8 +3,8 @@ titulo: "The Patios of Córdoba: when to see them and how (festival and year-rou
 descripcion: "The Patios of Córdoba: May festival dates and hours, the best quarters (San Basilio, Santa Marina), the Viana Palace year-round and how to avoid the queues."
 categoria: "cordoba"
 slug: "cordoba-patios"
-fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

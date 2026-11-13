@@ -4,8 +4,8 @@ descripcion: 'Flamenco Sevilla: Wir vergleichen die 5 buchbaren Shows von 24 bis
 metaTitle: 'Flamenco Sevilla: die 5 Shows im Vergleich'
 categoria: "sevilla"
 slug: "flamenco-sevilla-welches-tablao-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

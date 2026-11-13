@@ -4,8 +4,8 @@ descripcion: 'Grenade en 2 jours : l''Alhambra (et que faire s''il ne reste plus
 respuestaCorta: 'Deux jours suffisent si vous **réservez l''Alhambra au moins trois semaines à l''avance** (22,27 € sur le site officiel) et coupez la ville en deux : le premier jour, l''Alhambra le matin, l''Albaicín au coucher du soleil et une **zambra au Sacromonte** ; le second, la Chapelle royale, la cathédrale et la **Cartuja baroque**. S''il ne reste pas de billets de jour, l''alternative est la visite nocturne des palais nasrides (12,73 €).'
 categoria: "granada"
 slug: "grenade-en-2-jours"
-fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-10-31"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

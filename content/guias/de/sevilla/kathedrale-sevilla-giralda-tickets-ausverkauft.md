@@ -4,8 +4,8 @@ descripcion: 'Kathedrale Sevilla Tickets mit Giralda: 14 € an der Kasse an der
 metaTitle: 'Kathedrale Sevilla Tickets: Preis und Giralda'
 categoria: sevilla
 slug: kathedrale-sevilla-giralda-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

@@ -5,8 +5,8 @@ metaTitle: 'Toledo, o que visitar: 15 locais e preços'
 respuestaCorta: 'O essencial de Toledo é a **Catedral Primaz (12 €)**, **Santo Tomé** com *O Enterro do Senhor de Orgaz* de El Greco, a **Judiaria** (Sinagoga do Tránsito, Santa María la Blanca e San Juan de los Reyes) e o **Mirador del Valle** ao pôr do sol. Se for entrar em três ou mais monumentos pequenos, a **pulseira turística de 14 €** cobre sete. Num dia veem-se bem seis a oito locais; em dois, toda esta lista.'
 categoria: madrid
 slug: o-que-ver-em-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-29"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

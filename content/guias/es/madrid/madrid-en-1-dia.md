@@ -3,8 +3,8 @@ titulo: "Madrid en 1 día: ruta a pie del Prado al Templo de Debod, hora a hora"
 descripcion: "Madrid en un día a pie: Prado a las 10:00 (15 €), Barrio de las Letras, Sol, Plaza Mayor, Palacio Real (18 €) y atardecer en Debod. Horarios, tiempos y presupuesto."
 categoria: "madrid"
 slug: "madrid-en-1-dia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

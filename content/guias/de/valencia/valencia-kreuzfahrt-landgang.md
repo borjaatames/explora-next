@@ -4,8 +4,8 @@ descripcion: "Kreuzfahrt-Landgang in Valencia: Das Terminal liegt etwa 5 km von 
 metaTitle: "Valencia Landgang: Kreuzfahrthafen und Tipps"
 categoria: "valencia"
 slug: "valencia-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

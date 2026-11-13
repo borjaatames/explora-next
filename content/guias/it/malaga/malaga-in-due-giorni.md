@@ -3,8 +3,8 @@ titulo: "Malaga in due giorni: un percorso intelligente tra musei e mare"
 descripcion: "Cosa vedere a Malaga in due giorni: Alcazaba, Cattedrale, Museo Picasso, Caminito del Rey e spiagge. Percorso ora per ora, dove mangiare, dove dormire e cosa evitare."
 categoria: "malaga"
 slug: "malaga-in-due-giorni"
-fecha: "2026-02-28"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-26"
+fecha_actualizacion: "2026-11-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

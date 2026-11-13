@@ -3,8 +3,8 @@ titulo: 'Guggenheim Bilbao tickets sold out or queues: what to do'
 descripcion: 'If your Guggenheim time is full or the box office queue isn''t moving: other times on the official site, the box office, the Mondays it opens, the free outdoor works and guided tours with entry.'
 categoria: bilbao
 slug: guggenheim-bilbao-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

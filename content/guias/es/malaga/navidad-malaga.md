@@ -3,8 +3,8 @@ titulo: "Navidad en Málaga 2026: luces de calle Larios (horarios de pases), bel
 descripcion: "Navidad en Málaga 2026: pases de luces en calle Larios a las 18:30, 20:30 y 22:00, mapping de la Catedral, mercadillo, belenes, Cabalgata y playa."
 categoria: "malaga"
 slug: "navidad-malaga"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-07"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

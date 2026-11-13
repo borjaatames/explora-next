@@ -3,8 +3,8 @@ titulo: "Girona in einem Tag: mittelalterliche Altstadt und Game of Thrones"
 descripcion: "Girona in einem Tag: Kathedrale, El Call, die Häuser am Onyar und die Stadtmauer. Route zu Fuß Stunde für Stunde, Game-of-Thrones-Drehorte, wo man isst und was man vermeiden sollte."
 categoria: "girona"
 slug: "girona-in-einem-tag"
-fecha: "2026-04-25"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-05"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: true

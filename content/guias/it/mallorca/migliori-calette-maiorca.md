@@ -4,8 +4,8 @@ descripcion: "Le migliori calette e spiagge di Maiorca: Es Trenc, Cala Mondragó
 respuestaCorta: 'Le migliori calette di Maiorca sono **Es Trenc** (selvaggia e dall''acqua caraibica), **Cala Mondragó** (parco naturale, ideale per famiglie), **Caló des Moro** (minuscola e fotogenica) e **Sa Calobra**, nella Tramuntana. A luglio e agosto arriva prima delle 9:00 o dopo le 18:00, oppure vai in barca: quella da Port de Sóller a Sa Calobra parte da 35 €.'
 categoria: "mallorca"
 slug: "migliori-calette-maiorca"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

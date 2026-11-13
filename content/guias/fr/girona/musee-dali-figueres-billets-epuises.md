@@ -3,8 +3,8 @@ titulo: 'Billets du musée Dalí de Figueres épuisés : que faire et quelles op
 descripcion: 'Si le site officiel du Théâtre-musée Dalí n''a plus de billets : autres créneaux et autres jours, le guichet, la visite guidée avec billet, les excursions depuis Barcelone, Púbol et Portlligat, et ce qu''on peut voir sans billet.'
 categoria: girona
 slug: musee-dali-figueres-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-09-22"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

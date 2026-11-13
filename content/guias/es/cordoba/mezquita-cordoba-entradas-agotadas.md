@@ -3,8 +3,8 @@ titulo: 'Entradas de la Mezquita de Córdoba agotadas: qué hacer'
 descripcion: 'Si la web oficial de la Mezquita-Catedral no tiene entradas: otras franjas, la taquilla del Patio de San Eulogio, la hora gratis de primera hora, la torre, la visita nocturna y los tours con entrada incluida.'
 categoria: cordoba
 slug: mezquita-cordoba-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

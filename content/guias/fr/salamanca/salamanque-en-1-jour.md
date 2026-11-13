@@ -3,7 +3,7 @@ titulo: "Salamanque en 1 jour : un itinéraire réfléchi sans rien manquer d'es
 descripcion: "Salamanque en un jour, avec discernement : Plaza Mayor, l'Université, les deux cathédrales, La Clerecía et le pont romain au coucher du soleil. Que voir, que laisser de côté et les erreurs fréquentes."
 categoria: "salamanca"
 slug: "salamanque-en-1-jour"
-fecha: "2026-04-28"
+fecha: "2026-07-28"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

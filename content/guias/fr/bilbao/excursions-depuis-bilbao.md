@@ -3,8 +3,8 @@ titulo: "Excursions depuis Bilbao : Gaztelugatxe, Saint-Sébastien et la côte b
 descripcion: "Les meilleures excursions d'une journée depuis Bilbao : Gaztelugatxe, Saint-Sébastien, Urdaibai et Mundaka, Gernika et la Rioja Alavesa. Comment y aller et que voir."
 categoria: "bilbao"
 slug: "excursions-depuis-bilbao"
-fecha: "2026-04-26"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Teide besteigen: Seilbahn, Gipfelgenehmigung und Sterne'
 descripcion: 'So kommst du 2026 auf den Teide: die Seilbahn für 42 € bis 3.555 m, die Gipfelgenehmigung für 15 € über Tenerife ON, die wiedereröffnete Hütte Altavista, Wanderwege und Sterne.'
 categoria: tenerife
 slug: teide-besteigen
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-01"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

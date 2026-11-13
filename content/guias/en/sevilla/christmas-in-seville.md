@@ -3,8 +3,8 @@ titulo: "Christmas in Seville 2026: lights, the Plaza de San Francisco light sho
 descripcion: "Christmas in Seville 2026: free Plaza de San Francisco light show (18:30-23:00), nativity fair, markets, convent sweets, the parade and holiday hours."
 categoria: "sevilla"
 slug: "christmas-in-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

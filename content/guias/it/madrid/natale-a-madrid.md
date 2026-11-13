@@ -3,8 +3,8 @@ titulo: "Natale a Madrid 2026: luci, mercatini e cosa vale davvero la pena fare"
 descripcion: "Natale a Madrid 2026: quando si accendono le luci, il mercatino di Plaza Mayor, Naviluz, Cortylandia, pattinaggio sul ghiaccio, Capodanno a Sol e la Cabalgata dei Re Magi."
 categoria: "madrid"
 slug: "natale-a-madrid"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: true

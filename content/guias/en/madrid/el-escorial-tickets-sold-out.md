@@ -4,8 +4,8 @@ descripcion: 'El Escorial Monastery tickets: €14 general, €22 with a guided 
 metaTitle: 'El Escorial tickets: price and free entry'
 categoria: madrid
 slug: el-escorial-tickets-sold-out
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

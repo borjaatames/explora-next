@@ -4,8 +4,8 @@ descripcion: 'Guide de Tenerife : le Teide, La Laguna, La Orotava, Garachico, Ma
 respuestaCorta: 'En **cinq ou six jours**, vous verrez l''essentiel de Tenerife : une journée pour le [**Teide**](/fr/cities/tenerife/activities/teide-excursion-telepherique-transfert) (téléphérique jusqu''à 3 555 m), une pour le nord (La Orotava, Puerto de la Cruz et Garachico), une pour La Laguna et Anaga, une pour Masca et Los Gigantes, et du temps en mer dans le sud. **Louez une voiture** pour la montagne et réservez une sortie baleines : l''[éco-yacht depuis Los Cristianos](/fr/cities/tenerife/activities/los-cristianos-observation-baleines-dauphins-eco-yacht) coûte **à partir de 30 €**.'
 categoria: tenerife
 slug: que-voir-a-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-12"
 autor: Borja
 publicada: true
 destacada: true

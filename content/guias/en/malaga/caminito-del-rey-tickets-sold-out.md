@@ -3,8 +3,8 @@ titulo: 'Caminito del Rey tickets sold out: what to do and the options left'
 descripcion: 'If the official Caminito del Rey website has no tickets: the two official ticket types, the north entrance box office, resold tickets with a guide, the tour from Málaga and backup plans nearby.'
 categoria: malaga
 slug: caminito-del-rey-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-18"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

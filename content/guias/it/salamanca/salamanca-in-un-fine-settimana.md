@@ -4,8 +4,8 @@ descripcion: "Programma per un weekend a Salamanca con criterio: monumenti, le d
 respuestaCorta: 'Due giorni sono la misura giusta per Salamanca. Fai **i grandi monumenti il sabato** (Plaza Mayor, Clerecía, Università e le due cattedrali), Casa Lis nel pomeriggio, il Ponte Romano al tramonto e la **notte del sabato**; lascia la domenica per la Casa Museo Unamuno, las Dueñas o **un solo paese**. Il tour a piedi con guida locale parte da 17 €.'
 categoria: "salamanca"
 slug: "salamanca-in-un-fine-settimana"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

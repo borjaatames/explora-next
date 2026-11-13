@@ -4,8 +4,8 @@ descripcion: 'Royal Palace Madrid tickets: €18, or €26 with a guided visit. 
 metaTitle: 'Royal Palace Madrid tickets and free entry'
 categoria: madrid
 slug: royal-palace-madrid-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

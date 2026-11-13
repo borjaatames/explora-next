@@ -4,8 +4,8 @@ descripcion: "Planes en pareja en Madrid: flamenco íntimo en Las Carboneras (45
 metaTitle: "Planes en pareja en Madrid: románticos y con precios"
 categoria: "madrid"
 slug: "planes-en-pareja-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-10"
 autor: Borja
 publicada: true
 destacada: false

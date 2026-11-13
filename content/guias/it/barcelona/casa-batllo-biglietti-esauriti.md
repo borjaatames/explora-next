@@ -3,8 +3,8 @@ titulo: 'Biglietti per Casa Batlló esauriti: cosa fare e quali opzioni restano'
 descripcion: 'Se il sito ufficiale di Casa Batlló non ha posti: altre fasce orarie e modalità, la visita a prima ora, la visita serale, la biglietteria, la rivendita e cosa vedere della Manzana de la Discordia senza biglietto.'
 categoria: barcelona
 slug: casa-batllo-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

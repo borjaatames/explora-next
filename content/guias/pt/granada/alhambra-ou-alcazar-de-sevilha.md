@@ -3,8 +3,8 @@ titulo: 'Alhambra ou Alcázar de Sevilha? Qual visitar se só tiver tempo para u
 descripcion: 'Alhambra ou Real Alcázar de Sevilha: preço, antecedência para reservar, tempo de visita, como combiná-los e um veredicto claro conforme a sua viagem.'
 categoria: granada
 slug: alhambra-ou-alcazar-de-sevilha
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-08-13"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

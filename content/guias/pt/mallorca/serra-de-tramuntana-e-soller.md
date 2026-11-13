@@ -3,8 +3,8 @@ titulo: "Serra de Tramuntana e Sóller: roteiro pela Maiorca de montanha"
 descripcion: "Guia da Serra de Tramuntana: Valldemossa, Deià, Sóller e o seu comboio, Sa Calobra e os miradouros. Roteiro de carro ou de comboio, o que ver e quando ir."
 categoria: "mallorca"
 slug: "serra-de-tramuntana-e-soller"
-fecha: "2026-03-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-15"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

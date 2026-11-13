@@ -3,8 +3,8 @@ titulo: "Granada in 2 days: an honest route without missing what matters"
 descripcion: "Granada in 2 days: Alhambra (and what to do if it's sold out), Albaicín, Sacromonte, centre and Cartuja. Times, prices, where to eat, what to skip."
 categoria: "granada"
 slug: "granada-in-2-days"
-fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-10-31"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Bilbao: la terminal está en Getxo, a 12-15 k
 metaTitle: "Puerto de Bilbao en crucero: Getxo, metro y Guggenheim"
 categoria: "bilbao"
 slug: "puerto-bilbao-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

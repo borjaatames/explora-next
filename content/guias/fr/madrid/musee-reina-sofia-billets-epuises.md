@@ -4,8 +4,8 @@ descripcion: 'Si le Reina Sofía affiche complet : billet à 12 €, heures grat
 metaTitle: 'Reina Sofía complet : options et heures gratuites'
 categoria: madrid
 slug: musee-reina-sofia-billets-epuises
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

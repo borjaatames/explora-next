@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Barcelona: terminales del Moll Adossat, Cruis
 metaTitle: "Puerto de Barcelona en crucero: qué hacer en la escala"
 categoria: "barcelona"
 slug: "puerto-barcelona-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-26"
+fecha_actualizacion: "2026-10-04"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

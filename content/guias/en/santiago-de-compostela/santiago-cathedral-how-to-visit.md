@@ -3,8 +3,8 @@ titulo: "Santiago Cathedral: how to visit it (Pórtico, rooftops and botafumeiro
 descripcion: "How to visit Santiago Cathedral: free entry hours, Pórtico de la Gloria and rooftop tickets, when the botafumeiro swings and where the Pilgrim's Mass is now."
 categoria: "santiago-de-compostela"
 slug: "santiago-cathedral-how-to-visit"
-fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-04"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

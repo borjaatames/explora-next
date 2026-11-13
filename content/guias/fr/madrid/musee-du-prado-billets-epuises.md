@@ -4,8 +4,8 @@ descripcion: 'Billet musée du Prado : 15 € en ligne, gratuit de 18 h à 20 h 
 metaTitle: 'Billet musée du Prado : prix et horaires'
 categoria: madrid
 slug: musee-du-prado-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

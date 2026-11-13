@@ -3,8 +3,8 @@ titulo: "Valence avec des enfants : Oceanogràfic, plage et activités qui march
 descripcion: "Guide de Valence avec des enfants : Oceanogràfic, Cité des Arts, Bioparc, plage et le Turia à vélo. Activités par âge, où manger et quoi éviter avec les petits."
 categoria: "valencia"
 slug: "valence-avec-des-enfants"
-fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

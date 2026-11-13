@@ -3,8 +3,8 @@ titulo: "Tuk tuk, carrozza a cavalli o bus turistico a Siviglia: quale scegliere
 descripcion: "Siviglia: bus turistico 28 € a persona, tuk tuk privato 89-99 € a veicolo fino a 4 persone e carrozza a cavalli con guida 298 €. Prezzo a persona e quale scegliere."
 categoria: "sevilla"
 slug: "tuk-tuk-carrozza-o-bus-turistico-siviglia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: false

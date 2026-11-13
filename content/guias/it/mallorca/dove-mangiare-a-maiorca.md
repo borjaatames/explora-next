@@ -4,8 +4,8 @@ descripcion: "Guida per mangiare a Maiorca: ensaïmada, sobrasada, pa amb oli, t
 respuestaCorta: 'Per mangiare davvero maiorchino, vai nell''entroterra nei **cellers di Inca, Sineu o Algaida**, dove il menù del giorno costa circa **15-20 €**. Ordina pa amb oli, tumbet, frit o arròs brut, assaggia la **sobrasada con il miele** e compra l''ensaïmada in un forno storico di Palma. Evita la prima linea di Magaluf e s''Arenal.'
 categoria: "mallorca"
 slug: "dove-mangiare-a-maiorca"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

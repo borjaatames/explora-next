@@ -4,8 +4,8 @@ descripcion: "Como aproveitar ao máximo um dia em Sevilha a partir de Madrid de
 respuestaCorta: 'Um dia em Sevilha a partir de Madrid funciona se apanhar o **primeiro AVE (por volta das 7h00)** e fizer os quatro imprescindíveis: o **Alcázar às 10h00** com bilhete online, a Catedral e a Giralda, a Plaza de España à tarde e **Triana ao pôr do sol**, com regresso no AVE das 21h30. Comboio de ida e volta desde 55-60 €; Alcázar com acesso prioritário desde 20 €.'
 categoria: "sevilla"
 slug: "sevilha-num-dia-a-partir-de-madrid"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

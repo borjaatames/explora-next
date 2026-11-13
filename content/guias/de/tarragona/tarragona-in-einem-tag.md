@@ -3,8 +3,8 @@ titulo: "Tarragona in einem Tag: das römische Tarraco am Meer"
 descripcion: "Was man in Tarragona an einem Tag sehen sollte: Amphitheater, Zirkus, Kathedrale, Stadtmauern und das Aquädukt. Route Stunde für Stunde durch das römische Tarraco, wo man isst, und PortAventura ganz in der Nähe."
 categoria: "tarragona"
 slug: "tarragona-in-einem-tag"
-fecha: "2026-04-10"
-fecha_actualizacion: "2026-04-10"
+fecha: "2026-08-17"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Navidad en Valencia 2026: luces, mercadillos, Expojove y Cabalgata de R
 descripcion: "Navidad en Valencia 2026: piromusicales los sábados a las 18:30 en la Plaza del Ayuntamiento, mercadillos, belenes, Expojove (26 dic-4 ene) y Cabalgata."
 categoria: "valencia"
 slug: "navidad-valencia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

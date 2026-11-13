@@ -3,8 +3,8 @@ titulo: "Plages de Cadix et de la Costa de la Luz : les meilleures et comment ch
 descripcion: "Les meilleures plages de Cadix et de la Costa de la Luz : La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca et Tarifa. Laquelle choisir, le vent de levante et nos conseils."
 categoria: "cadiz"
 slug: "plages-cadix-costa-de-la-luz"
-fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

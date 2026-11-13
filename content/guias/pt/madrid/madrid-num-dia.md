@@ -3,8 +3,8 @@ titulo: "Madrid num dia: percurso a pé do Prado ao Templo de Debod, hora a hora
 descripcion: "Madrid num dia a pé: o Prado às 10h00 (15 €), Barrio de las Letras, Sol, Plaza Mayor, o Palácio Real (18 €) e o pôr do sol em Debod. Horários, distâncias e orçamento."
 categoria: "madrid"
 slug: "madrid-num-dia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

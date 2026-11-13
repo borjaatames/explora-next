@@ -4,8 +4,8 @@ descripcion: "Guía de los últimos 100 km del Camino de Santiago: dónde empeza
 respuestaCorta: 'Para conseguir la Compostela hay que caminar **al menos los últimos 100 km** hasta Santiago (200 km en bici) y sellar la credencial **dos veces al día**. Lo más habitual es salir de **Sarria**, a unos 114 km y cinco etapas, que se hacen en 5-7 días. La Compostela es **gratuita** en la Oficina del Peregrino; el certificado de distancia cuesta 3 €.'
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-ultimos-100-km"
-fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-27"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: true

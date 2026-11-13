@@ -4,8 +4,8 @@ descripcion: 'Train Madrid Tolède : l''Avant relie Atocha à Tolède en 33 minu
 metaTitle: 'Train Madrid Tolède : horaires et prix'
 categoria: madrid
 slug: train-madrid-tolede
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

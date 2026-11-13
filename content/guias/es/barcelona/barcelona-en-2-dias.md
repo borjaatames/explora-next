@@ -3,8 +3,8 @@ titulo: "Barcelona en 2 días: itinerario con Sagrada Família, Park Güell y G�
 descripcion: "Barcelona en 2 días: día 1 de Gaudí (Sagrada Família 26 €, Passeig de Gràcia, Park Güell 18 €) y día 2 de Gótico, Born, mar y Montjuïc. Horarios y presupuesto."
 categoria: "barcelona"
 slug: "barcelona-en-2-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-12"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

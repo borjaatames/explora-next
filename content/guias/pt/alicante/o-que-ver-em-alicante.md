@@ -4,8 +4,8 @@ descripcion: "Guia de Alicante para um ou dois dias: Castelo de Santa Bárbara, 
 respuestaCorta: 'Um dia chega para a cidade: comece no **Castelo de Santa Bárbara** às 9h30 (apanhe o elevador em frente à praia do Postiguet), desça pelo **bairro de Santa Cruz** e pelo centro histórico, passeie pela Explanada e termine com um mergulho no Postiguet. Com um segundo dia, acrescente a **ilha de Tabarca**, uma reserva marinha a que se chega de barco a partir do porto, com bilhetes de ida e volta **desde 25 €**.'
 categoria: "alicante"
 slug: "o-que-ver-em-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

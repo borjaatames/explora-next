@@ -3,8 +3,8 @@ titulo: "Kathedrale von Santiago: so besichtigt man sie (Pórtico, Dächer und B
 descripcion: "Guide zur Kathedrale von Santiago: was kostenlos ist und was kostenpflichtig, das Pórtico de la Gloria, die Dächer, der Botafumeiro und die Pilgermesse. Tipps."
 categoria: "santiago-de-compostela"
 slug: "kathedrale-santiago-besichtigen"
-fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-04"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

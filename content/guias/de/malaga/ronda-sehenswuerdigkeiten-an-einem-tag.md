@@ -4,8 +4,8 @@ descripcion: 'Ronda Sehenswürdigkeiten an einem Tag: Puente Nuevo von oben und 
 metaTitle: 'Ronda Sehenswürdigkeiten an einem Tag'
 categoria: malaga
 slug: ronda-sehenswuerdigkeiten-an-einem-tag
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-13"
+fecha_actualizacion: "2026-10-30"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

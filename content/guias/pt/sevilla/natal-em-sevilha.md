@@ -3,8 +3,8 @@ titulo: "Natal em Sevilha 2026: luzes, mapping de San Francisco, presépios e Ca
 descripcion: "Natal em Sevilha 2026: mapping de San Francisco (18h30-23h00), Feira do Presépio, mercados, doces conventuais, zambombas, Cavalgada e feriados."
 categoria: "sevilla"
 slug: "natal-em-sevilha"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Port de croisière de Palma de Majorque : où accostent les navire
 metaTitle: "Port de croisière de Palma : rejoindre le centre et que voir"
 categoria: "mallorca"
 slug: "port-croisiere-palma-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

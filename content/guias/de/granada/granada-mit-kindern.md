@@ -3,8 +3,8 @@ titulo: "Granada mit Kindern: Ausflüge, Sehenswürdigkeiten und Fallstricke"
 descripcion: "Granada mit Kindern ohne Stress: angepasste Alhambra, Wissenschaftspark, Eis, welche Altersgruppen gut zurechtkommen und wo man übernachtet."
 categoria: "granada"
 slug: "granada-mit-kindern"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-05-02"
+fecha: "2026-05-29"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

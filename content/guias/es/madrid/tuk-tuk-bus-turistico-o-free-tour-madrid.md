@@ -3,8 +3,8 @@ titulo: "Tuk tuk, bus turístico o free tour en Madrid: cuál elegir y cuánto c
 descripcion: "Madrid: free tour a propina (10-20 € de media), bus turístico 29,70 € y tuk tuk privado 79 € por vehículo de hasta 4. Precio por persona y cuál elegir."
 categoria: "madrid"
 slug: "tuk-tuk-bus-turistico-o-free-tour-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

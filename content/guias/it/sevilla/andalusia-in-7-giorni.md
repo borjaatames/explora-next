@@ -3,8 +3,8 @@ titulo: "Andalusia in 7 giorni: Siviglia, Cordova, Granada, Malaga e Ronda in tr
 descripcion: "Itinerario di 7 giorni in Andalusia in treno: 2 notti a Siviglia, 1 a Cordova, 2 a Granada e 2 a Malaga con Ronda. Tragitti, prezzi, cosa prenotare e dove dormire."
 categoria: "sevilla"
 slug: "andalusia-in-7-giorni"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

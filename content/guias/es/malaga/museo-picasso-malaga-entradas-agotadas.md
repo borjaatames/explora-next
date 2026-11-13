@@ -4,8 +4,8 @@ descripcion: 'Si el Museo Picasso Málaga sale agotado: entrada de 13 €, taqui
 metaTitle: 'Museo Picasso Málaga entradas agotadas: qué hacer'
 categoria: malaga
 slug: museo-picasso-malaga-entradas-agotadas
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

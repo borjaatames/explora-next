@@ -3,8 +3,8 @@ titulo: 'Roque Nublo : comment monter, où se garer et que voir autour'
 descripcion: 'Guide pour monter au Roque Nublo : la réservation obligatoire de 9 h à 17 h, où se garer maintenant que La Goleta est fermé, la navette, le sentier et que voir autour.'
 categoria: gran-canaria
 slug: roque-nublo-comment-monter
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

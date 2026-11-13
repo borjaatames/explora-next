@@ -3,8 +3,8 @@ titulo: 'Bilhetes do Caminito del Rey esgotados: o que fazer e que opções rest
 descripcion: 'Se o site oficial do Caminito del Rey não tiver bilhetes: as duas modalidades oficiais, a bilheteira do acesso norte, os bilhetes com guia de revenda, o tour a partir de Málaga e planos B perto.'
 categoria: malaga
 slug: caminito-del-rey-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-18"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

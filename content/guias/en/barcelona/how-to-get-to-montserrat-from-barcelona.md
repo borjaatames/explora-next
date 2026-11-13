@@ -4,8 +4,8 @@ descripcion: 'How to get to Montserrat from Barcelona: the R5 train from Plaça 
 metaTitle: 'How to get to Montserrat from Barcelona'
 categoria: barcelona
 slug: how-to-get-to-montserrat-from-barcelona
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-30"
+fecha_actualizacion: "2026-10-08"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Comboio Madrid Toledo: o Avant demora 33 minutos desde Atocha e cu
 metaTitle: 'Comboio Madrid Toledo: horários e preço'
 categoria: madrid
 slug: comboio-madrid-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

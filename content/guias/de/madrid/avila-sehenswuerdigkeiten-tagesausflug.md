@@ -4,8 +4,8 @@ descripcion: 'Ávila Sehenswürdigkeiten an einem Tag: auf der Stadtmauer gehen 
 metaTitle: 'Ávila Sehenswürdigkeiten: Tagesausflug'
 categoria: madrid
 slug: avila-sehenswuerdigkeiten-tagesausflug
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

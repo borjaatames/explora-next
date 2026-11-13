@@ -3,8 +3,8 @@ titulo: "Tuk tuk, autocarro turístico ou free tour em Madrid: qual escolher e q
 descripcion: "Madrid: os free tours pagam-se com gorjeta (10-20 € em média), o autocarro turístico custa 29,70 € e um tuk tuk privado 79 € para até 4 pessoas. Custo por pessoa comparado."
 categoria: "madrid"
 slug: "tuk-tuk-autocarro-turistico-ou-free-tour-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Guida al Carnevale di Cadice: quando si svolge, il concorso del Fa
 respuestaCorta: 'Il Carnevale di Cadice 2027 va da **giovedì 4 a domenica 14 febbraio**, con la **finale del concorso del Falla venerdì 5**. Il carnevale di strada, con i gruppi che cantano coplas per La Viña e il Pópulo, è **gratis**. Ciò che si esaurisce è l''alloggio: **prenota con mesi di anticipo** o dormi a Jerez, El Puerto o San Fernando e arriva in treno.'
 categoria: "cadiz"
 slug: "carnevale-di-cadice"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

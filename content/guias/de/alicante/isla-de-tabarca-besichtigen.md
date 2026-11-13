@@ -5,8 +5,8 @@ metaTitle: "Tabarca ab Alicante: Boot und Tipps"
 respuestaCorta: 'Nach Tabarca fährst du mit dem Boot ab dem Hafen von Alicante (rund 1 Stunde; hin und zurück **ab 25 €**) oder mit der Fähre ab Santa Pola (etwa 30 Minuten; **ab 9 €**). Plane **4–5 Stunden auf der Insel** ein für das ummauerte Dorf, ein Bad mit Schnorchel im Meeresschutzgebiet und einen Caldero, und schau vorher nach, wann das letzte Boot zurückfährt.'
 categoria: "alicante"
 slug: "isla-de-tabarca-besichtigen"
-fecha: "2026-04-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: 'Observação de baleias e golfinhos em Tenerife: como escolher o barco'
 descripcion: 'Observação de baleias em Tenerife: cinco passeios de barco comparados (28 € a 63 € por pessoa), que porto escolher, as regras legais para os barcos, quando ir e dicas contra o enjoo.'
 categoria: tenerife
 slug: observacao-de-baleias-em-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

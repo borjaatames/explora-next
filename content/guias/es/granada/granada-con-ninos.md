@@ -3,8 +3,8 @@ titulo: "Granada con niños: planes, monumentos y trampas a evitar"
 descripcion: "Granada con niños sin sufrir: Alhambra adaptada, Parque de las Ciencias, helados, qué edades funcionan y dónde dormir."
 categoria: "granada"
 slug: "granada-con-ninos"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-05-29"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

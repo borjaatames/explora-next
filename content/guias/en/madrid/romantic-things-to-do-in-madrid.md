@@ -4,8 +4,8 @@ descripcion: "Romantic things to do in Madrid: intimate flamenco at Las Carboner
 metaTitle: "Romantic things to do in Madrid, with prices"
 categoria: "madrid"
 slug: "romantic-things-to-do-in-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-10"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Girona y Juego de Tronos: los escenarios y cómo verlos'
 descripcion: 'Guía de los escenarios de Juego de Tronos en Girona: la escalinata de la catedral, El Call como Braavos, Sant Pere de Galligants y más. Ruta a pie y consejos.'
 categoria: girona
 slug: girona-juego-de-tronos
-fecha: '2026-05-05'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

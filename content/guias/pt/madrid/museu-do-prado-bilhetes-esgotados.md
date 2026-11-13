@@ -4,8 +4,8 @@ descripcion: 'Museu do Prado bilhetes: 15 € online ou na bilheteira, grátis d
 metaTitle: 'Museu do Prado bilhetes: preço e horário'
 categoria: madrid
 slug: museu-do-prado-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

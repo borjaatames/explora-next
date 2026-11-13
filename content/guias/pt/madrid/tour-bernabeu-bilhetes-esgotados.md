@@ -4,8 +4,8 @@ descripcion: 'Tour Bernabéu esgotado? Preços oficiais (37 € online, 40 € n
 metaTitle: 'Tour Bernabéu esgotado: o que fazer'
 categoria: madrid
 slug: tour-bernabeu-bilhetes-esgotados
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-09-22"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

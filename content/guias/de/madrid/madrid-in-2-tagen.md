@@ -3,8 +3,8 @@ titulo: "Madrid in 2 Tagen: Reiseplan mit Königspalast, Prado, Retiro und Gran 
 descripcion: "Madrid in 2 Tagen: Tag 1 Habsburger-Madrid, Königspalast (18 €), Gran Vía und Debod; Tag 2 Prado (15 €), Retiro, Reina Sofía und Flamenco. Zeiten, Reservierungen und Budget."
 categoria: "madrid"
 slug: "madrid-in-2-tagen"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-05-08"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true

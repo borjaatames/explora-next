@@ -4,8 +4,8 @@ descripcion: 'O que ver em Málaga num dia: Alcazaba e Gibralfaro (10 € juntos
 metaTitle: 'O que ver em Málaga num dia: roteiro'
 categoria: malaga
 slug: o-que-ver-em-malaga-num-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

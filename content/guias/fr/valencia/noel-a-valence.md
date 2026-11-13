@@ -3,8 +3,8 @@ titulo: "Noël à Valence 2026 : illuminations, marchés, Expojove et défilé d
 descripcion: "Noël à Valence 2026 : piromusicales le samedi à 18 h 30 sur la Plaza del Ayuntamiento, marchés, crèches, Expojove (26 déc.-4 janv.) et défilé des Rois mages."
 categoria: "valencia"
 slug: "noel-a-valence"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

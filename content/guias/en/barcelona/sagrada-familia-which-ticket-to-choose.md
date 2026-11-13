@@ -4,7 +4,7 @@ descripcion: 'Sagrada Familia tickets compared: official entry €26 (€36 with
 metaTitle: 'Sagrada Familia tickets: 2026 prices, types'
 categoria: "barcelona"
 slug: "sagrada-familia-which-ticket-to-choose"
-fecha: "2026-09-20"
+fecha: "2026-05-01"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,7 +24,7 @@ slugs:
   fr: sagrada-familia-quel-billet-choisir
   it: sagrada-familia-quale-biglietto-scegliere
   pt: sagrada-familia-que-bilhete-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-14"
 reservasArriba: true
 respuestaCorta: 'For the basilica alone, the **audio-guide ticket from €34** is the cheapest bookable option; the **guided tour with tower access (€75)** is the only one that goes up a tower. To add Park Güell without losing the whole day, the **4-hour guided combo (€104)** covers both. Book weeks ahead: entry is by timed slot and **only sold online**.'
 actividades:

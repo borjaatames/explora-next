@@ -4,8 +4,8 @@ descripcion: "Cose romantiche da fare a Madrid: flamenco intimo a Las Carboneras
 metaTitle: "Cose romantiche da fare a Madrid, con prezzi"
 categoria: "madrid"
 slug: "cose-romantiche-da-fare-a-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-10"
 autor: Borja
 publicada: true
 destacada: false

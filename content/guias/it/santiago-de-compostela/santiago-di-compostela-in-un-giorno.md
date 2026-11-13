@@ -4,8 +4,8 @@ descripcion: "Cosa vedere a Santiago in un giorno: Cattedrale, Obradoiro, centro
 respuestaCorta: 'Sì, **Santiago si vede bene in un giorno**: inizia alle 9:30 con l''Obradoiro e la Cattedrale (ingresso gratis; il **Pórtico de la Gloria richiede prenotazione**), prosegui per le piazze e la Rúa do Franco, pranza al **Mercado de Abastos**, dove ti cucinano quello che compri per 4-6 €, e chiudi al tramonto all''**Alameda**. Il tour a piedi con guida ufficiale parte da 10 €.'
 categoria: "santiago-de-compostela"
 slug: "santiago-di-compostela-in-un-giorno"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Picasso Museum Málaga sold out? The €13 ticket, the box office,
 metaTitle: 'Picasso Museum Málaga sold out: what to do'
 categoria: malaga
 slug: picasso-museum-malaga-tickets-sold-out
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

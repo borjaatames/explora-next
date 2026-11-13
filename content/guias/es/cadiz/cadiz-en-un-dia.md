@@ -4,8 +4,8 @@ descripcion: "Qué ver en Cádiz en un día: Catedral, Torre Tavira, barrio del 
 respuestaCorta: 'Cádiz se ve a pie en un día: **Catedral y Torre del Reloj** a primera hora (8 € con audioguía), el barrio del Pópulo y el Teatro Romano, la **cámara oscura de la Torre Tavira** (8 €), pescaíto en La Viña y **atardecer en La Caleta**. Llega en tren desde Sevilla (1 h 40) o Jerez (40 minutos) y mira el parte: con levante, mejor casco antiguo que playa.'
 categoria: "cadiz"
 slug: "cadiz-en-un-dia"
-fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: true

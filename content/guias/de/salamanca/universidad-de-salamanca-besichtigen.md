@@ -3,8 +3,8 @@ titulo: "Universität von Salamanca: wie man sie besichtigt und was man nicht ve
 descripcion: "Wie man die Universität von Salamanca besichtigt: Preise, Öffnungszeiten, was man drinnen sieht, der Frosch an der Fassade, der Hörsaal von Fray Luis und typische Besucherfehler."
 categoria: "salamanca"
 slug: "universidad-de-salamanca-besichtigen"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-05-02"
+fecha: "2026-06-08"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

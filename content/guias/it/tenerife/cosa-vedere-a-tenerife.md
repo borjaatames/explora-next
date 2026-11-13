@@ -4,8 +4,8 @@ descripcion: 'Guida di Tenerife: Teide, La Laguna, La Orotava, Garachico, Masca,
 respuestaCorta: 'Con **cinque o sei giorni** vedi l''essenziale di Tenerife: una giornata per il [**Teide**](/it/cities/tenerife/activities/escursione-teide-funivia-trasferimento) (funivia fino a 3.555 m), una per il nord (La Orotava, Puerto de la Cruz e Garachico), una per La Laguna e Anaga, una per Masca e Los Gigantes, e tempo in mare al sud. **Noleggia un''auto** per la montagna e prenota un''uscita per le balene: lo [yacht ecologico da Los Cristianos](/it/cities/tenerife/activities/avvistamento-balene-delfini-yacht-ecologico-los-cristianos) costa **da 30 €**.'
 categoria: tenerife
 slug: cosa-vedere-a-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-12"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Escursione privata o di gruppo da Madrid: cosa conviene e quanto costa 
 descripcion: "Da Madrid, Toledo o Segovia in gruppo costano 41-79 €; l'Escorial in privato 320-410 € a persona se siete in 2, 4 o 6. Prezzi reali e cosa conviene."
 categoria: "madrid"
 slug: "escursione-privata-o-di-gruppo-da-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-04"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

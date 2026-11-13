@@ -3,8 +3,8 @@ titulo: 'Escapadinhas a partir de Girona: Costa Brava, Cadaqués e Figueres (Dal
 descripcion: 'As melhores escapadinhas a partir de Girona: Figueres e o Teatro-Museu Dalí, Cadaqués, Besalú, Tossa de Mar e as enseadas da Costa Brava. Como chegar e o que ver.'
 categoria: girona
 slug: escapadinhas-costa-brava-a-partir-de-girona
-fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

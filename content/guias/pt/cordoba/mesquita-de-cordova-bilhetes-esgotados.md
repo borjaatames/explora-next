@@ -3,8 +3,8 @@ titulo: 'Bilhetes da Mesquita de Córdova esgotados: o que fazer'
 descripcion: 'Se o site oficial da Mesquita-Catedral não tem bilhetes: outros horários, a bilheteira do Patio de San Eulogio, a hora gratuita logo de manhã, a torre, a visita noturna e os tours com entrada incluída.'
 categoria: cordoba
 slug: mesquita-de-cordova-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

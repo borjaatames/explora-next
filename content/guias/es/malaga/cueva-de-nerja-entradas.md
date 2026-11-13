@@ -4,7 +4,7 @@ descripcion: 'Entradas Cueva de Nerja 2026: 16 € online y 18 € en taquilla (
 metaTitle: 'Cueva de Nerja: entradas, precio y horario'
 categoria: malaga
 slug: cueva-de-nerja-entradas
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

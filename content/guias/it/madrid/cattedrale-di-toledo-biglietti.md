@@ -4,8 +4,8 @@ descripcion: 'Cattedrale di Toledo: biglietto a 12 € sul sito ufficiale, apert
 metaTitle: 'Cattedrale di Toledo: biglietti e orari'
 categoria: madrid
 slug: cattedrale-di-toledo-biglietti
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

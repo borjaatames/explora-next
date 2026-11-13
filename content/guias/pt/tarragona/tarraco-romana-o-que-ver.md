@@ -3,8 +3,8 @@ titulo: "Tarraco romana: o que ver e como visitá-la (bilhete conjunto)"
 descripcion: "Tarraco romana em Tarragona: anfiteatro, circo, fórum, muralhas e aqueduto. O bilhete conjunto de 15 €, o encerramento às segundas, a ordem do percurso e a Tarraco Viva."
 categoria: "tarragona"
 slug: "tarraco-romana-o-que-ver"
-fecha: "2026-04-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

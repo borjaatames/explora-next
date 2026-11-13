@@ -3,8 +3,8 @@ titulo: "Christmas in Malaga 2026: Calle Larios light show times, nativity scene
 descripcion: "Christmas in Malaga 2026: Calle Larios light shows at 18:30, 20:30 and 22:00, cathedral projection, Christmas market, New Year's Eve, parade and beach."
 categoria: "malaga"
 slug: "christmas-in-malaga"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-07"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

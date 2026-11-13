@@ -3,8 +3,8 @@ titulo: "Guggenheim Bilbao Tickets ausverkauft oder lange Schlangen: was tun"
 descripcion: "Deine Uhrzeit im Guggenheim ist voll oder die Schlange an der Kasse bewegt sich nicht? Andere Uhrzeiten auf der offiziellen Website, die Kasse, die Montage mit Öffnung, die kostenlosen Werke im Außenbereich und Führungen mit Ticket."
 categoria: bilbao
 slug: guggenheim-bilbao-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

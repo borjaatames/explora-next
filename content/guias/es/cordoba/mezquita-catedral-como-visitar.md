@@ -5,8 +5,8 @@ metaTitle: 'Mezquita de Córdoba: entradas y visita guiada'
 respuestaCorta: 'La Mezquita-Catedral cuesta **15 €** (gratis menores de 10) y es **gratis de lunes a sábado de 8:30 a 9:30**, solo para visitantes individuales. Ve a primera hora, calcula **1-1 h 30** y lleva los hombros cubiertos; los domingos el culto la cierra de 11:30 a 15:00. El **tour guiado sin colas con campanario** cuesta desde 32 €.'
 categoria: "cordoba"
 slug: "mezquita-catedral-como-visitar"
-fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: true

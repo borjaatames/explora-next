@@ -4,8 +4,8 @@ descripcion: "Guía del Carnaval de Cádiz: cuándo es, el concurso del Falla, c
 respuestaCorta: 'El Carnaval de Cádiz 2027 es del **jueves 4 al domingo 14 de febrero**, con la **final del concurso del Falla el viernes 5**. El carnaval de la calle, con agrupaciones cantando coplas por La Viña y el Pópulo, es **gratis**. Lo que se agota es el alojamiento: **reserva con meses de antelación** o duerme en Jerez, El Puerto o San Fernando y llega en tren.'
 categoria: "cadiz"
 slug: "carnaval-de-cadiz"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

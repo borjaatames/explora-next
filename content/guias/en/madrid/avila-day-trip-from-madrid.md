@@ -4,8 +4,8 @@ descripcion: 'Ávila day trip from Madrid: 1 hr 30 by train, walking the medieva
 metaTitle: 'Ávila Day Trip from Madrid: Walls & Route'
 categoria: madrid
 slug: avila-day-trip-from-madrid
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

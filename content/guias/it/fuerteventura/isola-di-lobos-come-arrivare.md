@@ -4,8 +4,8 @@ descripcion: 'Come visitare l''Isola di Lobos nel 2026: il permesso gratuito su 
 respuestaCorta: 'Per sbarcare a Lobos ti serve un''**autorizzazione gratuita del Cabildo** (il governo dell''isola) su **lobospass.com**, con **200 posti per fascia oraria** (10:00-14:00 o 14:00-18:00) e fino a 3 persone per richiesta; si apre pochi giorni prima della visita. Il **traghetto parte dal porto di Corralejo**, impiega **15-20 minuti** e costa **da 17 €** andata e ritorno. Fai coincidere le barche di andata e ritorno con la tua fascia.'
 categoria: fuerteventura
 slug: isola-di-lobos-come-arrivare
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

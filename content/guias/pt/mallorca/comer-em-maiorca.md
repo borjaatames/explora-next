@@ -4,8 +4,8 @@ descripcion: "Guia para comer em Maiorca: ensaïmada, sobrasada, pa amb oli, tum
 respuestaCorta: 'Para comer verdadeira cozinha maiorquina, vá para o interior, aos **cellers de Inca, Sineu ou Algaida**, onde o menu do dia custa cerca de **15-20 €**. Peça pa amb oli, tumbet, frit ou arròs brut, prove a **sobrasada com mel** e compre a ensaïmada numa padaria tradicional de Palma. Evite a primeira linha de Magaluf e s''Arenal.'
 categoria: "mallorca"
 slug: "comer-em-maiorca"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

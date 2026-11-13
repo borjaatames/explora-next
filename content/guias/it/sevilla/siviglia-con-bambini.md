@@ -3,8 +3,8 @@ titulo: 'Cosa fare a Siviglia con i bambini: guida onesta 2026'
 descripcion: 'Cosa fare a Siviglia con bambini di varie età senza cadere nell''ovvio: monumenti che li conquistano davvero, cosa saltare, dove mangiare e trappole da evitare.'
 categoria: sevilla
 slug: siviglia-con-bambini
-fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

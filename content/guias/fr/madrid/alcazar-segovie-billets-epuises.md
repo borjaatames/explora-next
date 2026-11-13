@@ -4,8 +4,8 @@ descripcion: 'Alcázar de Ségovie : 7 € palais et musée, 10 € avec la Torr
 metaTitle: 'Alcázar de Ségovie billets : prix et gratuité'
 categoria: madrid
 slug: alcazar-segovie-billets-epuises
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

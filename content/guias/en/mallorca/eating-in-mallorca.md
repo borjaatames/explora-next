@@ -3,8 +3,8 @@ titulo: "Eating in Mallorca with criteria: ensaïmada, sobrasada and cellers"
 descripcion: "Eating in Mallorca: ensaïmada, sobrasada, pa amb oli and arròs brut, village cellers and market days, typical prices and the tourist traps to avoid."
 categoria: "mallorca"
 slug: "eating-in-mallorca"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

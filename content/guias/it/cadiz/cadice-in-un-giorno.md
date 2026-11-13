@@ -4,8 +4,8 @@ descripcion: "Cosa vedere a Cadice in un giorno: Cattedrale, Torre Tavira, quart
 respuestaCorta: "Il centro storico di Cadice si gira in un giorno: la **Cattedrale e la Torre dell'Orologio** alle 9:30, il Pópulo e il Teatro Romano gratuito, la **camera oscura della Torre Tavira** e il Mercato Centrale. Pranza con pesce fritto nella **Viña**, poi chiudi alla **spiaggia della Caleta** al tramonto. Il treno da Siviglia impiega 1 h 40, e un tour guidato a piedi del centro storico costa da 20 €."
 categoria: "cadiz"
 slug: "cadice-in-un-giorno"
-fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: true

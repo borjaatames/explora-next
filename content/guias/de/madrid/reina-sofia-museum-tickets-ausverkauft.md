@@ -4,8 +4,8 @@ descripcion: 'Reina Sofía ausverkauft? Ticket für 12 €, freie Stunden (Mo un
 metaTitle: 'Reina Sofía Tickets ausverkauft: Optionen und Gratiszeiten'
 categoria: madrid
 slug: reina-sofia-museum-tickets-ausverkauft
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

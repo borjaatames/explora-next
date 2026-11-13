@@ -4,8 +4,8 @@ descripcion: "Cómo ir de Málaga a Ronda en un día: coche, autobús, tren, exc
 respuestaCorta: 'Ronda está a **unos 100 km de Málaga, 1 h 45 en coche**. En **autobús** son unas 2 horas y no hay tren directo. La forma más sencilla sin coche es una **excursión en grupo** (desde 34 €, con Setenil de las Bodegas); en **privado**, desde 580 € para 2 personas o 720 € para 4. Con un día basta para el Tajo, el Puente Nuevo y el casco antiguo.'
 categoria: "malaga"
 slug: "ronda-desde-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-14"
+fecha_actualizacion: "2026-09-29"
 autor: Borja
 publicada: true
 destacada: false

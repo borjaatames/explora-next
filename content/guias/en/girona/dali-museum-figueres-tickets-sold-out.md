@@ -3,8 +3,8 @@ titulo: 'Dalí Museum Figueres tickets sold out: what to do and the options left
 descripcion: 'If the official Dalí Theatre-Museum website has no tickets: other slots and days, the box office, a guided tour with entry, day trips from Barcelona, Púbol and Portlligat, and what to see without a ticket.'
 categoria: girona
 slug: dali-museum-figueres-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-09-22"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

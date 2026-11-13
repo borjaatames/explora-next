@@ -4,8 +4,8 @@ descripcion: 'No rack railway or train tickets to Montserrat, car park full or t
 metaTitle: 'Montserrat sold out: how to still get up'
 categoria: barcelona
 slug: montserrat-tickets-sold-out
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-12"
 autor: Borja
 publicada: true
 destacada: false

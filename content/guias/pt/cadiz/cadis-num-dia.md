@@ -4,8 +4,8 @@ descripcion: "O que ver em Cádis num dia: Catedral, Torre Tavira, bairro do Pó
 respuestaCorta: 'Cádis vê-se a pé num dia: **Catedral e Torre del Reloj** logo de manhã (8 € com audioguia), o bairro do Pópulo e o Teatro Romano, a **câmara escura da Torre Tavira** (8 €), peixinho frito em La Viña e **pôr do sol em La Caleta**. Chegue de comboio a partir de Sevilha (1h40) ou Jerez (40 minutos) e veja a previsão: com levante, melhor o centro histórico do que a praia.'
 categoria: "cadiz"
 slug: "cadis-num-dia"
-fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: true

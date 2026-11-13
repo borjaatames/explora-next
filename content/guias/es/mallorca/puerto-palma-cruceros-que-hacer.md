@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Palma: dónde atraca el barco, bus EMT línea
 metaTitle: "Puerto de Palma en crucero: qué hacer en la escala"
 categoria: "mallorca"
 slug: "puerto-palma-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

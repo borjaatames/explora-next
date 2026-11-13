@@ -4,8 +4,8 @@ descripcion: "Qué ver en Bilbao en un día: Museo Guggenheim, Casco Viejo, Merc
 respuestaCorta: 'Bilbao se ve en un día a pie siguiendo la ría: el **Guggenheim** a primera hora (entrada online con franja; cierra los lunes salvo en julio y agosto), el Casco Viejo y las **Siete Calles**, **pintxos en la Plaza Nueva** a la hora de comer, el Mercado de la Ribera y el **funicular de Artxanda** al atardecer. Si tienes más tiempo, Gaztelugatxe está a media hora.'
 categoria: "bilbao"
 slug: "bilbao-en-un-dia"
-fecha: "2026-03-13"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: true

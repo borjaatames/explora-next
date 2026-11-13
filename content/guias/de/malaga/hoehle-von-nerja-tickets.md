@@ -4,7 +4,7 @@ descripcion: 'Höhle von Nerja 2026: 16 € online, 18 € an der Kasse (18/20 �
 metaTitle: 'Höhle von Nerja: Tickets, Preise, Zeiten'
 categoria: malaga
 slug: hoehle-von-nerja-tickets
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

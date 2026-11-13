@@ -4,8 +4,8 @@ descripcion: "Addio al nubilato a Siviglia: tuk tuk privato a 99 € fino a 4, f
 metaTitle: "Addio al nubilato o al celibato a Siviglia: idee e regole"
 categoria: "sevilla"
 slug: "addio-al-nubilato-siviglia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

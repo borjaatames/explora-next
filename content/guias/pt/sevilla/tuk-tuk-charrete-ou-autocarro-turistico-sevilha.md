@@ -3,8 +3,8 @@ titulo: "Tuk-tuk, charrete ou autocarro turístico em Sevilha: qual escolher e q
 descripcion: "Sevilha: autocarro turístico 28 € por pessoa, tuk-tuk privado 89-99 € por veículo de até 4 e charrete com guia 298 €. Preço por pessoa e qual escolher."
 categoria: "sevilla"
 slug: "tuk-tuk-charrete-ou-autocarro-turistico-sevilha"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: false

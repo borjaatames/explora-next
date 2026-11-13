@@ -4,9 +4,9 @@ descripcion: 'Flamenco em Barcelona: comparamos os 4 espetáculos, de 25 € no 
 metaTitle: 'Flamenco em Barcelona: que tablao escolher'
 categoria: "barcelona"
 slug: "flamenco-barcelona-que-tablao-escolher"
-fecha: "2026-09-06"
+fecha: "2026-07-01"
 autor: Borja
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Málaga Sehenswürdigkeiten an einem Tag: Alcazaba und Gibralfaro 
 metaTitle: 'Málaga Sehenswürdigkeiten an einem Tag'
 categoria: malaga
 slug: malaga-sehenswuerdigkeiten-an-einem-tag
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Tren Madrid Toledo: el Avant tarda 33 minutos desde Atocha y cuest
 metaTitle: 'Tren Madrid Toledo: horario, precio y billete'
 categoria: madrid
 slug: tren-madrid-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Mezquita von Córdoba Tickets ausverkauft: was du tun kannst"
 descripcion: "Die offizielle Website der Mezquita-Catedral hat keine Tickets mehr? Andere Zeitfenster, die Kasse im Patio de San Eulogio, die kostenlose Stunde am Morgen, der Glockenturm, der Nachtbesuch und Touren mit inkludiertem Ticket."
 categoria: cordoba
 slug: mezquita-cordoba-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

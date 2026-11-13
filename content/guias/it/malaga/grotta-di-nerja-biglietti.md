@@ -4,7 +4,7 @@ descripcion: 'Grotta di Nerja 2026: 16 € online, 18 € in biglietteria (18/20
 metaTitle: 'Grotta di Nerja: biglietti, prezzi, orari'
 categoria: malaga
 slug: grotta-di-nerja-biglietti
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

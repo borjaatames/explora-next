@@ -4,8 +4,8 @@ descripcion: 'Oceanogràfic Valencia sold out? Official prices (€35.90-€43.0
 metaTitle: 'Oceanogràfic tickets sold out: what to do'
 categoria: valencia
 slug: oceanografic-valencia-tickets-sold-out
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-09-10"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Madrid, Toledo and Segovia in 4 days: an itinerary with trains, times a
 descripcion: "4 days based in Madrid: 2 in the city (Royal Palace, Prado, Retiro), Toledo by Avant (33 min) and Segovia (about 30 min). Trains, tickets, what to book and a budget."
 categoria: "madrid"
 slug: "madrid-toledo-segovia-4-days"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-28"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Visite guidée de l''Alhambra : six visites suivent le même parco
 metaTitle: 'Visite guidée Alhambra : laquelle choisir'
 categoria: "granada"
 slug: "alhambra-quelle-visite-choisir"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Picasso-Museum Málaga ausverkauft? Ticket für 13 €, Kasse, son
 metaTitle: 'Picasso-Museum Málaga ausverkauft: was tun?'
 categoria: malaga
 slug: picasso-museum-malaga-tickets-ausverkauft
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

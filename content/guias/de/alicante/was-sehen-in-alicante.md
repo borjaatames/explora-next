@@ -3,8 +3,8 @@ titulo: "Was sehen in Alicante: Burg, Altstadt und Strände"
 descripcion: "Alicante-Guide für ein oder zwei Tage: Burg Santa Bárbara, Viertel Santa Cruz, die Explanada, Strände und die Insel Tabarca. Route, wo man isst und die Costa Blanca ringsum."
 categoria: "alicante"
 slug: "was-sehen-in-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-03-26"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

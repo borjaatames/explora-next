@@ -3,8 +3,8 @@ titulo: 'Que faire à Séville avec des enfants : guide honnête 2026'
 descripcion: 'Que faire à Séville avec des enfants de tous âges sans tomber dans l''évidence : les monuments qui leur plaisent vraiment, ce qu''on peut zapper, où manger et les pièges à éviter.'
 categoria: sevilla
 slug: seville-avec-des-enfants
-fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Escale de croisière à Malaga : terminaux, navette jusqu'à la pl
 metaTitle: "Port de Malaga en croisière : que faire pendant l'escale"
 categoria: "malaga"
 slug: "port-de-malaga-escale-croisiere"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

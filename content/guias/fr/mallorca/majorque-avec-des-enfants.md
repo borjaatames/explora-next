@@ -3,8 +3,8 @@ titulo: 'Majorque avec des enfants : criques calmes, trains et aquariums'
 descripcion: "Majorque avec des enfants : les meilleures plages pour les familles, le Palma Aquarium, le train de Sóller, les grottes du Drach et les parcs aquatiques. Idées par zone et ce qu'il faut éviter."
 categoria: mallorca
 slug: majorque-avec-des-enfants
-fecha: '2026-04-09'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-09-01"
+fecha_actualizacion: "2026-09-26"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

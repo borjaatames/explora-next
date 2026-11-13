@@ -3,8 +3,8 @@ titulo: "Málaga in two days: a smart route between museums and the sea"
 descripcion: "What to see in Málaga in two days: Alcazaba, Cathedral, Picasso Museum, Caminito del Rey and beaches. An hour-by-hour route, where to eat, where to stay and what to skip."
 categoria: "malaga"
 slug: "malaga-in-two-days"
-fecha: "2026-02-28"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-26"
+fecha_actualizacion: "2026-11-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

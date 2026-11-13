@@ -4,8 +4,8 @@ descripcion: "Cosa vedere a Valencia in 2 giorni: centro storico, Città delle A
 respuestaCorta: 'Dedica **il giorno 1 al centro storico** (Mercado Central, Lonja de la Seda, Cattedrale e Miguelete, il Carmen) e il pomeriggio alla **Città delle Arti e delle Scienze**; **il giorno 2 all''Albufera**, con giro in barca e vera paella a El Palmar a pranzo, e poi la Malvarrosa. L''Oceanogràfic, da 37 €: prenotalo online in alta stagione.'
 categoria: "valencia"
 slug: "valencia-in-2-giorni"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

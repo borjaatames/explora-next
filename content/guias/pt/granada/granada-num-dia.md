@@ -3,8 +3,8 @@ titulo: "Granada num dia: Alhambra, Albaicín e Sacromonte hora a hora"
 descripcion: "Granada num dia: a Alhambra às 8h30 (22,27 €, reserve com semanas de antecedência), tapas grátis, a Capela Real, o pôr do sol em San Nicolás e flamenco numa gruta. Horários e orçamento."
 categoria: "granada"
 slug: "granada-num-dia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Flamenco Madrid: Las Carboneras (ab 45 €, mit Getränk) oder Tor
 metaTitle: 'Flamenco Madrid: welches Tablao wählen?'
 categoria: "madrid"
 slug: "flamenco-madrid-welches-tablao-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-06"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: false

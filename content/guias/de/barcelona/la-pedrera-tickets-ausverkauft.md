@@ -3,8 +3,8 @@ titulo: "La Pedrera Tickets ausverkauft: was du tun kannst und welche Optionen b
 descripcion: "Die offizielle Website von La Pedrera (Casa Milà) hat keinen Platz mehr? Andere Zeitfenster und Varianten, das Ticket ohne festes Datum, der Besuch bei Sonnenaufgang, die Night Experience, die Kasse, Wiederverkäufer und was du ohne Ticket am Passeig de Gràcia siehst."
 categoria: barcelona
 slug: la-pedrera-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

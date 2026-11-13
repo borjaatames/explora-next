@@ -4,8 +4,8 @@ descripcion: 'Las entradas de la Alhambra son nominativas: lleva el DNI o pasapo
 metaTitle: 'Entrada nominativa Alhambra: nombre, DNI y pasaporte'
 categoria: granada
 slug: alhambra-entrada-nominativa-dni-pasaporte
-fecha: '2026-11-08'
-fecha_actualizacion: '2026-11-08'
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-03"
 datosComprobados: '2026-11-08'
 autor: Borja
 publicada: true

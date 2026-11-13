@@ -3,8 +3,8 @@ titulo: "Formentera from Ibiza: how to get there and what to see in a day"
 descripcion: "How to visit Formentera from Ibiza: ferries and schedules, how to get around (scooter, bike, car), the best beaches like Ses Illetes, lighthouses and tips."
 categoria: "ibiza"
 slug: "formentera-from-ibiza"
-fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-30"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

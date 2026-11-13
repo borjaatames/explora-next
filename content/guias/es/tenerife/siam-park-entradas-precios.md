@@ -4,7 +4,7 @@ descripcion: 'Entradas Siam Park 2026: 44 € adulto y 32 € niño de 3 a 11 a�
 metaTitle: 'Entradas Siam Park: precio y Twin Ticket'
 categoria: tenerife
 slug: siam-park-entradas-precios
-fecha: '2026-11-04'
+fecha: "2026-05-30"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

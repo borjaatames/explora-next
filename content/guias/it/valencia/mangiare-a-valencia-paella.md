@@ -4,8 +4,8 @@ descripcion: "Guida per mangiare a Valencia: cos'è la vera paella valenciana, i
 respuestaCorta: 'La **paella valenciana** autentica contiene pollo, coniglio, garrofó e fagiolini, niente frutti di mare, e si mangia **a pranzo, dalle 13:30 alle 16:00**. La migliore è a **El Palmar, nell''Albufera**, a 45 minuti di autobus EMT dal centro. Calcola **15-22 € a persona**, minimo per due e 30-45 minuti di attesa, perché si prepara al momento.'
 categoria: "valencia"
 slug: "mangiare-a-valencia-paella"
-fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

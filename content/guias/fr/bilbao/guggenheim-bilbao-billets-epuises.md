@@ -3,8 +3,8 @@ titulo: 'Billets du Guggenheim Bilbao épuisés ou longues files : que faire'
 descripcion: 'Si votre horaire au Guggenheim est complet ou si la file au guichet n''avance pas : autres horaires sur le site officiel, le guichet, les lundis d''ouverture, les œuvres gratuites à l''extérieur et les visites guidées avec billet.'
 categoria: bilbao
 slug: guggenheim-bilbao-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

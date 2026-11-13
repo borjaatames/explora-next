@@ -3,8 +3,8 @@ titulo: "Fallas de Valência 2027: datas, mascletà, cremà e como se organizar"
 descripcion: "Fallas 2027 em Valência (1 a 19 de março): a mascletà diária das 14h00, a plantà, a Oferenda de Flores, a Nit del Foc e a cremà, com dicas para ver tudo sem stress."
 categoria: "valencia"
 slug: "fallas-de-valencia"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-10-10"
+fecha_actualizacion: "2026-11-08"
 autor: Borja
 publicada: true
 destacada: true

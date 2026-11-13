@@ -4,8 +4,8 @@ descripcion: "Despedida en Sevilla: tuk tuk privado por 99 € hasta 4, flamenco
 metaTitle: "Despedida de soltera o soltero en Sevilla: planes y normas"
 categoria: "sevilla"
 slug: "despedida-de-soltera-sevilla"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

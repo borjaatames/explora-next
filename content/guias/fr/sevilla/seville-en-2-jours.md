@@ -3,8 +3,8 @@ titulo: "Séville en 2 jours : itinéraire heure par heure avec l'Alcázar, la c
 descripcion: "Séville en 2 jours : Alcázar à 9 h 30 (15,50 €), cathédrale et Giralda, Santa Cruz, Plaza de España, Triana et flamenco. Horaires, quoi réserver et budget."
 categoria: "sevilla"
 slug: "seville-en-2-jours"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

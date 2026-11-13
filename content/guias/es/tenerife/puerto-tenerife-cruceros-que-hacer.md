@@ -4,8 +4,8 @@ descripcion: "Crucero en Santa Cruz de Tenerife: centro a 10-20 min a pie, tranv
 metaTitle: "Crucero en Tenerife: qué hacer en Santa Cruz"
 categoria: "tenerife"
 slug: "puerto-tenerife-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

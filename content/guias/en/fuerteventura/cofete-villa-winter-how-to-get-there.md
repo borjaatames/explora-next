@@ -4,8 +4,8 @@ descripcion: 'How to get to Cofete beach and Villa Winter: the 20 km track from 
 respuestaCorta: '**Cofete** is reached by a **dirt track of about 20 km from Morro Jable** (45-60 minutes), passable in an ordinary car when dry, but many **hire car contracts don''t cover damage on dirt tracks**. Without a car, Tiadhe''s **111 bus** leaves Morro Jable at **10:00 and 14:15** (about €8.70 each way), or there''s a **tour** from Jandía for €57. **Don''t swim**: strong currents and no lifeguards.'
 categoria: fuerteventura
 slug: cofete-villa-winter-how-to-get-there
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-06-19"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

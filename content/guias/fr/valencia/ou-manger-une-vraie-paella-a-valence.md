@@ -4,8 +4,8 @@ descripcion: "Guide pour bien manger à Valence : ce qu'est la vraie paella vale
 respuestaCorta: 'La vraie **paella valencienne** se fait avec du poulet, du lapin, du garrofó et des haricots verts, sans fruits de mer, et se mange **le midi, de 13 h 30 à 16 h**. La meilleure se trouve à **El Palmar, dans l''Albufera**, à 45 minutes en bus EMT depuis le centre. Comptez **15-22 € par personne**, minimum deux personnes et 30 à 45 minutes d''attente, car elle est préparée à la commande.'
 categoria: "valencia"
 slug: "ou-manger-une-vraie-paella-a-valence"
-fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

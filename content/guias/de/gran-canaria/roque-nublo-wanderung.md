@@ -3,8 +3,8 @@ titulo: 'Roque-Nublo-Wanderung: Aufstieg, Parken und was man in der Nähe sieht'
 descripcion: 'Guide zur Wanderung zum Roque Nublo: die Reservierung zwischen 9:00 und 17:00 Uhr, wo du parkst, seit La Goleta geschlossen ist, Shuttlebus, Weg und Sehenswertes in der Nähe.'
 categoria: gran-canaria
 slug: roque-nublo-wanderung
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

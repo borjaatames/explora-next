@@ -4,8 +4,8 @@ descripcion: 'Mosquée de Cordoue : billet à 15 €, entrée gratuite du lundi 
 metaTitle: 'Mosquée de Cordoue : billet et visite guidée'
 categoria: "cordoba"
 slug: "mosquee-cathedrale-cordoue-comment-la-visiter"
-fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: true

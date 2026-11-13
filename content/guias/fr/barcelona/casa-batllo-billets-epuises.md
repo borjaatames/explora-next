@@ -3,8 +3,8 @@ titulo: 'Billets de la Casa Batlló épuisés : que faire et quelles options res
 descripcion: 'Si le site officiel de la Casa Batlló n''a plus de place : autres créneaux et formules, la visite à la première heure, la visite nocturne, le guichet, la revente et ce qu''on peut voir de l''îlot de la Discorde sans billet.'
 categoria: barcelona
 slug: casa-batllo-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

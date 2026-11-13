@@ -4,8 +4,8 @@ descripcion: "Despedida en Madrid: tuk-tuk fiesta privado por 150 €, taller de
 metaTitle: "Despedida de soltera o soltero en Madrid: planes y precios"
 categoria: "madrid"
 slug: "despedida-de-soltera-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-11-09"
 autor: Borja
 publicada: true
 destacada: false

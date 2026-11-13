@@ -4,8 +4,8 @@ descripcion: 'Se o Museu Picasso Málaga estiver esgotado: bilhete de 13 €, bi
 metaTitle: 'Museu Picasso Málaga bilhetes esgotados: o que fazer'
 categoria: malaga
 slug: museu-picasso-malaga-bilhetes-esgotados
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

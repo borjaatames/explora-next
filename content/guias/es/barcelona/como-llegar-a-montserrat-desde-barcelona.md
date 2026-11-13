@@ -4,8 +4,8 @@ descripcion: 'Cómo llegar a Montserrat desde Barcelona: tren R5 desde Plaça Es
 metaTitle: 'Cómo llegar a Montserrat desde Barcelona'
 categoria: barcelona
 slug: como-llegar-a-montserrat-desde-barcelona
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-30"
+fecha_actualizacion: "2026-10-08"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

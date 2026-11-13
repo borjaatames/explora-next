@@ -4,8 +4,8 @@ descripcion: 'Fuerteventura guide: the Corralejo Dunes, Lobos Island, Cofete, Be
 respuestaCorta: 'Plan **five or six days** and **hire a car**: the north (Corralejo Dunes, **Lobos Island**, Calderón Hondo, El Cotillo), the centre (Betancuria and Ajuy) and Jandía (Sotavento, Morro Jable and **Cofete**). Lobos requires a **free permit** from the island council and the return ferry costs from €17. Stay in Corralejo for the north and in Costa Calma or Morro Jable for the south.'
 categoria: fuerteventura
 slug: what-to-see-in-fuerteventura
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-09-12"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: true

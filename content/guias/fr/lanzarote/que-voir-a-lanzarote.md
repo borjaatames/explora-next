@@ -4,8 +4,8 @@ descripcion: 'Guide de Lanzarote avec les prix 2026 : Timanfaya, Jameos del Agua
 respuestaCorta: 'Prévoyez **quatre ou cinq jours** : un pour **Timanfaya**, La Geria et El Golfo ; un pour le nord de **César Manrique** (Jameos del Agua, Cueva de los Verdes, Mirador del Río) ; un pour Teguise et la Fondation ; et un pour **La Graciosa** ou les criques de **Papagayo**. Louez une voiture et achetez en ligne, pour une date et un horaire précis, les billets des **Montañas del Fuego (30 €)** et de la **Cueva de los Verdes (17 €)** : ils ne sont pas vendus sur place.'
 categoria: lanzarote
 slug: que-voir-a-lanzarote
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: true

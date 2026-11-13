@@ -3,8 +3,8 @@ titulo: "Barcelona in 3 days: a curated route to see it well"
 descripcion: "3 days in Barcelona: Sagrada Familia, Park Güell, Gràcia, Gothic Quarter and Montjuïc. Hour-by-hour route, prices, where to stay and what to skip."
 categoria: "barcelona"
 slug: "barcelona-in-3-days"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: true

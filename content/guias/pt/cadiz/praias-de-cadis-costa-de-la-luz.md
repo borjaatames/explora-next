@@ -4,8 +4,8 @@ descripcion: "As melhores praias de Cádis e da Costa de la Luz: La Caleta, La V
 respuestaCorta: 'As melhores praias de Cádis são **La Caleta** e La Victoria, na cidade, e, na Costa de la Luz, **Bolonia** (duna e ruínas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar e Tarifa. Escolha conforme o vento: com **poente** serve qualquer praia aberta; com **levante** forte, uma enseada protegida. O catamarã ao pôr do sol a partir de Cádis sai desde 24,50 €.'
 categoria: "cadiz"
 slug: "praias-de-cadis-costa-de-la-luz"
-fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

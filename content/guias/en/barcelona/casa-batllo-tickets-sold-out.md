@@ -3,8 +3,8 @@ titulo: 'Casa Batlló tickets sold out: what to do and the options left'
 descripcion: 'If the official Casa Batlló website has no space: other slots and ticket types, the early-morning visit, the night visit, the box office, resold tickets and what to see on the Block of Discord without a ticket.'
 categoria: barcelona
 slug: casa-batllo-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

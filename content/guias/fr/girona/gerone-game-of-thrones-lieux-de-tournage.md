@@ -3,8 +3,8 @@ titulo: 'Gérone et Game of Thrones : les lieux de tournage et comment les voir'
 descripcion: 'Guide des lieux de tournage de Game of Thrones à Gérone : l''escalier de la cathédrale, El Call en Braavos, Sant Pere de Galligants et plus encore. Itinéraire à pied et conseils.'
 categoria: girona
 slug: gerone-game-of-thrones-lieux-de-tournage
-fecha: '2026-05-05'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

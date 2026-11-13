@@ -3,8 +3,8 @@ titulo: "Seville in 2 days: an hour-by-hour itinerary with the Alcázar, Cathedr
 descripcion: "Seville in 2 days: the Alcázar at 9:30 (€15.50), Cathedral and Giralda, Santa Cruz, Plaza de España, Triana and flamenco. Times, what to book and a budget."
 categoria: "sevilla"
 slug: "seville-in-2-days"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

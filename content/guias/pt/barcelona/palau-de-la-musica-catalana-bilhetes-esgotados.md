@@ -4,8 +4,8 @@ descripcion: 'Palau de la Música Catalana: 20 € a visita livre e 24 € a gui
 metaTitle: 'Bilhetes Palau de la Música: visita e preço'
 categoria: barcelona
 slug: palau-de-la-musica-catalana-bilhetes-esgotados
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-11-03"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Alcázar von Segovia Tickets: 7 € für Palast und Museum, 10 €
 metaTitle: 'Alcázar von Segovia Tickets: Preis & gratis'
 categoria: madrid
 slug: alcazar-segovia-tickets-ausverkauft
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

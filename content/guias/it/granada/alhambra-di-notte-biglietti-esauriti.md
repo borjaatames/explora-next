@@ -4,8 +4,8 @@ descripcion: 'Alhambra di notte: la visita notturna ai Palazzi Nasridi costa 12,
 metaTitle: 'Alhambra di notte: biglietti, orari e prezzi'
 categoria: granada
 slug: alhambra-di-notte-biglietti-esauriti
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

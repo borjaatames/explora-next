@@ -4,8 +4,8 @@ descripcion: 'Road trip Espagne 10 jours, sans voiture : Madrid et Tolède, Sév
 metaTitle: 'Road trip Espagne 10 jours en train'
 categoria: madrid
 slug: road-trip-espagne-10-jours
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Prado kostenlos: freier Eintritt Mo-Sa 18-20 Uhr, So und feiertags
 metaTitle: 'Prado kostenlos: Gratiszeiten und Schlange'
 categoria: madrid
 slug: prado-museum-kostenlos
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

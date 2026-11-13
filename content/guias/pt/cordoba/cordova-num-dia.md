@@ -3,8 +3,8 @@ titulo: "Córdova num dia: o roteiro para não perder o essencial"
 descripcion: "O que ver em Córdova num dia: Mesquita-Catedral, Judiaria, Alcázar, Ponte Romana e pátios. Percurso a pé hora a hora, onde comer e o que evitar."
 categoria: "cordoba"
 slug: "cordova-num-dia"
-fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-28'
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

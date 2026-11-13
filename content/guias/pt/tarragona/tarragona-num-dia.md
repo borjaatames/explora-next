@@ -4,8 +4,8 @@ descripcion: "O que ver em Tarragona num dia: anfiteatro, circo, catedral, mural
 respuestaCorta: 'Tarragona vê-se a pé num dia: comece às 9h30 no **anfiteatro junto ao mar**, depois o circo e a Torre do Pretório, a Catedral e a Part Alta, as muralhas e o Balcó del Mediterrani, com um **almoço de marisco no Serrallo**. O comboio regional a partir de Barcelona demora **1h-1h15**, e uma visita guiada a pé pela Tarraco romana custa desde 15 €.'
 categoria: "tarragona"
 slug: "tarragona-num-dia"
-fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-17"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

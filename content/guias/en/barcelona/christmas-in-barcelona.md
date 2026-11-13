@@ -3,8 +3,8 @@ titulo: "Christmas in Barcelona 2026: lights, Santa Llúcia market, New Year's E
 descripcion: "Christmas in Barcelona 2026: Santa Llúcia market, lights on 130 km of streets, nativity scene, caga tió, Montjuïc New Year's Eve, parade and holiday hours."
 categoria: "barcelona"
 slug: "christmas-in-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

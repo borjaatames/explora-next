@@ -4,8 +4,8 @@ descripcion: "Hen or stag do in Madrid: private party tuk-tuk for €150, paella
 metaTitle: "Hen and stag party in Madrid: ideas and prices"
 categoria: "madrid"
 slug: "hen-and-stag-party-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-11-09"
 autor: Borja
 publicada: true
 destacada: false

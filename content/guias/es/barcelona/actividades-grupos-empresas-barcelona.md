@@ -4,8 +4,8 @@ descripcion: "Actividades para grupos y empresas en Barcelona: tapas y vino en p
 metaTitle: "Actividades para grupos y empresas en Barcelona, con precios"
 categoria: "barcelona"
 slug: "actividades-grupos-empresas-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-22"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

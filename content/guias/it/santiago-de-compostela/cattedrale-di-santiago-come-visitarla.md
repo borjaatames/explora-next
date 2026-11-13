@@ -4,8 +4,8 @@ descripcion: "Guida per visitare la Cattedrale di Santiago: cosa è gratis e cos
 respuestaCorta: 'Entrare nella Cattedrale di Santiago è **gratis, tutti i giorni dalle 7:00 alle 21:00**, dalla Puerta de Platerías. Si pagano le visite a orario: il **Pórtico de la Gloria**, i **tetti** e il museo, che in estate vanno esauriti (tour guidati da 25 €). Dal 16 ottobre 2026 le **Messe del Pellegrino si celebrano nella chiesa di San Agustín** per lavori.'
 categoria: "santiago-de-compostela"
 slug: "cattedrale-di-santiago-come-visitarla"
-fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-04"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

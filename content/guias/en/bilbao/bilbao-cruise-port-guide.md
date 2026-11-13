@@ -4,8 +4,8 @@ descripcion: "Bilbao cruise port is in Getxo, 12-15 km from the city. Metro line
 metaTitle: "Bilbao Cruise Port (Getxo): Metro, Taxi and Guggenheim"
 categoria: "bilbao"
 slug: "bilbao-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

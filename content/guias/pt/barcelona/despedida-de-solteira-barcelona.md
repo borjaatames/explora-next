@@ -4,8 +4,8 @@ descripcion: "Despedida em Barcelona: prova de cerveja privada num terraço por 
 metaTitle: "Despedida de solteira ou de solteiro em Barcelona: planos e regras"
 categoria: "barcelona"
 slug: "despedida-de-solteira-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

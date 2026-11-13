@@ -4,8 +4,8 @@ descripcion: 'Kathedrale Toledo: 12 € Eintritt auf der offiziellen Website, ge
 metaTitle: 'Kathedrale Toledo: Eintritt und Zeiten'
 categoria: madrid
 slug: kathedrale-toledo-tickets
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

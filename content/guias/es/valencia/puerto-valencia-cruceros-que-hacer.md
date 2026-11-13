@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Valencia: la terminal está a unos 5 km del c
 metaTitle: "Puerto de Valencia en crucero: qué hacer en la escala"
 categoria: "valencia"
 slug: "puerto-valencia-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

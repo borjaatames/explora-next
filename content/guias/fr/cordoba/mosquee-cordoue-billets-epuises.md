@@ -3,8 +3,8 @@ titulo: 'Billets de la Mosquée-cathédrale de Cordoue épuisés : que faire'
 descripcion: 'Si le site officiel de la Mosquée-cathédrale n''a plus de billets : autres créneaux, le guichet du Patio de San Eulogio, l''heure gratuite du matin, le clocher, la visite de nuit et les visites avec entrée incluse.'
 categoria: cordoba
 slug: mosquee-cordoue-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

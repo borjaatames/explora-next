@@ -3,8 +3,8 @@ titulo: 'Billets de La Pedrera épuisés : que faire et quelles options restent'
 descripcion: 'Si le site officiel de La Pedrera (Casa Milà) n''a plus de place : autres créneaux et formules, le billet à date ouverte, la visite au lever du soleil, la Night Experience, le guichet, la revente et ce qu''on peut voir sans billet sur le Passeig de Gràcia.'
 categoria: barcelona
 slug: la-pedrera-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

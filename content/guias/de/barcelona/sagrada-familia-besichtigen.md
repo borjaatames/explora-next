@@ -4,8 +4,8 @@ descripcion: 'Sagrada Familia Tickets: offizielle Preise 2026 (26 €, mit Turm 
 metaTitle: 'Sagrada Familia Tickets: Preise und Tipps'
 categoria: "barcelona"
 slug: "sagrada-familia-besichtigen"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

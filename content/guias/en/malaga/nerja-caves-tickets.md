@@ -4,7 +4,7 @@ descripcion: 'Nerja Caves tickets 2026: €16 online or €18 at the door (€18
 metaTitle: 'Nerja Caves tickets, prices and hours'
 categoria: malaga
 slug: nerja-caves-tickets
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

@@ -5,8 +5,8 @@ metaTitle: "Guggenheim Bilbao: Tickets und Tipps"
 respuestaCorta: 'Draußen ist alles gratis: **Puppy, Maman und Gehrys Titanfassade** wirken am schönsten bei Sonnenuntergang. Drinnen solltest du **2–2,5 Stunden** einplanen und gezielt zu Richard Serras *Die Materie der Zeit* gehen. Das reguläre Ticket kostet **je nach Ausstellung 12 bis 18 €** (unter 18 Jahren gratis, Audioguide inklusive) und wird online mit Zeitfenster gekauft. Montags geschlossen, außer im Juli, August und an Brückentagen.'
 categoria: "bilbao"
 slug: "guggenheim-museum-besichtigen"
-fecha: "2026-03-24"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-07"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: true

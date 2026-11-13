@@ -3,8 +3,8 @@ titulo: "Eating in Valencia with criteria: real paella and where to find it"
 descripcion: "Eating in Valencia: what real Valencian paella is, when and where to eat it (El Palmar), other rice dishes, horchata, prices and the traps to skip."
 categoria: "valencia"
 slug: "eating-in-valencia-paella"
-fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Weihnachten in Granada 2026: Lichter, Märkte, Alhambra im Winter, Sier
 descripcion: "Weihnachten in Granada 2026: Lichtshow, Märkte, Alhambra an Feiertagen (25.12. und 1.1. zu), Skifahren in der Sierra Nevada, Umzug und der 2. Januar."
 categoria: "granada"
 slug: "weihnachten-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Natal em Barcelona 2026: luzes, feira de Santa Llúcia, passagem de ano
 descripcion: "Natal em Barcelona 2026: feira de Santa Llúcia, luzes em 130 km de ruas, presépio, caga tió, passagem de ano em Montjuïc, cavalgada e horários nos feriados."
 categoria: "barcelona"
 slug: "natal-em-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

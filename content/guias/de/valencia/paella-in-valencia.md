@@ -5,8 +5,8 @@ metaTitle: "Paella in Valencia: wo sie am besten ist"
 respuestaCorta: 'Die echte **Paella valenciana** besteht aus Huhn, Kaninchen, Garrofó und grünen Bohnen, ohne Meeresfrüchte, und wird **mittags von 13:30 bis 16:00 Uhr** gegessen. Die beste gibt es in **El Palmar an der Albufera**, 45 Minuten mit dem EMT-Bus vom Zentrum. Rechne mit **15–22 € pro Person**, mindestens zwei Portionen und 30–45 Minuten Wartezeit, weil sie frisch zubereitet wird.'
 categoria: "valencia"
 slug: "paella-in-valencia"
-fecha: "2026-03-16"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

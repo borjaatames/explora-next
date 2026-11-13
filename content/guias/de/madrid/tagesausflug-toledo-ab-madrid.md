@@ -4,8 +4,8 @@ descripcion: 'Toledo Sehenswürdigkeiten an einem Tag: Kathedrale, Santo Tomé, 
 metaTitle: 'Toledo Sehenswürdigkeiten an einem Tag'
 categoria: "madrid"
 slug: "tagesausflug-toledo-ab-madrid"
-fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-23"
+fecha_actualizacion: "2026-11-05"
 autor: Borja
 publicada: true
 destacada: false

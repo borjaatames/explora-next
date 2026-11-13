@@ -4,8 +4,8 @@ descripcion: 'Montserrat Ausflug ab Barcelona: 5 Optionen, vom halben Tag in kle
 metaTitle: 'Montserrat Ausflug ab Barcelona im Vergleich'
 categoria: "barcelona"
 slug: "montserrat-welche-tour-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

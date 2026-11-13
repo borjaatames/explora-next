@@ -3,8 +3,8 @@ titulo: "Excursion privée ou en groupe depuis Grenade : prix par personne et qu
 descripcion: "Depuis Grenade, l'Alpujarra en groupe coûte 71 € et Ronda ou le Caminito 135 € ; en privé, 150-400 € par personne à 2, 4 ou 6. Tableau et point d'équilibre."
 categoria: "granada"
 slug: "excursion-privee-ou-en-groupe-depuis-grenade"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-20"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: false

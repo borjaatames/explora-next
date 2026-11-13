@@ -3,8 +3,8 @@ titulo: 'Timanfaya: cómo visitarlo, entradas con hora y qué ver'
 descripcion: 'Cómo visitar el Parque Nacional de Timanfaya en 2026: la entrada de 30 € solo online y con hora, si se puede entrar en coche, la Ruta de los Volcanes, El Diablo, las rutas guiadas gratuitas y la mejor hora para ir.'
 categoria: lanzarote
 slug: timanfaya-como-visitarlo
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Que voir à Valence en 2 jours : centre historique, Cité des Arts
 respuestaCorta: 'Consacrez **le jour 1 au centre historique** (Mercado Central, Lonja de la Seda, cathédrale et Miguelete, le Carmen) et l''après-midi à la **Cité des Arts et des Sciences** ; **le jour 2, à l''Albufera**, avec balade en barque et vraie paella à El Palmar le midi, puis la Malvarrosa. L''Oceanogràfic, à partir de 37 € : réservez-le en ligne en haute saison.'
 categoria: "valencia"
 slug: "valence-en-2-jours"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

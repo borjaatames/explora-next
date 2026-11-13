@@ -3,8 +3,8 @@ titulo: "Serra de Tramuntana et Sóller : itinéraire dans la Majorque des monta
 descripcion: "Guide de la Serra de Tramuntana : Valldemossa, Deià, Sóller et son train, Sa Calobra et les belvédères. Itinéraire en voiture ou en train, que voir et quand y aller."
 categoria: "mallorca"
 slug: "serra-tramuntana-soller"
-fecha: "2026-03-18"
-fecha_actualizacion: "2026-03-18"
+fecha: "2026-09-15"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

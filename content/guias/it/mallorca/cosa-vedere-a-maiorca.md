@@ -3,8 +3,8 @@ titulo: "Cosa vedere a Maiorca: Palma, Tramuntana e le calette più belle"
 descripcion: "Guida di Maiorca: Cattedrale di Palma, Serra de Tramuntana, Valldemossa, Sóller, Cuevas del Drach e calette. Cosa vedere per zona, quanti giorni, come muoversi e quando andare."
 categoria: "mallorca"
 slug: "cosa-vedere-a-maiorca"
-fecha: "2026-03-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-18"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: true

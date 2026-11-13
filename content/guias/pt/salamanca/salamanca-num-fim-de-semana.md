@@ -3,8 +3,8 @@ titulo: "Salamanca num fim de semana: guia honesto para viver a cidade"
 descripcion: "Plano de fim de semana em Salamanca com critério: monumentos, as duas catedrais, a Universidade, a Casa Lis, onde comer tapas e os melhores bares de cocktails. Honesto."
 categoria: "salamanca"
 slug: "salamanca-num-fim-de-semana"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

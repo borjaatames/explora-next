@@ -3,8 +3,8 @@ titulo: 'Visiter Timanfaya : billets à horaire, accès et que voir'
 descripcion: 'Comment visiter le parc national de Timanfaya en 2026 : le billet à 30 € vendu uniquement en ligne avec un créneau horaire, peut-on y aller en voiture, la Route des Volcans, El Diablo, les randonnées gratuites guidées par les gardes et le meilleur moment pour y aller.'
 categoria: lanzarote
 slug: visiter-timanfaya
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

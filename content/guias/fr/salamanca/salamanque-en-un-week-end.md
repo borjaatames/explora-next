@@ -4,8 +4,8 @@ descripcion: "Programme pour un week-end à Salamanque, avec discernement : monu
 respuestaCorta: 'Deux jours, c''est la bonne mesure pour Salamanque. Faites **les grands monuments le samedi** (Plaza Mayor, Clerecía, Université et les deux cathédrales), la Casa Lis l''après-midi, le Puente Romano au coucher du soleil et la **soirée du samedi** ; gardez le dimanche pour la Casa Museo Unamuno, las Dueñas ou **un seul village**. La visite à pied avec un guide local commence à 17 €.'
 categoria: "salamanca"
 slug: "salamanque-en-un-week-end"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

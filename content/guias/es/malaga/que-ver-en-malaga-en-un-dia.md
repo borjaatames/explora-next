@@ -4,8 +4,8 @@ descripcion: 'Qué ver en Málaga en un día: Alcazaba y Gibralfaro (10 € junt
 metaTitle: 'Qué ver en Málaga en un día: ruta y precios'
 categoria: malaga
 slug: que-ver-en-malaga-en-un-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

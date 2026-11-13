@@ -4,8 +4,8 @@ descripcion: 'Madrid to Toledo train: the Avant takes 33 minutes from Atocha, ab
 metaTitle: 'Madrid to Toledo train: times and fares'
 categoria: madrid
 slug: madrid-to-toledo-train
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

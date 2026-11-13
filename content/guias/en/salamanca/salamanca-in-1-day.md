@@ -3,7 +3,7 @@ titulo: "Salamanca in 1 day: a curated route without missing the essentials"
 descripcion: "Salamanca in one day with judgment: Plaza Mayor, the University, the two cathedrals, La Clerecía and the Roman bridge at sunset. What to see, what to skip, and common mistakes."
 categoria: "salamanca"
 slug: "salamanca-in-1-day"
-fecha: "2026-04-28"
+fecha: "2026-07-28"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

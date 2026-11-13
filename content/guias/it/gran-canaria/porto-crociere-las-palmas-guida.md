@@ -4,8 +4,8 @@ descripcion: "Crociera a Las Palmas: Las Canteras a 10-15 min a piedi, Vegueta c
 metaTitle: "Crociera a Las Palmas: cosa fare durante lo scalo"
 categoria: "gran-canaria"
 slug: "porto-crociere-las-palmas-guida"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-09"
 autor: Borja
 publicada: true
 destacada: false

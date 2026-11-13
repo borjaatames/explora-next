@@ -3,8 +3,8 @@ titulo: "Natal em Valência 2026: luzes, mercados, Expojove e Cavalgada de Reis"
 descripcion: "Natal em Valência 2026: espetáculos pirotécnicos aos sábados às 18h30 na Plaza del Ayuntamiento, mercados, presépios, Expojove (26 dez-4 jan) e Cavalgada."
 categoria: "valencia"
 slug: "natal-em-valencia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

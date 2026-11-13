@@ -4,8 +4,8 @@ descripcion: 'Museo del Prado gratis da lunedì a sabato 18-20 e domenica 17-19.
 metaTitle: 'Museo del Prado gratis: orari e coda'
 categoria: madrid
 slug: museo-del-prado-gratis-orari
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

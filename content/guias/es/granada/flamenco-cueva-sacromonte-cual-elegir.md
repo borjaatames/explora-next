@@ -4,8 +4,8 @@ descripcion: "Las 4 cuevas de flamenco del Sacromonte de Granada, comparadas: pr
 respuestaCorta: 'Las cuatro cuevas del Sacromonte ofrecen alrededor de una hora de zambra gitana por 20-28 €. Elige **Los Tarantos** (28 €, desde 1972, bebida incluida) para una primera vez segura, **La Faraona** (20 €, 25 plazas) para la sala más íntima y **Los Amayas** (25 €, sin escenario ni megafonía, bebida incluida) para el formato más tradicional. Las cuatro tienen **cancelación gratuita hasta 24 horas** antes.'
 categoria: "granada"
 slug: "flamenco-cueva-sacromonte-cual-elegir"
-fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-12"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

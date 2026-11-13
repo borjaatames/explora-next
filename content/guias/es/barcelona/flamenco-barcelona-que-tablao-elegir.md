@@ -4,9 +4,9 @@ descripcion: 'Flamenco en Barcelona: comparamos los 4 shows por precio, horarios
 metaTitle: 'Flamenco en Barcelona: qué tablao elegir'
 categoria: "barcelona"
 slug: "flamenco-barcelona-que-tablao-elegir"
-fecha: "2026-09-06"
+fecha: "2026-07-01"
 autor: Borja
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false

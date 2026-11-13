@@ -3,8 +3,8 @@ titulo: "Cádiz an einem Tag: die älteste Stadt des Westens"
 descripcion: "Was man in Cádiz an einem Tag sehen sollte: Kathedrale, Torre Tavira, Viertel El Pópulo, La Viña und La Caleta. Eine Stunde-für-Stunde-Route zu Fuß, wo man isst und was man auslassen sollte."
 categoria: "cadiz"
 slug: "cadiz-in-einem-tag"
-fecha: "2026-04-18"
-fecha_actualizacion: "2026-04-18"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: true

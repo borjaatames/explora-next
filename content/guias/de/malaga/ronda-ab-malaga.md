@@ -4,8 +4,8 @@ descripcion: "Wie du von Málaga nach Ronda an einem Tag kommst: Auto, Bus, Zug,
 respuestaCorta: 'Ronda liegt **etwa 100 km von Málaga, 1 Std. 45 mit dem Auto**. Mit dem **Bus** sind es rund 2 Stunden, einen Direktzug gibt es nicht. Am einfachsten ohne Auto ist ein **Gruppenausflug** (ab 34 €, mit Setenil de las Bodegas); **privat** ab 580 € für 2 Personen oder 720 € für 4. Ein Tag reicht für die Schlucht (El Tajo), die Puente Nuevo und die Altstadt.'
 categoria: "malaga"
 slug: "ronda-ab-malaga"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-09-14"
+fecha_actualizacion: "2026-09-29"
 autor: Borja
 publicada: true
 destacada: false

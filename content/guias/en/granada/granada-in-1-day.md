@@ -3,8 +3,8 @@ titulo: "Granada in 1 day: the Alhambra, Albaicín and Sacromonte hour by hour"
 descripcion: "Granada in one day: the Alhambra at 8:30 (€22.27, book weeks ahead), free tapas, the Royal Chapel, sunset at San Nicolás and a cave flamenco show. Times and budget."
 categoria: "granada"
 slug: "granada-in-1-day"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

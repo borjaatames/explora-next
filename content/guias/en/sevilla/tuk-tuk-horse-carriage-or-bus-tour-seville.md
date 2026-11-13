@@ -3,8 +3,8 @@ titulo: "Tuk tuk, horse carriage or hop-on hop-off bus in Seville: which to choo
 descripcion: "Seville: hop-on hop-off bus €28 per person, private tuk tuk €89-99 for up to 4 and guided horse carriage €298. Cost per person and which to choose."
 categoria: "sevilla"
 slug: "tuk-tuk-horse-carriage-or-bus-tour-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Que faire à Barcelone en couple : voilier au coucher du soleil av
 metaTitle: "Que faire à Barcelone en couple : idées romantiques et prix"
 categoria: "barcelona"
 slug: "que-faire-a-barcelone-en-couple"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

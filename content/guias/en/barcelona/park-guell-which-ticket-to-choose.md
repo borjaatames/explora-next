@@ -4,7 +4,7 @@ descripcion: 'Park Güell tickets: €18 on the official site, €21.50 skip-the
 metaTitle: 'Park Güell tickets: prices and which to buy'
 categoria: "barcelona"
 slug: "park-guell-which-ticket-to-choose"
-fecha: "2026-09-20"
+fecha: "2026-09-11"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,7 +24,7 @@ slugs:
   fr: park-guell-quel-billet-choisir
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the **ticket with the Gaudí House Museum** (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
 actividades:

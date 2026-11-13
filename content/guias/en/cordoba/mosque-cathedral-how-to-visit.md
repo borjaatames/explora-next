@@ -4,8 +4,8 @@ descripcion: 'Mezquita Córdoba tickets cost €15, and entry is free Monday to 
 metaTitle: 'Mezquita Córdoba tickets and guided tours'
 categoria: "cordoba"
 slug: "mosque-cathedral-how-to-visit"
-fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: true

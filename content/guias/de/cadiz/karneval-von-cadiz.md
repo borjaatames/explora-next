@@ -5,8 +5,8 @@ metaTitle: "Karneval Cádiz 2027: Termine und Tipps"
 respuestaCorta: 'Der Karneval von Cádiz 2027 dauert **von Donnerstag, 4., bis Sonntag, 14. Februar**, das **Finale des Falla-Wettbewerbs ist am Freitag, 5. Februar**. Der Straßenkarneval mit Gruppen, die ihre Coplas in La Viña und im Pópulo singen, ist **gratis**. Knapp wird nur die Unterkunft: **Buche Monate im Voraus** oder schlaf in Jerez, El Puerto oder San Fernando und komm mit dem Zug.'
 categoria: "cadiz"
 slug: "karneval-von-cadiz"
-fecha: "2026-04-29"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

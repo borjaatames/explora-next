@@ -3,8 +3,8 @@ titulo: "Tuk tuk, hop-on hop-off bus or free tour in Madrid: which to choose and
 descripcion: "Madrid: free tours run on tips (€10-20 on average), the hop-on hop-off bus is €29.70 and a private tuk tuk €79 for up to 4. Cost per person compared."
 categoria: "madrid"
 slug: "tuk-tuk-hop-on-hop-off-or-free-tour-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

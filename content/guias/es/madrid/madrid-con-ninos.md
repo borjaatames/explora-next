@@ -4,8 +4,8 @@ descripcion: "Madrid con niños y adolescentes: zoo, parque de atracciones, muse
 respuestaCorta: 'El plan familiar más fiable de Madrid es el **Zoo Aquarium** de la Casa de Campo (desde 20 € online); con niños de 8 años en adelante, el **Parque de Atracciones** de al lado (desde 24 €) suele ser el mejor recuerdo. Suma los dinosaurios del **Museo de Ciencias Naturales** (7 €) y las barcas del **Retiro**, y programa una sola actividad grande al día.'
 categoria: "madrid"
 slug: "madrid-con-ninos"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

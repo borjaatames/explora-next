@@ -3,8 +3,8 @@ titulo: 'Que voir à Gérone en une journée : vieille ville médiévale et Game
 descripcion: 'Guide de Gérone en une journée : cathédrale, El Call, maisons de l''Onyar et remparts. Itinéraire à pied heure par heure, lieux de tournage de Game of Thrones, où manger et quoi éviter.'
 categoria: girona
 slug: que-voir-a-gerone-en-une-journee
-fecha: '2026-04-25'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-05"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: true

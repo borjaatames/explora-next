@@ -3,8 +3,8 @@ titulo: "Córdoba in one day: the route to catch the essentials"
 descripcion: "What to see in Córdoba in one day: Mosque-Cathedral, Jewish Quarter, Alcázar, Roman Bridge and patios. An hour-by-hour walking route, where to eat and what to skip."
 categoria: "cordoba"
 slug: "cordoba-in-one-day"
-fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-28'
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Park Güell Tickets und Eintritt: offiziell 18 €, ohne Anstehen 
 metaTitle: 'Park Güell Tickets und Eintritt: Preise 2026'
 categoria: "barcelona"
 slug: "park-guell-welches-ticket-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

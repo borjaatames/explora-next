@@ -4,8 +4,8 @@ descripcion: "Barcelona con niños sin agobios: CosmoCaixa, Tibidabo, Sagrada Fa
 respuestaCorta: 'Con niños, planea **como mucho dos cosas grandes al día** y monta el viaje alrededor de **CosmoCaixa** (8 €, gratis menores de 16) y **Tibidabo** (35 € para mayores de 120 cm; 14 € de 90 a 120 cm), más el Acuario y la playa. Deja la Sagrada Família para mayores de 7, muévete en metro y aléjate de las Ramblas.'
 categoria: "barcelona"
 slug: "barcelona-con-ninos"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Roteiro Espanha 10 dias de comboio: Madrid e Toledo, Sevilha, Cór
 metaTitle: 'Roteiro Espanha 10 dias de comboio'
 categoria: madrid
 slug: roteiro-espanha-10-dias
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

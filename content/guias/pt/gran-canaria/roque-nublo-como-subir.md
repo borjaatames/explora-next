@@ -3,8 +3,8 @@ titulo: 'Roque Nublo: como subir, onde estacionar e o que ver perto'
 descripcion: 'Guia para subir ao Roque Nublo: a reserva obrigatória das 9h00 às 17h00, onde estacionar agora que La Goleta está fechado, o autocarro-vaivém, o trilho e o que ver perto.'
 categoria: gran-canaria
 slug: roque-nublo-como-subir
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

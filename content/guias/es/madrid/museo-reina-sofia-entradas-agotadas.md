@@ -4,8 +4,8 @@ descripcion: 'Si el Reina Sofía sale agotado: entrada de 12 €, horas gratis (
 metaTitle: 'Reina Sofía entradas agotadas: opciones y horas gratis'
 categoria: madrid
 slug: museo-reina-sofia-entradas-agotadas
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

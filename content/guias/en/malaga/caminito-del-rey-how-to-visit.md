@@ -5,8 +5,8 @@ metaTitle: 'Caminito del Rey: tickets, how to get there'
 respuestaCorta: '**Book the ticket weeks or months ahead**: it isn''t sold at the gate in season. The route is linear, about **7.7 km and 3-4 hours** including the shuttle bus between the two entrances; it''s physically easy but **under-8s aren''t allowed**. From Málaga, the train to El Chorro–Caminito del Rey takes 40-50 minutes; a guided tour with transport costs from €72.'
 categoria: "malaga"
 slug: "caminito-del-rey-how-to-visit"
-fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

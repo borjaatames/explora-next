@@ -4,8 +4,8 @@ descripcion: 'Se il Reina Sofía risulta esaurito: biglietto da 12 €, ore grat
 metaTitle: 'Reina Sofía biglietti esauriti: opzioni e ore gratis'
 categoria: madrid
 slug: museo-reina-sofia-biglietti-esauriti
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

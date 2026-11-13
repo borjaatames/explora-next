@@ -4,8 +4,8 @@ descripcion: 'Caminito del Rey ab Málaga: Tickets rechtzeitig buchen, Anreise p
 metaTitle: 'Caminito del Rey: Tickets, Anreise, Tipps'
 categoria: "malaga"
 slug: "caminito-del-rey-besichtigen"
-fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

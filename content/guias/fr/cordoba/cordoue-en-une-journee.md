@@ -3,8 +3,8 @@ titulo: "Cordoue en une journée : l'itinéraire pour voir l'essentiel"
 descripcion: "Que voir à Cordoue en une journée : Mosquée-cathédrale, quartier juif, Alcazar, pont romain et patios. Un itinéraire à pied heure par heure, où manger et ce qu'il vaut mieux éviter."
 categoria: "cordoba"
 slug: "cordoue-en-une-journee"
-fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-28'
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

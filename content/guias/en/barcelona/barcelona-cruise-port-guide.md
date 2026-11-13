@@ -4,8 +4,8 @@ descripcion: "Barcelona cruise port: Moll Adossat terminals, the Cruise Bus to C
 metaTitle: "Barcelona cruise port guide: what to do ashore"
 categoria: "barcelona"
 slug: "barcelona-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-26"
+fecha_actualizacion: "2026-10-04"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

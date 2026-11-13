@@ -4,8 +4,8 @@ descripcion: "Las mejores escapadas de un día desde Valencia: la Albufera, Sagu
 respuestaCorta: 'La escapada imprescindible desde Valencia es la **Albufera**, a 20 minutos: paseo en barca entre arrozales y paella en El Palmar. Para historia, **Sagunto** (30 minutos en Cercanías) y **Xàtiva** (45 minutos) tienen castillos espectaculares; para playa con castillo, **Peñíscola**, a hora y media. En excursión organizada, Guadalest, Altea y Fuentes del Algar desde 55 €.'
 categoria: "valencia"
 slug: "escapadas-desde-valencia"
-fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

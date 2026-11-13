@@ -4,8 +4,8 @@ descripcion: 'Alcázar Seville tickets sold out? The Patio de Banderas box offic
 metaTitle: 'Alcázar Seville sold out: what to do'
 categoria: sevilla
 slug: alcazar-of-seville-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

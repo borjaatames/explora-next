@@ -4,8 +4,8 @@ descripcion: "What to see in Tarragona in one day: amphitheatre, circus, cathedr
 respuestaCorta: 'Tarragona is seen on foot in a day: start at 9:30 at the **amphitheatre by the sea**, then the circus and Praetorium Tower, the Cathedral and Part Alta, the walls and the Balcó del Mediterrani, with a **seafood lunch in the Serrallo**. The regional train from Barcelona takes **1h-1h 15min**, and a guided walking tour of Roman Tarraco costs from €15.'
 categoria: "tarragona"
 slug: "tarragona-in-one-day"
-fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-17"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

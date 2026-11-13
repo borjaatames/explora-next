@@ -3,8 +3,8 @@ titulo: "Prado, Reina Sofía oder Thyssen: welches Museum, wenn du nur eines wä
 descripcion: "Ehrlicher Vergleich der drei großen Museen Madrids: Prado, Reina Sofía und Thyssen. Welches zu deinem Profil passt und welches du auslassen kannst."
 categoria: "madrid"
 slug: "prado-reina-sofia-thyssen-vergleich"
-fecha: "2026-04-16"
-fecha_actualizacion: "2026-05-01"
+fecha: "2026-04-18"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Cosa fare in coppia a Barcellona: barca a vela al tramonto con ope
 metaTitle: "Cosa fare in coppia a Barcellona: idee romantiche e prezzi"
 categoria: "barcelona"
 slug: "cose-romantiche-da-fare-a-barcellona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

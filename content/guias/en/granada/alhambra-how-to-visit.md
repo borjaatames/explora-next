@@ -4,8 +4,8 @@ descripcion: 'Alhambra tickets cost €22.27 on the official site and sell out w
 metaTitle: 'Alhambra tickets: prices, types, how to buy'
 categoria: granada
 slug: alhambra-how-to-visit
-fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-10-14"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

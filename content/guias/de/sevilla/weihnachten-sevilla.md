@@ -3,8 +3,8 @@ titulo: "Weihnachten in Sevilla 2026: Lichter, Lichtshow an der Plaza de San Fra
 descripcion: "Weihnachten in Sevilla 2026: Lichtshow an der Plaza de San Francisco (18:30-23:00), Krippenmarkt, Klostergebäck, Zambombas, Umzug und Feiertage."
 categoria: "sevilla"
 slug: "weihnachten-sevilla"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

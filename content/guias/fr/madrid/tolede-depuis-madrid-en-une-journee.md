@@ -5,8 +5,8 @@ metaTitle: 'Que voir à Tolède en un jour depuis Madrid'
 respuestaCorta: 'Prenez l''**Avant depuis Atocha (33 minutes, 22-26 € aller-retour)** ou roulez une heure par l''A-42, et arrivez à 10 h. Consacrez la matinée à la **cathédrale (12 €)**, à Santo Tomé et à Santa María la Blanca, l''après-midi au quartier juif, et terminez au **Mirador del Valle**. Le **bracelet touristique à 14 €** donne accès à sept petits monuments.'
 categoria: "madrid"
 slug: "tolede-depuis-madrid-en-une-journee"
-fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-23"
+fecha_actualizacion: "2026-11-05"
 autor: Borja
 publicada: true
 destacada: false

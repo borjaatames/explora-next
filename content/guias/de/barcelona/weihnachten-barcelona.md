@@ -3,8 +3,8 @@ titulo: "Weihnachten in Barcelona 2026: Lichter, Weihnachtsmarkt Santa Llúcia, 
 descripcion: "Weihnachten in Barcelona 2026: Markt Santa Llúcia, Lichter auf 130 km Straßen, Krippe, Caga Tió, Silvester am Montjuïc, Umzug und Feiertags-Öffnungszeiten."
 categoria: "barcelona"
 slug: "weihnachten-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

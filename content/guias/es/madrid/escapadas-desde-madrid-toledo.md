@@ -5,8 +5,8 @@ metaTitle: 'Qué ver en Toledo en un día desde Madrid'
 respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelta)** o conduce una hora por la A-42, y llega a las 10:00. Dedica la mañana a la **Catedral (12 €)**, Santo Tomé y Santa María la Blanca, la tarde a la Judería y cierra en el **Mirador del Valle**. La **pulsera turística de 14 €** cubre siete monumentos pequeños.'
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
-fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-23"
+fecha_actualizacion: "2026-11-05"
 autor: Borja
 publicada: true
 destacada: false

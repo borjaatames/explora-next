@@ -4,8 +4,8 @@ descripcion: "Crociera a Santa Cruz de Tenerife: centro a 10-20 min a piedi, tra
 metaTitle: "Crociera a Tenerife: cosa fare a Santa Cruz"
 categoria: "tenerife"
 slug: "porto-crociere-tenerife-cosa-fare"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

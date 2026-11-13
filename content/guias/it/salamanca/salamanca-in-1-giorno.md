@@ -3,7 +3,7 @@ titulo: "Salamanca in 1 giorno: un percorso ragionato senza perdere l'essenziale
 descripcion: "Salamanca in un giorno con criterio: Plaza Mayor, l'Università, le due cattedrali, La Clerecía e il ponte romano al tramonto. Cosa vedere, cosa saltare ed errori comuni."
 categoria: "salamanca"
 slug: "salamanca-in-1-giorno"
-fecha: "2026-04-28"
+fecha: "2026-07-28"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

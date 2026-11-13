@@ -4,8 +4,8 @@ descripcion: "Scalo in crociera a Bilbao: il terminal è a Getxo, a 12-15 km. Me
 metaTitle: "Porto di Bilbao in crociera: Getxo, metro e Guggenheim"
 categoria: "bilbao"
 slug: "porto-crociere-bilbao-guida"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

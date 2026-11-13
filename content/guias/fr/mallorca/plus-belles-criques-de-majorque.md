@@ -4,8 +4,8 @@ descripcion: "Les plus belles criques et plages de Majorque : Es Trenc, Cala Mon
 respuestaCorta: 'Les plus belles criques de Majorque sont **Es Trenc** (sauvage, aux eaux caribéennes), **Cala Mondragó** (parc naturel, idéale pour les familles), **Caló des Moro** (minuscule et photogénique) et **Sa Calobra**, dans la Tramuntana. En juillet et août, arrivez avant 9 h ou après 18 h, ou venez en bateau : celui de Port de Sóller à Sa Calobra est à partir de 35 €.'
 categoria: "mallorca"
 slug: "plus-belles-criques-de-majorque"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

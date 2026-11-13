@@ -4,8 +4,8 @@ descripcion: "Guide pour visiter le Guggenheim de Bilbao : billets et horaires, 
 respuestaCorta: 'L''extérieur est gratuit : **Puppy, Maman et le titane de Gehry** sont à leur avantage au coucher du soleil. À l''intérieur, comptez **2-2 h 30** et allez droit à *La Matière du temps* de Richard Serra. Le billet général coûte **entre 12 et 18 € selon les expositions** (gratuit pour les moins de 18 ans, audioguide inclus) et s''achète en ligne avec un créneau. Fermé le lundi, sauf en juillet, en août et pendant les ponts.'
 categoria: "bilbao"
 slug: "musee-guggenheim-bilbao-comment-le-visiter"
-fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-07"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: true

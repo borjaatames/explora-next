@@ -4,8 +4,8 @@ descripcion: "Come sfruttare al massimo un giorno a Siviglia da Madrid in AVE: A
 respuestaCorta: 'Un giorno a Siviglia da Madrid funziona se prendi il **primo AVE (verso le 7:00)** e fai i quattro imperdibili: l''**Alcázar alle 10:00** con biglietto online, la Cattedrale e la Giralda, Plaza de España nel pomeriggio e **Triana al tramonto**, con ritorno sull''AVE delle 21:30. Treno andata e ritorno da 55-60 €; Alcázar con accesso prioritario da 20 €.'
 categoria: "sevilla"
 slug: "siviglia-in-1-giorno"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

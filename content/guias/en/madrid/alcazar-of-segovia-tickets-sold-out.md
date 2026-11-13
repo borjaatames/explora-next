@@ -4,8 +4,8 @@ descripcion: 'Alcázar of Segovia tickets: €7 for palace and museum, €10 wit
 metaTitle: 'Alcázar of Segovia tickets: price and free entry'
 categoria: madrid
 slug: alcazar-of-segovia-tickets-sold-out
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Weihnachten in Valencia 2026: Lichter, Weihnachtsmärkte, Expojove und 
 descripcion: "Weihnachten in Valencia 2026: Feuerwerk samstags 18:30 Uhr auf der Plaza del Ayuntamiento, Weihnachtsmärkte, Krippen, Expojove (26.12.-4.1.) und Umzug."
 categoria: "valencia"
 slug: "weihnachten-valencia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

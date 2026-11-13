@@ -4,8 +4,8 @@ descripcion: "Scalo in crociera a Valencia: il terminal è a circa 5 km dal cent
 metaTitle: "Porto di Valencia in crociera: cosa fare durante lo scalo"
 categoria: "valencia"
 slug: "porto-crociere-valencia-cosa-fare"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

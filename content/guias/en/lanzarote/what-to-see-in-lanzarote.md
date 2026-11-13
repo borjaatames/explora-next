@@ -4,8 +4,8 @@ descripcion: 'Lanzarote guide with 2026 prices: Timanfaya, Jameos del Agua, Cuev
 respuestaCorta: 'Plan **four or five days**: one for **Timanfaya**, La Geria and El Golfo; one for **César Manrique''s** north (Jameos del Agua, Cueva de los Verdes, Mirador del Río); one for Teguise and the Foundation; and one for **La Graciosa** or the **Papagayo** coves. Hire a car and buy the **Fire Mountains (€30)** and **Cueva de los Verdes (€17)** tickets online for a set date and time: they are not sold at the gate.'
 categoria: lanzarote
 slug: what-to-see-in-lanzarote
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: true

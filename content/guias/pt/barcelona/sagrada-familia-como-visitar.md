@@ -4,8 +4,8 @@ descripcion: "Como visitar a Sagrada Família: preços oficiais de 2026, que tor
 metaTitle: 'Visitar a Sagrada Família: dicas e erros'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Avvistamento di balene e delfini a Tenerife: come scegliere la barca"
 descripcion: "Avvistamento di balene a Tenerife: cinque uscite in barca a confronto (da 28 € a 63 € a persona), quale porto scegliere, le regole di legge per le barche, quando andare e consigli contro il mal di mare."
 categoria: tenerife
 slug: avvistamento-balene-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

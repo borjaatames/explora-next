@@ -3,8 +3,8 @@ titulo: "Flamenco in a Sacromonte cave: which one to choose (Zincalé, Los Amaya
 descripcion: "Granada's 4 Sacromonte flamenco caves, compared: price, duration, atmosphere and who each one is for. Which one to pick depending on what you're after."
 categoria: "granada"
 slug: "flamenco-cave-sacromonte-which-to-choose"
-fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-12"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

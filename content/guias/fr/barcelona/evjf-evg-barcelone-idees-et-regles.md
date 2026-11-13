@@ -4,8 +4,8 @@ descripcion: "Enterrement de vie de jeune fille ou de garçon à Barcelone : dé
 metaTitle: "EVJF ou EVG à Barcelone : activités et règles"
 categoria: "barcelona"
 slug: "evjf-evg-barcelone-idees-et-regles"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

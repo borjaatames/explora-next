@@ -4,8 +4,8 @@ descripcion: "Cómo ver la Alhambra y Granada en una excursión de un día desde
 respuestaCorta: 'Granada está a **1 h 30 en coche** de Málaga y a algo menos de 2 horas en autobús. Se puede ver la Alhambra en el día, pero **las entradas a los Palacios Nazaríes tienen hora fija y se agotan**: compra primero la entrada y organiza el viaje alrededor. Sin coche ni ganas de complicarte, la [excursión privada](/ciudades/malaga/actividades/granada-alhambra-excursion-privada-desde-malaga) incluye transporte, entradas y guía (397 € por persona, mínimo 2).'
 categoria: "malaga"
 slug: "granada-alhambra-desde-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-15"
 autor: Borja
 publicada: true
 destacada: false

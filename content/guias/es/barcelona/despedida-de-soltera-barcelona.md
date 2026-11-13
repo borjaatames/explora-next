@@ -4,8 +4,8 @@ descripcion: "Despedida en Barcelona: cata de cerveza privada en azotea por 55 â
 metaTitle: "Despedida de soltera o soltero en Barcelona: planes y normas"
 categoria: "barcelona"
 slug: "despedida-de-soltera-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

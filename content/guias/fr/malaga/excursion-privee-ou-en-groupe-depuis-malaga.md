@@ -4,8 +4,8 @@ descripcion: "Nous comparons les excursions privées et en groupe depuis Malaga 
 respuestaCorta: 'Pour **1 ou 2 personnes**, l''excursion **en groupe** est bien moins chère (35-72 € par personne contre 290-380 € en privé). À partir de **4 personnes**, la **privée** descend à **180-250 € par personne** et vous gagnez la prise en charge à votre logement, des horaires sur mesure et personne d''autre dans le véhicule. Elle est surtout intéressante pour les familles, les groupes d''amis et les personnes âgées.'
 categoria: "malaga"
 slug: "excursion-privee-ou-en-groupe-depuis-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

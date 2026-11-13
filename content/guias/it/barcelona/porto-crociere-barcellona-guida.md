@@ -4,8 +4,8 @@ descripcion: "Porto crociere di Barcellona: terminal del Moll Adossat, Cruise Bu
 metaTitle: "Porto crociere di Barcellona: cosa fare a terra"
 categoria: "barcelona"
 slug: "porto-crociere-barcellona-guida"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-26"
+fecha_actualizacion: "2026-10-04"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

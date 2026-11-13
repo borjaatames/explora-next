@@ -4,8 +4,8 @@ descripcion: 'So besuchst du 2026 die Isla de Lobos: die kostenlose Genehmigung 
 respuestaCorta: 'Zum Anlanden auf Lobos brauchst du eine **kostenlose Genehmigung des Cabildo** auf **lobospass.com**, mit **200 Plätzen pro Zeitfenster** (10:00-14:00 oder 14:00-18:00) und bis zu 3 Personen pro Antrag; sie wird wenige Tage vor dem Besuch freigeschaltet. Die **Fähre fährt ab dem Hafen Corralejo**, braucht **15-20 Minuten** und kostet **ab 17 €** hin und zurück. Stimm Hin- und Rückfahrt auf dein Zeitfenster ab.'
 categoria: fuerteventura
 slug: isla-de-lobos-anreise
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

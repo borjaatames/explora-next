@@ -3,8 +3,8 @@ titulo: 'Funivia del Teide e permesso per la vetta esauriti: cosa fare'
 descripcion: 'Se la funivia del Teide o il permesso per la vetta sono esauriti: quando si liberano i posti, tour con funivia inclusa, il rifugio di Altavista e cosa vedere senza salire.'
 categoria: tenerife
 slug: teide-biglietti-esauriti
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

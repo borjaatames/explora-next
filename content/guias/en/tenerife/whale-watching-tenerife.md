@@ -3,8 +3,8 @@ titulo: 'Whale and dolphin watching in Tenerife: how to choose a boat'
 descripcion: 'Whale watching in Tenerife: five boat trips compared (€28 to €63 per person), which port to pick, the legal rules for boats, when to go and seasickness tips.'
 categoria: tenerife
 slug: whale-watching-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

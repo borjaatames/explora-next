@@ -4,8 +4,8 @@ descripcion: "Actividades para grupos y empresas en Madrid: tour privado por la 
 metaTitle: "Actividades para grupos y empresas en Madrid, con precios"
 categoria: "madrid"
 slug: "actividades-grupos-empresas-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: false

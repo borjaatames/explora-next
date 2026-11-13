@@ -3,8 +3,8 @@ titulo: 'Day trips from Girona: Costa Brava, Cadaqués and Figueres (Dalí)'
 descripcion: 'The best day trips from Girona: Figueres and the Dalí Theatre-Museum, Cadaqués, Besalú, Tossa de Mar and the Costa Brava coves. How to get there and what to see.'
 categoria: girona
 slug: costa-brava-day-trips-from-girona
-fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

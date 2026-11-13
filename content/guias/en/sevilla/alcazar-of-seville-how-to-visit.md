@@ -4,8 +4,8 @@ descripcion: 'Real Alcázar Seville tickets cost €15.50 and daily capacity sel
 metaTitle: 'Real Alcázar Seville tickets: price and hours'
 categoria: sevilla
 slug: alcazar-of-seville-how-to-visit
-fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

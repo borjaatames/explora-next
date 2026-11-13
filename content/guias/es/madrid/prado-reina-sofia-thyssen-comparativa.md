@@ -4,8 +4,8 @@ descripcion: "Comparativa honesta de los tres grandes museos de Madrid: Prado, R
 respuestaCorta: 'Si solo tienes tiempo para uno, **ve al Prado** (15 €, 2-3 horas; entra a las 10:00). Si tienes para dos, **añade el Thyssen** (14 €) por su recorrido del gótico al Pop Art y sus impresionistas. Deja el **Reina Sofía** (12 €) para los aficionados al arte del siglo XX o para una visita corta al Guernica.'
 categoria: "madrid"
 slug: "prado-reina-sofia-thyssen-comparativa"
-fecha: "2026-04-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-18"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

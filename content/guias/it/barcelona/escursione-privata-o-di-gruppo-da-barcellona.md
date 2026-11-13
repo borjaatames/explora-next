@@ -3,8 +3,8 @@ titulo: "Escursione privata o di gruppo da Barcellona: prezzi a persona e punto 
 descripcion: "Montserrat in gruppo da 47 € o in privato da 419 € (2 persone) a 149 € (6). Confrontiamo le escursioni da Barcellona e quando il privato costa uguale."
 categoria: "barcelona"
 slug: "escursione-privata-o-di-gruppo-da-barcellona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

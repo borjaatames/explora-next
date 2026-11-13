@@ -3,8 +3,8 @@ titulo: 'How to get to La Graciosa: the Órzola ferry and the best beaches'
 descripcion: 'How to get to La Graciosa in 2026: ferry from Órzola with Líneas Romero or Biosfera Express, fares and timetables, getting around without a car (bike, on foot or 4x4 taxi) and the beaches of Francesa, La Cocina and Las Conchas.'
 categoria: lanzarote
 slug: how-to-get-to-la-graciosa
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-24"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Entradas del Caminito del Rey agotadas: qué hacer y qué opciones qued
 descripcion: 'Si la web oficial del Caminito del Rey no tiene entradas: las dos modalidades oficiales, la taquilla del acceso norte, las entradas con guía de reventa, el tour desde Málaga y planes B cerca.'
 categoria: malaga
 slug: caminito-del-rey-entradas-agotadas
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-18"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

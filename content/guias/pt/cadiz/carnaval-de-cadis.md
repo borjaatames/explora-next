@@ -4,8 +4,8 @@ descripcion: "Guia do Carnaval de Cádis: quando é, o concurso do Falla, chirig
 respuestaCorta: 'O Carnaval de Cádis 2027 vai de **quinta-feira, 4, a domingo, 14 de fevereiro**, com a **final do concurso do Falla na sexta-feira, 5**. O carnaval de rua, com agrupamentos a cantar coplas por La Viña e pelo Pópulo, é **gratuito**. O que esgota é o alojamento: **reserve com meses de antecedência** ou durma em Jerez, El Puerto ou San Fernando e chegue de comboio.'
 categoria: "cadiz"
 slug: "carnaval-de-cadis"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

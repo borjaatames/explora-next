@@ -3,8 +3,8 @@ titulo: 'La Graciosa: come arrivare, traghetto da Órzola e quali spiagge vedere
 descripcion: 'Come andare a La Graciosa nel 2026: traghetto da Órzola con Líneas Romero o Biosfera Express, prezzi e orari, come spostarsi senza auto (bici, a piedi o taxi 4x4) e le spiagge di Francesa, La Cocina e Las Conchas.'
 categoria: lanzarote
 slug: la-graciosa-come-arrivare
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-24"
 autor: Borja
 publicada: true
 destacada: false

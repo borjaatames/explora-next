@@ -4,8 +4,8 @@ descripcion: 'Que voir à Ronda en une journée : Puente Nuevo, arènes (10 €)
 metaTitle: 'Que voir à Ronda en une journée'
 categoria: malaga
 slug: que-voir-a-ronda-en-une-journee
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-13"
+fecha_actualizacion: "2026-10-30"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

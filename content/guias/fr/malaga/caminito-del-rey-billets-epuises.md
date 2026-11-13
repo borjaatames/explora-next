@@ -3,8 +3,8 @@ titulo: 'Billets du Caminito del Rey épuisés : que faire et quelles options re
 descripcion: 'Si le site officiel du Caminito del Rey n''a plus de billets : les deux formules officielles, le guichet de l''accès nord, les billets avec guide chez les revendeurs, la sortie depuis Malaga et des plans B à proximité.'
 categoria: malaga
 slug: caminito-del-rey-billets-epuises
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-18"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

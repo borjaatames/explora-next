@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Málaga: terminales, lanzadera a la plaza de 
 metaTitle: "Puerto de Málaga en crucero: qué hacer en la escala"
 categoria: "malaga"
 slug: "puerto-malaga-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

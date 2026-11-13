@@ -3,8 +3,8 @@ titulo: "Semaine sainte à Séville 2027 : dates, où la voir et comment s'organ
 descripcion: "Semaine sainte à Séville 2027 (21-28 mars) : la Madrugá, les confréries incontournables de chaque jour, la Carrera Oficial, chaises et balcons, et conseils pour ne rien manquer."
 categoria: "sevilla"
 slug: "semaine-sainte-a-seville"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

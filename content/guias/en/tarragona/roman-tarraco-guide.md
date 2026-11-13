@@ -3,8 +3,8 @@ titulo: "Roman Tarraco: what to see and how to visit it (combined ticket)"
 descripcion: "Roman Tarraco in Tarragona: amphitheatre, circus, forum, walls and aqueduct. The €15 combined ticket, Monday closures, the route order and Tarraco Viva."
 categoria: "tarragona"
 slug: "roman-tarraco-guide"
-fecha: "2026-04-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

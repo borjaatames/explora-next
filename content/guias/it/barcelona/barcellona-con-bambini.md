@@ -4,8 +4,8 @@ descripcion: "Barcellona con i bambini senza stress: CosmoCaixa, Tibidabo, Sagra
 respuestaCorta: 'Con i bambini, programma **al massimo due grandi cose al giorno** e costruisci il viaggio intorno a **CosmoCaixa** (8 €, gratis sotto i 16 anni) e al **Tibidabo** (35 € sopra i 120 cm; 14 € da 90 a 120 cm), più l''Acquario e la spiaggia. Lascia la Sagrada Família ai maggiori di 7 anni, muoviti in metro e stai lontano dalle Ramblas.'
 categoria: "barcelona"
 slug: "barcellona-con-bambini"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

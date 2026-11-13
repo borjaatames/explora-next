@@ -5,8 +5,8 @@ metaTitle: "Pintxos Bilbao: Bars, Preise und Regeln"
 respuestaCorta: 'Zieh von Bar zu Bar über die **Plaza Nueva und durch die Altstadt** oder durch die Straßen Ledesma und García Rivero im Ensanche, mit **ein oder zwei Pintxos pro Bar**. Fang mit einer Gilda an und frag nach den warmen Pintxos aus der Küche. Rechne mit **2–3,50 € für einen kalten und 4–6 € für einen warmen Pintxo**; ein Abendessen beim Txikiteo kostet 25–35 € pro Person.'
 categoria: "bilbao"
 slug: "pintxos-in-bilbao"
-fecha: "2026-04-04"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

@@ -5,8 +5,8 @@ metaTitle: "Formentera Ausflug ab Ibiza: Fähre & Tipps"
 respuestaCorta: 'Nach Formentera fährst du ab Ibiza mit der **Schnellfähre vom Hafen Eivissa nach La Savina** (etwa 30 Minuten; 30 bis 55 € hin und zurück) und mietest dort Roller oder Fahrrad. Plane einen **ganzen Tag** ein: vormittags Ses Illetes, Mittagessen in Es Pujols oder Migjorn und **Sonnenuntergang am Cap de Barbaria** vor der Rückfähre.'
 categoria: "ibiza"
 slug: "formentera-ab-ibiza"
-fecha: "2026-04-24"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-30"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Granada an einem Tag: Alhambra, Albaicín und Sacromonte Stunde für St
 descripcion: "Granada an einem Tag: Alhambra um 8:30 (22,27 €, Wochen vorher reservieren), Gratis-Tapas, Capilla Real, Sonnenuntergang an San Nicolás und Zambra. Zeiten und Budget."
 categoria: "granada"
 slug: "granada-in-einem-tag"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true

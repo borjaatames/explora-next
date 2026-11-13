@@ -3,8 +3,8 @@ titulo: "Seville April Fair 2027: dates, open casetas and how to enjoy it withou
 descripcion: "Feria de Abril 2027 (12-18 April): the lighting-up, public casetas, the horse parade, what to drink and how to get there. A practical guide even if you don't know anyone."
 categoria: "sevilla"
 slug: "seville-april-fair"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

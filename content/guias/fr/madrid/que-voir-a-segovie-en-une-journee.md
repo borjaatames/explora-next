@@ -4,8 +4,8 @@ descripcion: 'Que voir à Ségovie en une journée depuis Madrid : aqueduc, cath
 metaTitle: 'Que voir à Ségovie en une journée'
 categoria: madrid
 slug: que-voir-a-segovie-en-une-journee
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "How to get from Málaga to Ronda for a day: car, bus, train, group
 respuestaCorta: 'Ronda is **about 100 km from Málaga, 1 h 45 by car**. By **bus** it takes about 2 hours and there''s no direct train. The simplest way without a car is a **group tour** (from €34, with Setenil de las Bodegas); **privately**, from €580 for 2 people or €720 for 4. One day is enough for the gorge, the Puente Nuevo and the old town.'
 categoria: "malaga"
 slug: "ronda-from-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-14"
+fecha_actualizacion: "2026-09-29"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Noël à Madrid 2026 : illuminations, marchés et sorties qui valent le
 descripcion: "Noël à Madrid 2026 : quand s'allument les illuminations, le marché de la Plaza Mayor, Naviluz, Cortylandia, la patinoire, la Saint-Sylvestre à Sol et la Cavalcade des Rois."
 categoria: "madrid"
 slug: "noel-a-madrid"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: true

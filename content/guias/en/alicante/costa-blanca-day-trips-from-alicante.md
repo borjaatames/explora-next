@@ -3,8 +3,8 @@ titulo: "Costa Blanca day trips from Alicante: Benidorm, Altea, Guadalest"
 descripcion: "The best day trips from Alicante: Benidorm, Altea, Calpe and the Peñón de Ifach, Guadalest, Jávea and Elche. How to get there by TRAM or car and what to see."
 categoria: "alicante"
 slug: "costa-blanca-day-trips-from-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 respuestaCorta: 'The best day trips from Alicante are **Altea and Calpe** by TRAM (changing in Benidorm), **Guadalest with the Algar Falls** (an hour by car, or an organised trip from €47), **Elche''s UNESCO palm grove** (20 minutes by train) and Benidorm. Plan one per day: Guadalest and Jávea each fill a full day.'
 autor: Borja
 publicada: true

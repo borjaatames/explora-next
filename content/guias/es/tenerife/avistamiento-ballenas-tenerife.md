@@ -4,8 +4,8 @@ descripcion: 'Guía para ver ballenas y delfines en Tenerife: qué especies hay,
 respuestaCorta: 'Los **calderones tropicales y delfines mulares se ven todo el año**, porque viven entre Tenerife y La Gomera. Los barcos salen de **Los Cristianos, Puerto Colón y Los Gigantes**; elige uno con la bandera amarilla **Barco Azul** de operador autorizado. Las salidas estándar duran 2-3 horas, y el yate ecológico desde Los Cristianos cuesta desde 30 €.'
 categoria: tenerife
 slug: avistamiento-ballenas-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

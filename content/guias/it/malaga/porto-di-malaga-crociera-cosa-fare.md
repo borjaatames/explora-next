@@ -4,8 +4,8 @@ descripcion: "Scalo di crociera a Malaga: terminal, navetta per plaza de la Mari
 metaTitle: "Porto di Malaga in crociera: cosa fare durante lo scalo"
 categoria: "malaga"
 slug: "porto-di-malaga-crociera-cosa-fare"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

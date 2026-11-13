@@ -4,8 +4,8 @@ descripcion: "Cose da fare in coppia a Siviglia: terrazze al tramonto in privato
 metaTitle: "Cose da fare in coppia a Siviglia: romantiche e con prezzi"
 categoria: "sevilla"
 slug: "cose-romantiche-da-fare-a-siviglia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-12"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

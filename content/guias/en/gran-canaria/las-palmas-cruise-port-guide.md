@@ -4,8 +4,8 @@ descripcion: "Las Palmas cruise port: Las Canteras is a 10-15 min walk, Vegueta 
 metaTitle: "Las Palmas Cruise Port: What to Do on Your Port Day"
 categoria: "gran-canaria"
 slug: "las-palmas-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-09"
 autor: Borja
 publicada: true
 destacada: false

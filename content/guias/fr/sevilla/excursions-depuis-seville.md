@@ -4,8 +4,8 @@ descripcion: "Les meilleures excursions d'une journée depuis Séville : Cordoue
 respuestaCorta: 'Les meilleures excursions d''une journée depuis Séville sont **Cordoue** (45 minutes en AVE), **Ronda et les villages blancs** (environ 2 heures par la route), **Cadix et Jerez** (1 h 45 en train jusqu''à Cadix) et **Italica** (15 minutes, une demi-matinée). Pour aller plus loin (**Mérida**, **Gibraltar**, **Riotinto**), mieux vaut une excursion organisée. **En groupe**, elles commencent à 47 € par personne ; **en privé**, elles deviennent intéressantes à partir de 4 personnes, quand le prix par personne descend à 170-290 €.'
 categoria: "sevilla"
 slug: "excursions-depuis-seville"
-fecha: "2026-10-29"
-fecha_actualizacion: "2026-10-29"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

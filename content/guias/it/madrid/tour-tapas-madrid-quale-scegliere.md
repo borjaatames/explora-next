@@ -3,7 +3,7 @@ titulo: "Tour di tapas a Madrid: quale scegliere (confronto tra i 3)"
 descripcion: "Confrontiamo i 3 tour di tapas di Madrid: prezzo reale, cosa include ciascuno, diete, bambini e punto d'incontro. E altre due opzioni con cena o pranzo."
 categoria: "madrid"
 slug: "tour-tapas-madrid-quale-scegliere"
-fecha: "2026-09-20"
+fecha: "2026-08-30"
 autor: Borja
 publicada: true
 destacada: false
@@ -21,7 +21,7 @@ slugs:
   it: tour-tapas-madrid-quale-scegliere
   pt: tapas-madrid-que-tour-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-24"
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Per cenare a base di tapas e finire con vista, il **tour di tapas e vino con terrazza** (69 €, 3 h 30, ammette diete e minori). Per avere tutto per voi le taverne centenarie del centro, il **tour privato** (127 € a persona, minimo 2), più di storia che di cibo. Il **giro notturno** sembra il più economico (35 €), ma il cibo si paga a parte con una cassa comune di 30 € in contanti.'
 actividades:

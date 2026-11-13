@@ -3,8 +3,8 @@ titulo: "Madrids beste Tapas, Gericht für Gericht: Bravas, Calamares, Tortilla,
 descripcion: "Wo man in Madrid die besten Patatas Bravas, Bocadillo de Calamares, Tortilla de Patatas, Torreznos, Callos a la Madrileña, Jamón und Croquetas isst. Adressen und Kriterium, Gericht für Gericht."
 categoria: "madrid"
 slug: "madrid-tapas-nach-gericht"
-fecha: "2026-08-17"
-fecha_actualizacion: "2026-08-17"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-09-23"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Planos românticos em Barcelona: veleiro ao pôr do sol com bar ab
 metaTitle: "O que fazer em Barcelona a dois, com preços"
 categoria: "barcelona"
 slug: "o-que-fazer-em-barcelona-a-dois"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

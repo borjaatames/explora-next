@@ -4,8 +4,8 @@ descripcion: "Cosa vedere a Tarragona in un giorno: anfiteatro, circo, cattedral
 respuestaCorta: 'Tarragona si vede a piedi in un giorno: inizia alle 9:30 dall''**anfiteatro**, prosegui con il circo e la Torre del Pretori, la cattedrale e la Part Alta, le mura e il Balcó del Mediterrani, e mangia pesce e frutti di mare al **Serrallo**. Il **biglietto cumulativo da 15 €** copre i siti romani, che **chiudono il lunedì**; da Barcellona, il treno Regional impiega 1 h-1 h 15.'
 categoria: "tarragona"
 slug: "tarragona-in-un-giorno"
-fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-17"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

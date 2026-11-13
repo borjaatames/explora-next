@@ -3,8 +3,8 @@ titulo: 'Téléphérique et permis du sommet du Teide complets : que faire'
 descripcion: 'Si le téléphérique du Teide ou le permis du sommet est complet : quand les places sont libérées, les excursions avec téléphérique inclus, le refuge d''Altavista et que voir sans monter.'
 categoria: tenerife
 slug: teide-billets-complets
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'O que ver em Segóvia num dia a partir de Madrid: aqueduto, Catedr
 metaTitle: 'O que ver em Segóvia num dia: roteiro'
 categoria: madrid
 slug: o-que-ver-em-segovia-num-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

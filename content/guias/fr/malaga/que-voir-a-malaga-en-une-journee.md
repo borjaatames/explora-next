@@ -4,8 +4,8 @@ descripcion: 'Que voir à Malaga en une journée : Alcazaba et Gibralfaro (10 �
 metaTitle: 'Que voir à Malaga en une journée'
 categoria: malaga
 slug: que-voir-a-malaga-en-une-journee
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

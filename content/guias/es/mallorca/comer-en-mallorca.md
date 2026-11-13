@@ -4,8 +4,8 @@ descripcion: "Guía para comer en Mallorca: ensaïmada, sobrasada, pa amb oli, t
 respuestaCorta: 'Para comer mallorquín de verdad, ve tierra adentro a los **cellers de Inca, Sineu o Algaida**, donde el menú del día cuesta unos **15-20 €**. Pide pa amb oli, tumbet, frit o arròs brut, prueba la **sobrasada con miel** y compra la ensaïmada en un horno con solera de Palma. Evita la primera línea de Magaluf y s''Arenal.'
 categoria: "mallorca"
 slug: "comer-en-mallorca"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

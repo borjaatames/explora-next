@@ -3,8 +3,8 @@ titulo: "Valencia con niños: Oceanogràfic, playa y planes que funcionan"
 descripcion: "Guía de Valencia con niños: Oceanogràfic, Ciudad de las Artes, Bioparc, playa y Turia en bici. Planes por edades, dónde comer y qué evitar con peques."
 categoria: "valencia"
 slug: "valencia-con-ninos"
-fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

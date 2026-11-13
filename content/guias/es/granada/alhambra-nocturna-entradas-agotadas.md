@@ -4,8 +4,8 @@ descripcion: 'Entradas Alhambra nocturna: los Palacios Nazaríes de noche cuesta
 metaTitle: 'Alhambra nocturna: entradas, horario y precio'
 categoria: granada
 slug: alhambra-nocturna-entradas-agotadas
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

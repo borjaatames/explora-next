@@ -3,8 +3,8 @@ titulo: "Noël à Barcelone 2026 : illuminations, Fira de Santa Llúcia, Saint-S
 descripcion: "Noël à Barcelone 2026 : Fira de Santa Llúcia, illuminations dans 130 km de rues, crèche, caga tió, douze coups de minuit à Montjuïc, cavalcade et horaires des jours fériés."
 categoria: "barcelona"
 slug: "noel-a-barcelone"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: 'Climbing Mount Teide: cable car, summit permit and stargazing'
 descripcion: 'How to go up Mount Teide in 2026: the €42 cable car to 3,555 m, the €15 summit permit on Tenerife ON, the reopened Altavista refuge, trails and stargazing.'
 categoria: tenerife
 slug: climbing-mount-teide
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-01"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

@@ -5,8 +5,8 @@ metaTitle: "PortAventura: Tickets, Parks und Tipps"
 respuestaCorta: 'PortAventura World hat drei Parks: PortAventura Park, Ferrari Land und den Caribe Aquatic Park, der nur im Sommer öffnet. Plane **einen Tag pro Park** ein; das Ticket für PortAventura mit einem Eintritt in Ferrari Land kostet **ab 55 €**. Die Saison 2026 endet mit Weihnachten, **vom 20. November 2026 bis 6. Januar 2027**, und das Resort hat einen **eigenen Bahnhof**, 10 Minuten von Tarragona.'
 categoria: "tarragona"
 slug: "portaventura-world-guide"
-fecha: "2026-05-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

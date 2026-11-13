@@ -5,8 +5,8 @@ metaTitle: 'Visitare la Sagrada Família: consigli'
 respuestaCorta: 'Compra solo su **sagradafamilia.org** e con **4-6 settimane di anticipo** (a luglio e agosto, appena escono, circa due mesi prima): non c''è biglietteria. Il **biglietto base con audioguida costa 26 €** e basta per una prima visita; con torre, 36 €. Prenota la **fascia delle 9:00**, l''Ora del Silenzio, e calcola tra 1 h 30 e 2 ore all''interno.'
 categoria: "barcelona"
 slug: "sagrada-familia-come-visitarla"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

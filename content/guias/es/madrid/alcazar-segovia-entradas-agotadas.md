@@ -4,8 +4,8 @@ descripcion: 'Entradas Alcázar de Segovia: 7 € palacio y museo, 10 € con la
 metaTitle: 'Entradas Alcázar de Segovia: precio y gratis'
 categoria: madrid
 slug: alcazar-segovia-entradas-agotadas
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

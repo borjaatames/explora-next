@@ -4,8 +4,8 @@ descripcion: "Guide des 100 derniers kilomètres du chemin de Compostelle : où 
 respuestaCorta: 'Pour obtenir la Compostela, il faut marcher **au moins les 100 derniers kilomètres** jusqu''à Saint-Jacques (200 km à vélo) et faire tamponner la crédenciale **deux fois par jour**. Le plus courant est de partir de **Sarria**, à environ 114 km et cinq étapes, que l''on fait en 5 à 7 jours. La Compostela est **gratuite** au Bureau des pèlerins ; le certificat de distance coûte 3 €.'
 categoria: "santiago-de-compostela"
 slug: "chemin-de-compostelle-derniers-100-km"
-fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-27"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: true

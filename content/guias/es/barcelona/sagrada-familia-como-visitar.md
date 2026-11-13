@@ -5,8 +5,8 @@ metaTitle: 'Cómo visitar la Sagrada Familia: consejos'
 respuestaCorta: 'Compra solo en **sagradafamilia.org** y con **4-6 semanas de antelación** (en julio y agosto, en cuanto salgan, unos dos meses antes): no hay taquilla. La **entrada básica con audioguía cuesta 26 €** y basta para una primera visita; con torre, 36 €. Reserva la **franja de las 9:00**, la Hora del Silencio, y calcula entre 1 h 30 y 2 horas dentro.'
 categoria: "barcelona"
 slug: "sagrada-familia-como-visitar"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

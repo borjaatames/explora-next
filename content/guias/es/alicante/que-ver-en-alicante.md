@@ -4,8 +4,8 @@ descripcion: "Guía de Alicante en uno o dos días: Castillo de Santa Bárbara, 
 respuestaCorta: 'Alicante se ve en **uno o dos días**. El primero, el **Castillo de Santa Bárbara** (gratis; ascensor de 2,70 € desde el Postiguet), el barrio de Santa Cruz, la Explanada y un arroz a banda; el segundo, la **isla de Tabarca** (barco desde 25 € ida y vuelta) o un pueblo de la costa como Altea o Guadalest. Todo se hace a pie y en TRAM, sin coche.'
 categoria: "alicante"
 slug: "que-ver-en-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

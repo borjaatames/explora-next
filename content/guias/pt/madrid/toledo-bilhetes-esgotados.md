@@ -4,8 +4,8 @@ descripcion: 'Sem bilhetes de comboio AVE para Toledo ou entradas esgotadas? Com
 metaTitle: 'Toledo esgotado desde Madrid: o que fazer'
 categoria: madrid
 slug: toledo-bilhetes-esgotados
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-04-27"
+fecha_actualizacion: "2026-09-30"
 autor: Borja
 publicada: true
 destacada: false

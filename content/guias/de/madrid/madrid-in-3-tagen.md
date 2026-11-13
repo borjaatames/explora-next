@@ -3,8 +3,8 @@ titulo: "Madrid in 3 Tagen: eine durchdachte Route für einen anspruchsvollen Eu
 descripcion: "Madrid in 3 Tagen mit Anspruch: Prado, El Escorial, Valle de Cuelgamuros, Chamberí und was du auslassen solltest. Eine ehrliche Route abseits der Postkartenmotive."
 categoria: "madrid"
 slug: "madrid-in-3-tagen"
-fecha: "2026-02-15"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-17"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

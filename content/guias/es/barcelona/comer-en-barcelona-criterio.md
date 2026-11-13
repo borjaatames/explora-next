@@ -4,8 +4,8 @@ descripcion: "Dónde comer bien en Barcelona: tapas auténticas, cenas catalanas
 respuestaCorta: 'Come donde comen los barceloneses: **Sant Antoni, Born, Gràcia y Poble Sec**, nunca en las Ramblas. Haz el **vermut de grifo** a mediodía el fin de semana, pide bomba, pa amb tomàquet y fideuà en vez de paella o sangría, y reserva en Bar Cañete, Cal Pep y Bar del Pla. Se cena **desde las 20:30**.'
 categoria: "barcelona"
 slug: "comer-en-barcelona-criterio"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

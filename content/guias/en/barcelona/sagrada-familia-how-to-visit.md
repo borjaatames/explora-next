@@ -4,8 +4,8 @@ descripcion: "How to visit Sagrada Familia: 2026 official prices, which tower to
 metaTitle: 'Visiting Sagrada Familia: tips and mistakes'
 categoria: "barcelona"
 slug: "sagrada-familia-how-to-visit"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

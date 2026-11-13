@@ -3,8 +3,8 @@ titulo: "Granada con bambini: attività, monumenti e trappole da evitare"
 descripcion: "Granada con bambini senza soffrire: Alhambra adattata, Parque de las Ciencias, gelati, quali età funzionano e dove dormire."
 categoria: "granada"
 slug: "granada-con-bambini"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-05-29"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

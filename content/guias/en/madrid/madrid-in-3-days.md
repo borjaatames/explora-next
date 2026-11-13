@@ -3,8 +3,8 @@ titulo: "Madrid in 3 days: a curated route for a serious European visit"
 descripcion: "Madrid in 3 days, with judgment: the Prado, El Escorial, the Valley of Cuelgamuros, Chamberí, and what to skip. An honest itinerary, not postcards."
 categoria: "madrid"
 slug: "madrid-in-3-days"
-fecha: "2026-02-15"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-17"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

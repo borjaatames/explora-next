@@ -3,8 +3,8 @@ titulo: "Madrid, Toledo y Segovia en 4 días: itinerario con trenes, horarios y 
 descripcion: "4 días con base en Madrid: 2 de ciudad (Palacio Real, Prado, Retiro), Toledo en Avant (33 min) y Segovia (unos 30 min). Trenes, entradas, qué reservar y presupuesto."
 categoria: "madrid"
 slug: "madrid-toledo-segovia-en-4-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-28"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

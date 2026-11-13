@@ -3,8 +3,8 @@ titulo: 'Alhambra or Alcázar of Seville? Which to visit if you only have time f
 descripcion: 'Alhambra vs Royal Alcázar of Seville: ticket prices, how far ahead to book, time needed, how to combine them and a clear verdict for your trip.'
 categoria: granada
 slug: alhambra-or-alcazar-of-seville
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-08-13"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

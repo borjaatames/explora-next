@@ -4,8 +4,8 @@ descripcion: "Qué ver en Santiago en un día: Catedral, Obradoiro, casco histó
 respuestaCorta: 'Sí, **Santiago se ve bien en un día**: empieza a las 9:30 en el Obradoiro y la Catedral (entrada gratis; el **Pórtico de la Gloria exige reserva**), sigue por las plazas y la Rúa do Franco, come en el **Mercado de Abastos**, donde te cocinan lo que compras por 4-6 €, y acaba al atardecer en la **Alameda**. El tour a pie con guía oficial sale desde 10 €.'
 categoria: "santiago-de-compostela"
 slug: "santiago-en-un-dia"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

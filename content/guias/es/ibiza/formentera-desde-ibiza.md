@@ -4,8 +4,8 @@ descripcion: "Guía para visitar Formentera desde Ibiza: ferris y horarios, cóm
 respuestaCorta: 'Para ir a Formentera desde Ibiza, coge un **ferry rápido del puerto de Eivissa a La Savina** (unos 30 minutos; entre 30 y 55 € ida y vuelta) y alquila allí moto o bici. Dedícale un **día completo**: Ses Illetes por la mañana, comida en Es Pujols o Migjorn y **atardecer en Cap de Barbaria** antes del ferry de vuelta.'
 categoria: "ibiza"
 slug: "formentera-desde-ibiza"
-fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-30"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

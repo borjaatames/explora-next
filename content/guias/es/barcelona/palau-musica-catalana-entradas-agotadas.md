@@ -4,8 +4,8 @@ descripcion: 'Palau de la Música Catalana: 20 € la visita libre y 24 € la g
 metaTitle: 'Entradas Palau de la Música: visita y precio'
 categoria: barcelona
 slug: palau-musica-catalana-entradas-agotadas
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-11-03"
 autor: Borja
 publicada: true
 destacada: false

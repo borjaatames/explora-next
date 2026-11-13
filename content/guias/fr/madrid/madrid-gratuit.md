@@ -4,7 +4,7 @@ descripcion: "Madrid gratuit avec discernement : musées sans payer, belvédère
 respuestaCorta: 'Le **Prado est gratuit du lundi au samedi de 18 h à 20 h** (le dimanche, de 17 h à 19 h), le **Reina Sofía de 19 h à 21 h** presque tous les soirs et le Thyssen le lundi de 12 h à 16 h. Debod, le Faro de Moncloa, le Retiro, Madrid Río et El Capricho ne coûtent rien. Si vous ne payez qu''une seule chose, que ce soit **le Prado à 10 h (15 €)**, presque vide.'
 categoria: "madrid"
 slug: "madrid-gratuit"
-fecha: "2026-03-08"
+fecha: "2026-05-02"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

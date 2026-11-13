@@ -4,8 +4,8 @@ descripcion: 'Bilhetes Alhambra esgotados? Veja na véspera, entre as 20h00 e as
 metaTitle: 'Bilhetes Alhambra esgotados: o que fazer'
 categoria: granada
 slug: alhambra-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-11-06"
 autor: Borja
 publicada: true
 destacada: false

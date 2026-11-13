@@ -4,8 +4,8 @@ descripcion: 'Entradas Palacio Real de Madrid: 18 € la general y gratis de lun
 metaTitle: 'Entradas Palacio Real Madrid: precio y gratis'
 categoria: madrid
 slug: palacio-real-madrid-entradas-agotadas
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

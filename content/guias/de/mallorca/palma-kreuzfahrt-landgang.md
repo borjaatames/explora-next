@@ -4,8 +4,8 @@ descripcion: "Landgang in Palma: wo das Schiff anlegt, EMT-Bus 1 (2 €), Taxi (
 metaTitle: "Palma Kreuzfahrt-Landgang: Hafen, Bus, Sehenswertes"
 categoria: "mallorca"
 slug: "palma-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

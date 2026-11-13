@@ -4,8 +4,8 @@ descripcion: 'Se o Reina Sofía aparecer esgotado: bilhete de 12 €, horas grá
 metaTitle: 'Reina Sofía bilhetes esgotados: opções e horas grátis'
 categoria: madrid
 slug: museu-reina-sofia-bilhetes-esgotados
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

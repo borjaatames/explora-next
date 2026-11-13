@@ -4,8 +4,8 @@ descripcion: "Que faire en couple à Madrid : flamenco intime à Las Carboneras 
 metaTitle: "En couple à Madrid : sorties romantiques et prix"
 categoria: "madrid"
 slug: "que-faire-en-couple-a-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-10"
 autor: Borja
 publicada: true
 destacada: false

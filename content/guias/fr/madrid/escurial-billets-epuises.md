@@ -4,8 +4,8 @@ descripcion: 'Monastère de l''Escurial : 14 € l''entrée générale, 22 € a
 metaTitle: 'Billets Escurial : prix et gratuité'
 categoria: madrid
 slug: escurial-billets-epuises
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

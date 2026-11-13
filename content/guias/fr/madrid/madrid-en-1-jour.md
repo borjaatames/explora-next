@@ -3,8 +3,8 @@ titulo: "Madrid en 1 jour : itinéraire à pied du Prado au temple de Debod, heu
 descripcion: "Madrid en une journée à pied : le Prado à 10 h (15 €), le Barrio de las Letras, Sol, la Plaza Mayor, le Palais royal (18 €) et le coucher de soleil à Debod. Horaires, durées et budget."
 categoria: "madrid"
 slug: "madrid-en-1-jour"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Las mejores playas de Cádiz y la Costa de la Luz: La Caleta, La V
 respuestaCorta: 'Las mejores playas de Cádiz son **La Caleta** y La Victoria en la ciudad y, en la Costa de la Luz, **Bolonia** (duna y ruinas romanas), Zahara de los Atunes, Los Caños de Meca, El Palmar y Tarifa. Elige según el viento: con **poniente** vale cualquier playa abierta; con **levante** fuerte, una cala protegida. El catamarán al atardecer desde Cádiz sale desde 24,50 €.'
 categoria: "cadiz"
 slug: "playas-cadiz-costa-de-la-luz"
-fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

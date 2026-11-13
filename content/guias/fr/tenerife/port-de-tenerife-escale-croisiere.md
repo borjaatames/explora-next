@@ -4,8 +4,8 @@ descripcion: "Croisière à Santa Cruz de Tenerife : centre à 10-20 min à pied
 metaTitle: "Croisière à Tenerife : que faire à Santa Cruz"
 categoria: "tenerife"
 slug: "port-de-tenerife-escale-croisiere"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

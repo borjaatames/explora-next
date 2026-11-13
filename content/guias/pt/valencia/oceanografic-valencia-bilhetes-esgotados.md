@@ -4,8 +4,8 @@ descripcion: 'Se o Oceanogràfic de Valência estiver esgotado: preço oficial (
 metaTitle: 'Oceanogràfic bilhetes esgotados: o que fazer'
 categoria: valencia
 slug: oceanografic-valencia-bilhetes-esgotados
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-09-10"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

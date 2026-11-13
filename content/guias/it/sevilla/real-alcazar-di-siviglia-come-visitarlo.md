@@ -4,8 +4,8 @@ descripcion: 'Alcázar di Siviglia biglietti: 15,50 € l''intero, 2,5-3 ore di 
 metaTitle: 'Alcázar Siviglia biglietti: prezzo e visita'
 categoria: sevilla
 slug: real-alcazar-di-siviglia-come-visitarlo
-fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

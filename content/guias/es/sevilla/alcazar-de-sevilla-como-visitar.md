@@ -4,8 +4,8 @@ descripcion: 'Entradas Real Alcázar de Sevilla: 15,50 € la general y gratis l
 metaTitle: 'Entradas Alcázar Sevilla: precio y horarios'
 categoria: sevilla
 slug: alcazar-de-sevilla-como-visitar
-fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

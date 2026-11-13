@@ -4,8 +4,8 @@ descripcion: 'Biglietti per il Monastero dell''Escorial: 14 â‚¬ l''intero e 22 â
 metaTitle: 'Biglietti El Escorial: prezzo e ingresso gratis'
 categoria: madrid
 slug: escorial-biglietti-esauriti
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

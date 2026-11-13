@@ -4,8 +4,8 @@ descripcion: "The best day trips from Seville: Córdoba, Ronda and the white vil
 respuestaCorta: 'The best day trips from Seville are **Córdoba** (45 minutes by high-speed train), **Ronda and the white villages** (about 2 hours by road), **Cádiz and Jerez** (1 h 45 by train to Cádiz) and **Itálica** (15 minutes, a half-day). For places further away —**Mérida**, **Gibraltar**, **Río Tinto**— an organised trip makes sense. **Group tours** start at €47 per person; **private tours** pay off from 4 people, when the price per person drops to €170-290.'
 categoria: "sevilla"
 slug: "day-trips-from-seville"
-fecha: "2026-10-29"
-fecha_actualizacion: "2026-10-29"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

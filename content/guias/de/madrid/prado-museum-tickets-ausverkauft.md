@@ -4,8 +4,8 @@ descripcion: 'Prado Museum Tickets: 15 € online oder an der Kasse, gratis Mo-S
 metaTitle: 'Prado Museum Tickets: Preis und Tipps'
 categoria: madrid
 slug: prado-museum-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

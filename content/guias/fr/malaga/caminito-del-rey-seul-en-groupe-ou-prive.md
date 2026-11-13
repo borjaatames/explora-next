@@ -3,8 +3,8 @@ titulo: "Caminito del Rey par vous-même, en groupe ou en privé : quelle formul
 descripcion: "Le Caminito del Rey par vous-même à partir de 12,50 € (billet et navette), en groupe depuis Malaga pour 72 € ou en privé de 156 à 396 € par personne. Laquelle choisir."
 categoria: "malaga"
 slug: "caminito-del-rey-seul-en-groupe-ou-prive"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

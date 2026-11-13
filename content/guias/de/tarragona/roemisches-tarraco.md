@@ -5,8 +5,8 @@ metaTitle: "Tarragona römische Ruinen: Tarraco"
 respuestaCorta: 'Das römische Tarraco erkundest du zu Fuß in **einem guten halben Tag**: das Amphitheater am Meer, der Zirkus und die Torre del Pretori, das Forum und die Stadtmauer. Das **Kombiticket für 15 €** gilt für die wichtigsten städtischen Stätten (einzeln je 5 €), Kinder unter 12 Jahren sind gratis. **Montags sind alle städtischen Stätten geschlossen**, und das Aquädukt Les Ferreres, 4 km entfernt, ist kostenlos.'
 categoria: "tarragona"
 slug: "roemisches-tarraco"
-fecha: "2026-04-21"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

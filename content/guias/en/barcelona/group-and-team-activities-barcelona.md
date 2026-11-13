@@ -4,8 +4,8 @@ descripcion: "Group and team activities in Barcelona: private tapas and wine for
 metaTitle: "Group and team activities in Barcelona, with prices"
 categoria: "barcelona"
 slug: "group-and-team-activities-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-22"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

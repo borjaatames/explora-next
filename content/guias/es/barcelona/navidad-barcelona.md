@@ -3,8 +3,8 @@ titulo: "Navidad en Barcelona 2026: luces, Fira de Santa Llúcia, Nochevieja y R
 descripcion: "Navidad en Barcelona 2026: Fira de Santa Llúcia, luces en 130 km de calles, pesebre, caga tió, campanadas en Montjuïc, Cabalgata y horarios en festivos."
 categoria: "barcelona"
 slug: "navidad-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-01"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

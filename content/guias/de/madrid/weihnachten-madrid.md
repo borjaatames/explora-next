@@ -3,8 +3,8 @@ titulo: "Weihnachten in Madrid 2026: Lichter, Weihnachtsmärkte und was sich wir
 descripcion: "Weihnachten in Madrid 2026: wann die Lichter angehen, Plaza Mayor, Naviluz, Cortylandia, Eisbahn, Silvester an der Puerta del Sol und Dreikönigsumzug."
 categoria: "madrid"
 slug: "weihnachten-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: false

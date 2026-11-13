@@ -3,8 +3,8 @@ titulo: "Stadt der Künste und Wissenschaften: wie man sie sinnvoll besichtigt"
 descripcion: "Ratgeber für den Besuch der Stadt der Künste und Wissenschaften in Valencia: was man betreten sollte und was von außen reicht, Oceanogràfic, Kombitickets, Öffnungszeiten und Tricks."
 categoria: "valencia"
 slug: "stadt-der-kuenste-und-wissenschaften-besichtigen"
-fecha: "2026-03-04"
-fecha_actualizacion: "2026-03-04"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Entradas Catedral de Sevilla: 13 € online y 14 € en taquilla, 
 metaTitle: 'Entradas Catedral Sevilla y Giralda: precio'
 categoria: sevilla
 slug: catedral-sevilla-giralda-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

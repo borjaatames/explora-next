@@ -4,7 +4,7 @@ descripcion: "Salamanca en un día con criterio: Plaza Mayor, Universidad, las d
 respuestaCorta: 'Sí, **Salamanca funciona en un día**: los grandes monumentos están a 5-10 minutos a pie unos de otros. Haz la **Plaza Mayor, las torres de la Clerecía, la Universidad, las dos catedrales y el Puente Romano al atardecer**, come en la calle Van Dyck y no en la plaza, y quédate hasta las 21:00 para ver la piedra iluminada. El tour a pie con guía local sale desde 17 €.'
 categoria: "salamanca"
 slug: "salamanca-en-1-dia"
-fecha: "2026-04-28"
+fecha: "2026-07-28"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

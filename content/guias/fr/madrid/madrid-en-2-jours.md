@@ -3,8 +3,8 @@ titulo: "Madrid en 2 jours : itinéraire avec le Palais royal, le Prado, le Reti
 descripcion: "Madrid en 2 jours : jour 1 avec le Madrid des Habsbourg, le Palais royal (18 €), la Gran Vía et Debod ; jour 2 avec le Prado (15 €), le Retiro, le Reina Sofía et le flamenco. Horaires, réservations et budget."
 categoria: "madrid"
 slug: "madrid-en-2-jours"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-08"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

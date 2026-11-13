@@ -4,8 +4,8 @@ descripcion: "Málaga cruise port: terminals, the shuttle to Plaza de la Marina,
 metaTitle: "Málaga cruise port guide: what to do ashore"
 categoria: "malaga"
 slug: "malaga-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

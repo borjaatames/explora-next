@@ -3,8 +3,8 @@ titulo: "Tarraco romaine : que voir et comment la visiter (billet combiné)"
 descripcion: "La Tarraco romaine à Tarragone : amphithéâtre, cirque, forum, remparts et aqueduc. Le billet combiné à 15 €, la fermeture du lundi, l'ordre de visite et Tarraco Viva."
 categoria: "tarragona"
 slug: "tarraco-romaine-que-voir"
-fecha: "2026-04-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'O que ver em Ávila num dia a partir de Madrid: subida à muralha 
 metaTitle: 'O que ver em Ávila num dia: muralha e roteiro'
 categoria: madrid
 slug: o-que-ver-em-avila-num-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

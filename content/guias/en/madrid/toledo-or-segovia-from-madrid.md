@@ -3,8 +3,8 @@ titulo: 'Toledo or Segovia? Which day trip to choose from Madrid'
 descripcion: 'Toledo or Segovia from Madrid: train and bus times and prices, what to see in each, how long you need, tickets and a clear verdict for your trip.'
 categoria: madrid
 slug: toledo-or-segovia-from-madrid
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: false

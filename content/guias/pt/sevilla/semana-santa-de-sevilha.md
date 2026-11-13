@@ -3,8 +3,8 @@ titulo: "Semana Santa de Sevilha 2027: datas, onde vê-la e como se organizar"
 descripcion: "Semana Santa de Sevilha 2027 (21-28 de março): a Madrugá, as confrarias imprescindíveis de cada dia, a Carrera Oficial, cadeiras e varandas, e conselhos para não perder nada."
 categoria: "sevilla"
 slug: "semana-santa-de-sevilha"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: "How to visit Valencia's City of Arts and Sciences: what to go insi
 respuestaCorta: 'You don''t need to go into everything: the Calatrava complex is **free to enjoy from outside**, and inside the must-do is the **Oceanogràfic** (3-4 hours, go first thing; tickets from €37). The **Science Museum** (2-3 hours) is worth it with kids and the Hemisfèric is the most skippable; **combined tickets** are cheaper than separate ones and sell out in high season.'
 categoria: "valencia"
 slug: "city-of-arts-sciences-how-to-visit"
-fecha: "2026-03-04"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

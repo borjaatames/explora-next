@@ -3,8 +3,8 @@ titulo: "Noël à Malaga 2026 : illuminations de la calle Larios (horaires des s
 descripcion: "Noël à Malaga 2026 : spectacles de lumière calle Larios à 18 h 30, 20 h 30 et 22 h, mapping sur la cathédrale, marché, crèches, défilé des Rois mages et plage."
 categoria: "malaga"
 slug: "noel-a-malaga"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-07"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

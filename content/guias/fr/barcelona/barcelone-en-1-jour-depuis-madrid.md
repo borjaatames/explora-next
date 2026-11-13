@@ -4,8 +4,8 @@ descripcion: "Comment profiter au maximum d'une journée à Barcelone depuis Mad
 respuestaCorta: 'Barcelone en une journée depuis Madrid, c''est faisable avec de la discipline : l''**AVE met environ 3 h** (Adif maintient la limitation de vitesse jusqu''à fin 2026), donc en partant vers 6 h 15 vous avez une dizaine d''heures sur place. Réservez en ligne quelques jours à l''avance la **Sagrada Família** (26 € sur le site officiel) et le **Park Güell** (18 €), parcourez le quartier gothique, déjeunez dans le Born et montez l''après-midi aux **Bunkers del Carmel** (fermeture à 17 h 30 en hiver), puis descendez à pied au Park Güell avant de prendre le train de 19 h 30.'
 categoria: "barcelona"
 slug: "barcelone-en-1-jour-depuis-madrid"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-07-07"
+fecha_actualizacion: "2026-11-08"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

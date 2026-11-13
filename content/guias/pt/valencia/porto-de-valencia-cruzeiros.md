@@ -4,8 +4,8 @@ descripcion: "Porto de cruzeiros de Valência: o terminal fica a cerca de 5 km d
 metaTitle: "Porto de cruzeiros de Valência: o que fazer em terra"
 categoria: "valencia"
 slug: "porto-de-valencia-cruzeiros"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

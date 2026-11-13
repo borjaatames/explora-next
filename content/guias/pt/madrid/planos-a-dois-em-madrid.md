@@ -4,8 +4,8 @@ descripcion: "Programas a dois em Madrid: flamenco intimista em Las Carboneras (
 metaTitle: "Programas a dois em Madrid: românticos e com preços"
 categoria: "madrid"
 slug: "planos-a-dois-em-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-10"
 autor: Borja
 publicada: true
 destacada: false

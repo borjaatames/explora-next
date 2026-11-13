@@ -3,8 +3,8 @@ titulo: "Madrid em 2 dias: itinerário com Palácio Real, Prado, Retiro e Gran V
 descripcion: "Madrid em 2 dias: dia 1 dos Áustrias, Palácio Real (18 €), Gran Vía e Debod; dia 2 do Prado (15 €), Retiro, Reina Sofía e flamenco. Horários, reservas e orçamento."
 categoria: "madrid"
 slug: "madrid-em-2-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-08"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

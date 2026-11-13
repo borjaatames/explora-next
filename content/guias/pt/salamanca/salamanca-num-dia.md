@@ -3,7 +3,7 @@ titulo: "Salamanca num dia: um percurso escolhido a dedo sem perder o essencial"
 descripcion: "Salamanca num dia com critério: Plaza Mayor, a Universidade, as duas catedrais, La Clerecía e a ponte romana ao pôr do sol. O que ver, o que dispensar e os erros mais comuns."
 categoria: "salamanca"
 slug: "salamanca-num-dia"
-fecha: "2026-04-28"
+fecha: "2026-07-28"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

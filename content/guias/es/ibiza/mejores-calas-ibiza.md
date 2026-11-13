@@ -4,8 +4,8 @@ descripcion: "Las mejores calas de Ibiza: Cala Comte, Cala Salada, Cala d'Hort y
 respuestaCorta: 'Las mejores calas de Ibiza son **Cala Comte y Cala d''Hort** en el suroeste (agua turquesa y los mejores atardeceres, la segunda frente a Es Vedrà), **Cala Salada y Benirràs** en el norte más agreste y Ses Salines en el sur. En verano, llega **antes de las 9:00 o después de las 18:00**, o recórrelas desde el mar: los cruceros por calas salen **desde 52 €**.'
 categoria: "ibiza"
 slug: "mejores-calas-ibiza"
-fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-05"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

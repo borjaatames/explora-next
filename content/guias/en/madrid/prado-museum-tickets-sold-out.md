@@ -4,8 +4,8 @@ descripcion: 'Prado Museum tickets cost €15 online. Free entry the last two ho
 metaTitle: 'Prado Museum tickets: price and opening hours'
 categoria: madrid
 slug: prado-museum-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

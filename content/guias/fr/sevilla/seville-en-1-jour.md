@@ -4,8 +4,8 @@ descripcion: "Comment profiter au maximum d'une journée à Séville depuis Madr
 respuestaCorta: 'Une journée à Séville depuis Madrid, ça fonctionne si vous prenez le **premier AVE (vers 7 h)** et faites les quatre incontournables : l''**Alcázar à 10 h** avec billet en ligne, la cathédrale et la Giralda, la Plaza de España l''après-midi et **Triana au coucher du soleil**, avec retour par l''AVE de 21 h 30. Train aller-retour à partir de 55-60 € ; Alcázar avec accès prioritaire à partir de 20 €.'
 categoria: "sevilla"
 slug: "seville-en-1-jour"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

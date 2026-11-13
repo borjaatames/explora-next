@@ -3,8 +3,8 @@ titulo: "University of Salamanca: how to visit it and what not to miss"
 descripcion: "How to visit the University of Salamanca: prices, hours, what to see inside, the frog on the façade, Fray Luis's classroom, and common visitor mistakes."
 categoria: "salamanca"
 slug: "university-of-salamanca-how-to-visit"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-08"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

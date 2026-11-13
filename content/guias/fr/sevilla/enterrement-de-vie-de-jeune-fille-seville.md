@@ -4,8 +4,8 @@ descripcion: "EVJF ou EVG à Séville : tuk-tuk privé à 99 € jusqu'à 4, fla
 metaTitle: "EVJF ou EVG à Séville : activités et règles"
 categoria: "sevilla"
 slug: "enterrement-de-vie-de-jeune-fille-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

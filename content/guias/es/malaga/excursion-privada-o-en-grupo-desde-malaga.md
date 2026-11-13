@@ -4,8 +4,8 @@ descripcion: "Comparamos excursiones privadas y en grupo desde Málaga a Ronda, 
 respuestaCorta: 'Para **1 o 2 personas**, la excursión **en grupo** es mucho más barata (35-72 € por persona frente a 290-380 € en privado). A partir de **4 personas**, la **privada** baja a **180-250 € por persona** y ganas recogida en el alojamiento, horario a tu medida y nadie más en el coche. Compensa sobre todo en familias, grupos de amigos y personas mayores.'
 categoria: "malaga"
 slug: "excursion-privada-o-en-grupo-desde-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

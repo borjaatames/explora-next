@@ -3,8 +3,8 @@ titulo: 'Biglietti della Moschea-cattedrale di Cordova esauriti: cosa fare'
 descripcion: 'Se sul sito ufficiale della Moschea-cattedrale non ci sono biglietti: altri orari, la biglietteria del Patio de San Eulogio, l''ora gratuita del mattino, il campanile, la visita notturna e i tour con ingresso incluso.'
 categoria: cordoba
 slug: moschea-cordova-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

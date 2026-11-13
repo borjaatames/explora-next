@@ -3,8 +3,8 @@ titulo: "Escapadinhas a partir de Bilbau: Gaztelugatxe, San Sebastián e a costa
 descripcion: "As melhores escapadinhas de um dia a partir de Bilbau: Gaztelugatxe, San Sebastián, Urdaibai e Mundaka, Gernika e a Rioja Alavesa. Como chegar e o que ver."
 categoria: "bilbao"
 slug: "escapadinhas-a-partir-de-bilbau"
-fecha: "2026-04-26"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

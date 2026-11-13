@@ -4,8 +4,8 @@ descripcion: "As melhores escapadinhas de um dia a partir de Málaga: Ronda, Ner
 respuestaCorta: 'As melhores escapadinhas de um dia a partir de Málaga são **Nerja e Frigiliana** (uma hora; grutas, cerca de 16 €), **Antequera e El Torcal** (45 minutos), **Ronda** (1h45 de carro, 2 horas de autocarro) e **Gibraltar** (com cartão de cidadão ou passaporte). Faça uma por dia: Ronda e Gibraltar já são um dia inteiro, e as excursões organizadas custam desde 35 €.'
 categoria: "malaga"
 slug: "escapadinhas-desde-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

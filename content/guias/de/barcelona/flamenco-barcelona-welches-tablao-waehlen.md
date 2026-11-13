@@ -4,8 +4,8 @@ descripcion: 'Flamenco Barcelona: Wir vergleichen die 4 Shows nach Preis, Zeiten
 metaTitle: 'Flamenco Barcelona: die 4 Shows im Vergleich'
 categoria: "barcelona"
 slug: "flamenco-barcelona-welches-tablao-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-01"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

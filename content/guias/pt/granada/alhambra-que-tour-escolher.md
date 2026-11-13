@@ -5,8 +5,8 @@ metaTitle: 'Visita guiada Alhambra: que tour escolher'
 respuestaCorta: 'Seis dos tours são **o mesmo percurso de 3 horas** (Alcazaba, Palácios Nasridas e Generalife) a preços de 49 a 99 €, por isso reserve o mais barato com lugar na sua data, normalmente **Visita guiada Alhambra e Generalife desde 49 €** ou **Bilhete e tour guiado desde 50 €**. Só a **visita noturna**, o **tour privado** e o bilhete para os jardins são realmente diferentes. Reserve com semanas: os horários dos Nasridas esgotam.'
 categoria: "granada"
 slug: "alhambra-que-tour-escolher"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: false

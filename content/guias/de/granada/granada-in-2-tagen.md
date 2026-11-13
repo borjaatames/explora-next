@@ -3,8 +3,8 @@ titulo: "Granada in 2 Tagen: eine ehrliche Route, ohne das Wichtigste zu verpass
 descripcion: "Granada in 2 Tagen mit Plan: Alhambra, Albaicín, Sacromonte, Zentrum und Cartuja. Ehrliche Route, wo man isst und was man auslässt. Ohne Touristenfallen."
 categoria: "granada"
 slug: "granada-in-2-tagen"
-fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-10-31"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

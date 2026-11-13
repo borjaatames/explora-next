@@ -4,8 +4,8 @@ descripcion: 'Guía de Fuerteventura: Dunas de Corralejo, Isla de Lobos, Cofete,
 respuestaCorta: 'Para ver Fuerteventura necesitas **cinco o seis días** y **coche**: el norte (Dunas de Corralejo, **Isla de Lobos**, Calderón Hondo, El Cotillo), el centro (Betancuria y Ajuy) y Jandía (Sotavento, Morro Jable y **Cofete**). Lobos exige un **permiso gratuito** del Cabildo y el ferri cuesta desde 17 € ida y vuelta. Alójate en Corralejo para el norte y en Costa Calma o Morro Jable para el sur.'
 categoria: fuerteventura
 slug: que-ver-en-fuerteventura
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-09-12"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: true

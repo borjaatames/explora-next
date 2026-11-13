@@ -4,8 +4,8 @@ descripcion: "Guia de Ibiza: Dalt Vila, Es Vedrà, as melhores calas, Formentera
 respuestaCorta: 'Para além da festa, Ibiza é **Dalt Vila** (a cidade alta amuralhada, Património da Humanidade e grátis), as calas do sudoeste como Cala Comte e Cala d''Hort, o **pôr do sol em frente a Es Vedrà** e **Formentera**, a meia hora de ferry. Dois dias dão para o essencial e **três são o equilíbrio**; os cruzeiros pelas calas saem desde 52 €.'
 categoria: "ibiza"
 slug: "o-que-ver-em-ibiza"
-fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-13"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

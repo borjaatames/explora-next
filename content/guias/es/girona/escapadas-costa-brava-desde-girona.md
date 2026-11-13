@@ -3,8 +3,8 @@ titulo: 'Escapadas desde Girona: Costa Brava, Cadaqués y Figueres (Dalí)'
 descripcion: 'Las mejores escapadas desde Girona: Figueres y el Teatro-Museo Dalí, Cadaqués, Besalú, Tossa de Mar y las calas de la Costa Brava. Cómo llegar y qué ver.'
 categoria: girona
 slug: escapadas-costa-brava-desde-girona
-fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

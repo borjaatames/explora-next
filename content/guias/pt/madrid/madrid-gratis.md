@@ -4,7 +4,7 @@ descripcion: "Madrid grátis com critério: museus sem pagar, miradouros livres,
 respuestaCorta: 'O **Prado é grátis de segunda a sábado das 18h00 às 20h00** (domingos, das 17h00 às 19h00), o **Reina Sofía das 19h00 às 21h00** quase todas as tardes e o Thyssen às segundas das 12h00 às 16h00. Debod, o Faro de Moncloa, o Retiro, Madrid Río e El Capricho não custam nada. Se pagar uma só coisa, que seja o **Prado às 10h00 (15 €)**, quase vazio.'
 categoria: "madrid"
 slug: "madrid-gratis"
-fecha: "2026-03-08"
+fecha: "2026-05-02"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

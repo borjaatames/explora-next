@@ -4,8 +4,8 @@ descripcion: 'Visita noturna à Alhambra: dias e horários dos Nasridas e do Gen
 metaTitle: 'Alhambra à noite: horários, preço e bilhetes'
 categoria: granada
 slug: alhambra-visita-noturna-bilhetes-esgotados
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Catedral de Toledo: bilhete a 12 € no site oficial, aberta de se
 metaTitle: 'Catedral de Toledo: bilhetes e horário'
 categoria: madrid
 slug: catedral-de-toledo-bilhetes
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Guía de Gran Canaria: Dunas de Maspalomas, Roque Nublo, Vegueta, 
 respuestaCorta: 'Para ver Gran Canaria necesitas **cuatro o cinco días**: el sur con las **Dunas de Maspalomas** y Puerto de Mogán, un día de cumbres (Roque Nublo y Tejeda), Las Palmas con Vegueta y Las Canteras, y los pueblos del norte (Teror, Arucas, Agaete). Para el interior hace falta **coche o excursión**: la del Roque Nublo desde Las Palmas sale desde 48 €.'
 categoria: gran-canaria
 slug: que-ver-en-gran-canaria
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: "Seville in 3 days: a curated route to live it, not just see it"
 descripcion: "Seville in 3 days: Alcázar, Cathedral, Triana and Itálica, hour by hour. Prices, sunset spots, where to stay, where to eat and the mistakes to avoid."
 categoria: "sevilla"
 slug: "seville-in-3-days"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

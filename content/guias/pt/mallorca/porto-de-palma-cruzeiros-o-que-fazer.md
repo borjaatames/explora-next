@@ -4,8 +4,8 @@ descripcion: "Escala de cruzeiro em Palma: onde atraca o navio, autocarro EMT li
 metaTitle: "Porto de Palma em cruzeiro: o que fazer na escala"
 categoria: "mallorca"
 slug: "porto-de-palma-cruzeiros-o-que-fazer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

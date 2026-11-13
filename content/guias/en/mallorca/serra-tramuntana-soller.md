@@ -3,8 +3,8 @@ titulo: "Serra de Tramuntana and Sóller: a route through mountain Mallorca"
 descripcion: "Serra de Tramuntana guide: Valldemossa, Deià, Sóller and its train, Sa Calobra and the viewpoints. A route by car or by train, what to see and when to go."
 categoria: "mallorca"
 slug: "serra-tramuntana-soller"
-fecha: "2026-03-18"
-fecha_actualizacion: "2026-03-18"
+fecha: "2026-09-15"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: 'Alhambra o Alcázar di Siviglia? Quale visitare se hai tempo per uno so
 descripcion: 'Alhambra o Real Alcázar di Siviglia: prezzo, anticipo per prenotare, durata della visita, come combinarli e un verdetto chiaro in base al tuo viaggio.'
 categoria: granada
 slug: alhambra-o-alcazar-di-siviglia
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-08-13"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

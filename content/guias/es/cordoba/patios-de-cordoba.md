@@ -4,8 +4,8 @@ descripcion: "Guía de los Patios de Córdoba: qué es la Fiesta de los Patios (
 respuestaCorta: 'La **Fiesta de los Patios** dura dos semanas a principios de mayo (del 4 al 17 en 2026): las casas abren sus patios **gratis**, de 11:00 a 14:00 y de 18:00 a 22:00. Ve a primera hora o al caer la tarde. El resto del año, el **Palacio de Viana** tiene doce patios (8,50 €) y un **tour guiado por cinco patios de San Basilio** cuesta desde 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordoba"
-fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

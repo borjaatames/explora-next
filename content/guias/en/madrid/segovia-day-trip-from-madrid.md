@@ -4,8 +4,8 @@ descripcion: 'Segovia day trip from Madrid: the 30-minute Avant train from Chama
 metaTitle: 'Segovia Day Trip from Madrid: Full Guide'
 categoria: madrid
 slug: segovia-day-trip-from-madrid
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

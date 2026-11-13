@@ -4,8 +4,8 @@ descripcion: 'Biglietti Alcázar di Segovia: 7 € palazzo e museo, 10 € con l
 metaTitle: 'Biglietti Alcázar di Segovia: prezzo e gratis'
 categoria: madrid
 slug: alcazar-segovia-biglietti-esauriti
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

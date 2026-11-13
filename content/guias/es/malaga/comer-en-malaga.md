@@ -4,8 +4,8 @@ descripcion: "Guía para comer en Málaga: espeto de sardinas, fritura malagueñ
 respuestaCorta: 'Come el **espeto de sardinas en un chiringuito de Pedregalejo o El Palo** (4-6 € las seis sardinas, mejor al mediodía), pescaíto frito donde haya bullicio local y **vino dulce de barrica** en una bodega histórica como la Antigua Casa de Guardia. Comer bien sale por **20-25 € por persona**; evita las terrazas frente a la Catedral y en calle Larios.'
 categoria: "malaga"
 slug: "comer-en-malaga"
-fecha: "2026-03-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

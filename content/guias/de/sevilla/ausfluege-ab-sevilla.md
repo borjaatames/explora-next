@@ -4,8 +4,8 @@ descripcion: "Die besten Tagesausflüge ab Sevilla: Córdoba, Ronda und die wei�
 respuestaCorta: 'Die besten Tagesausflüge ab Sevilla sind **Córdoba** (45 Minuten mit dem AVE), **Ronda und die weißen Dörfer** (etwa 2 Stunden über Land), **Cádiz und Jerez** (1 Std. 45 mit dem Zug nach Cádiz) und **Itálica** (15 Minuten, ein halber Vormittag). Für weiter entfernte Ziele — **Mérida**, **Gibraltar**, **Riotinto** — lohnt ein organisierter Ausflug. **In der Gruppe** ab 47 € pro Person; **privat** lohnt es sich ab 4 Personen, wenn der Preis pro Person auf 170-290 € sinkt.'
 categoria: "sevilla"
 slug: "ausfluege-ab-sevilla"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

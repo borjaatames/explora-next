@@ -4,8 +4,8 @@ descripcion: "Guia dos Pátios de Córdova: o que é a Festa dos Pátios (maio),
 respuestaCorta: 'A **Festa dos Pátios** dura duas semanas no início de maio (de 4 a 17 em 2026): as casas abrem os pátios **de graça**, das 11h00 às 14h00 e das 18h00 às 22h00. Vá logo de manhã ou ao cair da tarde. No resto do ano, o **Palacio de Viana** tem doze pátios (8,50 €) e um **tour guiado por cinco pátios de San Basilio** custa desde 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordova"
-fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

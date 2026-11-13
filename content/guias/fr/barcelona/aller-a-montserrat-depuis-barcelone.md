@@ -4,8 +4,8 @@ descripcion: 'Aller à Montserrat depuis Barcelone : train R5 depuis Plaça Espa
 metaTitle: 'Aller à Montserrat depuis Barcelone'
 categoria: barcelona
 slug: aller-a-montserrat-depuis-barcelone
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-30"
+fecha_actualizacion: "2026-10-08"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

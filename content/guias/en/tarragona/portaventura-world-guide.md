@@ -3,8 +3,8 @@ titulo: "PortAventura World: a guide to visiting it (tickets, parks and tips)"
 descripcion: "A guide to PortAventura World: the three parks, tickets from €55, Halloween and Christmas 2026 dates, ride heights, skipping queues and getting there by train."
 categoria: "tarragona"
 slug: "portaventura-world-guide"
-fecha: "2026-05-01"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

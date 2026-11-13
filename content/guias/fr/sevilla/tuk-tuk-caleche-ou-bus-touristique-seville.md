@@ -3,8 +3,8 @@ titulo: "Tuk-tuk, calèche ou bus touristique à Séville : lequel choisir et co
 descripcion: "Séville : bus touristique à 28 € par personne, tuk-tuk privé à 89-99 € par véhicule jusqu'à 4 et calèche avec guide à 298 €. Prix par personne et lequel choisir."
 categoria: "sevilla"
 slug: "tuk-tuk-caleche-ou-bus-touristique-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: false

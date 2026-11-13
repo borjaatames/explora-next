@@ -4,8 +4,8 @@ descripcion: "Guía para comer en Valencia: qué es la paella valenciana autént
 respuestaCorta: 'La **paella valenciana** auténtica lleva pollo, conejo, garrofó y judía verde, sin marisco, y se come **a mediodía, de 13:30 a 16:00**. La mejor está en **El Palmar, en la Albufera**, a 45 minutos en autobús de la EMT desde el centro. Cuenta con **15-22 € por persona**, mínimo para dos y 30-45 minutos de espera, porque se hace al momento.'
 categoria: "valencia"
 slug: "comer-en-valencia-paella"
-fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

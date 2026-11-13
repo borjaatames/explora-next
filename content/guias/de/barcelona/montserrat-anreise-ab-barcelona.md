@@ -4,8 +4,8 @@ descripcion: 'Montserrat Anreise ab Barcelona: mit dem Zug R5 ab Plaça Espanya 
 metaTitle: 'Montserrat Anreise: Zug, Zahnradbahn, Auto'
 categoria: barcelona
 slug: montserrat-anreise-ab-barcelona
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-30"
+fecha_actualizacion: "2026-10-08"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Guia de Gran Canaria: Dunas de Maspalomas, Roque Nublo, Vegueta, L
 respuestaCorta: 'Para ver Gran Canaria precisa de **quatro ou cinco dias**: o sul com as **Dunas de Maspalomas** e Puerto de Mogán, um dia de cumeadas (Roque Nublo e Tejeda), Las Palmas com Vegueta e Las Canteras, e as vilas do norte (Teror, Arucas, Agaete). Para o interior é preciso **carro ou excursão**: a do Roque Nublo a partir de Las Palmas sai desde 48 €.'
 categoria: gran-canaria
 slug: o-que-ver-em-gran-canaria
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: "Que voir à Bilbao en une journée : musée Guggenheim, Casco Viej
 respuestaCorta: 'Bilbao se visite en une journée à pied en suivant la ría : le **Guggenheim** à la première heure (billet en ligne avec créneau ; fermé le lundi sauf en juillet et août), le Casco Viejo et les **Siete Calles**, **des pintxos sur la Plaza Nueva** à l''heure du déjeuner, le marché de la Ribera et le **funiculaire d''Artxanda** au coucher du soleil. Si vous avez plus de temps, Gaztelugatxe est à une demi-heure.'
 categoria: "bilbao"
 slug: "bilbao-en-une-journee"
-fecha: "2026-03-13"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: true

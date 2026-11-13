@@ -4,8 +4,8 @@ descripcion: "Les meilleures escapades d'une journée depuis Valence : l'Albufer
 respuestaCorta: 'L''escapade incontournable depuis Valence, c''est l''**Albufera**, à 20 minutes : balade en barque entre les rizières et paella à El Palmar. Pour l''histoire, **Sagonte** (30 minutes en Cercanías) et **Xàtiva** (45 minutes) ont des châteaux spectaculaires ; pour une plage avec château, **Peñíscola**, à une heure et demie. En excursion organisée, Guadalest, Altea et Fuentes del Algar à partir de 55 €.'
 categoria: "valencia"
 slug: "escapades-depuis-valence"
-fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

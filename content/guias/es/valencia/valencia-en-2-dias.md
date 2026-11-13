@@ -4,8 +4,8 @@ descripcion: "Qué ver en Valencia en 2 días: casco histórico, Ciudad de las A
 respuestaCorta: 'Dedica **el día 1 al casco histórico** (Mercado Central, Lonja de la Seda, Catedral y Miguelete, el Carmen) y la tarde a la **Ciudad de las Artes y las Ciencias**; **el día 2, a la Albufera**, con paseo en barca y paella de verdad en El Palmar a mediodía, y después la Malvarrosa. El Oceanogràfic, desde 37 €: resérvalo online en temporada alta.'
 categoria: "valencia"
 slug: "valencia-en-2-dias"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: 'Biglietti per La Pedrera esauriti: cosa fare e quali opzioni restano'
 descripcion: 'Se il sito ufficiale di La Pedrera (Casa Milà) non ha posti: altre fasce orarie e modalità, il biglietto a data aperta, la visita all''alba, la Night Experience, la biglietteria, la rivendita e cosa vedere senza biglietto sul Passeig de Gràcia.'
 categoria: barcelona
 slug: la-pedrera-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

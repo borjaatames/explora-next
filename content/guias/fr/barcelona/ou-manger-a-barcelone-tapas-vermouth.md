@@ -4,8 +4,8 @@ descripcion: "Où bien manger à Barcelone : vraies tapas, dîners catalans, bru
 respuestaCorta: 'Mangez là où mangent les Barcelonais : **Sant Antoni, le Born, Gràcia et Poble Sec**, jamais sur les Ramblas. Prenez le **vermouth à la pression** le midi le week-end, commandez une bomba, du pa amb tomàquet et une fideuà plutôt qu''une paella ou une sangria, et réservez au Bar Cañete, chez Cal Pep et au Bar del Pla. On dîne **à partir de 20 h 30**.'
 categoria: "barcelona"
 slug: "ou-manger-a-barcelone-tapas-vermouth"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

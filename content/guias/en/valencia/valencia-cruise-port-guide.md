@@ -4,8 +4,8 @@ descripcion: "Valencia cruise port: the terminal is about 5 km from the old town
 metaTitle: "Valencia cruise port guide: what to do ashore"
 categoria: "valencia"
 slug: "valencia-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

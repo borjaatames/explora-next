@@ -3,8 +3,8 @@ titulo: 'Biglietti per il Museo Picasso di Barcellona esauriti: cosa fare'
 descripcion: 'Se il tuo orario al Museu Picasso risulta esaurito o non trovi posto gratis: altri orari sul sito ufficiale, la biglietteria, l''ingresso gratuito con prenotazione, l''Articket BCN e le visite guidate salta coda.'
 categoria: barcelona
 slug: museo-picasso-barcellona-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Flamenco shows in Seville compared: five venues at €24-45, all a
 metaTitle: 'Flamenco show Seville: all 5 compared'
 categoria: "sevilla"
 slug: "flamenco-seville-which-tablao-to-choose"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

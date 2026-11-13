@@ -3,8 +3,8 @@ titulo: "Bilbao avec des enfants : funiculaire, ria et plages à un trajet de m�
 descripcion: "Bilbao avec des enfants : le funiculaire d'Artxanda, les sculptures du Guggenheim, le musée maritime, les parcs et les plages en métro. Idées en famille, où manger et ce qu'il faut éviter."
 categoria: "bilbao"
 slug: "bilbao-avec-des-enfants"
-fecha: "2026-04-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-11"
+fecha_actualizacion: "2026-10-22"
 respuestaCorta: "Bilbao est facile avec des enfants : plate le long de la ria, avec le **funiculaire d'Artxanda** (3 minutes de montée, toutes les 15 minutes), les **sculptures du Guggenheim** gratuites à l'extérieur et les plages familiales de **Plentzia et Gorliz** à environ 40 minutes par la ligne 1 du métro. Achetez une **carte Barik** (3 €) à l'arrivée ; une seule carte suffit pour toute la famille dans le métro, le tramway et le funiculaire."
 autor: Borja
 publicada: true

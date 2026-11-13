@@ -3,8 +3,8 @@ titulo: "Andalucía en 7 días: Sevilla, Córdoba, Granada, Málaga y Ronda en t
 descripcion: "Ruta de 7 días por Andalucía en tren: 2 noches en Sevilla, 1 en Córdoba, 2 en Granada y 2 en Málaga con Ronda. Trayectos, precios, qué reservar y dónde dormir."
 categoria: "sevilla"
 slug: "andalucia-en-7-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

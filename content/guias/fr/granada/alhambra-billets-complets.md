@@ -4,8 +4,8 @@ descripcion: 'Billets Alhambra complets ? Dernière minute la veille entre 20 h 
 metaTitle: 'Billets Alhambra complets : que faire'
 categoria: granada
 slug: alhambra-billets-complets
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-11-06"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Bilhetes do Park Güell esgotados? Saem até três meses antes, co
 metaTitle: 'Bilhetes Park Güell esgotados: o que fazer'
 categoria: barcelona
 slug: park-guell-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

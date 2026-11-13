@@ -4,9 +4,9 @@ descripcion: 'Flamenco à Barcelone : 4 spectacles comparés, de 25 € au Teatr
 metaTitle: 'Flamenco Barcelone : quel tablao choisir'
 categoria: "barcelona"
 slug: "flamenco-barcelone-quel-tablao-choisir"
-fecha: "2026-09-06"
+fecha: "2026-07-01"
 autor: Borja
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false

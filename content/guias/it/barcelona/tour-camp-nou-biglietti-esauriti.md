@@ -4,8 +4,8 @@ descripcion: 'Museo del Barça e Spotify Camp Nou nel 2026: 28 € il museo, 69 
 metaTitle: 'Tour Camp Nou 2026: biglietti e prezzo'
 categoria: barcelona
 slug: tour-camp-nou-biglietti-esauriti
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-08-21"
+fecha_actualizacion: "2026-11-06"
 autor: Borja
 publicada: true
 destacada: false

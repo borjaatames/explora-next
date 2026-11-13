@@ -3,8 +3,8 @@ titulo: 'Entradas del Museo Picasso de Barcelona agotadas: qué hacer'
 descripcion: 'Si tu hora del Museu Picasso sale agotada o no consigues plaza gratis: otras horas en la web oficial, la taquilla, la entrada gratuita con reserva, la Articket BCN y las visitas guiadas sin colas.'
 categoria: barcelona
 slug: museo-picasso-barcelona-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Biglietti del Caminito del Rey esauriti: cosa fare e quali opzioni rest
 descripcion: 'Se il sito ufficiale del Caminito del Rey non ha biglietti: le due modalità ufficiali, la biglietteria dell''ingresso nord, i biglietti con guida dei rivenditori, il tour da Malaga e i piani B nei dintorni.'
 categoria: malaga
 slug: caminito-del-rey-biglietti-esauriti
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-18"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

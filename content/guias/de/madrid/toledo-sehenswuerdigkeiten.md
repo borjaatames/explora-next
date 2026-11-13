@@ -5,8 +5,8 @@ metaTitle: 'Toledo Sehenswürdigkeiten: Top 15 mit Preisen'
 respuestaCorta: 'Das Wichtigste in Toledo sind die **Kathedrale (12 €)**, **Santo Tomé** mit El Grecos *Begräbnis des Grafen von Orgaz*, das **Judenviertel** (Synagoge El Tránsito, Santa María la Blanca und San Juan de los Reyes) und der **Mirador del Valle** bei Sonnenuntergang. Wer drei oder mehr der kleineren Monumente besucht, nimmt das **Touristenarmband für 14 €**, das sieben abdeckt. An einem Tag schaffst du sechs bis acht Orte in Ruhe, in zwei Tagen die ganze Liste.'
 categoria: madrid
 slug: toledo-sehenswuerdigkeiten
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-29"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

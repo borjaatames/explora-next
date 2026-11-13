@@ -3,8 +3,8 @@ titulo: "Andalusia in 7 days: Seville, Córdoba, Granada, Málaga and Ronda by t
 descripcion: "A 7-day Andalusia itinerary by train: 2 nights in Seville, 1 in Córdoba, 2 in Granada and 2 in Málaga with Ronda. Journey times, fares, what to book, where to stay."
 categoria: "sevilla"
 slug: "andalusia-7-day-itinerary"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

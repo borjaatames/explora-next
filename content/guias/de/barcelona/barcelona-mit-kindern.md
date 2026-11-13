@@ -3,8 +3,8 @@ titulo: "Barcelona mit Kindern: Pläne, Sehenswürdigkeiten und Fallen, die man 
 descripcion: "Barcelona mit Kindern ohne Stress: CosmoCaixa, Tibidabo, die Sagrada Familia angepasst, welche Altersgruppen funktionieren, wo man übernachtet und wo man mit Kindern isst."
 categoria: "barcelona"
 slug: "barcelona-mit-kindern"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

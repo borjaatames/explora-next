@@ -4,8 +4,8 @@ descripcion: 'Billet cathédrale de Séville et Giralda : 13 € en ligne, 14 �
 metaTitle: 'Billet cathédrale de Séville et Giralda'
 categoria: sevilla
 slug: cathedrale-de-seville-giralda-billets-epuises
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

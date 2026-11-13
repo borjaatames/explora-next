@@ -4,8 +4,8 @@ descripcion: "Guia para comer em Valência: o que é a autêntica paella valenci
 respuestaCorta: 'A autêntica **paella valenciana** leva frango, coelho, garrofó e feijão-verde, sem marisco, e come-se **ao almoço, das 13h30 às 16h00**. A melhor está em **El Palmar, na Albufera**, a 45 minutos de autocarro da EMT a partir do centro. Conte com **15-22 € por pessoa**, mínimo para dois e 30-45 minutos de espera, porque é feita na hora.'
 categoria: "valencia"
 slug: "comer-em-valencia-paella"
-fecha: "2026-03-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

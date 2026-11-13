@@ -5,8 +5,8 @@ metaTitle: 'Qué ver en Toledo: 15 sitios con precios'
 respuestaCorta: 'Lo esencial de Toledo es la **Catedral Primada (12 €)**, **Santo Tomé** con *El entierro del señor de Orgaz*, la **Judería** (Sinagoga del Tránsito, Santa María la Blanca y San Juan de los Reyes) y el **Mirador del Valle** al atardecer. Si vas a entrar en tres o más monumentos pequeños, la **pulsera turística de 14 €** cubre siete. En un día se ven bien seis u ocho sitios; con dos, toda esta lista.'
 categoria: madrid
 slug: que-ver-en-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-29"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

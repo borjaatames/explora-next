@@ -3,8 +3,8 @@ titulo: 'Qué hacer en Sevilla con niños: guía honesta 2026'
 descripcion: 'Qué hacer en Sevilla con niños de varias edades sin caer en lo obvio: monumentos que sí enganchan, qué saltarse, dónde comer y trampas que evitar.'
 categoria: sevilla
 slug: sevilla-con-ninos
-fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Madrid in 1 day: a walking route from the Prado to the Temple of Debod,
 descripcion: "Madrid in one day on foot: the Prado at 10:00 (€15), Barrio de las Letras, Sol, Plaza Mayor, the Royal Palace (€18) and sunset at Debod. Times, distances and budget."
 categoria: "madrid"
 slug: "madrid-in-1-day"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

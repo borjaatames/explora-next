@@ -3,8 +3,8 @@ titulo: "Granada in 1 giorno: Alhambra, Albaicín e Sacromonte ora per ora"
 descripcion: "Granada in un giorno: l'Alhambra alle 8:30 (22,27 €, da prenotare settimane prima), tapas gratis, la Cappella Reale, il tramonto a San Nicolás e il flamenco in grotta. Orari e budget."
 categoria: "granada"
 slug: "granada-in-1-giorno"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

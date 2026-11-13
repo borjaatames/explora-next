@@ -4,8 +4,8 @@ descripcion: "Comment voir l'Alhambra et Grenade en excursion d'une journée dep
 respuestaCorta: 'Grenade est à **1 h 30 en voiture** de Malaga et à un peu moins de 2 heures en bus. On peut voir l''Alhambra dans la journée, mais **les billets pour les palais nasrides ont une heure fixe et s''épuisent** : achetez d''abord le billet et organisez le voyage autour. Sans voiture ni envie de vous compliquer la vie, l''[excursion privée](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) inclut transport, billets et guide (397 € par personne, minimum 2).'
 categoria: "malaga"
 slug: "grenade-et-alhambra-depuis-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-15"
 autor: Borja
 publicada: true
 destacada: false

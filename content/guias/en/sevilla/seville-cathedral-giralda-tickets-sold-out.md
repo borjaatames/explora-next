@@ -4,8 +4,8 @@ descripcion: 'Seville Cathedral tickets, Giralda included, cost €13 online or 
 metaTitle: 'Seville Cathedral tickets: price and Giralda'
 categoria: sevilla
 slug: seville-cathedral-giralda-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

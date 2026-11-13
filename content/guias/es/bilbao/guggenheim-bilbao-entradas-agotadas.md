@@ -3,8 +3,8 @@ titulo: 'Entradas del Guggenheim Bilbao agotadas o colas: qué hacer'
 descripcion: 'Si tu hora del Guggenheim sale llena o la cola de la taquilla no avanza: otras horas en la web oficial, la taquilla, los lunes que abre, las obras gratis del exterior y las visitas guiadas con entrada.'
 categoria: bilbao
 slug: guggenheim-bilbao-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-08"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

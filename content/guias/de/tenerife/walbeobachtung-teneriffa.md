@@ -3,8 +3,8 @@ titulo: 'Wal- und Delfinbeobachtung auf Teneriffa: So wählst du das richtige Bo
 descripcion: 'Guide zur Wal- und Delfinbeobachtung auf Teneriffa: welche Arten hier leben, wo die Boote ablegen, wie man einen verantwortungsvollen Anbieter wählt, wann man fährt und was man mitnimmt.'
 categoria: tenerife
 slug: walbeobachtung-teneriffa
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

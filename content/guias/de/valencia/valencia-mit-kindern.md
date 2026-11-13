@@ -4,8 +4,8 @@ descripcion: "Valencia mit Kindern: Oceanogràfic ab 37 €, Bioparc, Radfahren 
 metaTitle: "Valencia mit Kindern: Tipps für Familien"
 categoria: "valencia"
 slug: "valencia-mit-kindern"
-fecha: "2026-03-27"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

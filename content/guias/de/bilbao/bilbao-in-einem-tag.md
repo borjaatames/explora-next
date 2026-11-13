@@ -3,8 +3,8 @@ titulo: "Bilbao an einem Tag: Guggenheim, Altstadt und Pintxos"
 descripcion: "Was man in Bilbao an einem Tag sieht: Guggenheim-Museum, Altstadt, Mercado de la Ribera und Artxanda. Route zu Fuß Stunde für Stunde, wo man Pintxos isst, und Gaztelugatxe direkt nebenan."
 categoria: "bilbao"
 slug: "bilbao-in-einem-tag"
-fecha: "2026-03-13"
-fecha_actualizacion: "2026-03-13"
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: "Guida di Ibiza: Dalt Vila, Es Vedrà, le calette più belle, Forme
 respuestaCorta: 'Oltre la movida, Ibiza è **Dalt Vila** (la città alta murata, Patrimonio dell''Umanità e gratuita), le calette del sud-ovest come Cala Comte e Cala d''Hort, il **tramonto davanti a Es Vedrà** e **Formentera**, a mezz''ora di traghetto. Due giorni bastano per l''essenziale e **tre sono l''equilibrio giusto**; le crociere tra le calette partono da 52 €.'
 categoria: "ibiza"
 slug: "cosa-vedere-a-ibiza"
-fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-13"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

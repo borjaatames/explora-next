@@ -3,8 +3,8 @@ titulo: "Escursione privata o di gruppo da Siviglia: prezzi a persona e quando c
 descripcion: "Escursioni da Siviglia in gruppo da 47 € o in privato da 125 a 435 € a persona se siete in 2, 4 o 6: prezzi reali, punto di pareggio ed errori tipici."
 categoria: "sevilla"
 slug: "escursione-privata-o-di-gruppo-da-siviglia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-23"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

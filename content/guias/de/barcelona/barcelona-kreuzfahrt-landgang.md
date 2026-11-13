@@ -4,8 +4,8 @@ descripcion: "Kreuzfahrt-Landgang in Barcelona: Terminals am Moll Adossat, Cruis
 metaTitle: "Barcelona Landgang: Kreuzfahrthafen und Tipps"
 categoria: "barcelona"
 slug: "barcelona-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-26"
+fecha_actualizacion: "2026-10-04"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Park Güell tickets sold out? Official tickets (€18) go on sale 
 metaTitle: 'Park Güell tickets sold out: what to do'
 categoria: barcelona
 slug: park-guell-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

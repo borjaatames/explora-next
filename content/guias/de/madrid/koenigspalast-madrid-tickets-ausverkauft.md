@@ -4,8 +4,8 @@ descripcion: 'Königspalast Madrid Tickets: 18 € online, offizielle Führung 2
 metaTitle: 'Königspalast Madrid Tickets: Preis & Tipps'
 categoria: madrid
 slug: koenigspalast-madrid-tickets-ausverkauft
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

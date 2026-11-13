@@ -4,8 +4,8 @@ descripcion: 'A Spain itinerary for 10 days by train: Madrid and Toledo, Seville
 metaTitle: 'Spain Itinerary 10 Days: the Route by Train'
 categoria: "madrid"
 slug: "spain-itinerary-10-days"
-fecha: "2026-11-03"
-fecha_actualizacion: "2026-11-03"
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: "2026-11-03"
 autor: Borja
 publicada: true

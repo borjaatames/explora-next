@@ -4,8 +4,8 @@ descripcion: "Guida per visitare l'Isola di Tabarca: come arrivare in barca da A
 respuestaCorta: 'Per andare a Tabarca, prendi la barca dal porto di Alicante (circa 1 ora; andata e ritorno **da 25 €**) o il traghetto da Santa Pola (circa 30 minuti; **da 9 €**). Calcola **4-5 ore sull''isola** per il borgo fortificato, un bagno con snorkeling nella riserva marina e un caldero, e controlla prima l''orario dell''ultima barca di ritorno.'
 categoria: "alicante"
 slug: "isola-di-tabarca-come-visitarla"
-fecha: "2026-04-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

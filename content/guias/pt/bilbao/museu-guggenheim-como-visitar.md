@@ -3,8 +3,8 @@ titulo: "Museu Guggenheim Bilbau: como visitá-lo (bilhetes e dicas)"
 descripcion: "Como visitar o Guggenheim de Bilbau: bilhetes e horários, o que ver por dentro e por fora (Puppy, Maman, Serra), quanto tempo dedicar e as melhores dicas."
 categoria: "bilbao"
 slug: "museu-guggenheim-como-visitar"
-fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-07"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: true

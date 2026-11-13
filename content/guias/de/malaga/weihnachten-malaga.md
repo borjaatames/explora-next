@@ -3,8 +3,8 @@ titulo: "Weihnachten in Málaga 2026: Lichtshow in der Calle Larios (Uhrzeiten),
 descripcion: "Weihnachten in Málaga 2026: Lichtshow in der Calle Larios um 18:30, 20:30 und 22:00 Uhr, Kathedrale, Weihnachtsmarkt, Silvester, Umzug und Strand."
 categoria: "malaga"
 slug: "weihnachten-malaga"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-07"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

@@ -5,8 +5,8 @@ metaTitle: 'Billet Sagrada Família : prix et options'
 respuestaCorta: 'Pour la basilique seule, le **billet avec audioguide à partir de 34 €** est l''option réservable la moins chère, et la **visite guidée avec tour (à partir de 75 €)** est la seule qui monte à une tour. Pour ajouter le Park Güell sans y passer la journée, le **combiné guidé de 4 heures (à partir de 104 €)** couvre les deux. Réservez des semaines à l''avance : l''entrée se fait par créneau et **aucun billet n''est vendu au guichet**.'
 categoria: "barcelona"
 slug: "sagrada-familia-quel-billet-choisir"
-fecha: "2026-09-20"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

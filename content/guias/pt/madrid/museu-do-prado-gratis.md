@@ -4,8 +4,8 @@ descripcion: 'Museu do Prado grátis de segunda a sábado das 18h00 às 20h00 e 
 metaTitle: 'Museu do Prado grátis: horário e fila'
 categoria: madrid
 slug: museu-do-prado-gratis
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

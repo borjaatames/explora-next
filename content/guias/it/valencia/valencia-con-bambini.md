@@ -3,8 +3,8 @@ titulo: "Valencia con bambini: Oceanogràfic, spiaggia e attività che funzionan
 descripcion: "Guida a Valencia con bambini: Oceanogràfic, Città delle Arti, Bioparc, spiaggia e il Turia in bici. Attività per età, dove mangiare e cosa evitare con i più piccoli."
 categoria: "valencia"
 slug: "valencia-con-bambini"
-fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

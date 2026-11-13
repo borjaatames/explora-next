@@ -4,8 +4,8 @@ descripcion: 'Granada in 2 giorni: Alhambra (e cosa fare se non ci sono bigliett
 respuestaCorta: 'Due giorni bastano se **prenoti l''Alhambra con almeno tre settimane di anticipo** (22,27 € sul sito ufficiale) e dividi la città in due: il primo giorno, Alhambra al mattino, Albaicín al tramonto e **zambra al Sacromonte**; il secondo, Cappella Reale, Cattedrale e la **Cartuja barocca**. Se non ci sono biglietti diurni, l''alternativa è la visita notturna ai Palazzi Nasridi (12,73 €).'
 categoria: "granada"
 slug: "granada-in-2-giorni"
-fecha: "2026-05-19"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-10-31"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: 'Subir al Teide: teleférico, permiso para la cima y estrellas'
 descripcion: 'Cómo subir al Teide en 2026: el teleférico de 42 € hasta 3.555 m, el permiso de 15 € para la cima en Tenerife ON, el refugio de Altavista reabierto, los senderos y las estrellas.'
 categoria: tenerife
 slug: subir-al-teide
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-01"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

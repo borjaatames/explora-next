@@ -4,8 +4,8 @@ descripcion: 'Reina Sofía sold out? The €12 ticket, the free hours (Mon and W
 metaTitle: 'Reina Sofía tickets sold out: options and free hours'
 categoria: madrid
 slug: reina-sofia-museum-tickets-sold-out
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-21"
+fecha_actualizacion: "2026-11-10"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

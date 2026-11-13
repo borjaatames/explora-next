@@ -4,8 +4,8 @@ descripcion: "Cómo aprovechar al máximo un día en Sevilla desde Madrid en AVE
 respuestaCorta: 'Un día en Sevilla desde Madrid funciona si coges el **primer AVE (hacia las 7:00)** y haces los cuatro imprescindibles: el **Alcázar a las 10:00** con entrada online, la Catedral y la Giralda, la Plaza de España por la tarde y **Triana al atardecer**, con vuelta en el AVE de las 21:30. Tren de ida y vuelta desde 55-60 €; Alcázar con acceso prioritario desde 20 €.'
 categoria: "sevilla"
 slug: "sevilla-en-1-dia"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Visita guidata Alhambra: quasi tutti i tour sono lo stesso percors
 metaTitle: 'Visita guidata Alhambra: quale tour scegliere'
 categoria: "granada"
 slug: "alhambra-quale-tour-scegliere"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: false

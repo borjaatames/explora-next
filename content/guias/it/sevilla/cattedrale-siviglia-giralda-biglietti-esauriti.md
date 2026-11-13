@@ -4,8 +4,8 @@ descripcion: 'Cattedrale di Siviglia biglietti: 13 € online e 14 € in biglie
 metaTitle: 'Cattedrale Siviglia biglietti: prezzo e orari'
 categoria: sevilla
 slug: cattedrale-siviglia-giralda-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

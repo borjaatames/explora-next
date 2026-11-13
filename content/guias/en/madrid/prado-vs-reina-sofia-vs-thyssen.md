@@ -3,8 +3,8 @@ titulo: "Prado, Reina Sofía or Thyssen: which one if you only pick one"
 descripcion: "Honest comparison of Madrid's three big museums: Prado, Reina Sofía and Thyssen. Which to choose for your profile, and which you can skip."
 categoria: "madrid"
 slug: "prado-vs-reina-sofia-vs-thyssen"
-fecha: "2026-04-16"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-18"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

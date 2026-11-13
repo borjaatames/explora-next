@@ -4,8 +4,8 @@ descripcion: "Game of Thrones Drehorte in Girona: Kathedralentreppe, El Call als
 metaTitle: "Game of Thrones Girona: Drehorte & Tour"
 categoria: "girona"
 slug: "girona-game-of-thrones"
-fecha: "2026-05-05"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

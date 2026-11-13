@@ -4,8 +4,8 @@ descripcion: "Les meilleures excursions depuis Alicante : Benidorm, Altea, Calpe
 respuestaCorta: 'Les meilleures excursions depuis Alicante sont **Altea et Calpe** en TRAM (avec correspondance à Benidorm), **Guadalest et les Fuentes del Algar** (une heure en voiture, ou excursion organisée à partir de 47 €), **la palmeraie d''Elche** (20 minutes en train de banlieue) et Benidorm. Faites-en une par jour : Guadalest ou Jávea occupent déjà toute la journée.'
 categoria: "alicante"
 slug: "excursions-costa-blanca-depuis-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

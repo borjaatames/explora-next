@@ -4,8 +4,8 @@ descripcion: "Ausflüge ab Bilbao: Gaztelugatxe (45 Min., Reservierung nötig), 
 metaTitle: "Ausflüge ab Bilbao: Gaztelugatxe & Co."
 categoria: "bilbao"
 slug: "ausfluege-ab-bilbao"
-fecha: "2026-04-26"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

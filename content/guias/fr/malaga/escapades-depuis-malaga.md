@@ -4,8 +4,8 @@ descripcion: "Les meilleures escapades d'une journée depuis Malaga : Ronda, Ner
 respuestaCorta: 'Les meilleures escapades d''une journée depuis Malaga sont **Nerja et Frigiliana** (une heure ; grottes, environ 16 €), **Antequera et El Torcal** (45 minutes), **Ronda** (1 h 45 en voiture, 2 heures en bus) et **Gibraltar** (avec carte d''identité ou passeport). Faites-en une par jour : Ronda et Gibraltar occupent déjà une journée complète, et les excursions organisées partent à partir de 35 €.'
 categoria: "malaga"
 slug: "escapades-depuis-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

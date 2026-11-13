@@ -3,8 +3,8 @@ titulo: "Was man auf Mallorca sehen sollte: Palma, Tramuntana und die schönsten
 descripcion: "Mallorca-Ratgeber: Kathedrale von Palma, Serra de Tramuntana, Valldemossa, Sóller, Drachenhöhlen und Buchten. Was man nach Zonen sehen sollte, wie viele Tage, wie man sich fortbewegt und wann man reisen sollte."
 categoria: "mallorca"
 slug: "was-sehen-auf-mallorca"
-fecha: "2026-03-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-18"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: true

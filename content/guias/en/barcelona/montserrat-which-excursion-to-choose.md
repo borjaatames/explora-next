@@ -4,7 +4,7 @@ descripcion: 'Montserrat day trips from Barcelona compared: half day from €59,
 metaTitle: 'Montserrat day trip from Barcelona: tours'
 categoria: "barcelona"
 slug: "montserrat-which-excursion-to-choose"
-fecha: "2026-09-20"
+fecha: "2026-04-26"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,7 +24,7 @@ slugs:
   fr: montserrat-quelle-excursion-choisir
   it: montserrat-quale-escursione-scegliere
   pt: montserrat-que-excursao-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-09-21"
 reservasArriba: true
 respuestaCorta: 'With half a day, the **small-group tour from €59** gets you to the monastery before the crowds. With a full day, the **CastlExperience trip from €47** (6–10 hours, with a winery) is the cheapest option, and the **Bages farmhouse day (€109)** adds a sommelier-paired lunch. On your own, the **Trans Montserrat** train-and-rack-railway ticket costs from €50.'
 actividades:

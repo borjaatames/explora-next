@@ -4,8 +4,8 @@ descripcion: "Como ver a Alhambra e Granada numa excursão de um dia a partir de
 respuestaCorta: 'Granada fica a **1h30 de carro** de Málaga e a pouco menos de 2 horas de autocarro. É possível ver a Alhambra no mesmo dia, mas **os bilhetes para os Palácios Nasridas têm hora fixa e esgotam**: compre primeiro o bilhete e organize a viagem à volta dele. Sem carro nem vontade de complicar, a [excursão privada](/en/cities/malaga/activities/granada-alhambra-private-day-trip-from-malaga) inclui transporte, bilhetes e guia (397 € por pessoa, mínimo 2).'
 categoria: "malaga"
 slug: "granada-e-alhambra-desde-malaga-num-dia"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-15"
 autor: Borja
 publicada: true
 destacada: false

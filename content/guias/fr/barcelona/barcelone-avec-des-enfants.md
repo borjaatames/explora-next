@@ -4,8 +4,8 @@ descripcion: "Barcelone avec des enfants sans stress : CosmoCaixa, Tibidabo, Sag
 respuestaCorta: 'Avec des enfants, prévoyez **deux grosses visites par jour au maximum** et construisez le séjour autour de **CosmoCaixa** (8 €, gratuit pour les moins de 16 ans) et du **Tibidabo** (35 € au-dessus de 120 cm ; 14 € de 90 à 120 cm), plus l''Aquarium et la plage. Gardez la Sagrada Família pour les plus de 7 ans, déplacez-vous en métro et éloignez-vous des Ramblas.'
 categoria: "barcelona"
 slug: "barcelone-avec-des-enfants"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

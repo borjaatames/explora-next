@@ -4,8 +4,8 @@ descripcion: 'Entradas Museo del Prado: 15 ‚Ç¨ la general y gratis de lunes a s√
 metaTitle: 'Entradas Museo del Prado: precio y horario'
 categoria: madrid
 slug: museo-del-prado-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

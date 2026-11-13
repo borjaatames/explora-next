@@ -5,8 +5,8 @@ metaTitle: "Málaga mit Kindern: Tipps für Familien"
 respuestaCorta: 'Mit Kindern funktioniert Málaga, wenn du kurze Portionen Geschichte mit Strand und Tieren abwechselst: der **Strand La Malagueta** zu Fuß vom Zentrum, die **Alcazaba** (sonntags ab 14:00 Uhr für alle gratis), der **Bioparc Fuengirola** (45 Minuten mit dem Nahverkehrszug; 23 € für 3- bis 9-Jährige) und die **Seilbahn von Benalmádena**. Ideal sind Frühling und Herbst; im Sommer meidest du das Zentrum von 14:00 bis 18:00 Uhr.'
 categoria: "malaga"
 slug: "malaga-mit-kindern"
-fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-28"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Entradas de la Casa Batlló agotadas: qué hacer y qué opciones quedan
 descripcion: 'Si la web oficial de la Casa Batlló no tiene hueco: otras franjas y modalidades, la visita a primera hora, la visita nocturna, la taquilla, la reventa y qué ver de la Manzana de la Discordia sin entrada.'
 categoria: barcelona
 slug: casa-batllo-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Bernabéu Tour sold out? Official prices (€37 online, €40 at t
 metaTitle: 'Bernabéu Tour sold out: what to do'
 categoria: madrid
 slug: bernabeu-stadium-tour-tickets-sold-out
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-09-22"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

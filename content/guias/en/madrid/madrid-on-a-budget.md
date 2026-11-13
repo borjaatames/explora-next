@@ -3,7 +3,7 @@ titulo: "Madrid on a budget: making the most of the capital without spending a e
 descripcion: "Madrid on a budget: free museum hours, free viewpoints and parks, recurring free events, neighborhoods to walk, and the few things worth paying for."
 categoria: "madrid"
 slug: "madrid-on-a-budget"
-fecha: "2026-03-08"
+fecha: "2026-05-02"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

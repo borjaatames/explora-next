@@ -4,8 +4,8 @@ descripcion: "Guide pour visiter l'île de Tabarca : comment y aller en bateau d
 respuestaCorta: 'Pour aller à Tabarca, prenez le bateau au port d''Alicante (environ 1 heure ; aller-retour **à partir de 25 €**) ou le ferry depuis Santa Pola (une trentaine de minutes ; **à partir de 9 €**). Comptez **4-5 heures sur l''île** pour le village fortifié, une baignade avec masque et tuba dans la réserve marine et un caldero, et vérifiez avant l''heure du dernier bateau du retour.'
 categoria: "alicante"
 slug: "ile-de-tabarca-comment-la-visiter"
-fecha: "2026-04-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

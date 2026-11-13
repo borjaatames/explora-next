@@ -3,8 +3,8 @@ titulo: "Picasso-Museum Barcelona Tickets ausverkauft: was tun"
 descripcion: "Deine Uhrzeit im Museu Picasso ist ausverkauft oder du bekommst keinen Gratisplatz? Andere Uhrzeiten auf der offiziellen Website, die Kasse, der kostenlose Eintritt mit Reservierung, die Articket BCN und Führungen ohne Anstehen."
 categoria: barcelona
 slug: picasso-museum-barcelona-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

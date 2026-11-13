@@ -3,8 +3,8 @@ titulo: "Was man auf Ibiza sehen sollte – jenseits der Party: Dalt Vila, Bucht
 descripcion: "Ibiza-Reiseführer: Dalt Vila, Es Vedrà, die schönsten Buchten, Formentera und die Sonnenuntergänge. Was man je nach Region sieht, wie viele Tage nötig sind, wie man sich fortbewegt und die andere Seite der Insel."
 categoria: "ibiza"
 slug: "was-sehen-in-ibiza"
-fecha: "2026-04-03"
-fecha_actualizacion: "2026-04-03"
+fecha: "2026-07-13"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

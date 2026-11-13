@@ -4,7 +4,7 @@ descripcion: 'Bilhetes Park Güell: básico desde 21,50 € ou com a Casa-Museu 
 metaTitle: 'Bilhetes Park Güell: preço e qual escolher'
 categoria: "barcelona"
 slug: "park-guell-que-bilhete-escolher"
-fecha: "2026-09-20"
+fecha: "2026-09-11"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,7 +24,7 @@ slugs:
   fr: park-guell-quel-billet-choisir
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Se só quiser a zona monumental (a escadaria do dragão, a Sala Hipóstila e o banco ondulante), chega o **bilhete básico desde 21,50 €**. Por mais 6,50 €, o **bilhete com a Casa-Museu Gaudí** (28 €) acrescenta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**: reserve só quando tiver os horários definidos.'
 actividades:

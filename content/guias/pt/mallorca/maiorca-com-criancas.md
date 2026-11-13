@@ -3,8 +3,8 @@ titulo: 'Maiorca com crianças: enseadas tranquilas, comboios e aquários'
 descripcion: 'Guia de Maiorca com crianças: melhores praias para famílias, Palma Aquarium, comboio de Sóller, Cuevas del Drach e parques aquáticos. Planos por zonas e o que evitar.'
 categoria: mallorca
 slug: maiorca-com-criancas
-fecha: '2026-04-09'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-09-01"
+fecha_actualizacion: "2026-09-26"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

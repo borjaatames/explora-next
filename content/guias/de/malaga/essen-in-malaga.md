@@ -5,8 +5,8 @@ metaTitle: "Essen in Málaga: Espetos und Tapas"
 respuestaCorta: 'Iss den **Espeto de sardinas in einer Strandbar in Pedregalejo oder El Palo** (4–6 € für sechs Sardinen, am besten mittags), frittierten Fisch dort, wo viele Einheimische sitzen, und **süßen Wein vom Fass** in einer historischen Bodega wie der Antigua Casa de Guardia. Gut essen kostet **20–25 € pro Person**; meide die Terrassen vor der Kathedrale und in der Calle Larios.'
 categoria: "malaga"
 slug: "essen-in-malaga"
-fecha: "2026-03-21"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

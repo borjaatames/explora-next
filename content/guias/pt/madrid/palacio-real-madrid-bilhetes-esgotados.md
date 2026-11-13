@@ -4,8 +4,8 @@ descripcion: 'Bilhetes do Palácio Real de Madrid: 18 € online, visita guiada 
 metaTitle: 'Bilhetes Palácio Real Madrid: preço e grátis'
 categoria: madrid
 slug: palacio-real-madrid-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

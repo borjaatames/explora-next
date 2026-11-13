@@ -5,8 +5,8 @@ metaTitle: 'Excursão a Montserrat: qual escolher'
 respuestaCorta: 'Com meio dia, o **grupo pequeno desde 59 €** chega ao mosteiro antes das multidões. Para o dia inteiro, a **CastlExperience desde 47 €** (6-10 horas, com adega) é a opção mais barata, e a **masia do Bages (desde 109 €)** junta almoço com harmonização de vinhos. Por conta própria, o bilhete **Trans Montserrat** de comboio e cremalheira custa desde 50 €.'
 categoria: "barcelona"
 slug: "montserrat-que-excursao-escolher"
-fecha: "2026-09-20"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

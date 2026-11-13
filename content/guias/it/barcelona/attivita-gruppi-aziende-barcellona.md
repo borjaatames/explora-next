@@ -4,8 +4,8 @@ descripcion: "Attività per gruppi e aziende a Barcellona: tapas e vino in priva
 metaTitle: "Attività per gruppi e aziende a Barcellona, con prezzi"
 categoria: "barcelona"
 slug: "attivita-gruppi-aziende-barcellona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-22"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Feira de Abril de Sevilha 2027: datas, casetas abertas e como vivê-la 
 descripcion: "Feira de Abril 2027 (12-18 de abril): iluminação, casetas públicas, passeio de cavalos, o que beber e como chegar. Guia prático para a visitar mesmo sem conhecer ninguém."
 categoria: "sevilla"
 slug: "feira-de-abril-de-sevilha"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

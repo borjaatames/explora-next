@@ -5,8 +5,8 @@ metaTitle: 'Caminito del Rey : billets, accès et conseils'
 respuestaCorta: '**Achetez votre billet sur le site officiel des semaines ou des mois à l''avance** (10 € en autonomie, 18 € avec guide officiel, plus 2,50 € de navette) : sans lui, on n''entre pas. Le parcours fait **7,7 km en ligne en 3-4 heures**, du nord au sud, presque sans dénivelé mais déconseillé à ceux qui ont le vertige ; **il est fermé le lundi** et interdit aux moins de 8 ans. Avec transport depuis Malaga, à partir de 72 €.'
 categoria: "malaga"
 slug: "caminito-del-rey-comment-le-visiter"
-fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

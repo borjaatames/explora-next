@@ -4,8 +4,8 @@ descripcion: "Kreuzfahrt-Landgang in Cádiz: Die Altstadt liegt 5 Minuten zu Fu�
 metaTitle: "Cádiz Landgang: Altstadt, Sevilla oder Jerez"
 categoria: "cadiz"
 slug: "cadiz-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-25"
+fecha_actualizacion: "2026-10-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

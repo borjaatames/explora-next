@@ -5,8 +5,8 @@ metaTitle: "Ausflüge ab Valencia: Albufera & Co."
 respuestaCorta: 'Der wichtigste Ausflug ab Valencia ist die **Albufera**, 20 Minuten entfernt: Bootsfahrt zwischen Reisfeldern und Paella in El Palmar. Für Geschichte haben **Sagunto** (30 Minuten mit dem Nahverkehrszug) und **Xàtiva** (45 Minuten) spektakuläre Burgen; für Strand mit Burg fährst du anderthalb Stunden nach **Peñíscola**. Als organisierte Tour gibt es Guadalest, Altea und Fuentes del Algar ab 55 €.'
 categoria: "valencia"
 slug: "ausfluege-ab-valencia"
-fecha: "2026-04-08"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

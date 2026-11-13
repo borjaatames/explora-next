@@ -3,8 +3,8 @@ titulo: 'Girona e A Guerra dos Tronos: os cenários e como vê-los'
 descripcion: 'Guia dos cenários de A Guerra dos Tronos em Girona: a escadaria da catedral, El Call como Braavos, Sant Pere de Galligants e mais. Percurso a pé e dicas.'
 categoria: girona
 slug: girona-guerra-dos-tronos
-fecha: '2026-05-05'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

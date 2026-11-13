@@ -4,8 +4,8 @@ descripcion: 'Alhambra bei Nacht: Nasridenpaläste für 12,73 €, im Winter nur
 metaTitle: 'Alhambra bei Nacht: Tickets, Zeiten, Preise'
 categoria: granada
 slug: alhambra-nachtbesuch-tickets-ausverkauft
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

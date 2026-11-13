@@ -3,8 +3,8 @@ titulo: "Essen auf Mallorca mit Kennerblick: Ensaïmada, Sobrasada und Cellers"
 descripcion: "Ratgeber zum Essen auf Mallorca: Ensaïmada, Sobrasada, Pa amb oli, Tumbet und Arròs brut. Wo man echte mallorquinische Küche findet, Märkte, Weine und was man meiden sollte."
 categoria: "mallorca"
 slug: "essen-auf-mallorca"
-fecha: "2026-04-20"
-fecha_actualizacion: "2026-04-20"
+fecha: "2026-04-09"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

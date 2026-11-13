@@ -4,8 +4,8 @@ descripcion: "Kreuzfahrt-Landgang in Málaga: Terminals, Shuttlebus zur Plaza de
 metaTitle: "Málaga Landgang: Kreuzfahrthafen und Ausflüge"
 categoria: "malaga"
 slug: "malaga-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

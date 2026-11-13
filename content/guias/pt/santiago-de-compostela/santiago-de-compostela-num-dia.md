@@ -4,8 +4,8 @@ descripcion: "O que ver em Santiago num dia: Catedral, Obradoiro, centro histór
 respuestaCorta: 'Comece às 9h30 na **Praça do Obradoiro** e na **Catedral**, com o Pórtico da Glória do Mestre Mateus, e depois percorra as suas quatro praças e as ruas porticadas Rúa do Franco e Rúa do Vilar. Pare no **Mercado de Abastos** antes do almoço e termine no **parque da Alameda**, com a melhor vista das torres ao pôr do sol. Uma visita a pé pelo centro histórico com guia oficial custa desde 10 €.'
 categoria: "santiago-de-compostela"
 slug: "santiago-de-compostela-num-dia"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

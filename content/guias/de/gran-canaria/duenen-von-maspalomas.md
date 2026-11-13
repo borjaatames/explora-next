@@ -3,8 +3,8 @@ titulo: 'Dünen von Maspalomas: Besuch, Sehenswertes und was man nicht tun sollt
 descripcion: 'Guide zu den Dünen von Maspalomas: Anfahrt, erlaubte Wege, La Charca und der Leuchtturm, der Kamelritt, die beste Uhrzeit und die Regeln des Naturschutzgebiets.'
 categoria: gran-canaria
 slug: duenen-von-maspalomas
-fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha: "2026-06-21"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

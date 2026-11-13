@@ -4,8 +4,8 @@ descripcion: "EVJF ou EVG à Madrid : tuk-tuk fête privé à 150 €, atelier p
 metaTitle: "EVJF ou EVG à Madrid : activités et prix"
 categoria: "madrid"
 slug: "enterrement-vie-de-jeune-fille-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-11-09"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Biglietti per il Museo Dalí di Figueres esauriti: cosa fare e quali op
 descripcion: 'Se il sito ufficiale del Teatro-Museo Dalí non ha biglietti: altre fasce e altri giorni, la biglietteria, la visita guidata con biglietto, le escursioni da Barcellona, Púbol e Portlligat, e cosa vedere senza biglietto.'
 categoria: girona
 slug: museo-dali-figueres-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-09-22"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Natal em Madrid 2026: luzes, mercados e o que vale mesmo a pena"
 descripcion: "Natal em Madrid 2026: quando se acendem as luzes, o mercado da Plaza Mayor, o Naviluz, o Cortylandia, a patinagem no gelo, a passagem de ano em Sol e a Cavalgada dos Reis Magos."
 categoria: "madrid"
 slug: "natal-em-madrid"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: true

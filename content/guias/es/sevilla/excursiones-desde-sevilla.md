@@ -4,8 +4,8 @@ descripcion: "Las mejores excursiones de un día desde Sevilla: Córdoba, Ronda 
 respuestaCorta: 'Las mejores excursiones de un día desde Sevilla son **Córdoba** (45 minutos en AVE), **Ronda y los pueblos blancos** (unas 2 horas por carretera), **Cádiz y Jerez** (1 h 45 en tren a Cádiz) e **Itálica** (15 minutos, media mañana). Para ir más lejos —**Mérida**, **Gibraltar**, **Riotinto**— conviene excursión organizada. **En grupo** salen desde 47 € por persona; **en privado** compensan a partir de 4 personas, cuando el precio por persona baja a 170-290 €.'
 categoria: "sevilla"
 slug: "excursiones-desde-sevilla"
-fecha: "2026-10-29"
-fecha_actualizacion: "2026-10-29"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

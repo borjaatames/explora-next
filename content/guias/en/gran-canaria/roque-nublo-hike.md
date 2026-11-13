@@ -3,8 +3,8 @@ titulo: 'Roque Nublo hike: how to get up, where to park and what to see nearby'
 descripcion: 'Roque Nublo hike: the booking needed from 9:00 to 17:00, where to park now La Goleta is closed, the shuttle bus, trail time and what to see nearby.'
 categoria: gran-canaria
 slug: roque-nublo-hike
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

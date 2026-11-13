@@ -4,8 +4,8 @@ descripcion: 'Málaga in one day: the Alcazaba and Gibralfaro (€10 combined), 
 metaTitle: 'Málaga in one day: things to do and route'
 categoria: malaga
 slug: malaga-in-one-day
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

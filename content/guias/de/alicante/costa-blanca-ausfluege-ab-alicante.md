@@ -5,8 +5,8 @@ metaTitle: "Ausflüge ab Alicante: Costa Blanca Tipps"
 respuestaCorta: 'Die besten Ausflüge ab Alicante sind **Altea und Calpe** mit der TRAM (Umstieg in Benidorm), **Guadalest mit den Fuentes del Algar** (eine Autostunde oder organisierte Tour ab 47 €), **der Palmenhain von Elche** (20 Minuten mit der Nahverkehrsbahn) und Benidorm. Plane einen Ausflug pro Tag: Guadalest oder Jávea füllen bereits einen ganzen Tag.'
 categoria: "alicante"
 slug: "costa-blanca-ausfluege-ab-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Escale de croisière à Valence : le terminal est à environ 5 km 
 metaTitle: "Port de Valence en croisière : que faire pendant l'escale"
 categoria: "valencia"
 slug: "port-de-valence-escale-croisiere"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-04-11"
+fecha_actualizacion: "2026-09-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

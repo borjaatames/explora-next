@@ -3,8 +3,8 @@ titulo: "Madrid's best tapas, dish by dish: bravas, calamares, tortilla, torrezn
 descripcion: "Where to eat Madrid's best bravas, calamari sandwich, tortilla, torreznos, callos, ham and croquetas: one bar per dish, with prices and what to order."
 categoria: "madrid"
 slug: "madrid-tapas-dish-by-dish"
-fecha: "2026-08-17"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

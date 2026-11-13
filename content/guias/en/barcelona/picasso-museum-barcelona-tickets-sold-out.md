@@ -3,8 +3,8 @@ titulo: 'Picasso Museum Barcelona tickets sold out: what to do'
 descripcion: 'If your Museu Picasso time is sold out or you can''t get a free slot: other times on the official site, the box office, free entry with booking, the Articket BCN and skip-the-line guided tours.'
 categoria: barcelona
 slug: picasso-museum-barcelona-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

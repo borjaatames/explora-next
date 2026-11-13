@@ -3,8 +3,8 @@ titulo: "Cordova in un giorno: l'itinerario per non perdere l'essenziale"
 descripcion: "Cosa vedere a Cordova in un giorno: Moschea-cattedrale, quartiere ebraico, Alcázar, Ponte Romano e patios. Un itinerario a piedi ora per ora, dove mangiare e cosa evitare."
 categoria: "cordoba"
 slug: "cordova-in-un-giorno"
-fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-28'
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

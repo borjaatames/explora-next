@@ -4,8 +4,8 @@ descripcion: "Madrid com crianças e adolescentes: jardim zoológico, parque de 
 respuestaCorta: 'O programa familiar mais fiável de Madrid é o **Zoo Aquarium** da Casa de Campo (desde 20 € online); com crianças a partir dos 8 anos, o **Parque de Atracciones** ao lado (desde 24 €) costuma ser a melhor recordação. Junte os dinossauros do **Museo de Ciencias Naturales** (7 €) e os barcos do **Retiro**, e planeie uma só atividade grande por dia.'
 categoria: "madrid"
 slug: "madrid-com-criancas"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

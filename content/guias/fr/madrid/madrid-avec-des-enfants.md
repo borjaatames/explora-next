@@ -4,8 +4,8 @@ descripcion: "Madrid avec des enfants et des ados : zoo, parc d'attractions, mus
 respuestaCorta: 'L''activité familiale la plus sûre à Madrid est le **Zoo Aquarium** de la Casa de Campo (à partir de 20 € en ligne) ; avec des enfants de 8 ans et plus, le **Parque de Atracciones** voisin (à partir de 24 €) reste souvent le meilleur souvenir. Ajoutez les dinosaures du **Museo de Ciencias Naturales** (7 €) et les barques du **Retiro**, et ne prévoyez qu''une seule grosse activité par jour.'
 categoria: "madrid"
 slug: "madrid-avec-des-enfants"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

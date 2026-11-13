@@ -3,8 +3,8 @@ titulo: '¿Toledo o Segovia? Qué excursión elegir desde Madrid'
 descripcion: 'Toledo o Segovia desde Madrid: tren y autobús con tiempos y precios, qué ver en cada una, cuánto tiempo hace falta, entradas y un veredicto claro según tu viaje.'
 categoria: madrid
 slug: toledo-o-segovia-desde-madrid
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: false

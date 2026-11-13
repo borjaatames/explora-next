@@ -4,8 +4,8 @@ descripcion: "Escale de croisière à Barcelone : terminaux du Moll Adossat, Cru
 metaTitle: "Port de Barcelone en croisière : que faire pendant l'escale"
 categoria: "barcelona"
 slug: "port-croisiere-barcelone-que-faire"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-26"
+fecha_actualizacion: "2026-10-04"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

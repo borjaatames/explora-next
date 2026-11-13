@@ -3,8 +3,8 @@ titulo: 'Girona and Game of Thrones: the locations and how to see them'
 descripcion: 'A guide to the Game of Thrones locations in Girona: the cathedral steps, El Call as Braavos, Sant Pere de Galligants and more. A walking route and tips.'
 categoria: girona
 slug: girona-game-of-thrones
-fecha: '2026-05-05'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

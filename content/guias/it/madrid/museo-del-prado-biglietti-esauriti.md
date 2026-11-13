@@ -4,8 +4,8 @@ descripcion: 'Museo del Prado biglietti: 15 € online e gratis nelle ultime due
 metaTitle: 'Museo del Prado biglietti: prezzo e orari'
 categoria: madrid
 slug: museo-del-prado-biglietti-esauriti
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-10-31"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Entradas del Park Güell agotadas: salen hasta tres meses antes y 
 metaTitle: 'Entradas Park Güell agotadas: qué hacer'
 categoria: barcelona
 slug: park-guell-entradas-agotadas
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Cádiz cruise port: the old town is a 5-minute walk from the ship.
 metaTitle: "Cádiz cruise port guide: Cádiz, Seville or Jerez"
 categoria: "cadiz"
 slug: "cadiz-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-25"
+fecha_actualizacion: "2026-10-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

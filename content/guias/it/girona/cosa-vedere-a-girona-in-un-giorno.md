@@ -3,8 +3,8 @@ titulo: 'Cosa vedere a Girona in un giorno: centro medievale e Il Trono di Spade
 descripcion: 'Guida di Girona in un giorno: cattedrale, El Call, case sull''Onyar e le mura. Itinerario a piedi ora per ora, location de Il Trono di Spade, dove mangiare e cosa evitare.'
 categoria: girona
 slug: cosa-vedere-a-girona-in-un-giorno
-fecha: '2026-04-25'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-07-05"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: true

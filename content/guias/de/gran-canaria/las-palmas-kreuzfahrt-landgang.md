@@ -4,8 +4,8 @@ descripcion: "Landgang in Las Palmas: Las Canteras 10-15 Min. zu Fuß, Vegueta p
 metaTitle: "Las Palmas Kreuzfahrt-Landgang: Tipps für Gran Canaria"
 categoria: "gran-canaria"
 slug: "las-palmas-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-09"
 autor: Borja
 publicada: true
 destacada: false

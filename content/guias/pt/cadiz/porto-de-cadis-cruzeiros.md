@@ -4,8 +4,8 @@ descripcion: "Escala de cruzeiro em Cádis: o centro histórico fica a 5 minutos
 metaTitle: "Porto de Cádis em cruzeiro: o que fazer e Sevilha"
 categoria: "cadiz"
 slug: "porto-de-cadis-cruzeiros"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-25"
+fecha_actualizacion: "2026-10-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

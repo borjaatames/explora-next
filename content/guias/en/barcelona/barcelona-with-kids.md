@@ -3,8 +3,8 @@ titulo: "Barcelona with kids: plans, monuments and traps to avoid"
 descripcion: "Barcelona with kids without stress: CosmoCaixa, Tibidabo, Sagrada Familia adapted, what ages work, where to sleep, and food with little ones."
 categoria: "barcelona"
 slug: "barcelona-with-kids"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-20"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

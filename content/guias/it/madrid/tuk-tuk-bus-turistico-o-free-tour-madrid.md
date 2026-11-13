@@ -3,8 +3,8 @@ titulo: "Tuk tuk, bus turistico o free tour a Madrid: quale scegliere e quanto c
 descripcion: "Madrid: i free tour si pagano con la mancia (in media 10-20 €), il bus turistico hop-on hop-off costa 29,70 € e un tuk tuk privato 79 € fino a 4 persone. Costo a persona a confronto."
 categoria: "madrid"
 slug: "tuk-tuk-bus-turistico-o-free-tour-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

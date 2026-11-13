@@ -3,8 +3,8 @@ titulo: 'Entradas del Museo Dalí de Figueres agotadas: qué hacer y qué opcion
 descripcion: 'Si la web oficial del Teatro-Museo Dalí no tiene entradas: otras franjas y otros días, la taquilla, la visita guiada con entrada, las excursiones desde Barcelona, Púbol y Portlligat, y qué ver sin entrada.'
 categoria: girona
 slug: museo-dali-figueres-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-09-22"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

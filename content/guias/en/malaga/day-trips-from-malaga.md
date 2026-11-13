@@ -3,8 +3,8 @@ titulo: "Day trips from Málaga: Ronda, Nerja, Antequera and white villages"
 descripcion: "The best day trips from Málaga: Ronda, Nerja and Frigiliana, Antequera and El Torcal, Mijas and Gibraltar. How to get there, what to see and how long to spend."
 categoria: "malaga"
 slug: "day-trips-from-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 respuestaCorta: 'The best day trips from Málaga are **Nerja and Frigiliana** (an hour by bus, caves from €15.50), **Antequera and El Torcal** (45 minutes), **Ronda** (about 2 hours by bus) and **Gibraltar** (bring a passport or EU ID). Do one per day: Ronda and Gibraltar each need a full day, and organised trips start at €35.'
 autor: Borja
 publicada: true

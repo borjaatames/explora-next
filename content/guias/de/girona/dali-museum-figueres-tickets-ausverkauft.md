@@ -3,8 +3,8 @@ titulo: "Dalí-Museum Figueres Tickets ausverkauft: was du tun kannst und welche
 descripcion: "Die offizielle Website des Teatre-Museu Dalí hat keine Tickets mehr? Andere Zeitfenster und Tage, die Kasse, die Führung mit Ticket, Tagesausflüge ab Barcelona, Púbol und Portlligat und was du ohne Ticket siehst."
 categoria: girona
 slug: dali-museum-figueres-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-09-22"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

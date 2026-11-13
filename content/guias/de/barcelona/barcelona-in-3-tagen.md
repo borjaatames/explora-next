@@ -3,8 +3,8 @@ titulo: "Barcelona in 3 Tagen: eine durchdachte Route, um die Stadt richtig zu s
 descripcion: "3 Tage in Barcelona, ohne sich in den Menschenmassen zu verlieren: Sagrada Familia, Gràcia, Montjuïc, Park Güell. Was sich lohnt, was man auslassen sollte und wo man übernachtet."
 categoria: "barcelona"
 slug: "barcelona-in-3-tagen"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: true

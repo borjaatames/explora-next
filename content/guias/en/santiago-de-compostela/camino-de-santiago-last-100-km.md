@@ -3,8 +3,8 @@ titulo: "The Camino de Santiago: the last 100 km (how to do it and the Compostel
 descripcion: "The last 100 km of the Camino de Santiago: where to start (Sarria, Tui, Ferrol), stages, budget, the credential and the free Compostela, and what to bring."
 categoria: "santiago-de-compostela"
 slug: "camino-de-santiago-last-100-km"
-fecha: "2026-05-11"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-27"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: true

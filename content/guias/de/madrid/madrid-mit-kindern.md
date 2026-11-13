@@ -3,8 +3,8 @@ titulo: "Madrid mit Kindern: ehrlicher Ratgeber nach Alter (4 bis 16 Jahre)"
 descripcion: "Madrid mit Kindern und Teenagern: Zoo, Freizeitpark, Museen, die begeistern, Pläne im Freien und typische Fehler. Ehrlicher Ratgeber nach Altersgruppe."
 categoria: "madrid"
 slug: "madrid-mit-kindern"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

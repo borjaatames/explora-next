@@ -3,8 +3,8 @@ titulo: "Caminito del Rey da soli, in gruppo o in privato: cosa conviene in base
 descripcion: "Caminito del Rey da soli da 12,50 € (biglietto e navetta), in gruppo da Malaga a 72 € o in privato da 156 a 396 € a persona. Quale scegliere."
 categoria: "malaga"
 slug: "caminito-del-rey-da-soli-in-gruppo-o-privato"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

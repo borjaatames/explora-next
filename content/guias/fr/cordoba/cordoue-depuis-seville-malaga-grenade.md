@@ -4,8 +4,8 @@ descripcion: "Comment visiter Cordoue en une journée depuis Séville, Malaga ou
 respuestaCorta: 'Cordoue se visite très bien en une journée : depuis **Séville** en environ **45 minutes d''AVE** et depuis **Malaga** en **un peu moins d''1 heure** de train à grande vitesse ; depuis **Grenade**, environ 2 heures de route. Par vos propres moyens, le train et le billet pour la **Mosquée-cathédrale** suffisent ; en groupe, il existe des excursions à partir de 76 € (Malaga) ou 109 € (Séville), et en privé à partir de 432 € pour 2 personnes au départ de Séville.'
 categoria: "cordoba"
 slug: "cordoue-depuis-seville-malaga-grenade"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-07-02"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

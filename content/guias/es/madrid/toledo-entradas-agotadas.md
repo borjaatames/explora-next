@@ -4,8 +4,8 @@ descripcion: 'Sin billetes de AVE a Toledo o con las entradas agotadas: cómo se
 metaTitle: 'Toledo agotado desde Madrid: qué hacer'
 categoria: madrid
 slug: toledo-entradas-agotadas
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-04-27"
+fecha_actualizacion: "2026-09-30"
 autor: Borja
 publicada: true
 destacada: false

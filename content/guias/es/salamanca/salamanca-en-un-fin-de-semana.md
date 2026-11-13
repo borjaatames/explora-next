@@ -4,8 +4,8 @@ descripcion: "Plan de fin de semana en Salamanca con criterio: monumentos, las d
 respuestaCorta: 'Dos días es la medida justa para Salamanca. Haz **los grandes monumentos el sábado** (Plaza Mayor, Clerecía, Universidad y las dos catedrales), Casa Lis por la tarde, el Puente Romano al atardecer y la **noche del sábado**; deja el domingo para la Casa Museo Unamuno, las Dueñas o **un solo pueblo**. El tour a pie con guía local sale desde 17 €.'
 categoria: "salamanca"
 slug: "salamanca-en-un-fin-de-semana"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

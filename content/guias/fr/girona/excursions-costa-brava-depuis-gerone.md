@@ -3,8 +3,8 @@ titulo: 'Excursions depuis Gérone : Costa Brava, Cadaqués et Figueres (Dalí)'
 descripcion: "Les meilleures excursions depuis Gérone : Figueres et le Théâtre-Musée Dalí, Cadaqués, Besalú, Tossa de Mar et les criques de la Costa Brava. Comment y aller et que voir."
 categoria: girona
 slug: excursions-costa-brava-depuis-gerone
-fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

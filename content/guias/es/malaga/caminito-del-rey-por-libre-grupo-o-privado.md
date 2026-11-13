@@ -3,8 +3,8 @@ titulo: "Caminito del Rey por libre, en grupo o en privado: cuál compensa segú
 descripcion: "Caminito del Rey por libre desde 12,50 € (entrada y lanzadera), en grupo desde Málaga por 72 € o en privado de 156 a 396 € por persona. Cuál elegir."
 categoria: "malaga"
 slug: "caminito-del-rey-por-libre-grupo-o-privado"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

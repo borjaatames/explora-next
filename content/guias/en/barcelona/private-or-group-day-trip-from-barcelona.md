@@ -3,8 +3,8 @@ titulo: "Private or group day trip from Barcelona: cost per person and the break
 descripcion: "Montserrat on a group tour from €47, or private from €419 each for 2 down to €149 for 6. Barcelona day trips compared, and when private costs the same."
 categoria: "barcelona"
 slug: "private-or-group-day-trip-from-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

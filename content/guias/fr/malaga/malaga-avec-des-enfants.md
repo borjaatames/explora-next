@@ -4,8 +4,8 @@ descripcion: "Guide de Malaga avec des enfants : plages, Alcazaba, Bioparc Fueng
 respuestaCorta: 'Avec des enfants, Malaga fonctionne en alternant de courtes doses d''histoire avec la plage et les animaux : la **plage de la Malagueta**, à pied depuis le centre, l''**Alcazaba** (gratuite pour tous le dimanche à partir de 14 h), le **Bioparc Fuengirola** (45 minutes en Cercanías ; 23 € de 3 à 9 ans) et le **téléphérique de Benalmádena**. L''idéal est le printemps ou l''automne ; en été, évitez le centre de 14 h à 18 h.'
 categoria: "malaga"
 slug: "malaga-avec-des-enfants"
-fecha: "2026-04-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-28"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Ascension du Teide : téléphérique, permis du sommet et observation d
 descripcion: 'Comment monter au Teide en 2026 : le téléphérique à 42 € jusqu''à 3 555 m, le permis du sommet à 15 € sur Tenerife ON, le refuge d''Altavista rouvert, les sentiers et l''observation des étoiles.'
 categoria: tenerife
 slug: ascension-du-teide
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-01"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Planes en pareja en Barcelona: velero al atardecer con barra libre
 metaTitle: "Planes en pareja en Barcelona: románticos y con precios"
 categoria: "barcelona"
 slug: "planes-en-pareja-barcelona"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "Tuk-tuk, bus touristique ou free tour à Madrid : lequel choisir et com
 descripcion: "Madrid : les free tours se paient au pourboire (10-20 € en moyenne), le bus touristique coûte 29,70 € et un tuk-tuk privé 79 € jusqu'à 4 personnes. Coût par personne comparé."
 categoria: "madrid"
 slug: "tuk-tuk-bus-touristique-ou-free-tour-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

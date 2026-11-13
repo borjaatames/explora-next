@@ -3,8 +3,8 @@ titulo: 'Teleférico y permiso del Teide agotados: qué hacer'
 descripcion: 'Si no quedan billetes del teleférico del Teide o permisos para la cima: cuándo salen, las excursiones con teleférico incluido, el refugio de Altavista y qué ver sin subir.'
 categoria: tenerife
 slug: teide-entradas-agotadas
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

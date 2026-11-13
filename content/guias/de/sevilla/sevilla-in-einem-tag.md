@@ -3,8 +3,8 @@ titulo: "Sevilla in einem Tag ab Madrid: der Express-Ausflug mit Konzept"
 descripcion: "Wie man einen Tag in Sevilla ab Madrid mit dem AVE optimal nutzt: Alcázar, Kathedrale, Plaza de España, Triana bei Sonnenuntergang. Was man tun sollte, was man auslassen kann und typische Fehler."
 categoria: "sevilla"
 slug: "sevilla-in-einem-tag"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

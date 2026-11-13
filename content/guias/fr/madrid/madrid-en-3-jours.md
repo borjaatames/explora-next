@@ -4,8 +4,8 @@ descripcion: "Madrid en 3 jours avec discernement : le Prado, l'Escurial, la val
 respuestaCorta: 'Consacrez le **jour 1 au Prado** (15 €, à 10 h), au Barrio de las Letras et au coucher de soleil à Debod ; le **jour 2 à l''Escurial et à la vallée de Cuelgamuros** (Cercanías C-3 ; fermés le lundi), et le **jour 3 au Retiro et à Chamberí**, avec le Reina Sofía s''il vous reste de l''énergie. Achetez le Prado en ligne pour éviter la file.'
 categoria: "madrid"
 slug: "madrid-en-3-jours"
-fecha: "2026-02-15"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-17"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

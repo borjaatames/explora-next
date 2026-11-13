@@ -3,8 +3,8 @@ titulo: 'Toledo ou Segóvia? Que excursão escolher a partir de Madrid'
 descripcion: 'Toledo ou Segóvia a partir de Madrid: comboio e autocarro com tempos e preços, o que ver em cada uma, quanto tempo é preciso, bilhetes e um veredicto claro conforme a sua viagem.'
 categoria: madrid
 slug: toledo-ou-segovia-desde-madrid
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-06"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: false

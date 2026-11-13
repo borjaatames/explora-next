@@ -4,8 +4,8 @@ descripcion: 'Bilhetes para o Mosteiro do Escorial: 14 € o geral e 22 € com 
 metaTitle: 'Bilhetes El Escorial: preço e grátis'
 categoria: madrid
 slug: escorial-bilhetes-esgotados
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

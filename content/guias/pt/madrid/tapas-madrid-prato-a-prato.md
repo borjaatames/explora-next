@@ -3,8 +3,8 @@ titulo: "As melhores tapas de Madrid, prato a prato: bravas, lulas, tortilha, to
 descripcion: "Onde comer as melhores patatas bravas, sandes de lulas, tortilha de batata, torreznos, callos à madrilena, presunto e croquetes de Madrid. Moradas e critério, prato a prato."
 categoria: "madrid"
 slug: "tapas-madrid-prato-a-prato"
-fecha: "2026-08-17"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

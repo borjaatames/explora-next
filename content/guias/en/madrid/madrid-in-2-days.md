@@ -3,8 +3,8 @@ titulo: "Madrid in 2 days: an itinerary with the Royal Palace, Prado, Retiro and
 descripcion: "Madrid in 2 days: Habsburg Madrid, the Royal Palace (€18), Gran Vía and Debod on day 1; the Prado (€15), Retiro, Reina Sofía and flamenco on day 2. Times, budget."
 categoria: "madrid"
 slug: "madrid-in-2-days"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-08"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

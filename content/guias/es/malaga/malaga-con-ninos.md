@@ -4,8 +4,8 @@ descripcion: "Guía de Málaga con niños: playas, Alcazaba, Bioparc Fuengirola,
 respuestaCorta: 'Con niños, Málaga funciona alternando dosis cortas de historia con playa y animales: la **playa de la Malagueta**, a pie del centro, la **Alcazaba** (gratis para todos los domingos desde las 14:00), el **Bioparc Fuengirola** (45 minutos en Cercanías; 23 € de 3 a 9 años) y el **teleférico de Benalmádena**. Lo ideal es primavera u otoño; en verano, evita el centro de 14:00 a 18:00.'
 categoria: "malaga"
 slug: "malaga-con-ninos"
-fecha: "2026-04-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-28"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

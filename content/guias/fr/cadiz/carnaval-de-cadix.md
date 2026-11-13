@@ -4,8 +4,8 @@ descripcion: "Guide du Carnaval de Cadix : quand il a lieu, le concours du Falla
 respuestaCorta: 'Le Carnaval de Cadix 2027 a lieu **du jeudi 4 au dimanche 14 février**, avec la **finale du concours du Falla le vendredi 5**. Le carnaval de rue, avec des groupes qui chantent des couplets dans La Viña et le Pópulo, est **gratuit**. Ce qui est complet, c''est l''hébergement : **réservez des mois à l''avance** ou dormez à Jerez, El Puerto ou San Fernando et venez en train.'
 categoria: "cadiz"
 slug: "carnaval-de-cadix"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-11"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: true

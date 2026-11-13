@@ -4,8 +4,8 @@ descripcion: "Escala de crucero en Cádiz: el casco antiguo está a 5 minutos a 
 metaTitle: "Puerto de Cádiz en crucero: qué hacer y Sevilla"
 categoria: "cadiz"
 slug: "puerto-cadiz-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-25"
+fecha_actualizacion: "2026-10-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

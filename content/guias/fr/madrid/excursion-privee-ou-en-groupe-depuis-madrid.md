@@ -3,8 +3,8 @@ titulo: "Excursion privée ou en groupe depuis Madrid : ce qui est rentable et c
 descripcion: "Depuis Madrid, Tolède ou Ségovie en groupe coûtent 41-79 € ; l'Escurial en privé, 320-410 € par personne selon que vous êtes 2, 4 ou 6. Prix réels et ce qui vaut le coup."
 categoria: "madrid"
 slug: "excursion-privee-ou-en-groupe-depuis-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-04"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

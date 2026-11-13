@@ -4,8 +4,8 @@ descripcion: 'No AVE train tickets to Toledo or monuments sold out? How to still
 metaTitle: 'Toledo sold out from Madrid: what to do'
 categoria: madrid
 slug: toledo-tickets-sold-out
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-04-27"
+fecha_actualizacion: "2026-09-30"
 autor: Borja
 publicada: true
 destacada: false

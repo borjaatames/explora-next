@@ -4,8 +4,8 @@ descripcion: "Guia para visitar a Catedral de Santiago: o que é grátis e o que
 respuestaCorta: 'Entrar na Catedral de Santiago é **grátis, todos os dias das 7h00 às 21h00**, pela Porta de Platerías. Pagam-se as visitas com horário: o **Pórtico da Glória**, as **coberturas** e o museu, que esgotam no verão (tours guiados desde 25 €). Desde 16 de outubro de 2026, as **Missas do Peregrino celebram-se na igreja de San Agustín** devido a obras.'
 categoria: "santiago-de-compostela"
 slug: "catedral-de-santiago-como-visitar"
-fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-04"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Que voir à Ávila en une journée depuis Madrid : remparts (8 €
 metaTitle: 'Que voir à Ávila en une journée'
 categoria: madrid
 slug: que-voir-a-avila-en-une-journee
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

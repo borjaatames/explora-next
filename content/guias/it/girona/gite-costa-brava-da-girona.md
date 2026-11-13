@@ -3,8 +3,8 @@ titulo: 'Gite da Girona: Costa Brava, Cadaqués e Figueres (Dalí)'
 descripcion: 'Le migliori gite da Girona: Figueres e il Teatro-Museo Dalí, Cadaqués, Besalú, Tossa de Mar e le calette della Costa Brava. Come arrivare e cosa vedere.'
 categoria: girona
 slug: gite-costa-brava-da-girona
-fecha: '2026-05-12'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-15"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Billets Park Güell épuisés ? Vente jusqu''à 3 mois avant, 700 
 metaTitle: 'Billets Park Güell épuisés : que faire'
 categoria: barcelona
 slug: park-guell-billets-epuises
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

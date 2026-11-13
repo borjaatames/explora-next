@@ -3,8 +3,8 @@ titulo: "Salamanca weekend trip: an honest guide to live the city"
 descripcion: "Weekend plan in Salamanca with judgment: monuments, the two cathedrals, the University, Casa Lis, where to eat tapas and the best cocktail bars. Honest."
 categoria: "salamanca"
 slug: "salamanca-weekend-trip"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

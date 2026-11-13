@@ -4,8 +4,8 @@ descripcion: "As melhores excursões de um dia a partir de Sevilha: Córdova, Ro
 respuestaCorta: 'As melhores excursões de um dia a partir de Sevilha são **Córdova** (45 minutos de AVE), **Ronda e as aldeias brancas** (cerca de 2 horas por estrada), **Cádis e Jerez** (1h45 de comboio até Cádis) e **Itálica** (15 minutos, meia manhã). Para ir mais longe —**Mérida**, **Gibraltar**, **Riotinto**— convém excursão organizada. **Em grupo** custam desde 47 € por pessoa; **em privado** compensam a partir de 4 pessoas, quando o preço por pessoa desce para 170-290 €.'
 categoria: "sevilla"
 slug: "excursoes-a-partir-de-sevilha"
-fecha: "2026-10-29"
-fecha_actualizacion: "2026-10-29"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

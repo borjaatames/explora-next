@@ -3,8 +3,8 @@ titulo: "Tabarca Island: how to visit it from Alicante (boat and tips)"
 descripcion: "How to visit Tabarca Island: how to get there by boat from Alicante or Santa Pola, what to see and do, snorkelling in the marine reserve, where to eat and what to bring."
 categoria: "alicante"
 slug: "tabarca-island-how-to-visit"
-fecha: "2026-04-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

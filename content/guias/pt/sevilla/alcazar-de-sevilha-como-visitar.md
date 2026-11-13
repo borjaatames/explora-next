@@ -4,8 +4,8 @@ descripcion: 'Bilhetes do Real Alcázar de Sevilha: 15,50 € e 2h30-3 horas de 
 metaTitle: 'Alcázar de Sevilha bilhetes: preço e visita'
 categoria: sevilla
 slug: alcazar-de-sevilha-como-visitar
-fecha: '2026-04-29'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-22"
+fecha_actualizacion: "2026-09-20"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

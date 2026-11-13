@@ -3,8 +3,8 @@ titulo: "Natale a Siviglia 2026: luci, mapping di San Francisco, presepi e Cabal
 descripcion: "Natale a Siviglia 2026: mapping di Plaza de San Francisco (18:30-23:00), Feria del Belén, mercatini, dolci dei conventi, zambombas, Cabalgata e festivi."
 categoria: "sevilla"
 slug: "natale-a-siviglia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

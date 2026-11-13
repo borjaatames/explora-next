@@ -3,8 +3,8 @@ titulo: "Valencia in 2 days: a smart route without missing the essentials"
 descripcion: "What to see in Valencia in 2 days: old town, City of Arts, La Albufera and paella. An hour-by-hour route, where to eat, where to stay and what to skip."
 categoria: "valencia"
 slug: "valencia-in-2-days"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

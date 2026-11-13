@@ -3,8 +3,8 @@ titulo: 'Was man auf Gran Canaria sehen sollte: Dünen, Gipfel, Vegueta und Puer
 descripcion: 'Gran-Canaria-Reiseführer: die Dünen von Maspalomas, Roque Nublo, Vegueta, Las Canteras, Puerto de Mogán und die Orte im Norden. Wie viele Tage, wo man wohnt und wie man sich fortbewegt.'
 categoria: gran-canaria
 slug: was-sehen-auf-gran-canaria
-fecha: '2026-10-07'
-fecha_actualizacion: '2026-10-07'
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: true

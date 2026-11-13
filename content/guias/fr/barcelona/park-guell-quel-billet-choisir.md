@@ -4,7 +4,7 @@ descripcion: 'Billet Park Güell : prix 2026 du billet de base (dès 21,50 €) 
 metaTitle: 'Billet Park Güell : prix et lequel choisir'
 categoria: "barcelona"
 slug: "park-guell-quel-billet-choisir"
-fecha: "2026-09-20"
+fecha: "2026-09-11"
 autor: Borja
 publicada: true
 destacada: false
@@ -25,7 +25,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Si vous voulez seulement voir la zone monumentale (le dragon, la salle hypostyle et le banc ondulé), le **billet de base à partir de 21,50 €** suffit. Pour 6,50 € de plus, le **billet avec la Casa Museu Gaudí** (28 €) ajoute la maison où a vécu l''architecte. Aucun n''inclut de guide et **aucun n''est annulable** : ne réservez qu''une fois l''heure arrêtée.'
 actividades:

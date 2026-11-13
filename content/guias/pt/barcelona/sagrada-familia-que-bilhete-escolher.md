@@ -5,8 +5,8 @@ metaTitle: 'Bilhetes Sagrada Família: preços e opções'
 respuestaCorta: 'Só para a basílica, o **bilhete com audioguia desde 34 €** é a opção reservável mais barata, e o **tour guiado com torre (desde 75 €)** é o único que sobe a uma torre. Para juntar o Park Güell sem perder o dia, o **combinado guiado de 4 horas (desde 104 €)** cobre ambos. Reserve com semanas de antecedência: a entrada é por horário e **não se vende na bilheteira**.'
 categoria: "barcelona"
 slug: "sagrada-familia-que-bilhete-escolher"
-fecha: "2026-09-20"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

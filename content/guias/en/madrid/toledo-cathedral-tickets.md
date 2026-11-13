@@ -4,8 +4,8 @@ descripcion: 'Toledo Cathedral tickets cost €12 on the official site. Open Mon
 metaTitle: 'Toledo Cathedral tickets and opening hours'
 categoria: madrid
 slug: toledo-cathedral-tickets
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

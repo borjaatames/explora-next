@@ -3,8 +3,8 @@ titulo: 'Córdoba Mosque-Cathedral tickets sold out: what to do'
 descripcion: 'If the official Mosque-Cathedral website has no tickets: other time slots, the Patio de San Eulogio box office, the free early-morning hour, the bell tower, the night visit and tours with entry included.'
 categoria: cordoba
 slug: cordoba-mosque-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-08-20"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

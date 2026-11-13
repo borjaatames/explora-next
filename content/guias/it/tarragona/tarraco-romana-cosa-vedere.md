@@ -4,8 +4,8 @@ descripcion: "Guida alla Tarraco romana di Tarragona: anfiteatro, circo, foro, m
 respuestaCorta: 'La Tarraco romana si visita a piedi in **una mezza giornata abbondante**: l''anfiteatro sul mare, il circo e la Torre del Pretori, il foro e le mura. Il **biglietto cumulativo da 15 €** include i principali siti comunali (ognuno da solo costa 5 €) e sotto i 12 anni si entra gratis. **Il lunedì tutti i siti comunali sono chiusi**, e l''acquedotto de les Ferreres, a 4 km, è gratuito.'
 categoria: "tarragona"
 slug: "tarraco-romana-cosa-vedere"
-fecha: "2026-04-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

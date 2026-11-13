@@ -3,8 +3,8 @@ titulo: "Spiagge di Cadice e della Costa de la Luz: le migliori e come scegliere
 descripcion: "Le migliori spiagge di Cadice e della Costa de la Luz: La Caleta, La Victoria, Bolonia, Zahara, Caños de Meca e Tarifa. Quale scegliere, il vento di levante e consigli."
 categoria: "cadiz"
 slug: "spiagge-cadice-costa-de-la-luz"
-fecha: "2026-05-07"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

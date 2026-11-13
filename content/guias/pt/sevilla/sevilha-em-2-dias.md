@@ -3,8 +3,8 @@ titulo: "Sevilha em 2 dias: itinerário hora a hora com Alcázar, Catedral e Tri
 descripcion: "Sevilha em 2 dias: Alcázar às 9h30 (15,50 €), Catedral e Giralda, Santa Cruz, Plaza de España, Triana e flamenco. Horários, o que reservar e orçamento."
 categoria: "sevilla"
 slug: "sevilha-em-2-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

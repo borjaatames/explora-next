@@ -3,8 +3,8 @@ titulo: 'Visiting Timanfaya: timed tickets, getting there and what to see'
 descripcion: 'How to visit Timanfaya National Park in 2026: the €30 ticket sold online only with a time slot, whether you can drive in, the Volcano Route, El Diablo, the free ranger-led walks and the best time to go.'
 categoria: lanzarote
 slug: visiting-timanfaya
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: false

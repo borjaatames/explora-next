@@ -4,7 +4,7 @@ descripcion: 'Biglietti Park Güell: il base da 21,50 € per la zona monumental
 metaTitle: 'Biglietti Park Güell: prezzi e confronto'
 categoria: "barcelona"
 slug: "park-guell-quale-biglietto-scegliere"
-fecha: "2026-09-20"
+fecha: "2026-09-11"
 autor: Borja
 publicada: true
 destacada: false
@@ -25,7 +25,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Se vuoi vedere solo la zona monumentale (il drago, la Sala Ipostila e la panchina ondulata), basta il **biglietto base da 21,50 €**. Con 6,50 € in più, il **biglietto con la Casa Museo Gaudí** (28 €) aggiunge la casa in cui visse l''architetto. Nessuno dei due include la guida e **nessuno si può cancellare**: prenota solo quando hai chiaro l''orario.'
 actividades:

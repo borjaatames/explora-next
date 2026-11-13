@@ -4,8 +4,8 @@ descripcion: 'Museo Picasso di Malaga esaurito? Il biglietto da 13 €, la bigli
 metaTitle: 'Museo Picasso di Malaga esaurito: cosa fare'
 categoria: malaga
 slug: museo-picasso-malaga-biglietti-esauriti
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

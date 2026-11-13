@@ -3,8 +3,8 @@ titulo: "Noël à Grenade 2026 : illuminations, marchés, l'Alhambra en hiver, l
 descripcion: "Noël à Grenade 2026 : illuminations de la Plaza del Carmen, marchés, l'Alhambra les jours fériés (fermée le 25 déc. et le 1er janv.), Sierra Nevada, Cavalcade et Toma."
 categoria: "granada"
 slug: "noel-a-grenade"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

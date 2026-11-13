@@ -4,8 +4,8 @@ descripcion: 'Comment visiter l''île de Lobos en 2026 : l''autorisation gratuit
 respuestaCorta: 'Pour débarquer à Lobos, il vous faut une **autorisation gratuite du Cabildo** (conseil insulaire) sur **lobospass.com**, avec **200 places par créneau** (10 h-14 h ou 14 h-18 h) et jusqu''à 3 personnes par demande ; elle ouvre quelques jours avant votre visite. Le **ferry part du port de Corralejo**, met **15 à 20 minutes** et coûte **à partir de 17 €** aller-retour. Faites coïncider vos bateaux aller et retour avec votre créneau.'
 categoria: fuerteventura
 slug: ile-de-lobos-comment-y-aller
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

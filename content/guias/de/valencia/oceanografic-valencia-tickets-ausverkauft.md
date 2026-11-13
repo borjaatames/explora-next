@@ -4,8 +4,8 @@ descripcion: 'Oceanogràfic Valencia ausverkauft? Offizielle Preise (35,90-43,05
 metaTitle: 'Oceanogràfic Tickets ausverkauft: was tun?'
 categoria: valencia
 slug: oceanografic-valencia-tickets-ausverkauft
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-09-10"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

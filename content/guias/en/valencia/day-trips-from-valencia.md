@@ -3,8 +3,8 @@ titulo: "Day trips from Valencia: La Albufera, Sagunto, Xàtiva and more"
 descripcion: "The best day trips from Valencia: La Albufera, Sagunto, Xàtiva, Peñíscola and the Costa del Azahar. How to get there, what to see and how long to spend."
 categoria: "valencia"
 slug: "day-trips-from-valencia"
-fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 respuestaCorta: 'The best day trip from Valencia is **La Albufera**, 20 minutes away: a boat ride among the rice fields and paella in El Palmar. For history, **Sagunto** (30 minutes by train) and **Xàtiva** (45 minutes) have hilltop castles; for a beach with a castle, **Peñíscola**, an hour and a half north.'
 autor: Borja
 publicada: true

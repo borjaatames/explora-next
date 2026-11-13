@@ -3,8 +3,8 @@ titulo: "Tuk tuk, coche de caballos o bus turístico en Sevilla: cuál elegir y 
 descripcion: "Sevilla: bus turístico 28 € por persona, tuk tuk privado 89-99 € por vehículo de hasta 4 y coche de caballos con guía 298 €. Precio por persona y cuál elegir."
 categoria: "sevilla"
 slug: "tuk-tuk-coche-caballos-o-bus-turistico-sevilla"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-21"
 autor: Borja
 publicada: true
 destacada: false

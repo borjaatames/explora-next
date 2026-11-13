@@ -4,8 +4,8 @@ descripcion: "Ibiza guide: Dalt Vila, Es Vedrà, the best coves, Formentera and 
 respuestaCorta: 'Beyond the party, Ibiza''s essentials fit into two or three days: a morning in **Dalt Vila**, the World Heritage walled town, an afternoon of south-west coves with **sunset facing Es Vedrà**, and a full day on **Formentera**, half an hour away by ferry (return tickets from €55). **Rent a car or scooter**: the best coves are poorly served by buses.'
 categoria: "ibiza"
 slug: "what-to-see-in-ibiza"
-fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-13"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

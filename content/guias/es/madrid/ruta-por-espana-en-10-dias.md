@@ -4,8 +4,8 @@ descripcion: 'Ruta por España en 10 días en tren: Madrid y Toledo, Sevilla, C�
 metaTitle: 'Ruta por España en 10 días en tren'
 categoria: "madrid"
 slug: "ruta-por-espana-en-10-dias"
-fecha: "2026-11-03"
-fecha_actualizacion: "2026-11-03"
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: "2026-11-03"
 autor: Borja
 publicada: true

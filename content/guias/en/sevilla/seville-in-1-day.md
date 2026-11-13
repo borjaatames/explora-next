@@ -3,8 +3,8 @@ titulo: "Seville in 1 day from Madrid: the express trip with judgment"
 descripcion: "How to make the most of one day in Seville from Madrid by AVE: Alcázar, Cathedral, Plaza de España, Triana at sunset. What to do, what to skip, and common mistakes."
 categoria: "sevilla"
 slug: "seville-in-1-day"
-fecha: "2026-03-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

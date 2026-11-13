@@ -3,8 +3,8 @@ titulo: "Córdoba an einem Tag: die Route für das Wichtigste"
 descripcion: "Was man in Córdoba an einem Tag sieht: Mezquita-Catedral, Judería, Alcázar, Römische Brücke und Patios. Stundenplan zu Fuß, wo man isst und was man vermeiden sollte."
 categoria: "cordoba"
 slug: "cordoba-in-einem-tag"
-fecha: "2026-03-20"
-fecha_actualizacion: '2026-10-28'
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

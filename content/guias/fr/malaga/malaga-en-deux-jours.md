@@ -4,8 +4,8 @@ descripcion: "Que voir à Malaga en deux jours : Alcazaba, cathédrale, musée P
 respuestaCorta: 'Consacrez la **première journée au centre historique** : Alcazaba et Gibralfaro (10 € le billet combiné), la cathédrale, le musée Picasso et un espeto au coucher du soleil à la Malagueta. La **seconde, au Caminito del Rey**, qui **est complet des semaines à l''avance**, ou à Nerja, Ronda ou Antequera. La visite guidée du Caminito au départ de Malaga commence à 72 €.'
 categoria: "malaga"
 slug: "malaga-en-deux-jours"
-fecha: "2026-02-28"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-26"
+fecha_actualizacion: "2026-11-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

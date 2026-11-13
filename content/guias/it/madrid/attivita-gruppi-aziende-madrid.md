@@ -4,8 +4,8 @@ descripcion: "Attività per gruppi e aziende a Madrid: tour privato della Gran V
 metaTitle: "Attività per gruppi e aziende a Madrid, con prezzi"
 categoria: "madrid"
 slug: "attivita-gruppi-aziende-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Plus de billets de train AVE pour Tolède ou entrées complètes ?
 metaTitle: 'Tolède complet depuis Madrid : que faire'
 categoria: madrid
 slug: toledo-billets-complets
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-04-27"
+fecha_actualizacion: "2026-09-30"
 autor: Borja
 publicada: true
 destacada: false

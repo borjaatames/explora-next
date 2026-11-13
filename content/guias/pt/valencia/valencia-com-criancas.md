@@ -3,8 +3,8 @@ titulo: "Valência com crianças: Oceanogràfic, praia e programas que funcionam
 descripcion: "Guia de Valência com crianças: Oceanogràfic, Cidade das Artes, Bioparc, praia e Turia de bicicleta. Programas por idades, onde comer e o que evitar com os mais pequenos."
 categoria: "valencia"
 slug: "valencia-com-criancas"
-fecha: "2026-03-27"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

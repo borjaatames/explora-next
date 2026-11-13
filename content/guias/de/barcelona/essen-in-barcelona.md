@@ -3,8 +3,8 @@ titulo: "Essen in Barcelona: Tapas, Vermut und katalanische Küche"
 descripcion: "Wo man in Barcelona gut isst: authentische Tapas, katalanische Abendessen, Brunch und Vermut. Konkrete Orte nach Vierteln und Touristenfallen, die man vermeiden sollte."
 categoria: "barcelona"
 slug: "essen-in-barcelona"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

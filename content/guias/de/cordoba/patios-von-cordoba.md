@@ -5,8 +5,8 @@ metaTitle: "Patios Córdoba: Patio-Fest im Mai"
 respuestaCorta: 'Das **Patio-Fest (Fiesta de los Patios)** dauert zwei Wochen Anfang Mai (2026 vom 4. bis 17. Mai): Die Häuser öffnen ihre Innenhöfe **gratis**, von 11:00 bis 14:00 und von 18:00 bis 22:00 Uhr. Geh früh am Morgen oder am frühen Abend. Den Rest des Jahres hat der **Palacio de Viana** zwölf Patios (8,50 €), und eine **Führung durch fünf Patios in San Basilio** kostet ab 19 €.'
 categoria: "cordoba"
 slug: "patios-von-cordoba"
-fecha: "2026-04-12"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

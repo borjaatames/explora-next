@@ -4,8 +4,8 @@ descripcion: "Escale de croisière à Cadix : la vieille ville est à 5 minutes 
 metaTitle: "Port de Cadix en croisière : que faire et Séville"
 categoria: "cadiz"
 slug: "port-croisiere-cadix-que-faire"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-25"
+fecha_actualizacion: "2026-10-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

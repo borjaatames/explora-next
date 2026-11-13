@@ -3,8 +3,8 @@ titulo: "Andaluzia em 7 dias: Sevilha, Córdova, Granada, Málaga e Ronda de com
 descripcion: "Roteiro de 7 dias pela Andaluzia de comboio: 2 noites em Sevilha, 1 em Córdova, 2 em Granada e 2 em Málaga com Ronda. Trajetos, preços, o que reservar e onde dormir."
 categoria: "sevilla"
 slug: "andaluzia-em-7-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

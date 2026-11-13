@@ -3,8 +3,8 @@ titulo: "Tapas in Seville with judgment: a route through Centro, Triana and Aren
 descripcion: "Where to eat tapas in Seville without tourist traps: 8 bars in Centro, Triana and Arenal, what to order, prices, when to go and what to avoid."
 categoria: "sevilla"
 slug: "seville-tapas-with-criteria"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-29"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

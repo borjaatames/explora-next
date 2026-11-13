@@ -4,8 +4,8 @@ descripcion: "Alicante guide for one or two days: Santa Bárbara Castle, Santa C
 respuestaCorta: 'One day covers the city: start at **Santa Bárbara Castle** at 9:30 (take the lift opposite Postiguet beach), walk down through the **Santa Cruz quarter** and the old town, stroll the Explanada and finish with a swim at Postiguet. With a second day, add **Tabarca Island**, a marine reserve reached by boat from the port, with return tickets **from €25**.'
 categoria: "alicante"
 slug: "what-to-see-in-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

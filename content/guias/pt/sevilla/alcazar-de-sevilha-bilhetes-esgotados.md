@@ -4,8 +4,8 @@ descripcion: 'Bilhetes do Alcázar de Sevilha esgotados? A bilheteira do Patio d
 metaTitle: 'Alcázar de Sevilha esgotado: o que fazer'
 categoria: sevilla
 slug: alcazar-de-sevilha-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: 'Musée Picasso de Malaga complet ? Le billet à 13 €, le guichet
 metaTitle: 'Musée Picasso de Malaga complet : que faire'
 categoria: malaga
 slug: musee-picasso-malaga-billets-epuises
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

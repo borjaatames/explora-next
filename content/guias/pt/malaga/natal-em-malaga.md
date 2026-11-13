@@ -3,8 +3,8 @@ titulo: "Natal em Málaga 2026: luzes da calle Larios (horários dos espetáculo
 descripcion: "Natal em Málaga 2026: espetáculos de luzes na calle Larios às 18h30, 20h30 e 22h00, mapping da Catedral, mercado, presépios, Cavalgada e praia."
 categoria: "malaga"
 slug: "natal-em-malaga"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-07"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

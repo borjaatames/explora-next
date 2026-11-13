@@ -4,8 +4,8 @@ descripcion: "Programas a dois em Sevilha: terraços ao pôr do sol em privado (
 metaTitle: "Programas a dois em Sevilha: românticos e com preços"
 categoria: "sevilla"
 slug: "o-que-fazer-em-sevilha-a-dois"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-12"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

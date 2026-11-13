@@ -5,8 +5,8 @@ metaTitle: 'Cosa vedere a Toledo in un giorno da Madrid'
 respuestaCorta: 'Prendi l''**Avant da Atocha (33 minuti, 22-26 € andata e ritorno)** o guida un''ora per la A-42, e arriva alle 10:00. Dedica la mattina alla **Cattedrale (12 €)**, a Santo Tomé e a Santa María la Blanca, il pomeriggio alla Judería e chiudi al **Mirador del Valle**. Il **braccialetto turistico da 14 €** copre sette monumenti minori.'
 categoria: "madrid"
 slug: "toledo-da-madrid-in-un-giorno"
-fecha: "2026-04-02"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-09-23"
+fecha_actualizacion: "2026-11-05"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Roque Nublo: cómo subir, dónde aparcar y qué ver cerca'
 descripcion: 'Guía para subir al Roque Nublo: la reserva obligatoria de 9:00 a 17:00, dónde aparcar ahora que La Goleta está cerrado, la guagua lanzadera, el sendero y qué ver cerca.'
 categoria: gran-canaria
 slug: roque-nublo-como-subir
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

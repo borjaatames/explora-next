@@ -4,8 +4,8 @@ descripcion: 'Alhambra tickets sold out? Check the evening before, 20:00-22:00, 
 metaTitle: 'Alhambra tickets sold out: what to do'
 categoria: granada
 slug: alhambra-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-11-06"
 autor: Borja
 publicada: true
 destacada: false

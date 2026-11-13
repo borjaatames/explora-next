@@ -4,8 +4,8 @@ descripcion: "Guia de pintxos em Bilbau: onde ir de txikiteo (Plaza Nueva, Casco
 respuestaCorta: 'Vá de balcão em balcão pela **Plaza Nueva e pelo Casco Viejo**, ou pelas ruas Ledesma e García Rivero no Ensanche, com **um ou dois pintxos por bar**. Comece com uma Gilda e pergunte pelos quentes da cozinha. Conte com **2-3,50 € por pintxo frio e 4-6 € pelo quente**; um jantar de txikiteo fica por 25-35 € por pessoa.'
 categoria: "bilbao"
 slug: "pintxos-em-bilbau"
-fecha: "2026-04-04"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-11"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

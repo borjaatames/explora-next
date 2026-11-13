@@ -4,8 +4,8 @@ descripcion: "As melhores enseadas e praias de Maiorca: Es Trenc, Cala Mondragó
 respuestaCorta: 'As melhores enseadas de Maiorca são **Es Trenc** (selvagem e de água caribenha), **Cala Mondragó** (parque natural, ideal para famílias), **Caló des Moro** (minúscula e fotogénica) e **Sa Calobra**, na Tramuntana. Em julho e agosto chegue antes das 9h00 ou depois das 18h00, ou vá de barco: o de Port de Sóller para Sa Calobra sai desde 35 €.'
 categoria: "mallorca"
 slug: "melhores-enseadas-de-maiorca"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

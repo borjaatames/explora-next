@@ -4,8 +4,8 @@ descripcion: "Guía honesta de 3 días en Sevilla: Alcázar, Catedral, Triana y 
 respuestaCorta: 'Tres días dan para Sevilla sin prisas: **el día 1, el Real Alcázar** (15,50 € online, con días de antelación), la Catedral y la Giralda, y la Plaza de España al atardecer; **el día 2, Triana** y el río al atardecer; el día 3, la ciudad con calma o **las ruinas romanas de Itálica**, a 9 km. Los mejores meses son de marzo a mayo, octubre y noviembre.'
 categoria: "sevilla"
 slug: "sevilla-en-3-dias"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

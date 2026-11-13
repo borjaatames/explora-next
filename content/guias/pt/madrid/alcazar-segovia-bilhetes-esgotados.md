@@ -4,8 +4,8 @@ descripcion: 'Bilhetes do Alcázar de Segóvia: 7 € palácio e museu, 10 € c
 metaTitle: 'Bilhetes Alcázar de Segóvia: preço e grátis'
 categoria: madrid
 slug: alcazar-segovia-bilhetes-esgotados
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-10"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

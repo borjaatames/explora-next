@@ -4,8 +4,8 @@ descripcion: "Guide des patios de Cordoue : ce qu'est la fête des Patios (mai),
 respuestaCorta: 'La **fête des Patios** dure deux semaines début mai (du 4 au 17 en 2026) : les maisons ouvrent leurs patios **gratuitement**, de 11 h à 14 h et de 18 h à 22 h. Allez-y tôt le matin ou en fin de journée. Le reste de l''année, le **palais de Viana** compte douze patios (8,50 €) et une **visite guidée de cinq patios de San Basilio** coûte à partir de 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordoue"
-fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

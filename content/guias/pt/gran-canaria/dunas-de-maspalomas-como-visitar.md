@@ -4,8 +4,8 @@ descripcion: 'Guia das Dunas de Maspalomas: como chegar, percursos permitidos, a
 respuestaCorta: 'As dunas são **gratuitas e estão abertas todo o dia**, mas são uma Reserva Natural Especial: só se caminha pelos **trilhos sinalizados** e pela beira-mar. Vá **ao amanhecer ou nas duas últimas horas da tarde**, leve água e entre pelo miradouro de Playa del Inglés ou pelo farol. O passeio de camelo de 30 minutos custa desde 18 €.'
 categoria: gran-canaria
 slug: dunas-de-maspalomas-como-visitar
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-21"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

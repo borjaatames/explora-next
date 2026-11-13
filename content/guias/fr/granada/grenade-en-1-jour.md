@@ -3,8 +3,8 @@ titulo: "Grenade en 1 jour : l'Alhambra, l'Albaicín et le Sacromonte heure par 
 descripcion: "Grenade en une journée : l'Alhambra à 8 h 30 (22,27 €, à réserver des semaines à l'avance), tapas gratuites, la Chapelle royale, coucher de soleil à San Nicolás et flamenco dans une grotte. Horaires et budget."
 categoria: "granada"
 slug: "grenade-en-1-jour"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

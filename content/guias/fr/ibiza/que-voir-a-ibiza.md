@@ -4,8 +4,8 @@ descripcion: "Guide d'Ibiza : Dalt Vila, Es Vedrà, les plus belles criques, For
 respuestaCorta: 'Au-delà de la fête, Ibiza, c''est **Dalt Vila** (la ville haute fortifiée, classée au patrimoine mondial et gratuite), les criques du sud-ouest comme Cala Comte et Cala d''Hort, le **coucher de soleil face à Es Vedrà** et **Formentera**, à une demi-heure de ferry. Deux jours suffisent pour l''essentiel et **trois sont l''équilibre idéal** ; les croisières dans les criques partent à partir de 52 €.'
 categoria: "ibiza"
 slug: "que-voir-a-ibiza"
-fecha: "2026-04-03"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-13"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

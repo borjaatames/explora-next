@@ -3,8 +3,8 @@ titulo: "Natale a Valencia 2026: luci, mercatini, Expojove e Cabalgata dei Re Ma
 descripcion: "Natale a Valencia 2026: piromusicales il sabato alle 18:30 in Plaza del Ayuntamiento, mercatini, presepi, Expojove (26 dic-4 gen) e Cabalgata."
 categoria: "valencia"
 slug: "natale-a-valencia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

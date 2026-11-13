@@ -3,8 +3,8 @@ titulo: "Eating in Málaga with criteria: espetos, fried fish and sweet wine"
 descripcion: "Eating in Málaga: sardine espetos at El Palo beach bars, fritura malagueña, sweet wine from the barrel, prices, opening times and the tourist traps to skip."
 categoria: "malaga"
 slug: "eating-in-malaga"
-fecha: "2026-03-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

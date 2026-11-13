@@ -4,7 +4,7 @@ descripcion: 'Gruta de Nerja 2026: 16 € online, 18 € na bilheteira (18/20 �
 metaTitle: 'Gruta de Nerja: bilhetes, preços e horário'
 categoria: malaga
 slug: gruta-de-nerja-bilhetes
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

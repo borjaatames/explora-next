@@ -3,8 +3,8 @@ titulo: 'What to do in Seville with kids: an honest 2026 guide'
 descripcion: 'What to do in Seville with kids of various ages, without falling for the obvious: monuments that work, what to skip, where to eat, and traps to avoid.'
 categoria: sevilla
 slug: seville-with-kids
-fecha: '2026-05-01'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-23"
+fecha_actualizacion: "2026-10-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

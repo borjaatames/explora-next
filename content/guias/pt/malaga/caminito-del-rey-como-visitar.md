@@ -5,8 +5,8 @@ metaTitle: 'Caminito del Rey: bilhetes e como chegar'
 respuestaCorta: '**Compre o bilhete no site oficial com semanas ou meses de antecedência** (10 € por conta própria, 18 € com guia oficial, mais 2,50 € de autocarro de ligação): sem ele não se entra. São **7,7 km lineares em 3-4 horas**, de norte para sul, quase sem desnível mas não aptos para quem sofre de vertigens; **fecha às segundas** e não admite menores de 8 anos. Com transporte a partir de Málaga, desde 72 €.'
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
-fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

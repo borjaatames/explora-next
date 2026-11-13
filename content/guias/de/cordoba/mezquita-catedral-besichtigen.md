@@ -4,8 +4,8 @@ descripcion: 'Mezquita Córdoba Tickets: 15 € regulär, gratis Mo-Sa von 8:30 
 metaTitle: 'Mezquita Córdoba: Tickets, Preise, Führung'
 categoria: "cordoba"
 slug: "mezquita-catedral-besichtigen"
-fecha: "2026-04-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Tickets für das Kloster El Escorial: 14 € regulär, 22 € mit 
 metaTitle: 'El Escorial Tickets: Preis & gratis'
 categoria: madrid
 slug: el-escorial-tickets-ausverkauft
-fecha: '2026-11-06'
-fecha_actualizacion: '2026-11-06'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-04"
 autor: Borja
 publicada: true
 destacada: false

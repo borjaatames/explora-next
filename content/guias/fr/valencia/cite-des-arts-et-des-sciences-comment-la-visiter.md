@@ -4,8 +4,8 @@ descripcion: "Guide pour visiter la Cité des Arts et des Sciences de Valence : 
 respuestaCorta: 'Inutile de tout visiter : l''ensemble de Calatrava s''apprécie **gratuitement de l''extérieur**, et à l''intérieur l''incontournable est l''**Oceanogràfic** (3-4 heures, de préférence à l''ouverture ; billet à partir de 37 €). Le **Museu de les Ciències** (2-3 heures) vaut le coup avec des enfants et l''Hemisfèric est le plus dispensable ; si vous entrez dans deux sites, le **billet combiné** est toujours rentable.'
 categoria: "valencia"
 slug: "cite-des-arts-et-des-sciences-comment-la-visiter"
-fecha: "2026-03-04"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

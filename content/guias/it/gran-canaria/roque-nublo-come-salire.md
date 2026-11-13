@@ -3,8 +3,8 @@ titulo: 'Roque Nublo: come salire, dove parcheggiare e cosa vedere nei dintorni'
 descripcion: 'Guida per salire al Roque Nublo: la prenotazione obbligatoria dalle 9:00 alle 17:00, dove parcheggiare ora che La Goleta è chiuso, la navetta, il sentiero e cosa vedere nei dintorni.'
 categoria: gran-canaria
 slug: roque-nublo-come-salire
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-25"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

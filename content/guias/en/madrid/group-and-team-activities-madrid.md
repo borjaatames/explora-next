@@ -4,8 +4,8 @@ descripcion: "Group and team activities in Madrid: private Gran VÃ­a tour for â‚
 metaTitle: "Group and team activities in Madrid, with prices"
 categoria: "madrid"
 slug: "group-and-team-activities-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: false

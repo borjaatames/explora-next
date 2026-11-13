@@ -4,8 +4,8 @@ descripcion: 'Tour Spagna 10 giorni in treno: Madrid e Toledo, Siviglia, Cordova
 metaTitle: 'Tour Spagna 10 giorni in treno: itinerario'
 categoria: madrid
 slug: tour-spagna-10-giorni
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

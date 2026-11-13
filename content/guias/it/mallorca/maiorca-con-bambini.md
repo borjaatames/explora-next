@@ -3,8 +3,8 @@ titulo: 'Maiorca con bambini: calette tranquille, treni e acquari'
 descripcion: 'Guida a Maiorca con bambini: le migliori spiagge per famiglie, Palma Aquarium, treno di Sóller, Cuevas del Drach e parchi acquatici. Idee per zona e cosa evitare.'
 categoria: mallorca
 slug: maiorca-con-bambini
-fecha: '2026-04-09'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-09-01"
+fecha_actualizacion: "2026-09-26"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

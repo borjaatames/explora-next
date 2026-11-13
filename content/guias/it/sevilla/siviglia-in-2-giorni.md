@@ -3,8 +3,8 @@ titulo: "Siviglia in 2 giorni: itinerario ora per ora con Alcázar, Cattedrale e
 descripcion: "Siviglia in 2 giorni: Alcázar alle 9:30 (15,50 €), Cattedrale e Giralda, Santa Cruz, Plaza de España, Triana e flamenco. Orari, cosa prenotare e budget."
 categoria: "sevilla"
 slug: "siviglia-in-2-giorni"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

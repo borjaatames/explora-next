@@ -4,8 +4,8 @@ descripcion: 'Guide de Grande Canarie : dunes de Maspalomas, Roque Nublo, Veguet
 respuestaCorta: 'Pour voir Grande Canarie, il vous faut **quatre ou cinq jours** : le sud avec les **dunes de Maspalomas** et Puerto de Mogán, une journée dans les sommets (Roque Nublo et Tejeda), Las Palmas avec Vegueta et Las Canteras, et les villages du nord (Teror, Arucas, Agaete). Pour l''intérieur, il faut **une voiture ou une excursion** : celle du Roque Nublo depuis Las Palmas coûte à partir de 48 €.'
 categoria: gran-canaria
 slug: que-voir-a-grande-canarie
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-08"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: true

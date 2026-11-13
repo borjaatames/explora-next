@@ -4,8 +4,8 @@ descripcion: 'Alhambra de nuit : visite nocturne des palais nasrides Ã  12,73 â‚
 metaTitle: 'Alhambra de nuit : billets, horaires et prix'
 categoria: granada
 slug: alhambra-visite-nocturne-billets-epuises
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

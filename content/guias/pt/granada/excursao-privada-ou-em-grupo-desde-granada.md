@@ -3,8 +3,8 @@ titulo: "Excursão privada ou em grupo a partir de Granada: preços por pessoa e
 descripcion: "A partir de Granada, a Alpujarra em grupo custa 71 € e Ronda ou o Caminito 135 €; em privado, 150-400 € por pessoa se forem 2, 4 ou 6. Tabela e equilíbrio."
 categoria: "granada"
 slug: "excursao-privada-ou-em-grupo-desde-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-20"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: false

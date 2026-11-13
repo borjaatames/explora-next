@@ -4,7 +4,7 @@ descripcion: 'Best flamenco show in Madrid? Torres Bermejas (from €31, dinner 
 metaTitle: 'Best flamenco show Madrid: 2 tablaos compared'
 categoria: "madrid"
 slug: "flamenco-madrid-which-tablao-to-choose"
-fecha: "2026-09-06"
+fecha: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false
@@ -24,7 +24,7 @@ slugs:
   fr: flamenco-madrid-quel-tablao-choisir
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-11-11"
 reservasArriba: true
 respuestaCorta: 'Both are **one-hour shows** with a full cast. **Torres Bermejas** (from €31), by Gran Vía, is bigger and lets you add tapas or a 3-course dinner. **Las Carboneras** (from €45), in a palace basement near Plaza Mayor, is more intimate and the one marked **wheelchair accessible**. Tables go by arrival order, so **arrive 20 minutes early**.'
 opciones:

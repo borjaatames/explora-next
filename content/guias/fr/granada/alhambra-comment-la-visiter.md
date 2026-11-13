@@ -4,8 +4,8 @@ descripcion: 'Billet Alhambra : 22,27 € sur le site officiel, en vente jusqu''
 metaTitle: 'Billet Alhambra : prix et comment la visiter'
 categoria: granada
 slug: alhambra-comment-la-visiter
-fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-10-14"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

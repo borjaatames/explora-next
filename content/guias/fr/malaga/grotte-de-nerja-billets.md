@@ -4,7 +4,7 @@ descripcion: 'Grotte de Nerja 2026 : 16 € en ligne, 18 € au guichet (18/20 �
 metaTitle: 'Grotte de Nerja : billets, prix, horaires'
 categoria: malaga
 slug: grotte-de-nerja-billets
-fecha: '2026-11-04'
+fecha: "2026-05-27"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

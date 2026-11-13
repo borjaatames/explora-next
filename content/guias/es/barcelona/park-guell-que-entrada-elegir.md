@@ -4,7 +4,7 @@ descripcion: 'Entradas Park Güell: la oficial cuesta 18 € y las reservables, 
 metaTitle: 'Entradas Park Güell: precio y cuál elegir'
 categoria: "barcelona"
 slug: "park-guell-que-entrada-elegir"
-fecha: "2026-09-20"
+fecha: "2026-09-11"
 autor: Borja
 publicada: true
 destacada: false
@@ -25,7 +25,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 tiempo_lectura: 4
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 21,50 €**. Por 6,50 € más, la **entrada con la Casa Museo Gaudí** (28 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
 actividades:

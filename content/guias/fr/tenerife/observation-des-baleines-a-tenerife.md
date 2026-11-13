@@ -4,8 +4,8 @@ descripcion: 'Guide pour observer baleines et dauphins à Tenerife : quelles esp
 respuestaCorta: 'Les **globicéphales tropicaux et les grands dauphins s''observent toute l''année**, car ils vivent entre Tenerife et La Gomera. Les bateaux partent de **Los Cristianos, Puerto Colón et Los Gigantes** ; choisissez-en un qui arbore le pavillon jaune **Barco Azul** d''opérateur agréé. Les sorties classiques durent 2 à 3 heures, et le yacht écologique au départ de Los Cristianos coûte à partir de 30 €.'
 categoria: tenerife
 slug: observation-des-baleines-a-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-30"
+fecha_actualizacion: "2026-09-19"
 autor: Borja
 publicada: true
 destacada: false

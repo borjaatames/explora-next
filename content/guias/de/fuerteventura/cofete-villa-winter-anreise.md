@@ -4,8 +4,8 @@ descripcion: 'So kommst du zum Strand von Cofete und zur Villa Winter: die 20 km
 respuestaCorta: 'Nach **Cofete** führt eine **rund 20 km lange Schotterpiste ab Morro Jable** (45-60 Minuten), bei Trockenheit auch mit normalem Pkw machbar, aber viele **Mietverträge decken Schäden auf Pisten nicht ab**. Ohne Auto fährt der **Bus 111** von Tiadhe um **10:00 und 14:15** ab Morro Jable (rund 8,70 € pro Strecke), oder du buchst einen **Ausflug** ab Jandía für 57 €. **Nicht baden**: starke Strömungen, keine Rettungsschwimmer.'
 categoria: fuerteventura
 slug: cofete-villa-winter-anreise
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-06-19"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

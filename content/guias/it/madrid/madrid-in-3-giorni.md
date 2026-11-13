@@ -4,8 +4,8 @@ descripcion: "Madrid in 3 giorni con criterio: Prado, Escorial, Valle de Cuelgam
 respuestaCorta: 'Dedica il **giorno 1 al Prado** (15 €, alle 10:00), al Barrio de las Letras e al tramonto a Debod; il **giorno 2 all''Escorial e al Valle de Cuelgamuros** (Cercanías C-3; chiudono il lunedì), e il **giorno 3 al Retiro e a Chamberí**, con il Reina Sofía se ti restano energie. Compra il Prado online per saltare la coda.'
 categoria: "madrid"
 slug: "madrid-in-3-giorni"
-fecha: "2026-02-15"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-17"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: true

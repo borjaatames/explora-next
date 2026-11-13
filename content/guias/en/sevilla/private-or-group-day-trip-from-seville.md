@@ -3,8 +3,8 @@ titulo: "Private or group day trip from Seville: real prices per person and when
 descripcion: "Day trips from Seville from €47 in a group or €125-435 per person privately for 2, 4 or 6 people: real price table, break-even point and common mistakes."
 categoria: "sevilla"
 slug: "private-or-group-day-trip-from-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-23"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

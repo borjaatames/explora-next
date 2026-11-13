@@ -3,8 +3,8 @@ titulo: "Sevilla in 2 Tagen: Reiseplan Stunde für Stunde mit Alcázar, Kathedra
 descripcion: "Sevilla in 2 Tagen: Alcázar um 9:30 (15,50 €), Kathedrale und Giralda, Santa Cruz, Plaza de España, Triana und Flamenco. Zeiten, was reservieren und Budget."
 categoria: "sevilla"
 slug: "sevilla-in-2-tagen"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true

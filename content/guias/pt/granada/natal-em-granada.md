@@ -3,8 +3,8 @@ titulo: "Natal em Granada 2026: luzes, mercados, Alhambra no inverno, Serra Neva
 descripcion: "Natal em Granada 2026: luzes da Plaza del Carmen, mercados, Alhambra nos feriados (fecha a 25 dez e 1 jan), Serra Nevada, Cavalgada e Toma."
 categoria: "granada"
 slug: "natal-em-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

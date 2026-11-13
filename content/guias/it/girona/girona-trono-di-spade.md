@@ -3,8 +3,8 @@ titulo: 'Girona e Il Trono di Spade: le location e come vederle'
 descripcion: 'Guida alle location de Il Trono di Spade a Girona: la scalinata della cattedrale, El Call come Braavos, Sant Pere de Galligants e altro. Itinerario a piedi e consigli.'
 categoria: girona
 slug: girona-trono-di-spade
-fecha: '2026-05-05'
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-04-26"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

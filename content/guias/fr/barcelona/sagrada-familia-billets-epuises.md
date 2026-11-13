@@ -4,8 +4,8 @@ descripcion: 'Billets Sagrada Família épuisés ? Vente environ deux mois avant
 metaTitle: 'Billets Sagrada Família épuisés : que faire'
 categoria: barcelona
 slug: sagrada-familia-billets-epuises
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

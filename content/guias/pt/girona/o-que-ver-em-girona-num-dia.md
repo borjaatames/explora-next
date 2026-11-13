@@ -3,8 +3,8 @@ titulo: 'O que ver em Girona num dia: centro histórico medieval e Guerra dos Tr
 descripcion: 'Girona num dia: catedral, El Call, as casas do Onyar e as muralhas. Um percurso a pé hora a hora, locais de Guerra dos Tronos, onde comer e o que evitar.'
 categoria: girona
 slug: o-que-ver-em-girona-num-dia
-fecha: '2026-04-25'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-05"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: true

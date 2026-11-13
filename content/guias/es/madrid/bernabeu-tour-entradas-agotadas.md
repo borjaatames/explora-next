@@ -4,8 +4,8 @@ descripcion: 'Si el Tour Bernabéu sale agotado: precio oficial (37 € online, 
 metaTitle: 'Tour Bernabéu agotado: qué hacer'
 categoria: madrid
 slug: bernabeu-tour-entradas-agotadas
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-09-22"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

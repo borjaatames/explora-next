@@ -4,8 +4,8 @@ descripcion: "Come sfruttare al massimo un giorno a Barcellona partendo da Madri
 respuestaCorta: 'Barcellona in un giorno da Madrid è fattibile con disciplina: l''**AVE impiega circa 3 h** (Adif mantiene la limitazione di velocità fino a fine 2026), quindi partendo verso le 6:15 hai circa 10 ore in città. Prenota online con qualche giorno di anticipo la **Sagrada Família** (26 € sul sito ufficiale) e il **Park Güell** (18 €), gira il Gotico, pranza al Born e sali nel pomeriggio ai **Bunker del Carmel** (chiudono alle 17:30 d''inverno) per poi scendere a piedi al Park Güell e prendere il treno delle 19:30.'
 categoria: "barcelona"
 slug: "barcellona-in-1-giorno"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-07-07"
+fecha_actualizacion: "2026-11-08"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

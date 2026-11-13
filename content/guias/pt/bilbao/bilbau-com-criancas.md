@@ -4,8 +4,8 @@ descripcion: "Guia de Bilbau com crianças: funicular de Artxanda, esculturas do
 respuestaCorta: 'Bilbau é muito cómoda com crianças: plana junto à ria, com o **funicular de Artxanda** (3 minutos de subida, a cada 15 minutos), as esculturas do Guggenheim gratuitas por fora e praias familiares em **Plentzia e Gorliz** a cerca de 40 minutos na linha 1 do metro. Compre o **cartão Barik** (3 €) à chegada: um só serve para toda a família no metro, no elétrico e no funicular.'
 categoria: "bilbao"
 slug: "bilbau-com-criancas"
-fecha: "2026-04-15"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-11"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: false

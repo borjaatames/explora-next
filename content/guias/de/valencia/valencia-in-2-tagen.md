@@ -3,8 +3,8 @@ titulo: "Valencia in 2 Tagen: eine durchdachte Route, ohne das Wichtigste zu ver
 descripcion: "Was man in Valencia in 2 Tagen sieht: historische Altstadt, Stadt der Künste, Albufera und Paella. Route Stunde für Stunde, wo man isst, wo man übernachtet und was man vermeiden sollte."
 categoria: "valencia"
 slug: "valencia-in-2-tagen"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

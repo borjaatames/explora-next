@@ -4,8 +4,8 @@ descripcion: "We compare private and group day trips from Málaga to Ronda, Nerj
 respuestaCorta: 'For **1 or 2 people**, a **group tour** is much cheaper (€35-72 per person versus €290-380 privately). From **4 people**, a **private trip** drops to **€180-250 per person** and you get pickup from your accommodation, your own timing and nobody else in the car. It pays off most for families, groups of friends and older travellers.'
 categoria: "malaga"
 slug: "private-or-group-day-trips-from-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

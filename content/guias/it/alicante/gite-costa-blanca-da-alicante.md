@@ -4,8 +4,8 @@ descripcion: "Le migliori gite da Alicante: Benidorm, Altea, Calpe e il Peñón 
 respuestaCorta: 'Le migliori gite da Alicante sono **Altea e Calpe** in TRAM (con cambio a Benidorm), **Guadalest con le Fuentes del Algar** (un''ora di auto, o escursione organizzata da 47 €), **il Palmeral di Elche** (20 minuti in treno locale Cercanías) e Benidorm. Fanne una al giorno: Guadalest o Jávea occupano già la giornata intera.'
 categoria: "alicante"
 slug: "gite-costa-blanca-da-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

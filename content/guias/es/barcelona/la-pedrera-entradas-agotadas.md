@@ -3,8 +3,8 @@ titulo: 'Entradas de La Pedrera agotadas: qué hacer y qué opciones quedan'
 descripcion: 'Si la web oficial de La Pedrera (Casa Milà) no tiene hueco: otras franjas y modalidades, la entrada de fecha abierta, la visita al amanecer, la Night Experience, la taquilla, la reventa y qué ver sin entrada en el paseo de Gràcia.'
 categoria: barcelona
 slug: la-pedrera-entradas-agotadas
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

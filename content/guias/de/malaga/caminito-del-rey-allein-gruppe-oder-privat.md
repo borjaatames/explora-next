@@ -3,8 +3,8 @@ titulo: "Caminito del Rey allein, in der Gruppe oder privat: was sich lohnt, je 
 descripcion: "Caminito del Rey allein ab 12,50 € (Ticket und Shuttle), in der Gruppe ab Málaga für 72 € oder privat von 156 bis 396 € pro Person. Welche Option wählen."
 categoria: "malaga"
 slug: "caminito-del-rey-allein-gruppe-oder-privat"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true

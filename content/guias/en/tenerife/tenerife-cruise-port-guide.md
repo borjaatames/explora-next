@@ -4,8 +4,8 @@ descripcion: "Santa Cruz de Tenerife cruise port: centre 10-20 min on foot, €1
 metaTitle: "Tenerife Cruise Port: What to Do in Santa Cruz"
 categoria: "tenerife"
 slug: "tenerife-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

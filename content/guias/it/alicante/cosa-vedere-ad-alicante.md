@@ -4,8 +4,8 @@ descripcion: "Guida di Alicante in uno o due giorni: Castello di Santa Bárbara,
 respuestaCorta: 'Alicante si visita in **uno o due giorni**. Il primo, il **Castello di Santa Bárbara** (gratis; ascensore da 2,70 € dal Postiguet), il quartiere di Santa Cruz, l''Explanada e un arroz a banda; il secondo, l''**isola di Tabarca** (barca da 25 € andata e ritorno) o un paese della costa come Altea o Guadalest. Tutto si fa a piedi e in TRAM, senza auto.'
 categoria: "alicante"
 slug: "cosa-vedere-ad-alicante"
-fecha: "2026-03-26"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-16"
+fecha_actualizacion: "2026-09-18"
 autor: Borja
 publicada: true
 destacada: true

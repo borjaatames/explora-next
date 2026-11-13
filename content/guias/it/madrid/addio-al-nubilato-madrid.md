@@ -4,8 +4,8 @@ descripcion: "Addio al nubilato a Madrid: tuk-tuk festa privato a 150 €, labor
 metaTitle: "Addio al nubilato o al celibato a Madrid: idee e prezzi"
 categoria: "madrid"
 slug: "addio-al-nubilato-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-11-09"
 autor: Borja
 publicada: true
 destacada: false

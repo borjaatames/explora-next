@@ -4,8 +4,8 @@ descripcion: "As melhores escapadinhas a partir de Alicante: Benidorm, Altea, Ca
 respuestaCorta: 'As melhores escapadinhas a partir de Alicante são **Altea e Calpe** de TRAM (com transbordo em Benidorm), **Guadalest com as Fuentes del Algar** (uma hora de carro, ou excursão organizada desde 47 €), **o Palmeral de Elche** (20 minutos de comboio suburbano) e Benidorm. Faça uma por dia: Guadalest ou Jávea já ocupam o dia inteiro.'
 categoria: "alicante"
 slug: "escapadinhas-costa-blanca-a-partir-de-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

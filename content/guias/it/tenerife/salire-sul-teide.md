@@ -3,8 +3,8 @@ titulo: 'Salire sul Teide: funivia, permesso per la vetta e stelle'
 descripcion: 'Come salire sul Teide nel 2026: la funivia da 42 € fino a 3.555 m, il permesso per la vetta da 15 € su Tenerife ON, il rifugio di Altavista riaperto, sentieri e osservazione delle stelle.'
 categoria: tenerife
 slug: salire-sul-teide
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-01"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: false

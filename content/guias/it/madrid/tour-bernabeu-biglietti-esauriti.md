@@ -4,8 +4,8 @@ descripcion: 'Se il Tour Bernabéu risulta esaurito: prezzo ufficiale (37 € on
 metaTitle: 'Tour Bernabéu esaurito: cosa fare'
 categoria: madrid
 slug: tour-bernabeu-biglietti-esauriti
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-01'
+fecha: "2026-05-05"
+fecha_actualizacion: "2026-09-22"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

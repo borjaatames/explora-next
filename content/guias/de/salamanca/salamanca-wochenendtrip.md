@@ -3,8 +3,8 @@ titulo: "Salamanca an einem Wochenende: der ehrliche Guide, um die Stadt zu erle
 descripcion: "Wochenendplan für Salamanca mit Plan: Sehenswürdigkeiten, beide Kathedralen, Universität, Casa Lis, wo man Tapas isst und die besten Cocktailbars. Ehrlich."
 categoria: "salamanca"
 slug: "salamanca-wochenendtrip"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

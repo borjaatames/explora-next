@@ -4,8 +4,8 @@ descripcion: "Escala de cruzeiro em Málaga: terminais, shuttle até à plaza de
 metaTitle: "Porto de Málaga em cruzeiro: o que fazer na escala"
 categoria: "malaga"
 slug: "porto-de-malaga-cruzeiros-o-que-fazer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-06"
+fecha_actualizacion: "2026-10-21"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

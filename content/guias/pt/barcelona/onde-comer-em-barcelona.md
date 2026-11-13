@@ -4,8 +4,8 @@ descripcion: "Onde comer bem em Barcelona: tapas autênticas, jantares catalães
 respuestaCorta: 'Coma onde comem os barceloneses: **Sant Antoni, Born, Gràcia e Poble Sec**, nunca nas Ramblas. Faça o **vermute de pressão** ao meio-dia ao fim de semana, peça bomba, pa amb tomàquet e fideuà em vez de paelha ou sangria, e reserve no Bar Cañete, no Cal Pep e no Bar del Pla. Janta-se **a partir das 20h30**.'
 categoria: "barcelona"
 slug: "onde-comer-em-barcelona"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: 'Bilhetes do Museu Picasso de Barcelona esgotados: o que fazer'
 descripcion: 'Se o seu horário no Museu Picasso aparece esgotado ou não consegue lugar gratuito: outras horas no site oficial, a bilheteira, a entrada gratuita com reserva, o Articket BCN e as visitas guiadas sem filas.'
 categoria: barcelona
 slug: museu-picasso-barcelona-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-06"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

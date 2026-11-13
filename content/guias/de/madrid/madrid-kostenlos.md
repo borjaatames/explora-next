@@ -3,8 +3,8 @@ titulo: "Madrid kostenlos: die Hauptstadt erleben, ohne einen Euro auszugeben"
 descripcion: "Madrid kostenlos mit Anspruch: Museen ohne Eintritt, freie Aussichtspunkte, wiederkehrende Events und Viertel zum Bummeln. Und was sich zu bezahlen WIRKLICH lohnt."
 categoria: "madrid"
 slug: "madrid-kostenlos"
-fecha: "2026-03-08"
-fecha_actualizacion: "2026-05-01"
+fecha: "2026-05-02"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

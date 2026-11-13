@@ -4,9 +4,9 @@ descripcion: 'Flamenco a Barcellona: confrontiamo i 4 spettacoli per prezzo, ora
 metaTitle: 'Flamenco a Barcellona: quale tablao scegliere'
 categoria: "barcelona"
 slug: "flamenco-barcellona-quale-tablao-scegliere"
-fecha: "2026-09-06"
+fecha: "2026-07-01"
 autor: Borja
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false

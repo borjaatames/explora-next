@@ -4,8 +4,8 @@ descripcion: "3 jours à Barcelone sans se perdre dans la foule : Sagrada Famíl
 respuestaCorta: 'Trois jours, c''est la bonne durée pour une première fois : **jour 1, Sagrada Família et Casa Batlló** ; jour 2, Park Güell, Gràcia et coucher de soleil aux **Bunkers del Carmel** ; jour 3, quartier gothique, Born et Montjuïc. Réservez la Sagrada Família (26 € sur le site officiel) et le Park Güell (18 €) **des semaines à l''avance** : en saison, ils affichent complet 60 jours avant.'
 categoria: "barcelona"
 slug: "barcelone-en-3-jours"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-29"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: true

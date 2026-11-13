@@ -5,8 +5,8 @@ metaTitle: 'Caminito del Rey: entradas y cómo llegar'
 respuestaCorta: '**Compra la entrada en la web oficial con semanas o meses de antelación** (10 € por libre, 18 € con guía oficial, más 2,50 € de bus lanzadera): sin ella no se entra. Son **7,7 km lineales en 3-4 horas**, de norte a sur, sin apenas desnivel pero no aptos para el vértigo; **cierra los lunes** y no admite menores de 8 años. Con transporte desde Málaga, desde 72 €.'
 categoria: "malaga"
 slug: "caminito-del-rey-como-visitar"
-fecha: "2026-03-10"
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-05-13"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: true

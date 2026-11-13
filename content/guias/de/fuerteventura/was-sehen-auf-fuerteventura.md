@@ -4,8 +4,8 @@ descripcion: 'Fuerteventura-Reiseführer: die Dünen von Corralejo, die Isla de 
 respuestaCorta: 'Plane **fünf bis sechs Tage** und einen **Mietwagen** ein: den Norden (Dünen von Corralejo, **Isla de Lobos**, Calderón Hondo, El Cotillo), die Inselmitte (Betancuria und Ajuy) und Jandía (Sotavento, Morro Jable und **Cofete**). Für Lobos brauchst du eine **kostenlose Genehmigung** des Cabildo, die Fähre kostet ab 17 € hin und zurück. Wohn in Corralejo für den Norden und in Costa Calma oder Morro Jable für den Süden.'
 categoria: fuerteventura
 slug: was-sehen-auf-fuerteventura
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-09-12"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'Madrid Toledo Zug: Der Avant braucht ab Atocha 33 Minuten, hin und
 metaTitle: 'Madrid Toledo Zug: Fahrplan, Preise, Tickets'
 categoria: madrid
 slug: zug-madrid-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-09-11"
+fecha_actualizacion: "2026-10-22"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

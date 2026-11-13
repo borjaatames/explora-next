@@ -3,8 +3,8 @@ titulo: "Santiago de Compostela an einem Tag: Kathedrale, Altstadt und Jakobsweg
 descripcion: "Was man in Santiago an einem Tag sieht: Kathedrale, Obradoiro, Altstadt und Mercado de Abastos. Stundenplan zu Fuß am Ende des Jakobswegs, wo man isst und was man vermeidet."
 categoria: "santiago-de-compostela"
 slug: "santiago-in-einem-tag"
-fecha: "2026-05-02"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-31"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: true

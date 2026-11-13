@@ -3,8 +3,8 @@ titulo: "Sevilla in 3 Tagen: eine durchdachte Route, um es zu erleben, nicht nur
 descripcion: "Ehrlicher 3-Tage-Guide für Sevilla: Alcázar, Kathedrale, Triana und Altstadt mit Konzept. Was besichtigen, was auslassen, wo übernachten und typische Fehler."
 categoria: "sevilla"
 slug: "sevilla-in-3-tagen"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

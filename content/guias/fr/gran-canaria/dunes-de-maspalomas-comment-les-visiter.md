@@ -4,8 +4,8 @@ descripcion: 'Guide des dunes de Maspalomas : comment y aller, sentiers autoris�
 respuestaCorta: 'Les dunes sont **gratuites et ouvertes toute la journée**, mais c''est une réserve naturelle spéciale : on ne marche que sur les **sentiers balisés** et au bord de l''eau. Allez-y **au lever du soleil ou pendant les deux dernières heures de l''après-midi**, emportez de l''eau et entrez par le belvédère de Playa del Inglés ou par le phare. La balade à dos de dromadaire de 30 minutes coûte à partir de 18 €.'
 categoria: gran-canaria
 slug: dunes-de-maspalomas-comment-les-visiter
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-21"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

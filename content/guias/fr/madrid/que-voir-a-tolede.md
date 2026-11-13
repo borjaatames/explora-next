@@ -5,8 +5,8 @@ metaTitle: 'Visiter Tolède : que voir, 15 sites et prix'
 respuestaCorta: 'L''essentiel de Tolède : la **cathédrale primatiale (12 €)**, **Santo Tomé** et *L''Enterrement du seigneur d''Orgaz* du Greco, le **quartier juif** (synagogue du Tránsito, Santa María la Blanca et San Juan de los Reyes) et le **Mirador del Valle** au coucher du soleil. Si vous entrez dans trois petits monuments ou plus, le **bracelet touristique à 14 €** en couvre sept. En une journée, on voit bien six à huit sites ; en deux, toute cette liste.'
 categoria: madrid
 slug: que-voir-a-tolede
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-29"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Excursão privada ou em grupo a partir de Sevilha: preços por pessoa e
 descripcion: "Excursões a partir de Sevilha em grupo desde 47 € ou em privado de 125 a 435 € por pessoa se forem 2, 4 ou 6: preços reais, ponto de equilíbrio e erros típicos."
 categoria: "sevilla"
 slug: "excursao-privada-ou-em-grupo-desde-sevilha"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-23"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

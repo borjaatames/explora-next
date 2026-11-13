@@ -3,8 +3,8 @@ titulo: "Granada en 1 día: Alhambra, Albaicín y Sacromonte hora a hora"
 descripcion: "Granada en un día: Alhambra a las 8:30 (22,27 €, reserva semanas antes), tapas gratis, Capilla Real, atardecer en San Nicolás y zambra. Horarios y presupuesto."
 categoria: "granada"
 slug: "granada-en-1-dia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-09"
+fecha_actualizacion: "2026-09-19"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

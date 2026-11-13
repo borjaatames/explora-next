@@ -3,8 +3,8 @@ titulo: "Que voir à Majorque : Palma, la Tramuntana et les plus belles criques"
 descripcion: "Guide de Majorque : cathédrale de Palma, Serra de Tramuntana, Valldemossa, Sóller, grottes du Drach et criques. Que voir par zone, combien de jours, comment se déplacer et quand partir."
 categoria: "mallorca"
 slug: "que-voir-a-majorque"
-fecha: "2026-03-07"
-fecha_actualizacion: "2026-03-07"
+fecha: "2026-09-18"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: true

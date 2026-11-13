@@ -4,8 +4,8 @@ descripcion: "Dove mangiare tapas a Siviglia senza cadere nelle trappole per tur
 respuestaCorta: 'Salta i bar vicino alla Cattedrale e fai tapas in tre zone: **Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) e il Centro (Casa Morales, Manolo Cateca). La tapa costa **2,50-4 €** e una cena di cinque tapas e tre bevande, 18-25 € a persona. Vai **dalle 13:30 alle 15:30 o dalle 20:30 alle 23:00** e ordina a giri.'
 categoria: "sevilla"
 slug: "tapas-a-siviglia-dove-mangiare"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-29"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

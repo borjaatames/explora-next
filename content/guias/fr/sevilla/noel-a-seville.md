@@ -3,8 +3,8 @@ titulo: "Noël à Séville 2026 : illuminations, mapping de San Francisco, crèc
 descripcion: "Noël à Séville 2026 : mapping de la Plaza de San Francisco (18 h 30-23 h), Feria del Belén, marchés, douceurs des couvents, zambombas, défilé des Rois mages et jours fériés."
 categoria: "sevilla"
 slug: "noel-a-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-14"
+fecha_actualizacion: "2026-09-24"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

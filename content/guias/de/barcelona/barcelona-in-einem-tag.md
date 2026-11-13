@@ -3,8 +3,8 @@ titulo: "Barcelona in einem Tag ab Madrid: der durchdachte Kurztrip"
 descripcion: "So holst du das Meiste aus einem Tag in Barcelona ab Madrid mit dem AVE heraus: Sagrada Familia, Gotisches Viertel, Essen in El Born, Park Güell und Búnkers del Carmel."
 categoria: "barcelona"
 slug: "barcelona-in-einem-tag"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-07-07"
+fecha_actualizacion: "2026-11-08"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

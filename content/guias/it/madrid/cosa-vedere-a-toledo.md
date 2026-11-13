@@ -5,8 +5,8 @@ metaTitle: 'Cosa vedere a Toledo: 15 tappe e prezzi'
 respuestaCorta: 'L''essenziale di Toledo: la **Cattedrale primaziale (12 €)**, **Santo Tomé** con *La sepoltura del signore di Orgaz* del Greco, il **quartiere ebraico** (Sinagoga del Tránsito, Santa María la Blanca e San Juan de los Reyes) e il **Mirador del Valle** al tramonto. Se entri in tre o più monumenti minori, il **braccialetto turistico da 14 €** ne copre sette. In un giorno si vedono bene sei-otto luoghi; in due, tutta questa lista.'
 categoria: madrid
 slug: cosa-vedere-a-toledo
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-29"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Salamanca an einem Tag: die durchdachte Route, ohne das Wesentliche zu 
 descripcion: "Salamanca an einem Tag mit Plan: Plaza Mayor, Universität, beide Kathedralen, La Clerecía und die Römische Brücke bei Sonnenuntergang. Was du sehen solltest, was du auslassen kannst und typische Fehler."
 categoria: "salamanca"
 slug: "salamanca-in-einem-tag"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-02"
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: true

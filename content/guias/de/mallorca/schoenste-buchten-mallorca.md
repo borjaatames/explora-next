@@ -3,8 +3,8 @@ titulo: "Die schönsten Buchten Mallorcas nach Zonen (und wie man Warteschlangen
 descripcion: "Die schönsten Buchten und Strände Mallorcas: Es Trenc, Cala Mondragó, Caló des Moro, Sa Calobra und mehr, nach Zonen geordnet. Welche Einrichtungen haben, wie man hinkommt und wann man gehen sollte."
 categoria: "mallorca"
 slug: "schoenste-buchten-mallorca"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

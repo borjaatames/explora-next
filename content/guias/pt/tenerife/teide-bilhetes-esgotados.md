@@ -3,8 +3,8 @@ titulo: 'Teleférico e autorização do Teide esgotados: o que fazer'
 descripcion: 'Se não houver bilhetes para o teleférico do Teide nem autorizações para o cume: quando saem, as excursões com teleférico incluído, o refúgio de Altavista e o que ver sem subir.'
 categoria: tenerife
 slug: teide-bilhetes-esgotados
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

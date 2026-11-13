@@ -4,8 +4,8 @@ descripcion: 'Palazzo Reale di Madrid biglietti: 18 â‚¬ sul sito ufficiale, 26 â
 metaTitle: 'Palazzo Reale Madrid biglietti: prezzo 2026'
 categoria: madrid
 slug: palazzo-reale-madrid-biglietti-esauriti
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-02"
 autor: Borja
 publicada: true
 destacada: false

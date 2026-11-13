@@ -5,8 +5,8 @@ metaTitle: 'Flamenco em Sevilha: que espetáculo escolher'
 respuestaCorta: 'Os cinco espetáculos de flamenco reserváveis em Sevilha duram cerca de uma hora e custam **entre 24 e 45 €**. Escolha a **Casa de la Memoria** (24 €, só duas filas) se procura intimidade, o **Teatro Flamenco Sevilla** (25 €) como a opção mais segura e com boa visibilidade, e o **Tablao El Arenal** (45 €) se quiser jantar durante o espetáculo. Todos têm cancelamento gratuito até 24 horas antes.'
 categoria: "sevilla"
 slug: "flamenco-em-sevilha-que-tablao-escolher"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-10-29"
 autor: Borja
 publicada: true
 destacada: false

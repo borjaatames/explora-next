@@ -4,8 +4,8 @@ descripcion: 'Come arrivare alla spiaggia di Cofete e a Villa Winter: la pista d
 respuestaCorta: 'A **Cofete** si arriva per una **pista sterrata di circa 20 km da Morro Jable** (45-60 minuti), percorribile in auto normale se è asciutta, ma molti **contratti di noleggio non coprono i danni sulle piste**. Senza auto, la **guagua 111** di Tiadhe parte da Morro Jable alle **10:00 e alle 14:15** (circa 8,70 € a tratta) oppure c''è un''**escursione** da Jandía a 57 €. **Non fare il bagno**: correnti forti e niente bagnini.'
 categoria: fuerteventura
 slug: cofete-villa-winter-come-arrivare
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-06-19"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

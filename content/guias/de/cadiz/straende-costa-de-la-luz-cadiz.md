@@ -5,8 +5,8 @@ metaTitle: "Costa de la Luz: die schönsten Strände"
 respuestaCorta: 'Die besten Strände von Cádiz sind **La Caleta** und La Victoria in der Stadt und an der Costa de la Luz **Bolonia** (Düne und römische Ruinen), Zahara de los Atunes, Los Caños de Meca, El Palmar und Tarifa. Wähle nach dem Wind: Bei **Poniente** passt jeder offene Strand, bei starkem **Levante** eine geschützte Bucht. Der Katamaran zum Sonnenuntergang ab Cádiz kostet ab 24,50 €.'
 categoria: "cadiz"
 slug: "straende-costa-de-la-luz-cadiz"
-fecha: "2026-05-07"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-24"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

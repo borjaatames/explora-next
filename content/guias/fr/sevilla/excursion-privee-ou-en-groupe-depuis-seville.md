@@ -3,8 +3,8 @@ titulo: "Excursion privée ou en groupe depuis Séville : prix par personne et q
 descripcion: "Excursions depuis Séville en groupe dès 47 € ou en privé de 125 à 435 € par personne si vous êtes 2, 4 ou 6 : vrais prix, seuil de rentabilité et erreurs fréquentes."
 categoria: "sevilla"
 slug: "excursion-privee-ou-en-groupe-depuis-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-23"
+fecha_actualizacion: "2026-09-15"
 autor: Borja
 publicada: true
 destacada: false

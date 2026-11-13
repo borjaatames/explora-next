@@ -4,8 +4,8 @@ descripcion: 'Alhambra Tickets 2026: offizieller Preis 22,27 €, Verkauf bis zu
 metaTitle: 'Alhambra Tickets 2026: Preise und Tickettypen'
 categoria: "granada"
 slug: "alhambra-besichtigen"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-10-14"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Les plus belles criques d'Ibiza : Cala Comte, Cala Salada, Cala d'
 respuestaCorta: 'Les plus belles criques d''Ibiza sont **Cala Comte et Cala d''Hort** au sud-ouest (eau turquoise et les plus beaux couchers de soleil, la seconde face à Es Vedrà), **Cala Salada et Benirràs** dans le nord plus sauvage, et Ses Salines au sud. En été, arrivez **avant 9 h ou après 18 h**, ou découvrez-les depuis la mer : les croisières dans les criques partent **à partir de 52 €**.'
 categoria: "ibiza"
 slug: "plus-belles-criques-d-ibiza"
-fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-05"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Come visitare Cordova in un giorno da Siviglia, Malaga o Granada: 
 respuestaCorta: 'Cordova si fa benissimo in un giorno: da **Siviglia** in circa **45 minuti di AVE** e da **Malaga** in **poco meno di 1 ora** di treno ad alta velocità; da **Granada**, circa 2 ore di strada. Per conto tuo bastano il treno e il biglietto per la **Moschea-Cattedrale**; in gruppo ci sono escursioni da 76 € (Malaga) o 109 € (Siviglia), e in privato da 432 € per 2 persone partendo da Siviglia.'
 categoria: "cordoba"
 slug: "cordova-da-siviglia-malaga-granada"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-07-02"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

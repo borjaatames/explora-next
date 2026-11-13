@@ -3,8 +3,8 @@ titulo: "The best coves in Ibiza by area (and where to watch the sunset)"
 descripcion: "The best coves in Ibiza: Cala Comte, Cala Salada, Cala d'Hort and Es Vedrà, Benirràs and more, by area. Which have services, how to get there and when to go."
 categoria: "ibiza"
 slug: "best-coves-ibiza"
-fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-05"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

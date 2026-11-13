@@ -4,8 +4,8 @@ descripcion: "Guida per visitare Formentera da Ibiza: traghetti e orari, come sp
 respuestaCorta: 'Per andare a Formentera da Ibiza, prendi un **traghetto veloce dal porto di Eivissa a La Savina** (circa 30 minuti; tra 30 e 55 € andata e ritorno) e noleggia lì uno scooter o una bici. Dedicale **una giornata intera**: Ses Illetes al mattino, pranzo a Es Pujols o Migjorn e **tramonto a Cap de Barbaria** prima del traghetto di ritorno.'
 categoria: "ibiza"
 slug: "formentera-da-ibiza"
-fecha: "2026-04-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-30"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

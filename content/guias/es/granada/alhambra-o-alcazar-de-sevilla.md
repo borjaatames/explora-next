@@ -3,8 +3,8 @@ titulo: '¿Alhambra o Alcázar de Sevilla? Cuál visitar si solo tienes tiempo p
 descripcion: 'Alhambra o Real Alcázar de Sevilla: precio, antelación para reservar, tiempo de visita, cómo combinarlos y un veredicto claro según tu viaje.'
 categoria: granada
 slug: alhambra-o-alcazar-de-sevilla
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-08-13"
+fecha_actualizacion: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false

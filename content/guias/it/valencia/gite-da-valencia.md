@@ -4,8 +4,8 @@ descripcion: "Le migliori gite di un giorno da Valencia: l'Albufera, Sagunto, X�
 respuestaCorta: 'La gita imperdibile da Valencia è l''**Albufera**, a 20 minuti: giro in barca tra le risaie e paella a El Palmar. Per la storia, **Sagunto** (30 minuti in Cercanías) e **Xàtiva** (45 minuti) hanno castelli spettacolari; per mare e castello, **Peñíscola**, a un''ora e mezza. Con un''escursione organizzata, Guadalest, Altea e le Fuentes del Algar da 55 €.'
 categoria: "valencia"
 slug: "gite-da-valencia"
-fecha: "2026-04-08"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-31"
+fecha_actualizacion: "2026-11-01"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Las mejores escapadas de un día desde Málaga: Ronda, Nerja y Fri
 respuestaCorta: 'Las mejores escapadas de un día desde Málaga son **Nerja y Frigiliana** (una hora; cuevas, unos 16 €), **Antequera y El Torcal** (45 minutos), **Ronda** (1 h 45 en coche, 2 horas en autobús) y **Gibraltar** (con DNI o pasaporte). Haz una por día: Ronda y Gibraltar ya son jornada completa, y las excursiones organizadas salen desde 35 €.'
 categoria: "malaga"
 slug: "escapadas-desde-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

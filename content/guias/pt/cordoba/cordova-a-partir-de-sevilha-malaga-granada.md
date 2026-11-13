@@ -4,8 +4,8 @@ descripcion: "Como fazer Córdova num dia a partir de Sevilha, Málaga ou Granad
 respuestaCorta: 'Córdova faz-se muito bem num dia: a partir de **Sevilha** em cerca de **45 minutos de AVE** e a partir de **Málaga** em **pouco menos de 1 hora** de comboio de alta velocidade; a partir de **Granada**, cerca de 2 horas de estrada. Por conta própria basta o comboio e o bilhete para a **Mesquita-Catedral**; em grupo há excursões desde 76 € (Málaga) ou 109 € (Sevilha) e, em privado, desde 432 € para 2 pessoas a partir de Sevilha.'
 categoria: "cordoba"
 slug: "cordova-a-partir-de-sevilha-malaga-granada"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-07-02"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

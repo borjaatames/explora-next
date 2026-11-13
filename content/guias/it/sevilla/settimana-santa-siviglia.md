@@ -3,8 +3,8 @@ titulo: "Settimana Santa di Siviglia 2027: date, dove vederla e come organizzars
 descripcion: "Settimana Santa di Siviglia 2027 (21-28 marzo): la Madrugá, le confraternite da non perdere ogni giorno, la Carrera Oficial, sedie e balconi, e consigli per non perdersi niente."
 categoria: "sevilla"
 slug: "settimana-santa-siviglia"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

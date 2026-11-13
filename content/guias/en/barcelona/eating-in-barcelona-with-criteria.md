@@ -3,8 +3,8 @@ titulo: "Eating in Barcelona: tapas, vermouth and Catalan cooking"
 descripcion: "Where to eat well in Barcelona: authentic tapas, Catalan dinners, brunch and vermouth. Specific places by neighborhood and tourist traps to avoid."
 categoria: "barcelona"
 slug: "eating-in-barcelona-with-criteria"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

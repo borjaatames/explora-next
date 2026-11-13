@@ -3,8 +3,8 @@ titulo: 'La Graciosa: como ir, ferry a partir de Órzola e que praias ver'
 descripcion: 'Como ir a La Graciosa em 2026: ferry a partir de Órzola com a Líneas Romero ou a Biosfera Express, preços e horários, como se deslocar sem carro (bicicleta, a pé ou táxi 4x4) e as praias Francesa, La Cocina e Las Conchas.'
 categoria: lanzarote
 slug: como-ir-a-la-graciosa
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-24"
 autor: Borja
 publicada: true
 destacada: false

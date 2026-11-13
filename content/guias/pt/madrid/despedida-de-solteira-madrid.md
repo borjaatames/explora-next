@@ -4,8 +4,8 @@ descripcion: "Despedida de solteira ou solteiro em Madrid: tuk-tuk de festa priv
 metaTitle: "Despedida de solteira ou solteiro em Madrid: ideias e preços"
 categoria: "madrid"
 slug: "despedida-de-solteira-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-08"
+fecha_actualizacion: "2026-11-09"
 autor: Borja
 publicada: true
 destacada: false

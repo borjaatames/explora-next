@@ -4,8 +4,8 @@ descripcion: "Guida per mangiare a Malaga: espeto di sardine, frittura malagueñ
 respuestaCorta: 'Mangia l''**espeto di sardine in un chiringuito di Pedregalejo o El Palo** (4-6 € le sei sardine, meglio a pranzo), il pesce fritto dove c''è il viavai dei locali e il **vino dolce dalla botte** in una bodega storica come la Antigua Casa de Guardia. Mangiare bene costa **20-25 € a persona**; evita i dehors di fronte alla Cattedrale e in calle Larios.'
 categoria: "malaga"
 slug: "dove-mangiare-a-malaga"
-fecha: "2026-03-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

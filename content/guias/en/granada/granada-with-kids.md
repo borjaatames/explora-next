@@ -3,7 +3,7 @@ titulo: "Granada with kids: plans, monuments and traps to avoid"
 descripcion: "Granada with kids without suffering: adapted Alhambra, Science Park, ice cream, what ages work, and where to stay."
 categoria: "granada"
 slug: "granada-with-kids"
-fecha: "2026-05-02"
+fecha: "2026-05-29"
 fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true

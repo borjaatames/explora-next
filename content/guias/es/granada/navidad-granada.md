@@ -3,8 +3,8 @@ titulo: "Navidad en Granada 2026: luces, mercadillos, Alhambra en invierno, Sier
 descripcion: "Navidad en Granada 2026: luces de la Plaza del Carmen, mercadillos, Alhambra en festivos (cierra 25 dic y 1 ene), Sierra Nevada, Cabalgata y Toma."
 categoria: "granada"
 slug: "navidad-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

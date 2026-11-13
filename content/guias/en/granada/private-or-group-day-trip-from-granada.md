@@ -3,8 +3,8 @@ titulo: "Private or group day trip from Granada: price per person and when it pa
 descripcion: "From Granada, the Alpujarra group tour is €71 and Ronda or the Caminito €135; private runs €150-400 per person for 2, 4 or 6. Price table and break-even."
 categoria: "granada"
 slug: "private-or-group-day-trip-from-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-20"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: false

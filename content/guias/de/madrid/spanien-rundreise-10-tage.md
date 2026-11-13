@@ -4,8 +4,8 @@ descripcion: 'Spanien Rundreise in 10 Tagen mit dem Zug: Madrid, Toledo, Sevilla
 metaTitle: 'Spanien Rundreise 10 Tage mit dem Zug'
 categoria: madrid
 slug: spanien-rundreise-10-tage
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-19"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

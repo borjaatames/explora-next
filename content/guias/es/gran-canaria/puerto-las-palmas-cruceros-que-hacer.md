@@ -4,8 +4,8 @@ descripcion: "Crucero en Las Palmas: Las Canteras a 10-15 min a pie, Vegueta en 
 metaTitle: "Crucero en Las Palmas: qué hacer en la escala"
 categoria: "gran-canaria"
 slug: "puerto-las-palmas-cruceros-que-hacer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-09"
 autor: Borja
 publicada: true
 destacada: false

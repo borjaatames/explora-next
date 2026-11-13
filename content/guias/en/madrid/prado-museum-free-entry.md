@@ -4,8 +4,8 @@ descripcion: 'Prado Museum free hours: free entry Monday to Saturday 18:00-20:00
 metaTitle: 'Prado Museum free hours and free entry'
 categoria: madrid
 slug: prado-museum-free-entry
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

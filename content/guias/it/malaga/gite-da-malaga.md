@@ -4,8 +4,8 @@ descripcion: "Le migliori gite di un giorno da Malaga: Ronda, Nerja e Frigiliana
 respuestaCorta: 'Le migliori gite di un giorno da Malaga sono **Nerja e Frigiliana** (un''ora; grotte, circa 16 €), **Antequera ed El Torcal** (45 minuti), **Ronda** (1 h 45 in auto, 2 ore in autobus) e **Gibilterra** (con carta d''identità o passaporto). Fanne una al giorno: Ronda e Gibilterra sono già una giornata intera, e le escursioni organizzate partono da 35 €.'
 categoria: "malaga"
 slug: "gite-da-malaga"
-fecha: "2026-04-13"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-20"
+fecha_actualizacion: "2026-11-13"
 autor: Borja
 publicada: true
 destacada: false

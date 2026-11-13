@@ -3,8 +3,8 @@ titulo: "Holy Week in Seville 2027: dates, where to watch and how to plan"
 descripcion: "Semana Santa in Seville 2027 (21-28 March): the Madrugá, the must-see brotherhoods each day, the Carrera Oficial, chairs and balconies, and tips so you don't miss a thing."
 categoria: "sevilla"
 slug: "seville-holy-week"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

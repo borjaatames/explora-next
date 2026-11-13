@@ -4,8 +4,8 @@ descripcion: 'Guia de Tenerife: Teide, La Laguna, La Orotava, Garachico, Masca, 
 respuestaCorta: 'Com **cinco ou seis dias** verá o essencial de Tenerife: um dia para o [**Teide**](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) (teleférico até aos 3555 m), um para o norte (La Orotava, Puerto de la Cruz e Garachico), um para La Laguna e Anaga, um para Masca e Los Gigantes, e tempo de mar no sul. **Alugue carro** para a montanha e reserve um passeio para ver baleias: o [iate ecológico a partir de Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) custa **desde 30 €**.'
 categoria: tenerife
 slug: o-que-ver-em-tenerife
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-12"
 autor: Borja
 publicada: true
 destacada: true

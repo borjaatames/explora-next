@@ -4,8 +4,8 @@ descripcion: "Comparamos excursões privadas e em grupo a partir de Málaga para
 respuestaCorta: 'Para **1 ou 2 pessoas**, a excursão **em grupo** é muito mais barata (35-72 € por pessoa contra 290-380 € em privado). A partir de **4 pessoas**, a **privada** desce para **180-250 € por pessoa** e ganha recolha no alojamento, horário à sua medida e mais ninguém no carro. Compensa sobretudo para famílias, grupos de amigos e pessoas mais velhas.'
 categoria: "malaga"
 slug: "excursao-privada-ou-em-grupo-desde-malaga"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-18"
 autor: Borja
 publicada: true
 destacada: false

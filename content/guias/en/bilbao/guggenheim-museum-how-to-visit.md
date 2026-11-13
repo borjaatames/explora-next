@@ -3,8 +3,8 @@ titulo: "Guggenheim Museum Bilbao: how to visit it (tickets and tips)"
 descripcion: "How to visit the Bilbao Guggenheim: tickets and hours, what to see inside and out (Puppy, Maman, Serra), how long to spend and the best tips."
 categoria: "bilbao"
 slug: "guggenheim-museum-how-to-visit"
-fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-07"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: true

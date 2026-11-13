@@ -4,8 +4,8 @@ descripcion: "Onde petiscar bem em Sevilha sem cair em armadilhas turísticas. 8
 respuestaCorta: 'Salte os bares junto à Catedral e petisque em três zonas: **Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) e o Centro (Casa Morales, Manolo Cateca). A tapa custa **2,50-4 €** e um jantar de cinco tapas e três bebidas, 18-25 € por pessoa. Vá das **13h30 às 15h30 ou das 20h30 às 23h00** e peça por rondas.'
 categoria: "sevilla"
 slug: "tapas-em-sevilha-onde-comer"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-29"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

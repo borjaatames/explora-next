@@ -4,7 +4,7 @@ descripcion: 'Siam Park Eintritt 2026: 44 € für Erwachsene, 32 € für Kinde
 metaTitle: 'Siam Park Tickets: Preise und Kombiticket'
 categoria: tenerife
 slug: siam-park-tickets-preise
-fecha: '2026-11-04'
+fecha: "2026-05-30"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

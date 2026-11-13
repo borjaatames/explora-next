@@ -3,8 +3,8 @@ titulo: "Les meilleures tapas de Madrid, plat par plat : bravas, calamars, torti
 descripcion: "Où manger les meilleures patatas bravas, le sandwich aux calamars, la tortilla de patatas, les torreznos, les callos a la madrileña, le jambon et les croquetas de Madrid. Adresses et critères, plat par plat."
 categoria: "madrid"
 slug: "meilleures-tapas-de-madrid-plat-par-plat"
-fecha: "2026-08-17"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

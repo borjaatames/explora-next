@@ -4,8 +4,8 @@ descripcion: 'Qué ver en Ávila en un día desde Madrid: subida a la muralla (8
 metaTitle: 'Qué ver en Ávila en un día: muralla y ruta'
 categoria: madrid
 slug: que-ver-en-avila-en-un-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-18"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

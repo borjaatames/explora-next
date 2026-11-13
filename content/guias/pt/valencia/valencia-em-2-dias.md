@@ -3,8 +3,8 @@ titulo: "Valência em 2 dias: um roteiro inteligente sem perder o essencial"
 descripcion: "O que ver em Valência em 2 dias: centro histórico, Cidade das Artes, La Albufera e paelha. Roteiro hora a hora, onde comer, onde ficar e o que evitar."
 categoria: "valencia"
 slug: "valencia-em-2-dias"
-fecha: "2026-02-22"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-10"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

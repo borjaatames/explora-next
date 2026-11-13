@@ -4,8 +4,8 @@ descripcion: "Où bien manger des tapas à Séville sans tomber dans les pièges
 respuestaCorta: 'Laissez de côté les bars près de la cathédrale et mangez des tapas dans trois quartiers : l''**Arenal** (Bodeguita Casablanca, Arenal Ventura, Antonio Romero), **Triana** (Casa Diego, Trianilla, Blanca Paloma) et le Centre (Casa Morales, Manolo Cateca). La tapa coûte **2,50-4 €** et un dîner de cinq tapas et trois boissons, 18-25 € par personne. Allez-y **de 13 h 30 à 15 h 30 ou de 20 h 30 à 23 h** et commandez par tournées.'
 categoria: "sevilla"
 slug: "ou-manger-des-tapas-a-seville"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-29"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

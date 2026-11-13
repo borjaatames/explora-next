@@ -4,8 +4,8 @@ descripcion: 'Lanzarote-Reiseführer mit Preisen von 2026: Timanfaya, Jameos del
 respuestaCorta: 'Plane **vier bis fünf Tage** ein: einen für **Timanfaya**, La Geria und El Golfo, einen für den Norden von **César Manrique** (Jameos del Agua, Cueva de los Verdes, Mirador del Río), einen für Teguise und die Stiftung und einen für **La Graciosa** oder die Buchten von **Papagayo**. Miete ein Auto und kauf die Tickets für die **Feuerberge (30 €)** und die **Cueva de los Verdes (17 €)** online mit Datum und Uhrzeit: Vor Ort gibt es keine Kasse.'
 categoria: lanzarote
 slug: was-sehen-auf-lanzarote
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-09-26"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,7 +4,7 @@ descripcion: 'Flamenco à Madrid : Las Carboneras (dès 45 €, boisson incluse)
 metaTitle: 'Flamenco Madrid : quel tablao choisir'
 categoria: "madrid"
 slug: "flamenco-madrid-quel-tablao-choisir"
-fecha: "2026-09-06"
+fecha: "2026-10-06"
 autor: Borja
 publicada: true
 destacada: false
@@ -25,7 +25,7 @@ slugs:
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
 tiempo_lectura: 4
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-11-11"
 reservasArriba: true
 respuestaCorta: 'Pour un tablao intimiste dans le Madrid des Habsbourg, **Las Carboneras** (à partir de 45 €, avec boisson, 4,7/5). Pour payer moins, avoir plus de séances et la possibilité de dîner sur place, **Torres Bermejas** (à partir de 31 €, près de la Gran Vía). Les deux proposent des spectacles d''**une heure** avec annulation gratuite jusqu''à 24 heures avant ; seul Las Carboneras est accessible en fauteuil roulant.'
 opciones:

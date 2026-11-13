@@ -3,8 +3,8 @@ titulo: "Christmas in Granada 2026: lights, markets, the Alhambra in winter, Sie
 descripcion: "Christmas in Granada 2026: Plaza del Carmen light show, markets, Alhambra holiday hours (closed 25 Dec and 1 Jan), Sierra Nevada, parade and 2 January."
 categoria: "granada"
 slug: "christmas-in-granada"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-07"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

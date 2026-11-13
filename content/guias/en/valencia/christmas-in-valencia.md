@@ -3,8 +3,8 @@ titulo: "Christmas in Valencia 2026: lights, Christmas markets, Expojove and the
 descripcion: "Christmas in Valencia 2026: free Saturday fireworks at 18:30 on Plaza del Ayuntamiento, Christmas markets, nativity scenes, Expojove (26 Dec-4 Jan), parade."
 categoria: "valencia"
 slug: "christmas-in-valencia"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-07-30"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

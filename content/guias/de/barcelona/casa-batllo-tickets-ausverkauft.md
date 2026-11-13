@@ -3,8 +3,8 @@ titulo: "Casa Batlló Tickets ausverkauft: was du tun kannst und welche Optionen
 descripcion: "Die offizielle Website der Casa Batlló hat keinen Platz mehr? Andere Zeitfenster und Varianten, der Besuch am frühen Morgen, der Nachtbesuch, die Kasse, Wiederverkäufer und was du ohne Ticket von der Manzana de la Discordia siehst."
 categoria: barcelona
 slug: casa-batllo-tickets-ausverkauft
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

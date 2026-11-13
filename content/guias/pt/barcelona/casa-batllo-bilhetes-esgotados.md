@@ -3,8 +3,8 @@ titulo: 'Bilhetes da Casa Batlló esgotados: o que fazer e que opções restam'
 descripcion: 'Se o site oficial da Casa Batlló não tem vagas: outros horários e modalidades, a visita logo de manhã, a visita noturna, a bilheteira, a revenda e o que ver na Manzana de la Discordia sem bilhete.'
 categoria: barcelona
 slug: casa-batllo-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-28"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

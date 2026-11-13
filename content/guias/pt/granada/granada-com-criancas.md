@@ -3,8 +3,8 @@ titulo: "Granada com crianças: programas, monumentos e armadilhas a evitar"
 descripcion: "Granada com crianças sem sofrer: Alhambra adaptada, Parque de las Ciencias, gelados, que idades funcionam e onde dormir."
 categoria: "granada"
 slug: "granada-com-criancas"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-05-29"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,7 +3,7 @@ titulo: "Tour de tapas en Madrid: cuál elegir (comparativa de los 3)"
 descripcion: "Comparamos los 3 tours de tapas de Madrid: precio real, qué incluye cada uno, dietas, niños y punto de encuentro. Y dos opciones más con cena o comida."
 categoria: "madrid"
 slug: "tapas-madrid-que-tour-elegir"
-fecha: "2026-09-20"
+fecha: "2026-08-30"
 autor: Borja
 publicada: true
 destacada: false
@@ -21,7 +21,7 @@ slugs:
   it: tour-tapas-madrid-quale-scegliere
   pt: tapas-madrid-que-tour-escolher
 tiempo_lectura: 4
-fecha_actualizacion: "2026-10-24"
+fecha_actualizacion: "2026-10-06"
 reservasArriba: true
 respuestaCorta: 'Para cenar tapeando y acabar con vistas, el **tour de tapas y vino con azotea** (69 €, 3 h 30, admite dietas y menores). Para ir solo vosotros por las tabernas centenarias del centro, el **tour privado** (127 € por persona, mínimo 2), más de historia que de comida. La **ruta nocturna** parece la más barata (35 €), pero la comida se paga aparte con un bote de 30 € en efectivo.'
 actividades:

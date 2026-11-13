@@ -5,8 +5,8 @@ metaTitle: "Bilbao mit Kindern: Tipps für Familien"
 respuestaCorta: 'Bilbao ist mit Kindern sehr entspannt: flach entlang der Ría, mit der **Standseilbahn Artxanda** (3 Minuten Fahrt, alle 15 Minuten), den Guggenheim-Skulpturen draußen gratis und Familienstränden in **Plentzia und Gorliz**, etwa 40 Minuten mit der Metrolinie 1. Kauf bei der Ankunft die **Barik-Karte** (3 €): Eine einzige reicht für die ganze Familie in Metro, Straßenbahn und Standseilbahn.'
 categoria: "bilbao"
 slug: "bilbao-mit-kindern"
-fecha: "2026-04-15"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-11"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: false

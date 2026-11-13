@@ -4,8 +4,8 @@ descripcion: 'Como ir à Ilha de Lobos em 2026: a autorização gratuita em lobo
 respuestaCorta: 'Para desembarcar em Lobos precisa de uma **autorização gratuita do Cabildo** em **lobospass.com**, com **200 lugares por turno** (10h00-14h00 ou 14h00-18h00) e até 3 pessoas por pedido; abre poucos dias antes da visita. O **ferry parte do porto de Corralejo**, demora **15-20 minutos** e custa **desde 17 €** ida e volta. Ajuste o barco de ida e de regresso ao seu turno.'
 categoria: fuerteventura
 slug: ilha-de-lobos-como-ir
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

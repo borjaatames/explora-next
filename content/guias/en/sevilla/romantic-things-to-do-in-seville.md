@@ -4,8 +4,8 @@ descripcion: "Romantic things to do in Seville: private sunset rooftop tour (€
 metaTitle: "Romantic things to do in Seville, with prices"
 categoria: "sevilla"
 slug: "romantic-things-to-do-in-seville"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-12"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

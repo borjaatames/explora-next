@@ -3,8 +3,8 @@ titulo: "Mallorca mit Kindern: ruhige Buchten, Züge und Aquarien"
 descripcion: "Ratgeber Mallorca mit Kindern: beste Familienstrände, Palma Aquarium, Zug von Sóller, Drachenhöhlen und Wasserparks. Pläne nach Zonen und was man meiden sollte."
 categoria: "mallorca"
 slug: "mallorca-mit-kindern"
-fecha: "2026-04-09"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-09-01"
+fecha_actualizacion: "2026-09-26"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

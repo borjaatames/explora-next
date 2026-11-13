@@ -3,8 +3,8 @@ titulo: "Christmas in Madrid 2026: lights, markets and what's worth doing"
 descripcion: "Christmas in Madrid 2026: when the lights go on, the Plaza Mayor market, Naviluz, Cortylandia, ice skating, New Year's Eve in Sol and the Three Kings Parade."
 categoria: "madrid"
 slug: "christmas-in-madrid"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: true

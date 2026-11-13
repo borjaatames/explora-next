@@ -4,8 +4,8 @@ descripcion: 'Entradas del Alcázar de Sevilla agotadas: la taquilla guarda plaz
 metaTitle: 'Entradas Alcázar Sevilla agotadas: qué hacer'
 categoria: sevilla
 slug: alcazar-de-sevilla-entradas-agotadas
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

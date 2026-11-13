@@ -4,8 +4,8 @@ descripcion: "Guía para visitar el Guggenheim de Bilbao: entradas y horarios, q
 respuestaCorta: 'El exterior es gratis: **Puppy, Maman y el titanio de Gehry** lucen mejor al atardecer. Dentro, calcula **2-2,5 horas** y ve a por *La materia del tiempo* de Richard Serra. La entrada general cuesta **entre 12 y 18 € según las exposiciones** (gratis menores de 18, audioguía incluida) y se compra online con franja. Cierra los lunes salvo en julio, agosto y puentes.'
 categoria: "bilbao"
 slug: "museo-guggenheim-como-visitar"
-fecha: "2026-03-24"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-07"
+fecha_actualizacion: "2026-10-01"
 autor: Borja
 publicada: true
 destacada: true

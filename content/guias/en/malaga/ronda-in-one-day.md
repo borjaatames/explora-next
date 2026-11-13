@@ -4,8 +4,8 @@ descripcion: 'Ronda in one day: the Puente Nuevo from above and below, the bullr
 metaTitle: 'Ronda in one day: things to do on a day trip'
 categoria: malaga
 slug: ronda-in-one-day
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-13"
+fecha_actualizacion: "2026-10-30"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

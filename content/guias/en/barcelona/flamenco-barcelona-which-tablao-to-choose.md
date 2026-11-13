@@ -4,9 +4,9 @@ descripcion: 'Flamenco shows in Barcelona compared: City Hall from €25, Palau 
 metaTitle: 'Flamenco show Barcelona: the 4 compared'
 categoria: "barcelona"
 slug: "flamenco-barcelona-which-tablao-to-choose"
-fecha: "2026-09-06"
+fecha: "2026-07-01"
 autor: Borja
-fecha_actualizacion: '2026-11-03'
+fecha_actualizacion: "2026-10-22"
 datosComprobados: "2026-10-27"
 publicada: true
 destacada: false

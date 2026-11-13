@@ -4,8 +4,8 @@ descripcion: "Le migliori escursioni di un giorno da Siviglia: Cordova, Ronda e 
 respuestaCorta: 'Le migliori escursioni di un giorno da Siviglia sono **Cordova** (45 minuti in AVE), **Ronda e i pueblos blancos** (circa 2 ore di strada), **Cadice e Jerez** (1 h 45 in treno fino a Cadice) e **Italica** (15 minuti, mezza mattinata). Per andare più lontano (**Mérida**, **Gibilterra**, **Riotinto**) conviene un''escursione organizzata. **Di gruppo** partono da 47 € a persona; **in privato** convengono da 4 persone in su, quando il prezzo a persona scende a 170-290 €.'
 categoria: "sevilla"
 slug: "escursioni-da-siviglia"
-fecha: "2026-10-29"
-fecha_actualizacion: "2026-10-29"
+fecha: "2026-06-13"
+fecha_actualizacion: "2026-10-03"
 autor: Borja
 publicada: true
 destacada: false

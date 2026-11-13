@@ -4,8 +4,8 @@ descripcion: "As 4 grutas de flamenco do Sacromonte de Granada, comparadas: pre�
 respuestaCorta: 'As quatro grutas do Sacromonte oferecem cerca de uma hora de zambra cigana por 20-28 €. Escolha **Los Tarantos** (28 €, desde 1972, bebida incluída) para uma primeira vez segura, **La Faraona** (20 €, 25 lugares) para a sala mais intimista e **Los Amayas** (25 €, sem palco nem amplificação, bebida incluída) para o formato mais tradicional. As quatro têm **cancelamento gratuito até 24 horas** antes.'
 categoria: "granada"
 slug: "flamenco-gruta-sacromonte-qual-escolher"
-fecha: "2026-09-06"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-04-12"
+fecha_actualizacion: "2026-10-05"
 autor: Borja
 publicada: true
 destacada: false

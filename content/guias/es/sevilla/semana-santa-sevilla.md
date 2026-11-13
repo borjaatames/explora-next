@@ -3,8 +3,8 @@ titulo: "Semana Santa de Sevilla 2027: fechas, dónde verla y cómo organizarte"
 descripcion: "Semana Santa de Sevilla 2027 (21-28 de marzo): la Madrugá, las cofradías imprescindibles de cada día, la Carrera Oficial, sillas y balcones, y consejos para no perderte nada."
 categoria: "sevilla"
 slug: "semana-santa-sevilla"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-29"
+fecha_actualizacion: "2026-11-11"
 autor: Borja
 publicada: true
 destacada: true

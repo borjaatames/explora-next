@@ -4,8 +4,8 @@ descripcion: 'Catedral de Sevilha bilhetes: 13 € online e 14 € na bilheteira
 metaTitle: 'Catedral de Sevilha bilhetes: preço e Giralda'
 categoria: sevilla
 slug: catedral-de-sevilha-giralda-bilhetes-esgotados
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-04"
+fecha_actualizacion: "2026-09-20"
 autor: Borja
 publicada: true
 destacada: false

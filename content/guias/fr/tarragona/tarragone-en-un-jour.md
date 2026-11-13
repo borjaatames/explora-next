@@ -4,8 +4,8 @@ descripcion: "Que voir à Tarragone en un jour : amphithéâtre, cirque, cathéd
 respuestaCorta: 'Tarragone se visite à pied en une journée : commencez à 9 h 30 par l''**amphithéâtre face à la mer**, puis le cirque et la tour du Prétoire, la cathédrale et la Part Alta, les remparts et le Balcó del Mediterrani, avec un **déjeuner de fruits de mer au Serrallo**. Le train régional depuis Barcelone met **de 1 h à 1 h 15**, et une visite guidée à pied de la Tarraco romaine coûte à partir de 15 €.'
 categoria: "tarragona"
 slug: "tarragone-en-un-jour"
-fecha: "2026-04-10"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-17"
+fecha_actualizacion: "2026-10-22"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: "Cómo hacer Córdoba en un día desde Sevilla, Málaga o Granada: 
 respuestaCorta: 'Córdoba se hace muy bien en un día: desde **Sevilla** en unos **45 minutos de AVE** y desde **Málaga** en **algo menos de 1 hora** de tren de alta velocidad; desde **Granada**, unas 2 horas por carretera. Por libre basta con el tren y la entrada a la **Mezquita-Catedral**; en grupo hay excursiones desde 76 € (Málaga) o 109 € (Sevilla), y en privado desde 432 € para 2 personas saliendo de Sevilla.'
 categoria: "cordoba"
 slug: "cordoba-desde-sevilla-malaga-granada"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-07-02"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

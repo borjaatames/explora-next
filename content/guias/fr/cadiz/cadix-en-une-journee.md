@@ -4,8 +4,8 @@ descripcion: "Que voir à Cadix en une journée : cathédrale, Torre Tavira, qua
 respuestaCorta: 'Cadix se visite à pied en une journée : **cathédrale et Torre del Reloj** à la première heure (8 € avec audioguide), le quartier du Pópulo et le théâtre romain, la **chambre noire de la Torre Tavira** (8 €), une friture de poisson à La Viña et le **coucher du soleil à La Caleta**. Venez en train depuis Séville (1 h 40) ou Jerez (40 minutes) et regardez la météo : par vent de levante, mieux vaut la vieille ville que la plage.'
 categoria: "cadiz"
 slug: "cadix-en-une-journee"
-fecha: "2026-04-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-09-13"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: true

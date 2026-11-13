@@ -4,8 +4,8 @@ descripcion: "Las mejores calas y playas de Mallorca: Es Trenc, Cala Mondragó, 
 respuestaCorta: 'Las mejores calas de Mallorca son **Es Trenc** (salvaje y de agua caribeña), **Cala Mondragó** (parque natural, ideal para familias), **Caló des Moro** (diminuta y fotogénica) y **Sa Calobra**, en la Tramuntana. En julio y agosto llega antes de las 9:00 o después de las 18:00, o ve en barco: el de Port de Sóller a Sa Calobra sale desde 35 €.'
 categoria: "mallorca"
 slug: "mejores-calas-mallorca"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

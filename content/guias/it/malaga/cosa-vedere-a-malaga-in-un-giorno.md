@@ -4,8 +4,8 @@ descripcion: 'Cosa vedere a Malaga in un giorno: Alcazaba e Gibralfaro (10 € i
 metaTitle: 'Cosa vedere a Malaga in un giorno: itinerario'
 categoria: malaga
 slug: cosa-vedere-a-malaga-in-un-giorno
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-29"
+fecha_actualizacion: "2026-10-05"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

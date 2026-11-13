@@ -3,8 +3,8 @@ titulo: "Tapas in Sevilla mit Konzept: eine Route durch Centro, Triana und Arena
 descripcion: "Wo man in Sevilla gut Tapas isst, ohne in Touristenfallen zu tappen. 8 durchdachte Bars in Centro, Triana und Arenal: was man bestellt, wann man geht, was man meidet."
 categoria: "sevilla"
 slug: "tapas-in-sevilla"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-05-01"
+fecha: "2026-07-29"
+fecha_actualizacion: "2026-09-27"
 autor: Borja
 publicada: true
 destacada: false

@@ -4,8 +4,8 @@ descripcion: "Las mejores escapadas desde Alicante: Benidorm, Altea, Calpe y el 
 respuestaCorta: 'Las mejores escapadas desde Alicante son **Altea y Calpe** en TRAM (con transbordo en Benidorm), **Guadalest con las Fuentes del Algar** (una hora en coche, o excursión organizada desde 47 €), **el Palmeral de Elche** (20 minutos en Cercanías) y Benidorm. Haz una por día: Guadalest o Jávea ya ocupan la jornada completa.'
 categoria: "alicante"
 slug: "escapadas-costa-blanca-desde-alicante"
-fecha: "2026-04-17"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-18"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

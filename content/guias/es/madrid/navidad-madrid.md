@@ -3,8 +3,8 @@ titulo: "Navidad en Madrid 2026: luces, mercadillos y planes que merecen la pena
 descripcion: "Navidad en Madrid 2026: cuándo se encienden las luces, mercadillo de la Plaza Mayor, Naviluz, Cortylandia, pista de hielo, Nochevieja en Sol y Cabalgata de Reyes."
 categoria: "madrid"
 slug: "navidad-madrid"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-11-04"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-25"
 autor: Borja
 publicada: true
 destacada: true

@@ -3,8 +3,8 @@ titulo: 'La Pedrera tickets sold out: what to do and the options left'
 descripcion: 'If the official La Pedrera (Casa Milà) website has no space: other slots and ticket types, the open-date ticket, the sunrise visit, the Night Experience, the box office, resold tickets and what to see on Passeig de Gràcia without a ticket.'
 categoria: barcelona
 slug: la-pedrera-tickets-sold-out
-fecha: '2026-10-27'
-fecha_actualizacion: '2026-10-27'
+fecha: "2026-07-14"
+fecha_actualizacion: "2026-10-11"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

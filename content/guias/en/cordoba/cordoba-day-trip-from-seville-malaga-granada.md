@@ -4,8 +4,8 @@ descripcion: "How to do Córdoba in a day from Seville, Málaga or Granada: trai
 respuestaCorta: 'Córdoba works very well as a day trip: from **Seville** it''s about **45 minutes by high-speed train** and from **Málaga** **just under 1 hour**; from **Granada**, about 2 hours by road. On your own, the train and a **Mosque-Cathedral** ticket are enough; group tours start at €76 (Málaga) or €109 (Seville), and private trips from €432 for 2 people leaving from Seville.'
 categoria: "cordoba"
 slug: "cordoba-day-trip-from-seville-malaga-granada"
-fecha: "2026-10-30"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-07-02"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

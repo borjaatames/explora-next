@@ -4,8 +4,8 @@ descripcion: 'Museo del Prado gratis de lunes a sábado de 18:00 a 20:00 y domin
 metaTitle: 'Museo del Prado gratis: horario y cola'
 categoria: madrid
 slug: museo-del-prado-gratis
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-09"
+fecha_actualizacion: "2026-09-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -3,8 +3,8 @@ titulo: "Las mejores tapas de Madrid, plato a plato: bravas, calamares, tortilla
 descripcion: "Dónde comer las mejores patatas bravas, bocadillo de calamares, tortilla de patatas, torreznos, callos a la madrileña, jamón y croquetas de Madrid. Direcciones y criterio, plato por plato."
 categoria: "madrid"
 slug: "tapas-madrid-por-plato"
-fecha: "2026-08-17"
-fecha_actualizacion: "2026-10-27"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

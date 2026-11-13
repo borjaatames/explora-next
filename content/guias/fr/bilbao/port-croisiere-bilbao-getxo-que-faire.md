@@ -4,8 +4,8 @@ descripcion: "Escale de croisière à Bilbao : le terminal se trouve à Getxo, �
 metaTitle: "Port de Bilbao en croisière : Getxo, métro et Guggenheim"
 categoria: "bilbao"
 slug: "port-croisiere-bilbao-getxo-que-faire"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

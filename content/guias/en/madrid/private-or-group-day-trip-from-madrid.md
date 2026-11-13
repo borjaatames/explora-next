@@ -3,8 +3,8 @@ titulo: "Private or group day trip from Madrid: what's worth it and the real cos
 descripcion: "From Madrid, Toledo or Segovia group tours cost €41-79; private El Escorial is €320-410 per person for 2, 4 or 6. Real prices and what's worth it."
 categoria: "madrid"
 slug: "private-or-group-day-trip-from-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-04"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

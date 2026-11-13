@@ -3,8 +3,8 @@ titulo: 'Teide cable car and summit permit sold out: what to do'
 descripcion: 'If the Teide cable car or the summit permit is sold out: when places are released, tours with the cable car included, the Altavista refuge and what to see without going up.'
 categoria: tenerife
 slug: teide-tickets-sold-out
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

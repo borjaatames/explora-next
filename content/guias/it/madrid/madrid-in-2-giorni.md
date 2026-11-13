@@ -3,8 +3,8 @@ titulo: "Madrid in 2 giorni: itinerario con Palazzo Reale, Prado, Retiro e Gran 
 descripcion: "Madrid in 2 giorni: la Madrid degli Asburgo, il Palazzo Reale (18 €), la Gran Vía e Debod il giorno 1; il Prado (15 €), il Retiro, il Reina Sofía e il flamenco il giorno 2. Orari e budget."
 categoria: "madrid"
 slug: "madrid-in-2-giorni"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-05-08"
+fecha_actualizacion: "2026-10-02"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

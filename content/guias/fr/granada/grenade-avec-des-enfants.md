@@ -3,8 +3,8 @@ titulo: "Grenade avec des enfants : activités, monuments et pièges à éviter"
 descripcion: "Grenade avec des enfants sans galérer : l'Alhambra adaptée, le Parque de las Ciencias, les glaces, les âges qui fonctionnent et où dormir."
 categoria: "granada"
 slug: "grenade-avec-des-enfants"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-10-17'
+fecha: "2026-05-29"
+fecha_actualizacion: "2026-10-23"
 autor: Borja
 publicada: true
 destacada: false

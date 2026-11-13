@@ -4,8 +4,8 @@ descripcion: "Guide honnête de 3 jours à Séville : Alcázar, cathédrale, Tri
 respuestaCorta: 'Trois jours suffisent pour Séville sans se presser : **le jour 1, le Real Alcázar** (15,50 € en ligne, quelques jours à l''avance), la cathédrale et la Giralda, et la Plaza de España au coucher du soleil ; **le jour 2, Triana** et le fleuve au coucher du soleil ; le jour 3, la ville en douceur ou **les ruines romaines d''Italica**, à 9 km. Les meilleurs mois vont de mars à mai, plus octobre et novembre.'
 categoria: "sevilla"
 slug: "seville-en-3-jours"
-fecha: "2026-04-28"
-fecha_actualizacion: "2026-10-30"
+fecha: "2026-10-03"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

@@ -4,8 +4,8 @@ descripcion: 'How to visit Lobos Island in 2026: the free permit at lobospass.co
 respuestaCorta: 'To go ashore on Lobos you need a **free authorisation from the island council** at **lobospass.com**, with **200 places per time slot** (10:00-14:00 or 14:00-18:00) and up to 3 people per request; it opens a few days before your visit. The **ferry leaves from Corralejo harbour**, takes **15-20 minutes** and costs **from €17** return. Match your outbound and return boats to your slot.'
 categoria: fuerteventura
 slug: lobos-island-how-to-get-there
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-02"
 autor: Borja
 publicada: true
 destacada: false

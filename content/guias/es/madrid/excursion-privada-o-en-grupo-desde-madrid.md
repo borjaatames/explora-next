@@ -3,8 +3,8 @@ titulo: "Excursión privada o en grupo desde Madrid: qué compensa y cuánto cue
 descripcion: "Desde Madrid, Toledo o Segovia en grupo cuestan 41-79 €; El Escorial privado, 320-410 € por persona según seáis 2, 4 o 6. Precios reales y qué compensa."
 categoria: "madrid"
 slug: "excursion-privada-o-en-grupo-desde-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-04"
+fecha_actualizacion: "2026-10-24"
 autor: Borja
 publicada: true
 destacada: false

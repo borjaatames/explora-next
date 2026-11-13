@@ -3,8 +3,8 @@ titulo: "Madrid an einem Tag: Spaziergang vom Prado zum Debod-Tempel, Stunde fü
 descripcion: "Madrid an einem Tag zu Fuß: Prado um 10:00 (15 €), Barrio de las Letras, Sol, Plaza Mayor, Königspalast (18 €) und Sonnenuntergang am Debod. Zeiten, Wege und Budget."
 categoria: "madrid"
 slug: "madrid-an-einem-tag"
-fecha: "2026-11-13"
-fecha_actualizacion: "2026-11-13"
+fecha: "2026-05-26"
+fecha_actualizacion: "2026-10-18"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true

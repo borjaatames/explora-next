@@ -4,8 +4,8 @@ descripcion: 'Cathédrale de Tolède : billet à 12 € sur le site officiel, ou
 metaTitle: 'Cathédrale de Tolède : billets et horaires'
 categoria: madrid
 slug: cathedrale-de-tolede-billets
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Activités pour groupes et entreprises à Madrid : visite privée 
 metaTitle: "Activités pour groupes et entreprises à Madrid, avec prix"
 categoria: "madrid"
 slug: "activites-groupes-entreprises-madrid"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-07"
 autor: Borja
 publicada: true
 destacada: false

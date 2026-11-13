@@ -4,8 +4,8 @@ descripcion: 'Most Alhambra guided tours are the same 3-hour route at €49-99. 
 metaTitle: 'Alhambra guided tour: which one to book'
 categoria: "granada"
 slug: "alhambra-which-tour-to-choose"
-fecha: "2026-09-06"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-14"
+fecha_actualizacion: "2026-11-07"
 autor: Borja
 publicada: true
 destacada: false

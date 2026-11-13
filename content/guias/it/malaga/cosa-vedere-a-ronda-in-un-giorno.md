@@ -4,8 +4,8 @@ descripcion: 'Cosa vedere a Ronda in un giorno: Puente Nuevo, Plaza de Toros (10
 metaTitle: 'Cosa vedere a Ronda in un giorno: itinerario'
 categoria: malaga
 slug: cosa-vedere-a-ronda-in-un-giorno
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-10-13"
+fecha_actualizacion: "2026-10-30"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

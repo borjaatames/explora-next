@@ -3,8 +3,8 @@ titulo: "Barcelona in 1 day from Madrid: a curated express trip"
 descripcion: "How to make the most of one day in Barcelona from Madrid by AVE: Sagrada Familia, Gothic Quarter, lunch in El Born, Park Güell, and Bunkers del Carmel."
 categoria: "barcelona"
 slug: "barcelona-in-1-day"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-07-07"
+fecha_actualizacion: "2026-11-08"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

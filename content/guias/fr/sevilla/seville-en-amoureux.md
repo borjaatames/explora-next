@@ -4,8 +4,8 @@ descripcion: "Que faire à Séville en couple : toits au coucher du soleil en pr
 metaTitle: "Séville en amoureux : activités romantiques et prix"
 categoria: "sevilla"
 slug: "seville-en-amoureux"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-12"
+fecha_actualizacion: "2026-10-27"
 autor: Borja
 publicada: true
 destacada: false

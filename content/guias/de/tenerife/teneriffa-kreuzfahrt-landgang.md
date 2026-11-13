@@ -4,8 +4,8 @@ descripcion: "Landgang in Santa Cruz de Tenerife: Zentrum 10-20 Min. zu Fuß, St
 metaTitle: "Teneriffa Kreuzfahrt-Landgang: Santa Cruz und Teide"
 categoria: "tenerife"
 slug: "teneriffa-kreuzfahrt-landgang"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

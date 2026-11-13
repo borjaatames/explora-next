@@ -4,8 +4,8 @@ descripcion: "Le calette più belle di Ibiza: Cala Comte, Cala Salada, Cala d'Ho
 respuestaCorta: 'Le calette più belle di Ibiza sono **Cala Comte e Cala d''Hort** a sud-ovest (acqua turchese e i tramonti migliori, la seconda di fronte a Es Vedrà), **Cala Salada e Benirràs** nel nord più selvaggio e Ses Salines al sud. D''estate arriva **prima delle 9:00 o dopo le 18:00**, oppure visitale dal mare: le crociere tra le calette partono **da 52 €**.'
 categoria: "ibiza"
 slug: "calette-piu-belle-di-ibiza"
-fecha: "2026-04-14"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-05"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

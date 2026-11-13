@@ -4,8 +4,8 @@ descripcion: "Palma de Mallorca cruise port: where ships dock, EMT bus 1 (€2),
 metaTitle: "Palma Cruise Port Guide: Getting to Town and What to See"
 categoria: "mallorca"
 slug: "palma-cruise-port-guide"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-01"
+fecha_actualizacion: "2026-10-30"
 autor: Borja
 publicada: true
 destacada: false

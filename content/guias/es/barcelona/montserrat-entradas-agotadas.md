@@ -4,8 +4,8 @@ descripcion: 'Montserrat sin billetes de cremallera o tren, con el parking compl
 metaTitle: 'Montserrat lleno: cómo subir igual'
 categoria: barcelona
 slug: montserrat-entradas-agotadas
-fecha: '2026-11-13'
-fecha_actualizacion: '2026-11-13'
+fecha: "2026-09-07"
+fecha_actualizacion: "2026-10-12"
 autor: Borja
 publicada: true
 destacada: false

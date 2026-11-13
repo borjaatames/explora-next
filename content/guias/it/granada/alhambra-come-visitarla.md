@@ -4,8 +4,8 @@ descripcion: 'Biglietti Alhambra: l''ufficiale costa 22,27 € ed esce fino a tr
 metaTitle: 'Biglietti Alhambra: prezzi e come comprarli'
 categoria: granada
 slug: alhambra-come-visitarla
-fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-10-14"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

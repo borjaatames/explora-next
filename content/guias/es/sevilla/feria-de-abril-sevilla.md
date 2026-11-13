@@ -3,8 +3,8 @@ titulo: "Feria de Abril de Sevilla 2027: fechas, casetas abiertas y cómo vivirl
 descripcion: "Feria de Abril 2027 (12-18 de abril): alumbrado, casetas públicas, paseo de caballos, qué beber y cómo llegar. Guía práctica para visitarla aunque no conozcas a nadie."
 categoria: "sevilla"
 slug: "feria-de-abril-sevilla"
-fecha: "2026-10-23"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-07-20"
+fecha_actualizacion: "2026-11-10"
 autor: Borja
 publicada: true
 destacada: true

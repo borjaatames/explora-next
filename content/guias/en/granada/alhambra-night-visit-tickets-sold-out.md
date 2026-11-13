@@ -4,8 +4,8 @@ descripcion: 'Alhambra night visit: Nasrid Palaces €12.73, Generalife €8.48.
 metaTitle: 'Alhambra at night: tickets, times, prices'
 categoria: granada
 slug: alhambra-night-visit-tickets-sold-out
-fecha: '2026-11-01'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-07-25"
+fecha_actualizacion: "2026-09-16"
 datosComprobados: '2026-11-01'
 autor: Borja
 publicada: true

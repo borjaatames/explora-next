@@ -5,8 +5,8 @@ metaTitle: 'Visiter la Sagrada Família : conseils'
 respuestaCorta: 'N''achetez que sur **sagradafamilia.org** et **4-6 semaines à l''avance** (en juillet et août, dès la mise en vente, environ deux mois avant) : il n''y a pas de guichet. Le **billet de base avec audioguide coûte 26 €** et suffit pour une première visite ; avec tour, 36 €. Réservez le **créneau de 9 h**, l''Heure du silence, et comptez entre 1 h 30 et 2 heures à l''intérieur.'
 categoria: "barcelona"
 slug: "sagrada-familia-comment-la-visiter"
-fecha: "2026-05-02"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-16"
+fecha_actualizacion: "2026-09-16"
 autor: Borja
 publicada: true
 destacada: true

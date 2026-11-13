@@ -4,8 +4,8 @@ descripcion: 'Qué ver en Segovia en un día desde Madrid: acueducto, Catedral (
 metaTitle: 'Qué ver en Segovia en un día: ruta y precios'
 categoria: madrid
 slug: que-ver-en-segovia-en-un-dia
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

@@ -5,8 +5,8 @@ metaTitle: "Ibiza schönste Buchten: Calas nach Region"
 respuestaCorta: 'Die schönsten Buchten von Ibiza sind **Cala Comte und Cala d''Hort** im Südwesten (türkisfarbenes Wasser und die besten Sonnenuntergänge, die zweite mit Blick auf Es Vedrà), **Cala Salada und Benirràs** im wilderen Norden und Ses Salines im Süden. Im Sommer kommst du **vor 9:00 oder nach 18:00 Uhr** oder erkundest sie vom Meer aus: Bootstouren zu den Buchten gibt es **ab 52 €**.'
 categoria: "ibiza"
 slug: "schoenste-buchten-ibiza"
-fecha: "2026-04-14"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-05"
+fecha_actualizacion: "2026-10-25"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

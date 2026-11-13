@@ -3,8 +3,8 @@ titulo: 'La Graciosa: Anreise mit der Fähre ab Órzola und die schönsten Strä
 descripcion: 'So kommst du 2026 nach La Graciosa: Fähre ab Órzola mit Líneas Romero oder Biosfera Express, Preise und Fahrpläne, unterwegs ohne Auto (Rad, zu Fuß oder 4x4-Taxi) und die Strände Francesa, La Cocina und Las Conchas.'
 categoria: lanzarote
 slug: la-graciosa-anreise
-fecha: '2026-10-24'
-fecha_actualizacion: '2026-10-24'
+fecha: "2026-05-27"
+fecha_actualizacion: "2026-09-24"
 autor: Borja
 publicada: true
 destacada: false

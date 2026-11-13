@@ -4,8 +4,8 @@ descripcion: "Cruzeiro em Santa Cruz de Tenerife: centro a 10-20 min a pé, elé
 metaTitle: "Cruzeiro em Tenerife: o que fazer em Santa Cruz"
 categoria: "tenerife"
 slug: "porto-de-tenerife-cruzeiros-o-que-fazer"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-10-16"
 autor: Borja
 publicada: true
 destacada: false

@@ -3,8 +3,8 @@ titulo: "The best coves in Mallorca by area (and how to avoid the queues)"
 descripcion: "The best coves and beaches in Mallorca: Es Trenc, Cala Mondragó, Caló des Moro, Sa Calobra and more, by area. Which have services, how to get there and when to go."
 categoria: "mallorca"
 slug: "best-coves-mallorca"
-fecha: "2026-03-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-08-18"
+fecha_actualizacion: "2026-09-30"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

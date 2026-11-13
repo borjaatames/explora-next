@@ -4,8 +4,8 @@ descripcion: "Guide pour visiter la cathédrale de Saint-Jacques-de-Compostelle 
 respuestaCorta: 'Entrer dans la cathédrale de Saint-Jacques est **gratuit, tous les jours de 7 h à 21 h**, par la Puerta de Platerías. Les visites à horaire fixe sont payantes : le **Pórtico de la Gloria**, les **toits** et le musée, souvent complets en été (visites guidées à partir de 25 €). Depuis le 16 octobre 2026, les **messes du pèlerin sont célébrées dans l''église San Agustín** en raison de travaux.'
 categoria: "santiago-de-compostela"
 slug: "cathedrale-de-saint-jacques-comment-la-visiter"
-fecha: "2026-05-18"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-04"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

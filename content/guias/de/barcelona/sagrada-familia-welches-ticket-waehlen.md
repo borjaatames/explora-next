@@ -4,8 +4,8 @@ descripcion: 'Sagrada Familia Tickets im Vergleich: offiziell 26 €, mit Turm 3
 metaTitle: 'Sagrada Familia Tickets: Vergleich, mit Turm'
 categoria: "barcelona"
 slug: "sagrada-familia-welches-ticket-waehlen"
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-01"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

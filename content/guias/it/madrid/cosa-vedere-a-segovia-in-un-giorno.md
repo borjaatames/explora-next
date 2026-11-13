@@ -4,8 +4,8 @@ descripcion: 'Cosa vedere a Segovia in un giorno da Madrid: acquedotto, Cattedra
 metaTitle: 'Cosa vedere a Segovia in un giorno da Madrid'
 categoria: madrid
 slug: cosa-vedere-a-segovia-in-un-giorno
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-19"
+fecha_actualizacion: "2026-10-01"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

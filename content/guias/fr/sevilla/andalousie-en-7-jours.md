@@ -3,8 +3,8 @@ titulo: "L'Andalousie en 7 jours : Séville, Cordoue, Grenade, Malaga et Ronda e
 descripcion: "Itinéraire de 7 jours en Andalousie en train : 2 nuits à Séville, 1 à Cordoue, 2 à Grenade et 2 à Malaga avec Ronda. Trajets, prix, quoi réserver et où dormir."
 categoria: "sevilla"
 slug: "andalousie-en-7-jours"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-06"
+fecha_actualizacion: "2026-09-23"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

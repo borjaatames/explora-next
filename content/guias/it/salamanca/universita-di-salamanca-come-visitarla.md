@@ -4,8 +4,8 @@ descripcion: "Come visitare l'Università di Salamanca: prezzi, orari, cosa vede
 respuestaCorta: 'L''ingresso all''**Edificio Histórico costa 10 €** (5 € ridotto) ed è **gratis il lunedì pomeriggio**, anche se con coda e senza garanzia di entrare. La facciata plateresca con la rana e il **Cielo de Salamanca** sono gratis. Calcola **2 h 30** (la Biblioteca Histórica si vede solo attraverso un vetro); la visita guidata con ingresso parte da 12 €.'
 categoria: "salamanca"
 slug: "universita-di-salamanca-come-visitarla"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-08"
+fecha_actualizacion: "2026-10-28"
 autor: Borja
 publicada: true
 destacada: false

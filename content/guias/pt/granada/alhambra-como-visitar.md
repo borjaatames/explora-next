@@ -4,8 +4,8 @@ descripcion: 'Bilhetes Alhambra: o geral custa 22,27 € e sai até três meses 
 metaTitle: 'Bilhetes Alhambra: preço e como comprar'
 categoria: granada
 slug: alhambra-como-visitar
-fecha: '2026-05-02'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-08-24"
+fecha_actualizacion: "2026-10-14"
 datosComprobados: "2026-10-27"
 autor: Borja
 publicada: true

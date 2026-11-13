@@ -4,8 +4,8 @@ descripcion: 'Guida alle Dune di Maspalomas: come arrivare, percorsi consentiti,
 respuestaCorta: 'Le dune sono **gratuite e aperte tutto il giorno**, ma sono una Riserva Naturale Speciale: si cammina solo sui **sentieri segnalati** e lungo la battigia. Vai **all''alba o nelle ultime due ore del pomeriggio**, porta acqua ed entra dal belvedere di Playa del Inglés o dal faro. La passeggiata in cammello di 30 minuti costa da 18 €.'
 categoria: gran-canaria
 slug: dune-di-maspalomas
-fecha: '2026-10-07'
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-21"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: false

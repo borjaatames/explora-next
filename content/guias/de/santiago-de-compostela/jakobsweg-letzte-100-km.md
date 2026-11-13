@@ -5,8 +5,8 @@ metaTitle: "Jakobsweg letzte 100 km ab Sarria"
 respuestaCorta: 'Für die Compostela musst du **mindestens die letzten 100 km** bis Santiago zu Fuß gehen (200 km mit dem Fahrrad) und deinen Pilgerausweis **zweimal am Tag** stempeln lassen. Am häufigsten startet man in **Sarria**, etwa 114 km und fünf Etappen entfernt, die du in 5–7 Tagen schaffst. Die Compostela ist im Pilgerbüro **kostenlos**; die Entfernungsurkunde kostet 3 €.'
 categoria: "santiago-de-compostela"
 slug: "jakobsweg-letzte-100-km"
-fecha: "2026-05-11"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-27"
+fecha_actualizacion: "2026-09-21"
 autor: Borja
 publicada: true
 destacada: true

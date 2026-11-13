@@ -3,8 +3,8 @@ titulo: "Teide-Seilbahn und Gipfelgenehmigung ausverkauft: was tun?"
 descripcion: "Wenn es keine Tickets mehr für die Teide-Seilbahn oder keine Genehmigungen für den Gipfel gibt: wann neue Plätze freigegeben werden, Ausflüge mit inbegriffener Seilbahn, die Altavista-Hütte und was du ohne Auffahrt sehen kannst."
 categoria: tenerife
 slug: teide-tickets-ausverkauft
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-10-23'
+fecha: "2026-05-12"
+fecha_actualizacion: "2026-10-19"
 autor: Borja
 publicada: true
 destacada: false

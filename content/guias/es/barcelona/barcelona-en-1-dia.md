@@ -4,8 +4,8 @@ descripcion: "Cómo aprovechar al máximo un día en Barcelona desde Madrid en A
 respuestaCorta: 'Barcelona en un día desde Madrid es factible con disciplina: el **AVE tarda unas 3 h** (Adif mantiene la limitación de velocidad hasta final de 2026), así que saliendo hacia las 6:15 tienes unas 10 horas en la ciudad. Reserva online con días de antelación la **Sagrada Família** (26 € en la web oficial) y el **Park Güell** (18 €), recorre el Gótico, come en el Born y sube por la tarde a los **Búnkers del Carmel** (cierran a las 17:30 en invierno) para bajar andando al Park Güell y coger el tren de las 19:30.'
 categoria: "barcelona"
 slug: "barcelona-en-1-dia"
-fecha: "2026-04-29"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-07-07"
+fecha_actualizacion: "2026-11-08"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

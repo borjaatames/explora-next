@@ -4,8 +4,8 @@ descripcion: 'Alhambra tickets carry each visitor''s name and ID number: bring y
 metaTitle: 'Alhambra ticket name, passport and ID rules'
 categoria: granada
 slug: alhambra-tickets-name-passport-id
-fecha: '2026-11-08'
-fecha_actualizacion: '2026-11-08'
+fecha: "2026-07-04"
+fecha_actualizacion: "2026-10-03"
 datosComprobados: '2026-11-08'
 autor: Borja
 publicada: true

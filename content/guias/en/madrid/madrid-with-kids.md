@@ -3,8 +3,8 @@ titulo: "Madrid with kids: an honest guide by age (4 to 16)"
 descripcion: "Madrid with kids and teens: zoo, theme park, museums that work, outdoor plans, and common mistakes. An honest guide by age group."
 categoria: "madrid"
 slug: "madrid-with-kids"
-fecha: "2026-04-27"
-fecha_actualizacion: "2026-10-28"
+fecha: "2026-05-25"
+fecha_actualizacion: "2026-10-09"
 datosComprobados: "2026-10-28"
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: 'Billets Alcázar de Séville épuisés ? Guichet du Patio de Bande
 metaTitle: 'Billets Alcázar Séville épuisés : que faire'
 categoria: sevilla
 slug: alcazar-de-seville-billets-epuises
-fecha: '2026-10-23'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-11-04"
 autor: Borja
 publicada: true
 destacada: false

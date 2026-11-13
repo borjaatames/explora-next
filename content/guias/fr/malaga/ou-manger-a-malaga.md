@@ -4,8 +4,8 @@ descripcion: "Guide pour bien manger à Malaga : espeto de sardines, friture mal
 respuestaCorta: 'Mangez l''**espeto de sardines dans un chiringuito de Pedregalejo ou d''El Palo** (4-6 € les six sardines, de préférence à midi), la friture de poisson là où les gens du coin se pressent et le **vin doux au tonneau** dans une bodega historique comme l''Antigua Casa de Guardia. Bien manger revient à **20-25 € par personne** ; évitez les terrasses face à la cathédrale et dans la calle Larios.'
 categoria: "malaga"
 slug: "ou-manger-a-malaga"
-fecha: "2026-03-21"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-06-02"
+fecha_actualizacion: "2026-10-11"
 autor: Borja
 publicada: true
 destacada: false

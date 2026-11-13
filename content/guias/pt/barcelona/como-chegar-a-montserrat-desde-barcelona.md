@@ -4,8 +4,8 @@ descripcion: 'Como chegar a Montserrat desde Barcelona: comboio R5 na Plaça Esp
 metaTitle: 'Como chegar a Montserrat desde Barcelona'
 categoria: barcelona
 slug: como-chegar-a-montserrat-desde-barcelona
-fecha: '2026-11-03'
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-04-30"
+fecha_actualizacion: "2026-10-08"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true

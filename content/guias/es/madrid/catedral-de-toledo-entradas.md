@@ -4,8 +4,8 @@ descripcion: 'Entradas de la Catedral de Toledo: 12 € la general en la web ofi
 metaTitle: 'Catedral de Toledo: entradas y horario'
 categoria: madrid
 slug: catedral-de-toledo-entradas
-fecha: '2026-11-04'
-fecha_actualizacion: '2026-11-04'
+fecha: "2026-06-09"
+fecha_actualizacion: "2026-10-26"
 datosComprobados: '2026-11-04'
 autor: Borja
 publicada: true

@@ -4,8 +4,8 @@ descripcion: "Escala de cruzeiro em Bilbau: o terminal fica em Getxo, a 12-15 km
 metaTitle: "Porto de Bilbau em cruzeiro: Getxo, metro e Guggenheim"
 categoria: "bilbao"
 slug: "porto-de-bilbau-cruzeiros"
-fecha: "2026-11-01"
-fecha_actualizacion: "2026-11-01"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-09-28"
 autor: Borja
 publicada: true
 destacada: false

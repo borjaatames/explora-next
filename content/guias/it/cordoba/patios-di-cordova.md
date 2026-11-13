@@ -4,8 +4,8 @@ descripcion: "Guida ai Patios di Cordova: cos'è la Festa dei Patios (maggio), i
 respuestaCorta: 'La **Festa dei Patios** dura due settimane all''inizio di maggio (dal 4 al 17 nel 2026): le case aprono i loro patios **gratis**, dalle 11:00 alle 14:00 e dalle 18:00 alle 22:00. Vai a prima ora o al calar della sera. Il resto dell''anno, il **Palacio de Viana** ha dodici patios (8,50 €) e un **tour guidato di cinque patios di San Basilio** costa da 19 €.'
 categoria: "cordoba"
 slug: "patios-di-cordova"
-fecha: "2026-04-12"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-08-30"
+fecha_actualizacion: "2026-10-20"
 autor: Borja
 publicada: true
 destacada: false

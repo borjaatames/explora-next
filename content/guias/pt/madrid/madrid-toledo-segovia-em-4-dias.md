@@ -3,8 +3,8 @@ titulo: "Madrid, Toledo e Segóvia em 4 dias: itinerário com comboios, horário
 descripcion: "4 dias com base em Madrid: 2 de cidade (Palácio Real, Prado, Retiro), Toledo de Avant (33 min) e Segóvia (cerca de 30 min). Comboios, bilhetes, o que reservar e orçamento."
 categoria: "madrid"
 slug: "madrid-toledo-segovia-em-4-dias"
-fecha: "2026-11-01"
-fecha_actualizacion: '2026-11-03'
+fecha: "2026-06-28"
+fecha_actualizacion: "2026-10-28"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true

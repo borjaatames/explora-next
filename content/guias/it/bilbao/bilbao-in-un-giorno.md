@@ -4,8 +4,8 @@ descripcion: "Cosa vedere a Bilbao in un giorno: Museo Guggenheim, Casco Viejo, 
 respuestaCorta: "Comincia alle 9:30 al **Guggenheim** (calcola 2 h-2 h 30), passeggia lungo il Nervión e sul ponte Zubizuri, poi attraversa verso il **Casco Viejo e le sue Sette Strade**. Mangia pintxos intorno a **Plaza Nueva** dalle 14:00, fai un salto al Mercato della Ribera e chiudi con la **funicolare di Artxanda** al tramonto. Una visita guidata al Guggenheim con biglietto (in spagnolo) costa da 49 €."
 categoria: "bilbao"
 slug: "bilbao-in-un-giorno"
-fecha: "2026-03-13"
-fecha_actualizacion: "2026-10-23"
+fecha: "2026-05-22"
+fecha_actualizacion: "2026-10-14"
 autor: Borja
 publicada: true
 destacada: true
