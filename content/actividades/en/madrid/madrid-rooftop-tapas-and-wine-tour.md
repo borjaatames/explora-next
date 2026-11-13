@@ -5,6 +5,7 @@ ciudad: "madrid"
 descripcion: "A 4-hour bilingual food tour with World Experience through Las Letras, La Latina and Los Austrias. Three traditional restaurants, paired Spanish wines, ending with cava on a rooftop with views over central Madrid. 4.8/5 across 619 reviews."
 
 slugs:
+  es: tour-tapas-vino-azotea-madrid
   en: "madrid-rooftop-tapas-and-wine-tour"
 
 duracion: "4 hours"

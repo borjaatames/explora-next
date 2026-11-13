@@ -5,6 +5,7 @@ ciudad: "madrid"
 descripcion: "A 2 or 3-hour bilingual food tour with Secret Food Tours through historic central Madrid. Classic tapas, local wines and an exclusive secret dish at every stop. 4.9/5 across 147 reviews."
 
 slugs:
+  es: tour-tapas-delicias-madrid
   en: "madrid-authentic-tapas-delicacies-food-tour"
 
 duracion: "2-3 hours"

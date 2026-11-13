@@ -4,6 +4,7 @@ slug: gourmet-tapas-wine-tour-granada
 ciudad: granada
 descripcion: '3-hour evening tapas crawl through 4 contrasting bars and bodegas in Granada with a local guide: 10 tapas and 4 drinks included. Small group of up to 11. 4.9/5 from 125 reviews.'
 slugs:
+  es: tour-gourmet-tapas-vino-granada
   en: gourmet-tapas-wine-tour-granada
 duracion: 3 hours
 duracionMinutos: 180
