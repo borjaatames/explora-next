@@ -121,4 +121,4 @@ Atenção ao que está a comparar: o tour de 12 pessoas inclui também uma volta
 4. **Reservar o tour de 12 pessoas a contar entrar na Sagrada Família.** Vê-se por fora; a entrada pede-se à parte ao operador.
 5. **Esquecer a cadeirinha de criança.** Nos tours de carro privados e semiprivados tem de a pedir ao reservar (suplemento de 8 €).
 
-Para comparar todas as excursões a Montserrat entre si, leia [Montserrat: que excursão escolher](/en/guides/barcelona/montserrat-which-excursion-to-choose). Todas as excursões privadas estão em [tours privados desde Barcelona](/en/cities/barcelona/activities/private-tours).
+Para comparar todas as excursões a Montserrat entre si, leia [Montserrat: que excursão escolher](/en/guides/barcelona/montserrat-which-excursion-to-choose).

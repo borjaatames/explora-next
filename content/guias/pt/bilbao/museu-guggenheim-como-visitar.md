@@ -29,7 +29,7 @@ reservasArriba: true
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
-  - guggenheim-bilbao-private-tour-guide-ticket
+  - guggenheim-bilbao-visita-privada-guia-entrada
 ---
 
 **O Guggenheim não é só um museu: é o edifício que mudou Bilbau.** A obra em titânio de Frank Gehry, inaugurada em 1997, transformou uma cidade industrial num ícone mundial do design, o famoso «efeito Bilbau». Por isso a visita tem duas partes que não deve confundir: **o edifício e as suas esculturas (gratuito, no exterior)** e **as salas (pago, no interior)**. Este guia ajuda-o a tirar o máximo partido de ambas.

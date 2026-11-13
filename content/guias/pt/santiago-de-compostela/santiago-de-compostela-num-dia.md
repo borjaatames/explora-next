@@ -37,8 +37,8 @@ actividades:
   - excursion-playa-catedrales-lugo-ribadeo
   - cubiertas-catedral-santiago-tour
   - tour-autoguiado-daremapp-santiago-de-compostela
-  - santiago-de-compostela-private-tour-official-guide
-  - santiago-de-compostela-private-food-tour
+  - santiago-tour-privado-guia-oficial
+  - santiago-tour-gastronomico-privado
 ---
 
 **Santiago vê-se facilmente num dia**, embora o ambiente convide a ficar. O centro histórico é compacto, todo pedra e arcadas, Património Mundial da UNESCO, e tudo gira à volta da **catedral**, a meta do Caminho. Este guia reúne o essencial da capital galega e deixa claro porque é que quem pernoita leva muito mais do que o turista de passagem.

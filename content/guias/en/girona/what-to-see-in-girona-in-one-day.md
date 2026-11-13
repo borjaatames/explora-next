@@ -43,7 +43,7 @@ actividades:
   - girona-juego-de-tronos-tour-grupo-reducido
   - girona-figueres-dali-cadaques-desde-barcelona
   - tour-autoguiado-daremapp-girona
-  - girona-private-walking-tour-old-town
+  - girona-tour-privado-barri-vell
 imagen_portada: "/images/guias/que-ver-en-girona-en-un-dia.jpg"
 imagen_alt: "The Onyar river and its colourful houses in Girona"
 ---

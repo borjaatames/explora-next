@@ -30,7 +30,7 @@ respuestaCorta: 'O Guggenheim raramente esgota por completo: o que costuma acont
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido
-  - guggenheim-bilbao-private-tour-guide-ticket
+  - guggenheim-bilbao-visita-privada-guia-entrada
 faq:
 - pregunta: Posso comprar bilhetes para o Guggenheim na bilheteira no próprio dia?
   respuesta: 'Sim, enquanto houver lotação disponível. As bilheteiras fecham meia hora antes do museu, ou seja, às 18h30 nos dias normais. Aos fins de semana, na Páscoa, no verão e em dias de chuva é melhor ter o bilhete comprado no site oficial.'
