@@ -72,7 +72,7 @@ keywords:
 - malaga tuk tuk tour
 - malaga in one day
 - malaga viewpoints
-imagen: /images/actividades/malaga/tuk-tuk/tuk-tuk-malaga.webp
+imagen: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-gibralfaro.webp
 imagenAlt: Sightseeing tuk tuk in central Málaga
 galeria:
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp

@@ -72,7 +72,7 @@ keywords:
 - malaga tour tuk tuk
 - que ver en malaga en un dia
 - miradores malaga
-imagen: /images/actividades/malaga/tuk-tuk/tuk-tuk-malaga.webp
+imagen: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-gibralfaro.webp
 imagenAlt: Tuk tuk turístico en el centro de Málaga
 galeria:
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp

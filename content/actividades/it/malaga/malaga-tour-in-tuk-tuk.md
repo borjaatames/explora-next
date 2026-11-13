@@ -72,7 +72,7 @@ keywords:
 - malaga tour in tuk tuk
 - malaga in un giorno
 - belvedere malaga
-imagen: /images/actividades/malaga/tuk-tuk/tuk-tuk-malaga.webp
+imagen: /images/actividades/malaga/tuk-tuk-malaga/tuk-tuk-malaga-clientes-gibralfaro.webp
 imagenAlt: Tuk tuk turistico nel centro di Malaga
 galeria:
 - src: /images/actividades/malaga/muelle-uno/paseo-farola.webp
