@@ -45,12 +45,12 @@ faq:
 - pregunta: ¿Qué se puede ver del Alcázar sin entrada?
   respuesta: 'El Patio de Banderas, que es una plaza pública; la Puerta del León desde la Plaza del Triunfo, y la muralla del Alcázar por el Callejón del Agua y los Jardines de Murillo, en el barrio de Santa Cruz.'
 opciones:
-  - ficha: real-alcazar-sevilla-entrada
-    etiqueta: La más barata
   - ficha: real-alcazar-sevilla-tour-guiado-skip-line
     etiqueta: Con guía
   - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Con la Catedral
+    etiqueta: Cancela gratis
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: La más barata
 ---
 
 El Real Alcázar vende sus entradas por **franjas de 30 minutos con aforo limitado**, y de marzo a octubre, en Semana Santa y en puentes, las fechas de más demanda se agotan pronto. Que la web oficial diga «agotado» no te deja sin Alcázar, pero aquí no funcionan los trucos de otros monumentos: no hay lista de espera ni liberación de última hora. Estas son las vías que quedan, en el orden en que conviene probarlas.
@@ -59,10 +59,10 @@ El Real Alcázar vende sus entradas por **franjas de 30 minutos con aforo limita
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Entrada con hora, sin guía | [Entrada al Real Alcázar con acceso prioritario](/ciudades/sevilla/actividades/real-alcazar-sevilla-entrada), 4,6★ (36.909) | 20 € |
-| Con guía y el Cuarto Real Alto | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
-| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| Con guía y entrada incluida | [Real Alcázar, tour guiado sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
+| La más elegida (cancela gratis) | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
 | Con tiempo libre en los jardines | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
+| Solo entrada con hora, sin guía | [Entrada al Real Alcázar con acceso prioritario](/ciudades/sevilla/actividades/real-alcazar-sevilla-entrada), 4,6★ (36.909) | 20 € |
 
 ## 1. La web oficial y la taquilla del mismo día
 
@@ -81,15 +81,15 @@ Los lunes hay una hora de entrada gratuita: de **18:00 a 19:00** de abril a sept
 
 ## 3. Una entrada con hora de reventa o una visita guiada
 
-Cuando la web oficial no tiene nada, los revendedores autorizados suelen tener plazas porque compran sus cupos con antelación. Pagas más que en la web oficial:
+Cuando la web oficial no tiene nada, los revendedores autorizados suelen tener plazas porque compran sus cupos con antelación. Pagas más que en la web oficial. Una cosa a tener en cuenta: **para hoy o mañana suele estar todo agotado también aquí** (en temporada se agota con uno o dos días); si vas hoy, tu mejor baza es la **taquilla del mismo día** (punto 1). Para dentro de dos o tres días, estas son las que más hueco tienen, de la que más entra a la más barata:
 
-- **Entrada con hora sin guía (desde 20 €):** la opción más barata si solo quieres entrar.
-- **Visita guiada solo al Alcázar (desde 36 €):** 105 minutos con guía, y la que enlazamos incluye además el Cuarto Real Alto.
-- **Catedral, Giralda y Alcázar (desde 53 €):** si aún no tienes la Catedral, resuelves los dos monumentos en una mañana.
+- **Visita guiada solo al Alcázar (desde 36 €):** 105 minutos con guía, con la entrada al Alcázar incluida y el Cuarto Real Alto. Como el operador reserva su cupo aparte, suele tener fechas cuando la web oficial sale agotada.
+- **Catedral, Giralda y Alcázar (desde 53 €):** la más elegida (4,8★) y **con cancelación gratis**; si aún no tienes la Catedral, resuelves los dos monumentos en una mañana.
+- **Entrada con hora sin guía (desde 20 €):** la más barata si solo quieres entrar, pero **no admite cambios ni devoluciones** y es la primera que se agota.
 
 Antes de pagar, comprueba en la ficha que diga **«entrada al Real Alcázar incluida»**. Hay paseos por Santa Cruz que solo pasan por fuera.
 
-[actividad: real-alcazar-sevilla-entrada]
+[actividad: real-alcazar-sevilla-tour-guiado-skip-line]
 
 [actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
 
