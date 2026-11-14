@@ -82,7 +82,7 @@ galeria:
   alt: Plage de Cadix
 - src: https://imgcdn.bokun.tools/3b843785-d770-4354-9cb4-25f2cfa6481b.jpeg
   alt: Bâtiment à coupole à Cadix
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-10'
 ---
