@@ -45,10 +45,10 @@ faq:
 - pregunta: What can I see of the Cathedral and the Giralda without a ticket?
   respuesta: 'The facades and the Giralda from Plaza Virgen de los Reyes, Avenida de la Constitución and Plaza del Triunfo, which surround the building. To see inside you need a ticket or to attend a service, which is not a tourist visit.'
 opciones:
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Free cancellation
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: Cheapest
-  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Plus the Alcázar
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Private
 ---
@@ -59,8 +59,8 @@ Seville Cathedral sells tickets **with a set entry time and limited capacity**, 
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| A timed ticket, no guide | [Cathedral and Giralda skip-the-line entry](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4.6★ (3,500) | €17.50 |
-| The most popular | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
+| The most popular (free cancellation) | [Cathedral, Giralda and Alcázar priority access](/en/cities/sevilla/activities/seville-priority-access-cathedral-giralda-alcazar-tour), 4.8★ (14,120) | €53 |
+| Just a timed ticket, no guide | [Cathedral and Giralda skip-the-line entry](/en/cities/sevilla/activities/seville-cathedral-giralda-entry-ticket), 4.6★ (3,500) | €17.50 |
 | Both monuments without rushing | [Cathedral, Giralda and Alcázar: 3.5-hour tour](/en/cities/sevilla/activities/seville-cathedral-giralda-alcazar-guided-tour-3-5h), 4.5★ (2,085) | €65 |
 | A guide just for your group | [Royal Alcázar and Cathedral private tour with tickets](/en/cities/sevilla/activities/royal-alcazar-seville-cathedral-private-tour-tickets), 5.0★ (188) | €300 per group |
 
@@ -82,17 +82,17 @@ Another route is the **guided rooftop tour** (Cubiertas): an hour and a half acr
 
 ## 3. A resold timed ticket or a guided tour
 
-When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You pay more than on the official site:
+When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You pay more than on the official site. One thing to keep in mind: **for today or tomorrow it's often sold out here too**; if you're going today, use the **Prince's Gate box office** or the **rooftop tour** (steps 1 and 2). For two or three days out, these have the best chance of room:
 
-- **Timed ticket, no guide (from €17.50):** the cheapest way in if you just want to visit and climb the Giralda.
-- **Cathedral, Giralda and Alcázar (from €53):** if you haven't sorted the Alcázar yet either, you do both in one morning.
+- **Cathedral, Giralda and Alcázar (from €53):** the most popular (4.8★) and with **free cancellation**; the operator holds its own allocation, so it often has dates when the official site is sold out, and you sort the Alcázar at the same time.
+- **Timed ticket, no guide (from €17.50):** the cheapest way in if you just want to visit and climb the Giralda, but it **can't be changed or refunded** and it's the first to sell out.
 - **Private tour (from €300 per group):** with tickets to the Alcázar and the Cathedral, worth it if there are several of you.
 
 Before paying, check that the listing says **"Cathedral entry included"**. Some city-centre walks only cover the outside.
 
-[actividad: catedral-sevilla-giralda-entrada-skip-line]
-
 [actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
+[actividad: catedral-sevilla-giralda-entrada-skip-line]
 
 ## 4. What you can see without a ticket
 

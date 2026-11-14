@@ -45,10 +45,10 @@ faq:
 - pregunta: ¿Qué se puede ver de la Catedral y la Giralda sin entrada?
   respuesta: 'Las fachadas y la Giralda desde la Plaza Virgen de los Reyes, la Avenida de la Constitución y la Plaza del Triunfo, que rodean el templo. Para ver el interior hace falta entrada o asistir al culto, que no es una visita turística.'
 opciones:
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Cancela gratis
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: La más barata
-  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Con el Alcázar
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Privada
 ---
@@ -59,8 +59,8 @@ La Catedral de Sevilla vende sus entradas **con hora de acceso y aforo limitado*
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Entrada con hora, sin guía | [Catedral y Giralda sin colas](/ciudades/sevilla/actividades/catedral-sevilla-giralda-entrada-skip-line), 4,6★ (3.500) | 17,50 € |
-| La más elegida | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| La más elegida (cancela gratis) | [Catedral, Giralda y Alcázar con acceso prioritario](/ciudades/sevilla/actividades/sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar), 4,8★ (14.120) | 53 € |
+| Solo entrada con hora, sin guía | [Catedral y Giralda sin colas](/ciudades/sevilla/actividades/catedral-sevilla-giralda-entrada-skip-line), 4,6★ (3.500) | 17,50 € |
 | Los dos monumentos con tiempo | [Catedral, Giralda y Alcázar: tour de 3,5 horas](/ciudades/sevilla/actividades/sevilla-catedral-giralda-alcazar-tour-guiado-3-5h), 4,5★ (2.085) | 65 € |
 | Un guía solo para tu grupo | [Real Alcázar y Catedral: tour privado con entradas](/ciudades/sevilla/actividades/real-alcazar-catedral-sevilla-tour-privado-entradas), 5,0★ (188) | 300 € por grupo |
 
@@ -82,17 +82,17 @@ Otra vía es la **visita guiada a las cubiertas**: un recorrido de hora y media 
 
 ## 3. Una entrada con hora de reventa o una visita guiada
 
-Cuando la web oficial no tiene nada, los revendedores autorizados suelen tener plazas porque compran sus cupos con antelación. Pagas más que en la web oficial:
+Cuando la web oficial no tiene nada, los revendedores autorizados suelen tener plazas porque compran sus cupos con antelación. Pagas más que en la web oficial. A tener en cuenta: **para hoy o mañana suele estar agotado también aquí**; si vas hoy, tira de la **taquilla de la Puerta del Príncipe** o de las **cubiertas** (puntos 1 y 2). Para dentro de dos o tres días, estas son las que más hueco tienen:
 
-- **Entrada con hora sin guía (desde 17,50 €):** la opción más barata si solo quieres entrar y subir a la Giralda.
-- **Catedral, Giralda y Alcázar (desde 53 €):** si tampoco tienes el Alcázar, resuelves los dos monumentos en una mañana.
+- **Catedral, Giralda y Alcázar (desde 53 €):** la más elegida (4,8★) y **con cancelación gratis**; como el operador reserva su cupo aparte, suele tener fechas cuando la oficial está agotada, y si tampoco tienes el Alcázar lo resuelves de paso.
+- **Entrada con hora sin guía (desde 17,50 €):** la más barata si solo quieres entrar y subir a la Giralda, pero **no admite cambios ni devoluciones** y es la primera que se agota.
 - **Tour privado (desde 300 € por grupo):** con entradas al Alcázar y la Catedral, compensa si sois varios.
 
 Antes de pagar, comprueba en la ficha que diga **«entrada a la Catedral incluida»**. Hay paseos por el centro que solo explican el exterior.
 
-[actividad: catedral-sevilla-giralda-entrada-skip-line]
-
 [actividad: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar]
+
+[actividad: catedral-sevilla-giralda-entrada-skip-line]
 
 ## 4. Lo que ves sin entrada
 
