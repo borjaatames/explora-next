@@ -23,6 +23,9 @@ slugs:
   es: tapas-madrid-por-plato
   en: madrid-tapas-dish-by-dish
   de: madrid-tapas-nach-gericht
+  fr: meilleures-tapas-de-madrid-plat-par-plat
+  it: tapas-madrid-piatto-per-piatto
+  pt: tapas-madrid-prato-a-prato
 actividades:
   - tour-privado-tabernas-centenarias-madrid
   - ruta-tapas-nocturna-madrid

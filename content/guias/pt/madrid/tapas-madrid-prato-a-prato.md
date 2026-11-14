@@ -26,6 +26,7 @@ slugs:
   fr: meilleures-tapas-de-madrid-plat-par-plat
   it: tapas-madrid-piatto-per-piatto
   pt: tapas-madrid-prato-a-prato
+  de: madrid-tapas-nach-gericht
 reservasArriba: true
 respuestaCorta: 'A lista curta: **bravas** em Las Bravas, **sandes de lulas** em El Brillante, **tortilha** na Casa Dani, **torreznos** em El Pedrusco de Aldealcorvo, **callos** no Malacatín, **presunto** no Lhardy e **croquetes** na Casa Julio. Um roteiro de quatro ou cinco bares fica por **25-35 € por pessoa**; os balcões enchem das 13h30 às 15h30 e das 21h00 às 23h00.'
 actividades:

@@ -26,6 +26,7 @@ slugs:
   fr: meilleures-tapas-de-madrid-plat-par-plat
   it: tapas-madrid-piatto-per-piatto
   pt: tapas-madrid-prato-a-prato
+  de: madrid-tapas-nach-gericht
 reservasArriba: true
 respuestaCorta: 'La lista breve: **bravas** da Las Bravas, **panino con i calamari** a El Brillante, **tortilla** da Casa Dani, **torreznos** a El Pedrusco de Aldealcorvo, **callos** da Malacatín, **jamón** da Lhardy e **crocchette** da Casa Julio. Un giro di quattro o cinque bar costa **25-35 € a persona**; i banconi si riempiono dalle 13:30 alle 15:30 e dalle 21:00 alle 23:00.'
 actividades:

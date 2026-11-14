@@ -26,6 +26,7 @@ slugs:
   fr: meilleures-tapas-de-madrid-plat-par-plat
   it: tapas-madrid-piatto-per-piatto
   pt: tapas-madrid-prato-a-prato
+  de: madrid-tapas-nach-gericht
 reservasArriba: true
 respuestaCorta: 'La liste courte : les **bravas** à Las Bravas, le **sandwich aux calamars** à El Brillante, la **tortilla** chez Casa Dani, les **torreznos** à El Pedrusco de Aldealcorvo, les **callos** à Malacatín, le **jambon** chez Lhardy et les **croquetas** chez Casa Julio. Une tournée de quatre ou cinq bars revient à **25-35 € par personne** ; les comptoirs sont pleins de 13 h 30 à 15 h 30 et de 21 h à 23 h.'
 actividades:
