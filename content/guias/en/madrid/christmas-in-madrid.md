@@ -4,7 +4,7 @@ descripcion: "Christmas in Madrid 2026: when the lights go on, the Plaza Mayor m
 categoria: "madrid"
 slug: "christmas-in-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: true
@@ -50,7 +50,7 @@ actividades:
 | New Year's Eve chimes | Puerta del Sol | 31 December | Free, capacity-limited |
 | Three Kings Parade | Castellana – Cibeles | 5 January, from 18:00 | Free |
 
-**Confirmed (4 November 2026):** the city switches the lights on on Saturday 21 November with an event in Plaza de Cibeles, and they stay on until 6 January 2027. The time of the switch-on has not been announced yet. The other dates are from the last edition until the 2026 programme is out.
+**Confirmed (4 November 2026):** the city switches the lights on on Saturday 21 November with an event in Plaza de Cibeles, and they stay on until 6 January 2027. The event starts at 19:30. The other dates are from the last edition until the 2026 programme is out.
 
 ## Seeing the lights
 

@@ -4,7 +4,7 @@ descripcion: "Natale a Barcellona 2026: mercatino di Santa Llúcia, luci su 130 
 categoria: "barcelona"
 slug: "natale-a-barcellona"
 fecha: "2026-10-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-15"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -31,7 +31,7 @@ reservasArriba: true
 respuestaCorta: "Barcellona è **Capitale Europea del Natale 2026** ed estende le sue luci su **130 km di strade**. L'essenziale: il **mercatino di Natale di Santa Llúcia** accanto alla cattedrale (dal 28 novembre al 23 dicembre nel 2025), lo spettacolo di luci in **Plaça Sant Jaume**, lo **spettacolo gratuito di Capodanno alla Fontana Magica del Montjuïc** e la **Cabalgata dei Re Magi il 5 gennaio** dalle 18:00. Attenzione: **anche il 26 dicembre (Sant Esteve) è festivo** in Catalogna."
 faq:
   - pregunta: "Quando si accendono le luci di Natale a Barcellona nel 2026?"
-    respuesta: "Il Comune non ha ancora fissato la data. Nel 2025 si sono accese sabato 22 novembre alle 18:00 sul Passeig de Gràcia e sono rimaste accese ogni sera dalle 17:30 all'1:00 (fino alle 2:00 il venerdì, il sabato, le vigilie dei festivi, il 25 e il 31 dicembre e il 5 gennaio). Nel 2026, anno in cui Barcellona è Capitale Europea del Natale, le luci coprono 130 km di strade."
+    respuesta: "Giovedì 26 novembre 2026, con uno spettacolo di danza aerea tra le 18:00 e le 18:30 sul Passeig de Gràcia (tra Rosselló e la Diagonal). Restano accese fino al 6 gennaio, ogni giorno dalle 17:30 all'1:00, e fino alle 2:00 il venerdì, il sabato, il 24, 25 e 31 dicembre e il 5 gennaio. Nel 2026, anno in cui Barcellona è Capitale Europea del Natale, le luci coprono 130 km di strade."
   - pregunta: "C'è un presepe in Plaça Sant Jaume?"
     respuesta: "Non nel 2024 né nel 2025: al suo posto, ogni sera dalle 18:30 è stato proiettato uno spettacolo di luci sulle facciate del Municipio e della Generalitat. Il presepe tradizionale si è spostato all'interno del Municipio, nel Pati dels Carruatges, con ingresso gratuito da Carrer de la Ciutat, dal 13 dicembre al 5 gennaio."
   - pregunta: "La Sagrada Família è aperta a Natale?"
@@ -54,7 +54,7 @@ actividades:
 
 | Cosa | Dove | Quando (edizione 2025) | Prezzo |
 | --- | --- | --- | --- |
-| Accensione delle luci | Passeig de Gràcia | 22 novembre, 18:00 | Gratis |
+| Accensione delle luci | Passeig de Gràcia | 26 novembre 2026, 18:00 | Gratis |
 | Mercatino di Santa Llúcia | Avinguda de la Catedral | 28 novembre – 23 dicembre, dalle 10:00 alle 21:00 | Gratis |
 | Fiera di Natale della Sagrada Família | Accanto alla basilica | 22 novembre – 23 dicembre | Gratis |
 | Nadal a Sant Jaume (spettacolo di luci) | Plaça Sant Jaume | 22 novembre – 5 gennaio, dalle 18:30 | Gratis |
@@ -65,7 +65,7 @@ actividades:
 | Spettacolo di Capodanno | Av. Reina Maria Cristina (Montjuïc) | 31 dicembre, dalle 22:00 | Gratis |
 | Cabalgata dei Re Magi | Ciutadella – Montjuïc | 5 gennaio, 18:00 | Gratis |
 
-Queste sono le date del 2025: il programma del 2026 esce a novembre su barcelona.cat/nadal e aggiorneremo questa guida in quel momento. Nel 2026 Barcellona è **Capitale Europea del Natale**, quindi aspettati più eventi del solito.
+Tranne l'accensione (confermata per il 26 novembre 2026), queste sono le date del 2025: il programma del 2026 esce a novembre su barcelona.cat/nadal e aggiorneremo questa guida in quel momento. Nel 2026 Barcellona è **Capitale Europea del Natale**, quindi aspettati più eventi del solito.
 
 ## Le luci e il mercatino di Santa Llúcia
 

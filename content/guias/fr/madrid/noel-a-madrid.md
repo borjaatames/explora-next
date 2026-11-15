@@ -4,7 +4,7 @@ descripcion: "Noël à Madrid 2026 : quand s'allument les illuminations, le marc
 categoria: "madrid"
 slug: "noel-a-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: true
@@ -53,7 +53,7 @@ actividades:
 | Douze coups de minuit | Puerta del Sol | 31 décembre | Gratuit, places limitées |
 | Cavalcade des Rois | Castellana – Cibeles | 5 janvier, à partir de 18 h | Gratuit |
 
-**Confirmé (4 novembre 2026) :** la mairie allume les illuminations le samedi 21 novembre lors d'une cérémonie place de Cibeles, et elles restent jusqu'au 6 janvier 2027. L'heure de l'allumage n'est pas encore annoncée. Les autres dates sont celles de la dernière édition en attendant le programme 2026.
+**Confirmé (4 novembre 2026) :** la mairie allume les illuminations le samedi 21 novembre lors d'une cérémonie place de Cibeles, et elles restent jusqu'au 6 janvier 2027. La cérémonie commence à 19h30. Les autres dates sont celles de la dernière édition en attendant le programme 2026.
 
 ## Voir les illuminations
 

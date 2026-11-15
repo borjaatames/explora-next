@@ -4,7 +4,7 @@ descripcion: "Christmas in Barcelona 2026: Santa Llúcia market, lights on 130 k
 categoria: "barcelona"
 slug: "christmas-in-barcelona"
 fecha: "2026-10-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-15"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -31,7 +31,7 @@ reservasArriba: true
 respuestaCorta: "Barcelona is **European Capital of Christmas 2026** and is stretching its lights across **130 km of streets**. The essentials: the **Santa Llúcia Christmas market** by the cathedral (28 November to 23 December in 2025), the light show on **Plaça Sant Jaume**, the **free New Year's Eve show at Montjuïc's Magic Fountain** and the **Three Kings Parade on 5 January** from 18:00. Heads-up: **26 December (Sant Esteve) is also a public holiday** in Catalonia."
 faq:
   - pregunta: "When do the Barcelona Christmas lights go on in 2026?"
-    respuesta: "The city hasn't set the date yet. In 2025 they were switched on on Saturday 22 November at 18:00 on Passeig de Gràcia and shone every evening from 17:30 to 1:00 (until 2:00 on Fridays, Saturdays, the eve of public holidays, 25 and 31 December and 5 January). For 2026, the year Barcelona is European Capital of Christmas, the lights cover 130 km of streets."
+    respuesta: "On Thursday 26 November 2026, with an aerial dance show between 18:00 and 18:30 on Passeig de Gràcia (between Rosselló and the Diagonal). They stay on until 6 January, every day from 17:30 to 1:00, and until 2:00 on Fridays, Saturdays, 24, 25 and 31 December and 5 January. For 2026, the year Barcelona is European Capital of Christmas, the lights cover 130 km of streets."
   - pregunta: "Is there a nativity scene on Plaça Sant Jaume?"
     respuesta: "Not in 2024 or 2025: instead, a light show was projected onto the City Hall and Generalitat façades every evening from 18:30. The traditional nativity scene moved inside City Hall, to the Pati dels Carruatges, with free entry from Carrer de la Ciutat, from 13 December to 5 January."
   - pregunta: "Is the Sagrada Família open at Christmas?"
@@ -54,7 +54,7 @@ actividades:
 
 | What | Where | When (2025 edition) | Price |
 | --- | --- | --- | --- |
-| Lights switch-on | Passeig de Gràcia | 22 November, 18:00 | Free |
+| Lights switch-on | Passeig de Gràcia | 26 November 2026, 18:00 | Free |
 | Santa Llúcia market | Avinguda de la Catedral | 28 November – 23 December, 10:00 to 21:00 | Free |
 | Sagrada Família Christmas fair | By the basilica | 22 November – 23 December | Free |
 | Nadal a Sant Jaume (light show) | Plaça Sant Jaume | 22 November – 5 January, from 18:30 | Free |
@@ -65,7 +65,7 @@ actividades:
 | New Year's Eve show | Av. Reina Maria Cristina (Montjuïc) | 31 December, from 22:00 | Free |
 | Three Kings Parade | Ciutadella – Montjuïc | 5 January, 18:00 | Free |
 
-These are the 2025 dates: the 2026 programme comes out in November on barcelona.cat/nadal and we'll update this guide then. In 2026 Barcelona is **European Capital of Christmas**, so expect more events than usual.
+Apart from the switch-on (now confirmed for 26 November 2026), these are the 2025 dates: the 2026 programme comes out in November on barcelona.cat/nadal and we'll update this guide then. In 2026 Barcelona is **European Capital of Christmas**, so expect more events than usual.
 
 ## The lights and the Santa Llúcia market
 

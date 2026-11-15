@@ -4,7 +4,7 @@ descripcion: "Navidad en Madrid 2026: cuándo se encienden las luces, mercadillo
 categoria: "madrid"
 slug: "navidad-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: true
@@ -53,7 +53,7 @@ actividades:
 | Campanadas | Puerta del Sol | 31 de diciembre | Gratis, con aforo |
 | Cabalgata de Reyes | Castellana – Cibeles | 5 de enero, desde las 18:00 | Gratis |
 
-**Confirmado (4 de noviembre de 2026):** el Ayuntamiento enciende las luces el sábado 21 de noviembre con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. La hora del encendido está pendiente de confirmar por el Ayuntamiento. El resto de fechas son las de la última edición hasta que salga el programa de 2026.
+**Confirmado (4 de noviembre de 2026):** el Ayuntamiento enciende las luces el sábado 21 de noviembre con un acto en la plaza de Cibeles, y el alumbrado dura hasta el 6 de enero de 2027. El acto empieza a las 19:30. El resto de fechas son las de la última edición hasta que salga el programa de 2026.
 
 ## Ver las luces
 

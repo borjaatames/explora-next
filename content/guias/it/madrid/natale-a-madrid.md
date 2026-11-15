@@ -4,7 +4,7 @@ descripcion: "Natale a Madrid 2026: quando si accendono le luci, il mercatino di
 categoria: "madrid"
 slug: "natale-a-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: true
@@ -50,7 +50,7 @@ actividades:
 | Rintocchi di Capodanno | Puerta del Sol | 31 dicembre | Gratis, posti limitati |
 | Cabalgata dei Re Magi | Castellana – Cibeles | 5 gennaio, dalle 18:00 | Gratis |
 
-**Confermato (4 novembre 2026):** il Comune accende le luci sabato 21 novembre con un evento in Plaza de Cibeles, e restano accese fino al 6 gennaio 2027. L'orario dell'accensione non è ancora stato annunciato. Le altre date sono dell'ultima edizione finché non esce il programma 2026.
+**Confermato (4 novembre 2026):** il Comune accende le luci sabato 21 novembre con un evento in Plaza de Cibeles, e restano accese fino al 6 gennaio 2027. L'evento inizia alle 19:30. Le altre date sono dell'ultima edizione finché non esce il programma 2026.
 
 ## Vedere le luci
 

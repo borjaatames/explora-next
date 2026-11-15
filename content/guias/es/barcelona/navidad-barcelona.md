@@ -4,7 +4,7 @@ descripcion: "Navidad en Barcelona 2026: Fira de Santa Llúcia, luces en 130 km 
 categoria: "barcelona"
 slug: "navidad-barcelona"
 fecha: "2026-10-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-15"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -31,7 +31,7 @@ reservasArriba: true
 respuestaCorta: 'Barcelona es **Capital Europea de la Navidad 2026** y amplía las luces a **130 km de calles**. Lo imprescindible: la **Fira de Santa Llúcia** frente a la catedral (del 28 de noviembre al 23 de diciembre en 2025), la proyección de la **Plaça Sant Jaume**, las **campanadas gratis ante la Font Màgica de Montjuïc** y la **Cabalgata del 5 de enero** desde las 18:00. Ojo: el **26 de diciembre (Sant Esteve) también es festivo** en Cataluña.'
 faq:
   - pregunta: "¿Cuándo se encienden las luces de Navidad de Barcelona en 2026?"
-    respuesta: "El Ayuntamiento aún no ha fijado el día. En 2025 se encendieron el sábado 22 de noviembre a las 18:00 en el Passeig de Gràcia y lucieron cada tarde de 17:30 a 1:00 (hasta las 2:00 los viernes, sábados, vísperas de festivo, el 25 y 31 de diciembre y el 5 de enero). Para 2026, año en que Barcelona es Capital Europea de la Navidad, la iluminación llega a 130 km de calles."
+    respuesta: "El jueves 26 de noviembre de 2026, con un espectáculo de danza aérea entre las 18:00 y las 18:30 en el Passeig de Gràcia (tramo entre Rosselló y la Diagonal). Lucen hasta el 6 de enero, cada día de 17:30 a 1:00, y hasta las 2:00 los viernes, sábados, el 24, 25 y 31 de diciembre y el 5 de enero. Para 2026, año en que Barcelona es Capital Europea de la Navidad, la iluminación llega a 130 km de calles."
   - pregunta: "¿Hay pesebre en la Plaça Sant Jaume?"
     respuesta: "En 2024 y 2025 no hubo pesebre en la plaza: en su lugar se proyectó un espectáculo de luz sobre las fachadas del Ayuntamiento y la Generalitat, cada tarde desde las 18:30. El pesebre tradicional se trasladó al Pati dels Carruatges del Ayuntamiento, con entrada gratis por la calle Ciutat, del 13 de diciembre al 5 de enero."
   - pregunta: "¿Abre la Sagrada Família en Navidad?"
@@ -54,7 +54,7 @@ actividades:
 
 | Qué | Dónde | Cuándo (edición 2025) | Precio |
 | --- | --- | --- | --- |
-| Encendido de luces | Passeig de Gràcia | 22 de noviembre, 18:00 | Gratis |
+| Encendido de luces | Passeig de Gràcia | 26 de noviembre de 2026, 18:00 | Gratis |
 | Fira de Santa Llúcia | Avinguda de la Catedral | 28 de noviembre – 23 de diciembre, de 10:00 a 21:00 | Gratis |
 | Fira de Nadal de la Sagrada Família | Junto al templo | 22 de noviembre – 23 de diciembre | Gratis |
 | Nadal a Sant Jaume (proyección) | Plaça Sant Jaume | 22 de noviembre – 5 de enero, desde las 18:30 | Gratis |
@@ -65,7 +65,7 @@ actividades:
 | Campanadas | Av. Reina Maria Cristina (Montjuïc) | 31 de diciembre, desde las 22:00 | Gratis |
 | Cabalgata de Reyes | Ciutadella – Montjuïc | 5 de enero, 18:00 | Gratis |
 
-Son las fechas de la edición 2025: el programa de 2026 se publica en noviembre en barcelona.cat/nadal y actualizaremos la guía entonces. En 2026 Barcelona es **Capital Europea de la Navidad**, así que habrá más actos que de costumbre.
+Salvo el encendido (ya confirmado para el 26 de noviembre de 2026), son las fechas de la edición 2025: el programa de 2026 se publica en noviembre en barcelona.cat/nadal y actualizaremos la guía entonces. En 2026 Barcelona es **Capital Europea de la Navidad**, así que habrá más actos que de costumbre.
 
 ## Las luces y la Fira de Santa Llúcia
 

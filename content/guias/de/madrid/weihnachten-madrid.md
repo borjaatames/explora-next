@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Madrid 2026: wann die Lichter angehen, Plaza Mayor,
 categoria: "madrid"
 slug: "weihnachten-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: false
@@ -60,7 +60,7 @@ actividades:
 | Glockenschläge an Silvester | Puerta del Sol | 31. Dezember | Kostenlos, begrenzt |
 | Dreikönigsumzug | Castellana – Cibeles | 5. Januar, ab 18:00 Uhr | Kostenlos |
 
-**Bestätigt (4. November 2026):** Die Stadt schaltet die Lichter am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles ein; die Beleuchtung bleibt bis zum 6. Januar 2027. Die Uhrzeit steht noch nicht fest. Die übrigen Termine stammen aus der letzten Ausgabe, bis das Programm für 2026 erscheint.
+**Bestätigt (4. November 2026):** Die Stadt schaltet die Lichter am Samstag, 21. November, mit einer Feier auf der Plaza de Cibeles ein; die Beleuchtung bleibt bis zum 6. Januar 2027. Die Feier beginnt um 19:30 Uhr. Die übrigen Termine stammen aus der letzten Ausgabe, bis das Programm für 2026 erscheint.
 
 ## Die Lichter sehen
 

@@ -4,7 +4,7 @@ descripcion: "Natal em Madrid 2026: quando se acendem as luzes, o mercado da Pla
 categoria: "madrid"
 slug: "natal-em-madrid"
 fecha: "2026-08-30"
-fecha_actualizacion: "2026-10-25"
+fecha_actualizacion: "2026-11-15"
 autor: Borja
 publicada: true
 destacada: true
@@ -50,7 +50,7 @@ actividades:
 | Badaladas da passagem de ano | Puerta del Sol | 31 de dezembro | Gratuito, lotação limitada |
 | Cavalgada dos Reis Magos | Castellana – Cibeles | 5 de janeiro, a partir das 18h00 | Gratuito |
 
-**Confirmado (4 de novembro de 2026):** a Câmara acende as luzes no sábado, 21 de novembro, com um evento na Plaza de Cibeles, e ficam acesas até 6 de janeiro de 2027. A hora do acendimento ainda não foi anunciada. As restantes datas são da última edição até sair o programa de 2026.
+**Confirmado (4 de novembro de 2026):** a Câmara acende as luzes no sábado, 21 de novembro, com um evento na Plaza de Cibeles, e ficam acesas até 6 de janeiro de 2027. O evento começa às 19:30. As restantes datas são da última edição até sair o programa de 2026.
 
 ## Ver as luzes
 

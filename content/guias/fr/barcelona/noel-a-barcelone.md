@@ -4,7 +4,7 @@ descripcion: "Noël à Barcelone 2026 : Fira de Santa Llúcia, illuminations dan
 categoria: "barcelona"
 slug: "noel-a-barcelone"
 fecha: "2026-10-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-15"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -31,7 +31,7 @@ reservasArriba: true
 respuestaCorta: 'Barcelone est **Capitale européenne de Noël 2026** et étend ses illuminations à **130 km de rues**. L''essentiel : la **Fira de Santa Llúcia** devant la cathédrale (du 28 novembre au 23 décembre en 2025), la projection de la **Plaça Sant Jaume**, les **douze coups de minuit gratuits devant la Font Màgica de Montjuïc** et la **cavalcade du 5 janvier** à partir de 18 h. Attention : le **26 décembre (Sant Esteve) est aussi férié** en Catalogne.'
 faq:
   - pregunta: "Quand s'allument les illuminations de Noël de Barcelone en 2026 ?"
-    respuesta: "La mairie n'a pas encore fixé la date. En 2025, elles ont été allumées le samedi 22 novembre à 18 h sur le Passeig de Gràcia et ont brillé chaque soir de 17 h 30 à 1 h (jusqu'à 2 h les vendredis, samedis, veilles de jours fériés, les 25 et 31 décembre et le 5 janvier). Pour 2026, année où Barcelone est Capitale européenne de Noël, l'éclairage couvre 130 km de rues."
+    respuesta: "Le jeudi 26 novembre 2026, avec un spectacle de danse aérienne entre 18 h et 18 h 30 sur le Passeig de Gràcia (entre Rosselló et la Diagonal). Elles restent allumées jusqu'au 6 janvier, chaque jour de 17 h 30 à 1 h, et jusqu'à 2 h les vendredis, samedis, les 24, 25 et 31 décembre et le 5 janvier. Pour 2026, année où Barcelone est Capitale européenne de Noël, l'éclairage couvre 130 km de rues."
   - pregunta: "Y a-t-il une crèche sur la Plaça Sant Jaume ?"
     respuesta: "En 2024 et 2025, il n'y a pas eu de crèche sur la place : à la place, un spectacle de lumière a été projeté sur les façades de l'hôtel de ville et de la Generalitat, chaque soir à partir de 18 h 30. La crèche traditionnelle a été déplacée dans le Pati dels Carruatges de l'hôtel de ville, avec entrée gratuite par la rue Ciutat, du 13 décembre au 5 janvier."
   - pregunta: "La Sagrada Família est-elle ouverte à Noël ?"
@@ -54,7 +54,7 @@ actividades:
 
 | Quoi | Où | Quand (édition 2025) | Prix |
 | --- | --- | --- | --- |
-| Allumage des illuminations | Passeig de Gràcia | 22 novembre, 18 h | Gratuit |
+| Allumage des illuminations | Passeig de Gràcia | 26 novembre 2026, 18 h | Gratuit |
 | Fira de Santa Llúcia | Avinguda de la Catedral | 28 novembre – 23 décembre, de 10 h à 21 h | Gratuit |
 | Fira de Nadal de la Sagrada Família | À côté de la basilique | 22 novembre – 23 décembre | Gratuit |
 | Nadal a Sant Jaume (projection) | Plaça Sant Jaume | 22 novembre – 5 janvier, à partir de 18 h 30 | Gratuit |
@@ -65,7 +65,7 @@ actividades:
 | Douze coups de minuit | Av. Reina Maria Cristina (Montjuïc) | 31 décembre, à partir de 22 h | Gratuit |
 | Cavalcade des Rois mages | Ciutadella – Montjuïc | 5 janvier, 18 h | Gratuit |
 
-Ce sont les dates de l'édition 2025 : le programme 2026 est publié en novembre sur barcelona.cat/nadal et nous mettrons alors le guide à jour. En 2026, Barcelone est **Capitale européenne de Noël**, il y aura donc plus d'événements que d'habitude.
+Sauf l'allumage (confirmé pour le 26 novembre 2026), ce sont les dates de l'édition 2025 : le programme 2026 est publié en novembre sur barcelona.cat/nadal et nous mettrons alors le guide à jour. En 2026, Barcelone est **Capitale européenne de Noël**, il y aura donc plus d'événements que d'habitude.
 
 ## Les illuminations et la Fira de Santa Llúcia
 

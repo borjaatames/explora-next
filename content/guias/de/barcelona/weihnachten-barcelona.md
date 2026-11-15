@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Barcelona 2026: Markt Santa Llúcia, Lichter auf 13
 categoria: "barcelona"
 slug: "weihnachten-barcelona"
 fecha: "2026-10-01"
-fecha_actualizacion: "2026-10-23"
+fecha_actualizacion: "2026-11-15"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -31,7 +31,7 @@ reservasArriba: true
 respuestaCorta: "Barcelona ist **Europäische Weihnachtshauptstadt 2026** und beleuchtet **130 km Straßen**. Das Wichtigste: der **Weihnachtsmarkt Santa Llúcia** vor der Kathedrale (2025 vom 28. November bis 23. Dezember), die Lichtprojektion auf der **Plaça Sant Jaume**, die **kostenlose Silvestershow am Magischen Brunnen des Montjuïc** und der **Dreikönigsumzug am 5. Januar** ab 18:00 Uhr. Achtung: Der **26. Dezember (Sant Esteve) ist in Katalonien ebenfalls Feiertag**."
 faq:
   - pregunta: "Wann gehen die Weihnachtslichter in Barcelona 2026 an?"
-    respuesta: "Das Datum steht noch nicht fest. 2025 wurden sie am Samstag, 22. November, um 18:00 Uhr am Passeig de Gràcia eingeschaltet und leuchteten täglich von 17:30 bis 1:00 Uhr (freitags, samstags, vor Feiertagen, am 25. und 31. Dezember und am 5. Januar bis 2:00 Uhr). 2026, im Jahr als Europäische Weihnachtshauptstadt, reicht die Beleuchtung über 130 km Straßen."
+    respuesta: "Am Donnerstag, 26. November 2026, mit einer Luftakrobatik-Show zwischen 18:00 und 18:30 Uhr am Passeig de Gràcia (zwischen Rosselló und der Diagonal). Sie leuchten bis zum 6. Januar, täglich von 17:30 bis 1:00 Uhr, freitags, samstags, am 24., 25. und 31. Dezember und am 5. Januar bis 2:00 Uhr. 2026, im Jahr als Europäische Weihnachtshauptstadt, reicht die Beleuchtung über 130 km Straßen."
   - pregunta: "Gibt es eine Krippe auf der Plaça Sant Jaume?"
     respuesta: "2024 und 2025 nicht: Stattdessen lief jeden Abend ab 18:30 Uhr eine Lichtprojektion auf den Fassaden von Rathaus und Generalitat. Die traditionelle Krippe steht seitdem im Innenhof des Rathauses, dem Pati dels Carruatges, mit freiem Eintritt über die Carrer de la Ciutat, vom 13. Dezember bis 5. Januar."
   - pregunta: "Hat die Sagrada Família an Weihnachten geöffnet?"
@@ -54,7 +54,7 @@ actividades:
 
 | Was | Wo | Wann (Ausgabe 2025) | Preis |
 | --- | --- | --- | --- |
-| Einschalten der Lichter | Passeig de Gràcia | 22. November, 18:00 Uhr | Kostenlos |
+| Einschalten der Lichter | Passeig de Gràcia | 26. November 2026, 18:00 Uhr | Kostenlos |
 | Weihnachtsmarkt Santa Llúcia | Avinguda de la Catedral | 28. November – 23. Dezember, 10:00–21:00 Uhr | Kostenlos |
 | Weihnachtsmarkt Sagrada Família | Neben der Basilika | 22. November – 23. Dezember | Kostenlos |
 | Nadal a Sant Jaume (Projektion) | Plaça Sant Jaume | 22. November – 5. Januar, ab 18:30 Uhr | Kostenlos |
@@ -65,7 +65,7 @@ actividades:
 | Silvestershow | Av. Reina Maria Cristina (Montjuïc) | 31. Dezember, ab 22:00 Uhr | Kostenlos |
 | Dreikönigsumzug | Ciutadella – Montjuïc | 5. Januar, 18:00 Uhr | Kostenlos |
 
-Das sind die Termine von 2025: Das Programm 2026 erscheint im November auf barcelona.cat/nadal, dann aktualisieren wir den Artikel. 2026 ist Barcelona **Europäische Weihnachtshauptstadt**, es dürfte also mehr los sein als sonst.
+Bis auf das Einschalten der Lichter (bestätigt für den 26. November 2026) sind das die Termine von 2025: Das Programm 2026 erscheint im November auf barcelona.cat/nadal, dann aktualisieren wir den Artikel. 2026 ist Barcelona **Europäische Weihnachtshauptstadt**, es dürfte also mehr los sein als sonst.
 
 ## Die Lichter und der Markt Santa Llúcia
 
