@@ -1,0 +1,5 @@
+content/actividades/es/granada/alhambra-palacios-nazaries-tour-privado-sin-colas.md
+content/actividades/en/granada/alhambra-nasrid-palaces-private-tour-skip-the-line.md
+content/actividades/it/granada/alhambra-palazzi-nasridi-tour-privato-salta-fila.md
+content/actividades/fr/granada/alhambra-palais-nasrides-visite-privee-coupe-file.md
+content/actividades/pt/granada/alhambra-palacios-nasridas-tour-privado-sem-filas.md

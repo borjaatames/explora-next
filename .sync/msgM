@@ -1,0 +1,9 @@
+Guias: se recupera la opcion barata junto a la del idioma
+
+En las 99 filas donde la actividad con guia en el idioma de la guia sale bastante
+mas cara (mas de un 30 % y 15 EUR), se vuelve a poner tambien la opcion barata de
+antes, debajo, avisando en que idiomas es el guia (p. ej. "nur auf Spanisch und
+Englisch", "uniquement en espagnol").
+
+Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01C5WWQ86P5Ny4WUeJAWRgxD

@@ -839,6 +839,178 @@
     "1381571": {
       "locationId": "190629",
       "nombre": "Casa Milà - La Pedrera"
+    },
+    "71537": {
+      "locationId": "244937",
+      "nombre": "Los Tarantos"
+    },
+    "106810": {
+      "locationId": "190637",
+      "nombre": "Fundació Joan Miró"
+    },
+    "141510": {
+      "locationId": "531598",
+      "nombre": "Casa Vicens Gaudí"
+    },
+    "286115": {
+      "locationId": "670599",
+      "nombre": "Aqualandia"
+    },
+    "378449": {
+      "locationId": "10459206",
+      "nombre": "ArticketBCN"
+    },
+    "406467": {
+      "locationId": "23717043",
+      "nombre": "Moco Museum Barcelona"
+    },
+    "409412": {
+      "locationId": "18496715",
+      "nombre": "Tours For Today Barcelona"
+    },
+    "414977": {
+      "locationId": "21233891",
+      "nombre": "Actividades Torrevieja"
+    },
+    "415490": {
+      "locationId": "21233891",
+      "nombre": "Actividades Torrevieja"
+    },
+    "462292": {
+      "locationId": "4283984",
+      "nombre": "Siesta Advisor"
+    },
+    "524767": {
+      "locationId": "3895704",
+      "nombre": "Las Ventas Tour"
+    },
+    "961828": {
+      "locationId": "32864492",
+      "nombre": "Teatro Flamenco Barcelona"
+    },
+    "1119746": {
+      "locationId": "17821129",
+      "nombre": "Capitán Kayak"
+    },
+    "229942": {
+      "locationId": "190824",
+      "nombre": "Palau de la Música Catalana"
+    },
+    "1065236": {
+      "locationId": "2186487",
+      "nombre": "Huerto del Cura"
+    },
+    "121755": {
+      "locationId": "244194",
+      "nombre": "Casa Amatller"
+    },
+    "384541": {
+      "locationId": "3221225",
+      "nombre": "Castillo de Almodóvar del Río"
+    },
+    "454886": {
+      "locationId": "3265566",
+      "nombre": "Caballerizas Reales de Córdoba"
+    },
+    "871673": {
+      "locationId": "33004727",
+      "nombre": "Tablao Flamenco El Pañuelo"
+    },
+    "392790": {
+      "locationId": "243779",
+      "nombre": "Palacio de Viana"
+    },
+    "91839": {
+      "locationId": "1418664",
+      "nombre": "Oasis Wildlife Fuerteventura"
+    },
+    "407669": {
+      "locationId": "244223",
+      "nombre": "Catedral de Girona"
+    },
+    "412981": {
+      "locationId": "1519682",
+      "nombre": "Jardí Botànic Marimurtra"
+    },
+    "258557": {
+      "locationId": "668915",
+      "nombre": "Aqualand Maspalomas"
+    },
+    "407471": {
+      "locationId": "13326315",
+      "nombre": "Poema del Mar"
+    },
+    "962894": {
+      "locationId": "243695",
+      "nombre": "Monasterio de la Cartuja"
+    },
+    "139625": {
+      "locationId": "520932",
+      "nombre": "Real Escuela Andaluza del Arte Ecuestre"
+    },
+    "46763": {
+      "locationId": "520932",
+      "nombre": "Real Escuela Andaluza del Arte Ecuestre"
+    },
+    "482771": {
+      "locationId": "26312454",
+      "nombre": "Tablao Flamenco La Guarida del Ángel"
+    },
+    "887437": {
+      "locationId": "6609133",
+      "nombre": "Tablao Flamenco Puro Arte"
+    },
+    "684473": {
+      "locationId": "1799408",
+      "nombre": "Museo LagOmar"
+    },
+    "393230": {
+      "locationId": "190146",
+      "nombre": "Palacio Real de Madrid"
+    },
+    "198766": {
+      "locationId": "12871899",
+      "nombre": "Teatro Flamenco Madrid"
+    },
+    "496528": {
+      "locationId": "754039",
+      "nombre": "Bioparc Fuengirola"
+    },
+    "211791": {
+      "locationId": "7896329",
+      "nombre": "Centre Pompidou Málaga"
+    },
+    "407072": {
+      "locationId": "23525503",
+      "nombre": "Alegría Flamenco y Gastronomía"
+    },
+    "558267": {
+      "locationId": "27083316",
+      "nombre": "Teatro Flamenco Málaga"
+    },
+    "402242": {
+      "locationId": "2306190",
+      "nombre": "Teleférico Benalmádena"
+    },
+    "325648": {
+      "locationId": "651097",
+      "nombre": "Jardines de Alfabia"
+    },
+    "408302": {
+      "locationId": "25432871",
+      "nombre": "Palacio Real de la Almudaina"
+    },
+    "653681": {
+      "locationId": "27174314",
+      "nombre": "Tablao Flamenco Alma"
+    },
+    "399540": {
+      "locationId": "2316369",
+      "nombre": "Parc Samà"
+    },
+    "258837": {
+      "locationId": "669121",
+      "nombre": "Jungle Park Tenerife"
     }
   }
 }

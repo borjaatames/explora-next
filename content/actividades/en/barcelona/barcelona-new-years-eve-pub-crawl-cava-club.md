@@ -1,8 +1,8 @@
 ---
-titulo: "New Year's Eve in Barcelona: Pub Crawl, Cava and Club"
+titulo: "New Year's Eve in Barcelona: Hosted Bar Route"
 slug: barcelona-new-years-eve-pub-crawl-cava-club
 ciudad: barcelona
-descripcion: "Hosted New Year's Eve through bars in central Barcelona, a cava toast at midnight and VIP entry to one of the city's top clubs. 31 December only. 18+. From €39.20."
+descripcion: "Hosted New Year's Eve bar route in Barcelona with an international group, metro ticket included. The club is confirmed on the day and its ticket (€15-20) is bought separately. 31 December only. 18+. From €15."
 slugs:
   es: barcelona-nochevieja-ruta-bares-cava-discoteca
   en: barcelona-new-years-eve-pub-crawl-cava-club
@@ -10,7 +10,7 @@ slugs:
   pt: barcelona-passagem-de-ano-roteiro-bares-cava-discoteca
 duracion: "3 hours"
 duracionMinutos: 180
-precioDesde: 39.2
+precioDesde: 15
 moneda: EUR
 idiomas:
 - es
@@ -23,18 +23,18 @@ urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Hosted bar crawl in central Barcelona on 31 December"
-- "Glass of cava at midnight"
-- "Skip-the-line VIP entry to a Barcelona club"
+- "Hosted bar route in Barcelona on the night of 31 December"
 - "International crowd, so you don't spend New Year's Eve alone"
+- "Metro ticket included"
+- "Ends at a club: confirmed on the day, ticket bought through the link they send"
 incluye:
-- "Wristband for the night"
-- "Access to the hosted events"
-- "Glass of cava at midnight"
-- "Skip-the-line entry to the final club"
-- "Photos during the night"
+- "Your spot in the group for the night"
+- "Hosted bar route with hosts all night"
+- "Metro ticket"
+- "Link to buy the club ticket, sent on the day"
 noIncluye:
-- "Other drinks"
+- "Club ticket (usually €15-20, through the link sent on the day)"
+- "Drinks"
 - "Personal purchases"
 - "Club cloakroom"
 puntoEncuentro:
@@ -45,22 +45,27 @@ puntoEncuentro:
 informacionImportante:
   aTenerEnCuenta:
   - "31 December only, from 22:00"
+  - "The bars on the route are confirmed in early December"
+  - "The club depends on how many people join: it's confirmed on the day"
+  - "International crowd; usually chart hits, reggaeton and pop"
   - "18+ only, with physical ID"
   - "Club dress code: smart casual, no sportswear or flip-flops"
-  - "Club entry follows each venue's door policy"
-  - "Hosts speak English, Spanish, French or Portuguese"
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: "Free cancellation up to 24 hours before."
-opinionEditorial: "For anyone in Barcelona on New Year's Eve without a plan: it sorts out midnight with cava, bars and a club with no queue, which is the hardest part that night. Book early: it's a single date and it fills up."
+opinionEditorial: "For anyone in Barcelona on New Year's Eve without a plan who doesn't want to spend it alone: it sorts out the night with an international group and hosts. Bear in mind that the club ticket and drinks are paid separately."
 preguntasFrecuentes:
 - pregunta: "What day is it?"
   respuesta: "31 December only, starting at 22:00."
 - pregunta: "What's included?"
-  respuesta: "Wristband, hosted events, a glass of cava at midnight and VIP club entry. Other drinks are paid separately."
+  respuesta: "Your spot in the group, the hosted bar route and a metro ticket. Drinks and the club ticket are paid separately."
+- pregunta: "Which club is it and how much is the ticket?"
+  respuesta: "It depends on how many people join, so it's confirmed on the day. They send you a link to buy the ticket, which usually costs €15-20."
+- pregunta: "What music do they play?"
+  respuesta: "They go to venues with an international crowd, usually playing chart hits, reggaeton and pop."
 - pregunta: "Where do we meet?"
   respuesta: "The meeting point is sent in the WhatsApp group after booking."
 - pregunta: "Is there a minimum age?"

@@ -1,0 +1,5 @@
+lib/proveedores.ts
+content/actividades/es/barcelona/sesion-fotos-privada-barcelona-barrio-gotico-born.md
+content/actividades/en/barcelona/private-photo-shoot-barcelona-gothic-quarter-born.md
+content/actividades/es/tenerife/sesion-fotos-playa-atardecer-costa-adeje.md
+content/actividades/en/tenerife/tenerife-beach-sunset-photo-shoot-costa-adeje.md

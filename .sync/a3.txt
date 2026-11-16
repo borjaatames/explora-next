@@ -1,0 +1,2 @@
+audit-imagen-principal: OK, ninguna foto principal repetida.
+exit 0

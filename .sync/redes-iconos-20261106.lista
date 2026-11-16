@@ -1,0 +1,7 @@
+lib/redesSociales.ts
+components/RedesSociales.tsx
+components/layout/Footer.tsx
+app/(es-shell)/(es)/page.tsx
+app/[lang]/(l)/page.tsx
+app/[lang]/(l)/contact/page.tsx
+app/(es-shell)/(es)/contacto/page.tsx

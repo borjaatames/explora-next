@@ -1,8 +1,8 @@
 ---
-titulo: "Passagem de ano em Barcelona: bares, cava e discoteca"
+titulo: "Passagem de ano em Barcelona: roteiro de bares com anfitriões"
 slug: barcelona-passagem-de-ano-roteiro-bares-cava-discoteca
 ciudad: barcelona
-descripcion: "Passagem de ano com anfitriões por bares do centro de Barcelona, brinde com cava à meia-noite e entrada VIP numa das melhores discotecas da cidade. Só a 31 de dezembro. Maiores de 18. Desde 39,20 €."
+descripcion: "Passagem de ano com anfitriões por bares de Barcelona, num grupo internacional e com bilhete de metro. A discoteca confirma-se no próprio dia e a entrada (15-20 €) compra-se à parte. Só a 31 de dezembro. Maiores de 18. Desde 15 €."
 slugs:
   es: barcelona-nochevieja-ruta-bares-cava-discoteca
   en: barcelona-new-years-eve-pub-crawl-cava-club
@@ -10,7 +10,7 @@ slugs:
   pt: barcelona-passagem-de-ano-roteiro-bares-cava-discoteca
 duracion: "3 horas"
 duracionMinutos: 180
-precioDesde: 39.2
+precioDesde: 15
 moneda: EUR
 idiomas:
 - es
@@ -23,18 +23,18 @@ urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Roteiro com anfitriões por bares do centro na noite de 31 de dezembro"
-- "Copo de cava à meia-noite"
-- "Entrada VIP sem filas numa discoteca de Barcelona"
+- "Roteiro com anfitriões por bares de Barcelona na noite de 31 de dezembro"
 - "Grupo internacional para não passar a passagem de ano sozinho"
+- "Bilhete de metro incluído"
+- "Final numa discoteca: confirma-se no próprio dia e a entrada compra-se pelo link enviado"
 incluye:
-- "Pulseira para a noite"
-- "Acesso aos eventos com anfitrião"
-- "Copo de cava à meia-noite"
-- "Entrada sem filas na discoteca final"
-- "Fotos durante a noite"
+- "O teu lugar no grupo para a noite"
+- "Roteiro de bares com anfitriões toda a noite"
+- "Bilhete de metro"
+- "Link para comprar a entrada da discoteca, enviado no próprio dia"
 noIncluye:
-- "Outras bebidas"
+- "Entrada na discoteca (normalmente entre 15 e 20 €, pelo link do dia)"
+- "Bebidas"
 - "Compras pessoais"
 - "Bengaleiro das discotecas"
 puntoEncuentro:
@@ -45,22 +45,27 @@ puntoEncuentro:
 informacionImportante:
   aTenerEnCuenta:
   - "Só a 31 de dezembro, a partir das 22:00"
+  - "Os bares do roteiro confirmam-se no início de dezembro"
+  - "A discoteca depende de quantas pessoas se inscrevem: confirma-se no próprio dia"
+  - "Ambiente internacional; normalmente êxitos do momento, reggaeton e pop"
   - "Só maiores de 18 anos, com documento de identificação físico"
   - "Código de vestuário na discoteca: smart casual, sem roupa desportiva nem chinelos"
-  - "A entrada na discoteca depende da política de cada espaço"
-  - "Anfitriões em português, espanhol, inglês ou francês"
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: "Cancelamento gratuito até 24 horas antes."
-opinionEditorial: "Para quem está em Barcelona na passagem de ano sem plano: resolve a meia-noite com cava, bares e discoteca sem filas, que nessa noite é o mais difícil. Reserve cedo: é uma só data e esgota."
+opinionEditorial: "Para quem está em Barcelona na passagem de ano sem plano e não a quer passar sozinho: resolve a noite com um grupo internacional e anfitriões. Tem em conta que a entrada na discoteca e as bebidas se pagam à parte."
 preguntasFrecuentes:
 - pregunta: "Que dia é?"
   respuesta: "Só a 31 de dezembro, com saída às 22:00."
 - pregunta: "O que inclui?"
-  respuesta: "Pulseira, eventos com anfitrião, um copo de cava à meia-noite e entrada VIP na discoteca. As restantes bebidas pagam-se à parte."
+  respuesta: "O teu lugar no grupo, o roteiro de bares com anfitriões e o bilhete de metro. As bebidas e a entrada na discoteca pagam-se à parte."
+- pregunta: "Que discoteca é e quanto custa a entrada?"
+  respuesta: "Depende de quantas pessoas se inscrevem, por isso confirma-se no próprio dia. Enviam-te um link para comprar a entrada, que costuma custar entre 15 e 20 €."
+- pregunta: "Que música passam?"
+  respuesta: "Vão a espaços de ambiente internacional, normalmente com êxitos do momento, reggaeton e pop."
 - pregunta: "Onde é o encontro?"
   respuesta: "O ponto de encontro é enviado no grupo de WhatsApp depois de reservar."
 - pregunta: "Há idade mínima?"

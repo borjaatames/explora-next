@@ -1,0 +1,10 @@
+fd6249bc39eb9377111a1474b5d68d59  lib/dictionaries/es.json
+236898e319555f2de7b5b905651306e7  lib/dictionaries/en.json
+ae3822f0f24d485fbb2e8116b476ece2  lib/dictionaries/de.json
+c86a748477474c1525c33d7dca200314  lib/dictionaries/fr.json
+eb6f188924c7203870a28d087dd9e96b  lib/dictionaries/it.json
+07b4a9c34cbfa229d6bd5f1c666bd081  lib/dictionaries/pt.json
+3b097df8c7e045328f74f80d39cda843  app/(es-shell)/(es)/guias/page.tsx
+df69752168c89cc1f7e581f4b66ba502  app/(es-shell)/(es)/proveedores/page.tsx
+858a86812ff8e162362bb6b8a2298871  app/[lang]/(l)/partners/page.tsx
+886a02bdad32c58f5bac72d3504400e0  components/proveedores/PaginaProveedores.tsx

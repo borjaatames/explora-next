@@ -4,7 +4,11 @@ import {
   obtenerCiudadesConActividades,
   obtenerListaActividadesPorCiudad,
 } from "@/lib/actividades";
-import { urlActividadesDeCiudad } from "@/lib/i18n/utils";
+import {
+  urlActividadesDeCiudad,
+  urlGuiasDeCiudad,
+  urlIndiceGuias,
+} from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import { rutaIndexable } from "@/lib/i18n/indexacion";
 
@@ -119,6 +123,16 @@ function fechaGuia(g: GuiaListItem): string {
 
 const MAX_NOVEDADES = 20;
 
+/** Idiomas que llms.txt lista guía a guía; los demás, solo con su índice. */
+const IDIOMAS_INDICE: ReadonlyArray<Idioma> = ["es", "en"];
+
+/** Guías por ciudad en llms.txt (el resto se enlaza a la página de la ciudad). */
+const MAX_GUIAS_POR_CIUDAD = 6;
+
+/** Guías que más citan los asistentes: «en un día», «cómo visitar», entradas, «qué elegir». */
+const RE_CLAVE =
+  /(en-un-dia|en-1-dia|in-1-day|in-one-day|como-visitar|how-to-visit|entradas|tickets|que-elegir|which-|que-ver)/;
+
 export function generarLlmsTxt(): string {
   const ciudades = obtenerListaCiudades("es");
   const partes: string[] = [...CABECERA];
@@ -140,7 +154,7 @@ export function generarLlmsTxt(): string {
     );
   }
 
-  const agotadas = SECCIONES.flatMap(({ idioma }) =>
+  const agotadas = IDIOMAS_INDICE.flatMap((idioma) =>
     guiasPublicables(idioma).filter(esGuiaAgotadas)
   );
   if (agotadas.length > 0) {
@@ -166,17 +180,34 @@ export function generarLlmsTxt(): string {
     ""
   );
 
+  // Índice corto: en ES y EN, las guías clave de cada ciudad (solo título);
+  // el resto de idiomas, un enlace a su índice. Todo lo demás, en llms-full.txt.
   for (const { idioma, titulo } of SECCIONES) {
     const guias = guiasPublicables(idioma).filter(
       (g) => !esGuiaAgotadas(g)
     );
     if (guias.length === 0) continue;
+    if (!IDIOMAS_INDICE.includes(idioma)) {
+      partes.push(`## ${titulo}`, "", `- ${SITE_URL}${urlIndiceGuias(idioma)}`, "");
+      continue;
+    }
     partes.push(`## ${titulo}`, "");
     for (const [ciudad, lista] of agruparPorCiudad(guias, idioma)) {
+      const clave = [...lista]
+        .sort(
+          (a, b) =>
+            Number(RE_CLAVE.test(b.slug)) - Number(RE_CLAVE.test(a.slug)) ||
+            fechaGuia(b).localeCompare(fechaGuia(a))
+        )
+        .slice(0, MAX_GUIAS_POR_CIUDAD);
+      const resto = lista.length - clave.length;
       partes.push(
         `### ${ciudad}`,
         "",
-        ...lista.map((g) => enlace(g.titulo, g.url, g.descripcion)),
+        ...clave.map((g) => enlace(g.titulo, g.url)),
+        ...(resto > 0
+          ? [`- +${resto}: ${SITE_URL}${urlGuiasDeCiudad(idioma, lista[0].categoria)}`]
+          : []),
         ""
       );
     }

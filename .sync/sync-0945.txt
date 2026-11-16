@@ -1,0 +1,7 @@
+content/actividades/de/tenerife/teide-sonnenuntergang-sterne-abendessen.md
+content/actividades/en/malaga/malaga-private-tuk-tuk-tour-gibralfaro.md
+content/actividades/en/tenerife/teide-sunset-stargazing-dinner-pickup.md
+content/actividades/es/malaga/malaga-tuk-tuk-privado-gibralfaro.md
+content/actividades/fr/tenerife/teide-coucher-soleil-etoiles-diner.md
+content/actividades/it/malaga/malaga-tuk-tuk-privato-gibralfaro.md
+content/actividades/it/tenerife/teide-tramonto-stelle-cena.md

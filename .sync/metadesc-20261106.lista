@@ -1,0 +1,10 @@
+lib/dictionaries/es.json
+lib/dictionaries/en.json
+lib/dictionaries/de.json
+lib/dictionaries/fr.json
+lib/dictionaries/it.json
+lib/dictionaries/pt.json
+app/(es-shell)/(es)/guias/page.tsx
+app/(es-shell)/(es)/proveedores/page.tsx
+app/[lang]/(l)/partners/page.tsx
+components/proveedores/PaginaProveedores.tsx

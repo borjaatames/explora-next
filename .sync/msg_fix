@@ -1,0 +1,10 @@
+Fix fichas canarias: highlight con dos puntos y guia ES
+
+El despliegue 5467e2e fallo al prerenderizar la ficha ES de Las Palmas:
+un highlight "Los pueblos del norte: Arucas..." lo parseaba YAML como
+objeto y React no puede renderizar un objeto como hijo. Reescrito sin
+dos puntos. Ademas, en las dos fichas ES guiasRelacionadas apuntaba al
+slug ingles de la guia; corregido a que-ver-en-gran-canaria. Controles OK.
+
+Co-Authored-By: Claude Opus 4.8 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01C5WWQ84hsi3DcdEmNaqUpy

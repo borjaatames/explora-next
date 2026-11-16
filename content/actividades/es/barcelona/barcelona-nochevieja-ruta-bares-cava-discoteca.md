@@ -1,8 +1,8 @@
 ---
-titulo: "Nochevieja en Barcelona: ruta de bares, cava y discoteca"
+titulo: "Nochevieja en Barcelona: ruta de bares con anfitriones"
 slug: barcelona-nochevieja-ruta-bares-cava-discoteca
 ciudad: barcelona
-descripcion: "Nochevieja con anfitriones por bares del centro de Barcelona, brindis con cava a medianoche y entrada VIP a una de las mejores discotecas de la ciudad. Solo el 31 de diciembre. Mayores de 18. Desde 39,20 €."
+descripcion: "Nochevieja con anfitriones por bares de Barcelona en un grupo internacional, con billete de metro. La discoteca se confirma el mismo día y su entrada (15-20 €) se compra aparte. Solo el 31 de diciembre. Mayores de 18. Desde 15 €."
 slugs:
   es: barcelona-nochevieja-ruta-bares-cava-discoteca
   en: barcelona-new-years-eve-pub-crawl-cava-club
@@ -10,7 +10,7 @@ slugs:
   pt: barcelona-passagem-de-ano-roteiro-bares-cava-discoteca
 duracion: "3 horas"
 duracionMinutos: 180
-precioDesde: 39.2
+precioDesde: 15
 moneda: EUR
 idiomas:
 - es
@@ -23,18 +23,18 @@ urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 highlights:
-- "Ruta con anfitriones por bares del centro la noche del 31 de diciembre"
-- "Copa de cava a medianoche"
-- "Entrada VIP sin colas a una discoteca de Barcelona"
+- "Ruta con anfitriones por bares de Barcelona la noche del 31 de diciembre"
 - "Grupo internacional para no pasar la Nochevieja solo"
+- "Billete de metro incluido"
+- "Final en discoteca: se confirma el mismo día y la entrada se compra con el enlace que mandan"
 incluye:
-- "Pulsera para la noche"
-- "Acceso a los eventos con anfitrión"
-- "Copa de cava a medianoche"
-- "Entrada sin colas a la discoteca final"
-- "Fotos durante la noche"
+- "Tu plaza en el grupo para la noche"
+- "Ruta de bares con anfitriones toda la noche"
+- "Billete de metro"
+- "Enlace para comprar la entrada de la discoteca, enviado el mismo día"
 noIncluye:
-- "Otras bebidas"
+- "Entrada a la discoteca (normalmente entre 15 y 20 €, con el enlace del día)"
+- "Bebidas"
 - "Compras personales"
 - "Guardarropa de las discotecas"
 puntoEncuentro:
@@ -45,22 +45,27 @@ puntoEncuentro:
 informacionImportante:
   aTenerEnCuenta:
   - "Solo el 31 de diciembre, desde las 22:00"
+  - "Los bares de la ruta se confirman a principios de diciembre"
+  - "La discoteca depende de cuánta gente se apunte: se confirma el mismo día"
+  - "Ambiente internacional; normalmente música comercial, reguetón y pop"
   - "Solo mayores de 18 años, con documento de identidad físico"
   - "Vestimenta en discoteca: smart casual, sin ropa deportiva ni chanclas"
-  - "La entrada a la discoteca depende de la política de cada local"
-  - "Anfitriones en español, inglés, francés o portugués"
 detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes."
-opinionEditorial: "Para quien está en Barcelona en Nochevieja sin plan: resuelve las campanadas con cava, bares y discoteca sin colas, que esa noche es lo más difícil. Reserva pronto: es una sola fecha y se llena."
+opinionEditorial: "Para quien está en Barcelona en Nochevieja sin plan y no quiere pasarla solo: resuelve la noche con un grupo internacional y anfitriones. Ten en cuenta que la entrada a la discoteca y las bebidas se pagan aparte."
 preguntasFrecuentes:
 - pregunta: "¿Qué día es?"
   respuesta: "Solo el 31 de diciembre, con salida a las 22:00."
 - pregunta: "¿Qué incluye?"
-  respuesta: "Pulsera, eventos con anfitrión, una copa de cava a medianoche y entrada VIP a la discoteca. El resto de bebidas se paga aparte."
+  respuesta: "Tu plaza en el grupo, la ruta de bares con anfitriones y el billete de metro. Las bebidas y la entrada a la discoteca se pagan aparte."
+- pregunta: "¿Qué discoteca es y cuánto cuesta la entrada?"
+  respuesta: "Depende de cuánta gente se apunte, así que se confirma el mismo día. Te mandan un enlace para comprar la entrada, que suele costar entre 15 y 20 €."
+- pregunta: "¿Qué música ponen?"
+  respuesta: "Van a locales de ambiente internacional, normalmente con éxitos del momento, reguetón y pop."
 - pregunta: "¿Dónde se queda?"
   respuesta: "El punto de encuentro se manda por el grupo de WhatsApp tras reservar."
 - pregunta: "¿Hay edad mínima?"

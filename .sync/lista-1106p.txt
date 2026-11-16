@@ -1,0 +1,16 @@
+content/actividades/de/gran-canaria/palmitos-park-tickets.md
+content/actividades/en/gran-canaria/palmitos-park-gran-canaria-ticket.md
+content/actividades/es/gran-canaria/palmitos-park-gran-canaria-entrada.md
+content/actividades/fr/gran-canaria/palmitos-park-gran-canaria-billet.md
+content/actividades/it/gran-canaria/palmitos-park-gran-canaria-biglietto.md
+content/actividades/pt/gran-canaria/gran-canaria-palmitos-park-bilhete.md
+public/images/actividades/gran-canaria/palmitos-park/acuario-pez-cirujano.webp
+public/images/actividades/gran-canaria/palmitos-park/dragon-komodo.webp
+public/images/actividades/gran-canaria/palmitos-park/inseparable.webp
+public/images/actividades/gran-canaria/palmitos-park/jardin-cactus.webp
+public/images/actividades/gran-canaria/palmitos-park/lemures.webp
+public/images/actividades/gran-canaria/palmitos-park/mara.webp
+public/images/actividades/gran-canaria/palmitos-park/mariposa.webp
+public/images/actividades/gran-canaria/palmitos-park/pavo-real.webp
+public/images/actividades/gran-canaria/palmitos-park/tortuga-mora.webp
+public/images/actividades/gran-canaria/palmitos-park/CREDITOS.md

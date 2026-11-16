@@ -1,0 +1,40 @@
+[audit-parejas] iniciando…
+
+[audit-parejas] actividades: 1985 .md analizados
+
+[audit-parejas] guías: 335 .md analizados
+
+[audit-parejas] 30 ficha(s) single-language detectada(s):
+  · content/actividades/es/granada/alhambra-visita-guiada-premium-grupo-reducido-entradas.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/burgos-huellas-del-cid-excursion-desde-madrid.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/cuenca-casas-colgadas-tour-privado-desde-madrid.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/rioja-marques-de-riscal-ysios-laguardia-desde-madrid.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/ruta-tapas-nocturna-madrid.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/segovia-la-granja-grupo-reducido-desde-madrid.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/tour-bodegas-madrid-cata-vino.md — single-language es (no declara slugs.en).
+  · content/actividades/es/madrid/tour-tapas-vino-atardecer-azotea.md — single-language es (no declara slugs.en).
+  · content/actividades/en/barcelona/barcelona-blind-wine-tasting-game-unlimited-sangria.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/barcelona-gaudi-walking-tour-english.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/barcelona-gothic-quarter-walking-tour-english.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/barcelona-street-art-graffiti-walking-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/dali-museum-house-portlligat-cadaques-small-group-from-barcelona.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/picasso-walking-tour-and-guided-museum-experience.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/ramblas-old-town-and-gaudi-houses-walking-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/barcelona/small-group-walking-tour-gothic-and-gaudi-gems.md — single-language en (no declara slugs.es).
+  · content/actividades/en/cadiz/cadiz-highlights-private-walking-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/granada/gourmet-tapas-wine-tour-granada.md — single-language en (no declara slugs.es).
+  · content/actividades/en/madrid/madrid-private-tapas-tour-la-latina.md — single-language en (no declara slugs.es).
+  · content/actividades/en/madrid/madrid-welcome-walking-tour-history-guide.md — single-language en (no declara slugs.es).
+  · content/actividades/en/madrid/thyssen-museum-small-group-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-alcazar-cathedral-giralda-skip-the-line-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-alcazar-small-group-guided-tour-premium.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-cathedral-giralda-guided-tour-priority-access.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-paella-sangria-experience-showcooking.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-spanish-cooking-class-dinner-triana-market.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-tapas-crawl-small-group-3h.md — single-language en (no declara slugs.es).
+  · content/actividades/en/sevilla/seville-tastes-tapas-traditions-ultimate-food-tour.md — single-language en (no declara slugs.es).
+  · content/actividades/en/tenerife/teide-sunset-stargazing-dinner-pickup.md — single-language en (no declara slugs.es).
+  · content/guias/es/madrid/tapas-madrid-que-tour-elegir.md — single-language es (no declara slugs.en).
+
+[audit-parejas] ✅ todas las parejas son consistentes.
+exit 0

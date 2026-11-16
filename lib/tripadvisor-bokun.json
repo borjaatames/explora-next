@@ -1,5 +1,5 @@
 {
- "_fuente": "Bókun (widgets activity.tripadvisorReview), 22 oct 2026. Regenerar con los datos de Bókun; no editar a mano. Ampliado el 25 oct 2026 con las fichas Bókun del 24 oct.",
+ "_fuente": "Bókun (widgets activity.tripadvisorReview), 22 oct 2026. Regenerar con los datos de Bókun; no editar a mano. Ampliado el 25 oct 2026 con las fichas Bókun del 24 oct. Ampliado el 15 nov 2026 con 33 productos más (solo los que pasan el filtro 4,5+ y 10+ opiniones).",
  "productos": {
   "65519": {
    "locationId": "1603406",
@@ -1026,6 +1026,342 @@
    "nombre": "Tour of the Mills of Quixote de la Mancha and Toledo",
    "rating": 4.9,
    "opiniones": 249
+  },
+  "71046": {
+   "locationId": "7763839",
+   "nombre": "Barcelona Local Experiences",
+   "rating": 4.9,
+   "opiniones": 18142,
+   "ranking": {
+    "posicion": 13,
+    "total": 608,
+    "categoria": "Food & Drink",
+    "lugar": "Barcelona"
+   }
+  },
+  "396286": {
+   "locationId": "17459105",
+   "nombre": "Visit in Spanish to the Cathedral Mosque. Does not include entrance ticket",
+   "rating": 5.0,
+   "opiniones": 192
+  },
+  "396288": {
+   "locationId": "19499918",
+   "nombre": "Visit Mosque-Cathedral, Jewry, Synagogue, Alcazar Gardens",
+   "rating": 5.0,
+   "opiniones": 67
+  },
+  "396289": {
+   "locationId": "19499917",
+   "nombre": "Private Tour of Mosque-Cathedral, Jewry, Synagogue and Baths Calif",
+   "rating": 4.9,
+   "opiniones": 272
+  },
+  "396290": {
+   "locationId": "19843686",
+   "nombre": "Guided tour of Medina Azahara in Spanish with Bus. Official Guides",
+   "rating": 5.0,
+   "opiniones": 63
+  },
+  "396291": {
+   "locationId": "19843688",
+   "nombre": "Guided tour of Medina Azahara in Spanish without Bus. Official Guides",
+   "rating": 4.8,
+   "opiniones": 30
+  },
+  "578002": {
+   "locationId": "7913394",
+   "nombre": "Barcelona Watersports",
+   "rating": 4.9,
+   "opiniones": 299,
+   "ranking": {
+    "posicion": 17,
+    "total": 351,
+    "categoria": "Boat Tours & Water Sports",
+    "lugar": "Barcelona"
+   }
+  },
+  "603967": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "603968": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "603969": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "603970": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "603972": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "603975": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "638570": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "638577": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "698893": {
+   "locationId": "23808436",
+   "nombre": "Tenerife Stars",
+   "rating": 4.7,
+   "opiniones": 1628,
+   "ranking": {
+    "posicion": 127,
+    "total": 1122,
+    "categoria": "Outdoor Activities",
+    "lugar": "Tenerife"
+   }
+  },
+  "810974": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "827441": {
+   "locationId": "27000399",
+   "nombre": "Yannat.com Madrid",
+   "rating": 5.0,
+   "opiniones": 75,
+   "ranking": {
+    "posicion": 21,
+    "total": 344,
+    "categoria": "Outdoor Activities",
+    "lugar": "Madrid"
+   }
+  },
+  "857523": {
+   "locationId": "27534278",
+   "nombre": "Wonders of Gaudi: Park Guell & Sagrada Familia Private Tour",
+   "rating": 5.0,
+   "opiniones": 64
+  },
+  "860154": {
+   "locationId": "27109681",
+   "nombre": "Sagrada Familia Private Guided Tour",
+   "rating": 5.0,
+   "opiniones": 17
+  },
+  "860686": {
+   "locationId": "27116702",
+   "nombre": "Toledo Private Day Trip From Madrid",
+   "rating": 5.0,
+   "opiniones": 21
+  },
+  "867532": {
+   "locationId": "27735585",
+   "nombre": "Medieval Toledo Private Tour",
+   "rating": 5.0,
+   "opiniones": 21
+  },
+  "922307": {
+   "locationId": "28649201",
+   "nombre": "Gibraltar Private Tour From Marbella",
+   "rating": 4.9,
+   "opiniones": 24
+  },
+  "936373": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 679,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "936424": {
+   "locationId": "4875933",
+   "nombre": "Andalucia Experiencias",
+   "rating": 4.7,
+   "opiniones": 298,
+   "ranking": {
+    "posicion": 76,
+    "total": 679,
+    "categoria": "Tours",
+    "lugar": "Seville"
+   }
+  },
+  "1104439": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "1168355": {
+   "locationId": "20932468",
+   "nombre": "Sevilla Guias & Tours",
+   "rating": 4.9,
+   "opiniones": 537,
+   "ranking": {
+    "posicion": 5,
+    "total": 105,
+    "categoria": "Classes & Workshops",
+    "lugar": "Seville"
+   }
+  },
+  "1210192": {
+   "locationId": "32838105",
+   "nombre": "Los Patos Barcelona",
+   "rating": 5.0,
+   "opiniones": 223,
+   "ranking": {
+    "posicion": 4,
+    "total": 684,
+    "categoria": "Nightlife",
+    "lugar": "Barcelona"
+   }
+  },
+  "1247649": {
+   "locationId": "32838105",
+   "nombre": "Los Patos Barcelona",
+   "rating": 5.0,
+   "opiniones": 223,
+   "ranking": {
+    "posicion": 4,
+    "total": 684,
+    "categoria": "Nightlife",
+    "lugar": "Barcelona"
+   }
+  },
+  "1280846": {
+   "locationId": "13485155",
+   "nombre": "Bodega Es Fangar Vins",
+   "rating": 4.9,
+   "opiniones": 49,
+   "ranking": {
+    "posicion": 1,
+    "total": 2,
+    "categoria": "Food & Drink",
+    "lugar": "Felanitx"
+   }
+  },
+  "1280888": {
+   "locationId": "13485155",
+   "nombre": "Bodega Es Fangar Vins",
+   "rating": 4.9,
+   "opiniones": 49,
+   "ranking": {
+    "posicion": 1,
+    "total": 2,
+    "categoria": "Food & Drink",
+    "lugar": "Felanitx"
+   }
+  },
+  "1280908": {
+   "locationId": "13485155",
+   "nombre": "Bodega Es Fangar Vins",
+   "rating": 4.9,
+   "opiniones": 49,
+   "ranking": {
+    "posicion": 1,
+    "total": 2,
+    "categoria": "Food & Drink",
+    "lugar": "Felanitx"
+   }
+  },
+  "1322210": {
+   "locationId": "32838105",
+   "nombre": "Los Patos Barcelona",
+   "rating": 5.0,
+   "opiniones": 223,
+   "ranking": {
+    "posicion": 4,
+    "total": 684,
+    "categoria": "Nightlife",
+    "lugar": "Barcelona"
+   }
   }
  }
 }

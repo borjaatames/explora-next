@@ -1,0 +1,11 @@
+content/actividades/es/madrid/tour-privado-tabernas-centenarias-madrid.md
+content/actividades/en/madrid/madrid-oldest-taverns-private-tour.md
+content/actividades/it/madrid/madrid-tour-privato-taverne-storiche.md
+public/images/actividades/madrid/proveedor-ventana-cultura/CREDITOS.md
+public/images/actividades/madrid/proveedor-ventana-cultura/lhardy-fachada-antigua.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/lhardy-salon-japones.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/taberna-barra-centenaria.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/taberna-bodega-botelleros.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/taberna-caja-registradora.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/taberna-escalera-bodega.webp
+public/images/actividades/madrid/proveedor-ventana-cultura/taberna-malacatin-fachada.webp

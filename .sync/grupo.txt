@@ -1,0 +1,14 @@
+content/actividades/de/madrid/las-rozas-village-privater-shopping-ausflug-ab-madrid.md
+content/actividades/en/madrid/las-rozas-village-private-shopping-tour-from-madrid.md
+content/actividades/es/madrid/las-rozas-village-compras-tour-privado-desde-madrid.md
+content/actividades/fr/madrid/las-rozas-village-shopping-excursion-privee-depuis-madrid.md
+content/actividades/it/madrid/las-rozas-village-shopping-tour-privato-da-madrid.md
+content/actividades/pt/madrid/las-rozas-village-compras-tour-privado-desde-madrid.md
+content/actividades/de/barcelona/barcelona-private-segeltour-sonnenuntergang.md
+content/actividades/en/barcelona/barcelona-private-sunset-sailing-2-hours.md
+content/actividades/es/barcelona/barcelona-velero-privado-atardecer-2-horas.md
+content/actividades/fr/barcelona/barcelone-voilier-prive-coucher-soleil.md
+content/actividades/it/barcelona/barcellona-barca-a-vela-privata-tramonto.md
+content/actividades/pt/barcelona/barcelona-veleiro-privado-por-do-sol.md
+content/actividades/en/sevilla/cadiz-jerez-private-day-trip-from-seville.md
+content/actividades/es/sevilla/cadiz-jerez-excursion-privada-desde-sevilla.md
