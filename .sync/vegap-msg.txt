@@ -1,4 +1,0 @@
-Fotos con obras protegidas (VEGAP) retiradas: cuadros y esculturas del Reina Sofía (incluida La femme au vase), sala de obras del Museo Picasso Málaga, mural del Guernica en Gernika, sala de la Fundació Miró y obra de Manrique en su fundación; portada de Madrid gratis cambiada por el Retiro; principales nuevas para las fichas del Reina Sofía
-
-Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01C5WWQ8jVkM8WZYYLZEgwQu

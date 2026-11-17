@@ -47,3 +47,8 @@ public/images/actividades/**/classifications.json
 
 # Fotos originales en alta (copia también en E:\imagenes-master)
 /_originales/
+
+# Carpeta de trabajo de Claude (no se versiona)
+/.sync/
+/_to_delete/
+verificacion-*.csv

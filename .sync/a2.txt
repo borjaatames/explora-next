@@ -1,2 +1,0 @@
-✅ Audit enlaces afiliados: 1374 enlaces OK (ID + idioma correctos en GYG y Viator).
-exit 0

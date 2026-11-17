@@ -1,3 +1,0 @@
-import { obtenerGuia } from "./lib/guias";
-const casos: [any,string,string][] = [["es","madrid","alcazar-segovia-entradas-agotadas"],["en","barcelona","camp-nou-tour-tickets-sold-out"],["de","madrid","el-escorial-tickets-ausverkauft"],["fr","barcelona","palau-de-la-musica-catalana-billets-epuises"],["it","madrid","alcazar-segovia-biglietti-esauriti"],["pt","barcelona","tour-camp-nou-bilhetes-esgotados"]];
-(async()=>{ for (const [l,c,s] of casos){ try{ const g:any = await (obtenerGuia as any)(l,c,s); console.log(l,s, g? 'OK '+Object.keys(g).length+' keys, html '+String(g.contenido??g.html??'').length : 'NULL'); }catch(e){ console.log(l,s,'ERR',String(e).slice(0,200)); } } })();

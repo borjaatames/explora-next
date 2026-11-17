@@ -1,6 +1,0 @@
-content/actividades/en/sevilla/seville-cathedral-giralda-entry-audio-guide.md
-content/actividades/es/sevilla/catedral-sevilla-giralda-entrada-audioguia-movil.md
-content/actividades/fr/sevilla/seville-billet-cathedrale-giralda-audioguide-mobile.md
-content/actividades/it/sevilla/siviglia-biglietto-cattedrale-giralda-audioguida-app.md
-content/actividades/pt/sevilla/catedral-sevilha-giralda-bilhete-audioguia-telemovel.md
-content/actividades/de/sevilla/sevilla-kathedrale-giralda-ticket-audioguide-app.md

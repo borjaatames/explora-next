@@ -1,4 +1,0 @@
-Guías nuevas en 6 idiomas: Museo del Prado gratis y Qué ver en Toledo (15 imprescindibles); 103 guías DE indexables (22 completadas); guías multi-ciudad con fichas de otras ciudades (ciudadesFichas, ruta de 10 días); Safont 0,40 €/h, rango de tours de la Alhambra 49-99 €, Alcazaba+Gibralfaro 10 €, pulsera de Toledo con Colegio de Doncellas Nobles
-
-Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
-Claude-Session: https://claude.ai/code/session_01C5WWQ8jVkM8WZYYLZEgwQu
