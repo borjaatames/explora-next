@@ -1,5 +1,6 @@
 import type { DetallesPracticos } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
+import { etiquetaCancelacion } from "@/lib/cancelacion";
 
 type Props = {
   idioma: Idioma;
@@ -12,6 +13,8 @@ type Props = {
   highlights?: string[];
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
+  /** Texto de la política: permite avisar de las no reembolsables. */
+  politicaCancelacion?: string;
   detalles?: DetallesPracticos;
 };
 
@@ -142,10 +145,12 @@ export default function DatosClave({
   highlights = [],
   cancelacionGratuita,
   horasCancelacion,
+  politicaCancelacion,
   detalles,
 }: Props) {
   const t = TEXTOS[idioma];
   const textoActividad = [titulo, ...highlights].join(" ");
+  const cancelacion = etiquetaCancelacion(idioma, { cancelacionGratuita, horasCancelacion, politicaCancelacion });
 
   // En DE/FR/IT/PT, el idioma de la página primero: es lo que ha venido a buscar quien lee la ficha.
   const primeroIdiomaPagina = idioma === "de" || idioma === "fr" || idioma === "it" || idioma === "pt";
@@ -170,9 +175,7 @@ export default function DatosClave({
 
   const datos: { icono: Icono; texto: string }[] = [
     ...(duracion ? [{ icono: "reloj" as const, texto: duracion }] : []),
-    ...(cancelacionGratuita
-      ? [{ icono: "calendario" as const, texto: t.cancelacion(horasCancelacion) }]
-      : []),
+    ...(cancelacion ? [{ icono: "calendario" as const, texto: cancelacion }] : []),
     ...(privada
       ? [{ icono: "grupo" as const, texto: t.privada }]
       : RE_GRUPO_REDUCIDO.test(textoActividad)

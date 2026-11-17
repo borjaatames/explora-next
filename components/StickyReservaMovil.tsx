@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
+import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 
 // CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
 // abre el modal de reserva en móvil. Lo cargamos con `next/dynamic` para
@@ -185,19 +186,25 @@ export default function StickyReservaMovil({
         style={{ bottom: "var(--alto-cookie-banner, 0px)" }}
         role="region"
         aria-label={t.ariaBarra}
+        data-barra-reserva
       >
-        {aviso && (
-          <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
-            {aviso}
-          </p>
-        )}
-        <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
+        <div className="flex items-center justify-between gap-3 px-4 py-2.5 max-w-6xl mx-auto">
           <div className="flex flex-col min-w-0 flex-1">
-            <span className="text-base font-bold text-piedra-900 leading-tight">
+            <span className="text-base font-bold text-piedra-900 leading-tight truncate">
               {precio}
+              {aviso && tieneRating && (
+                <span className="ml-2 text-xs font-normal text-piedra-500">
+                  <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
+                  <span className="font-semibold text-piedra-900">{ratingTextoValor}</span>
+                </span>
+              )}
             </span>
-            <span className="text-xs text-piedra-500 leading-tight truncate">
-              {tieneRating ? (
+            {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
+            <span
+              className={`text-xs leading-tight truncate ${aviso ? "font-semibold text-azafran-800" : "text-piedra-500"}`}
+              title={aviso}
+            >
+              {aviso ? aviso : tieneRating ? (
                 <>
                   <span aria-hidden="true" className="text-azafran-500">
                     ★
@@ -217,6 +224,8 @@ export default function StickyReservaMovil({
               )}
             </span>
           </div>
+
+          <WhatsAppCompacto idioma={idioma} />
 
           <button
             type="button"

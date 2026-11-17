@@ -94,6 +94,8 @@ type GtagWindow = Window & {
   gtag?: (command: string, action: string, params: Record<string, unknown>) => void;
 };
 
+const ESPERA_FALLO_MS = 8000;
+
 function inyectarScript(): void {
   document
     .querySelectorAll<HTMLScriptElement>('script[data-gyg-widget-loader="true"]')
@@ -117,6 +119,8 @@ export default function WidgetDisponibilidadGyg({
   campana = CAMPANA_WIDGET_GYG,
 }: Props) {
   const [activo, setActivo] = useState(false);
+  // El enlace de respaldo solo aparece si el iframe de GYG no llega a pintarse.
+  const [fallo, setFallo] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
   const t = TEXTOS[idioma];
 
@@ -134,11 +138,15 @@ export default function WidgetDisponibilidadGyg({
   useEffect(() => {
     if (!activo || !contenedorRef.current) return;
     const nodo = contenedorRef.current;
+    let temporizador: number | undefined;
     const observer = new IntersectionObserver(
       (entradas) => {
         if (!entradas.some((e) => e.isIntersecting)) return;
         observer.disconnect();
         inyectarScript();
+        temporizador = window.setTimeout(() => {
+          if (!nodo.querySelector("iframe")) setFallo(true);
+        }, ESPERA_FALLO_MS);
         (window as GtagWindow).gtag?.("event", "widget_gyg_visto", {
           tour_id: tourId,
           dispositivo: soloEn,
@@ -147,7 +155,10 @@ export default function WidgetDisponibilidadGyg({
       { rootMargin: MARGEN_CARGA }
     );
     observer.observe(nodo);
-    return () => observer.disconnect();
+    return () => {
+      observer.disconnect();
+      if (temporizador !== undefined) window.clearTimeout(temporizador);
+    };
   }, [activo, tourId, soloEn]);
 
   if (!activo) return <>{fallback}</>;
@@ -180,6 +191,7 @@ export default function WidgetDisponibilidadGyg({
           </span>
         </div>
       </div>
+      {fallo && (
       <p className="mt-3 text-center text-xs text-piedra-500">
         {t.noCarga}{" "}
         <a
@@ -191,6 +203,7 @@ export default function WidgetDisponibilidadGyg({
           {t.verEnGyg}
         </a>
       </p>
+      )}
     </div>
   );
 }

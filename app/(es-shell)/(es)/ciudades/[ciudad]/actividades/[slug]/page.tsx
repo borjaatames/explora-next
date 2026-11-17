@@ -27,12 +27,12 @@ import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
-import PrecioDestacado from "@/components/PrecioDestacado";
 import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
+import { etiquetaCancelacion } from "@/lib/cancelacion";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
 import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
@@ -239,15 +239,7 @@ export default async function ActividadPage({ params }: Props) {
 
 
   const tourWidget = tourWidgetGyg(actividad.proveedor, actividad.urlReserva);
-  const precioWidget = (
-    <PrecioDestacado
-      textoDesde={dict.actividades.desde}
-      precio={precio}
-      textoPorPersona={dict.actividades.porPersona}
-      rating={tieneRating ? ratingTextoValor : undefined}
-      opiniones={tieneRating ? ratingTextoOpiniones : undefined}
-    />
-  );
+  const etiquetaCanc = etiquetaCancelacion("es", actividad);
   const bloqueCalendario = (
     <CalendarioReserva
       idioma="es"
@@ -355,14 +347,9 @@ export default async function ActividadPage({ params }: Props) {
             <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
               {actividad.duracion}
             </span>
-            {actividad.cancelacionGratuita && (
+            {etiquetaCanc && (
               <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
-                {actividad.horasCancelacion
-                  ? dict.actividades.cancelacionHorasAntes.replace(
-                      "{horas}",
-                      String(actividad.horasCancelacion)
-                    )
-                  : dict.actividades.cancelacionGratuita}
+                {etiquetaCanc}
               </span>
             )}
           </div>
@@ -436,6 +423,7 @@ export default async function ActividadPage({ params }: Props) {
           highlights={actividad.highlights}
           cancelacionGratuita={actividad.cancelacionGratuita}
           horasCancelacion={actividad.horasCancelacion}
+          politicaCancelacion={actividad.politicaCancelacion}
           detalles={actividad.detallesPracticos}
         />
 
@@ -475,7 +463,6 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
-                  cabecera={precioWidget}
                   campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="movil"
                 />
@@ -577,7 +564,6 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
-                  cabecera={precioWidget}
                   campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="escritorio"
                   fallback={bloqueCalendario}
@@ -585,7 +571,7 @@ export default async function ActividadPage({ params }: Props) {
               ) : (
                 bloqueCalendario
               )}
-              {actividad.proveedor !== "bokun" && (
+              {actividad.proveedor !== "bokun" && !tourWidget && (
                 <div className="mt-3 flex justify-center">
                   <SelloProveedor proveedor={actividad.proveedor} idioma="es" conLogo />
                 </div>
@@ -599,6 +585,19 @@ export default async function ActividadPage({ params }: Props) {
               la fila 2 de la columna izquierda y el aside abarca las dos. */}
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 min-w-0">
           <div className="space-y-12 pt-12">
+
+            {/* 3. Reseñas reales del proveedor (Tripadvisor Content API). Antes
+                iban al final (decisión 24-10-2026); el 17-11-2026 Borja eligió
+                subirlas al inicio de la segunda mitad, como Civitatis y GYG:
+                en móvil quedan justo tras el bloque de reserva. */}
+            {fuenteResenas && (
+              <ResenasTripadvisor
+                idioma="es"
+                locationId={fuenteResenas.locationId}
+                nombreProveedor={fuenteResenas.nombre}
+                notaGlobal={tieneRating ? { valor: ratingTextoValor, opiniones: ratingTextoOpiniones } : undefined}
+              />
+            )}
 
             {/* 3a. Otras versiones de la misma actividad */}
             <OtrasVersiones idioma="es" actual={actividad} versiones={otrasVersiones} />
@@ -735,16 +734,6 @@ export default async function ActividadPage({ params }: Props) {
             {/* 13. Guías relacionadas */}
             {bloqueGuias && (
               <div>{bloqueGuias}</div>
-            )}
-
-            {/* 13b. Reseñas reales del proveedor (Tripadvisor Content API),
-                al final del contenido por decisión de Borja (24-10-2026) */}
-            {fuenteResenas && (
-              <ResenasTripadvisor
-                idioma="es"
-                locationId={fuenteResenas.locationId}
-                nombreProveedor={fuenteResenas.nombre}
-              />
             )}
 
             {/* 14. Disclosure de afiliación */}

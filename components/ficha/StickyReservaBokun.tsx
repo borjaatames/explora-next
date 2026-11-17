@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   ANCLA_RESERVA,
@@ -74,17 +75,25 @@ export default function StickyReservaBokun({
       role="region"
       aria-label={ARIA_RESERVAR[idioma]}
       aria-hidden={!visible}
+      data-barra-reserva
     >
-      {aviso && (
-        <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
-          {aviso}
-        </p>
-      )}
-      <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
+      <div className="flex items-center justify-between gap-3 px-4 py-2.5 max-w-6xl mx-auto">
         <div className="flex flex-col min-w-0 flex-1">
-          <span className="text-base font-bold text-piedra-900 leading-tight">
+          <span className="text-base font-bold text-piedra-900 leading-tight truncate">
             {t.desde} {t.precio}
+            {aviso && rating && (
+              <span className="ml-2 text-xs font-normal text-piedra-500">
+                <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
+                <span className="font-semibold text-piedra-900">{rating}</span>
+              </span>
+            )}
           </span>
+          {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
+          {aviso ? (
+            <span className="text-xs font-semibold text-azafran-800 leading-tight truncate" title={aviso}>
+              {aviso}
+            </span>
+          ) : (
           <span className="text-xs text-piedra-500 leading-tight line-clamp-2">
             {rating && (
               <>
@@ -97,7 +106,9 @@ export default function StickyReservaBokun({
             )}
             {t.unidad}
           </span>
+          )}
         </div>
+        {visible && <WhatsAppCompacto idioma={idioma} />}
         <a
           href={`#${ANCLA_RESERVA}`}
           tabIndex={visible ? 0 : -1}
