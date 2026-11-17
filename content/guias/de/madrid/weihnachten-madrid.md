@@ -31,7 +31,7 @@ faq:
   - pregunta: "Wann gehen die Weihnachtslichter in Madrid an?"
     respuesta: "Ende November; das genaue Datum gibt die Stadt im November bekannt. Die Beleuchtung bleibt bis Dreikönig und umfasst über 250 Orte in allen 21 Bezirken."
   - pregunta: "Was ist Naviluz?"
-    respuesta: "Ein offener Doppeldeckerbus, der in etwa 50 Minuten an den Lichtern vorbeifährt, mit stündlichen Abfahrten von 18:00 bis 22:00 Uhr an der Calle Felipe IV beim Prado. Tickets gibt es auf naviluz.es für etwa 12 € (6 € für Kinder von 7 bis 11); sie lassen sich weder umbuchen noch stornieren. Am 24. und 31. Dezember und am 5. Januar fährt er nicht."
+    respuesta: "Ein offener Doppeldeckerbus, der in etwa 50 Minuten an den Lichtern vorbeifährt, mit Abfahrten alle 15 Minuten von 18:00 bis 22:15 Uhr an der Calle Alfonso XII, 52, beim Botanischen Garten. Er heißt dieses Jahr City Tour Navidad. Tickets gibt es auf naviluz.es für 18-20 € (15-17 € für Kinder von 7 bis 11); sie lassen sich weder umbuchen noch stornieren. Am 24. und 31. Dezember und am 5. Januar fährt er nicht."
   - pregunta: "Hat der Prado an Weihnachten geöffnet?"
     respuesta: "Am 25. Dezember und 1. Januar ist er geschlossen. Am 24. und 31. Dezember sowie am 6. Januar öffnet er nur von 10:00 bis 14:00 Uhr. In den letzten zwei Stunden jedes Tages ist die Sammlung kostenlos, solange Platz ist."
   - pregunta: "Wo feiert man Silvester in Madrid?"
@@ -52,7 +52,7 @@ actividades:
 | Krippe der Real Casa de Correos | Puerta del Sol | Ende November – 6. Januar | Kostenlos |
 | Weihnachtsmarkt | Plaza Mayor | Ende November – 31. Dezember | Kostenlos |
 | Cortylandia | El Corte Inglés, Calle Preciados | Ende November – 5. Januar | Kostenlos |
-| Naviluz (Lichterbus) | Calle Felipe IV, beim Prado | Ende November – 6. Januar | Etwa 12 € (Kinder 6 €) |
+| Naviluz, jetzt City Tour Navidad (Lichterbus) | Calle Alfonso XII, 52, beim Botanischen Garten | 22. November – 6. Januar | 18-20 € (Kinder 7-11: 15-17 €) |
 | La Navideña und Eisbahn | Plaza de España | Ende November – Anfang Januar | Eisbahn kostenpflichtig |
 | Kunsthandwerksmesse | Paseo de Recoletos | 1. – 30. Dezember | Kostenlos |
 | Ziehung von El Gordo | Teatro Real | 22. Dezember, vormittags | Kostenlos, mit Eintrittskarte |
@@ -67,7 +67,7 @@ actividades:
 Dieses Jahr gibt es über **250 beleuchtete Orte** und 14 Millionen LEDs, darunter Lichtmotive, die Madrider Schulkinder gezeichnet haben.
 
 - **Zu Fuß:** Sol, Preciados, Gran Vía und Calle Alcalá bis Cibeles, dann Serrano. Gemütlich etwa zwei Stunden.
-- **Naviluz:** ein offener Bus, rund 50 Minuten, stündliche Abfahrten von 18:00 bis 22:00 Uhr, ab 21:00 Uhr günstiger. Tickets auf naviluz.es; sie **lassen sich weder umbuchen noch stornieren**, auch nicht bei Regen. Am 24. und 31. Dezember und am 5. Januar fährt er nicht.
+- **Naviluz** (dieses Jahr **City Tour Navidad**): rund 50 Minuten, Abfahrt alle 15 Minuten von 18:00 bis 22:15 Uhr an der Calle Alfonso XII, 52. Kostet 18 €, vom 4. bis 8. Dezember und vom 21. Dezember bis 4. Januar 20 €. Tickets auf naviluz.es; sie **lassen sich weder umbuchen noch stornieren**, auch nicht bei Regen. Am 24. und 31. Dezember und am 5. Januar fährt er nicht.
 - **Im privaten Tuk-Tuk:** anderthalb Stunden für bis zu 4 Personen, ohne in der Kälte anzustehen. Es ist offen: Zieh dich warm an.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -93,7 +93,7 @@ Wer bei Kälte nicht so viel laufen will: Der **nächtliche Panoramabus** fährt
 ## Mit Kindern
 
 - **Cortylandia** ist Programmpunkt Nummer eins: kostenlos und direkt neben Sol. Am besten unter der Woche nachmittags.
-- **Naviluz** kostet für Kinder von 7 bis 11 Jahren die Hälfte, unter 7 fahren gratis, brauchen aber ein Ticket.
+- **Naviluz** kostet für Kinder von 7 bis 11 Jahren 15-17 €, unter 7 fahren gratis (bis zu 3 pro Erwachsenem), brauchen aber ein Ticket.
 - Die **Eisbahn** an der Plaza de España arbeitet mit Zeitfenstern: Kauf das Ticket vorher auf ihrer Website.
 
 ## Museen und Sehenswürdigkeiten an Feiertagen

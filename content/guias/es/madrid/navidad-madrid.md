@@ -45,7 +45,7 @@ actividades:
 | Belén de la Real Casa de Correos | Puerta del Sol | Finales de noviembre – 6 de enero | Gratis |
 | Mercadillo navideño | Plaza Mayor | Finales de noviembre – 31 de diciembre | Gratis |
 | Cortylandia | El Corte Inglés de Preciados | Finales de noviembre – 5 de enero | Gratis |
-| Naviluz (bus de las luces) | Calle Felipe IV, junto al Prado | Finales de noviembre – 6 de enero | Unos 12 € (6 € niños) |
+| Naviluz, ahora City Tour Navidad (bus de las luces) | Calle Alfonso XII, 52, junto al Botánico | 22 de noviembre – 6 de enero | 18-20 € (niños de 7 a 11, 15-17 €) |
 | La Navideña y pista de hielo | Plaza de España | Finales de noviembre – primeros de enero | Pista de pago |
 | Feria de Artesanía | Paseo de Recoletos | 1 – 30 de diciembre | Gratis |
 | Sorteo de El Gordo | Teatro Real | 22 de diciembre, por la mañana | Gratis, con entrada |
@@ -60,7 +60,7 @@ actividades:
 Este año hay más de **250 puntos iluminados** y 14 millones de ledes, con dibujos de alumbrado hechos por escolares madrileños.
 
 - **A pie:** Sol, Preciados, Gran Vía y la calle Alcalá hasta Cibeles, y luego Serrano. Unas dos horas sin prisa.
-- **Naviluz:** autobús descapotable de unos 50 minutos, con salidas cada hora de 18:00 a 22:00 y más barato a partir de las 21:00. Se compra en naviluz.es y **no se puede cambiar ni cancelar**, ni siquiera si llueve. No funciona el 24 y el 31 de diciembre ni el 5 de enero.
+- **Naviluz** (este año, **City Tour Navidad**): autobús de unos 50 minutos que sale de la calle Alfonso XII, 52, cada 15 minutos de 18:00 a 22:15. Cuesta 18 €, y 20 € del 4 al 8 de diciembre y del 21 de diciembre al 4 de enero. Se compra en naviluz.es y **no se puede cambiar ni cancelar**, ni siquiera si llueve. No funciona el 24 y el 31 de diciembre ni el 5 de enero. Todos los detalles, en nuestra [guía de Naviluz](/guias/madrid/naviluz-madrid).
 - **En tuk-tuk privado:** hora y media para hasta 4 personas, sin colas ni esperas al frío. Va abierto: lleva abrigo.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -86,7 +86,7 @@ Si no quieres andar tanto con frío, el **bus nocturno panorámico** hace el rec
 ## Con niños
 
 - **Cortylandia** es el plan número uno: gratis y al lado de Sol. Ve entre semana por la tarde.
-- **Naviluz** cuesta la mitad para niños de 7 a 11 años, y los menores de 7 no pagan, aunque necesitan billete.
+- **Naviluz** cuesta 15-17 € para niños de 7 a 11 años, y los menores de 7 no pagan (hasta 3 por adulto), aunque necesitan billete.
 - La **pista de hielo** de Plaza de España funciona por turnos: compra la entrada antes en su web.
 
 ## Museos y monumentos en festivos

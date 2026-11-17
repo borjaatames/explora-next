@@ -37,7 +37,7 @@ actividades:
   - alhambra-tour-guiado-con-entradas
 faq:
 - pregunta: ¿Se pueden comprar entradas de la Alhambra en la taquilla el mismo día?
-  respuesta: A veces se venden unas pocas en la taquilla el mismo día, pero no hay ninguna garantía y en temporada alta lo normal es que no quede nada. No organices el viaje contando con ello.
+  respuesta: La taquilla vende a la vez que la web y no tiene cupo propio, así que si la web está agotada, la taquilla también. En temporada baja suele haber entradas en las dos.
 - pregunta: ¿A qué hora salen las entradas de última hora?
   respuesta: Según Turismo de Granada, la víspera de la visita, entre las 20:00 y las 22:00, pueden aparecer entradas de última hora en la web oficial. También conviene mirar los días anteriores por si se liberan cancelaciones.
 - pregunta: ¿Es fiable reservar una visita guiada si la web oficial está agotada?
@@ -59,7 +59,7 @@ Las entradas de la Alhambra se ponen a la venta **hasta con un año de antelaci�
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Entrar seguro con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
+| Entrar con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
 | La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 49 € |
 | Grupo pequeño | [Alhambra y Palacios Nazaríes en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido), 4,8★ (890) | 65 € |
 | Si solo quedan noches | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |
@@ -72,7 +72,7 @@ La web oficial de venta es `tickets.alhambra-patronato.es`. La entrada general c
 - **Mira varios días seguidos:** se liberan cancelaciones y devoluciones de grupos.
 - **La víspera, entre las 20:00 y las 22:00:** según Turismo de Granada, a esas horas pueden salir entradas de última hora para el día siguiente.
 - **Sé flexible con la hora de los Nazaríes:** las primeras de la mañana y las últimas de la tarde son las que antes se van; las de mediodía aguantan algo más.
-- **Taquilla el mismo día:** a veces quedan unas pocas, pero sin garantía. No es un plan.
+- **Taquilla:** vende a la vez que la web y no guarda cupo propio. En temporada baja suele haber entradas en las dos; si la web está agotada, la taquilla también.
 
 ## 2. La Granada Card
 
@@ -80,7 +80,7 @@ La **Granada Card** guarda un cupo propio de entradas a la Alhambra, así que pu
 
 ## 3. Una visita guiada con la entrada incluida
 
-Es la opción más segura cuando todo lo demás falla: los operadores autorizados compran las entradas con mucha antelación y te venden la visita con la hora de los Nazaríes ya asignada. No tienen un cupo reservado, así que no siempre les queda sitio, pero a menudo tienen plazas cuando la web oficial ya no. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
+Suele ser la mejor opción cuando todo lo demás falla: los operadores autorizados compran las entradas con mucha antelación y te venden la visita con la hora de los Nazaríes ya asignada. No tienen un cupo reservado, así que no siempre les queda sitio, pero a menudo tienen plazas cuando la web oficial ya no. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
 
 Antes de pagar, comprueba dos cosas en la ficha: que diga claramente **«incluye Palacios Nazaríes»** y que la entrada vaya incluida. Hay tours que solo recorren los jardines o la zona gratuita.
 

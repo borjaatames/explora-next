@@ -45,7 +45,7 @@ actividades:
 | Crèche de la Real Casa de Correos | Puerta del Sol | Fin novembre – 6 janvier | Gratuit |
 | Marché de Noël | Plaza Mayor | Fin novembre – 31 décembre | Gratuit |
 | Cortylandia | El Corte Inglés de Preciados | Fin novembre – 5 janvier | Gratuit |
-| Naviluz (bus des illuminations) | Calle Felipe IV, près du Prado | Fin novembre – 6 janvier | Environ 12 € (6 € enfants) |
+| Naviluz, désormais City Tour Navidad (bus des illuminations) | Calle Alfonso XII, 52, près du Jardin botanique | 22 novembre – 6 janvier | 18-20 € (7-11 ans : 15-17 €) |
 | La Navideña et patinoire | Plaza de España | Fin novembre – début janvier | Patinoire payante |
 | Foire d'artisanat | Paseo de Recoletos | 1er – 30 décembre | Gratuit |
 | Tirage d'El Gordo | Teatro Real | 22 décembre, le matin | Gratuit, avec billet |
@@ -60,7 +60,7 @@ actividades:
 Cette année, il y a plus de **250 sites illuminés** et 14 millions de LED, avec des motifs dessinés par des écoliers madrilènes.
 
 - **À pied :** Sol, Preciados, Gran Vía et la calle Alcalá jusqu'à Cibeles, puis Serrano. Environ deux heures sans se presser.
-- **Naviluz :** un bus décapotable d'environ 50 minutes, avec des départs toutes les heures de 18 h à 22 h, moins cher à partir de 21 h. Il s'achète sur naviluz.es et **ne peut être ni échangé ni annulé**, même s'il pleut. Il ne circule pas les 24 et 31 décembre ni le 5 janvier.
+- **Naviluz** (cette année **City Tour Navidad**) : un bus d'environ 50 minutes au départ de la Calle Alfonso XII, 52, toutes les 15 minutes de 18 h à 22 h 15. Il coûte 18 €, et 20 € du 4 au 8 décembre et du 21 décembre au 4 janvier. Il s'achète sur naviluz.es et **ne peut être ni échangé ni annulé**, même s'il pleut. Il ne circule pas les 24 et 31 décembre ni le 5 janvier.
 - **En tuk-tuk privé :** une heure et demie pour 4 personnes maximum, sans file d'attente ni attente dans le froid. Il est ouvert : prenez un manteau.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -86,7 +86,7 @@ Si vous ne voulez pas trop marcher dans le froid, le **bus panoramique de nuit**
 ## Avec des enfants
 
 - **Cortylandia** est l'activité numéro un : gratuite et tout près de Sol. Allez-y en semaine en fin d'après-midi.
-- **Naviluz** coûte moitié prix pour les 7-11 ans, et les moins de 7 ans ne paient pas, mais ils ont besoin d'un billet.
+- **Naviluz** coûte 15-17 € pour les 7-11 ans, et les moins de 7 ans ne paient pas (3 maximum par adulte), mais ils ont besoin d'un billet.
 - La **patinoire** de la Plaza de España fonctionne par créneaux : achetez le billet à l'avance sur son site.
 
 ## Musées et monuments les jours fériés

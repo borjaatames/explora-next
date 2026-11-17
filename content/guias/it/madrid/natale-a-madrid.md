@@ -42,7 +42,7 @@ actividades:
 | Presepe della Real Casa de Correos | Puerta del Sol | Fine novembre – 6 gennaio | Gratis |
 | Mercatino di Natale | Plaza Mayor | Fine novembre – 31 dicembre | Gratis |
 | Cortylandia | El Corte Inglés, Calle Preciados | Fine novembre – 5 gennaio | Gratis |
-| Naviluz (bus delle luci) | Calle Felipe IV, accanto al Prado | Fine novembre – 6 gennaio | Circa 12 € (6 € bambini) |
+| Naviluz, ora City Tour Navidad (bus delle luci) | Calle Alfonso XII, 52, accanto all'Orto botanico | 22 novembre – 6 gennaio | 18-20 € (7-11 anni: 15-17 €) |
 | La Navideña e pista di pattinaggio | Plaza de España | Fine novembre – inizio gennaio | Pista a pagamento |
 | Fiera dell'artigianato | Paseo de Recoletos | 1 – 30 dicembre | Gratis |
 | Estrazione della lotteria El Gordo | Teatro Real | 22 dicembre, mattina | Gratis, con biglietto d'ingresso |
@@ -57,7 +57,7 @@ actividades:
 Quest'anno ci sono oltre **250 punti illuminati** e 14 milioni di LED, comprese decorazioni luminose disegnate dagli scolari di Madrid.
 
 - **A piedi:** Sol, Preciados, Gran Vía e Calle Alcalá fino a Cibeles, poi Serrano. Circa due ore con calma.
-- **Naviluz:** un bus scoperto, circa 50 minuti, con partenze ogni ora dalle 18:00 alle 22:00, più economico dalle 21:00. Si prenota su naviluz.es; i biglietti **non si possono cambiare né annullare**, nemmeno se piove. Nessun servizio il 24 e il 31 dicembre né il 5 gennaio.
+- **Naviluz** (quest'anno **City Tour Navidad**): circa 50 minuti, partenze ogni 15 minuti dalle 18:00 alle 22:15 da Calle Alfonso XII, 52. Costa 18 €, e 20 € dal 4 all'8 dicembre e dal 21 dicembre al 4 gennaio. Si prenota su naviluz.es; i biglietti **non si possono cambiare né annullare**, nemmeno se piove. Nessun servizio il 24 e il 31 dicembre né il 5 gennaio.
 - **In tuk-tuk privato:** un'ora e mezza per un massimo di 4 persone, senza code al freddo. È all'aperto, quindi copriti bene.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -83,7 +83,7 @@ Se non ti va di camminare così tanto al freddo, il **bus panoramico notturno** 
 ## Con i bambini
 
 - **Cortylandia** è il programma numero uno: gratis e a due passi da Sol. Vai in un pomeriggio feriale.
-- **Naviluz** costa la metà per i bambini dai 7 agli 11 anni, e i minori di 7 anni viaggiano gratis, anche se serve comunque il biglietto.
+- **Naviluz** costa 15-17 € per i bambini dai 7 agli 11 anni, e i minori di 7 anni viaggiano gratis (massimo 3 per adulto), anche se serve comunque il biglietto.
 - La **pista di pattinaggio** di Plaza de España funziona a fasce orarie: compra il biglietto in anticipo sul suo sito.
 
 ## Musei e monumenti nei giorni festivi

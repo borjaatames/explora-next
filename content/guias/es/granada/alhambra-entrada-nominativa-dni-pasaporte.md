@@ -58,7 +58,7 @@ Las **entradas de la Alhambra son nominativas**: cada una lleva el nombre y el n
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| Entrar seguro con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
+| Entrar con guía | [Entrada y tour guiado con Palacios Nazaríes](/ciudades/granada/actividades/entrada-y-tour-guiado-alhambra), 4,7★ (3.516) | 50 € |
 | La más elegida | [Visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife), 4,7★ (21.100) | 49 € |
 | Grupo pequeño | [Alhambra y Palacios Nazaríes en grupo reducido](/ciudades/granada/actividades/alhambra-grupo-reducido), 4,8★ (890) | 65 € |
 | Si solo quedan noches | [Visita nocturna a los Palacios Nazaríes](/ciudades/granada/actividades/alhambra-visita-nocturna), 4,9★ (288) | 54 € |

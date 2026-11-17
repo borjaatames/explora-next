@@ -42,7 +42,7 @@ actividades:
 | Presépio da Real Casa de Correos | Puerta del Sol | Final de novembro – 6 de janeiro | Gratuito |
 | Mercado de Natal | Plaza Mayor | Final de novembro – 31 de dezembro | Gratuito |
 | Cortylandia | El Corte Inglés, Calle Preciados | Final de novembro – 5 de janeiro | Gratuito |
-| Naviluz (autocarro das luzes) | Calle Felipe IV, junto ao Prado | Final de novembro – 6 de janeiro | Cerca de 12 € (6 € crianças) |
+| Naviluz, agora City Tour Navidad (autocarro das luzes) | Calle Alfonso XII, 52, junto ao Jardim Botânico | 22 de novembro – 6 de janeiro | 18-20 € (7-11 anos: 15-17 €) |
 | La Navideña e pista de gelo | Plaza de España | Final de novembro – início de janeiro | A pista é paga |
 | Feira de artesanato | Paseo de Recoletos | 1 – 30 de dezembro | Gratuito |
 | Sorteio da lotaria El Gordo | Teatro Real | 22 de dezembro, de manhã | Gratuito, com senha |
@@ -57,7 +57,7 @@ actividades:
 Este ano há mais de **250 pontos iluminados** e 14 milhões de LED, incluindo desenhos de luz feitos por crianças das escolas de Madrid.
 
 - **A pé:** Sol, Preciados, Gran Vía e Calle Alcalá até Cibeles, e depois Serrano. Cerca de duas horas a um ritmo tranquilo.
-- **Naviluz:** um autocarro descapotável, cerca de 50 minutos, com partidas de hora a hora das 18h00 às 22h00, e mais barato a partir das 21h00. Reserve em naviluz.es; os bilhetes **não podem ser alterados nem cancelados**, nem mesmo se chover. Não há serviço a 24 e 31 de dezembro nem a 5 de janeiro.
+- **Naviluz** (este ano **City Tour Navidad**): cerca de 50 minutos, com partidas a cada 15 minutos das 18h00 às 22h15 na Calle Alfonso XII, 52. Custa 18 €, e 20 € de 4 a 8 de dezembro e de 21 de dezembro a 4 de janeiro. Reserve em naviluz.es; os bilhetes **não podem ser alterados nem cancelados**, nem mesmo se chover. Não há serviço a 24 e 31 de dezembro nem a 5 de janeiro.
 - **De tuk-tuk privado:** hora e meia para até 4 pessoas, sem filas ao frio. É ao ar livre, por isso agasalhe-se bem.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -83,7 +83,7 @@ Se preferir não andar tanto ao frio, o **autocarro panorâmico noturno** faz o 
 ## Com crianças
 
 - O **Cortylandia** é o plano número um: gratuito e mesmo ao lado de Sol. Vá numa tarde de dia de semana.
-- O **Naviluz** custa metade do preço para crianças dos 7 aos 11 anos, e os menores de 7 viajam gratuitamente, embora também precisem de bilhete.
+- O **Naviluz** custa 15-17 € para crianças dos 7 aos 11 anos, e os menores de 7 viajam gratuitamente (até 3 por adulto), embora também precisem de bilhete.
 - A **pista de gelo** da Plaza de España funciona por turnos: compre o bilhete com antecedência no respetivo site.
 
 ## Museus e monumentos nos feriados

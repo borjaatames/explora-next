@@ -44,7 +44,7 @@ faq:
 - pregunta: ¿Qué hago si las entradas de la Alhambra están agotadas?
   respuesta: 'Reservar una visita guiada que incluya la entrada: los operadores tienen plazas propias aunque la web oficial salga agotada. La visita nocturna a los Palacios Nazaríes también suele tener más disponibilidad.'
 - pregunta: ¿Visita guiada o por libre?
-  respuesta: 'Si es tu primera vez, con guía: te asegura la entrada, organiza la hora de los Nazaríes y te explica el simbolismo de cada sala, que sin explicación se pierde.'
+  respuesta: 'Si es tu primera vez, con guía: a menudo aún tiene plazas, organiza la hora de los Nazaríes y te explica el simbolismo de cada sala, que sin explicación se pierde.'
 - pregunta: ¿Cuánto tiempo necesito para ver la Alhambra?
   respuesta: Unas 4 horas para ver los Palacios Nazaríes, la Alcazaba, el Generalife y el Palacio de Carlos V sin prisas.
 opciones:

@@ -43,7 +43,7 @@ actividades:
 | Nativity scene at the Real Casa de Correos | Puerta del Sol | Late November – 6 January | Free |
 | Christmas market | Plaza Mayor | Late November – 31 December | Free |
 | Cortylandia | El Corte Inglés, Calle Preciados | Late November – 5 January | Free |
-| Naviluz (lights bus) | Calle Felipe IV, by the Prado | Late November – 6 January | About €12 (€6 children) |
+| Naviluz, now City Tour Navidad (lights bus) | Calle Alfonso XII, 52, by the Botanical Garden | 22 November – 6 January | €18-20 (children 7-11, €15-17) |
 | La Navideña and ice rink | Plaza de España | Late November – early January | Rink is paid |
 | Crafts fair | Paseo de Recoletos | 1 – 30 December | Free |
 | El Gordo lottery draw | Teatro Real | 22 December, morning | Free, with ticket |
@@ -58,7 +58,7 @@ actividades:
 This year there are more than **250 lit-up spots** and 14 million LEDs, including light designs drawn by Madrid schoolchildren.
 
 - **On foot:** Sol, Preciados, Gran Vía and Calle Alcalá down to Cibeles, then Serrano. About two hours at an easy pace.
-- **Naviluz:** an open-top bus, about 50 minutes, leaving every hour from 18:00 to 22:00, and cheaper from 21:00. Book at naviluz.es; tickets **can't be changed or cancelled**, not even if it rains. No service on 24 and 31 December or 5 January.
+- **Naviluz** (this year renamed **City Tour Navidad**): a bus tour of about 50 minutes from Calle Alfonso XII, 52, leaving every 15 minutes from 18:00 to 22:15. It costs €18, or €20 from 4 to 8 December and from 21 December to 4 January. Book at naviluz.es; tickets **can't be changed or cancelled**, not even if it rains. No service on 24 and 31 December or 5 January.
 - **By private tuk-tuk:** an hour and a half for up to 4 people, with no queuing in the cold. It's open-air, so wrap up.
 
 [actividad: tuk-tuk-luces-navidad-madrid]
@@ -84,7 +84,7 @@ If you'd rather not walk that much in the cold, the **night panoramic bus** cove
 ## With kids
 
 - **Cortylandia** is plan number one: free and right by Sol. Go on a weekday afternoon.
-- **Naviluz** is half price for children aged 7 to 11, and under-7s ride free, though they still need a ticket.
+- **Naviluz** costs €15-17 for children aged 7 to 11, and under-7s ride free (up to 3 per adult), though they still need a ticket.
 - The **ice rink** at Plaza de España works in time slots: buy your ticket in advance on its website.
 
 ## Museums and monuments on public holidays
