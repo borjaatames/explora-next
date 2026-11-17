@@ -56,7 +56,7 @@ opciones:
     etiqueta: Grupo reduzido
 ---
 
-A Alhambra é o monumento mais visitado de Espanha, e os bilhetes esgotam com semanas de antecedência. A forma mais segura de entrar é uma visita que já inclua o bilhete. Não depende de sobrarem lugares, e alguém lhe explica o que está a ver.
+A Alhambra é o monumento mais visitado de Espanha, e os bilhetes esgotam com semanas de antecedência. A forma mais segura de entrar é comprar cedo no site oficial. Se estiver esgotado, uma visita que inclua o bilhete muitas vezes ainda tem lugares, e alguém lhe explica o que está a ver.
 
 ## Que bilhete escolher?
 

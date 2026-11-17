@@ -56,7 +56,7 @@ opciones:
     etiqueta: Piccolo gruppo
 ---
 
-L'Alhambra è il monumento più visitato di Spagna, e i suoi biglietti si esauriscono con settimane di anticipo. Il modo più sicuro per entrare è una visita che includa già il biglietto. Non dipendi dai posti rimasti, e qualcuno ti spiega cosa stai guardando.
+L'Alhambra è il monumento più visitato di Spagna, e i suoi biglietti si esauriscono con settimane di anticipo. Il modo più sicuro per entrare è comprare per tempo sul sito ufficiale. Se è esaurito, una visita che include il biglietto spesso ha ancora posti, e qualcuno ti spiega cosa stai guardando.
 
 ## Quale biglietto scegliere?
 

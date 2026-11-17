@@ -57,7 +57,7 @@ opciones:
     etiqueta: Petit groupe
 ---
 
-L'Alhambra est le monument le plus visité d'Espagne, et ses billets s'épuisent des semaines à l'avance. Le moyen le plus sûr d'y entrer est une visite qui inclut déjà votre billet. Vous ne dépendez pas des places restantes, et quelqu'un vous explique ce que vous voyez.
+L'Alhambra est le monument le plus visité d'Espagne, et ses billets s'épuisent des semaines à l'avance. Le moyen le plus sûr d'y entrer est d'acheter tôt sur le site officiel. S'il affiche complet, une visite qui inclut le billet a souvent encore des places, et quelqu'un vous explique ce que vous voyez.
 
 ## Quel billet choisir ?
 

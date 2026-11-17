@@ -57,7 +57,7 @@ opciones:
     etiqueta: Small group
 ---
 
-The Alhambra is Spain's most visited monument, and its tickets sell out weeks in advance. The safest way in is a visit that already includes your ticket. You don't depend on spaces being left, and someone explains what you're looking at.
+The Alhambra is Spain's most visited monument, and its tickets sell out weeks in advance. The surest way in is to buy early on the official site. If it's sold out, a visit that includes your ticket often still has places, and someone explains what you're looking at.
 
 ## Which ticket should you choose?
 

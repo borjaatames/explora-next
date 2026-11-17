@@ -56,7 +56,7 @@ opciones:
     etiqueta: Grupo reducido
 ---
 
-La Alhambra es el monumento más visitado de España, y sus entradas se agotan con semanas de antelación. La forma más segura de entrar es una visita que ya incluya la entrada. Así no dependes de que queden plazas, y alguien te explica lo que estás viendo.
+La Alhambra es el monumento más visitado de España, y sus entradas se agotan con semanas de antelación. La forma más segura de entrar es comprar la entrada en la web oficial con tiempo. Si ya no quedan, una visita que incluya la entrada a menudo aún tiene plazas, y alguien te explica lo que estás viendo.
 
 ## ¿Qué entrada elegir?
 
@@ -72,7 +72,7 @@ La Alhambra es el monumento más visitado de España, y sus entradas se agotan c
 
 ## Por qué ir con guía
 
-- **La entrada está asegurada**, aunque en la web oficial salga «agotado».
+- **A menudo quedan plazas** aunque en la web oficial salga «agotado» (no siempre).
 - **El guía se encarga de la hora de los Nazaríes**, que es lo que más falla a quien va por libre.
 - **Entiendes lo que ves.** Los poemas grabados en las paredes, la geometría de los azulejos y la historia de cada sala se pierden sin explicación.
 - **No te la juegas con falsos guías.** En Plaza Nueva ofrecen «tour Alhambra» sin acreditación.
@@ -130,4 +130,4 @@ La visita completa lleva **unas 4 horas**.
 
 ## En una frase
 
-La Alhambra se disfruta cuando llegas con la entrada asegurada y alguien que te la explique. Si vas a pasar más días en Granada, mira nuestra guía de [Granada en 2 días](/guias/granada/granada-en-2-dias).
+La Alhambra se disfruta cuando llegas con la entrada comprada y alguien que te la explique. Si vas a pasar más días en Granada, mira nuestra guía de [Granada en 2 días](/guias/granada/granada-en-2-dias).
