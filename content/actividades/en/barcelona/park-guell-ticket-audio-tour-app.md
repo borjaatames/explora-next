@@ -6,6 +6,9 @@ descripcion: 'Entry to the Monumental Zone of Park Güell with a self-guided aud
 slugs:
   en: park-guell-ticket-audio-tour-app
   es: park-guell-entrada-audioguia-app
+  de: park-guell-eintritt-audiotour-app
+  fr: park-guell-billet-visite-audio-app
+  it: park-guell-biglietto-audioguida-app
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 38.6

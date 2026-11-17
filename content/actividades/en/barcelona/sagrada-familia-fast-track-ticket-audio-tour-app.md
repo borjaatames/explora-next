@@ -6,6 +6,9 @@ descripcion: 'Fast-track entry to the Sagrada Familia with a self-guided audio t
 slugs:
   en: sagrada-familia-fast-track-ticket-audio-tour-app
   es: sagrada-familia-entrada-rapida-audioguia-app
+  de: sagrada-familia-schnelleinlass-ticket-audiotour-app
+  fr: sagrada-familia-billet-coupe-file-visite-audio-app
+  it: sagrada-familia-biglietto-salta-fila-audioguida-app
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 60.04

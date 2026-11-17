@@ -4,8 +4,11 @@ slug: park-guell-entrada-audioguia-app
 ciudad: barcelona
 descripcion: 'Entrada a la Zona Monumental del Park Güell con audioguía en español en la app WeGoTrip: la escalinata del dragón, la plaza y las ideas de Gaudí. Desde 42,90 €.'
 slugs:
-  es: park-guell-entrada-audioguia-app
   en: park-guell-ticket-audio-tour-app
+  es: park-guell-entrada-audioguia-app
+  de: park-guell-eintritt-audiotour-app
+  fr: park-guell-billet-visite-audio-app
+  it: park-guell-biglietto-audioguida-app
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 42.9

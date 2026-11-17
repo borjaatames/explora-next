@@ -5,6 +5,7 @@ ciudad: barcelona
 descripcion: 'Self-guided audio tour of Modernista Barcelona in English: Gaudí, Puig i Cadafalch and Domènech i Montaner, from Palau Güell to the Eixample. From €9.'
 slugs:
   en: modernist-barcelona-self-guided-audio-tour
+  de: modernisme-barcelona-audiotour-auf-eigene-faust
 duracion: 4 h 30 min
 duracionMinutos: 270
 precioDesde: 9

@@ -4,8 +4,12 @@ slug: museo-picasso-barcelona-entrada-audioguia-born
 ciudad: barcelona
 descripcion: Entrada al Museo Picasso de Barcelona con audioguía en español de la colección principal y paseo autoguiado por el Born y Santa María del Mar. Desde 31 €.
 slugs:
-  es: museo-picasso-barcelona-entrada-audioguia-born
   en: picasso-museum-barcelona-ticket-audio-tour-born
+  es: museo-picasso-barcelona-entrada-audioguia-born
+  de: picasso-museum-barcelona-ticket-audiotour-born
+  fr: musee-picasso-barcelone-billet-visite-audio-born
+  it: museo-picasso-barcellona-biglietto-audioguida-born
+  pt: museu-picasso-barcelona-bilhete-audioguia-born
 duracion: 3 horas
 duracionMinutos: 180
 precioDesde: 31

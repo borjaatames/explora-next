@@ -4,8 +4,11 @@ slug: sagrada-familia-entrada-rapida-audioguia-app
 ciudad: barcelona
 descripcion: 'Entrada con acceso rápido a la Sagrada Familia y audioguía en español en la app WeGoTrip: la historia de Gaudí, las fachadas y el bosque de columnas. Desde 58,47 €.'
 slugs:
-  es: sagrada-familia-entrada-rapida-audioguia-app
   en: sagrada-familia-fast-track-ticket-audio-tour-app
+  es: sagrada-familia-entrada-rapida-audioguia-app
+  de: sagrada-familia-schnelleinlass-ticket-audiotour-app
+  fr: sagrada-familia-billet-coupe-file-visite-audio-app
+  it: sagrada-familia-biglietto-salta-fila-audioguida-app
 duracion: 2 horas
 duracionMinutos: 120
 precioDesde: 58.47

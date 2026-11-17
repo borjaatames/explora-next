@@ -6,6 +6,10 @@ descripcion: Picasso Museum Barcelona ticket with an audio tour in English of th
 slugs:
   en: picasso-museum-barcelona-ticket-audio-tour-born
   es: museo-picasso-barcelona-entrada-audioguia-born
+  de: picasso-museum-barcelona-ticket-audiotour-born
+  fr: musee-picasso-barcelone-billet-visite-audio-born
+  it: museo-picasso-barcellona-biglietto-audioguida-born
+  pt: museu-picasso-barcelona-bilhete-audioguia-born
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 26.3

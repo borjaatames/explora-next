@@ -5,6 +5,10 @@ ciudad: madrid
 descripcion: 'Entry to the Reina Sofía Museum with a self-guided audio tour in English: Picasso''s Guernica, Dalí, Miró and the art of the 20th century. From €19.84.'
 slugs:
   en: reina-sofia-museum-ticket-audio-tour-app
+  es: museo-reina-sofia-entrada-audioguia-app
+  de: reina-sofia-museum-ticket-audiotour-app
+  fr: musee-reina-sofia-billet-visite-audio-app
+  it: museo-reina-sofia-biglietto-audioguida-app
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 19.84
