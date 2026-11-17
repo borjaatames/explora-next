@@ -4,6 +4,16 @@ import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
 import { avisoBarra } from "@/lib/avisoBarra";
+
+// Texto corto del botón de la barra: con «Jetzt buchen» o «Book now» no cabe el aviso.
+const RESERVAR_CORTO: Record<Idioma, string> = {
+  es: "Reservar",
+  en: "Book",
+  de: "Buchen",
+  fr: "Réserver",
+  it: "Prenota",
+  pt: "Reservar",
+};
 import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 
 // CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
@@ -244,7 +254,7 @@ export default function StickyReservaMovil({
             }}
             className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-azafran-500 whitespace-nowrap"
           >
-            {textoReservar} →
+            {RESERVAR_CORTO[idioma]} →
           </button>
         </div>
       </div>

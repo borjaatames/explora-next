@@ -11,6 +11,16 @@ import {
   type DatosPrecioBokun,
 } from "@/lib/reservaBokun";
 
+// Texto corto del botón: «Ver fechas disponibles» dejaba sin sitio al aviso.
+const VER_FECHAS_CORTO: Record<Idioma, string> = {
+  es: "Ver fechas",
+  en: "See dates",
+  de: "Termine",
+  fr: "Voir les dates",
+  it: "Vedi date",
+  pt: "Ver datas",
+};
+
 const ARIA_RESERVAR: Record<Idioma, string> = {
   es: "Reservar actividad",
   en: "Book activity",
@@ -117,7 +127,7 @@ export default function StickyReservaBokun({
           tabIndex={visible ? 0 : -1}
           className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-4 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 whitespace-nowrap shrink-0"
         >
-          {t.verFechas} →
+          {VER_FECHAS_CORTO[idioma]} →
         </a>
       </div>
     </div>
