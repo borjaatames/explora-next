@@ -29,7 +29,7 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'A **visita noturna aos Palácios Nasridas** custa **12,73 €** no site oficial (`tickets.alhambra-patronato.es`) e de 15 de outubro a 31 de março só há **sexta e sábado, das 20h00 às 21h30**; de 1 de abril a 14 de outubro, **de terça a sábado, das 22h00 às 23h30**. Se aparecer esgotada, veja a **Alhambra Experiencias** (22,27 €), o **Granada Card 24 h** (50 €), que tem quota própria, ou a **bilheteira noturna**, que abre uma hora antes. A opção segura é uma **visita guiada noturna com o bilhete incluído**, desde 54 €.'
+respuestaCorta: 'A **visita noturna aos Palácios Nasridas** custa **12,73 €** no site oficial (`tickets.alhambra-patronato.es`) e de 15 de outubro a 31 de março só há **sexta e sábado, das 20h00 às 21h30**; de 1 de abril a 14 de outubro, **de terça a sábado, das 22h00 às 23h30**. Se aparecer esgotada, veja a **Alhambra Experiencias** (22,27 €), o **Granada Card 24 h** (50 €), que tem quota própria, ou a **bilheteira noturna**, que abre uma hora antes. A opção mais provável é uma **visita guiada noturna com o bilhete incluído**, desde 54 €.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -117,7 +117,7 @@ Por esta ordem:
 2. **Veja a Alhambra Experiencias e a Dobla de Oro Nocturna.** São produtos diferentes no mesmo site. Dão-lhe os Nasridas à noite e algo mais, por poucos euros de diferença.
 3. **Consulte o Granada Card 24 h (50 €).** É o único Granada Card que inclui a noturna dos Palácios Nasridas e, segundo o Turismo de Granada, tem **quota própria**: pode haver lugar quando o bilhete avulso está esgotado. Compensa se também for entrar na catedral, na Capilla Real e noutros monumentos.
 4. **Vá à bilheteira noturna**, que abre uma hora antes da sessão. Pode restar algum bilhete, mas sem garantia.
-5. **Reserve uma visita guiada noturna** com o bilhete incluído. Os operadores reservam a sua quota com antecedência.
+5. **Reserve uma visita guiada noturna** com o bilhete incluído. Os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares (nem sempre).
 
 ## 4. A visita guiada noturna
 

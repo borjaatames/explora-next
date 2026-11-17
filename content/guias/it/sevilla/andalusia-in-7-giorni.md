@@ -33,7 +33,7 @@ faq:
   - pregunta: "È meglio fare l'itinerario in treno o in auto?"
     respuesta: "In treno per le città: i tragitti vanno da 45 minuti a 1 h 30 e arrivi in centro senza cercare parcheggio, che a Siviglia, Cordova e Granada è caro e con zone a traffico limitato. L'auto conviene solo per Ronda e i pueblos blancos."
   - pregunta: "Con quanto anticipo bisogna prenotare l'Alhambra?"
-    respuesta: "Con 3 o 4 settimane in primavera e autunno, e appena escono (fino a 3 mesi prima) per la Settimana Santa, i ponti e l'estate. Il biglietto intero costa 22,27 € sul sito ufficiale e l'orario dei Palacios Nazaríes è fisso. Se è esaurito, una visita guidata con quota propria è l'alternativa."
+    respuesta: "Con 3 o 4 settimane in primavera e autunno, e appena escono (fino a un anno prima) per la Settimana Santa, i ponti e l'estate. Il biglietto intero costa 22,27 € sul sito ufficiale e l'orario dei Palacios Nazaríes è fisso. Se è esaurito, una visita guidata con ingresso, che spesso ha ancora posti, è l'alternativa."
   - pregunta: "In che ordine conviene fare l'itinerario?"
     respuesta: "Siviglia, Cordova, Granada e Malaga, o al contrario. Arrivare a Siviglia e ripartire da Malaga sfrutta i due aeroporti con più voli ed evita di tornare sui propri passi. Quello che non conviene è fare Cordova come escursione da Granada: sono circa 2 ore a tratta."
   - pregunta: "Qual è il periodo migliore per un itinerario in Andalusia?"
@@ -77,7 +77,7 @@ Compra i treni sul sito di Renfe appena hai le date: i prezzi bassi spariscono m
 
 | Cosa | Prezzo ufficiale | Anticipo |
 | --- | --- | --- |
-| Alhambra (Palacios Nazaríes con orario) | 22,27 € | 3-4 settimane; fino a 3 mesi in alta stagione |
+| Alhambra (Palacios Nazaríes con orario) | 22,27 € | 3-4 settimane; 2-3 mesi in alta stagione (vendita fino a un anno prima) |
 | Real Alcázar di Siviglia | 15,50 € | 1-2 settimane; la fascia delle 9:30 va a ruba |
 | Cattedrale e Giralda di Siviglia | 13 € online | qualche giorno |
 | Mezquita-Catedral di Cordova | 15 € (gratis dalle 8:30 alle 9:30, dal lunedì al sabato) | qualche giorno; la fascia gratuita non si prenota |
@@ -116,7 +116,7 @@ Compra i treni sul sito di Renfe appena hai le date: i prezzi bassi spariscono m
 
 ## Giorno 5: l'Alhambra
 
-**8:30 — Alhambra**, tutta la giornata ruota attorno al tuo orario dei Palacios Nazaríes: hai solo **30 minuti di margine** e dall'ingresso servono 30-45 minuti a piedi per arrivare ai palazzi. Alcazaba, Nazaríes e Generalife richiedono in tutto circa 4 ore. Se non ci sono più biglietti, la [visita guidata con ingresso incluso](/it/cities/granada/activities/visita-guidata-alhambra-generalife) (da 49 €) ha una quota propria; in privato, il [tour senza code solo per voi](/it/cities/granada/activities/alhambra-palazzi-nasridi-tour-privato-salta-fila) (da 278 € a gruppo).
+**8:30 — Alhambra**, tutta la giornata ruota attorno al tuo orario dei Palacios Nazaríes: hai solo **30 minuti di margine** e dall'ingresso servono 30-45 minuti a piedi per arrivare ai palazzi. Alcazaba, Nazaríes e Generalife richiedono in tutto circa 4 ore. Se non ci sono più biglietti, la [visita guidata con ingresso incluso](/it/cities/granada/activities/visita-guidata-alhambra-generalife) (da 49 €) spesso ha ancora posti; in privato, il [tour senza code solo per voi](/it/cities/granada/activities/alhambra-palazzi-nasridi-tour-privato-salta-fila) (da 278 € a gruppo).
 
 **Pomeriggio:** Capilla Real (7 €) con i sepolcri dei Re Cattolici e la Cattedrale. **Sera:** zambra in una grotta del Sacromonte, 22-30 € con consumazione. I dettagli sono in [Granada in 1 giorno](/it/guides/granada/granada-in-1-giorno).
 

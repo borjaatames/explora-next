@@ -33,7 +33,7 @@ faq:
   - pregunta: "¿Es mejor hacer la ruta en tren o en coche?"
     respuesta: "En tren para las ciudades: los trayectos son de 45 minutos a 1 h 30 y llegas al centro sin buscar aparcamiento, que en Sevilla, Córdoba y Granada es caro y con zonas restringidas. El coche solo compensa para Ronda y los pueblos blancos."
   - pregunta: "¿Con cuánta antelación hay que reservar la Alhambra?"
-    respuesta: "Con 3 o 4 semanas en primavera y otoño, y en cuanto salgan (hasta 3 meses antes) para Semana Santa, puentes y verano. La entrada general cuesta 22,27 € en la web oficial y la hora de los Palacios Nazaríes es fija. Si está agotada, una visita guiada con cupo propio es la alternativa."
+    respuesta: "Con 3 o 4 semanas en primavera y otoño, y en cuanto salgan (hasta un año antes) para Semana Santa, puentes y verano. La entrada general cuesta 22,27 € en la web oficial y la hora de los Palacios Nazaríes es fija. Si está agotada, una visita guiada con la entrada incluida es la alternativa."
   - pregunta: "¿En qué orden conviene hacer la ruta?"
     respuesta: "Sevilla, Córdoba, Granada y Málaga, o al revés. Entrar por Sevilla y salir por Málaga aprovecha los dos aeropuertos con más vuelos y evita volver sobre tus pasos. Lo que no conviene es hacer Córdoba como excursión desde Granada: son unas 2 horas por trayecto."
   - pregunta: "¿Cuál es la mejor época para la ruta por Andalucía?"
@@ -77,7 +77,7 @@ Compra los trenes en la web de Renfe en cuanto tengas fechas: los precios bajos 
 
 | Qué | Precio oficial | Antelación |
 | --- | --- | --- |
-| Alhambra (Palacios Nazaríes con hora) | 22,27 € | 3-4 semanas; hasta 3 meses en temporada alta |
+| Alhambra (Palacios Nazaríes con hora) | 22,27 € | 3-4 semanas; 2-3 meses en temporada alta |
 | Real Alcázar de Sevilla | 15,50 € | 1-2 semanas; la franja de las 9:30 vuela |
 | Catedral y Giralda de Sevilla | 13 € online | unos días |
 | Mezquita-Catedral de Córdoba | 15 € (gratis de 8:30 a 9:30, lunes a sábado) | unos días; la franja gratis no se reserva |
@@ -116,7 +116,7 @@ Compra los trenes en la web de Renfe en cuanto tengas fechas: los precios bajos 
 
 ## Día 5: la Alhambra
 
-**8:30 — Alhambra**, el día entero gira alrededor de tu hora de Palacios Nazaríes: solo hay **30 minutos de margen** y desde la entrada se tardan 30-45 minutos andando hasta los palacios. Alcazaba, Nazaríes y Generalife suman unas 4 horas. Si no quedan entradas, la [visita guiada con entrada incluida](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) (desde 49 €) tiene cupo propio; en privado, el [tour sin colas solo para vosotros](/ciudades/granada/actividades/alhambra-palacios-nazaries-tour-privado-sin-colas) (desde 278 € el grupo).
+**8:30 — Alhambra**, el día entero gira alrededor de tu hora de Palacios Nazaríes: solo hay **30 minutos de margen** y desde la entrada se tardan 30-45 minutos andando hasta los palacios. Alcazaba, Nazaríes y Generalife suman unas 4 horas. Si no quedan entradas, la [visita guiada con entrada incluida](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) (desde 49 €) a menudo tiene plazas; en privado, el [tour sin colas solo para vosotros](/ciudades/granada/actividades/alhambra-palacios-nazaries-tour-privado-sin-colas) (desde 278 € el grupo).
 
 **Tarde:** Capilla Real (7 €) con los sepulcros de los Reyes Católicos y la Catedral. **Noche:** zambra en una cueva del Sacromonte, 22-30 € con copa. El detalle está en [Granada en 1 día](/guias/granada/granada-en-1-dia).
 

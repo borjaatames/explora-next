@@ -64,7 +64,7 @@ Die Alhambra **lässt sich mit Kindern besichtigen**, aber man muss sie anpassen
 | Uhrzeit | Was zu tun ist |
 | --- | --- |
 | 9:00 Uhr | Eingang über den Generalife (Gärten, Wasser, Platz) |
-| 10:00 Uhr | Alcazaba: Torre de la Vela, Ausblicke, Zinnen |
+| 10:00 Uhr | Alcazaba: Wehrmauern, Ausblicke, Zinnen |
 | 10:45 Uhr | Pause mit Wasser und etwas Süßem |
 | 11:00 Uhr | Nasridenpaläste zur festgelegten Uhrzeit, ohne Eile |
 | 12:30 Uhr | Ausgang und Abstieg ins Zentrum |

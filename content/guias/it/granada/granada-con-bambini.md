@@ -60,12 +60,12 @@ Granada non è Siviglia quanto a mobilità: salite acciottolate, e i **Palazzi N
 
 ## Giorno 1: l'Alhambra adattata
 
-L'Alhambra è densissima e un bambino si stanca molto prima di un adulto. **Funziona:** il Generalife (fontane e spazio per correre), l'Alcazaba (merli, cavalieri, vista dalla Torre de la Vela) e due o tre sale dei Nasridi, soprattutto il Cortile dei Leoni. **Non funziona:** una visita guidata di 90 minuti sulla simbologia cufica; meglio da soli, fermandosi dove vogliono loro. Tempo realistico: **da 2 h 30 a 3 ore**, non quattro.
+L'Alhambra è densissima e un bambino si stanca molto prima di un adulto. **Funziona:** il Generalife (fontane e spazio per correre), l'Alcazaba (merli, cavalieri, vista dalle mura; la Torre de la Vela è chiusa dai terremoti di agosto 2026) e due o tre sale dei Nasridi, soprattutto il Cortile dei Leoni. **Non funziona:** una visita guidata di 90 minuti sulla simbologia cufica; meglio da soli, fermandosi dove vogliono loro. Tempo realistico: **da 2 h 30 a 3 ore**, non quattro.
 
 | Ora | Programma |
 | --- | --- |
 | 9:00 | Ingresso dalla porta del Generalife: giardini e acqua |
-| 10:00 | Alcazaba e Torre de la Vela |
+| 10:00 | Alcazaba e mura |
 | 10:45 | Pausa con acqua e qualcosa di dolce |
 | 11:00 | Palazzi Nasridi all'orario indicato, senza fretta |
 | 12:30 | Discesa verso il centro |

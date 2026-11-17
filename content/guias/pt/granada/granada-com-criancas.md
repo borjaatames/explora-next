@@ -60,12 +60,12 @@ Granada não é Sevilha em mobilidade: subidas empedradas, e os **Palácios Nasr
 
 ## Dia 1: a Alhambra adaptada
 
-A Alhambra é densíssima e esgota uma criança muito antes de um adulto. **Funciona:** o Generalife (fontes e espaço para correr), a Alcazaba (ameias, cavaleiros, vistas da Torre de la Vela) e duas ou três salas dos Nasridas, sobretudo o Pátio dos Leões. **Não funciona:** uma visita guiada de 90 minutos sobre simbologia cúfica; melhor por conta própria, parando onde eles quiserem. Tempo realista: **2h30 a 3 horas**, não quatro.
+A Alhambra é densíssima e esgota uma criança muito antes de um adulto. **Funciona:** o Generalife (fontes e espaço para correr), a Alcazaba (ameias, cavaleiros, vistas das muralhas; a Torre de la Vela está fechada desde os sismos de agosto de 2026) e duas ou três salas dos Nasridas, sobretudo o Pátio dos Leões. **Não funciona:** uma visita guiada de 90 minutos sobre simbologia cúfica; melhor por conta própria, parando onde eles quiserem. Tempo realista: **2h30 a 3 horas**, não quatro.
 
 | Hora | Plano |
 | --- | --- |
 | 9h00 | Entrada pela porta do Generalife: jardins e água |
-| 10h00 | Alcazaba e Torre de la Vela |
+| 10h00 | Alcazaba e muralhas |
 | 10h45 | Pausa com água e algo doce |
 | 11h00 | Palácios Nasridas à hora marcada, sem pressa |
 | 12h30 | Descida ao centro |

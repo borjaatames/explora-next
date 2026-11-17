@@ -32,7 +32,7 @@ faq:
   - pregunta: "Kann man die Alhambra an einem Tag von Málaga aus sehen?"
     respuesta: "Ja. Es sind etwa 3 Stunden Besuch und 1,5 Stunden Fahrt pro Strecke, das reicht für die Alhambra und einen Spaziergang durch den Albaicín. Entscheidend ist, das Ticket mit der Uhrzeit für die Nasridenpaläste zu haben."
   - pregunta: "Was mache ich, wenn es keine Alhambra-Tickets mehr gibt?"
-    respuesta: "Führungen und Ausflüge haben meist ein eigenes Kontingent. Sieh unseren Leitfaden zu ausverkauften Alhambra-Tickets."
+    respuesta: "Führungen und Ausflüge kaufen die Tickets lange im Voraus und haben oft noch Plätze. Sieh unseren Leitfaden zu ausverkauften Alhambra-Tickets."
   - pregunta: "Was kostet die private Alhambra-Tour ab Málaga?"
     respuesta: "397 € pro Person, mindestens 2: inklusive Privattransport, Alhambra-Tickets und Privatguide in der Alhambra und im Albaicín. Das Essen ist nicht inbegriffen."
   - pregunta: "Gibt es eine Tour für Kreuzfahrtgäste?"

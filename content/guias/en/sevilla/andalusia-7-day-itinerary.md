@@ -33,7 +33,7 @@ faq:
   - pregunta: "Should I do Andalusia by train or by car?"
     respuesta: "By train for the cities: journeys take 45 minutes to 1 h 30 and drop you in the centre with no parking hunt, which in Seville, Córdoba and Granada is expensive and restricted. A car only pays off for Ronda and the white villages."
   - pregunta: "How far ahead should I book the Alhambra?"
-    respuesta: "Three or four weeks in spring and autumn, and as soon as tickets go on sale (up to three months ahead) for Easter, bank holidays and summer. General admission is €22.27 on the official site and your Nasrid Palaces time slot is fixed. If it's sold out, a guided tour with its own ticket allocation is the fallback."
+    respuesta: "Three or four weeks in spring and autumn, and as soon as tickets go on sale (up to a year ahead) for Easter, bank holidays and summer. General admission is €22.27 on the official site and your Nasrid Palaces time slot is fixed. If it's sold out, a guided tour with entry included, which often still has places, is the fallback."
   - pregunta: "Which order should I do the route in?"
     respuesta: "Seville, Córdoba, Granada, Málaga, or the reverse. Flying into Seville and out of Málaga uses the two airports with the most flights and avoids backtracking. What doesn't work is Córdoba as a day trip from Granada: it's about 2 hours each way."
   - pregunta: "When is the best time to tour Andalusia?"
@@ -77,7 +77,7 @@ Book trains on Renfe's website as soon as your dates are fixed: cheap fares disa
 
 | What | Official price | Book |
 | --- | --- | --- |
-| Alhambra (timed Nasrid Palaces) | €22.27 | 3-4 weeks; up to 3 months in high season |
+| Alhambra (timed Nasrid Palaces) | €22.27 | 3-4 weeks; 2-3 months in high season (sales open up to a year ahead) |
 | Real Alcázar, Seville | €15.50 | 1-2 weeks; the 9:30 slot goes first |
 | Seville Cathedral and Giralda | €13 online | a few days |
 | Córdoba Mosque-Cathedral | €15 (free 8:30-9:30, Monday to Saturday) | a few days; the free hour can't be booked |
@@ -116,7 +116,7 @@ Book trains on Renfe's website as soon as your dates are fixed: cheap fares disa
 
 ## Day 5: the Alhambra
 
-**8:30 — Alhambra.** The whole day revolves around your Nasrid Palaces time: there are only **30 minutes' grace**, and it's a 30-45 minute walk from the entrance to the palaces. Alcazaba, Nasrid Palaces and Generalife take about 4 hours. If tickets are gone, the [guided tour with entry included](/en/cities/granada/activities/alhambra-generalife-guided-tour) (from €49) has its own allocation; privately, the [skip-the-line tour just for you](/en/cities/granada/activities/alhambra-nasrid-palaces-private-tour-skip-the-line) (from €278 per group).
+**8:30 — Alhambra.** The whole day revolves around your Nasrid Palaces time: there are only **30 minutes' grace**, and it's a 30-45 minute walk from the entrance to the palaces. Alcazaba, Nasrid Palaces and Generalife take about 4 hours. If tickets are gone, the [guided tour with entry included](/en/cities/granada/activities/alhambra-generalife-guided-tour) (from €49) often still has places; privately, the [skip-the-line tour just for you](/en/cities/granada/activities/alhambra-nasrid-palaces-private-tour-skip-the-line) (from €278 per group).
 
 **Afternoon:** the Royal Chapel (€7), with the tombs of Ferdinand and Isabella, and the Cathedral. **Evening:** a zambra in a Sacromonte cave, €22-30 with a drink. The detail is in [Granada in 1 day](/en/guides/granada/granada-in-1-day).
 

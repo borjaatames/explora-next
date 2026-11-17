@@ -31,7 +31,7 @@ faq:
   - pregunta: "Peut-on voir Grenade en une journée ?"
     respuesta: "L'essentiel, oui : l'Alhambra (environ 4 heures), le centre avec la Chapelle royale, l'Albaicín au coucher du soleil et un spectacle de flamenco dans une grotte. La Cartuja, le Realejo et le Sacromonte de jour demandent une deuxième journée."
   - pregunta: "Que faire si les billets pour l'Alhambra sont épuisés ?"
-    respuesta: "Essayez une autre date ou une visite guidée avec entrée incluse, qui dispose de son propre quota (à partir de 49 €). La visite nocturne des palais nasrides (12,73 €) est une autre option. N'achetez pas auprès de revendeurs."
+    respuesta: "Essayez une autre date ou une visite guidée avec entrée incluse, qui a souvent encore des places (à partir de 49 €). La visite nocturne des palais nasrides (12,73 €) est une autre option. N'achetez pas auprès de revendeurs."
   - pregunta: "Vaut-il mieux visiter l'Alhambra le matin ou l'après-midi ?"
     respuesta: "Le matin, au premier créneau : moins de monde et une lumière rasante dans les cours. Cela libère aussi l'après-midi pour l'Albaicín et le coucher de soleil à San Nicolás. En été, le dernier créneau de l'après-midi convient aussi, à cause de la chaleur."
   - pregunta: "Peut-on faire Grenade en excursion d'une journée depuis Málaga ou Séville ?"
@@ -67,7 +67,7 @@ Une seule journée à Grenade, c'est court, mais suffisant pour ce qui la rend u
 
 | Quoi | Prix | Réserver |
 | --- | --- | --- |
-| Alhambra Générale (avec palais nasrides) | 22,27 € sur le site officiel | 3-4 semaines ; jusqu'à 3 mois en haute saison |
+| Alhambra Générale (avec palais nasrides) | 22,27 € sur le site officiel | 3-4 semaines ; 2-3 mois en haute saison (vente jusqu'à un an avant) |
 | Visite guidée avec entrée | à partir de 49 € | 1-2 semaines ; votre bouée de secours si c'est complet |
 | Zambra au Sacromonte | 22-30 € avec une boisson | 2-3 jours ; davantage le week-end |
 | Chapelle royale et cathédrale | 7 € chacune | le jour même |
@@ -79,7 +79,7 @@ Une seule journée à Grenade, c'est court, mais suffisant pour ce qui la rend u
 La règle d'or : votre horaire pour les **palais nasrides** est fixe et vous n'avez que **30 minutes de tolérance**. Il faut 30-45 minutes à pied de l'entrée jusqu'aux palais : organisez votre parcours autour de ce créneau :
 
 - **Palais nasrides** (1 h 30) : la cour des Myrtes, la salle des Ambassadeurs, la cour des Lions. Levez les yeux : les plafonds sont le clou de la visite.
-- **Alcazaba** (45 min) : la Torre de la Vela offre la meilleure vue sur Grenade et la Sierra Nevada.
+- **Alcazaba** (45 min) : les remparts dominent Grenade et la Sierra Nevada (la Torre de la Vela est fermée depuis les séismes d'août 2026).
 - **Generalife** (1 heure) : le palais d'été avec le Patio de la Acequia.
 
 Environ 4 heures au total. Munissez-vous de votre **passeport ou pièce d'identité** : les billets sont nominatifs. Si vous voulez comprendre ce que vous regardez (les « motifs » sur les murs sont des poèmes), la visite guidée la plus demandée inclut l'entrée :

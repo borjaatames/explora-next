@@ -62,7 +62,7 @@ Granada with kids goes well or badly depending on the plan. The adult version (f
 The Alhambra is dense, and it tires a child's eyes long before an adult's. Focus on what works:
 
 - **Generalife:** open gardens, fountains and space to run.
-- **Alcazaba:** the fortress, battlements and the Torre de la Vela views.
+- **Alcazaba:** the fortress, battlements and views from the ramparts (the Torre de la Vela has been closed since the August 2026 earthquakes).
 - **Two or three rooms of the Nasrid Palaces**, above all the **Court of the Lions**, whose animal fountain catches their attention.
 
 Skip long guided visits: kids tune out after 15 minutes of symbolism. Go self-guided, stop when they want, and sit on a bench mid-visit. Allow **2.5–3 hours, no more**; if you have two days, see it in portions.
@@ -70,7 +70,7 @@ Skip long guided visits: kids tune out after 15 minutes of symbolism. Go self-gu
 | Time | What to do |
 | --- | --- |
 | 9 AM | Enter via the Generalife (gardens, water, space) |
-| 10 AM | Alcazaba: Torre de la Vela, views, battlements |
+| 10 AM | Alcazaba: ramparts, views, battlements |
 | 10:45 AM | Pause with water and something sweet |
 | 11 AM | Nasrid Palaces at your assigned time |
 | 12:30 PM | Exit and head down to the centre |

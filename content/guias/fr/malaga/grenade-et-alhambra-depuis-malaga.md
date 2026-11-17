@@ -32,7 +32,7 @@ faq:
   - pregunta: "Peut-on voir l'Alhambra en une journée depuis Malaga ?"
     respuesta: "Oui. Comptez environ 3 heures de visite et 1 h 30 de trajet dans chaque sens : cela laisse le temps pour l'Alhambra et une balade dans l'Albaicín. La clé est d'avoir le billet avec l'heure d'entrée aux palais nasrides."
   - pregunta: "Que faire s'il ne reste plus de billets pour l'Alhambra ?"
-    respuesta: "Les visites guidées et les excursions ont généralement leur propre quota. Consultez notre guide sur les billets épuisés de l'Alhambra."
+    respuesta: "Les visites guidées et les excursions achètent les billets longtemps à l'avance et ont souvent encore des places. Consultez notre guide sur les billets épuisés de l'Alhambra."
   - pregunta: "Combien coûte l'excursion privée à l'Alhambra depuis Malaga ?"
     respuesta: "397 € par personne, avec un minimum de 2 : elle comprend le transport privé, les billets pour l'Alhambra et un guide privé à l'Alhambra et dans l'Albaicín. Le déjeuner n'est pas inclus."
   - pregunta: "Existe-t-il une excursion pour les croisiéristes ?"

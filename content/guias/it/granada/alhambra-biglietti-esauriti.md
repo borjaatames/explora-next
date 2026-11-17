@@ -27,7 +27,7 @@ slugs:
   it: alhambra-biglietti-esauriti
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Se il sito ufficiale risulta esaurito, controlla **la sera prima tra le 20:00 e le 22:00**, quando a volte escono biglietti dell''ultimo minuto, e verifica la **Granada Card**, che ha una quota propria. Se non hai fortuna, una **visita guidata con ingresso incluso** ti garantisce i Palazzi Nasridi; la **visita notturna** e il biglietto **Giardini e Generalife** di solito hanno più posti.'
+respuestaCorta: 'Se il sito ufficiale risulta esaurito, controlla **la sera prima tra le 20:00 e le 22:00**, quando a volte escono biglietti dell''ultimo minuto, e verifica la **Granada Card**, che ha una quota propria. Se non hai fortuna, una **visita guidata con ingresso incluso** spesso ha ancora posti per i Palazzi Nasridi; la **visita notturna** e il biglietto **Giardini e Generalife** di solito hanno più posti.'
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife
@@ -37,7 +37,7 @@ actividades:
   - alhambra-tour-guiado-con-entradas
 faq:
 - pregunta: Si possono comprare i biglietti dell'Alhambra in biglietteria il giorno stesso?
-  respuesta: A volte se ne vendono pochi in biglietteria il giorno stesso, ma non c'è alcuna garanzia e in alta stagione di solito non resta nulla. Non organizzare il viaggio contando su questo.
+  respuesta: La biglietteria vende in contemporanea con il sito e non ha una quota propria, quindi se il sito è esaurito lo è anche la biglietteria. In bassa stagione di solito ci sono biglietti in entrambi.
 - pregunta: A che ora escono i biglietti dell'ultimo minuto?
   respuesta: Secondo Turismo de Granada, la sera prima della visita, tra le 20:00 e le 22:00, possono comparire biglietti dell'ultimo minuto sul sito ufficiale. Conviene controllare anche nei giorni precedenti, nel caso si liberino cancellazioni.
 - pregunta: È affidabile prenotare una visita guidata se il sito ufficiale è esaurito?
@@ -53,7 +53,7 @@ opciones:
     etiqueta: Senza Nasridi
 ---
 
-I biglietti dell'Alhambra si possono comprare **fino a tre mesi prima**, e in primavera, nei ponti e in estate le fasce del mattino si esauriscono presto. Che il sito ufficiale dica «esaurito» non significa che resterai senza Alhambra: ci sono ancora diverse strade, alcune ufficiali e altre a pagamento, e conviene provarle in quest'ordine.
+I biglietti dell'Alhambra si possono comprare **fino a un anno prima**, e in primavera, nei ponti e in estate le fasce del mattino si esauriscono presto. Che il sito ufficiale dica «esaurito» non significa che resterai senza Alhambra: ci sono ancora diverse strade, alcune ufficiali e altre a pagamento, e conviene provarle in quest'ordine.
 
 ## Quale biglietto scegliere?
 
@@ -73,7 +73,7 @@ Il sito ufficiale di vendita è `tickets.alhambra-patronato.es`. Il biglietto ge
 - **Controlla per diversi giorni di fila:** si liberano cancellazioni e restituzioni dei gruppi.
 - **La sera prima, tra le 20:00 e le 22:00:** secondo Turismo de Granada, a quell'ora possono uscire biglietti dell'ultimo minuto per il giorno dopo.
 - **Sii flessibile sull'orario dei Nasridi:** i primi del mattino e gli ultimi del pomeriggio sono quelli che finiscono prima; quelli di mezzogiorno resistono un po' di più.
-- **Biglietteria il giorno stesso:** a volte ne restano pochi, ma senza garanzia. Non è un piano.
+- **Biglietteria:** vende in contemporanea con il sito e non ha una quota propria. In bassa stagione spesso ci sono biglietti in entrambi; altrimenti no.
 
 ## 2. La Granada Card
 
@@ -81,7 +81,7 @@ La **Granada Card** riserva una quota propria di biglietti per l'Alhambra, quind
 
 ## 3. Una visita guidata con ingresso incluso
 
-È l'opzione più sicura quando tutto il resto fallisce: gli operatori autorizzati prenotano le loro quote in anticipo e ti vendono la visita con l'orario dei Nasridi già assegnato. Costa più del biglietto singolo (da circa 50 €), ma ti risparmi la ricerca e qualcuno ti spiega ciò che vedi.
+Spesso è la via d'ingresso quando tutto il resto fallisce: gli operatori autorizzati comprano i biglietti con molto anticipo e spesso hanno ancora posti (non sempre) e ti vendono la visita con l'orario dei Nasridi già assegnato. Costa più del biglietto singolo (da circa 50 €), ma ti risparmi la ricerca e qualcuno ti spiega ciò che vedi.
 
 Prima di pagare, verifica due cose nella scheda: che dica chiaramente **«include i Palazzi Nasridi»** e che il biglietto sia incluso. Ci sono tour che percorrono solo i giardini o la zona gratuita.
 

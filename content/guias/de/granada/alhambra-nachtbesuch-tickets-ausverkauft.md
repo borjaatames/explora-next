@@ -29,7 +29,7 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Der **Nachtbesuch der Nasridenpaläste** kostet **12,73 €** auf der offiziellen Website (`tickets.alhambra-patronato.es`). Vom 15. Oktober bis 31. März gibt es ihn nur **freitags und samstags von 20 bis 21:30 Uhr**, vom 1. April bis 14. Oktober **dienstags bis samstags von 22 bis 23:30 Uhr**. Ist er ausverkauft, probier das Ticket **Alhambra Experiencias** (22,27 €), die **Granada Card 24h** (50 €) mit eigenem Kontingent oder die **Abendkasse**, die eine Stunde vorher öffnet. Sicher klappt es mit einer **geführten Nachttour mit inbegriffenem Ticket** ab 54 €.'
+respuestaCorta: 'Der **Nachtbesuch der Nasridenpaläste** kostet **12,73 €** auf der offiziellen Website (`tickets.alhambra-patronato.es`). Vom 15. Oktober bis 31. März gibt es ihn nur **freitags und samstags von 20 bis 21:30 Uhr**, vom 1. April bis 14. Oktober **dienstags bis samstags von 22 bis 23:30 Uhr**. Ist er ausverkauft, probier das Ticket **Alhambra Experiencias** (22,27 €), die **Granada Card 24h** (50 €) mit eigenem Kontingent oder die **Abendkasse**, die eine Stunde vorher öffnet. Am ehesten klappt es mit einer **geführten Nachttour mit inbegriffenem Ticket** ab 54 €.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -117,7 +117,7 @@ In dieser Reihenfolge:
 2. **Schau dir Alhambra Experiencias und Dobla de Oro Nocturna an.** Das sind eigene Produkte auf derselben Website: Du bekommst die Paläste bei Nacht und etwas dazu, für wenige Euro mehr.
 3. **Prüf die Granada Card 24h (50 €).** Sie ist die einzige Granada Card mit dem Nachtbesuch der Nasridenpaläste und hat laut Turismo de Granada **ein eigenes Kontingent**: Es kann noch Plätze geben, wenn die Einzeltickets weg sind. Lohnt sich, wenn du auch Kathedrale, Capilla Real und andere Monumente besuchst.
 4. **Geh zur Abendkasse**, die eine Stunde vor Einlass öffnet. Vielleicht gibt es noch ein, zwei Tickets, aber ohne Garantie.
-5. **Buch eine geführte Nachttour** mit inbegriffenem Ticket. Die Anbieter reservieren ihr Kontingent lange im Voraus.
+5. **Buch eine geführte Nachttour** mit inbegriffenem Ticket. Die Anbieter kaufen die Tickets lange im Voraus und haben oft noch Plätze (nicht immer).
 
 ## 4. Die geführte Nachttour
 

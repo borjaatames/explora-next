@@ -1,6 +1,6 @@
 ---
 titulo: 'Alhambra Tickets: Preise, Tickettypen und so besichtigst du sie richtig'
-descripcion: 'Alhambra Tickets 2026: offizieller Preis 22,27 €, Verkauf bis zu drei Monate im Voraus, Uhrzeit für die Nasridenpaläste und was tun, wenn alles ausgebucht ist.'
+descripcion: 'Alhambra Tickets 2026: offizieller Preis 22,27 €, Verkauf bis zu einem Jahr im Voraus, Uhrzeit für die Nasridenpaläste und was tun, wenn alles ausgebucht ist.'
 metaTitle: 'Alhambra Tickets 2026: Preise und Tickettypen'
 categoria: "granada"
 slug: "alhambra-besichtigen"
@@ -28,7 +28,7 @@ slugs:
   it: alhambra-come-visitarla
   pt: alhambra-como-visitar
 reservasArriba: true
-respuestaCorta: 'Die offiziellen Tickets (22,27 €) gibt es **bis zu drei Monate im Voraus**, und die Vormittage sind Wochen vorher ausverkauft. **Wenn keine mehr da sind**, sichert dir eine Führung mit Ticket die Nasridenpaläste zu fester Uhrzeit. Plane etwa 4 Stunden ein und komm rechtzeitig: Für die Nasridenpaläste hast du nur 30 Minuten Spielraum.'
+respuestaCorta: 'Die offiziellen Tickets (22,27 €) gibt es **bis zu einem Jahr im Voraus**, und die Vormittage sind Wochen vorher ausverkauft. **Wenn keine mehr da sind**, hat eine Führung mit Ticket oft noch Plätze für die Nasridenpaläste zu fester Uhrzeit. Plane etwa 4 Stunden ein und komm rechtzeitig: Für die Nasridenpaläste hast du nur 30 Minuten Spielraum.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -58,7 +58,7 @@ Die meisten stellen sich einen Palast vor. Tatsächlich handelt es sich **um ein
 | Bereich | Was es ist | Zeit |
 | --- | --- | --- |
 | Nasridenpaläste | Die Seele der Anlage. Mexuar, Comares, Löwen | 1 Std. 30 Min. |
-| Alcazaba | Militärfestung. Aussicht vom Torre de la Vela | 45 Min. |
+| Alcazaba | Militärfestung. Aussicht von den Wehrmauern (Torre de la Vela seit den Erdbeben im August 2026 geschlossen) | 45 Min. |
 | Generalife | Sommerpaläste und -gärten der Sultane | 1 Std. |
 | Palast Karls V. | Renaissance. Beherbergt das Alhambra-Museum | 30 Min. |
 
@@ -98,18 +98,18 @@ Die Alhambra **hat keinen kostenlosen Eintrittstag** wie andere Monumente. Die e
 
 ## Wann man buchen sollte
 
-Das ist der wichtigste Teil dieses gesamten Guides, und hier scheitern die meisten. Die Alhambra **begrenzt die Kapazität auf rund 8.000 Tickets pro Tag**, und in die Nasridenpaläste dürfen nur **300 Personen alle 30 Minuten**, sodass die beliebtesten Zeitfenster (10–12 Uhr) schon viele Wochen im Voraus ausgebucht sind. Und Tickets öffnen sich **maximal 3 Monate (90 Tage) im Voraus** — früher kann man nicht buchen.
+Das ist der wichtigste Teil dieses gesamten Guides, und hier scheitern die meisten. Die Alhambra **begrenzt die Kapazität auf rund 8.000 Tickets pro Tag**, und in die Nasridenpaläste dürfen nur **300 Personen alle 30 Minuten**, sodass die beliebtesten Zeitfenster (10–12 Uhr) schon viele Wochen im Voraus ausgebucht sind. Der Verkauf öffnet **bis zu einem Jahr im Voraus**.
 
 | Vorlaufzeit | Wahrscheinlichkeit |
 | --- | --- |
-| Rund 3 Monate (maximal möglich) | Garantiert für jedes Zeitfenster |
+| Mehr als 3 Monate (Verkauf bis zu einem Jahr vorher) | Praktisch jedes Zeitfenster |
 | 60–90 Tage | Hoch, du wählst dein bevorzugtes Zeitfenster |
 | 30–60 Tage | Mittel, eventuell bleiben nur schlechte Zeitfenster |
 | 7–30 Tage | Niedrig in der Mittel- bis Hochsaison. Unwahrscheinlich in der Hochsaison |
 | Gleiche Woche | Fast unmöglich. Nur Stornierungen |
-| Am Tag selbst am Eingang | Glückssache. Vor 7:30 Uhr anstehen |
+| Am Tag selbst an der Kasse | Nur in der Nebensaison: Die Kasse verkauft zeitgleich mit der Website und hat kein eigenes Kontingent |
 
-> **⚠️ Hinweis:** In der Karwoche, an den Maifeiertagen, im Juli–August und zu Weihnachten sind die Tickets **innerhalb weniger Minuten nach Freischaltung** ausverkauft. Reist du an diesen Terminen, buche am Tag der Freischaltung (90 Tage im Voraus).
+> **⚠️ Hinweis:** In der Karwoche, an den Maifeiertagen, im Juli–August und zu Weihnachten sind die Tickets **Wochen bis Monate vorher** ausverkauft. Reist du an diesen Terminen, buche 2–3 Monate vorher oder sobald deine Daten feststehen.
 
 **Kaufe nur auf der offiziellen Seite:** `tickets.alhambra-patronato.es`. Punkt. Jede andere Seite berechnet Kommission und verkauft in vielen Fällen falsche oder doppelt vergebene Tickets. Die offizielle Seite läuft nicht perfekt (sie ist langsam, manchmal gibt es Fehler beim Bezahlen), aber sie ist die einzige sichere. Schlägt der Kauf fehl, versuche es einige Minuten später erneut, statt bei Google anderswo zu suchen.
 
@@ -117,11 +117,11 @@ Das ist der wichtigste Teil dieses gesamten Guides, und hier scheitern die meist
 
 Das passiert jede Woche. Hier sind die **3 echten Alternativen**, in Reihenfolge der Empfehlung:
 
-**1. Geführte Besichtigung mit einem autorisierten Anbieter.** Die großen Reiseveranstalter (Civitatis, GetYourGuide, akkreditierte lokale Agenturen) haben **reservierte Kontingente**, die auf der Seite des Patronato nicht erscheinen. Es kostet **45 bis 80 €** pro Person, inklusive Eintritt und Führung für 2–3 Stunden. Wenn die offizielle Seite "ausgebucht" anzeigt, funktioniert das.
+**1. Geführte Besichtigung mit einem autorisierten Anbieter.** Die großen Reiseveranstalter (Civitatis, GetYourGuide, akkreditierte lokale Agenturen) kaufen die Tickets **lange im Voraus** und haben oft noch Plätze, wenn die Seite des Patronato ausgebucht ist (nicht immer). Es kostet **45 bis 80 €** pro Person, inklusive Eintritt und Führung für 2–3 Stunden. Zeigt die offizielle Seite "ausgebucht", ist das oft der Weg hinein.
 
 **2. Nachtbesichtigung der Nasridenpaläste (12,73 €).** Oft verfügbar, wenn die Tagesbesichtigung ausgebucht ist. Du siehst nur die Nasridenpaläste (keine Alcazaba oder Generalife), aber die beleuchteten Paläste bei Nacht sind ein anderes Erlebnis — für viele sogar besser als am Tag.
 
-**3. Um 7:30 Uhr am Eingang anstehen.** Das Patronato gibt **ein begrenztes Tageskontingent** an der physischen Kasse frei (nicht online). Du musst vor 8 Uhr da sein und hoffen. Funktioniert in der Nebensaison, in der Hochsaison fast nie.
+**3. An der Kasse fragen.** Die Kasse verkauft zeitgleich mit der Website und hat **kein eigenes Kontingent**: Ist online alles weg, ist es auch dort weg. In der Nebensaison gibt es oft an beiden noch Tickets.
 
 > **⚠️ Hinweis:** Was du **NICHT** tun solltest, ist von nicht-offiziellen Seiten zu kaufen, die "Last-Minute-Tickets Alhambra 22,27 €" versprechen. Zeigt die offizielle Seite "ausgebucht" und eine andere bietet dasselbe Ticket zum selben Preis an, handelt es sich um einen Wiederverkäufer oder Betrug.
 
@@ -166,7 +166,7 @@ Angenommen bei Generaleintritt mit Nasriden-Zeitfenster um 10 Uhr:
 | Uhrzeit | Bereich | Dauer |
 | --- | --- | --- |
 | 8:45 Uhr | Eingang und Aufstieg zur Alcazaba | 45 Min. |
-| 9:30 Uhr | Aussicht vom Torre de la Vela | 15 Min. |
+| 9:30 Uhr | Aussicht von den Wehrmauern der Alcazaba | 15 Min. |
 | 10:00 Uhr | Nasridenpaläste (Zeitfenster) | 1,5 Std. |
 | 11:30 Uhr | Palast Karls V. und Alhambra-Museum | 30 Min. |
 | 12:00 Uhr | Generalife (Gärten und Palast) | 1 Std. |
@@ -174,7 +174,7 @@ Angenommen bei Generaleintritt mit Nasriden-Zeitfenster um 10 Uhr:
 
 **Gesamtzeit**: 4 Std. 15 Min. Bist du mit Kindern unterwegs oder willst eine Essenspause, rechne eine weitere Stunde dazu.
 
-> **⭐ Tipp:** Beginne bei der Ankunft mit der Alcazaba (ältester Teil, militärische Festung). Wenn du zu deinem Zeitfenster bei den Nasridenpalästen ankommst, sind deine Beine schon aufgewärmt, und du hattest bereits die besten Ausblicke Granadas von oben am Torre de la Vela.
+> **⭐ Tipp:** Beginne bei der Ankunft mit der Alcazaba (ältester Teil, militärische Festung). Wenn du zu deinem Zeitfenster bei den Nasridenpalästen ankommst, sind deine Beine schon aufgewärmt, und du hattest bereits die besten Ausblicke Granadas von den Mauern der Alcazaba.
 
 ## Was man drinnen sehen sollte: die 7 wichtigsten Bereiche
 
@@ -190,7 +190,7 @@ Die Alhambra ist kein Gebäude, das man "im Eiltempo" abhaken sollte. Es ist ein
 
 **Und außerdem**:
 
-6. **Alcazaba — Torre de la Vela.** Die besten Ausblicke auf Granada und die Sierra Nevada von oben. Die Glocke ganz oben wurde am 2. Januar 1492 geläutet, als die Katholischen Könige die Stadt einnahmen — und wird traditionell jedes Jahr am 2. Januar erneut geläutet.
+6. **Alcazaba — Torre de la Vela.** Der Turm ist seit den Erdbeben im August 2026 geschlossen; die Wehrmauern bieten trotzdem weite Ausblicke auf Granada und die Sierra Nevada. Die Glocke ganz oben wurde am 2. Januar 1492 geläutet, als die Katholischen Könige die Stadt einnahmen — und wird traditionell jedes Jahr am 2. Januar erneut geläutet.
 7. **Generalife — Patio de la Acequia.** Der meistfotografierte Garten des Generalife. Gekreuzte Wasserstrahlen über einem zentralen Kanal. Er war die Sommerresidenz der Sultane und ist über eine Brücke mit dem Rest der Alhambra verbunden.
 
 > **⭐ Tipp:** Schau innerhalb der Nasridenpaläste **ständig nach oben**. Die Kuppeln, die Zedernholzdecken und die kufischen Inschriften sind das Anspruchsvollste an der gesamten Anlage, und die meisten Besucher sehen sie nicht, weil sie auf den Boden schauen oder die Wände fotografieren.
@@ -221,7 +221,7 @@ Die neun Fehler, die wir jede Woche beobachten. Vermeidest du sie, verändert si
 
 Die häufigste Frage: **Lohnt sich der Aufpreis für eine Führung?** Kommt darauf an, was du mitnehmen möchtest.
 
-**Auf eigene Faust mit Audioguide** (Eintritt + offizieller Audioguide). Funktioniert, wenn du dein eigenes Tempo schätzt, schon etwas über islamische Kunst gelesen hast und die Monumente dich eher wegen der Atmosphäre als wegen des historischen Kontexts interessieren. Der offizielle Audioguide kostet 6 € und ist gut gemacht.
+**Auf eigene Faust** (Eintritt + App oder Reiseführer). Funktioniert, wenn du dein eigenes Tempo schätzt, schon etwas über islamische Kunst gelesen hast und die Monumente dich eher wegen der Atmosphäre als wegen des historischen Kontexts interessieren. Einen offiziellen Audioguide gibt es derzeit nicht.
 
 **Geführte Besichtigung (45–80 €).** Ist es dein erster Besuch, **lohnt es sich**. Die Alhambra ist extrem symbolreich (in die Wände gemeißelte Gedichte, heilige Geometrie in den Kacheln, koranische Bezüge an den Brunnen), und ohne kompetente Führung nimmst du nur die Verpackung mit, ohne das Geschenk auszupacken. Die offiziellen Führungen finden in Gruppen von maximal 25 Personen statt und dauern 2 Std. 30 Min. bis 3 Std.
 

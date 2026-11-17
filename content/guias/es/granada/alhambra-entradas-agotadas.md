@@ -27,7 +27,7 @@ slugs:
   it: alhambra-biglietti-esauriti
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Si la web oficial sale agotada, mira **la víspera entre las 20:00 y las 22:00**, cuando a veces salen entradas de última hora, y consulta la **Granada Card**, que tiene cupo propio. Si no hay suerte, una **visita guiada con la entrada incluida** te asegura los Palacios Nazaríes; la **visita nocturna** y la entrada de **Jardines y Generalife** suelen tener más plazas.'
+respuestaCorta: 'Si la web oficial sale agotada, mira **la víspera entre las 20:00 y las 22:00**, cuando a veces salen entradas de última hora, y consulta la **Granada Card**, que tiene cupo propio. Si no hay suerte, una **visita guiada con la entrada incluida** a menudo aún tiene plazas para los Palacios Nazaríes; la **visita nocturna** y la entrada de **Jardines y Generalife** suelen tener más plazas.'
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife
@@ -53,7 +53,7 @@ opciones:
     etiqueta: Sin Nazaríes
 ---
 
-Las entradas de la Alhambra se pueden comprar **con hasta tres meses de antelación**, y en primavera, puentes y verano las franjas de mañana se agotan pronto. Que la web oficial diga «agotado» no significa que te quedes sin Alhambra: quedan varias vías, unas oficiales y otras de pago, y conviene probarlas en este orden.
+Las entradas de la Alhambra se ponen a la venta **hasta con un año de antelación**, y en primavera, puentes y verano las franjas de mañana se agotan pronto. Que la web oficial diga «agotado» no significa que te quedes sin Alhambra: quedan varias vías, unas oficiales y otras de pago, y conviene probarlas en este orden.
 
 ## ¿Qué entrada elegir?
 
@@ -80,7 +80,7 @@ La **Granada Card** guarda un cupo propio de entradas a la Alhambra, así que pu
 
 ## 3. Una visita guiada con la entrada incluida
 
-Es la opción más segura cuando todo lo demás falla: los operadores autorizados reservan sus cupos con antelación y te venden la visita con la hora de los Nazaríes ya asignada. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
+Es la opción más segura cuando todo lo demás falla: los operadores autorizados compran las entradas con mucha antelación y te venden la visita con la hora de los Nazaríes ya asignada. No tienen un cupo reservado, así que no siempre les queda sitio, pero a menudo tienen plazas cuando la web oficial ya no. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
 
 Antes de pagar, comprueba dos cosas en la ficha: que diga claramente **«incluye Palacios Nazaríes»** y que la entrada vaya incluida. Hay tours que solo recorren los jardines o la zona gratuita.
 

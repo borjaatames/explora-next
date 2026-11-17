@@ -32,7 +32,7 @@ faq:
   - pregunta: "Si può vedere Granada in un giorno?"
     respuesta: "L'essenziale sì: l'Alhambra (circa 4 ore), il centro con la Cappella Reale, l'Albaicín al tramonto e uno spettacolo di flamenco in grotta. La Cartuja, il Realejo e il Sacromonte di giorno richiedono un secondo giorno."
   - pregunta: "E se i biglietti dell'Alhambra sono esauriti?"
-    respuesta: "Prova un'altra data o un tour guidato con ingresso incluso, che ha una quota propria (da 49 €). La visita notturna ai Palazzi Nasridi (12,73 €) è un'altra opzione. Non comprare dai rivenditori."
+    respuesta: "Prova un'altra data o un tour guidato con ingresso incluso, che spesso ha ancora posti (da 49 €). La visita notturna ai Palazzi Nasridi (12,73 €) è un'altra opzione. Non comprare dai rivenditori."
   - pregunta: "L'Alhambra è meglio al mattino o al pomeriggio?"
     respuesta: "Al mattino, nel primo turno: meno gente e luce radente nei cortili. In più ti libera il pomeriggio per l'Albaicín e il tramonto a San Nicolás. D'estate funziona anche l'ultimo turno del pomeriggio, per il caldo."
   - pregunta: "Posso visitare Granada in giornata da Malaga o Siviglia?"
@@ -68,7 +68,7 @@ Un solo giorno a Granada è poco ma basta per ciò che la rende unica: l'Alhambr
 
 | Cosa | Prezzo | Prenota |
 | --- | --- | --- |
-| Alhambra General (con Palazzi Nasridi) | 22,27 € sul sito ufficiale | 3-4 settimane; fino a 3 mesi in alta stagione |
+| Alhambra General (con Palazzi Nasridi) | 22,27 € sul sito ufficiale | 3-4 settimane; 2-3 mesi in alta stagione (vendita fino a un anno prima) |
 | Tour guidato con ingresso | da 49 € | 1-2 settimane; la tua ancora di salvezza se è esaurito |
 | Zambra al Sacromonte | 22-30 € con consumazione | 2-3 giorni; di più nel fine settimana |
 | Cappella Reale e Cattedrale | 7 € ciascuna | lo stesso giorno |
@@ -80,7 +80,7 @@ Un solo giorno a Granada è poco ma basta per ciò che la rende unica: l'Alhambr
 La regola d'oro: l'orario dei **Palazzi Nasridi** è fisso e c'è solo **mezz'ora di tolleranza**. Dall'ingresso ai palazzi ci sono 30-45 minuti a piedi, quindi organizza il percorso attorno a quell'orario:
 
 - **Palazzi Nasridi** (1 h 30): il Cortile dei Mirti, la Sala degli Ambasciatori, il Cortile dei Leoni. Guarda in alto: i soffitti sono il pezzo forte.
-- **Alcazaba** (45 min): la Torre de la Vela offre la vista migliore su Granada e la Sierra Nevada.
+- **Alcazaba** (45 min): le mura dominano Granada e la Sierra Nevada (la Torre de la Vela è chiusa dai terremoti di agosto 2026).
 - **Generalife** (1 ora): il palazzo estivo con il Patio de la Acequia.
 
 In totale circa 4 ore. Porta **passaporto o documento d'identità**: i biglietti sono nominativi. Se vuoi capire cosa stai guardando (i "disegni" sulle pareti sono poesie), il tour guidato più scelto include l'ingresso:

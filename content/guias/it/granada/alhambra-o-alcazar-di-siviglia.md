@@ -38,7 +38,7 @@ faq:
 - pregunta: L'Alhambra e l'Alcázar di Siviglia si somigliano?
   respuesta: 'A prima vista sì, ma non sono la stessa cosa. L''Alhambra è arte nasride, opera dell''ultima dinastia musulmana della penisola. Il palazzo principale dell''Alcázar lo fece costruire nel 1364 un re cristiano, Pietro I, con artigiani che imitavano quello stile: è arte mudéjar. Per questo chi li vede entrambi nota che si somigliano e allo stesso tempo si differenziano.'
 - pregunta: Con quanto anticipo bisogna prenotare ciascuno?
-  respuesta: 'L''Alhambra vende biglietti fino a tre mesi prima e in primavera, nei ponti e in estate le mattine si esauriscono con settimane di margine. L''Alcázar vende per fasce di 30 minuti e in alta stagione conviene prenotare qualche giorno prima; inoltre la sua biglietteria tiene da parte pochi biglietti per il giorno stesso.'
+  respuesta: 'L''Alhambra vende biglietti fino a un anno prima e in primavera, nei ponti e in estate le mattine si esauriscono con settimane di margine. L''Alcázar vende per fasce di 30 minuti e in alta stagione conviene prenotare qualche giorno prima; inoltre la sua biglietteria tiene da parte pochi biglietti per il giorno stesso.'
 - pregunta: Si può vedere l'Alhambra in un'escursione di un giorno da Siviglia?
   respuesta: 'Si può, ma è una giornata lunga: il treno tra Siviglia e Granada impiega circa 2 ore e mezza - 3 ore per tratta e la visita richiede 4 ore. Conviene solo se hai già il biglietto con l''orario dei Palazzi Nasridi incastrato con i treni, o se vai con un''escursione che organizza tutto.'
 - pregunta: Quale è meglio con i bambini?
@@ -53,7 +53,7 @@ Se passerai da Granada e da Siviglia e hai tempo solo per un grande monumento, *
 | --- | --- | --- |
 | Biglietto generale | 22,27 € online (21 € in biglietteria) | 15,50 € (ridotto 8 €) |
 | Durata della visita | Circa 4 ore | 2,5-3 ore |
-| Prenotare con | Settimane; vendita fino a 3 mesi prima | Giorni in alta stagione; fasce di 30 min |
+| Prenotare con | Settimane; vendita fino a un anno prima | Giorni in alta stagione; fasce di 30 min |
 | Senza biglietto online | Ultimo minuto la sera prima, Granada Card, tour con ingresso | Quota in biglietteria per il giorno stesso, tour con ingresso |
 | Orario fisso rigido | Sì, nei Palazzi Nasridi (30 min di margine) | Solo la fascia d'ingresso |
 | Che cos'è | Città palatina nasride: palazzi, fortezza e giardini | Palazzo mudéjar ancora in uso e giardini enormi |
@@ -65,10 +65,10 @@ Se passerai da Granada e da Siviglia e hai tempo solo per un grande monumento, *
 L'Alhambra non è un palazzo: è una città murata su una collina, con tre parti che in qualsiasi altro luogo sarebbero una visita a sé.
 
 - **I Palazzi Nasridi:** il Mexuar, il Palazzo di Comares con il Patio de los Arrayanes e il Cortile dei Leoni. Sono gli interni islamici medievali meglio conservati dell'Europa occidentale, e dal vivo il dettaglio degli stucchi e delle cupole a muqarnas non ha paragoni.
-- **L'Alcazaba:** la parte militare, con la Torre de la Vela e la miglior vista sull'Albaicín e, in inverno, sulla Sierra Nevada innevata.
+- **L'Alcazaba:** la parte militare, con la Torre de la Vela (chiusa dai terremoti di agosto 2026) e la miglior vista sull'Albaicín e, in inverno, sulla Sierra Nevada innevata.
 - **Il Generalife:** la tenuta di svago dei sultani, con il Patio de la Acequia.
 
-Il prezzo di tanta grandezza è la logistica. Il biglietto ti dà **un orario fisso per i Palazzi Nasridi** con solo 30 minuti di margine, la visita completa richiede **circa 4 ore** e c'è parecchia salita. I biglietti escono fino a tre mesi prima e le mattine di primavera spariscono con settimane di anticipo. Se ti organizzi per tempo, tutto questo non conta; se vai all'ultimo momento, pesa.
+Il prezzo di tanta grandezza è la logistica. Il biglietto ti dà **un orario fisso per i Palazzi Nasridi** con solo 30 minuti di margine, la visita completa richiede **circa 4 ore** e c'è parecchia salita. I biglietti escono fino a un anno prima e le mattine di primavera spariscono con settimane di anticipo. Se ti organizzi per tempo, tutto questo non conta; se vai all'ultimo momento, pesa.
 
 Per scegliere il formato c'è [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla). Se vuoi che te la spieghino, l'opzione più scelta è la [visita guidata all'Alhambra e ai Nasridi](/it/cities/granada/activities/visita-guidata-alhambra-generalife).
 

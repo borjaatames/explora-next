@@ -38,7 +38,7 @@ faq:
 - pregunta: Are the Alhambra and the Alcázar of Seville similar?
   respuesta: 'At first glance, yes, but they are not the same thing. The Alhambra is Nasrid art, built by the last Muslim dynasty in Iberia. The Alcázar''s main palace was commissioned in 1364 by a Christian king, Peter I, using craftsmen who worked in that style: it is Mudéjar art. That is why people who see both notice the family resemblance and the differences.'
 - pregunta: How far ahead do I need to book each one?
-  respuesta: 'The Alhambra releases tickets up to three months ahead, and in spring, on holiday weekends and in summer the morning slots sell out weeks in advance. The Alcázar sells tickets in 30-minute slots; in high season book several days ahead. Its ticket office also keeps a few same-day tickets for each slot.'
+  respuesta: 'The Alhambra releases tickets up to a year ahead, and in spring, on holiday weekends and in summer the morning slots sell out weeks in advance. The Alcázar sells tickets in 30-minute slots; in high season book several days ahead. Its ticket office also keeps a few same-day tickets for each slot.'
 - pregunta: Can I visit the Alhambra as a day trip from Seville?
   respuesta: 'You can, but it is a long day: the train between Seville and Granada takes roughly 2.5 to 3 hours each way and the visit takes 4 hours. It only makes sense if your Nasrid Palaces time slot already fits the train times, or if you join a tour that handles everything.'
 - pregunta: Which is better with kids?
@@ -53,7 +53,7 @@ If you're visiting both Granada and Seville and only have room for one big monum
 | --- | --- | --- |
 | General ticket | €22.27 online (€21 at the ticket office) | €15.50 (reduced €8) |
 | Time needed | About 4 hours | 2.5–3 hours |
-| Book ahead | Weeks; sales open up to 3 months out | Days in high season; 30-minute slots |
+| Book ahead | Weeks; sales open up to a year out | Days in high season; 30-minute slots |
 | If online is sold out | Last-minute tickets the evening before, Granada Card, tour with ticket | Same-day quota at the ticket office, tour with ticket |
 | Strict time slot | Yes, for the Nasrid Palaces (30-minute grace) | Only your entry slot |
 | What it is | A Nasrid palace-city: palaces, fortress and gardens | A Mudéjar royal palace still in use, with huge gardens |
@@ -65,10 +65,10 @@ If you're visiting both Granada and Seville and only have room for one big monum
 The Alhambra isn't a palace so much as a walled city on a hill, made of three parts that would each be a full visit anywhere else:
 
 - **The Nasrid Palaces:** the Mexuar, the Comares Palace with the Court of the Myrtles, and the Court of the Lions. They are the best-preserved medieval Islamic interiors in Western Europe, and the carved plaster and honeycomb domes look nothing like the photos.
-- **The Alcazaba:** the military quarter, with the Torre de la Vela and the best view over the Albaicín and, in winter, a snowy Sierra Nevada.
+- **The Alcazaba:** the military quarter, with the Torre de la Vela (closed since the August 2026 earthquakes) and the best view over the Albaicín and, in winter, a snowy Sierra Nevada.
 - **The Generalife:** the sultans' summer estate, with the Court of the Water Channel.
 
-The trade-off is logistics. Your ticket gives you **a fixed time for the Nasrid Palaces** with just 30 minutes of grace, the full visit takes **about 4 hours**, and there's a fair amount of uphill walking. Tickets go on sale three months out and spring mornings vanish weeks ahead. If you plan early, none of that matters. If you're booking late, it does.
+The trade-off is logistics. Your ticket gives you **a fixed time for the Nasrid Palaces** with just 30 minutes of grace, the full visit takes **about 4 hours**, and there's a fair amount of uphill walking. Tickets go on sale up to a year out and spring mornings vanish weeks ahead. If you plan early, none of that matters. If you're booking late, it does.
 
 To choose a format, see [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit). If you want someone to explain what you're looking at, the most-booked option is the [guided tour of the Alhambra and Nasrid Palaces](/en/cities/granada/activities/alhambra-generalife-guided-tour).
 

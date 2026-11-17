@@ -27,7 +27,7 @@ slugs:
   it: alhambra-biglietti-esauriti
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'If the official site is sold out, check **the evening before between 20:00 and 22:00**, when last-minute tickets sometimes appear, and try the **Granada Card**, which has its own allocation. Failing that, a **guided tour with entry included** guarantees the Nasrid Palaces; the **night visit** and the **Gardens and Generalife** ticket usually have more availability.'
+respuestaCorta: 'If the official site is sold out, check **the evening before between 20:00 and 22:00**, when last-minute tickets sometimes appear, and try the **Granada Card**, which has its own allocation. Failing that, a **guided tour with entry included** often still has Nasrid Palaces places; the **night visit** and the **Gardens and Generalife** ticket usually have more availability.'
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife
@@ -37,7 +37,7 @@ actividades:
   - alhambra-tour-guiado-con-entradas
 faq:
 - pregunta: Can I buy Alhambra tickets at the ticket office on the day?
-  respuesta: A few are sometimes sold at the ticket office on the day, but there is no guarantee and in high season there is usually nothing left. Don't plan your trip around it.
+  respuesta: The ticket office sells at the same time as the website and keeps no quota of its own, so if the website is sold out, so is the office. In low season there are usually tickets at both.
 - pregunta: What time are last-minute tickets released?
   respuesta: According to Granada's tourist board, last-minute tickets may appear on the official website the evening before your visit, between 20:00 and 22:00. It is also worth checking in the days before for cancellations.
 - pregunta: Is a guided tour reliable if the official site is sold out?
@@ -53,13 +53,13 @@ opciones:
     etiqueta: No Nasrid Palaces
 ---
 
-Alhambra tickets can be bought **up to three months ahead**, and in spring, on Spanish bank holidays and in summer the morning slots go early. "Sold out" on the official website doesn't mean you miss the Alhambra: there are several routes left, some official and some paid, and it pays to try them in this order.
+Alhambra tickets can be bought **up to a year ahead**, and in spring, on Spanish bank holidays and in summer the morning slots go early. "Sold out" on the official website doesn't mean you miss the Alhambra: there are several routes left, some official and some paid, and it pays to try them in this order.
 
 ## Which ticket should you choose?
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| Guaranteed entry with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
+| Entry included with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
 | The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €49 |
 | Small group | [Alhambra and Nasrid Palaces small-group tour](/en/cities/granada/activities/alhambra-small-group-tour), 4.8★ (890) | €65 |
 | If only evenings are left | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |
@@ -72,7 +72,7 @@ The official ticket site is `tickets.alhambra-patronato.es`. The general ticket 
 - **Check several days in a row:** cancellations and returned group tickets go back on sale.
 - **The evening before, between 20:00 and 22:00:** according to Granada's tourist board, last-minute tickets for the next day may appear then.
 - **Be flexible with the Nasrid slot:** the first morning and last afternoon slots go first; midday ones last a little longer.
-- **The ticket office on the day:** a few sometimes remain, with no guarantee. It is not a plan.
+- **The ticket office:** it sells at the same time as the website and keeps no quota, so if the website is sold out, so is the office. In low season there may be tickets at both.
 
 ## 2. The Granada Card
 
@@ -80,7 +80,7 @@ The **Granada Card** has its own allocation of Alhambra tickets, so it may have 
 
 ## 3. A guided tour with entry included
 
-This is the safest option when everything else fails: licensed operators book their allocations in advance and sell the tour with your Nasrid time already assigned. It costs more than the ticket alone (from about €50), but you skip the hunt and someone explains what you're seeing.
+This is often the way in when everything else fails: licensed operators buy tickets well in advance and often have places left (not always) and sell the tour with your Nasrid time already assigned. It costs more than the ticket alone (from about €50), but you skip the hunt and someone explains what you're seeing.
 
 Before paying, check two things on the listing: that it clearly says **"includes the Nasrid Palaces"** and that the ticket is included. Some tours only cover the gardens or the free area.
 

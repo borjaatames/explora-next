@@ -28,14 +28,14 @@ slugs:
   it: natale-a-granada
   pt: natal-em-granada
 reservasArriba: true
-respuestaCorta: 'Las luces se encienden a **finales de noviembre** (el 29 en 2025) y siguen hasta el 7 de enero, con un **espectáculo de luz y villancicos en la Plaza del Carmen a las 19:00, 20:00 y 21:00**. La **Alhambra** abre en invierno de 8:30 a 18:00 y **cierra solo el 25 de diciembre y el 1 de enero**; sus entradas de Navidad vuelan. Además: **Sierra Nevada** a unos 30 km (abrió el 29 de noviembre en 2025), la **Cabalgata** del 5 de enero a las 17:00 y el **2 de enero**, Día de la Toma, con la **Alcazaba gratis** para tocar la campana de la Torre de la Vela.'
+respuestaCorta: 'Las luces se encienden a **finales de noviembre** (el 29 en 2025) y siguen hasta el 7 de enero, con un **espectáculo de luz y villancicos en la Plaza del Carmen a las 19:00, 20:00 y 21:00**. La **Alhambra** abre en invierno de 8:30 a 18:00 y **cierra solo el 25 de diciembre y el 1 de enero**; sus entradas de Navidad vuelan. Además: **Sierra Nevada** a unos 30 km (abrió el 29 de noviembre en 2025), la **Cabalgata** del 5 de enero a las 17:00 y el **2 de enero**, Día de la Toma, con la **Alcazaba gratis** y la tradición de tocar la campana de la Torre de la Vela (cerrada temporalmente desde los terremotos de agosto de 2026: comprueba si abre).'
 faq:
   - pregunta: "¿Cuándo se encienden las luces de Navidad en Granada en 2026?"
     respuesta: "La fecha de 2026 aún no es oficial. En 2025 el encendido fue el sábado 29 de noviembre en la Plaza del Carmen, con un espectáculo a las 20:00 y el encendido a las 20:30. Las luces del centro se encienden a las 18:30 y se apagan a la 1:00, a las 3:00 los viernes, sábados y vísperas de festivo, y a las 5:00 en Nochebuena y Nochevieja."
   - pregunta: "¿Abre la Alhambra en Navidad?"
-    respuesta: "Sí, todos los días menos el 25 de diciembre y el 1 de enero. En invierno abre de 8:30 a 18:00, y la visita nocturna a los Palacios Nazaríes es los viernes y sábados de 20:00 a 21:30. Las entradas salen hasta tres meses antes y las de los puentes de diciembre y Navidad se agotan pronto: si no hay, una visita guiada con cupo propio es la alternativa."
+    respuesta: "Sí, todos los días menos el 25 de diciembre y el 1 de enero. En invierno abre de 8:30 a 18:00, y la visita nocturna a los Palacios Nazaríes es los viernes y sábados de 20:00 a 21:30. Las entradas salen hasta un año antes y las de los puentes de diciembre y Navidad se agotan pronto: si no hay, una visita guiada con la entrada incluida es la alternativa."
   - pregunta: "¿Qué se celebra en Granada el 2 de enero?"
-    respuesta: "El Día de la Toma, festivo local, que recuerda la entrada de los Reyes Católicos en 1492. Hay acto cívico en el Ayuntamiento y la Capilla Real, con la tremolación del pendón. Ese día el Patronato abre gratis la Alcazaba de la Alhambra, de 8:30 a 18:00, para tocar la campana de la Torre de la Vela; el resto del monumento requiere entrada."
+    respuesta: "El Día de la Toma, festivo local, que recuerda la entrada de los Reyes Católicos en 1492. Hay acto cívico en el Ayuntamiento y la Capilla Real, con la tremolación del pendón. Ese día el Patronato abre gratis la Alcazaba de la Alhambra, de 8:30 a 18:00, para tocar la campana de la Torre de la Vela (cerrada temporalmente desde los terremotos de agosto de 2026: comprueba si abre ese día); el resto del monumento requiere entrada."
   - pregunta: "¿Se puede esquiar en Sierra Nevada en Navidad?"
     respuesta: "Normalmente sí, aunque depende de la nieve. En la temporada 2025-26 la estación abrió el sábado 29 de noviembre con pistas en la zona de Borreguiles, apoyada por cañones de nieve artificial. La fecha de apertura de 2026-27 no se ha anunciado; consulta el estado de pistas en sierranevada.es antes de subir."
   - pregunta: "¿A qué hora es la Cabalgata de Reyes de Granada?"
@@ -109,7 +109,7 @@ Para cenar sin pelear por un hueco en la barra un sábado de diciembre, el **tou
 - **Nocturna de los Palacios Nazaríes:** viernes y sábados de 20:00 a 21:30, 12,73 €. Con poca luz diurna en diciembre, es la forma más atmosférica de verlos.
 - En 2026 el 24 y el 31 de diciembre caen en jueves, y el 2 de enero de 2027 en sábado.
 
-Las entradas oficiales de los puentes y de Navidad se agotan. Una **visita guiada nocturna** o la **visita privada con traslado** tienen cupo propio.
+Las entradas oficiales de los puentes y de Navidad se agotan. Una **visita guiada nocturna** o la **visita privada con traslado** compran las entradas con antelación y a menudo tienen plazas.
 
 [actividad: alhambra-visita-nocturna]
 
@@ -133,7 +133,7 @@ Si no esquiáis, la **Alpujarra** en invierno, con chimeneas encendidas y nieve 
 ## Nochevieja, Toma de Granada y Reyes
 
 - **Campanadas:** en la **Plaza del Carmen**, frente al Ayuntamiento.
-- **2 de enero, Día de la Toma:** festivo local. Acto cívico con la tremolación del pendón en el Ayuntamiento y función en la Capilla Real, donde están enterrados los Reyes Católicos. Ese día la **Alcazaba de la Alhambra es gratis** de 8:30 a 18:00 para tocar la campana de la **Torre de la Vela**: según la tradición, las solteras que la tocan se casan ese año.
+- **2 de enero, Día de la Toma:** festivo local. Acto cívico con la tremolación del pendón en el Ayuntamiento y función en la Capilla Real, donde están enterrados los Reyes Católicos. Ese día la **Alcazaba de la Alhambra es gratis** de 8:30 a 18:00 para tocar la campana de la **Torre de la Vela** (cerrada temporalmente desde los terremotos de agosto de 2026: comprueba si abre ese día). Según la tradición, las solteras que la tocan se casan ese año.
 - **Cabalgata (5 de enero):** a las 17:00 desde la avenida de la Constitución por Gran Vía, Reyes Católicos y la Acera del Darro; hacia las 19:30, espectáculo de drones en el Puente Blanco, y final con los Reyes en el balcón del Ayuntamiento. Para ver bien con niños, busca sitio en Gran Vía, al principio del recorrido.
 
 ## Flamenco en el Sacromonte

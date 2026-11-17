@@ -46,9 +46,9 @@ faq:
 - pregunta: '¿Son suficientes 2 días para ver Granada?'
   respuesta: 'Sí, si los organizas bien: el primer día, Alhambra por la mañana, Albaicín al atardecer y zambra en el Sacromonte; el segundo, Capilla Real, Catedral, centro histórico y la Cartuja. Quedan fuera el Parque de las Ciencias, el Hammam y la Huerta de San Vicente.'
 - pregunta: '¿Con cuánta antelación hay que sacar la entrada de la Alhambra?'
-  respuesta: 'Se vende hasta con tres meses de antelación en la web oficial (22,27 €) y en primavera y otoño se agota con unas tres semanas. Tiene hora fija para los Palacios Nazaríes y solo media hora de margen.'
+  respuesta: 'Se vende hasta con un año de antelación en la web oficial (22,27 €) y en primavera y otoño se agota con unas tres semanas. Tiene hora fija para los Palacios Nazaríes y solo media hora de margen.'
 - pregunta: '¿Qué hago si no quedan entradas para la Alhambra?'
-  respuesta: 'Mira la visita nocturna a los Palacios Nazaríes (12,73 € en la web oficial) o un tour guiado: los operadores tienen su propio cupo de entradas y suelen tener plazas cuando la venta general está agotada.'
+  respuesta: 'Mira la visita nocturna a los Palacios Nazaríes (12,73 € en la web oficial) o un tour guiado: los operadores compran las entradas con antelación y a menudo tienen plazas cuando la venta general está agotada.'
 - pregunta: '¿Dónde ver el atardecer en Granada?'
   respuesta: 'En el Mirador de San Nicolás, en el Albaicín: es público y gratuito, pero llega 45 minutos antes. Diez minutos más arriba, el de San Cristóbal tiene las mismas vistas con la mitad de gente.'
 - pregunta: '¿Las tapas son gratis en Granada?'
@@ -59,7 +59,7 @@ faq:
 
 ## Antes de nada: la entrada de la Alhambra
 
-Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y solo media hora de margen: si llegas más tarde, pierdes los Nazaríes. Se vende con hasta tres meses de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con cupo propio (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
+Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para los Palacios Nazaríes y solo media hora de margen: si llegas más tarde, pierdes los Nazaríes. Se vende hasta con un año de antelación y vuela con tres semanas en primavera y otoño. Menores de 12 gratis, con ticket; piden el DNI. Si está agotada: nocturna de los Nazaríes (12,73 €) o tour guiado con la entrada incluida (45-65 €). Nunca en reventa. Detalle en [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar).
 
 **¿No quedan entradas de la Alhambra?** Aquí tienes [las alternativas que siguen funcionando](/guias/granada/alhambra-entradas-agotadas).
 
@@ -87,7 +87,7 @@ Sácala en `tickets.alhambra-patronato.es`: **22,27 €**, con hora fija para lo
 | 19:30-21:00 | Atardecer en San Nicolás o San Cristóbal |
 | 21:30-23:30 | Zambra en el Sacromonte |
 
-**Alhambra.** Primer turno, con Nazaríes entre 9:00 y 9:30, y a contracorriente de los grupos: **Alcazaba** y Torre de la Vela (45 min), **Palacios Nazaríes** llegando 15 minutos antes de tu hora (90 min; lo que parecen dibujos en las paredes son poemas) y **Generalife** (60 min). Total, 3 h 30 a 4 horas.
+**Alhambra.** Primer turno, con Nazaríes entre 9:00 y 9:30, y a contracorriente de los grupos: **Alcazaba** (45 min; la Torre de la Vela está cerrada temporalmente), **Palacios Nazaríes** llegando 15 minutos antes de tu hora (90 min; lo que parecen dibujos en las paredes son poemas) y **Generalife** (60 min). Total, 3 h 30 a 4 horas.
 
 **Tapas.** En Granada **la tapa es gratis con la bebida**: con tres cañas (1,80-2,50 €) se come. Los Diamantes (Navas, 28), pescaíto frito; Casa Julio (Hermosa, 5), boquerones; La Riviera (Elvira, 30), tapas elaboradas. Antes de las 14:00 o después de las 15:30.
 

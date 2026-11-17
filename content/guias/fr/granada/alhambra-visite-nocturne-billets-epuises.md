@@ -29,7 +29,7 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'La **visite nocturne des palais nasrides** coûte **12,73 €** sur le site officiel (`tickets.alhambra-patronato.es`) et, du 15 octobre au 31 mars, elle n''a lieu que **le vendredi et le samedi, de 20 h à 21 h 30** ; du 1er avril au 14 octobre, **du mardi au samedi, de 22 h à 23 h 30**. Si elle affiche complet, regardez l''**Alhambra Experiencias** (22,27 €), la **Granada Card 24 h** (50 €), qui a son propre quota, ou le **guichet nocturne**, qui ouvre une heure avant. L''option sûre est une **visite guidée nocturne avec billet inclus**, à partir de 54 €.'
+respuestaCorta: 'La **visite nocturne des palais nasrides** coûte **12,73 €** sur le site officiel (`tickets.alhambra-patronato.es`) et, du 15 octobre au 31 mars, elle n''a lieu que **le vendredi et le samedi, de 20 h à 21 h 30** ; du 1er avril au 14 octobre, **du mardi au samedi, de 22 h à 23 h 30**. Si elle affiche complet, regardez l''**Alhambra Experiencias** (22,27 €), la **Granada Card 24 h** (50 €), qui a son propre quota, ou le **guichet nocturne**, qui ouvre une heure avant. L''option la plus probable est une **visite guidée nocturne avec billet inclus**, à partir de 54 €.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -117,7 +117,7 @@ Dans cet ordre :
 2. **Regardez l'Alhambra Experiencias et la Dobla de Oro Nocturna.** Ce sont des produits différents, sur le même site. Ils vous donnent les Nasrides de nuit et un peu plus, pour quelques euros de différence.
 3. **Renseignez-vous sur la Granada Card 24 h (50 €).** C'est la seule Granada Card qui inclut la visite nocturne des palais nasrides et, selon l'office de tourisme de Grenade, elle a **son propre quota** : il peut rester des places quand le billet seul est épuisé. Elle est rentable si vous visitez aussi la cathédrale, la Chapelle royale et d'autres monuments.
 4. **Allez au guichet nocturne**, qui ouvre une heure avant le créneau. Il peut rester quelques billets, mais sans garantie.
-5. **Réservez une visite guidée nocturne** avec billet inclus. Les opérateurs réservent leur quota à l'avance.
+5. **Réservez une visite guidée nocturne** avec billet inclus. Les opérateurs achètent les billets longtemps à l'avance et ont souvent encore des places (pas toujours).
 
 ## 4. La visite guidée nocturne
 

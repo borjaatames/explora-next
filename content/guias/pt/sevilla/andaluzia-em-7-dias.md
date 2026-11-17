@@ -33,7 +33,7 @@ faq:
   - pregunta: "É melhor fazer o roteiro de comboio ou de carro?"
     respuesta: "De comboio para as cidades: os trajetos são de 45 minutos a 1h30 e chega ao centro sem procurar estacionamento, que em Sevilha, Córdova e Granada é caro e com zonas restritas. O carro só compensa para Ronda e as aldeias brancas."
   - pregunta: "Com quanta antecedência é preciso reservar a Alhambra?"
-    respuesta: "Com 3 ou 4 semanas na primavera e no outono, e assim que saírem (até 3 meses antes) para a Semana Santa, fins de semana prolongados e verão. O bilhete geral custa 22,27 € no site oficial e a hora dos Palácios Nasridas é fixa. Se estiver esgotado, uma visita guiada com quota própria é a alternativa."
+    respuesta: "Com 3 ou 4 semanas na primavera e no outono, e assim que saírem (até um ano antes) para a Semana Santa, fins de semana prolongados e verão. O bilhete geral custa 22,27 € no site oficial e a hora dos Palácios Nasridas é fixa. Se estiver esgotado, uma visita guiada com entrada, que muitas vezes ainda tem lugares, é a alternativa."
   - pregunta: "Por que ordem convém fazer o roteiro?"
     respuesta: "Sevilha, Córdova, Granada e Málaga, ou ao contrário. Entrar por Sevilha e sair por Málaga aproveita os dois aeroportos com mais voos e evita voltar para trás. O que não convém é fazer Córdova como excursão a partir de Granada: são cerca de 2 horas por trajeto."
   - pregunta: "Qual é a melhor época para o roteiro pela Andaluzia?"
@@ -77,7 +77,7 @@ Compre os comboios no site da Renfe assim que tiver datas: os preços baixos des
 
 | O quê | Preço oficial | Antecedência |
 | --- | --- | --- |
-| Alhambra (Palácios Nasridas com hora) | 22,27 € | 3-4 semanas; até 3 meses na época alta |
+| Alhambra (Palácios Nasridas com hora) | 22,27 € | 3-4 semanas; 2-3 meses na época alta (venda até um ano antes) |
 | Real Alcázar de Sevilha | 15,50 € | 1-2 semanas; o período das 9h30 esgota num instante |
 | Catedral e Giralda de Sevilha | 13 € online | alguns dias |
 | Mesquita-Catedral de Córdova | 15 € (grátis das 8h30 às 9h30, de segunda a sábado) | alguns dias; o período grátis não se reserva |
@@ -116,7 +116,7 @@ Compre os comboios no site da Renfe assim que tiver datas: os preços baixos des
 
 ## Dia 5: a Alhambra
 
-**8h30 — Alhambra**, o dia inteiro gira à volta da sua hora dos Palácios Nasridas: só há **30 minutos de margem** e da entrada demora-se 30-45 minutos a pé até aos palácios. Alcazaba, Nasridas e Generalife somam cerca de 4 horas. Se não houver bilhetes, a [visita guiada com entrada incluída](/en/cities/granada/activities/alhambra-generalife-guided-tour) (desde 49 €) tem quota própria; em privado, o [tour sem filas só para vocês](/pt/cities/granada/activities/alhambra-palacios-nasridas-tour-privado-sem-filas) (desde 278 € o grupo).
+**8h30 — Alhambra**, o dia inteiro gira à volta da sua hora dos Palácios Nasridas: só há **30 minutos de margem** e da entrada demora-se 30-45 minutos a pé até aos palácios. Alcazaba, Nasridas e Generalife somam cerca de 4 horas. Se não houver bilhetes, a [visita guiada com entrada incluída](/en/cities/granada/activities/alhambra-generalife-guided-tour) (desde 49 €) muitas vezes ainda tem lugares; em privado, o [tour sem filas só para vocês](/pt/cities/granada/activities/alhambra-palacios-nasridas-tour-privado-sem-filas) (desde 278 € o grupo).
 
 **Tarde:** Capela Real (7 €) com os túmulos dos Reis Católicos e a Catedral. **Noite:** zambra numa gruta do Sacromonte, 22-30 € com bebida. O detalhe está em [Granada num dia](/pt/guides/granada/granada-num-dia).
 

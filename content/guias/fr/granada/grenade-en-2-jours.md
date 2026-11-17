@@ -46,9 +46,9 @@ faq:
 - pregunta: 'Deux jours suffisent-ils pour voir Grenade ?'
   respuesta: 'Oui, si vous les organisez bien : le premier jour, l''Alhambra le matin, l''Albaicín au coucher du soleil et une zambra au Sacromonte ; le second, la Chapelle royale, la cathédrale, le centre historique et la Cartuja. Restent de côté le Parque de las Ciencias, le hammam et la Huerta de San Vicente.'
 - pregunta: 'Combien de temps à l''avance faut-il acheter le billet de l''Alhambra ?'
-  respuesta: 'Il est en vente jusqu''à trois mois à l''avance sur le site officiel (22,27 €) et, au printemps et en automne, il est épuisé environ trois semaines avant. Il comporte une heure fixe pour les palais nasrides, avec seulement une demi-heure de marge.'
+  respuesta: 'Il est en vente jusqu''à un an à l''avance sur le site officiel (22,27 €) et, au printemps et en automne, il est épuisé environ trois semaines avant. Il comporte une heure fixe pour les palais nasrides, avec seulement une demi-heure de marge.'
 - pregunta: 'Que faire s''il ne reste plus de billets pour l''Alhambra ?'
-  respuesta: 'Regardez la visite nocturne des palais nasrides (12,73 € sur le site officiel) ou une visite guidée : les opérateurs ont leur propre quota de billets et ont souvent des places quand la vente générale est épuisée.'
+  respuesta: 'Regardez la visite nocturne des palais nasrides (12,73 € sur le site officiel) ou une visite guidée : les opérateurs achètent les billets longtemps à l''avance et ont souvent des places quand la vente générale est épuisée.'
 - pregunta: 'Où voir le coucher du soleil à Grenade ?'
   respuesta: 'Au Mirador de San Nicolás, dans l''Albaicín : il est public et gratuit, mais arrivez 45 minutes avant. Dix minutes plus haut, celui de San Cristóbal offre la même vue avec deux fois moins de monde.'
 - pregunta: 'Les tapas sont-elles gratuites à Grenade ?'
@@ -59,7 +59,7 @@ faq:
 
 ## Avant tout : le billet de l'Alhambra
 
-Achetez-le sur `tickets.alhambra-patronato.es` : **22,27 €**, avec une heure fixe pour les palais nasrides et seulement une demi-heure de marge : si vous arrivez plus tard, vous perdez les Nasrides. Il est en vente jusqu'à trois mois à l'avance et s'envole trois semaines avant au printemps et en automne. Gratuit pour les moins de 12 ans, avec billet ; une pièce d'identité est demandée. S'il est épuisé : visite nocturne des Nasrides (12,73 €) ou visite guidée avec quota propre (45-65 €). Jamais à la revente. Détails dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
+Achetez-le sur `tickets.alhambra-patronato.es` : **22,27 €**, avec une heure fixe pour les palais nasrides et seulement une demi-heure de marge : si vous arrivez plus tard, vous perdez les Nasrides. Il est en vente jusqu'à un an à l'avance et s'envole trois semaines avant au printemps et en automne. Gratuit pour les moins de 12 ans, avec billet ; une pièce d'identité est demandée. S'il est épuisé : visite nocturne des Nasrides (12,73 €) ou visite guidée avec entrée, qui a souvent encore des places (45-65 €). Jamais à la revente. Détails dans [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter).
 
 ## Quand y aller et comment s'y rendre
 
@@ -85,7 +85,7 @@ Achetez-le sur `tickets.alhambra-patronato.es` : **22,27 €**, avec une heure f
 | 19 h 30-21 h | Coucher du soleil à San Nicolás ou San Cristóbal |
 | 21 h 30-23 h 30 | Zambra au Sacromonte |
 
-**L'Alhambra.** Premier créneau, avec les Nasrides entre 9 h et 9 h 30, et à contre-courant des groupes : **Alcazaba** et Torre de la Vela (45 min), **palais nasrides** en arrivant 15 minutes avant votre heure (90 min ; ce qui ressemble à des motifs sur les murs, ce sont des poèmes) et **Generalife** (60 min). Au total, 3 h 30 à 4 heures.
+**L'Alhambra.** Premier créneau, avec les Nasrides entre 9 h et 9 h 30, et à contre-courant des groupes : **Alcazaba** (45 min ; la Torre de la Vela est fermée depuis les séismes d'août 2026), **palais nasrides** en arrivant 15 minutes avant votre heure (90 min ; ce qui ressemble à des motifs sur les murs, ce sont des poèmes) et **Generalife** (60 min). Au total, 3 h 30 à 4 heures.
 
 **Tapas.** À Grenade, **la tapa est offerte avec la boisson** : avec trois bières pression (1,80-2,50 €), vous avez mangé. Los Diamantes (Navas, 28), friture de poisson ; Casa Julio (Hermosa, 5), anchois frits ; La Riviera (Elvira, 30), tapas élaborées. Avant 14 h ou après 15 h 30.
 

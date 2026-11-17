@@ -28,14 +28,14 @@ slugs:
   it: natale-a-granada
   pt: natal-em-granada
 reservasArriba: true
-respuestaCorta: 'As luzes acendem-se no **final de novembro** (a 29 em 2025) e ficam até 7 de janeiro, com um **espetáculo de luz e canções de Natal na Plaza del Carmen às 19h00, 20h00 e 21h00**. A **Alhambra** abre no inverno das 8h30 às 18h00 e **fecha apenas a 25 de dezembro e a 1 de janeiro**; os seus bilhetes de Natal voam. Além disso: a **Serra Nevada** a cerca de 30 km (abriu a 29 de novembro em 2025), a **Cavalgada** de 5 de janeiro às 17h00 e o **2 de janeiro**, Dia da Toma, com a **Alcazaba grátis** para tocar o sino da Torre de la Vela.'
+respuestaCorta: 'As luzes acendem-se no **final de novembro** (a 29 em 2025) e ficam até 7 de janeiro, com um **espetáculo de luz e canções de Natal na Plaza del Carmen às 19h00, 20h00 e 21h00**. A **Alhambra** abre no inverno das 8h30 às 18h00 e **fecha apenas a 25 de dezembro e a 1 de janeiro**; os seus bilhetes de Natal voam. Além disso: a **Serra Nevada** a cerca de 30 km (abriu a 29 de novembro em 2025), a **Cavalgada** de 5 de janeiro às 17h00 e o **2 de janeiro**, Dia da Toma, com a **Alcazaba grátis** para tocar o sino da Torre de la Vela (fechada desde os sismos de agosto de 2026: confirme se abre).'
 faq:
   - pregunta: "Quando se acendem as luzes de Natal em Granada em 2026?"
     respuesta: "A data de 2026 ainda não é oficial. Em 2025 o acendimento foi no sábado, 29 de novembro, na Plaza del Carmen, com um espetáculo às 20h00 e o acendimento às 20h30. As luzes do centro acendem-se às 18h30 e apagam-se à 1h00, às 3h00 às sextas, sábados e vésperas de feriado, e às 5h00 na Consoada e na passagem de ano."
   - pregunta: "A Alhambra abre no Natal?"
-    respuesta: "Sim, todos os dias exceto 25 de dezembro e 1 de janeiro. No inverno abre das 8h30 às 18h00, e a visita noturna aos Palácios Nasridas é às sextas e sábados das 20h00 às 21h30. Os bilhetes saem até três meses antes e os das pontes de dezembro e do Natal esgotam depressa: se não houver, uma visita guiada com quota própria é a alternativa."
+    respuesta: "Sim, todos os dias exceto 25 de dezembro e 1 de janeiro. No inverno abre das 8h30 às 18h00, e a visita noturna aos Palácios Nasridas é às sextas e sábados das 20h00 às 21h30. Os bilhetes saem até um ano antes e os das pontes de dezembro e do Natal esgotam depressa: se não houver, uma visita guiada com entrada, que muitas vezes ainda tem lugares, é a alternativa."
   - pregunta: "O que se celebra em Granada a 2 de janeiro?"
-    respuesta: "O Dia da Toma, feriado local, que recorda a entrada dos Reis Católicos em 1492. Há cerimónia cívica no Ayuntamiento e na Capilla Real, com a tremulação do pendão. Nesse dia o Patronato abre gratuitamente a Alcazaba da Alhambra, das 8h30 às 18h00, para tocar o sino da Torre de la Vela; o resto do monumento requer bilhete."
+    respuesta: "O Dia da Toma, feriado local, que recorda a entrada dos Reis Católicos em 1492. Há cerimónia cívica no Ayuntamiento e na Capilla Real, com a tremulação do pendão. Nesse dia o Patronato abre gratuitamente a Alcazaba da Alhambra, das 8h30 às 18h00, para tocar o sino da Torre de la Vela (confirme se abre: fechada desde os sismos de agosto de 2026); o resto do monumento requer bilhete."
   - pregunta: "É possível esquiar na Serra Nevada no Natal?"
     respuesta: "Normalmente sim, embora dependa da neve. Na época 2025-26 a estância abriu no sábado, 29 de novembro, com pistas na zona de Borreguiles, apoiada por canhões de neve artificial. A data de abertura de 2026-27 não foi anunciada; consulte o estado das pistas em sierranevada.es antes de subir."
   - pregunta: "A que horas é a Cavalgada de Reis de Granada?"
@@ -109,7 +109,7 @@ Para jantar sem lutar por um lugar ao balcão num sábado de dezembro, o **tour 
 - **Noturna dos Palácios Nasridas:** sextas e sábados das 20h00 às 21h30, 12,73 €. Com pouca luz de dia em dezembro, é a forma mais atmosférica de os ver.
 - Em 2026, 24 e 31 de dezembro calham a uma quinta-feira, e 2 de janeiro de 2027 a um sábado.
 
-Os bilhetes oficiais das pontes e do Natal esgotam. Uma **visita guiada noturna** ou a **visita privada com transfer** têm quota própria.
+Os bilhetes oficiais das pontes e do Natal esgotam. Uma **visita guiada noturna** ou a **visita privada com transfer** muitas vezes ainda têm lugares.
 
 [actividad: alhambra-visita-nocturna]
 
@@ -133,7 +133,7 @@ Se não esquiarem, a **Alpujarra** no inverno, com lareiras acesas e neve nos cu
 ## Passagem de ano, Toma de Granada e Reis
 
 - **Badaladas:** na **Plaza del Carmen**, em frente ao Ayuntamiento.
-- **2 de janeiro, Dia da Toma:** feriado local. Cerimónia cívica com a tremulação do pendão no Ayuntamiento e celebração na Capilla Real, onde estão sepultados os Reis Católicos. Nesse dia a **Alcazaba da Alhambra é grátis** das 8h30 às 18h00 para tocar o sino da **Torre de la Vela**: segundo a tradição, as solteiras que o tocam casam nesse ano.
+- **2 de janeiro, Dia da Toma:** feriado local. Cerimónia cívica com a tremulação do pendão no Ayuntamiento e celebração na Capilla Real, onde estão sepultados os Reis Católicos. Nesse dia a **Alcazaba da Alhambra é grátis** das 8h30 às 18h00 para tocar o sino da **Torre de la Vela** (confirme se abre; fechada desde os sismos de agosto de 2026): segundo a tradição, as solteiras que o tocam casam nesse ano.
 - **Cavalgada (5 de janeiro):** às 17h00 a partir da avenida de la Constitución pela Gran Vía, Reyes Católicos e a Acera del Darro; por volta das 19h30, espetáculo de drones na Puente Blanco, e final com os Reis Magos na varanda do Ayuntamiento. Para ver bem com crianças, procure lugar na Gran Vía, no início do percurso.
 
 ## Flamenco no Sacromonte

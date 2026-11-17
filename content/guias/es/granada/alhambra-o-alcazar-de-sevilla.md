@@ -38,7 +38,7 @@ faq:
 - pregunta: ¿Se parecen la Alhambra y el Alcázar de Sevilla?
   respuesta: 'A primera vista sí, pero no son lo mismo. La Alhambra es arte nazarí, hecho por la última dinastía musulmana de la península. El palacio principal del Alcázar lo mandó construir en 1364 un rey cristiano, Pedro I, con artesanos que imitaban ese estilo: es arte mudéjar. Por eso quien ve los dos nota que se parecen y a la vez se diferencian.'
 - pregunta: ¿Con cuánta antelación hay que reservar cada uno?
-  respuesta: 'La Alhambra vende entradas hasta tres meses antes y en primavera, puentes y verano las mañanas se agotan con semanas de margen. El Alcázar vende por franjas de 30 minutos y en temporada alta conviene reservar varios días antes; además, su taquilla guarda unas pocas entradas para el mismo día.'
+  respuesta: 'La Alhambra vende entradas hasta un año antes y en primavera, puentes y verano las mañanas se agotan con semanas de margen. El Alcázar vende por franjas de 30 minutos y en temporada alta conviene reservar varios días antes; además, su taquilla guarda unas pocas entradas para el mismo día.'
 - pregunta: ¿Se puede ver la Alhambra en una excursión de un día desde Sevilla?
   respuesta: 'Se puede, pero es un día largo: el tren entre Sevilla y Granada tarda unas 2 horas y media a 3 horas por trayecto y la visita lleva 4 horas. Solo compensa si ya tienes la entrada con hora de Palacios Nazaríes cuadrada con los trenes, o si vas con una excursión que lo organiza todo.'
 - pregunta: ¿Cuál es mejor para ir con niños?
@@ -53,7 +53,7 @@ Si vas a estar en Granada y en Sevilla y solo te da para un gran monumento, **ve
 | --- | --- | --- |
 | Entrada general | 22,27 € online (21 € en taquilla) | 15,50 € (reducida, 8 €) |
 | Tiempo de visita | Unas 4 horas | 2,5-3 horas |
-| Reservar con | Semanas; venta hasta 3 meses antes | Días en temporada alta; franjas de 30 min |
+| Reservar con | Semanas; venta hasta un año antes | Días en temporada alta; franjas de 30 min |
 | Sin entrada online | Última hora la víspera, Granada Card, tour con entrada | Cupo en taquilla del mismo día, tour con entrada |
 | Hora fija estricta | Sí, en los Palacios Nazaríes (30 min de margen) | Solo la franja de entrada |
 | Qué es | Ciudad palatina nazarí: palacios, fortaleza y jardines | Palacio mudéjar en uso y jardines enormes |
@@ -65,10 +65,10 @@ Si vas a estar en Granada y en Sevilla y solo te da para un gran monumento, **ve
 La Alhambra no es un palacio: es una ciudad amurallada sobre una colina, con tres piezas que en cualquier otro sitio serían una visita por sí solas.
 
 - **Los Palacios Nazaríes:** el Mexuar, el Palacio de Comares con el Patio de los Arrayanes y el Patio de los Leones. Son los interiores islámicos medievales mejor conservados de Europa occidental, y en persona el detalle de las yeserías y las cúpulas de mocárabes no tiene comparación.
-- **La Alcazaba:** la parte militar, con la Torre de la Vela y la mejor vista sobre el Albaicín y, en invierno, Sierra Nevada nevada.
+- **La Alcazaba:** la parte militar, con la Torre de la Vela (cerrada temporalmente desde los terremotos de agosto de 2026) y la mejor vista sobre el Albaicín y, en invierno, Sierra Nevada nevada.
 - **El Generalife:** la finca de recreo de los sultanes, con el Patio de la Acequia.
 
-El precio de esa grandeza es la logística. La entrada te da **una hora fija para los Palacios Nazaríes** con solo 30 minutos de margen, la visita completa lleva **unas 4 horas** y hay bastante cuesta. Las entradas salen hasta tres meses antes y las mañanas de primavera desaparecen con semanas de antelación. Si te vas a organizar con tiempo, todo esto da igual; si vas a última hora, pesa.
+El precio de esa grandeza es la logística. La entrada te da **una hora fija para los Palacios Nazaríes** con solo 30 minutos de margen, la visita completa lleva **unas 4 horas** y hay bastante cuesta. Las entradas salen hasta un año antes y las mañanas de primavera desaparecen con semanas de antelación. Si te vas a organizar con tiempo, todo esto da igual; si vas a última hora, pesa.
 
 Para elegir formato está [cómo visitar la Alhambra](/guias/granada/alhambra-como-visitar). Si quieres que te lo expliquen, la opción más elegida es la [visita guiada a la Alhambra y los Nazaríes](/ciudades/granada/actividades/visita-guiada-alhambra-generalife).
 

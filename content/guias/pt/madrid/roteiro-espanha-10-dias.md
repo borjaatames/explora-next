@@ -39,7 +39,7 @@ faq:
   - pregunta: Em que ordem convém fazer o roteiro?
     respuesta: 'Entrar por Madrid e sair por Barcelona, ou ao contrário, com um voo de ida para uma cidade e regresso a partir da outra. Assim não repete trajetos. O único salto longo é Granada-Barcelona: de avião são 1 h 25; de AVE direto, cerca de 6 h 30 com poucas partidas por dia.'
   - pregunta: Com quanta antecedência é preciso reservar as entradas?
-    respuesta: 'A Alhambra, com 3-4 semanas (até 3 meses na época alta); a Sagrada Família, com 4-6 semanas (cerca de dois meses no verão); o Real Alcázar, com 1-2 semanas. Para o Prado e o Palácio Real bastam um ou dois dias. Os comboios, assim que tiver datas: as tarifas baixas desaparecem à medida que enchem.'
+    respuesta: 'A Alhambra, com 3-4 semanas (2-3 meses na época alta; venda até um ano antes); a Sagrada Família, com 4-6 semanas (cerca de dois meses no verão); o Real Alcázar, com 1-2 semanas. Para o Prado e o Palácio Real bastam um ou dois dias. Os comboios, assim que tiver datas: as tarifas baixas desaparecem à medida que enchem.'
   - pregunta: Quanto custa uma viagem de 10 dias por Espanha?
     respuesta: 'Cerca de 1.150-1.950 € por pessoa sem voos internacionais: 110-280 € de comboios e o voo Granada-Barcelona, cerca de 160 € de entradas, 350-500 € de refeições e 540-990 € de hotel de gama média em quarto duplo. Granada é a cidade mais barata; Madrid e Barcelona, as mais caras para dormir.'
 actividades:
@@ -89,7 +89,7 @@ Hoje há três companhias a concorrer em Madrid-Sevilha e Madrid-Barcelona (Renf
 
 | O quê | Preço oficial | Antecedência | O nosso guia |
 | --- | --- | --- | --- |
-| Alhambra (Palácios Nasridas com hora) | 22,27 € | 3-4 semanas; até 3 meses na época alta | [Como visitar a Alhambra](/pt/guides/granada/alhambra-como-visitar) |
+| Alhambra (Palácios Nasridas com hora) | 22,27 € | 3-4 semanas; 2-3 meses na época alta (venda até um ano antes) | [Como visitar a Alhambra](/pt/guides/granada/alhambra-como-visitar) |
 | Sagrada Família | 26 € com audioguia; 36 € com torre | 4-6 semanas; cerca de 2 meses no verão | [Que bilhete escolher](/pt/guides/barcelona/sagrada-familia-que-bilhete-escolher) |
 | Real Alcázar de Sevilha | 15,50 € | 1-2 semanas | [Como visitar o Alcázar](/pt/guides/sevilla/alcazar-de-sevilha-como-visitar) |
 | Park Güell | desde 18 € | 2-3 semanas; não se pode cancelar | [Que bilhete escolher](/pt/guides/barcelona/park-guell-que-bilhete-escolher) |

@@ -27,7 +27,7 @@ slugs:
   it: alhambra-biglietti-esauriti
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau **am Vorabend zwischen 20:00 und 22:00 Uhr** nach, wenn manchmal Last-Minute-Tickets auftauchen, und prüf die **Granada Card**, die ein eigenes Kontingent hat. Wenn du kein Glück hast, sichert dir eine **Führung mit inkludiertem Ticket** die Nasridenpaläste; der **Nachtbesuch** und das Ticket für **Gärten und Generalife** haben meist mehr Plätze."
+respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau **am Vorabend zwischen 20:00 und 22:00 Uhr** nach, wenn manchmal Last-Minute-Tickets auftauchen, und prüf die **Granada Card**, die ein eigenes Kontingent hat. Wenn du kein Glück hast, hat eine **Führung mit inkludiertem Ticket** oft noch Plätze für die Nasridenpaläste; der **Nachtbesuch** und das Ticket für **Gärten und Generalife** haben meist mehr Plätze."
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife
@@ -37,7 +37,7 @@ actividades:
   - alhambra-tour-guiado-con-entradas
 faq:
   - pregunta: "Kann man Tickets für die Alhambra am selben Tag an der Kasse kaufen?"
-    respuesta: "Manchmal werden am selben Tag ein paar Tickets an der Kasse verkauft, aber es gibt keinerlei Garantie, und in der Hochsaison ist normalerweise nichts mehr übrig. Plane deine Reise nicht darauf auf."
+    respuesta: "Die Kasse verkauft zeitgleich mit der Website und hat kein eigenes Kontingent; ist online alles weg, ist es auch dort weg. In der Nebensaison gibt es oft an beiden noch Tickets."
   - pregunta: "Um wie viel Uhr werden Last-Minute-Tickets freigeschaltet?"
     respuesta: "Laut Turismo de Granada können am Vorabend des Besuchs zwischen 20:00 und 22:00 Uhr Last-Minute-Tickets auf der offiziellen Website auftauchen. Es lohnt sich auch, in den Tagen davor nachzuschauen, ob Stornierungen frei werden."
   - pregunta: "Ist es zuverlässig, eine Führung zu buchen, wenn die offizielle Website ausverkauft ist?"
@@ -53,7 +53,7 @@ opciones:
     etiqueta: Ohne Nasridenpaläste
 ---
 
-Tickets für die Alhambra kannst du **bis zu drei Monate im Voraus** kaufen, und im Frühling, an Brückentagen und im Sommer sind die Vormittagszeitfenster schnell ausverkauft. Wenn die offizielle Website „ausverkauft“ anzeigt, heißt das nicht, dass du auf die Alhambra verzichten musst: Es bleiben mehrere Wege, offizielle und kostenpflichtige, und am besten probierst du sie in dieser Reihenfolge.
+Tickets für die Alhambra kannst du **bis zu einem Jahr im Voraus** kaufen, und im Frühling, an Brückentagen und im Sommer sind die Vormittagszeitfenster schnell ausverkauft. Wenn die offizielle Website „ausverkauft“ anzeigt, heißt das nicht, dass du auf die Alhambra verzichten musst: Es bleiben mehrere Wege, offizielle und kostenpflichtige, und am besten probierst du sie in dieser Reihenfolge.
 
 ## Welches Ticket wählen?
 
@@ -73,7 +73,7 @@ Die offizielle Verkaufsseite ist `tickets.alhambra-patronato.es`. Das reguläre 
 - **Schau mehrere Tage hintereinander nach:** Stornierungen und Rückgaben von Gruppen werden wieder frei.
 - **Am Vorabend zwischen 20:00 und 22:00 Uhr:** Laut Turismo de Granada können zu dieser Zeit Last-Minute-Tickets für den nächsten Tag auftauchen.
 - **Sei bei der Uhrzeit für die Nasridenpaläste flexibel:** Die ersten Zeitfenster am Morgen und die letzten am Nachmittag sind zuerst weg; die mittäglichen halten etwas länger.
-- **Kasse am selben Tag:** Manchmal sind noch ein paar übrig, aber ohne Garantie. Das ist kein Plan.
+- **Die Kasse:** Sie verkauft zeitgleich mit der Website und hat kein eigenes Kontingent. In der Nebensaison gibt es oft an beiden Tickets, sonst nicht.
 
 ## 2. Die Granada Card
 
@@ -81,7 +81,7 @@ Die **Granada Card** hat ein eigenes Kontingent an Alhambra-Tickets und kann des
 
 ## 3. Eine Führung mit inkludiertem Ticket
 
-Das ist die sicherste Option, wenn alles andere scheitert: Autorisierte Anbieter reservieren ihre Kontingente im Voraus und verkaufen dir den Besuch mit bereits zugewiesener Uhrzeit für die Nasridenpaläste. Er kostet mehr als das Einzelticket (ab etwa 50 €), aber du sparst dir die Suche, und jemand erklärt dir, was du siehst.
+Das ist oft der Weg hinein, wenn alles andere scheitert: Autorisierte Anbieter kaufen die Tickets lange im Voraus und haben oft noch Plätze (nicht immer) und verkaufen dir den Besuch mit bereits zugewiesener Uhrzeit für die Nasridenpaläste. Er kostet mehr als das Einzelticket (ab etwa 50 €), aber du sparst dir die Suche, und jemand erklärt dir, was du siehst.
 
 Prüf vor dem Bezahlen zwei Dinge in der Beschreibung: dass dort klar **„inklusive Nasridenpaläste“** steht und dass das Ticket inbegriffen ist. Manche Touren führen nur durch die Gärten oder den kostenlosen Bereich.
 

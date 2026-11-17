@@ -29,7 +29,7 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'The **Nasrid Palaces night visit** costs **€12.73** on the official site (`tickets.alhambra-patronato.es`). From 15 October to 31 March it only runs on **Fridays and Saturdays, 8pm-9:30pm**; from 1 April to 14 October, **Tuesday to Saturday, 10pm-11:30pm**. If it is sold out, try the **Alhambra Experiences** ticket (€22.27), the **Granada Card 24h** (€50), which has its own allocation, or the **night box office**, which opens an hour before. The safe option is a **guided night tour with entry included**, from €54.'
+respuestaCorta: 'The **Nasrid Palaces night visit** costs **€12.73** on the official site (`tickets.alhambra-patronato.es`). From 15 October to 31 March it only runs on **Fridays and Saturdays, 8pm-9:30pm**; from 1 April to 14 October, **Tuesday to Saturday, 10pm-11:30pm**. If it is sold out, try the **Alhambra Experiences** ticket (€22.27), the **Granada Card 24h** (€50), which has its own allocation, or the **night box office**, which opens an hour before. The likeliest option is a **guided night tour with entry included**, from €54.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -117,7 +117,7 @@ In this order:
 2. **Check Alhambra Experiences and Dobla de Oro Night.** They're separate products on the same site and give you the palaces at night plus something extra for a few euros more.
 3. **Look at the Granada Card 24h (€50).** It's the only Granada Card that includes the Nasrid Palaces night visit, and according to Granada's tourist board it has **its own allocation**: there may be space when single tickets are gone. Worth it if you're also visiting the cathedral, the Royal Chapel and other sights.
 4. **Go to the night box office**, which opens an hour before entry. There may be a ticket or two, but there's no guarantee.
-5. **Book a guided night tour** with entry included. Operators reserve their allocation well ahead.
+5. **Book a guided night tour** with entry included. Operators buy tickets well in advance and often have places left (not always).
 
 ## 4. The guided night tour
 

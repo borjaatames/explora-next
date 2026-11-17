@@ -32,7 +32,7 @@ faq:
   - pregunta: "Kann man Granada an einem Tag sehen?"
     respuesta: "Das Wesentliche ja: die Alhambra (etwa 4 Stunden), das Zentrum mit der Capilla Real, der Albaicín bei Sonnenuntergang und eine Zambra. Ohne die Cartuja, das Realejo und den Sacromonte bei Tag, die einen zweiten Tag brauchen."
   - pregunta: "Was mache ich, wenn es keine Alhambra-Tickets mehr gibt?"
-    respuesta: "Such ein anderes Datum oder eine Führung mit Eintritt, die ein eigenes Kontingent hat (ab 49 €). Der Nachtbesuch der Nasridenpaläste (12,73 €) ist eine weitere Option. Kauf nicht im Wiederverkauf."
+    respuesta: "Such ein anderes Datum oder eine Führung mit Eintritt, die oft noch Plätze hat (ab 49 €). Der Nachtbesuch der Nasridenpaläste (12,73 €) ist eine weitere Option. Kauf nicht im Wiederverkauf."
   - pregunta: "Alhambra besser morgens oder nachmittags?"
     respuesta: "Morgens, im ersten Zeitfenster: weniger Leute und Seitenlicht in den Höfen. Außerdem bleibt der Nachmittag frei für den Albaicín und den Sonnenuntergang an San Nicolás. Im Sommer funktioniert wegen der Hitze auch das letzte Nachmittagsfenster."
   - pregunta: "Kann man von Málaga oder Sevilla aus an einem Tag nach Granada?"
@@ -68,7 +68,7 @@ Ein Tag in Granada ist kurz, aber reicht für das, was sie einzigartig macht: di
 
 | Was | Preis | Vorlauf |
 | --- | --- | --- |
-| Alhambra General (mit Nasriden) | 22,27 € auf der offiziellen Website | 3-4 Wochen; bis 3 Monate in der Hochsaison |
+| Alhambra General (mit Nasriden) | 22,27 € auf der offiziellen Website | 3-4 Wochen; 2-3 Monate in der Hochsaison (Verkauf bis zu einem Jahr vorher) |
 | Führung mit Eintritt | ab 49 € | 1-2 Wochen; Rettungsanker, wenn ausverkauft |
 | Zambra im Sacromonte | 22-30 € mit Getränk | 2-3 Tage; am Wochenende mehr |
 | Capilla Real und Kathedrale | je 7 € | am selben Tag |
@@ -82,7 +82,7 @@ Ein Tag in Granada ist kurz, aber reicht für das, was sie einzigartig macht: di
 Die goldene Regel: deine Uhrzeit für die **Nasridenpaläste** ist fest und es gibt nur **30 Minuten Spielraum**. Vom Eingang sind es 30-45 Minuten zu Fuß bis zu den Palästen, plan den Rundgang also nach dieser Zeit:
 
 - **Nasridenpaläste** (1 Std. 30): Myrtenhof, Botschaftersaal, Löwenhof. Schau nach oben: die Kuppeln sind das Beste.
-- **Alcazaba** (45 Min.): der Torre de la Vela hat den besten Blick auf Granada und die Sierra Nevada.
+- **Alcazaba** (45 Min.): die Wehrmauern blicken auf Granada und die Sierra Nevada (der Torre de la Vela ist seit den Erdbeben im August 2026 geschlossen).
 - **Generalife** (1 Stunde): die Sommerresidenz mit dem Patio de la Acequia.
 
 Insgesamt etwa 4 Stunden. Bring **Ausweis oder Pass** mit: das Ticket ist personengebunden. Willst du verstehen, was du siehst (die „Zeichnungen" an den Wänden sind Gedichte), umfasst die meistgewählte Führung den Eintritt:

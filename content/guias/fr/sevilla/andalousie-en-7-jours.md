@@ -33,7 +33,7 @@ faq:
   - pregunta: "Vaut-il mieux faire l'itinéraire en train ou en voiture ?"
     respuesta: "En train pour les villes : les trajets durent de 45 minutes à 1 h 30 et vous arrivez dans le centre sans chercher à vous garer, ce qui à Séville, Cordoue et Grenade est cher et soumis à des zones à accès restreint. La voiture ne vaut le coup que pour Ronda et les villages blancs."
   - pregunta: "Combien de temps à l'avance faut-il réserver l'Alhambra ?"
-    respuesta: "3 ou 4 semaines au printemps et en automne, et dès la mise en vente (jusqu'à 3 mois avant) pour la Semaine sainte, les ponts et l'été. Le billet plein tarif coûte 22,27 € sur le site officiel et l'heure d'entrée aux palais nasrides est fixe. S'il est épuisé, une visite guidée disposant de son propre quota est l'alternative."
+    respuesta: "3 ou 4 semaines au printemps et en automne, et dès la mise en vente (jusqu'à un an avant) pour la Semaine sainte, les ponts et l'été. Le billet plein tarif coûte 22,27 € sur le site officiel et l'heure d'entrée aux palais nasrides est fixe. S'il est épuisé, une visite guidée avec entrée, qui a souvent encore des places, est l'alternative."
   - pregunta: "Dans quel ordre faire l'itinéraire ?"
     respuesta: "Séville, Cordoue, Grenade et Malaga, ou l'inverse. Arriver par Séville et repartir par Malaga permet de profiter des deux aéroports les mieux desservis et d'éviter de revenir sur ses pas. Ce qu'il ne faut pas faire, c'est Cordoue en excursion depuis Grenade : c'est environ 2 heures par trajet."
   - pregunta: "Quelle est la meilleure période pour un circuit en Andalousie ?"
@@ -77,7 +77,7 @@ Achetez les trains sur le site de la Renfe dès que vous avez vos dates : les pe
 
 | Quoi | Prix officiel | À l'avance |
 | --- | --- | --- |
-| Alhambra (palais nasrides à heure fixe) | 22,27 € | 3-4 semaines ; jusqu'à 3 mois en haute saison |
+| Alhambra (palais nasrides à heure fixe) | 22,27 € | 3-4 semaines ; 2-3 mois en haute saison (vente jusqu'à un an avant) |
 | Real Alcázar de Séville | 15,50 € | 1-2 semaines ; le créneau de 9 h 30 part vite |
 | Cathédrale et Giralda de Séville | 13 € en ligne | quelques jours |
 | Mosquée-cathédrale de Cordoue | 15 € (gratuit de 8 h 30 à 9 h 30, du lundi au samedi) | quelques jours ; le créneau gratuit ne se réserve pas |
@@ -116,7 +116,7 @@ Achetez les trains sur le site de la Renfe dès que vous avez vos dates : les pe
 
 ## Jour 5: l'Alhambra
 
-**8 h 30 — Alhambra** : toute la journée s'organise autour de votre heure d'entrée aux palais nasrides. Vous n'avez que **30 minutes de marge**, et il faut 30 à 45 minutes à pied depuis l'entrée jusqu'aux palais. Alcazaba, palais nasrides et Generalife représentent environ 4 heures. S'il ne reste plus de billets, la [visite guidée avec entrée incluse](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife) (à partir de 49 €) dispose de son propre quota ; en privé, le [tour coupe-file rien que pour vous](/fr/cities/granada/activities/alhambra-palais-nasrides-visite-privee-coupe-file) (à partir de 278 € le groupe).
+**8 h 30 — Alhambra** : toute la journée s'organise autour de votre heure d'entrée aux palais nasrides. Vous n'avez que **30 minutes de marge**, et il faut 30 à 45 minutes à pied depuis l'entrée jusqu'aux palais. Alcazaba, palais nasrides et Generalife représentent environ 4 heures. S'il ne reste plus de billets, la [visite guidée avec entrée incluse](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife) (à partir de 49 €) a souvent encore des places ; en privé, le [tour coupe-file rien que pour vous](/fr/cities/granada/activities/alhambra-palais-nasrides-visite-privee-coupe-file) (à partir de 278 € le groupe).
 
 **Après-midi :** Capilla Real (7 €) avec les tombeaux des Rois catholiques, et la cathédrale. **Soirée :** zambra dans une grotte du Sacromonte, 22-30 € avec une boisson. Le détail est dans [Grenade en 1 jour](/fr/guides/granada/grenade-en-1-jour).
 

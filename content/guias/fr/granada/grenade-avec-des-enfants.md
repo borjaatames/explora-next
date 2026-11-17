@@ -60,12 +60,12 @@ Grenade n'est pas Séville côté mobilité : des pentes pavées, et les **palai
 
 ## Jour 1: l'Alhambra adaptée
 
-L'Alhambra est très dense et un enfant s'y épuise bien plus vite qu'un adulte. **Ça marche :** le Generalife (fontaines et de l'espace pour courir), l'Alcazaba (créneaux, chevaliers, vue depuis la Torre de la Vela) et deux ou trois salles des Nasrides, surtout le Patio de los Leones. **Ça ne marche pas :** une visite guidée de 90 minutes sur la symbolique coufique ; mieux vaut y aller seuls, en s'arrêtant là où ils en ont envie. Durée réaliste : **2 h 30 à 3 heures**, pas quatre.
+L'Alhambra est très dense et un enfant s'y épuise bien plus vite qu'un adulte. **Ça marche :** le Generalife (fontaines et de l'espace pour courir), l'Alcazaba (créneaux, chevaliers, vue depuis les remparts ; la Torre de la Vela est fermée depuis les séismes d'août 2026) et deux ou trois salles des Nasrides, surtout le Patio de los Leones. **Ça ne marche pas :** une visite guidée de 90 minutes sur la symbolique coufique ; mieux vaut y aller seuls, en s'arrêtant là où ils en ont envie. Durée réaliste : **2 h 30 à 3 heures**, pas quatre.
 
 | Heure | Programme |
 | --- | --- |
 | 9 h | Entrée par la porte du Generalife : jardins et eau |
-| 10 h | Alcazaba et Torre de la Vela |
+| 10 h | Alcazaba et remparts |
 | 10 h 45 | Pause avec de l'eau et quelque chose de sucré |
 | 11 h | Palais nasrides à l'heure indiquée, sans se presser |
 | 12 h 30 | Descente vers le centre |

@@ -32,7 +32,7 @@ faq:
   - pregunta: "¿Se puede ver la Alhambra en un día desde Málaga?"
     respuesta: "Sí. Son unas 3 horas de visita y 1 h 30 de viaje por trayecto, así que da para la Alhambra y un paseo por el Albaicín. La clave es tener la entrada con la hora de los Palacios Nazaríes."
   - pregunta: "¿Qué hago si no quedan entradas para la Alhambra?"
-    respuesta: "Las visitas guiadas y las excursiones suelen tener cupo propio. Mira nuestra guía de entradas agotadas de la Alhambra."
+    respuesta: "Las visitas guiadas y las excursiones compran las entradas con antelación y a menudo les quedan plazas. Mira nuestra guía de entradas agotadas de la Alhambra."
   - pregunta: "¿Cuánto cuesta la excursión privada a la Alhambra desde Málaga?"
     respuesta: "397 € por persona, con un mínimo de 2: incluye transporte privado, entradas a la Alhambra y guía privado en la Alhambra y el Albaicín. La comida no está incluida."
   - pregunta: "¿Hay excursión para cruceristas?"

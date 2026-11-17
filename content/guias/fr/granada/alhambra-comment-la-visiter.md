@@ -1,6 +1,6 @@
 ---
 titulo: 'Billet Alhambra : prix, palais nasrides et comment visiter l''Alhambra'
-descripcion: 'Billet Alhambra : 22,27 € sur le site officiel, en vente jusqu''à 3 mois avant. Créneau des palais nasrides, 4 h de visite et comment visiter l''Alhambra.'
+descripcion: 'Billet Alhambra : 22,27 € sur le site officiel, en vente jusqu''à un an avant. Créneau des palais nasrides, 4 h de visite et comment visiter l''Alhambra.'
 metaTitle: 'Billet Alhambra : prix et comment la visiter'
 categoria: granada
 slug: alhambra-comment-la-visiter
@@ -28,7 +28,7 @@ slugs:
   it: alhambra-come-visitarla
   pt: alhambra-como-visitar
 reservasArriba: true
-respuestaCorta: 'Les billets officiels (22,27 €) sont mis en vente **jusqu''à trois mois à l''avance** et les créneaux du matin s''épuisent des semaines avant. **S''il n''y en a plus**, une visite guidée avec billet inclus vous garantit les palais nasrides à une heure fixe. Comptez environ 4 heures et arrivez tôt : vous n''avez qu''une marge de 30 minutes pour les palais nasrides.'
+respuestaCorta: 'Les billets officiels (22,27 €) sont mis en vente **jusqu''à un an à l''avance** et les créneaux du matin s''épuisent des semaines avant. **S''il n''y en a plus**, une visite guidée avec billet inclus a souvent encore des places pour les palais nasrides à une heure fixe. Comptez environ 4 heures et arrivez tôt : vous n''avez qu''une marge de 30 minutes pour les palais nasrides.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -42,9 +42,9 @@ faq:
 - pregunta: Que se passe-t-il si j'arrive en retard aux palais nasrides ?
   respuesta: Vous disposez de 30 minutes de marge par rapport à l'heure imprimée. Passé ce délai, vous ne pouvez plus entrer et il n'y a pas de remboursement. Il faut 30 à 45 minutes à pied entre l'entrée principale et les palais.
 - pregunta: Que faire si les billets de l'Alhambra sont épuisés ?
-  respuesta: 'Réservez une visite guidée qui inclut l''entrée : les opérateurs disposent de leurs propres quotas même quand le site officiel affiche complet. La visite de nuit des palais nasrides a aussi souvent plus de disponibilités.'
+  respuesta: 'Réservez une visite guidée qui inclut l''entrée : les opérateurs achètent les billets longtemps à l''avance et ont souvent encore des places quand le site officiel affiche complet (pas toujours). La visite de nuit des palais nasrides a aussi souvent plus de disponibilités.'
 - pregunta: Visite guidée ou visite libre ?
-  respuesta: 'Pour une première visite, avec un guide : il garantit l''entrée, gère votre créneau pour les palais nasrides et explique le symbolisme de chaque salle, qui se perd sans contexte.'
+  respuesta: 'Pour une première visite, avec un guide : il a souvent encore des places, gère votre créneau pour les palais nasrides et explique le symbolisme de chaque salle, qui se perd sans contexte.'
 - pregunta: Combien de temps faut-il pour visiter l'Alhambra ?
   respuesta: Environ 4 heures pour voir les palais nasrides, l'Alcazaba, le Generalife et le palais de Charles Quint sans courir.
 tiempo_lectura: 4
@@ -80,7 +80,7 @@ Comment choisir :
 
 ## Pourquoi y aller avec un guide
 
-- **Votre entrée est garantie**, même quand le site officiel affiche « complet ».
+- **Il reste souvent des places** quand le site officiel affiche « complet » (pas toujours).
 - **Le guide gère le créneau des palais nasrides**, ce qui piège la plupart des visiteurs indépendants.
 - **Vous comprenez ce que vous voyez.** Les poèmes gravés dans les murs, la géométrie des azulejos et l'histoire de chaque salle se perdent sans explication.
 - **Aucun risque de faux guides.** Des « visites de l'Alhambra » sans licence sont proposées sur la Plaza Nueva.
@@ -100,11 +100,11 @@ Prix fixés par le Patronato (2026, frais de réservation inclus) :
 
 Presque tout le monde a besoin de l'**Alhambra General**. Les enfants de moins de 12 ans entrent gratuitement mais **ont quand même besoin d'un billet nominatif**, émis lors du même achat ; sans lui, ils ne peuvent pas entrer. Il existe des réductions pour les citoyens de l'UE de plus de 65 ans, les titulaires du Carnet Joven et les visiteurs en situation de handicap. **Il n'y a pas de jour gratuit régulier** : l'idée du « gratuit le mercredi » qui circule en ligne est fausse.
 
-Les billets sont mis en vente **jusqu'à trois mois à l'avance**, à raison d'environ 8 000 par jour. Les créneaux du matin s'épuisent des semaines à l'avance, et à Pâques, pendant les ponts espagnols, en juillet-août et à Noël, en quelques minutes. Le seul site officiel est `tickets.alhambra-patronato.es`. Il est lent, mais tout autre site prend une commission ou revend. Si tout est complet, vos vraies options sont :
+Les billets sont mis en vente **jusqu'à un an à l'avance**, à raison d'environ 8 000 par jour. Les créneaux du matin s'épuisent des semaines à l'avance, et à Pâques, pendant les ponts espagnols, en juillet-août et à Noël, en quelques minutes. Le seul site officiel est `tickets.alhambra-patronato.es`. Il est lent, mais tout autre site prend une commission ou revend. Si tout est complet, vos vraies options sont :
 
-1. **Une visite guidée avec son propre quota de billets** (celles du tableau ci-dessus).
+1. **Une visite guidée avec entrée incluse** (celles du tableau ci-dessus) : les opérateurs achètent les billets longtemps à l'avance et ont souvent des places, mais pas toujours.
 2. **La visite de nuit** des palais nasrides, qui a généralement plus de disponibilités.
-3. **Faire la queue au guichet avant 8 h** pour le petit quota du jour, qui en haute saison suffit rarement.
+3. **Le guichet**, qui vend en même temps que le site et n'a pas de quota propre : si le site est complet, le guichet aussi. En basse saison, il y a souvent des billets aux deux.
 
 [actividad: alhambra-entrada-general]
 
@@ -117,7 +117,7 @@ Les palais nasrides ont une heure d'entrée fixe avec seulement **30 minutes de 
 ## Que voir à l'intérieur
 
 - **Palais nasrides :** la cour des Myrtes, la salle des Ambassadeurs, la cour des Lions et la salle des Deux Sœurs. Levez les yeux : les coupoles sont le clou de la visite.
-- **Alcazaba :** la partie la plus ancienne. La Torre de la Vela offre les plus belles vues sur Grenade et la Sierra Nevada.
+- **Alcazaba :** la partie la plus ancienne. Ses remparts dominent Grenade et la Sierra Nevada (la Torre de la Vela est fermée depuis les séismes d'août 2026).
 - **Generalife :** la résidence d'été des sultans, avec le Patio de la Acequia.
 - **Palais de Charles Quint :** le palais Renaissance au milieu de l'ensemble.
 

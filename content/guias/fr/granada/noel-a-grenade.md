@@ -28,14 +28,14 @@ slugs:
   it: natale-a-granada
   pt: natal-em-granada
 reservasArriba: true
-respuestaCorta: 'Les illuminations s''allument **fin novembre** (le 29 en 2025) et restent jusqu''au 7 janvier, avec un **spectacle de lumière et de chants de Noël sur la Plaza del Carmen à 19 h, 20 h et 21 h**. L''**Alhambra** ouvre en hiver de 8 h 30 à 18 h et **ne ferme que le 25 décembre et le 1er janvier** ; ses billets de Noël partent très vite. Et aussi : la **Sierra Nevada** à une trentaine de kilomètres (ouverte le 29 novembre en 2025), la **Cavalcade** du 5 janvier à 17 h et le **2 janvier**, jour de la Toma, avec l''**Alcazaba gratuite** pour faire sonner la cloche de la Torre de la Vela.'
+respuestaCorta: 'Les illuminations s''allument **fin novembre** (le 29 en 2025) et restent jusqu''au 7 janvier, avec un **spectacle de lumière et de chants de Noël sur la Plaza del Carmen à 19 h, 20 h et 21 h**. L''**Alhambra** ouvre en hiver de 8 h 30 à 18 h et **ne ferme que le 25 décembre et le 1er janvier** ; ses billets de Noël partent très vite. Et aussi : la **Sierra Nevada** à une trentaine de kilomètres (ouverte le 29 novembre en 2025), la **Cavalcade** du 5 janvier à 17 h et le **2 janvier**, jour de la Toma, avec l''**Alcazaba gratuite** pour faire sonner la cloche de la Torre de la Vela (fermée depuis les séismes d''août 2026 : vérifiez si elle ouvre).'
 faq:
   - pregunta: "Quand s'allument les illuminations de Noël à Grenade en 2026 ?"
     respuesta: "La date 2026 n'est pas encore officielle. En 2025, l'allumage a eu lieu le samedi 29 novembre sur la Plaza del Carmen, avec un spectacle à 20 h et l'allumage à 20 h 30. Les illuminations du centre s'allument à 18 h 30 et s'éteignent à 1 h, à 3 h les vendredis, samedis et veilles de jours fériés, et à 5 h les soirs du 24 et du 31 décembre."
   - pregunta: "L'Alhambra est-elle ouverte à Noël ?"
-    respuesta: "Oui, tous les jours sauf le 25 décembre et le 1er janvier. En hiver, elle ouvre de 8 h 30 à 18 h, et la visite nocturne des palais nasrides a lieu le vendredi et le samedi de 20 h à 21 h 30. Les billets sont mis en vente jusqu'à trois mois avant et ceux des ponts de décembre et de Noël s'épuisent vite : s'il n'y en a plus, une visite guidée avec quota propre est l'alternative."
+    respuesta: "Oui, tous les jours sauf le 25 décembre et le 1er janvier. En hiver, elle ouvre de 8 h 30 à 18 h, et la visite nocturne des palais nasrides a lieu le vendredi et le samedi de 20 h à 21 h 30. Les billets sont mis en vente jusqu'à un an avant et ceux des ponts de décembre et de Noël s'épuisent vite : s'il n'y en a plus, une visite guidée avec entrée, qui a souvent encore des places, est l'alternative."
   - pregunta: "Que célèbre-t-on à Grenade le 2 janvier ?"
-    respuesta: "Le jour de la Toma, férié local, qui commémore l'entrée des Rois catholiques en 1492. Une cérémonie civique a lieu à l'hôtel de ville et à la Chapelle royale, avec l'agitation de l'étendard. Ce jour-là, le Patronato ouvre gratuitement l'Alcazaba de l'Alhambra, de 8 h 30 à 18 h, pour faire sonner la cloche de la Torre de la Vela ; le reste du monument nécessite un billet."
+    respuesta: "Le jour de la Toma, férié local, qui commémore l'entrée des Rois catholiques en 1492. Une cérémonie civique a lieu à l'hôtel de ville et à la Chapelle royale, avec l'agitation de l'étendard. Ce jour-là, le Patronato ouvre gratuitement l'Alcazaba de l'Alhambra, de 8 h 30 à 18 h, pour faire sonner la cloche de la Torre de la Vela (vérifiez si elle ouvre : fermée depuis les séismes d'août 2026) ; le reste du monument nécessite un billet."
   - pregunta: "Peut-on skier dans la Sierra Nevada à Noël ?"
     respuesta: "Normalement oui, mais cela dépend de la neige. Pour la saison 2025-26, la station a ouvert le samedi 29 novembre avec des pistes dans le secteur de Borreguiles, grâce aux canons à neige. La date d'ouverture 2026-27 n'a pas été annoncée ; consultez l'état des pistes sur sierranevada.es avant de monter."
   - pregunta: "À quelle heure a lieu la Cavalcade des Rois de Grenade ?"
@@ -109,7 +109,7 @@ Pour dîner sans vous battre pour une place au comptoir un samedi de décembre, 
 - **Visite nocturne des palais nasrides :** le vendredi et le samedi de 20 h à 21 h 30, 12,73 €. Avec le peu de lumière du jour en décembre, c'est la façon la plus envoûtante de les voir.
 - En 2026, le 24 et le 31 décembre tombent un jeudi, et le 2 janvier 2027 un samedi.
 
-Les billets officiels des ponts et de Noël s'épuisent. Une **visite guidée nocturne** ou la **visite privée avec transfert** ont leur propre quota.
+Les billets officiels des ponts et de Noël s'épuisent. Une **visite guidée nocturne** ou la **visite privée avec transfert** ont souvent encore des places.
 
 [actividad: alhambra-visita-nocturna]
 
@@ -133,7 +133,7 @@ Si vous ne skiez pas, l'**Alpujarra** en hiver, avec ses cheminées allumées et
 ## Saint-Sylvestre, Toma de Granada et Rois mages
 
 - **Douze coups de minuit :** sur la **Plaza del Carmen**, face à l'hôtel de ville.
-- **2 janvier, jour de la Toma :** férié local. Cérémonie civique avec l'agitation de l'étendard à l'hôtel de ville et office à la Chapelle royale, où reposent les Rois catholiques. Ce jour-là, l'**Alcazaba de l'Alhambra est gratuite** de 8 h 30 à 18 h pour faire sonner la cloche de la **Torre de la Vela** : selon la tradition, les célibataires qui la font sonner se marient dans l'année.
+- **2 janvier, jour de la Toma :** férié local. Cérémonie civique avec l'agitation de l'étendard à l'hôtel de ville et office à la Chapelle royale, où reposent les Rois catholiques. Ce jour-là, l'**Alcazaba de l'Alhambra est gratuite** de 8 h 30 à 18 h pour faire sonner la cloche de la **Torre de la Vela** (vérifiez si elle ouvre ; fermée depuis les séismes d'août 2026) : selon la tradition, les célibataires qui la font sonner se marient dans l'année.
 - **Cavalcade (5 janvier) :** à 17 h depuis l'avenida de la Constitución par Gran Vía, Reyes Católicos et l'Acera del Darro ; vers 19 h 30, spectacle de drones au Puente Blanco, et final avec les Rois au balcon de l'hôtel de ville. Pour bien voir avec des enfants, cherchez une place sur Gran Vía, au début du parcours.
 
 ## Flamenco au Sacromonte

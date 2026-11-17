@@ -27,7 +27,7 @@ slugs:
   it: alhambra-biglietti-esauriti
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Se o site oficial aparecer esgotado, veja **na véspera entre as 20h00 e as 22h00**, quando por vezes surgem bilhetes de última hora, e consulte o **Granada Card**, que tem quota própria. Se não tiver sorte, uma **visita guiada com o bilhete incluído** garante-lhe os Palácios Nasridas; a **visita noturna** e o bilhete de **Jardins e Generalife** costumam ter mais lugares.'
+respuestaCorta: 'Se o site oficial aparecer esgotado, veja **na véspera entre as 20h00 e as 22h00**, quando por vezes surgem bilhetes de última hora, e consulte o **Granada Card**, que tem quota própria. Se não tiver sorte, uma **visita guiada com o bilhete incluído** muitas vezes ainda tem lugares para os Palácios Nasridas; a **visita noturna** e o bilhete de **Jardins e Generalife** costumam ter mais lugares.'
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife
@@ -37,7 +37,7 @@ actividades:
   - alhambra-tour-guiado-con-entradas
 faq:
 - pregunta: É possível comprar bilhetes para a Alhambra na bilheteira no próprio dia?
-  respuesta: Por vezes vendem-se alguns na bilheteira no próprio dia, mas não há qualquer garantia e na época alta o normal é não sobrar nada. Não organize a viagem a contar com isso.
+  respuesta: A bilheteira vende ao mesmo tempo que o site e não tem quota própria, por isso se o site está esgotado a bilheteira também. Na época baixa costuma haver bilhetes nos dois.
 - pregunta: A que horas saem os bilhetes de última hora?
   respuesta: Segundo o Turismo de Granada, na véspera da visita, entre as 20h00 e as 22h00, podem aparecer bilhetes de última hora no site oficial. Também convém ver nos dias anteriores, caso sejam libertados cancelamentos.
 - pregunta: É fiável reservar uma visita guiada se o site oficial estiver esgotado?
@@ -59,8 +59,8 @@ Os bilhetes da Alhambra podem ser comprados **com até três meses de antecedên
 
 | Se procura… | Opção | Desde |
 | --- | --- | --- |
-| Entrar com garantia e com guia | [Alhambra e Palácios Nacéridas: tour privado sem filas](/pt/cities/granada/activities/alhambra-palacios-nasridas-tour-privado-sem-filas) | 278 € por grupo |
-| Entrar com garantia e com guia | [Bilhete e tour guiado com Palácios Nasridas](/en/cities/granada/activities/alhambra-entry-and-guided-tour) (só em espanhol e inglês), 4,7★ (3.516) | 50 € |
+| Entrar com guia, em privado | [Alhambra e Palácios Nacéridas: tour privado sem filas](/pt/cities/granada/activities/alhambra-palacios-nasridas-tour-privado-sem-filas) | 278 € por grupo |
+| Entrar com guia | [Bilhete e tour guiado com Palácios Nasridas](/en/cities/granada/activities/alhambra-entry-and-guided-tour) (só em espanhol e inglês), 4,7★ (3.516) | 50 € |
 | A mais escolhida | [Visita guiada à Alhambra e aos Nasridas](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4,7★ (21.100) | 49 € |
 | Grupo pequeno | [Alhambra e Palácios Nasridas em grupo reduzido](/en/cities/granada/activities/alhambra-small-group-tour), 4,8★ (890) | 65 € |
 | Se só restarem noites | [Visita noturna aos Palácios Nasridas](/en/cities/granada/activities/alhambra-night-tour), 4,9★ (288) | 54 € |
@@ -73,7 +73,7 @@ O site oficial de venda é `tickets.alhambra-patronato.es`. O bilhete geral cust
 - **Veja vários dias seguidos:** são libertados cancelamentos e devoluções de grupos.
 - **Na véspera, entre as 20h00 e as 22h00:** segundo o Turismo de Granada, a essas horas podem sair bilhetes de última hora para o dia seguinte.
 - **Seja flexível com a hora dos Nasridas:** os primeiros da manhã e os últimos da tarde são os que se esgotam primeiro; os do meio-dia aguentam um pouco mais.
-- **Bilheteira no próprio dia:** por vezes restam alguns, mas sem garantia. Não é um plano.
+- **Bilheteira:** vende ao mesmo tempo que o site e não tem quota própria. Na época baixa costuma haver bilhetes nos dois; na alta, não.
 
 ## 2. O Granada Card
 
@@ -81,7 +81,7 @@ O **Granada Card** reserva uma quota própria de bilhetes para a Alhambra, por i
 
 ## 3. Uma visita guiada com o bilhete incluído
 
-É a opção mais segura quando tudo o resto falha: os operadores autorizados reservam as suas quotas com antecedência e vendem-lhe a visita com a hora dos Nasridas já atribuída. Custa mais do que o bilhete avulso (desde cerca de 50 €), mas poupa-se à procura e alguém lhe explica o que está a ver.
+Muitas vezes é a forma de entrar quando tudo o resto falha: os operadores autorizados compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares (nem sempre) e vendem-lhe a visita com a hora dos Nasridas já atribuída. Custa mais do que o bilhete avulso (desde cerca de 50 €), mas poupa-se à procura e alguém lhe explica o que está a ver.
 
 Antes de pagar, confirme duas coisas na ficha: que diga claramente **«inclui Palácios Nasridas»** e que o bilhete esteja incluído. Há tours que só percorrem os jardins ou a zona gratuita.
 

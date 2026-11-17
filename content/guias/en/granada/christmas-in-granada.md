@@ -28,14 +28,14 @@ slugs:
   it: natale-a-granada
   pt: natal-em-granada
 reservasArriba: true
-respuestaCorta: "The lights go on in **late November** (the 29th in 2025) and stay up until 7 January, with a **light and carol show on Plaza del Carmen at 19:00, 20:00 and 21:00**. The **Alhambra** opens 8:30 to 18:00 in winter and **closes only on 25 December and 1 January**; its Christmas tickets go fast. Plus: **Sierra Nevada** about 30 km away (it opened on 29 November in 2025), the **Three Kings Parade** on 5 January at 17:00 and **2 January**, the Día de la Toma, when the **Alcazaba is free** so you can ring the Torre de la Vela bell."
+respuestaCorta: "The lights go on in **late November** (the 29th in 2025) and stay up until 7 January, with a **light and carol show on Plaza del Carmen at 19:00, 20:00 and 21:00**. The **Alhambra** opens 8:30 to 18:00 in winter and **closes only on 25 December and 1 January**; its Christmas tickets go fast. Plus: **Sierra Nevada** about 30 km away (it opened on 29 November in 2025), the **Three Kings Parade** on 5 January at 17:00 and **2 January**, the Día de la Toma, when the **Alcazaba is free** so you can ring the Torre de la Vela bell (the tower has been closed since the August 2026 earthquakes, so check whether it opens)."
 faq:
   - pregunta: "When do the Granada Christmas lights go on in 2026?"
     respuesta: "The 2026 date isn't official yet. In 2025 the switch-on was on Saturday 29 November on Plaza del Carmen, with a show at 20:00 and the lights going on at 20:30. In the centre they come on at 18:30 and go off at 1:00, at 3:00 on Fridays, Saturdays and the eve of holidays, and at 5:00 on Christmas Eve and New Year's Eve."
   - pregunta: "Is the Alhambra open at Christmas?"
-    respuesta: "Yes, every day except 25 December and 1 January. In winter it's open 8:30 to 18:00, and the night visit to the Nasrid Palaces runs on Fridays and Saturdays from 20:00 to 21:30. Tickets go on sale up to three months ahead and those for the December bank holidays and Christmas sell out early: if there are none left, a guided tour with its own allocation is the way in."
+    respuesta: "Yes, every day except 25 December and 1 January. In winter it's open 8:30 to 18:00, and the night visit to the Nasrid Palaces runs on Fridays and Saturdays from 20:00 to 21:30. Tickets go on sale up to a year ahead and those for the December bank holidays and Christmas sell out early: if there are none left, a guided tour with entry included often still has places."
   - pregunta: "What happens in Granada on 2 January?"
-    respuesta: "It's the Día de la Toma, a local holiday marking the Catholic Monarchs' entry into the city in 1492. There's a civic ceremony at City Hall and the Royal Chapel, with the waving of the royal banner. That day the Alhambra trust opens the Alcazaba for free from 8:30 to 18:00 so people can ring the Torre de la Vela bell; the rest of the monument needs a ticket."
+    respuesta: "It's the Día de la Toma, a local holiday marking the Catholic Monarchs' entry into the city in 1492. There's a civic ceremony at City Hall and the Royal Chapel, with the waving of the royal banner. That day the Alhambra trust opens the Alcazaba for free from 8:30 to 18:00 so people can ring the Torre de la Vela bell (check whether it opens: it has been closed since the August 2026 earthquakes); the rest of the monument needs a ticket."
   - pregunta: "Can you ski in Sierra Nevada at Christmas?"
     respuesta: "Usually, yes, though it depends on the snow. In 2025-26 the resort opened on Saturday 29 November with runs in the Borreguiles area, helped by snow cannons. The 2026-27 opening date hasn't been announced; check the piste report on sierranevada.es before you go up."
   - pregunta: "What time is the Three Kings Parade in Granada?"
@@ -109,7 +109,7 @@ To eat without elbowing for bar space on a December Saturday, the **private tapa
 - **Nasrid Palaces at night:** Fridays and Saturdays, 20:00 to 21:30, €12.73. With so little daylight in December, it's the most atmospheric way to see them.
 - In 2026, 24 and 31 December fall on a Thursday, and 2 January 2027 on a Saturday.
 
-Official tickets for the December bank holidays and Christmas sell out. A **guided night visit** or the **private tour with hotel transfer** has its own allocation.
+Official tickets for the December bank holidays and Christmas sell out. A **guided night visit** or the **private tour with hotel transfer** often still has places.
 
 [actividad: alhambra-visita-nocturna]
 
@@ -133,7 +133,7 @@ If you don't ski, the **Alpujarra** in winter, with wood fires lit and snow on t
 ## New Year's Eve, the Toma and Three Kings
 
 - **Midnight chimes:** on **Plaza del Carmen**, in front of City Hall.
-- **2 January, Día de la Toma:** a local holiday. A civic ceremony with the waving of the royal banner at City Hall and a service at the Royal Chapel, where the Catholic Monarchs are buried. That day the **Alhambra's Alcazaba is free** from 8:30 to 18:00 so you can ring the bell of the **Torre de la Vela**: tradition says single women who ring it will marry within the year.
+- **2 January, Día de la Toma:** a local holiday. A civic ceremony with the waving of the royal banner at City Hall and a service at the Royal Chapel, where the Catholic Monarchs are buried. That day the **Alhambra's Alcazaba is free** from 8:30 to 18:00 so you can ring the bell of the **Torre de la Vela** (check whether it opens; it has been closed since the August 2026 earthquakes): tradition says single women who ring it will marry within the year.
 - **Three Kings Parade (5 January):** at 17:00 from Avenida de la Constitución along Gran Vía, Reyes Católicos and Acera del Darro; around 19:30 there's a drone show at Puente Blanco, and it ends with the Kings on the City Hall balcony. With kids, find a spot on Gran Vía near the start.
 
 ## Flamenco in the Sacromonte

@@ -32,7 +32,7 @@ faq:
   - pregunta: "¿Se puede ver Granada en un día?"
     respuesta: "Lo esencial, sí: la Alhambra (unas 4 horas), el centro con la Capilla Real, el Albaicín al atardecer y una zambra. Te quedas sin la Cartuja, el Realejo y el Sacromonte de día, que piden un segundo día."
   - pregunta: "¿Qué hago si no quedan entradas para la Alhambra?"
-    respuesta: "Busca otra fecha o una visita guiada con entrada incluida, que tiene cupo propio (desde 49 €). La nocturna de los Palacios Nazaríes (12,73 €) es otra opción. No compres en reventa."
+    respuesta: "Busca otra fecha o una visita guiada con entrada incluida (desde 49 €): los operadores compran con antelación y a menudo les quedan plazas. La nocturna de los Palacios Nazaríes (12,73 €) es otra opción. No compres en reventa."
   - pregunta: "¿Mejor la Alhambra por la mañana o por la tarde?"
     respuesta: "Por la mañana, con la primera franja: menos gente y luz lateral en los patios. Además deja la tarde libre para el Albaicín y el atardecer en San Nicolás. En verano, la última franja de la tarde también funciona por el calor."
   - pregunta: "¿Se puede ir a Granada en un día desde Málaga o Sevilla?"
@@ -68,7 +68,7 @@ Un día en Granada es corto pero suficiente para lo que la hace única: la Alham
 
 | Qué | Precio | Antelación |
 | --- | --- | --- |
-| Alhambra General (con Nazaríes) | 22,27 € en la web oficial | 3-4 semanas; hasta 3 meses en temporada alta |
+| Alhambra General (con Nazaríes) | 22,27 € en la web oficial | 3-4 semanas; 2-3 meses en temporada alta (salen hasta un año antes) |
 | Visita guiada con entrada | desde 49 € | 1-2 semanas; salvavidas si está agotada |
 | Zambra en el Sacromonte | 22-30 € con copa | 2-3 días; fines de semana, más |
 | Capilla Real y Catedral | 7 € cada una | el mismo día |
@@ -82,7 +82,7 @@ Un día en Granada es corto pero suficiente para lo que la hace única: la Alham
 La regla de oro: tu hora de **Palacios Nazaríes** es fija y solo hay **30 minutos de margen**. Desde la entrada se tardan 30-45 minutos andando hasta los palacios, así que organiza el recorrido en función de esa hora:
 
 - **Palacios Nazaríes** (1 h 30): Patio de los Arrayanes, Salón de Embajadores, Patio de los Leones. Mira arriba: las cúpulas son lo mejor.
-- **Alcazaba** (45 min): la Torre de la Vela tiene la mejor vista de Granada y Sierra Nevada.
+- **Alcazaba** (45 min): la Torre de la Vela, la de mejores vistas, está cerrada temporalmente desde los terremotos de agosto de 2026.
 - **Generalife** (1 hora): la residencia de verano con el Patio de la Acequia.
 
 En total, unas 4 horas. Lleva el **DNI o pasaporte**: la entrada es nominativa. Si quieres entender lo que ves (los «dibujos» de las paredes son poemas), la visita guiada más elegida incluye la entrada:

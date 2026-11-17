@@ -32,7 +32,7 @@ faq:
   - pregunta: "É possível ver Granada num dia?"
     respuesta: "O essencial, sim: a Alhambra (cerca de 4 horas), o centro com a Capela Real, o Albaicín ao pôr do sol e um espetáculo de flamenco numa gruta. A Cartuja, o Realejo e o Sacromonte de dia precisam de um segundo dia."
   - pregunta: "E se os bilhetes da Alhambra estiverem esgotados?"
-    respuesta: "Experimente outra data ou uma visita guiada com entrada incluída, que tem a sua própria quota (desde 49 €). A visita noturna aos Palácios Nacéridas (12,73 €) é outra opção. Não compre a revendedores."
+    respuesta: "Experimente outra data ou uma visita guiada com entrada incluída, que muitas vezes ainda tem lugares (desde 49 €). A visita noturna aos Palácios Nacéridas (12,73 €) é outra opção. Não compre a revendedores."
   - pregunta: "A Alhambra é melhor de manhã ou à tarde?"
     respuesta: "De manhã, no primeiro horário: menos gente e luz baixa nos pátios. Além disso, deixa a tarde livre para o Albaicín e o pôr do sol em San Nicolás. No verão, o último horário da tarde também funciona por causa do calor."
   - pregunta: "Posso visitar Granada num dia a partir de Málaga ou Sevilha?"
@@ -68,7 +68,7 @@ Um só dia em Granada é pouco, mas chega para o que a torna única: a Alhambra,
 
 | O quê | Preço | Reservar |
 | --- | --- | --- |
-| Alhambra Geral (com Palácios Nacéridas) | 22,27 € no site oficial | 3-4 semanas; até 3 meses na época alta |
+| Alhambra Geral (com Palácios Nacéridas) | 22,27 € no site oficial | 3-4 semanas; 2-3 meses na época alta (venda até um ano antes) |
 | Visita guiada com entrada | desde 49 € | 1-2 semanas; a sua salvação se estiver esgotado |
 | Zambra no Sacromonte | 22-30 € com bebida | 2-3 dias; mais ao fim de semana |
 | Capela Real e Catedral | 7 € cada | no próprio dia |
@@ -80,7 +80,7 @@ Um só dia em Granada é pouco, mas chega para o que a torna única: a Alhambra,
 A regra de ouro: a sua hora nos **Palácios Nacéridas** é fixa e só há **30 minutos de tolerância**. Da entrada aos palácios são 30-45 minutos a pé, por isso planeie o percurso em função desse horário:
 
 - **Palácios Nacéridas** (1h30): o Pátio dos Arrayanes, o Salão dos Embaixadores, o Pátio dos Leões. Olhe para cima: os tetos são o melhor.
-- **Alcazaba** (45 min): a Torre de la Vela tem a melhor vista de Granada e da Serra Nevada.
+- **Alcazaba** (45 min): as muralhas dominam Granada e a Serra Nevada (a Torre de la Vela está fechada desde os sismos de agosto de 2026).
 - **Generalife** (1 hora): o palácio de verão com o Pátio da Acequia.
 
 Cerca de 4 horas no total. Leve o **passaporte ou cartão de cidadão**: os bilhetes são nominativos. Se quiser perceber o que está a ver (os «padrões» das paredes são poemas), a visita guiada mais procurada inclui a entrada:

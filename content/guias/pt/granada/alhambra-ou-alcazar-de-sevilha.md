@@ -38,7 +38,7 @@ faq:
 - pregunta: A Alhambra e o Alcázar de Sevilha são parecidos?
   respuesta: 'À primeira vista sim, mas não são a mesma coisa. A Alhambra é arte nasrida, feita pela última dinastia muçulmana da península. O palácio principal do Alcázar foi mandado construir em 1364 por um rei cristão, Pedro I, com artesãos que imitavam esse estilo: é arte mudéjar. Por isso quem vê os dois nota que se parecem e, ao mesmo tempo, que são diferentes.'
 - pregunta: Com quanta antecedência é preciso reservar cada um?
-  respuesta: 'A Alhambra vende bilhetes até três meses antes e na primavera, nas pontes e no verão as manhãs esgotam com semanas de margem. O Alcázar vende por intervalos de 30 minutos e na época alta convém reservar vários dias antes; além disso, a bilheteira guarda alguns bilhetes para o próprio dia.'
+  respuesta: 'A Alhambra vende bilhetes até um ano antes e na primavera, nas pontes e no verão as manhãs esgotam com semanas de margem. O Alcázar vende por intervalos de 30 minutos e na época alta convém reservar vários dias antes; além disso, a bilheteira guarda alguns bilhetes para o próprio dia.'
 - pregunta: É possível ver a Alhambra numa excursão de um dia a partir de Sevilha?
   respuesta: 'É possível, mas é um dia longo: o comboio entre Sevilha e Granada demora cerca de 2 horas e meia a 3 horas por trajeto e a visita leva 4 horas. Só compensa se já tiver o bilhete com hora dos Palácios Nasridas acertada com os comboios, ou se for numa excursão que organiza tudo.'
 - pregunta: Qual é melhor para ir com crianças?
@@ -53,7 +53,7 @@ Se vai estar em Granada e em Sevilha e só tem tempo para um grande monumento, *
 | --- | --- | --- |
 | Bilhete geral | 22,27 € online (21 € na bilheteira) | 15,50 € (reduzido, 8 €) |
 | Tempo de visita | Cerca de 4 horas | 2,5-3 horas |
-| Reservar com | Semanas; venda até 3 meses antes | Dias na época alta; intervalos de 30 min |
+| Reservar com | Semanas; venda até um ano antes | Dias na época alta; intervalos de 30 min |
 | Sem bilhete online | Última hora na véspera, Granada Card, tour com bilhete | Quota na bilheteira do próprio dia, tour com bilhete |
 | Hora fixa rigorosa | Sim, nos Palácios Nasridas (30 min de margem) | Só o intervalo de entrada |
 | O que é | Cidade palatina nasrida: palácios, fortaleza e jardins | Palácio mudéjar em uso e jardins enormes |
@@ -65,10 +65,10 @@ Se vai estar em Granada e em Sevilha e só tem tempo para um grande monumento, *
 A Alhambra não é um palácio: é uma cidade amuralhada sobre uma colina, com três partes que em qualquer outro lugar seriam uma visita por si só.
 
 - **Os Palácios Nasridas:** o Mexuar, o Palácio de Comares com o Patio de los Arrayanes e o Pátio dos Leões. São os interiores islâmicos medievais mais bem conservados da Europa ocidental e, ao vivo, o detalhe dos estuques e das cúpulas de mocárabes não tem comparação.
-- **A Alcazaba:** a parte militar, com a Torre de la Vela e a melhor vista sobre o Albaicín e, no inverno, a Serra Nevada coberta de neve.
+- **A Alcazaba:** a parte militar, com a Torre de la Vela (fechada desde os sismos de agosto de 2026) e a melhor vista sobre o Albaicín e, no inverno, a Serra Nevada coberta de neve.
 - **O Generalife:** a quinta de recreio dos sultões, com o Patio de la Acequia.
 
-O preço dessa grandeza é a logística. O bilhete dá-lhe **uma hora fixa para os Palácios Nasridas** com apenas 30 minutos de margem, a visita completa leva **cerca de 4 horas** e há bastantes subidas. Os bilhetes saem até três meses antes e as manhãs de primavera desaparecem com semanas de antecedência. Se se vai organizar com tempo, nada disto importa; se for à última hora, pesa.
+O preço dessa grandeza é a logística. O bilhete dá-lhe **uma hora fixa para os Palácios Nasridas** com apenas 30 minutos de margem, a visita completa leva **cerca de 4 horas** e há bastantes subidas. Os bilhetes saem até um ano antes e as manhãs de primavera desaparecem com semanas de antecedência. Se se vai organizar com tempo, nada disto importa; se for à última hora, pesa.
 
 Para escolher o formato, veja [como visitar a Alhambra](/pt/guides/granada/alhambra-como-visitar). Se quiser que lha expliquem, a opção mais escolhida é a [visita guiada à Alhambra e aos Nasridas](/en/cities/granada/activities/alhambra-generalife-guided-tour).
 

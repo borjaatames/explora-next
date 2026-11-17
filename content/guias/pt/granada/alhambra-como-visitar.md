@@ -1,6 +1,6 @@
 ---
 titulo: 'Bilhetes Alhambra: preço, tipos e como visitá-la'
-descripcion: 'Bilhetes Alhambra: o geral custa 22,27 € e sai até três meses antes. Que visita escolher, o horário dos Palácios Nasridas, quanto tempo leva e erros a evitar.'
+descripcion: 'Bilhetes Alhambra: o geral custa 22,27 € e sai até um ano antes. Que visita escolher, o horário dos Palácios Nasridas, quanto tempo leva e erros a evitar.'
 metaTitle: 'Bilhetes Alhambra: preço e como comprar'
 categoria: granada
 slug: alhambra-como-visitar
@@ -27,7 +27,7 @@ slugs:
   fr: alhambra-comment-la-visiter
   it: alhambra-come-visitarla
 reservasArriba: true
-respuestaCorta: 'Os bilhetes oficiais (22,27 €) são postos à venda **até três meses antes** e os horários da manhã esgotam com semanas de antecedência. **Se já não houver**, uma visita guiada que inclua o bilhete garante-lhe os Palácios Nasridas a uma hora fixa. Conte com cerca de 4 horas e chegue cedo: só tem uma janela de 30 minutos para os Palácios Nasridas.'
+respuestaCorta: 'Os bilhetes oficiais (22,27 €) são postos à venda **até um ano antes** e os horários da manhã esgotam com semanas de antecedência. **Se já não houver**, uma visita guiada que inclua o bilhete muitas vezes ainda tem lugares para os Palácios Nasridas a uma hora fixa. Conte com cerca de 4 horas e chegue cedo: só tem uma janela de 30 minutos para os Palácios Nasridas.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -41,9 +41,9 @@ faq:
 - pregunta: O que acontece se chegar atrasado aos Palácios Nasridas?
   respuesta: Tem 30 minutos de tolerância a partir da hora impressa. Depois disso não pode entrar e não há reembolso. Da entrada principal aos palácios são 30 a 45 minutos a pé.
 - pregunta: O que posso fazer se os bilhetes da Alhambra estiverem esgotados?
-  respuesta: 'Reserve uma visita guiada que inclua a entrada: os operadores têm as suas próprias quotas mesmo quando o site oficial está esgotado. A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
+  respuesta: 'Reserve uma visita guiada que inclua a entrada: os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares mesmo quando o site oficial está esgotado (nem sempre). A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
 - pregunta: Visita guiada ou por conta própria?
-  respuesta: 'Numa primeira visita, com guia: garante a entrada, trata do horário dos Palácios Nasridas e explica o simbolismo de cada sala, que sem contexto se perde.'
+  respuesta: 'Numa primeira visita, com guia: muitas vezes ainda tem lugares, trata do horário dos Palácios Nasridas e explica o simbolismo de cada sala, que sem contexto se perde.'
 - pregunta: Quanto tempo é preciso para ver a Alhambra?
   respuesta: Cerca de 4 horas para ver os Palácios Nasridas, a Alcáçova, o Generalife e o Palácio de Carlos V sem pressas.
 tiempo_lectura: 4
@@ -80,7 +80,7 @@ Como escolher:
 
 ## Porquê ir com guia
 
-- **A entrada está garantida**, mesmo quando o site oficial diz «esgotado».
+- **Muitas vezes ainda há lugares** quando o site oficial diz «esgotado» (nem sempre).
 - **O guia trata do horário dos Palácios Nasridas**, que é o que mais complica a vida a quem vai por conta própria.
 - **Percebe o que vê.** Os poemas gravados nas paredes, a geometria dos azulejos e a história de cada sala perdem-se sem uma explicação.
 - **Sem risco de falsos guias.** Na Plaza Nueva oferecem-se «visitas à Alhambra» sem licença.
@@ -100,11 +100,11 @@ Preços fixados pelo Patronato (2026, taxa de reserva incluída):
 
 Quase toda a gente precisa da **Alhambra Geral**. As crianças com menos de 12 anos não pagam, mas **precisam na mesma de um bilhete nominativo**, emitido na mesma compra; sem ele não podem entrar. Há descontos para cidadãos da UE com mais de 65 anos, titulares do Carnet Joven e visitantes com deficiência. **Não há nenhum dia gratuito fixo**: a ideia de que «às quartas-feiras é grátis» que circula na internet é falsa.
 
-Os bilhetes são postos à venda **até três meses antes**, com cerca de 8000 por dia. Os horários da manhã esgotam com semanas de antecedência e, na Páscoa, nas pontes espanholas, em julho-agosto e no Natal, em minutos. O único site oficial é `tickets.alhambra-patronato.es`. É lento, mas qualquer outro site cobra comissão ou revende. Se estiver tudo esgotado, as suas opções reais são:
+Os bilhetes são postos à venda **até um ano antes**, com cerca de 8000 por dia. Os horários da manhã esgotam com semanas de antecedência e, na Páscoa, nas pontes espanholas, em julho-agosto e no Natal, em minutos. O único site oficial é `tickets.alhambra-patronato.es`. É lento, mas qualquer outro site cobra comissão ou revende. Se estiver tudo esgotado, as suas opções reais são:
 
-1. **Uma visita guiada com quota própria de bilhetes** (as da tabela acima).
+1. **Uma visita guiada com entrada incluída** (as da tabela acima): os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares, mas nem sempre.
 2. **A visita noturna** aos Palácios Nasridas, que costuma ter mais disponibilidade.
-3. **Fazer fila na bilheteira antes das 8h00** para a pequena quota do dia, que na época alta raramente chega para muitos.
+3. **A bilheteira**, que vende ao mesmo tempo que o site e não tem quota própria: se o site está esgotado, a bilheteira também. Na época baixa costuma haver bilhetes nos dois.
 
 [actividad: alhambra-entrada-general]
 
@@ -117,7 +117,7 @@ Os Palácios Nasridas têm uma hora de entrada fixa com apenas **30 minutos de t
 ## O que ver lá dentro
 
 - **Palácios Nasridas:** o Pátio dos Mirtos, a Sala dos Embaixadores, o Pátio dos Leões e a Sala das Duas Irmãs. Olhe para cima: as cúpulas são o ponto alto.
-- **Alcáçova:** a parte mais antiga. A Torre de la Vela tem as melhores vistas de Granada e da Serra Nevada.
+- **Alcáçova:** a parte mais antiga. As muralhas dominam Granada e a Serra Nevada (a Torre de la Vela está fechada desde os sismos de agosto de 2026).
 - **Generalife:** a residência de verão dos sultões, com o Pátio da Acequia.
 - **Palácio de Carlos V:** o palácio renascentista no meio do conjunto.
 
@@ -142,4 +142,4 @@ Uma visita completa demora **cerca de 4 horas**.
 
 ## Numa frase
 
-A Alhambra desfruta-se melhor com a entrada garantida e alguém que a explique. Se for passar mais dias em Granada, veja o nosso guia [Granada em 2 dias](/en/guides/granada/granada-in-2-days).
+A Alhambra desfruta-se melhor com a entrada reservada e alguém que a explique. Se for passar mais dias em Granada, veja o nosso guia [Granada em 2 dias](/en/guides/granada/granada-in-2-days).

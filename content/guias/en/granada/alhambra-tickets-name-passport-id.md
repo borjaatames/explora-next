@@ -58,7 +58,7 @@ opciones:
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| Guaranteed entry with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
+| Entry included with a guide | [Entry and guided tour with the Nasrid Palaces](/en/cities/granada/activities/alhambra-entry-and-guided-tour), 4.7★ (3,516) | €50 |
 | The most popular | [Alhambra and Nasrid Palaces guided tour](/en/cities/granada/activities/alhambra-generalife-guided-tour), 4.7★ (21,100) | €49 |
 | Small group | [Alhambra and Nasrid Palaces small-group tour](/en/cities/granada/activities/alhambra-small-group-tour), 4.8★ (890) | €65 |
 | If only evenings are left | [Night visit to the Nasrid Palaces](/en/cities/granada/activities/alhambra-night-tour), 4.9★ (288) | €54 |

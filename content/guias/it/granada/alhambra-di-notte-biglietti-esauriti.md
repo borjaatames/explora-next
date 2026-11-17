@@ -29,7 +29,7 @@ slugs:
   it: alhambra-di-notte-biglietti-esauriti
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'La **visita notturna ai Palazzi Nasridi** costa **12,73 €** sul sito ufficiale (`tickets.alhambra-patronato.es`) e dal 15 ottobre al 31 marzo c''è solo **venerdì e sabato, dalle 20:00 alle 21:30**; dal 1° aprile al 14 ottobre, **da martedì a sabato, dalle 22:00 alle 23:30**. Se risulta esaurita, guarda l''**Alhambra Experiencias** (22,27 €), la **Granada Card 24 h** (50 €), che ha una quota propria, o la **biglietteria notturna**, che apre un''ora prima. L''opzione sicura è una **visita guidata notturna con ingresso incluso**, da 54 €.'
+respuestaCorta: 'La **visita notturna ai Palazzi Nasridi** costa **12,73 €** sul sito ufficiale (`tickets.alhambra-patronato.es`) e dal 15 ottobre al 31 marzo c''è solo **venerdì e sabato, dalle 20:00 alle 21:30**; dal 1° aprile al 14 ottobre, **da martedì a sabato, dalle 22:00 alle 23:30**. Se risulta esaurita, guarda l''**Alhambra Experiencias** (22,27 €), la **Granada Card 24 h** (50 €), che ha una quota propria, o la **biglietteria notturna**, che apre un''ora prima. L''opzione più probabile è una **visita guidata notturna con ingresso incluso**, da 54 €.'
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife
@@ -117,7 +117,7 @@ In quest'ordine:
 2. **Guarda l'Alhambra Experiencias e la Dobla de Oro Nocturna.** Sono prodotti diversi sullo stesso sito. Ti danno i Nasridi di notte e qualcosa in più, per pochi euro di differenza.
 3. **Verifica la Granada Card 24 h (50 €).** È l'unica Granada Card che include la notturna dei Palazzi Nasridi e, secondo Turismo de Granada, ha una **quota propria**: possono restare posti quando il biglietto singolo è esaurito. Conviene se entrerai anche nella cattedrale, nella Cappella Reale e in altri monumenti.
 4. **Vai alla biglietteria notturna**, che apre un'ora prima del turno. Può restare qualche biglietto, ma senza garanzia.
-5. **Prenota una visita guidata notturna** con ingresso incluso. Gli operatori prenotano la loro quota in anticipo.
+5. **Prenota una visita guidata notturna** con ingresso incluso. Gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti (non sempre).
 
 ## 4. La visita guidata notturna
 

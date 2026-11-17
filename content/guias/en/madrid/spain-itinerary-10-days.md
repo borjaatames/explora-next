@@ -39,7 +39,7 @@ faq:
   - pregunta: "Which order should I do the route in?"
     respuesta: "Fly into Madrid and out of Barcelona, or the reverse, with an open-jaw ticket. That way you never backtrack. The only long hop is Granada-Barcelona: 1 h 25 by plane, or about 6 h 30 on the direct high-speed train, which runs only a few times a day."
   - pregunta: "How far ahead do I need to book tickets?"
-    respuesta: "The Alhambra 3-4 weeks ahead (up to 3 months in high season); the Sagrada Família 4-6 weeks (about two months in summer); the Real Alcázar 1-2 weeks. The Prado and the Royal Palace only need a couple of days. Book trains as soon as you have dates: the cheap fares go as the train fills."
+    respuesta: "The Alhambra 3-4 weeks ahead (2-3 months in high season; sales open up to a year ahead); the Sagrada Família 4-6 weeks (about two months in summer); the Real Alcázar 1-2 weeks. The Prado and the Royal Palace only need a couple of days. Book trains as soon as you have dates: the cheap fares go as the train fills."
   - pregunta: "How much does a 10-day trip to Spain cost?"
     respuesta: "About €1,150-1,950 per person excluding international flights: €110-280 for trains and the Granada-Barcelona flight, about €160 in tickets, €350-500 for food and €540-990 for mid-range hotels sharing a double. Granada is the cheapest city; Madrid and Barcelona are the most expensive to sleep in."
 actividades:
@@ -89,7 +89,7 @@ Three companies now compete on Madrid-Seville and Madrid-Barcelona (Renfe, Iryo 
 
 | What | Official price | How far ahead | Our guide |
 | --- | --- | --- | --- |
-| Alhambra (timed Nasrid Palaces) | €22.27 | 3-4 weeks; up to 3 months in high season | [How to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit) |
+| Alhambra (timed Nasrid Palaces) | €22.27 | 3-4 weeks; 2-3 months in high season (sales open up to a year ahead) | [How to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit) |
 | Sagrada Família | €26 with audio guide; €36 with tower | 4-6 weeks; about 2 months in summer | [Which ticket to choose](/en/guides/barcelona/sagrada-familia-which-ticket-to-choose) |
 | Real Alcázar of Seville | €15.50 | 1-2 weeks | [How to visit the Alcázar](/en/guides/sevilla/alcazar-of-seville-how-to-visit) |
 | Park Güell | from €18 | 2-3 weeks; non-refundable | [Which ticket to choose](/en/guides/barcelona/park-guell-which-ticket-to-choose) |

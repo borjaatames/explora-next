@@ -38,7 +38,7 @@ faq:
 - pregunta: L'Alhambra et l'Alcazar de Séville se ressemblent-ils ?
   respuesta: 'À première vue oui, mais ce n''est pas la même chose. L''Alhambra relève de l''art nasride, œuvre de la dernière dynastie musulmane de la péninsule. Le palais principal de l''Alcazar a été commandé en 1364 par un roi chrétien, Pierre Ier, à des artisans qui imitaient ce style : c''est de l''art mudéjar. C''est pourquoi ceux qui voient les deux remarquent qu''ils se ressemblent tout en étant différents.'
 - pregunta: Combien de temps à l'avance faut-il réserver chacun ?
-  respuesta: 'L''Alhambra vend ses billets jusqu''à trois mois à l''avance et, au printemps, pendant les ponts et en été, les matinées sont complètes des semaines avant. L''Alcazar vend par créneaux de 30 minutes et, en haute saison, mieux vaut réserver plusieurs jours avant ; en outre, son guichet garde quelques billets pour le jour même.'
+  respuesta: 'L''Alhambra vend ses billets jusqu''à un an à l''avance et, au printemps, pendant les ponts et en été, les matinées sont complètes des semaines avant. L''Alcazar vend par créneaux de 30 minutes et, en haute saison, mieux vaut réserver plusieurs jours avant ; en outre, son guichet garde quelques billets pour le jour même.'
 - pregunta: Peut-on voir l'Alhambra en excursion d'une journée depuis Séville ?
   respuesta: 'C''est possible, mais la journée est longue : le train entre Séville et Grenade met environ 2 h 30 à 3 heures par trajet et la visite prend 4 heures. Cela ne vaut la peine que si vous avez déjà un billet dont l''heure d''entrée aux palais nasrides colle avec les trains, ou si vous partez avec une excursion qui organise tout.'
 - pregunta: Lequel est le mieux avec des enfants ?
@@ -53,7 +53,7 @@ Si vous passez par Grenade et par Séville et que vous n'avez le temps que pour 
 | --- | --- | --- |
 | Entrée générale | 22,27 € en ligne (21 € au guichet) | 15,50 € (tarif réduit 8 €) |
 | Durée de visite | Environ 4 heures | 2 h 30-3 h |
-| Réserver | Des semaines avant ; vente jusqu'à 3 mois à l'avance | Quelques jours en haute saison ; créneaux de 30 min |
+| Réserver | Des semaines avant ; vente jusqu'à un an à l'avance | Quelques jours en haute saison ; créneaux de 30 min |
 | Sans billet en ligne | Dernière minute la veille, Granada Card, visite avec billet | Quota au guichet le jour même, visite avec billet |
 | Heure fixe stricte | Oui, aux palais nasrides (30 min de marge) | Seulement le créneau d'entrée |
 | Ce que c'est | Cité palatiale nasride : palais, forteresse et jardins | Palais mudéjar toujours en usage et immenses jardins |
@@ -65,10 +65,10 @@ Si vous passez par Grenade et par Séville et que vous n'avez le temps que pour 
 L'Alhambra n'est pas un palais : c'est une ville fortifiée sur une colline, composée de trois ensembles qui, n'importe où ailleurs, mériteraient chacun une visite à part entière.
 
 - **Les palais nasrides :** le Mexuar, le palais de Comares avec le Patio de los Arrayanes et le Patio de los Leones. Ce sont les intérieurs islamiques médiévaux les mieux conservés d'Europe occidentale, et en vrai, le détail des stucs et des coupoles à muqarnas est incomparable.
-- **L'Alcazaba :** la partie militaire, avec la Torre de la Vela et la plus belle vue sur l'Albaicín et, en hiver, sur la Sierra Nevada enneigée.
+- **L'Alcazaba :** la partie militaire, avec la Torre de la Vela (fermée depuis les séismes d'août 2026) et la plus belle vue sur l'Albaicín et, en hiver, sur la Sierra Nevada enneigée.
 - **Le Generalife :** le domaine de plaisance des sultans, avec le Patio de la Acequia.
 
-Le prix de cette grandeur, c'est la logistique. Le billet vous donne **une heure fixe pour les palais nasrides** avec seulement 30 minutes de marge, la visite complète prend **environ 4 heures** et ça monte pas mal. Les billets sont mis en vente jusqu'à trois mois avant et les matinées de printemps disparaissent des semaines à l'avance. Si vous vous organisez tôt, tout cela n'a pas d'importance ; si vous vous y prenez à la dernière minute, ça pèse.
+Le prix de cette grandeur, c'est la logistique. Le billet vous donne **une heure fixe pour les palais nasrides** avec seulement 30 minutes de marge, la visite complète prend **environ 4 heures** et ça monte pas mal. Les billets sont mis en vente jusqu'à un an avant et les matinées de printemps disparaissent des semaines à l'avance. Si vous vous organisez tôt, tout cela n'a pas d'importance ; si vous vous y prenez à la dernière minute, ça pèse.
 
 Pour choisir la formule, consultez [comment visiter l'Alhambra](/fr/guides/granada/alhambra-comment-la-visiter). Si vous voulez des explications, l'option la plus choisie est la [visite guidée de l'Alhambra et des palais nasrides](/fr/cities/granada/activities/visite-guidee-alhambra-palais-nasrides-generalife).
 

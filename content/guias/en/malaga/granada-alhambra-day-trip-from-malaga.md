@@ -31,7 +31,7 @@ faq:
   - pregunta: "Can I see the Alhambra in a day from Málaga?"
     respuesta: "Yes. The visit takes about 3 hours and the drive 1 h 30 each way, so there's time for the Alhambra and a walk round the Albaicín. The key is having a ticket with a Nasrid Palaces time."
   - pregunta: "What if Alhambra tickets are sold out?"
-    respuesta: "Guided tours and day trips often have their own allocation. See our Alhambra sold-out tickets guide."
+    respuesta: "Guided tours and day trips buy tickets well in advance and often still have places. See our Alhambra sold-out tickets guide."
   - pregunta: "How much is the private Alhambra trip from Málaga?"
     respuesta: "€397 per person, minimum 2: it includes private transport, Alhambra tickets and a private guide at the Alhambra and in the Albaicín. Lunch is not included."
   - pregunta: "Is there a trip for cruise passengers?"

@@ -27,14 +27,14 @@ slugs:
   it: natale-a-granada
   pt: natal-em-granada
 reservasArriba: true
-respuestaCorta: "Die Lichter gehen **Ende November** an (2025 am 29.) und bleiben bis zum 7. Januar, mit einer **Licht- und Weihnachtslieder-Show auf der Plaza del Carmen um 19:00, 20:00 und 21:00 Uhr**. Die **Alhambra** ist im Winter von 8:30 bis 18:00 Uhr geöffnet und **nur am 25. Dezember und 1. Januar geschlossen**; Weihnachtstickets sind schnell weg. Außerdem: die **Sierra Nevada** rund 30 km entfernt (2025 Saisonstart am 29. November), der **Dreikönigsumzug** am 5. Januar um 17:00 Uhr und der **2. Januar**, Día de la Toma, mit **freiem Eintritt in die Alcazaba**, um die Glocke der Torre de la Vela zu läuten."
+respuestaCorta: "Die Lichter gehen **Ende November** an (2025 am 29.) und bleiben bis zum 7. Januar, mit einer **Licht- und Weihnachtslieder-Show auf der Plaza del Carmen um 19:00, 20:00 und 21:00 Uhr**. Die **Alhambra** ist im Winter von 8:30 bis 18:00 Uhr geöffnet und **nur am 25. Dezember und 1. Januar geschlossen**; Weihnachtstickets sind schnell weg. Außerdem: die **Sierra Nevada** rund 30 km entfernt (2025 Saisonstart am 29. November), der **Dreikönigsumzug** am 5. Januar um 17:00 Uhr und der **2. Januar**, Día de la Toma, mit **freiem Eintritt in die Alcazaba**, um die Glocke der Torre de la Vela zu läuten (der Turm ist seit den Erdbeben im August 2026 geschlossen, prüf also, ob er öffnet)."
 faq:
   - pregunta: "Wann gehen die Weihnachtslichter in Granada 2026 an?"
     respuesta: "Das Datum für 2026 ist noch nicht offiziell. 2025 war das Einschalten am Samstag, 29. November, auf der Plaza del Carmen, mit einer Show um 20:00 Uhr und dem Einschalten um 20:30 Uhr. Im Zentrum brennen die Lichter ab 18:30 bis 1:00 Uhr, freitags, samstags und vor Feiertagen bis 3:00 Uhr, an Heiligabend und Silvester bis 5:00 Uhr."
   - pregunta: "Hat die Alhambra an Weihnachten geöffnet?"
-    respuesta: "Ja, jeden Tag außer am 25. Dezember und am 1. Januar. Im Winter von 8:30 bis 18:00 Uhr; die Nachtbesichtigung der Nasridenpaläste gibt es freitags und samstags von 20:00 bis 21:30 Uhr. Tickets gibt es bis drei Monate im Voraus, für die Dezember-Feiertage und Weihnachten sind sie früh weg: Ist nichts mehr frei, bleibt eine Führung mit eigenem Kontingent."
+    respuesta: "Ja, jeden Tag außer am 25. Dezember und am 1. Januar. Im Winter von 8:30 bis 18:00 Uhr; die Nachtbesichtigung der Nasridenpaläste gibt es freitags und samstags von 20:00 bis 21:30 Uhr. Tickets gibt es bis zu einem Jahr im Voraus, für die Dezember-Feiertage und Weihnachten sind sie früh weg: Ist nichts mehr frei, hat eine Führung mit Eintritt oft noch Plätze."
   - pregunta: "Was wird in Granada am 2. Januar gefeiert?"
-    respuesta: "Der Día de la Toma, ein lokaler Feiertag zur Erinnerung an den Einzug der Katholischen Könige 1492. Es gibt einen Festakt im Rathaus und in der Capilla Real mit dem Schwenken des königlichen Banners. An diesem Tag öffnet die Alhambra-Verwaltung die Alcazaba von 8:30 bis 18:00 Uhr kostenlos, damit man die Glocke der Torre de la Vela läuten kann; für den Rest braucht man ein Ticket."
+    respuesta: "Der Día de la Toma, ein lokaler Feiertag zur Erinnerung an den Einzug der Katholischen Könige 1492. Es gibt einen Festakt im Rathaus und in der Capilla Real mit dem Schwenken des königlichen Banners. An diesem Tag öffnet die Alhambra-Verwaltung die Alcazaba von 8:30 bis 18:00 Uhr kostenlos, damit man die Glocke der Torre de la Vela läuten kann (prüf, ob er öffnet: seit den Erdbeben im August 2026 geschlossen); für den Rest braucht man ein Ticket."
   - pregunta: "Kann man an Weihnachten in der Sierra Nevada Ski fahren?"
     respuesta: "Meistens ja, je nach Schnee. In der Saison 2025/26 öffnete das Skigebiet am Samstag, 29. November, mit Pisten im Bereich Borreguiles, unterstützt durch Schneekanonen. Der Saisonstart 2026/27 ist noch nicht bekannt; prüf den Pistenbericht auf sierranevada.es, bevor du hochfährst."
   - pregunta: "Wann ist der Dreikönigsumzug in Granada?"
@@ -108,7 +108,7 @@ Wer an einem Dezember-Samstag nicht um einen Platz an der Theke kämpfen will: D
 - **Nasridenpaläste bei Nacht:** freitags und samstags 20:00 bis 21:30 Uhr, 12,73 €. Bei dem wenigen Tageslicht im Dezember die stimmungsvollste Art, sie zu sehen.
 - 2026 fallen der 24. und 31. Dezember auf einen Donnerstag, der 2. Januar 2027 auf einen Samstag.
 
-Offizielle Tickets für die Dezember-Feiertage und Weihnachten sind oft ausverkauft. Eine **geführte Nachtbesichtigung** oder die **private Führung mit Hoteltransfer** haben eigene Kontingente.
+Offizielle Tickets für die Dezember-Feiertage und Weihnachten sind oft ausverkauft. Eine **geführte Nachtbesichtigung** oder die **private Führung mit Hoteltransfer** haben oft noch Plätze.
 
 [actividad: alhambra-visita-nocturna]
 
@@ -132,7 +132,7 @@ Wer nicht Ski fährt: Die **Alpujarra** im Winter, mit Kaminfeuer und Schnee auf
 ## Silvester, Día de la Toma und Heilige Drei Könige
 
 - **Glockenschläge:** auf der **Plaza del Carmen** vor dem Rathaus.
-- **2. Januar, Día de la Toma:** lokaler Feiertag. Festakt mit dem Schwenken des königlichen Banners im Rathaus und Gottesdienst in der Capilla Real, wo die Katholischen Könige begraben sind. An diesem Tag ist die **Alcazaba der Alhambra** von 8:30 bis 18:00 Uhr **kostenlos**, um die Glocke der **Torre de la Vela** zu läuten: Der Tradition nach heiraten ledige Frauen, die sie läuten, noch im selben Jahr.
+- **2. Januar, Día de la Toma:** lokaler Feiertag. Festakt mit dem Schwenken des königlichen Banners im Rathaus und Gottesdienst in der Capilla Real, wo die Katholischen Könige begraben sind. An diesem Tag ist die **Alcazaba der Alhambra** von 8:30 bis 18:00 Uhr **kostenlos**, um die Glocke der **Torre de la Vela** zu läuten (prüf, ob er öffnet; seit den Erdbeben im August 2026 geschlossen): Der Tradition nach heiraten ledige Frauen, die sie läuten, noch im selben Jahr.
 - **Dreikönigsumzug (5. Januar):** um 17:00 Uhr ab der Avenida de la Constitución über Gran Vía, Reyes Católicos und Acera del Darro; gegen 19:30 Uhr Drohnenshow an der Puente Blanco, am Ende die Könige auf dem Rathausbalkon. Mit Kindern stellst du dich am besten an die Gran Vía, nahe am Start.
 
 ## Flamenco im Sacromonte

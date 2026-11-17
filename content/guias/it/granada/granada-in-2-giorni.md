@@ -46,9 +46,9 @@ faq:
 - pregunta: 'Bastano 2 giorni per vedere Granada?'
   respuesta: 'Sì, se li organizzi bene: il primo giorno, Alhambra al mattino, Albaicín al tramonto e zambra al Sacromonte; il secondo, Cappella Reale, Cattedrale, centro storico e la Cartuja. Restano fuori il Parque de las Ciencias, l''Hammam e la Huerta de San Vicente.'
 - pregunta: 'Con quanto anticipo bisogna comprare il biglietto dell''Alhambra?'
-  respuesta: 'Si vende fino a tre mesi prima sul sito ufficiale (22,27 €) e in primavera e autunno si esaurisce con circa tre settimane di anticipo. Ha un orario fisso per i Palazzi Nasridi e solo mezz''ora di margine.'
+  respuesta: 'Si vende fino a un anno prima sul sito ufficiale (22,27 €) e in primavera e autunno si esaurisce con circa tre settimane di anticipo. Ha un orario fisso per i Palazzi Nasridi e solo mezz''ora di margine.'
 - pregunta: 'Cosa faccio se non ci sono biglietti per l''Alhambra?'
-  respuesta: 'Guarda la visita notturna ai Palazzi Nasridi (12,73 € sul sito ufficiale) o un tour guidato: gli operatori hanno una propria quota di biglietti e di solito hanno posti quando la vendita generale è esaurita.'
+  respuesta: 'Guarda la visita notturna ai Palazzi Nasridi (12,73 € sul sito ufficiale) o un tour guidato: gli operatori comprano i biglietti con molto anticipo e spesso hanno posti quando la vendita generale è esaurita.'
 - pregunta: 'Dove vedere il tramonto a Granada?'
   respuesta: 'Al Mirador de San Nicolás, nell''Albaicín: è pubblico e gratuito, ma arriva 45 minuti prima. Dieci minuti più su, quello di San Cristóbal ha la stessa vista con metà della gente.'
 - pregunta: 'Le tapas sono gratis a Granada?'
@@ -59,7 +59,7 @@ faq:
 
 ## Prima di tutto: il biglietto dell'Alhambra
 
-Compralo su `tickets.alhambra-patronato.es`: **22,27 €**, con orario fisso per i Palazzi Nasridi e solo mezz'ora di margine: se arrivi più tardi, perdi i Nasridi. Si vende fino a tre mesi prima e vola via con tre settimane di anticipo in primavera e autunno. Minori di 12 anni gratis, con biglietto; chiedono il documento. Se è esaurito: notturna dei Nasridi (12,73 €) o tour guidato con quota propria (45-65 €). Mai dai bagarini. Dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla).
+Compralo su `tickets.alhambra-patronato.es`: **22,27 €**, con orario fisso per i Palazzi Nasridi e solo mezz'ora di margine: se arrivi più tardi, perdi i Nasridi. Si vende fino a un anno prima e vola via con tre settimane di anticipo in primavera e autunno. Minori di 12 anni gratis, con biglietto; chiedono il documento. Se è esaurito: notturna dei Nasridi (12,73 €) o tour guidato con ingresso, che spesso ha ancora posti (45-65 €). Mai dai bagarini. Dettagli in [come visitare l'Alhambra](/it/guides/granada/alhambra-come-visitarla).
 
 ## Quando andare e come arrivare
 
@@ -85,7 +85,7 @@ Compralo su `tickets.alhambra-patronato.es`: **22,27 €**, con orario fisso per
 | 19:30-21:00 | Tramonto a San Nicolás o San Cristóbal |
 | 21:30-23:30 | Zambra al Sacromonte |
 
-**Alhambra.** Primo turno, con i Nasridi tra le 9:00 e le 9:30, e controcorrente rispetto ai gruppi: **Alcazaba** e Torre de la Vela (45 min), **Palazzi Nasridi** arrivando 15 minuti prima del tuo orario (90 min; quelli che sembrano disegni sulle pareti sono poesie) e **Generalife** (60 min). In totale, da 3 h 30 a 4 ore.
+**Alhambra.** Primo turno, con i Nasridi tra le 9:00 e le 9:30, e controcorrente rispetto ai gruppi: **Alcazaba** (45 min; la Torre de la Vela è chiusa dai terremoti di agosto 2026), **Palazzi Nasridi** arrivando 15 minuti prima del tuo orario (90 min; quelli che sembrano disegni sulle pareti sono poesie) e **Generalife** (60 min). In totale, da 3 h 30 a 4 ore.
 
 **Tapas.** A Granada **la tapa è gratis con la bevanda**: con tre birre piccole (1,80-2,50 €) si mangia. Los Diamantes (Navas, 28), pesce fritto; Casa Julio (Hermosa, 5), alici fritte; La Riviera (Elvira, 30), tapas elaborate. Prima delle 14:00 o dopo le 15:30.
 

@@ -45,11 +45,11 @@ actividades:
 
 ## First: the Alhambra ticket
 
-Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with only half an hour's leeway: arrive later and you lose the Nasrid Palaces. Tickets can be bought up to three months ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
+Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba and Generalife). Your Nasrid slot is fixed, with only half an hour's leeway: arrive later and you lose the Nasrid Palaces. Tickets can be bought up to a year ahead and sell out about three weeks ahead in spring and autumn. Under-12s go free but need a ticket; ID is checked against the name.
 
 **Alhambra tickets sold out?** Here are [the alternatives that still work](/en/guides/granada/alhambra-tickets-sold-out).
 
-**If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator with its own allocation (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
+**If it's sold out:** the **Nasrid Palaces night visit** (€12.73), often available when daytime is gone, or a **guided tour** from an authorised operator which often still has places (€45–65). Never buy from resellers: tickets are often fake or in another name. Details in [how to visit the Alhambra](/en/guides/granada/alhambra-how-to-visit).
 
 [actividad: alhambra-night-tour]
 
@@ -76,7 +76,7 @@ Book at `tickets.alhambra-patronato.es`: **€22.27** (Nasrid Palaces, Alcazaba 
 | 7:30 – 9 PM | Sunset at San Nicolás or San Cristóbal |
 | 9:30 – 11:30 PM | Zambra in Sacromonte |
 
-**Alhambra.** Take a Nasrid slot between 9 and 9:30 AM and move against the groups: **Alcazaba** and Torre de la Vela (45 minutes), the **Nasrid Palaces**, arriving 15–20 minutes before your slot (90 minutes), then the **Generalife** (60 minutes). Allow 3h 30min to 4 hours; bring water.
+**Alhambra.** Take a Nasrid slot between 9 and 9:30 AM and move against the groups: **Alcazaba** (45 minutes; the Torre de la Vela has been closed since the August 2026 earthquakes), the **Nasrid Palaces**, arriving 15–20 minutes before your slot (90 minutes), then the **Generalife** (60 minutes). Allow 3h 30min to 4 hours; bring water.
 
 **Tapas.** In Granada **the tapa is free with your drink**: three beers at €1.80–2.50 and you've eaten. If a bar charges €3.50 a beer, it's touristy. Bar Los Diamantes (Navas, 28) for fried fish; Casa Julio (Calle Hermosa, 5) for fried anchovies; La Riviera (Elvira, 30) for more elaborate tapas. Arrive before 2 PM or after 3:30 PM to get a spot.
 

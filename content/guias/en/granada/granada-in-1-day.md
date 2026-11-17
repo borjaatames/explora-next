@@ -32,7 +32,7 @@ faq:
   - pregunta: "Can you see Granada in one day?"
     respuesta: "The essentials, yes: the Alhambra (about 4 hours), the centre with the Royal Chapel, the Albaicín at sunset and a cave flamenco show. The Cartuja, the Realejo and the Sacromonte by day need a second day."
   - pregunta: "What if Alhambra tickets are sold out?"
-    respuesta: "Try another date or a guided tour with entry included, which has its own allocation (from €49). The Nasrid Palaces night visit (€12.73) is another option. Don't buy from resellers."
+    respuesta: "Try another date or a guided tour with entry included, which often still has places (from €49). The Nasrid Palaces night visit (€12.73) is another option. Don't buy from resellers."
   - pregunta: "Is the Alhambra better in the morning or afternoon?"
     respuesta: "Morning, in the first slot: fewer people and low light across the courtyards. It also frees the afternoon for the Albaicín and sunset at San Nicolás. In summer, the last afternoon slot works too because of the heat."
   - pregunta: "Can I do Granada as a day trip from Málaga or Seville?"
@@ -68,7 +68,7 @@ A single day in Granada is short but enough for what makes it unique: the Alhamb
 
 | What | Price | Book |
 | --- | --- | --- |
-| Alhambra General (with Nasrid Palaces) | €22.27 on the official site | 3-4 weeks; up to 3 months in high season |
+| Alhambra General (with Nasrid Palaces) | €22.27 on the official site | 3-4 weeks; 2-3 months in high season (sales open up to a year ahead) |
 | Guided tour with entry | from €49 | 1-2 weeks; your lifeline if sold out |
 | Sacromonte zambra | €22-30 with a drink | 2-3 days; more at weekends |
 | Royal Chapel and Cathedral | €7 each | same day |
@@ -82,7 +82,7 @@ A single day in Granada is short but enough for what makes it unique: the Alhamb
 The golden rule: your **Nasrid Palaces** time is fixed and there are only **30 minutes' grace**. It's a 30-45 minute walk from the entrance to the palaces, so plan your route around that slot:
 
 - **Nasrid Palaces** (1 h 30): the Court of the Myrtles, the Hall of Ambassadors, the Court of the Lions. Look up: the ceilings are the highlight.
-- **Alcazaba** (45 min): the Torre de la Vela has the best view of Granada and the Sierra Nevada.
+- **Alcazaba** (45 min): the ramparts look over Granada and the Sierra Nevada (the Torre de la Vela has been closed since the August 2026 earthquakes).
 - **Generalife** (1 hour): the summer palace with the Patio de la Acequia.
 
 About 4 hours in total. Bring your **passport or ID**: tickets are named. If you want to understand what you're looking at (the "patterns" on the walls are poems), the most popular guided tour includes entry:

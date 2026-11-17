@@ -1,6 +1,6 @@
 ---
 titulo: 'Biglietti Alhambra: prezzi, tipi e come comprarli senza restare senza'
-descripcion: 'Biglietti Alhambra: l''ufficiale costa 22,27 € ed esce fino a tre mesi prima. Quale visita scegliere, la fascia dei Palazzi Nasridi e cosa fare se è esaurito.'
+descripcion: 'Biglietti Alhambra: l''ufficiale costa 22,27 € ed esce fino a un anno prima. Quale visita scegliere, la fascia dei Palazzi Nasridi e cosa fare se è esaurito.'
 metaTitle: 'Biglietti Alhambra: prezzi e come comprarli'
 categoria: granada
 slug: alhambra-come-visitarla
@@ -27,7 +27,7 @@ slugs:
   fr: alhambra-comment-la-visiter
   pt: alhambra-como-visitar
 reservasArriba: true
-respuestaCorta: "I biglietti ufficiali (22,27 €) vanno in vendita **fino a tre mesi prima** e le fasce del mattino si esauriscono con settimane di anticipo. **Se sono finiti**, una visita guidata che include il biglietto ti garantisce i Palazzi Nasridi a un orario fisso. Calcola circa 4 ore e arriva presto: per i Palazzi Nasridi hai solo una finestra di 30 minuti."
+respuestaCorta: "I biglietti ufficiali (22,27 €) vanno in vendita **fino a un anno prima** e le fasce del mattino si esauriscono con settimane di anticipo. **Se sono finiti**, una visita guidata che include il biglietto spesso ha ancora posti per i Palazzi Nasridi a un orario fisso. Calcola circa 4 ore e arriva presto: per i Palazzi Nasridi hai solo una finestra di 30 minuti."
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -41,9 +41,9 @@ faq:
 - pregunta: Cosa succede se arrivo in ritardo ai Palazzi Nasridi?
   respuesta: Hai 30 minuti di tolleranza rispetto all'orario stampato. Dopo non puoi entrare e non c'è rimborso. Dall'ingresso principale ai palazzi servono da 30 a 45 minuti a piedi.
 - pregunta: Cosa posso fare se i biglietti dell'Alhambra sono esauriti?
-  respuesta: "Prenota una visita guidata che includa l'ingresso: gli operatori hanno contingenti propri anche quando il sito ufficiale è esaurito. Anche la visita notturna ai Palazzi Nasridi di solito ha più disponibilità."
+  respuesta: "Prenota una visita guidata che includa l'ingresso: gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti anche quando il sito ufficiale è esaurito (non sempre). Anche la visita notturna ai Palazzi Nasridi di solito ha più disponibilità."
 - pregunta: Visita guidata o per conto mio?
-  respuesta: "Alla prima visita, con una guida: ti garantisce l'ingresso, gestisce la tua fascia oraria per i Palazzi Nasridi e spiega il simbolismo di ogni sala, che senza contesto va perso."
+  respuesta: "Alla prima visita, con una guida: spesso ha ancora posti, gestisce la tua fascia oraria per i Palazzi Nasridi e spiega il simbolismo di ogni sala, che senza contesto va perso."
 - pregunta: Quanto tempo serve per vedere l'Alhambra?
   respuesta: Circa 4 ore per vedere i Palazzi Nasridi, l'Alcazaba, il Generalife e il Palazzo di Carlo V senza fretta.
 tiempo_lectura: 4
@@ -80,7 +80,7 @@ Come scegliere:
 
 ## Perché andare con una guida
 
-- **L'ingresso è garantito**, anche quando il sito ufficiale dice "esaurito".
+- **Spesso restano posti** quando il sito ufficiale dice "esaurito" (non sempre).
 - **La guida gestisce la fascia oraria dei Palazzi Nasridi**, che è ciò che mette in difficoltà la maggior parte dei visitatori indipendenti.
 - **Capisci cosa vedi.** Le poesie incise sulle pareti, la geometria delle piastrelle e la storia di ogni sala vanno perse senza una spiegazione.
 - **Nessun rischio di false guide.** In Plaza Nueva vengono offerti "tour dell'Alhambra" senza licenza.
@@ -100,11 +100,11 @@ Prezzi fissati dal Patronato (2026, commissione di prenotazione inclusa):
 
 Quasi tutti hanno bisogno dell'**Alhambra Generale**. I bambini sotto i 12 anni entrano gratis ma **serve comunque un biglietto nominativo**, emesso nello stesso acquisto; senza non possono entrare. Ci sono riduzioni per i cittadini UE over 65, i titolari del Carnet Joven e i visitatori con disabilità. **Non esiste un giorno gratuito fisso**: la storia del "gratis il mercoledì" che circola online è falsa.
 
-I biglietti vanno in vendita **fino a tre mesi prima**, con circa 8.000 al giorno. Le fasce del mattino si esauriscono con settimane di anticipo, e a Pasqua, nei ponti spagnoli, a luglio-agosto e a Natale, in pochi minuti. L'unico sito ufficiale è `tickets.alhambra-patronato.es`. È lento, ma qualsiasi altro sito applica una commissione o rivende. Se è tutto esaurito, le tue vere opzioni sono:
+I biglietti vanno in vendita **fino a un anno prima**, con circa 8.000 al giorno. Le fasce del mattino si esauriscono con settimane di anticipo, e a Pasqua, nei ponti spagnoli, a luglio-agosto e a Natale, in pochi minuti. L'unico sito ufficiale è `tickets.alhambra-patronato.es`. È lento, ma qualsiasi altro sito applica una commissione o rivende. Se è tutto esaurito, le tue vere opzioni sono:
 
-1. **Una visita guidata con un proprio contingente di biglietti** (quelle della tabella sopra).
+1. **Una visita guidata con ingresso incluso** (quelle della tabella sopra): gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti, ma non sempre.
 2. **La visita notturna** ai Palazzi Nasridi, che di solito ha più disponibilità.
-3. **Fare la coda in biglietteria prima delle 8:00** per il piccolo contingente del giorno, che in alta stagione raramente basta.
+3. **La biglietteria**, che vende in contemporanea con il sito e non ha una quota propria: se il sito è esaurito, lo è anche lei. In bassa stagione di solito ci sono biglietti in entrambi.
 
 [actividad: alhambra-entrada-general]
 
@@ -117,7 +117,7 @@ I Palazzi Nasridi hanno un orario d'ingresso fisso con solo **30 minuti di tolle
 ## Cosa vedere all'interno
 
 - **Palazzi Nasridi:** il Cortile dei Mirti, la Sala degli Ambasciatori, il Cortile dei Leoni e la Sala delle Due Sorelle. Guarda in alto: le cupole sono il pezzo forte.
-- **Alcazaba:** la parte più antica. La Torre de la Vela ha le migliori viste su Granada e sulla Sierra Nevada.
+- **Alcazaba:** la parte più antica. Le sue mura dominano Granada e la Sierra Nevada (la Torre de la Vela è chiusa dai terremoti di agosto 2026).
 - **Generalife:** la residenza estiva dei sultani, con il Patio de la Acequia.
 - **Palazzo di Carlo V:** il palazzo rinascimentale al centro del complesso.
 

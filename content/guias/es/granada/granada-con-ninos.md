@@ -60,12 +60,12 @@ Granada no es Sevilla en movilidad: cuestas empedradas, y los **Palacios Nazarí
 
 ## Día 1: la Alhambra adaptada
 
-La Alhambra es densísima y a un niño le agota mucho antes que a un adulto. **Funciona:** el Generalife (fuentes y espacio para correr), la Alcazaba (almenas, caballeros, vistas desde la Torre de la Vela) y dos o tres salas de los Nazaríes, sobre todo el Patio de los Leones. **No funciona:** una visita guiada de 90 minutos sobre simbología cúfica; mejor por libre, parando donde quieran. Tiempo realista: **2 h 30 a 3 horas**, no cuatro.
+La Alhambra es densísima y a un niño le agota mucho antes que a un adulto. **Funciona:** el Generalife (fuentes y espacio para correr), la Alcazaba (almenas, caballeros, murallas; la Torre de la Vela está cerrada temporalmente desde los terremotos de agosto de 2026) y dos o tres salas de los Nazaríes, sobre todo el Patio de los Leones. **No funciona:** una visita guiada de 90 minutos sobre simbología cúfica; mejor por libre, parando donde quieran. Tiempo realista: **2 h 30 a 3 horas**, no cuatro.
 
 | Hora | Plan |
 | --- | --- |
 | 9:00 | Entrada por la puerta del Generalife: jardines y agua |
-| 10:00 | Alcazaba y Torre de la Vela |
+| 10:00 | Alcazaba |
 | 10:45 | Pausa con agua y algo dulce |
 | 11:00 | Palacios Nazaríes a la hora marcada, sin prisa |
 | 12:30 | Bajada al centro |
