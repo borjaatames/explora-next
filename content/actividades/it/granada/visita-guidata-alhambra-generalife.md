@@ -128,7 +128,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: I giardini del Generalife, con i getti d'acqua ad arco sulla lunga vasca centrale.
 ratingProveedor: 4.7
-numeroOpiniones: 21100
+numeroOpiniones: 24576
 publicada: true
 masReservado: true
 destacada: false

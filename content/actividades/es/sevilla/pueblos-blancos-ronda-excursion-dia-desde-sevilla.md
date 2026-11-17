@@ -129,7 +129,7 @@ galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
   alt: Calle de un pueblo blanco andaluz
 ratingProveedor: 4.5
-numeroOpiniones: 4027
+numeroOpiniones: 4289
 publicada: true
 destacada: true
 fecha: '2026-05-17'

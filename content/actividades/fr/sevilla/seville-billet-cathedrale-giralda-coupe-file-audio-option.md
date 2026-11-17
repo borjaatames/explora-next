@@ -148,7 +148,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Façade gothique de la cathédrale de Séville avec la tour de la Giralda en arrière-plan
 ratingProveedor: 4.6
-numeroOpiniones: 3500
+numeroOpiniones: 30913
 publicada: true
 destacada: true
 fecha: '2026-05-17'

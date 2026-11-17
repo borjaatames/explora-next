@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
+import { avisoBarra } from "@/lib/avisoBarra";
 import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
@@ -43,6 +44,8 @@ export default function StickyReservaBokun({
   ...datos
 }: Props) {
   const [reservaVisible, setReservaVisible] = useState(false);
+  // En la barra solo cabe una línea: versión corta; el aviso entero va en title y en la ficha.
+  const avisoCorto = avisoBarra(idioma, aviso);
 
   useEffect(() => {
     const bloque = document.getElementById(ANCLA_RESERVA);
@@ -81,7 +84,7 @@ export default function StickyReservaBokun({
         <div className="flex flex-col min-w-0 flex-1">
           <span className="text-base font-bold text-piedra-900 leading-tight truncate">
             {t.desde} {t.precio}
-            {aviso && rating && (
+            {avisoCorto && rating && (
               <span className="ml-2 text-xs font-normal text-piedra-500">
                 <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
                 <span className="font-semibold text-piedra-900">{rating}</span>
@@ -89,9 +92,9 @@ export default function StickyReservaBokun({
             )}
           </span>
           {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
-          {aviso ? (
+          {avisoCorto ? (
             <span className="text-xs font-semibold text-azafran-800 leading-tight truncate" title={aviso}>
-              {aviso}
+              {avisoCorto}
             </span>
           ) : (
           <span className="text-xs text-piedra-500 leading-tight line-clamp-2">

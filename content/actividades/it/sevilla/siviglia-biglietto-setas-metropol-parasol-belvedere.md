@@ -138,8 +138,8 @@ galeria:
   alt: Passerella superiore delle Setas di Siviglia (Metropol Parasol) con la Giralda sullo sfondo
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: La Cattedrale di Siviglia e la Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 publicada: true
 destacada: true
 fecha: '2026-05-17'

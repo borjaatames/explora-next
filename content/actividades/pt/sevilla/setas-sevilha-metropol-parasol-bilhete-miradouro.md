@@ -138,8 +138,8 @@ galeria:
   alt: Passadiço superior das Setas de Sevilha (Metropol Parasol) com vista para a Giralda ao fundo
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Catedral de Sevilha e a Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 publicada: true
 destacada: true
 fecha: '2026-05-17'

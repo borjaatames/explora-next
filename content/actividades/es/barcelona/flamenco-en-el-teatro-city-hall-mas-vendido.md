@@ -134,7 +134,7 @@ galeria:
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Plaça de Catalunya vista desde arriba, a pocos pasos del City Hall
 ratingProveedor: 4.6
-numeroOpiniones: 12657
+numeroOpiniones: 12706
 publicada: true
 destacada: true
 fecha: '2026-05-17'

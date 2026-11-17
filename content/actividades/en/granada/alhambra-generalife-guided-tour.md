@@ -130,7 +130,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: The Generalife gardens, with arching water jets over the long central pool.
 ratingProveedor: 4.7
-numeroOpiniones: 21100
+numeroOpiniones: 24576
 publicada: true
 masReservado: true
 destacada: false

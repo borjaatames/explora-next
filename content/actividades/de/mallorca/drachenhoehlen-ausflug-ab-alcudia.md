@@ -9,7 +9,7 @@ slugs:
   de: drachenhoehlen-ausflug-ab-alcudia
 duracion: 5 Stunden
 duracionMinutos: 300
-precioDesde: 54
+precioDesde: 57
 moneda: EUR
 idiomas:
 - en

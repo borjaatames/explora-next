@@ -114,7 +114,7 @@ galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp
   alt: Doorway of the Las Carboneras convent, which gives the tablao its name
 ratingProveedor: 4.7
-numeroOpiniones: 758
+numeroOpiniones: 783
 publicada: true
 destacada: true
 fecha: '2026-05-17'

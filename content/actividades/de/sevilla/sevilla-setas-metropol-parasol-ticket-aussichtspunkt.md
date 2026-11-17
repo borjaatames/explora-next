@@ -137,8 +137,8 @@ galeria:
   alt: Oberer Laufsteg der Setas de Sevilla (Metropol Parasol) mit der Giralda im Hintergrund
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Die Kathedrale von Sevilla und die Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 guiasRelacionadas:
 - sevilla-mit-kindern
 publicada: true

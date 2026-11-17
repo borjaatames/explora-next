@@ -131,7 +131,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Fassade der Paläste in der Carrer Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 1423
+numeroOpiniones: 1429
 atraccionesRelacionadas:
 - flamenco
 publicada: true

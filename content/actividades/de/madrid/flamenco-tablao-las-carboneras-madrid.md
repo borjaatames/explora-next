@@ -107,7 +107,7 @@ galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp
   alt: Portal des Convento de las Carboneras, das dem Tablao seinen Namen gibt
 ratingProveedor: 4.7
-numeroOpiniones: 758
+numeroOpiniones: 783
 atraccionesRelacionadas:
 - flamenco
 publicada: true

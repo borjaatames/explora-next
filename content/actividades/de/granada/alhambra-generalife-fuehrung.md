@@ -128,7 +128,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Die Gärten des Generalife mit bogenförmigen Wasserstrahlen über dem langen zentralen Becken.
 ratingProveedor: 4.7
-numeroOpiniones: 21100
+numeroOpiniones: 24576
 publicada: true
 masReservado: true
 destacada: false

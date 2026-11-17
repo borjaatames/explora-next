@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/tenerife/teleferico/teleferico-canadas.webp
   alt: Le téléphérique du Teide au-dessus de Las Cañadas
 ratingProveedor: 4.3
-numeroOpiniones: 6121
+numeroOpiniones: 6352
 atraccionesRelacionadas:
 - teide
 publicada: true

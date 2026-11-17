@@ -11,7 +11,7 @@ slugs:
   fr: majorque-tour-ile-train-soller-tramway-bateau
 duracion: 8 ore
 duracionMinutos: 480
-precioDesde: 103
+precioDesde: 88
 moneda: EUR
 idiomas:
 - en
@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
   alt: Vista dall'alto di Port de Sóller e del suo porto
 ratingProveedor: 4.4
-numeroOpiniones: 4540
+numeroOpiniones: 4625
 publicada: true
 destacada: false
 fecha: '2026-10-04'

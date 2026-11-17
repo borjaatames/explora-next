@@ -112,7 +112,7 @@ galeria:
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Lo stadio Metropolitano in un giorno di partita
 ratingProveedor: 4.7
-numeroOpiniones: 2188
+numeroOpiniones: 2351
 publicada: true
 destacada: true
 fecha: '2026-11-05'

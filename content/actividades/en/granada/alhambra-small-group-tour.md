@@ -8,7 +8,7 @@ slugs:
   es: alhambra-grupo-reducido
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 65
+precioDesde: 55
 moneda: EUR
 idiomas:
 - es
@@ -59,7 +59,7 @@ accesibilidad: 'Wheelchair access uses an alternative route within the Alhambra;
 politicaCancelacion: Cancel up to 24 hours in advance for a 60% refund. This is not free cancellation — the Alhambra does not refund tickets to the operator — but the refund percentage is slightly higher than on the other visits in the comparison.
 preguntasFrecuentes:
 - pregunta: Is it the best balance between price and group size?
-  respuesta: It's one of the most balanced. At €65 you join a small group — you hear the guide better and the pace is more comfortable — without paying private-tour prices. It costs slightly less than other small-group visits in the comparison, so if you want the small format without overspending, it's a strong candidate.
+  respuesta: It's one of the most balanced. For a mid-range price you join a small group — you hear the guide better and the pace is more comfortable — without paying private-tour prices. It costs slightly less than other small-group visits in the comparison, so if you want the small format without overspending, it's a strong candidate.
 - pregunta: What does it include besides the Alhambra?
   respuesta: The ticket covers the Nasrid Palaces, the Alcazaba, the Generalife and its gardens, plus the Palace of Charles V, and it includes radio guides. If you choose that option at booking, you can also add a visit to the Rodríguez Acosta Foundation, a nearby carmen-museum.
 - pregunta: Is it wheelchair accessible?
@@ -73,7 +73,7 @@ variantes:
 - alhambra-private-tour
 - alhambra-generalife-guided-tour
 avisoReserva: Alhambra tickets sell out weeks in advance
-opinionEditorial: 'This visit sits in the middle of the catalogue, and it does it well. It''s a small group — with the closeness to the guide and the more comfortable pace that implies — at €65, below what other small-group options cost. If you want the small format without reaching private-tour prices, it''s one of the most balanced choices.
+opinionEditorial: 'This visit sits in the middle of the catalogue, and it does it well. It''s a small group — with the closeness to the guide and the more comfortable pace that implies — at a price below what other small-group options cost. If you want the small format without reaching private-tour prices, it''s one of the most balanced choices.
 
 
   It has a couple of details that set it apart. It devotes **a full hour to the Generalife**, more than usual on 3-hour visits, so if the gardens interest you as much as the palaces, here you enjoy them at leisure. And cancellation refunds **60%** rather than the usual 50%: still not free — that''s the Alhambra''s rule — but the margin is slightly better.
@@ -116,8 +116,8 @@ galeria:
   alt: Partal Palace with its pool and gardens at the Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
   alt: Archway decorated with muqarnas and Arabic calligraphy in the Nasrid Palaces of the Alhambra
-ratingProveedor: 4.8
-numeroOpiniones: 890
+ratingProveedor: 4.9
+numeroOpiniones: 944
 publicada: true
 destacada: false
 fecha: '2026-05-14'

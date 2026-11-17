@@ -100,7 +100,7 @@ galeria:
 - src: /images/actividades/girona/cap-de-creus/costa-rocosa-cadaques-vista-aerea.webp
   alt: 'Costa rocosa de Cadaqués vista desde el aire, Cap de Creus'
 ratingProveedor: 4.8
-numeroOpiniones: 2096
+numeroOpiniones: 2128
 publicada: true
 destacada: false
 fecha: '2026-10-04'

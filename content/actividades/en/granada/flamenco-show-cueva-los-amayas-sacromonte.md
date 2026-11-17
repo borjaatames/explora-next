@@ -116,7 +116,7 @@ galeria:
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: Sacromonte hillside with its cave houses
 ratingProveedor: 4.7
-numeroOpiniones: 1107
+numeroOpiniones: 1922
 publicada: true
 destacada: false
 fecha: '2026-05-16'

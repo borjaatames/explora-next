@@ -138,8 +138,8 @@ galeria:
   alt: Passerelle supérieure des Setas de Séville (Metropol Parasol) avec vue sur la Giralda au loin
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Cathédrale de Séville et la Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 publicada: true
 destacada: true
 fecha: '2026-05-17'

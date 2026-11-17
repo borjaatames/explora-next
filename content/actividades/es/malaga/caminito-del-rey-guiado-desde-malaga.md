@@ -8,7 +8,7 @@ slugs:
   en: caminito-del-rey-guided-tour-from-malaga
 duracion: 7 horas
 duracionMinutos: 420
-precioDesde: 72
+precioDesde: 60
 moneda: EUR
 idiomas:
 - es
@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/malaga/caminito-del-rey/garganta.webp
   alt: Garganta de los Gaitanes vista desde el Caminito
 ratingProveedor: 4.9
-numeroOpiniones: 19083
+numeroOpiniones: 19596
 publicada: true
 masReservado: true
 destacada: true

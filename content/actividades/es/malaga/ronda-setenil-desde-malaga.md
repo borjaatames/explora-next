@@ -8,7 +8,7 @@ slugs:
   en: ronda-setenil-day-trip-from-malaga
 duracion: 9 horas
 duracionMinutos: 540
-precioDesde: 34
+precioDesde: 35
 moneda: EUR
 idiomas:
 - es
@@ -99,7 +99,7 @@ galeria:
 - src: /images/actividades/sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla/pueblos-blancos-ronda-excursion-dia-desde-sevilla-casco-hist-hero.webp
   alt: Casco histórico de Ronda
 ratingProveedor: 4.7
-numeroOpiniones: 8742
+numeroOpiniones: 9415
 publicada: true
 destacada: false
 fecha: '2026-10-04'

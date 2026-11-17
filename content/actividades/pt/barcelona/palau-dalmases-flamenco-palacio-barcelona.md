@@ -126,7 +126,7 @@ galeria:
 - src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
   alt: Fachada dos palácios da Carrer Montcada
 ratingProveedor: 4.6
-numeroOpiniones: 1423
+numeroOpiniones: 1429
 publicada: true
 destacada: true
 fecha: '2026-05-17'

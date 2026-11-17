@@ -138,8 +138,8 @@ galeria:
   alt: Upper walkway of Setas de Sevilla (Metropol Parasol) with the Giralda in the background
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Seville Cathedral and the Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 guiasRelacionadas:
 - seville-with-kids
 publicada: true

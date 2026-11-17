@@ -104,7 +104,7 @@ galeria:
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: Die Alhambra im Licht der Nachmittagssonne
 ratingProveedor: 4.5
-numeroOpiniones: 2093
+numeroOpiniones: 2184
 atraccionesRelacionadas:
 - flamenco
 publicada: true

@@ -8,7 +8,7 @@ slugs:
   en: girona-game-of-thrones-small-group-tour
 duracion: 2 hours
 duracionMinutos: 120
-precioDesde: 35
+precioDesde: 32
 moneda: EUR
 idiomas:
 - en
@@ -94,7 +94,7 @@ galeria:
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
   alt: Stone street next to Girona's city wall walk
 ratingProveedor: 4.9
-numeroOpiniones: 951
+numeroOpiniones: 964
 publicada: true
 indexar: false
 destacada: false

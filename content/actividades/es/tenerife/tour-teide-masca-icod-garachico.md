@@ -102,7 +102,7 @@ galeria:
 - src: /images/actividades/tenerife/icod/parque-drago.webp
   alt: El drago en el Parque del Drago
 ratingProveedor: 4.6
-numeroOpiniones: 3066
+numeroOpiniones: 3282
 atraccionesRelacionadas:
 - teide
 - masca-gigantes

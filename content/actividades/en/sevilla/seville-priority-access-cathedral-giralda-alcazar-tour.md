@@ -147,7 +147,7 @@ galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
   alt: Courtyard of the Royal Alcázar of Seville
 ratingProveedor: 4.8
-numeroOpiniones: 14120
+numeroOpiniones: 14269
 guiasRelacionadas:
 - alcazar-of-seville-how-to-visit
 publicada: true

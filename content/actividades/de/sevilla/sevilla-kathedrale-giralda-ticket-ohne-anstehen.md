@@ -148,7 +148,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Gotische Fassade der Kathedrale von Sevilla mit dem Giralda-Turm im Hintergrund
 ratingProveedor: 4.6
-numeroOpiniones: 3500
+numeroOpiniones: 30913
 guiasRelacionadas:
 - sevilla-mit-kindern
 publicada: true

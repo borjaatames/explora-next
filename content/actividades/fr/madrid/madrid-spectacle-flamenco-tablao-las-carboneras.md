@@ -106,7 +106,7 @@ galeria:
 - src: /images/actividades/madrid/tablao-las-carboneras/convento-carboneras-portada-relieve.webp
   alt: Portail du couvent de las Carboneras, qui a donné son nom au tablao
 ratingProveedor: 4.7
-numeroOpiniones: 758
+numeroOpiniones: 783
 publicada: true
 destacada: true
 fecha: '2026-11-04'

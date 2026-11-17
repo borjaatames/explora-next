@@ -148,7 +148,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Gothic facade of Seville Cathedral with the Giralda tower in the background
 ratingProveedor: 4.6
-numeroOpiniones: 3500
+numeroOpiniones: 30913
 guiasRelacionadas:
 - seville-with-kids
 publicada: true

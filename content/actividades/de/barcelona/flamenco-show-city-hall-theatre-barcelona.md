@@ -122,7 +122,7 @@ galeria:
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Die Plaça de Catalunya von oben, wenige Schritte vom City Hall
 ratingProveedor: 4.6
-numeroOpiniones: 12657
+numeroOpiniones: 12706
 atraccionesRelacionadas:
 - flamenco
 publicada: true

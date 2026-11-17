@@ -123,7 +123,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Les jardins du Generalife, avec des jets d'eau en arc au-dessus du long bassin central.
 ratingProveedor: 4.9
-numeroOpiniones: 242
+numeroOpiniones: 246
 publicada: true
 destacada: false
 fecha: '2026-05-14'

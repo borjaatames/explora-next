@@ -130,8 +130,8 @@ galeria:
   alt: 'Luftaufnahme der Stierkampfarena La Maestranza'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: 'Gotische Gewölbe der Kathedrale von Sevilla'
-ratingProveedor: 4.7
-numeroOpiniones: 1746
+ratingProveedor: 4.6
+numeroOpiniones: 2090
 guiasRelacionadas:
 - sevilla-mit-kindern
 publicada: true

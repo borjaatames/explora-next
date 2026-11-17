@@ -144,7 +144,7 @@ galeria:
 - src: /images/actividades/barcelona/camp-nou/1723182854_02-ExteriorBird-s-eye-SCN-Sud.tmedium-hero.webp
   alt: Aerial view of the new Spotify Camp Nou
 ratingProveedor: 4.2
-numeroOpiniones: 979
+numeroOpiniones: 1431
 publicada: true
 destacada: false
 fecha: '2026-05-17'

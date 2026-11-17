@@ -148,7 +148,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Fachada gótica de la Catedral de Sevilla con la torre de la Giralda al fondo
 ratingProveedor: 4.6
-numeroOpiniones: 3500
+numeroOpiniones: 30913
 guiasRelacionadas:
 - sevilla-con-ninos
 publicada: true

@@ -135,7 +135,7 @@ galeria:
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
   alt: Plaza Mayor des Poble Espanyol
 ratingProveedor: 4.8
-numeroOpiniones: 2125
+numeroOpiniones: 2380
 atraccionesRelacionadas:
 - flamenco
 publicada: true

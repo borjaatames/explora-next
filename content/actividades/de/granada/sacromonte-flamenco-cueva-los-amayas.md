@@ -108,7 +108,7 @@ galeria:
 - src: /images/actividades/granada/sacromonte/sacromonte-wikimedia-museo-cuevas-del-sacromonte-granada-vista-general.webp
   alt: Hang des Sacromonte mit seinen Höhlenhäusern
 ratingProveedor: 4.7
-numeroOpiniones: 1107
+numeroOpiniones: 1922
 atraccionesRelacionadas:
 - flamenco
 publicada: true

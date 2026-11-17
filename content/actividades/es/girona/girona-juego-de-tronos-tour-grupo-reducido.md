@@ -8,7 +8,7 @@ slugs:
   en: girona-game-of-thrones-small-group-tour
 duracion: 2 horas
 duracionMinutos: 120
-precioDesde: 35
+precioDesde: 32
 moneda: EUR
 idiomas:
 - es
@@ -94,7 +94,7 @@ galeria:
 - src: /images/actividades/girona/juego-de-tronos/paseo-muralla.webp
   alt: Calle de piedra junto al paseo de la muralla de Girona
 ratingProveedor: 4.9
-numeroOpiniones: 951
+numeroOpiniones: 964
 publicada: true
 indexar: false
 destacada: false

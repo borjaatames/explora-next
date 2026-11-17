@@ -10,7 +10,7 @@ slugs:
   en: girona-figueres-dali-cadaques-from-barcelona
 duracion: 11 horas
 duracionMinutos: 660
-precioDesde: 40
+precioDesde: 39
 moneda: EUR
 idiomas:
 - es
@@ -104,7 +104,7 @@ galeria:
 - src: /images/actividades/girona/cadaques/cadaques-costa.webp
   alt: Costa rocosa junto a Cadaqués
 ratingProveedor: 4.7
-numeroOpiniones: 2352
+numeroOpiniones: 2451
 publicada: true
 destacada: false
 fecha: '2026-10-04'

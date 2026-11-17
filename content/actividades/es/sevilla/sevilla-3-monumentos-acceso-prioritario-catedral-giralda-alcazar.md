@@ -147,7 +147,7 @@ galeria:
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp
   alt: Patio del Real Alcázar de Sevilla
 ratingProveedor: 4.8
-numeroOpiniones: 14120
+numeroOpiniones: 14269
 guiasRelacionadas:
 - alcazar-de-sevilla-como-visitar
 publicada: true

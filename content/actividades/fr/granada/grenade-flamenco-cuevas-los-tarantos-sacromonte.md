@@ -115,7 +115,7 @@ galeria:
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: L'Alhambra éclairée par le soleil de fin d'après-midi
 ratingProveedor: 4.5
-numeroOpiniones: 2093
+numeroOpiniones: 2184
 publicada: true
 destacada: false
 fecha: '2026-05-16'

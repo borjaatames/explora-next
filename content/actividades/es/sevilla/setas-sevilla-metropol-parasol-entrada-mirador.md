@@ -138,8 +138,8 @@ galeria:
   alt: Pasarela superior de las Setas de Sevilla (Metropol Parasol) con vista a la Giralda al fondo
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Catedral de Sevilla y la Giralda
-ratingProveedor: 4.6
-numeroOpiniones: 12014
+ratingProveedor: 4.5
+numeroOpiniones: 18045
 guiasRelacionadas:
 - sevilla-con-ninos
 publicada: true

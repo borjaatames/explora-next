@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
+import { avisoBarra } from "@/lib/avisoBarra";
 import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 
 // CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
@@ -138,6 +139,8 @@ export default function StickyReservaMovil({
   anclaWidget,
 }: Props) {
   const t = dictFor(idioma);
+  // En la barra solo cabe una línea: versión corta; el aviso entero va en title y en la ficha.
+  const avisoCorto = avisoBarra(idioma, aviso);
   const [modalOpen, setModalOpen] = useState(false);
 
   useEffect(() => {
@@ -192,7 +195,7 @@ export default function StickyReservaMovil({
           <div className="flex flex-col min-w-0 flex-1">
             <span className="text-base font-bold text-piedra-900 leading-tight truncate">
               {precio}
-              {aviso && tieneRating && (
+              {avisoCorto && tieneRating && (
                 <span className="ml-2 text-xs font-normal text-piedra-500">
                   <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
                   <span className="font-semibold text-piedra-900">{ratingTextoValor}</span>
@@ -201,10 +204,10 @@ export default function StickyReservaMovil({
             </span>
             {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
             <span
-              className={`text-xs leading-tight truncate ${aviso ? "font-semibold text-azafran-800" : "text-piedra-500"}`}
+              className={`text-xs leading-tight truncate ${avisoCorto ? "font-semibold text-azafran-800" : "text-piedra-500"}`}
               title={aviso}
             >
-              {aviso ? aviso : tieneRating ? (
+              {avisoCorto ? avisoCorto : tieneRating ? (
                 <>
                   <span aria-hidden="true" className="text-azafran-500">
                     ★

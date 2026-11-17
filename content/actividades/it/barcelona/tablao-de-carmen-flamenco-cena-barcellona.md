@@ -133,7 +133,7 @@ galeria:
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp
   alt: Plaza Mayor del Poble Espanyol
 ratingProveedor: 4.8
-numeroOpiniones: 2125
+numeroOpiniones: 2380
 publicada: true
 destacada: true
 fecha: '2026-05-17'

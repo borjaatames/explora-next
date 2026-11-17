@@ -148,7 +148,7 @@ galeria:
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-sevilla-fachada-gotica-hero.webp
   alt: Facciata gotica della Cattedrale di Siviglia con la torre della Giralda sullo sfondo
 ratingProveedor: 4.6
-numeroOpiniones: 3500
+numeroOpiniones: 30913
 publicada: true
 destacada: true
 fecha: '2026-05-17'

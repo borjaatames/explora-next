@@ -130,7 +130,7 @@ galeria:
 - src: /images/actividades/granada/palacios-nazaries/pixabay-965274-hero.webp
   alt: Los jardines del Generalife, con los chorros de agua en arco sobre el estanque central.
 ratingProveedor: 4.7
-numeroOpiniones: 21100
+numeroOpiniones: 24576
 publicada: true
 masReservado: true
 destacada: false

@@ -136,7 +136,7 @@ galeria:
 - src: /images/actividades/madrid/santiago-bernabeu/YRL5ANY7DA7VLVE6CQAJQXCOXA-hero.webp
   alt: O balneário do Real Madrid no Estádio Santiago Bernabéu
 ratingProveedor: 4.5
-numeroOpiniones: 23468
+numeroOpiniones: 27460
 publicada: true
 destacada: true
 fecha: '2026-05-17'

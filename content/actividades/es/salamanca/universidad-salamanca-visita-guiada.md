@@ -84,7 +84,7 @@ galeria:
 - src: /images/actividades/salamanca/universidad/biblioteca-interior.webp
   alt: Interior de la Biblioteca General Histórica
 ratingProveedor: 4.9
-numeroOpiniones: 44
+numeroOpiniones: 57
 atraccionesRelacionadas:
 - universidad-catedrales
 - monumentos

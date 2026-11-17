@@ -11,7 +11,7 @@ slugs:
   it: giro-maiorca-treno-soller-tram-barca
 duracion: 8 Stunden
 duracionMinutos: 480
-precioDesde: 103
+precioDesde: 88
 moneda: EUR
 idiomas:
 - en
@@ -107,7 +107,7 @@ galeria:
 - src: /images/actividades/mallorca/soller/port-de-soller-vista.webp
   alt: Blick von oben auf Port de Sóller und seinen Hafen
 ratingProveedor: 4.4
-numeroOpiniones: 4540
+numeroOpiniones: 4625
 publicada: true
 destacada: false
 fecha: '2026-10-04'

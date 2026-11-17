@@ -130,8 +130,8 @@ galeria:
   alt: 'Vista aérea de la plaza de toros de la Maestranza'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: 'Naves de la Catedral de Sevilla'
-ratingProveedor: 4.7
-numeroOpiniones: 1746
+ratingProveedor: 4.6
+numeroOpiniones: 2090
 guiasRelacionadas:
 - sevilla-con-ninos
 publicada: true

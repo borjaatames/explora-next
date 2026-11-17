@@ -130,8 +130,8 @@ galeria:
   alt: 'Vista aérea da praça de touros da Maestranza'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: 'Abóbadas góticas da Catedral de Sevilha'
-ratingProveedor: 4.7
-numeroOpiniones: 1746
+ratingProveedor: 4.6
+numeroOpiniones: 2090
 publicada: true
 destacada: true
 fecha: '2026-05-17'

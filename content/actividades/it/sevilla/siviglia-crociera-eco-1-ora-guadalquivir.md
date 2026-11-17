@@ -130,7 +130,7 @@ galeria:
 - src: /images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-02.webp
   alt: Battelli ormeggiati sul Guadalquivir
 ratingProveedor: 4.2
-numeroOpiniones: 11157
+numeroOpiniones: 13331
 publicada: true
 indexar: false
 destacada: true

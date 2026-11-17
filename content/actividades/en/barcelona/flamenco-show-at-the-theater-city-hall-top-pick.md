@@ -134,7 +134,7 @@ galeria:
 - src: /images/actividades/barcelona/placa-catalunya/placa-catalunya-cruce-desde-arriba.webp
   alt: Plaça de Catalunya from above, a short walk from City Hall
 ratingProveedor: 4.6
-numeroOpiniones: 12657
+numeroOpiniones: 12706
 publicada: true
 destacada: true
 fecha: '2026-05-17'

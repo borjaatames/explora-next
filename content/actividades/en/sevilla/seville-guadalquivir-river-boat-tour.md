@@ -130,8 +130,8 @@ galeria:
   alt: 'Aerial view of the Maestranza bullring'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: 'Gothic vaults of Seville Cathedral'
-ratingProveedor: 4.7
-numeroOpiniones: 1746
+ratingProveedor: 4.6
+numeroOpiniones: 2090
 guiasRelacionadas:
 - seville-with-kids
 publicada: true

@@ -130,8 +130,8 @@ galeria:
   alt: 'Vue aérienne des arènes de la Maestranza'
 - src: /images/actividades/sevilla/wikimedia/sevilla-catedral-interior-02.webp
   alt: 'Voûtes gothiques de la cathédrale de Séville'
-ratingProveedor: 4.7
-numeroOpiniones: 1746
+ratingProveedor: 4.6
+numeroOpiniones: 2090
 publicada: true
 destacada: true
 fecha: '2026-05-17'

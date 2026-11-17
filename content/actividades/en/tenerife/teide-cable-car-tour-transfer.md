@@ -103,7 +103,7 @@ galeria:
 - src: /images/actividades/tenerife/teleferico/teleferico-canadas.webp
   alt: The Teide cable car above Las Cañadas
 ratingProveedor: 4.3
-numeroOpiniones: 6121
+numeroOpiniones: 6352
 atraccionesRelacionadas:
 - teide
 publicada: true

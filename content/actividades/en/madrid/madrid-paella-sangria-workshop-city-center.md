@@ -8,7 +8,7 @@ slugs:
   en: madrid-paella-sangria-workshop-city-center
 duracion: 3 hours
 duracionMinutos: 180
-precioDesde: 64
+precioDesde: 59
 moneda: EUR
 idiomas:
 - es
@@ -108,8 +108,8 @@ galeria:
   alt: Pitcher of sangria with fruit
 - src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
   alt: Hands stirring the paella ingredients in the pan
-ratingProveedor: 4.9
-numeroOpiniones: 1448
+ratingProveedor: 4.8
+numeroOpiniones: 1853
 publicada: true
 destacada: true
 fecha: '2026-05-17'

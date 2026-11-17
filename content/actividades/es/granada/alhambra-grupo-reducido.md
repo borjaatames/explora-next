@@ -8,7 +8,7 @@ slugs:
   en: alhambra-small-group-tour
 duracion: 3 horas
 duracionMinutos: 180
-precioDesde: 65
+precioDesde: 55
 moneda: EUR
 idiomas:
 - es
@@ -59,7 +59,7 @@ accesibilidad: 'El acceso en silla de ruedas se realiza por un recorrido alterna
 politicaCancelacion: Cancelación hasta 24 horas antes con reembolso del 60 %. No es cancelación gratuita —la Alhambra no devuelve las entradas al operador—, pero el porcentaje de reembolso es algo mayor que el del resto de visitas del comparador.
 preguntasFrecuentes:
 - pregunta: ¿Es la mejor relación entre precio y tamaño de grupo?
-  respuesta: Es de las más equilibradas. A 65 € entras en un grupo reducido —oyes mejor al guía y el ritmo es más cómodo— sin pagar el precio de un tour privado. Cuesta algo menos que otras visitas de grupo reducido del comparador, así que si buscas formato pequeño sin disparar el gasto, es una buena candidata.
+  respuesta: Es de las más equilibradas. Por un precio intermedio entras en un grupo reducido —oyes mejor al guía y el ritmo es más cómodo— sin pagar el precio de un tour privado. Cuesta algo menos que otras visitas de grupo reducido del comparador, así que si buscas formato pequeño sin disparar el gasto, es una buena candidata.
 - pregunta: ¿Qué incluye además de la Alhambra?
   respuesta: El ticket cubre los Palacios Nazaríes, la Alcazaba, el Generalife y sus jardines, además del Palacio de Carlos V, e incluye radioguías. Si eliges esa opción al reservar, también se puede añadir la visita a la Fundación Rodríguez Acosta, un carmen-museo cercano.
 - pregunta: ¿Es accesible en silla de ruedas?
@@ -73,7 +73,7 @@ variantes:
 - alhambra-tour-privado
 - visita-guiada-alhambra-generalife
 avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
-opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo hace bien. Es un grupo reducido —con la cercanía con el guía y el ritmo más cómodo que eso implica— a 65 €, por debajo de lo que cuestan otras opciones de grupo pequeño. Si quieres el formato reducido sin llegar al precio de un privado, es de las propuestas más equilibradas.
+opinionEditorial: 'Esta visita se mueve en el punto medio del catálogo, y lo hace bien. Es un grupo reducido —con la cercanía con el guía y el ritmo más cómodo que eso implica— a un precio por debajo de lo que cuestan otras opciones de grupo pequeño. Si quieres el formato reducido sin llegar al precio de un privado, es de las propuestas más equilibradas.
 
 
   Tiene un par de detalles que la diferencian. Dedica **una hora completa al Generalife**, más de lo habitual en visitas de 3 horas, así que si los jardines te interesan tanto como los palacios, aquí los disfrutas con calma. Y la cancelación reembolsa un **60 %** en lugar del 50 % habitual: sigue sin ser gratuita —es la norma de la Alhambra—, pero el margen es algo mejor.
@@ -116,8 +116,8 @@ galeria:
   alt: Palacio del Partal con su estanque y jardines en la Alhambra
 - src: /images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp
   alt: Arco decorado con mocarabes y caligrafia arabe en los Palacios Nazaries de la Alhambra
-ratingProveedor: 4.8
-numeroOpiniones: 890
+ratingProveedor: 4.9
+numeroOpiniones: 944
 publicada: true
 destacada: false
 fecha: '2026-05-14'
