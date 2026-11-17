@@ -1,7 +1,7 @@
 ---
 titulo: 'Real Alcázar Seville tickets: prices, hours and how to visit'
-descripcion: 'Real Alcázar Seville tickets cost €15.50 and daily capacity sells out in high season. Opening hours, best time to go, what to see inside and guided tours.'
-metaTitle: 'Real Alcázar Seville tickets: price and hours'
+descripcion: 'Real Alcázar Seville 2026: €15.50 tickets, the best time to go (9:30 or after 17:00 in summer), how to skip the 2-hour queue and what to see in 3 hours.'
+metaTitle: 'Real Alcázar Seville: tickets, best time, queues'
 categoria: sevilla
 slug: alcazar-of-seville-how-to-visit
 fecha: "2026-04-22"

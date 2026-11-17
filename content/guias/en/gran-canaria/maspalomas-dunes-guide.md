@@ -1,6 +1,7 @@
 ---
 titulo: 'Maspalomas Dunes: how to visit, what to see and what not to do'
-descripcion: 'Maspalomas Dunes guide: access points, buses, permitted paths and fines, La Charca and the lighthouse, the €18 camel ride and the best time to go.'
+descripcion: 'The Maspalomas Dunes are free to visit. Where to enter, marked paths and fines, the best time (sunrise or sunset), the €18 camel ride and getting there by bus.'
+metaTitle: 'Maspalomas Dunes: free access, paths, rules, fines'
 categoria: gran-canaria
 slug: maspalomas-dunes-guide
 fecha: "2026-06-21"

@@ -1,6 +1,7 @@
 ---
 titulo: "Guggenheim Museum Bilbao: how to visit it (tickets and tips)"
-descripcion: "How to visit the Bilbao Guggenheim: tickets and hours, what to see inside and out (Puppy, Maman, Serra), how long to spend and the best tips."
+descripcion: 'Guggenheim Bilbao tickets cost €12-18 (under-18s free). Opening hours, Monday closures, Serra''s The Matter of Time, Puppy and Maman, and how long to allow.'
+metaTitle: 'Guggenheim Bilbao: tickets, hours and what to see'
 categoria: "bilbao"
 slug: "guggenheim-museum-how-to-visit"
 fecha: "2026-05-07"
