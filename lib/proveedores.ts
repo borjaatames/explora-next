@@ -13,8 +13,9 @@ export type ActividadProveedor = Readonly<{
 }>;
 
 /**
- * Proveedor local con el que trabajamos y que ha aceptado el intercambio
- * de enlaces. La URL externa es la que nos ha indicado el propio proveedor.
+ * Proveedor local con el que trabajamos. Aparece por trabajar con nosotros,
+ * no a cambio de un enlace: el sello o enlace hacia su ficha es voluntario.
+ * La URL externa es la que nos ha indicado el propio proveedor.
  */
 export type ProveedorLocal = Readonly<{
   id: string;
