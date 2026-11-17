@@ -79,7 +79,7 @@ const TEXTOS: Record<
     fechasDesde: (m, a) => `Dates dès ${m} ${a}`,
     temporada: "Activité saisonnière",
     precioPor: "Prix pas par personne",
-    sinIdioma: "Pas de guide en français",
+    sinIdioma: "Guide non francophone",
     idiomaNoGarantizado: "Français non garanti",
   },
   it: {
