@@ -117,7 +117,7 @@ In this order:
 2. **Check Alhambra Experiences and Dobla de Oro Night.** They're separate products on the same site and give you the palaces at night plus something extra for a few euros more.
 3. **Look at the Granada Card 24h (€50).** It's the only Granada Card that includes the Nasrid Palaces night visit, and according to Granada's tourist board it has **its own allocation**: there may be space when single tickets are gone. Worth it if you're also visiting the cathedral, the Royal Chapel and other sights.
 4. **Go to the night box office**, which opens an hour before entry. There may be a ticket or two, but there's no guarantee.
-5. **Book a guided night tour** with entry included. Operators buy tickets well in advance and often have places left (not always).
+5. **Book a guided night tour** with entry included. They sometimes still have places (not always); the ticket is booked when you reserve, with each visitor's details.
 
 ## 4. The guided night tour
 

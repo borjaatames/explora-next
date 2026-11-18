@@ -48,7 +48,7 @@ faq:
 - pregunta: 'Combien de temps à l''avance faut-il acheter le billet de l''Alhambra ?'
   respuesta: 'Il est en vente jusqu''à un an à l''avance sur le site officiel (22,27 €) et, au printemps et en automne, il est épuisé environ trois semaines avant. Il comporte une heure fixe pour les palais nasrides, avec seulement une demi-heure de marge.'
 - pregunta: 'Que faire s''il ne reste plus de billets pour l''Alhambra ?'
-  respuesta: 'Regardez la visite nocturne des palais nasrides (12,73 € sur le site officiel) ou une visite guidée : les opérateurs achètent les billets longtemps à l''avance et ont souvent des places quand la vente générale est épuisée.'
+  respuesta: 'Regardez la visite nocturne des palais nasrides (12,73 € sur le site officiel) ou une visite guidée : elle a parfois encore des places quand la vente générale est épuisée.'
 - pregunta: 'Où voir le coucher du soleil à Grenade ?'
   respuesta: 'Au Mirador de San Nicolás, dans l''Albaicín : il est public et gratuit, mais arrivez 45 minutes avant. Dix minutes plus haut, celui de San Cristóbal offre la même vue avec deux fois moins de monde.'
 - pregunta: 'Les tapas sont-elles gratuites à Grenade ?'

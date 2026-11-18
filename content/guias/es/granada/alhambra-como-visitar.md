@@ -6,7 +6,7 @@ categoria: granada
 slug: alhambra-como-visitar
 fecha: "2026-08-24"
 fecha_actualizacion: "2026-10-14"
-datosComprobados: "2026-10-27"
+datosComprobados: "2026-11-18"
 autor: Borja
 publicada: true
 destacada: true
@@ -28,7 +28,7 @@ slugs:
   it: alhambra-come-visitarla
   pt: alhambra-como-visitar
 reservasArriba: true
-respuestaCorta: 'Las entradas oficiales (22,27 €) salen **hasta un año antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, busca una visita guiada que incluya la entrada: los operadores compran con antelación y a menudo aún tienen plazas para los Palacios Nazaríes con hora. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
+respuestaCorta: 'Las entradas oficiales (22,27 €) salen **hasta un año antes** y las mañanas se agotan con semanas de antelación. **Si ya no quedan**, busca una visita guiada que incluya la entrada: a veces aún tienen plazas para los Palacios Nazaríes con hora. Ojo: no compran las entradas por adelantado, sino al reservar, con los datos de cada visitante. Cuenta con unas 4 horas y llega con tiempo: a los Nazaríes solo hay 30 minutos de margen.'
 actividades:
   - alhambra-entrada-general
   - visita-guiada-alhambra-generalife
@@ -92,7 +92,7 @@ Los precios del Patronato (vigentes en 2026, con la comisión web incluida):
 
 La inmensa mayoría necesita la **Alhambra General**. Los menores de 12 años entran gratis pero **con ticket nominativo**, que se saca en la misma compra; sin él no entran. Hay descuento para mayores de 65 de la UE y Carnet Joven; con discapacidad igual o superior al 33 % la entrada no es gratis, cuesta 14,85 €. El personal docente solo entra gratis cuando va con sus alumnos, no a título personal. **No existe un día gratuito recurrente**: lo de «los miércoles gratis» que circula por internet es falso.
 
-Las entradas se ponen a la venta **hasta con un año de antelación** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, muy rápido. Aun así, conviene mirar la web oficial a menudo, sobre todo cerca de la fecha: por devoluciones, a veces aparecen entradas incluso el día o la noche antes. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. La taquilla vende a la vez que la web y **no guarda un cupo propio**, así que madrugar para hacer cola no sirve de nada (en temporada baja, eso sí, suele haber entradas en las dos). Si está todo agotado, las alternativas reales son una visita guiada con la entrada incluida (las de la tabla de arriba: los operadores compran con mucha antelación y a menudo les quedan plazas, aunque no siempre) y la nocturna de los Nazaríes.
+Las entradas se ponen a la venta **hasta con un año de antelación** y hay unas 8.000 al día; las franjas de mañana se agotan con semanas de antelación y, en Semana Santa, puentes, julio-agosto y Navidad, muy rápido. Aun así, conviene mirar la web oficial a menudo, sobre todo cerca de la fecha: por devoluciones, a veces aparecen entradas incluso el día o la noche antes. La única web oficial es `tickets.alhambra-patronato.es`; es lenta y a veces falla el pago, pero cualquier otra web cobra comisión o revende. La taquilla vende a la vez que la web y **no guarda un cupo propio**, así que madrugar para hacer cola no sirve de nada (en temporada baja, eso sí, suele haber entradas en las dos). Si está todo agotado, las alternativas reales son una visita guiada con la entrada incluida (las de la tabla de arriba: a veces aún tienen plazas, aunque no siempre; compran la entrada al reservar, con los datos de cada visitante) y la nocturna de los Nazaríes.
 
 [actividad: alhambra-entrada-general]
 
@@ -103,6 +103,8 @@ Si la web oficial ya sale agotada, en [qué hacer si las entradas de la Alhambra
 Los Palacios Nazaríes tienen una hora de entrada fija y solo hay **30 minutos de margen**. Pasado ese tiempo, no entras. Desde la entrada del recinto hasta los palacios se tardan **entre 30 y 45 minutos** andando, así que hay que llegar con tiempo. Si vas con una visita guiada, el guía organiza el recorrido para no perder la hora.
 
 ## Qué ver dentro
+
+Si vas por libre, la Alhambra tiene ahora **audioguía oficial gratuita**: es una app, «Audioguía oficial Alhambra», que se descarga en App Store y Google Play (sale con una imagen del Patio de los Leones). Descárgala antes de llegar.
 
 - **Palacios Nazaríes:** el Patio de los Arrayanes, el Salón de Embajadores, el Patio de los Leones y la Sala de Dos Hermanas. Mira hacia arriba, porque las cúpulas son lo mejor.
 - **Alcazaba:** la parte más antigua. La Torre de la Vela, la de las mejores vistas de Granada y Sierra Nevada, está cerrada temporalmente desde los terremotos de agosto de 2026; el resto de la Alcazaba abrió de nuevo el 23 de septiembre.

@@ -80,7 +80,7 @@ The **Granada Card** has its own allocation of Alhambra tickets, so it may have 
 
 ## 3. A guided tour with entry included
 
-This is often the way in when everything else fails: licensed operators buy tickets well in advance and often have places left (not always) and sell the tour with your Nasrid time already assigned. It costs more than the ticket alone (from about €50), but you skip the hunt and someone explains what you're seeing.
+This is often the way in when everything else fails: licensed operators sell the tour with your Nasrid time included. They don't buy tickets in advance (they book them when you reserve, with each visitor's details), so they don't always have places, but sometimes they do when the official site is sold out. It costs more than the ticket alone (from about €50), but you skip the hunt and someone explains what you're seeing.
 
 Before paying, check two things on the listing: that it clearly says **"includes the Nasrid Palaces"** and that the ticket is included. Some tours only cover the gardens or the free area.
 

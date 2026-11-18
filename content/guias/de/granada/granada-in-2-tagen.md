@@ -81,7 +81,7 @@ Der Aufbau ist nicht verhandelbar: die Alhambra am ersten Tag, der Albaicín am 
 
 > **⚠️ Hinweis:** Bevor du weiterliest, buche das Alhambra-Ticket. Offizielle Seite *tickets.alhambra-patronato.es*, Generaleintritt **22,27 €** (Nasridenpaläste, Alcazaba und Generalife, inkl. Servicegebühr). Sie sind drei bis vier Wochen im Voraus ausgebucht, vor allem im Frühling und Herbst. Die zugewiesene Uhrzeit für die Nasridenpaläste ist verbindlich: Kommst du zu spät, kommst du nicht hinein.
 
-**Und wenn schon alles ausgebucht ist?** Passiert jede Woche. Es gibt ehrliche Alternativen: eine **Nachtbesichtigung der Nasridenpaläste** (12 €), separat verkauft und oft verfügbar, wenn die Tagesbesichtigung ausgebucht ist; oder eine **geführte Kleingruppenbesichtigung** mit einem autorisierten Anbieter, der die Tickets lange im Voraus kauft und oft noch Plätze hat (teurer, 45–65 €, dafür verstehst du, was du siehst).
+**Und wenn schon alles ausgebucht ist?** Passiert jede Woche. Es gibt ehrliche Alternativen: eine **Nachtbesichtigung der Nasridenpaläste** (12 €), separat verkauft und oft verfügbar, wenn die Tagesbesichtigung ausgebucht ist; oder eine **geführte Kleingruppenbesichtigung** mit einem autorisierten Anbieter, der manchmal noch Plätze hat (teurer, 45–65 €, dafür verstehst du, was du siehst).
 
 > **⚠️ Hinweis:** Was du NICHT tun solltest, ist auf anonymen Wiederverkaufsseiten zu kaufen. Meist handelt es sich um gefälschte oder doppelt vergebene Tickets — das Patronato verlangt am Eingang einen Ausweis, und stimmt der Name nicht überein, kommst du nicht hinein.
 

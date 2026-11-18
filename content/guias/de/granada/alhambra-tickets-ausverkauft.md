@@ -81,7 +81,7 @@ Die **Granada Card** hat ein eigenes Kontingent an Alhambra-Tickets und kann des
 
 ## 3. Eine Führung mit inkludiertem Ticket
 
-Das ist oft der Weg hinein, wenn alles andere scheitert: Autorisierte Anbieter kaufen die Tickets lange im Voraus und haben oft noch Plätze (nicht immer) und verkaufen dir den Besuch mit bereits zugewiesener Uhrzeit für die Nasridenpaläste. Er kostet mehr als das Einzelticket (ab etwa 50 €), aber du sparst dir die Suche, und jemand erklärt dir, was du siehst.
+Das ist oft der Weg hinein, wenn alles andere scheitert: Autorisierte Anbieter verkaufen dir den Besuch mit Uhrzeit für die Nasridenpaläste. Sie kaufen die Tickets nicht im Voraus, sondern bei deiner Buchung mit den Daten jedes Besuchers, und haben deshalb nicht immer Plätze, manchmal aber schon, wenn die offizielle Seite ausverkauft ist. Er kostet mehr als das Einzelticket (ab etwa 50 €), aber du sparst dir die Suche, und jemand erklärt dir, was du siehst.
 
 Prüf vor dem Bezahlen zwei Dinge in der Beschreibung: dass dort klar **„inklusive Nasridenpaläste“** steht und dass das Ticket inbegriffen ist. Manche Touren führen nur durch die Gärten oder den kostenlosen Bereich.
 

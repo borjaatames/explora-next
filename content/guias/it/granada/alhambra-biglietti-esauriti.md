@@ -81,7 +81,7 @@ La **Granada Card** riserva una quota propria di biglietti per l'Alhambra, quind
 
 ## 3. Una visita guidata con ingresso incluso
 
-Spesso è la via d'ingresso quando tutto il resto fallisce: gli operatori autorizzati comprano i biglietti con molto anticipo e spesso hanno ancora posti (non sempre) e ti vendono la visita con l'orario dei Nasridi già assegnato. Costa più del biglietto singolo (da circa 50 €), ma ti risparmi la ricerca e qualcuno ti spiega ciò che vedi.
+Spesso è la via d'ingresso quando tutto il resto fallisce: gli operatori autorizzati ti vendono la visita con l'orario dei Nasridi incluso. Non comprano i biglietti in anticipo, ma al momento della prenotazione, con i dati di ogni visitatore: per questo non sempre hanno posti, ma a volte sì quando il sito ufficiale è esaurito. Costa più del biglietto singolo (da circa 50 €), ma ti risparmi la ricerca e qualcuno ti spiega ciò che vedi.
 
 Prima di pagare, verifica due cose nella scheda: che dica chiaramente **«include i Palazzi Nasridi»** e che il biglietto sia incluso. Ci sono tour che percorrono solo i giardini o la zona gratuita.
 

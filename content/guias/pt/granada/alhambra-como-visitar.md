@@ -6,7 +6,7 @@ categoria: granada
 slug: alhambra-como-visitar
 fecha: "2026-08-24"
 fecha_actualizacion: "2026-10-14"
-datosComprobados: "2026-10-27"
+datosComprobados: "2026-11-18"
 autor: Borja
 publicada: true
 destacada: true
@@ -41,7 +41,7 @@ faq:
 - pregunta: O que acontece se chegar atrasado aos Palácios Nasridas?
   respuesta: Tem 30 minutos de tolerância a partir da hora impressa. Depois disso não pode entrar e não há reembolso. Da entrada principal aos palácios são 30 a 45 minutos a pé.
 - pregunta: O que posso fazer se os bilhetes da Alhambra estiverem esgotados?
-  respuesta: 'Reserve uma visita guiada que inclua a entrada: os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares mesmo quando o site oficial está esgotado (nem sempre). A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
+  respuesta: 'Reserve uma visita guiada que inclua a entrada: às vezes ainda tem lugares mesmo quando o site oficial está esgotado (nem sempre); o bilhete é comprado no momento da reserva, com os dados de cada visitante. A visita noturna aos Palácios Nasridas também costuma ter mais disponibilidade.'
 - pregunta: Visita guiada ou por conta própria?
   respuesta: 'Numa primeira visita, com guia: muitas vezes ainda tem lugares, trata do horário dos Palácios Nasridas e explica o simbolismo de cada sala, que sem contexto se perde.'
 - pregunta: Quanto tempo é preciso para ver a Alhambra?
@@ -102,7 +102,7 @@ Quase toda a gente precisa da **Alhambra Geral**. As crianças com menos de 12 a
 
 Os bilhetes são postos à venda **até um ano antes**, com cerca de 8000 por dia. Os horários da manhã esgotam com semanas de antecedência e, na Páscoa, nas pontes espanholas, em julho-agosto e no Natal, em minutos. O único site oficial é `tickets.alhambra-patronato.es`. É lento, mas qualquer outro site cobra comissão ou revende. Se estiver tudo esgotado, as suas opções reais são:
 
-1. **Uma visita guiada com entrada incluída** (as da tabela acima): os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares, mas nem sempre.
+1. **Uma visita guiada com entrada incluída** (as da tabela acima): às vezes ainda têm lugares, mas nem sempre; o bilhete é comprado no momento da reserva, com os dados de cada visitante.
 2. **A visita noturna** aos Palácios Nasridas, que costuma ter mais disponibilidade.
 3. **A bilheteira**, que vende ao mesmo tempo que o site e não tem quota própria: se o site está esgotado, a bilheteira também. Na época baixa costuma haver bilhetes nos dois.
 
@@ -115,6 +115,8 @@ Se o site oficial já estiver esgotado, [o que fazer quando os bilhetes da Alham
 Os Palácios Nasridas têm uma hora de entrada fixa com apenas **30 minutos de tolerância**. Se a perder, não entra, e não há reembolso. Da entrada principal aos palácios são **30 a 45 minutos** a pé, por isso chegue cedo. Numa visita guiada, o guia planeia o percurso para que não perca o seu horário.
 
 ## O que ver lá dentro
+
+Se visitar por conta própria, a Alhambra tem agora um **audioguia oficial gratuito**: a app «Audioguía oficial Alhambra», na App Store e no Google Play (com uma imagem do Pátio dos Leões). Descarregue-a antes de chegar.
 
 - **Palácios Nasridas:** o Pátio dos Mirtos, a Sala dos Embaixadores, o Pátio dos Leões e a Sala das Duas Irmãs. Olhe para cima: as cúpulas são o ponto alto.
 - **Alcáçova:** a parte mais antiga. As muralhas dominam Granada e a Serra Nevada (a Torre de la Vela está fechada desde os sismos de agosto de 2026).

@@ -48,7 +48,7 @@ faq:
 - pregunta: 'Con quanto anticipo bisogna comprare il biglietto dell''Alhambra?'
   respuesta: 'Si vende fino a un anno prima sul sito ufficiale (22,27 €) e in primavera e autunno si esaurisce con circa tre settimane di anticipo. Ha un orario fisso per i Palazzi Nasridi e solo mezz''ora di margine.'
 - pregunta: 'Cosa faccio se non ci sono biglietti per l''Alhambra?'
-  respuesta: 'Guarda la visita notturna ai Palazzi Nasridi (12,73 € sul sito ufficiale) o un tour guidato: gli operatori comprano i biglietti con molto anticipo e spesso hanno posti quando la vendita generale è esaurita.'
+  respuesta: 'Guarda la visita notturna ai Palazzi Nasridi (12,73 € sul sito ufficiale) o un tour guidato: a volte ha ancora posti quando la vendita generale è esaurita.'
 - pregunta: 'Dove vedere il tramonto a Granada?'
   respuesta: 'Al Mirador de San Nicolás, nell''Albaicín: è pubblico e gratuito, ma arriva 45 minuti prima. Dieci minuti più su, quello di San Cristóbal ha la stessa vista con metà della gente.'
 - pregunta: 'Le tapas sono gratis a Granada?'

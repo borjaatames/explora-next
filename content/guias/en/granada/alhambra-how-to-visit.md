@@ -6,7 +6,7 @@ categoria: granada
 slug: alhambra-how-to-visit
 fecha: "2026-08-24"
 fecha_actualizacion: "2026-10-14"
-datosComprobados: "2026-10-27"
+datosComprobados: "2026-11-18"
 autor: Borja
 publicada: true
 destacada: true
@@ -42,7 +42,7 @@ faq:
 - pregunta: What happens if I'm late for the Nasrid Palaces?
   respuesta: You have 30 minutes of leeway from the printed time. After that you can't get in and there is no refund. It takes 30 to 45 minutes on foot from the main entrance to the palaces.
 - pregunta: What can I do if Alhambra tickets are sold out?
-  respuesta: 'Book a guided visit that includes entry: operators buy tickets well in advance and often still have places when the official site is sold out (not always). The night visit to the Nasrid Palaces also tends to have more availability.'
+  respuesta: 'Book a guided visit that includes entry: they sometimes still have places when the official site is sold out (not always). Operators don''t buy tickets in advance: they book them when you reserve, with each visitor''s details. The night visit to the Nasrid Palaces also tends to have more availability.'
 - pregunta: Guided tour or on my own?
   respuesta: 'On a first visit, with a guide: it often still has places, handles your Nasrid Palaces slot and explains the symbolism of each hall, which is lost without context.'
 - pregunta: How long do I need to see the Alhambra?
@@ -102,7 +102,7 @@ Almost everyone needs the **Alhambra General**. Children under 12 go free but **
 
 Tickets go on sale **up to a year ahead**, with about 8,000 a day. Morning slots sell out weeks in advance, and at Easter, on Spanish long weekends, in July-August and at Christmas, within minutes. The only official site is `tickets.alhambra-patronato.es`. It's slow, but any other site charges a fee or resells. If everything is sold out, your real options are:
 
-1. **A guided visit with entry included** (the ones in the table above): operators buy tickets well in advance and often have places left, though not always.
+1. **A guided visit with entry included** (the ones in the table above): they sometimes still have places, though not always. They book the ticket when you reserve, with each visitor's details.
 2. **The night visit** to the Nasrid Palaces, which usually has more availability.
 3. **The ticket office**, which sells at the same time as the website and keeps no quota of its own: if the website is sold out, so is the office. In low season there are usually tickets at both.
 
@@ -115,6 +115,8 @@ If the official site is already sold out, [what to do when Alhambra tickets are 
 The Nasrid Palaces have a fixed entry time with only **30 minutes of leeway**. Miss it and you don't get in, with no refund. It takes **30 to 45 minutes** on foot from the main entrance to the palaces, so arrive early. On a guided visit, the guide plans the route so you don't miss your slot.
 
 ## What to see inside
+
+If you go on your own, the Alhambra now has a **free official audio guide**: an app called «Audioguía oficial Alhambra» on the App Store and Google Play (it shows an image of the Court of the Lions). Download it before you arrive.
 
 - **Nasrid Palaces:** the Court of the Myrtles, the Hall of the Ambassadors, the Court of the Lions and the Hall of the Two Sisters. Look up: the domes are the highlight.
 - **Alcazaba:** the oldest part. Its ramparts look over Granada and the Sierra Nevada (the Torre de la Vela has been closed since the August 2026 earthquakes).

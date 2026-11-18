@@ -6,7 +6,7 @@ categoria: "granada"
 slug: "alhambra-besichtigen"
 fecha: "2026-08-24"
 fecha_actualizacion: "2026-10-14"
-datosComprobados: "2026-10-27"
+datosComprobados: "2026-11-18"
 autor: Borja
 publicada: true
 destacada: true
@@ -117,7 +117,7 @@ Das ist der wichtigste Teil dieses gesamten Guides, und hier scheitern die meist
 
 Das passiert jede Woche. Hier sind die **3 echten Alternativen**, in Reihenfolge der Empfehlung:
 
-**1. Geführte Besichtigung mit einem autorisierten Anbieter.** Die großen Reiseveranstalter (Civitatis, GetYourGuide, akkreditierte lokale Agenturen) kaufen die Tickets **lange im Voraus** und haben oft noch Plätze, wenn die Seite des Patronato ausgebucht ist (nicht immer). Es kostet **45 bis 80 €** pro Person, inklusive Eintritt und Führung für 2–3 Stunden. Zeigt die offizielle Seite "ausgebucht", ist das oft der Weg hinein.
+**1. Geführte Besichtigung mit einem autorisierten Anbieter.** Die großen Reiseveranstalter (Civitatis, GetYourGuide, akkreditierte lokale Agenturen) haben manchmal noch Plätze, wenn die Seite des Patronato ausgebucht ist (nicht immer). Sie kaufen die Tickets nicht im Voraus, sondern bei deiner Buchung, mit den Daten jedes Besuchers. Es kostet **45 bis 80 €** pro Person, inklusive Eintritt und Führung für 2–3 Stunden. Zeigt die offizielle Seite "ausgebucht", ist das oft der Weg hinein.
 
 **2. Nachtbesichtigung der Nasridenpaläste (12,73 €).** Oft verfügbar, wenn die Tagesbesichtigung ausgebucht ist. Du siehst nur die Nasridenpaläste (keine Alcazaba oder Generalife), aber die beleuchteten Paläste bei Nacht sind ein anderes Erlebnis — für viele sogar besser als am Tag.
 
@@ -177,6 +177,8 @@ Angenommen bei Generaleintritt mit Nasriden-Zeitfenster um 10 Uhr:
 > **⭐ Tipp:** Beginne bei der Ankunft mit der Alcazaba (ältester Teil, militärische Festung). Wenn du zu deinem Zeitfenster bei den Nasridenpalästen ankommst, sind deine Beine schon aufgewärmt, und du hattest bereits die besten Ausblicke Granadas von den Mauern der Alcazaba.
 
 ## Was man drinnen sehen sollte: die 7 wichtigsten Bereiche
+
+Wenn du auf eigene Faust gehst: Die Alhambra hat jetzt einen **kostenlosen offiziellen Audioguide**, die App «Audioguía oficial Alhambra» im App Store und bei Google Play (mit einem Bild des Löwenhofs). Lade sie vor dem Besuch herunter.
 
 Die Alhambra ist kein Gebäude, das man "im Eiltempo" abhaken sollte. Es ist ein System aus Räumen, das für eine bestimmte Abfolge konzipiert wurde. Das sind die **sieben Highlights**, die die meisten Besucher im Eiltempo verpassen.
 

@@ -6,7 +6,7 @@ categoria: granada
 slug: alhambra-come-visitarla
 fecha: "2026-08-24"
 fecha_actualizacion: "2026-10-14"
-datosComprobados: "2026-10-27"
+datosComprobados: "2026-11-18"
 autor: Borja
 publicada: true
 destacada: true
@@ -41,7 +41,7 @@ faq:
 - pregunta: Cosa succede se arrivo in ritardo ai Palazzi Nasridi?
   respuesta: Hai 30 minuti di tolleranza rispetto all'orario stampato. Dopo non puoi entrare e non c'è rimborso. Dall'ingresso principale ai palazzi servono da 30 a 45 minuti a piedi.
 - pregunta: Cosa posso fare se i biglietti dell'Alhambra sono esauriti?
-  respuesta: "Prenota una visita guidata che includa l'ingresso: gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti anche quando il sito ufficiale è esaurito (non sempre). Anche la visita notturna ai Palazzi Nasridi di solito ha più disponibilità."
+  respuesta: "Prenota una visita guidata che includa l'ingresso: a volte ha ancora posti anche quando il sito ufficiale è esaurito (non sempre); il biglietto si compra al momento della prenotazione, con i dati di ogni visitatore. Anche la visita notturna ai Palazzi Nasridi di solito ha più disponibilità."
 - pregunta: Visita guidata o per conto mio?
   respuesta: "Alla prima visita, con una guida: spesso ha ancora posti, gestisce la tua fascia oraria per i Palazzi Nasridi e spiega il simbolismo di ogni sala, che senza contesto va perso."
 - pregunta: Quanto tempo serve per vedere l'Alhambra?
@@ -102,7 +102,7 @@ Quasi tutti hanno bisogno dell'**Alhambra Generale**. I bambini sotto i 12 anni 
 
 I biglietti vanno in vendita **fino a un anno prima**, con circa 8.000 al giorno. Le fasce del mattino si esauriscono con settimane di anticipo, e a Pasqua, nei ponti spagnoli, a luglio-agosto e a Natale, in pochi minuti. L'unico sito ufficiale è `tickets.alhambra-patronato.es`. È lento, ma qualsiasi altro sito applica una commissione o rivende. Se è tutto esaurito, le tue vere opzioni sono:
 
-1. **Una visita guidata con ingresso incluso** (quelle della tabella sopra): gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti, ma non sempre.
+1. **Una visita guidata con ingresso incluso** (quelle della tabella sopra): a volte hanno ancora posti, ma non sempre; il biglietto si compra al momento della prenotazione, con i dati di ogni visitatore.
 2. **La visita notturna** ai Palazzi Nasridi, che di solito ha più disponibilità.
 3. **La biglietteria**, che vende in contemporanea con il sito e non ha una quota propria: se il sito è esaurito, lo è anche lei. In bassa stagione di solito ci sono biglietti in entrambi.
 
@@ -115,6 +115,8 @@ Se il sito ufficiale è già esaurito, [cosa fare quando i biglietti dell'Alhamb
 I Palazzi Nasridi hanno un orario d'ingresso fisso con solo **30 minuti di tolleranza**. Se lo perdi non entri, e senza rimborso. Dall'ingresso principale ai palazzi servono **da 30 a 45 minuti** a piedi, quindi arriva presto. In una visita guidata, la guida organizza il percorso in modo che tu non perda la tua fascia oraria.
 
 ## Cosa vedere all'interno
+
+Se visiti da solo, l'Alhambra ora ha un'**audioguida ufficiale gratuita**: l'app «Audioguía oficial Alhambra», su App Store e Google Play (con un'immagine del Cortile dei Leoni). Scaricala prima di arrivare.
 
 - **Palazzi Nasridi:** il Cortile dei Mirti, la Sala degli Ambasciatori, il Cortile dei Leoni e la Sala delle Due Sorelle. Guarda in alto: le cupole sono il pezzo forte.
 - **Alcazaba:** la parte più antica. Le sue mura dominano Granada e la Sierra Nevada (la Torre de la Vela è chiusa dai terremoti di agosto 2026).

@@ -117,7 +117,7 @@ In quest'ordine:
 2. **Guarda l'Alhambra Experiencias e la Dobla de Oro Nocturna.** Sono prodotti diversi sullo stesso sito. Ti danno i Nasridi di notte e qualcosa in più, per pochi euro di differenza.
 3. **Verifica la Granada Card 24 h (50 €).** È l'unica Granada Card che include la notturna dei Palazzi Nasridi e, secondo Turismo de Granada, ha una **quota propria**: possono restare posti quando il biglietto singolo è esaurito. Conviene se entrerai anche nella cattedrale, nella Cappella Reale e in altri monumenti.
 4. **Vai alla biglietteria notturna**, che apre un'ora prima del turno. Può restare qualche biglietto, ma senza garanzia.
-5. **Prenota una visita guidata notturna** con ingresso incluso. Gli operatori comprano i biglietti con molto anticipo e spesso hanno ancora posti (non sempre).
+5. **Prenota una visita guidata notturna** con ingresso incluso. A volte ci sono ancora posti (non sempre); il biglietto si compra al momento della prenotazione, con i dati di ogni visitatore.
 
 ## 4. La visita guidata notturna
 

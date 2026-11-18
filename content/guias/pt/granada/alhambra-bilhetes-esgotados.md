@@ -81,7 +81,7 @@ O **Granada Card** reserva uma quota própria de bilhetes para a Alhambra, por i
 
 ## 3. Uma visita guiada com o bilhete incluído
 
-Muitas vezes é a forma de entrar quando tudo o resto falha: os operadores autorizados compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares (nem sempre) e vendem-lhe a visita com a hora dos Nasridas já atribuída. Custa mais do que o bilhete avulso (desde cerca de 50 €), mas poupa-se à procura e alguém lhe explica o que está a ver.
+Muitas vezes é a forma de entrar quando tudo o resto falha: os operadores autorizados vendem-lhe a visita com a hora dos Nasridas incluída. Não compram os bilhetes com antecedência, mas no momento da reserva, com os dados de cada visitante: por isso nem sempre têm lugares, mas às vezes têm quando o site oficial está esgotado. Custa mais do que o bilhete avulso (desde cerca de 50 €), mas poupa-se à procura e alguém lhe explica o que está a ver.
 
 Antes de pagar, confirme duas coisas na ficha: que diga claramente **«inclui Palácios Nasridas»** e que o bilhete esteja incluído. Há tours que só percorrem os jardins ou a zona gratuita.
 

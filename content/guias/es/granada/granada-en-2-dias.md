@@ -48,7 +48,7 @@ faq:
 - pregunta: '¿Con cuánta antelación hay que sacar la entrada de la Alhambra?'
   respuesta: 'Se vende hasta con un año de antelación en la web oficial (22,27 €) y en primavera y otoño se agota con unas tres semanas. Tiene hora fija para los Palacios Nazaríes y solo media hora de margen.'
 - pregunta: '¿Qué hago si no quedan entradas para la Alhambra?'
-  respuesta: 'Mira la visita nocturna a los Palacios Nazaríes (12,73 € en la web oficial) o un tour guiado: los operadores compran las entradas con antelación y a menudo tienen plazas cuando la venta general está agotada.'
+  respuesta: 'Mira la visita nocturna a los Palacios Nazaríes (12,73 € en la web oficial) o un tour guiado: a veces aún tienen plazas cuando la venta general está agotada.'
 - pregunta: '¿Dónde ver el atardecer en Granada?'
   respuesta: 'En el Mirador de San Nicolás, en el Albaicín: es público y gratuito, pero llega 45 minutos antes. Diez minutos más arriba, el de San Cristóbal tiene las mismas vistas con la mitad de gente.'
 - pregunta: '¿Las tapas son gratis en Granada?'

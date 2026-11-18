@@ -117,7 +117,7 @@ In dieser Reihenfolge:
 2. **Schau dir Alhambra Experiencias und Dobla de Oro Nocturna an.** Das sind eigene Produkte auf derselben Website: Du bekommst die Paläste bei Nacht und etwas dazu, für wenige Euro mehr.
 3. **Prüf die Granada Card 24h (50 €).** Sie ist die einzige Granada Card mit dem Nachtbesuch der Nasridenpaläste und hat laut Turismo de Granada **ein eigenes Kontingent**: Es kann noch Plätze geben, wenn die Einzeltickets weg sind. Lohnt sich, wenn du auch Kathedrale, Capilla Real und andere Monumente besuchst.
 4. **Geh zur Abendkasse**, die eine Stunde vor Einlass öffnet. Vielleicht gibt es noch ein, zwei Tickets, aber ohne Garantie.
-5. **Buch eine geführte Nachttour** mit inbegriffenem Ticket. Die Anbieter kaufen die Tickets lange im Voraus und haben oft noch Plätze (nicht immer).
+5. **Buch eine geführte Nachttour** mit inbegriffenem Ticket. Die Anbieter haben manchmal noch Plätze (nicht immer); das Ticket buchen sie bei deiner Reservierung, mit den Daten jedes Besuchers.
 
 ## 4. Die geführte Nachttour
 

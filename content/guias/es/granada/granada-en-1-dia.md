@@ -32,7 +32,7 @@ faq:
   - pregunta: "¿Se puede ver Granada en un día?"
     respuesta: "Lo esencial, sí: la Alhambra (unas 4 horas), el centro con la Capilla Real, el Albaicín al atardecer y una zambra. Te quedas sin la Cartuja, el Realejo y el Sacromonte de día, que piden un segundo día."
   - pregunta: "¿Qué hago si no quedan entradas para la Alhambra?"
-    respuesta: "Busca otra fecha o una visita guiada con entrada incluida (desde 49 €): los operadores compran con antelación y a menudo les quedan plazas. La nocturna de los Palacios Nazaríes (12,73 €) es otra opción. No compres en reventa."
+    respuesta: "Busca otra fecha o una visita guiada con entrada incluida (desde 49 €): a veces aún les quedan plazas. La nocturna de los Palacios Nazaríes (12,73 €) es otra opción. No compres en reventa."
   - pregunta: "¿Mejor la Alhambra por la mañana o por la tarde?"
     respuesta: "Por la mañana, con la primera franja: menos gente y luz lateral en los patios. Además deja la tarde libre para el Albaicín y el atardecer en San Nicolás. En verano, la última franja de la tarde también funciona por el calor."
   - pregunta: "¿Se puede ir a Granada en un día desde Málaga o Sevilla?"

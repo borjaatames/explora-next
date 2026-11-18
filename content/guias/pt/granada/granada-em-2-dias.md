@@ -48,7 +48,7 @@ faq:
 - pregunta: 'Com quanta antecedência é preciso comprar o bilhete da Alhambra?'
   respuesta: 'Vende-se com até um ano de antecedência no site oficial (22,27 €) e na primavera e no outono esgota com cerca de três semanas. Tem hora fixa para os Palácios Nasridas e apenas meia hora de margem.'
 - pregunta: 'O que faço se não houver bilhetes para a Alhambra?'
-  respuesta: 'Veja a visita noturna aos Palácios Nasridas (12,73 € no site oficial) ou um tour guiado: os operadores compram os bilhetes com muita antecedência e costumam ter lugares quando a venda geral está esgotada.'
+  respuesta: 'Veja a visita noturna aos Palácios Nasridas (12,73 € no site oficial) ou um tour guiado: às vezes ainda tem lugares quando a venda geral está esgotada.'
 - pregunta: 'Onde ver o pôr do sol em Granada?'
   respuesta: 'No Miradouro de San Nicolás, no Albaicín: é público e gratuito, mas chegue 45 minutos antes. Dez minutos mais acima, o de San Cristóbal tem as mesmas vistas com metade das pessoas.'
 - pregunta: 'As tapas são grátis em Granada?'

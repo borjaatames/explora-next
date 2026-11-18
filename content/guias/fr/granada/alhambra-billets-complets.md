@@ -80,7 +80,7 @@ La **Granada Card** dispose de son propre contingent de billets pour l'Alhambra 
 
 ## 3. Une visite guidée avec entrée incluse
 
-C'est souvent la solution quand tout le reste échoue : les opérateurs agréés achètent les billets longtemps à l'avance et ont souvent encore des places (pas toujours) et vendent la visite avec votre heure d'entrée aux palais nasrides déjà attribuée. C'est plus cher que le billet seul (à partir d'environ 50 €), mais vous évitez la chasse aux billets et quelqu'un vous explique ce que vous voyez.
+C'est souvent la solution quand tout le reste échoue : les opérateurs agréés vendent la visite avec votre heure d'entrée aux palais nasrides incluse. Ils n'achètent pas les billets à l'avance, mais au moment de votre réservation, avec les données de chaque visiteur : ils n'ont donc pas toujours de places, mais parfois oui quand le site officiel affiche complet. C'est plus cher que le billet seul (à partir d'environ 50 €), mais vous évitez la chasse aux billets et quelqu'un vous explique ce que vous voyez.
 
 Avant de payer, vérifiez deux choses dans la fiche : qu'elle indique clairement **« inclut les palais nasrides »** et que le billet est compris. Certaines visites ne couvrent que les jardins ou la zone gratuite.
 

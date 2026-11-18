@@ -117,7 +117,7 @@ Por esta ordem:
 2. **Veja a Alhambra Experiencias e a Dobla de Oro Nocturna.** São produtos diferentes no mesmo site. Dão-lhe os Nasridas à noite e algo mais, por poucos euros de diferença.
 3. **Consulte o Granada Card 24 h (50 €).** É o único Granada Card que inclui a noturna dos Palácios Nasridas e, segundo o Turismo de Granada, tem **quota própria**: pode haver lugar quando o bilhete avulso está esgotado. Compensa se também for entrar na catedral, na Capilla Real e noutros monumentos.
 4. **Vá à bilheteira noturna**, que abre uma hora antes da sessão. Pode restar algum bilhete, mas sem garantia.
-5. **Reserve uma visita guiada noturna** com o bilhete incluído. Os operadores compram os bilhetes com muita antecedência e muitas vezes ainda têm lugares (nem sempre).
+5. **Reserve uma visita guiada noturna** com o bilhete incluído. Às vezes ainda há lugares (nem sempre); o bilhete é comprado no momento da reserva, com os dados de cada visitante.
 
 ## 4. A visita guiada noturna
 

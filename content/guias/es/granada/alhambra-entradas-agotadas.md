@@ -80,7 +80,7 @@ La **Granada Card** guarda un cupo propio de entradas a la Alhambra, así que pu
 
 ## 3. Una visita guiada con la entrada incluida
 
-Suele ser la mejor opción cuando todo lo demás falla: los operadores autorizados compran las entradas con mucha antelación y te venden la visita con la hora de los Nazaríes ya asignada. No tienen un cupo reservado, así que no siempre les queda sitio, pero a menudo tienen plazas cuando la web oficial ya no. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
+Suele ser la mejor opción cuando todo lo demás falla: los operadores autorizados te venden la visita con la hora de los Nazaríes incluida. No compran las entradas por adelantado: las sacan al reservar, con los datos de cada visitante, y no tienen un cupo reservado, así que no siempre les queda sitio. Aun así, a veces tienen plazas cuando la web oficial ya no. Cuesta más que la entrada suelta (desde unos 50 €), pero te ahorras la búsqueda y alguien te explica lo que ves.
 
 Antes de pagar, comprueba dos cosas en la ficha: que diga claramente **«incluye Palacios Nazaríes»** y que la entrada vaya incluida. Hay tours que solo recorren los jardines o la zona gratuita.
 

@@ -117,7 +117,7 @@ En este orden:
 2. **Mira la Alhambra Experiencias y la Dobla de Oro Nocturna.** Son productos distintos en la misma web. Te dan los Nazaríes de noche y algo más, por pocos euros de diferencia.
 3. **Consulta la Granada Card 24 h (50 €).** Es la única Granada Card que incluye la nocturna de los Palacios Nazaríes, y según Turismo de Granada tiene **cupo propio**: puede quedar plaza cuando la entrada suelta está agotada. Compensa si vas a entrar también en la catedral, la Capilla Real y otros monumentos.
 4. **Ve a la taquilla nocturna**, que abre una hora antes del pase. Puede quedar alguna entrada, pero sin garantía.
-5. **Reserva una visita guiada nocturna** con la entrada incluida. Los operadores compran sus entradas con antelación, así que a menudo les quedan plazas.
+5. **Reserva una visita guiada nocturna** con la entrada incluida. A veces aún tienen plazas; compran la entrada al reservar, con los datos de cada visitante.
 
 ## 4. La visita guiada nocturna
 
