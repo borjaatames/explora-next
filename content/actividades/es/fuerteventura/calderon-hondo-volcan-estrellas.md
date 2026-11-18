@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/tour-nocturno-del-volcan-calderon-hondo-observacion-de-las-estrellas-t607302/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Subida al borde del cráter del Calderón Hondo

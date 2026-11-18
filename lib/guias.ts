@@ -96,9 +96,31 @@ export type GuiaFrontmatter = {
    * que la guía) y `etiqueta` dice para quién es, en el idioma de la guía.
    */
   opciones?: OpcionFrontmatter[];
+
+  /**
+   * Guías de «entradas agotadas»: la web oficial con su precio, debajo de
+   * «Nuestras N opciones», para que el lector compare con la opción oficial.
+   * `precio` y `nota` van en el idioma de la guía y salen del texto ya
+   * comprobado de la propia guía (nunca precios inventados).
+   */
+  webOficial?: WebOficialFrontmatter;
 };
 
 export type OpcionFrontmatter = { ficha: string; etiqueta: string };
+
+export type WebOficialFrontmatter = { url: string; precio: string; nota?: string };
+
+function leerWebOficial(valor: unknown): WebOficialFrontmatter | undefined {
+  if (!valor || typeof valor !== "object") return undefined;
+  const { url, precio, nota } = valor as Record<string, unknown>;
+  if (typeof url !== "string" || !/^https:\/\//.test(url)) return undefined;
+  if (typeof precio !== "string" || !precio.trim()) return undefined;
+  return {
+    url,
+    precio: precio.trim(),
+    nota: typeof nota === "string" && nota.trim() ? nota.trim() : undefined,
+  };
+}
 
 function leerOpciones(valor: unknown): OpcionFrontmatter[] | undefined {
   if (!Array.isArray(valor)) return undefined;
@@ -264,6 +286,7 @@ export async function obtenerGuia(
     intro:
       typeof fm.intro === "string" && fm.intro.trim() ? fm.intro.trim() : undefined,
     opciones: leerOpciones(fm.opciones),
+    webOficial: leerWebOficial(fm.webOficial),
     datosComprobados:
       typeof fm.datosComprobados === "string" &&
       /^\d{4}-\d{2}-\d{2}$/.test(fm.datosComprobados)

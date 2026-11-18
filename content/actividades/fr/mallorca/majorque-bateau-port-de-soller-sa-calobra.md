@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t404400/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "Les annonces à bord sont en espagnol et en anglais : il n'y a pas d'explications en français."
 highlights:

@@ -25,6 +25,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tour-del-teide-con-tramo-todoterreno-de-dia-o-tour-al-atardecer-t392679/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Quad homologado para carretera, para una o dos personas

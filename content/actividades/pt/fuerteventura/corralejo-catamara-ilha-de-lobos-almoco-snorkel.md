@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/fuerteventura-tour-de-4-horas-navegando-de-la-isla-de-lobos-t210330/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Navegação pela costa até Lobos, passando junto a La Caldera

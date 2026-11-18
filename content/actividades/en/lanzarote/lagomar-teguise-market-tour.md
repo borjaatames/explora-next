@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t422024/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Seasonal activity: the next available dates start in July 2027.'
 highlights:

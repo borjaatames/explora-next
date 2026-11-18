@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t437857/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - "Live traditional flamenco in an intimate tablao"

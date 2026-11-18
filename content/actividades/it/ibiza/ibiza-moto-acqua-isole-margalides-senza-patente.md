@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Il prezzo è a persona e ogni moto d''acqua porta fino a due persone: se prenoti per due, ne condividete una e guidate a turno. Per avere moto separate bisogna prenotare almeno tre posti. L''istruttore parla spagnolo, inglese e arabo, non italiano.'
 highlights:

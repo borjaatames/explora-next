@@ -24,6 +24,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t198766/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - El espectáculo de flamenco mejor valorado de Madrid en GetYourGuide (4,8/5 con más de 15.800 opiniones)

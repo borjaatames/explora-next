@@ -18,6 +18,7 @@ idiomas: []
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t428760/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Cala Conta e Cala Bassa

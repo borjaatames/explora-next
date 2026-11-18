@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/gran-canaria-l418/gran-canaria-tickets-de-entrada-para-aqualand-maspalomas-t258557/?partner_id=C71NOAW'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Oltre 40 scivoli per tutta la famiglia

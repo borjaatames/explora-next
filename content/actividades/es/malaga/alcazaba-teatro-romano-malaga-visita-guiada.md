@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/malaga-tour-guiado-por-la-alcazaba-t323238/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Teatro Romano y Alcazaba en una sola visita

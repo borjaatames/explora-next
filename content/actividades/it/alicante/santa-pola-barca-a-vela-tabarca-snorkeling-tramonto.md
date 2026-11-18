@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t989044/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Navigazione in barca a vela nella baia di Santa Pola fino a Tabarca

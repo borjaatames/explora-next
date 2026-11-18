@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t568571/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Entry to Jameos del Agua (€16 per person) and the camel ride (€11 per person) are optional and paid separately. Lunch is not included either.'
 highlights:

@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salamanca-l1637/salamanca-tour-a-pie-al-anochecer-sobre-leyendas-locales-en-espanol-t444240/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Salamanca's legends and curiosities

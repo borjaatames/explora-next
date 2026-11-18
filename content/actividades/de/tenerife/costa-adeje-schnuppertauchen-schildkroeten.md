@@ -24,6 +24,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t105191/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Schnuppertauchgang bis 12 m ohne Vorkenntnisse

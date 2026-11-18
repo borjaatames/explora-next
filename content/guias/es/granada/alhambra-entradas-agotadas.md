@@ -28,6 +28,10 @@ slugs:
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si la web oficial sale agotada, mira **la víspera entre las 20:00 y las 22:00**, cuando a veces salen entradas de última hora, y consulta la **Granada Card**, que tiene cupo propio. Si no hay suerte, una **visita guiada con la entrada incluida** a menudo aún tiene plazas para los Palacios Nazaríes; la **visita nocturna** y la entrada de **Jardines y Generalife** suelen tener más plazas.'
+webOficial:
+  url: https://tickets.alhambra-patronato.es/
+  precio: "Entrada general, 22,27 €"
+  nota: "Si está agotada, mira la víspera entre las 20:00 y las 22:00"
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife

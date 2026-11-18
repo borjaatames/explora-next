@@ -28,6 +28,10 @@ slugs:
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Les billets officiels sont mis en vente **environ deux mois avant** et il n''y a pas de guichet. S''ils sont épuisés, retournez sur le site et l''appli (des échanges et remboursements libèrent des places), essayez les **QR codes d''achat** autour de la basilique s''il reste de la place, ou réservez une **visite avec l''entrée incluse**, qui dispose de son propre quota. La **messe internationale** du dimanche à 9 h est gratuite, mais ce n''est pas une visite.'
+webOficial:
+  url: https://sagradafamilia.org/
+  precio: "Billet de base 26 €"
+  nota: "Uniquement en ligne avec créneau ; en vente environ deux mois avant"
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia

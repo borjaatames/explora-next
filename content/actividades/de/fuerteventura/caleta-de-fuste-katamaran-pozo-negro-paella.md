@@ -18,6 +18,7 @@ idiomas: []
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t395493/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Katamaranfahrt in die Bucht von Pozo Negro

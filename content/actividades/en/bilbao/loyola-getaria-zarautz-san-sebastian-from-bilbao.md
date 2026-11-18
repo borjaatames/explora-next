@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t712/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Basilica and tower house of St Ignatius in Loyola

@@ -28,6 +28,10 @@ slugs:
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'I biglietti ufficiali escono **circa due mesi prima** e non c''è biglietteria. Se sono esauriti, ricontrolla il sito e l''app (si liberano posti per cambi e rimborsi), prova i **codici QR di acquisto** intorno al tempio se c''è ancora posto, o prenota un **tour con ingresso incluso**, che ha un contingente proprio. La **messa internazionale** della domenica alle 9:00 è gratuita, ma non è una visita.'
+webOficial:
+  url: https://sagradafamilia.org/
+  precio: "Biglietto base 26 €"
+  nota: "Solo online con fascia oraria; in vendita circa due mesi prima"
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia

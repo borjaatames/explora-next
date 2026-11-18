@@ -318,7 +318,7 @@ export default async function GuiaPage({ params }: Props) {
 
       <RespuestaCorta texto={guia.respuestaCorta} idioma="es" comprobado={guia.datosComprobados} />
       <EnlaceAtraccion idioma="es" enlace={atraccionDeGuia("es", guia.slug)} />
-      <OpcionesGuia opciones={opcionesGuia} idioma="es" />
+      <OpcionesGuia opciones={opcionesGuia} idioma="es" webOficial={guia.webOficial} />
       <ReservasGuia actividades={reservasArriba} idioma="es" />
       <PrivadasGuia actividades={privadasGuia} idioma="es" />
 

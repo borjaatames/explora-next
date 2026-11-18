@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/activity-t407438/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Loro Parque — voted best zoo in Europe multiple times by TripAdvisor

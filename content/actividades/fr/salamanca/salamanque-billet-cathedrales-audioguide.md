@@ -24,6 +24,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salamanca-l1637/salamanca-entrada-catedral-de-salamanca-con-audioguia-t478516/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Cathédrale nouvelle et Cathédrale vieille

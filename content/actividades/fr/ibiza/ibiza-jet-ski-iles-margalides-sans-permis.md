@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "Le prix est par personne et chaque jet-ski accueille deux personnes maximum : si vous réservez pour deux, vous en partagez un et pilotez à tour de rôle. Pour des jet-skis séparés, il faut réserver au moins trois places. Le moniteur parle espagnol, anglais et arabe, pas français."
 highlights:

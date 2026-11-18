@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/gran-canaria-tour-de-observacion-de-estrellas-con-recogida-o-por-tu-cuenta-t1101706/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Sunset above the clouds at Pico de las Nieves

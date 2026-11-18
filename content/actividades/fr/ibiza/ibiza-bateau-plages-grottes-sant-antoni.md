@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t32758/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en mai 2027. Le guide commente en espagnol et en anglais ; il n'y a pas d'explications en français."
 highlights:

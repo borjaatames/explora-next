@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/desde-barcelona-girona-figueres-museo-dali-y-cadaques-t417349/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Tres paradas en un día: Girona, Figueres y Cadaqués'

@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-full-day-tour-with-optional-tickets-t243552/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Bus + tren cremallera + visita guiada en español o inglés

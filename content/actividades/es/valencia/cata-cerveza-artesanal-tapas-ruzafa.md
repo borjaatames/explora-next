@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/valencia-l49/cata-de-cerveza-artesanal-y-tapas-en-valencia-t696656/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 4 cervezas artesanales valencianas y españolas

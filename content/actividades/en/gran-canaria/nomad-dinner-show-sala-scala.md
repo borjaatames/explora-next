@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/gran-canaria-cena-con-espectaculo-origen-en-la-sala-scala-t608186/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'NOMAD, Journey to the Origins: a trip across three continents'

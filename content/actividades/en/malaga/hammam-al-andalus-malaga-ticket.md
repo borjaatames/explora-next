@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/malaga-ticket-de-entrada-al-hammam-al-andalus-con-masaje-t40321/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Warm, hot and cold baths

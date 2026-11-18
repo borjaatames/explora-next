@@ -18,6 +18,7 @@ idiomas: []
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t887437/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Live flamenco in a 1739 bodega

@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'The price is per person and each jet ski carries up to two: if you book for two, you share one and take turns driving. For separate jet skis you need to book at least three places.'
 highlights:

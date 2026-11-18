@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cadiz-l428/cadiz-tour-en-catamaran-por-la-bahia-de-cadiz-con-anfitrion-t564309/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - La bahía de Cádiz en 75 minutos

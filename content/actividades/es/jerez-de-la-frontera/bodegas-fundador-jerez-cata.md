@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/jerez-de-la-frontera-l413/jerez-tour-guiado-a-las-bodegas-fundador-con-cata-t497524/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - La bodega más antigua de Jerez, de 1730

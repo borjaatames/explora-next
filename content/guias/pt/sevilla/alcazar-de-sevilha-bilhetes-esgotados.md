@@ -28,6 +28,10 @@ slugs:
   pt: alcazar-de-sevilha-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Se o site oficial estiver esgotado, a **bilheteira do Patio de Banderas** guarda alguns bilhetes para cada período do próprio dia: chegue **pelo menos uma hora antes das 9h00** e com o seu documento. O site não tem lista de espera nem trocas ou devoluções, por isso o mais seguro é um **bilhete com hora de revenda** (desde 20 €) ou uma **visita guiada com a entrada incluída**.'
+webOficial:
+  url: https://www.alcazarsevilla.org/
+  precio: "Entrada geral 15,50 €"
+  nota: "Só se a sua data ainda tiver vagas: sem trocas nem reembolsos"
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-visita-privada-guia-oficial

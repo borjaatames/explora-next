@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/alicante-l414/alicante-paseo-en-barco-y-experiencia-de-parasailing-con-bebida-t414977/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Voo de parasailing de 15 minutos sobre o mar

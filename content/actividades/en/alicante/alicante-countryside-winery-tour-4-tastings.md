@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/alicante-l414/alicante-tour-vinicola-por-el-campo-en-grupo-reducido-con-4-catas-t56895/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Family-run boutique winery

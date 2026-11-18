@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/el-salobre-aventura-a-caballo-con-opciones-de-traslado-t398062/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Ruta por pistas volcánicas y senderos de montaña

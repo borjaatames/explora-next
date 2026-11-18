@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/lanzarote-tour-de-senderismo-por-el-parque-natural-de-timanfaya-t431758/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - A circular route of about 8 km among volcanoes and lava flows

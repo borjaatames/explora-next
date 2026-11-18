@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t214065/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "L'équipage s'exprime uniquement en anglais : il n'y a pas d'explications en français."
 highlights:

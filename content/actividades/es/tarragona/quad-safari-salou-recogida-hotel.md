@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salou-l1884/salou-safari-guiado-en-quad-por-pistas-con-recogida-del-hotel-t400058/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Precio por quad o buggy para 1 o 2 personas

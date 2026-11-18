@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/santiago-de-compostela-l153/desde-santiago-tour-a-las-rias-baixas-con-paseo-en-barco-y-bodega-t362475/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Albariño tasting at a winery

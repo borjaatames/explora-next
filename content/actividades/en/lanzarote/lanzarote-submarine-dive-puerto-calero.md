@@ -28,6 +28,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/lanzarote-inmersion-en-un-submarino-de-verdad-t5309/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - A real submarine that dives to 30 metres

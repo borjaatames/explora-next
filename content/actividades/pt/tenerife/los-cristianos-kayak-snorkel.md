@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tenerife-kayak-con-tortugas-y-delfines-y-esnorquel-videos-gratis-t109501/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Kayak pela costa vulcânica do sul

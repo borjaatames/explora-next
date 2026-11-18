@@ -18,6 +18,7 @@ idiomas: []
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/oasis-park-fuerteventura-tickets-de-entrada-t91839/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Plus de 3 000 animaux d’environ 250 espèces

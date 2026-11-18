@@ -28,6 +28,10 @@ slugs:
   pt: alcazar-de-sevilha-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si le site officiel affiche complet, le **guichet du Patio de Banderas** garde quelques billets pour chaque créneau du jour même : arrivez **au moins une heure avant 9 h** avec votre pièce d''identité. Le site n''a ni liste d''attente, ni échange, ni remboursement : le plus sûr est donc un **billet horodaté revendu** (à partir de 20 €) ou une **visite guidée avec l''entrée incluse**.'
+webOficial:
+  url: https://www.alcazarsevilla.org/
+  precio: "Entrée générale 15,50 €"
+  nota: "Seulement s'il reste des places à votre date : ni échange ni remboursement"
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-visita-privada-guia-oficial

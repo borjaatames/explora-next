@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/alicante-l414/alicante-paseo-en-catamaran-de-3-horas-por-la-costa-y-esnorquel-t373959/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Catamarán con redes para tomar el sol

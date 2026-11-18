@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cadiz-l428/cadiz-paseo-en-catamaran-al-atardecer-con-bebida-t672163/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Atardecer en la bahía de Cádiz

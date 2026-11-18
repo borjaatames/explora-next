@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/valencia-l49/desde-valencia-excursion-a-altea-guadalest-y-entrada-a-cascadas-del-algar-t936139/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Altea, the white village of the Costa Blanca

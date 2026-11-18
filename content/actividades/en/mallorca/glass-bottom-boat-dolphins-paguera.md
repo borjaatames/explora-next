@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/mallorca-l47/mallorca-paseo-en-barco-con-fondo-transparente-y-avistamiento-de-delfines-t412132/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Glass-bottom boat to see the seabed

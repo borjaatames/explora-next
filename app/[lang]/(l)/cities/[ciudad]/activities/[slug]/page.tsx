@@ -38,7 +38,7 @@ import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import PresupuestoWhatsApp from "@/components/ficha/PresupuestoWhatsApp";
 import DatosClave from "@/components/ficha/DatosClave";
-import { etiquetaCancelacion } from "@/lib/cancelacion";
+import { etiquetaCancelacion, etiquetaReservaSinPagar } from "@/lib/cancelacion";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
 import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
@@ -324,6 +324,7 @@ export default async function ActividadPage({ params }: Props) {
 
   const tourWidget = tourWidgetGyg(actividad.proveedor, actividad.urlReserva);
   const etiquetaCanc = etiquetaCancelacion(lang, actividad);
+  const etiquetaPagoDespues = etiquetaReservaSinPagar(lang, actividad.reservaSinPagar);
   const bloqueCalendario = (
     <CalendarioReserva
       idioma={lang}
@@ -437,6 +438,11 @@ export default async function ActividadPage({ params }: Props) {
                 {etiquetaCanc}
               </span>
             )}
+            {etiquetaPagoDespues && (
+              <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
+                {etiquetaPagoDespues}
+              </span>
+            )}
           </div>
 
           <h1 className="font-fraunces text-2xl md:text-4xl font-bold text-piedra-900 mb-3 leading-tight">
@@ -509,6 +515,7 @@ export default async function ActividadPage({ params }: Props) {
           cancelacionGratuita={actividad.cancelacionGratuita}
           horasCancelacion={actividad.horasCancelacion}
           politicaCancelacion={actividad.politicaCancelacion}
+          reservaSinPagar={actividad.reservaSinPagar}
           detalles={actividad.detallesPracticos}
         />
 

@@ -26,6 +26,10 @@ slugs:
   pt: teide-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'São duas reservas diferentes. O **teleférico** (cerca de 42 € ida e volta) compra-se em `volcanoteide.com`; se estiver esgotado, uma **excursão com o teleférico incluído** resolve-lhe o problema desde 92 €. A **autorização para o cume** (15 €) pede-se no **Tenerife ON**, que abre vagas **todas as segundas-feiras às 7h00 para os 56 dias seguintes**. Se não a conseguir, uma noite no **refúgio de Altavista** inclui o acesso ao pico das 6h00 às 9h00.'
+webOficial:
+  url: https://www.volcanoteide.com/
+  precio: "Teleférico ida e volta, cerca de 42 €"
+  nota: "A autorização para o cume é uma reserva à parte"
 actividades:
   - teide-teleferico-traslado
   - teide-subida-cumbre-ruta-guiada

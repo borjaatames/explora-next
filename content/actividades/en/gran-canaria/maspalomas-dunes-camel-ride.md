@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/maspalomas-paseo-guiado-en-camello-por-las-dunas-de-maspalomas-t212022/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 30-minute ride through the dunes

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/tour-por-lanzarote-parque-de-timanfaya-jameos-del-agua-y-cueva-de-los-verdes-t49779/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Tickets to Timanfaya, Cueva de los Verdes and Jameos del Agua included

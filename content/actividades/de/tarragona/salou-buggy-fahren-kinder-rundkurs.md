@@ -24,6 +24,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t590019/?partner_id=C71NOAW
 avisoReserva: 'Der Preis gilt pro Buggy, nicht pro Person: In jedem fahren bis zu zwei Personen (das Kind und ein Erwachsener). Der Instructor spricht unter anderem Englisch, Spanisch, Französisch und Italienisch, nicht Deutsch; die Eltern fahren die ersten Runden mit.'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Rundkurs für Kinder

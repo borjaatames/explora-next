@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/casco-historico-de-bilbao-tour-a-pie-en-grupo-reducido-t349491/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Grupo reducido: máximo 10 personas'

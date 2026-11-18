@@ -22,6 +22,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salou-l1884/costa-dorada-tour-en-catamaran-y-esnorquel-t165677/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Catamarã pela Costa Dourada

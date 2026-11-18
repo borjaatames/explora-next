@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salamanca-l1637/salamanca-tour-panoramico-guiado-en-bicicleta-t427592/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Fahrt entlang des Tormes

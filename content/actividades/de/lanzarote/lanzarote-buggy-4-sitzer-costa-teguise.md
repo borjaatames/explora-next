@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t588095/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Der Preis gilt pro Buggy, nicht pro Person: ab 200 € für eine Gruppe von bis zu 4. Es gibt auch eine Option mit 6 Sitzen. Der Guide spricht Spanisch, Englisch, Französisch, Italienisch und Katalanisch, nicht Deutsch; zum Fahren brauchst du keine Sprachkenntnisse.'
 highlights:

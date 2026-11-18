@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t1426022/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'The €2.99 only reserves your spot. At the end of the tour each person pays what they think is fair (usually €10 to €20), by card or cash.'
 highlights:

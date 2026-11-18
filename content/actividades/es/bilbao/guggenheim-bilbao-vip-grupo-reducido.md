@@ -22,6 +22,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/bilbao-experiencia-vip-en-el-guggenheim-grupo-reducido-guia-experto-t309033/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Máximo 8 personas, a menudo 2-4

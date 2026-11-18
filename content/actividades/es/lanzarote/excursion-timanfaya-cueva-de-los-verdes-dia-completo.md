@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t568571/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'La entrada a los Jameos del Agua (16 € por persona) y el paseo en camello (11 € por persona) son opcionales y se pagan aparte. El almuerzo tampoco está incluido.'
 highlights:

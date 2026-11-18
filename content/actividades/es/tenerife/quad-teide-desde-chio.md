@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tenerife-quad-trip-hacia-el-teide-de-dia-o-puesta-del-sol-con-bebida-t959415/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Subida en quad al Parque Nacional del Teide

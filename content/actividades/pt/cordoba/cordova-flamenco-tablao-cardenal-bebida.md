@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cordoba-l1689/cordoba-entrada-a-espectaculo-de-flamenco-con-bebidas-t447714/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 7 artistas em palco

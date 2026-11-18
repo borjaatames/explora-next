@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-half-day-trip-with-basilica-t297915/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Bus de ida y vuelta desde el centro de Barcelona — sin gestiones por tu parte

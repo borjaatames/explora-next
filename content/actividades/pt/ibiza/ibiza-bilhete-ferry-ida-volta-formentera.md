@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/formentera-l1216/desde-ibiza-billete-de-ferri-de-ida-y-vuelta-a-formentera-t375331/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Ferry rápido de cerca de 30 minutos

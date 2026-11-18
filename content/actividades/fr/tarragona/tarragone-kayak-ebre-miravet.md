@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tarragona-l1293/tarragona-tour-guiado-en-kayak-por-el-rio-ebro-hasta-miravet-t465286/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "Les moniteurs parlent anglais et espagnol : il n'y a pas d'explications en français."
 highlights:

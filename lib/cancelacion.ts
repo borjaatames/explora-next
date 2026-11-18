@@ -64,3 +64,17 @@ export function etiquetaCancelacion(idioma: Idioma, a: Entrada): string | null {
   if (RE_PARCIAL.test(politica)) return t.parcial;
   return null;
 }
+
+const RESERVA_SIN_PAGAR: Record<Idioma, string> = {
+  es: "Reserva ahora y paga después",
+  en: "Reserve now, pay later",
+  de: "Jetzt reservieren, später zahlen",
+  fr: "Réservez maintenant, payez plus tard",
+  it: "Prenota ora, paga dopo",
+  pt: "Reserve agora, pague depois",
+};
+
+/** «Reserva ahora y paga después» (solo fichas GYG con `reservaSinPagar: true`). */
+export function etiquetaReservaSinPagar(idioma: Idioma, reservaSinPagar?: boolean): string | null {
+  return reservaSinPagar ? RESERVA_SIN_PAGAR[idioma] : null;
+}

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/mallorca-l47/palma-entrada-a-las-cuevas-del-drach-concierto-de-musica-y-paseo-en-barco-t608697/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Eintritt in die Drachenhöhlen ohne Anstehen an der Kasse

@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/lanzarote-paseo-en-barco-de-2-horas-al-atardecer-por-la-costa-con-bebida-t401914/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Sonnenuntergang vor der Küste von Puerto del Carmen

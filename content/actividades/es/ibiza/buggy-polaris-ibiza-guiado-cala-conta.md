@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t482554/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'El precio es por buggy, no por persona: en cada uno van hasta dos personas. Un segundo conductor cuesta 20 € más.'
 highlights:

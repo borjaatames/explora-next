@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/sant-feliu-de-guixols-l98145/costa-brava-tour-en-kayak-y-esnorquel-en-cuevas-marinas-t396079/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Calas y cuevas marinas a las que solo se llega por mar

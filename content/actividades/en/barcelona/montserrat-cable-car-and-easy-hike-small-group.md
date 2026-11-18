@@ -17,6 +17,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/montserrat-easy-hike-and-monastery-day-trip-t57039/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Small group in a van (max 8 per guide) — much more personal attention

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/mallorca-l47/mallorca-ticket-de-entrada-a-palma-aquarium-con-cine-3d-opcional-t73335/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Big Blue, eines der tiefsten Haibecken Europas

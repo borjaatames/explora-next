@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tarragona-l1293/tarragona-bodegas-yzaguirre-visita-guiada-con-degustacion-de-vermut-t1178149/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Historic Camp de Tarragona vermouth house

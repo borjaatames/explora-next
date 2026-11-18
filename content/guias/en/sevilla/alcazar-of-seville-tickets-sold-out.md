@@ -28,6 +28,10 @@ slugs:
   pt: alcazar-de-sevilha-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'If the official site is sold out, the **box office in the Patio de Banderas** keeps a few tickets for each time slot on the day: get there **at least an hour before it opens at 9:00**, with your ID. There is no waiting list and no changes or refunds, so the safest options are a **resold timed ticket** (from €20) or a **guided tour with entry included**.'
+webOficial:
+  url: https://www.alcazarsevilla.org/
+  precio: "General admission €15.50"
+  nota: "Only if your date still has slots: no changes or refunds"
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-visita-privada-guia-oficial

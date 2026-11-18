@@ -22,6 +22,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/fuerteventura-excursion-en-catamaran-magic-select-t358735/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Catamarã de 23 metros pela costa vulcânica de Jandía

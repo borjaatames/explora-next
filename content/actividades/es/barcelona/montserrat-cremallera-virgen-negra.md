@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/barcelona-montserrat-tour-with-rack-railway-and-virgin-la-moreneta-t1177/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Subida a Montserrat en el tren cremallera histórico (Cremallera de Montserrat)
@@ -87,7 +88,7 @@ keywords:
 - moreneta montserrat
 - montserrat medio dia
 - visitar montserrat desde barcelona
-imagen: montserrat-church-architecture-religion-pomp-hero-hero.webp
+imagen: /images/actividades/barcelona/montserrat/montserrat-church-architecture-religion-pomp-hero-hero.webp
 imagenAlt: Monasterio de Montserrat entre las montañas
 galeria:
 - src: /images/actividades/barcelona/montserrat/montserrat-2015-10-12-0153-23185857575-hero-hero.webp

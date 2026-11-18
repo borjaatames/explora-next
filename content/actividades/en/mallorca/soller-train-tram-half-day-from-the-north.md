@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/mallorca-l47/tour-exclusivo-de-medio-dia-en-el-tren-y-el-tranvia-de-soller-t486267/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Pickup in the north: Alcúdia, Port de Pollença, Can Picafort and Playa de Muro'

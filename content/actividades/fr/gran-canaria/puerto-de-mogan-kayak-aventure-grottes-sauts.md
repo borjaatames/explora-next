@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t427329/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "Le guide parle espagnol et anglais, et il faut comprendre l'une de ces deux langues pour participer : il n'y a pas d'explications en français."
 highlights:

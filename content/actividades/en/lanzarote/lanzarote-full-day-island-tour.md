@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/lanzarote-tour-de-1-dia-por-sus-puntos-destacados-t132558/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'There are three options: no tickets, two tickets or all three (Timanfaya, Jameos del Agua and Cueva de los Verdes). Check which one you pick before paying.'
 highlights:

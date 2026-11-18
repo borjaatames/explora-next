@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/tour-en-barco-de-1-hora-por-la-ciudad-de-bilbao-o-paseo-en-barco-de-2-horas-a-portugalete-t208590/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Bilbao from the water, past the Guggenheim

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/tenerife-paseo-en-moto-de-agua-con-tour-en-quad-opcional-t317607/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Não é preciso carta nem experiência prévia

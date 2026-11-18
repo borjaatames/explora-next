@@ -28,6 +28,10 @@ slugs:
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau **am Vorabend zwischen 20:00 und 22:00 Uhr** nach, wenn manchmal Last-Minute-Tickets auftauchen, und prüf die **Granada Card**, die ein eigenes Kontingent hat. Wenn du kein Glück hast, hat eine **Führung mit inkludiertem Ticket** oft noch Plätze für die Nasridenpaläste; der **Nachtbesuch** und das Ticket für **Gärten und Generalife** haben meist mehr Plätze."
+webOficial:
+  url: https://tickets.alhambra-patronato.es/
+  precio: "Normales Ticket 22,27 €"
+  nota: "Wenn ausverkauft: am Vortag zwischen 20 und 22 Uhr erneut schauen"
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife

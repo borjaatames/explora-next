@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Der Instructor spricht Spanisch, Englisch und Arabisch: Die Einweisung gibt es nicht auf Deutsch.'
 highlights:

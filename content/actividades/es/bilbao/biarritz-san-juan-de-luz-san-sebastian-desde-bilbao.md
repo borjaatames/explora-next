@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/biarritz-l1574/desde-bilbao-tour-de-biarritz-san-juan-de-luz-y-san-sebastian-t416722/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Biarritz, el balneario de la realeza

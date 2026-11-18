@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/desde-malaga-excursion-de-1-dia-a-cordoba-con-tickets-para-la-mezquita-catedral-t435973/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Entrada a la Mezquita-Catedral incluida

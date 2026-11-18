@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t134520/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Sale de San Sebastián, no de Bilbao. Hay opción privada, en grupo reducido y en grupo grande bilingüe: la comida solo va incluida en las dos primeras y la opción bilingüe no incluye la entrada al Guggenheim.'
 highlights:

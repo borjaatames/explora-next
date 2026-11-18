@@ -29,6 +29,10 @@ slugs:
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Die offiziellen Tickets werden **etwa zwei Monate im Voraus** freigeschaltet, eine Kasse gibt es nicht. Wenn sie ausverkauft sind, schau erneut auf der Website und in der App nach (Umbuchungen und Rückgaben werden wieder frei), probier die **QR-Codes zum Kauf** rund um die Basilika, falls noch Kapazität frei ist, oder buche eine **Tour mit inkludiertem Ticket**, die ein eigenes Kontingent hat. Die **internationale Messe** sonntags um 9:00 Uhr ist kostenlos, aber keine Besichtigung."
+webOficial:
+  url: https://sagradafamilia.org/
+  precio: "Basisticket 26 €"
+  nota: "Nur online mit Zeitfenster; Verkauf etwa zwei Monate im Voraus"
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia

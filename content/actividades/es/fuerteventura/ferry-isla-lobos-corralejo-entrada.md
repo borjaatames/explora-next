@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/corralejo-ticket-de-ida-y-vuelta-a-la-isla-de-lobos-con-entrada-al-parque-t446822/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Travesía de unos 20 minutos desde el puerto de Corralejo

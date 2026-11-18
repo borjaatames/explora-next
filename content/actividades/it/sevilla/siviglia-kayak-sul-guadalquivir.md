@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/sevilla-l48/sevilla-alquiler-de-kayak-en-el-guadalquivir-t391607/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Siviglia dal fiume: Torre del Oro e ponte di Triana'

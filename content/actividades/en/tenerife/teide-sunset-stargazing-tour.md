@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/desde-adeje-tour-fotografico-guiado-en-grupo-t417569/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Sunset over La Gomera, La Palma and El Hierro

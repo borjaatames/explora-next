@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/tenerife-l350/tour-de-avistamiento-de-ballenas-t3479/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Departures from Costa Adeje (convenient for south Tenerife hotels)

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/sevilla-l48/acuario-de-sevilla-entrada-sin-colas-t80103/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Recorrido basado en la vuelta al mundo de Magallanes

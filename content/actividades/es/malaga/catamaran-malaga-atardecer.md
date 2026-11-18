@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/malaga-excursion-en-catamaran-al-atardecer-con-copa-de-cava-t381394/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Málaga y la Malagueta vistas desde el mar

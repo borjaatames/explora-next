@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tarragona-l1293/observacion-de-flamencos-y-otras-aves-en-el-delta-del-ebro-al-atardecer-t554713/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Les flamants roses de la lagune de la Tancada

@@ -22,6 +22,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/valencia-l49/tour-en-tuk-tuk-por-centro-historico-playas-y-ciudad-de-las-artes-2-horas-t1214842/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Tuk-tuk 100 % électrique

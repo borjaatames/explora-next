@@ -33,6 +33,10 @@ opciones:
     etiqueta: "La moins chère"
   - ficha: ronda-setenil-desde-malaga
     etiqueta: "Plan B"
+webOficial:
+  url: https://www.caminitodelrey.info/
+  precio: "Billet général 10 € (visite guidée officielle 18 €)"
+  nota: "Ni échange ni remboursement, sauf fermeture pour météo ou travaux"
 actividades:
   - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga

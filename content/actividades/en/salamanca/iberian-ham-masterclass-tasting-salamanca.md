@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/salamanca-l1637/salamanca-clase-magistral-sobre-el-jamon-iberico-y-cata-t1030545/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Masterclass on Iberian ham

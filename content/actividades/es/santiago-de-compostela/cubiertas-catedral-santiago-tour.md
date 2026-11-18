@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/santiago-de-compostela-l153/santiago-de-compostela-tour-por-las-cubiertas-de-la-catedral-y-la-torre-de-la-carraca-t447702/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Paseo por las cubiertas de la catedral

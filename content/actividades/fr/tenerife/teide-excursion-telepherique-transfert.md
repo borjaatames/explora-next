@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/volcan-del-teide-tour-de-medio-dia-y-billete-de-teleferico-t351351/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Téléphérique aller-retour jusqu'à 3 555 m

@@ -138,6 +138,12 @@ export type ActividadFrontmatter = {
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
   /**
+   * GetYourGuide ofrece «Reserva ahora y paga después» en esta actividad.
+   * Comprobado en la página de la actividad en GYG (bloque
+   * `reserveNowPayLaterInformation`); nunca se pone a ojo.
+   */
+  reservaSinPagar?: boolean;
+  /**
    * Mínimo de personas por reserva cuando el precio es por persona
    * (ej. visitas privadas "mínimo 2"). Se muestra junto al precio "desde"
    * para que el visitante que llega desde un anuncio no se lleve sorpresas.
@@ -630,6 +636,7 @@ function construirListItem(
     bokunProductId: fm.bokunProductId,
     cancelacionGratuita: fm.cancelacionGratuita ?? false,
     horasCancelacion: fm.horasCancelacion,
+    reservaSinPagar: fm.reservaSinPagar === true,
     minimoPersonas: fm.minimoPersonas,
     bokunPedirPersonas: fm.bokunPedirPersonas === true,
     privada: fm.privada === true,

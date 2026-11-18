@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/tour-guiado-en-buggy-de-3-horas-por-lanzarote-t394542/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'The price is per buggy, not per person: each one takes up to two people.'
 highlights:

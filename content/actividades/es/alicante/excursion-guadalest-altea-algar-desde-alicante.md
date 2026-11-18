@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/alicante-l414/desde-alicante-guadalest-altea-y-entrada-a-las-fuentes-del-algar-t754981/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Entrada a las Fuentes del Algar con baño

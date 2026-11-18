@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cordoba-l1689/los-autenticos-patios-cordobeses-tour-de-2-h-con-tickets-t135267/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Entry to 5 private patios

@@ -28,6 +28,10 @@ slugs:
   pt: alcazar-de-sevilha-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, hält die **Kasse am Patio de Banderas** für jedes Zeitfenster desselben Tages ein paar Tickets zurück: Sei **mindestens eine Stunde vor 9:00 Uhr** da und nimm deinen Ausweis mit. Die Website hat weder Warteliste noch Umbuchung oder Erstattung, am sichersten ist also ein **Ticket mit Uhrzeit über einen Wiederverkäufer** (ab 20 €) oder eine **Führung mit inbegriffenem Ticket**."
+webOficial:
+  url: https://www.alcazarsevilla.org/
+  precio: "Normaler Eintritt 15,50 €"
+  nota: "Nur wenn dein Datum noch frei ist: kein Umtausch, keine Erstattung"
 actividades:
   - real-alcazar-sevilla-entrada
   - real-alcazar-sevilla-visita-privada-guia-oficial

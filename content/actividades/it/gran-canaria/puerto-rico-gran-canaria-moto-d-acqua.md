@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/puerto-rico-de-gran-canaria-tour-en-moto-acuatica-t407032/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Guidi la tua moto d'acqua

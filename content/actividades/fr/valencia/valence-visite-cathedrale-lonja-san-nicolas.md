@@ -24,6 +24,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/valencia-l49/valencia-tour-por-la-catedral-san-nicolas-y-la-lonja-de-la-seda-t433051/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Entrées à la cathédrale, à San Nicolás et à la Bourse de la soie incluses

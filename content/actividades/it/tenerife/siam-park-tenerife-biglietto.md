@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/tenerife-l350/tickets-de-entrada-al-siam-park-t407436/?partner_id=C71NOAW'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Tower of Power: caduta di 28 m attraverso un acquario'

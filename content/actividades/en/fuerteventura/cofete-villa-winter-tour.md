@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/fuerteventura-tour-por-la-playa-de-cofete-y-la-villa-winter-t428891/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Gravel track over Fuerteventura's highest peaks

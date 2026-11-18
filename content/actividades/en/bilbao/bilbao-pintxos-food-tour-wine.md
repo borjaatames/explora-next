@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/bilbao-tour-gastronomico-vasco-y-cata-de-vino-con-guia-t463114/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - '9 pintxos: a full meal'

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t1135576/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Der Preis gilt pro Buggy, nicht pro Person: Jeder hat Platz für bis zu zwei Personen. Der Guide spricht Englisch, Spanisch, Russisch und Ukrainisch, nicht Deutsch; zum Fahren brauchst du keine Sprachkenntnisse.'
 highlights:

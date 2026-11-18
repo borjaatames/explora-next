@@ -22,6 +22,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cordoba-l1689/cordoba-tour-guiado-de-la-mezquita-catedral-sin-colas-t396838/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Skip-the-line access through a separate entrance

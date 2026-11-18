@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'O preço é por pessoa e cada mota leva até duas pessoas: se reservar para duas, partilham a mota e revezam-se ao volante. Para ir em motas separadas é preciso reservar pelo menos três lugares.'
 highlights:

@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/santiago-de-compostela-l153/santiago-tour-gastronomico-guiado-con-bebidas-tapas-y-musica-en-directo-t448382/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Three bars, three tapas and three drinks

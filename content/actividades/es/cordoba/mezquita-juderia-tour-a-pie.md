@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/cordoba-l1689/mezquita-y-juderia-de-cordoba-tour-a-pie-t68659/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Mezquita-Catedral y Judería en un solo tour

@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/en-us/barcelona-l45/barcelona-ticket-de-ida-y-vuelta-en-el-teleferico-de-montjuic-t23477/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Vistas panorâmicas de Barcelona, do porto e do Mediterrâneo

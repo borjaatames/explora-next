@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/activity-t407438/?partner_id=C71NOAW'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Loro Parque: premiato come miglior zoo d''Europa da TripAdvisor (2020-2022)'

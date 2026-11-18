@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tenerife-l350/los-cristianos-paseo-en-barco-respetuoso-para-ver-ballenas-y-delfines-sin-perseguirlos-t406165/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Política de não perseguição: são os animais que se aproximam'

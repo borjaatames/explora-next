@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/desde-barcelona-montserrat-girona-y-sitges-tour-de-dia-completo-t447264/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Tres destinos en un día: Montserrat, Girona y Tossa de Mar'

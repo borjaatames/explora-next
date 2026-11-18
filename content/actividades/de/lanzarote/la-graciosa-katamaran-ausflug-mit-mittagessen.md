@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/lanzarote-l421/la-graciosa-paseo-en-barco-con-almuerzo-y-actividades-acuaticas-t150755/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Schnellfähre von Órzola nach La Graciosa inklusive

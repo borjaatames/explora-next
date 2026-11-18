@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t588095/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Il prezzo è per buggy, non per persona: da 200 € per un gruppo fino a 4 persone. È disponibile anche un''opzione a 6 posti.'
 highlights:

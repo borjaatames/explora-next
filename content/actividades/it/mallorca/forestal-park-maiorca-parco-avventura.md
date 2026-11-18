@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/mallorca-l47/mallorca-aventura-en-forestal-park-t75838/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Fino a 9 percorsi con oltre 90 sfide

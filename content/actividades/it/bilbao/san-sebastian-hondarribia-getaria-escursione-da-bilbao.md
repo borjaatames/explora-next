@@ -18,6 +18,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/desde-bilbao-excursion-a-san-sebastian-hondarribia-y-getaria-t874342/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'San Sebastián: La Concha e la Parte Vecchia'

@@ -28,6 +28,10 @@ slugs:
   pt: park-guell-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Las entradas oficiales (18 €) salen **hasta tres meses antes** y el aforo es de **700 personas cada media hora**. Si están agotadas, mira otras franjas y otros días en la web oficial, prueba las **entradas de reventa** (desde 21,50 €) o un **tour con la entrada incluida**. Y aunque no consigas nada, **la mayor parte del parque es de acceso libre**: solo se paga la zona monumental.'
+webOficial:
+  url: https://parkguell.barcelona/
+  precio: "Entrada general, 18 €"
+  nota: "Aforo de 700 personas cada media hora; salen hasta tres meses antes"
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

@@ -28,6 +28,10 @@ slugs:
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Os bilhetes oficiais são postos à venda **cerca de dois meses antes** e não há bilheteira. Se estiverem esgotados, volte a consultar o site e a app (libertam-se trocas e devoluções), experimente os **códigos QR de compra** à volta do templo se ainda houver lotação, ou reserve um **tour com entrada incluída**, que tem quota própria. A **missa internacional** de domingo às 9h00 é gratuita, mas não é uma visita.'
+webOficial:
+  url: https://sagradafamilia.org/
+  precio: "Bilhete básico 26 €"
+  nota: "Só online e com hora; à venda cerca de dois meses antes"
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia

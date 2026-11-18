@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: 'https://www.getyourguide.com/es-es/tenerife-l350/tenerife-ticket-de-entrada-al-loro-parque-t407432/?partner_id=C71NOAW'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Una delle più grandi collezioni di pappagalli al mondo

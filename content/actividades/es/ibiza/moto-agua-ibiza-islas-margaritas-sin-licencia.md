@@ -21,6 +21,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t790718/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'El precio es por persona y cada moto lleva hasta dos: si reservas para dos, compartís moto y os turnáis al volante. Para ir en motos separadas hay que reservar al menos tres plazas.'
 highlights:

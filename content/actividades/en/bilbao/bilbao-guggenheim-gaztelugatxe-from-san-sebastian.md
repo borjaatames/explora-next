@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t134520/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'It departs from San Sebastián, not Bilbao. There are private, small-group and large bilingual-group options: lunch is only included in the first two, and the bilingual option does not include Guggenheim tickets.'
 highlights:

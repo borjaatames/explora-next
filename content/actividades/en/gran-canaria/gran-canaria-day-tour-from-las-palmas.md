@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/gran-canaria-l418/desde-las-palmas-tour-de-1-dia-por-los-puntos-destacados-de-gran-canaria-t146772/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Guayadeque ravine and cave houses

@@ -19,6 +19,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/barcelona-l45/from-barcelona-montserrat-monastery-and-scenic-mountain-tour-t411899/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Grupo máximo de 8 personas — el ratio más íntimo del comparador junto a EXB-26

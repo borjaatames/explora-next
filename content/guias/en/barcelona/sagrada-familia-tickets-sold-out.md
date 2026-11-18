@@ -28,6 +28,10 @@ slugs:
   pt: sagrada-familia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Official tickets go on sale **about two months ahead** and there is no ticket office. If they are sold out, keep checking the website and app (changes and refunds free up places), try the **purchase QR codes** around the basilica if there is capacity, or book a **tour with entry included**, which has its own allocation. The **international mass** on Sundays at 9:00 is free, but it is not a visit.'
+webOficial:
+  url: https://sagradafamilia.org/
+  precio: "Basic ticket €26"
+  nota: "Online only, with a time slot; on sale about two months ahead"
 actividades:
   - sagrada-familia-visita-privada-guia-entradas
   - entrada-sagrada-familia-audioguia

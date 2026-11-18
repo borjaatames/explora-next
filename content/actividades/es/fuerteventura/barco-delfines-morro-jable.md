@@ -23,6 +23,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/morro-jable-paseo-en-barco-con-avistamiento-de-delfines-y-ballenas-bebidas-y-bano-t404581/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Búsqueda de delfines y ballenas en su hábitat natural

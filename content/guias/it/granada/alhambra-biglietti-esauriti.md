@@ -28,6 +28,10 @@ slugs:
   pt: alhambra-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Se il sito ufficiale risulta esaurito, controlla **la sera prima tra le 20:00 e le 22:00**, quando a volte escono biglietti dell''ultimo minuto, e verifica la **Granada Card**, che ha una quota propria. Se non hai fortuna, una **visita guidata con ingresso incluso** spesso ha ancora posti per i Palazzi Nasridi; la **visita notturna** e il biglietto **Giardini e Generalife** di solito hanno più posti.'
+webOficial:
+  url: https://tickets.alhambra-patronato.es/
+  precio: "Biglietto generale 22,27 €"
+  nota: "Se è esaurito, controlla il giorno prima tra le 20 e le 22"
 actividades:
   - entrada-y-tour-guiado-alhambra
   - visita-guiada-alhambra-generalife

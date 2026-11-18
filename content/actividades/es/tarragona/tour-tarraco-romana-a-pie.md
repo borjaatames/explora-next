@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/tarragona-l1293/tarragona-tour-guiado-a-pie-por-el-patrimonio-romano-t388963/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Guía oficial de la ciudad

@@ -28,6 +28,10 @@ slugs:
   pt: park-guell-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Die offiziellen Tickets (18 €) werden **bis zu drei Monate im Voraus** freigeschaltet, und die Kapazität liegt bei **700 Personen pro halbe Stunde**. Wenn sie ausverkauft sind, schau auf der offiziellen Website nach anderen Zeitfenstern und Tagen, probier **Tickets über Wiederverkäufer** (ab 21,50 €) oder eine **Tour mit inkludiertem Ticket**. Und selbst wenn du nichts bekommst: **Der größte Teil des Parks ist frei zugänglich** – bezahlt wird nur der Monumentalbereich."
+webOficial:
+  url: https://parkguell.barcelona/
+  precio: "Normaler Eintritt 18 €"
+  nota: "700 Personen pro halbe Stunde; Verkauf bis drei Monate im Voraus"
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

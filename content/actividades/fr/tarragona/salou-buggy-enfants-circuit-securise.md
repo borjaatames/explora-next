@@ -24,6 +24,7 @@ proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/activity-t590019/?partner_id=C71NOAW
 avisoReserva: 'Le prix s''entend par buggy, et non par personne : chaque buggy accueille jusqu''à deux personnes (l''enfant et un adulte).'
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Circuit conçu pour les enfants

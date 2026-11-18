@@ -28,6 +28,10 @@ slugs:
   pt: park-guell-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'I biglietti ufficiali (18 €) escono **fino a tre mesi prima** e la capienza è di **700 persone ogni mezz''ora**. Se sono esauriti, guarda altre fasce e altri giorni sul sito ufficiale, prova i **biglietti in rivendita** (da 21,50 €) o un **tour con ingresso incluso**. E anche se non trovi nulla, **la maggior parte del parco è ad accesso libero**: si paga solo la zona monumentale.'
+webOficial:
+  url: https://parkguell.barcelona/
+  precio: "Ingresso generale 18 €"
+  nota: "700 persone ogni mezz'ora; in vendita fino a tre mesi prima"
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

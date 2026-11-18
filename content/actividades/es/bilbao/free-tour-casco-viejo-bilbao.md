@@ -15,6 +15,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t1426022/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: 'Los 2,99 € solo reservan la plaza. Al final del tour cada persona paga lo que considere justo (lo habitual es entre 10 y 20 €), con tarjeta o en efectivo.'
 highlights:

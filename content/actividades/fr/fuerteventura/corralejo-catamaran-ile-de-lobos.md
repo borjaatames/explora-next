@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/fuerteventura-l419/fuerteventura-tour-de-4-horas-navegando-de-la-isla-de-lobos-t210330/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 avisoReserva: "L'équipage parle espagnol et anglais : il n'y a pas d'explications en français."
 highlights:

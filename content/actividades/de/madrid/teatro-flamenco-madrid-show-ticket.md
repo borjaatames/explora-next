@@ -24,6 +24,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/activity-t198766/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Die am besten bewertete Flamenco-Show Madrids auf GetYourGuide (4,8/5 bei über 15.800 Bewertungen)

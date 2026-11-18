@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/girona-l550/girona-tour-de-juego-de-tronos-en-grupo-reducido-t149528/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - 'Los escenarios de la 6.ª temporada: Braavos, Desembarco del Rey y Antigua'

@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/bilbao-l93/bilbao-gaztelugatxe-bermeo-mundaca-guernica-y-vino-t414027/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Guaranteed access to San Juan de Gaztelugatxe

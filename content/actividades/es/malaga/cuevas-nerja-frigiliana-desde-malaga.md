@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/desde-malaga-tour-de-1-dia-a-las-cuevas-de-nerja-nerja-y-frigiliana-t518384/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Entrada a la Cueva de Nerja incluida

@@ -20,6 +20,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/barbate-l160218/barbate-avistamiento-de-delfines-y-ballenas-en-el-cabo-trafalgar-t469069/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Golfinhos e baleias em liberdade

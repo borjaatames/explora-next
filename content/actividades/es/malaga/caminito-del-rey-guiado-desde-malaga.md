@@ -16,6 +16,7 @@ idiomas:
 proveedor: getyourguide
 urlReserva: https://www.getyourguide.com/es-es/malaga-l402/caminito-del-rey-tour-guiado-y-pack-de-bienvenida-desde-malaga-t207921/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Transporte directo desde el centro de Málaga, sin paradas
