@@ -40,6 +40,13 @@ faq:
     respuesta: "Normalmente sim, embora dependa da neve. Na época 2025-26 a estância abriu no sábado, 29 de novembro, com pistas na zona de Borreguiles, apoiada por canhões de neve artificial. A data de abertura de 2026-27 não foi anunciada; consulte o estado das pistas em sierranevada.es antes de subir."
   - pregunta: "A que horas é a Cavalgada de Reis de Granada?"
     respuesta: "A 5 de janeiro às 17h00. Em 2026 saiu da avenida de la Constitución, junto aos Jardines del Triunfo, desceu pela Gran Vía, Reyes Católicos e a Acera del Darro, parou por volta das 19h30 na Puente Blanco para um espetáculo de drones e terminou com a chegada dos Reis Magos ao Ayuntamiento. Desfilaram 25 carros alegóricos."
+opciones:
+  - ficha: alhambra-visita-nocturna
+    etiqueta: "Alhambra à noite"
+  - ficha: albaicin-sacromonte-atardecer
+    etiqueta: "Albaicín ao pôr do sol"
+  - ficha: flamenco-cueva-la-rocio-sacromonte
+    etiqueta: "Flamenco numa gruta"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

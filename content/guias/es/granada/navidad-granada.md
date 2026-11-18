@@ -40,6 +40,13 @@ faq:
     respuesta: "Normalmente sí, aunque depende de la nieve. En la temporada 2025-26 la estación abrió el sábado 29 de noviembre con pistas en la zona de Borreguiles, apoyada por cañones de nieve artificial. La fecha de apertura de 2026-27 no se ha anunciado; consulta el estado de pistas en sierranevada.es antes de subir."
   - pregunta: "¿A qué hora es la Cabalgata de Reyes de Granada?"
     respuesta: "El 5 de enero a las 17:00. En 2026 salió de la avenida de la Constitución, junto a los Jardines del Triunfo, bajó por Gran Vía, Reyes Católicos y la Acera del Darro, paró hacia las 19:30 en el Puente Blanco para un espectáculo de drones y terminó con la llegada de los Reyes al Ayuntamiento. Desfilaron 25 carrozas."
+opciones:
+  - ficha: alhambra-visita-nocturna
+    etiqueta: "Alhambra de noche"
+  - ficha: albaicin-sacromonte-atardecer
+    etiqueta: "Atardecer en el Albaicín"
+  - ficha: flamenco-cueva-la-rocio-sacromonte
+    etiqueta: "Flamenco en cueva"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

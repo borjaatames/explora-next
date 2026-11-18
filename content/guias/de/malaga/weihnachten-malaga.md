@@ -40,6 +40,13 @@ faq:
     respuesta: "Auf der Plaza de la Constitución am Ende der Calle Larios. 2025 verteilte die Stadt von 21:30 bis 23:45 Uhr Tüten mit den zwölf Trauben und Partyartikeln, solange der Vorrat reichte. Am 31. bleiben die Lichter im Zentrum bis 6:00 Uhr an."
   - pregunta: "Wann ist der Dreikönigsumzug in Málaga?"
     respuesta: "Am 5. Januar. 2026 kamen die Könige um 17:30 Uhr am Rathaus an, um 18:00 Uhr startete dort der Umzug. Vorher, am 2. Januar um 17:30 Uhr, bricht der Königliche Herold an der Alcazaba auf, und vom 2. bis 4. Januar nimmt der Königliche Postbote auf der Plaza de la Constitución Wunschzettel an."
+opciones:
+  - ficha: catamaran-malaga-atardecer
+    etiqueta: "Sonnenuntergang auf dem Meer"
+  - ficha: hammam-al-andalus-malaga
+    etiqueta: "Arabisches Bad"
+  - ficha: malaga-tour-vino-tapas
+    etiqueta: "Tapas und Wein"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas

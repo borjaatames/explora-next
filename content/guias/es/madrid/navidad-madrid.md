@@ -28,6 +28,13 @@ slugs:
   pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: 'Las luces se encienden el **sábado 21 de noviembre** en Cibeles y siguen hasta el 6 de enero, en más de 250 puntos de la ciudad. Lo imprescindible: el **mercadillo de la Plaza Mayor**, **Cortylandia** en Preciados, ver las luces en **Naviluz** o en tuk-tuk y la **Cabalgata de Reyes** del 5 de enero. Ve entre semana: los sábados de diciembre el centro se colapsa.'
+opciones:
+  - ficha: madrid-big-bus-night-tour
+    etiqueta: "Luces de Navidad en bus"
+  - ficha: flamenco-torres-bermejas-cena
+    etiqueta: "Cena con flamenco"
+  - ficha: madrid-tour-nocturno-inquisicion-leyendas
+    etiqueta: "Leyendas de noche"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

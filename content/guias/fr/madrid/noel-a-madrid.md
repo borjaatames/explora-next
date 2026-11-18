@@ -28,6 +28,13 @@ slugs:
   pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: 'Les illuminations s''allument le **samedi 21 novembre** à Cibeles et restent jusqu''au 6 janvier, sur plus de 250 sites de la ville. L''incontournable : le **marché de la Plaza Mayor**, **Cortylandia** dans la rue Preciados, les illuminations à bord de **Naviluz** ou en tuk-tuk et la **Cavalcade des Rois** du 5 janvier. Allez-y en semaine : les samedis de décembre, le centre est saturé.'
+opciones:
+  - ficha: madrid-big-bus-night-tour
+    etiqueta: "Illuminations en bus"
+  - ficha: flamenco-torres-bermejas-cena
+    etiqueta: "Dîner et flamenco"
+  - ficha: madrid-tour-nocturno-inquisicion-leyendas
+    etiqueta: "Légendes de nuit"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

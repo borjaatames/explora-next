@@ -39,6 +39,13 @@ faq:
     respuesta: "It's run by the Ateneo on 5 January. In 2026 it left the old Tobacco Factory at 16:15, crossed the centre (Campana, San Pablo, Reyes Católicos), went over to Triana and got back around 22:00, with 33 floats. On the eve, 4 January, the Royal Herald parades through the city."
   - pregunta: "Where can I buy convent sweets in Seville?"
     respuesta: "From the revolving hatches (tornos) of enclosed convents such as San Leandro, famous for its yemas, and at the convent sweets fair held in the Real Alcázar around the Immaculate Conception holiday (5 to 8 December in 2023, with 20 convents). The 2026 dates haven't been announced yet."
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: "Intimate flamenco"
+  - ficha: sevilla-tapas-tour-triana-cruzando-rio
+    etiqueta: "Tapas in Triana"
+  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
+    etiqueta: "Day trip to Córdoba"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

@@ -26,6 +26,13 @@ slugs:
   pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: "Le luci si accendono **sabato 21 novembre** in Plaza de Cibeles e restano fino al 6 gennaio, in oltre 250 punti della città. Da non perdere: il **mercatino di Natale di Plaza Mayor**, **Cortylandia** in Calle Preciados, le luci viste dal bus **Naviluz** o in tuk-tuk e la **Cabalgata dei Re Magi** il 5 gennaio. Vai in un giorno feriale: il sabato di dicembre il centro si blocca."
+opciones:
+  - ficha: madrid-big-bus-night-tour
+    etiqueta: "Luci di Natale in bus"
+  - ficha: flamenco-torres-bermejas-cena
+    etiqueta: "Cena con flamenco"
+  - ficha: madrid-tour-nocturno-inquisicion-leyendas
+    etiqueta: "Leggende di notte"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

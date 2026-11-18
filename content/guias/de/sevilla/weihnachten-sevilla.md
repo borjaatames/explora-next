@@ -39,6 +39,13 @@ faq:
     respuesta: "Er wird vom Ateneo am 5. Januar organisiert. 2026 startete er um 16:15 Uhr an der alten Tabakfabrik, zog durch das Zentrum (Campana, San Pablo, Reyes Católicos), über den Fluss nach Triana und kam gegen 22:00 Uhr zurück, mit 33 Wagen. Am Vorabend, dem 4. Januar, zieht der Königliche Herold durch die Stadt."
   - pregunta: "Wo kauft man Klostergebäck in Sevilla?"
     respuesta: "An den Drehfenstern (Tornos) der Klausurklöster, etwa San Leandro, berühmt für seine Yemas, und auf dem Verkauf von Klostergebäck im Real Alcázar rund um den Feiertag Mariä Empfängnis (2023 vom 5. bis 8. Dezember, mit 20 Klöstern). Die Termine für 2026 sind noch nicht bekannt."
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: "Flamenco hautnah"
+  - ficha: sevilla-tapas-tour-triana-cruzando-rio
+    etiqueta: "Tapas in Triana"
+  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
+    etiqueta: "Tagesausflug nach Córdoba"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

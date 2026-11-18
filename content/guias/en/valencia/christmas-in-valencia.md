@@ -40,6 +40,13 @@ faq:
     respuesta: "In 2026 the Kings arrived by boat at 16:30 at Plaza de la Sal in the Marina Norte, and the parade left Puente de las Flores at 17:30. It went along Porta de la Mar, General Tovar, Calle de la Paz, Plaza de la Reina and San Vicente to Plaza del Ayuntamiento, with more than 1,300 participants."
   - pregunta: "Are there fireworks at Christmas in Valencia?"
     respuesta: "Yes. In 2025-26 there was a firework-and-music show (piromusical) of about three minutes every Saturday at 18:30 on Plaza del Ayuntamiento, from the 21 November switch-on until 3 January, plus a closing one on 5 January. They're free; get there ten minutes early for a good spot."
+opciones:
+  - ficha: tour-tapas-bebidas-noche-valencia
+    etiqueta: "Tapas by night"
+  - ficha: flamenco-espai-inestable-centro-valencia
+    etiqueta: "Authentic flamenco"
+  - ficha: oceanografic-valencia-entrada
+    etiqueta: "Family day out"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

@@ -27,6 +27,13 @@ slugs:
   pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: 'The lights go on on **Saturday 21 November** at Cibeles and stay up until 6 January, at more than 250 spots across the city. The must-dos: the **Plaza Mayor Christmas market**, **Cortylandia** on Calle Preciados, seeing the lights on the **Naviluz** bus or by tuk-tuk, and the **Three Kings Parade** on 5 January. Go on a weekday: on December Saturdays the centre grinds to a halt.'
+opciones:
+  - ficha: madrid-big-bus-night-tour
+    etiqueta: "Christmas lights by bus"
+  - ficha: flamenco-torres-bermejas-cena
+    etiqueta: "Dinner and flamenco"
+  - ficha: madrid-tour-nocturno-inquisicion-leyendas
+    etiqueta: "Night legends walk"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

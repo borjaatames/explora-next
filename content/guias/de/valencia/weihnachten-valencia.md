@@ -39,6 +39,13 @@ faq:
     respuesta: "2026 kamen die Könige um 16:30 Uhr per Schiff an der Plaza de la Sal in der Marina Norte an, um 17:30 Uhr startete der Umzug an der Puente de las Flores. Er führte über Porta de la Mar, General Tovar, die Calle de la Paz, die Plaza de la Reina und San Vicente zur Plaza del Ayuntamiento, mit über 1.300 Teilnehmenden."
   - pregunta: "Gibt es in Valencia an Weihnachten Feuerwerk?"
     respuesta: "Ja. 2025/26 gab es jeden Samstag um 18:30 Uhr auf der Plaza del Ayuntamiento ein etwa dreiminütiges Feuerwerk mit Musik (Piromusical), vom Einschalten am 21. November bis zum 3. Januar, dazu ein Abschluss-Feuerwerk am 5. Januar. Kostenlos; komm zehn Minuten früher für einen guten Platz."
+opciones:
+  - ficha: tour-tapas-bebidas-noche-valencia
+    etiqueta: "Tapas bei Nacht"
+  - ficha: flamenco-espai-inestable-centro-valencia
+    etiqueta: "Authentischer Flamenco"
+  - ficha: oceanografic-valencia-entrada
+    etiqueta: "Familienausflug"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

@@ -40,6 +40,13 @@ faq:
     respuesta: "Il est organisé par l'Ateneo le 5 janvier. En 2026, il est parti à 16 h 15 de l'ancienne Fábrica de Tabacos, est passé par le centre (Campana, San Pablo, Reyes Católicos), a traversé vers Triana et est revenu vers 22 h, avec 33 chars. La veille, le 4 janvier, le Héraut royal parcourt la ville."
   - pregunta: "Où acheter des douceurs de couvent à Séville ?"
     respuesta: "Aux tours (guichets tournants) des couvents cloîtrés, comme San Leandro, célèbre pour ses yemas, et à l'exposition-vente de douceurs des couvents organisée au Real Alcázar autour du pont de l'Immaculée Conception (en 2023, du 5 au 8 décembre, avec 20 couvents). Les dates 2026 ne sont pas encore publiées."
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: "Flamenco intimiste"
+  - ficha: sevilla-tapas-tour-triana-cruzando-rio
+    etiqueta: "Tapas à Triana"
+  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
+    etiqueta: "Excursion à Cordoue"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

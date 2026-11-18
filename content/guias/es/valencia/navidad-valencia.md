@@ -40,6 +40,13 @@ faq:
     respuesta: "En 2026 los Reyes llegaron en barco a las 16:30 a la Plaza de la Sal, en la Marina Norte, y la Cabalgata salió a las 17:30 del Puente de las Flores. Recorrió Porta de la Mar, General Tovar, la calle de la Paz, la Plaza de la Reina y San Vicente hasta la Plaza del Ayuntamiento, con más de 1.300 participantes."
   - pregunta: "¿Hay pólvora en Navidad en Valencia?"
     respuesta: "Sí. En la edición 2025-26 hubo un piromusical de unos tres minutos cada sábado a las 18:30 en la Plaza del Ayuntamiento, desde el encendido del 21 de noviembre hasta el 3 de enero, y otro de cierre el 5 de enero. Son gratis; llega diez minutos antes para coger sitio."
+opciones:
+  - ficha: tour-tapas-bebidas-noche-valencia
+    etiqueta: "Tapas de noche"
+  - ficha: flamenco-espai-inestable-centro-valencia
+    etiqueta: "Flamenco auténtico"
+  - ficha: oceanografic-valencia-entrada
+    etiqueta: "Plan en familia"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

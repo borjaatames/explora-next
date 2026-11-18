@@ -40,6 +40,13 @@ faq:
     respuesta: "Sur la Plaza de la Constitución, au bout de la calle Larios. En 2025, la mairie a distribué des sachets de raisins et des cotillons de 21 h 30 à 23 h 45 ou jusqu'à épuisement des stocks. Les illuminations du centre restent allumées le 31 jusqu'à 6 h."
   - pregunta: "À quelle heure a lieu le défilé des Rois mages de Malaga ?"
     respuesta: "Le 5 janvier. En 2026, les Rois sont arrivés à l'hôtel de ville à 17 h 30 et le défilé en est parti à 18 h. Avant cela, le 2 janvier à 17 h 30, le Héraut royal part de l'Alcazaba, et du 2 au 4 janvier le Facteur royal recueille les lettres sur la Plaza de la Constitución."
+opciones:
+  - ficha: catamaran-malaga-atardecer
+    etiqueta: "Coucher de soleil en mer"
+  - ficha: hammam-al-andalus-malaga
+    etiqueta: "Bains arabes"
+  - ficha: malaga-tour-vino-tapas
+    etiqueta: "Tapas et vin"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas

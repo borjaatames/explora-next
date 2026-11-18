@@ -40,6 +40,13 @@ faq:
     respuesta: "Na Plaza de la Constitución, ao fundo da calle Larios. Em 2025 a Câmara distribuiu sacos com uvas e adereços de festa das 21h30 às 23h45 ou até esgotar. As luzes do centro ficam acesas a 31 até às 6h00."
   - pregunta: "A que horas é a Cavalgada de Reis de Málaga?"
     respuesta: "A 5 de janeiro. Em 2026 os Reis Magos chegaram à Câmara Municipal às 17h30 e a Cavalgada partiu dali às 18h00. Antes, a 2 de janeiro às 17h30, o Arauto Real sai da Alcazaba, e de 2 a 4 de janeiro o Carteiro Real recolhe cartas na Plaza de la Constitución."
+opciones:
+  - ficha: catamaran-malaga-atardecer
+    etiqueta: "Pôr do sol no mar"
+  - ficha: hammam-al-andalus-malaga
+    etiqueta: "Banhos árabes"
+  - ficha: malaga-tour-vino-tapas
+    etiqueta: "Tapas e vinho"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas

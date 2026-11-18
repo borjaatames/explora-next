@@ -40,6 +40,13 @@ faq:
     respuesta: "Normalmente sì, anche se dipende dalla neve. Nella stagione 2025-26 la stazione ha aperto sabato 29 novembre con piste nella zona di Borreguiles, grazie ai cannoni per la neve artificiale. La data di apertura del 2026-27 non è stata annunciata; controlla lo stato delle piste su sierranevada.es prima di salire."
   - pregunta: "A che ora è la Cabalgata dei Re Magi di Granada?"
     respuesta: "Il 5 gennaio alle 17:00. Nel 2026 è partita dall'avenida de la Constitución, vicino ai Jardines del Triunfo, è scesa per Gran Vía, Reyes Católicos e l'Acera del Darro, si è fermata verso le 19:30 al Puente Blanco per uno spettacolo di droni e si è conclusa con l'arrivo dei Re Magi al Comune. Hanno sfilato 25 carri."
+opciones:
+  - ficha: alhambra-visita-nocturna
+    etiqueta: "Alhambra di notte"
+  - ficha: albaicin-sacromonte-atardecer
+    etiqueta: "Albaicín al tramonto"
+  - ficha: flamenco-cueva-la-rocio-sacromonte
+    etiqueta: "Flamenco in grotta"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

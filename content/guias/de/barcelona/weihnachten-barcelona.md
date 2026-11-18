@@ -40,6 +40,13 @@ faq:
     respuesta: "Auf der Avinguda de la Reina Maria Cristina vor dem Magischen Brunnen am Montjuïc. Bei der letzten Ausgabe begann die Show um 22:00 Uhr, mit Drohnen, Musik und Feuerwerk um Mitternacht, kostenlos und ohne Begrenzung. Fahr mit der Metro bis Espanya (L1 und L3) und komm früh: Nach 23:00 Uhr geht kaum noch etwas."
   - pregunta: "Was ist der Caga Tió?"
     respuesta: "Ein Holzklotz mit Gesicht und roter Mütze, den Kinder in der Adventszeit füttern und am 24. oder 25. Dezember singend mit Stöcken schlagen, damit er Süßigkeiten und Geschenke „ausscheidet“. Man kauft ihn auf dem Markt Santa Llúcia, wo es 2025 vom 29. November bis 20. Dezember einen Riesen-Tió für Kinder unter 12 gab."
+opciones:
+  - ficha: casa-batllo-visita-nocturna-copa-cava-bienvenida
+    etiqueta: "Casa Batlló bei Nacht"
+  - ficha: tablao-flamenco-cordobes-cena-show-las-ramblas
+    etiqueta: "Abendessen mit Flamenco"
+  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
+    etiqueta: "Flamenco im Palast"
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche

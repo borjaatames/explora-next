@@ -31,6 +31,7 @@ import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
+import PresupuestoWhatsApp from "@/components/ficha/PresupuestoWhatsApp";
 import DatosClave from "@/components/ficha/DatosClave";
 import { etiquetaCancelacion } from "@/lib/cancelacion";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
@@ -448,6 +449,15 @@ export default async function ActividadPage({ params }: Props) {
             preciosGrupo={actividad.preciosGrupo}
           />
         )}
+
+        {actividad.proveedor === "bokun" && actividad.privada === true && (
+          <PresupuestoWhatsApp
+            idioma="es"
+            titulo={actividad.titulo}
+            slug={params.slug}
+            ubicacion="cabecera"
+          />
+        )}
       </div>
 
       </div>
@@ -539,6 +549,14 @@ export default async function ActividadPage({ params }: Props) {
             >
               {actividad.proveedor === "bokun" ? (
                 <>
+                  {actividad.privada === true && (
+                    <PresupuestoWhatsApp
+                      idioma="es"
+                      titulo={actividad.titulo}
+                      slug={params.slug}
+                      ubicacion="reserva"
+                    />
+                  )}
                   <BokunWidget
                     idioma="es"
                     productId={actividad.bokunProductId ?? 0}

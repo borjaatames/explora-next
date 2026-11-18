@@ -40,6 +40,13 @@ faq:
     respuesta: "La organizza l'Ateneo il 5 gennaio. Nel 2026 è partita alle 16:15 dall'antica Fábrica de Tabacos, è passata per il centro (Campana, San Pablo, Reyes Católicos), ha attraversato il fiume fino a Triana ed è rientrata verso le 22:00, con 33 carri. La vigilia, il 4 gennaio, percorre la città l'Heraldo Real."
   - pregunta: "Dove comprare i dolci dei conventi a Siviglia?"
     respuesta: "Alle ruote dei conventi di clausura, come San Leandro, famoso per le sue yemas, e alla mostra-mercato dei dolci dei conventi che si tiene al Real Alcázar intorno al ponte dell'Immacolata (nel 2023, dal 5 all'8 dicembre, con 20 conventi). Le date del 2026 non sono ancora state pubblicate."
+opciones:
+  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
+    etiqueta: "Flamenco intimo"
+  - ficha: sevilla-tapas-tour-triana-cruzando-rio
+    etiqueta: "Tapas a Triana"
+  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
+    etiqueta: "Gita a Cordova"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

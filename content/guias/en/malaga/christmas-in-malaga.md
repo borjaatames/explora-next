@@ -40,6 +40,13 @@ faq:
     respuesta: "On Plaza de la Constitución, at the end of Calle Larios. In 2025 the city handed out bags with the twelve grapes and party favours from 21:30 to 23:45, while stocks lasted. On the 31st the centre's lights stay on until 6:00."
   - pregunta: "What time is the Three Kings Parade in Malaga?"
     respuesta: "On 5 January. In 2026 the Kings arrived at City Hall at 17:30 and the parade left from there at 18:00. Before that, on 2 January at 17:30, the Royal Herald sets off from the Alcazaba, and from 2 to 4 January the Royal Postman collects children's letters on Plaza de la Constitución."
+opciones:
+  - ficha: catamaran-malaga-atardecer
+    etiqueta: "Sunset at sea"
+  - ficha: hammam-al-andalus-malaga
+    etiqueta: "Arab baths afternoon"
+  - ficha: malaga-tour-vino-tapas
+    etiqueta: "Tapas and wine"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas
