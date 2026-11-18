@@ -38,6 +38,13 @@ faq:
     respuesta: "A prova de cerveja artesanal na Craft Barcelona, no Bairro Gótico, termina com música ao vivo e karaoke opcional para quem quiser ficar. Tem sessões às 20h30 e às 22h30 e custa 17 € por pessoa, com bebidas incluídas depois da prova."
   - pregunta: "Com quanta antecedência é preciso reservar?"
     respuesta: "Para um fim de semana de primavera ou verão, duas ou três semanas, sobretudo a boat party. Tenham em conta que a boat party, a prova de cerveja privada e a aula de salsa não são reembolsáveis: confirmem antes quem vai."
+opciones:
+  - ficha: fiesta-en-barco-barcelona-catamaran-dj
+    etiqueta: "Festa de barco"
+  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
+    etiqueta: "Com sangria"
+  - ficha: barcelona-sip-and-paint-sangria
+    etiqueta: "A mais barata"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

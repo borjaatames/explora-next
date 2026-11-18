@@ -24,6 +24,13 @@ slugs:
   fr: que-voir-a-tenerife
   it: cosa-vedere-a-tenerife
 reservasArriba: true
+opciones:
+  - ficha: tour-teide-masca-icod-garachico
+    etiqueta: "Toda a ilha"
+  - ficha: avistamiento-ballenas-delfines-yate-ecologico
+    etiqueta: "A mais bem avaliada"
+  - ficha: atardecer-estrellas-teide-telescopio
+    etiqueta: "Ao pôr do sol"
 actividades:
   - teide-teleferico-traslado
   - tour-teide-masca-icod-garachico

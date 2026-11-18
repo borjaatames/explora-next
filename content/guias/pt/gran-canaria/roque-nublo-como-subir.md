@@ -24,6 +24,13 @@ slugs:
   pt: roque-nublo-como-subir
 reservasArriba: true
 respuestaCorta: 'Entre as **9h00 e as 17h00 é preciso reservar turno** em reservasroquenublo.com, e o antigo parque de estacionamento de La Goleta está fechado: estacione em **Cruz de Los Llanos** ou em Tejeda e suba no autocarro-vaivém. A partir do início do trilho são cerca de **3 km ida e volta, 1-1,5 horas**. Sem carro, a excursão a partir de Las Palmas ao Roque Nublo, ao Pico de las Nieves e a Tejeda sai desde 48 €.'
+opciones:
+  - ficha: roque-nublo-pico-nieves-desde-las-palmas
+    etiqueta: "Com transporte"
+  - ficha: atardecer-estrellas-gran-canaria-telescopios
+    etiqueta: "Ao pôr do sol"
+  - ficha: buggy-barrancos-gran-canaria
+    etiqueta: "Aventura"
 actividades:
   - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios

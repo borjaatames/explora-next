@@ -26,6 +26,11 @@ slugs:
   pt: onde-comer-em-barcelona
 respuestaCorta: 'Eat where Barcelonans eat: **Sant Antoni, El Born, Gràcia and Poble Sec**, never on Las Ramblas. Order **tap vermouth** at midday on weekends, bombas, pa amb tomàquet and fideuà rather than paella or sangria, and book Bar Cañete, Cal Pep and Bar del Pla days ahead. Dinner starts at **8:30 PM**.'
 reservasArriba: true
+opciones:
+  - ficha: tour-gastronomico-mediodia-boqueria-vinos
+    etiqueta: "At lunchtime"
+  - ficha: tour-tapas-y-vino-noche
+    etiqueta: "At night"
 actividades:
   - tour-gastronomico-mediodia-boqueria-vinos
   - tour-tapas-y-vino-noche

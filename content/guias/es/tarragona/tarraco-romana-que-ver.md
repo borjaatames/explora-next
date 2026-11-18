@@ -26,6 +26,13 @@ slugs:
   it: tarraco-romana-cosa-vedere
   pt: tarraco-romana-o-que-ver
 reservasArriba: true
+opciones:
+  - ficha: tour-tarraco-romana-a-pie
+    etiqueta: "Con guía"
+  - ficha: catedral-tarragona-entrada-audioguia
+    etiqueta: "Catedral"
+  - ficha: tour-autoguiado-daremapp-tarragona
+    etiqueta: "La más barata"
 actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia

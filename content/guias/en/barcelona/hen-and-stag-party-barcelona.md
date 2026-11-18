@@ -38,6 +38,13 @@ faq:
     respuesta: "The craft beer tasting at Craft Barcelona, in the Gothic Quarter, ends with live music and optional karaoke for anyone who wants to stay. Sessions start at 8.30 pm and 10.30 pm and it costs €17 per person, with drinks included after the tasting."
   - pregunta: "How far ahead should we book?"
     respuesta: "Two or three weeks for a spring or summer weekend, especially the boat party. Note that the boat party, the private beer tasting and the salsa class are non-refundable, so confirm who is coming first."
+opciones:
+  - ficha: fiesta-en-barco-barcelona-catamaran-dj
+    etiqueta: "Boat party"
+  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
+    etiqueta: "With sangria"
+  - ficha: barcelona-sip-and-paint-sangria
+    etiqueta: "Cheapest"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

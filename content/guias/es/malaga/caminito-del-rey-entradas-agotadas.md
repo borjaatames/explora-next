@@ -26,6 +26,13 @@ slugs:
   pt: caminito-del-rey-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si la web oficial sale agotada, mira las **dos modalidades** (general, 10 €, y visita guiada oficial, 18 €) en todas las horas del día, y ten en cuenta que la **taquilla del acceso norte** vende según disponibilidad, sin garantía. Lo más seguro es una **entrada con guía de reventa** (desde 30 €) o el **tour con transporte desde Málaga** (desde 72 €), que ya incluyen la entrada.'
+opciones:
+  - ficha: caminito-del-rey-guiado-desde-malaga
+    etiqueta: "Con transporte"
+  - ficha: caminito-del-rey-entrada-guia-oficial
+    etiqueta: "La más barata"
+  - ficha: ronda-setenil-desde-malaga
+    etiqueta: "Plan B"
 actividades:
   - caminito-del-rey-entrada-guia-oficial
   - caminito-del-rey-guiado-desde-malaga

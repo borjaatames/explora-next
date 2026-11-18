@@ -27,6 +27,13 @@ slugs:
   fr: tarraco-romaine-que-voir
   it: tarraco-romana-cosa-vedere
   pt: tarraco-romana-o-que-ver
+opciones:
+  - ficha: tour-tarraco-romana-a-pie
+    etiqueta: "Mit Guide"
+  - ficha: catedral-tarragona-entrada-audioguia
+    etiqueta: "Kathedrale"
+  - ficha: tour-autoguiado-daremapp-tarragona
+    etiqueta: "Am günstigsten"
 actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia

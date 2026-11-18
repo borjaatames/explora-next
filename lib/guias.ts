@@ -6,7 +6,8 @@ import remarkGfm from "remark-gfm";
 import remarkHtml from "remark-html";
 
 import { IDIOMAS_ACTIVOS } from "./i18n/config";
-import { urlGuia } from "./i18n/utils";
+import { urlActividad, urlGuia } from "./i18n/utils";
+import { slugParejaActividad } from "./i18n/slugs";
 import type { Idioma } from "./i18n/types";
 import type { PreguntaFrecuente } from "./actividades";
 
@@ -197,6 +198,22 @@ export function obtenerListaGuias(idioma: Idioma): GuiaListItem[] {
   );
 }
 
+const RE_ENLACE_FICHA_EN = /href="\/en\/cities\/([a-z0-9-]+)\/activities\/([a-z0-9-]+)(["#?])/g;
+
+/**
+ * Las guías DE/FR/IT/PT enlazan en el texto a la ficha inglesa
+ * (`/en/cities/…`) aunque exista en el idioma de la guía. Al pintar la guía
+ * se cambia por la ficha del idioma del lector cuando existe y está
+ * publicada; si no, se deja la inglesa (estudio del 18-11-2026: 356 enlaces).
+ */
+function localizarEnlacesFichas(html: string, idioma: Idioma): string {
+  if (idioma === "en" || idioma === "es") return html;
+  return html.replace(RE_ENLACE_FICHA_EN, (completo, ciudad: string, slug: string, fin: string) => {
+    const local = slugParejaActividad("en", ciudad, slug, idioma);
+    return local ? `href="${urlActividad(idioma, ciudad, local)}${fin}` : completo;
+  });
+}
+
 /**
  * Devuelve una guía por idioma + categoría + slug, con HTML procesado.
  */
@@ -256,7 +273,7 @@ export async function obtenerGuia(
     idioma,
     tiempoLectura: calcularTiempoLectura(content),
     url: urlGuia(idioma, categoria, slug),
-    contenidoHtml: procesado.toString(),
+    contenidoHtml: localizarEnlacesFichas(procesado.toString(), idioma),
   };
 }
 

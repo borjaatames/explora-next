@@ -38,6 +38,13 @@ faq:
     respuesta: "La cata de cerveza artesana en Craft Barcelona, en el Barrio Gótico, termina con música en directo y karaoke opcional para quien quiera quedarse. Tiene pases a las 20:30 y a las 22:30 y cuesta 17 € por persona, con bebidas incluidas después de la cata."
   - pregunta: "¿Con cuánta antelación hay que reservar?"
     respuesta: "Para un fin de semana de primavera o verano, dos o tres semanas, sobre todo la boat party. Tened en cuenta que la boat party, la cata de cerveza privada y la clase de salsa no son reembolsables: confirmad antes quién va."
+opciones:
+  - ficha: fiesta-en-barco-barcelona-catamaran-dj
+    etiqueta: "Fiesta en barco"
+  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
+    etiqueta: "Con sangría"
+  - ficha: barcelona-sip-and-paint-sangria
+    etiqueta: "La más barata"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

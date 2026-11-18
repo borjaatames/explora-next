@@ -38,6 +38,13 @@ faq:
     respuesta: "The Casa Milà night experience, with a light show on the rooftop and a glass of cava (€39.50), or Casa Batlló by night with a concert and cava (€59). La Pedrera's rooftop may close in heavy rain; if so, they reschedule or refund."
   - pregunta: "Is there a photo shoot for couples?"
     respuesta: "Yes. The VIP private session lasts an hour around Barcelona's best-known spots, including the outside of the Sagrada Familia, and delivers 45 to 50 edited photos for €125 per session. Shorter options start at €35."
+opciones:
+  - ficha: navegacion-atardecer-barcelona-vela
+    etiqueta: "Sunset"
+  - ficha: barcelona-cata-de-vinos-azotea
+    etiqueta: "Top rated"
+  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
+    etiqueta: "Cheapest"
 actividades:
   - navegacion-atardecer-barcelona-vela
   - tapas-vino-y-flamenco-tour-privado-barcelona

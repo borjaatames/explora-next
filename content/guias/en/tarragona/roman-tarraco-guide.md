@@ -26,6 +26,13 @@ slugs:
   pt: tarraco-romana-o-que-ver
 reservasArriba: true
 respuestaCorta: 'Roman Tarraco is seen on foot in **half a day**: the amphitheatre by the sea, the circus and Praetorium Tower, the forum and the walls. The **€15 combined ticket** covers five sites (each costs €5 alone), and under-12s go free. **All municipal sites close on Mondays**, and the Les Ferreres aqueduct, 4 km out, is free.'
+opciones:
+  - ficha: tour-tarraco-romana-a-pie
+    etiqueta: "Guided"
+  - ficha: catedral-tarragona-entrada-audioguia
+    etiqueta: "Cathedral"
+  - ficha: tour-autoguiado-daremapp-tarragona
+    etiqueta: "Cheapest"
 actividades:
   - tour-tarraco-romana-a-pie
   - catedral-tarragona-entrada-audioguia

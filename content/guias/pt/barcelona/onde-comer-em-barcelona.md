@@ -27,6 +27,11 @@ slugs:
   it: dove-mangiare-a-barcellona
   pt: onde-comer-em-barcelona
 reservasArriba: true
+opciones:
+  - ficha: tour-gastronomico-mediodia-boqueria-vinos
+    etiqueta: "Ao almoço"
+  - ficha: tour-tapas-y-vino-noche
+    etiqueta: "À noite"
 actividades:
   - tour-gastronomico-mediodia-boqueria-vinos
   - tour-tapas-y-vino-noche

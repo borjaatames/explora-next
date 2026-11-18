@@ -316,6 +316,18 @@ export default async function GuiaPage({ params }: Props) {
     reservasArriba[0] ??
     fichasCiudad.get(slugsInline(trozos)[0] ?? "") ??
     actividadesRecomendadas[0];
+  const opcionMasBarata = opcionesGuia.reduce<OpcionGuia | undefined>(
+    (min, o) => (!min || o.actividad.precioDesde < min.actividad.precioDesde ? o : min),
+    undefined
+  );
+  const planesSticky =
+    opcionesGuia.length >= 2 && opcionMasBarata
+      ? {
+          numero: opcionesGuia.length,
+          precioMin: formatearPrecio(opcionMasBarata.actividad, lang),
+          idioma: lang,
+        }
+      : undefined;
 
   return (
     <main className="min-h-screen bg-white">
@@ -456,6 +468,7 @@ export default async function GuiaPage({ params }: Props) {
           rating={formatearRating(actividadSticky, lang)}
           textoDesde={t.stickyDesde}
           textoCta={t.stickyCta}
+          planes={planesSticky}
         />
       )}
       <TrackingReservasGuia

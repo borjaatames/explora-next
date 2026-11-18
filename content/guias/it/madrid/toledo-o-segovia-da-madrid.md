@@ -25,6 +25,13 @@ slugs:
   pt: toledo-ou-segovia-desde-madrid
 reservasArriba: true
 respuestaCorta: 'Se hai un solo giorno ed è il tuo primo viaggio, **scegli Toledo**: c''è più da vedere ed è un''intera città delle tre culture, con la Cattedrale ed El Greco. **Scegli Segovia** se vai d''estate, se hai voglia di una giornata più tranquilla e gastronomica, o se viaggi con bambini: acquedotto, Cattedrale e Alcázar si vedono in mezza giornata. Entrambe sono a **circa 30 minuti di treno** (Avant da Atocha o da Chamartín).'
+opciones:
+  - ficha: excursion-toledo-segovia-alcazar
+    etiqueta: "Entrambe in un giorno"
+  - ficha: excursion-toledo-dia-completo
+    etiqueta: "Solo Toledo"
+  - ficha: excursion-avila-segovia-con-entradas
+    etiqueta: "Ávila e Segovia"
 actividades:
   - excursion-toledo-dia-completo
   - excursion-avila-segovia-con-entradas

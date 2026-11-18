@@ -38,6 +38,13 @@ faq:
     respuesta: "La degustazione di birra artigianale da Craft Barcelona, nel Barrio Gótico, finisce con musica dal vivo e karaoke facoltativo per chi vuole restare. Ha turni alle 20:30 e alle 22:30 e costa 17 € a persona, con bevande incluse dopo la degustazione."
   - pregunta: "Con quanto anticipo bisogna prenotare?"
     respuesta: "Per un weekend di primavera o d'estate, due o tre settimane, soprattutto per la boat party. Tenete presente che la boat party, la degustazione di birra privata e la lezione di salsa non sono rimborsabili: confermate prima chi viene."
+opciones:
+  - ficha: fiesta-en-barco-barcelona-catamaran-dj
+    etiqueta: "Festa in barca"
+  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
+    etiqueta: "Con sangria"
+  - ficha: barcelona-sip-and-paint-sangria
+    etiqueta: "La più economica"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

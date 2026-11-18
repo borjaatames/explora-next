@@ -24,6 +24,13 @@ slugs:
   it: cosa-vedere-a-gran-canaria
   pt: o-que-ver-em-gran-canaria
 reservasArriba: true
+opciones:
+  - ficha: tour-gran-canaria-1-dia-desde-las-palmas
+    etiqueta: "Toute l'île"
+  - ficha: atardecer-estrellas-gran-canaria-telescopios
+    etiqueta: "Au coucher du soleil"
+  - ficha: catamaran-delfines-esnorquel-gran-canaria
+    etiqueta: "En bateau"
 actividades:
   - destileria-ron-arehucas-tour-cata
   - roque-nublo-pico-nieves-desde-las-palmas

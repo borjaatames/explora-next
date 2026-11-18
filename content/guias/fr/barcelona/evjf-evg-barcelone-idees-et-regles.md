@@ -38,6 +38,13 @@ faq:
     respuesta: "La dégustation de bière artisanale chez Craft Barcelona, dans le quartier gothique, se termine par de la musique live et un karaoké facultatif pour ceux qui veulent rester. Il y a des séances à 20 h 30 et à 22 h 30 et elle coûte 17 € par personne, avec boissons incluses après la dégustation."
   - pregunta: "Combien de temps à l'avance faut-il réserver ?"
     respuesta: "Pour un week-end de printemps ou d'été, deux ou trois semaines, surtout pour la boat party. Sachez que la boat party, la dégustation de bière privée et le cours de salsa ne sont pas remboursables : confirmez d'abord qui vient."
+opciones:
+  - ficha: fiesta-en-barco-barcelona-catamaran-dj
+    etiqueta: "Fête en bateau"
+  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
+    etiqueta: "Avec sangria"
+  - ficha: barcelona-sip-and-paint-sangria
+    etiqueta: "La moins chère"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

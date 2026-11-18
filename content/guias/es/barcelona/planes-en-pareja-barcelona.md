@@ -38,6 +38,13 @@ faq:
     respuesta: "La experiencia nocturna de la Casa Milà, con espectáculo de luz en la terraza y copa de cava (39,50 €), o la Casa Batlló de noche con concierto y cava (59 €). La terraza de la Pedrera puede cerrar con lluvia fuerte; en ese caso reprograman o devuelven el importe."
   - pregunta: "¿Hay alguna sesión de fotos para parejas?"
     respuesta: "Sí. La sesión privada VIP dura una hora por los rincones más conocidos de Barcelona, incluido el exterior de la Sagrada Familia, y entrega 45-50 fotos editadas por 125 € la sesión. Hay versiones más cortas desde 35 €."
+opciones:
+  - ficha: navegacion-atardecer-barcelona-vela
+    etiqueta: "Al atardecer"
+  - ficha: barcelona-cata-de-vinos-azotea
+    etiqueta: "La mejor valorada"
+  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
+    etiqueta: "La más barata"
 actividades:
   - navegacion-atardecer-barcelona-vela
   - tapas-vino-y-flamenco-tour-privado-barcelona

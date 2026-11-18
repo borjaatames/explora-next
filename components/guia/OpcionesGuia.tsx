@@ -78,7 +78,7 @@ export default function OpcionesGuia({ opciones, idioma }: Props) {
   const t = textos(idioma);
 
   return (
-    <section aria-label={t.aria} className="bg-piedra-50 border-b border-piedra-200">
+    <section id="opciones" aria-label={t.aria} className="bg-piedra-50 border-b border-piedra-200 scroll-mt-4">
       <div className="max-w-5xl mx-auto px-4 py-8 md:py-10">
         <div className="mb-5">
           <h2 className="font-fraunces text-xl md:text-2xl font-bold text-piedra-900">
