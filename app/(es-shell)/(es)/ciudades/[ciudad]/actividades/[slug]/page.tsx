@@ -52,6 +52,7 @@ import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
+import { obtenerAlternativasFicha } from "@/lib/alternativasReserva";
 import { tituloSeoGuia } from "@/lib/tituloSeo";
 
 const SITE_URL =
@@ -130,6 +131,7 @@ export default async function ActividadPage({ params }: Props) {
         (a) => a.slug === actividad.alternativa?.slug
       )
     : undefined;
+  const alternativasFicha = obtenerAlternativasFicha("es", params.ciudad, actividad, alternativa);
   const versionPrivada =
     actividad.privada === true
       ? undefined
@@ -428,11 +430,11 @@ export default async function ActividadPage({ params }: Props) {
           detalles={actividad.detallesPracticos}
         />
 
-        {actividad.alternativa && (
+        {alternativasFicha && (
           <AlternativaReserva
-            alternativa={alternativa}
-            motivo={actividad.alternativa.motivo}
-            idioma="es"
+            alternativas={alternativasFicha.alternativas}
+            motivo={alternativasFicha.motivo}
+            idioma={"es"}
           />
         )}
 

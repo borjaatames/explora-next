@@ -398,6 +398,7 @@ export function obtenerGuiasDeCiudad(
       keywords: fm.keywords || [],
       slugs: fm.slugs,
       actividades: fm.actividades || [],
+      opciones: leerOpciones(fm.opciones),
       idioma,
       tiempoLectura: calcularTiempoLectura(content),
       url: urlGuia(idioma, ciudad, slug),
