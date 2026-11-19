@@ -3,8 +3,9 @@
  * vez por sesión en la página de entrada y guardado en sessionStorage.
  *
  * Se añade al final de la campaña `cmp` de los enlaces y widgets de
- * GetYourGuide (p. ej. `ficha-es-caminito-del-rey-ia`), para que el panel de
- * GYG diga de qué canal viene cada reserva. No guarda datos personales: solo
+ * GetYourGuide (p. ej. `ficha-es-caminito-del-rey-ia-eg`), para que el panel
+ * de GYG diga de qué canal y de qué tipo de página de entrada viene cada
+ * reserva. No guarda datos personales: solo
  * una etiqueta corta, así que no depende del consentimiento de cookies.
  */
 
@@ -40,15 +41,46 @@ function calcular(): CanalVisita {
   return "ref";
 }
 
-/** Guarda el canal de la sesión si aún no está guardado (llamar al cargar). */
+/**
+ * Tipo de la página de entrada de la sesión, en una letra: g (guía),
+ * f (ficha), a (atracción), c (ciudad), h (home), o (otra). Sirve para saber
+ * en el panel de GYG si una reserva hecha en una ficha empezó en una guía.
+ */
+export type EntradaVisita = "g" | "f" | "a" | "c" | "h" | "o";
+
+const CLAVE_ENTRADA = "exploraspain_entrada";
+
+export function tipoEntrada(ruta: string): EntradaVisita {
+  if (/^\/(en|de|fr|it|pt)?\/?$/.test(ruta)) return "h";
+  if (/\/(actividades|activities)\/[^/]+\/?$/.test(ruta)) return "f";
+  if (/\/(guias|guides)\/[^/]+\/[^/]+\/?$/.test(ruta)) return "g";
+  if (/\/(atracciones|attractions)\/[^/]+\/?$/.test(ruta)) return "a";
+  if (/\/(ciudades|cities)\/[^/]+\/?$/.test(ruta)) return "c";
+  return "o";
+}
+
+/** Guarda canal y página de entrada de la sesión si aún no están (llamar al cargar). */
 export function registrarCanalVisita(): void {
   if (typeof window === "undefined") return;
   try {
     if (!window.sessionStorage.getItem(CLAVE)) {
       window.sessionStorage.setItem(CLAVE, calcular());
     }
+    if (!window.sessionStorage.getItem(CLAVE_ENTRADA)) {
+      window.sessionStorage.setItem(CLAVE_ENTRADA, tipoEntrada(window.location.pathname));
+    }
   } catch {
     // sessionStorage bloqueado: canalVisita() lo calcula al vuelo.
+  }
+}
+
+/** Tipo de la página de entrada; null si no se pudo guardar. */
+export function entradaVisita(): EntradaVisita | null {
+  if (typeof window === "undefined") return null;
+  try {
+    return window.sessionStorage.getItem(CLAVE_ENTRADA) as EntradaVisita | null;
+  } catch {
+    return null;
   }
 }
 
@@ -64,10 +96,15 @@ export function canalVisita(): CanalVisita {
   return calcular();
 }
 
-/** Añade el canal a una campaña `cmp` (sin duplicarlo). */
+/**
+ * Añade a una campaña `cmp` el canal y, si se conoce, la página de entrada
+ * (sin duplicarlos): `ficha-es-slug-google-eg` = llegó desde Google y entró
+ * por una guía. Sin entrada guardada queda como antes: `ficha-es-slug-google`.
+ */
 export function campanaConCanal(campana: string): string {
-  const canal = canalVisita();
-  return campana.endsWith(`-${canal}`) ? campana : `${campana}-${canal}`;
+  const entrada = entradaVisita();
+  const sufijo = entrada ? `-${canalVisita()}-e${entrada}` : `-${canalVisita()}`;
+  return campana.endsWith(sufijo) ? campana : `${campana}${sufijo}`;
 }
 
 /**
