@@ -1,6 +1,7 @@
 import Script from "next/script";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import AnaliticaVercel from "@/components/AnaliticaVercel";
+import MedicionReservas from "@/components/MedicionReservas";
 import Analytics from "@/components/Analytics";
 import Clarity from "@/components/Clarity";
 import WebVitals from "@/components/WebVitals";
@@ -92,6 +93,8 @@ export default function RootDocument({ lang, children }: Props) {
         {allowIndexing && <SpeedInsights />}
         {/* Visitas sin cookies (incluye a quien rechaza el banner). */}
         {allowIndexing && <AnaliticaVercel />}
+        {/* Clics de reserva sin cookies (evento «Reserva clic» de Vercel). */}
+        {allowIndexing && <MedicionReservas />}
         {/* Mapas de calor: solo con consentimiento y con NEXT_PUBLIC_CLARITY_ID. */}
         {allowIndexing && <Clarity projectId={process.env.NEXT_PUBLIC_CLARITY_ID} />}
       </body>
