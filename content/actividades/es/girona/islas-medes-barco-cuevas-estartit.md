@@ -2,7 +2,7 @@
 titulo: 'Islas Medes en barco: cuevas, Roca Foradada y baño desde L''Estartit'
 slug: islas-medes-barco-cuevas-estartit
 ciudad: girona
-descripcion: 'Paseo guiado de 1,5 horas desde L''Estartit por la reserva marina de las islas Medes: cuevas, Roca Foradada, ventanas submarinas y parada para nadar. A 45 minutos de Girona. 4,6/5 con 634 reseñas.'
+descripcion: 'Paseo guiado de 1,5 horas desde L''Estartit por la reserva marina de las islas Medes: cuevas, Roca Foradada, ventanas submarinas y parada para nadar. A 45 minutos de Girona. 4,4/5 con 101 reseñas.'
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
@@ -20,8 +20,9 @@ idiomas:
 - fr
 - ca
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/estartit-l91403/l-estartit-viaje-en-barco-a-las-islas-medas-y-las-cuevas-t714181/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/estartit-l91403/montgri-paseo-en-barco-turistico-por-la-costa-t399017/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - La reserva marina de las islas Medes, una de las más ricas del Mediterráneo
@@ -113,8 +114,8 @@ galeria:
   alt: Islotes de las Medes en el mar
 - src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
   alt: Las islas Medes desde el mirador de Josep Pla
-ratingProveedor: 4.6
-numeroOpiniones: 634
+ratingProveedor: 4.4
+numeroOpiniones: 101
 publicada: true
 indexar: false
 destacada: false

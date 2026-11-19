@@ -27,6 +27,10 @@ slugs:
   pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'If your time shows as sold out on **lapedrera.com**, check the other slots that day, the **Open Date** ticket (€45, no date or time, valid for 6 months), the **Sunrise** visit at 8:00 and the evening **Night Experience**. There is a box office, but some rates are **dearer than online**, so the safest options are a **resold timed ticket** (from €29) or a tour with entry included.'
+webOficial:
+  url: https://www.lapedrera.com/
+  precio: "La Pedrera Essential €29"
+  nota: "The Open Date ticket (€45) has no fixed day or time"
 actividades:
   - casa-mila-la-pedrera-entrada-audioguia
   - casa-mila-experiencia-nocturna-con-cava

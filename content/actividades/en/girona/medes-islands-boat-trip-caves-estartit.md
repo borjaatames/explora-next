@@ -2,7 +2,7 @@
 titulo: 'Medes Islands boat trip: sea caves, Roca Foradada and a swim from L''Estartit'
 slug: medes-islands-boat-trip-caves-estartit
 ciudad: girona
-descripcion: '1.5-hour guided boat trip from L''Estartit through the Medes Islands marine reserve: sea caves, Roca Foradada, underwater windows and a swim stop. 45 minutes from Girona. Rated 4.6/5 from 634 reviews.'
+descripcion: '1.5-hour guided boat trip from L''Estartit through the Medes Islands marine reserve: sea caves, Roca Foradada, underwater windows and a swim stop. 45 minutes from Girona. Rated 4.4/5 from 101 reviews.'
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
@@ -20,8 +20,9 @@ idiomas:
 - fr
 - ca
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/estartit-l91403/l-estartit-viaje-en-barco-a-las-islas-medas-y-las-cuevas-t714181/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/estartit-l91403/montgri-paseo-en-barco-turistico-por-la-costa-t399017/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - The Medes Islands marine reserve, one of the richest in the Mediterranean
@@ -113,8 +114,8 @@ galeria:
   alt: Islets of the Medes in the sea
 - src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
   alt: The Medes Islands from the Josep Pla viewpoint
-ratingProveedor: 4.6
-numeroOpiniones: 634
+ratingProveedor: 4.4
+numeroOpiniones: 101
 publicada: true
 indexar: false
 destacada: false

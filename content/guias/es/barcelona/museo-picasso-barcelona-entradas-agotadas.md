@@ -26,7 +26,10 @@ slugs:
   it: museo-picasso-barcellona-biglietti-esauriti
   pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'El Museu Picasso tiene aforo limitado y las plazas **gratuitas** vuelan, pero la entrada de pago rara vez se agota todo el día. Mira otras horas en la web oficial `museupicassobcn.cat` (**12 €** online, 13 € en taquilla) o prueba en la **taquilla de la calle Montcada**. Si no quieres arriesgarte, una **visita guiada sin colas** (desde 37 €) te asegura la entrada.'
+respuestaCorta: 'El Museu Picasso tiene aforo limitado y las plazas **gratuitas** vuelan, pero la entrada de pago rara vez se agota todo el día. Mira otras horas en la web oficial `museupicassobcn.cat` (**12 €** online, 13 € en taquilla) o prueba en la **taquilla de la calle Montcada**. Si no quieres arriesgarte, una [**visita guiada sin colas**](/ciudades/barcelona/actividades/museo-picasso-tour-guiado-sin-colas) (desde 37 €) te asegura la entrada.'
+webOficial:
+  url: https://www.museupicassobcn.cat/
+  precio: "Entrada general, 12 € online"
 actividades:
   - museo-picasso-tour-guiado-sin-colas
   - museo-picasso-tour-guiado-tours-for-today

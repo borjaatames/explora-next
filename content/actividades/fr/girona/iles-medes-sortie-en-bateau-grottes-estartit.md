@@ -2,7 +2,7 @@
 titulo: 'Îles Medes en bateau : grottes marines, Roca Foradada et baignade au départ de L''Estartit'
 slug: iles-medes-sortie-en-bateau-grottes-estartit
 ciudad: girona
-descripcion: 'Sortie guidée en bateau d''1 h 30 au départ de L''Estartit dans la réserve marine des îles Medes : grottes marines, Roca Foradada, hublots sous-marins et pause baignade. À 45 minutes de Gérone. Noté 4,6/5 sur 634 avis.'
+descripcion: 'Sortie guidée en bateau d''1 h 30 au départ de L''Estartit dans la réserve marine des îles Medes : grottes marines, Roca Foradada, hublots sous-marins et pause baignade. À 45 minutes de Gérone. Noté 4,4/5 sur 101 avis.'
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
@@ -20,8 +20,9 @@ idiomas:
 - fr
 - ca
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/estartit-l91403/l-estartit-viaje-en-barco-a-las-islas-medas-y-las-cuevas-t714181/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/estartit-l91403/montgri-paseo-en-barco-turistico-por-la-costa-t399017/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - La réserve marine des îles Medes, l'une des plus riches de Méditerranée
@@ -111,8 +112,8 @@ galeria:
   alt: Îlots des Medes en mer
 - src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
   alt: Les îles Medes depuis le point de vue Josep Pla
-ratingProveedor: 4.6
-numeroOpiniones: 634
+ratingProveedor: 4.4
+numeroOpiniones: 101
 publicada: true
 indexar: false
 destacada: false

@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-madrid
   pt: planos-a-dois-em-madrid
 reservasArriba: true
-respuestaCorta: 'Os três programas a dois que mais recomendamos em Madrid são o **flamenco em Las Carboneras**, um tablao pequeno na Madrid dos Áustrias com bebida incluída (45 € por pessoa), o **passeio privado pelas tabernas centenárias** com duas bebidas e duas tapas cada um (127 € por pessoa) e, para uma ocasião especial, o **voo de balão sobre Segóvia** com pequeno-almoço e cava (205 € por pessoa). Se procuram algo tranquilo e sem álcool, o **piquenique privado** com presunto, queijos e espumante 0,0 % custa 70 € por pessoa.'
+respuestaCorta: 'Os três programas a dois que mais recomendamos em Madrid são o [**flamenco em Las Carboneras**](/pt/cities/madrid/activities/tablao-las-carboneras-flamenco-madrid), um tablao pequeno na Madrid dos Áustrias com bebida incluída (45 € por pessoa), o [**passeio privado pelas tabernas centenárias**](/en/cities/madrid/activities/madrid-oldest-taverns-private-tour) com duas bebidas e duas tapas cada um (127 € por pessoa) e, para uma ocasião especial, o **voo de balão sobre Segóvia** com pequeno-almoço e cava (205 € por pessoa). Se procuram algo tranquilo e sem álcool, o **piquenique privado** com presunto, queijos e espumante 0,0 % custa 70 € por pessoa.'
 faq:
   - pregunta: "Qual é o programa mais romântico de Madrid?"
     respuesta: "Depende do casal. Para uma noite especial, flamenco num tablao pequeno como Las Carboneras (45 € por pessoa, com bebida) e jantar pela Madrid dos Áustrias. Para algo inesquecível, o voo de balão de uma hora sobre Segóvia, com pequeno-almoço e cava (205 € por pessoa)."

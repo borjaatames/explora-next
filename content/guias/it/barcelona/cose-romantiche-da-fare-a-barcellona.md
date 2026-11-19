@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-barcellona
   pt: o-que-fazer-em-barcelona-a-dois
 reservasArriba: true
-respuestaCorta: 'Le tre esperienze di coppia che consigliamo di più a Barcellona sono la **navigazione in barca a vela al tramonto** con open bar di cava, vino e birra (55 € a persona, 2 ore, massimo 12 a bordo), il **tour privato di tapas, vino e flamenco** tra Gotico e Born (114 € a persona in coppia) e il **flamenco al Palau Dalmases**, un palazzo barocco del XVII secolo (da 30 € a persona). Per una serata diversa, **Casa Batlló di sera con concerto in terrazza** e calice di cava costa 59 €.'
+respuestaCorta: 'Le tre esperienze di coppia che consigliamo di più a Barcellona sono la **navigazione in barca a vela al tramonto** con open bar di cava, vino e birra (55 € a persona, 2 ore, massimo 12 a bordo), il [**tour privato di tapas, vino e flamenco**](/it/cities/barcelona/activities/barcellona-tour-privato-tapas-vino-flamenco) tra Gotico e Born (114 € a persona in coppia) e il [**flamenco al Palau Dalmases**](/it/cities/barcelona/activities/palau-dalmases-flamenco-palazzo-barcellona), un palazzo barocco del XVII secolo (da 30 € a persona). Per una serata diversa, [**Casa Batlló di sera con concerto in terrazza**](/it/cities/barcelona/activities/casa-batllo-visita-notturna-musica-dal-vivo) e calice di cava costa 59 €.'
 faq:
   - pregunta: "Qual è l'esperienza più romantica di Barcellona?"
     respuesta: "Per la maggior parte delle coppie, uscire in barca a vela al tramonto dal Port Vell: due ore su un Beneteau Oceanis 41, con open bar di cava, vino e birra e stuzzichini, in un gruppo di massimo 12 persone, a 55 € a persona. Dopo, flamenco al Palau Dalmases, nel Born."

@@ -26,7 +26,7 @@ slugs:
   it: attivita-gruppi-aziende-madrid
   pt: atividades-para-grupos-e-empresas-madrid
 reservasArriba: true
-respuestaCorta: 'Para un grupo de 6 en Madrid, lo que mejor sale por cabeza es un **tour privado a pie por la Gran Vía** (300 € el grupo, 50 € por persona), los **tuk-tuks privados por el centro histórico** (79 € por tuk-tuk de hasta 4: 158 € para 8 personas y 237 € para 10) y, como excursión de día, **El Escorial y Cuelgamuros en privado** con recogida, guía oficial y entradas (1.920 € para 6, 320 € por persona). Para una cena de equipo, el **paseo privado por las tabernas centenarias** cuesta 127 € por persona con dos consumiciones y dos tapas.'
+respuestaCorta: 'Para un grupo de 6 en Madrid, lo que mejor sale por cabeza es un **tour privado a pie por la Gran Vía** (300 € el grupo, 50 € por persona), los [**tuk-tuks privados por el centro histórico**](/ciudades/madrid/actividades/tuk-tuk-centro-historico-gran-via-madrid) (79 € por tuk-tuk de hasta 4: 158 € para 8 personas y 237 € para 10) y, como excursión de día, **El Escorial y Cuelgamuros en privado** con recogida, guía oficial y entradas (1.920 € para 6, 320 € por persona). Para una cena de equipo, el [**paseo privado por las tabernas centenarias**](/ciudades/madrid/actividades/tour-privado-tabernas-centenarias-madrid) cuesta 127 € por persona con dos consumiciones y dos tapas.'
 faq:
   - pregunta: "¿Cuánto cuesta una actividad privada para un grupo de 6 en Madrid?"
     respuesta: "Depende del plan: 300 € en total (50 € por persona) el tour privado por la Gran Vía, 450 € (75 € por persona) el Madrid judío, 158 € dos tuk-tuks por el centro histórico y 1.920 € (320 € por persona) la excursión privada a El Escorial y Cuelgamuros con recogida, guía oficial y entradas."

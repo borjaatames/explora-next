@@ -29,6 +29,9 @@ slugs:
   pt: museu-do-prado-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il Prado non si esaurisce quasi mai del tutto: di solito si riempie **una fascia oraria** oppure la coda delle ore gratuite è enorme. Prova un altro orario su `entradas.museodelprado.es` (**15 €**) o compra alla **biglietteria della Porta di Goya**. Se non vuoi rischiare, un **biglietto a orario rivenduto** (da 18 €) o una **visita guidata con ingresso** ti garantiscono la visita.'
+webOficial:
+  url: https://www.museodelprado.es/
+  precio: "Ingresso generale 15 €"
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada

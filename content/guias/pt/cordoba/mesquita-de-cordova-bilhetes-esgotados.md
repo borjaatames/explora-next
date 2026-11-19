@@ -27,6 +27,9 @@ slugs:
   pt: mesquita-de-cordova-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'A Mesquita quase nunca esgota por completo: o que voa é a **torre campanário** (22 pessoas por turno), a **visita noturna** e alguns horários em fins de semana prolongados. Experimente outra hora em `tickets.mezquita-catedraldecordoba.es` (15 €), a **hora gratuita de segunda a sábado das 8h30 às 9h30** ou um **tour com entrada incluída**, desde 22 €.'
+webOficial:
+  url: https://www.mezquita-catedraldecordoba.es/
+  precio: "Entrada geral 15 €"
 actividades:
   - mezquita-catedral-entrada-audioguia
   - mezquita-catedral-tour-guiado-sin-colas

@@ -29,6 +29,9 @@ slugs:
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Das reguläre Ticket für das Kloster kostet **14 €** (plus 0,77 € Online-Gebühr) auf `tickets.patrimonionacional.es`, die **offizielle Führung 22 €**. **Montags ist geschlossen.** Wenn dein Zeitfenster ausverkauft ist, probier eine andere Uhrzeit oder die **Kasse**. Bürger der EU und Iberoamerikas haben **mittwochs und sonntags nachmittags freien Eintritt**, nur an der Kasse. Und ein **Ausflug ab Madrid mit inbegriffenem Ticket** erledigt alles für dich, ab 62 €.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "Normaler Eintritt 14 €"
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada

@@ -1,7 +1,7 @@
 ---
 titulo: "Escapadinhas pela Costa Blanca a partir de Alicante: Benidorm, Altea, Guadalest"
 descripcion: "As melhores escapadinhas a partir de Alicante: Benidorm, Altea, Calpe e o Peñón de Ifach, Guadalest, Jávea e Elche. Como chegar de TRAM ou de carro e o que ver em cada uma."
-respuestaCorta: 'As melhores escapadinhas a partir de Alicante são **Altea e Calpe** de TRAM (com transbordo em Benidorm), **Guadalest com as Fuentes del Algar** (uma hora de carro, ou excursão organizada desde 47 €), **o Palmeral de Elche** (20 minutos de comboio suburbano) e Benidorm. Faça uma por dia: Guadalest ou Jávea já ocupam o dia inteiro.'
+respuestaCorta: 'As melhores escapadinhas a partir de Alicante são **Altea e Calpe** de TRAM (com transbordo em Benidorm), [**Guadalest com as Fuentes del Algar**](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) (uma hora de carro, ou excursão organizada desde 47 €), **o Palmeral de Elche** (20 minutos de comboio suburbano) e Benidorm. Faça uma por dia: Guadalest ou Jávea já ocupam o dia inteiro.'
 categoria: "alicante"
 slug: "escapadinhas-costa-blanca-a-partir-de-alicante"
 fecha: "2026-05-18"

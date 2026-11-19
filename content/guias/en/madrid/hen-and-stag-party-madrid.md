@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
-respuestaCorta: "The three plans that work best for a hen or stag do in Madrid are the **private party tuk-tuk playing your own music** (€150 per tuk-tuk, 1 h 30 min), the **paella and sangria workshop** a few steps from Sol (€64 per person, 3 hours) and, for the night, a **pub crawl** through three bars and a club with a free shot at each stop (€19 per person, 5 hours). If there are more than eight of you, book two or three weeks ahead and check the dress code: sportswear will not get you into the night-time venues."
+respuestaCorta: "The three plans that work best for a hen or stag do in Madrid are the [**private party tuk-tuk playing your own music**](/en/cities/madrid/activities/madrid-private-party-tuk-tuk-tour-music) (€150 per tuk-tuk, 1 h 30 min), the **paella and sangria workshop** a few steps from Sol (€64 per person, 3 hours) and, for the night, a [**pub crawl**](/en/cities/madrid/activities/madrid-pub-crawl-bars-club-shots) through three bars and a club with a free shot at each stop (€19 per person, 5 hours). If there are more than eight of you, book two or three weeks ahead and check the dress code: sportswear will not get you into the night-time venues."
 faq:
   - pregunta: "How much does a hen or stag do in Madrid cost?"
     respuesta: "Using our activities, a full day comes to about €83 per person: the paella and sangria workshop (€64, lunch or dinner included) and the pub crawl at night (€19, with four shots and entry). Add the party tuk-tuk and it is €150 per vehicle, split between whoever rides in it."

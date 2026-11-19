@@ -26,7 +26,7 @@ slugs:
   it: maiorca-con-bambini
   pt: maiorca-com-criancas
 reservasArriba: true
-respuestaCorta: 'Dormi al **nord (Alcúdia)**, con spiagge dall''acqua bassa, e non cercare di vedere tutta l''isola. Gli imperdibili: il **treno di Sóller** (mezza giornata dal nord, da 56 €), le **Cuevas del Drach** con concerto in barca (54 €) e il **Palma Aquarium** per una giornata nuvolosa (30,50 €).'
+respuestaCorta: 'Dormi al **nord (Alcúdia)**, con spiagge dall''acqua bassa, e non cercare di vedere tutta l''isola. Gli imperdibili: il **treno di Sóller** (mezza giornata dal nord, da 56 €), le [**Cuevas del Drach**](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma) con concerto in barca (54 €) e il [**Palma Aquarium**](/it/cities/mallorca/activities/biglietto-palma-aquarium) per una giornata nuvolosa (30,50 €).'
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Treno di Sóller

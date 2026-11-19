@@ -2,7 +2,7 @@
 titulo: "Patios von Córdoba: das Patio-Fest im Mai und Patios das ganze Jahr"
 descripcion: "Patios von Córdoba: das Patio-Fest im Mai (gratis, 11–14 und 18–22 Uhr), die besten Viertel San Basilio und Santa Marina und der Palacio de Viana ab 8,50 €."
 metaTitle: "Patios Córdoba: Patio-Fest im Mai"
-respuestaCorta: 'Das **Patio-Fest (Fiesta de los Patios)** dauert zwei Wochen Anfang Mai (2026 vom 4. bis 17. Mai): Die Häuser öffnen ihre Innenhöfe **gratis**, von 11:00 bis 14:00 und von 18:00 bis 22:00 Uhr. Geh früh am Morgen oder am frühen Abend. Den Rest des Jahres hat der **Palacio de Viana** zwölf Patios (8,50 €), und eine **Führung durch fünf Patios in San Basilio** kostet ab 19 €.'
+respuestaCorta: 'Das **Patio-Fest (Fiesta de los Patios)** dauert zwei Wochen Anfang Mai (2026 vom 4. bis 17. Mai): Die Häuser öffnen ihre Innenhöfe **gratis**, von 11:00 bis 14:00 und von 18:00 bis 22:00 Uhr. Geh früh am Morgen oder am frühen Abend. Den Rest des Jahres hat der [**Palacio de Viana**](/de/cities/cordoba/activities/cordoba-palacio-de-viana-patios-ticket) zwölf Patios (8,50 €), und eine **Führung durch fünf Patios in San Basilio** kostet ab 19 €.'
 categoria: "cordoba"
 slug: "patios-von-cordoba"
 fecha: "2026-08-30"

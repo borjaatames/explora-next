@@ -27,6 +27,9 @@ slugs:
   pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O Museu Picasso tem lotação limitada e os lugares **gratuitos** voam, mas o bilhete pago raramente esgota o dia todo. Veja outras horas no site oficial `museupicassobcn.cat` (**12 €** online, 13 € na bilheteira) ou tente a **bilheteira da rua Montcada**. Se não quiser arriscar, uma **visita guiada sem filas** (desde 37 €) garante-lhe a entrada.'
+webOficial:
+  url: https://www.museupicassobcn.cat/
+  precio: "Entrada geral 12 € online"
 actividades:
   - museo-picasso-tour-guiado-sin-colas
   - museo-picasso-tour-guiado-tours-for-today

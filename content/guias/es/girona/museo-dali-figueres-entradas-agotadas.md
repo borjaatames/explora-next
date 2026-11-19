@@ -27,6 +27,9 @@ slugs:
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La entrada general cuesta **desde 18,50 €** en `tickets.salvador-dali.org`, y la disponibilidad depende del aforo del museo. Si tu día sale agotado, prueba otras franjas y otros días, o la **visita guiada con entrada incluida** (desde 31 €). Las entradas oficiales **no admiten cambios ni devoluciones** por causas ajenas al museo, así que no cuentes con cancelaciones.'
+webOficial:
+  url: https://www.salvador-dali.org/
+  precio: "Entrada general, desde 18,50 €"
 actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona

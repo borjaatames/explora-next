@@ -29,6 +29,9 @@ slugs:
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'General admission to the Monastery costs **€14** (plus a €0.77 online booking fee) on `tickets.patrimonionacional.es`, and the **official guided visit €22**. **It is closed on Mondays.** If your slot is sold out, try another time or the **ticket office**. EU and Latin American citizens get in **free on Wednesday and Sunday afternoons**, at the ticket office only. And a **day trip from Madrid with entry included** sorts it from €62.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "General admission €14"
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada

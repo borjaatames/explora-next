@@ -29,6 +29,10 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Se il sito ufficiale risulta esaurito, la **biglietteria della Puerta del Príncipe** continua a vendere biglietti (14 €) fino alle 18:00, anche se con posti limitati e senza garanzia. I biglietti ufficiali non ammettono cambi né rimborsi, quindi non aspettare cancellazioni: la soluzione più sicura è un **biglietto con orario di un rivenditore** (da 17,50 €) o una **visita guidata con ingresso incluso**.'
+webOficial:
+  url: https://www.catedraldesevilla.es/
+  precio: "Cattedrale e Giralda 13 € online"
+  nota: "In biglietteria 14 €"
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas

@@ -27,7 +27,7 @@ slugs:
   it: flamenco-madrid-quale-tablao-scegliere
   pt: flamenco-madrid-que-tablao-escolher
 reservasArriba: true
-respuestaCorta: 'Für ein intimes Tablao im Madrid de los Austrias: **Las Carboneras** (ab 45 €, mit Getränk, 4,7/5). Für weniger Geld, mehr Vorstellungen und die Möglichkeit, am selben Ort zu essen: **Torres Bermejas** (ab 31 €, an der Gran Vía). Beide sind Shows von **einer Stunde** und bis 24 Stunden vorher kostenlos stornierbar; nur Las Carboneras ist rollstuhlgerecht.'
+respuestaCorta: 'Für ein intimes Tablao im Madrid de los Austrias: [**Las Carboneras**](/de/cities/madrid/activities/flamenco-tablao-las-carboneras-madrid) (ab 45 €, mit Getränk, 4,7/5). Für weniger Geld, mehr Vorstellungen und die Möglichkeit, am selben Ort zu essen: [**Torres Bermejas**](/de/cities/madrid/activities/flamenco-show-torres-bermejas-madrid) (ab 31 €, an der Gran Vía). Beide sind Shows von **einer Stunde** und bis 24 Stunden vorher kostenlos stornierbar; nur Las Carboneras ist rollstuhlgerecht.'
 opciones:
   - ficha: flamenco-tablao-las-carboneras
     etiqueta: Am intimsten

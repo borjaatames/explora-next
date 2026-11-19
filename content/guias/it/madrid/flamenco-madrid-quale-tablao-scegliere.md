@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-11-11"
 reservasArriba: true
-respuestaCorta: 'Per un tablao intimo nel Madrid de los Austrias, **Las Carboneras** (da 45 €, con bevanda, 4,7/5). Per spendere meno, avere più spettacoli e la possibilità di cenare nello stesso posto, **Torres Bermejas** (da 31 €, vicino alla Gran Vía). Entrambi sono spettacoli di **un''ora** con cancellazione gratuita fino a 24 ore prima; solo Las Carboneras è accessibile in sedia a rotelle.'
+respuestaCorta: 'Per un tablao intimo nel Madrid de los Austrias, [**Las Carboneras**](/it/cities/madrid/activities/tablao-las-carboneras-flamenco-madrid) (da 45 €, con bevanda, 4,7/5). Per spendere meno, avere più spettacoli e la possibilità di cenare nello stesso posto, [**Torres Bermejas**](/it/cities/madrid/activities/torres-bermejas-flamenco-cena-madrid) (da 31 €, vicino alla Gran Vía). Entrambi sono spettacoli di **un''ora** con cancellazione gratuita fino a 24 ore prima; solo Las Carboneras è accessibile in sedia a rotelle.'
 opciones:
   - ficha: flamenco-tablao-las-carboneras
     etiqueta: Il più intimo

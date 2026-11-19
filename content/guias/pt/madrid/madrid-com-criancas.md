@@ -1,7 +1,7 @@
 ---
 titulo: "Madrid com crianças: guia honesto por idades (4 a 16 anos)"
 descripcion: "Madrid com crianças e adolescentes: jardim zoológico, parque de diversões, museus que cativam, programas ao ar livre e erros típicos. Guia honesto por idades."
-respuestaCorta: 'O programa familiar mais fiável de Madrid é o **Zoo Aquarium** da Casa de Campo (desde 20 € online); com crianças a partir dos 8 anos, o **Parque de Atracciones** ao lado (desde 24 €) costuma ser a melhor recordação. Junte os dinossauros do **Museo de Ciencias Naturales** (7 €) e os barcos do **Retiro**, e planeie uma só atividade grande por dia.'
+respuestaCorta: 'O programa familiar mais fiável de Madrid é o [**Zoo Aquarium**](/pt/cities/madrid/activities/zoo-aquarium-madrid-bilhete) da Casa de Campo (desde 20 € online); com crianças a partir dos 8 anos, o [**Parque de Atracciones**](/pt/cities/madrid/activities/parque-de-atracciones-madrid-bilhete) ao lado (desde 24 €) costuma ser a melhor recordação. Junte os dinossauros do **Museo de Ciencias Naturales** (7 €) e os barcos do **Retiro**, e planeie uma só atividade grande por dia.'
 categoria: "madrid"
 slug: "madrid-com-criancas"
 fecha: "2026-05-25"

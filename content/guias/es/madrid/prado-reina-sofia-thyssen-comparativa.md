@@ -1,7 +1,7 @@
 ---
 titulo: "Prado, Reina Sofía o Thyssen: a cuál ir si solo eliges uno"
 descripcion: "Comparativa honesta de los tres grandes museos de Madrid: Prado, Reina Sofía y Thyssen. Cuál elegir según tu perfil y cuál puedes saltar."
-respuestaCorta: 'Si solo tienes tiempo para uno, **ve al Prado** (15 €, 2-3 horas; entra a las 10:00). Si tienes para dos, **añade el Thyssen** (14 €) por su recorrido del gótico al Pop Art y sus impresionistas. Deja el **Reina Sofía** (12 €) para los aficionados al arte del siglo XX o para una visita corta al Guernica.'
+respuestaCorta: 'Si solo tienes tiempo para uno, **ve al Prado** (15 €, 2-3 horas; entra a las 10:00). Si tienes para dos, **añade el Thyssen** (14 €) por su recorrido del gótico al Pop Art y sus impresionistas. Deja el [**Reina Sofía**](/ciudades/madrid/actividades/reina-sofia-entrada) (12 €) para los aficionados al arte del siglo XX o para una visita corta al Guernica.'
 categoria: "madrid"
 slug: "prado-reina-sofia-thyssen-comparativa"
 fecha: "2026-04-18"

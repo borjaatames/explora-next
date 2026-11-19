@@ -2,7 +2,7 @@
 titulo: 'Qué ver en Toledo en un día: ruta desde Madrid'
 descripcion: 'Qué ver en Toledo en un día: la Catedral, Santo Tomé, la Judería y el Mirador del Valle. Ruta desde Madrid con el Avant (33 minutos) y qué evitar.'
 metaTitle: 'Qué ver en Toledo en un día desde Madrid'
-respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelta)** o conduce una hora por la A-42, y llega a las 10:00. Dedica la mañana a la **Catedral (12 €)**, Santo Tomé y Santa María la Blanca, la tarde a la Judería y cierra en el **Mirador del Valle**. La **pulsera turística de 14 €** cubre siete monumentos pequeños.'
+respuestaCorta: 'Coge el **Avant desde Atocha (33 minutos, 22-26 € ida y vuelta)** o conduce una hora por la A-42, y llega a las 10:00. Dedica la mañana a la **Catedral (12 €)**, Santo Tomé y Santa María la Blanca, la tarde a la Judería y cierra en el **Mirador del Valle**. La [**pulsera turística de 14 €**](/ciudades/madrid/actividades/toledo-pulsera-turistica-7-monumentos) cubre siete monumentos pequeños.'
 categoria: "madrid"
 slug: "escapadas-desde-madrid-toledo"
 fecha: "2026-09-23"

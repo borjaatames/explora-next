@@ -24,7 +24,7 @@ slugs:
   it: valencia-con-bambini
   pt: valencia-com-criancas
 reservasArriba: true
-respuestaCorta: 'Valencia es **llana, segura y con playa urbana**. Los dos imprescindibles son el **Oceanogràfic**, el mayor acuario de Europa (desde 37 €), y el **Bioparc** (29,50 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
+respuestaCorta: 'Valencia es **llana, segura y con playa urbana**. Los dos imprescindibles son el [**Oceanogràfic**](/ciudades/valencia/actividades/oceanografic-valencia-entrada), el mayor acuario de Europa (desde 37 €), y el [**Bioparc**](/ciudades/valencia/actividades/bioparc-valencia-entrada) (29,50 €); entre medias, bici por el **Jardín del Turia**, nueve kilómetros sin coches. El casco histórico, en dosis cortas. Mejor de marzo a junio.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

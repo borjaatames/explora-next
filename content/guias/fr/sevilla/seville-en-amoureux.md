@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-siviglia
   pt: o-que-fazer-em-sevilha-a-dois
 reservasArriba: true
-respuestaCorta: 'Les trois activités en couple les plus spéciales de Séville sont le **tour privé des toits au coucher du soleil**, qui se termine aux Setas avec un cocktail (192 € par personne, 384 € pour deux), la **balade privée en calèche avec guide** (298 € par calèche, 1 h 30) et un **spectacle de flamenco intimiste** comme celui de la Casa de la Memoria (24 € par personne). Avec un budget serré, le belvédère des Setas en autonomie (16 €) et une croisière sur le Guadalquivir avec boisson (25 €) offrent un coucher de soleil tout aussi beau pour bien moins cher.'
+respuestaCorta: 'Les trois activités en couple les plus spéciales de Séville sont le **tour privé des toits au coucher du soleil**, qui se termine aux Setas avec un cocktail (192 € par personne, 384 € pour deux), la **balade privée en calèche avec guide** (298 € par calèche, 1 h 30) et un [**spectacle de flamenco intimiste**](/fr/cities/sevilla/activities/seville-casa-de-la-memoria-spectacle-flamenco-intimiste) comme celui de la Casa de la Memoria (24 € par personne). Avec un budget serré, le belvédère des Setas en autonomie (16 €) et une croisière sur le Guadalquivir avec boisson (25 €) offrent un coucher de soleil tout aussi beau pour bien moins cher.'
 faq:
   - pregunta: "Quelle est l'activité la plus romantique de Séville ?"
     respuesta: "Pour la plupart des couples, admirer le coucher du soleil d'en haut : le tour privé de deux toits-terrasses se termine au belvédère des Setas avec un cocktail inclus (192 € par personne). L'alternative classique est la calèche privée, 298 € par calèche avec un rafraîchissement et un vin local à la fin."

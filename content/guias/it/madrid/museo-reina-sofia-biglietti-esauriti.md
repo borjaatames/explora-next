@@ -29,6 +29,9 @@ slugs:
   pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il biglietto intero costa **12 €** sul sito ufficiale (`entradas.museoreinasofia.es`) e si compra con orario; se la tua fascia risulta esaurita, prova un''altra ora dello stesso giorno o la **biglietteria**, che vende fino a 30 minuti prima della chiusura. Ciò che si esaurisce di più sono le **ore gratuite** (lunedì e da mercoledì a sabato dalle **19:00 alle 21:00**; domenica dalle **12:30 alle 14:30**), che richiedono anch''esse la prenotazione del biglietto. Se vuoi andare sul sicuro, una **visita guidata con ingresso incluso** costa da 29 €.'
+webOficial:
+  url: https://www.museoreinasofia.es/
+  precio: "Ingresso generale 12 €"
 actividades:
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours

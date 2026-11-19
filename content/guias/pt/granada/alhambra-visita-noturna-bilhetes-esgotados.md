@@ -30,6 +30,10 @@ slugs:
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'A **visita noturna aos Palácios Nasridas** custa **12,73 €** no site oficial (`tickets.alhambra-patronato.es`) e de 15 de outubro a 31 de março só há **sexta e sábado, das 20h00 às 21h30**; de 1 de abril a 14 de outubro, **de terça a sábado, das 22h00 às 23h30**. Se aparecer esgotada, veja a **Alhambra Experiencias** (22,27 €), o **Granada Card 24 h** (50 €), que tem quota própria, ou a **bilheteira noturna**, que abre uma hora antes. A opção mais provável é uma **visita guiada noturna com o bilhete incluído**, desde 54 €.'
+webOficial:
+  url: https://tickets.alhambra-patronato.es/
+  precio: "Palácios Nacéridas à noite 12,73 €"
+  nota: "No inverno, só às sextas e sábados"
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife

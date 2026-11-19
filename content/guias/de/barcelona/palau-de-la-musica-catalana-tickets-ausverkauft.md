@@ -29,6 +29,9 @@ slugs:
   pt: palau-de-la-musica-catalana-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Der Besuch auf eigene Faust kostet **20 €**, die **Führung 24 €** auf `palaumusica.cat`, täglich von **9:00 bis 15:30 Uhr**, und dauert etwa 50 Minuten. Wenn deine Uhrzeit ausverkauft ist, probier ein anderes Zeitfenster oder die **Kasse**, die **nur für denselben Tag** verkauft (1 € mehr pro Ticket). Kinder unter 10 Jahren haben freien Eintritt. Eine andere Möglichkeit, den Palau von innen zu sehen, ist ein **Konzert**: Das Ticket ist separat, aber du erlebst den Saal voll und mit Musik.'
+webOficial:
+  url: https://www.palaumusica.cat/
+  precio: "Freier Besuch 20 € (Führung 24 €)"
 actividades:
   - palau-musica-catalana-entrada
 faq:

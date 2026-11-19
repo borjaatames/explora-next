@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-siviglia
   pt: o-que-fazer-em-sevilha-a-dois
 reservasArriba: true
-respuestaCorta: 'Le tre esperienze di coppia più speciali di Siviglia sono il **tour privato delle terrazze al tramonto**, che si conclude alle Setas con un cocktail (192 € a persona, 384 € in due), il **giro privato in carrozza a cavalli con guida** (298 € a carrozza, 1 h 30 min) e uno **spettacolo di flamenco intimo** come quello della Casa de la Memoria (24 € a persona). Se il budget è ridotto, il belvedere delle Setas per conto vostro (16 €) e una crociera sul Guadalquivir con bevanda (25 €) regalano un tramonto altrettanto bello per molto meno.'
+respuestaCorta: 'Le tre esperienze di coppia più speciali di Siviglia sono il **tour privato delle terrazze al tramonto**, che si conclude alle Setas con un cocktail (192 € a persona, 384 € in due), il **giro privato in carrozza a cavalli con guida** (298 € a carrozza, 1 h 30 min) e uno [**spettacolo di flamenco intimo**](/it/cities/sevilla/activities/siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo) come quello della Casa de la Memoria (24 € a persona). Se il budget è ridotto, il belvedere delle Setas per conto vostro (16 €) e una crociera sul Guadalquivir con bevanda (25 €) regalano un tramonto altrettanto bello per molto meno.'
 faq:
   - pregunta: "Qual è l'esperienza più romantica di Siviglia?"
     respuesta: "Per la maggior parte delle coppie, guardare il tramonto dall'alto: il tour privato di due terrazze si conclude al belvedere delle Setas con un cocktail incluso (192 € a persona). L'alternativa classica è la carrozza a cavalli privata, 298 € a carrozza con bibita e un vino locale alla fine."

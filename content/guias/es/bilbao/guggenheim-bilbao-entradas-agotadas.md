@@ -27,6 +27,9 @@ slugs:
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'El Guggenheim rara vez se agota del todo: lo normal es que se llene **la hora que querías** o que haya cola en taquilla los fines de semana y los días de lluvia. Prueba otra hora en la web oficial `guggenheim-bilbao.eus` (**12 €**, audioguía incluida) o ve a primera hora. Si no quieres arriesgarte, una **visita guiada con entrada** (desde 49 €) te asegura el acceso.'
+webOficial:
+  url: https://www.guggenheim-bilbao.eus/
+  precio: "Entrada general, 12 €"
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido

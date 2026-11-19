@@ -27,7 +27,7 @@ slugs:
   it: sagrada-familia-quale-biglietto-scegliere
   pt: sagrada-familia-que-bilhete-escolher
 reservasArriba: true
-respuestaCorta: 'Für die Basilika allein ist das **Ticket mit Audioguide ab 34 €** die günstigste buchbare Option, und die **Führung mit Turm (ab 75 €)** ist die einzige, bei der du auf einen Turm kommst. Wenn du den Park Güell dazunehmen willst, ohne den ganzen Tag zu verlieren, deckt die **vierstündige Kombi-Führung (ab 104 €)** beides ab. Buch Wochen im Voraus: Der Einlass läuft über Zeitfenster, und **an der Kasse gibt es keine Tickets**.'
+respuestaCorta: 'Für die Basilika allein ist das [**Ticket mit Audioguide ab 34 €**](/de/cities/barcelona/activities/barcelona-sagrada-familia-ticket-audioguide) die günstigste buchbare Option, und die **Führung mit Turm (ab 75 €)[** ist die einzige, bei der du auf einen Turm kommst. Wenn du den Park Güell dazunehmen willst, ohne den ganzen Tag zu verlieren, deckt die **](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour)vierstündige Kombi-Führung (ab 104 €)** beides ab. Buch Wochen im Voraus: Der Einlass läuft über Zeitfenster, und **an der Kasse gibt es keine Tickets**.'
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre

@@ -27,6 +27,9 @@ slugs:
   pt: museu-picasso-barcelona-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il Museu Picasso ha una capienza limitata e i posti **gratuiti** vanno a ruba, ma il biglietto a pagamento raramente si esaurisce per tutta la giornata. Guarda altri orari sul sito ufficiale `museupicassobcn.cat` (**12 €** online, 13 € in biglietteria) o prova alla **biglietteria di calle Montcada**. Se non vuoi rischiare, una **visita guidata salta coda** (da 37 €) ti assicura l''ingresso.'
+webOficial:
+  url: https://www.museupicassobcn.cat/
+  precio: "Ingresso generale 12 € online"
 actividades:
   - museo-picasso-tour-guiado-sin-colas
   - museo-picasso-tour-guiado-tours-for-today

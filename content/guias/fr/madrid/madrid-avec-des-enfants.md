@@ -1,7 +1,7 @@
 ---
 titulo: "Madrid avec des enfants : guide honnête par âge (4 à 16 ans)"
 descripcion: "Madrid avec des enfants et des ados : zoo, parc d'attractions, musées qui captivent, activités en plein air et erreurs fréquentes. Guide honnête par âge."
-respuestaCorta: 'L''activité familiale la plus sûre à Madrid est le **Zoo Aquarium** de la Casa de Campo (à partir de 20 € en ligne) ; avec des enfants de 8 ans et plus, le **Parque de Atracciones** voisin (à partir de 24 €) reste souvent le meilleur souvenir. Ajoutez les dinosaures du **Museo de Ciencias Naturales** (7 €) et les barques du **Retiro**, et ne prévoyez qu''une seule grosse activité par jour.'
+respuestaCorta: 'L''activité familiale la plus sûre à Madrid est le [**Zoo Aquarium**](/fr/cities/madrid/activities/zoo-aquarium-madrid-billet) de la Casa de Campo (à partir de 20 € en ligne) ; avec des enfants de 8 ans et plus, le [**Parque de Atracciones**](/fr/cities/madrid/activities/parc-attractions-madrid-billet) voisin (à partir de 24 €) reste souvent le meilleur souvenir. Ajoutez les dinosaures du **Museo de Ciencias Naturales** (7 €) et les barques du **Retiro**, et ne prévoyez qu''une seule grosse activité par jour.'
 categoria: "madrid"
 slug: "madrid-avec-des-enfants"
 fecha: "2026-05-25"

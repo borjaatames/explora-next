@@ -27,6 +27,9 @@ slugs:
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das reguläre Ticket kostet **ab 18,50 €** auf `tickets.salvador-dali.org`, und die Verfügbarkeit hängt von der Kapazität des Museums ab. Wenn dein Tag ausverkauft ist, probier andere Zeitfenster und Tage oder die **Führung mit inkludiertem Ticket** (ab 31 €). Offizielle Tickets können aus Gründen, die nicht beim Museum liegen, **weder umgebucht noch erstattet werden** – rechne also nicht mit frei werdenden Stornierungen."
+webOficial:
+  url: https://www.salvador-dali.org/
+  precio: "Normaler Eintritt ab 18,50 €"
 actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona

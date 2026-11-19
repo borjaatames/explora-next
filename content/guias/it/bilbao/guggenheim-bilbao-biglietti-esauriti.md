@@ -27,6 +27,9 @@ slugs:
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il Guggenheim raramente si esaurisce del tutto: di solito si riempie **l''orario che volevi** o c''è coda in biglietteria nei fine settimana e nei giorni di pioggia. Prova un altro orario sul sito ufficiale `guggenheim-bilbao.eus` (**12 €**, audioguida inclusa) o vai a prima ora. Se non vuoi rischiare, una **visita guidata con biglietto** (da 49 €) ti assicura l''ingresso.'
+webOficial:
+  url: https://www.guggenheim-bilbao.eus/
+  precio: "Ingresso generale 12 €"
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido

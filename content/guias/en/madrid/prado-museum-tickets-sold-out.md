@@ -29,6 +29,9 @@ slugs:
   pt: museu-do-prado-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'The Prado almost never sells out completely: what usually happens is that **one time slot** fills up or the free-hours queue is huge. Try another time on `entradas.museodelprado.es` (**€15**) or buy at the **box office by the Goya Gate**. If you don''t want to risk it, a **resold timed ticket** (from €18) or a **guided tour with entry** guarantees your visit.'
+webOficial:
+  url: https://www.museodelprado.es/
+  precio: "General admission €15"
 actividades:
   - museo-prado-entrada
   - museo-prado-visita-guiada

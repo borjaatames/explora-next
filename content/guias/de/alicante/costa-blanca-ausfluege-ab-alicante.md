@@ -2,7 +2,7 @@
 titulo: "Ausflüge ab Alicante an der Costa Blanca: Benidorm, Altea, Guadalest"
 descripcion: "Ausflüge ab Alicante an die Costa Blanca: Altea, Calpe, Guadalest, Elche, Jávea und Benidorm. Mit der TRAM in 1 Std. 10 Min. nach Benidorm, Touren ab 47 €."
 metaTitle: "Ausflüge ab Alicante: Costa Blanca Tipps"
-respuestaCorta: 'Die besten Ausflüge ab Alicante sind **Altea und Calpe** mit der TRAM (Umstieg in Benidorm), **Guadalest mit den Fuentes del Algar** (eine Autostunde oder organisierte Tour ab 47 €), **der Palmenhain von Elche** (20 Minuten mit der Nahverkehrsbahn) und Benidorm. Plane einen Ausflug pro Tag: Guadalest oder Jávea füllen bereits einen ganzen Tag.'
+respuestaCorta: 'Die besten Ausflüge ab Alicante sind **Altea und Calpe** mit der TRAM (Umstieg in Benidorm), [**Guadalest mit den Fuentes del Algar**](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) (eine Autostunde oder organisierte Tour ab 47 €), **der Palmenhain von Elche** (20 Minuten mit der Nahverkehrsbahn) und Benidorm. Plane einen Ausflug pro Tag: Guadalest oder Jávea füllen bereits einen ganzen Tag.'
 categoria: "alicante"
 slug: "costa-blanca-ausfluege-ab-alicante"
 fecha: "2026-05-18"

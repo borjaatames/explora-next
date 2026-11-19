@@ -27,7 +27,7 @@ slugs:
   it: montserrat-quale-escursione-scegliere
   pt: montserrat-que-excursao-escolher
 reservasArriba: true
-respuestaCorta: 'Mit einem halben Tag kommt die **kleine Gruppe ab 59 €** vor den Massen am Kloster an. Für den ganzen Tag ist **CastlExperience ab 47 €** (6-10 Stunden, mit Weingut) die günstigste Option, und das **Landgut im Bages (ab 109 €)** bringt ein Mittagessen mit Weinbegleitung dazu. Auf eigene Faust kostet das Kombiticket **Trans Montserrat** für Zug und Zahnradbahn ab 50 €.'
+respuestaCorta: 'Mit einem halben Tag kommt die **kleine Gruppe ab 59 €** vor den Massen am Kloster an. Für den ganzen Tag ist [**CastlExperience ab 47 €**](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience) (6-10 Stunden, mit Weingut) die günstigste Option, und das **Landgut im Bages (ab 109 €)** bringt ein Mittagessen mit Weinbegleitung dazu. Auf eigene Faust kostet das Kombiticket **Trans Montserrat** für Zug und Zahnradbahn ab 50 €.'
 actividades:
   - montserrat-medio-dia-grupo-pequeno
   - montserrat-cremallera-bodega-castlexperience

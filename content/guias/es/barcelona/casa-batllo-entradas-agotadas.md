@@ -27,6 +27,10 @@ slugs:
   pt: casa-batllo-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si tu hora sale agotada en **casabatllo.es**, mira las demás franjas del día, la visita **Be the First** de las 8:30 y la **visita nocturna** (de 20:30 a 21:30, hasta el 15 de noviembre). La taquilla solo vende la visita general y cuesta **entre 4 y 15 € más que la web**, así que lo más seguro es una **entrada de reventa con hora** (desde 29 €) o un tour que incluya la entrada.'
+webOficial:
+  url: https://www.casabatllo.es/
+  precio: "Visita general, desde 29 €"
+  nota: "En taquilla cuesta entre 4 y 15 € más"
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida

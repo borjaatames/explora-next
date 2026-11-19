@@ -2,7 +2,7 @@
 titulo: 'Qué ver en Toledo: 15 imprescindibles con precio y horario'
 descripcion: 'Qué ver en Toledo: la Catedral (12 €), Santo Tomé, la Judería, San Juan de los Reyes y el Mirador del Valle. 15 sitios con precio, horario y tiempo de visita.'
 metaTitle: 'Qué ver en Toledo: 15 sitios con precios'
-respuestaCorta: 'Lo esencial de Toledo es la **Catedral Primada (12 €)**, **Santo Tomé** con *El entierro del señor de Orgaz*, la **Judería** (Sinagoga del Tránsito, Santa María la Blanca y San Juan de los Reyes) y el **Mirador del Valle** al atardecer. Si vas a entrar en tres o más monumentos pequeños, la **pulsera turística de 14 €** cubre siete. En un día se ven bien seis u ocho sitios; con dos, toda esta lista.'
+respuestaCorta: 'Lo esencial de Toledo es la **Catedral Primada (12 €)**, **Santo Tomé** con *El entierro del señor de Orgaz*, la **Judería** (Sinagoga del Tránsito, Santa María la Blanca y San Juan de los Reyes) y el **Mirador del Valle** al atardecer. Si vas a entrar en tres o más monumentos pequeños, la [**pulsera turística de 14 €**](/ciudades/madrid/actividades/toledo-pulsera-turistica-7-monumentos) cubre siete. En un día se ven bien seis u ocho sitios; con dos, toda esta lista.'
 categoria: madrid
 slug: que-ver-en-toledo
 fecha: "2026-05-27"

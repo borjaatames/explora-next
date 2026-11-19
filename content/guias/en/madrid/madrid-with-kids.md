@@ -25,7 +25,7 @@ slugs:
   it: madrid-con-bambini
   pt: madrid-com-criancas
 reservasArriba: true
-respuestaCorta: 'The most reliable family day in Madrid is the **Zoo Aquarium** in Casa de Campo (from €20 online); with kids over 8, the **Parque de Atracciones** next door (from €24) is usually the highlight. Add the dinosaurs at the **Natural Sciences Museum** (€7) and boats in **Retiro**, and plan one big activity a day.'
+respuestaCorta: 'The most reliable family day in Madrid is the [**Zoo Aquarium**](/en/cities/madrid/activities/zoo-aquarium-madrid-ticket) in Casa de Campo (from €20 online); with kids over 8, the [**Parque de Atracciones**](/en/cities/madrid/activities/parque-atracciones-madrid-ticket) next door (from €24) is usually the highlight. Add the dinosaurs at the **Natural Sciences Museum** (€7) and boats in **Retiro**, and plan one big activity a day.'
 opciones:
   - ficha: zoo-aquarium-madrid-entrada
     etiqueta: Zoo Aquarium

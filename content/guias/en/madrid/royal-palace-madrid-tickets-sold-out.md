@@ -28,6 +28,9 @@ slugs:
   pt: palacio-real-madrid-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'General admission costs **€18** on `tickets.patrimonionacional.es`. If your slot is sold out, try another time, the **official guided visit (€26)** or the **ticket office**, which sells until an hour before closing. EU and Latin American citizens get in **free Monday to Thursday in the last two hours**, at the ticket office only. A **tour with entry included** secures your visit from €36.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "General admission €18"
 actividades:
   - palacio-real-visita-guiada-golden-tour
   - palacio-real-tour-premium-skip-line

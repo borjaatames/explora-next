@@ -29,6 +29,10 @@ slugs:
   pt: tour-bernabeu-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Le **Tour Bernabéu Classic** coûte **37 € en ligne** et **40 € au guichet** sur le site officiel du Real Madrid (`realmadrid.com`), avec un horaire fixe, sans échange ni remboursement. Si votre créneau est complet, regardez l''**Hora Flexible** (44 €), valable à n''importe quelle heure du jour choisi, ou le **Tour Guiado** (56 €), qui a ses propres places. Avant tout, vérifiez s''il y a un **match** : ce jour-là, la visite ferme 5 heures et demie avant le coup d''envoi et on ne voit ni les vestiaires ni les bancs.'
+webOficial:
+  url: https://www.realmadrid.com/
+  precio: "Tour Bernabéu Classic 37 € en ligne"
+  nota: "Au guichet, 40 €"
 actividades:
   - bernabeu-ticket-acceso
   - bernabeu-visita-guiada

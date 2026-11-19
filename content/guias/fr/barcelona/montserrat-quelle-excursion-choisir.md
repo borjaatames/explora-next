@@ -2,7 +2,7 @@
 titulo: 'Excursion à Montserrat depuis Barcelone : laquelle choisir (comparatif)'
 descripcion: 'Excursion à Montserrat depuis Barcelone : 5 options comparées, de la demi-journée en petit groupe (dès 59 €) à la journée avec déjeuner (dès 109 €).'
 metaTitle: 'Excursion Montserrat depuis Barcelone'
-respuestaCorta: 'Avec une demi-journée, le **petit groupe à partir de 59 €** arrive au monastère avant la foule. Pour la journée complète, **CastlExperience à partir de 47 €** (6-10 heures, avec cave) est l''option la moins chère, et la **masia du Bages (à partir de 109 €)** ajoute un déjeuner avec accord mets-vins. Par vos propres moyens, le billet **Trans Montserrat** train et crémaillère coûte à partir de 50 €.'
+respuestaCorta: 'Avec une demi-journée, le **petit groupe à partir de 59 €** arrive au monastère avant la foule. Pour la journée complète, **CastlExperience à partir de 47 €** (6-10 heures, avec cave) est l''option la moins chère, et la [**masia du Bages (à partir de 109 €)**](/en/cities/barcelona/activities/montserrat-bages-farmhouse-lunch-and-wine) ajoute un déjeuner avec accord mets-vins. Par vos propres moyens, le billet **Trans Montserrat** train et crémaillère coûte à partir de 50 €.'
 categoria: "barcelona"
 slug: "montserrat-quelle-excursion-choisir"
 fecha: "2026-04-26"

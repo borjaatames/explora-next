@@ -27,6 +27,9 @@ slugs:
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'The Guggenheim rarely sells out completely: what usually happens is that **the time you wanted** fills up or there''s a box office queue at weekends and on rainy days. Try another time on the official site `guggenheim-bilbao.eus` (**€12**, audio guide included) or go at opening time. If you don''t want to risk it, a **guided tour with entry** (from €49, in Spanish) or a **VIP small-group tour** (from €95) guarantees your visit.'
+webOficial:
+  url: https://www.guggenheim-bilbao.eus/
+  precio: "General admission €12"
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido

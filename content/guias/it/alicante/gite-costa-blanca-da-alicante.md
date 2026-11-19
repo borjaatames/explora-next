@@ -1,7 +1,7 @@
 ---
 titulo: "Gite sulla Costa Blanca da Alicante: Benidorm, Altea, Guadalest"
 descripcion: "Le migliori gite da Alicante: Benidorm, Altea, Calpe e il Peñón de Ifach, Guadalest, Jávea ed Elche. Come arrivarci in TRAM o in auto e cosa vedere in ognuna."
-respuestaCorta: 'Le migliori gite da Alicante sono **Altea e Calpe** in TRAM (con cambio a Benidorm), **Guadalest con le Fuentes del Algar** (un''ora di auto, o escursione organizzata da 47 €), **il Palmeral di Elche** (20 minuti in treno locale Cercanías) e Benidorm. Fanne una al giorno: Guadalest o Jávea occupano già la giornata intera.'
+respuestaCorta: 'Le migliori gite da Alicante sono **Altea e Calpe** in TRAM (con cambio a Benidorm), [**Guadalest con le Fuentes del Algar**](/en/cities/alicante/activities/guadalest-altea-algar-day-trip-from-alicante) (un''ora di auto, o escursione organizzata da 47 €), **il Palmeral di Elche** (20 minuti in treno locale Cercanías) e Benidorm. Fanne una al giorno: Guadalest o Jávea occupano già la giornata intera.'
 categoria: "alicante"
 slug: "gite-costa-blanca-da-alicante"
 fecha: "2026-05-18"

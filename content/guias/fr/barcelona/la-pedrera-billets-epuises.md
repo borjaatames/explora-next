@@ -27,6 +27,10 @@ slugs:
   pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si votre horaire est complet sur **lapedrera.com**, regardez les autres créneaux de la journée, le billet **Open Date** (45 €, sans date ni heure et valable 6 mois), la visite **Sunrise** de 8 h et la **Night Experience** du soir. Le guichet existe, mais certains tarifs y sont **plus chers qu''en ligne**, donc le plus sûr est un **billet de revente avec horaire** (à partir de 29 €) ou une visite qui inclut l''entrée.'
+webOficial:
+  url: https://www.lapedrera.com/
+  precio: "La Pedrera Essentielle 29 €"
+  nota: "Le billet Open Date (45 €) n'impose ni jour ni heure"
 actividades:
   - casa-mila-la-pedrera-entrada-audioguia
   - casa-mila-experiencia-nocturna-con-cava

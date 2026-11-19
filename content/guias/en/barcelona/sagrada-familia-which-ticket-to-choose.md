@@ -26,7 +26,7 @@ slugs:
   pt: sagrada-familia-que-bilhete-escolher
 fecha_actualizacion: "2026-10-14"
 reservasArriba: true
-respuestaCorta: 'For the basilica alone, the **audio-guide ticket from €34** is the cheapest bookable option; the **guided tour with tower access (€75)** is the only one that goes up a tower. To add Park Güell without losing the whole day, the **4-hour guided combo (€104)** covers both. Book weeks ahead: entry is by timed slot and **only sold online**.'
+respuestaCorta: 'For the basilica alone, the [**audio-guide ticket from €34**](/en/cities/barcelona/activities/sagrada-familia-ticket-audio-guide) is the cheapest bookable option; the **guided tour with tower access (€75)[** is the only one that goes up a tower. To add Park Güell without losing the whole day, the **](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour)4-hour guided combo (€104)** covers both. Book weeks ahead: entry is by timed slot and **only sold online**.'
 actividades:
   - entrada-sagrada-familia-audioguia
   - sagrada-familia-tour-con-torre

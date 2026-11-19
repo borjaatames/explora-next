@@ -29,6 +29,9 @@ slugs:
   pt: museu-picasso-malaga-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La entrada al Museo Picasso Málaga cuesta **13 €** (reducida, 11 €) en la web oficial (`tickets.museopicassomalaga.org`) e incluye la audioguía en el móvil. Si sale agotada, el propio museo dice que en momentos de poca afluencia se puede comprar en **taquilla**. Los **domingos es gratis las dos últimas horas** (de noviembre a febrero, de **16:00 a 18:00**), y si quieres ir sin riesgo, la **ruta privada de Picasso** incluye la entrada al museo y a la Casa Natal.'
+webOficial:
+  url: https://www.museopicassomalaga.org/
+  precio: "Entrada general, 13 €"
 actividades:
   - museo-picasso-malaga-entrada
   - ruta-picasso-malaga-visita-privada

@@ -29,6 +29,10 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, verkauft die **Kasse an der Puerta del Príncipe** weiterhin Tickets (14 €) bis 18:00 Uhr, allerdings mit begrenzter Kapazität und ohne Garantie. Die offiziellen Tickets sind weder umbuchbar noch erstattbar, warte also nicht auf Stornierungen: Am sichersten ist ein **Ticket mit Uhrzeit über Wiederverkäufer** (ab 17,50 €) oder eine **Führung mit inbegriffenem Ticket**."
+webOficial:
+  url: https://www.catedraldesevilla.es/
+  precio: "Kathedrale und Giralda 13 € online"
+  nota: "An der Kasse 14 €"
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas

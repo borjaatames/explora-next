@@ -29,6 +29,9 @@ slugs:
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'L''entrée générale au monastère coûte **14 €** (plus 0,77 € de frais de gestion en ligne) sur `tickets.patrimonionacional.es`, et la **visite guidée officielle 22 €**. **Fermé le lundi.** Si votre créneau est complet, essayez une autre heure ou le **guichet**. Les citoyens de l''UE et d''Amérique latine entrent **gratuitement le mercredi et le dimanche après-midi**, uniquement au guichet. Et une **excursion depuis Madrid avec billet inclus** règle la question à partir de 62 €.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "Entrée générale 14 €"
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada

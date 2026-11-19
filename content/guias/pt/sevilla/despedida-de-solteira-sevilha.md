@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-siviglia
   pt: despedida-de-solteira-sevilha
 reservasArriba: true
-respuestaCorta: 'Para uma despedida em Sevilha, as três opções que melhor funcionam são o **tour privado de flamenco e tapas em Triana** (720 € para 6, cerca de 120 € por pessoa, com espetáculo, tapas e 4 bebidas cada um), o **tuk-tuk elétrico privado** (99 € até 4 pessoas, 1 hora) e um **espetáculo de flamenco** desde 24 € por pessoa. Desde 2024, a Polícia Local pode multar até 750 € quem ande na rua em roupa interior ou com adereços em forma de genitais.'
+respuestaCorta: 'Para uma despedida em Sevilha, as três opções que melhor funcionam são o **tour privado de flamenco e tapas em Triana** (720 € para 6, cerca de 120 € por pessoa, com espetáculo, tapas e 4 bebidas cada um), o **tuk-tuk elétrico privado** (99 € até 4 pessoas, 1 hora) e um [**espetáculo de flamenco**](/pt/cities/sevilla/activities/casa-de-la-memoria-espetaculo-flamenco-intimo-sevilha) desde 24 € por pessoa. Desde 2024, a Polícia Local pode multar até 750 € quem ande na rua em roupa interior ou com adereços em forma de genitais.'
 faq:
   - pregunta: "As despedidas são multadas em Sevilha?"
     respuesta: "Não as despedidas em si, mas certos comportamentos. A postura municipal de convivência de Sevilha, alterada no início de 2024, permite multar até 750 € quem esteja na rua nu ou em roupa interior, com roupa ou adereços que representem genitais ou com bonecos ou objetos de temática sexual."

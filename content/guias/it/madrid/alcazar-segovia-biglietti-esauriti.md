@@ -29,6 +29,9 @@ slugs:
   pt: alcazar-segovia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il biglietto per il Palazzo e il Museo costa **7 €**, e **10 €** se aggiungi la **Torre de Juan II**, su `entradas.alcazardesegovia.com`. I primi a esaurirsi sono i biglietti con la Torre nei fine settimana e nei ponti. Se ti succede, compra solo Palazzo + Museo o vai in **biglietteria**. I cittadini UE entrano **gratis il martedì dalle 14:00 alle 16:00** (senza Torre e solo in biglietteria). E un''**escursione da Madrid con ingresso incluso** ti garantisce la visita da 41 €.'
+webOficial:
+  url: https://www.alcazardesegovia.com/
+  precio: "Palazzo e Museo 7 € (con la Torre 10 €)"
 actividades:
   - excursion-toledo-segovia-alcazar
   - excursion-avila-segovia-con-entradas

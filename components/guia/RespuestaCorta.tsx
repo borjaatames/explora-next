@@ -65,6 +65,9 @@ function formatear(texto: string): ReactNode[] {
           <Link
             key={i}
             href={enlace[2]}
+            {...(/\/(actividades|activities)\//.test(enlace[2])
+              ? { "data-reserva": "respuesta", "data-ficha": enlace[2].split("/").filter(Boolean).pop() }
+              : {})}
             className="font-semibold text-anil-700 underline decoration-anil-300 underline-offset-2 hover:text-anil-900 hover:decoration-anil-700 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2 rounded-sm"
           >
             {etiqueta}

@@ -29,6 +29,9 @@ slugs:
   pt: tour-camp-nou-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O **Barça Immersive Tour** (museu, miradouro das obras e sala 360º) custa **desde 28 €** em `fcbarcelona.com`. Por causa das obras, **não inclui relvado, balneários nem sala de imprensa**. Para ver o estádio por dentro há o **Spotify Camp Nou Experience** (desde 69 €), com guia e acesso à primeira bancada, e o **Match Day Tour** (desde 149 €), só em dias de jogo e com passeio pelo relvado. Se a sua hora esgotar, o museu tem um **bilhete flexível** sem hora marcada.'
+webOficial:
+  url: https://www.fcbarcelona.com/
+  precio: "Barça Immersive Tour desde 28 €"
 actividades:
   - camp-nou-museo-fc-barcelona-tour-inmersivo
   - camp-nou-museo-fc-barcelona-pase-total-experience

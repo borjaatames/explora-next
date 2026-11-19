@@ -30,6 +30,10 @@ slugs:
   pt: alhambra-visita-noturna-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'The **Nasrid Palaces night visit** costs **€12.73** on the official site (`tickets.alhambra-patronato.es`). From 15 October to 31 March it only runs on **Fridays and Saturdays, 8pm-9:30pm**; from 1 April to 14 October, **Tuesday to Saturday, 10pm-11:30pm**. If it is sold out, try the **Alhambra Experiences** ticket (€22.27), the **Granada Card 24h** (€50), which has its own allocation, or the **night box office**, which opens an hour before. The likeliest option is a **guided night tour with entry included**, from €54.'
+webOficial:
+  url: https://tickets.alhambra-patronato.es/
+  precio: "Nasrid Palaces at night €12.73"
+  nota: "In winter, Fridays and Saturdays only"
 actividades:
   - alhambra-visita-nocturna
   - entrada-jardines-alhambra-generalife

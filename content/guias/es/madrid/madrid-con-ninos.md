@@ -1,7 +1,7 @@
 ---
 titulo: "Madrid con niños: guía honesta por edades (4 a 16 años)"
 descripcion: "Madrid con niños y adolescentes: zoo, parque de atracciones, museos que enganchan, planes al aire libre y errores típicos. Guía honesta por edades."
-respuestaCorta: 'El plan familiar más fiable de Madrid es el **Zoo Aquarium** de la Casa de Campo (desde 20 € online); con niños de 8 años en adelante, el **Parque de Atracciones** de al lado (desde 24 €) suele ser el mejor recuerdo. Suma los dinosaurios del **Museo de Ciencias Naturales** (7 €) y las barcas del **Retiro**, y programa una sola actividad grande al día.'
+respuestaCorta: 'El plan familiar más fiable de Madrid es el [**Zoo Aquarium**](/ciudades/madrid/actividades/zoo-aquarium-madrid-entrada) de la Casa de Campo (desde 20 € online); con niños de 8 años en adelante, el [**Parque de Atracciones**](/ciudades/madrid/actividades/parque-atracciones-madrid-entrada) de al lado (desde 24 €) suele ser el mejor recuerdo. Suma los dinosaurios del **Museo de Ciencias Naturales** (7 €) y las barcas del **Retiro**, y programa una sola actividad grande al día.'
 categoria: "madrid"
 slug: "madrid-con-ninos"
 fecha: "2026-05-25"

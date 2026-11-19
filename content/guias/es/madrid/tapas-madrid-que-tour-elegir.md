@@ -23,7 +23,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'Para cenar tapeando y acabar con vistas, el **tour de tapas y vino con azotea** (69 €, 3 h 30, admite dietas y menores). Para ir solo vosotros por las tabernas centenarias del centro, el **tour privado** (127 € por persona, mínimo 2), más de historia que de comida. La **ruta nocturna** parece la más barata (35 €), pero la comida se paga aparte con un bote de 30 € en efectivo.'
+respuestaCorta: 'Para cenar tapeando y acabar con vistas, el [**tour de tapas y vino con azotea**](/ciudades/madrid/actividades/tour-tapas-vino-atardecer-azotea) (69 €, 3 h 30, admite dietas y menores). Para ir solo vosotros por las tabernas centenarias del centro, el **tour privado** (127 € por persona, mínimo 2), más de historia que de comida. La [**ruta nocturna**](/ciudades/madrid/actividades/ruta-tapas-nocturna-madrid) parece la más barata (35 €), pero la comida se paga aparte con un bote de 30 € en efectivo.'
 actividades:
   - ruta-tapas-nocturna-madrid
   - tour-tapas-vino-atardecer-azotea

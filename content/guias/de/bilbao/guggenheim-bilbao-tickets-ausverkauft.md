@@ -27,6 +27,9 @@ slugs:
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Das Guggenheim ist selten komplett ausverkauft: Meist ist nur **deine Wunschuhrzeit** voll, oder an Wochenenden und Regentagen gibt es eine Schlange an der Kasse. Probier eine andere Uhrzeit auf der offiziellen Website `guggenheim-bilbao.eus` (**12 €**, Audioguide inklusive) oder geh gleich zur Öffnung. Wenn du kein Risiko eingehen willst, sichert dir eine **Führung mit Ticket** (ab 49 €) den Eintritt."
+webOficial:
+  url: https://www.guggenheim-bilbao.eus/
+  precio: "Normaler Eintritt 12 €"
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido

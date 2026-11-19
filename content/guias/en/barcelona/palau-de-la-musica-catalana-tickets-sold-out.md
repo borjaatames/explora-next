@@ -29,6 +29,9 @@ slugs:
   pt: palau-de-la-musica-catalana-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'The self-guided visit costs **€20** and the **guided tour €24** on `palaumusica.cat`, every day from **9:00 to 15:30**, and it lasts about 50 minutes. If your time slot is sold out, try another one or the **ticket office**, which sells **same-day tickets only** (€1 extra per ticket). Children under 10 go free. Another way to see the inside is to go to a **concert**: the ticket is separate, but you see the hall full and with music.'
+webOficial:
+  url: https://www.palaumusica.cat/
+  precio: "Self-guided visit €20 (guided €24)"
 actividades:
   - palau-musica-catalana-entrada
 faq:

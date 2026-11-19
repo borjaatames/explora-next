@@ -27,6 +27,10 @@ slugs:
   pt: casa-batllo-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn deine Uhrzeit auf **casabatllo.es** ausverkauft ist, schau dir die anderen Zeitfenster des Tages an, den Besuch **Be the First** um 8:30 Uhr und den **Nachtbesuch** (von 20:30 bis 21:30 Uhr, bis zum 15. November). An der Kasse gibt es nur den regulären Besuch, und er kostet **4 bis 15 € mehr als online** – am sichersten ist daher ein **Ticket mit fester Uhrzeit über Wiederverkäufer** (ab 29 €) oder eine Tour mit inkludiertem Ticket."
+webOficial:
+  url: https://www.casabatllo.es/
+  precio: "Standardbesuch ab 29 €"
+  nota: "An der Kasse 4-15 € teurer"
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida

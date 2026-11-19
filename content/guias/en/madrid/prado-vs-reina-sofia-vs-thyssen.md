@@ -24,7 +24,7 @@ slugs:
   it: prado-reina-sofia-o-thyssen-quale-scegliere
   pt: prado-reina-sofia-ou-thyssen-qual-escolher
 reservasArriba: true
-respuestaCorta: 'If you only have time for one, **go to the Prado** (€15, 2–3 hours; enter at 10 AM). With time for two, **add the Thyssen** (€14) for its range from Gothic to Pop Art and its Impressionists. Leave the **Reina Sofía** (€12) for 20th-century fans or a short Guernica visit.'
+respuestaCorta: 'If you only have time for one, **go to the Prado** (€15, 2–3 hours; enter at 10 AM). With time for two, [**add the Thyssen**](/en/cities/madrid/activities/thyssen-museum-entry-ticket) (€14) for its range from Gothic to Pop Art and its Impressionists. Leave the [**Reina Sofía**](/en/cities/madrid/activities/reina-sofia-madrid-ticket) (€12) for 20th-century fans or a short Guernica visit.'
 actividades:
   - art-walk-pass-prado-reina-sofia-thyssen
   - museo-prado-entrada

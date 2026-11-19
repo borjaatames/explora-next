@@ -2,7 +2,7 @@
 titulo: 'Visita guiada Alhambra: qué tour elegir (y cuáles son el mismo)'
 descripcion: 'Visita guiada a la Alhambra: seis de los tours son el mismo recorrido de 3 horas, de 49 a 99 €. Cuál reservar y cuándo compensan la nocturna o el tour privado.'
 metaTitle: 'Visita guiada Alhambra: qué tour elegir'
-respuestaCorta: 'Seis de los tours son **el mismo recorrido de 3 horas** (Alcazaba, Palacios Nazaríes y Generalife) a precios de 49 a 99 €, así que reserva el más barato con plaza en tu fecha, normalmente **Visita guiada Alhambra y Generalife desde 49 €** o **Entrada y tour guiado desde 50 €**. Solo la **visita nocturna**, el **tour privado** y la entrada a los jardines son de verdad distintos. Reserva con semanas: las franjas de los Nazaríes se agotan.'
+respuestaCorta: 'Seis de los tours son **el mismo recorrido de 3 horas** (Alcazaba, Palacios Nazaríes y Generalife) a precios de 49 a 99 €, así que reserva el más barato con plaza en tu fecha, normalmente [**Visita guiada Alhambra y Generalife desde 49 €**](/ciudades/granada/actividades/visita-guiada-alhambra-generalife) o **Entrada y tour guiado desde 50 €**. Solo la **visita nocturna**, el **tour privado** y la entrada a los jardines son de verdad distintos. Reserva con semanas: las franjas de los Nazaríes se agotan.'
 categoria: "granada"
 slug: "alhambra-que-tour-elegir"
 fecha: "2026-06-14"

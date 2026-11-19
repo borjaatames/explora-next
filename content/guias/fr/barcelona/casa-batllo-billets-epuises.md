@@ -27,6 +27,10 @@ slugs:
   pt: casa-batllo-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si votre horaire est complet sur **casabatllo.es**, regardez les autres créneaux de la journée, la visite **Be the First** de 8 h 30 et la **visite nocturne** (de 20 h 30 à 21 h 30, jusqu''au 15 novembre). Le guichet ne vend que la visite générale et coûte **entre 4 et 15 € de plus que le site**, donc le plus sûr est un **billet de revente avec horaire** (à partir de 29 €) ou une visite qui inclut l''entrée.'
+webOficial:
+  url: https://www.casabatllo.es/
+  precio: "Visite générale dès 29 €"
+  nota: "4 à 15 € de plus au guichet"
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida

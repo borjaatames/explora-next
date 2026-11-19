@@ -26,7 +26,7 @@ slugs:
   pt: park-guell-que-bilhete-escolher
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'Se só quiser a zona monumental (a escadaria do dragão, a Sala Hipóstila e o banco ondulante), chega o **bilhete básico desde 21,50 €**. Por mais 6,50 €, o **bilhete com a Casa-Museu Gaudí** (28 €) acrescenta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**: reserve só quando tiver os horários definidos.'
+respuestaCorta: 'Se só quiser a zona monumental (a escadaria do dragão, a Sala Hipóstila e o banco ondulante), chega o **bilhete básico desde 21,50 €**. Por mais 6,50 €, o [**bilhete com a Casa-Museu Gaudí**](/pt/cities/barcelona/activities/park-guell-bilhete-casa-museu-gaudi) (28 €) acrescenta a casa onde o arquiteto viveu. Nenhum inclui guia e **nenhum pode ser cancelado**: reserve só quando tiver os horários definidos.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

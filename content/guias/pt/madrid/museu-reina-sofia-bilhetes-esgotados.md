@@ -29,6 +29,9 @@ slugs:
   pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O bilhete geral custa **12 €** no site oficial (`entradas.museoreinasofia.es`) e compra-se com hora; se o seu horário aparecer esgotado, experimente outra hora do mesmo dia ou a **bilheteira**, que vende até 30 minutos antes do encerramento. O que mais esgota são as **horas grátis** (segunda e de quarta a sábado das **19h00 às 21h00**; domingos das **12h30 às 14h30**), que também exigem reserva de bilhete. Se quiser ir pelo seguro, uma **visita guiada com o bilhete incluído** custa desde 29 €.'
+webOficial:
+  url: https://www.museoreinasofia.es/
+  precio: "Entrada geral 12 €"
 actividades:
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours

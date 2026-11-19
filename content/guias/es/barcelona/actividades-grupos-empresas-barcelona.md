@@ -26,7 +26,7 @@ slugs:
   it: attivita-gruppi-aziende-barcellona
   pt: atividades-grupos-empresas-barcelona
 reservasArriba: true
-respuestaCorta: 'Para un grupo de 6 en Barcelona, lo que mejor sale por cabeza es la **visita privada a la Sagrada Familia** con guía oficial y entradas (570 € el grupo, 95 € por persona), el **tour privado de tapas y vino** por cuatro locales del Gótico (594 €, 99 € por persona) y la **excursión privada a Montserrat** con recogida en el hotel (894 €, 149 € por persona). Para un equipo que quiere algo distendido, la **cata de cerveza solo para grupos privados en una azotea** del Passeig de Gràcia cuesta 55 € por persona.'
+respuestaCorta: 'Para un grupo de 6 en Barcelona, lo que mejor sale por cabeza es la **visita privada a la Sagrada Familia** con guía oficial y entradas (570 € el grupo, 95 € por persona), el **tour privado de tapas y vino** por cuatro locales del Gótico (594 €, 99 € por persona) y la **excursión privada a Montserrat** con recogida en el hotel (894 €, 149 € por persona). Para un equipo que quiere algo distendido, la [**cata de cerveza solo para grupos privados en una azotea**](/ciudades/barcelona/actividades/barcelona-cata-cerveza-grupos-privados-azotea) del Passeig de Gràcia cuesta 55 € por persona.'
 faq:
   - pregunta: "¿Cuánto cuesta una actividad privada para un grupo de 6 en Barcelona?"
     respuesta: "Según el plan: 570 € en total (95 € por persona) la visita privada a la Sagrada Familia con entradas, 594 € (99 € por persona) el tour privado de tapas y vino, 894 € (149 € por persona) la excursión privada a Montserrat y 1.014 € (169 € por persona) el día completo privado por lo mejor de Barcelona."

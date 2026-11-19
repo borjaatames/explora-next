@@ -26,7 +26,7 @@ slugs:
   it: maiorca-con-bambini
   pt: maiorca-com-criancas
 reservasArriba: true
-respuestaCorta: 'Fique alojado no **norte (Alcúdia)**, com praias de água pouco profunda, e não tente ver a ilha inteira. Os imprescindíveis: o **comboio de Sóller** (meio dia a partir do norte, desde 56 €), as **Cuevas del Drach** com concerto de barco (54 €) e o **Palma Aquarium** para um dia nublado (30,50 €).'
+respuestaCorta: 'Fique alojado no **norte (Alcúdia)**, com praias de água pouco profunda, e não tente ver a ilha inteira. Os imprescindíveis: o **comboio de Sóller** (meio dia a partir do norte, desde 56 €), as [**Cuevas del Drach**](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma) com concerto de barco (54 €) e o [**Palma Aquarium**](/pt/cities/mallorca/activities/palma-aquarium-bilhete-entrada) para um dia nublado (30,50 €).'
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Comboio de Sóller

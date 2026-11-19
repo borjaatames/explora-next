@@ -36,7 +36,7 @@ import DatosClave from "@/components/ficha/DatosClave";
 import { etiquetaCancelacion, etiquetaReservaSinPagar } from "@/lib/cancelacion";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
-import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
+import { datosTripadvisorBokun, fuenteResenasGyg, textoRankingTripadvisor } from "@/lib/tripadvisor";
 import SeccionMovil from "@/components/ficha/SeccionMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
@@ -584,6 +584,16 @@ export default async function ActividadPage({ params }: Props) {
                     confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
                     cancelacionGratuita={actividad.cancelacionGratuita}
                     horasCancelacion={actividad.horasCancelacion}
+                    organizador={
+                      tripadvisor
+                        ? {
+                            nombre: tripadvisor.nombre,
+                            rating: tripadvisor.rating,
+                            opiniones: tripadvisor.opiniones,
+                            ranking: textoRankingTripadvisor(tripadvisor.ranking, "es"),
+                          }
+                        : undefined
+                    }
                   />
                 </>
               ) : tourWidget ? (

@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-barcellona
   pt: o-que-fazer-em-barcelona-a-dois
 reservasArriba: true
-respuestaCorta: "The three things we most recommend for couples in Barcelona are a **sunset sail** with an open bar of cava, wine and beer (€55 per person, 2 hours, maximum 12 on board), the **private tapas, wine and flamenco tour** through the Gothic Quarter and El Born (€114 per person for two) and **flamenco at Palau Dalmases**, a 17th-century baroque palace (from €30 per person). For a different kind of evening, **Casa Batlló by night with a rooftop concert** and a glass of cava costs €59."
+respuestaCorta: "The three things we most recommend for couples in Barcelona are a **sunset sail** with an open bar of cava, wine and beer (€55 per person, 2 hours, maximum 12 on board), the [**private tapas, wine and flamenco tour**](/en/cities/barcelona/activities/barcelona-private-tapas-wine-flamenco-tour) through the Gothic Quarter and El Born (€114 per person for two) and [**flamenco at Palau Dalmases**](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace), a 17th-century baroque palace (from €30 per person). For a different kind of evening, [**Casa Batlló by night with a rooftop concert**](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) and a glass of cava costs €59."
 faq:
   - pregunta: "What is the most romantic thing to do in Barcelona?"
     respuesta: "For most couples, a sunset sail from Port Vell: two hours on a Beneteau Oceanis 41, with an open bar of cava, wine and beer and snacks, in a group of 12 at most, for €55 per person. Afterwards, flamenco at Palau Dalmases in El Born."

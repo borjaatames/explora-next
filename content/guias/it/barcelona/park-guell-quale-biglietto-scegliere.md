@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'Se vuoi vedere solo la zona monumentale (il drago, la Sala Ipostila e la panchina ondulata), basta il **biglietto base da 21,50 €**. Con 6,50 € in più, il **biglietto con la Casa Museo Gaudí** (28 €) aggiunge la casa in cui visse l''architetto. Nessuno dei due include la guida e **nessuno si può cancellare**: prenota solo quando hai chiaro l''orario.'
+respuestaCorta: 'Se vuoi vedere solo la zona monumentale (il drago, la Sala Ipostila e la panchina ondulata), basta il **biglietto base da 21,50 €**. Con 6,50 € in più, il [**biglietto con la Casa Museo Gaudí**](/it/cities/barcelona/activities/park-guell-biglietto-casa-museo-gaudi) (28 €) aggiunge la casa in cui visse l''architetto. Nessuno dei due include la guida e **nessuno si può cancellare**: prenota solo quando hai chiaro l''orario.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

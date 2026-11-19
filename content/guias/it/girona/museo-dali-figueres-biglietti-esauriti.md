@@ -27,6 +27,9 @@ slugs:
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Il biglietto intero costa **da 18,50 €** su `tickets.salvador-dali.org`, e la disponibilità dipende dalla capienza del museo. Se il tuo giorno risulta esaurito, prova altre fasce e altri giorni, o la **visita guidata con ingresso incluso** (da 31 €). I biglietti ufficiali **non ammettono cambi né rimborsi** per cause non imputabili al museo, quindi non contare sulle cancellazioni.'
+webOficial:
+  url: https://www.salvador-dali.org/
+  precio: "Ingresso generale da 18,50 €"
 actividades:
   - teatro-museo-dali-figueres-visita-guiada
   - girona-figueres-dali-cadaques-desde-barcelona

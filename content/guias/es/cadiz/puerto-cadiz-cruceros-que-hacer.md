@@ -28,7 +28,7 @@ slugs:
   it: porto-crociere-cadice-guida
   pt: porto-de-cadis-cruzeiros
 reservasArriba: true
-respuestaCorta: 'En Cádiz el barco atraca **a 5 minutos a pie del casco antiguo**: no necesitas lanzadera, bus ni taxi. Con **4-6 horas**, quédate en Cádiz (Catedral, Torre Tavira, el Pópulo y La Caleta). **Sevilla** está a **1 h 30 por carretera** y solo compensa con **8 horas o más** en tierra: en tren por tu cuenta el riesgo de no volver a tiempo es tuyo; con una **excursión desde el puerto** (desde 119 €) o una **privada** (desde 600 € por grupo), el operador se ajusta al horario del barco.'
+respuestaCorta: 'En Cádiz el barco atraca **a 5 minutos a pie del casco antiguo**: no necesitas lanzadera, bus ni taxi. Con **4-6 horas**, quédate en Cádiz (Catedral, Torre Tavira, el Pópulo y La Caleta). **Sevilla** está a **1 h 30 por carretera** y solo compensa con **8 horas o más** en tierra: en tren por tu cuenta el riesgo de no volver a tiempo es tuyo; con una [**excursión desde el puerto**](/ciudades/cadiz/actividades/sevilla-excursion-cruceristas-puerto-cadiz) (desde 119 €) o una **privada** (desde 600 € por grupo), el operador se ajusta al horario del barco.'
 faq:
   - pregunta: "¿Hace falta transporte para ir del puerto de Cádiz al centro?"
     respuesta: "No. Las terminales de cruceros están en los muelles Ciudad y Alfonso XIII, y la del muelle Ciudad sale directamente al paseo de Canalejas y la plaza de San Juan de Dios. El casco antiguo está a unos 5 minutos a pie."

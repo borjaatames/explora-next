@@ -29,6 +29,9 @@ slugs:
   pt: alcazar-segovia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Entry to the Palace and Museum costs **€7**, or **€10** if you add the **Tower of Juan II** (Torre de Juan II), on `entradas.alcazardesegovia.com`. Tickets with the Tower are the first to sell out at weekends and on Spanish bank holidays. If that happens, buy Palace + Museum only or go to the **ticket office**. EU citizens get in **free on Tuesdays from 14:00 to 16:00** (Tower not included, ticket office only). And a **day trip from Madrid with entry included** secures your visit from €41.'
+webOficial:
+  url: https://www.alcazardesegovia.com/
+  precio: "Palace and Museum €7 (with the Tower €10)"
 actividades:
   - excursion-toledo-segovia-alcazar
   - excursion-avila-segovia-con-entradas

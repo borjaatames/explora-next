@@ -29,6 +29,9 @@ slugs:
   pt: palau-de-la-musica-catalana-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La visite libre coûte **20 €** et la **visite guidée 24 €** sur `palaumusica.cat`, tous les jours de **9 h à 15 h 30**, et dure environ 50 minutes. Si votre créneau est complet, essayez une autre heure ou le **guichet**, qui vend **uniquement pour le jour même** (1 € de plus par billet). Les moins de 10 ans entrent gratuitement. Autre façon de le voir de l''intérieur : assister à un **concert**. Le billet est à part, mais vous voyez la salle pleine et en musique.'
+webOficial:
+  url: https://www.palaumusica.cat/
+  precio: "Visite libre 20 € (guidée 24 €)"
 actividades:
   - palau-musica-catalana-entrada
 faq:

@@ -27,6 +27,10 @@ slugs:
   pt: casa-batllo-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Se il tuo orario risulta esaurito su **casabatllo.es**, guarda le altre fasce del giorno, la visita **Be the First** delle 8:30 e la **visita serale** (dalle 20:30 alle 21:30, fino al 15 novembre). La biglietteria vende solo la visita generale e costa **tra 4 e 15 € in più rispetto al sito**, quindi la soluzione più sicura è un **biglietto in rivendita con orario** (da 29 €) o un tour che includa l''ingresso.'
+webOficial:
+  url: https://www.casabatllo.es/
+  precio: "Visita generale da 29 €"
+  nota: "In biglietteria costa 4-15 € in più"
 actividades:
   - casa-batllo-entrada-con-audioguia
   - casa-batllo-visita-nocturna-copa-cava-bienvenida

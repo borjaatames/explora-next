@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-11-11"
 reservasArriba: true
-respuestaCorta: 'Para um tablao intimista na Madrid dos Áustrias, **Las Carboneras** (desde 45 €, com bebida, 4,7/5). Para pagar menos, ter mais sessões e a opção de jantar no mesmo sítio, **Torres Bermejas** (desde 31 €, junto à Gran Vía). Os dois são espetáculos de **uma hora** com cancelamento gratuito até 24 horas antes; só Las Carboneras é acessível em cadeira de rodas.'
+respuestaCorta: 'Para um tablao intimista na Madrid dos Áustrias, [**Las Carboneras**](/pt/cities/madrid/activities/tablao-las-carboneras-flamenco-madrid) (desde 45 €, com bebida, 4,7/5). Para pagar menos, ter mais sessões e a opção de jantar no mesmo sítio, [**Torres Bermejas**](/pt/cities/madrid/activities/torres-bermejas-flamenco-jantar-madrid) (desde 31 €, junto à Gran Vía). Os dois são espetáculos de **uma hora** com cancelamento gratuito até 24 horas antes; só Las Carboneras é acessível em cadeira de rodas.'
 opciones:
   - ficha: flamenco-tablao-las-carboneras
     etiqueta: O mais intimista

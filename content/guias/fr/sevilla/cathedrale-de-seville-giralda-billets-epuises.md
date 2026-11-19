@@ -29,6 +29,10 @@ slugs:
   pt: catedral-de-sevilha-giralda-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si le site officiel affiche complet, le **guichet de la Puerta del Príncipe** continue de vendre des billets (14 €) jusqu''à 18 h, mais avec une jauge limitée et sans garantie. Les billets officiels ne sont ni échangeables ni remboursables, n''attendez donc pas d''annulations : le plus sûr est un **billet horodaté revendu** (à partir de 17,50 €) ou une **visite guidée avec l''entrée incluse**.'
+webOficial:
+  url: https://www.catedraldesevilla.es/
+  precio: "Cathédrale et Giralda 13 € en ligne"
+  nota: "Au guichet, 14 €"
 actividades:
   - catedral-sevilla-giralda-entrada-skip-line
   - catedral-giralda-sevilla-visita-privada-guia-entradas

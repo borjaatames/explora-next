@@ -29,6 +29,9 @@ slugs:
   pt: escorial-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O bilhete geral para o Mosteiro custa **14 €** (mais 0,77 € de taxa de gestão online) em `tickets.patrimonionacional.es`, e a **visita guiada oficial 22 €**. **Fecha às segundas.** Se o seu horário aparecer esgotado, experimente outra hora ou a **bilheteira**. Os cidadãos da UE e da Ibero-América entram **grátis às quartas e domingos à tarde**, só na bilheteira. E uma **excursão desde Madrid com o bilhete incluído** resolve-lhe tudo desde 62 €.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "Entrada geral 14 €"
 actividades:
   - escorial-valle-cuelgamuros-excursion-grupo
   - el-escorial-monasterio-entrada

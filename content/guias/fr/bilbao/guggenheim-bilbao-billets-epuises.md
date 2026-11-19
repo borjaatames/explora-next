@@ -27,6 +27,9 @@ slugs:
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Le Guggenheim est rarement complet toute la journée : le plus souvent, c''est **l''horaire que vous vouliez** qui est plein, ou il y a la queue au guichet les week-ends et les jours de pluie. Essayez un autre horaire sur le site officiel `guggenheim-bilbao.eus` (**12 €**, audioguide inclus) ou allez-y à l''ouverture. Si vous ne voulez prendre aucun risque, une **visite guidée avec billet** (à partir de 49 €) vous garantit l''accès.'
+webOficial:
+  url: https://www.guggenheim-bilbao.eus/
+  precio: "Entrée générale 12 €"
 actividades:
   - guggenheim-bilbao-visita-guiada-entrada
   - guggenheim-bilbao-vip-grupo-reducido

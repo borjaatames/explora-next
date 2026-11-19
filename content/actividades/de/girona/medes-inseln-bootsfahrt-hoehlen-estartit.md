@@ -2,7 +2,7 @@
 titulo: 'Medes-Inseln: Bootsfahrt zu Meereshöhlen, Roca Foradada und Badestopp ab L''Estartit'
 slug: medes-inseln-bootsfahrt-hoehlen-estartit
 ciudad: girona
-descripcion: '1,5-stündige geführte Bootsfahrt ab L''Estartit durch das Meeresschutzgebiet der Medes-Inseln: Meereshöhlen, Roca Foradada, Unterwasserfenster und ein Badestopp. 45 Minuten von Girona. Bewertet mit 4,6/5 bei 634 Bewertungen.'
+descripcion: '1,5-stündige geführte Bootsfahrt ab L''Estartit durch das Meeresschutzgebiet der Medes-Inseln: Meereshöhlen, Roca Foradada, Unterwasserfenster und ein Badestopp. 45 Minuten von Girona. Bewertet mit 4,4/5 bei 101 Bewertungen.'
 slugs:
   es: islas-medes-barco-cuevas-estartit
   en: medes-islands-boat-trip-caves-estartit
@@ -20,8 +20,9 @@ idiomas:
 - fr
 - ca
 proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/estartit-l91403/l-estartit-viaje-en-barco-a-las-islas-medas-y-las-cuevas-t714181/?partner_id=C71NOAW
+urlReserva: https://www.getyourguide.com/estartit-l91403/montgri-paseo-en-barco-turistico-por-la-costa-t399017/?partner_id=C71NOAW
 cancelacionGratuita: true
+reservaSinPagar: true
 horasCancelacion: 24
 highlights:
 - Das Meeresschutzgebiet der Medes-Inseln, eines der artenreichsten im Mittelmeer
@@ -113,8 +114,8 @@ galeria:
   alt: Inselchen der Medes im Meer
 - src: /images/actividades/girona/medes/medes-wikimedia-42-les-illes-medes-des-del-mirador-de-jo-06.webp
   alt: Die Medes-Inseln vom Aussichtspunkt Josep Pla
-ratingProveedor: 4.6
-numeroOpiniones: 634
+ratingProveedor: 4.4
+numeroOpiniones: 101
 publicada: true
 indexar: false
 destacada: false

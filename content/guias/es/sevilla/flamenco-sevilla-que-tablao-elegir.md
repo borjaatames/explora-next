@@ -2,7 +2,7 @@
 titulo: 'Flamenco en Sevilla: qué espectáculo elegir (5 tablaos comparados)'
 descripcion: 'Flamenco en Sevilla: comparamos los 5 espectáculos reservables, de 24 a 45 €, en sitios distintos. El mejor tablao según busques intimidad, visión o cena.'
 metaTitle: 'Flamenco en Sevilla: qué espectáculo elegir'
-respuestaCorta: 'Los cinco shows de flamenco reservables en Sevilla duran alrededor de una hora y cuestan **entre 24 y 45 €**. Elige **Casa de la Memoria** (24 €, solo dos filas) si buscas intimidad, **Teatro Flamenco Sevilla** (25 €) como opción más segura y con buena visión, y **Tablao El Arenal** (45 €) si quieres cenar durante el show. Todos tienen cancelación gratuita hasta 24 horas antes.'
+respuestaCorta: 'Los cinco shows de flamenco reservables en Sevilla duran alrededor de una hora y cuestan **entre 24 y 45 €**. Elige [**Casa de la Memoria**](/ciudades/sevilla/actividades/casa-de-la-memoria-flamenco-show-intimo-sevilla) (24 €, solo dos filas) si buscas intimidad, **Teatro Flamenco Sevilla** (25 €) como opción más segura y con buena visión, y [**Tablao El Arenal**](/ciudades/sevilla/actividades/tablao-flamenco-el-arenal-sevilla-50-anos) (45 €) si quieres cenar durante el show. Todos tienen cancelación gratuita hasta 24 horas antes.'
 categoria: "sevilla"
 slug: "flamenco-sevilla-que-tablao-elegir"
 fecha: "2026-07-20"

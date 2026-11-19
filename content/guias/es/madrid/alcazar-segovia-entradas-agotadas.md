@@ -29,6 +29,9 @@ slugs:
   pt: alcazar-segovia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'La entrada al Palacio y el Museo cuesta **7 €**, y **10 €** si añades la **Torre de Juan II**, en `entradas.alcazardesegovia.com`. Lo primero que se agota son las entradas con Torre en fines de semana y puentes. Si te pasa, compra solo Palacio + Museo o ve a la **taquilla**. Los ciudadanos de la UE entran **gratis los martes de 14:00 a 16:00** (sin Torre y solo en taquilla). Y una **excursión desde Madrid con la entrada incluida** te asegura la visita desde 41 €.'
+webOficial:
+  url: https://www.alcazardesegovia.com/
+  precio: "Palacio y Museo, 7 € (con la Torre, 10 €)"
 actividades:
   - excursion-toledo-segovia-alcazar
   - excursion-avila-segovia-con-entradas

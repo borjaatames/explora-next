@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-barcellona
   pt: o-que-fazer-em-barcelona-a-dois
 reservasArriba: true
-respuestaCorta: "Os três planos que mais recomendamos para casais em Barcelona são um **passeio de veleiro ao pôr do sol** com bar aberto de cava, vinho e cerveja (55 € por pessoa, 2 horas, máximo 12 pessoas a bordo), o **tour privado de tapas, vinho e flamenco** pelo Bairro Gótico e El Born (114 € por pessoa para duas) e o **flamenco no Palau Dalmases**, um palácio barroco do século XVII (desde 30 € por pessoa). Para uma noite diferente, a **Casa Batlló à noite com concerto no terraço** e uma taça de cava custa 59 €."
+respuestaCorta: "Os três planos que mais recomendamos para casais em Barcelona são um **passeio de veleiro ao pôr do sol** com bar aberto de cava, vinho e cerveja (55 € por pessoa, 2 horas, máximo 12 pessoas a bordo), o [**tour privado de tapas, vinho e flamenco**](/pt/cities/barcelona/activities/barcelona-tour-privado-tapas-vinho-flamenco) pelo Bairro Gótico e El Born (114 € por pessoa para duas) e o [**flamenco no Palau Dalmases**](/pt/cities/barcelona/activities/palau-dalmases-flamenco-palacio-barcelona), um palácio barroco do século XVII (desde 30 € por pessoa). Para uma noite diferente, a [**Casa Batlló à noite com concerto no terraço**](/pt/cities/barcelona/activities/casa-batllo-visita-noturna-musica-ao-vivo) e uma taça de cava custa 59 €."
 faq:
   - pregunta: "Qual é o plano mais romântico em Barcelona?"
     respuesta: "Para a maioria dos casais, um passeio de veleiro ao pôr do sol a partir do Port Vell: duas horas num Beneteau Oceanis 41, com bar aberto de cava, vinho e cerveja e petiscos, num grupo de 12 pessoas no máximo, por 55 € por pessoa. A seguir, flamenco no Palau Dalmases, em El Born."

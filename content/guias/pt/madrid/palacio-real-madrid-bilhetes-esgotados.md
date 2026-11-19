@@ -28,6 +28,9 @@ slugs:
   pt: palacio-real-madrid-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'O bilhete geral custa **18 €** em `tickets.patrimonionacional.es`. Se o seu horário aparecer esgotado, experimente outra hora, a **visita guiada oficial (26 €)** ou a **bilheteira**, que vende até uma hora antes do encerramento. Se for cidadão da UE ou ibero-americano, a entrada é **grátis de segunda a quinta nas duas últimas horas**, só na bilheteira. E um **tour com o bilhete incluído** garante-lhe a visita desde 36 €.'
+webOficial:
+  url: https://tickets.patrimonionacional.es/
+  precio: "Entrada geral 18 €"
 actividades:
   - palacio-real-visita-guiada-golden-tour
   - palacio-real-tour-premium-skip-line

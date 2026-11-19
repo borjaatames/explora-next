@@ -27,6 +27,10 @@ slugs:
   pt: la-pedrera-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn deine Uhrzeit auf **lapedrera.com** ausverkauft ist, schau dir die anderen Zeitfenster des Tages an, das Ticket **Open Date** (45 €, ohne Datum und Uhrzeit, 6 Monate gültig), den Besuch **Sunrise** um 8:00 Uhr und die abendliche **Night Experience**. Es gibt eine Kasse, aber manche Tarife sind dort **teurer als online** – am sichersten ist daher ein **Ticket mit fester Uhrzeit über Wiederverkäufer** (ab 29 €) oder eine Tour mit inkludiertem Ticket."
+webOficial:
+  url: https://www.lapedrera.com/
+  precio: "La Pedrera Essential 29 €"
+  nota: "Das Open-Date-Ticket (45 €) ist ohne festen Tag und Uhrzeit"
 actividades:
   - casa-mila-la-pedrera-entrada-audioguia
   - casa-mila-experiencia-nocturna-con-cava

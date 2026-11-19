@@ -2,7 +2,7 @@
 titulo: 'O que ver em Toledo num dia: escapadinha a partir de Madrid'
 descripcion: 'O que ver em Toledo num dia: a Catedral (12 €), Santo Tomé, a Judiaria e o Mirador del Valle, com a pulseira turística de 14 € e Madrid a 33 minutos de Avant.'
 metaTitle: 'O que ver em Toledo num dia desde Madrid'
-respuestaCorta: 'Apanhe o **Avant em Atocha (33 minutos, 22-26 € ida e volta)** ou conduza uma hora pela A-42, e chegue às 10h00. Dedique a manhã à **Catedral (12 €)**, Santo Tomé e Santa María la Blanca, a tarde à Judiaria e termine no **Mirador del Valle**. A **pulseira turística de 14 €** cobre sete monumentos pequenos.'
+respuestaCorta: 'Apanhe o **Avant em Atocha (33 minutos, 22-26 € ida e volta)** ou conduza uma hora pela A-42, e chegue às 10h00. Dedique a manhã à **Catedral (12 €)**, Santo Tomé e Santa María la Blanca, a tarde à Judiaria e termine no **Mirador del Valle**. A [**pulseira turística de 14 €**](/pt/cities/madrid/activities/toledo-pulseira-turistica-7-monumentos) cobre sete monumentos pequenos.'
 categoria: "madrid"
 slug: "toledo-desde-madrid-num-dia"
 fecha: "2026-09-23"

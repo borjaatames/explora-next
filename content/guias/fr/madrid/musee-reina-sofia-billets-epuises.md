@@ -29,6 +29,9 @@ slugs:
   pt: museu-reina-sofia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'L''entrée générale coûte **12 €** sur le site officiel (`entradas.museoreinasofia.es`) et s''achète avec un horaire ; si votre créneau est complet, essayez une autre heure le même jour ou le **guichet**, qui vend jusqu''à 30 minutes avant la fermeture. Ce qui s''épuise le plus, ce sont les **heures gratuites** (le lundi et du mercredi au samedi de **19 h à 21 h** ; le dimanche de **12 h 30 à 14 h 30**), qui exigent aussi de réserver un billet. Si vous voulez assurer le coup, une **visite guidée avec billet inclus** coûte à partir de 29 €.'
+webOficial:
+  url: https://www.museoreinasofia.es/
+  precio: "Entrée générale 12 €"
 actividades:
   - reina-sofia-entrada
   - reina-sofia-visita-guiada-amigo-tours

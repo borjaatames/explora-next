@@ -29,6 +29,9 @@ slugs:
   pt: oceanografic-valencia-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Le billet plein tarif de l''Oceanogràfic coûte **entre 35,90 € et 43,05 €** selon le jour, sur le site officiel (`entradas.oceanografic.org`) ; enfants de 4 à 12 ans et plus de 65 ans, **entre 26,65 € et 31,95 €**, et gratuit pour les moins de 4 ans. Si votre date est complète, regardez les **billets combinés** avec le Museu de les Ciències ou l''Hemisfèric, vendus séparément, ou achetez auprès d''un revendeur agréé : nos billets sont **à partir de 37 €**. Le guichet ouvre à 10 h et ferme une heure avant l''aquarium.'
+webOficial:
+  url: https://www.oceanografic.org/
+  precio: "Entrée générale de 35,90 à 43,05 € selon le jour"
 actividades:
   - oceanografic-valencia-entrada
   - ciudad-artes-3-en-1-oceanografic-hemisferic-museu
