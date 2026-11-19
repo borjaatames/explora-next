@@ -14,6 +14,11 @@ type Proveedor = "getyourguide" | "viator" | "bokun" | "whatsapp" | "ficha";
  *   - posicion: valor de `data-reserva` si lo hay; si no, «barra» cuando el
  *     enlace está dentro de un elemento fijo (barras de móvil) o «pagina».
  *
+ * Además, la primera vez que el visitante toca dentro del calendario de GYG
+ * o de Bókun (iframes de otro dominio, donde no llegan los clics) se envía
+ * «Widget interaccion» con el proveedor y posicion «widget». Se detecta
+ * porque la ventana pierde el foco y el elemento activo pasa a ser el iframe.
+ *
  * Un único listener delegado en captura: no toca ningún componente ni la
  * composición de la página. Las visitas internas y los robots de medición
  * se descartan en el `beforeSend` de AnaliticaVercel, que también filtra
@@ -62,8 +67,30 @@ export default function MedicionReservas() {
       const posicion = marcado?.dataset.reserva ?? (estaEnElementoFijo(enlace) ? "barra" : "pagina");
       track("Reserva clic", { proveedor, posicion });
     }
+    const widgetsTocados = new Set<HTMLIFrameElement>();
+    function alPerderFoco() {
+      // El foco pasa al iframe justo después del blur.
+      window.setTimeout(() => {
+        const activo = document.activeElement;
+        if (!(activo instanceof HTMLIFrameElement) || widgetsTocados.has(activo)) return;
+        const src = activo.src;
+        const proveedor: Proveedor | null = src.includes("getyourguide.com")
+          ? "getyourguide"
+          : src.includes("bokun.io")
+            ? "bokun"
+            : null;
+        if (!proveedor) return;
+        widgetsTocados.add(activo);
+        track("Widget interaccion", { proveedor, posicion: "widget" });
+      }, 0);
+    }
+
     document.addEventListener("click", alClick, { capture: true });
-    return () => document.removeEventListener("click", alClick, { capture: true });
+    window.addEventListener("blur", alPerderFoco);
+    return () => {
+      document.removeEventListener("click", alClick, { capture: true });
+      window.removeEventListener("blur", alPerderFoco);
+    };
   }, []);
 
   return null;
