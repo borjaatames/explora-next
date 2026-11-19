@@ -3,7 +3,7 @@
  *
  * Solo las fichas cuyo tour está en `TOURS_WIDGET_GYG` muestran el widget
  * (las 30 fichas GYG con más usuarios en GA4 entre el 26 jul y el 23 oct
- * de 2026, sumando ES y EN; ampliado a 60 el 18-11-2026). El resto sigue con <CalendarioReserva>.
+ * de 2026, sumando ES y EN). El resto sigue con <CalendarioReserva>.
  * Para extender la prueba basta con añadir IDs aquí.
  *
  * Las reservas del widget se miden en el panel de GYG con la campaña
@@ -50,38 +50,6 @@ const TOURS_WIDGET_GYG: ReadonlySet<string> = new Set([
   "231887", // tablao-de-carmen-flamenco-cena-poble-espanyol
   "953643", // universidad-salamanca-visita-guiada
   "61512", // girona-costa-brava-grupo-reducido-recogida-hotel
-  // Ampliación del 18-11-2026: las 30 fichas GYG siguientes por sesiones en
-  // GA4 (20 jul-16 nov). El widget convertía ~11 % frente al ~3 % del enlace.
-  "131232", // real-alcazar-seville-entry-ticket
-  "569659", // caminito-del-rey-ticket-official-guide
-  "1123286", // fataga-tejeda-roque-nublo-day-trip-from-south
-  "396762", // royal-alcazar-seville-skip-line-guided-tour
-  "149066", // roque-nublo-pico-de-las-nieves-tour-from-las-palmas
-  "212322", // corralejo-dunes-shore-excursion-puerto-del-rosario
-  "534639", // northern-fuerteventura-corralejo-tour-from-south
-  "146772", // gran-canaria-day-tour-from-las-palmas
-  "53791", // park-guell-admission-ticket
-  "139631", // gran-canaria-island-tour-from-las-palmas-bandama-dunes
-  "117462", // excursion-toledo-segovia-alcazar
-  "58181", // avila-salamanca-day-trip
-  "50027", // sagrada-familia-ticket-audio-guide
-  "360580", // gran-canaria-island-tour-from-mogan-maspalomas
-  "98487", // catedral-giralda-alcazar-sevilla-tour-guiado-entradas
-  "652110", // tossa-de-mar-costa-brava-excursion-desde-barcelona
-  "49779", // lanzarote-excursion-timanfaya-jameos-cueva-de-los-verdes
-  "1101706", // gran-canaria-sunset-stargazing-tour
-  "427456", // vejer-conil-excursion-desde-jerez-cadiz
-  "840866", // flamenco-show-cueva-la-faraona-sacromonte
-  "337026", // cofete-jeep-safari-morro-jable
-  "1014836", // small-group-walking-tour-gothic-and-gaudi-gems
-  "406165", // no-chase-whale-dolphin-watching-los-cristianos
-  "719794", // fuerteventura-island-tour-ajuy-betancuria
-  "491580", // seville-alcazar-small-group-guided-tour-premium
-  "428891", // cofete-villa-winter-tour
-  "430098", // gran-canaria-dolphin-catamaran-snorkeling
-  "591591", // royal-palace-skip-line-guided-tour-golden
-  "407438", // loro-parque-siam-park-combo
-  "194774", // lanzarote-timanfaya-la-geria-el-golfo-half-day
 ]);
 
 /** Extrae el ID de tour de una URL de GYG (`…-t362290/`). */

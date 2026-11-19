@@ -26,7 +26,7 @@ slugs:
   it: attivita-gruppi-aziende-barcellona
   pt: atividades-grupos-empresas-barcelona
 reservasArriba: true
-respuestaCorta: "For a group of six in Barcelona, the best value per head is the **private Sagrada Familia visit** with an official guide and tickets (€570 for the group, €95 each), the **private tapas and wine tour** through four places in the Gothic Quarter (€594, €99 each) and the **private Montserrat trip** with hotel pick-up (€894, €149 each). For a team that wants something relaxed, the [**rooftop beer tasting for private groups only**](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) on Passeig de Gràcia costs €55 per person."
+respuestaCorta: "For a group of six in Barcelona, the best value per head is the **private Sagrada Familia visit** with an official guide and tickets (€570 for the group, €95 each), the **private tapas and wine tour** through four places in the Gothic Quarter (€594, €99 each) and the **private Montserrat trip** with hotel pick-up (€894, €149 each). For a team that wants something relaxed, the **rooftop beer tasting for private groups only** on Passeig de Gràcia costs €55 per person."
 faq:
   - pregunta: "How much does a private activity for six people cost in Barcelona?"
     respuesta: "It depends on the plan: €570 in total (€95 each) for the private Sagrada Familia visit with tickets, €594 (€99 each) for the private tapas and wine tour, €894 (€149 each) for the private Montserrat trip and €1,014 (€169 each) for the private full day covering the best of Barcelona."

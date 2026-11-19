@@ -50,12 +50,12 @@ faq:
 - pregunta: What can I see of the Alcázar without a ticket?
   respuesta: 'The Patio de Banderas, which is a public square; the Lion Gate from Plaza del Triunfo; and the Alcázar wall along the Callejón del Agua and the Murillo Gardens, in the Santa Cruz quarter.'
 opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: Cheapest
   - ficha: real-alcazar-sevilla-tour-guiado-skip-line
     etiqueta: With a guide
   - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Free cancellation
-  - ficha: real-alcazar-sevilla-entrada
-    etiqueta: Cheapest
+    etiqueta: Plus the Cathedral
 ---
 
 The Royal Alcázar sells tickets in **30-minute slots with limited capacity**, and from March to October, at Easter and on Spanish bank holidays, the busiest dates go early. "Sold out" on the official website doesn't mean you miss the Alcázar, but the usual tricks don't work here: there's no waiting list and no last-minute release. These are the routes left, in the order worth trying them.

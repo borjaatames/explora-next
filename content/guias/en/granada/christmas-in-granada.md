@@ -40,13 +40,6 @@ faq:
     respuesta: "Usually, yes, though it depends on the snow. In 2025-26 the resort opened on Saturday 29 November with runs in the Borreguiles area, helped by snow cannons. The 2026-27 opening date hasn't been announced; check the piste report on sierranevada.es before you go up."
   - pregunta: "What time is the Three Kings Parade in Granada?"
     respuesta: "On 5 January at 17:00. In 2026 it set off from Avenida de la Constitución by the Jardines del Triunfo, came down Gran Vía, Reyes Católicos and Acera del Darro, stopped around 19:30 at Puente Blanco for a drone show and ended with the Kings arriving at City Hall. There were 25 floats."
-opciones:
-  - ficha: alhambra-visita-nocturna
-    etiqueta: "Alhambra by night"
-  - ficha: albaicin-sacromonte-atardecer
-    etiqueta: "Albaicín at sunset"
-  - ficha: flamenco-cueva-la-rocio-sacromonte
-    etiqueta: "Flamenco in a cave"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

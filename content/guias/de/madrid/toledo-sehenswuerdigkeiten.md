@@ -2,7 +2,7 @@
 titulo: 'Toledo Sehenswürdigkeiten: die 15 wichtigsten mit Preisen und Öffnungszeiten'
 descripcion: 'Toledo Sehenswürdigkeiten: Kathedrale (12 €), Santo Tomé, Judenviertel, San Juan de los Reyes und Mirador del Valle. 15 Orte mit Preis, Öffnungszeit und Dauer.'
 metaTitle: 'Toledo Sehenswürdigkeiten: Top 15 mit Preisen'
-respuestaCorta: 'Das Wichtigste in Toledo sind die **Kathedrale (12 €)**, **Santo Tomé** mit El Grecos *Begräbnis des Grafen von Orgaz*, das **Judenviertel** (Synagoge El Tránsito, Santa María la Blanca und San Juan de los Reyes) und der **Mirador del Valle** bei Sonnenuntergang. Wer drei oder mehr der kleineren Monumente besucht, nimmt das [**Touristenarmband für 14 €**](/de/cities/madrid/activities/toledo-touristenarmband-7-monumente), das sieben abdeckt. An einem Tag schaffst du sechs bis acht Orte in Ruhe, in zwei Tagen die ganze Liste.'
+respuestaCorta: 'Das Wichtigste in Toledo sind die **Kathedrale (12 €)**, **Santo Tomé** mit El Grecos *Begräbnis des Grafen von Orgaz*, das **Judenviertel** (Synagoge El Tránsito, Santa María la Blanca und San Juan de los Reyes) und der **Mirador del Valle** bei Sonnenuntergang. Wer drei oder mehr der kleineren Monumente besucht, nimmt das **Touristenarmband für 14 €**, das sieben abdeckt. An einem Tag schaffst du sechs bis acht Orte in Ruhe, in zwei Tagen die ganze Liste.'
 categoria: madrid
 slug: toledo-sehenswuerdigkeiten
 fecha: "2026-05-27"

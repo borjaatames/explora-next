@@ -40,13 +40,6 @@ faq:
     respuesta: "Nel 2026 i Re Magi sono arrivati in barca alle 16:30 in Plaza de la Sal, nella Marina Norte, e la Cabalgata è partita alle 17:30 dal Puente de las Flores. Ha percorso Porta de la Mar, General Tovar, calle de la Paz, Plaza de la Reina e San Vicente fino a Plaza del Ayuntamiento, con più di 1.300 partecipanti."
   - pregunta: "Ci sono fuochi d'artificio a Natale a Valencia?"
     respuesta: "Sì. Nell'edizione 2025-26 c'è stato un piromusical di circa tre minuti ogni sabato alle 18:30 in Plaza del Ayuntamiento, dall'accensione del 21 novembre fino al 3 gennaio, e un altro di chiusura il 5 gennaio. Sono gratuiti; arriva dieci minuti prima per trovare posto."
-opciones:
-  - ficha: tour-tapas-bebidas-noche-valencia
-    etiqueta: "Tapas di sera"
-  - ficha: flamenco-espai-inestable-centro-valencia
-    etiqueta: "Flamenco autentico"
-  - ficha: oceanografic-valencia-entrada
-    etiqueta: "In famiglia"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

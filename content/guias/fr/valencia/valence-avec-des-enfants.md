@@ -24,7 +24,7 @@ slugs:
   it: valencia-con-bambini
   pt: valencia-com-criancas
 reservasArriba: true
-respuestaCorta: 'Valence est **plate, sûre et dotée d''une plage en ville**. Les deux incontournables sont l''[**Oceanogràfic**](/fr/cities/valencia/activities/oceanografic-valence-billet), le plus grand aquarium d''Europe (à partir de 37 €), et le [**Bioparc**](/fr/cities/valencia/activities/bioparc-valence-billet) (29,50 €) ; entre les deux, du vélo dans le **Jardín del Turia**, neuf kilomètres sans voitures. Le centre historique, à petites doses. Idéalement de mars à juin.'
+respuestaCorta: 'Valence est **plate, sûre et dotée d''une plage en ville**. Les deux incontournables sont l''**Oceanogràfic**, le plus grand aquarium d''Europe (à partir de 37 €), et le **Bioparc** (29,50 €) ; entre les deux, du vélo dans le **Jardín del Turia**, neuf kilomètres sans voitures. Le centre historique, à petites doses. Idéalement de mars à juin.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

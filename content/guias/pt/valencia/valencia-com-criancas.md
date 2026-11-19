@@ -24,7 +24,7 @@ slugs:
   it: valencia-con-bambini
   pt: valencia-com-criancas
 reservasArriba: true
-respuestaCorta: 'Valência é **plana, segura e com praia urbana**. Os dois imprescindíveis são o [**Oceanogràfic**](/pt/cities/valencia/activities/oceanografic-valencia-bilhete), o maior aquário da Europa (desde 37 €), e o [**Bioparc**](/pt/cities/valencia/activities/bioparc-valencia-bilhete) (29,50 €); entre um e outro, bicicleta pelo **Jardín del Turia**, nove quilómetros sem carros. O centro histórico, em doses curtas. Melhor de março a junho.'
+respuestaCorta: 'Valência é **plana, segura e com praia urbana**. Os dois imprescindíveis são o **Oceanogràfic**, o maior aquário da Europa (desde 37 €), e o **Bioparc** (29,50 €); entre um e outro, bicicleta pelo **Jardín del Turia**, nove quilómetros sem carros. O centro histórico, em doses curtas. Melhor de março a junho.'
 actividades:
   - bioparc-valencia-entrada
   - oceanografic-valencia-entrada

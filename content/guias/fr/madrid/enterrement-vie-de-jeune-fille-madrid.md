@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
-respuestaCorta: 'Les trois activités qui marchent le mieux pour un EVJF ou un EVG à Madrid sont le **tuk-tuk fête privé avec votre musique** (150 € par tuk-tuk, 1 h 30 min), l''**atelier paella et sangria** près de Sol (64 € par personne, 3 heures) et, pour la nuit, un [**pub crawl**](/fr/cities/madrid/activities/madrid-tournee-des-bars-boite-de-nuit-shots) dans trois bars et une discothèque avec un shot à chaque arrêt (19 € par personne, 5 heures). Si vous êtes plus de 8, réservez deux ou trois semaines à l''avance et vérifiez le code vestimentaire : on n''entre pas en tenue de sport dans la tournée nocturne.'
+respuestaCorta: 'Les trois activités qui marchent le mieux pour un EVJF ou un EVG à Madrid sont le **tuk-tuk fête privé avec votre musique** (150 € par tuk-tuk, 1 h 30 min), l''**atelier paella et sangria** près de Sol (64 € par personne, 3 heures) et, pour la nuit, un **pub crawl** dans trois bars et une discothèque avec un shot à chaque arrêt (19 € par personne, 5 heures). Si vous êtes plus de 8, réservez deux ou trois semaines à l''avance et vérifiez le code vestimentaire : on n''entre pas en tenue de sport dans la tournée nocturne.'
 faq:
   - pregunta: "Combien coûte un EVJF ou un EVG à Madrid ?"
     respuesta: "Avec nos fiches, une journée complète revient à environ 83 € par personne : atelier paella et sangria (64 €, déjeuner ou dîner inclus) et pub crawl le soir (19 €, avec quatre shots et les entrées). Si vous ajoutez le tuk-tuk fête, comptez 150 € par véhicule à partager entre ceux qui y montent."

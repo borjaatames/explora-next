@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 21,50 €**. Por 6,50 € más, la [**entrada con la Casa Museo Gaudí**](/ciudades/barcelona/actividades/park-guell-entrada-museo-casa-gaudi) (28 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
+respuestaCorta: 'Si solo quieres ver la zona monumental (el dragón, la Sala Hipóstila y el banco ondulado), basta la **entrada básica desde 21,50 €**. Por 6,50 € más, la **entrada con la Casa Museo Gaudí** (28 €) suma la casa donde vivió el arquitecto. Ninguna incluye guía y **ninguna se puede cancelar**: reserva solo cuando tengas la hora clara.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

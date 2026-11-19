@@ -1,7 +1,7 @@
 ---
 titulo: "Los Patios de Córdoba: cuándo verlos y cómo (festival y todo el año)"
 descripcion: "Guía de los Patios de Córdoba: qué es la Fiesta de los Patios (mayo), barrios para verlos (San Basilio, Santa Marina), el Palacio de Viana y cómo verlos sin colas."
-respuestaCorta: 'La **Fiesta de los Patios** dura dos semanas a principios de mayo (del 4 al 17 en 2026): las casas abren sus patios **gratis**, de 11:00 a 14:00 y de 18:00 a 22:00. Ve a primera hora o al caer la tarde. El resto del año, el [**Palacio de Viana**](/ciudades/cordoba/actividades/palacio-viana-patios-entrada) tiene doce patios (8,50 €) y un **tour guiado por cinco patios de San Basilio** cuesta desde 19 €.'
+respuestaCorta: 'La **Fiesta de los Patios** dura dos semanas a principios de mayo (del 4 al 17 en 2026): las casas abren sus patios **gratis**, de 11:00 a 14:00 y de 18:00 a 22:00. Ve a primera hora o al caer la tarde. El resto del año, el **Palacio de Viana** tiene doce patios (8,50 €) y un **tour guiado por cinco patios de San Basilio** cuesta desde 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordoba"
 fecha: "2026-08-30"

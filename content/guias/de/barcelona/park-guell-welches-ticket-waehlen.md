@@ -28,7 +28,7 @@ slugs:
   it: park-guell-quale-biglietto-scegliere
   pt: park-guell-que-bilhete-escolher
 reservasArriba: true
-respuestaCorta: 'Wenn du nur den Monumentalbereich sehen willst (Drachentreppe, Säulenhalle und die geschwungene Bank), reicht das **Basisticket ab 21,50 €**. Für 6,50 € mehr bekommst du mit dem [**Ticket inklusive Casa Museu Gaudí**](/de/cities/barcelona/activities/barcelona-park-guell-gaudi-hausmuseum-kombiticket) (28 €) auch das Haus, in dem der Architekt lebte. Keins der beiden enthält einen Guide, und **keins lässt sich stornieren**: Buch erst, wenn deine Uhrzeit feststeht.'
+respuestaCorta: 'Wenn du nur den Monumentalbereich sehen willst (Drachentreppe, Säulenhalle und die geschwungene Bank), reicht das **Basisticket ab 21,50 €**. Für 6,50 € mehr bekommst du mit dem **Ticket inklusive Casa Museu Gaudí** (28 €) auch das Haus, in dem der Architekt lebte. Keins der beiden enthält einen Guide, und **keins lässt sich stornieren**: Buch erst, wenn deine Uhrzeit feststeht.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

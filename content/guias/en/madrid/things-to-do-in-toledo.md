@@ -2,7 +2,7 @@
 titulo: 'Things to do in Toledo, Spain: 15 sights with prices and hours'
 descripcion: 'Things to do in Toledo, Spain: the Cathedral (€12), Santo Tomé, the Jewish Quarter and the Mirador del Valle. 15 sights with prices, hours and time needed.'
 metaTitle: 'Things to do in Toledo: 15 sights and prices'
-respuestaCorta: 'The core of Toledo is the **Primate Cathedral (€12)**, **Santo Tomé** with El Greco''s *Burial of the Lord of Orgaz*, the **Jewish Quarter** (El Tránsito Synagogue, Santa María la Blanca and San Juan de los Reyes) and the **Mirador del Valle** at sunset. If you''ll go into three or more of the smaller monuments, the [**€14 tourist bracelet**](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments) covers seven. One day is enough for six to eight sights done well; two days cover this whole list.'
+respuestaCorta: 'The core of Toledo is the **Primate Cathedral (€12)**, **Santo Tomé** with El Greco''s *Burial of the Lord of Orgaz*, the **Jewish Quarter** (El Tránsito Synagogue, Santa María la Blanca and San Juan de los Reyes) and the **Mirador del Valle** at sunset. If you''ll go into three or more of the smaller monuments, the **€14 tourist bracelet** covers seven. One day is enough for six to eight sights done well; two days cover this whole list.'
 categoria: madrid
 slug: things-to-do-in-toledo
 fecha: "2026-05-27"

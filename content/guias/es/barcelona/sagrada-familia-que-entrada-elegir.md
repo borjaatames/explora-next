@@ -2,7 +2,7 @@
 titulo: 'Entradas Sagrada Familia 2026: precio y cuál elegir'
 descripcion: 'Entradas Sagrada Familia: la oficial con audioguía, 26 €; con torre, 36 €. Comparamos las 7 opciones reservables, del tour guiado al combinado con Park Güell.'
 metaTitle: 'Entradas Sagrada Familia 2026: precio y tipos'
-respuestaCorta: 'Para la basílica sola, la [**entrada con audioguía desde 34 €**](/ciudades/barcelona/actividades/entrada-sagrada-familia-audioguia) es la opción reservable más barata, y el **tour guiado con torre (desde 75 €)[** es el único que sube a una torre. Para sumar el Park Güell sin perder el día, el **](/ciudades/barcelona/actividades/sagrada-familia-park-guell-tour-guiado)combinado guiado de 4 horas (desde 104 €)** cubre ambos. Reserva con semanas: la entrada va por franja y **no se vende en taquilla**.'
+respuestaCorta: 'Para la basílica sola, la **entrada con audioguía desde 34 €** es la opción reservable más barata, y el **tour guiado con torre (desde 75 €)** es el único que sube a una torre. Para sumar el Park Güell sin perder el día, el **combinado guiado de 4 horas (desde 104 €)** cubre ambos. Reserva con semanas: la entrada va por franja y **no se vende en taquilla**.'
 categoria: "barcelona"
 slug: "sagrada-familia-que-entrada-elegir"
 fecha: "2026-05-01"

@@ -2,7 +2,6 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import type { Idioma } from "@/lib/i18n/types";
 
 type Props = {
   titulo: string;
@@ -14,23 +13,7 @@ type Props = {
   rating: string | null;
   textoDesde: string;
   textoCta: string;
-  /**
-   * Si la guía tiene bloque «Nuestras N opciones», la barra lleva a ese
-   * bloque (#opciones) en vez de vender una sola actividad.
-   */
-  planes?: { numero: number; precioMin: string; idioma: Idioma };
 };
-
-const TEXTOS_PLANES = {
-  es: { titulo: (n: number) => `Nuestras ${n} opciones`, cta: "Ver planes" },
-  en: { titulo: (n: number) => `Our ${n} picks`, cta: "See options" },
-  de: { titulo: (n: number) => `Unsere ${n} Empfehlungen`, cta: "Ansehen" },
-  fr: { titulo: (n: number) => `Nos ${n} options`, cta: "Voir" },
-  it: { titulo: (n: number) => `Le nostre ${n} opzioni`, cta: "Vedi" },
-  pt: { titulo: (n: number) => `As nossas ${n} opções`, cta: "Ver opções" },
-} as const satisfies Record<Idioma, unknown>;
-
-type Gtag = (comando: "event", nombre: string, parametros: Record<string, string>) => void;
 
 const UMBRAL_SCROLL_PX = 600;
 
@@ -47,7 +30,6 @@ export default function CtaStickyGuia({
   rating,
   textoDesde,
   textoCta,
-  planes,
 }: Props) {
   const [visible, setVisible] = useState(false);
 
@@ -80,57 +62,29 @@ export default function CtaStickyGuia({
       aria-hidden={!visible}
     >
       <div className="flex items-center gap-3 px-4 py-3 pb-[max(0.75rem,env(safe-area-inset-bottom))]">
-        {planes ? (
-          <>
-            <div className="flex-1 min-w-0">
-              <p className="text-sm font-semibold text-piedra-900 truncate">
-                {TEXTOS_PLANES[planes.idioma].titulo(planes.numero)}
-              </p>
-              <p className="text-xs text-piedra-500">
-                {textoDesde} <span className="font-bold text-piedra-900">{planes.precioMin}</span>
-              </p>
-            </div>
-            <a
-              href="#opciones"
-              tabIndex={visible ? 0 : -1}
-              onClick={() => {
-                const gtag = (window as unknown as { gtag?: Gtag }).gtag;
-                if (typeof gtag === "function") {
-                  gtag("event", "click_sticky_opciones", { idioma: planes.idioma });
-                }
-              }}
-              className="flex-none inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
-            >
-              {TEXTOS_PLANES[planes.idioma].cta}
-            </a>
-          </>
-        ) : (
-          <>
-            <div className="flex-1 min-w-0">
-              <p className="text-sm font-semibold text-piedra-900 truncate">{titulo}</p>
-              <p className="text-xs text-piedra-500">
-                {rating ? (
-                  <>
-                    <span className="text-azafran-600" aria-hidden>
-                      ★
-                    </span>{" "}
-                    {rating} ·{" "}
-                  </>
-                ) : null}
-                {textoDesde} <span className="font-bold text-piedra-900">{precio}</span>
-              </p>
-            </div>
-            <Link
-              href={url}
-              data-reserva="sticky"
-              data-ficha={slugEs}
-              tabIndex={visible ? 0 : -1}
-              className="flex-none inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
-            >
-              {textoCta}
-            </Link>
-          </>
-        )}
+        <div className="flex-1 min-w-0">
+          <p className="text-sm font-semibold text-piedra-900 truncate">{titulo}</p>
+          <p className="text-xs text-piedra-500">
+            {rating ? (
+              <>
+                <span className="text-azafran-600" aria-hidden>
+                  ★
+                </span>{" "}
+                {rating} ·{" "}
+              </>
+            ) : null}
+            {textoDesde} <span className="font-bold text-piedra-900">{precio}</span>
+          </p>
+        </div>
+        <Link
+          href={url}
+          data-reserva="sticky"
+          data-ficha={slugEs}
+          tabIndex={visible ? 0 : -1}
+          className="flex-none inline-flex items-center justify-center bg-azafran-500 hover:bg-azafran-600 text-piedra-900 font-semibold text-sm px-5 py-3 min-h-[44px] rounded-lg transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2"
+        >
+          {textoCta}
+        </Link>
       </div>
     </div>
   );

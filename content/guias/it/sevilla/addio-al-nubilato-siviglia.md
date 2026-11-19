@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-siviglia
   pt: despedida-de-solteira-sevilha
 reservasArriba: true
-respuestaCorta: 'Per un addio al nubilato o al celibato a Siviglia, le tre opzioni che funzionano meglio sono il **tour privato di flamenco e tapas a Triana** (720 € per 6, circa 120 € a persona, con spettacolo, tapas e 4 bevande ciascuno), il **tuk tuk elettrico privato** (99 € fino a 4 persone, 1 ora) e uno [**spettacolo di flamenco**](/it/cities/sevilla/activities/siviglia-casa-de-la-memoria-spettacolo-flamenco-intimo) da 24 € a persona. Dal 2024 la Polizia Locale può multare fino a 750 € chi va in giro per strada in biancheria intima o con accessori a forma di genitali.'
+respuestaCorta: 'Per un addio al nubilato o al celibato a Siviglia, le tre opzioni che funzionano meglio sono il **tour privato di flamenco e tapas a Triana** (720 € per 6, circa 120 € a persona, con spettacolo, tapas e 4 bevande ciascuno), il **tuk tuk elettrico privato** (99 € fino a 4 persone, 1 ora) e uno **spettacolo di flamenco** da 24 € a persona. Dal 2024 la Polizia Locale può multare fino a 750 € chi va in giro per strada in biancheria intima o con accessori a forma di genitali.'
 faq:
   - pregunta: "A Siviglia gli addii al nubilato vengono multati?"
     respuesta: "Non gli addii al nubilato in sé, ma alcuni comportamenti. Il regolamento di convivenza di Siviglia, modificato all'inizio del 2024, permette di multare fino a 750 € chi sta per strada nudo o in biancheria intima, con abiti o accessori che rappresentano genitali o con bambole o oggetti a tema sessuale."

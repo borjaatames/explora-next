@@ -25,11 +25,6 @@ slugs:
   fr: ou-manger-a-barcelone-tapas-vermouth
   it: dove-mangiare-a-barcellona
   pt: onde-comer-em-barcelona
-opciones:
-  - ficha: tour-gastronomico-mediodia-boqueria-vinos
-    etiqueta: "Mittags"
-  - ficha: tour-tapas-y-vino-noche
-    etiqueta: "Abends"
 actividades:
   - tour-gastronomico-mediodia-boqueria-vinos
   - tour-tapas-y-vino-noche

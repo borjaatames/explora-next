@@ -40,13 +40,6 @@ faq:
     respuesta: "In Plaza de la Constitución, alla fine di calle Larios. Nel 2025 il Comune ha distribuito sacchetti con uva e gadget per la festa dalle 21:30 alle 23:45 o fino a esaurimento. Le luci del centro restano accese il 31 fino alle 6:00."
   - pregunta: "A che ora è la Cabalgata dei Re Magi di Malaga?"
     respuesta: "Il 5 gennaio. Nel 2026 i Re Magi sono arrivati al Comune alle 17:30 e la Cabalgata è partita da lì alle 18:00. Prima, il 2 gennaio alle 17:30, l'Araldo Reale parte dall'Alcazaba, e dal 2 al 4 gennaio il Postino Reale raccoglie le letterine in Plaza de la Constitución."
-opciones:
-  - ficha: catamaran-malaga-atardecer
-    etiqueta: "Tramonto in mare"
-  - ficha: hammam-al-andalus-malaga
-    etiqueta: "Bagni arabi"
-  - ficha: malaga-tour-vino-tapas
-    etiqueta: "Tapas e vino"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas

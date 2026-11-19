@@ -124,9 +124,6 @@ fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
 - park-guell-que-entrada-elegir
-alternativa:
-  slug: park-guell-visita-guiada-acceso-prioritario
-  motivo: "Park Güell limita el aforo de la Zona Monumental y se agota. Si no queda tu hora, esta visita guiada incluye acceso prioritario."
 ---
 
 ## Qué vas a ver

@@ -26,7 +26,7 @@ slugs:
   it: attivita-gruppi-aziende-madrid
   pt: atividades-para-grupos-e-empresas-madrid
 reservasArriba: true
-respuestaCorta: "Per un gruppo di sei a Madrid, il miglior rapporto qualità-prezzo a testa è un **tour privato a piedi della Gran Vía** (300 € per il gruppo, 50 € a persona), i [**tuk-tuk privati nel centro storico**](/it/cities/madrid/activities/tuk-tuk-privato-centro-storico-gran-via-madrid) (79 € a tuk-tuk fino a 4 persone: 158 € per 8 persone e 237 € per 10) e, come escursione, **El Escorial e Cuelgamuros in privato** con prelievo, guida ufficiale e biglietti (1.920 € per 6, 320 € a persona). Per una cena di squadra, il [**tour privato delle taverne centenarie**](/it/cities/madrid/activities/madrid-tour-privato-taverne-storiche) costa 127 € a persona con due consumazioni e due tapas."
+respuestaCorta: "Per un gruppo di sei a Madrid, il miglior rapporto qualità-prezzo a testa è un **tour privato a piedi della Gran Vía** (300 € per il gruppo, 50 € a persona), i **tuk-tuk privati nel centro storico** (79 € a tuk-tuk fino a 4 persone: 158 € per 8 persone e 237 € per 10) e, come escursione, **El Escorial e Cuelgamuros in privato** con prelievo, guida ufficiale e biglietti (1.920 € per 6, 320 € a persona). Per una cena di squadra, il **tour privato delle taverne centenarie** costa 127 € a persona con due consumazioni e due tapas."
 faq:
   - pregunta: "Quanto costa un'attività privata per sei persone a Madrid?"
     respuesta: "Dipende dal piano: 300 € in totale (50 € a persona) per il tour privato della Gran Vía, 450 € (75 € a persona) per la Madrid ebraica, 158 € per due tuk-tuk nel centro storico e 1.920 € (320 € a persona) per l'escursione privata all'Escorial e a Cuelgamuros con prelievo, guida ufficiale e biglietti."

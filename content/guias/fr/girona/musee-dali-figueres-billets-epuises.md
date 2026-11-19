@@ -26,7 +26,7 @@ slugs:
   it: museo-dali-figueres-biglietti-esauriti
   pt: museu-dali-figueres-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'Le billet général coûte **à partir de 18,50 €** sur `tickets.salvador-dali.org`, et la disponibilité dépend de la jauge du musée. Si votre jour est complet, essayez d''autres créneaux et d''autres jours, ou la [**visite guidée avec billet inclus**](/fr/cities/girona/activities/figueres-visite-guidee-theatre-musee-dali-billets) (à partir de 31 €). Les billets officiels **ne sont ni échangeables ni remboursables** pour des raisons extérieures au musée, alors ne comptez pas sur les annulations.'
+respuestaCorta: 'Le billet général coûte **à partir de 18,50 €** sur `tickets.salvador-dali.org`, et la disponibilité dépend de la jauge du musée. Si votre jour est complet, essayez d''autres créneaux et d''autres jours, ou la **visite guidée avec billet inclus** (à partir de 31 €). Les billets officiels **ne sont ni échangeables ni remboursables** pour des raisons extérieures au musée, alors ne comptez pas sur les annulations.'
 webOficial:
   url: https://www.salvador-dali.org/
   precio: "Entrée générale dès 18,50 €"

@@ -49,10 +49,10 @@ faq:
 - pregunta: What can I see of the Cathedral and the Giralda without a ticket?
   respuesta: 'The facades and the Giralda from Plaza Virgen de los Reyes, Avenida de la Constitución and Plaza del Triunfo, which surround the building. To see inside you need a ticket or to attend a service, which is not a tourist visit.'
 opciones:
-  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Free cancellation
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: Cheapest
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Plus the Alcázar
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Private
 ---

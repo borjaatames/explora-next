@@ -1,7 +1,7 @@
 ---
 titulo: "I Patios di Cordova: quando vederli e come (festival e tutto l'anno)"
 descripcion: "Guida ai Patios di Cordova: cos'è la Festa dei Patios (maggio), i quartieri dove vederli (San Basilio, Santa Marina), il Palacio de Viana e come vederli senza code."
-respuestaCorta: 'La **Festa dei Patios** dura due settimane all''inizio di maggio (dal 4 al 17 nel 2026): le case aprono i loro patios **gratis**, dalle 11:00 alle 14:00 e dalle 18:00 alle 22:00. Vai a prima ora o al calar della sera. Il resto dell''anno, il [**Palacio de Viana**](/it/cities/cordoba/activities/cordova-biglietto-12-patios-palacio-de-viana) ha dodici patios (8,50 €) e un **tour guidato di cinque patios di San Basilio** costa da 19 €.'
+respuestaCorta: 'La **Festa dei Patios** dura due settimane all''inizio di maggio (dal 4 al 17 nel 2026): le case aprono i loro patios **gratis**, dalle 11:00 alle 14:00 e dalle 18:00 alle 22:00. Vai a prima ora o al calar della sera. Il resto dell''anno, il **Palacio de Viana** ha dodici patios (8,50 €) e un **tour guidato di cinque patios di San Basilio** costa da 19 €.'
 categoria: "cordoba"
 slug: "patios-di-cordova"
 fecha: "2026-08-30"

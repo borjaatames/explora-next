@@ -40,13 +40,6 @@ faq:
     respuesta: "É organizada pelo Ateneo a 5 de janeiro. Em 2026 saiu às 16h15 da antiga Fábrica de Tabacos, passou pelo centro (Campana, San Pablo, Reyes Católicos), atravessou para Triana e regressou por volta das 22h00, com 33 carros alegóricos. Na véspera, a 4 de janeiro, o Arauto Real percorre a cidade."
   - pregunta: "Onde comprar doces conventuais em Sevilha?"
     respuesta: "Nas rodas dos conventos de clausura, como San Leandro, famoso pelas suas gemas, e na exposição e venda de doces conventuais que se realiza no Real Alcázar por volta do feriado da Imaculada Conceição (em 2023, de 5 a 8 de dezembro, com 20 conventos). As datas de 2026 ainda não foram publicadas."
-opciones:
-  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
-    etiqueta: "Flamenco intimista"
-  - ficha: sevilla-tapas-tour-triana-cruzando-rio
-    etiqueta: "Tapas em Triana"
-  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
-    etiqueta: "Excursão a Córdova"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

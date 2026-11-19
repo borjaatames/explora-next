@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-siviglia
   pt: despedida-de-solteira-sevilha
 reservasArriba: true
-respuestaCorta: "For a hen or stag do in Seville, the three best options are the **private flamenco and tapas tour in Triana** (€720 for 6, about €120 each, with a show, tapas and 4 drinks per person), the **private electric tuk tuk** (€99 for up to 4, 1 hour) and a [**flamenco show**](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) from €24 per person. Since 2024, local police can fine anyone in the street in underwear or with genital-shaped accessories up to €750."
+respuestaCorta: "For a hen or stag do in Seville, the three best options are the **private flamenco and tapas tour in Triana** (€720 for 6, about €120 each, with a show, tapas and 4 drinks per person), the **private electric tuk tuk** (€99 for up to 4, 1 hour) and a **flamenco show** from €24 per person. Since 2024, local police can fine anyone in the street in underwear or with genital-shaped accessories up to €750."
 faq:
   - pregunta: "Does Seville fine hen and stag parties?"
     respuesta: "Not the parties themselves, but certain behaviour. Seville's public-space civic ordinance, amended in early 2024, allows fines of up to €750 for being in the street naked or in underwear, wearing clothing or accessories depicting genitals, or carrying sexual-themed dolls or objects."

@@ -2,24 +2,12 @@
 
 import { useEffect, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
-import { avisoBarra } from "@/lib/avisoBarra";
-import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 import { IDIOMA_LOCALE } from "@/lib/i18n/config";
 import {
   ANCLA_RESERVA,
   textosPrecioBokun,
   type DatosPrecioBokun,
 } from "@/lib/reservaBokun";
-
-// Texto corto del botón: «Ver fechas disponibles» dejaba sin sitio al aviso.
-const VER_FECHAS_CORTO: Record<Idioma, string> = {
-  es: "Ver fechas",
-  en: "See dates",
-  de: "Termine",
-  fr: "Voir les dates",
-  it: "Vedi date",
-  pt: "Ver datas",
-};
 
 const ARIA_RESERVAR: Record<Idioma, string> = {
   es: "Reservar actividad",
@@ -54,8 +42,6 @@ export default function StickyReservaBokun({
   ...datos
 }: Props) {
   const [reservaVisible, setReservaVisible] = useState(false);
-  // En la barra solo cabe una línea: versión corta; el aviso entero va en title y en la ficha.
-  const avisoCorto = avisoBarra(idioma, aviso);
 
   useEffect(() => {
     const bloque = document.getElementById(ANCLA_RESERVA);
@@ -88,25 +74,17 @@ export default function StickyReservaBokun({
       role="region"
       aria-label={ARIA_RESERVAR[idioma]}
       aria-hidden={!visible}
-      data-barra-reserva
     >
-      <div className="flex items-center justify-between gap-3 px-4 py-2.5 max-w-6xl mx-auto">
+      {aviso && (
+        <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
+          {aviso}
+        </p>
+      )}
+      <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
         <div className="flex flex-col min-w-0 flex-1">
-          <span className="text-base font-bold text-piedra-900 leading-tight truncate">
+          <span className="text-base font-bold text-piedra-900 leading-tight">
             {t.desde} {t.precio}
-            {avisoCorto && rating && (
-              <span className="ml-2 text-xs font-normal text-piedra-500">
-                <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
-                <span className="font-semibold text-piedra-900">{rating}</span>
-              </span>
-            )}
           </span>
-          {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
-          {avisoCorto ? (
-            <span className="text-xs font-semibold text-azafran-800 leading-tight truncate" title={aviso}>
-              {avisoCorto}
-            </span>
-          ) : (
           <span className="text-xs text-piedra-500 leading-tight line-clamp-2">
             {rating && (
               <>
@@ -119,15 +97,13 @@ export default function StickyReservaBokun({
             )}
             {t.unidad}
           </span>
-          )}
         </div>
-        {visible && <WhatsAppCompacto idioma={idioma} />}
         <a
           href={`#${ANCLA_RESERVA}`}
           tabIndex={visible ? 0 : -1}
           className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-4 py-3 text-sm font-semibold text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-azafran-500 focus-visible:ring-offset-2 whitespace-nowrap shrink-0"
         >
-          {VER_FECHAS_CORTO[idioma]} →
+          {t.verFechas} →
         </a>
       </div>
     </div>

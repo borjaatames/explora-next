@@ -26,13 +26,6 @@ slugs:
   pt: natal-em-madrid
 reservasArriba: true
 respuestaCorta: "As luzes acendem-se no **sábado, 21 de novembro**, na Plaza de Cibeles e ficam até 6 de janeiro, em mais de 250 pontos da cidade. O imprescindível: o **mercado de Natal da Plaza Mayor**, o **Cortylandia** na Calle Preciados, ver as luzes no autocarro **Naviluz** ou de tuk-tuk e a **Cavalgada dos Reis Magos** a 5 de janeiro. Vá num dia de semana: aos sábados de dezembro o centro fica parado."
-opciones:
-  - ficha: madrid-big-bus-night-tour
-    etiqueta: "Luzes de Natal de autocarro"
-  - ficha: flamenco-torres-bermejas-cena
-    etiqueta: "Jantar com flamenco"
-  - ficha: madrid-tour-nocturno-inquisicion-leyendas
-    etiqueta: "Lendas à noite"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

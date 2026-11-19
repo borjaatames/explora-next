@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-barcellona
   pt: despedida-de-solteira-barcelona
 reservasArriba: true
-respuestaCorta: 'Para una despedida en Barcelona, lo que mejor funciona es la [**cata de cerveza solo para vuestro grupo en una azotea**](/ciudades/barcelona/actividades/barcelona-cata-cerveza-grupos-privados-azotea) del Passeig de Gràcia (55 € por persona, 2 horas), el [**sip & paint con sangría a voluntad**](/ciudades/barcelona/actividades/barcelona-sip-and-paint-sangria) (19 € por persona, 2 h 30 min) y, fuera del invierno, la [**boat party en catamarán con DJ**](/ciudades/barcelona/actividades/fiesta-en-barco-barcelona-catamaran-dj) (53,10 € por persona, con 4 bebidas y entrada a una discoteca). Ojo con las normas: desde el 29 de octubre de 2025 las rutas organizadas de bares para beber están prohibidas en toda la ciudad, y desde febrero de 2026 se multan los complementos de contenido sexual en la calle.'
+respuestaCorta: 'Para una despedida en Barcelona, lo que mejor funciona es la **cata de cerveza solo para vuestro grupo en una azotea** del Passeig de Gràcia (55 € por persona, 2 horas), el **sip & paint con sangría a voluntad** (19 € por persona, 2 h 30 min) y, fuera del invierno, la **boat party en catamarán con DJ** (53,10 € por persona, con 4 bebidas y entrada a una discoteca). Ojo con las normas: desde el 29 de octubre de 2025 las rutas organizadas de bares para beber están prohibidas en toda la ciudad, y desde febrero de 2026 se multan los complementos de contenido sexual en la calle.'
 faq:
   - pregunta: "¿Está prohibido hacer una despedida en Barcelona?"
     respuesta: "No. Lo que está prohibido desde el 29 de octubre de 2025 es organizar, vender o participar en rutas por varios bares cuyo fin principal es beber (pub crawls), en toda la ciudad y a cualquier hora. Además, la ordenanza de convivencia vigente desde el 15 de febrero de 2026 prohíbe ir por la calle con ropa u objetos que representen genitales. Una cata, un barco o una clase en un solo sitio no entran en esa prohibición."
@@ -38,13 +38,6 @@ faq:
     respuesta: "La cata de cerveza artesana en Craft Barcelona, en el Barrio Gótico, termina con música en directo y karaoke opcional para quien quiera quedarse. Tiene pases a las 20:30 y a las 22:30 y cuesta 17 € por persona, con bebidas incluidas después de la cata."
   - pregunta: "¿Con cuánta antelación hay que reservar?"
     respuesta: "Para un fin de semana de primavera o verano, dos o tres semanas, sobre todo la boat party. Tened en cuenta que la boat party, la cata de cerveza privada y la clase de salsa no son reembolsables: confirmad antes quién va."
-opciones:
-  - ficha: fiesta-en-barco-barcelona-catamaran-dj
-    etiqueta: "Fiesta en barco"
-  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
-    etiqueta: "Con sangría"
-  - ficha: barcelona-sip-and-paint-sangria
-    etiqueta: "La más barata"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

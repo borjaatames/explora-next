@@ -1,5 +1,3 @@
-import EnlaceAtraccion from "@/components/atraccion/EnlaceAtraccion";
-import { atraccionDeFicha, atraccionDeGuia } from "@/lib/atracciones";
 import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -32,12 +30,10 @@ import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
 import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
-import PresupuestoWhatsApp from "@/components/ficha/PresupuestoWhatsApp";
 import DatosClave from "@/components/ficha/DatosClave";
-import { etiquetaCancelacion, etiquetaReservaSinPagar } from "@/lib/cancelacion";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
-import { datosTripadvisorBokun, fuenteResenasGyg, textoRankingTripadvisor } from "@/lib/tripadvisor";
+import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
 import SeccionMovil from "@/components/ficha/SeccionMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
 import { ANCLA_RESERVA } from "@/lib/reservaBokun";
@@ -53,9 +49,6 @@ import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
-import CompartirFicha from "@/components/ficha/CompartirFicha";
-import { formatearPrecio } from "@/lib/guiasReservas";
-import { obtenerAlternativasFicha } from "@/lib/alternativasReserva";
 import { tituloSeoGuia } from "@/lib/tituloSeo";
 
 const SITE_URL =
@@ -134,7 +127,6 @@ export default async function ActividadPage({ params }: Props) {
         (a) => a.slug === actividad.alternativa?.slug
       )
     : undefined;
-  const alternativasFicha = obtenerAlternativasFicha("es", params.ciudad, actividad, alternativa);
   const versionPrivada =
     actividad.privada === true
       ? undefined
@@ -248,8 +240,6 @@ export default async function ActividadPage({ params }: Props) {
   const etiquetaPrecio = actividad.precioPorGrupo
     ? dict.actividades.porGrupo
     : dict.actividades.porPersona;
-  // Nuestro precio encima del calendario de GYG: Borja lo quiere siempre visible
-  // (se quitó por error el 17-11-2026 y se repuso el 19-11-2026).
   const precioWidget = (
     <PrecioDestacado
       textoDesde={dict.actividades.desde}
@@ -259,8 +249,6 @@ export default async function ActividadPage({ params }: Props) {
       opiniones={tieneRating ? ratingTextoOpiniones : undefined}
     />
   );
-  const etiquetaCanc = etiquetaCancelacion("es", actividad);
-  const etiquetaPagoDespues = etiquetaReservaSinPagar("es", actividad.reservaSinPagar);
   const bloqueCalendario = (
     <CalendarioReserva
       idioma="es"
@@ -368,14 +356,14 @@ export default async function ActividadPage({ params }: Props) {
             <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
               {actividad.duracion}
             </span>
-            {etiquetaCanc && (
+            {actividad.cancelacionGratuita && (
               <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
-                {etiquetaCanc}
-              </span>
-            )}
-            {etiquetaPagoDespues && (
-              <span className="hidden md:inline bg-piedra-100 text-piedra-600 px-2 py-1 rounded">
-                {etiquetaPagoDespues}
+                {actividad.horasCancelacion
+                  ? dict.actividades.cancelacionHorasAntes.replace(
+                      "{horas}",
+                      String(actividad.horasCancelacion)
+                    )
+                  : dict.actividades.cancelacionGratuita}
               </span>
             )}
           </div>
@@ -449,16 +437,14 @@ export default async function ActividadPage({ params }: Props) {
           highlights={actividad.highlights}
           cancelacionGratuita={actividad.cancelacionGratuita}
           horasCancelacion={actividad.horasCancelacion}
-          politicaCancelacion={actividad.politicaCancelacion}
-          reservaSinPagar={actividad.reservaSinPagar}
           detalles={actividad.detallesPracticos}
         />
 
-        {alternativasFicha && (
+        {actividad.alternativa && (
           <AlternativaReserva
-            alternativas={alternativasFicha.alternativas}
-            motivo={alternativasFicha.motivo}
-            idioma={"es"}
+            alternativa={alternativa}
+            motivo={actividad.alternativa.motivo}
+            idioma="es"
           />
         )}
 
@@ -475,23 +461,6 @@ export default async function ActividadPage({ params }: Props) {
             preciosGrupo={actividad.preciosGrupo}
           />
         )}
-
-        {actividad.proveedor === "bokun" && actividad.privada === true && (
-          <PresupuestoWhatsApp
-            idioma="es"
-            titulo={actividad.titulo}
-            slug={params.slug}
-            ubicacion="cabecera"
-          />
-        )}
-
-        <CompartirFicha
-          idioma={"es"}
-          titulo={actividad.titulo}
-          precio={actividad.precioDesde > 0 ? formatearPrecio(actividad, "es") : null}
-          ruta={actividad.url}
-          slugEs={params.slug}
-        />
       </div>
 
       </div>
@@ -584,14 +553,6 @@ export default async function ActividadPage({ params }: Props) {
             >
               {actividad.proveedor === "bokun" ? (
                 <>
-                  {actividad.privada === true && (
-                    <PresupuestoWhatsApp
-                      idioma="es"
-                      titulo={actividad.titulo}
-                      slug={params.slug}
-                      ubicacion="reserva"
-                    />
-                  )}
                   <BokunWidget
                     idioma="es"
                     productId={actividad.bokunProductId ?? 0}
@@ -610,16 +571,6 @@ export default async function ActividadPage({ params }: Props) {
                     confirmacionInmediata={actividad.detallesPracticos?.confirmacionInmediata}
                     cancelacionGratuita={actividad.cancelacionGratuita}
                     horasCancelacion={actividad.horasCancelacion}
-                    organizador={
-                      tripadvisor
-                        ? {
-                            nombre: tripadvisor.nombre,
-                            rating: tripadvisor.rating,
-                            opiniones: tripadvisor.opiniones,
-                            ranking: textoRankingTripadvisor(tripadvisor.ranking, "es"),
-                          }
-                        : undefined
-                    }
                   />
                 </>
               ) : tourWidget ? (
@@ -635,7 +586,7 @@ export default async function ActividadPage({ params }: Props) {
               ) : (
                 bloqueCalendario
               )}
-              {actividad.proveedor !== "bokun" && !tourWidget && (
+              {actividad.proveedor !== "bokun" && (
                 <div className="mt-3 flex justify-center">
                   <SelloProveedor proveedor={actividad.proveedor} idioma="es" conLogo />
                 </div>
@@ -782,21 +733,19 @@ export default async function ActividadPage({ params }: Props) {
             )}
             </div>
 
-            {/* 12b. Reseñas reales del proveedor (Tripadvisor Content API), al
-                final como Civitatis y GYG (decisión de Borja, 19-11-2026). La nota
-                de arriba enlaza aquí (#opiniones). */}
+            {/* 13. Guías relacionadas */}
+            {bloqueGuias && (
+              <div>{bloqueGuias}</div>
+            )}
+
+            {/* 13b. Reseñas reales del proveedor (Tripadvisor Content API),
+                al final del contenido por decisión de Borja (24-10-2026) */}
             {fuenteResenas && (
               <ResenasTripadvisor
                 idioma="es"
                 locationId={fuenteResenas.locationId}
                 nombreProveedor={fuenteResenas.nombre}
-                notaGlobal={tieneRating ? { valor: ratingTextoValor, opiniones: ratingTextoOpiniones } : undefined}
               />
-            )}
-
-            {/* 13. Guías relacionadas */}
-            {bloqueGuias && (
-              <div>{bloqueGuias}</div>
             )}
 
             {/* 14. Disclosure de afiliación */}
@@ -817,8 +766,6 @@ export default async function ActividadPage({ params }: Props) {
 
         </div>
       </section>
-
-      <EnlaceAtraccion idioma={"es"} enlace={atraccionDeFicha("es", params.ciudad, actividad.atraccionesRelacionadas ?? [])} />
 
       <ActividadesRecomendadasGuia
 

@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-barcellona
   pt: o-que-fazer-em-barcelona-a-dois
 reservasArriba: true
-respuestaCorta: 'Les trois activités en couple que nous recommandons le plus à Barcelone sont la **sortie en voilier au coucher du soleil** avec open bar de cava, vin et bière (55 € par personne, 2 heures, 12 personnes maximum à bord), la [**visite privée tapas, vin et flamenco**](/fr/cities/barcelona/activities/barcelona-visite-privee-tapas-vin-flamenco) dans le quartier gothique et le Born (114 € par personne à deux) et le [**flamenco au Palau Dalmases**](/fr/cities/barcelona/activities/barcelone-palau-dalmases-spectacle-flamenco-palais), un palais baroque du XVIIe siècle (à partir de 30 € par personne). Pour une soirée différente, la [**Casa Batlló de nuit avec concert sur la terrasse**](/fr/cities/barcelona/activities/casa-batllo-visite-nocturne-musique-live) et coupe de cava coûte 59 €.'
+respuestaCorta: 'Les trois activités en couple que nous recommandons le plus à Barcelone sont la **sortie en voilier au coucher du soleil** avec open bar de cava, vin et bière (55 € par personne, 2 heures, 12 personnes maximum à bord), la **visite privée tapas, vin et flamenco** dans le quartier gothique et le Born (114 € par personne à deux) et le **flamenco au Palau Dalmases**, un palais baroque du XVIIe siècle (à partir de 30 € par personne). Pour une soirée différente, la **Casa Batlló de nuit avec concert sur la terrasse** et coupe de cava coûte 59 €.'
 faq:
   - pregunta: "Quelle est l'activité la plus romantique de Barcelone ?"
     respuesta: "Pour la plupart des couples, partir en voilier au coucher du soleil depuis le Port Vell : deux heures sur un Beneteau Oceanis 41, avec open bar de cava, vin et bière et des amuse-bouches, en groupe de 12 maximum, pour 55 € par personne. Ensuite, flamenco au Palau Dalmases, dans le Born."
@@ -38,13 +38,6 @@ faq:
     respuesta: "L'expérience nocturne de la Casa Milà, avec spectacle de lumière sur la terrasse et coupe de cava (39,50 €), ou la Casa Batlló de nuit avec concert et cava (59 €). La terrasse de La Pedrera peut fermer en cas de forte pluie ; dans ce cas, la visite est reprogrammée ou remboursée."
   - pregunta: "Existe-t-il une séance photo pour les couples ?"
     respuesta: "Oui. La séance privée VIP dure une heure dans les lieux les plus connus de Barcelone, dont l'extérieur de la Sagrada Família, et livre 45-50 photos retouchées pour 125 € la séance. Il existe des versions plus courtes à partir de 35 €."
-opciones:
-  - ficha: navegacion-atardecer-barcelona-vela
-    etiqueta: "Au coucher du soleil"
-  - ficha: barcelona-cata-de-vinos-azotea
-    etiqueta: "La mieux notée"
-  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
-    etiqueta: "La moins chère"
 actividades:
   - navegacion-atardecer-barcelona-vela
   - tapas-vino-y-flamenco-tour-privado-barcelona

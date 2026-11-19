@@ -24,13 +24,6 @@ slugs:
   it: dune-di-maspalomas
   pt: dunas-de-maspalomas-como-visitar
 reservasArriba: true
-opciones:
-  - ficha: paseo-camello-dunas-maspalomas
-    etiqueta: "Tra le dune"
-  - ficha: buggy-barrancos-gran-canaria
-    etiqueta: "Avventura"
-  - ficha: palmitos-park-gran-canaria-entrada
-    etiqueta: "In famiglia"
 actividades:
   - paseo-camello-dunas-maspalomas
   - tour-gran-canaria-1-dia-desde-las-palmas

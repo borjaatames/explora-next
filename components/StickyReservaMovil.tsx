@@ -3,17 +3,6 @@
 import { useEffect, useState } from "react";
 import dynamic from "next/dynamic";
 import type { Idioma } from "@/lib/i18n/types";
-import { avisoBarra } from "@/lib/avisoBarra";
-
-// Texto corto del botón de la barra: con «Jetzt buchen» o «Book now» no cabe el aviso.
-const RESERVAR_CORTO: Record<Idioma, string> = {
-  es: "Reservar",
-  en: "Book",
-  de: "Buchen",
-  fr: "Réserver",
-  it: "Prenota",
-  pt: "Reservar",
-};
 
 // CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
 // abre el modal de reserva en móvil. Lo cargamos con `next/dynamic` para
@@ -148,8 +137,6 @@ export default function StickyReservaMovil({
   anclaWidget,
 }: Props) {
   const t = dictFor(idioma);
-  // En la barra solo cabe una línea: versión corta; el aviso entero va en title y en la ficha.
-  const avisoCorto = avisoBarra(idioma, aviso);
   const [modalOpen, setModalOpen] = useState(false);
 
   useEffect(() => {
@@ -198,25 +185,19 @@ export default function StickyReservaMovil({
         style={{ bottom: "var(--alto-cookie-banner, 0px)" }}
         role="region"
         aria-label={t.ariaBarra}
-        data-barra-reserva
       >
-        <div className="flex items-center justify-between gap-3 px-4 py-2.5 max-w-6xl mx-auto">
+        {aviso && (
+          <p className="bg-azafran-50 border-b border-azafran-200 text-azafran-900 text-xs font-semibold text-center px-4 py-1.5">
+            {aviso}
+          </p>
+        )}
+        <div className="flex items-center justify-between gap-3 px-4 py-3 max-w-6xl mx-auto">
           <div className="flex flex-col min-w-0 flex-1">
-            <span className="text-base font-bold text-piedra-900 leading-tight truncate">
+            <span className="text-base font-bold text-piedra-900 leading-tight">
               {precio}
-              {avisoCorto && tieneRating && (
-                <span className="ml-2 text-xs font-normal text-piedra-500">
-                  <span aria-hidden="true" className="text-azafran-500">★</span>{" "}
-                  <span className="font-semibold text-piedra-900">{ratingTextoValor}</span>
-                </span>
-              )}
             </span>
-            {/* El aviso de disponibilidad va dentro de la barra, en una línea. */}
-            <span
-              className={`text-xs leading-tight truncate ${avisoCorto ? "font-semibold text-azafran-800" : "text-piedra-500"}`}
-              title={aviso}
-            >
-              {avisoCorto ? avisoCorto : tieneRating ? (
+            <span className="text-xs text-piedra-500 leading-tight truncate">
+              {tieneRating ? (
                 <>
                   <span aria-hidden="true" className="text-azafran-500">
                     ★
@@ -237,7 +218,6 @@ export default function StickyReservaMovil({
             </span>
           </div>
 
-
           <button
             type="button"
             onClick={() => {
@@ -252,7 +232,7 @@ export default function StickyReservaMovil({
             }}
             className="inline-flex items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-sm font-semibold text-piedra-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-azafran-500 whitespace-nowrap"
           >
-            {RESERVAR_CORTO[idioma]} →
+            {textoReservar} →
           </button>
         </div>
       </div>

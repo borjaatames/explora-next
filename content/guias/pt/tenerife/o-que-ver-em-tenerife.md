@@ -1,7 +1,7 @@
 ---
 titulo: 'O que ver em Tenerife: Teide, La Laguna, Masca, Garachico e Anaga'
 descripcion: 'Guia de Tenerife: Teide, La Laguna, La Orotava, Garachico, Masca, Los Gigantes, Anaga e as baleias do sul. Quantos dias, onde ficar e como se deslocar.'
-respuestaCorta: 'Com **cinco ou seis dias** verá o essencial de Tenerife: um dia para o [**Teide**](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) (teleférico até aos 3555 m), um para o norte (La Orotava, Puerto de la Cruz e Garachico), um para La Laguna e Anaga, um para Masca e Los Gigantes, e tempo de mar no sul. **Alugue carro[** para a montanha e reserve um passeio para ver baleias: o [iate ecológico a partir de Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) custa **](/pt/cities/tenerife/activities/observacao-baleias-golfinhos-iate-ecologico-los-cristianos)desde 30 €**.'
+respuestaCorta: 'Com **cinco ou seis dias** verá o essencial de Tenerife: um dia para o [**Teide**](/en/cities/tenerife/activities/teide-cable-car-tour-transfer) (teleférico até aos 3555 m), um para o norte (La Orotava, Puerto de la Cruz e Garachico), um para La Laguna e Anaga, um para Masca e Los Gigantes, e tempo de mar no sul. **Alugue carro** para a montanha e reserve um passeio para ver baleias: o [iate ecológico a partir de Los Cristianos](/en/cities/tenerife/activities/eco-yacht-whale-dolphin-watching-tenerife) custa **desde 30 €**.'
 categoria: tenerife
 slug: o-que-ver-em-tenerife
 fecha: "2026-07-20"
@@ -24,13 +24,6 @@ slugs:
   fr: que-voir-a-tenerife
   it: cosa-vedere-a-tenerife
 reservasArriba: true
-opciones:
-  - ficha: tour-teide-masca-icod-garachico
-    etiqueta: "Toda a ilha"
-  - ficha: avistamiento-ballenas-delfines-yate-ecologico
-    etiqueta: "A mais bem avaliada"
-  - ficha: atardecer-estrellas-teide-telescopio
-    etiqueta: "Ao pôr do sol"
 actividades:
   - teide-teleferico-traslado
   - tour-teide-masca-icod-garachico

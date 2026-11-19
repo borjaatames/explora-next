@@ -24,13 +24,6 @@ slugs:
   it: cosa-vedere-a-fuerteventura
   pt: o-que-ver-em-fuerteventura
 reservasArriba: true
-opciones:
-  - ficha: catamaran-isla-lobos-corralejo
-    etiqueta: "In barca"
-  - ficha: tour-cofete-villa-winter
-    etiqueta: "La più votata"
-  - ficha: ferry-isla-lobos-corralejo-entrada
-    etiqueta: "La più economica"
 actividades:
   - catamaran-isla-lobos-corralejo
   - ferry-isla-lobos-corralejo-entrada

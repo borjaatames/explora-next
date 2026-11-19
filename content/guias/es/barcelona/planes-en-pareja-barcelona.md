@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-barcellona
   pt: o-que-fazer-em-barcelona-a-dois
 reservasArriba: true
-respuestaCorta: 'Los tres planes en pareja que más recomendamos en Barcelona son la **navegación en velero al atardecer** con barra libre de cava, vino y cerveza (55 € por persona, 2 horas, máximo 12 a bordo), el [**tour privado de tapas, vino y flamenco**](/ciudades/barcelona/actividades/tapas-vino-y-flamenco-tour-privado-barcelona) por el Gótico y el Born (114 € por persona en pareja) y el [**flamenco en el Palau Dalmases**](/ciudades/barcelona/actividades/palau-dalmases-flamenco-show-palacio-siglo-xvii), un palacio barroco del siglo XVII (desde 30 € por persona). Para una noche distinta, la [**Casa Batlló de noche con concierto en la terraza**](/ciudades/barcelona/actividades/casa-batllo-visita-nocturna-musica-en-vivo) y copa de cava cuesta 59 €.'
+respuestaCorta: 'Los tres planes en pareja que más recomendamos en Barcelona son la **navegación en velero al atardecer** con barra libre de cava, vino y cerveza (55 € por persona, 2 horas, máximo 12 a bordo), el **tour privado de tapas, vino y flamenco** por el Gótico y el Born (114 € por persona en pareja) y el **flamenco en el Palau Dalmases**, un palacio barroco del siglo XVII (desde 30 € por persona). Para una noche distinta, la **Casa Batlló de noche con concierto en la terraza** y copa de cava cuesta 59 €.'
 faq:
   - pregunta: "¿Cuál es el plan más romántico de Barcelona?"
     respuesta: "Para la mayoría de parejas, salir en velero al atardecer desde el Port Vell: dos horas en un Beneteau Oceanis 41, con barra libre de cava, vino y cerveza y aperitivos, en grupo de 12 como máximo, por 55 € por persona. Después, flamenco en el Palau Dalmases, en el Born."
@@ -38,13 +38,6 @@ faq:
     respuesta: "La experiencia nocturna de la Casa Milà, con espectáculo de luz en la terraza y copa de cava (39,50 €), o la Casa Batlló de noche con concierto y cava (59 €). La terraza de la Pedrera puede cerrar con lluvia fuerte; en ese caso reprograman o devuelven el importe."
   - pregunta: "¿Hay alguna sesión de fotos para parejas?"
     respuesta: "Sí. La sesión privada VIP dura una hora por los rincones más conocidos de Barcelona, incluido el exterior de la Sagrada Familia, y entrega 45-50 fotos editadas por 125 € la sesión. Hay versiones más cortas desde 35 €."
-opciones:
-  - ficha: navegacion-atardecer-barcelona-vela
-    etiqueta: "Al atardecer"
-  - ficha: barcelona-cata-de-vinos-azotea
-    etiqueta: "La mejor valorada"
-  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
-    etiqueta: "La más barata"
 actividades:
   - navegacion-atardecer-barcelona-vela
   - tapas-vino-y-flamenco-tour-privado-barcelona

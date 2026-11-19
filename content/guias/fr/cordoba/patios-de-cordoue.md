@@ -1,7 +1,7 @@
 ---
 titulo: "Les patios de Cordoue : quand et comment les voir (festival et toute l'année)"
 descripcion: "Guide des patios de Cordoue : ce qu'est la fête des Patios (mai), les quartiers où les voir (San Basilio, Santa Marina), le palais de Viana et comment les visiter sans faire la queue."
-respuestaCorta: 'La **fête des Patios** dure deux semaines début mai (du 4 au 17 en 2026) : les maisons ouvrent leurs patios **gratuitement**, de 11 h à 14 h et de 18 h à 22 h. Allez-y tôt le matin ou en fin de journée. Le reste de l''année, le [**palais de Viana**](/fr/cities/cordoba/activities/cordoue-billet-12-patios-palais-de-viana) compte douze patios (8,50 €) et une **visite guidée de cinq patios de San Basilio** coûte à partir de 19 €.'
+respuestaCorta: 'La **fête des Patios** dure deux semaines début mai (du 4 au 17 en 2026) : les maisons ouvrent leurs patios **gratuitement**, de 11 h à 14 h et de 18 h à 22 h. Allez-y tôt le matin ou en fin de journée. Le reste de l''année, le **palais de Viana** compte douze patios (8,50 €) et une **visite guidée de cinq patios de San Basilio** coûte à partir de 19 €.'
 categoria: "cordoba"
 slug: "patios-de-cordoue"
 fecha: "2026-08-30"

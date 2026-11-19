@@ -25,13 +25,6 @@ slugs:
   it: escursioni-da-siviglia
   pt: excursoes-a-partir-de-sevilha
 reservasArriba: true
-opciones:
-  - ficha: pueblos-blancos-ronda-excursion-dia-desde-sevilla
-    etiqueta: "Most popular"
-  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
-    etiqueta: "Córdoba"
-  - ficha: italica-ruinas-romanas-monasterio-desde-sevilla
-    etiqueta: "Cheapest"
 actividades:
   - pueblos-blancos-ronda-excursion-dia-desde-sevilla
   - cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla

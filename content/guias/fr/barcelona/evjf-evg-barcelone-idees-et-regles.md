@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-barcellona
   pt: despedida-de-solteira-barcelona
 reservasArriba: true
-respuestaCorta: 'Pour un enterrement de vie de jeune fille ou de garçon à Barcelone, ce qui marche le mieux, c''est la **dégustation de bière rien que pour votre groupe sur un toit-terrasse** du Passeig de Gràcia (55 € par personne, 2 heures), le [**sip & paint avec sangria à volonté**](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) (19 € par personne, 2 h 30) et, hors de l''hiver, la [**boat party en catamaran avec DJ**](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) (53,10 € par personne, avec 4 boissons et l''entrée dans une discothèque). Attention aux règles : depuis le 29 octobre 2025, les tournées de bars organisées pour boire sont interdites dans toute la ville, et depuis février 2026, les accessoires à caractère sexuel dans la rue sont passibles d''amende.'
+respuestaCorta: 'Pour un enterrement de vie de jeune fille ou de garçon à Barcelone, ce qui marche le mieux, c''est la **dégustation de bière rien que pour votre groupe sur un toit-terrasse** du Passeig de Gràcia (55 € par personne, 2 heures), le **sip & paint avec sangria à volonté** (19 € par personne, 2 h 30) et, hors de l''hiver, la **boat party en catamaran avec DJ** (53,10 € par personne, avec 4 boissons et l''entrée dans une discothèque). Attention aux règles : depuis le 29 octobre 2025, les tournées de bars organisées pour boire sont interdites dans toute la ville, et depuis février 2026, les accessoires à caractère sexuel dans la rue sont passibles d''amende.'
 faq:
   - pregunta: "Est-il interdit de faire un EVJF ou un EVG à Barcelone ?"
     respuesta: "Non. Ce qui est interdit depuis le 29 octobre 2025, c'est d'organiser, de vendre ou de participer à des tournées de plusieurs bars dont le but principal est de boire (pub crawls), dans toute la ville et à toute heure. En outre, l'ordonnance sur la vie en commun en vigueur depuis le 15 février 2026 interdit de circuler dans la rue avec des vêtements ou des objets représentant des organes génitaux. Une dégustation, un bateau ou un cours dans un seul lieu ne sont pas concernés par cette interdiction."
@@ -38,13 +38,6 @@ faq:
     respuesta: "La dégustation de bière artisanale chez Craft Barcelona, dans le quartier gothique, se termine par de la musique live et un karaoké facultatif pour ceux qui veulent rester. Il y a des séances à 20 h 30 et à 22 h 30 et elle coûte 17 € par personne, avec boissons incluses après la dégustation."
   - pregunta: "Combien de temps à l'avance faut-il réserver ?"
     respuesta: "Pour un week-end de printemps ou d'été, deux ou trois semaines, surtout pour la boat party. Sachez que la boat party, la dégustation de bière privée et le cours de salsa ne sont pas remboursables : confirmez d'abord qui vient."
-opciones:
-  - ficha: fiesta-en-barco-barcelona-catamaran-dj
-    etiqueta: "Fête en bateau"
-  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
-    etiqueta: "Avec sangria"
-  - ficha: barcelona-sip-and-paint-sangria
-    etiqueta: "La moins chère"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

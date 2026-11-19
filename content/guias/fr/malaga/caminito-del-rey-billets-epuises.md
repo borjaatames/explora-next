@@ -26,13 +26,6 @@ slugs:
   pt: caminito-del-rey-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: 'Si le site officiel affiche complet, regardez les **deux formules** (générale, 10 €, et visite guidée officielle, 18 €) à toutes les heures de la journée, et sachez que le **guichet de l''accès nord** vend selon les disponibilités, sans garantie. Le plus sûr est un **billet avec guide chez un revendeur** (à partir de 30 €) ou la **sortie avec transport depuis Malaga** (à partir de 72 €), qui incluent déjà le billet.'
-opciones:
-  - ficha: caminito-del-rey-guiado-desde-malaga
-    etiqueta: "Avec transport"
-  - ficha: caminito-del-rey-entrada-guia-oficial
-    etiqueta: "La moins chère"
-  - ficha: ronda-setenil-desde-malaga
-    etiqueta: "Plan B"
 webOficial:
   url: https://www.caminitodelrey.info/
   precio: "Billet général 10 € (visite guidée officielle 18 €)"

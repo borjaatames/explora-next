@@ -49,12 +49,12 @@ faq:
 - pregunta: ¿Qué se puede ver del Alcázar sin entrada?
   respuesta: 'El Patio de Banderas, que es una plaza pública; la Puerta del León desde la Plaza del Triunfo, y la muralla del Alcázar por el Callejón del Agua y los Jardines de Murillo, en el barrio de Santa Cruz.'
 opciones:
+  - ficha: real-alcazar-sevilla-entrada
+    etiqueta: La más barata
   - ficha: real-alcazar-sevilla-tour-guiado-skip-line
     etiqueta: Con guía
   - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Cancela gratis
-  - ficha: real-alcazar-sevilla-entrada
-    etiqueta: La más barata
+    etiqueta: Con la Catedral
 ---
 
 El Real Alcázar vende sus entradas por **franjas de 30 minutos con aforo limitado**, y de marzo a octubre, en Semana Santa y en puentes, las fechas de más demanda se agotan pronto. Que la web oficial diga «agotado» no te deja sin Alcázar, pero aquí no funcionan los trucos de otros monumentos: no hay lista de espera ni liberación de última hora. Estas son las vías que quedan, en el orden en que conviene probarlas.

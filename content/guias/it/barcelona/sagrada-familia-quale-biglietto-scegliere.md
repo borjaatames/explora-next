@@ -2,7 +2,7 @@
 titulo: 'Biglietti Sagrada Família: prezzi 2026 e quale scegliere'
 descripcion: 'Biglietti Sagrada Família: l''ufficiale costa 26 € (36 € con torre), opzioni prenotabili da 34 €. Confrontiamo torri, tour guidati e combinati con il Park Güell.'
 metaTitle: 'Biglietti Sagrada Família: prezzi e opzioni'
-respuestaCorta: 'Per la sola basilica, il [**biglietto con audioguida da 34 €**](/it/cities/barcelona/activities/sagrada-familia-biglietto-audioguida) è l''opzione prenotabile più economica, e il **tour guidato con torre (da 75 €)[** è l''unico che sale su una torre. Per aggiungere il Park Güell senza perdere la giornata, il **](/en/cities/barcelona/activities/sagrada-familia-and-park-guell-guided-tour)combinato guidato di 4 ore (da 104 €)** copre entrambi. Prenota con settimane di anticipo: l''ingresso è a fasce e **non si vende in biglietteria**.'
+respuestaCorta: 'Per la sola basilica, il **biglietto con audioguida da 34 €** è l''opzione prenotabile più economica, e il **tour guidato con torre (da 75 €)** è l''unico che sale su una torre. Per aggiungere il Park Güell senza perdere la giornata, il **combinato guidato di 4 ore (da 104 €)** copre entrambi. Prenota con settimane di anticipo: l''ingresso è a fasce e **non si vende in biglietteria**.'
 categoria: "barcelona"
 slug: "sagrada-familia-quale-biglietto-scegliere"
 fecha: "2026-05-01"

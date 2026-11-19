@@ -26,13 +26,6 @@ slugs:
   it: barcellona-con-bambini
   pt: barcelona-com-criancas
 reservasArriba: true
-opciones:
-  - ficha: entrada-sagrada-familia-audioguia
-    etiqueta: "Imperdibile"
-  - ficha: aquarium-barcelona-entrada
-    etiqueta: "Per i più piccoli"
-  - ficha: teleferico-montjuic-barcelona-ticket
-    etiqueta: "La più economica"
 actividades:
   - entrada-sagrada-familia-audioguia
   - park-guell-entrada-zona-monumental

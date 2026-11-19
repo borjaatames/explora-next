@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-siviglia
   pt: despedida-de-solteira-sevilha
 reservasArriba: true
-respuestaCorta: 'Pour un enterrement de vie de jeune fille ou de garçon à Séville, les trois options qui fonctionnent le mieux sont le **tour privé flamenco et tapas à Triana** (720 € pour 6, environ 120 € par personne, avec spectacle, tapas et 4 boissons chacun), le **tuk-tuk électrique privé** (99 € jusqu''à 4 personnes, 1 heure) et un [**spectacle de flamenco**](/fr/cities/sevilla/activities/seville-casa-de-la-memoria-spectacle-flamenco-intimiste) dès 24 € par personne. Depuis 2024, la police municipale peut infliger jusqu''à 750 € d''amende à quiconque circule dans la rue en sous-vêtements ou avec des accessoires en forme de parties génitales.'
+respuestaCorta: 'Pour un enterrement de vie de jeune fille ou de garçon à Séville, les trois options qui fonctionnent le mieux sont le **tour privé flamenco et tapas à Triana** (720 € pour 6, environ 120 € par personne, avec spectacle, tapas et 4 boissons chacun), le **tuk-tuk électrique privé** (99 € jusqu''à 4 personnes, 1 heure) et un **spectacle de flamenco** dès 24 € par personne. Depuis 2024, la police municipale peut infliger jusqu''à 750 € d''amende à quiconque circule dans la rue en sous-vêtements ou avec des accessoires en forme de parties génitales.'
 faq:
   - pregunta: "Les enterrements de vie de jeune fille sont-ils sanctionnés à Séville ?"
     respuesta: "Pas les EVJF en eux-mêmes, mais certains comportements. Le règlement municipal sur le civisme de Séville, modifié début 2024, permet d'infliger jusqu'à 750 € d'amende pour se trouver dans la rue nu ou en sous-vêtements, avec des vêtements ou accessoires représentant des parties génitales, ou avec des poupées ou objets à thème sexuel."

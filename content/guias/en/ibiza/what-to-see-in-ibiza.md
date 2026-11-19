@@ -1,7 +1,7 @@
 ---
 titulo: "What to see in Ibiza beyond the party: Dalt Vila, coves and Formentera"
 descripcion: "Ibiza guide: Dalt Vila, Es Vedrà, the best coves, Formentera and the sunsets. What to see by area, how many days, how to get around and the island's other side."
-respuestaCorta: 'Beyond the party, Ibiza''s essentials fit into two or three days: a morning in **Dalt Vila**, the World Heritage walled town, an afternoon of south-west coves with **sunset facing Es Vedrà**, and a full day on [**Formentera**](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket), half an hour away by ferry (return tickets from €55). **Rent a car or scooter**: the best coves are poorly served by buses.'
+respuestaCorta: 'Beyond the party, Ibiza''s essentials fit into two or three days: a morning in **Dalt Vila**, the World Heritage walled town, an afternoon of south-west coves with **sunset facing Es Vedrà**, and a full day on **Formentera**, half an hour away by ferry (return tickets from €55). **Rent a car or scooter**: the best coves are poorly served by buses.'
 categoria: "ibiza"
 slug: "what-to-see-in-ibiza"
 fecha: "2026-07-13"

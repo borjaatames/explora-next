@@ -1,5 +1,3 @@
-import EnlaceAtraccion from "@/components/atraccion/EnlaceAtraccion";
-import { atraccionDeFicha, atraccionDeGuia } from "@/lib/atracciones";
 import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -25,7 +23,6 @@ import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
 import PrivadasGuia from "@/components/guia/PrivadasGuia";
-import AyudaWhatsAppGuia from "@/components/guia/AyudaWhatsAppGuia";
 import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
 import MapaDiaGuia from "@/components/guia/MapaDiaGuia";
@@ -116,9 +113,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
   };
 }
-
-/** Minutos de lectura a partir de los que la guía ofrece ayuda por WhatsApp. */
-const GUIA_LARGA_MIN = 6;
 
 export default async function GuiaPage({ params }: Props) {
   const guia = await obtenerGuia("es", params.categoria, params.slug);
@@ -309,8 +303,7 @@ export default async function GuiaPage({ params }: Props) {
       />
 
       <RespuestaCorta texto={guia.respuestaCorta} idioma="es" comprobado={guia.datosComprobados} />
-      <EnlaceAtraccion idioma="es" enlace={atraccionDeGuia("es", guia.slug)} />
-      <OpcionesGuia opciones={opcionesGuia} idioma="es" webOficial={guia.webOficial} />
+      <OpcionesGuia opciones={opcionesGuia} idioma="es" />
       <ReservasGuia actividades={reservasArriba} idioma="es" />
       <PrivadasGuia actividades={privadasGuia} idioma="es" />
 
@@ -343,14 +336,6 @@ export default async function GuiaPage({ params }: Props) {
                 idioma="es"
               />
             )
-          )}
-          {guia.tiempoLectura >= GUIA_LARGA_MIN && (
-            <AyudaWhatsAppGuia
-              idioma={"es"}
-              ciudad={nombreCiudad || guia.categoria}
-              tituloGuia={guia.titulo}
-              guiaSlug={guia.slug}
-            />
           )}
           {faq.length > 0 && (
             <div className="mt-12 pt-8 border-t border-piedra-200">

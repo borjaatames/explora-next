@@ -1,7 +1,7 @@
 ---
 titulo: "Flamenco in der Höhle des Sacromonte: welche Höhle wählen (Zincalé, Los Amayas, La Faraona oder Los Tarantos)"
 descripcion: "Die 4 Flamenco-Höhlen des Sacromonte in Granada im Vergleich: Preis, Dauer, Atmosphäre und für wen jede ist. Welche je nach dem, was du suchst."
-respuestaCorta: 'Die vier Höhlen des Sacromonte bieten rund eine Stunde Roma-Zambra für 20-28 €. Wähl [**Los Tarantos**](/de/cities/granada/activities/sacromonte-flamenco-cuevas-los-tarantos) (28 €, seit 1972, Getränk inklusive) für ein sicheres erstes Mal, **La Faraona** (20 €, 25 Plätze) für den intimsten Saal und [**Los Amayas**](/de/cities/granada/activities/sacromonte-flamenco-cueva-los-amayas) (25 €, ohne Bühne und Mikrofon, Getränk inklusive) für das traditionellste Format. Alle vier haben **kostenlose Stornierung bis 24 Stunden** vorher.'
+respuestaCorta: 'Die vier Höhlen des Sacromonte bieten rund eine Stunde Roma-Zambra für 20-28 €. Wähl **Los Tarantos** (28 €, seit 1972, Getränk inklusive) für ein sicheres erstes Mal, **La Faraona** (20 €, 25 Plätze) für den intimsten Saal und **Los Amayas** (25 €, ohne Bühne und Mikrofon, Getränk inklusive) für das traditionellste Format. Alle vier haben **kostenlose Stornierung bis 24 Stunden** vorher.'
 categoria: "granada"
 slug: "flamenco-hoehle-sacromonte-welche-waehlen"
 fecha: "2026-04-12"

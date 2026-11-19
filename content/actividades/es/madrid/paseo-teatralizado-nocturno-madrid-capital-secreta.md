@@ -13,7 +13,6 @@ moneda: EUR
 idiomas:
 - es
 proveedor: bokun
-avisoReserva: 'La audioguía y la representación son en español.'
 urlReserva: ''
 cancelacionGratuita: false
 highlights:

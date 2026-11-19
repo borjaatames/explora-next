@@ -124,9 +124,6 @@ fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'
 guiasRelacionadas:
 - park-guell-which-ticket-to-choose
-alternativa:
-  slug: park-guell-guided-tour-priority-access
-  motivo: "Park Guell caps numbers in the Monumental Zone and sells out. If your slot is gone, this guided tour includes priority entry."
 ---
 
 ## What you'll see

@@ -40,13 +40,6 @@ faq:
     respuesta: "En 2026, les Rois sont arrivés en bateau à 16 h 30 sur la Plaza de la Sal, dans la Marina Norte, et le défilé est parti à 17 h 30 du Puente de las Flores. Il est passé par Porta de la Mar, General Tovar, la calle de la Paz, la Plaza de la Reina et San Vicente jusqu'à la Plaza del Ayuntamiento, avec plus de 1 300 participants."
   - pregunta: "Y a-t-il de la pyrotechnie à Noël à Valence ?"
     respuesta: "Oui. Lors de l'édition 2025-26, il y a eu un piromusical d'environ trois minutes chaque samedi à 18 h 30 sur la Plaza del Ayuntamiento, de l'allumage du 21 novembre jusqu'au 3 janvier, et un autre de clôture le 5 janvier. Ils sont gratuits ; arrivez dix minutes avant pour avoir une place."
-opciones:
-  - ficha: tour-tapas-bebidas-noche-valencia
-    etiqueta: "Tapas de nuit"
-  - ficha: flamenco-espai-inestable-centro-valencia
-    etiqueta: "Flamenco authentique"
-  - ficha: oceanografic-valencia-entrada
-    etiqueta: "Sortie en famille"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

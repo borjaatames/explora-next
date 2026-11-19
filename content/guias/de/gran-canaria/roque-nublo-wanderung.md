@@ -24,13 +24,6 @@ slugs:
   pt: roque-nublo-como-subir
 reservasArriba: true
 respuestaCorta: 'Zwischen **9:00 und 17:00 Uhr brauchst du eine Reservierung mit Zeitfenster** auf reservasroquenublo.com, und der alte Parkplatz La Goleta ist geschlossen: Park in **Cruz de Los Llanos** oder Tejeda und nimm den Shuttlebus. Ab dem Startpunkt sind es etwa **3 km hin und zurück, 1–1,5 Stunden**. Ohne Auto kostet der Ausflug ab Las Palmas ab 48 €.'
-opciones:
-  - ficha: roque-nublo-pico-nieves-desde-las-palmas
-    etiqueta: "Mit Transfer"
-  - ficha: atardecer-estrellas-gran-canaria-telescopios
-    etiqueta: "Bei Sonnenuntergang"
-  - ficha: buggy-barrancos-gran-canaria
-    etiqueta: "Abenteuer"
 actividades:
   - roque-nublo-pico-nieves-desde-las-palmas
   - atardecer-estrellas-gran-canaria-telescopios

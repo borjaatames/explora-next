@@ -1,7 +1,7 @@
 ---
 titulo: "Flamenco dans une grotte du Sacromonte : quelle grotte choisir (Zincalé, Los Amayas, La Faraona ou Los Tarantos)"
 descripcion: "Les 4 grottes de flamenco du Sacromonte de Grenade comparées : prix, durée, ambiance et à qui s'adresse chacune. Laquelle choisir selon ce que vous cherchez."
-respuestaCorta: 'Les quatre grottes du Sacromonte proposent environ une heure de zambra gitane pour 20-28 €. Choisissez [**Los Tarantos**](/fr/cities/granada/activities/grenade-flamenco-cuevas-los-tarantos-sacromonte) (28 €, depuis 1972, boisson incluse) pour une première fois sans risque, **La Faraona** (20 €, 25 places) pour la salle la plus intime et [**Los Amayas**](/fr/cities/granada/activities/grenade-flamenco-grotte-los-amayas-sacromonte) (25 €, sans scène ni sonorisation, boisson incluse) pour le format le plus traditionnel. Les quatre offrent l''**annulation gratuite jusqu''à 24 heures** avant.'
+respuestaCorta: 'Les quatre grottes du Sacromonte proposent environ une heure de zambra gitane pour 20-28 €. Choisissez **Los Tarantos** (28 €, depuis 1972, boisson incluse) pour une première fois sans risque, **La Faraona** (20 €, 25 places) pour la salle la plus intime et **Los Amayas** (25 €, sans scène ni sonorisation, boisson incluse) pour le format le plus traditionnel. Les quatre offrent l''**annulation gratuite jusqu''à 24 heures** avant.'
 categoria: "granada"
 slug: "flamenco-grotte-sacromonte-laquelle-choisir"
 fecha: "2026-04-12"

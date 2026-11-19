@@ -15,9 +15,8 @@ import { urlWhatsApp } from "@/lib/contacto";
  * Se monta en los shells (ES y EN) para estar visible en toda la web y dar
  * un canal de contacto directo que aporta confianza antes de reservar.
  *
- * Posición: abajo a la derecha. En móvil, en las páginas con barra fija de
- * reserva (marcada con data-barra-reserva) no se pinta: va como icono dentro
- * de la barra (WhatsAppCompacto) para no tapar texto. Sin barra, bottom-24.
+ * Posición: abajo a la derecha. En móvil se sube (bottom-24) para no tapar
+ * la barra sticky de reserva (StickyReservaMovil, bottom-0, z-40).
  *
  * En móvil se esconde cuando el usuario baja por la página y reaparece en
  * cuanto sube, o al llegar arriba o al final (patrón Civitatis/GYG): así no
@@ -73,59 +72,23 @@ const DICT: Record<
   },
 };
 
-/**
- * Al pulsar, el mensaje incluye la página que estaba viendo el cliente
- * (título H1 y URL) para saber de qué actividad pregunta. En la portada,
- * o si la página no tiene H1, se queda el mensaje genérico.
- */
-function completarMensaje(idioma: Idioma, evento: MouseEvent<HTMLAnchorElement>): void {
-  const titulo = document.querySelector("main h1, h1")?.textContent?.trim();
-  const ruta = window.location.pathname;
-  const esPortada = ruta === "/" || /^\/[a-z]{2}\/?$/.test(ruta);
-  if (!titulo || esPortada) return;
-  const url = `${window.location.origin}${ruta}`;
-  evento.currentTarget.href = urlWhatsApp(`${DICT[idioma].sobre} ${titulo}\n${url}`);
-}
-
-export function IconoWhatsApp({ size }: { size: number }) {
-  return (
-    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" className="flex-shrink-0">
-      <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.999-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
-    </svg>
-  );
-}
-
-/**
- * Versión compacta (solo icono) para meterla dentro de las barras fijas de
- * reserva en móvil. Con barra, el botón flotante se oculta en móvil y no
- * tapa texto de la página.
- */
-export function WhatsAppCompacto({ idioma }: { idioma: Idioma }) {
-  const t = DICT[idioma];
-  return (
-    <a
-      href={urlWhatsApp(t.mensaje)}
-      onClick={(e) => completarMensaje(idioma, e)}
-      target="_blank"
-      rel="noopener noreferrer"
-      aria-label={t.aria}
-      title={t.tooltip}
-      className="inline-flex items-center justify-center w-11 h-11 shrink-0 rounded-lg border border-piedra-200 text-piedra-700 hover:border-anil-400 hover:text-piedra-900 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 focus-visible:ring-offset-2"
-    >
-      <IconoWhatsApp size={20} />
-    </a>
-  );
-}
-
 export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
   const t = DICT[idioma];
   const href = urlWhatsApp(t.mensaje);
-  const alPulsar = (evento: MouseEvent<HTMLAnchorElement>): void => completarMensaje(idioma, evento);
-  // En móvil, si la página tiene barra fija de reserva, el WhatsApp va dentro de ella.
-  const [hayBarra, setHayBarra] = useState<boolean>(false);
-  useEffect(() => {
-    setHayBarra(document.querySelector("[data-barra-reserva]") !== null);
-  }, []);
+
+  /**
+   * Al pulsar, el mensaje incluye la página que estaba viendo el cliente
+   * (título H1 y URL) para saber de qué actividad pregunta. En la portada,
+   * o si la página no tiene H1, se queda el mensaje genérico.
+   */
+  const alPulsar = (evento: MouseEvent<HTMLAnchorElement>): void => {
+    const titulo = document.querySelector("main h1, h1")?.textContent?.trim();
+    const ruta = window.location.pathname;
+    const esPortada = ruta === "/" || /^\/[a-z]{2}\/?$/.test(ruta);
+    if (!titulo || esPortada) return;
+    const url = `${window.location.origin}${ruta}`;
+    evento.currentTarget.href = urlWhatsApp(`${t.sobre} ${titulo}\n${url}`);
+  };
 
   const [oculto, setOculto] = useState<boolean>(false);
   const [sobreReserva, setSobreReserva] = useState<boolean>(false);
@@ -166,12 +129,21 @@ export default function WhatsAppButton({ idioma }: { idioma: Idioma }) {
       rel="noopener noreferrer"
       aria-label={t.aria}
       title={t.tooltip}
-      className={`group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 ${hayBarra ? "hidden lg:flex" : "flex"} items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-[background-color,transform,opacity] duration-300 motion-reduce:transition-none lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto ${
+      className={`group fixed bottom-24 right-4 z-40 lg:bottom-6 lg:right-6 flex items-center gap-2.5 rounded-full bg-piedra-900 hover:bg-piedra-800 text-white shadow-md transition-[background-color,transform,opacity] duration-300 motion-reduce:transition-none lg:translate-y-0 lg:opacity-100 lg:pointer-events-auto ${
         oculto || sobreReserva ? "translate-y-[calc(100%+7rem)] opacity-0 pointer-events-none" : "translate-y-0 opacity-100"
       } focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-anil-500 pl-3 pr-3 lg:pl-4 lg:pr-5 py-3`}
     >
       <span className="hidden lg:block w-2 h-2 rounded-full bg-anil-400" aria-hidden="true" />
-      <IconoWhatsApp size={22} />
+      <svg
+        width="22"
+        height="22"
+        viewBox="0 0 24 24"
+        fill="currentColor"
+        aria-hidden="true"
+        className="flex-shrink-0"
+      >
+        <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.999-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z" />
+      </svg>
       <span className="hidden lg:inline text-sm font-semibold whitespace-nowrap">
         {t.tooltip}
       </span>

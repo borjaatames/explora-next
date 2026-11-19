@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'Si vous voulez seulement voir la zone monumentale (le dragon, la salle hypostyle et le banc ondulé), le **billet de base à partir de 21,50 €** suffit. Pour 6,50 € de plus, le [**billet avec la Casa Museu Gaudí**](/fr/cities/barcelona/activities/park-guell-billet-maison-musee-gaudi) (28 €) ajoute la maison où a vécu l''architecte. Aucun n''inclut de guide et **aucun n''est annulable** : ne réservez qu''une fois l''heure arrêtée.'
+respuestaCorta: 'Si vous voulez seulement voir la zone monumentale (le dragon, la salle hypostyle et le banc ondulé), le **billet de base à partir de 21,50 €** suffit. Pour 6,50 € de plus, le **billet avec la Casa Museu Gaudí** (28 €) ajoute la maison où a vécu l''architecte. Aucun n''inclut de guide et **aucun n''est annulable** : ne réservez qu''une fois l''heure arrêtée.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

@@ -28,7 +28,7 @@ slugs:
   it: alhambra-quale-tour-scegliere
   pt: alhambra-que-tour-escolher
 reservasArriba: true
-respuestaCorta: 'Sechs der angebotenen Führungen sind **dieselbe 3-Stunden-Route** (Alcazaba, Nasridenpaläste und Generalife) zu Preisen zwischen 49 und 99 €. Buch also die günstigste mit freiem Platz an deinem Datum, meist [**Führung durch Alhambra und Nasridenpaläste ab 49 €**](/de/cities/granada/activities/alhambra-generalife-fuehrung) oder **Eintritt und Führung ab 50 €**. Wirklich anders sind nur der **Nachtbesuch**, die **Privatführung** und das Ticket für die Gärten. Buch Wochen im Voraus: Die Zeitfenster der Nasridenpaläste sind schnell weg.'
+respuestaCorta: 'Sechs der angebotenen Führungen sind **dieselbe 3-Stunden-Route** (Alcazaba, Nasridenpaläste und Generalife) zu Preisen zwischen 49 und 99 €. Buch also die günstigste mit freiem Platz an deinem Datum, meist **Führung durch Alhambra und Nasridenpaläste ab 49 €** oder **Eintritt und Führung ab 50 €**. Wirklich anders sind nur der **Nachtbesuch**, die **Privatführung** und das Ticket für die Gärten. Buch Wochen im Voraus: Die Zeitfenster der Nasridenpaläste sind schnell weg.'
 actividades:
   - entrada-y-tour-guiado-alhambra
   - alhambra-grupo-reducido

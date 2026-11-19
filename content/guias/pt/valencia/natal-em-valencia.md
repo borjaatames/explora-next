@@ -40,13 +40,6 @@ faq:
     respuesta: "Em 2026 os Reis Magos chegaram de barco às 16h30 à Plaza de la Sal, na Marina Norte, e a Cavalgada saiu às 17h30 do Puente de las Flores. Percorreu Porta de la Mar, General Tovar, a calle de la Paz, a Plaza de la Reina e San Vicente até à Plaza del Ayuntamiento, com mais de 1.300 participantes."
   - pregunta: "Há pirotecnia no Natal em Valência?"
     respuesta: "Sim. Na edição 2025-26 houve um espetáculo piromusical de cerca de três minutos todos os sábados às 18h30 na Plaza del Ayuntamiento, desde o acendimento de 21 de novembro até 3 de janeiro, e outro de encerramento a 5 de janeiro. São grátis; chegue dez minutos antes para arranjar lugar."
-opciones:
-  - ficha: tour-tapas-bebidas-noche-valencia
-    etiqueta: "Tapas à noite"
-  - ficha: flamenco-espai-inestable-centro-valencia
-    etiqueta: "Flamenco autêntico"
-  - ficha: oceanografic-valencia-entrada
-    etiqueta: "Programa em família"
 actividades:
   - tour-tapas-bebidas-noche-valencia
   - tuk-tuk-privado-valencia-1-hora

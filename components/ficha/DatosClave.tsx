@@ -1,6 +1,5 @@
 import type { DetallesPracticos } from "@/lib/actividades";
 import type { Idioma } from "@/lib/i18n/types";
-import { etiquetaCancelacion, etiquetaReservaSinPagar } from "@/lib/cancelacion";
 
 type Props = {
   idioma: Idioma;
@@ -13,10 +12,6 @@ type Props = {
   highlights?: string[];
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
-  /** Texto de la política: permite avisar de las no reembolsables. */
-  politicaCancelacion?: string;
-  /** GYG: «Reserva ahora y paga después». */
-  reservaSinPagar?: boolean;
   detalles?: DetallesPracticos;
 };
 
@@ -101,7 +96,7 @@ const TEXTOS: Record<Idioma, Textos> = {
   },
 };
 
-type Icono = "reloj" | "calendario" | "idioma" | "grupo" | "ticket" | "movil" | "cartera";
+type Icono = "reloj" | "calendario" | "idioma" | "grupo" | "ticket" | "movil";
 
 const TRAZOS: Record<Icono, string> = {
   reloj: "M12 6v6l4 2M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z",
@@ -110,7 +105,6 @@ const TRAZOS: Record<Icono, string> = {
   grupo: "M16 19v-1a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v1m18 0v-1a4 4 0 0 0-3-3.9M14 4.1a4 4 0 0 1 0 7.8M13.5 7.5a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z",
   ticket: "M3 9V7a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v2a2 2 0 0 0 0 4v2a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-2a2 2 0 0 0 0-4Zm10-3v12",
   movil: "M8 3h8a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H8a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1Zm3 15h2",
-  cartera: "M3 7a2 2 0 0 1 2-2h12v4M3 7v10a2 2 0 0 0 2 2h15V9H5a2 2 0 0 1-2-2Zm13 7h1",
 };
 
 function IconoDato({ tipo }: { tipo: Icono }) {
@@ -148,13 +142,10 @@ export default function DatosClave({
   highlights = [],
   cancelacionGratuita,
   horasCancelacion,
-  politicaCancelacion,
-  reservaSinPagar,
   detalles,
 }: Props) {
   const t = TEXTOS[idioma];
   const textoActividad = [titulo, ...highlights].join(" ");
-  const cancelacion = etiquetaCancelacion(idioma, { cancelacionGratuita, horasCancelacion, politicaCancelacion });
 
   // En DE/FR/IT/PT, el idioma de la página primero: es lo que ha venido a buscar quien lee la ficha.
   const primeroIdiomaPagina = idioma === "de" || idioma === "fr" || idioma === "it" || idioma === "pt";
@@ -179,9 +170,8 @@ export default function DatosClave({
 
   const datos: { icono: Icono; texto: string }[] = [
     ...(duracion ? [{ icono: "reloj" as const, texto: duracion }] : []),
-    ...(cancelacion ? [{ icono: "calendario" as const, texto: cancelacion }] : []),
-    ...(etiquetaReservaSinPagar(idioma, reservaSinPagar)
-      ? [{ icono: "cartera" as const, texto: etiquetaReservaSinPagar(idioma, reservaSinPagar) as string }]
+    ...(cancelacionGratuita
+      ? [{ icono: "calendario" as const, texto: t.cancelacion(horasCancelacion) }]
       : []),
     ...(privada
       ? [{ icono: "grupo" as const, texto: t.privada }]

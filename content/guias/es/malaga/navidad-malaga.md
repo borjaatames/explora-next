@@ -40,13 +40,6 @@ faq:
     respuesta: "En la Plaza de la Constitución, al final de calle Larios. En 2025 el Ayuntamiento repartió bolsas con uvas y cotillón de 21:30 a 23:45 o hasta agotar existencias. Las luces del centro se quedan encendidas el 31 hasta las 6:00."
   - pregunta: "¿A qué hora es la Cabalgata de Reyes de Málaga?"
     respuesta: "El 5 de enero. En 2026 los Reyes llegaron al Ayuntamiento a las 17:30 y la Cabalgata salió de allí a las 18:00. Antes, el 2 de enero a las 17:30, el Heraldo Real sale desde la Alcazaba, y del 2 al 4 de enero el Cartero Real recoge cartas en la Plaza de la Constitución."
-opciones:
-  - ficha: catamaran-malaga-atardecer
-    etiqueta: "Atardecer en el mar"
-  - ficha: hammam-al-andalus-malaga
-    etiqueta: "Tarde de baños árabes"
-  - ficha: malaga-tour-vino-tapas
-    etiqueta: "Tapas y vino"
 actividades:
   - malaga-tour-vino-tapas
   - tour-privado-tapas-malaga-atarazanas

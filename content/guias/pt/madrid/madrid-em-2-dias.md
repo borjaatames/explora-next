@@ -27,7 +27,7 @@ slugs:
   it: madrid-in-2-giorni
   pt: madrid-em-2-dias
 reservasArriba: true
-respuestaCorta: 'No **dia 1**, a Madrid histórica: **Palácio Real às 10h00** (18 €), Plaza Mayor, almoço em La Latina, **Gran Vía** e pôr do sol no **Templo de Debod**, com a noite em Malasaña. No **dia 2**, a arte: **Prado às 10h00** (15 €), o **Retiro**, o [**Reina Sofía**](/pt/cities/madrid/activities/museu-reina-sofia-bilhete) (12 €, fecha às terças; grátis das 19h00 às 21h00) e flamenco ou tabernas centenárias à noite. Reserve o Prado e o Palácio com um par de dias.'
+respuestaCorta: 'No **dia 1**, a Madrid histórica: **Palácio Real às 10h00** (18 €), Plaza Mayor, almoço em La Latina, **Gran Vía** e pôr do sol no **Templo de Debod**, com a noite em Malasaña. No **dia 2**, a arte: **Prado às 10h00** (15 €), o **Retiro**, o **Reina Sofía** (12 €, fecha às terças; grátis das 19h00 às 21h00) e flamenco ou tabernas centenárias à noite. Reserve o Prado e o Palácio com um par de dias.'
 faq:
   - pregunta: "Dois dias são suficientes para ver Madrid?"
     respuesta: "Para o centro, sim: Palácio Real, Áustrias, Gran Vía, Prado, Retiro e Reina Sofía, com duas noites de tapas ou flamenco. Para Toledo, Segóvia ou o Escorial precisa de um terceiro dia."

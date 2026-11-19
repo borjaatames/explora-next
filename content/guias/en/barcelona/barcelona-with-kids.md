@@ -25,13 +25,6 @@ slugs:
   pt: barcelona-com-criancas
 respuestaCorta: 'With kids, plan **two big things a day at most** and build the trip around **CosmoCaixa** (€8, free for under-16s) and **Tibidabo** (€35 adults, €14 for kids 90–120 cm), plus the aquarium and the beach. Take Sagrada Familia only with kids over 7, use the metro, and keep away from Las Ramblas.'
 reservasArriba: true
-opciones:
-  - ficha: entrada-sagrada-familia-audioguia
-    etiqueta: "Must-see"
-  - ficha: aquarium-barcelona-entrada
-    etiqueta: "For little ones"
-  - ficha: teleferico-montjuic-barcelona-ticket
-    etiqueta: "Cheapest"
 actividades:
   - entrada-sagrada-familia-audioguia
   - park-guell-entrada-zona-monumental

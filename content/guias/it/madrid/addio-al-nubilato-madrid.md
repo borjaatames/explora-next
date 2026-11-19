@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
-respuestaCorta: 'Le tre idee che funzionano meglio per un addio al nubilato o al celibato a Madrid sono il **tuk-tuk festa privato con la vostra musica** (150 € a tuk-tuk, 1 h 30 min), il **laboratorio di paella e sangria** vicino a Sol (64 € a persona, 3 ore) e, per la notte, un [**pub crawl**](/it/cities/madrid/activities/madrid-pub-crawl-bar-discoteca-shot) in tre bar e una discoteca con uno shottino a ogni tappa (19 € a persona, 5 ore). Se siete più di 8, prenota con due o tre settimane di anticipo e controlla il dress code: nel giro notturno non si entra in abbigliamento sportivo.'
+respuestaCorta: 'Le tre idee che funzionano meglio per un addio al nubilato o al celibato a Madrid sono il **tuk-tuk festa privato con la vostra musica** (150 € a tuk-tuk, 1 h 30 min), il **laboratorio di paella e sangria** vicino a Sol (64 € a persona, 3 ore) e, per la notte, un **pub crawl** in tre bar e una discoteca con uno shottino a ogni tappa (19 € a persona, 5 ore). Se siete più di 8, prenota con due o tre settimane di anticipo e controlla il dress code: nel giro notturno non si entra in abbigliamento sportivo.'
 faq:
   - pregunta: "Quanto costa un addio al nubilato a Madrid?"
     respuesta: "Con le nostre schede, una giornata completa costa circa 83 € a persona: laboratorio di paella e sangria (64 €, con pranzo o cena inclusi) e pub crawl la sera (19 €, con quattro shottini e gli ingressi). Se aggiungete il tuk-tuk festa, sono 150 € a veicolo da dividere tra chi ci sale."

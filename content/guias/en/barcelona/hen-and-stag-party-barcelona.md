@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-barcellona
   pt: despedida-de-solteira-barcelona
 reservasArriba: true
-respuestaCorta: "For a hen or stag do in Barcelona, the best bets are the [**rooftop beer tasting for private groups only**](/en/cities/barcelona/activities/barcelona-private-group-rooftop-beer-tasting) on Passeig de Gràcia (€55 per person, 2 hours), [**sip and paint with free-flowing sangria**](/en/cities/barcelona/activities/barcelona-sip-and-paint-with-sangria) (€19 per person, 2 h 30 min) and, outside winter, the [**catamaran boat party with a DJ**](/en/cities/barcelona/activities/barcelona-boat-party-catamaran-dj) (€53.10 per person, with 4 drinks and club entry). Mind the rules: since 29 October 2025 organised bar crawls are banned across the whole city, and since February 2026 sexual-themed accessories in the street can get you fined."
+respuestaCorta: "For a hen or stag do in Barcelona, the best bets are the **rooftop beer tasting for private groups only** on Passeig de Gràcia (€55 per person, 2 hours), **sip and paint with free-flowing sangria** (€19 per person, 2 h 30 min) and, outside winter, the **catamaran boat party with a DJ** (€53.10 per person, with 4 drinks and club entry). Mind the rules: since 29 October 2025 organised bar crawls are banned across the whole city, and since February 2026 sexual-themed accessories in the street can get you fined."
 faq:
   - pregunta: "Are hen and stag parties banned in Barcelona?"
     respuesta: "No. What has been banned since 29 October 2025 is organising, selling or taking part in tours of several bars whose main purpose is drinking (pub crawls), citywide and at any hour. On top of that, the civic ordinance in force since 15 February 2026 bans wearing clothing or objects depicting genitals in the street. A tasting, a boat trip or a class at a single venue is not affected."
@@ -38,13 +38,6 @@ faq:
     respuesta: "The craft beer tasting at Craft Barcelona, in the Gothic Quarter, ends with live music and optional karaoke for anyone who wants to stay. Sessions start at 8.30 pm and 10.30 pm and it costs €17 per person, with drinks included after the tasting."
   - pregunta: "How far ahead should we book?"
     respuesta: "Two or three weeks for a spring or summer weekend, especially the boat party. Note that the boat party, the private beer tasting and the salsa class are non-refundable, so confirm who is coming first."
-opciones:
-  - ficha: fiesta-en-barco-barcelona-catamaran-dj
-    etiqueta: "Boat party"
-  - ficha: barcelona-clase-de-salsa-y-sangria-azotea
-    etiqueta: "With sangria"
-  - ficha: barcelona-sip-and-paint-sangria
-    etiqueta: "Cheapest"
 actividades:
   - barcelona-cata-cerveza-grupos-privados-azotea
   - barcelona-sip-and-paint-sangria

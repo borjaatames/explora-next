@@ -26,13 +26,6 @@ slugs:
   pt: caminito-del-rey-bilhetes-esgotados
 reservasArriba: true
 respuestaCorta: "Wenn die offizielle Website ausverkauft ist, schau dir **beide Varianten** (reguläres Ticket, 10 €, und offizielle Führung, 18 €) zu allen Uhrzeiten des Tages an, und denk daran, dass die **Kasse am Nordeingang** je nach Verfügbarkeit verkauft, ohne Garantie. Am sichersten ist ein **Ticket mit Guide über einen Wiederverkäufer** (ab 30 €) oder die **Tour mit Transfer ab Málaga** (ab 72 €), bei denen das Ticket schon inbegriffen ist."
-opciones:
-  - ficha: caminito-del-rey-guiado-desde-malaga
-    etiqueta: "Mit Transfer"
-  - ficha: caminito-del-rey-entrada-guia-oficial
-    etiqueta: "Am günstigsten"
-  - ficha: ronda-setenil-desde-malaga
-    etiqueta: "Plan B"
 webOficial:
   url: https://www.caminitodelrey.info/
   precio: "Normales Ticket 10 € (offizielle Führung 18 €)"

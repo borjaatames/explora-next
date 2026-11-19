@@ -28,7 +28,7 @@ slugs:
   it: flamenco-barcellona-quale-tablao-scegliere
   pt: flamenco-barcelona-que-tablao-escolher
 reservasArriba: true
-respuestaCorta: 'Nach Preis und Uhrzeiten: [**Teatro City Hall**](/de/cities/barcelona/activities/flamenco-show-city-hall-theatre-barcelona) (ab 25 €, vier Vorstellungen am Tag). Nach Kulisse: [**Palau Dalmases**](/de/cities/barcelona/activities/palau-dalmases-flamenco-show-barcelona) (30 €, Palast aus dem 17. Jahrhundert im Born). Zum Essen während der Show: [**Tablao de Carmen**](/de/cities/barcelona/activities/tablao-de-carmen-flamenco-dinner-show-barcelona) (88 € mit Abendessen). Für Gesang und Gitarre ohne Mikrofon an der Rambla: [**Tablao Cordobés**](/de/cities/barcelona/activities/tablao-cordobes-flamenco-show-rambla) (ab 48 €).'
+respuestaCorta: 'Nach Preis und Uhrzeiten: **Teatro City Hall** (ab 25 €, vier Vorstellungen am Tag). Nach Kulisse: **Palau Dalmases** (30 €, Palast aus dem 17. Jahrhundert im Born). Zum Essen während der Show: **Tablao de Carmen** (88 € mit Abendessen). Für Gesang und Gitarre ohne Mikrofon an der Rambla: **Tablao Cordobés** (ab 48 €).'
 opciones:
   - ficha: flamenco-en-el-teatro-city-hall-mas-vendido
     etiqueta: Am günstigsten

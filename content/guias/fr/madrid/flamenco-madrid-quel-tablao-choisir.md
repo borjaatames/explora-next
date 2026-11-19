@@ -27,7 +27,7 @@ slugs:
 tiempo_lectura: 4
 fecha_actualizacion: "2026-11-11"
 reservasArriba: true
-respuestaCorta: 'Pour un tablao intimiste dans le Madrid des Habsbourg, [**Las Carboneras**](/fr/cities/madrid/activities/madrid-spectacle-flamenco-tablao-las-carboneras) (à partir de 45 €, avec boisson, 4,7/5). Pour payer moins, avoir plus de séances et la possibilité de dîner sur place, [**Torres Bermejas**](/fr/cities/madrid/activities/madrid-spectacle-flamenco-torres-bermejas-diner) (à partir de 31 €, près de la Gran Vía). Les deux proposent des spectacles d''**une heure** avec annulation gratuite jusqu''à 24 heures avant ; seul Las Carboneras est accessible en fauteuil roulant.'
+respuestaCorta: 'Pour un tablao intimiste dans le Madrid des Habsbourg, **Las Carboneras** (à partir de 45 €, avec boisson, 4,7/5). Pour payer moins, avoir plus de séances et la possibilité de dîner sur place, **Torres Bermejas** (à partir de 31 €, près de la Gran Vía). Les deux proposent des spectacles d''**une heure** avec annulation gratuite jusqu''à 24 heures avant ; seul Las Carboneras est accessible en fauteuil roulant.'
 opciones:
   - ficha: flamenco-tablao-las-carboneras
     etiqueta: Le plus intime

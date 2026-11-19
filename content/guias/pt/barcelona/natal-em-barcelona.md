@@ -40,13 +40,6 @@ faq:
     respuesta: "A Avinguda de la Reina Maria Cristina, em frente à Fonte Mágica de Montjuïc. Na última edição o espetáculo começou às 22h00, com drones, música e fogo de artifício à meia-noite, gratuito e sem limite de lotação. Apanhe o metro até Espanya (L1 e L3) e chegue cedo: depois das 23h00 é difícil circular."
   - pregunta: "O que é o caga tió?"
     respuesta: "Um tronco com cara e um barrete catalão vermelho que as crianças alimentam durante o Advento e depois, a 24 ou 25 de dezembro, batem com paus a cantar para que «faça cocó» de doces e presentes. Pode comprá-lo na feira de Santa Llúcia, que em 2025 teve um tió gigante para menores de 12 anos de 29 de novembro a 20 de dezembro."
-opciones:
-  - ficha: casa-batllo-visita-nocturna-copa-cava-bienvenida
-    etiqueta: "Casa Batlló à noite"
-  - ficha: tablao-flamenco-cordobes-cena-show-las-ramblas
-    etiqueta: "Jantar com flamenco"
-  - ficha: palau-dalmases-flamenco-show-palacio-siglo-xvii
-    etiqueta: "Flamenco num palácio"
 actividades:
   - tapas-vino-y-flamenco-tour-privado-barcelona
   - tour-tapas-y-vino-noche

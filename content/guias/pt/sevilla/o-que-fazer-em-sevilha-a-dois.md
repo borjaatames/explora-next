@@ -26,7 +26,7 @@ slugs:
   it: cose-romantiche-da-fare-a-siviglia
   pt: o-que-fazer-em-sevilha-a-dois
 reservasArriba: true
-respuestaCorta: 'Os três programas a dois mais especiais de Sevilha são o **tour privado pelos terraços ao pôr do sol**, que termina nas Setas com um cocktail (192 € por pessoa, 384 € os dois), o **passeio privado de charrete com guia** (298 € por charrete, 1h30) e um [**espetáculo de flamenco intimista**](/pt/cities/sevilla/activities/casa-de-la-memoria-espetaculo-flamenco-intimo-sevilha) como o da Casa de la Memoria (24 € por pessoa). Se o orçamento for apertado, o miradouro das Setas por conta própria (16 €) e um cruzeiro pelo Guadalquivir com bebida (25 €) dão um pôr do sol igualmente bonito por muito menos.'
+respuestaCorta: 'Os três programas a dois mais especiais de Sevilha são o **tour privado pelos terraços ao pôr do sol**, que termina nas Setas com um cocktail (192 € por pessoa, 384 € os dois), o **passeio privado de charrete com guia** (298 € por charrete, 1h30) e um **espetáculo de flamenco intimista** como o da Casa de la Memoria (24 € por pessoa). Se o orçamento for apertado, o miradouro das Setas por conta própria (16 €) e um cruzeiro pelo Guadalquivir com bebida (25 €) dão um pôr do sol igualmente bonito por muito menos.'
 faq:
   - pregunta: "Qual é o programa mais romântico de Sevilha?"
     respuesta: "Para a maioria dos casais, ver o pôr do sol lá de cima: o tour privado por dois terraços termina no miradouro das Setas com um cocktail incluído (192 € por pessoa). A alternativa clássica é a charrete privada, 298 € por charrete com refrigerante e um vinho da região no final."

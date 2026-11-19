@@ -1,7 +1,7 @@
 ---
 titulo: "Cosa vedere ad Alicante: castello, centro storico e spiagge"
 descripcion: "Guida di Alicante in uno o due giorni: Castello di Santa Bárbara, quartiere di Santa Cruz, Explanada, spiagge e Isola di Tabarca. Itinerario, dove mangiare e la Costa Blanca intorno."
-respuestaCorta: 'Alicante si visita in **uno o due giorni**. Il primo, il **Castello di Santa Bárbara** (gratis; ascensore da 2,70 € dal Postiguet), il quartiere di Santa Cruz, l''Explanada e un arroz a banda; il secondo, l''[**isola di Tabarca**](/it/cities/alicante/activities/alicante-barca-andata-ritorno-isola-tabarca) (barca da 25 € andata e ritorno) o un paese della costa come Altea o Guadalest. Tutto si fa a piedi e in TRAM, senza auto.'
+respuestaCorta: 'Alicante si visita in **uno o due giorni**. Il primo, il **Castello di Santa Bárbara** (gratis; ascensore da 2,70 € dal Postiguet), il quartiere di Santa Cruz, l''Explanada e un arroz a banda; il secondo, l''**isola di Tabarca** (barca da 25 € andata e ritorno) o un paese della costa come Altea o Guadalest. Tutto si fa a piedi e in TRAM, senza auto.'
 categoria: "alicante"
 slug: "cosa-vedere-ad-alicante"
 fecha: "2026-04-16"

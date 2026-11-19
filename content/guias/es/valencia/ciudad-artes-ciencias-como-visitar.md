@@ -1,7 +1,7 @@
 ---
 titulo: "Ciudad de las Artes y las Ciencias: cómo visitarla con criterio"
 descripcion: "Guía para visitar la Ciudad de las Artes y las Ciencias de Valencia: qué entrar y qué ver por fuera, Oceanogràfic, entradas combinadas, horarios y trucos."
-respuestaCorta: 'No hace falta entrar a todo: el conjunto de Calatrava se disfruta **gratis por fuera**, y por dentro el imprescindible es el [**Oceanogràfic**](/ciudades/valencia/actividades/oceanografic-valencia-entrada) (3-4 horas, mejor a primera hora; entrada desde 37 €). El **Museu de les Ciències** (2-3 horas) compensa con niños y el Hemisfèric es lo más prescindible; si vas a entrar a dos, la **entrada combinada** siempre sale a cuenta.'
+respuestaCorta: 'No hace falta entrar a todo: el conjunto de Calatrava se disfruta **gratis por fuera**, y por dentro el imprescindible es el **Oceanogràfic** (3-4 horas, mejor a primera hora; entrada desde 37 €). El **Museu de les Ciències** (2-3 horas) compensa con niños y el Hemisfèric es lo más prescindible; si vas a entrar a dos, la **entrada combinada** siempre sale a cuenta.'
 categoria: "valencia"
 slug: "ciudad-artes-ciencias-como-visitar"
 fecha: "2026-08-29"

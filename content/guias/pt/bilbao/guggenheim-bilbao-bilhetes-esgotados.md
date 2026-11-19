@@ -26,7 +26,7 @@ slugs:
   it: guggenheim-bilbao-biglietti-esauriti
   pt: guggenheim-bilbao-bilhetes-esgotados
 reservasArriba: true
-respuestaCorta: 'O Guggenheim raramente esgota por completo: o que costuma acontecer é **o horário que queria** encher ou haver fila na bilheteira aos fins de semana e em dias de chuva. Experimente outro horário no site oficial `guggenheim-bilbao.eus` (**12 €**, audioguia incluído) ou vá à hora de abertura. Se não quiser arriscar, uma **visita guiada com entrada** (desde 49 €, em espanhol) ou uma [**visita VIP em grupo reduzido**](/pt/cities/bilbao/activities/guggenheim-bilbao-visita-vip-grupo-reduzido) (desde 95 €) garante a sua visita.'
+respuestaCorta: 'O Guggenheim raramente esgota por completo: o que costuma acontecer é **o horário que queria** encher ou haver fila na bilheteira aos fins de semana e em dias de chuva. Experimente outro horário no site oficial `guggenheim-bilbao.eus` (**12 €**, audioguia incluído) ou vá à hora de abertura. Se não quiser arriscar, uma **visita guiada com entrada** (desde 49 €, em espanhol) ou uma **visita VIP em grupo reduzido** (desde 95 €) garante a sua visita.'
 webOficial:
   url: https://www.guggenheim-bilbao.eus/
   precio: "Entrada geral 12 €"

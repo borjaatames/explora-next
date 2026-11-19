@@ -8,8 +8,6 @@ type Props = {
   idioma: Idioma;
   locationId: string;
   nombreProveedor: string;
-  /** Nota global de la actividad (la del proveedor), como contexto encima de las reseñas sueltas. */
-  notaGlobal?: { valor: string; opiniones: string };
 };
 
 const TEXTOS = {
@@ -20,7 +18,6 @@ const TEXTOS = {
     leer: "Leer en Tripadvisor",
     mas: "Más en Tripadvisor",
     locale: "es-ES",
-    notaMedia: "Nota media de la actividad",
   },
   en: {
     titulo: "What travellers say",
@@ -29,7 +26,6 @@ const TEXTOS = {
     leer: "Read on Tripadvisor",
     mas: "More on Tripadvisor",
     locale: "en-GB",
-    notaMedia: "Average rating for this activity",
   },
   de: {
     titulo: "Das sagen Reisende",
@@ -38,7 +34,6 @@ const TEXTOS = {
     leer: "Auf Tripadvisor lesen",
     mas: "Mehr auf Tripadvisor",
     locale: "de-DE",
-    notaMedia: "Durchschnittliche Bewertung",
   },
   fr: {
     titulo: "Ce qu'en disent les voyageurs",
@@ -47,7 +42,6 @@ const TEXTOS = {
     leer: "Lire sur Tripadvisor",
     mas: "Plus d'avis sur Tripadvisor",
     locale: "fr-FR",
-    notaMedia: "Note moyenne de l'activité",
   },
   it: {
     titulo: "Cosa dicono i viaggiatori",
@@ -56,7 +50,6 @@ const TEXTOS = {
     leer: "Leggi su Tripadvisor",
     mas: "Altre su Tripadvisor",
     locale: "it-IT",
-    notaMedia: "Valutazione media dell'attività",
   },
   pt: {
     titulo: "O que dizem os viajantes",
@@ -65,7 +58,6 @@ const TEXTOS = {
     leer: "Ler no Tripadvisor",
     mas: "Mais no Tripadvisor",
     locale: "pt-PT",
-    notaMedia: "Avaliação média da atividade",
   },
 } as const satisfies Record<Idioma, unknown>;
 
@@ -83,7 +75,7 @@ function urlProveedor(urlResena: string | undefined): string | null {
  * acerca a la pantalla, para no cargar nada en la primera vista. Si no hay
  * clave o no hay reseñas, no pinta nada.
  */
-export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor, notaGlobal }: Props) {
+export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor }: Props) {
   const t = TEXTOS[idioma];
   const ref = useRef<HTMLElement>(null);
   const [resenas, setResenas] = useState<ResenaTripadvisor[]>([]);
@@ -164,17 +156,6 @@ export default function ResenasTripadvisor({ idioma, locationId, nombreProveedor
             )}{" "}
             {t.en}
           </p>
-          {notaGlobal && (
-            <p className="mb-4 inline-flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-piedra-600">
-              <span>{t.notaMedia}:</span>
-              <span className="inline-flex items-center gap-1 font-semibold text-piedra-900">
-                <span aria-hidden="true" className="text-azafran-500">★</span>
-                {notaGlobal.valor}
-              </span>
-              <span aria-hidden="true" className="text-piedra-400">·</span>
-              <span>{notaGlobal.opiniones}</span>
-            </p>
-          )}
           <ul className="flex flex-col gap-3">
             {resenas.map((r) => (
               <li key={r.id} className="border border-piedra-200 rounded-lg p-4">

@@ -1,5 +1,3 @@
-import EnlaceAtraccion from "@/components/atraccion/EnlaceAtraccion";
-import { atraccionDeFicha, atraccionDeGuia } from "@/lib/atracciones";
 import OtrosIdiomas from "@/components/layout/OtrosIdiomas";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -31,7 +29,6 @@ import HeroGuia, { IndiceGuia } from "@/components/guia/HeroGuia";
 import { anadirAnclasH2 } from "@/lib/indiceGuia";
 import ReservasGuia from "@/components/guia/ReservasGuia";
 import PrivadasGuia from "@/components/guia/PrivadasGuia";
-import AyudaWhatsAppGuia from "@/components/guia/AyudaWhatsAppGuia";
 import OpcionesGuia, { type OpcionGuia } from "@/components/guia/OpcionesGuia";
 import RespuestaCorta from "@/components/guia/RespuestaCorta";
 import MapaDiaGuia from "@/components/guia/MapaDiaGuia";
@@ -155,9 +152,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     },
   };
 }
-
-/** Minutos de lectura a partir de los que la guía ofrece ayuda por WhatsApp. */
-const GUIA_LARGA_MIN = 6;
 
 export default async function GuiaPage({ params }: Props) {
   if (!esIdiomaActivo(params.lang) || params.lang === "es") {
@@ -358,8 +352,7 @@ export default async function GuiaPage({ params }: Props) {
       />
 
       <RespuestaCorta texto={guia.respuestaCorta} idioma={lang} comprobado={guia.datosComprobados} />
-      <EnlaceAtraccion idioma={lang} enlace={atraccionDeGuia(lang, guia.slugs?.es ?? "")} />
-      <OpcionesGuia opciones={opcionesGuia} idioma={lang} webOficial={guia.webOficial} />
+      <OpcionesGuia opciones={opcionesGuia} idioma={lang} />
       <ReservasGuia actividades={reservasArriba} idioma={lang} />
       <PrivadasGuia actividades={privadasGuia} idioma={lang} />
 
@@ -397,14 +390,6 @@ export default async function GuiaPage({ params }: Props) {
                 idioma={lang}
               />
             )
-          )}
-          {guia.tiempoLectura >= GUIA_LARGA_MIN && (
-            <AyudaWhatsAppGuia
-              idioma={lang}
-              ciudad={nombreCiudad || guia.categoria}
-              tituloGuia={guia.titulo}
-              guiaSlug={guia.slug}
-            />
           )}
           {faq.length > 0 && (
             <div className="mt-12 pt-8 border-t border-piedra-200">

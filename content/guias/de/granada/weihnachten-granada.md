@@ -39,13 +39,6 @@ faq:
     respuesta: "Meistens ja, je nach Schnee. In der Saison 2025/26 öffnete das Skigebiet am Samstag, 29. November, mit Pisten im Bereich Borreguiles, unterstützt durch Schneekanonen. Der Saisonstart 2026/27 ist noch nicht bekannt; prüf den Pistenbericht auf sierranevada.es, bevor du hochfährst."
   - pregunta: "Wann ist der Dreikönigsumzug in Granada?"
     respuesta: "Am 5. Januar um 17:00 Uhr. 2026 startete er an der Avenida de la Constitución bei den Jardines del Triunfo, zog über Gran Vía, Reyes Católicos und Acera del Darro, machte gegen 19:30 Uhr an der Puente Blanco Halt für eine Drohnenshow und endete mit der Ankunft der Könige am Rathaus. Es fuhren 25 Wagen mit."
-opciones:
-  - ficha: alhambra-visita-nocturna
-    etiqueta: "Alhambra bei Nacht"
-  - ficha: albaicin-sacromonte-atardecer
-    etiqueta: "Albaicín bei Sonnenuntergang"
-  - ficha: flamenco-cueva-la-rocio-sacromonte
-    etiqueta: "Flamenco in der Höhle"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

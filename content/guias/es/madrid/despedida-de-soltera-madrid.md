@@ -26,7 +26,7 @@ slugs:
   it: addio-al-nubilato-madrid
   pt: despedida-de-solteira-madrid
 reservasArriba: true
-respuestaCorta: 'Los tres planes que mejor funcionan en una despedida en Madrid son el [**tuk-tuk fiesta privado con vuestra música**](/ciudades/madrid/actividades/tuk-tuk-fiesta-privada-musica-madrid) (150 € por tuk-tuk, 1 h 30 min), el **taller de paella y sangría** junto a Sol (64 € por persona, 3 horas) y, para la noche, un [**pub crawl**](/ciudades/madrid/actividades/pub-crawl-madrid-bares-chupitos) por tres bares y una discoteca con chupito en cada parada (19 € por persona, 5 horas). Si sois más de 8, reserva con dos o tres semanas y revisa el código de vestimenta: en la ruta nocturna no se entra con ropa deportiva.'
+respuestaCorta: 'Los tres planes que mejor funcionan en una despedida en Madrid son el **tuk-tuk fiesta privado con vuestra música** (150 € por tuk-tuk, 1 h 30 min), el **taller de paella y sangría** junto a Sol (64 € por persona, 3 horas) y, para la noche, un **pub crawl** por tres bares y una discoteca con chupito en cada parada (19 € por persona, 5 horas). Si sois más de 8, reserva con dos o tres semanas y revisa el código de vestimenta: en la ruta nocturna no se entra con ropa deportiva.'
 faq:
   - pregunta: "¿Cuánto cuesta una despedida en Madrid?"
     respuesta: "Con nuestras fichas, un día completo sale por unos 83 € por persona: taller de paella y sangría (64 €, con la comida o la cena incluida) y pub crawl por la noche (19 €, con cuatro chupitos y las entradas). Si añadís el tuk-tuk fiesta, son 150 € por vehículo a repartir entre quienes vayan en él."

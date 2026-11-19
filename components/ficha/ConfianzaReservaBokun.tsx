@@ -9,17 +9,6 @@ type Props = {
   confirmacionInmediata?: boolean;
   cancelacionGratuita?: boolean;
   horasCancelacion?: number;
-  /** Proveedor con nota de Tripadvisor (lib/tripadvisor-bokun.json, filtro 4,5+ y 10+ opiniones). */
-  organizador?: { nombre: string; rating: number; opiniones: number; ranking?: string | null };
-};
-
-const ORGANIZA: Record<Idioma, { organiza: string; en: string; opiniones: string; locale: string }> = {
-  es: { organiza: "Organiza", en: "en Tripadvisor", opiniones: "opiniones", locale: "es-ES" },
-  en: { organiza: "Run by", en: "on Tripadvisor", opiniones: "reviews", locale: "en-GB" },
-  de: { organiza: "Veranstalter:", en: "bei Tripadvisor", opiniones: "Bewertungen", locale: "de-DE" },
-  fr: { organiza: "Organisé par", en: "sur Tripadvisor", opiniones: "avis", locale: "fr-FR" },
-  it: { organiza: "Organizzato da", en: "su Tripadvisor", opiniones: "recensioni", locale: "it-IT" },
-  pt: { organiza: "Organizado por", en: "no Tripadvisor", opiniones: "opiniões", locale: "pt-PT" },
 };
 
 const TEXTOS = {
@@ -102,10 +91,8 @@ export default function ConfianzaReservaBokun({
   confirmacionInmediata,
   cancelacionGratuita,
   horasCancelacion,
-  organizador,
 }: Props) {
   const t = TEXTOS[idioma];
-  const o = ORGANIZA[idioma];
   const puntos = [
     t.empresa,
     t.pago,
@@ -116,23 +103,6 @@ export default function ConfianzaReservaBokun({
   return (
     <div className="mt-4 rounded-lg border border-piedra-200 bg-white p-4">
       <p className="text-sm font-semibold text-piedra-900 mb-2">{t.cabecera}</p>
-      {organizador ? (
-        <div className="mb-3 rounded-md bg-piedra-50 px-3 py-2 text-sm text-piedra-700">
-          <p>
-            {o.organiza} <span className="font-semibold text-piedra-900">{organizador.nombre}</span>
-          </p>
-          <p className="mt-0.5">
-            <span className="text-azafran-600" aria-hidden="true">
-              ★
-            </span>{" "}
-            <span className="font-semibold text-piedra-900">
-              {organizador.rating.toLocaleString(o.locale, { minimumFractionDigits: 1, maximumFractionDigits: 1 })}
-            </span>{" "}
-            {o.en} ({organizador.opiniones.toLocaleString(o.locale)} {o.opiniones})
-          </p>
-          {organizador.ranking ? <p className="mt-0.5 text-xs text-piedra-500">{organizador.ranking}</p> : null}
-        </div>
-      ) : null}
       <ul className="space-y-1.5 text-sm text-piedra-700">
         {puntos.map((p) => (
           <li key={p} className="flex items-start gap-2">

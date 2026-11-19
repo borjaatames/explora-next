@@ -26,7 +26,7 @@ slugs:
   pt: park-guell-que-bilhete-escolher
 fecha_actualizacion: "2026-10-06"
 reservasArriba: true
-respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the [**ticket with the Gaudí House Museum**](/en/cities/barcelona/activities/park-guell-and-gaudi-house-museum-ticket) (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
+respuestaCorta: 'If you only want the monumental zone (the dragon stairway, the Hypostyle Hall and the serpentine bench), the **basic ticket from €21.50** is enough. For €6.50 more, the **ticket with the Gaudí House Museum** (€28) adds the house where the architect lived. Neither includes a guide and **neither can be cancelled**: book only once your timing is fixed.'
 actividades:
   - park-guell-entrada-zona-monumental
   - park-guell-entrada-museo-casa-gaudi

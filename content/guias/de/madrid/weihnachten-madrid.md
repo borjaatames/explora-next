@@ -36,13 +36,6 @@ faq:
     respuesta: "Am 25. Dezember und 1. Januar ist er geschlossen. Am 24. und 31. Dezember sowie am 6. Januar öffnet er nur von 10:00 bis 14:00 Uhr. In den letzten zwei Stunden jedes Tages ist die Sammlung kostenlos, solange Platz ist."
   - pregunta: "Wo feiert man Silvester in Madrid?"
     respuesta: "An der Puerta del Sol, wo die Glockenschläge im Fernsehen übertragen werden. Der Zugang schließt, wenn der Platz voll ist: Komm vor 21:00 Uhr und bring die zwölf Trauben geschält mit. Am 30. Dezember gibt es mit den Preúvas eine Generalprobe mit viel weniger Andrang."
-opciones:
-  - ficha: madrid-big-bus-night-tour
-    etiqueta: "Weihnachtslichter im Bus"
-  - ficha: flamenco-torres-bermejas-cena
-    etiqueta: "Abendessen mit Flamenco"
-  - ficha: madrid-tour-nocturno-inquisicion-leyendas
-    etiqueta: "Legenden bei Nacht"
 actividades:
   - tuk-tuk-luces-navidad-madrid
   - madrid-big-bus-night-tour

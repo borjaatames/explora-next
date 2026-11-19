@@ -41,7 +41,6 @@ export default function HeroGuia({
             alt={imagenAlt || titulo}
             fill
             priority
-            quality={62}
             sizes="100vw"
             className="object-cover -z-10"
           />

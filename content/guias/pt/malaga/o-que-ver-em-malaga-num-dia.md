@@ -28,7 +28,7 @@ slugs:
   it: cosa-vedere-a-malaga-in-un-giorno
   pt: o-que-ver-em-malaga-num-dia
 reservasArriba: true
-respuestaCorta: 'Comece às **9h00 na Alcazaba** e suba a **Gibralfaro** antes de o sol apertar (**10 € a entrada conjunta**). Depois, **Teatro Romano** (grátis), **Catedral** (10 €), almoço no **mercado de Atarazanas** e [**Museu Picasso**](/pt/cities/malaga/activities/museu-picasso-malaga-bilhete-audioguia) (13 €) à tarde. Feche com o **Muelle Uno e a Malagueta ao pôr do sol**. Tudo a pé, em menos de 2 km.'
+respuestaCorta: 'Comece às **9h00 na Alcazaba** e suba a **Gibralfaro** antes de o sol apertar (**10 € a entrada conjunta**). Depois, **Teatro Romano** (grátis), **Catedral** (10 €), almoço no **mercado de Atarazanas** e **Museu Picasso** (13 €) à tarde. Feche com o **Muelle Uno e a Malagueta ao pôr do sol**. Tudo a pé, em menos de 2 km.'
 actividades:
   - alcazaba-teatro-romano-malaga-visita-guiada
   - museo-picasso-malaga-entrada

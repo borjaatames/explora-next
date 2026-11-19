@@ -25,7 +25,7 @@ slugs:
   fr: flamenco-seville-quel-tablao-choisir
   it: flamenco-siviglia-quale-tablao-scegliere
   pt: flamenco-em-sevilha-que-tablao-escolher
-respuestaCorta: 'Seville''s five bookable flamenco shows all last about an hour and cost **€24–45**. Choose [**Casa de la Memoria**](/en/cities/sevilla/activities/seville-casa-de-la-memoria-flamenco-show-intimate) (€24, two rows of seats) for intimacy, **Teatro Flamenco Sevilla** (€25) for the safest pick with good sightlines, and [**Tablao El Arenal**](/en/cities/sevilla/activities/seville-flamenco-show-tablao-el-arenal-historic) (€45) if you want **dinner with the show**. All five offer **free cancellation up to 24 hours** ahead.'
+respuestaCorta: 'Seville''s five bookable flamenco shows all last about an hour and cost **€24–45**. Choose **Casa de la Memoria** (€24, two rows of seats) for intimacy, **Teatro Flamenco Sevilla** (€25) for the safest pick with good sightlines, and **Tablao El Arenal** (€45) if you want **dinner with the show**. All five offer **free cancellation up to 24 hours** ahead.'
 reservasArriba: true
 opciones:
   - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla

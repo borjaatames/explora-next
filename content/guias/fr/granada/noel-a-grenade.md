@@ -40,13 +40,6 @@ faq:
     respuesta: "Normalement oui, mais cela dépend de la neige. Pour la saison 2025-26, la station a ouvert le samedi 29 novembre avec des pistes dans le secteur de Borreguiles, grâce aux canons à neige. La date d'ouverture 2026-27 n'a pas été annoncée ; consultez l'état des pistes sur sierranevada.es avant de monter."
   - pregunta: "À quelle heure a lieu la Cavalcade des Rois de Grenade ?"
     respuesta: "Le 5 janvier à 17 h. En 2026, elle est partie de l'avenida de la Constitución, près des Jardines del Triunfo, est descendue par Gran Vía, Reyes Católicos et l'Acera del Darro, s'est arrêtée vers 19 h 30 au Puente Blanco pour un spectacle de drones et s'est terminée avec l'arrivée des Rois à l'hôtel de ville. 25 chars ont défilé."
-opciones:
-  - ficha: alhambra-visita-nocturna
-    etiqueta: "L'Alhambra de nuit"
-  - ficha: albaicin-sacromonte-atardecer
-    etiqueta: "L'Albaicín au coucher du soleil"
-  - ficha: flamenco-cueva-la-rocio-sacromonte
-    etiqueta: "Flamenco dans une grotte"
 actividades:
   - alhambra-visita-nocturna
   - alhambra-palacios-nazaries-visita-privada-traslado

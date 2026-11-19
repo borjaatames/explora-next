@@ -25,7 +25,7 @@ slugs:
   it: cosa-vedere-a-maiorca
   pt: o-que-ver-em-maiorca
 reservasArriba: true
-respuestaCorta: 'Con **due o tre giorni** vedi l''essenziale: [**Palma**](/it/cities/mallorca/activities/biglietto-cattedrale-di-palma-la-seu) e la sua cattedrale (ingresso da 11 €), la **Serra de Tramuntana** (Valldemossa, Sóller e i belvedere) e le grotte e le calette dell''est; una settimana aggiunge il nord. **Noleggia un''auto** (30-60 € al giorno) e vai a maggio-giugno o settembre-ottobre.'
+respuestaCorta: 'Con **due o tre giorni** vedi l''essenziale: **Palma** e la sua cattedrale (ingresso da 11 €), la **Serra de Tramuntana** (Valldemossa, Sóller e i belvedere) e le grotte e le calette dell''est; una settimana aggiunge il nord. **Noleggia un''auto** (30-60 € al giorno) e vai a maggio-giugno o settembre-ottobre.'
 opciones:
   - ficha: catedral-palma-mallorca-entrada
     etiqueta: La più economica

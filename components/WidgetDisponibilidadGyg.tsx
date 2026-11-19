@@ -1,8 +1,7 @@
 "use client";
 
-import { useEffect, useRef, useState, type MouseEvent as ReactMouseEvent, type ReactNode } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { campanaConCanal } from "@/lib/canalVisita";
-import { construirUrlViatorFicha } from "@/lib/sem/url-builder-ficha";
 import type { Idioma } from "@/lib/i18n/types";
 import {
   ANCLA_WIDGET_GYG,
@@ -40,13 +39,12 @@ const LOCALE: Record<Idioma, string> = {
   pt: "pt-PT",
 };
 
-type Textos = { titulo: string; noCarga: string; verEnGyg: string; reservar: string };
+type Textos = { titulo: string; noCarga: string; verEnGyg: string };
 
 const TEXTOS_EN: Textos = {
   titulo: "Choose your date and travellers",
   noCarga: "Calendar not loading?",
   verEnGyg: "View on GetYourGuide →",
-  reservar: "Book now",
 };
 
 const TEXTOS: Record<Idioma, Textos> = {
@@ -54,32 +52,27 @@ const TEXTOS: Record<Idioma, Textos> = {
     titulo: "Elige fecha y personas",
     noCarga: "¿No carga el calendario?",
     verEnGyg: "Ver en GetYourGuide →",
-    reservar: "Reservar",
   },
   en: TEXTOS_EN,
   de: {
     titulo: "Datum und Personen wählen",
     noCarga: "Kalender lädt nicht?",
     verEnGyg: "Auf GetYourGuide ansehen →",
-    reservar: "Jetzt buchen",
   },
   fr: {
     titulo: "Choisissez la date et le nombre de voyageurs",
     noCarga: "Le calendrier ne se charge pas ?",
     verEnGyg: "Voir sur GetYourGuide →",
-    reservar: "Réserver",
   },
   it: {
     titulo: "Scegli data e persone",
     noCarga: "Il calendario non si carica?",
     verEnGyg: "Vedi su GetYourGuide →",
-    reservar: "Prenota",
   },
   pt: {
     titulo: "Escolha a data e o número de pessoas",
     noCarga: "O calendário não carrega?",
     verEnGyg: "Ver no GetYourGuide →",
-    reservar: "Reservar",
   },
 };
 
@@ -100,8 +93,6 @@ type Props = {
 type GtagWindow = Window & {
   gtag?: (command: string, action: string, params: Record<string, unknown>) => void;
 };
-
-const ESPERA_FALLO_MS = 8000;
 
 function inyectarScript(): void {
   document
@@ -126,8 +117,6 @@ export default function WidgetDisponibilidadGyg({
   campana = CAMPANA_WIDGET_GYG,
 }: Props) {
   const [activo, setActivo] = useState(false);
-  // El enlace de respaldo solo aparece si el iframe de GYG no llega a pintarse.
-  const [fallo, setFallo] = useState(false);
   const contenedorRef = useRef<HTMLDivElement>(null);
   const t = TEXTOS[idioma];
 
@@ -145,15 +134,11 @@ export default function WidgetDisponibilidadGyg({
   useEffect(() => {
     if (!activo || !contenedorRef.current) return;
     const nodo = contenedorRef.current;
-    let temporizador: number | undefined;
     const observer = new IntersectionObserver(
       (entradas) => {
         if (!entradas.some((e) => e.isIntersecting)) return;
         observer.disconnect();
         inyectarScript();
-        temporizador = window.setTimeout(() => {
-          if (!nodo.querySelector("iframe")) setFallo(true);
-        }, ESPERA_FALLO_MS);
         (window as GtagWindow).gtag?.("event", "widget_gyg_visto", {
           tour_id: tourId,
           dispositivo: soloEn,
@@ -162,37 +147,8 @@ export default function WidgetDisponibilidadGyg({
       { rootMargin: MARGEN_CARGA }
     );
     observer.observe(nodo);
-    return () => {
-      observer.disconnect();
-      if (temporizador !== undefined) window.clearTimeout(temporizador);
-    };
+    return () => observer.disconnect();
   }, [activo, tourId, soloEn]);
-
-  // Botón «Reservar» propio bajo el widget: enlace directo y medido
-  // (outbound_click), porque los clics dentro del iframe de GYG no llegan a GA4.
-  const alReservar = (e: ReactMouseEvent<HTMLAnchorElement>) => {
-    e.preventDefault();
-    const gclid = window.sessionStorage.getItem("gclid") ?? undefined;
-    const slug = window.location.pathname.split("/").filter(Boolean).pop() ?? "unknown";
-    const url = construirUrlViatorFicha(urlReserva, slug, gclid);
-    let linkDomain: string | null = null;
-    try {
-      linkDomain = new URL(url).hostname;
-    } catch {
-      linkDomain = null;
-    }
-    (window as GtagWindow).gtag?.("event", "outbound_click", {
-      event_category: "ficha",
-      event_label: slug,
-      item_name: slug,
-      ficha_slug: slug,
-      origen: "widget_gyg_boton",
-      gclid: gclid ?? null,
-      link_domain: linkDomain,
-      link_url: url,
-    });
-    window.open(url, "_blank", "noopener,noreferrer");
-  };
 
   if (!activo) return <>{fallback}</>;
 
@@ -224,17 +180,6 @@ export default function WidgetDisponibilidadGyg({
           </span>
         </div>
       </div>
-      <a
-        href={urlReserva}
-        onClick={alReservar}
-        target="_blank"
-        rel="noopener noreferrer sponsored"
-        data-reserva="widget"
-        className="mt-3 inline-flex w-full items-center justify-center rounded-lg bg-azafran-400 hover:bg-azafran-500 px-5 py-3 text-base font-semibold text-piedra-900 transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-azafran-500"
-      >
-        {t.reservar} →
-      </a>
-      {fallo && (
       <p className="mt-3 text-center text-xs text-piedra-500">
         {t.noCarga}{" "}
         <a
@@ -246,7 +191,6 @@ export default function WidgetDisponibilidadGyg({
           {t.verEnGyg}
         </a>
       </p>
-      )}
     </div>
   );
 }

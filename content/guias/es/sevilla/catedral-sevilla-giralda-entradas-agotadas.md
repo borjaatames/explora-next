@@ -49,10 +49,10 @@ faq:
 - pregunta: ¿Qué se puede ver de la Catedral y la Giralda sin entrada?
   respuesta: 'Las fachadas y la Giralda desde la Plaza Virgen de los Reyes, la Avenida de la Constitución y la Plaza del Triunfo, que rodean el templo. Para ver el interior hace falta entrada o asistir al culto, que no es una visita turística.'
 opciones:
-  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-    etiqueta: Cancela gratis
   - ficha: catedral-sevilla-giralda-entrada-skip-line
     etiqueta: La más barata
+  - ficha: sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
+    etiqueta: Con el Alcázar
   - ficha: real-alcazar-catedral-sevilla-tour-privado-entradas
     etiqueta: Privada
 ---

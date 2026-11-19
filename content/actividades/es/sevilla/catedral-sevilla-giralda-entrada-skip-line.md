@@ -155,9 +155,6 @@ publicada: true
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-10-25'
-alternativa:
-  slug: catedral-sevilla-giralda-tour-guiado-acceso-rapido
-  motivo: "Si tu franja está agotada, esta visita guiada incluye el acceso rápido a la Catedral y la Giralda."
 ---
 
 ## Qué vas a ver

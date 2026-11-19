@@ -188,9 +188,8 @@ export default function GaleriaActividad({
             <button
               type="button"
               onClick={() => abrirEn(0)}
-              // Móvil 16:10 (antes 4:3): sube el calendario ~45 px en la primera pantalla.
-              style={{ aspectRatio: "16/10" }}
-              className="relative aspect-[16/10] md:aspect-auto md:h-full w-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
+              style={{ aspectRatio: "4/3" }}
+              className="relative aspect-[4/3] md:aspect-auto md:h-full w-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500"
               aria-label={t.abrirGaleriaEn(principal.alt)}
             >
               <Image
@@ -198,7 +197,6 @@ export default function GaleriaActividad({
                 alt={principal.alt}
                 fill
                 priority
-                quality={62}
                 // En PC la galería ocupa la columna izquierda (2/3 de max-w-6xl ≈ 740 px).
                 sizes={
                   haySecundarias
@@ -247,7 +245,7 @@ export default function GaleriaActividad({
                     type="button"
                     onClick={() => abrirEn(indiceReal)}
                     className={
-                      "relative flex-none w-full aspect-[16/10] snap-center md:w-auto md:aspect-auto md:h-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 " +
+                      "relative flex-none w-full aspect-[4/3] snap-center md:w-auto md:aspect-auto md:h-full bg-piedra-100 overflow-hidden group focus:outline-none focus-visible:ring-2 focus-visible:ring-anil-500 " +
                       (soloMovil ? "md:hidden" : "")
                     }
                     aria-label={
@@ -265,7 +263,6 @@ export default function GaleriaActividad({
                       // pantalla" en horizontal y Chrome las descarga a la vez
                       // que la principal: baja su prioridad para no frenar el LCP.
                       fetchPriority="low"
-                      quality={55}
                       className="object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                     {esUltimaConRestantes && (

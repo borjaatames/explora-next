@@ -30,13 +30,6 @@ slugs:
   pt: o-que-ver-em-segovia-num-dia
 reservasArriba: true
 respuestaCorta: 'Nimm den **Avant von Madrid-Chamartín nach Segovia-Guiomar (etwa 30 Minuten)**, dann den Stadtbus 11 zum Aquädukt, oder den Avanza-Bus ab Moncloa (1 Std. 15). Ein Tag reicht für das Wichtigste plus ein langes Mittagessen: **Aquädukt (gratis), Calle Real, Kathedrale (4 €) und Alcázar (7 €, mit Turm Juan II. 10 €)**, danach der Blick auf den Alcázar vom Tal aus. Vom 1. November bis 31. März schließt der Alcázar um 18:00 Uhr.'
-opciones:
-  - ficha: excursion-toledo-segovia-alcazar
-    etiqueta: "Am günstigsten"
-  - ficha: excursion-avila-segovia-con-entradas
-    etiqueta: "Tickets inklusive"
-  - ficha: vuelo-globo-segovia
-    etiqueta: "Im Heißluftballon"
 actividades:
   - excursion-avila-segovia-con-entradas
   - excursion-avila-segovia-economica

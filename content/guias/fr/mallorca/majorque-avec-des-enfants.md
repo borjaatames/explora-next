@@ -26,7 +26,7 @@ slugs:
   it: maiorca-con-bambini
   pt: maiorca-com-criancas
 reservasArriba: true
-respuestaCorta: "Logez dans le **nord (Alcúdia)**, avec ses plages aux eaux peu profondes, et ne cherchez pas à voir toute l'île. Les incontournables : le [**train de Sóller**](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north) (demi-journée depuis le nord, à partir de 56 €), les [**grottes du Drach[**](/en/cities/mallorca/activities/drach-caves-from-alcudia) avec concert en barque (54 €) et le [**](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma)Palma Aquarium**](/en/cities/mallorca/activities/palma-aquarium-entry-ticket) pour un jour nuageux (30,50 €)."
+respuestaCorta: "Logez dans le **nord (Alcúdia)**, avec ses plages aux eaux peu profondes, et ne cherchez pas à voir toute l'île. Les incontournables : le [**train de Sóller**](/en/cities/mallorca/activities/soller-train-tram-half-day-from-the-north) (demi-journée depuis le nord, à partir de 56 €), les [**grottes du Drach**](/en/cities/mallorca/activities/drach-caves-from-alcudia) avec concert en barque (54 €) et le [**Palma Aquarium**](/en/cities/mallorca/activities/palma-aquarium-entry-ticket) pour un jour nuageux (30,50 €)."
 opciones:
   - ficha: tren-soller-tranvia-medio-dia-desde-el-norte
     etiqueta: Train de Sóller

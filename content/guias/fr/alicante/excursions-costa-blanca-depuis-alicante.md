@@ -1,7 +1,7 @@
 ---
 titulo: "Excursions sur la Costa Blanca depuis Alicante : Benidorm, Altea, Guadalest"
 descripcion: "Les meilleures excursions depuis Alicante : Benidorm, Altea, Calpe et le rocher d'Ifach, Guadalest, Jávea et Elche. Comment y aller en TRAM ou en voiture et que voir dans chacune."
-respuestaCorta: 'Les meilleures excursions depuis Alicante sont **Altea et Calpe** en TRAM (avec correspondance à Benidorm), [**Guadalest et les Fuentes del Algar**](/fr/cities/alicante/activities/excursion-guadalest-altea-algar-depuis-alicante) (une heure en voiture, ou excursion organisée à partir de 47 €), **la palmeraie d''Elche** (20 minutes en train de banlieue) et Benidorm. Faites-en une par jour : Guadalest ou Jávea occupent déjà toute la journée.'
+respuestaCorta: 'Les meilleures excursions depuis Alicante sont **Altea et Calpe** en TRAM (avec correspondance à Benidorm), **Guadalest et les Fuentes del Algar** (une heure en voiture, ou excursion organisée à partir de 47 €), **la palmeraie d''Elche** (20 minutes en train de banlieue) et Benidorm. Faites-en une par jour : Guadalest ou Jávea occupent déjà toute la journée.'
 categoria: "alicante"
 slug: "excursions-costa-blanca-depuis-alicante"
 fecha: "2026-05-18"

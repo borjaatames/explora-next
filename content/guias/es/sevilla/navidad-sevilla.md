@@ -40,13 +40,6 @@ faq:
     respuesta: "La organiza el Ateneo el 5 de enero. En 2026 salió a las 16:15 de la antigua Fábrica de Tabacos, pasó por el centro (Campana, San Pablo, Reyes Católicos), cruzó a Triana y volvió hacia las 22:00, con 33 carrozas. La víspera, el 4 de enero, recorre la ciudad el Heraldo Real."
   - pregunta: "¿Dónde comprar dulces de convento en Sevilla?"
     respuesta: "En los tornos de los conventos de clausura, como San Leandro, famoso por sus yemas, y en la exposición y venta de dulces de conventos que se celebra en el Real Alcázar en torno al puente de la Inmaculada (en 2023, del 5 al 8 de diciembre, con 20 conventos). Las fechas de 2026 aún no están publicadas."
-opciones:
-  - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
-    etiqueta: "Flamenco íntimo"
-  - ficha: sevilla-tapas-tour-triana-cruzando-rio
-    etiqueta: "Tapas en Triana"
-  - ficha: cordoba-excursion-dia-completo-mezquita-desde-sevilla
-    etiqueta: "Excursión a Córdoba"
 actividades:
   - tuk-tuk-privado-sevilla
   - sevilla-misteriosa-tour-privado-atardecer

@@ -27,7 +27,7 @@ slugs:
   it: flamenco-siviglia-quale-tablao-scegliere
   pt: flamenco-em-sevilha-que-tablao-escolher
 reservasArriba: true
-respuestaCorta: 'Die fünf buchbaren Flamenco-Shows in Sevilla dauern rund eine Stunde und kosten **zwischen 24 und 45 €**. Wähle die [**Casa de la Memoria**](/de/cities/sevilla/activities/casa-de-la-memoria-flamenco-show-sevilla) (24 €, nur zwei Reihen), wenn du Nähe suchst, das **Teatro Flamenco Sevilla** (25 €) als sichere Wahl mit guter Sicht und das [**Tablao El Arenal**](/de/cities/sevilla/activities/tablao-el-arenal-flamenco-show-sevilla) (45 €), wenn du während der Show essen willst. Alle sind **bis 24 Stunden vorher kostenlos stornierbar**.'
+respuestaCorta: 'Die fünf buchbaren Flamenco-Shows in Sevilla dauern rund eine Stunde und kosten **zwischen 24 und 45 €**. Wähle die **Casa de la Memoria** (24 €, nur zwei Reihen), wenn du Nähe suchst, das **Teatro Flamenco Sevilla** (25 €) als sichere Wahl mit guter Sicht und das **Tablao El Arenal** (45 €), wenn du während der Show essen willst. Alle sind **bis 24 Stunden vorher kostenlos stornierbar**.'
 opciones:
   - ficha: casa-de-la-memoria-flamenco-show-intimo-sevilla
     etiqueta: Am intimsten
