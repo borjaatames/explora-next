@@ -636,19 +636,6 @@ export default async function ActividadPage({ params }: Props) {
           <div className="lg:col-span-2 lg:col-start-1 lg:row-start-2 min-w-0">
           <div className="space-y-12 pt-12">
 
-            {/* 3. Reseñas reales del proveedor (Tripadvisor Content API). Antes
-                iban al final (decisión 24-10-2026); el 17-11-2026 Borja eligió
-                subirlas al inicio de la segunda mitad, como Civitatis y GYG:
-                en móvil quedan justo tras el bloque de reserva. */}
-            {fuenteResenas && (
-              <ResenasTripadvisor
-                idioma="es"
-                locationId={fuenteResenas.locationId}
-                nombreProveedor={fuenteResenas.nombre}
-                notaGlobal={tieneRating ? { valor: ratingTextoValor, opiniones: ratingTextoOpiniones } : undefined}
-              />
-            )}
-
             {/* 3a. Otras versiones de la misma actividad */}
             <OtrasVersiones idioma="es" actual={actividad} versiones={otrasVersiones} />
 
@@ -780,6 +767,18 @@ export default async function ActividadPage({ params }: Props) {
               </SeccionMovil>
             )}
             </div>
+
+            {/* 12b. Reseñas reales del proveedor (Tripadvisor Content API), al
+                final como Civitatis y GYG (decisión de Borja, 19-11-2026). La nota
+                de arriba enlaza aquí (#opiniones). */}
+            {fuenteResenas && (
+              <ResenasTripadvisor
+                idioma="es"
+                locationId={fuenteResenas.locationId}
+                nombreProveedor={fuenteResenas.nombre}
+                notaGlobal={tieneRating ? { valor: ratingTextoValor, opiniones: ratingTextoOpiniones } : undefined}
+              />
+            )}
 
             {/* 13. Guías relacionadas */}
             {bloqueGuias && (
