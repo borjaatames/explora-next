@@ -59,6 +59,7 @@ export type Diccionario = {
     actividadesEnCiudad: string;
     desde: string;
     porPersona: string;
+    porGrupo: string;
     duracion: string;
     idiomas: string;
     cancelacionGratuita: string;

@@ -244,6 +244,9 @@ export default async function ActividadPage({ params }: Props) {
 
 
   const tourWidget = tourWidgetGyg(actividad.proveedor, actividad.urlReserva);
+  const etiquetaPrecio = actividad.precioPorGrupo
+    ? dict.actividades.porGrupo
+    : dict.actividades.porPersona;
   const etiquetaCanc = etiquetaCancelacion("es", actividad);
   const etiquetaPagoDespues = etiquetaReservaSinPagar("es", actividad.reservaSinPagar);
   const bloqueCalendario = (
@@ -253,7 +256,7 @@ export default async function ActividadPage({ params }: Props) {
       precio={precio}
       valorEstimado={precioDesdeFinal}
       monedaEstimada={actividad.moneda}
-      precioPorPersona={dict.actividades.porPersona}
+      precioPorPersona={etiquetaPrecio}
       duracion={actividad.duracion}
       idiomas={actividad.idiomas}
       cancelacionGratuita={actividad.cancelacionGratuita}
@@ -264,7 +267,7 @@ export default async function ActividadPage({ params }: Props) {
       nombreProveedor={nombreComercialProveedor}
       textoReservar={dict.actividades.reservar}
       textoDesde={dict.actividades.desde}
-      textoPorPersona={dict.actividades.porPersona}
+      textoPorPersona={etiquetaPrecio}
       textoDuracion={dict.actividades.duracion}
       textoIdiomas={dict.actividades.idiomas}
       textoCancelacionHorasAntes={
@@ -851,7 +854,7 @@ export default async function ActividadPage({ params }: Props) {
           precio={`${dict.actividades.desde} ${precio}`}
           valorEstimado={precioDesdeFinal}
           monedaEstimada={actividad.moneda}
-          precioPorPersona={dict.actividades.porPersona}
+          precioPorPersona={etiquetaPrecio}
           duracion={actividad.duracion}
           idiomas={actividad.idiomas}
           cancelacionGratuita={actividad.cancelacionGratuita}
@@ -863,7 +866,7 @@ export default async function ActividadPage({ params }: Props) {
           textoReservar={dict.actividades.reservar}
           textoOpiniones={dict.actividades.opiniones}
           textoDesde={dict.actividades.desde}
-          textoPorPersona={dict.actividades.porPersona}
+          textoPorPersona={etiquetaPrecio}
           textoDuracion={dict.actividades.duracion}
           textoIdiomas={dict.actividades.idiomas}
           textoCancelacionHorasAntes={dict.actividades.cancelacionHorasAntes}
