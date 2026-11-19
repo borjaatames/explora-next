@@ -14,7 +14,6 @@ const RESERVAR_CORTO: Record<Idioma, string> = {
   it: "Prenota",
   pt: "Reservar",
 };
-import { WhatsAppCompacto } from "@/components/WhatsAppButton";
 
 // CalendarioReserva pesa ~440 líneas y solo se renderiza cuando el usuario
 // abre el modal de reserva en móvil. Lo cargamos con `next/dynamic` para
@@ -238,7 +237,6 @@ export default function StickyReservaMovil({
             </span>
           </div>
 
-          <WhatsAppCompacto idioma={idioma} />
 
           <button
             type="button"
