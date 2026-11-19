@@ -65,18 +65,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/f3684a9f-891a-4ae7-a963-2d94bf574aed.jpeg
 imagenAlt: Guía contando una leyenda al grupo ante un portón de Santa Cruz
 galeria:
-- src: https://imgcdn.bokun.tools/f16a58f6-a5fd-4971-b948-a388c4dfa1d1.jpeg
-  alt: Calle encalada con flores en el barrio de Santa Cruz
-- src: https://imgcdn.bokun.tools/92a1ee17-43d2-46aa-afc3-d58752d7027f.jpeg
-  alt: El guía explicando la historia del barrio
-- src: https://imgcdn.bokun.tools/0fad0aa5-ec44-4607-a414-dcf7afe0c058.jpeg
-  alt: Callejón estrecho del barrio de Santa Cruz
-- src: https://imgcdn.bokun.tools/5694881b-1ed3-4c51-9be8-11ab179e6124.jpeg
-  alt: Grupo del tour en una plaza de Santa Cruz
-- src: https://imgcdn.bokun.tools/cab8e341-db51-4f1f-bf6f-21aef6847b6d.jpeg
-  alt: Casa andaluza con palmeras en Sevilla
-- src: https://imgcdn.bokun.tools/5006124f-63f7-43b2-88d7-303c2cf48600.jpeg
-  alt: Bailaora en un espectáculo de flamenco
+- src: "https://imgcdn.bokun.tools/f16a58f6-a5fd-4971-b948-a388c4dfa1d1.jpeg"
+  alt: "Calle encalada con flores en el barrio de Santa Cruz"
+- src: "https://imgcdn.bokun.tools/92a1ee17-43d2-46aa-afc3-d58752d7027f.jpeg"
+  alt: "El guía explicando la historia del barrio"
+- src: "https://imgcdn.bokun.tools/0fad0aa5-ec44-4607-a414-dcf7afe0c058.jpeg"
+  alt: "Callejón estrecho del barrio de Santa Cruz"
+- src: "https://imgcdn.bokun.tools/5694881b-1ed3-4c51-9be8-11ab179e6124.jpeg"
+  alt: "Grupo del tour en una plaza de Santa Cruz"
+- src: "https://imgcdn.bokun.tools/cab8e341-db51-4f1f-bf6f-21aef6847b6d.jpeg"
+  alt: "Casa andaluza con palmeras en Sevilla"
+- src: "https://imgcdn.bokun.tools/5006124f-63f7-43b2-88d7-303c2cf48600.jpeg"
+  alt: "Bailaora en un espectáculo de flamenco"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflejada en el canal"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "Torre del Oro junto al Guadalquivir"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -77,18 +77,22 @@ keywords:
 imagen: /images/actividades/barcelona/palau-musica/palau-musica-catalana-interior-general-hero.webp
 imagenAlt: 'Stained-glass skylight over the Palau de la Música concert hall'
 galeria:
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-catalana-palace-catalan-music-hero.webp
-  alt: 'Palau concert hall with the organ at the back'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp
-  alt: 'Decorated ceiling and side windows of the Palau'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp
-  alt: 'Visitors in the boxes of the Palau de la Música'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-mosaic-hero.webp
-  alt: 'Mosaic columns on the Palau façade'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-exterior-hero.webp
-  alt: 'Modernista corner of the Palau de la Música Catalana'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp
-  alt: 'Palau stalls seen from the upper circle'
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-catalana-palace-catalan-music-hero.webp"
+  alt: "Palau concert hall with the organ at the back"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp"
+  alt: "Decorated ceiling and side windows of the Palau"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp"
+  alt: "Visitors in the boxes of the Palau de la Música"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-mosaic-hero.webp"
+  alt: "Mosaic columns on the Palau façade"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-exterior-hero.webp"
+  alt: "Modernista corner of the Palau de la Música Catalana"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
+  alt: "Palau stalls seen from the upper circle"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
 ratingProveedor: 4.6
 numeroOpiniones: 6321
 publicada: true

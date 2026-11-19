@@ -71,6 +71,12 @@ galeria:
   alt: "Kiefern und Berge im Naturpark Montes de Málaga"
 - src: "/images/actividades/malaga/montes-de-malaga/montes-de-malaga-wikimedia-06.webp"
   alt: "Blick über die Täler der Montes de Málaga"
+- src: "/images/actividades/malaga/montes-de-malaga/montes-de-malaga-wikimedia-01.webp"
+  alt: "Altes Wasserbecken in den Montes de Málaga"
+- src: "/images/actividades/malaga/montes-de-malaga/montes-de-malaga-wikimedia-02-b15.webp"
+  alt: "Verfallenes Bauernhaus in den Montes de Málaga"
+- src: "/images/actividades/malaga/montes-de-malaga/montes-de-malaga-wikimedia-03-b15.webp"
+  alt: "Panorama der Montes de Málaga"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

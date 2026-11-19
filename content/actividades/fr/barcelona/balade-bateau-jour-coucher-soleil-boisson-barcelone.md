@@ -78,6 +78,12 @@ galeria:
   alt: "Voiliers au port de Barcelone"
 - src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
   alt: "Plage de Barcelone avec palmiers au crépuscule"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-11479765.webp"
+  alt: "Catamaran au coucher du soleil en mer"
+- src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
+  alt: "Beaupré d'un voilier dans le port de Barcelone"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-wikimedia-01.webp"
+  alt: "Bateaux au Port Vell avec la tour du téléphérique du port"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

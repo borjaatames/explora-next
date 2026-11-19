@@ -64,18 +64,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/3d6fba88-a3a1-4453-ab8a-4220fe700cec.jpeg
 imagenAlt: Guía con un grupo reducido en el centro de Sevilla
 galeria:
-- src: https://imgcdn.bokun.tools/719431f8-252c-4969-b6ae-fc12db63ff6d.jpeg
-  alt: La Catedral de Sevilla al atardecer
-- src: https://imgcdn.bokun.tools/44a488b8-443e-488d-b2b9-9450ac6b9c81.jpeg
-  alt: Grupo del tour en una plaza del centro de Sevilla
-- src: https://imgcdn.bokun.tools/82d0c334-81cd-430d-ac1f-25c6706b596d.jpeg
-  alt: Plaza de España de Sevilla con flores en primer plano
-- src: https://imgcdn.bokun.tools/6ddb618c-70f0-4a3b-b9da-588229dd1f34.jpeg
-  alt: Grupo paseando por una calle del casco antiguo
-- src: https://imgcdn.bokun.tools/5e61ea43-5bd3-4af6-9c78-ac1bb0decb37.jpeg
-  alt: Desayuno sevillano con tostada y aceite de oliva
-- src: https://imgcdn.bokun.tools/41de7a4e-7be3-4f77-9725-01f0366552d9.jpeg
-  alt: Calle del centro de Sevilla con edificios históricos
+- src: "https://imgcdn.bokun.tools/719431f8-252c-4969-b6ae-fc12db63ff6d.jpeg"
+  alt: "La Catedral de Sevilla al atardecer"
+- src: "https://imgcdn.bokun.tools/44a488b8-443e-488d-b2b9-9450ac6b9c81.jpeg"
+  alt: "Grupo del tour en una plaza del centro de Sevilla"
+- src: "https://imgcdn.bokun.tools/82d0c334-81cd-430d-ac1f-25c6706b596d.jpeg"
+  alt: "Plaza de España de Sevilla con flores en primer plano"
+- src: "https://imgcdn.bokun.tools/6ddb618c-70f0-4a3b-b9da-588229dd1f34.jpeg"
+  alt: "Grupo paseando por una calle del casco antiguo"
+- src: "https://imgcdn.bokun.tools/5e61ea43-5bd3-4af6-9c78-ac1bb0decb37.jpeg"
+  alt: "Desayuno sevillano con tostada y aceite de oliva"
+- src: "https://imgcdn.bokun.tools/41de7a4e-7be3-4f77-9725-01f0366552d9.jpeg"
+  alt: "Calle del centro de Sevilla con edificios históricos"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Curvas de las Setas contra el cielo azul"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

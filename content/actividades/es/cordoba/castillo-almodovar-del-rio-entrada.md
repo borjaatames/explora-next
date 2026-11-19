@@ -96,6 +96,10 @@ galeria:
   alt: "Vitrina con piezas expuestas en el interior del castillo de Almodóvar del Río"
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: "Castillo de Almodóvar del Río sobre su cerro"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Bandera andaluza en las almenas del castillo de Almodóvar del Río"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Adarve y torres del castillo de Almodóvar del Río"
 ---
 
 ## Qué vas a ver

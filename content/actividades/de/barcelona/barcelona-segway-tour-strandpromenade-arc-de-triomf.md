@@ -85,6 +85,8 @@ galeria:
   alt: "Enge Gasse im Barri Gòtic mit Balkonen"
 - src: "/images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp"
   alt: "Hauptportal der Kathedrale von Barcelona"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-people-sitting-bench-near-building-hero.webp"
+  alt: "Gruppe beim Sport auf der Promenade von Barceloneta bei Sonnenuntergang, mit dem W Hotel im Hintergrund"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

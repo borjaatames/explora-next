@@ -79,6 +79,14 @@ galeria:
   alt: "La Sagrada Família à Barcelone"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "Église Santa Maria del Mar dans la vieille ville de Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp"
+  alt: "Les colonnes en forme d'arbres et la voûte de la Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
+  alt: "Vitraux bleus et verts illuminant la nef de la Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-18602899-hero.webp"
+  alt: "Vue aérienne de la Sagrada Família dans l'Eixample"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp"
+  alt: "Voûte de la nef de la Sagrada Familia et ses puits de lumière"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

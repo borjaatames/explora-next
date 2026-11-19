@@ -69,6 +69,14 @@ galeria:
   alt: "Innenhof der Nasridenpaläste der Alhambra"
 - src: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
   alt: "Die Alhambra in Granada"
+- src: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
+  alt: "Säulengang des Löwenhofs"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+  alt: "Innenhof der Alhambra mit Palmen, die sich in einem Wasserkanal spiegeln"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp"
+  alt: "Die Alhambra in Granada"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp"
+  alt: "Brunnen im Löwenhof der Alhambra"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

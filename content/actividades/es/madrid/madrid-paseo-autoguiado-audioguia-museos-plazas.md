@@ -71,6 +71,12 @@ galeria:
   alt: Fuente de Cibeles iluminada de noche
 - src: /images/actividades/madrid/fuente-neptuno/fuente-neptuno-madrid-foto-11616515-hero.webp
   alt: Fuente de Neptuno, junto al museo
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Fachada del Palacio Real de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "El Palacio Real de Madrid"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

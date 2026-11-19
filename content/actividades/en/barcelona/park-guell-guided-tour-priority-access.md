@@ -77,6 +77,18 @@ galeria:
   alt: "View of Barcelona from Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "View of Barcelona from Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp"
+  alt: "Park Güell with its pavilions and Barcelona in the background"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+  alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"
+  alt: "Park Güell guided tour group on the serpentine bench terrace"
+- src: "/images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp"
+  alt: "Mosaic medallion on the Hypostyle Hall ceiling"
+- src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
+  alt: "Garden and entrance of the Gaudí House Museum"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+  alt: "Fairy-tale pavilion at the Park Güell entrance"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

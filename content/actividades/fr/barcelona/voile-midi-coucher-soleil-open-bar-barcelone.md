@@ -78,6 +78,12 @@ galeria:
   alt: "Voiliers au port au crépuscule"
 - src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
   alt: "Beaupré d'un voilier dans le port de Barcelone"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pixabay-8643630.webp"
+  alt: "Catamaran toutes voiles dehors face au soleil couchant"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
+  alt: "Plage de Barcelone avec palmiers au crépuscule"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-27540367.webp"
+  alt: "Voilier au coucher du soleil au large de Barcelone"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

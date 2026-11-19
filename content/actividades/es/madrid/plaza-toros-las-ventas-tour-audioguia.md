@@ -80,16 +80,22 @@ keywords:
 imagen: /images/actividades/madrid/plaza-toros-ventas/ventas-fachada-neomudejar-cielo.webp
 imagenAlt: 'Fachada neomudéjar de la plaza de toros de Las Ventas'
 galeria:
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-gradas-interior.webp
-  alt: 'Gradas y galerías del interior de Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-ruedo-panoramica.webp
-  alt: 'El ruedo de Las Ventas visto desde las gradas'
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-arco-herradura-azulejos.webp
-  alt: 'Arco de herradura con azulejos en la fachada de Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-bronze-sculpture-ventas-bullring-hero.webp
-  alt: 'Monumento de bronce ante la plaza de Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
-  alt: 'Puerta principal de Las Ventas'
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-gradas-interior.webp"
+  alt: "Gradas y galerías del interior de Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-ruedo-panoramica.webp"
+  alt: "El ruedo de Las Ventas visto desde las gradas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-arco-herradura-azulejos.webp"
+  alt: "Arco de herradura con azulejos en la fachada de Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-bronze-sculpture-ventas-bullring-hero.webp"
+  alt: "Monumento de bronce ante la plaza de Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp"
+  alt: "Puerta principal de Las Ventas"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada del Museo del Prado en el Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, zona de bares del Barrio de las Letras"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao y la Gran Vía de noche"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

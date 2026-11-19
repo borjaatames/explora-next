@@ -96,18 +96,22 @@ keywords:
 imagen: /images/actividades/madrid/paella/paella-pexels-31748679.webp
 imagenAlt: Paella cooking in the pan during the workshop
 galeria:
-- src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
-  alt: Freshly made seafood paella
-- src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
-  alt: Mixed paella cooked over firewood
-- src: /images/actividades/madrid/paella/paella-pixabay-1168003.webp
-  alt: Seafood paella with prawns over the fire
-- src: /images/actividades/madrid/paella/paella-wikimedia-01-paella-valenciana-original-jpg-05.webp
-  alt: Traditional Valencian paella
-- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
-  alt: Pitcher of sangria with fruit
-- src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
-  alt: Hands stirring the paella ingredients in the pan
+- src: "/images/actividades/madrid/paella/paella-pexels-36878063.webp"
+  alt: "Freshly made seafood paella"
+- src: "/images/actividades/madrid/paella/paella-pixabay-1167973.webp"
+  alt: "Mixed paella cooked over firewood"
+- src: "/images/actividades/madrid/paella/paella-pixabay-1168003.webp"
+  alt: "Seafood paella with prawns over the fire"
+- src: "/images/actividades/madrid/paella/paella-wikimedia-01-paella-valenciana-original-jpg-05.webp"
+  alt: "Traditional Valencian paella"
+- src: "/images/actividades/madrid/sangria/sangria-jarra-fruta.webp"
+  alt: "Pitcher of sangria with fruit"
+- src: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
+  alt: "Hands stirring the paella ingredients in the pan"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "The Royal Palace of Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
 ratingProveedor: 4.8
 numeroOpiniones: 1853
 publicada: true

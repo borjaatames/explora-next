@@ -81,6 +81,8 @@ galeria:
   alt: "Cielo rosso riflesso nel lago dell'Albufera dopo il tramonto"
 - src: "/images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp"
   alt: "La prua di una barca che naviga sul lago dell'Albufera al tramonto"
+- src: "/images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp"
+  alt: "Canale con barche tradizionali all'imbrunire nell'Albufera"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

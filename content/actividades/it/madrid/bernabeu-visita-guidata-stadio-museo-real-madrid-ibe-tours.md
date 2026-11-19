@@ -84,6 +84,8 @@ galeria:
   alt: "Il tetto retrattile del Bernabéu visto dall'interno"
 - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-aerea-atardecer.webp"
   alt: "Veduta aerea del nuovo Bernabéu al tramonto con il tetto chiuso"
+- src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-vista-cesped-desde-bar-exploraspain.webp"
+  alt: "Il campo e le tribune del Bernabéu visti dal bar interno"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

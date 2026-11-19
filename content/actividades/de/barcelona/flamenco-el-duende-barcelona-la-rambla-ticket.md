@@ -71,6 +71,14 @@ galeria:
   alt: "Flamencotänzer auf der Bühne von El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Flamencotänzerin auf der Bühne von El Duende"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Die Dächer Barcelonas bei Sonnenuntergang mit der Sagrada Família und dem Tibidabo"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Straßen von El Born, wo das Moco Museum liegt"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gotischer Bogen und Laterne im Barri Gòtic"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Der Palau Nacional auf dem Montjuïc, Sitz des MNAC"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

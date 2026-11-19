@@ -86,6 +86,14 @@ galeria:
   alt: "Bailaora en el escenario de Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Entrada de Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Jardines con palmeras junto al palacio de la Real Escuela, en Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Caballo andaluz tordo montado por un jinete vestido de corto"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp"
+  alt: "Puerta de entrada al Alcázar de Jerez en la muralla almohade"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+  alt: "Baños árabes del Alcázar de Jerez"
 ---
 
 ## Qué vas a ver

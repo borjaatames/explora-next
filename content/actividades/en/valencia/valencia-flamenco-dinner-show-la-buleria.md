@@ -87,6 +87,16 @@ galeria:
   alt: "Dinner and show at La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "The venue at La Bulería"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp"
+  alt: "Exterior of Valencia's City of Arts and Sciences"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Door of Valencia Cathedral in the old town"
+- src: "/images/actividades/valencia/centro/hemisferic-reflejo.webp"
+  alt: "The Hemisfèric reflected in the water"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Symmetrical modern architecture at the City of Arts and Sciences"
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "North entrance of Valencia harbour"
 ---
 
 ## What you will see

@@ -76,6 +76,12 @@ galeria:
   alt: "Desfiladeiro de Los Cahorros no sopé da Sierra Nevada"
 - src: "/images/actividades/granada/cahorros/cahorros-tunel-rio.webp"
   alt: "Passagem rochosa sobre o rio Monachil em Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-puente-colgante.webp"
+  alt: "Ponte suspensa de Los Cahorros sobre o desfiladeiro do rio Monachil"
+- src: "/images/actividades/granada/cahorros/cahorros-wikimedia-02.webp"
+  alt: "Caminhantes numa ponte suspensa em Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-pexels-27097930.webp"
+  alt: "Caminhantes num desfiladeiro de calcário"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

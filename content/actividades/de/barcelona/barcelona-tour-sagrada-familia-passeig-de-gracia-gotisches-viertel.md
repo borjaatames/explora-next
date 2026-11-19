@@ -79,6 +79,14 @@ galeria:
   alt: "Die Sagrada Família in Barcelona"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "Die Kirche Santa Maria del Mar in der Altstadt Barcelonas"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp"
+  alt: "Türme der Sagrada Família vor blauem Himmel"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp"
+  alt: "Die Basilika Sagrada Família mit ihren filigranen Türmen, Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp"
+  alt: "Leuchtende Buntglasfenster der Sagrada Família mit feinen Farbmustern und religiöser Bildsprache"
+- src: "/images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp"
+  alt: "Werkstatt mit Gipsmodellen im Museum der Sagrada Família"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

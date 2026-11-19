@@ -72,6 +72,12 @@ galeria:
   alt: "L'Albaicín vu depuis les jardins de l'Alhambra"
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
   alt: "Maisons blanches de l'Albaicín, à Grenade"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp"
+  alt: "Maisons blanches de l'Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "L'Alhambra éclairée par le soleil de fin d'après-midi"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "Une rue de l'Albaicín"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

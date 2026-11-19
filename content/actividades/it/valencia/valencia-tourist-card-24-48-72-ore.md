@@ -80,6 +80,8 @@ galeria:
   alt: "La Città delle Arti e delle Scienze riflessa nell'acqua"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
   alt: "Architettura dell'Oceanogràfic di Valencia"
+- src: "/images/actividades/valencia/centro/mercado-colon.webp"
+  alt: "Facciata modernista del Mercado de Colón"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

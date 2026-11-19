@@ -20,3 +20,4 @@ Añadidas el 24-10-2026 (`E:\imagenes-master\_descargas-2026-10-23d\valencia--al
 - `fvc-barca-muelle-puesta-sol.webp` — Somo_Photography, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/valencia-sunset-scenery-heaven-1275965/) · recortada a 1600×1200
 - `fvc-cielo-rojo-lago.webp` — Xalapi, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/valencia-albufera-sunset-scenery-2516854/) · recortada a 1600×1200
 - `fvc-canal-barcas-anochecer.webp` — Rafael Minguet Delgado, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/puerto-de-catarroja-22033406/) · recortada a 1600×1200
+| albufera-wikimedia-02.webp | Wikimedia Commons | Dorieo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Barca_en_la_Albufera_de_Valencia_02.jpg |

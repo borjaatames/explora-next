@@ -74,6 +74,10 @@ galeria:
   alt: Modernista balcony with a La Rambla sign
 - src: /images/actividades/barcelona/rambla/rambla-wikimedia-la-rambla-barcelona-july-2015-jpg-06.webp
   alt: Walkers on the wave-patterned pavement of La Rambla
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Narrow street with balconies in Barcelona's old town"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

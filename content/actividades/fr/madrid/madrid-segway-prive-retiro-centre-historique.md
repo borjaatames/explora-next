@@ -79,6 +79,8 @@ galeria:
   alt: "La Gran Vía, dans le centre de Madrid"
 - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
   alt: "Le bâtiment du musée du Prado à Madrid"
+- src: "/images/actividades/madrid/retiro/retiro-paseo-junto-al-estanque.webp"
+  alt: "Promenade au bord du Grand Bassin du Retiro par une journée ensoleillée"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

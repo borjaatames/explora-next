@@ -83,8 +83,26 @@ keywords:
 imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
 imagenAlt: Grupo de jinetes a caballo por un campo seco con montañas al fondo
 galeria:
-- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
-  alt: Paseo a caballo entre paredes de roca volcánica
+- src: "/images/actividades/gran-canaria/caballo/caballos-canon-roca.webp"
+  alt: "Paseo a caballo entre paredes de roca volcánica"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp"
+  alt: "Panorámica de Las Palmas de Gran Canaria desde un mirador"
+- src: "/images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp"
+  alt: "Calle de Teror con las montañas del norte al fondo"
+- src: "/images/actividades/gran-canaria/dunas/dunas-maspalomas.webp"
+  alt: "Dunas de Maspalomas al atardecer"
+- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
+  alt: "Dunas de Maspalomas con montanas de Gran Canaria al fondo"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp"
+  alt: "Flor de almendro con el Roque Bentayga al fondo"
+- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
+  alt: "Charca entre palmeras en las Dunas de Maspalomas"
+- src: "/images/actividades/gran-canaria/mogan/mogan-acantilados.webp"
+  alt: "Acantilados y casas de la costa de Mogán vistos desde el mar"
+- src: "/images/actividades/gran-canaria/mogan/mogan-aerea.webp"
+  alt: "Vista aérea de Puerto de Mogán"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
+  alt: "Almendros en flor frente al Roque Bentayga, en Tejeda"
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

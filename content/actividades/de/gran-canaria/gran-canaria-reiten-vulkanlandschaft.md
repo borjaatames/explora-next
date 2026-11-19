@@ -85,6 +85,18 @@ imagenAlt: Eine Gruppe von Reitern durchquert ein trockenes Feld mit Bergen im H
 galeria:
 - src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
   alt: Ausritt zwischen Wänden aus Vulkangestein
+- src: "/images/actividades/gran-canaria/mogan/mogan-acantilados.webp"
+  alt: "Klippen und Häuser an der Küste von Mogán, vom Meer aus gesehen"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp"
+  alt: "Hafen von Las Palmas de Gran Canaria zwischen Palmen"
+- src: "/images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp"
+  alt: "Dünen von Maspalomas am Meer"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp"
+  alt: "Mandelblüte mit dem Roque Bentayga im Hintergrund"
+- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
+  alt: "Die Dünen von Maspalomas mit den Bergen von Gran Canaria im Hintergrund"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
+  alt: "Blühende Mandelbäume vor dem Roque Bentayga in Tejeda"
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

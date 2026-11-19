@@ -68,6 +68,18 @@ imagenAlt: "La Gran Vía, dans le centre de Madrid"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "La Gran Vía, dans le centre de Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Vue aérienne de la Gran Vía au coucher du soleil, avec l’immeuble Metrópolis"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-december-2023-02-hero.webp"
+  alt: "La Gran Vía de Madrid décorée pour Noël"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+  alt: "L’immeuble Capitol, place de Callao, près de la rue Mesonero Romanos"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "La place de Callao et l’immeuble Carrión la nuit"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "La Plaza del Callao et la Gran Vía la nuit"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, au cœur de la vieille ville"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

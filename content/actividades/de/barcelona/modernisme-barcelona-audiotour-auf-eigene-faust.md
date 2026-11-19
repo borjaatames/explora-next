@@ -76,6 +76,10 @@ galeria:
   alt: Dachterrasse der Casa Batlló bei Nacht mit Livemusik und Blick über Barcelona
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp
   alt: Die Casa Batlló bei Nacht am Passeig de Gràcia beleuchtet
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-ceiling-chandelier-barcelona-hero.webp"
+  alt: "Spiraldecke und Lampe im Hauptsalon der Casa Batlló"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp"
+  alt: "Wellige Fenster in der Hauptetage der Casa Batlló"
 atraccionesRelacionadas:
 - casa-batllo-pedrera
 - tours-a-pie

@@ -60,16 +60,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/02ae40ca-0029-4352-9f3e-01dd46358948.jpg
 imagenAlt: "Barcelona seen from the steps of Montjuïc"
 galeria:
-- src: https://imgcdn.bokun.tools/5a4e9ec1-5b38-4d50-bdb6-5aeb3e143b5b.jpg
+- src: "https://imgcdn.bokun.tools/5a4e9ec1-5b38-4d50-bdb6-5aeb3e143b5b.jpg"
   alt: "Narrow medieval alley in the old Jewish quarter"
-- src: https://imgcdn.bokun.tools/915309e1-bb8f-43c3-992f-45ccf9e468bb.jpg
+- src: "https://imgcdn.bokun.tools/915309e1-bb8f-43c3-992f-45ccf9e468bb.jpg"
   alt: "National Palace (MNAC) on Montjuïc"
-- src: https://imgcdn.bokun.tools/4cdf7543-b9fb-43c8-b377-b74ec3d9f620.jpg
+- src: "https://imgcdn.bokun.tools/4cdf7543-b9fb-43c8-b377-b74ec3d9f620.jpg"
   alt: "Carrer del Bisbe bridge in the Gothic Quarter"
-- src: https://imgcdn.bokun.tools/cf309f3d-06d6-425c-84d9-980d5736d127.jpg
+- src: "https://imgcdn.bokun.tools/cf309f3d-06d6-425c-84d9-980d5736d127.jpg"
   alt: "Gargoyle on Barcelona Cathedral"
-- src: https://imgcdn.bokun.tools/8fadfbfc-d94e-4d4f-86bd-ec78dbf9f61d.jpg
+- src: "https://imgcdn.bokun.tools/8fadfbfc-d94e-4d4f-86bd-ec78dbf9f61d.jpg"
   alt: "Narrow street in the old Jewish quarter"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
 publicada: true
 indexar: false
 destacada: false

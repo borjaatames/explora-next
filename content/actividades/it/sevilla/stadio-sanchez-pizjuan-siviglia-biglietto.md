@@ -73,6 +73,12 @@ galeria:
   alt: "Le gradinate rosse del Ramón Sánchez-Pizjuán"
 - src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-06.webp"
   alt: "Il grande mosaico sulla facciata dello stadio"
+- src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-02.webp"
+  alt: "Stadio Ramón Sánchez-Pizjuán pieno in una partita serale"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Il Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Facciata della Cattedrale di Siviglia tra le palme"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -70,6 +70,16 @@ galeria:
   alt: "Ruelle du quartier de Santa Cruz, Séville"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Spectacle de flamenco dans un tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Danseuses de flamenco en robes rouges et noires sur scène"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Danseuse de flamenco au châle"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "La Plaza de España se reflétant dans le canal"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Maisons colorées de Triana au bord du Guadalquivir"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Le Real Alcázar de Séville"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

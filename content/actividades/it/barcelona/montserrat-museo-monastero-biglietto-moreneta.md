@@ -76,6 +76,14 @@ galeria:
   alt: "Interno della basilica di Montserrat"
 - src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp"
   alt: "Le rocce di Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp"
+  alt: "Il santuario della Madonna Nera a Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-11.webp"
+  alt: "Interno della basilica di Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-07.webp"
+  alt: "Il monastero di Montserrat sotto le guglie di roccia"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp"
+  alt: "Il massiccio di Montserrat con il monastero"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

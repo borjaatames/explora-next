@@ -76,6 +76,10 @@ galeria:
   alt: "La plage de la Barceloneta avec l'Hotel Arts derrière, Barcelone"
 - src: "/images/actividades/barcelona/montjuic/pexels-7796698-hero.webp"
   alt: "Barcelone vue depuis l'escalier du Palau Nacional"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
+  alt: "Plage de la Barceloneta avec le port de plaisance et des palmiers"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
+  alt: "Baigneurs sur la plage de la Barceloneta par une journée ensoleillée"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

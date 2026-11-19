@@ -90,6 +90,8 @@ galeria:
   alt: 'Unterwassertunnel im Aquàrium de Barcelona'
 - src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
   alt: 'Haie im großen Becken des Aquàrium de Barcelona'
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Beleuchtetes Becken im Aquàrium de Barcelona"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

@@ -70,6 +70,14 @@ galeria:
   alt: "O Palácio Real de Madrid"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
   alt: "O Palácio Real de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero.webp"
+  alt: "Palácio Real de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "O Palácio Real visto dos jardins do Campo del Moro"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+  alt: "O Palácio Real iluminado à noite"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "A Plaza del Callao e a Gran Vía à noite"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

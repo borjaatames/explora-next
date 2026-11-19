@@ -67,6 +67,14 @@ galeria:
   alt: 'Salvoconducto del Camino del Cid'
 - src: https://imgcdn.bokun.tools/b7ef2203-3c8f-48a9-ac3b-5b1aa5713608.jpg
   alt: 'Monasterio de San Pedro de Cardeña'
+- src: "https://imgcdn.bokun.tools/ba04aaa9-2fbd-4a8a-95a9-7185ec54bd07.jpg"
+  alt: "Claustro gótico de la catedral de Burgos"
+- src: "https://imgcdn.bokun.tools/6a3bf575-d9c5-4649-84bf-9ee4d52beeff.jpg"
+  alt: "Agujas de la catedral de Burgos sobre la ciudad"
+- src: "https://imgcdn.bokun.tools/e3f1697d-50b2-454f-9c09-6038a0d5207d.jpg"
+  alt: "Señales del Camino del Cid hacia San Pedro de Cardeña"
+- src: "https://imgcdn.bokun.tools/e8a61887-e4a0-4202-b80b-e0ac4743b240.jpg"
+  alt: "El cofre del Cid en la catedral de Burgos"
 publicada: true
 indexar: false
 destacada: false

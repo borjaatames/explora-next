@@ -77,6 +77,16 @@ galeria:
   alt: "Flamencotänzerin auf der Bühne von Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Flamencotänzerin auf der Bühne von Cueva de la Rocío"
+- src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+  alt: "Kapelle Nuestra Señora de las Angustias, Kathedrale von Granada"
+- src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
+  alt: "Der Albaicín von den Gärten der Alhambra aus gesehen"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp"
+  alt: "Der Mirador de San Nicolás im Albaicín"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+  alt: "Die Alcazaba der Alhambra in der Abenddämmerung über Granada"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Weiße Häuser im Albaicín in Granada"
 atraccionesRelacionadas:
 - flamenco
 publicada: true

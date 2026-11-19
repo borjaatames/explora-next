@@ -77,6 +77,12 @@ galeria:
   alt: "Facciata neomudéjar in mattoni dell'arena"
 - src: "/images/actividades/malaga/malagueta/malagueta-plaza-toros-wikimedia-02.webp"
   alt: "L'arena di La Malagueta tra i palazzi di Málaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-4773414.webp"
+  alt: "La Malagueta tra i palazzi di paseo de Reding"
+- src: "/images/actividades/malaga/malagueta/malagueta-unsplash-1p-2ygb_vnc.webp"
+  alt: "Scritta della spiaggia della Malagueta"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "L'arena di La Malagueta di fronte al mare"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

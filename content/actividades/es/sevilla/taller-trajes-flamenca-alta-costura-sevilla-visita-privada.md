@@ -69,18 +69,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp
-  alt: Mujeres con trajes de flamenca bailando sevillanas en una caseta de la Feria de Abril
-- src: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp
-  alt: Volantes de colores de varios trajes de flamenca en la Feria de Abril de Sevilla
-- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp
-  alt: Portada iluminada de la Feria de Abril de Sevilla
-- src: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
-  alt: Modista ajustando un traje de flamenca a una clienta en el taller
-- src: https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg
-  alt: Mujer con traje de flamenca y mantón
-- src: https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg
-  alt: Traje de flamenca de lunares
+- src: "/images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp"
+  alt: "Mujeres con trajes de flamenca bailando sevillanas en una caseta de la Feria de Abril"
+- src: "/images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp"
+  alt: "Volantes de colores de varios trajes de flamenca en la Feria de Abril de Sevilla"
+- src: "/images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp"
+  alt: "Portada iluminada de la Feria de Abril de Sevilla"
+- src: "https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg"
+  alt: "Modista ajustando un traje de flamenca a una clienta en el taller"
+- src: "https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg"
+  alt: "Mujer con traje de flamenca y mantón"
+- src: "https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg"
+  alt: "Traje de flamenca de lunares"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Giralda vista desde los muros del Real Alcázar"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflejada en el canal"
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -71,6 +71,14 @@ galeria:
   alt: "Guitarra e canto ao vivo em Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Bailarino de flamenco no palco de Los Tarantos"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Pôr do sol na praia da Barceloneta com o Hotel W ao fundo e ondas a rebentar na margem"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Fachada gótica da Catedral de Barcelona"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Ruas do Born, onde fica o Moco Museum"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico e candeeiro no Bairro Gótico"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

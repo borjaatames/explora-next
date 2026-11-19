@@ -74,6 +74,14 @@ galeria:
   alt: "Côte rocheuse et montagnes du parc naturel de Llevant"
 - src: "/images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp"
   alt: "Intérieur d'une grotte marine sur la côte de Majorque"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp"
+  alt: "Groupe de kayaks pagayant près des rochers"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pexels-14810113.webp"
+  alt: "Kayaks sur une eau turquoise vus du ciel"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pixabay-10394760.webp"
+  alt: "Kayak solitaire en mer"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp"
+  alt: "Kayaks jaunes en mer à côté d'un littoral rocheux"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -90,6 +90,8 @@ galeria:
   alt: 'Túnel subaquático do Aquàrium de Barcelona'
 - src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
   alt: 'Tubarões no grande tanque do Aquàrium de Barcelona'
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Aquário iluminado no Aquàrium de Barcelona"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

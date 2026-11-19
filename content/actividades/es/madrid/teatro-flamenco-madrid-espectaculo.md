@@ -85,6 +85,20 @@ galeria:
   alt: "Cuadro flamenco al completo en Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Pareja de baile flamenco en Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Fachada del Palacio Real de Madrid"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Fuente de Cibeles iluminada de noche"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "El Palacio Real de Madrid"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada al caer la noche"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos en la Puerta del Sol de noche"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao y la Gran Vía de noche"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

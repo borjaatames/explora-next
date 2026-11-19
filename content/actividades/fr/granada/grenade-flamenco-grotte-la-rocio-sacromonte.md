@@ -79,6 +79,16 @@ galeria:
   alt: "Danseuse de flamenco sur la scène de Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Danseuse de flamenco sur la scène de Cueva de la Rocío"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Maisons blanches de l'Albaicín, à Grenade"
+- src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
+  alt: "L'Albaicín vu depuis les jardins de l'Alhambra"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp"
+  alt: "Palais nasrides de l'Alhambra"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "L'Alhambra au coucher du soleil depuis le mirador de San Nicolás"
+- src: "/images/actividades/granada/catedral/fachada-principal-alonso-cano.webp"
+  alt: "Cathédrale de Granada, à 10 minutes"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

@@ -59,7 +59,7 @@ keywords:
 - visita cantina felanitx
 imagen: https://imgcdn.bokun.tools/f0cb9b16-8b7a-4234-aea3-3ac0fd7f0785.png
 imagenAlt: "Vini e uva su un tavolo tra i vigneti"
-galeria: null
+galeria: []
 publicada: true
 destacada: false
 fecha: '2026-11-05'

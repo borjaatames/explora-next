@@ -70,6 +70,16 @@ galeria:
   alt: "Danseur de flamenco sur la scène de Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Guitare et chant en direct à Essential Flamenco"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Façade du musée du Prado sur le Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'enseigne lumineuse Tío Pepe à la Puerta del Sol au crépuscule"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontaine de Cibeles illuminée la nuit"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Le Palais royal de Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue de Philippe III et Casa de la Panadería sur la Plaza Mayor"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

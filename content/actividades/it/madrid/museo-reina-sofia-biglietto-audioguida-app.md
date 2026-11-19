@@ -73,6 +73,14 @@ galeria:
   alt: Facciata del Museo Reina Sofía su plaza de Juan Goytisolo, Madrid
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: Torre degli ascensori in vetro del Reina Sofía vista da una strada vicina
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Il Museo Reina Sofía a Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "La Real Casa de Correos in Puerta del Sol di notte"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'insegna al neon di Tío Pepe in Puerta del Sol al crepuscolo"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, nel cuore del centro storico"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

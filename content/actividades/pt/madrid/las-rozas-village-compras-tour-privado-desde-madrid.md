@@ -78,6 +78,8 @@ galeria:
   alt: O motorista abre a porta a uma cliente
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Cliente com sacos de compras no Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Esplanada de um restaurante em Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

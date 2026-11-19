@@ -96,6 +96,10 @@ galeria:
   alt: "Display case of exhibits inside Almodóvar del Río castle"
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: "Almodóvar del Río castle on its hill"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Andalusian flag on the battlements of Almodóvar del Río Castle"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Wall walk and towers of Almodóvar del Río Castle"
 ---
 
 ## What you will see

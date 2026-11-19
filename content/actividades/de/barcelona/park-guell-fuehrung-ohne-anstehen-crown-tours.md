@@ -79,6 +79,8 @@ galeria:
   alt: "Steinviadukt zwischen Palmen im Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
   alt: "Blick über Barcelona von den Gärten des Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp"
+  alt: "Die Eingangspavillons des Park Güell mit ihren Keramikdächern"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

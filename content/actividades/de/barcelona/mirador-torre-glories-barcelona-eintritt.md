@@ -74,6 +74,12 @@ galeria:
   alt: "Straße in Barcelona mit der Torre Glòries im Hintergrund"
 - src: "/images/actividades/barcelona/torre-glories/torre-glories-wikimedia-02.webp"
   alt: "Die Torre Glòries über den Dächern Barcelonas"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-pexels-8910324.webp"
+  alt: "Barcelona mit der Torre Glòries am Horizont"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-wikimedia-05.webp"
+  alt: "Fassade der Torre Glòries mit farbigen Lichtern"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-pixabay-4744172.webp"
+  alt: "Eixample und Torre Glòries von oben"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

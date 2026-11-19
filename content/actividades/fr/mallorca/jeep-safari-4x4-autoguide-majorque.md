@@ -75,6 +75,14 @@ galeria:
   alt: "Lacets dans les montagnes de Majorque"
 - src: "/images/actividades/mallorca/jeep/jeep-wikimedia-05.webp"
   alt: "Crique rocheuse aux eaux claires à Majorque"
+- src: "/images/actividades/mallorca/jeep/jeep-wikimedia-06.webp"
+  alt: "Falaises de la côte de Majorque"
+- src: "/images/actividades/mallorca/jeep/jeep-pexels-33576916.webp"
+  alt: "4x4 dans un paysage de montagne"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Le palais de l'Almudaina au-dessus des remparts au crépuscule"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp"
+  alt: "L'Almudaina et la cathédrale de Palma près du bassin du Parc de la Mar"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

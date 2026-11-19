@@ -86,18 +86,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/fuerteventura/granja-aloe/ffv-plantacion-aloe-vera.webp
 imagenAlt: "Aloe vera plants in a plantation"
 galeria:
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp"
   alt: "Aloe vera farm in bloom at the foot of the Fuerteventura mountains"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp"
   alt: "Majorera donkey in the countryside"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp"
   alt: "Cut aloe vera leaf showing its gel"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp"
   alt: "Rows of aloe in bloom"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp"
   alt: "Rows of aloe vera in volcanic soil"
-- src: /images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp"
   alt: "Aloe vera leaves"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
+  alt: "Corralejo dunes with Lobos and Lanzarote on the horizon"
+- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
+  alt: "Corralejo bay"
 ---
 
 ## What you will see

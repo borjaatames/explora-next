@@ -8,3 +8,8 @@
 | poble-espanyol-wikimedia-a-street-in-poble-espanyol-in-barcelona-04.webp | Wikimedia Commons: File:A street in Poble Espanyol in Barcelona.JPG (https://commons.wikimedia.org/wiki/File:A_street_in_Poble_Espanyol_in_Barcelona.JPG) | CC BY-SA 4.0 | Image tube |
 | poble-espanyol-wikimedia-d201-poble-espanyol-pla-a-major-jpg-05.webp | Wikimedia Commons: File:D201 Poble Espanyol - plaça major.JPG (https://commons.wikimedia.org/wiki/File:D201_Poble_Espanyol_-_pla%C3%A7a_major.JPG) | CC BY-SA 3.0 | Jordiferrer |
 | poble-espanyol-wikimedia-poble-espanyol-panoramio-jpg-06.webp | Wikimedia Commons: File:Poble Espanyol - panoramio.jpg (https://commons.wikimedia.org/wiki/File:Poble_Espanyol_-_panoramio.jpg) | CC BY 3.0 | Andrei Dan Suciu |
+| poble-espanyol-wikimedia-01.webp | Wikimedia Commons | Amadalvarez | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:PobleEspanyol-BCN-4864.jpg |
+| poble-espanyol-wikimedia-03.webp | Wikimedia Commons | Jordiferrer | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:D189_Poble_Espanyol_-_Carrer_Caballeros.JPG |
+| poble-espanyol-wikimedia-04.webp | Wikimedia Commons | Image tube | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:A_street_in_Poble_Espanyol_in_Barcelona.JPG |
+| poble-espanyol-wikimedia-05.webp | Wikimedia Commons | Jordiferrer | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:D201_Poble_Espanyol_-_pla%C3%A7a_major.JPG |
+| poble-espanyol-wikimedia-06.webp | Wikimedia Commons | Andrei Dan Suciu | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Poble_Espanyol_-_panoramio.jpg |

@@ -73,6 +73,12 @@ galeria:
   alt: "L'enseigne lumineuse Tío Pepe à la Puerta del Sol au crépuscule"
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
   alt: "La Gran Vía, dans le centre de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Le Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-grandeur-historic-baroque-hero.webp"
+  alt: "Façade principale du Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero.webp"
+  alt: "Palais royal de Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

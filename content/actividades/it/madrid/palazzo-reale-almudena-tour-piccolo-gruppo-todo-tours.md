@@ -76,6 +76,8 @@ galeria:
   alt: "Plaza Mayor, nel cuore del centro storico"
 - src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
   alt: "L'insegna al neon di Tío Pepe in Puerta del Sol al crepuscolo"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-evening-view-cathedral-madrid-hero-hero.webp"
+  alt: "La cattedrale dell'Almudena illuminata la sera"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

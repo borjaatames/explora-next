@@ -75,16 +75,24 @@ keywords:
 imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
 imagenAlt: Montaña rusa Tarántula en el Parque de Atracciones de Madrid
 galeria:
-- src: /images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp
-  alt: Montaña rusa roja en pleno recorrido
-- src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
-  alt: Atracción de agua Los Fiordos en el Parque de Atracciones
-- src: /images/actividades/madrid/parque-atracciones/vista-parque.webp
-  alt: Vista general del Parque de Atracciones de Madrid
-- src: /images/actividades/madrid/parque-atracciones/zeppelin.webp
-  alt: Atracción Zeppelin del Parque de Atracciones de Madrid
-- src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
-  alt: Atracción infantil Padrinos Voladores en Nickelodeon Land
+- src: "/images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp"
+  alt: "Montaña rusa roja en pleno recorrido"
+- src: "/images/actividades/madrid/parque-atracciones/los-fiordos.webp"
+  alt: "Atracción de agua Los Fiordos en el Parque de Atracciones"
+- src: "/images/actividades/madrid/parque-atracciones/vista-parque.webp"
+  alt: "Vista general del Parque de Atracciones de Madrid"
+- src: "/images/actividades/madrid/parque-atracciones/zeppelin.webp"
+  alt: "Atracción Zeppelin del Parque de Atracciones de Madrid"
+- src: "/images/actividades/madrid/parque-atracciones/zona-infantil.webp"
+  alt: "Atracción infantil Padrinos Voladores en Nickelodeon Land"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, zona de bares del Barrio de las Letras"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada al caer la noche"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos en la Puerta del Sol de noche"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

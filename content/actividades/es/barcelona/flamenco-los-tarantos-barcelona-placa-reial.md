@@ -71,6 +71,22 @@ galeria:
   alt: "Guitarra y cante en directo en Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Bailaor en el escenario de Los Tarantos"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico y farola en el Barrio Gótico"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con sus árboles"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Fachada gótica de la Catedral de Barcelona"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "La catedral de Barcelona, en el corazón del Barrio Gótico"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

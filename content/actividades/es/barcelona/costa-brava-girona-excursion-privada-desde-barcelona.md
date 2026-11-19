@@ -60,16 +60,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/a9239289-e61b-42cb-96a9-e2a32a548541.jpg
 imagenAlt: "Iglesia románica en un pueblo medieval de la Costa Brava"
 galeria:
-- src: https://imgcdn.bokun.tools/ac355934-bf8f-4bfe-aa3a-f99381242aee.jpg
+- src: "https://imgcdn.bokun.tools/ac355934-bf8f-4bfe-aa3a-f99381242aee.jpg"
   alt: "Escalinata de la Catedral de Girona"
-- src: https://imgcdn.bokun.tools/464632ef-4d6a-4f8e-84c4-142bd6b6e8b7.jpg
+- src: "https://imgcdn.bokun.tools/464632ef-4d6a-4f8e-84c4-142bd6b6e8b7.jpg"
   alt: "Casas de colores sobre el río Onyar en Girona"
-- src: https://imgcdn.bokun.tools/10da8db3-5e16-48f8-a236-f57036e3993b.jpg
+- src: "https://imgcdn.bokun.tools/10da8db3-5e16-48f8-a236-f57036e3993b.jpg"
   alt: "Mujer mirando el mar desde un mirador de la Costa Brava"
-- src: https://imgcdn.bokun.tools/169f2a88-86d8-4166-a89b-a7f9f91924d7.jpg
+- src: "https://imgcdn.bokun.tools/169f2a88-86d8-4166-a89b-a7f9f91924d7.jpg"
   alt: "Arco de piedra en una calle medieval"
-- src: https://imgcdn.bokun.tools/d9c63234-2425-4162-b2aa-ee94db43dc34.jpg
+- src: "https://imgcdn.bokun.tools/d9c63234-2425-4162-b2aa-ee94db43dc34.jpg"
   alt: "Arcos de piedra en un patio medieval"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con sus árboles"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Mirador de Colón y muelle del Port Vell de Barcelona"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Calle estrecha con balcones en el casco antiguo de Barcelona"
 publicada: true
 indexar: false
 destacada: false

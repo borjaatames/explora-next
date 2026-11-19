@@ -89,6 +89,8 @@ galeria:
   alt: "Caletta dalle acque turchesi vista da Marimurtra"
 - src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
   alt: "Il Mediterraneo visto dal Giardino Botanico Marimurtra"
+- src: "/images/actividades/girona/catedral-girona/catedral-girona-01.webp"
+  alt: "Cattedrale di Girona in cima alla sua scalinata"
 ---
 
 ## Cosa vedrai

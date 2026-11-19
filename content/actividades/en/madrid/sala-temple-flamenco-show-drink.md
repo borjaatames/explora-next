@@ -85,6 +85,20 @@ galeria:
   alt: "Flamenco dancer on stage at Sala Temple"
 - src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
   alt: "The venue at Sala Temple"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade of the Royal Palace of Madrid"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Cibeles Fountain lit up at night"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "The Royal Palace of Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Almudena Cathedral lit up at nightfall"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

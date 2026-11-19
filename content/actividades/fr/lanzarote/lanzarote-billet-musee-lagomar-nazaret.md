@@ -91,6 +91,8 @@ galeria:
   alt: "Jardin avec palmiers et cactus au pied de la roche à LagOmar"
 - src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
   alt: "Murs blancs et plantes sur la roche à LagOmar"
+- src: "/images/actividades/lanzarote/timanfaya/flz-montanas-colores.webp"
+  alt: "Montagnes volcaniques rouges et ocre au Timanfaya"
 ---
 
 ## Ce que vous verrez

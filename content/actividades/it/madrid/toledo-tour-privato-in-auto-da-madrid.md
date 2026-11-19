@@ -77,6 +77,8 @@ galeria:
   alt: 'Il ponte di Alcántara sul Tago'
 - src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-city-spain-bridge-castle-fortress-hero.webp
   alt: 'Panorama di Toledo con l''Alcázar'
+- src: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero-hero.webp"
+  alt: "L'Alcázar di Toledo visto dall'alto con l'antico ponte sul Tago"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

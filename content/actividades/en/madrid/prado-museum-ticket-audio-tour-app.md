@@ -74,6 +74,10 @@ galeria:
   alt: Villanueva Building of the Prado Museum
 - src: /images/actividades/madrid/prado-obras/museo-prado-obras-apollo-forge-vulcan-label-qs-leu-hero.webp
   alt: Apollo in the Forge of Vulcan, by Velázquez
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-04-hero.webp"
+  alt: "Villanueva Building of the Prado Museum"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-madrid-museum-architecture-art-hero.webp"
+  alt: "Prado Museum building in Madrid"
 atraccionesRelacionadas:
 - museo-prado
 publicada: true

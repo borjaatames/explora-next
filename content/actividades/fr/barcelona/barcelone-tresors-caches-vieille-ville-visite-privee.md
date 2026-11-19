@@ -72,6 +72,8 @@ galeria:
   alt: 'Intérieur du marché de la Boqueria'
 - src: https://imgcdn.bokun.tools/1d4fb340-6354-4666-9929-89dc363c7831.jpg
   alt: 'La place de Catalogne vue d’en haut'
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arc gothique et lanterne dans le Barri Gòtic"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

@@ -74,6 +74,10 @@ galeria:
   alt: "Abóbada com mosaicos em Sant Pau"
 - src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-05.webp"
   alt: "Sant Pau iluminado à noite"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-01.webp"
+  alt: "Fachada de tijolo e cerâmica de Sant Pau ao entardecer"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-pexels-40628697.webp"
+  alt: "Pavilhão da Administração de Sant Pau"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

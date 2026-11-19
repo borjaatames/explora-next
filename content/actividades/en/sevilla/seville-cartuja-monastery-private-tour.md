@@ -76,18 +76,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp
-  alt: Mudéjar cloister of the Seville Cartuja with arches, tiles and a central fountain
-- src: /images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp
-  alt: Gilded vault of the chapter house at the Cartuja monastery
-- src: /images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp
-  alt: Kiln chimneys of the former Pickman ceramics factory at La Cartuja
-- src: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
-  alt: Seville's Cartuja Monastery seen from its gardens
-- src: https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg
-  alt: Brick-arched cloister of the monastery
-- src: https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg
-  alt: Bottle kilns of the old pottery factory
+- src: "/images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp"
+  alt: "Mudéjar cloister of the Seville Cartuja with arches, tiles and a central fountain"
+- src: "/images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp"
+  alt: "Gilded vault of the chapter house at the Cartuja monastery"
+- src: "/images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp"
+  alt: "Kiln chimneys of the former Pickman ceramics factory at La Cartuja"
+- src: "https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg"
+  alt: "Seville's Cartuja Monastery seen from its gardens"
+- src: "https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg"
+  alt: "Brick-arched cloister of the monastery"
+- src: "https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg"
+  alt: "Bottle kilns of the old pottery factory"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Seville Cathedral façade among palm trees"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Callejón del Agua in the Santa Cruz quarter"
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
 privada: true

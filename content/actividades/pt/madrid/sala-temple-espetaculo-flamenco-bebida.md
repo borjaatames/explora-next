@@ -83,6 +83,14 @@ galeria:
   alt: "Bailarina de flamenco no palco de Sala Temple"
 - src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
   alt: "A sala de Sala Temple"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "A Plaza Mayor, no coração do centro histórico"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, uma rua de bares no Barrio de las Letras"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estátua de Filipe III e a Casa de la Panadería na Plaza Mayor"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

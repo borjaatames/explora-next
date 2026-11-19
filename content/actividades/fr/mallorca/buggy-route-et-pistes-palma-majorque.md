@@ -72,6 +72,16 @@ galeria:
   alt: "Maison de campagne majorquine entre palmiers et champs"
 - src: "/images/actividades/mallorca/buggy/buggy-wikimedia-04.webp"
   alt: "Maison en pierre dans la campagne majorquine"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ovo-_twamlc.webp"
+  alt: "Route du cap de Formentor au-dessus de la mer"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ti9dri8_c3u.webp"
+  alt: "Crique turquoise avec des bateaux à Majorque"
+- src: "/images/actividades/mallorca/buggy/buggy-pexels-28243833.webp"
+  alt: "Cathédrale de Palma vue depuis les remparts"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Baigneurs dans l'eau claire du Caló des Moro"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gargouille gothique sur la façade de la cathédrale de Palma"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

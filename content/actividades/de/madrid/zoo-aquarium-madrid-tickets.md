@@ -91,6 +91,8 @@ galeria:
   alt: Flusspferd im Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
   alt: See und Vogelbereich im Zoo Aquarium de Madrid
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-aquarium-wikimedia-01.webp"
+  alt: "Panda frisst Bambus im Zoo von Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas:

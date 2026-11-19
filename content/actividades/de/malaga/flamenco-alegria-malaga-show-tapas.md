@@ -88,6 +88,12 @@ galeria:
   alt: "Flamencotänzerin auf der Bühne von Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Live-Gitarre und Gesang in Alegría Flamenco"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Alcazaba von Málaga und der Hügel Gibralfaro"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Ränge des Römischen Theaters von Málaga"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "Das Römische Theater von Málaga mit der Alcazaba dahinter"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

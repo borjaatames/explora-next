@@ -74,6 +74,10 @@ galeria:
   alt: Royal Palace of Madrid lit up at night
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
   alt: Plaza de la Armería and the Royal Palace on a sunny day
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092805-hero-hero.webp"
+  alt: "Main façade of Madrid's Royal Palace"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero.webp"
+  alt: "Royal Palace of Madrid"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

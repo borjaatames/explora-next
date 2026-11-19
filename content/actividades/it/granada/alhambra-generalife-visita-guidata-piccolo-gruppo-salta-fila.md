@@ -74,6 +74,16 @@ galeria:
   alt: "Palazzi Nasridi dell'Alhambra"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp"
   alt: "Palazzi Nasridi dell'Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
+  alt: "Veduta dell'architettura storica e del paesaggio urbano di Granada"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+  alt: "L'Alhambra e il quartiere dell'Albaicín"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+  alt: "Cortile dell'Alhambra con le palme riflesse in un canale d'acqua"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Vista aerea della fortezza dell'Alhambra a Granada con il complesso palatino e le mura circostanti"
+- src: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
+  alt: "Il colonnato del Cortile dei Leoni"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -86,6 +86,12 @@ galeria:
   alt: Entrada do Faunia, o parque da natureza de Madrid
 - src: /images/actividades/madrid/faunia/lago-faunia.webp
   alt: Lago com patos no Faunia
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tiranossauro entre árvores no Faunia"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "A fonte de Cibeles iluminada à noite"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "A Plaza Mayor, no coração do centro histórico"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

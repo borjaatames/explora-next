@@ -83,6 +83,14 @@ galeria:
   alt: "Danseuse de flamenco sur la scène de Sala Temple"
 - src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
   alt: "La salle de Sala Temple"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontaine de Cibeles illuminée la nuit"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La cathédrale de l'Almudena illuminée le soir"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade du Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Le Palais royal de Madrid"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

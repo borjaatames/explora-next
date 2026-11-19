@@ -67,6 +67,18 @@ imagenAlt: "Dromedário deitado com sela numa quinta"
 galeria:
 - src: "/images/actividades/tenerife/camello/camello-pixabay-4945676.webp"
   alt: "Dois dromedários com mantas coloridas"
+- src: "/images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp"
+  alt: "Visitantes diante do dragoeiro milenar"
+- src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+  alt: "Vista da costa de Costa Adeje"
+- src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+  alt: "Paisagem vulcânica de Las Cañadas do Teide"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "O Teide sobre a caldeira de Las Cañadas"
+- src: "/images/actividades/tenerife/masca/masca-caserio.webp"
+  alt: "O casario de Masca entre montanhas"
+- src: "/images/actividades/tenerife/cristianos/bahia-los-cristianos.webp"
+  alt: "Baía de Los Cristianos vista da costa"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

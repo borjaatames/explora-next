@@ -76,6 +76,14 @@ galeria:
   alt: "Innenraum der Basilika von Montserrat"
 - src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp"
   alt: "Die Felsen von Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-02.webp"
+  alt: "Fassade der Basilika von Montserrat vom Vorhof aus"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-07.webp"
+  alt: "Das Kloster Montserrat unter den Felsnadeln"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp"
+  alt: "Die Kapelle der Moreneta in Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-07.webp"
+  alt: "Panorama des Montserrat-Massivs mit dem Kloster"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

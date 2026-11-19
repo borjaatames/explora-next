@@ -96,6 +96,10 @@ galeria:
   alt: Vitrine mit Ausstellungsstücken in der Burg Almodóvar del Río
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: Die Burg Almodóvar del Río auf ihrem Hügel
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Andalusische Flagge auf den Zinnen der Burg Almodóvar del Río"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Wehrgang und Türme der Burg Almodóvar del Río"
 ---
 
 ## Was du siehst

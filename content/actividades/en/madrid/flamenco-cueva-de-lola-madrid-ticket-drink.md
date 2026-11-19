@@ -73,6 +73,16 @@ galeria:
   alt: "Artists clapping palmas at the tablao"
 - src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
   alt: "Dancer with a floral shawl"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Almudena Cathedral lit up at nightfall"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Cibeles Fountain lit up at night"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, a bar street in the Barrio de las Letras"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade of the Royal Palace of Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

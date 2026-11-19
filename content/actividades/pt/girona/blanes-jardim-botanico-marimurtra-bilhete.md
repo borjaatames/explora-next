@@ -89,6 +89,8 @@ galeria:
   alt: "Enseada de águas turquesa vista do Marimurtra"
 - src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
   alt: "O Mediterrâneo visto do Jardim Botânico Marimurtra"
+- src: "/images/actividades/girona/tossa-de-mar/tossa-de-mar-01.webp"
+  alt: "A Vila Vella de Tossa de Mar sobre a praia"
 ---
 
 ## O que vai ver

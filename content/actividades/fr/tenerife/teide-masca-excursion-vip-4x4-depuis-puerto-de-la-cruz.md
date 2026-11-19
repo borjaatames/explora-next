@@ -78,6 +78,8 @@ galeria:
   alt: "Le hameau de Masca au milieu des montagnes"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico et son rocher"
+- src: "/images/actividades/tenerife/masca/ftc-barranco-masca-luz.webp"
+  alt: "Le ravin de Masca à contre-jour, vu d'en haut"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

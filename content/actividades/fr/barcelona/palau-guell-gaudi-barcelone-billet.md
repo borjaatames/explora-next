@@ -74,6 +74,12 @@ galeria:
   alt: "Les écuries au sous-sol du Palau Güell"
 - src: "/images/actividades/barcelona/palau-guell/palau-guell-wikimedia-02.webp"
   alt: "Cour intérieure du Palau Güell vue d'en haut"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla et ses arbres"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Les toits de Barcelone au coucher du soleil avec la Sagrada Família et le Tibidabo"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Le Palau Nacional sur Montjuïc, siège du MNAC"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -76,6 +76,12 @@ galeria:
   alt: "Maison à colombages dans le village historique du parc"
 - src: "/images/actividades/madrid/puy-du-fou/puy-du-fou-wikimedia-06.webp"
   alt: "Les remparts du Puy du Fou España près de Tolède"
+- src: "/images/actividades/toledo/puerta-bisagra-toledo/wikimedia-31361444-hero.webp"
+  alt: "Vue aérienne de Tolède, ses monuments et le Tage"
+- src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+  alt: "L'Alcazar de Tolède"
+- src: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-fachada-norte-espana-hero-hero.webp"
+  alt: "Façade nord de l'Alcazar de Tolède"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

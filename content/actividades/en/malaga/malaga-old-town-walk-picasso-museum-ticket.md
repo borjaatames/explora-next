@@ -74,6 +74,10 @@ galeria:
   alt: Flower-filled courtyard at the Picasso Museum Málaga
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp
   alt: Main facade of Málaga Cathedral
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-05.webp"
+  alt: "Vaults of Málaga Cathedral"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-03.webp"
+  alt: "Carved wooden choir of Málaga Cathedral"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

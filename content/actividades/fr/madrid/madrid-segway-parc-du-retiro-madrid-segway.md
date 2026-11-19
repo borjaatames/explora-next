@@ -73,6 +73,14 @@ galeria:
   alt: "Le grand bassin du Retiro et le monument à Alphonse XII"
 - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
   alt: "Le bâtiment du musée du Prado à Madrid"
+- src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
+  alt: "Colonnade du monument à Alphonse XII"
+- src: "/images/actividades/madrid/retiro/parque-del-retiro-crystal-palace-madrid-foggy-evening-hero.webp"
+  alt: "Le Palais de Cristal par une soirée brumeuse"
+- src: "/images/actividades/madrid/retiro/retiro-palacio-cristal.webp"
+  alt: "Le Palais de Cristal dans le parc du Retiro"
+- src: "/images/actividades/madrid/retiro/retiro-monumento-alfonso-xii.webp"
+  alt: "Monument à Alphonse XII au bord du lac du Retiro"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

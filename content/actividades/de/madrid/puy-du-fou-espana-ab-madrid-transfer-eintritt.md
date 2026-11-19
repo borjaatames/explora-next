@@ -76,6 +76,12 @@ galeria:
   alt: "Fachwerkhaus im historischen Dorf des Parks"
 - src: "/images/actividades/madrid/puy-du-fou/puy-du-fou-wikimedia-06.webp"
   alt: "Die Burgmauern des Puy du Fou España bei Toledo"
+- src: "/images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp"
+  alt: "Hauptfassade der Kathedrale von Toledo"
+- src: "/images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp"
+  alt: "Gepflasterte Gasse mit Bogen in der Altstadt von Toledo"
+- src: "/images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp"
+  alt: "Puente de San Martín über den Tajo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

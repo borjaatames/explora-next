@@ -7,3 +7,6 @@
 | andratx-formula-wikimedia-05.webp | Wikimedia Commons | Malopez 21 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Port_d%27Andratx,_faro.jpg |
 | andratx-formula-wikimedia-03.webp | Wikimedia Commons | Malopez 21 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Port_d%27Andratx,_02.jpg |
 | andratx-formula-pixabay-6957128.webp | Pixabay | mariya_m | Licencia Pixabay | https://pixabay.com/photos/mallorca-winding-road-mountains-6957128/ |
+| andratx-pexels-7391756.webp | Pexels | David Vives | Licencia Pexels | https://www.pexels.com/photo/buildings-on-mountain-near-the-ocean-under-blue-sky-7391756/ |
+| andratx-wikimedia-04.webp | Wikimedia Commons | Malopez 21 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Port_d%27Andratx,_01.jpg |
+| andratx-wikimedia-06.webp | Wikimedia Commons | Malopez 21 | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Port_d%27Andratx,_04.jpg |

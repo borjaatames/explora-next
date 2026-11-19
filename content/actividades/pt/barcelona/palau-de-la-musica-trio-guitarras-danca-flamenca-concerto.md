@@ -77,6 +77,10 @@ galeria:
   alt: "Sala de concertos do Palau com o órgão ao fundo"
 - src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
   alt: "Plateia do Palau vista da varanda"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp"
+  alt: "Teto decorado e janelas laterais do Palau"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp"
+  alt: "Visitantes nos camarotes do Palau de la Música"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

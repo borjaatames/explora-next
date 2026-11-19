@@ -73,16 +73,24 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
 imagenAlt: 'Glass lift tower of the Reina Sofía from a nearby street'
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp
-  alt: 'The Reina Sofía Museum in Madrid'
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: 'Glass lifts on the facade of the Reina Sofía Museum'
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: 'Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid'
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
-  alt: 'The Reina Sofía Museum in Madrid'
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
-  alt: 'The Reina Sofía Museum in Madrid'
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero-hero.webp"
+  alt: "The Reina Sofía Museum in Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
+  alt: "Glass lifts on the facade of the Reina Sofía Museum"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp"
+  alt: "Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp"
+  alt: "The Reina Sofía Museum in Madrid"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "The Reina Sofía Museum in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade of the Royal Palace of Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, a bar street in the Barrio de las Letras"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

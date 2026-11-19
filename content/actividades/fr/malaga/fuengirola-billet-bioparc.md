@@ -80,6 +80,8 @@ galeria:
   alt: Baobab dans l'habitat africain du Bioparc
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Oiseau au plumage bleu au Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Crocodile nain au Bioparc de Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

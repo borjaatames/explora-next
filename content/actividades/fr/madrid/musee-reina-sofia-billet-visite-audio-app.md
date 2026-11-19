@@ -73,6 +73,14 @@ galeria:
   alt: Façade du musée Reina Sofía sur la Plaza de Juan Goytisolo, Madrid
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: La tour vitrée des ascenseurs du Reina Sofía vue depuis une rue voisine
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Le musée Reina Sofía à Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue de Philippe III et Casa de la Panadería sur la Plaza Mayor"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontaine de Cibeles illuminée la nuit"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, au cœur de la vieille ville"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

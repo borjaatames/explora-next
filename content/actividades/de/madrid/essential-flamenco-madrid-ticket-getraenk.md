@@ -70,6 +70,16 @@ galeria:
   alt: "Flamencotänzer auf der Bühne von Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Live-Gitarre und Gesang in Essential Flamenco"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Der beleuchtete Cibeles-Brunnen bei Nacht"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, eine Kneipenstraße im Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

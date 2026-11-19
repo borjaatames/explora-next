@@ -86,6 +86,14 @@ galeria:
   alt: "Coppia di ballerini di flamenco a El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "La sala di El Jaleo"
+- src: "/images/actividades/cordoba/patios/patio-viana.webp"
+  alt: "Patio con fontana del Palacio de Viana"
+- src: "/images/actividades/cordoba/patios/patio-arcos.webp"
+  alt: "Patio con archi e fiori a Cordova"
+- src: "/images/actividades/cordoba/mezquita/arcos-perspectiva.webp"
+  alt: "Prospettiva di archi bianchi e rossi"
+- src: "/images/actividades/cordoba/mezquita/arcos-interior.webp"
+  alt: "Interno della Moschea con archi a ferro di cavallo"
 ---
 
 ## Cosa vedrai

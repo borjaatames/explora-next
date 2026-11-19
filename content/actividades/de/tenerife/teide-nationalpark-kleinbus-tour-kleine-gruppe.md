@@ -72,6 +72,14 @@ galeria:
   alt: "Der Vulkan Pico Viejo"
 - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
   alt: "Die Cañadas am Teide"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Der Teide mit Schnee auf dem Gipfel"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Der Teide über der Caldera Las Cañadas"
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "Vulkanlandschaft im Teide-Nationalpark"
+- src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+  alt: "Blick von den Roques de García auf den Teide"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

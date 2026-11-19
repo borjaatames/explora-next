@@ -89,18 +89,22 @@ keywords:
 imagen: /images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevilla.webp
 imagenAlt: Kayaks on the Guadalquivir river in Seville
 galeria:
-- src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp
-  alt: 'Vista aérea del río Guadalquivir a su paso por Sevilla'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp
-  alt: 'Torre Sevilla on the bank of the Guadalquivir, on the kayak route'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
-  alt: 'Torre del Oro by the Guadalquivir in Seville'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp
-  alt: 'Torre del Oro and the Guadalquivir at night'
-- src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
-  alt: 'Bank of the Guadalquivir in Seville'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
-  alt: 'Torre del Oro beside the Guadalquivir canal'
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
+  alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp"
+  alt: "Torre Sevilla on the bank of the Guadalquivir, on the kayak route"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp"
+  alt: "Torre del Oro by the Guadalquivir in Seville"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp"
+  alt: "Torre del Oro and the Guadalquivir at night"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp"
+  alt: "Bank of the Guadalquivir in Seville"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp"
+  alt: "Torre del Oro beside the Guadalquivir canal"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Triana bridge over the Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Plaza de España arcade with its tiled benches"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

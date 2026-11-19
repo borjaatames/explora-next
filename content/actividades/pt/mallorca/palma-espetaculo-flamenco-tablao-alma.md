@@ -87,6 +87,10 @@ galeria:
   alt: "Guitarra e canto ao vivo em Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Guitarra e canto ao vivo em Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Catedral de Palma sobre a muralha marítima"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Igreja da Real Cartuxa de Valldemossa"
 ---
 
 ## O que vai ver

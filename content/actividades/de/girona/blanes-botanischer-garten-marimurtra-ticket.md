@@ -91,6 +91,8 @@ galeria:
   alt: Eine türkisfarbene Bucht von Marimurtra aus gesehen
 - src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
   alt: Das Mittelmeer vom Botanischen Garten Marimurtra aus
+- src: "/images/actividades/girona/tossa-de-mar/tossa-de-mar-05.webp"
+  alt: "Tossa de Mar und die Hügel ringsum"
 ---
 
 ## Was du siehst

@@ -80,18 +80,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/espetos/espeto-barca-malagueta.webp
-  alt: Beach boat grill with sardine skewers on Malagueta beach
-- src: /images/actividades/malaga/espetos/espetos-sardinas-brasas.webp
-  alt: Sardines on cane skewers roasting by the embers on the sand
-- src: /images/actividades/malaga/espetos/pedregalejo-barca.webp
-  alt: Fishing boat pulled up on Pedregalejo beach
-- src: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
-  alt: Sardine skewers roasting over hot embers
-- src: https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg
-  alt: Sardine skewers set beside the fire
-- src: https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg
-  alt: Group sitting in a jábega by the sea listening to the guide
+- src: "/images/actividades/malaga/espetos/espeto-barca-malagueta.webp"
+  alt: "Beach boat grill with sardine skewers on Malagueta beach"
+- src: "/images/actividades/malaga/espetos/espetos-sardinas-brasas.webp"
+  alt: "Sardines on cane skewers roasting by the embers on the sand"
+- src: "/images/actividades/malaga/espetos/pedregalejo-barca.webp"
+  alt: "Fishing boat pulled up on Pedregalejo beach"
+- src: "https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg"
+  alt: "Sardine skewers roasting over hot embers"
+- src: "https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg"
+  alt: "Sardine skewers set beside the fire"
+- src: "https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg"
+  alt: "Group sitting in a jábega by the sea listening to the guide"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Málaga Cathedral, near the Picasso Museum"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Tiers of Málaga's Roman Theatre"
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
 privada: true

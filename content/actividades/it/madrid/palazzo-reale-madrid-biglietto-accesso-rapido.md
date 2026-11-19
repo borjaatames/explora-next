@@ -70,6 +70,14 @@ galeria:
   alt: "Il Palazzo Reale di Madrid"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
   alt: "Il Palazzo Reale di Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-spanish-royal-guard-horseback-hero.webp"
+  alt: "Guardia Reale a cavallo al Palazzo"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp"
+  alt: "Plaza de la Armería e il Palazzo Reale in una giornata di sole"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "Il Palazzo Reale visto dai giardini del Campo del Moro"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
+  alt: "Sala da pranzo di gala del Palazzo Reale di Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

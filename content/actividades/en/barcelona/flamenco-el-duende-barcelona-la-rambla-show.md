@@ -71,6 +71,20 @@ galeria:
   alt: "Male flamenco dancer on stage at El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Flamenco dancer on stage at El Duende"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Narrow street in Barcelona's Gothic Quarter at dusk"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Narrow street with balconies in Barcelona's old town"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

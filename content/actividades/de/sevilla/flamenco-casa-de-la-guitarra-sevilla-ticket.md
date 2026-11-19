@@ -70,6 +70,16 @@ galeria:
   alt: "Gasse im Viertel Santa Cruz, Sevilla"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Flamenco-Show in einem Tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Flamencotänzerinnen in roten und schwarzen Kleidern auf der Bühne"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Flamencotänzerin mit Schultertuch"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Bunte Häuser von Triana am Guadalquivir"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Der Metropol Parasol über der Plaza de la Encarnación"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "Die Kathedrale und die Giralda von Sevilla"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

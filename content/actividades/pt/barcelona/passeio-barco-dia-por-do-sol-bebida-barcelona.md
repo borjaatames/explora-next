@@ -78,6 +78,12 @@ galeria:
   alt: "Veleiros no porto de Barcelona"
 - src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
   alt: "Praia de Barcelona com palmeiras ao entardecer"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-11479765.webp"
+  alt: "Catamarã ao pôr do sol no mar"
+- src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
+  alt: "Gurupés de um veleiro no porto de Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-wikimedia-01.webp"
+  alt: "Barcos no Port Vell com a torre do teleférico do porto"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -84,6 +84,8 @@ galeria:
   alt: "Le toit rétractable du Bernabéu vu de l'intérieur"
 - src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-aerea-atardecer.webp"
   alt: "Vue aérienne du nouveau Bernabéu au coucher du soleil, toit fermé"
+- src: "/images/actividades/madrid/bernabeu-nuevo/bernabeu-fachada-explanada-visitantes-exploraspain.webp"
+  alt: "Visiteurs sur l'esplanade devant la nouvelle façade à lamelles du Bernabéu"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -73,6 +73,10 @@ galeria:
   alt: Plaza Mayor, the first stop on the route
 - src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
   alt: Plaza Mayor, in the heart of the old town
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+  alt: "Plaza Mayor, Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

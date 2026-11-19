@@ -78,6 +78,8 @@ galeria:
   alt: "Dauphins sur la côte sud de Tenerife"
 - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
   alt: "Les falaises de la côte sud de Tenerife"
+- src: "/images/actividades/tenerife/cetaceos/delfin-nadando-cerca.webp"
+  alt: "Dauphin nageant près de la surface"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

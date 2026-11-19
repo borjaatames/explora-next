@@ -73,6 +73,10 @@ galeria:
   alt: Seville Cathedral and the Giralda at dusk
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pixabay-3484729.webp
   alt: Detail of the Giralda and Seville Cathedral
+- src: "/images/actividades/sevilla/catedral-giralda/giralda-torre-catedral-sevilla.webp"
+  alt: "The Giralda, bell tower of Seville Cathedral"
+- src: "/images/actividades/sevilla/catedral-giralda/giralda-detalle-arquitectura.webp"
+  alt: "The Giralda seen from the street"
 atraccionesRelacionadas:
 - catedral-giralda
 publicada: true

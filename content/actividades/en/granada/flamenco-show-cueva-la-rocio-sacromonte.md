@@ -79,6 +79,22 @@ galeria:
   alt: "Flamenco dancer on stage at Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Flamenco dancer on stage at Cueva de la Rocío"
+- src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+  alt: "Chapel of Our Lady of Sorrows, Granada Cathedral"
+- src: "/images/actividades/granada/catedral/fachada-principal-alonso-cano.webp"
+  alt: "Main facade of Granada Cathedral, by Alonso Cano"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "The Alhambra at sunset from the San Nicolás viewpoint"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "A street in the Albaicín"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+  alt: "Granada's historic streets with traditional architecture and narrow pathways"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Aerial view of Alhambra fortress in Granada with red-tiled roofs and surrounding gardens"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+  alt: "Court of the Lions lit up at night in the Nasrid Palaces of the Alhambra"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+  alt: "Aerial view of the Alhambra in Granada with the Sierra Nevada behind"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

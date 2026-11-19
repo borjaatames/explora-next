@@ -75,6 +75,14 @@ galeria:
   alt: "Eichenfässer in einer Bodega"
 - src: "/images/actividades/valencia/utiel-requena/utiel-requena-pixabay-4813260.webp"
   alt: "Rotwein wird bei einer Verkostung eingeschenkt"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-pixabay-1761613.webp"
+  alt: "Weingläser mit Trauben und Fass"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-pexels-14593412.webp"
+  alt: "Eichenfässer in einem Weinkeller"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-unsplash-jep2dqmhake.webp"
+  alt: "Unterirdischer Keller mit Weinfässern"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-unsplash-nnc4iyp0o6u.webp"
+  alt: "Großes Fass in einem Steinkeller"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -86,6 +86,10 @@ galeria:
   alt: Fahrgeschäft Zeppelin im Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
   alt: Kinderkarussell im Kinderbereich Nickelodeon Land
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, eine Kneipenstraße im Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

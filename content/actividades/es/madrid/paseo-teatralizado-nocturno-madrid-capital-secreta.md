@@ -72,16 +72,20 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: https://imgcdn.bokun.tools/f46f9a75-40fb-4875-9b15-3597676b1bad.png
-  alt: Personaje con máscara dorada y capa en la noche de Madrid
-- src: https://imgcdn.bokun.tools/922af8e6-60a5-4eb1-b5f8-9ee5001762ea.jpeg
-  alt: Participantes de espaldas con capas negras bordadas
-- src: https://imgcdn.bokun.tools/f2806f7f-d14a-463b-84fe-59d246d50937.jpeg
-  alt: Participante con capa y máscara dorada durante el paseo
-- src: https://imgcdn.bokun.tools/66ebf483-3785-447a-a1e8-7a8d65b20476.jpeg
-  alt: Grupo con capas en unas escaleras de piedra
-- src: https://imgcdn.bokun.tools/4c316d00-cc7f-4602-8eff-5ba8030a1b97.jpeg
-  alt: Antorcha encendida sobre el empedrado
+- src: "https://imgcdn.bokun.tools/f46f9a75-40fb-4875-9b15-3597676b1bad.png"
+  alt: "Personaje con máscara dorada y capa en la noche de Madrid"
+- src: "https://imgcdn.bokun.tools/922af8e6-60a5-4eb1-b5f8-9ee5001762ea.jpeg"
+  alt: "Participantes de espaldas con capas negras bordadas"
+- src: "https://imgcdn.bokun.tools/f2806f7f-d14a-463b-84fe-59d246d50937.jpeg"
+  alt: "Participante con capa y máscara dorada durante el paseo"
+- src: "https://imgcdn.bokun.tools/66ebf483-3785-447a-a1e8-7a8d65b20476.jpeg"
+  alt: "Grupo con capas en unas escaleras de piedra"
+- src: "https://imgcdn.bokun.tools/4c316d00-cc7f-4602-8eff-5ba8030a1b97.jpeg"
+  alt: "Antorcha encendida sobre el empedrado"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
 bokunProductId: 1206489
 fecha_actualizacion: '2026-11-09'
 ---

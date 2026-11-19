@@ -20,3 +20,5 @@ Añadidas el 24-10-2026 (revisión de fotos ajenas; descargadas en `E:\imagenes-
 - `marineland-mallorca-leon-marino.webp` — «Marineland Majorca - panoramio.jpg», DICKYBOW, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Marineland_Majorca_-_panoramio.jpg)
 - `marineland-mallorca-grada-show.webp` — «Delfinschow im Marineland Mallorca.jpg», Hombre, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Delfinschow_im_Marineland_Mallorca.jpg)
 - `marineland-mallorca-loros.webp` — «Papageien im Marineland Mallorca.jpg», Hombre, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Papageien_im_Marineland_Mallorca.jpg)
+| marineland-wikimedia-01.webp | Wikimedia Commons | El Coleccionista de Instantes  Fotografía &amp; Video | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Delfinario_de_Palmitos_Park.Gran_Canaria_(4759332559).jpg |
+| marineland-wikimedia-02.webp | Wikimedia Commons | El Coleccionista de Instantes  Fotografía &amp; Video | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Delfinario_de_Palmitos_Park.Gran_Canaria_(4759969250).jpg |

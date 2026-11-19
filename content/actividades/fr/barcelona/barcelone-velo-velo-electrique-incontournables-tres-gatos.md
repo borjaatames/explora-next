@@ -78,6 +78,8 @@ galeria:
   alt: "La cathédrale de Barcelone, au cœur du quartier gothique"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Plage de la Barceloneta avec le port de plaisance et des palmiers"
+- src: "/images/actividades/barcelona/casa-mila/casa-mila-chimney-roof-barcelona-2014-3-hero.webp"
+  alt: "Cheminée couverte de trencadís sur le toit de La Pedrera"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -80,6 +80,8 @@ galeria:
   alt: "Die Kathedrale von Barcelona im Herzen des Gotischen Viertels"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Blick auf den Strand von Barceloneta mit Jachthafen und Palmen im Hintergrund"
+- src: "/images/actividades/barcelona/casa-mila/casa-mila-pedrera-by-antoni-gaudi-barcelona-hero.webp"
+  alt: "Die Casa Milà von Gaudí in Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

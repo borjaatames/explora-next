@@ -88,6 +88,10 @@ galeria:
   alt: "Guitare et chant en direct à Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Guitare et chant en direct à Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "La cathédrale de Palma au-dessus des remparts"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gargouille gothique sur la façade de la cathédrale de Palma"
 metaTitle: 'Flamenco à Palma : Tablao Alma'
 ---
 

@@ -76,6 +76,12 @@ galeria:
   alt: "Scultura di coprimozzi davanti al museo"
 - src: "/images/actividades/malaga/museo-automovil/museo-automovil-wikimedia-06.webp"
   alt: "Motore storico in una teca"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-11408644.webp"
+  alt: "Auto d'epoca verde in un museo dell'automobile"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-36352989.webp"
+  alt: "Cabriolet rossa anni '50 in esposizione"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-18435540.webp"
+  alt: "Dettaglio cromato di un'auto d'epoca"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

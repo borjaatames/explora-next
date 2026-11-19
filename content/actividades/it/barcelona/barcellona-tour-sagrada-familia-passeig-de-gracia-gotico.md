@@ -79,6 +79,14 @@ galeria:
   alt: "La Sagrada Família a Barcellona"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "La chiesa di Santa Maria del Mar nel centro storico di Barcellona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
+  alt: "Vetrate blu e verdi che illuminano la navata della Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
+  alt: "Interno della Sagrada Familia con colonne illuminate dalla luce calda delle vetrate"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp"
+  alt: "Le torri della Sagrada Família contro il cielo azzurro"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp"
+  alt: "La Sagrada Família al tramonto, vista dall'alto"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

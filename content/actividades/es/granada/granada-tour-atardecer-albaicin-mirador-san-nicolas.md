@@ -66,6 +66,20 @@ galeria:
   alt: "Calles del Albaicín"
 - src: "/images/actividades/granada/sacromonte/sacromonte-granada-cueva-flamenco-fachada-azul-hero.webp"
   alt: "Calles del Albaicín"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "La Alhambra desde el mirador de San Nicolás"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-471742.webp"
+  alt: "Campanario con buganvillas en el Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
+  alt: "El Albaicín visto desde los jardines de la Alhambra"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "El Albaicín al caer la tarde"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp"
+  alt: "El Albaicín visto desde la Alhambra"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp"
+  alt: "Casas blancas del Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "La Alhambra iluminada por el sol de la tarde"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

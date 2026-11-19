@@ -81,6 +81,8 @@ galeria:
   alt: "Roter Himmel spiegelt sich nach Sonnenuntergang im See der Albufera"
 - src: "/images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp"
   alt: "Bug eines Boots auf dem See der Albufera bei Sonnenuntergang"
+- src: "/images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp"
+  alt: "Kanal mit traditionellen Booten bei Einbruch der Nacht in der Albufera"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

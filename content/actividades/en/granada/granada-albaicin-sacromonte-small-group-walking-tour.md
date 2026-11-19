@@ -66,6 +66,20 @@ galeria:
   alt: "Cave houses of Sacromonte"
 - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
   alt: "Cobbled lane in the Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp"
+  alt: "Street of tea houses in the Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Aerial view of the rooftops of the Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp"
+  alt: "White houses of the Albaicín on the hillside"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "The Alhambra lit by the evening sun"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "A street in the Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp"
+  alt: "The Albaicín seen from the Alhambra"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-471742.webp"
+  alt: "Bell tower with bougainvillea in the Albaicín"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

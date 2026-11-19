@@ -89,6 +89,12 @@ galeria:
   alt: "Guitarra y cante en directo en Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Guitarra y cante en directo en Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/formentor/formentor-02.webp"
+  alt: "Faro del Cap de Formentor en lo alto del acantilado"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Iglesia de la Real Cartuja de Valldemossa"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Baldaquino de Gaudí sobre el altar mayor de La Seu"
 ---
 
 ## Qué vas a ver

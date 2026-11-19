@@ -70,6 +70,22 @@ galeria:
   alt: "Alley in the Santa Cruz quarter, Seville"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Flamenco show in a tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Flamenco dancers in red and black dresses on stage"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Flamenco dancer with a shawl"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol over Plaza de la Encarnación"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Seville's Setas at sunset"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facade of the Palace of Pedro I in the Royal Alcázar of Seville"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Plaza de España arcade with its tiled benches"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Seville Cathedral façade among palm trees"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Mudejar arches of the Palace of Pedro I"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

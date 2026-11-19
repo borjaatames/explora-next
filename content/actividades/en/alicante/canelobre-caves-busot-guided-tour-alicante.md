@@ -93,6 +93,8 @@ galeria:
   alt: "Lit stalagmite in the Canelobre Caves"
 - src: /images/actividades/alicante/fal-canelobre/x-canelobre-pexels-16455426.webp
   alt: "Rock formations in the Canelobre Caves"
+- src: "/images/actividades/alicante/fal-canelobre/fal-canelobre-wikimedia-06.webp"
+  alt: "The road up to the Canelobre Caves"
 ---
 
 ## What you will see

@@ -64,16 +64,22 @@ keywords:
 imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
 imagenAlt: Tiled bridge in Plaza de España
 galeria:
-- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Triana bridge over the Guadalquivir
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Plaza de España arcade with its tiled benches
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España lit up at night
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
-  alt: Canal and north tower of Plaza de España
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-  alt: Rowing boats on the Plaza de España canal
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Triana bridge over the Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Plaza de España arcade with its tiled benches"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+  alt: "Plaza de España lit up at night"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp"
+  alt: "Canal and north tower of Plaza de España"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp"
+  alt: "Rowing boats on the Plaza de España canal"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp"
+  alt: "Tower and bridge in Plaza de España"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
+  alt: "Seville's Plaza de España with its two towers and canal"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp"
+  alt: "Wide view of Seville's Plaza de España"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

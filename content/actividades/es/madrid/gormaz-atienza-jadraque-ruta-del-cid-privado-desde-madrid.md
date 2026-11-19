@@ -73,6 +73,12 @@ galeria:
   alt: 'Pueblo con castillo en la sierra'
 - src: https://imgcdn.bokun.tools/44b3370f-e9ac-4afd-b278-378f33a73899.jpg
   alt: 'Muralla con arco de la fortaleza de Gormaz'
+- src: "https://imgcdn.bokun.tools/fb9362de-351c-4e7e-b455-ad6f867b94eb.jpg"
+  alt: "Iglesia románica de piedra en la ruta del Cid"
+- src: "https://imgcdn.bokun.tools/97eca6ce-f66c-43d2-b1e5-cb5f6f008087.jpg"
+  alt: "Murallas del castillo de Gormaz sobre el valle"
+- src: "https://imgcdn.bokun.tools/ae7f5a34-2401-4b85-86b7-57f4f7fc1c7a.jpg"
+  alt: "Restos de murallas medievales en la ruta del Cid"
 publicada: true
 indexar: false
 destacada: false

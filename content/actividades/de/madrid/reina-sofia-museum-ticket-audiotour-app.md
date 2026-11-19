@@ -73,6 +73,14 @@ galeria:
   alt: Fassade des Museo Reina Sofía an der Plaza de Juan Goytisolo, Madrid
 - src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
   alt: Gläserner Aufzugsturm des Reina Sofía von einer Nebenstraße aus
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Das Museo Reina Sofía in Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Die Plaza Mayor im Herzen der Altstadt"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao und Gran Vía bei Nacht"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Der Königspalast in Madrid"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

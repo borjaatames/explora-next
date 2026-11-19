@@ -64,6 +64,10 @@ galeria:
   alt: Plaza de Oriente and the Royal Palace
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp
   alt: Plaza de la Armería and the Royal Palace on a sunny day
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
+  alt: "Gala Dining Room of the Royal Palace of Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092805-hero-hero.webp"
+  alt: "Main façade of Madrid's Royal Palace"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

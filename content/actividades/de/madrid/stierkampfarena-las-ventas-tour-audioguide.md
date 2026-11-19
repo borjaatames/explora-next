@@ -90,6 +90,10 @@ galeria:
   alt: 'Bronzedenkmal vor der Arena Las Ventas'
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Haupttor von Las Ventas'
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos an der Puerta del Sol bei Nacht"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

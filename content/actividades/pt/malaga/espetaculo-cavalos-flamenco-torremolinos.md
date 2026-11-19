@@ -74,6 +74,14 @@ galeria:
   alt: "Bailarina de flamenco e cavaleiro num espetáculo equestre"
 - src: "/images/actividades/malaga/caballos/caballos-andaluces-wikimedia-05.webp"
   alt: "Cavaleiros com cavalos ruços na arena iluminada"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-04.webp"
+  alt: "Cavalo andaluz num espetáculo noturno"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-02.webp"
+  alt: "Cavaleiros na arena ao pôr do sol"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-01.webp"
+  alt: "Bailarina de flamenco e cavaleiro num espetáculo equestre"
+- src: "/images/actividades/malaga/caballos/caballos-pexels-37392094.webp"
+  alt: "Charretes enfeitadas numa feira andaluza"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

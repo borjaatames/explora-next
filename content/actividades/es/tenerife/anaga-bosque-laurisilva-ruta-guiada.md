@@ -69,18 +69,22 @@ keywords:
 imagen: /images/actividades/tenerife/anaga/anaga-01.webp
 imagenAlt: Montañas cubiertas de laurisilva en Anaga
 galeria:
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Crestas del macizo de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-04.webp
-  alt: Valles verdes del macizo de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-05.webp
-  alt: Bosque de laurisilva en el Parque Rural de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-06.webp
-  alt: Sendero en el Parque Rural de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-07.webp
-  alt: Vegetación de Anaga entre la niebla
-- src: /images/actividades/tenerife/anaga/anaga-02.webp
-  alt: Lagarto tizón en el macizo de Anaga
+- src: "/images/actividades/tenerife/anaga/anaga-03.webp"
+  alt: "Crestas del macizo de Anaga"
+- src: "/images/actividades/tenerife/anaga/anaga-04.webp"
+  alt: "Valles verdes del macizo de Anaga"
+- src: "/images/actividades/tenerife/anaga/anaga-05.webp"
+  alt: "Bosque de laurisilva en el Parque Rural de Anaga"
+- src: "/images/actividades/tenerife/anaga/anaga-06.webp"
+  alt: "Sendero en el Parque Rural de Anaga"
+- src: "/images/actividades/tenerife/anaga/anaga-07.webp"
+  alt: "Vegetación de Anaga entre la niebla"
+- src: "/images/actividades/tenerife/anaga/anaga-02.webp"
+  alt: "Lagarto tizón en el macizo de Anaga"
+- src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+  alt: "Paisaje volcánico de las Cañadas del Teide al atardecer"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico y el roque frente a la costa"
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

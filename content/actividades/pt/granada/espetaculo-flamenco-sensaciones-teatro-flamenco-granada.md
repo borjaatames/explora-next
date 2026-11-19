@@ -107,6 +107,8 @@ galeria:
   alt: 'O Albaicín visto dos jardins da Alhambra'
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: 'A Alhambra iluminada pelo sol da tarde'
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp"
+  alt: "O miradouro de San Nicolás no Albaicín"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 publicada: true

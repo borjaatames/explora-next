@@ -72,6 +72,12 @@ galeria:
   alt: "L'Albaicín visto dai giardini dell'Alhambra"
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
   alt: "Case bianche dell'Albaicín, a Granada"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "L'Albaicín al calar della sera"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "L'Alhambra illuminata dal sole del pomeriggio"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Vista aerea della fortezza dell'Alhambra, Granada, con le sue mura e torri medievali"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

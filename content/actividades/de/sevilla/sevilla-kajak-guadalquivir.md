@@ -99,6 +99,10 @@ galeria:
   alt: Die Torre del Oro und der Guadalquivir bei Nacht
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
   alt: Ufer des Guadalquivir in Sevilla
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp"
+  alt: "Die Torre del Oro am Kanal des Guadalquivir"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fassade der Kathedrale von Sevilla zwischen Palmen"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

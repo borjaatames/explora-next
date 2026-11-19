@@ -60,7 +60,7 @@ keywords:
 - enoturismo mallorca
 imagen: https://imgcdn.bokun.tools/f2ae6a58-9965-4ea5-8bd6-5b8b6f889a9e.png
 imagenAlt: "Mesa de cata entre depósitos de la bodega"
-galeria: null
+galeria: []
 publicada: true
 indexar: false
 destacada: false

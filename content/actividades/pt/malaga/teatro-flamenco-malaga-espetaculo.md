@@ -83,6 +83,16 @@ galeria:
   alt: "Bailarina de flamenco no palco de Teatro Flamenco Málaga"
 - src: "/images/actividades/malaga/teatro-flamenco-malaga/cuadro-escenario-teatro-flamenco-malaga.webp"
   alt: "O grupo de flamenco completo em Teatro Flamenco Málaga"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-murallas.webp"
+  alt: "Muralhas da Alcazaba de Málaga"
+- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
+  alt: "Muelle Uno no porto de Málaga"
+- src: "/images/actividades/malaga/calle-larios/calle-larios-unsplash-ZZEjI6yNxd0.webp"
+  alt: "A calle Larios, no centro de Málaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "A praça de touros de La Malagueta junto ao mar"
+- src: "/images/actividades/malaga/muelle-uno/malagueta.webp"
+  alt: "A Malagueta e o Muelle Uno de Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

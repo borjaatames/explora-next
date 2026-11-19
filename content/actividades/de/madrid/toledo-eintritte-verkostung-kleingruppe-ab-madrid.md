@@ -80,6 +80,12 @@ galeria:
   alt: 'Gruppe auf der Alcántara-Brücke'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Mudéjar-Bogen in Toledo'
+- src: "/images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp"
+  alt: "Gepflasterte Gasse mit Bogen in der Altstadt von Toledo"
+- src: "/images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp"
+  alt: "Puente de San Martín über den Tajo"
+- src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+  alt: "Alcázar von Toledo"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

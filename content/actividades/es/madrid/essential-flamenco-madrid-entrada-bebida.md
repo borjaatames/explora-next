@@ -70,6 +70,22 @@ galeria:
   alt: "Bailaor en el escenario de Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Guitarra y cante en directo en Essential Flamenco"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao y la Gran Vía de noche"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada al caer la noche"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Fuente de Cibeles iluminada de noche"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, zona de bares del Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos en la Puerta del Sol de noche"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

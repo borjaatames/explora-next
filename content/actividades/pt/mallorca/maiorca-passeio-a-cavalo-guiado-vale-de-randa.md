@@ -76,6 +76,14 @@ galeria:
   alt: "Cabeça de um cavalo andaluz branco"
 - src: "/images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp"
   alt: "O vale de Sóller e a Serra de Tramuntana"
+- src: "/images/actividades/mallorca/formentor/formentor-02.webp"
+  alt: "Farol do Cap de Formentor no alto da falésia"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Barcos no porto de Port de Sóller"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Banhistas na água transparente de Caló des Moro"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Palácio da Almudaina sobre a muralha ao pôr do sol"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

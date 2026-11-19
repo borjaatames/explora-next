@@ -89,18 +89,22 @@ keywords:
 imagen: /images/actividades/sevilla/kayak-guadalquivir/kayaks-guadalquivir-sevilla.webp
 imagenAlt: Kayaks en el Guadalquivir a su paso por Sevilla
 galeria:
-- src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp
-  alt: 'Vista aérea del río Guadalquivir a su paso por Sevilla'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp
-  alt: 'Torre Sevilla en la orilla del Guadalquivir, ruta de kayak'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
-  alt: 'Torre del Oro junto al Guadalquivir en Sevilla'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp
-  alt: 'Torre del Oro y el Guadalquivir de noche'
-- src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
-  alt: 'Orilla del Guadalquivir en Sevilla'
-- src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
-  alt: 'Torre del Oro junto al canal del Guadalquivir'
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-sevilla-aerea.webp"
+  alt: "Vista aérea del río Guadalquivir a su paso por Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-sevilla-orilla.webp"
+  alt: "Torre Sevilla en la orilla del Guadalquivir, ruta de kayak"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp"
+  alt: "Torre del Oro junto al Guadalquivir en Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-noche.webp"
+  alt: "Torre del Oro y el Guadalquivir de noche"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp"
+  alt: "Orilla del Guadalquivir en Sevilla"
+- src: "/images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp"
+  alt: "Torre del Oro junto al canal del Guadalquivir"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Puente de Triana sobre el Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

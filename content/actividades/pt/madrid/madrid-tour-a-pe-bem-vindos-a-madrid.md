@@ -82,6 +82,12 @@ galeria:
   alt: 'Rua do centro de Madrid ao entardecer'
 - src: /images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero-card.webp
   alt: 'Catedral da Almudena'
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "O Palácio Real de Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "O letreiro néon do Tío Pepe na Puerta del Sol ao entardecer"
 ratingProveedor: 4.9
 numeroOpiniones: 2441
 publicada: true

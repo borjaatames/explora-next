@@ -74,6 +74,12 @@ galeria:
   alt: "Die Stallungen im Untergeschoss des Palau Güell"
 - src: "/images/actividades/barcelona/palau-guell/palau-guell-wikimedia-02.webp"
   alt: "Innenhof des Palau Güell von oben"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Die Rambla mit ihren Bäumen"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sonnenuntergang am Strand von Barceloneta mit dem Hotel W im Hintergrund und Wellen am Ufer"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gotische Fassade der Kathedrale von Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

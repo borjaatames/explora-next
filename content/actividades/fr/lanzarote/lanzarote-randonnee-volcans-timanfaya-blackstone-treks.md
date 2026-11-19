@@ -74,6 +74,10 @@ galeria:
   alt: "Coulée de lave solidifiée à Timanfaya"
 - src: "/images/actividades/lanzarote/timanfaya/flz-volcan-nubes.webp"
   alt: "Volcan rougeâtre sous les nuages au Timanfaya"
+- src: "/images/actividades/lanzarote/timanfaya/flz-interior-crater.webp"
+  alt: "Intérieur d'un cratère volcanique au Timanfaya"
+- src: "/images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp"
+  alt: "Paysage du parc national de Timanfaya avec la mer en arrière-plan"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -75,14 +75,20 @@ keywords:
 imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
 imagenAlt: 'Barricas en una bodega de vermut de Reus'
 galeria:
-- src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: 'Copa de vermut con hielo'
-- src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: 'Copa en mano durante una cata'
-- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: 'Vermut con aceitunas'
-- src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: 'Botellas de vermut'
+- src: "/images/actividades/tarragona/vermut/copa-vermut-hielo.webp"
+  alt: "Copa de vermut con hielo"
+- src: "/images/actividades/tarragona/vermut/cata-copa-en-mano.webp"
+  alt: "Copa en mano durante una cata"
+- src: "/images/actividades/tarragona/vermut/vermut-grifo.webp"
+  alt: "Vermut con aceitunas"
+- src: "/images/actividades/tarragona/vermut/botellas-vermut.webp"
+  alt: "Botellas de vermut"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-8251576.webp"
+  alt: "Copas preparadas para una cata"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-8251601.webp"
+  alt: "Copas de vino tinto y blanco en una cata"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-14387123.webp"
+  alt: "Vaso de vermut rojo con hielo y naranja"
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

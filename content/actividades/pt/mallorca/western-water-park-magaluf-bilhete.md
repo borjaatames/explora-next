@@ -94,6 +94,14 @@ galeria:
   alt: Vista aérea do Western Water Park, em Magaluf (Calvià)
 - src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
   alt: Zona infantil com escorregas coloridos no Western Water Park
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Igreja da Real Cartuxa de Valldemossa"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Baldaquino de Gaudí sobre o altar-mor de La Seu"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Palácio da Almudaina sobre a muralha ao pôr do sol"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Catedral de Palma sobre a muralha marítima"
 ---
 
 ## O que vai ver

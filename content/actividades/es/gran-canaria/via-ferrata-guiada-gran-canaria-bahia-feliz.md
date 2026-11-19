@@ -93,18 +93,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
 imagenAlt: "Escaladora con casco bajo un desplome de roca"
 galeria:
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp"
   alt: "Escaladores avanzando por una vía ferrata en pared de roca"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp"
   alt: "Mosquetones enganchados al cable de acero de una vía ferrata"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp"
   alt: "Barrancos del sur de Gran Canaria"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp"
   alt: "Subida por los peldaños metálicos de una vía ferrata"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp"
   alt: "Montañas áridas de un barranco del sur de Gran Canaria"
-- src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp"
   alt: "Escaladores en una vía ferrata"
+- src: "/images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp"
+  alt: "Calle Real de Teror con sus balcones de madera"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp"
+  alt: "Panorámica de Las Palmas de Gran Canaria desde un mirador"
 ---
 
 ## Qué vas a ver

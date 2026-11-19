@@ -94,18 +94,20 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
 imagenAlt: Gelbe Kajaks auf dem Meer an einer Felsküste
 galeria:
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
-  alt: Gruppe von Kajaks an einer Felsküste, Luftbild
-- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
-  alt: Kajak aus dem Inneren einer Meereshöhle
-- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
-  alt: Felsige Mittelmeerküste mit Bergen im Hintergrund
-- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
-  alt: Person beim Schnorcheln über felsigem Grund
-- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
-  alt: Zwei Kajaks auf klarem türkisfarbenem Wasser
-- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
-  alt: Meeresgrund mit Felsen unter kristallklarem Wasser
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp"
+  alt: "Gruppe von Kajaks an einer Felsküste, Luftbild"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp"
+  alt: "Kajak aus dem Inneren einer Meereshöhle"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp"
+  alt: "Felsige Mittelmeerküste mit Bergen im Hintergrund"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp"
+  alt: "Person beim Schnorcheln über felsigem Grund"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp"
+  alt: "Zwei Kajaks auf klarem türkisfarbenem Wasser"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp"
+  alt: "Meeresgrund mit Felsen unter kristallklarem Wasser"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pixabay-10394760.webp"
+  alt: "Einzelnes Kajak auf dem Meer"
 avisoReserva: 'Saisonale Aktivität: Die nächsten verfügbaren Termine beginnen im April 2027. Die Guides sprechen Spanisch, Englisch, Französisch und Katalanisch, nicht Deutsch; die Sicherheitseinweisung solltest du auf Englisch verstehen.'
 ---
 

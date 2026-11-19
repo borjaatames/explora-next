@@ -74,6 +74,10 @@ galeria:
   alt: Plaza de Oriente and the Royal Palace
 - src: /images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp
   alt: Royal Palace of Madrid lit up at night
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-architectural-beauty-royal-hero-hero.webp"
+  alt: "Madrid's Royal Palace and the Plaza de la Armería"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "Royal Palace seen from the Campo del Moro gardens"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

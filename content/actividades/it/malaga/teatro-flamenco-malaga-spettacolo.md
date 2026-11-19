@@ -85,6 +85,16 @@ galeria:
   alt: "Ballerina di flamenco sul palco di Teatro Flamenco Málaga"
 - src: "/images/actividades/malaga/teatro-flamenco-malaga/cuadro-escenario-teatro-flamenco-malaga.webp"
   alt: "Il gruppo di flamenco al completo a Teatro Flamenco Málaga"
+- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
+  alt: "Il Muelle Uno nel porto di Malaga"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Cattedrale di Málaga, vicino al Museo Picasso"
+- src: "/images/actividades/malaga/muelle-uno/malagueta.webp"
+  alt: "La Malagueta e il Muelle Uno di Malaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "L'arena di La Malagueta di fronte al mare"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-01.webp"
+  alt: "Facciata principale della Cattedrale di Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

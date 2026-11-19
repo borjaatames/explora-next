@@ -85,6 +85,8 @@ galeria:
   alt: 'Aquädukt von Segovia'
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
   alt: 'Aquädukt von Segovia und die Plaza del Azoguejo von oben'
+- src: "/images/actividades/toledo/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-septentrional-hero-hero.webp"
+  alt: "Das Neue Bisagra-Tor im Norden von Toledo"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

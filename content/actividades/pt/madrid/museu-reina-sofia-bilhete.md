@@ -83,6 +83,10 @@ galeria:
   alt: 'O Museu Reina Sofía em Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
   alt: 'O Museu Reina Sofía em Madrid'
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "A Puerta del Sol à noite com a Real Casa de Correos"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

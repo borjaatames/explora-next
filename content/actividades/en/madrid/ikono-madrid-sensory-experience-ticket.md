@@ -68,6 +68,22 @@ imagenAlt: "Gran Vía in central Madrid"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "Gran Vía in central Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-busy-street-scene-pedestrians-cars-hero.webp"
+  alt: "Pedestrians and traffic on Madrid's Gran Via, with the Plaza de Espana skyscrapers in the background"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-street-filled-lots-tall-hero.webp"
+  alt: "View of Madrid's Gran Via with its historic buildings and the Torre de Madrid in the background"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-city-scale-under-blue-sky-hero.webp"
+  alt: "Aerial view of the rooftops and buildings of Madrid's Gran Via at dawn"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "Plaza de Callao and the Carrión building at night"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Aerial view of Madrid's Gran Vía at dusk, with the Metrópolis building"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
+  alt: "Madrid's Gran Vía with its historic buildings and avenue traffic"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+  alt: "Capitol building on Plaza de Callao, next to Calle Mesonero Romanos"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

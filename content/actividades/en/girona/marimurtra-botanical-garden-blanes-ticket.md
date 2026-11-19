@@ -79,18 +79,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
 imagenAlt: "Pergola with benches and greenery in the Marimurtra Botanical Garden"
 galeria:
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp"
   alt: "The Marimurtra botanical garden on the Blanes cliff above the cove"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp"
   alt: "Purple flowers in the Marimurtra Botanical Garden"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp"
   alt: "The Blanes coast seen from the garden"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp"
   alt: "A dark-leaved succulent in the garden's arid section"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp"
   alt: "A turquoise cove seen from Marimurtra"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp"
   alt: "The Mediterranean seen from the Marimurtra Botanical Garden"
+- src: "/images/actividades/girona/catedral-girona/catedral-girona-01.webp"
+  alt: "Girona Cathedral at the top of its steps"
+- src: "/images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp"
+  alt: "The Vila Vella walls and tower with Tossa beach"
 ---
 
 ## What you'll see

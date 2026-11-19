@@ -86,6 +86,14 @@ galeria:
   alt: "Couple de danseurs de flamenco à El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "La salle de El Jaleo"
+- src: "/images/actividades/cordoba/mezquita/arcos-perspectiva.webp"
+  alt: "Perspective d'arcs rouges et blancs"
+- src: "/images/actividades/cordoba/patios/patio-viana.webp"
+  alt: "Patio avec fontaine au Palacio de Viana"
+- src: "/images/actividades/cordoba/alcazar/fvc-jardines-torres-alcazar.webp"
+  alt: "Jardins et tours de l'Alcázar des Rois Chrétiens"
+- src: "/images/actividades/cordoba/juderia/alcazar-jardines.webp"
+  alt: "Jardins de l'Alcázar des Rois Chrétiens"
 ---
 
 ## Ce que vous allez voir

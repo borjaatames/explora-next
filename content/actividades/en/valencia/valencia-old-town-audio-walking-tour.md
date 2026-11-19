@@ -73,6 +73,10 @@ galeria:
   alt: The Hemisfèric reflected in the water
 - src: /images/actividades/valencia/centro/lonja-fachada.webp
   alt: Facade of Valencia's Silk Exchange, a UNESCO World Heritage Site
+- src: "/images/actividades/valencia/centro/torres-serranos-palmeras.webp"
+  alt: "Serranos Towers in Valencia, the departure city of the trip"
+- src: "/images/actividades/valencia/centro/mercado-central-interior.webp"
+  alt: "Art Nouveau interior of the Central Market"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

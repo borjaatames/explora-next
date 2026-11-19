@@ -83,8 +83,26 @@ keywords:
 imagen: /images/actividades/gran-canaria/caballo/jinetes-campo-seco.webp
 imagenAlt: Group of horse riders crossing a dry field with mountains behind
 galeria:
-- src: /images/actividades/gran-canaria/caballo/caballos-canon-roca.webp
-  alt: Horseback ride between walls of volcanic rock
+- src: "/images/actividades/gran-canaria/caballo/caballos-canon-roca.webp"
+  alt: "Horseback ride between walls of volcanic rock"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp"
+  alt: "Panoramic view of Las Palmas de Gran Canaria from a viewpoint"
+- src: "/images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp"
+  alt: "A street in Teror with the northern mountains behind"
+- src: "/images/actividades/gran-canaria/dunas/dunas-maspalomas.webp"
+  alt: "Maspalomas dunes at sunset"
+- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
+  alt: "Maspalomas dunes with the mountains of Gran Canaria behind"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp"
+  alt: "Almond blossom with Roque Bentayga behind"
+- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
+  alt: "Pond among palm trees in the Maspalomas Dunes"
+- src: "/images/actividades/gran-canaria/mogan/mogan-acantilados.webp"
+  alt: "Cliffs and houses on the Mogán coast seen from the sea"
+- src: "/images/actividades/gran-canaria/mogan/mogan-aerea.webp"
+  alt: "Aerial view of Puerto de Mogán"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
+  alt: "Almond trees in blossom in front of Roque Bentayga, in Tejeda"
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

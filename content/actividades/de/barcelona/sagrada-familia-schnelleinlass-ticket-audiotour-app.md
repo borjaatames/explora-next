@@ -81,6 +81,10 @@ galeria:
   alt: Blaue und grüne Glasfenster erhellen das Kirchenschiff der Sagrada Família
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Detail der Glorienfassade der Sagrada Família mit ihren pyramidenförmigen Fenstern
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
+  alt: "Die Sagrada Família in Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp"
+  alt: "Blick ins Innere auf die baumartigen Säulen und die Decke der Sagrada Família"
 atraccionesRelacionadas:
 - sagrada-familia
 publicada: true

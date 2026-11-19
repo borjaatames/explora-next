@@ -86,6 +86,8 @@ galeria:
   alt: "La cathédrale de Barcelone, au cœur du quartier gothique"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Plage de la Barceloneta avec le port de plaisance et des palmiers"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp"
+  alt: "Lumière rouge et orangée des vitraux à l'intérieur de la Sagrada Família"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

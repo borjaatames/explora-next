@@ -74,6 +74,18 @@ galeria:
   alt: "Guitarristas y cantaores en el escenario"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "El escenario del Tablao Las Setas iluminado en rojo"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Curvas de las Setas contra el cielo azul"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Arcos mudéjares del Palacio de Pedro I"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Casas de colores de Triana junto al río Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflejada en el canal"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

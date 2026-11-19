@@ -70,6 +70,16 @@ galeria:
   alt: "Ballon de football sur une pelouse fraîchement tondue"
 - src: "/images/actividades/madrid/legends/legends-futbol-pixabay-488714.webp"
   alt: "Ballon sur la pelouse d'un stade de football"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Façade du musée du Prado sur le Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La cathédrale de l'Almudena illuminée le soir"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "La Plaza del Callao et la Gran Vía la nuit"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'enseigne lumineuse Tío Pepe à la Puerta del Sol au crépuscule"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "La Calle de las Huertas, rue de bars du Barrio de las Letras"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

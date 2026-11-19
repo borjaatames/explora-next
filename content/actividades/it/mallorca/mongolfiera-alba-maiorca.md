@@ -77,6 +77,16 @@ galeria:
   alt: "La costa di Maiorca vista dall'alto"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-37068618.webp"
   alt: "Scogliere e mare a est di Maiorca dall'alto"
+- src: "/images/actividades/mallorca/globo/globo-pexels-19326083.webp"
+  alt: "Mongolfiere colorate nel cielo"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-29874104.webp"
+  alt: "Paese di Maiorca tra le montagne visto dall'alto"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-8297680.webp"
+  alt: "Costa rocciosa nel nord di Maiorca"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Elicottero in volo accanto a una parete di roccia"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Port de Sóller con le barche ormeggiate"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -79,6 +79,22 @@ galeria:
   alt: "Bailaora en el escenario de Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Bailaora en el escenario de Cueva de la Rocío"
+- src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+  alt: "Capilla de Nuestra Señora de las Angustias, Catedral de Granada"
+- src: "/images/actividades/granada/catedral/fachada-principal-alonso-cano.webp"
+  alt: "Fachada principal de la Catedral de Granada, obra de Alonso Cano"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "La Alhambra desde el mirador de San Nicolás"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "El Albaicín al caer la tarde"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+  alt: "La Alcazaba de la Alhambra"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "La Alhambra de Granada iluminada al anochecer"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+  alt: "Patio de los Leones en los Palacios Nazaríes"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+  alt: "Vista aérea de la Alhambra de Granada con Sierra Nevada al fondo"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

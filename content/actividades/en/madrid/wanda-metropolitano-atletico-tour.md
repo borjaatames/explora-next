@@ -111,6 +111,8 @@ galeria:
   alt: Atlético de Madrid's Metropolitano stadium
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Metropolitano stadium on match day
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
 ratingProveedor: 4.7
 numeroOpiniones: 2351
 publicada: true

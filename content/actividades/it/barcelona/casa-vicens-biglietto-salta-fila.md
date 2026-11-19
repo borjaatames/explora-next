@@ -92,6 +92,8 @@ galeria:
   alt: 'Casa Vicens vista da Carrer de les Carolines'
 - src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
   alt: 'Cancellata a foglie di palma nana di Casa Vicens'
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gotico e lampione nel Quartiere Gotico"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

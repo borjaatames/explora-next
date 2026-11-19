@@ -76,6 +76,16 @@ galeria:
   alt: "La Sagrada Família a Barcellona"
 - src: "/images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp"
   alt: "La Sagrada Família a Barcellona"
+- src: "/images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp"
+  alt: "Il laboratorio dei modelli in gesso nel museo della Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp"
+  alt: "Le vetrate colorate della Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp"
+  alt: "Le torri della Sagrada Família contro il cielo azzurro"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp"
+  alt: "Le colonne ad albero e il soffitto della Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-6509308-hero.webp"
+  alt: "La volta della navata della Sagrada Familia con i suoi lucernari"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

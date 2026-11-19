@@ -93,18 +93,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/gran-canaria/via-ferrata/fgc-escaladora-bajo-desplome.webp
 imagenAlt: "A climber with a helmet under a rock overhang"
 galeria:
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-escaladores-via-ferrata-roca.webp"
   alt: "Climbers making their way along a via ferrata on a rock face"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-mosquetones-cable-acero.webp"
   alt: "Carabiners clipped to the steel cable of a via ferrata"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-barrancos-sur-gran-canaria.webp"
   alt: "Ravines in the south of Gran Canaria"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-subida-peldanos-ferrata.webp"
   alt: "Climbing the metal rungs of a via ferrata"
-- src: /images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/fgc-montanas-barranco-sur.webp"
   alt: "Arid mountains in a ravine in the south of Gran Canaria"
-- src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
+- src: "/images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp"
   alt: "Climbers on a via ferrata"
+- src: "/images/actividades/gran-canaria/norte/fgc-calle-real-teror-balcones.webp"
+  alt: "Calle Real in Teror with its wooden balconies"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp"
+  alt: "Panoramic view of Las Palmas de Gran Canaria from a viewpoint"
 ---
 
 ## What you will see

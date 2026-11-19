@@ -76,6 +76,16 @@ galeria:
   alt: "A Sagrada Família, em Barcelona"
 - src: "/images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp"
   alt: "A Sagrada Família, em Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp"
+  alt: "A basílica da Sagrada Família com as suas torres, em Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-colorful-stained-glass-windows-hero-hero.webp"
+  alt: "Os vitrais coloridos da Sagrada Família, com padrões e iconografia religiosa"
+- src: "/images/actividades/barcelona/sagrada-familia/museo-taller-maquetas.webp"
+  alt: "Oficina de maquetas de gesso no museu da Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp"
+  alt: "As colunas em forma de árvore e o teto da Sagrada Família vistos de dentro"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "A nave central da Sagrada Família em direção ao altar, com as suas colunas altas"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

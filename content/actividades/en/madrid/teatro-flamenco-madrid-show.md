@@ -85,6 +85,20 @@ galeria:
   alt: "The full flamenco ensemble at Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Flamenco dance couple at Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade of the Royal Palace of Madrid"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Cibeles Fountain lit up at night"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "The Royal Palace of Madrid"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Almudena Cathedral lit up at nightfall"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

@@ -89,6 +89,8 @@ galeria:
   alt: Der beleuchtete Würfel bei Nacht
 - src: /images/actividades/malaga/pompidou/pompidou-07.webp
   alt: Der Pompidou-Würfel in der Sonne
+- src: "/images/actividades/malaga/pompidou/pompidou-pexels-37475646.webp"
+  alt: "Der bunte Würfel des Centre Pompidou Málaga"
 ratingProveedor: 4.2
 numeroOpiniones: 734
 atraccionesRelacionadas:

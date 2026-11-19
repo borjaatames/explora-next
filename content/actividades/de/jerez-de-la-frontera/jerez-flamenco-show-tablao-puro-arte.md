@@ -78,6 +78,12 @@ galeria:
   alt: "Flamencotänzerin auf der Bühne von Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Eingang von Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Von Palmen gesäumte Gärten neben dem Palast der Königlichen Reitschule in Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp"
+  alt: "Eingangstor des Alcázar von Jerez in der almohadischen Mauer"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+  alt: "Eingang zum Alcázar von Jerez"
 ratingProveedor: 4.6
 numeroOpiniones: 348
 atraccionesRelacionadas:

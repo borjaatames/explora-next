@@ -95,6 +95,8 @@ galeria:
   alt: "Céu avermelhado refletido no lago da Albufera depois do pôr do sol"
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
   alt: "Canal com barcos tradicionais ao anoitecer na Albufera"
+- src: "/images/actividades/valencia/albufera/albufera-wikimedia-02.webp"
+  alt: "Barco atracado entre os caniços da Albufera"
 avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 

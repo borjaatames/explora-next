@@ -92,6 +92,8 @@ galeria:
   alt: 'Vélos près de la place de l''Hôtel-de-Ville'
 - src: /images/actividades/valencia/bici-tour/bicis-calle-centro.webp
   alt: 'Vélos dans une rue du centre de Valence'
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp"
+  alt: "La Cité des Arts et des Sciences qui se reflète dans l’eau"
 ratingProveedor: 4.7
 numeroOpiniones: 2474
 publicada: true

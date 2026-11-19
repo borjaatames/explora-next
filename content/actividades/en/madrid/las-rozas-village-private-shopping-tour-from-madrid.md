@@ -78,6 +78,8 @@ galeria:
   alt: The driver opening the door for a customer
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Customer with shopping bags at Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Restaurant terrace at Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

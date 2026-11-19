@@ -78,6 +78,12 @@ galeria:
   alt: "Barche a vela nel porto al crepuscolo"
 - src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
   alt: "Bompresso di un veliero nel porto di Barcellona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-39648311.webp"
+  alt: "Catamarano a vela al largo di Barcellona"
+- src: "/images/actividades/barcelona/barcos-2/velero-pixabay-7467760.webp"
+  alt: "Barche a vela nel porto di Barcellona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-wikimedia-01.webp"
+  alt: "Barche al Port Vell con la torre della funivia del porto"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

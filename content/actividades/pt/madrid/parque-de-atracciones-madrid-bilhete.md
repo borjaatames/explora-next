@@ -87,6 +87,10 @@ galeria:
   alt: Atração Zeppelin do Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
   alt: Diversão infantil na Nickelodeon Land
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "O letreiro néon do Tío Pepe na Puerta del Sol ao entardecer"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada ao anoitecer"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

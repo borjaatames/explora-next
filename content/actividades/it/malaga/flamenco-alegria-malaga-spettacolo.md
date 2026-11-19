@@ -88,6 +88,12 @@ galeria:
   alt: "Ballerina di flamenco sul palco di Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Chitarra e canto dal vivo a Alegría Flamenco"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "Il Teatro Romano di Málaga con l'Alcazaba alle spalle"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "L'arena di La Malagueta di fronte al mare"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Vista dell'Alcazaba di Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

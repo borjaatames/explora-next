@@ -90,6 +90,10 @@ galeria:
   alt: 'Monument en bronze devant les arènes de Las Ventas'
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Porte principale de Las Ventas'
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue de Philippe III et Casa de la Panadería sur la Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'enseigne lumineuse Tío Pepe à la Puerta del Sol au crépuscule"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

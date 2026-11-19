@@ -74,6 +74,12 @@ galeria:
   alt: "Guitarristas e cantores no palco"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "O palco do Tablao Las Setas iluminado de vermelho"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Ruela do bairro de Santa Cruz, em Sevilha"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "A Giralda vista das muralhas do Real Alcázar"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arcadas da Plaza de España com os seus bancos de azulejo"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -67,6 +67,18 @@ imagenAlt: "Il gruppo di flamenco al completo a Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "La sala di Pura Esencia"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Il porticato di Plaza de España con le panchine di azulejos"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Vicolo del quartiere di Santa Cruz, Siviglia"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facciata del Palazzo di Pietro I nel Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Cattedrale e la Giralda di Siviglia"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Le curve delle Setas contro il cielo azzurro"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Il Real Alcázar di Siviglia"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

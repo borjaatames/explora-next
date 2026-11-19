@@ -74,6 +74,14 @@ galeria:
   alt: "Danseuse de flamenco et cavalier pendant un spectacle équestre"
 - src: "/images/actividades/malaga/caballos/caballos-andaluces-wikimedia-05.webp"
   alt: "Cavaliers et chevaux gris dans une piste illuminée"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-02.webp"
+  alt: "Cavaliers sur la piste au coucher du soleil"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-01.webp"
+  alt: "Danseuse de flamenco et cavalier dans un spectacle équestre"
+- src: "/images/actividades/malaga/caballos/caballos-pexels-37392094.webp"
+  alt: "Calèches décorées lors d'une feria andalouse"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-04.webp"
+  alt: "Cheval andalou dans un spectacle nocturne"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

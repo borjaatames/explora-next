@@ -73,6 +73,12 @@ galeria:
   alt: 'Village with a castle in the hills'
 - src: https://imgcdn.bokun.tools/44b3370f-e9ac-4afd-b278-378f33a73899.jpg
   alt: 'Wall and arch of the Gormaz fortress'
+- src: "https://imgcdn.bokun.tools/fb9362de-351c-4e7e-b455-ad6f867b94eb.jpg"
+  alt: "Romanesque stone church on the route of El Cid"
+- src: "https://imgcdn.bokun.tools/97eca6ce-f66c-43d2-b1e5-cb5f6f008087.jpg"
+  alt: "Walls of Gormaz castle above the valley"
+- src: "https://imgcdn.bokun.tools/ae7f5a34-2401-4b85-86b7-57f4f7fc1c7a.jpg"
+  alt: "Remains of medieval walls on the route of El Cid"
 publicada: true
 indexar: false
 destacada: false

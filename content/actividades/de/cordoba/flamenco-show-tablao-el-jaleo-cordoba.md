@@ -77,6 +77,14 @@ galeria:
   alt: "Flamenco-Tanzpaar in El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "Der Saal von El Jaleo"
+- src: "/images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp"
+  alt: "Teich und Blumen in den Gärten des Alcázar de los Reyes Cristianos"
+- src: "/images/actividades/cordoba/patios/patio-arcos.webp"
+  alt: "Innenhof mit Bögen und Blumen in Córdoba"
+- src: "/images/actividades/cordoba/juderia/alcazar-jardines.webp"
+  alt: "Gärten des Alcázar de los Reyes Cristianos"
+- src: "/images/actividades/cordoba/mezquita/arcos-perspectiva.webp"
+  alt: "Perspektive der rot-weißen Bögen"
 ratingProveedor: 4.7
 numeroOpiniones: 231
 atraccionesRelacionadas:

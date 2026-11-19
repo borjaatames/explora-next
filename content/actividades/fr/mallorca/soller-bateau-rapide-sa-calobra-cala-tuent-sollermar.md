@@ -78,6 +78,8 @@ galeria:
   alt: "Vue du port de Sóller avec les montagnes de la Tramuntana"
 - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
   alt: "La baie du port de Sóller, d'où part le bateau"
+- src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
+  alt: "Sentier dans les gorges de Sa Calobra"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

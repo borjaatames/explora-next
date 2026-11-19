@@ -87,6 +87,10 @@ galeria:
   alt: Attrazione Zeppelin del Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
   alt: Giostra per bambini nella Nickelodeon Land
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, una via di bar nel Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "La Real Casa de Correos in Puerta del Sol di notte"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

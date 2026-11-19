@@ -73,6 +73,14 @@ galeria:
   alt: "Visita guiada a Medina Azahara"
 - src: "/images/actividades/cordoba/medina-azahara/ruinas-casas.webp"
   alt: "Restos de viviendas de Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-cordoba-hero.webp"
+  alt: "Ruinas del palacio califal de Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/decoracion-ataurique.webp"
+  alt: "Decoración de ataurique en Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/vista-ruinas.webp"
+  alt: "Vista de las ruinas de Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/entrada-salon-rico.webp"
+  alt: "Entrada al Salón Rico"
 bokunProductId: 396290
 bokunPedirPersonas: true
 ---

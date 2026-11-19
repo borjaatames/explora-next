@@ -90,6 +90,10 @@ galeria:
   alt: 'Monumento in bronzo davanti all''arena di Las Ventas'
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Porta principale di Las Ventas'
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontana di Cibeles illuminata di notte"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao e la Gran Vía di notte"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

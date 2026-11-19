@@ -88,6 +88,18 @@ galeria:
   alt: "Flamenco dancer on stage at Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Live guitar and singing at Alegría Flamenco"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Málaga Cathedral, near the Picasso Museum"
+- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
+  alt: "Muelle Uno in the port of Málaga"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "Málaga's Roman Theatre with the Alcazaba behind"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "La Malagueta bullring by the sea"
+- src: "/images/actividades/malaga/catedral-malaga/coro.webp"
+  alt: "Carved wooden choir of Málaga Cathedral"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Alcazaba and Gibralfaro in Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

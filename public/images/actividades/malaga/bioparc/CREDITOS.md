@@ -11,3 +11,4 @@
 | bioparc-07.webp | Wikimedia Commons | Anneli Salo · File:Casuarius casuarius - Kypäräkasuaari, Southern Cassowary, Hjälmkasuar IMG 1555 C.JPG | CC BY-SA 3.0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--bioparc\` (23 oct 2026).
+| bioparc-wikimedia-01.webp | Wikimedia Commons | Tuxyso | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Stumpfkrokodil_Bioparc_Fuengirola_01_2014.jpg |

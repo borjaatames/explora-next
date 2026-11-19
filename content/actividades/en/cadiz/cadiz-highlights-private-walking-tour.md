@@ -74,6 +74,10 @@ galeria:
   alt: 'Cádiz waterfront at sunset'
 - src: https://imgcdn.bokun.tools/3afc693f-3060-402c-bbf3-49bdab034309.png
   alt: 'Street in the Pópulo quarter'
+- src: "/images/actividades/cadiz/centro/monumento-1812.webp"
+  alt: "Monument to the Constitution of 1812"
+- src: "/images/actividades/cadiz/centro/plaza-flores.webp"
+  alt: "Café terraces on a street in central Cádiz"
 publicada: true
 indexar: false
 destacada: false

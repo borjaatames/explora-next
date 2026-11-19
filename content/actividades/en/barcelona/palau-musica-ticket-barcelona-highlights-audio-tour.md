@@ -74,6 +74,10 @@ galeria:
   alt: Stained-glass skylight over the Palau de la Música concert hall
 - src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-mosaic-hero.webp
   alt: Mosaic columns on the Palau façade
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
+  alt: "Palau stalls seen from the upper circle"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Archaeological remains of 1714 Barcelona beneath the old Born market structure"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

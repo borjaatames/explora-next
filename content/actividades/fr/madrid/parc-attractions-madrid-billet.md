@@ -85,6 +85,10 @@ galeria:
   alt: L’attraction Zeppelin du Parque de Atracciones de Madrid
 - src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
   alt: Attraction pour enfants Padrinos Voladores à Nickelodeon Land
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'enseigne lumineuse Tío Pepe à la Puerta del Sol au crépuscule"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue de Philippe III et Casa de la Panadería sur la Plaza Mayor"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

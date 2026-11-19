@@ -60,16 +60,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/c3e94c34-cc9a-4b0a-b7e3-b9f25e5d19c7.jpg
 imagenAlt: "Ciclista por un paseo junto al agua"
 galeria:
-- src: https://imgcdn.bokun.tools/f7603a00-df7d-438b-a253-dcea083492dc.jpg
+- src: "https://imgcdn.bokun.tools/f7603a00-df7d-438b-a253-dcea083492dc.jpg"
   alt: "Amigos con bicis en el paseo marítimo"
-- src: https://imgcdn.bokun.tools/0e7c7685-93ae-4ecf-b614-8eca58ba90a2.jpg
+- src: "https://imgcdn.bokun.tools/0e7c7685-93ae-4ecf-b614-8eca58ba90a2.jpg"
   alt: "Pareja en bicicleta eléctrica por Barcelona"
-- src: https://imgcdn.bokun.tools/22e8ac29-2051-4b42-9d64-c5905041efcd.jpg
+- src: "https://imgcdn.bokun.tools/22e8ac29-2051-4b42-9d64-c5905041efcd.jpg"
   alt: "Banco de mosaico y pabellones del Park Güell sobre Barcelona"
-- src: https://imgcdn.bokun.tools/9bb62371-e105-485d-a421-153fd18ddac8.jpg
+- src: "https://imgcdn.bokun.tools/9bb62371-e105-485d-a421-153fd18ddac8.jpg"
   alt: "La Sagrada Família vista desde el parque"
-- src: https://imgcdn.bokun.tools/748bff59-585d-4b2e-b638-ae07187b11ad.jpg
+- src: "https://imgcdn.bokun.tools/748bff59-585d-4b2e-b638-ae07187b11ad.jpg"
   alt: "Catedral de Barcelona al atardecer"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional de Montjuïc, sede del MNAC"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Mirador de Colón y muelle del Port Vell de Barcelona"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
 publicada: true
 indexar: false
 destacada: false

@@ -79,6 +79,8 @@ galeria:
   alt: "Viaduc de pierre entre les palmiers du Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
   alt: "Vue sur Barcelone depuis les jardins du Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero.webp"
+  alt: "Le banc serpentin en trencadís du Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

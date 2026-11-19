@@ -77,6 +77,8 @@ galeria:
   alt: "Ruelle du quartier gothique avec ses balcons"
 - src: "/images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp"
   alt: "Le portail principal de la cathédrale de Barcelone"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Le Port Vell et le monument à Christophe Colomb"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -91,6 +91,8 @@ galeria:
   alt: "Festa de passagem de ano Los Patos em Barcelona"
 - src: https://imgcdn.bokun.tools/3572b6b0-8621-4890-851b-3424f079690d.jpeg
   alt: "Festa de passagem de ano Los Patos em Barcelona"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Telhados de Barcelona ao pôr do sol com a Sagrada Família e o Tibidabo"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

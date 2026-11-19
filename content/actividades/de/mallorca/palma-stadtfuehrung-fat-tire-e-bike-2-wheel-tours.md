@@ -77,6 +77,10 @@ galeria:
   alt: "Die Kathedrale von Palma über der Stadtmauer am Meer"
 - src: "/images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp"
   alt: "Promenade am Becken vor der Kathedrale von Palma"
+- src: "/images/actividades/mallorca/catedral-palma/nave-interior.webp"
+  alt: "Mittelschiff der Kathedrale von Palma mit der Rosette"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Gaudís Baldachin über dem Hauptaltar von La Seu"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -99,6 +99,8 @@ galeria:
   alt: 'Der Albaicín von den Gärten der Alhambra aus gesehen'
 - src: /images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp
   alt: 'Die Alhambra im Licht der Nachmittagssonne'
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "Die Alhambra vom Aussichtspunkt San Nicolás aus"
 ratingProveedor: 4.8
 numeroOpiniones: 788
 atraccionesRelacionadas:

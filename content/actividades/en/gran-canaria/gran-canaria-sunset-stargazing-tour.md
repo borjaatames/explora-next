@@ -85,18 +85,22 @@ keywords:
 imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Sunset from Pico de las Nieves with Roque Nublo and Bentayga
 galeria:
-- src: /images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp
+- src: "/images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp"
   alt: "Mountain silhouettes at sunset in Gran Canaria"
-- src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
-  alt: The Milky Way over a windmill in Gran Canaria
-- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
-  alt: Sunset by Roque Nublo
-- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: Sunset above the clouds from the summits
-- src: /images/actividades/gran-canaria/estrellas/atardecer-calima.webp
-  alt: Sunset with Roque Nublo and Teide
-- src: /images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp
-  alt: Last light on Gran Canaria's summits
+- src: "/images/actividades/gran-canaria/estrellas/via-lactea-molino.webp"
+  alt: "The Milky Way over a windmill in Gran Canaria"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp"
+  alt: "Sunset by Roque Nublo"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp"
+  alt: "Sunset above the clouds from the summits"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-calima.webp"
+  alt: "Sunset with Roque Nublo and Teide"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp"
+  alt: "Last light on Gran Canaria's summits"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
+  alt: "Almond trees in blossom in front of Roque Bentayga, in Tejeda"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp"
+  alt: "The port of Las Palmas seen from above, between palm leaves"
 ratingProveedor: 4.8
 numeroOpiniones: 302
 atraccionesRelacionadas:

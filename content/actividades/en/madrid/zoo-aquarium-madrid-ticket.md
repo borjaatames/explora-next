@@ -83,6 +83,8 @@ galeria:
   alt: Hippopotamus at Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
   alt: Lake and bird area at Zoo Aquarium de Madrid
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-aquarium-wikimedia-01.webp"
+  alt: "Panda eating bamboo at Madrid Zoo"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas:

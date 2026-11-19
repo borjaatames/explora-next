@@ -78,6 +78,8 @@ galeria:
   alt: Le chauffeur ouvre la porte à une cliente
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Cliente avec des sacs à Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Terrasse d'un restaurant à Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -87,6 +87,8 @@ galeria:
   alt: "Les tours de la Sagrada Família sur fond de ciel bleu"
 - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
   alt: "La Casa Batlló illuminée la nuit sur le Passeig de Gràcia"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-gaudi-barcelona-spain-img-5380a-hero.webp"
+  alt: "Les fenêtres ondulées de l'étage noble de la Casa Batlló"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

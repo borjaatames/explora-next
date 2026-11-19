@@ -81,6 +81,8 @@ galeria:
   alt: "Plafond décoré et vitraux latéraux du Palau"
 - src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
   alt: "Parterre du Palau vu depuis le balcon"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp"
+  alt: "Visiteurs dans les loges du Palau de la Música"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

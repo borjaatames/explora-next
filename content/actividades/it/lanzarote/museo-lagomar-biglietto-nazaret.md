@@ -89,6 +89,8 @@ galeria:
   alt: "Giardino con palme e cactus accanto alla roccia a LagOmar"
 - src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
   alt: "Muri bianchi e piante sulla roccia a LagOmar"
+- src: "/images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp"
+  alt: "Paesaggio del Parco Nazionale di Timanfaya con il mare sullo sfondo"
 ---
 
 ## Cosa vedrai

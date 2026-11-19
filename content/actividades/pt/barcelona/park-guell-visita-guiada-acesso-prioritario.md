@@ -77,6 +77,14 @@ galeria:
   alt: "Vista de Barcelona a partir do Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "Vista de Barcelona a partir do Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp"
+  alt: "Medalhão de mosaico no teto da Sala Hipóstila"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+  alt: "O pavilhão de conto de fadas à entrada do Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-spain-landmark-hero.webp"
+  alt: "A escadaria e a Sala Hipóstila do Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
+  alt: "Vistas de Barcelona desde os jardins do Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

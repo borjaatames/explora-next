@@ -74,6 +74,12 @@ galeria:
   alt: "Guitaristes et chanteurs sur scène"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "La scène du Tablao Las Setas éclairée en rouge"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "La Plaza de España se reflétant dans le canal"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Façade du palais de Pierre Ier au Real Alcázar de Séville"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Ruelle du quartier de Santa Cruz, Séville"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

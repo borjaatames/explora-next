@@ -74,6 +74,12 @@ galeria:
   alt: "Yeserías de la Sinagoga de Córdoba"
 - src: "/images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp"
   alt: "Jardines del Alcázar de los Reyes Cristianos"
+- src: "/images/actividades/cordoba/juderia/calleja-flores.webp"
+  alt: "Calleja de las Flores con la torre de la Mezquita al fondo"
+- src: "/images/actividades/cordoba/juderia/juderia-cordoba-calleja-hero.webp"
+  alt: "Calleja de la Judería de Córdoba"
+- src: "/images/actividades/cordoba/juderia/calle-juderia.webp"
+  alt: "Judería de Córdoba, a pocos pasos del tablao"
 bokunProductId: 396288
 bokunPedirPersonas: true
 ---

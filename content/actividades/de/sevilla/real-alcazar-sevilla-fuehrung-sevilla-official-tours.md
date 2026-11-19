@@ -78,6 +78,8 @@ galeria:
   alt: "Der Real Alcázar von Sevilla"
 - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
   alt: "Die Kathedrale und die Giralda von Sevilla"
+- src: "/images/actividades/sevilla/wikimedia/sevilla-casa-pilatos-05.webp"
+  alt: "Mudéjar-Bögen und klassische Statue"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -80,6 +80,10 @@ galeria:
   alt: Façade gothique de la basilique Santa Maria del Mar, à El Born
 - src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
   alt: Nef gothique de Santa Maria del Mar avec la rosace au fond
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+  alt: "Cour du palais qui abrite le Museu Picasso"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp"
+  alt: "L'intérieur de la cathédrale de Barcelone, avec le chœur et la rosace"
 atraccionesRelacionadas:
 - gotico
 publicada: true

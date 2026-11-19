@@ -75,6 +75,12 @@ galeria:
   alt: "Segelboote im Hafen von Barcelona"
 - src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-11479765.webp"
   alt: "Segelboot bei Sonnenuntergang auf dem Meer"
+- src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
+  alt: "Bugspriet eines Segelschiffs im Hafen von Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
+  alt: "Strand von Barcelona mit Palmen in der Abenddämmerung"
+- src: "/images/actividades/barcelona/barcos-2/velero-pixabay-7467760.webp"
+  alt: "Segelboote im Hafen von Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

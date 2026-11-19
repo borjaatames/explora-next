@@ -79,6 +79,8 @@ galeria:
   alt: "Interno della Cattedrale di Siviglia"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
   alt: "Facciata del Palazzo di Pietro I nel Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/wikimedia/sevilla-duenas-03.webp"
+  alt: "Aranci nel giardino del Palacio de las Dueñas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

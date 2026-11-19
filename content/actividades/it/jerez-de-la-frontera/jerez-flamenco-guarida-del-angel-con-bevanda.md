@@ -86,6 +86,12 @@ galeria:
   alt: "Chitarra e canto dal vivo a La Guarida del Ángel"
 - src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
   alt: "Ballerina di flamenco sul palco di La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+  alt: "Ingresso all'Alcázar di Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-blanco-levada.webp"
+  alt: "Cavallo bianco sollevato sulle zampe posteriori"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Cavallo andaluso grigio montato da un cavaliere in traje corto"
 ---
 
 ## Cosa vedrai

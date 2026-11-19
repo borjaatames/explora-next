@@ -77,6 +77,16 @@ galeria:
   alt: "A costa de Maiorca vista do ar"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-37068618.webp"
   alt: "Falésias e mar no leste de Maiorca vistos de cima"
+- src: "/images/actividades/mallorca/globo/globo-pexels-19326083.webp"
+  alt: "Balões de ar quente coloridos no céu"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Helicóptero a voar junto a uma parede de rocha"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-29874104.webp"
+  alt: "Vila de Maiorca entre montanhas vista do ar"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-8297680.webp"
+  alt: "Costa rochosa no norte de Maiorca"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Igreja da Real Cartuxa de Valldemossa"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

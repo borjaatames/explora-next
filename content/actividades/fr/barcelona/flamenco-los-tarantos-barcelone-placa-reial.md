@@ -71,6 +71,14 @@ galeria:
   alt: "Guitare et chant en direct à Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Danseur de flamenco sur la scène de Los Tarantos"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Le Port Vell et le monument à Christophe Colomb"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla et ses arbres"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Le Palau Nacional sur Montjuïc, siège du MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Ruelle étroite avec balcons dans la vieille ville de Barcelone"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

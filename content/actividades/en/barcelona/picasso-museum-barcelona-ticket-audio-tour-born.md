@@ -70,16 +70,22 @@ keywords:
 imagen: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
 imagenAlt: Palace façades on Carrer Montcada
 galeria:
-- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
-  alt: Entrance courtyard of one of the Picasso Museum palaces
-- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
-  alt: Carrer Montcada in the Born district
-- src: /images/actividades/barcelona/born/born-ccm-ruinas.webp
-  alt: Archaeological remains of 1714 Barcelona beneath the old Born market structure
-- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
-  alt: Gothic façade of the Basilica of Santa Maria del Mar, in El Born
-- src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
-  alt: Gothic nave of Santa Maria del Mar with the rose window at the end
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+  alt: "Entrance courtyard of one of the Picasso Museum palaces"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp"
+  alt: "Carrer Montcada in the Born district"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Archaeological remains of 1714 Barcelona beneath the old Born market structure"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
+  alt: "Gothic façade of the Basilica of Santa Maria del Mar, in El Born"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-interior.webp"
+  alt: "Gothic nave of Santa Maria del Mar with the rose window at the end"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp"
+  alt: "Sculptures on the doorway of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+  alt: "Courtyard of the palace housing the Museu Picasso"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp"
+  alt: "Interior of Barcelona Cathedral with the choir and rose window"
 atraccionesRelacionadas:
 - gotico
 publicada: true

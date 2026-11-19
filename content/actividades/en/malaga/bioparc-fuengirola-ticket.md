@@ -82,6 +82,8 @@ galeria:
   alt: Baobab in Bioparc's African habitat
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Blue-plumed bird at Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Dwarf crocodile at Bioparc Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

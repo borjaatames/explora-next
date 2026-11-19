@@ -75,6 +75,10 @@ galeria:
   alt: The Alhambra at sunset with Sierra Nevada behind
 - src: /images/actividades/granada/alhambra/alhambra-granada-evening-hero.webp
   alt: The Alhambra at dusk from the Albaicín
+- src: "/images/actividades/granada/alhambra/pexels-30359817-hero.webp"
+  alt: "Detail of the muqarnas and Arabic calligraphy at the Alhambra in Granada"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero.webp"
+  alt: "Courtyard with water and plants in the Generalife"
 atraccionesRelacionadas:
 - alhambra
 publicada: true

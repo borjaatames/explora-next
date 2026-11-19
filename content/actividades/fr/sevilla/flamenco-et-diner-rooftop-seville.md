@@ -73,6 +73,14 @@ galeria:
   alt: "Les toits de Séville avec la cathédrale au premier plan"
 - src: "/images/actividades/sevilla/azotea/azotea-atardecer-unsplash-2cedlkdgeq4.webp"
   alt: "La Giralda et la cathédrale illuminées la nuit"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Façade de la cathédrale de Séville entre les palmiers"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Maisons colorées de Triana au bord du Guadalquivir"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La cathédrale et la Giralda de Séville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Le Real Alcázar de Séville"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

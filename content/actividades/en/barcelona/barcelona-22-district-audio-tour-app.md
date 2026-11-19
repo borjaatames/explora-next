@@ -64,12 +64,24 @@ keywords:
 imagen: /images/actividades/barcelona/vistas/eixample-desde-arriba.webp
 imagenAlt: Eixample blocks of Barcelona seen from above
 galeria:
-- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
-  alt: Barcelona rooftops at sunset with the Sagrada Família and Tibidabo
-- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
-  alt: Ciutat Vella rooftops and bell towers seen from a rooftop
-- src: /images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp
-  alt: Rowing boats on the lake of the Parc de la Ciutadella, among palm trees
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp"
+  alt: "Ciutat Vella rooftops and bell towers seen from a rooftop"
+- src: "/images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp"
+  alt: "Rowing boats on the lake of the Parc de la Ciutadella, among palm trees"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Archaeological remains of 1714 Barcelona beneath the old Born market structure"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Narrow street in Barcelona's Gothic Quarter at dusk"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
 atraccionesRelacionadas:
 - otros-barcelona
 - tours-a-pie

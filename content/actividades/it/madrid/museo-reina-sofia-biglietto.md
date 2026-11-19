@@ -83,6 +83,10 @@ galeria:
   alt: 'Il Museo Reina Sofía a Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
   alt: 'Il Museo Reina Sofía a Madrid'
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La Cattedrale dell'Almudena illuminata al calar della notte"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, nel cuore del centro storico"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

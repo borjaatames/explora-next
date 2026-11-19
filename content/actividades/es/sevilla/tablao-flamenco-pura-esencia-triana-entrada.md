@@ -67,6 +67,22 @@ imagenAlt: "Cuadro flamenco al completo en Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "La sala de Pura Esencia"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Callejón del Agua en el barrio de Santa Cruz"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflejada en el canal"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada del Palacio de Pedro I en el Real Alcázar de Sevilla"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Casas de colores de Triana junto al río Guadalquivir"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "Torre del Oro junto al Guadalquivir"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Curvas de las Setas contra el cielo azul"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Arcos mudéjares del Palacio de Pedro I"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

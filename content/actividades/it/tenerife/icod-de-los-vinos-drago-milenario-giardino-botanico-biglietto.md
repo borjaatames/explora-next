@@ -74,6 +74,12 @@ galeria:
   alt: "Casa canaria con balcone in legno a Icod de los Vinos"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico e il suo faraglione"
+- src: "/images/actividades/tenerife/garachico/caleton-garachico.webp"
+  alt: "Le piscine naturali di El Caletón"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico e il suo scoglio davanti alla costa"
+- src: "/images/actividades/tenerife/garachico/garachico-wikimedia-05.webp"
+  alt: "Piazza e chiesa di Garachico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

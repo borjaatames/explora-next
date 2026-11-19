@@ -92,6 +92,8 @@ galeria:
   alt: 'A Casa Vicens vista da Carrer de les Carolines'
 - src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
   alt: 'Gradeamento com folhas de palmeira-anã da Casa Vicens'
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Catedral de Barcelona, no coração do Bairro Gótico"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

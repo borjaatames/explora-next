@@ -90,6 +90,8 @@ galeria:
   alt: Il muro della diga di Chira
 - src: /images/actividades/gran-canaria/jeep/cumbres-chira.webp
   alt: Le cime dell'interno vicino a Chira
+- src: "/images/actividades/gran-canaria/jeep/jeep-pexels-34527481.webp"
+  alt: "Montagne e burroni nell'interno di Gran Canaria"
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:

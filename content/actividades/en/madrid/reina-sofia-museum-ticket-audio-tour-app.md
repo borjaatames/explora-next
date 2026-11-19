@@ -68,12 +68,24 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
 imagenAlt: The Reina Sofía Museum in Madrid
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Glass lifts on the facade of the Reina Sofía Museum
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Glass lift tower of the Reina Sofía from a nearby street
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
+  alt: "Glass lifts on the facade of the Reina Sofía Museum"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp"
+  alt: "Facade of the Reina Sofía Museum on Plaza de Juan Goytisolo, Madrid"
+- src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
+  alt: "Glass lift tower of the Reina Sofía from a nearby street"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "The Reina Sofía Museum in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "The Royal Palace of Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facade of the Prado Museum on the Paseo del Arte, Madrid"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

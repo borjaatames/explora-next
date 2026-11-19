@@ -78,6 +78,10 @@ galeria:
   alt: "Vue sur Barcelone depuis les jardins du Park Güell"
 - src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
   alt: "Le jardin et l'entrée de la maison-musée Gaudí"
+- src: "/images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp"
+  alt: "Chemin sous le viaduc de pierre du Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp"
+  alt: "Portiques en pierre et escalier du parc Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

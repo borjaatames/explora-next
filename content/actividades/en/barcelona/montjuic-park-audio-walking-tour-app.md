@@ -74,6 +74,10 @@ galeria:
   alt: Barcelona seen from the steps of the Palau Nacional (MNAC)
 - src: /images/actividades/barcelona/montjuic/pixabay-4841320-hero.webp
   alt: Palau Nacional viewpoint on Montjuïc overlooking Barcelona
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
 atraccionesRelacionadas:
 - parques
 - tours-a-pie

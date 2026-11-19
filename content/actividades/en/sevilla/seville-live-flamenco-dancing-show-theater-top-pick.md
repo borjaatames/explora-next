@@ -112,6 +112,10 @@ galeria:
   alt: Old-town street lit at night with lantern lights
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: "Flamenco show at Teatro Flamenco Sevilla"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Seville Cathedral façade among palm trees"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflected in the canal"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

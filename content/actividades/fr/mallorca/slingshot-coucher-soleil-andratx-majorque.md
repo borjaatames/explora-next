@@ -77,6 +77,12 @@ galeria:
   alt: "La baie de Port d'Andratx"
 - src: "/images/actividades/mallorca/andratx/andratx-formula-wikimedia-05.webp"
   alt: "Phare à l'entrée du port de Port d'Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-pexels-7391756.webp"
+  alt: "Collines et mer autour d'Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-wikimedia-04.webp"
+  alt: "Bateaux amarrés à Port d'Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-wikimedia-06.webp"
+  alt: "La baie de Port d'Andratx sous les nuages"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

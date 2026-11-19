@@ -74,6 +74,14 @@ galeria:
   alt: "Flamencotänzerin und Reiter in einer Reitshow"
 - src: "/images/actividades/malaga/caballos/caballos-andaluces-wikimedia-05.webp"
   alt: "Reiter mit Schimmeln in der beleuchteten Arena"
+- src: "/images/actividades/malaga/caballos/caballos-pexels-37392094.webp"
+  alt: "Geschmückte Pferdekutschen auf einer andalusischen Feria"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-01.webp"
+  alt: "Flamencotänzerin und Reiter in einer Reitshow"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-04.webp"
+  alt: "Andalusisches Pferd in einer Nachtshow"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-02.webp"
+  alt: "Reiter in der Arena bei Sonnenuntergang"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

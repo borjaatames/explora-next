@@ -69,6 +69,8 @@ galeria:
   alt: 'Il Museo Reina Sofía a Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
   alt: 'Il Museo Reina Sofía a Madrid'
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Il Museo Reina Sofía a Madrid"
 publicada: true
 destacada: false
 fecha: '2026-10-07'

@@ -74,6 +74,10 @@ galeria:
   alt: The Setas of La Encarnación
 - src: /images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-20180719-2-jpg-04.webp
   alt: Las Setas at La Encarnación, a few minutes' walk away
+- src: "/images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-2019-3-jpg-05.webp"
+  alt: "Walkways of the Las Setas viewpoint"
+- src: "/images/actividades/sevilla/setas/setas-wikimedia-metropol-parasol-plaza-de-la-encarnaci-n-02.webp"
+  alt: "Wooden structure of Las Setas on Plaza de la Encarnación"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

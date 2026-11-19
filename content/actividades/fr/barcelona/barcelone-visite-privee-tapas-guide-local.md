@@ -70,6 +70,8 @@ galeria:
   alt: 'Tapas au jambon et un verre de bière'
 - src: https://imgcdn.bokun.tools/2ec8c2a3-305d-483e-8efe-612a9b02e6f7.jpg
   alt: 'Table de tapas variées et bière'
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Ruelle du quartier gothique avec ses balcons"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

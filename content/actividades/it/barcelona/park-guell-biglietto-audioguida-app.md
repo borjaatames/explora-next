@@ -81,6 +81,10 @@ galeria:
   alt: Dettaglio di mosaico nel Park Güell
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
   alt: Il padiglione d'ingresso del Park Güell
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero.webp"
+  alt: "La scalinata del drago e la Sala Ipostila del Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-view-garden-palm-trees-background-hero.webp"
+  alt: "Il viadotto in pietra tra le palme del Park Güell"
 atraccionesRelacionadas:
 - park-guell
 publicada: true

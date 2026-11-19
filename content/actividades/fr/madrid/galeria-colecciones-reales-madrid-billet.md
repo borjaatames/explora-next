@@ -75,6 +75,12 @@ galeria:
   alt: "Tableau de la Renaissance des collections royales"
 - src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-06.webp"
   alt: "Détail d'un tableau avec des animaux dans la galerie"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-7943963.webp"
+  alt: "Statue équestre de Philippe IV sur la plaza de Oriente"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-04.webp"
+  alt: "Façade moderne de la Galería de las Colecciones Reales"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-3462249.webp"
+  alt: "Palais royal de Madrid à côté de la Galería de las Colecciones Reales"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

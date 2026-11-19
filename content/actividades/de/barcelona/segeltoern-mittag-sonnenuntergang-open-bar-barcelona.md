@@ -78,6 +78,12 @@ galeria:
   alt: "Segelboote im Hafen in der Abenddämmerung"
 - src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
   alt: "Bugspriet eines Segelschiffs im Hafen von Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-wikimedia-01.webp"
+  alt: "Ausflugsboote im Port Vell mit dem Turm der Hafenseilbahn"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-39648311.webp"
+  alt: "Katamaran unter Segeln vor Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-27540367.webp"
+  alt: "Segelboot bei Sonnenuntergang vor Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

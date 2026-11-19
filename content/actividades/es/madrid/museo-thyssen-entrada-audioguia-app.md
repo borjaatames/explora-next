@@ -74,6 +74,10 @@ galeria:
   alt: Placa de entrada del Museo Thyssen-Bornemisza
 - src: /images/actividades/madrid/thyssen/thyssen-sala-bodegon-hero.webp
   alt: Sala de bodegones
+- src: "/images/actividades/madrid/thyssen/thyssen-fachada-villahermosa-hero.webp"
+  alt: "Palacio de Villahermosa, sede del Museo Thyssen-Bornemisza en Madrid"
+- src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-03-hero.webp"
+  alt: "Sala de la colección permanente del Thyssen"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

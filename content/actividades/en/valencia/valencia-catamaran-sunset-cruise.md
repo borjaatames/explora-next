@@ -81,18 +81,22 @@ keywords:
 imagen: /images/actividades/valencia/mar/catamaran-boramar.webp
 imagenAlt: Catamaran moored in Valencia harbour
 galeria:
-- src: /images/actividades/valencia/mar/bocana-puerto.webp
-  alt: North entrance of Valencia harbour
-- src: /images/actividades/valencia/mar/luna-atardecer.webp
-  alt: Moon over the Valencia coast at sunset
-- src: /images/actividades/valencia/mar/veles-e-vents-atardecer.webp
-  alt: Veles e Vents in Valencia harbour
-- src: /images/actividades/valencia/mar/veles-e-vents.webp
-  alt: The Veles e Vents building in Valencia's Marina
-- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
-  alt: Boats on Cabanyal beach at sunset
-- src: /images/actividades/valencia/mar/arenas-orilla.webp
-  alt: Sunlight on the sea at Las Arenas beach
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "North entrance of Valencia harbour"
+- src: "/images/actividades/valencia/mar/luna-atardecer.webp"
+  alt: "Moon over the Valencia coast at sunset"
+- src: "/images/actividades/valencia/mar/veles-e-vents-atardecer.webp"
+  alt: "Veles e Vents in Valencia harbour"
+- src: "/images/actividades/valencia/mar/veles-e-vents.webp"
+  alt: "The Veles e Vents building in Valencia's Marina"
+- src: "/images/actividades/valencia/mar/cabanyal-barcas.webp"
+  alt: "Boats on Cabanyal beach at sunset"
+- src: "/images/actividades/valencia/mar/arenas-orilla.webp"
+  alt: "Sunlight on the sea at Las Arenas beach"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Door of Valencia Cathedral in the old town"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Symmetrical modern architecture at the City of Arts and Sciences"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

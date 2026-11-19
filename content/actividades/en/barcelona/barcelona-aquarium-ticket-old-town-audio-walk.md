@@ -74,6 +74,10 @@ galeria:
   alt: Oceanarium tunnel at L'Aquàrium de Barcelona
 - src: /images/actividades/barcelona/aquarium/tunel-submarino-pasarela.webp
   alt: Underwater tunnel at the Aquàrium de Barcelona
+- src: "/images/actividades/barcelona/aquarium/visitantes-oceanario.webp"
+  alt: "Visitors in front of the main Oceanarium tank"
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Lit tank at the Aquàrium de Barcelona"
 atraccionesRelacionadas:
 - mar
 publicada: true

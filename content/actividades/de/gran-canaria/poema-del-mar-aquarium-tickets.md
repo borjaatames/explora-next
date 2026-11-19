@@ -88,6 +88,8 @@ galeria:
   alt: 'Las Palmas de Gran Canaria und der Strand Las Canteras'
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
   alt: 'Hafen von Las Palmas de Gran Canaria zwischen Palmen'
+- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
+  alt: "Teich zwischen Palmen in den Dünen von Maspalomas"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

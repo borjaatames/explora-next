@@ -62,16 +62,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7cfdadfb-abed-4914-8e8d-85ecfadf3035.jpg
 imagenAlt: "Amigas brindando con vino en un bar de tapas"
 galeria:
-- src: https://imgcdn.bokun.tools/d1091ee1-3bc4-4c04-8ee5-5026d9b2c1dd.jpg
+- src: "https://imgcdn.bokun.tools/d1091ee1-3bc4-4c04-8ee5-5026d9b2c1dd.jpg"
   alt: "Mujer probando una tapa en una terraza"
-- src: https://imgcdn.bokun.tools/85562141-05e1-4692-897f-683d11f92503.jpg
+- src: "https://imgcdn.bokun.tools/85562141-05e1-4692-897f-683d11f92503.jpg"
   alt: "Patatas bravas con alioli"
-- src: https://imgcdn.bokun.tools/5dfef8ab-4e3a-4ac5-abe4-a44229e86a16.jpg
+- src: "https://imgcdn.bokun.tools/5dfef8ab-4e3a-4ac5-abe4-a44229e86a16.jpg"
   alt: "Familia tomando tapas y cerveza en una terraza"
-- src: https://imgcdn.bokun.tools/6429daa4-c5c4-4ce1-a7a3-c1441953a1ee.jpg
+- src: "https://imgcdn.bokun.tools/6429daa4-c5c4-4ce1-a7a3-c1441953a1ee.jpg"
   alt: "Pincho de tortilla con tomate"
-- src: https://imgcdn.bokun.tools/d8574eb9-efd0-4ab0-96da-cba6544fba4b.jpg
+- src: "https://imgcdn.bokun.tools/d8574eb9-efd0-4ab0-96da-cba6544fba4b.jpg"
   alt: "Pareja con vino tinto en una terraza"
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "Bocana norte del puerto de Valencia"
+- src: "/images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp"
+  alt: "Paseo arbolado en el jardín del Turia"
+- src: "/images/actividades/valencia/mar/cabanyal-barcas.webp"
+  alt: "Barcas sobre la arena de la playa del Cabanyal al atardecer"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Puerta de la Catedral de Valencia, centro histórico"
 publicada: true
 indexar: false
 destacada: false

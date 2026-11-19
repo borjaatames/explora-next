@@ -112,6 +112,10 @@ galeria:
   alt: Rua do centro iluminada à noite com lanternas de luzes
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: Espetáculo de flamenco no Teatro Flamenco de Sevilha
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Ruela do bairro de Santa Cruz, em Sevilha"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Casas coloridas de Triana junto ao Guadalquivir"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

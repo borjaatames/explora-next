@@ -71,6 +71,20 @@ galeria:
   alt: "Bailaor en el escenario de El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Bailaora en el escenario de El Duende"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Fachada gótica de la Catedral de Barcelona"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Mirador de Colón y muelle del Port Vell de Barcelona"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional de Montjuïc, sede del MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Calle estrecha con balcones en el casco antiguo de Barcelona"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con sus árboles"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

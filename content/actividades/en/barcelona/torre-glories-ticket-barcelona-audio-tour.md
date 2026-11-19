@@ -75,6 +75,10 @@ galeria:
   alt: Gothic arch and street lamp in the Gothic Quarter
 - src: /images/actividades/barcelona/vistas/eixample-desde-arriba.webp
   alt: Eixample blocks of Barcelona seen from above
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Narrow street with balconies in Barcelona's old town"
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

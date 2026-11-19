@@ -73,6 +73,10 @@ galeria:
   alt: Exterior of the Guggenheim Museum Bilbao seen from the gardens
 - src: /images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-iberdrola.webp
   alt: The Guggenheim and Iberdrola Tower by the Bilbao river
+- src: "/images/actividades/bilbao/guggenheim/guggenheim-noche.webp"
+  alt: "Guggenheim Bilbao lit up at night"
+- src: "/images/actividades/bilbao/guggenheim/fbi-guggenheim-ria-maman.webp"
+  alt: "Guggenheim Museum Bilbao and Iberdrola Tower from across the river"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

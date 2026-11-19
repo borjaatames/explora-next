@@ -92,6 +92,8 @@ galeria:
   alt: 'Biciclette vicino a piazza del Municipio'
 - src: /images/actividades/valencia/bici-tour/bicis-calle-centro.webp
   alt: 'Biciclette in una via del centro di Valencia'
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp"
+  alt: "Città delle Arti e delle Scienze riflessa nell'acqua"
 ratingProveedor: 4.7
 numeroOpiniones: 2474
 publicada: true

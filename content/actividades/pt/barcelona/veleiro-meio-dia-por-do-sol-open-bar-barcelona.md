@@ -78,6 +78,12 @@ galeria:
   alt: "Veleiros no porto ao entardecer"
 - src: "/images/actividades/barcelona/barcos-2/velero-unsplash-bpsrvp8rl64.webp"
   alt: "Gurupés de um veleiro no porto de Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-pexels-39648311.webp"
+  alt: "Catamarã à vela ao largo de Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/velero-pixabay-7467760.webp"
+  alt: "Veleiros no porto de Barcelona"
+- src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
+  alt: "Praia de Barcelona com palmeiras ao entardecer"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

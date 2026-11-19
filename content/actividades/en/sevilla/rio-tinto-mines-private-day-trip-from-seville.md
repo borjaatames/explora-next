@@ -91,6 +91,10 @@ galeria:
   alt: Red and ochre waters of the Río Tinto
 - src: https://imgcdn.bokun.tools/ce1a3953-46df-4eb2-b635-65c0fc1ca972.jpg
   alt: Travellers by the reddish water of the Río Tinto
+- src: "https://imgcdn.bokun.tools/0e5b77c9-a903-4780-ad03-f839dab09941.jpg"
+  alt: "Reddish water of the Río Tinto"
+- src: "https://imgcdn.bokun.tools/b2286f43-034d-4821-b972-117dbd11f385.jpg"
+  alt: "Mining headframe at the Riotinto mines"
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
 privada: true

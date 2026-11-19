@@ -70,6 +70,16 @@ galeria:
   alt: "Bola de futebol num relvado acabado de cortar"
 - src: "/images/actividades/madrid/legends/legends-futbol-pixabay-488714.webp"
   alt: "Bola no relvado de um estádio de futebol"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "O Palácio Real de Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "A Puerta del Sol à noite com a Real Casa de Correos"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estátua de Filipe III e a Casa de la Panadería na Plaza Mayor"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "A Plaza Mayor, no coração do centro histórico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

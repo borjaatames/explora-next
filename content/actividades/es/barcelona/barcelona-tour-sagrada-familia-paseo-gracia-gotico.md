@@ -79,6 +79,20 @@ galeria:
   alt: "La Sagrada Familia de Barcelona"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "Iglesia de Santa María del Mar, en el casco antiguo de Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "Nave interior de la Sagrada Familia vista hacia el altar, con sus altas columnas"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"
+  alt: "Bóveda de la nave central de la Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp"
+  alt: "Detalle de una escultura de la fachada del Nacimiento de la Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp"
+  alt: "Luz roja y naranja de las vidrieras en el interior de la Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp"
+  alt: "Fachada de la Pasión con árboles en flor"
+- src: "/images/actividades/barcelona/sagrada-familia/pinaculos-torre-vistas.webp"
+  alt: "Pináculos con frutos de colores y la ciudad a los pies, vistos desde lo alto de la Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp"
+  alt: "Techo intrincado con bóvedas góticas de la Sagrada Familia en Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

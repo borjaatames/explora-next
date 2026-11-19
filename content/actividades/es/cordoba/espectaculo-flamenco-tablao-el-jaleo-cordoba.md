@@ -86,6 +86,18 @@ galeria:
   alt: "Pareja de baile flamenco en El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "La sala de El Jaleo"
+- src: "/images/actividades/cordoba/mezquita/arcos-ampliacion.webp"
+  alt: "Arcos de la ampliación de Alhakén II"
+- src: "/images/actividades/cordoba/mezquita/arcos-interior.webp"
+  alt: "Interior de la Mezquita con arcos de herradura"
+- src: "/images/actividades/cordoba/juderia/alcazar-jardines.webp"
+  alt: "Jardines del Alcázar de los Reyes Cristianos"
+- src: "/images/actividades/cordoba/patios/patio-viana.webp"
+  alt: "Patio con fuente en el Palacio de Viana"
+- src: "/images/actividades/cordoba/juderia/calle-juderia.webp"
+  alt: "Judería de Córdoba, a pocos pasos del tablao"
+- src: "/images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp"
+  alt: "Estanque y flores en los jardines del Alcázar de los Reyes Cristianos"
 ---
 
 ## Qué vas a ver

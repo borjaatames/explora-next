@@ -80,18 +80,22 @@ keywords:
 imagen: /images/actividades/barcelona/casa-vicens/casa-vicens-fachada.webp
 imagenAlt: 'Fachada de la Casa Vicens con sus azulejos verdes y blancos'
 galeria:
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-torreones.webp
-  alt: 'Torreones y azulejos de la Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-jardin-celosias.webp
-  alt: 'Jardín y celosías de la Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-balcon.webp
-  alt: 'Balcón de hierro forjado de la Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-escalera-jardin.webp
-  alt: 'Escalera del jardín de la Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-carrer-carolines.webp
-  alt: 'La Casa Vicens desde la calle Carolines'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
-  alt: 'Reja de hojas de palmito de la Casa Vicens'
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-torreones.webp"
+  alt: "Torreones y azulejos de la Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-jardin-celosias.webp"
+  alt: "Jardín y celosías de la Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-balcon.webp"
+  alt: "Balcón de hierro forjado de la Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-escalera-jardin.webp"
+  alt: "Escalera del jardín de la Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-carrer-carolines.webp"
+  alt: "La Casa Vicens desde la calle Carolines"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp"
+  alt: "Reja de hojas de palmito de la Casa Vicens"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con sus árboles"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico y farola en el Barrio Gótico"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

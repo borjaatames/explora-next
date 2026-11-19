@@ -90,6 +90,8 @@ galeria:
   alt: 'Tunnel sous-marin de l''Aquàrium de Barcelona'
 - src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
   alt: 'Requins dans le grand bassin de l''Aquàrium de Barcelona'
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Bassin éclairé à l'Aquàrium de Barcelone"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

@@ -85,6 +85,8 @@ galeria:
   alt: "Rua estreita do Bairro Gótico com varandas"
 - src: "/images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp"
   alt: "Portal principal da Catedral de Barcelona"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
+  alt: "Banhistas e transeuntes no areal da praia da Barceloneta num dia de sol"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

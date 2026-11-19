@@ -93,6 +93,8 @@ galeria:
   alt: El muro de la presa de Chira
 - src: /images/actividades/gran-canaria/jeep/cumbres-chira.webp
   alt: Cumbres del interior junto a Chira
+- src: "/images/actividades/gran-canaria/jeep/jeep-pexels-34527481.webp"
+  alt: "Montañas y barrancos del interior de Gran Canaria"
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:

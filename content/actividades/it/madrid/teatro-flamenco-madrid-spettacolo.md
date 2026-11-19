@@ -83,6 +83,16 @@ galeria:
   alt: "Il gruppo di flamenco al completo a Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Coppia di ballerini di flamenco a Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, nel cuore del centro storico"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'insegna al neon di Tío Pepe in Puerta del Sol al crepuscolo"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facciata del Museo del Prado sul Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La Cattedrale dell'Almudena illuminata al calar della notte"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

@@ -80,18 +80,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/malaga/espetos/espeto-barca-malagueta.webp
-  alt: Barca-moraga con espetos de sardinas en la playa de la Malagueta
-- src: /images/actividades/malaga/espetos/espetos-sardinas-brasas.webp
-  alt: Sardinas ensartadas en cañas asándose junto a las brasas en la arena
-- src: /images/actividades/malaga/espetos/pedregalejo-barca.webp
-  alt: Barca de pesca varada en la playa de Pedregalejo
-- src: https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg
-  alt: Espetos de sardinas asándose sobre las brasas
-- src: https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg
-  alt: Espetos de sardinas colocados junto al fuego
-- src: https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg
-  alt: Grupo sentado en una jábega junto al mar escuchando al guía
+- src: "/images/actividades/malaga/espetos/espeto-barca-malagueta.webp"
+  alt: "Barca-moraga con espetos de sardinas en la playa de la Malagueta"
+- src: "/images/actividades/malaga/espetos/espetos-sardinas-brasas.webp"
+  alt: "Sardinas ensartadas en cañas asándose junto a las brasas en la arena"
+- src: "/images/actividades/malaga/espetos/pedregalejo-barca.webp"
+  alt: "Barca de pesca varada en la playa de Pedregalejo"
+- src: "https://imgcdn.bokun.tools/a00cede0-0ebc-4d9a-ba6f-5b1e8d4ba4a3.jpg"
+  alt: "Espetos de sardinas asándose sobre las brasas"
+- src: "https://imgcdn.bokun.tools/d4008a5b-916d-478f-80b7-a05af80bc2e8.jpg"
+  alt: "Espetos de sardinas colocados junto al fuego"
+- src: "https://imgcdn.bokun.tools/be6eb7aa-61fa-4799-9239-c7bf767be6a0.jpg"
+  alt: "Grupo sentado en una jábega junto al mar escuchando al guía"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Catedral de Málaga, cerca del Museo Picasso"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Gradas del Teatro Romano de Málaga"
 bokunProductId: 933464
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -94,6 +94,8 @@ galeria:
   alt: Amigos a brindar com vinho tinto num bar de tapas
 - src: https://imgcdn.bokun.tools/f08f4556-0af9-4224-8a03-26ef8e490fb5.jpg
   alt: Balcão de pintxos numa tasca de Barcelona
+- src: "/images/actividades/barcelona/gastronomia/paella-sarten.webp"
+  alt: "Paella de marisco na sua frigideira"
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
 privada: true

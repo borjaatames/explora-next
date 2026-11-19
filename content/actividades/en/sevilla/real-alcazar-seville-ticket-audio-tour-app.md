@@ -74,6 +74,10 @@ galeria:
   alt: Mudejar arches of the Palace of Pedro I
 - src: /images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp
   alt: Detail of the Mudejar plasterwork of the Alcázar
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
+  alt: "The Patio de las Doncellas"
 atraccionesRelacionadas:
 - real-alcazar
 publicada: true

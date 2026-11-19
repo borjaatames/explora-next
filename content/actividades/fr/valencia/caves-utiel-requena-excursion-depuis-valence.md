@@ -75,6 +75,14 @@ galeria:
   alt: "Fûts de chêne dans une bodega"
 - src: "/images/actividades/valencia/utiel-requena/utiel-requena-pixabay-4813260.webp"
   alt: "Vin rouge servi lors d'une dégustation"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-pixabay-1761613.webp"
+  alt: "Verres de vin avec raisin et tonneau"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-pexels-14593412.webp"
+  alt: "Barriques de chêne dans un chai"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-unsplash-jep2dqmhake.webp"
+  alt: "Galerie souterraine bordée de barriques"
+- src: "/images/actividades/valencia/utiel-requena/utiel-requena-unsplash-nnc4iyp0o6u.webp"
+  alt: "Grand foudre dans une cave en pierre"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

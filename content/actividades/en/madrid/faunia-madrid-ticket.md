@@ -68,14 +68,22 @@ keywords:
 imagen: /images/actividades/madrid/faunia/leones-marinos.webp
 imagenAlt: Sea lion show at Faunia, Madrid
 galeria:
-- src: /images/actividades/madrid/faunia/flamencos.webp
-  alt: Flamingos at Faunia, Madrid
-- src: /images/actividades/madrid/faunia/dinosaurio.webp
-  alt: Dinosaur replica along the Faunia trail
-- src: /images/actividades/madrid/faunia/entrada-faunia.webp
-  alt: Entrance to Faunia nature park, Madrid
-- src: /images/actividades/madrid/faunia/lago-faunia.webp
-  alt: Lake with ducks at Faunia
+- src: "/images/actividades/madrid/faunia/flamencos.webp"
+  alt: "Flamingos at Faunia, Madrid"
+- src: "/images/actividades/madrid/faunia/dinosaurio.webp"
+  alt: "Dinosaur replica along the Faunia trail"
+- src: "/images/actividades/madrid/faunia/entrada-faunia.webp"
+  alt: "Entrance to Faunia nature park, Madrid"
+- src: "/images/actividades/madrid/faunia/lago-faunia.webp"
+  alt: "Lake with ducks at Faunia"
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tyrannosaurus among trees at Faunia"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Tío Pepe neon sign at Puerta del Sol at dusk"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

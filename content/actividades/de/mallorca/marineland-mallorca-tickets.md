@@ -91,6 +91,10 @@ galeria:
   alt: Publikum auf der Tribüne der Delfin-Show
 - src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
   alt: Papageiengehege in Marineland Mallorca
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-02.webp"
+  alt: "Gelände des Marineland in Costa d'en Blanes"
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-01.webp"
+  alt: "Delfinshow im Marineland Mallorca"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 atraccionesRelacionadas:

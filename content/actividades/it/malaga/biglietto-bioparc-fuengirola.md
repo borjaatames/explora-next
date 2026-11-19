@@ -80,6 +80,8 @@ galeria:
   alt: Baobab nell'habitat africano del Bioparc
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Uccello dal piumaggio blu al Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Coccodrillo nano al Bioparc di Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

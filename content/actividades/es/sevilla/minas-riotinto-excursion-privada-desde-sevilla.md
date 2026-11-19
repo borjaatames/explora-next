@@ -91,6 +91,10 @@ galeria:
   alt: Aguas rojas y ocres del río Tinto
 - src: https://imgcdn.bokun.tools/ce1a3953-46df-4eb2-b635-65c0fc1ca972.jpg
   alt: Viajeros junto a las aguas rojizas del río Tinto
+- src: "https://imgcdn.bokun.tools/0e5b77c9-a903-4780-ad03-f839dab09941.jpg"
+  alt: "Agua rojiza del río Tinto"
+- src: "https://imgcdn.bokun.tools/b2286f43-034d-4821-b972-117dbd11f385.jpg"
+  alt: "Castillete minero en las minas de Riotinto"
 bokunProductId: 933463
 fecha_actualizacion: '2026-10-24'
 privada: true

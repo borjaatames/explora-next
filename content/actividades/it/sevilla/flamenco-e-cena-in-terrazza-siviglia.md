@@ -73,6 +73,14 @@ galeria:
   alt: "I tetti di Siviglia con la cattedrale in primo piano"
 - src: "/images/actividades/sevilla/azotea/azotea-atardecer-unsplash-2cedlkdgeq4.webp"
   alt: "La Giralda e la cattedrale illuminate di notte"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Case colorate di Triana sul Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España riflessa nel canale"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Cattedrale e la Giralda di Siviglia"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Il ponte di Triana sul Guadalquivir"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

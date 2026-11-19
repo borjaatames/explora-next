@@ -93,6 +93,8 @@ galeria:
   alt: "Estalagmita iluminada en las Cuevas del Canelobre"
 - src: /images/actividades/alicante/fal-canelobre/x-canelobre-pexels-16455426.webp
   alt: "Formaciones de roca en la Cueva del Canelobre"
+- src: "/images/actividades/alicante/fal-canelobre/fal-canelobre-wikimedia-06.webp"
+  alt: "Carretera de subida a las cuevas del Canelobre"
 ---
 
 ## Qué vas a ver

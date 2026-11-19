@@ -90,6 +90,8 @@ galeria:
   alt: 'A esquina modernista do Palau de la Música Catalana'
 - src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp
   alt: 'A plateia do Palau vista do balcão superior'
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-curved-rows-elegant-red-theater-hero.webp"
+  alt: "Filas de cadeiras vermelhas na sala do Palau de la Música"
 ratingProveedor: 4.6
 numeroOpiniones: 6321
 publicada: true

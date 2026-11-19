@@ -90,6 +90,8 @@ galeria:
   alt: 'Tunnel sottomarino dell''Aquàrium de Barcelona'
 - src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
   alt: 'Squali nella grande vasca dell''Aquàrium de Barcelona'
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Vasca illuminata all'Aquàrium di Barcellona"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

@@ -93,6 +93,10 @@ galeria:
   alt: Le public dans les gradins du spectacle de dauphins
 - src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
   alt: L’enclos des perroquets de Marineland Majorque
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-01.webp"
+  alt: "Spectacle de dauphins à Marineland Majorque"
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-02.webp"
+  alt: "Installations de Marineland à Costa d'en Blanes"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

@@ -91,6 +91,8 @@ galeria:
   alt: Ippopotamo allo Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
   alt: Lago e zona degli uccelli dello Zoo Aquarium de Madrid
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-aquarium-wikimedia-01.webp"
+  alt: "Panda che mangia bambù allo Zoo di Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas:

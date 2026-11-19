@@ -112,6 +112,10 @@ galeria:
   alt: Calle del centro iluminada de noche con farolillos de luces
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: Espectáculo de flamenco en el Teatro Flamenco de Sevilla
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflejada en el canal"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

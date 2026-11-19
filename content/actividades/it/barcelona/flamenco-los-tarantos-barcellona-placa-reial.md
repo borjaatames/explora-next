@@ -71,6 +71,14 @@ galeria:
   alt: "Chitarra e canto dal vivo a Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Ballerino di flamenco sul palco di Los Tarantos"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Vicolo stretto del Barrio Gótico con balconi"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Resti archeologici della Barcellona del 1714 sotto la struttura del vecchio mercato del Born"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tetti di Barcellona al tramonto con la Sagrada Família e il Tibidabo"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Il Palau Nacional (MNAC) sulle pendici del Montjuïc"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

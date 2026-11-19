@@ -69,18 +69,22 @@ keywords:
 imagen: /images/actividades/cadiz/torre-tavira/torre-tavira-01.webp
 imagenAlt: 'View of Cádiz from Torre Tavira'
 galeria:
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-02.webp
-  alt: 'Torre Tavira above the rooftops of Cádiz'
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-03.webp
-  alt: 'Torre Tavira facade'
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-04.webp
-  alt: 'Cádiz roof terraces and watchtowers from the Tavira'
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-05.webp
-  alt: 'The cathedral dome from Torre Tavira'
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-07.webp
-  alt: 'Cádiz white rooftops towards the sea'
-- src: /images/actividades/cadiz/torre-tavira/torre-tavira-08.webp
-  alt: 'Panorama of Cádiz old town'
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-02.webp"
+  alt: "Torre Tavira above the rooftops of Cádiz"
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-03.webp"
+  alt: "Torre Tavira facade"
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-04.webp"
+  alt: "Cádiz roof terraces and watchtowers from the Tavira"
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-05.webp"
+  alt: "The cathedral dome from Torre Tavira"
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-07.webp"
+  alt: "Cádiz white rooftops towards the sea"
+- src: "/images/actividades/cadiz/torre-tavira/torre-tavira-08.webp"
+  alt: "Panorama of Cádiz old town"
+- src: "/images/actividades/cadiz/mar/caleta-atardecer.webp"
+  alt: "La Caleta in the evening"
+- src: "/images/actividades/cadiz/mar/balneario-atardecer.webp"
+  alt: "La Caleta bathhouse at sunset"
 ratingProveedor: 4.5
 numeroOpiniones: 65
 atraccionesRelacionadas:

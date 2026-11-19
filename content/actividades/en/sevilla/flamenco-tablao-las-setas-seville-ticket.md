@@ -74,6 +74,18 @@ galeria:
   alt: "Guitarists and singers on stage"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "The Tablao Las Setas stage lit in red"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Seville's Setas at sunset"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Seville Cathedral façade among palm trees"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Mudejar arches of the Palace of Pedro I"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Plaza de España arcade with its tiled benches"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Colourful houses on Calle Betis along the Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflected in the canal"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

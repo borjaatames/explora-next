@@ -76,6 +76,10 @@ galeria:
   alt: Road beside the Roques de García in Teide National Park
 - src: /images/actividades/tenerife/teide/roques-garcia-vista.webp
   alt: Los Roques de García, next to the Observatory
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "Teide from the north-east"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Snow-capped summit of Teide"
 atraccionesRelacionadas:
 - volcanes
 publicada: true

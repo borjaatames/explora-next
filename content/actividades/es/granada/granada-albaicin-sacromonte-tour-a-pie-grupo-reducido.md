@@ -66,6 +66,20 @@ galeria:
   alt: "Casas cueva del Sacromonte"
 - src: "/images/actividades/granada/albaicin/albaicin-granada-vista-panoramica-desde-alhambra-hero.webp"
   alt: "Calle empedrada del Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-wikimedia-san-gregorio-barrio-del-albaic-n-granada-jpg.webp"
+  alt: "Calle de teterías en el Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Vista aérea de los tejados del Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-3107980.webp"
+  alt: "Casas blancas del Albaicín"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "La Alhambra iluminada por el sol de la tarde"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "El Albaicín al caer la tarde"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-1313240.webp"
+  alt: "El Albaicín visto desde la Alhambra"
+- src: "/images/actividades/granada/albaicin/albaicin-pixabay-471742.webp"
+  alt: "Campanario con buganvillas en el Albaicín"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

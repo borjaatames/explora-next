@@ -59,7 +59,7 @@ keywords:
 - special wine tasting mallorca
 imagen: https://imgcdn.bokun.tools/27021a1b-ec43-4ae3-8d3a-795c1ed76ee8.png
 imagenAlt: "Group at a wine tasting in the winery"
-galeria: null
+galeria: []
 publicada: true
 indexar: false
 destacada: false

@@ -71,16 +71,24 @@ keywords:
 imagen: /images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp
 imagenAlt: The Sagrada Família in Barcelona
 galeria:
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp
-  alt: Towers of the Sagrada Familia with sculptures and construction scaffolding
-- src: /images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp
-  alt: Interior nave of the Sagrada Familia looking toward the altar, with its tall columns
-- src: /images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp
-  alt: Interior stained-glass windows of the Sagrada Familia with saints' names inscribed
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp
-  alt: Blue and green stained glass lighting the nave of the Sagrada Familia
-- src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
-  alt: Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12809590-hero.webp"
+  alt: "Towers of the Sagrada Familia with sculptures and construction scaffolding"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "Interior nave of the Sagrada Familia looking toward the altar, with its tall columns"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-15616250-hero.webp"
+  alt: "Interior stained-glass windows of the Sagrada Familia with saints' names inscribed"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
+  alt: "Blue and green stained glass lighting the nave of the Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp"
+  alt: "Detail of the Glory facade of the Sagrada Familia with its pyramid-shaped windows"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp"
+  alt: "Towers of the Sagrada Familia against a blue sky"
+- src: "/images/actividades/barcelona/sagrada-familia/vista-desde-torre-nacimiento.webp"
+  alt: "View of Barcelona and Plaça de Gaudí through an opening in the Nativity towers"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-vibrant-stained-glass-windows-hero-hero.webp"
+  alt: "Vibrant stained glass windows of Sagrada Familia basilica in Barcelona with colorful light patterns"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622795573-hero-hero.webp"
+  alt: "Sagrada Familia basilica facade with intricate architectural details in Barcelona"
 atraccionesRelacionadas:
 - sagrada-familia
 publicada: true

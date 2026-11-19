@@ -78,6 +78,8 @@ galeria:
   alt: "Il borgo di Masca tra le montagne"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico e il suo faraglione"
+- src: "/images/actividades/tenerife/masca/ftc-barranco-masca-luz.webp"
+  alt: "Il barranco di Masca in controluce, visto dall'alto"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

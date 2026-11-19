@@ -73,6 +73,12 @@ galeria:
   alt: "Les gradins rouges du Ramón Sánchez-Pizjuán"
 - src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-06.webp"
   alt: "La grande mosaïque de la façade du stade"
+- src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-02.webp"
+  alt: "Stade Ramón Sánchez-Pizjuán comble lors d'un match en nocturne"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Pont de Triana sur le Guadalquivir"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La cathédrale et la Giralda de Séville"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -71,6 +71,16 @@ galeria:
   alt: "Hélicoptère au décollage"
 - src: "/images/actividades/barcelona/helicoptero/helicoptero-unsplash-yzjudbdtvda.webp"
   alt: "Vue aérienne des immeubles de Barcelone"
+- src: "/images/actividades/barcelona/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Hélicoptère touristique survolant des montagnes"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Coucher de soleil sur la plage de la Barceloneta avec l’hôtel W au fond"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "La cathédrale de Barcelone, au cœur du quartier gothique"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arc gothique et lanterne dans le Barri Gòtic"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Le Port Vell et le monument à Christophe Colomb"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

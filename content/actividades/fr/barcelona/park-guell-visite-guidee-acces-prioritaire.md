@@ -77,6 +77,14 @@ galeria:
   alt: "Vue de Barcelone depuis le Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "Vue de Barcelone depuis le Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero.webp"
+  alt: "L'escalier du dragon et la salle hypostyle du Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp"
+  alt: "Le Park Güell de Gaudí avec vue sur Barcelone"
+- src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
+  alt: "Vue sur Barcelone depuis les jardins du Park Güell"
+- src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
+  alt: "Le jardin et l'entrée de la maison-musée Gaudí"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

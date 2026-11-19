@@ -87,6 +87,14 @@ galeria:
   alt: Luftaufnahme des Western Water Park in Magaluf (Calvià)
 - src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
   alt: Kinderbereich mit bunten Rutschen im Western Water Park
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp"
+  alt: "Almudaina und Kathedrale von Palma am Wasserbecken des Parc de la Mar"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Klippen des Cap de Formentor über dem Meer"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gotischer Wasserspeier an der Fassade der Kathedrale von Palma"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Port de Sóller mit vertäuten Booten"
 ratingProveedor: 4.3
 numeroOpiniones: 582
 atraccionesRelacionadas:

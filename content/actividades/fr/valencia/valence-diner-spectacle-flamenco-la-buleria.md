@@ -86,6 +86,12 @@ galeria:
   alt: "Dîner-spectacle à La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "La salle de La Bulería"
+- src: "/images/actividades/valencia/mar/arenas-orilla.webp"
+  alt: "Le soleil sur la mer à la plage de Las Arenas"
+- src: "/images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp"
+  alt: "Vélo le long d'un chemin de terre arboré"
+- src: "/images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp"
+  alt: "Promenade arborée dans le jardin du Turia"
 ---
 
 ## Ce que vous verrez

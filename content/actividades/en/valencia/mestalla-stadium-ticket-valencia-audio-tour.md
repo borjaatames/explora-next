@@ -74,6 +74,10 @@ galeria:
   alt: Plaza de la Virgen in central Valencia
 - src: /images/actividades/valencia/centro/san-nicolas-altar-frescos.webp
   alt: High altar and painted vaults of San Nicolás church, Valencia
+- src: "/images/actividades/valencia/centro/san-nicolas-boveda.webp"
+  alt: "Baroque frescoed vault of San Nicolás church"
+- src: "/images/actividades/valencia/centro/mercado-central-interior.webp"
+  alt: "Art Nouveau interior of the Central Market"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

@@ -92,6 +92,8 @@ galeria:
   alt: 'La Casa Vicens depuis la Carrer de les Carolines'
 - src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
   alt: 'Grille à feuilles de palmier nain de la Casa Vicens'
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Les toits de Barcelone au coucher du soleil avec la Sagrada Família et le Tibidabo"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

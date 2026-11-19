@@ -87,6 +87,12 @@ galeria:
   alt: "Jantar e espetáculo em La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "A sala de La Bulería"
+- src: "/images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp"
+  alt: "Bicicleta junto a um caminho de terra arborizado"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Porta da Catedral de Valência, no centro histórico"
+- src: "/images/actividades/valencia/mar/arenas-orilla.webp"
+  alt: "Reflexos do sol na praia de las Arenas"
 ---
 
 ## O que vai ver

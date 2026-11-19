@@ -103,6 +103,8 @@ galeria:
   alt: "Montagne aride in un burrone nel sud di Gran Canaria"
 - src: /images/actividades/gran-canaria/via-ferrata/x-via-ferrata-pexels-11034345.webp
   alt: "Arrampicatori su una via ferrata"
+- src: "/images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp"
+  alt: "Una strada di Teror con le montagne del nord sullo sfondo"
 ---
 
 ## Cosa vedrai

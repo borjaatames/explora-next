@@ -77,6 +77,16 @@ galeria:
   alt: "La côte de Majorque vue du ciel"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-37068618.webp"
   alt: "Falaises et mer à l'est de Majorque vues d'en haut"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-unsplash-bbdyg-den2w.webp"
+  alt: "Hélicoptère au-dessus d'une plage aux eaux turquoise"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-wikimedia-01.webp"
+  alt: "Plage aux eaux turquoise vue du ciel"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-36532620.webp"
+  alt: "Côte escarpée de Majorque vue du ciel"
+- src: "/images/actividades/mallorca/globo/globo-pexels-19326083.webp"
+  alt: "Montgolfières colorées dans le ciel"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Hélicoptère volant près d'une paroi rocheuse"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -74,6 +74,12 @@ galeria:
   alt: "Maison canarienne à balcon de bois à Icod de los Vinos"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico et son rocher"
+- src: "/images/actividades/tenerife/garachico/caleton-garachico.webp"
+  alt: "Les piscines naturelles d'El Caletón"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico et son rocher face à la côte"
+- src: "/images/actividades/tenerife/garachico/garachico-pixabay-1352584.webp"
+  alt: "Piscines naturelles volcaniques de Garachico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

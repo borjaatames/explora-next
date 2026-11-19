@@ -76,6 +76,12 @@ galeria:
   alt: "Casa de enxaimel na aldeia histórica do parque"
 - src: "/images/actividades/madrid/puy-du-fou/puy-du-fou-wikimedia-06.webp"
   alt: "As muralhas do Puy du Fou España perto de Toledo"
+- src: "/images/actividades/toledo/puerta-bisagra-toledo/puerta-bisagra-toledo-nueva-fachada-septentrional-hero-hero.webp"
+  alt: "A nova Porta de Bisagra no norte de Toledo"
+- src: "/images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp"
+  alt: "Viela estreita e calcetada de Toledo com fachadas de pedra"
+- src: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-aerial-view-ancient-bridge-over-hero-hero.webp"
+  alt: "O Alcázar de Toledo visto do ar com a ponte antiga sobre o Tejo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

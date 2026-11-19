@@ -72,6 +72,12 @@ galeria:
   alt: 'Paese con castello in montagna'
 - src: https://imgcdn.bokun.tools/44b3370f-e9ac-4afd-b278-378f33a73899.jpg
   alt: 'Mura con arco della fortezza di Gormaz'
+- src: "https://imgcdn.bokun.tools/fb9362de-351c-4e7e-b455-ad6f867b94eb.jpg"
+  alt: "Chiesa romanica in pietra sulla rotta del Cid"
+- src: "https://imgcdn.bokun.tools/97eca6ce-f66c-43d2-b1e5-cb5f6f008087.jpg"
+  alt: "Mura del castello di Gormaz sulla valle"
+- src: "https://imgcdn.bokun.tools/ae7f5a34-2401-4b85-86b7-57f4f7fc1c7a.jpg"
+  alt: "Resti di mura medievali sulla rotta del Cid"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

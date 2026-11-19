@@ -78,6 +78,8 @@ galeria:
   alt: "Blick auf Port de Sóller mit dem Tramuntana-Gebirge"
 - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
   alt: "Die Bucht von Port de Sóller, wo das Boot ablegt"
+- src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
+  alt: "Weg durch die Schlucht von Sa Calobra"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

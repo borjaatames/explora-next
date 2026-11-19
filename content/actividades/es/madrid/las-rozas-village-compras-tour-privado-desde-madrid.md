@@ -78,6 +78,8 @@ galeria:
   alt: El conductor abre la puerta a una clienta
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Clienta con bolsas de compras en Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Terraza de un restaurante en Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -80,6 +80,10 @@ galeria:
   alt: "Live-Gitarre und Gesang in Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Live-Gitarre und Gesang in Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp"
+  alt: "Almudaina und Kathedrale von Palma am Wasserbecken des Parc de la Mar"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Schwimmer im klaren Wasser des Caló des Moro"
 ratingProveedor: 4.6
 numeroOpiniones: 1683
 atraccionesRelacionadas:

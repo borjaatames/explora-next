@@ -97,6 +97,8 @@ galeria:
   alt: Roter Himmel spiegelt sich nach Sonnenuntergang im See der Albufera
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
   alt: Kanal mit traditionellen Booten bei Einbruch der Nacht in der Albufera
+- src: "/images/actividades/valencia/albufera/albufera-wikimedia-02.webp"
+  alt: "Boot zwischen dem Schilf der Albufera"
 avisoReserva: 'Der Guide spricht Spanisch und Englisch: Erklärungen auf Deutsch gibt es nicht.'
 ---
 

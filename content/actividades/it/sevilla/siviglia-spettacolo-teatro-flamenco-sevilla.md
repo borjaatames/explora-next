@@ -112,6 +112,10 @@ galeria:
   alt: Strada del centro illuminata di notte con lanterne
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: Spettacolo di flamenco al Teatro Flamenco di Siviglia
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Il Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facciata del Palazzo di Pietro I nel Real Alcázar di Siviglia"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

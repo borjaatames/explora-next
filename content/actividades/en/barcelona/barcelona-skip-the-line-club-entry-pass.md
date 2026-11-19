@@ -74,18 +74,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/ad9f6f3f-321a-41ec-86cc-01f47773ace6.jpeg
 imagenAlt: "Barcelona club with the Los Patos pass"
 galeria:
-- src: https://imgcdn.bokun.tools/3656b342-d624-40b6-8bbb-9828e2087d11.jpeg
+- src: "https://imgcdn.bokun.tools/3656b342-d624-40b6-8bbb-9828e2087d11.jpeg"
   alt: "Barcelona club with the Los Patos pass"
-- src: https://imgcdn.bokun.tools/e662ee2b-39b6-460e-b8bb-ddf606581275.jpeg
+- src: "https://imgcdn.bokun.tools/e662ee2b-39b6-460e-b8bb-ddf606581275.jpeg"
   alt: "Barcelona club with the Los Patos pass"
-- src: https://imgcdn.bokun.tools/38e85084-3b12-4647-a579-5b39fc35733a.jpeg
+- src: "https://imgcdn.bokun.tools/38e85084-3b12-4647-a579-5b39fc35733a.jpeg"
   alt: "Barcelona club with the Los Patos pass"
-- src: https://imgcdn.bokun.tools/d2416402-7eb4-4555-a4d0-66887cd5267f.jpeg
+- src: "https://imgcdn.bokun.tools/d2416402-7eb4-4555-a4d0-66887cd5267f.jpeg"
   alt: "Barcelona club with the Los Patos pass"
-- src: https://imgcdn.bokun.tools/d81cd31b-50a6-4609-8141-34a70f02fddb.jpeg
+- src: "https://imgcdn.bokun.tools/d81cd31b-50a6-4609-8141-34a70f02fddb.jpeg"
   alt: "Barcelona club with the Los Patos pass"
-- src: https://imgcdn.bokun.tools/2a3384c3-54cc-47ef-a0c7-2176ceb5229a.jpeg
+- src: "https://imgcdn.bokun.tools/2a3384c3-54cc-47ef-a0c7-2176ceb5229a.jpeg"
   alt: "Barcelona club with the Los Patos pass"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Narrow street in Barcelona's Gothic Quarter at dusk"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

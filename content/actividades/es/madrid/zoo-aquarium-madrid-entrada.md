@@ -91,6 +91,8 @@ galeria:
   alt: Hipopótamo en el Zoo Aquarium de Madrid
 - src: /images/actividades/madrid/zoo-aquarium/zoo-lago.webp
   alt: Lago y zona de aves del Zoo Aquarium de Madrid
+- src: "/images/actividades/madrid/zoo-aquarium/zoo-aquarium-wikimedia-01.webp"
+  alt: "Oso panda comiendo bambú en el Zoo de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 2153
 atraccionesRelacionadas:

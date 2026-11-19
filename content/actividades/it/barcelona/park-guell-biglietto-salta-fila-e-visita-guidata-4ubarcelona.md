@@ -78,6 +78,10 @@ galeria:
   alt: "Vista su Barcellona dai giardini del Park Güell"
 - src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
   alt: "Il giardino e l'ingresso della Casa Museo Gaudí"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp"
+  alt: "Vista panoramica del Park Güell con i suoi mosaici caratteristici"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp"
+  alt: "I padiglioni d'ingresso del Park Güell con i loro tetti di ceramica"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

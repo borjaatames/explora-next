@@ -70,6 +70,16 @@ galeria:
   alt: "Bailarino de flamenco no palco de Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Guitarra e canto ao vivo em Essential Flamenco"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "O Palácio Real de Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estátua de Filipe III e a Casa de la Panadería na Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "A Puerta del Sol à noite com a Real Casa de Correos"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "A Plaza del Callao e a Gran Vía à noite"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada ao anoitecer"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

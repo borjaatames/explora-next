@@ -94,6 +94,10 @@ galeria:
   alt: "Vitrine com peças expostas no interior do castelo de Almodóvar del Río"
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: "Castelo de Almodóvar del Río sobre a sua colina"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Bandeira andaluza nas ameias do castelo de Almodóvar del Río"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Adarve e torres do castelo de Almodóvar del Río"
 ---
 
 ## O que vai ver

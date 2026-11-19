@@ -87,6 +87,12 @@ galeria:
   alt: "Cena e spettacolo a La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "La sala di La Bulería"
+- src: "/images/actividades/valencia/mar/arenas-orilla.webp"
+  alt: "La battigia della spiaggia di Las Arenas, accanto alla Malvarrosa, a Valencia"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Architettura moderna e simmetrica della Città delle Arti e delle Scienze"
+- src: "/images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp"
+  alt: "Bicicletta lungo un sentiero sterrato alberato"
 ---
 
 ## Cosa vedrai

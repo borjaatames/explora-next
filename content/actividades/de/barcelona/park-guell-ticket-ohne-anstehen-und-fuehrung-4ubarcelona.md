@@ -78,6 +78,10 @@ galeria:
   alt: "Blick über Barcelona von den Gärten des Park Güell"
 - src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
   alt: "Garten und Eingang des Gaudí-Hausmuseums"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp"
+  alt: "Die Eingangspavillons des Park Güell mit ihren Keramikdächern"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"
+  alt: "Besuchergruppe auf der Terrasse mit der geschwungenen Bank im Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

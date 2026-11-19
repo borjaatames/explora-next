@@ -75,6 +75,10 @@ galeria:
   alt: Wrought-iron balconies of Casa Milà
 - src: /images/actividades/barcelona/casa-mila/casa-mila-explore-unique-rooftop-hero.webp
   alt: La Pedrera rooftop with its warrior chimneys
+- src: "/images/actividades/barcelona/casa-mila/casa-mila-view-landmark-barcelona-showcasing-hero.webp"
+  alt: "Side view of Casa Milà from the pavement"
+- src: "/images/actividades/barcelona/casa-mila/casa-mila-pedrera-by-antoni-gaudi-barcelona-hero.webp"
+  alt: "Stone façade of Casa Milà among trees"
 atraccionesRelacionadas:
 - casa-batllo-pedrera
 publicada: true

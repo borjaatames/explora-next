@@ -83,6 +83,14 @@ galeria:
   alt: "Flamencotänzerin auf der Bühne von Sala Temple"
 - src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
   alt: "Der Saal von Sala Temple"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos an der Puerta del Sol bei Nacht"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fassade des Museo del Prado am Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Der Königspalast in Madrid"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

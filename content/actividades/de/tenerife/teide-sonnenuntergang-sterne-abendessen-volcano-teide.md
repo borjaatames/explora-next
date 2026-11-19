@@ -80,6 +80,8 @@ galeria:
   alt: "Der Gipfel des Teide im Licht des Sonnenuntergangs über den Wolken"
 - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
   alt: "Die Cañadas am Teide"
+- src: "/images/actividades/tenerife/estrellas/via-lactea-tormenta.webp"
+  alt: "Die Milchstraße über dem Teide-Nationalpark"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

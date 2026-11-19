@@ -93,6 +93,8 @@ galeria:
   alt: Boote am Strand von Cabanyal bei Sonnenuntergang
 - src: /images/actividades/valencia/mar/arenas-orilla.webp
   alt: Sonnenlicht auf dem Meer am Strand Las Arenas
+- src: "/images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp"
+  alt: "Fahrrad neben einem baumgesäumten Feldweg"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

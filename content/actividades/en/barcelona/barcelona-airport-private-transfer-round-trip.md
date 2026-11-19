@@ -80,14 +80,26 @@ indexar: false
 destacada: false
 fecha: '2026-11-09'
 galeria:
-- src: https://imgcdn.bokun.tools/eb5a1130-7e72-4d9f-b42e-ec7c34724e29.jpg
-  alt: Private transfer vans
-- src: https://imgcdn.bokun.tools/5a0ecdd1-f20d-4ed1-9752-8674a333de03.jpg
-  alt: Driver helping a traveller with her luggage
-- src: https://imgcdn.bokun.tools/501f6c45-735e-4261-90db-392b3acc9bb1.jpg
-  alt: Inside one of the transfer cars
-- src: https://imgcdn.bokun.tools/64d7c1aa-17c5-4359-8ccd-9a6a5e6ba5ab.jpg
-  alt: Leather rear seats of the car
+- src: "https://imgcdn.bokun.tools/eb5a1130-7e72-4d9f-b42e-ec7c34724e29.jpg"
+  alt: "Private transfer vans"
+- src: "https://imgcdn.bokun.tools/5a0ecdd1-f20d-4ed1-9752-8674a333de03.jpg"
+  alt: "Driver helping a traveller with her luggage"
+- src: "https://imgcdn.bokun.tools/501f6c45-735e-4261-90db-392b3acc9bb1.jpg"
+  alt: "Inside one of the transfer cars"
+- src: "https://imgcdn.bokun.tools/64d7c1aa-17c5-4359-8ccd-9a6a5e6ba5ab.jpg"
+  alt: "Leather rear seats of the car"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Narrow street with balconies in Barcelona's old town"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Narrow street in Barcelona's Gothic Quarter at dusk"
 bokunProductId: 356287
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-11-09'

@@ -83,6 +83,16 @@ galeria:
   alt: "Das komplette Flamenco-Ensemble in Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Flamenco-Tanzpaar in Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao und Gran Vía bei Nacht"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Die Almudena-Kathedrale bei Einbruch der Nacht beleuchtet"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

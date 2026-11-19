@@ -80,6 +80,12 @@ galeria:
   alt: 'Groupe sur le pont d''Alcántara'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Arc mudéjar à Tolède'
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Le Palais royal de Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "La Real Casa de Correos sur la Puerta del Sol la nuit"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La cathédrale de l'Almudena illuminée le soir"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

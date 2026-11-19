@@ -86,6 +86,12 @@ galeria:
   alt: "Bailarina de flamenco no palco de Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Entrada de Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Cavalo andaluz ruço montado por um cavaleiro com traje curto"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp"
+  alt: "Atrelagem de cavalos ruços com carruagem enfeitada numa feira andaluza"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp"
+  alt: "Porta de entrada do Alcázar de Jerez na muralha almóada"
 ---
 
 ## O que vai ver

@@ -111,6 +111,8 @@ galeria:
   alt: Lo stadio Metropolitano dell'Atlético de Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Lo stadio Metropolitano in un giorno di partita
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
 ratingProveedor: 4.7
 numeroOpiniones: 2351
 publicada: true

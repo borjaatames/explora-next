@@ -70,16 +70,22 @@ keywords:
 imagen: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-05.webp
 imagenAlt: Fachada de los palacios de la calle Montcada
 galeria:
-- src: /images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp
-  alt: Patio de entrada de uno de los palacios del Museo Picasso
-- src: /images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp
-  alt: Calle Montcada en el barrio del Born
-- src: /images/actividades/barcelona/born/born-ccm-ruinas.webp
-  alt: Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born
-- src: /images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp
-  alt: Fachada gótica de la basílica de Santa Maria del Mar, en el Born
-- src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
-  alt: Nave gótica de Santa Maria del Mar con el rosetón al fondo
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-06.webp"
+  alt: "Patio de entrada de uno de los palacios del Museo Picasso"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-palau-dalmases-03.webp"
+  alt: "Calle Montcada en el barrio del Born"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
+  alt: "Fachada gótica de la basílica de Santa Maria del Mar, en el Born"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-interior.webp"
+  alt: "Nave gótica de Santa Maria del Mar con el rosetón al fondo"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp"
+  alt: "Esculturas de la portada de la Catedral de Barcelona"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+  alt: "Patio del palacio que alberga el Museu Picasso"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-06.webp"
+  alt: "Interior de la Catedral de Barcelona con el coro y el rosetón"
 atraccionesRelacionadas:
 - gotico
 publicada: true

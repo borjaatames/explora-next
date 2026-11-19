@@ -72,6 +72,10 @@ galeria:
   alt: "Der Stausee von Ayagaures"
 - src: "/images/actividades/gran-canaria/buggy/fataga-montanas.webp"
   alt: "Berge der Schlucht von Fataga"
+- src: "/images/actividades/gran-canaria/buggy/pueblo-fataga.webp"
+  alt: "Das Dorf Fataga zwischen Palmen"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-flor-almendro-bentayga.webp"
+  alt: "Mandelblüte mit dem Roque Bentayga im Hintergrund"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

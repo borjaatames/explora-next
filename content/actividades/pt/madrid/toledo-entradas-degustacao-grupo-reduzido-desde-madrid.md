@@ -80,6 +80,12 @@ galeria:
   alt: 'Grupo na ponte de Alcántara'
 - src: https://imgcdn.bokun.tools/9cad972e-ebba-4735-b12a-78ddff4eb1a2.jpg
   alt: 'Arco mudéjar em Toledo'
+- src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+  alt: "Alcázar de Toledo"
+- src: "/images/actividades/toledo/puente-san-martin-toledo/puente-san-martin-toledo-bridge-over-river-buildings-hill-hero-hero.webp"
+  alt: "A ponte de San Martín sobre o Tejo"
+- src: "/images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp"
+  alt: "Viela estreita e calcetada de Toledo com fachadas de pedra"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

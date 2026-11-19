@@ -69,6 +69,14 @@ galeria:
   alt: Arcaded courtyard of the Buenavista Palace, home of the Museo Picasso Málaga
 - src: /images/actividades/malaga/museo-picasso/patio-flores.webp
   alt: Flower-filled courtyard at the Picasso Museum Málaga
+- src: "/images/actividades/malaga/museo-picasso/museo-picasso-unsplash-3npnagdxdrk.webp"
+  alt: "Málaga City Hall among palm trees"
+- src: "/images/actividades/malaga/museo-picasso/museo-picasso-pexels-6701900.webp"
+  alt: "Málaga Cathedral façade"
+- src: "/images/actividades/malaga/museo-picasso/museo-picasso-unsplash-hze4dpede90.webp"
+  alt: "Episcopal Palace in Málaga's Plaza del Obispo"
+- src: "/images/actividades/malaga/museo-picasso/museo-picasso-unsplash-sma_jbjltfg.webp"
+  alt: "Building on Plaza de la Merced, where Picasso was born"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

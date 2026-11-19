@@ -78,6 +78,10 @@ galeria:
   alt: "Vista sobre Barcelona dos jardins do Park Güell"
 - src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
   alt: "Jardim e entrada da casa-museu de Gaudí"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+  alt: "O dragão de trencadís na escadaria do Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp"
+  alt: "Caminho por baixo do viaduto de pedra no Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

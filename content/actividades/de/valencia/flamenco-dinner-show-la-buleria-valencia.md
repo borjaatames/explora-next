@@ -79,6 +79,12 @@ galeria:
   alt: "Abendessen und Show in La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "Der Saal von La Bulería"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Symmetrische moderne Architektur der Stadt der Künste und Wissenschaften"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp"
+  alt: "Die Stadt der Künste und Wissenschaften spiegelt sich im Wasser"
+- src: "/images/actividades/valencia/centro/hemisferic-reflejo.webp"
+  alt: "Das Hemisfèric spiegelt sich im Wasser"
 ratingProveedor: 4.8
 numeroOpiniones: 1564
 atraccionesRelacionadas: []

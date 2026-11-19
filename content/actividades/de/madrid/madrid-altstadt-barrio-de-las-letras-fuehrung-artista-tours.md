@@ -74,6 +74,8 @@ galeria:
   alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-52108703031-hero.webp"
   alt: "Die Gran Vía im Zentrum Madrids"
+- src: "/images/actividades/madrid/barrio-letras/barrio-de-las-letras-madrid-plaza-santa-ana-17-hero.webp"
+  alt: "Die Plaza de Santa Ana bei Nacht, ein Viertel voller Tapas-Bars"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

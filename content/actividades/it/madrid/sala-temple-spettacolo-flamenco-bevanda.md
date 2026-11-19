@@ -83,6 +83,14 @@ galeria:
   alt: "Ballerina di flamenco sul palco di Sala Temple"
 - src: "/images/actividades/madrid/sala-temple/sala-escenario.webp"
   alt: "La sala di Sala Temple"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facciata del Museo del Prado sul Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao e la Gran Vía di notte"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "La statua di Filippo III e la Casa de la Panadería in Plaza Mayor"
 ratingProveedor: 4.7
 numeroOpiniones: 1413
 publicada: true

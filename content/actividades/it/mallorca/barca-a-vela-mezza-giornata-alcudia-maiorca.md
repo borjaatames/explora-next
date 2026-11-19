@@ -77,6 +77,14 @@ galeria:
   alt: "Barca a vela al tramonto"
 - src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-unsplash-x0-gvpl3oka.webp"
   alt: "Caletta turchese sotto le rocce nel nord di Maiorca"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pexels-23698698.webp"
+  alt: "Catamarano a vela su una spiaggia del nord di Maiorca"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pixabay-8254024.webp"
+  alt: "Piccolo porto con barche sulla costa di Maiorca"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "La Cattedrale di Palma sopra le mura sul mare"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gargoyle gotico sulla facciata della Cattedrale di Palma"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

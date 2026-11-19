@@ -97,6 +97,10 @@ galeria:
   alt: Torre del Oro e o Guadalquivir à noite
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
   alt: Margem do Guadalquivir em Sevilha
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol (as Setas) em Sevilha"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Ponte de Triana sobre o Guadalquivir"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

@@ -79,6 +79,8 @@ galeria:
   alt: "Le hameau de Masca au milieu des montagnes"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico et son rocher"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Le Teide avec de la neige au sommet"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

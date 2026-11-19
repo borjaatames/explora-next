@@ -73,6 +73,12 @@ galeria:
   alt: "Artistes faisant les palmas au tablao"
 - src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
   alt: "Danseuse au châle fleuri"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La cathédrale de l'Almudena illuminée le soir"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "La Real Casa de Correos sur la Puerta del Sol la nuit"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "La Calle de las Huertas, rue de bars du Barrio de las Letras"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

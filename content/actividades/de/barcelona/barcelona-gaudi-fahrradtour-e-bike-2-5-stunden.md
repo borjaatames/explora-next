@@ -87,6 +87,8 @@ galeria:
   alt: "Türme der Sagrada Família vor blauem Himmel"
 - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
   alt: "Die Casa Batlló nachts beleuchtet am Passeig de Gràcia"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
+  alt: "Dachterrasse der Casa Batlló bei Nacht mit Livemusik und Blick über Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

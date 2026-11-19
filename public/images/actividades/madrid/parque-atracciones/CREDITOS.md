@@ -16,3 +16,5 @@ Créditos añadidos el 23-10-2026 (misma foto que otra ya acreditada):
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `montana-rusa-pasajeros.webp` — Antonino Giangrasso, licencia Pexels, vía Pexels (https://www.pexels.com/photo/19546881/)
 - `noria-cielo-azul.webp` — Pixabay, foto 6552970, licencia Pixabay (https://pixabay.com/photos/id-6552970/)
+| parque-atracciones-wikimedia-01.webp | Wikimedia Commons | Jeremy Thompson from Los Angeles, California | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Parque_de_Atracciones_Madrid_176_(4626331934).jpg |
+| parque-atracciones-wikimedia-05.webp | Wikimedia Commons | Freddo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Los_Fiordos_-_Parque_de_Atracciones_de_Madrid.jpg |

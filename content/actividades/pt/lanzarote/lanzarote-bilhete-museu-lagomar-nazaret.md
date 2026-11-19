@@ -88,6 +88,8 @@ galeria:
   alt: "Jardim com palmeiras e catos junto à rocha no LagOmar"
 - src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
   alt: "Muros brancos e vegetação sobre a rocha no LagOmar"
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Barcos de pesca em Arrecife, a capital de Lanzarote"
 ---
 
 ## O que vai ver

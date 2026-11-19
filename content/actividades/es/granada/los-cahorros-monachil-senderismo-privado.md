@@ -95,6 +95,10 @@ galeria:
   alt: Grupo cruzando un puente colgante
 - src: https://imgcdn.bokun.tools/cfca74ad-d23f-4286-bbd5-3cc9ab91c65a.jpg
   alt: Pasarela metálica en el desfiladero
+- src: "/images/actividades/granada/cahorros/cahorros-wikimedia-02.webp"
+  alt: "Senderistas en un puente colgante de Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-pexels-27097930.webp"
+  alt: "Senderistas en un desfiladero de roca caliza"
 bokunProductId: 860680
 fecha_actualizacion: '2026-10-24'
 precioPorGrupo: true

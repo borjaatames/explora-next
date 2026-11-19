@@ -67,6 +67,18 @@ imagenAlt: "O grupo de flamenco completo em Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "A sala de Pura Esencia"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "Torre del Oro junto ao Guadalquivir"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada do Palácio de Pedro I no Real Alcázar de Sevilha"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Curvas das Setas contra o céu azul"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada da Catedral de Sevilha entre palmeiras"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arcadas da Plaza de España com os seus bancos de azulejo"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "A Giralda vista das muralhas do Real Alcázar"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

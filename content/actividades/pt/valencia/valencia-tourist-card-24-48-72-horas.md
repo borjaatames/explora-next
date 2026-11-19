@@ -80,6 +80,8 @@ galeria:
   alt: "A Cidade das Artes e das Ciências refletida na água"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
   alt: "Arquitetura do Oceanogràfic de Valência"
+- src: "/images/actividades/valencia/centro/torres-serranos-palmeras.webp"
+  alt: "As Torres de Serranos, a antiga porta da cidade"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

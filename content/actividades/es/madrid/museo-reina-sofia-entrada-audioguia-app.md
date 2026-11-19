@@ -67,12 +67,24 @@ keywords:
 imagen: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-madrid-spain-hero.webp
 imagenAlt: Museo Reina Sofía de Madrid
 galeria:
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp
-  alt: Ascensores de cristal de la fachada del Museo Reina Sofía
-- src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp
-  alt: Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid
-- src: /images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp
-  alt: Torres de ascensores del edificio Sabatini
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394601959-hero.webp"
+  alt: "Ascensores de cristal de la fachada del Museo Reina Sofía"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-nacional-centro-arte-plaza-juan-hero.webp"
+  alt: "Fachada del Museo Reina Sofía en la plaza de Juan Goytisolo, Madrid"
+- src: "/images/actividades/madrid/reina-sofia/pexels-11450478-hero.webp"
+  alt: "Torres de ascensores del edificio Sabatini"
+- src: "/images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp"
+  alt: "Museo Reina Sofía de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "El Palacio Real de Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos en la Puerta del Sol de noche"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada del Museo del Prado en el Paseo del Arte, Madrid"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

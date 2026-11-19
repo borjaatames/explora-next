@@ -81,6 +81,10 @@ galeria:
   alt: Vetrate blu e verdi che illuminano la navata della Sagrada Família
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Dettaglio della facciata della Gloria con le finestre a piramide
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp"
+  alt: "La basilica della Sagrada Família con le sue guglie"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
+  alt: "La Sagrada Família a Barcellona"
 atraccionesRelacionadas:
 - sagrada-familia
 publicada: true

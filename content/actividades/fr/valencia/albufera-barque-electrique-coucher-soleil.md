@@ -98,6 +98,8 @@ galeria:
   alt: "Ciel rouge se reflétant dans le lac de l'Albufera après le coucher du soleil"
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
   alt: "Canal avec des barques traditionnelles à la tombée de la nuit à l'Albufera"
+- src: "/images/actividades/valencia/albufera/albufera-wikimedia-02.webp"
+  alt: "Barque amarrée dans les roseaux de l'Albufera"
 ---
 
 ## Ce que vous verrez

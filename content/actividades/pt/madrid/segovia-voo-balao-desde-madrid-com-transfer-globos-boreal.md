@@ -75,6 +75,14 @@ galeria:
   alt: "Balões ao nascer do sol sobre o Alcázar de Segóvia"
 - src: "/images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp"
   alt: "As torres de Segóvia vistas do ar"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "O letreiro néon do Tío Pepe na Puerta del Sol ao entardecer"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estátua de Filipe III e a Casa de la Panadería na Plaza Mayor"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "A Plaza del Callao e a Gran Vía à noite"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -82,6 +82,8 @@ galeria:
   alt: Baobab im afrikanischen Lebensraum des Bioparc
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Vogel mit blauem Gefieder im Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Stumpfkrokodil im Bioparc Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

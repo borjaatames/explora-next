@@ -74,6 +74,16 @@ galeria:
   alt: "Palais nasrides de l'Alhambra"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp"
   alt: "Palais nasrides de l'Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
+  alt: "Colonnade de la cour des Lions"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Vue aérienne de la forteresse de l'Alhambra à Grenade avec l'enceinte palatiale et les remparts"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
+  alt: "Vue de l'architecture historique et du paysage urbain de Grenade"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp"
+  alt: "Fontaine de la cour des Lions de l'Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+  alt: "L'Alhambra et le quartier de l'Albaicín"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

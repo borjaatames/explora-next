@@ -76,6 +76,12 @@ galeria:
   alt: "Sculpture faite d'enjoliveurs devant le musée"
 - src: "/images/actividades/malaga/museo-automovil/museo-automovil-wikimedia-06.webp"
   alt: "Moteur historique sous vitrine"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-36352989.webp"
+  alt: "Cabriolet rouge des années 50 exposé"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-11408644.webp"
+  alt: "Voiture ancienne verte dans un musée de l'automobile"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-18435540.webp"
+  alt: "Détail chromé d'une voiture d'époque"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

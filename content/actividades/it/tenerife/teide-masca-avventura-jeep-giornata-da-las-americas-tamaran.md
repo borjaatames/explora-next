@@ -79,6 +79,8 @@ galeria:
   alt: "Il borgo di Masca tra le montagne"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico e il suo faraglione"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Il Teide sopra la caldera di Las Cañadas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -7,3 +7,5 @@
 - `flz-muros-blancos.webp` — Frank Vincentz, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Teguise_Nazaret_-_Calle_Los_Loros_-_Lagomar_03_ies.jpg) · recortada a 1600×1200
 - `flz-tunel-blanco.webp` — wurliburli, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/lance-red-nazareth-architecture-4907338/) · recortada a 1600×1200
 - `flz-terraza-roca.webp` — Frank Vincentz, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Teguise_Nazaret_-_Calle_Los_Loros_-_Lagomar_18_ies.jpg) · recortada a 1600×1200
+| lagomar-wikimedia-01.webp | Wikimedia Commons | Frank Vincentz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Teguise_Nazaret_-_Calle_Los_Loros_-_Lagomar_16_ies.jpg |
+| lagomar-wikimedia-03.webp | Wikimedia Commons | Frank Vincentz | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Teguise_Nazaret_-_Calle_Los_Loros_-_Lagomar_21_ies.jpg |

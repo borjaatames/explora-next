@@ -71,16 +71,24 @@ keywords:
 imagen: /images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-ice-fisheye-hero.webp
 imagenAlt: Panoramic view of Park Güell with its characteristic mosaics
 galeria:
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp
-  alt: Park Güell guided tour group on the serpentine bench terrace
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp
-  alt: El Drac, Park Güell's famous mosaic salamander
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp
-  alt: Park Güell by Gaudí with panoramic views of Barcelona (view 2)
-- src: /images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp
-  alt: Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)
-- src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
-  alt: Entrance pavilion of Park Güell
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"
+  alt: "Park Güell guided tour group on the serpentine bench terrace"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-parc-drac-hero.webp"
+  alt: "El Drac, Park Güell's famous mosaic salamander"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-catalonia-gaudi-hero.webp"
+  alt: "Park Güell by Gaudí with panoramic views of Barcelona (view 2)"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+  alt: "Park Güell by Gaudí — mosaic detail (with panoramic views of Barcelona)"
+- src: "/images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp"
+  alt: "Entrance pavilion of Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-50030738571-hero.webp"
+  alt: "Park Güell with the Gaudí House Museum in the background"
+- src: "/images/actividades/barcelona/park-guell/park-guell-view-garden-palm-trees-background-hero.webp"
+  alt: "Stone viaduct among palm trees in Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-green-yellow-concrete-statue-hero.webp"
+  alt: "Serpentine trencadís bench in Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp"
+  alt: "Stone porticoes and staircase in Park Güell"
 atraccionesRelacionadas:
 - park-guell
 publicada: true

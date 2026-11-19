@@ -79,18 +79,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-pergola.webp
 imagenAlt: "Pérgola con bancos y vegetación en el Jardín Botánico Marimurtra"
 galeria:
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-acantilado-cala.webp"
   alt: "El jardín botánico Marimurtra sobre el acantilado de Blanes y la cala"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-flores-moradas.webp"
   alt: "Flores moradas en el Jardín Botánico Marimurtra"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-costa-desde-jardin.webp"
   alt: "La costa de Blanes vista desde el jardín"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-suculenta-oscura.webp"
   alt: "Suculenta de hojas oscuras en la zona árida del jardín"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-cala-desde-jardin.webp"
   alt: "Cala de aguas turquesas vista desde Marimurtra"
-- src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
+- src: "/images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp"
   alt: "El Mediterráneo visto desde el Jardín Botánico Marimurtra"
+- src: "/images/actividades/girona/catedral-girona/catedral-girona-01.webp"
+  alt: "Catedral de Girona sobre su escalinata"
+- src: "/images/actividades/girona/tossa-de-mar/tossa-de-mar-04.webp"
+  alt: "Murallas y torre de la Vila Vella con la playa de Tossa"
 ---
 
 ## Qué vas a ver

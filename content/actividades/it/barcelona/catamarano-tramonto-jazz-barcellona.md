@@ -74,6 +74,12 @@ galeria:
   alt: "Barche al Port Vell con la torre della funivia del porto"
 - src: "/images/actividades/barcelona/barcos-2/catamaran-unsplash-5acng3dqehi.webp"
   alt: "Spiaggia di Barcellona con palme al crepuscolo"
+- src: "/images/actividades/barcelona/barcos-2/velero-pixabay-7467760.webp"
+  alt: "Barche a vela nel porto di Barcellona"
+- src: "/images/actividades/barcelona/barcos-2/velero-pixabay-7619463.webp"
+  alt: "Alberi delle barche a vela al Port Vell sotto un cielo azzurro"
+- src: "/images/actividades/barcelona/barcos-2/velero-unsplash-maeeopw4kh8.webp"
+  alt: "Barche a vela nel porto al crepuscolo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

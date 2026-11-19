@@ -7,3 +7,5 @@
 | jeep-wikimedia-05.webp | Wikimedia Commons | Vicenç Salvador Torres Guerola | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:0.1._Mar_Mediterr%C3%A0nia_-_Serra_de_Tramuntana._Torrent_de_Pareis._(Escorca,_Mallorca).jpg |
 | jeep-wikimedia-04.webp | Wikimedia Commons | Vicenç Salvador Torres Guerola | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:0.5._Mar_Mediterr%C3%A0nia_-_Serra_de_Tramuntana._Torrent_de_Pareis._(Escorca,_Mallorca).jpg |
 | jeep-wikimedia-01.webp | Wikimedia Commons | H. Zell | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Puig_d%27Alar%C3%B3_-_Serra_de_Tramuntana_-_Mallorca.jpg |
+| jeep-pexels-33576916.webp | Pexels | Quentin Martinez | Licencia Pexels | https://www.pexels.com/photo/white-suv-exploring-rugged-mountain-terrain-33576916/ |
+| jeep-wikimedia-06.webp | Wikimedia Commons | Vicenç Salvador Torres Guerola | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Serra_de_Tramuntana,_1.jpg |

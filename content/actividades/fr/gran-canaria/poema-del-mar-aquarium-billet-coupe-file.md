@@ -88,6 +88,8 @@ galeria:
   alt: 'Las Palmas de Gran Canaria et la plage de Las Canteras'
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
   alt: 'Port de Las Palmas de Gran Canaria entre les palmiers'
+- src: "/images/actividades/gran-canaria/maspalomas/dunas-maspalomas-montanas.webp"
+  alt: "Dunes de Maspalomas avec les montagnes de Grande Canarie au fond"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

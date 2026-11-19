@@ -97,6 +97,10 @@ galeria:
   alt: La Torre del Oro e il Guadalquivir di notte
 - src: /images/actividades/sevilla/kayak-guadalquivir/guadalquivir-orilla.webp
   alt: Riva del Guadalquivir a Siviglia
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Cattedrale e la Giralda di Siviglia"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facciata del Palazzo di Pietro I nel Real Alcázar di Siviglia"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

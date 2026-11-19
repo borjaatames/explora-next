@@ -94,6 +94,8 @@ galeria:
   alt: Amis trinquant au vin rouge dans un bar à tapas
 - src: https://imgcdn.bokun.tools/f08f4556-0af9-4224-8a03-26ef8e490fb5.jpg
   alt: Comptoir de pintxos dans une taverne de Barcelone
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Coucher de soleil sur la plage de la Barceloneta avec l’hôtel W au fond"
 bokunProductId: 217560
 fecha_actualizacion: '2026-10-24'
 privada: true

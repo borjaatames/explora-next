@@ -81,6 +81,10 @@ galeria:
   alt: Détail de mosaïque au Park Güell
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
   alt: Le pavillon d'entrée du Park Güell
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-landmark-monument-hero.webp"
+  alt: "Banc en trencadís près des palmiers au Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-antonio-gaudi-hero.webp"
+  alt: "Le banc ondulé en trencadís de la Plaça de la Natura"
 atraccionesRelacionadas:
 - park-guell
 publicada: true

@@ -74,6 +74,12 @@ galeria:
   alt: "Rue de Barcelone avec la Torre Glòries au fond"
 - src: "/images/actividades/barcelona/torre-glories/torre-glories-wikimedia-02.webp"
   alt: "La Torre Glòries au-dessus des toits de Barcelone"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-pixabay-4744172.webp"
+  alt: "L'Eixample et la Torre Glòries vus d'en haut"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-unsplash-08bthh0ir40.webp"
+  alt: "Barcelone la nuit avec la Torre Glòries illuminée"
+- src: "/images/actividades/barcelona/torre-glories/torre-glories-wikimedia-05.webp"
+  alt: "Façade de la Torre Glòries aux lumières colorées"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

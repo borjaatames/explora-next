@@ -86,6 +86,16 @@ galeria:
   alt: "Guitarra y cante en directo en La Guarida del Ángel"
 - src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
   alt: "Bailaora en el escenario de La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Caballo andaluz tordo montado por un jinete vestido de corto"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp"
+  alt: "Cúpula con lucernarios estrellados de los baños árabes del Alcázar de Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-blanco-levada.webp"
+  alt: "Caballo blanco alzado sobre las patas traseras"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Jardines con palmeras junto al palacio de la Real Escuela, en Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+  alt: "Baños árabes del Alcázar de Jerez"
 ---
 
 ## Qué vas a ver

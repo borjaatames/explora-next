@@ -73,6 +73,10 @@ galeria:
   alt: 'La Plaza Mayor di Cuenca'
 - src: https://imgcdn.bokun.tools/ae4f5db2-a26a-4294-9a08-4966b8f08a6e.jpg
   alt: 'Belvedere sulle gole di Cuenca'
+- src: "https://imgcdn.bokun.tools/69be4499-56bf-4e41-bfb5-d4b912816485.jpg"
+  alt: "Navata gotica della cattedrale di Cuenca"
+- src: "https://imgcdn.bokun.tools/ce325087-143c-40cf-8af4-ca1154dfb8f4.jpg"
+  alt: "Passerella illuminata verso le Casas Colgadas di notte"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

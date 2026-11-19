@@ -86,6 +86,12 @@ galeria:
   alt: "Ballerina di flamenco sul palco di Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Ingresso di Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Giardini con palme accanto al palazzo della Real Escuela, a Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+  alt: "Bagni arabi dell'Alcázar di Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp"
+  alt: "Tiro di cavalli grigi con carrozza addobbata in una fiera andalusa"
 ---
 
 ## Cosa vedrai

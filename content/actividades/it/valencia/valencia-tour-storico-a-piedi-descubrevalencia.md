@@ -74,6 +74,8 @@ galeria:
   alt: "Esterno del Mercato Centrale di Valencia"
 - src: "/images/actividades/valencia/centro/mercado-central-interior.webp"
   alt: "Interno modernista del Mercato Centrale"
+- src: "/images/actividades/valencia/centro/palau-arts.webp"
+  alt: "Il Palau de les Arts Reina Sofía di notte"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

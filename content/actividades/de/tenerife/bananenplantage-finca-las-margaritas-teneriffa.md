@@ -75,6 +75,12 @@ galeria:
   alt: "Reihen von Bananenpflanzen in einer Plantage"
 - src: "/images/actividades/tenerife/platano/platano-unsplash-3qvpfwwvcgc.webp"
   alt: "Kanarische Bananen kurz vor der Ernte"
+- src: "/images/actividades/tenerife/platano/platano-unsplash-rcw4sq6n5uk.webp"
+  alt: "Weg unter Bananenblättern"
+- src: "/images/actividades/tenerife/platano/platano-pixabay-219268.webp"
+  alt: "Bananenfelder am Meer im Norden Teneriffas"
+- src: "/images/actividades/tenerife/costa-adeje/costa-adeje-vista.webp"
+  alt: "Blick auf die Küste von Costa Adeje"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

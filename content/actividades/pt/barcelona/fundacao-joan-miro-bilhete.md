@@ -85,6 +85,8 @@ galeria:
   alt: 'Escultura de Miró à entrada da Fundação'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
   alt: 'A Fundação Miró vista da avenida de Montjuïc'
+- src: "/images/actividades/barcelona/fundacio-miro/fundacio-miro-wikimedia-07.webp"
+  alt: "Terraço da Fundació Miró com vista para Barcelona"
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

@@ -12,3 +12,5 @@
 Origen local: `E:\imagenes-master\_descargas-2026-10-17\madrid--zoo-aquarium\` (copias en `E:\imagenes-master\madrid\zoo-aquarium\`).
 | zoo-iguana.webp | Wikimedia Commons | Fernando Losada Rodríguez · File:Cyclura cornuta.004 - Zoo Aquarium de Madrid.JPG · https://commons.wikimedia.org/wiki/File:Cyclura_cornuta.004_-_Zoo_Aquarium_de_Madrid.JPG | CC BY-SA 4.0 |
 | zoo-tortugas.webp | Wikimedia Commons | Fernando Losada Rodríguez · File:Stigmochelys pardalis.002 - Zoo Aquarium de Madrid.jpg · https://commons.wikimedia.org/wiki/File:Stigmochelys_pardalis.002_-_Zoo_Aquarium_de_Madrid.jpg | CC BY-SA 4.0 |
+| zoo-aquarium-wikimedia-02.webp | Wikimedia Commons | Fernando Losada Rodríguez | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Hippopotamus_amphibius.001_-_Zoo_Aquarium_de_Madrid.JPG |
+| zoo-aquarium-wikimedia-01.webp | Wikimedia Commons | Fernando Losada Rodríguez | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Ailuropoda_melanoleuca.001_-_Zoo_Aquarium_de_Madrid.JPG |

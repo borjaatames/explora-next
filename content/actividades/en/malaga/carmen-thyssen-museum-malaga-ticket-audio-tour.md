@@ -73,6 +73,10 @@ galeria:
   alt: Central nave of Málaga Cathedral
 - src: /images/actividades/malaga/catedral-malaga/catedral-malaga-05.webp
   alt: Vaults of Málaga Cathedral
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-06.webp"
+  alt: "Chapel with altarpiece in Málaga Cathedral"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-08.webp"
+  alt: "East end of Málaga Cathedral among palm trees"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

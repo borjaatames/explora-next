@@ -74,6 +74,14 @@ galeria:
   alt: "Costa rocciosa e montagne del parco naturale di Llevant"
 - src: "/images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp"
   alt: "Interno di una grotta marina sulla costa di Maiorca"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pixabay-10394760.webp"
+  alt: "Kayak solitario in mare"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pexels-14810113.webp"
+  alt: "Kayak sull'acqua turchese visti dall'alto"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp"
+  alt: "Gruppo di kayak che pagaiano accanto ad alcuni scogli"
+- src: "/images/actividades/mallorca/cueva-pirata/cueva-pirata-pixabay-4848741.webp"
+  alt: "Vecchio pontile di legno nella baia di Alcúdia"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

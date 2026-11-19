@@ -77,14 +77,22 @@ keywords:
 imagen: /images/actividades/madrid/faunia/leones-marinos.webp
 imagenAlt: Exhibición de leones marinos en Faunia, Madrid
 galeria:
-- src: /images/actividades/madrid/faunia/flamencos.webp
-  alt: Flamencos en Faunia, Madrid
-- src: /images/actividades/madrid/faunia/dinosaurio.webp
-  alt: Réplica de dinosaurio en el recorrido de Faunia
-- src: /images/actividades/madrid/faunia/entrada-faunia.webp
-  alt: Entrada de Faunia, el parque de naturaleza de Madrid
-- src: /images/actividades/madrid/faunia/lago-faunia.webp
-  alt: Lago con patos en Faunia
+- src: "/images/actividades/madrid/faunia/flamencos.webp"
+  alt: "Flamencos en Faunia, Madrid"
+- src: "/images/actividades/madrid/faunia/dinosaurio.webp"
+  alt: "Réplica de dinosaurio en el recorrido de Faunia"
+- src: "/images/actividades/madrid/faunia/entrada-faunia.webp"
+  alt: "Entrada de Faunia, el parque de naturaleza de Madrid"
+- src: "/images/actividades/madrid/faunia/lago-faunia.webp"
+  alt: "Lago con patos en Faunia"
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tiranosaurio entre árboles en Faunia"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Cartel luminoso de Tío Pepe en la Puerta del Sol al anochecer"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

@@ -74,6 +74,12 @@ galeria:
   alt: "Le scuderie nel seminterrato del Palau Güell"
 - src: "/images/actividades/barcelona/palau-guell/palau-guell-wikimedia-02.webp"
   alt: "Cortile interno del Palau Güell visto dall'alto"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Il Port Vell con il monumento a Colombo"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Tramonto sulla spiaggia della Barceloneta con l'Hotel W sullo sfondo e le onde sulla riva"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Vicolo stretto del Barrio Gótico con balconi"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -76,6 +76,14 @@ galeria:
   alt: "Tête d'un cheval andalou blanc"
 - src: "/images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp"
   alt: "La vallée de Sóller et la Serra de Tramuntana"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "La cathédrale de Palma au-dessus des remparts"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Les falaises du cap de Formentor au-dessus de la mer"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Baigneurs dans l'eau claire du Caló des Moro"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-pinaculos.webp"
+  alt: "Pinacles gothiques de la cathédrale de Palma"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

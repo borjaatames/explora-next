@@ -78,6 +78,10 @@ galeria:
   alt: "Architecture de l’Oceanogràfic de Valence, Cité des Arts"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp"
   alt: "L’Hemisfèric sous les nuages, Cité des Arts"
+- src: "/images/actividades/valencia/centro/plaza-reina-micalet.webp"
+  alt: "La Plaza de la Reina avec le Micalet et la cathédrale de Valence"
+- src: "/images/actividades/valencia/centro/micalet-naranjos.webp"
+  alt: "Le clocher du Micalet parmi les orangers"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

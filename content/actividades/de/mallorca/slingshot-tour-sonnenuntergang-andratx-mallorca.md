@@ -77,6 +77,12 @@ galeria:
   alt: "Die Bucht von Port d'Andratx"
 - src: "/images/actividades/mallorca/andratx/andratx-formula-wikimedia-05.webp"
   alt: "Leuchtturm an der Hafeneinfahrt von Port d'Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-pexels-7391756.webp"
+  alt: "Hügel und Meer bei Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-wikimedia-04.webp"
+  alt: "Boote im Hafen von Port d'Andratx"
+- src: "/images/actividades/mallorca/andratx/andratx-wikimedia-06.webp"
+  alt: "Die Bucht von Port d'Andratx unter Wolken"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -92,6 +92,8 @@ galeria:
   alt: 'Die Casa Vicens von der Carrer de les Carolines aus'
 - src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
   alt: 'Gitter mit Zwergpalmenblättern der Casa Vicens'
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Der Palau Nacional auf dem Montjuïc, Sitz des MNAC"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

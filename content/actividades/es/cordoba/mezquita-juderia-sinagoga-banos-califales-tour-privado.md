@@ -78,6 +78,12 @@ galeria:
   alt: "Cúpula del mihrab de la Mezquita"
 - src: "/images/actividades/cordoba/juderia/calle-juderia.webp"
   alt: "Calle de la Judería de Córdoba"
+- src: "/images/actividades/cordoba/juderia/fvc-plaza-juderia-visitantes.webp"
+  alt: "Visitantes en una plaza de la Judería de Córdoba"
+- src: "/images/actividades/cordoba/juderia/fvc-plazuela-juderia.webp"
+  alt: "Plazuela de la Judería de Córdoba"
+- src: "/images/actividades/cordoba/juderia/fvc-calleja-macetas-azules.webp"
+  alt: "Calleja encalada con macetas azules en el casco histórico de Córdoba"
 bokunProductId: 396289
 bokunPedirPersonas: true
 preciosGrupo:

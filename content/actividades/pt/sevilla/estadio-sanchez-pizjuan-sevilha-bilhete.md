@@ -73,6 +73,12 @@ galeria:
   alt: "As bancadas vermelhas do Ramón Sánchez-Pizjuán"
 - src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-06.webp"
   alt: "O grande mosaico na fachada do estádio"
+- src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-02.webp"
+  alt: "Estádio Ramón Sánchez-Pizjuán cheio num jogo noturno"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Ruela do bairro de Santa Cruz, em Sevilha"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada do Palácio de Pedro I no Real Alcázar de Sevilha"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

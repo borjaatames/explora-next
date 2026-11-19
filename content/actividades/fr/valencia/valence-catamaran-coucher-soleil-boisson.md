@@ -94,6 +94,8 @@ galeria:
   alt: Barques sur la plage du Cabanyal au coucher du soleil
 - src: /images/actividades/valencia/mar/arenas-orilla.webp
   alt: Le soleil sur la mer à la plage de Las Arenas
+- src: "/images/actividades/valencia/turia/fvc-jardin-turia-palau-arts.webp"
+  alt: "Le Jardín del Turia et le Palau de les Arts"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

@@ -80,18 +80,22 @@ keywords:
 imagen: /images/actividades/barcelona/casa-vicens/casa-vicens-fachada.webp
 imagenAlt: 'Façade of Casa Vicens with its green and white tiles'
 galeria:
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-torreones.webp
-  alt: 'Turrets and tiles of Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-jardin-celosias.webp
-  alt: 'Garden and lattice shutters of Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-balcon.webp
-  alt: 'Wrought-iron balcony of Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-escalera-jardin.webp
-  alt: 'Garden staircase of Casa Vicens'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-carrer-carolines.webp
-  alt: 'Casa Vicens seen from Carrer de les Carolines'
-- src: /images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp
-  alt: 'Palmetto-leaf railing of Casa Vicens'
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-torreones.webp"
+  alt: "Turrets and tiles of Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-jardin-celosias.webp"
+  alt: "Garden and lattice shutters of Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-balcon.webp"
+  alt: "Wrought-iron balcony of Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-escalera-jardin.webp"
+  alt: "Garden staircase of Casa Vicens"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-carrer-carolines.webp"
+  alt: "Casa Vicens seen from Carrer de les Carolines"
+- src: "/images/actividades/barcelona/casa-vicens/casa-vicens-reja-palmitos.webp"
+  alt: "Palmetto-leaf railing of Casa Vicens"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
 ratingProveedor: 4.7
 numeroOpiniones: 5917
 publicada: true

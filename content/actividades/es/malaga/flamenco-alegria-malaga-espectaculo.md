@@ -88,6 +88,18 @@ galeria:
   alt: "Bailaora en el escenario de Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Guitarra y cante en directo en Alegría Flamenco"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Catedral de Málaga, cerca del Museo Picasso"
+- src: "/images/actividades/malaga/muelle-uno/muelle-uno-vista.webp"
+  alt: "Muelle Uno en el puerto de Málaga"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "Teatro Romano de Málaga con la Alcazaba al fondo"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "La plaza de toros de La Malagueta frente al mar"
+- src: "/images/actividades/malaga/catedral-malaga/coro.webp"
+  alt: "Coro de madera tallada de la Catedral de Málaga"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Alcazaba y Gibralfaro de Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

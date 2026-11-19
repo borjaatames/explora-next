@@ -75,6 +75,12 @@ galeria:
   alt: "Pini canari e mare di nuvole al tramonto sulle alture di Tenerife"
 - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
   alt: "La vetta del Teide illuminata al tramonto sopra le nuvole"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Il Teide con la vetta innevata"
+- src: "/images/actividades/tenerife/teide/pico-viejo-volcan.webp"
+  alt: "Il vulcano Pico Viejo nel Parco Nazionale del Teide"
+- src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+  alt: "Vista dai Roques de García"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

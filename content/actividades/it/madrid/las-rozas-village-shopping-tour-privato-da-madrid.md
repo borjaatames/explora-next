@@ -78,6 +78,8 @@ galeria:
   alt: L'autista apre la porta a una cliente
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Cliente con borse della spesa a Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Terrazza di un ristorante a Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

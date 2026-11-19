@@ -72,6 +72,12 @@ galeria:
   alt: "Der Albaicín von den Gärten der Alhambra aus gesehen"
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
   alt: "Weiße Häuser im Albaicín in Granada"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "Die Alhambra im Licht der Nachmittagssonne"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "Der Albaicín am späten Nachmittag"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+  alt: "Die Alcazaba der Alhambra in der Abenddämmerung über Granada"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

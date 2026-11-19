@@ -72,6 +72,16 @@ galeria:
   alt: "Pico Viejo volcano"
 - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
   alt: "Las Cañadas del Teide"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Teide from the floor of Las Cañadas"
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "Teide from the north-east"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Snow-capped summit of Teide"
+- src: "/images/actividades/tenerife/teide/crater-teide-las-canadas.webp"
+  alt: "Teide's cone and crater above Las Cañadas"
+- src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+  alt: "Los Roques de García, next to the Observatory"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

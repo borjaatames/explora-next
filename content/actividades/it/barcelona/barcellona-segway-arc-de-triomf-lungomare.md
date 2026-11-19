@@ -85,6 +85,8 @@ galeria:
   alt: "Vicolo stretto del Barrio Gótico con balconi"
 - src: "/images/actividades/barcelona/catedral/catedral-barcelona-detailed-facade-cathedral-hero.webp"
   alt: "Il portale principale della Cattedrale di Barcellona"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-01-hero.webp"
+  alt: "Bagnanti e passanti sulla sabbia della Barceloneta in una giornata di sole"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

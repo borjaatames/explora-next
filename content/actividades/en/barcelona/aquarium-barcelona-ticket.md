@@ -82,6 +82,8 @@ galeria:
   alt: 'Underwater tunnel at the Aquàrium de Barcelona'
 - src: /images/actividades/barcelona/aquarium/tiburon-fondo-marino.webp
   alt: 'Sharks in the large tank at the Aquàrium de Barcelona'
+- src: "/images/actividades/barcelona/aquarium/aquarium-wikimedia-03.webp"
+  alt: "Lit tank at the Aquàrium de Barcelona"
 ratingProveedor: 4.4
 numeroOpiniones: 19870
 atraccionesRelacionadas:

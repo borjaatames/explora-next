@@ -71,6 +71,22 @@ galeria:
   alt: "Live guitar and singing at Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Male flamenco dancer on stage at Los Tarantos"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Archaeological remains of 1714 Barcelona beneath the old Born market structure"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Narrow street in Barcelona's Gothic Quarter at dusk"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

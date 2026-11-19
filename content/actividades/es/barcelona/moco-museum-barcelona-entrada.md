@@ -70,6 +70,16 @@ galeria:
   alt: "Santa Maria del Mar, en El Born"
 - src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
   alt: "Calles de El Born, el barrio del Moco Museum"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-interior.webp"
+  alt: "Nave gótica de Santa Maria del Mar con el rosetón al fondo"
+- src: "/images/actividades/barcelona/born/born-wikimedia-07.webp"
+  alt: "Patio gótico de los palacios del Museu Picasso"
+- src: "/images/actividades/barcelona/born/born-wikimedia-08.webp"
+  alt: "Fachadas medievales de la calle Montcada en el Born"
+- src: "/images/actividades/barcelona/born/born-wikimedia-06.webp"
+  alt: "Entrada del Museu Picasso en un palacio gótico"
+- src: "/images/actividades/barcelona/born/born-wikimedia-01.webp"
+  alt: "Calle Montcada junto al Museu Picasso"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

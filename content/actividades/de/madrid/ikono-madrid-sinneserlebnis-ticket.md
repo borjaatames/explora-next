@@ -68,6 +68,18 @@ imagenAlt: "Die Gran Vía im Zentrum Madrids"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "Die Gran Vía im Zentrum Madrids"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-metropolis-wide-view-hero.webp"
+  alt: "Die Gran Vía mit dem Metrópolis-Gebäude"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-iconic-metropolis-building-under-hero.webp"
+  alt: "Das Metrópolis-Gebäude am Anfang der Gran Vía"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "Plaza de Callao und das Edificio Carrión bei Nacht"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao und Gran Vía bei Nacht"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+  alt: "Edificio Capitol an der Plaza de Callao, neben der Calle Mesonero Romanos"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-december-2023-02-hero.webp"
+  alt: "Die weihnachtlich geschmückte Gran Vía in Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

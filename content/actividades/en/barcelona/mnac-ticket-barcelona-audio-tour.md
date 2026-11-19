@@ -74,6 +74,10 @@ galeria:
   alt: Interior dome of the Palau Nacional
 - src: /images/actividades/barcelona/mnac/mnac-pantocrator-taull.webp
   alt: Christ Pantocrator from the apse of Sant Climent de Taüll at the MNAC
+- src: "/images/actividades/barcelona/mnac/palau-nacional-fachada-fuente.webp"
+  alt: "Palau Nacional, home of the MNAC, on Montjuïc"
+- src: "/images/actividades/barcelona/mnac/mnac-sala-absides-romanicos.webp"
+  alt: "Romanesque gallery at the MNAC with the Sant Climent de Taüll apse"
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

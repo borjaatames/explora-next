@@ -7,3 +7,5 @@
 - `esnorquel-fondo-rocoso.webp` — Bastian Riccardi, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/a-man-using-snorkel-under-the-water-4050076/) · recortada a 1600×1200
 - `dos-kayaks-agua-transparente.webp` — Lio Voo, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/kayakers-paddling-on-open-seas-14810113/) · recortada a 1600×1200
 - `fondo-marino-rocas.webp` — Engin Akyurt, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/brown-rock-formation-underwater-6621690/) · recortada a 1600×1200
+| fma-kayak-alcudia-pexels-14810113.webp | Pexels | Lio Voo | Licencia Pexels | https://www.pexels.com/photo/kayakers-paddling-on-open-seas-14810113/ |
+| fma-kayak-alcudia-pixabay-10394760.webp | Pixabay | ArtLis | Licencia Pixabay | https://pixabay.com/photos/water-sea-paddle-black-and-white-10394760/ |

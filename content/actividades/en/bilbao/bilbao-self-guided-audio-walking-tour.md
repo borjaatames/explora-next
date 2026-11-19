@@ -73,6 +73,10 @@ galeria:
   alt: Pedestrian street in Bilbao Old Town
 - src: /images/actividades/bilbao/casco-viejo/fbi-casco-viejo-comercio.webp
   alt: Traditional shop in Bilbao Old Town
+- src: "/images/actividades/bilbao/casco-viejo/plaza-nueva-terrazas.webp"
+  alt: "Terraces in Bilbao's Plaza Nueva"
+- src: "/images/actividades/bilbao/casco-viejo/plaza-escaleras-casco-viejo.webp"
+  alt: "Square and Mallona steps in Bilbao Old Town"
 atraccionesRelacionadas:
 - casco-viejo
 - tours-a-pie

@@ -75,6 +75,12 @@ galeria:
   alt: "File di banani in una piantagione"
 - src: "/images/actividades/tenerife/platano/platano-unsplash-3qvpfwwvcgc.webp"
   alt: "Banane delle Canarie prima del raccolto"
+- src: "/images/actividades/tenerife/platano/platano-pexels-6012718.webp"
+  alt: "Piantagione di banane ai piedi del monte a Tenerife"
+- src: "/images/actividades/tenerife/platano/platano-unsplash-rcw4sq6n5uk.webp"
+  alt: "Sentiero sotto le foglie dei banani"
+- src: "/images/actividades/tenerife/masca/masca-caserio.webp"
+  alt: "Il borgo di Masca tra le montagne"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

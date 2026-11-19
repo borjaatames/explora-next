@@ -73,18 +73,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/1ecc7251-05f9-487b-8d4b-1fe71bd7e578.jpeg
 imagenAlt: "Ambiente de la noche social de Los Patos en Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/91c786ee-2d7e-4d2b-996b-2a284214af7e.jpeg
+- src: "https://imgcdn.bokun.tools/91c786ee-2d7e-4d2b-996b-2a284214af7e.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
-- src: https://imgcdn.bokun.tools/98efb540-6f06-4114-93a5-e07772c3f301.jpeg
+- src: "https://imgcdn.bokun.tools/98efb540-6f06-4114-93a5-e07772c3f301.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
-- src: https://imgcdn.bokun.tools/5a6ea448-1bea-445d-af28-750b04273ac2.jpeg
+- src: "https://imgcdn.bokun.tools/5a6ea448-1bea-445d-af28-750b04273ac2.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
-- src: https://imgcdn.bokun.tools/f40083a6-bfe3-4e85-bb8f-b3ecaf6e11aa.jpeg
+- src: "https://imgcdn.bokun.tools/f40083a6-bfe3-4e85-bb8f-b3ecaf6e11aa.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
-- src: https://imgcdn.bokun.tools/f8764cc9-39f6-4e76-8e3f-2f956d1da348.jpeg
+- src: "https://imgcdn.bokun.tools/f8764cc9-39f6-4e76-8e3f-2f956d1da348.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
-- src: https://imgcdn.bokun.tools/e880e9f4-9d2e-4580-8679-2cdbfa02218c.jpeg
+- src: "https://imgcdn.bokun.tools/e880e9f4-9d2e-4580-8679-2cdbfa02218c.jpeg"
   alt: "Ambiente de la noche social de Los Patos en Barcelona"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Fachada gótica de la Catedral de Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

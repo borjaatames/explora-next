@@ -80,6 +80,8 @@ galeria:
   alt: "La cathédrale de Barcelone, au cœur du quartier gothique"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Plage de la Barceloneta avec le port de plaisance et des palmiers"
+- src: "/images/actividades/barcelona/casa-mila/casa-mila-gaudi-architecture-barcelona-hero.webp"
+  alt: "Les cheminées de La Pedrera sur fond de ciel bleu"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

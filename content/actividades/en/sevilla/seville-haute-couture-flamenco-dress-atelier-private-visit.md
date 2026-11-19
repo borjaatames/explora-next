@@ -69,18 +69,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp
-  alt: Women in flamenco dresses dancing sevillanas at a Feria de Abril marquee
-- src: /images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp
-  alt: Colourful ruffles of several flamenco dresses at the Seville April Fair
-- src: /images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp
-  alt: Illuminated entrance gate of the Seville April Fair
-- src: https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg
-  alt: Dressmaker fitting a flamenco dress on a client in the atelier
-- src: https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg
-  alt: Woman in a flamenco dress and shawl
-- src: https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg
-  alt: Polka-dot flamenco dress
+- src: "/images/actividades/sevilla/trajes-flamenca/feria-abril-sevillanas.webp"
+  alt: "Women in flamenco dresses dancing sevillanas at a Feria de Abril marquee"
+- src: "/images/actividades/sevilla/trajes-flamenca/trajes-flamenca-volantes.webp"
+  alt: "Colourful ruffles of several flamenco dresses at the Seville April Fair"
+- src: "/images/actividades/sevilla/trajes-flamenca/feria-abril-portada.webp"
+  alt: "Illuminated entrance gate of the Seville April Fair"
+- src: "https://imgcdn.bokun.tools/7a07f6e9-0ff8-4b8c-b5dc-1157b0299969.jpeg"
+  alt: "Dressmaker fitting a flamenco dress on a client in the atelier"
+- src: "https://imgcdn.bokun.tools/add6727d-03bb-459b-a79d-c7140816d6c7.jpeg"
+  alt: "Woman in a flamenco dress and shawl"
+- src: "https://imgcdn.bokun.tools/b0ef7855-8136-4992-8247-ae7c59f1a883.jpeg"
+  alt: "Polka-dot flamenco dress"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "Seville Cathedral and the Giralda"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflected in the canal"
 bokunProductId: 949558
 fecha_actualizacion: '2026-10-24'
 privada: true

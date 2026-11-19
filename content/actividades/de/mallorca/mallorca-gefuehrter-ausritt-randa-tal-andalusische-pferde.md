@@ -76,6 +76,14 @@ galeria:
   alt: "Kopf eines weißen andalusischen Pferdes"
 - src: "/images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp"
   alt: "Das Tal von Sóller und die Serra de Tramuntana von der Straße aus"
+- src: "/images/actividades/mallorca/fma-caballo-alcudia/x-tramuntana-era-del-cosconar.webp"
+  alt: "Landschaft der Serra de Tramuntana auf Mallorca"
+- src: "/images/actividades/mallorca/fma-soller/tranvia-soller-paseo.webp"
+  alt: "Straßenbahn von Sóller an der Promenade von Port de Sóller"
+- src: "/images/actividades/mallorca/fma-soller/tranvia-paseo-port-soller.webp"
+  alt: "Straßenbahn von Sóller an der Strandpromenade von Port de Sóller"
+- src: "/images/actividades/mallorca/fma-soller/bahia-port-soller-paseo.webp"
+  alt: "Bucht von Port de Sóller von der Promenade aus"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -70,6 +70,16 @@ galeria:
   alt: "Santa Maria del Mar nel Born"
 - src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
   alt: "Le strade del Born, dove si trova il Moco Museum"
+- src: "/images/actividades/barcelona/born/santa-maria-del-mar-interior.webp"
+  alt: "Navata gotica di Santa Maria del Mar con il rosone in fondo"
+- src: "/images/actividades/barcelona/born/born-wikimedia-07.webp"
+  alt: "Cortile gotico dei palazzi del Museu Picasso"
+- src: "/images/actividades/barcelona/born/born-wikimedia-06.webp"
+  alt: "Ingresso del Museu Picasso in un palazzo gotico"
+- src: "/images/actividades/barcelona/born/born-wikimedia-01.webp"
+  alt: "Carrer de Montcada vicino al Museu Picasso"
+- src: "/images/actividades/barcelona/born/born-wikimedia-08.webp"
+  alt: "Facciate medievali di carrer de Montcada nel Born"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

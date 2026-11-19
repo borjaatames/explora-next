@@ -60,16 +60,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/a9239289-e61b-42cb-96a9-e2a32a548541.jpg
 imagenAlt: "Romanesque church in a medieval Costa Brava village"
 galeria:
-- src: https://imgcdn.bokun.tools/ac355934-bf8f-4bfe-aa3a-f99381242aee.jpg
+- src: "https://imgcdn.bokun.tools/ac355934-bf8f-4bfe-aa3a-f99381242aee.jpg"
   alt: "Steps of Girona Cathedral"
-- src: https://imgcdn.bokun.tools/464632ef-4d6a-4f8e-84c4-142bd6b6e8b7.jpg
+- src: "https://imgcdn.bokun.tools/464632ef-4d6a-4f8e-84c4-142bd6b6e8b7.jpg"
   alt: "Colourful houses on the Onyar river in Girona"
-- src: https://imgcdn.bokun.tools/10da8db3-5e16-48f8-a236-f57036e3993b.jpg
+- src: "https://imgcdn.bokun.tools/10da8db3-5e16-48f8-a236-f57036e3993b.jpg"
   alt: "Woman looking out to sea from a Costa Brava viewpoint"
-- src: https://imgcdn.bokun.tools/169f2a88-86d8-4166-a89b-a7f9f91924d7.jpg
+- src: "https://imgcdn.bokun.tools/169f2a88-86d8-4166-a89b-a7f9f91924d7.jpg"
   alt: "Stone archway in a medieval street"
-- src: https://imgcdn.bokun.tools/d9c63234-2425-4162-b2aa-ee94db43dc34.jpg
+- src: "https://imgcdn.bokun.tools/d9c63234-2425-4162-b2aa-ee94db43dc34.jpg"
   alt: "Stone arches in a medieval courtyard"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Narrow street with balconies in Barcelona's old town"
 publicada: true
 indexar: false
 destacada: false

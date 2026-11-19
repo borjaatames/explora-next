@@ -73,6 +73,12 @@ galeria:
   alt: "Luftaufnahme der Schlucht und der Vegetation"
 - src: "/images/actividades/malaga/caminito-del-rey/garganta-rio-aerea.webp"
   alt: "Luftaufnahme des Flusses, der sich durch die Schlucht windet"
+- src: "/images/actividades/malaga/caminito-del-rey/caminito-del-rey-malaga-hero.webp"
+  alt: "Caminito del Rey in the Gaitanes gorge"
+- src: "/images/actividades/malaga/caminito-del-rey/desfiladero-rio.webp"
+  alt: "River and gorge at the Caminito del Rey"
+- src: "/images/actividades/malaga/caminito-del-rey/vista-canon-completo.webp"
+  alt: "Full view of the Caminito del Rey canyon"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

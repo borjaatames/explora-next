@@ -73,6 +73,12 @@ galeria:
   alt: "Artistas a bater palmas no tablao"
 - src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
   alt: "Bailarina com xaile de flores"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estátua de Filipe III e a Casa de la Panadería na Plaza Mayor"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Catedral de la Almudena iluminada ao anoitecer"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "A fonte de Cibeles iluminada à noite"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

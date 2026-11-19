@@ -65,16 +65,22 @@ keywords:
 imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
 imagenAlt: Plaza Mayor, primera parada del recorrido
 galeria:
-- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: La Plaza Mayor, en el corazón del Madrid de los Austrias
-- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp
-  alt: Plaza Mayor al anochecer, antiguo escenario de autos de fe
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Plaza de la Villa con la Casa y Torre de los Lujanes
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
-  alt: Calles historicas madrid brown white concrete building en Calles historicas
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+  alt: "Plaza Mayor al anochecer, antiguo escenario de autos de fe"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+  alt: "Plaza de la Villa con la Casa y Torre de los Lujanes"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp"
+  alt: "Plaza de la Villa de Madrid, con la estatua de Alvaro de Bazan y el Torreon de los Lujanes"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp"
+  alt: "Calles historicas madrid brown white concrete building en Calles historicas"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Estatua de Felipe III y la Casa de la Panadería en la Plaza Mayor"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+  alt: "Plaza de la Villa de noche, en el Madrid de los Austrias"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp"
+  alt: "Relieve esculpido en una esquina de la Calle Mayor de Madrid, con una inscripcion en latin"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

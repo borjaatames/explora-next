@@ -78,6 +78,8 @@ galeria:
   alt: Der Fahrer öffnet einer Kundin die Tür
 - src: https://imgcdn.bokun.tools/acabd44b-f078-4570-9eb2-4bfcd85373e9.jpg
   alt: Kundin mit Einkaufstüten in Las Rozas Village
+- src: "/images/actividades/madrid/las-rozas-village/las-rozas-village-wikimedia-01.webp"
+  alt: "Restaurantterrasse in Las Rozas Village"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

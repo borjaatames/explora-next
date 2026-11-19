@@ -67,6 +67,18 @@ imagenAlt: "Das komplette Flamenco-Ensemble in Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "Der Saal von Pura Esencia"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Der Metropol Parasol über der Plaza de la Encarnación"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Die Plaza de España spiegelt sich im Kanal"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Der Real Alcázar von Sevilla"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Die Triana-Brücke über den Guadalquivir"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fassade der Kathedrale von Sevilla zwischen Palmen"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arkaden der Plaza de España mit ihren gekachelten Bänken"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

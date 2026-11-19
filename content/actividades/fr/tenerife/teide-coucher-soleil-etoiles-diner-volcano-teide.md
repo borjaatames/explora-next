@@ -80,6 +80,8 @@ galeria:
   alt: "Le sommet du Teide illuminé au coucher du soleil au-dessus des nuages"
 - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
   alt: "Paysage volcanique de Las Cañadas del Teide"
+- src: "/images/actividades/tenerife/estrellas/atardecer-islas.webp"
+  alt: "Personnes admirant le coucher de soleil sur la mer de nuages"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

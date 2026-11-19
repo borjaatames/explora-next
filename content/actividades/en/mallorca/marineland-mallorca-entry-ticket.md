@@ -93,6 +93,10 @@ galeria:
   alt: Audience in the stands at the dolphin show
 - src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
   alt: Parrot enclosure at Marineland Mallorca
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-01.webp"
+  alt: "Dolphin show at Marineland Mallorca"
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-02.webp"
+  alt: "Marineland grounds at Costa d'en Blanes"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

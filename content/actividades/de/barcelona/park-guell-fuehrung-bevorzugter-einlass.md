@@ -77,6 +77,14 @@ galeria:
   alt: "Blick auf Barcelona vom Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "Blick auf Barcelona vom Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
+  alt: "Blick über Barcelona von den Gärten des Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-architecture-barcelona-spain-hero-hero.webp"
+  alt: "Steinerne Säulengänge und Treppe im Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+  alt: "Märchenhafter Pavillon am Eingang des Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp"
+  alt: "Mosaikmedaillon an der Decke der Säulenhalle"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

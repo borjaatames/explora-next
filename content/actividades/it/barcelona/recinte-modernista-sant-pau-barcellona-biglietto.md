@@ -74,6 +74,10 @@ galeria:
   alt: "Volta decorata con mosaici a Sant Pau"
 - src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-05.webp"
   alt: "Sant Pau illuminato di notte"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-pexels-40628697.webp"
+  alt: "Padiglione dell'Amministrazione di Sant Pau"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-pixabay-967020.webp"
+  alt: "Padiglioni modernisti di Domènech i Montaner a Sant Pau"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

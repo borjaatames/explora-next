@@ -72,6 +72,10 @@ galeria:
   alt: Panorama of Málaga from the Alcazaba
 - src: /images/actividades/malaga/alcazaba/vista-puerto.webp
   alt: View of Málaga port from the Alcazaba
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Málaga Cathedral, near the Picasso Museum"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Tiers of Málaga's Roman Theatre"
 atraccionesRelacionadas:
 - centro-historico
 publicada: true

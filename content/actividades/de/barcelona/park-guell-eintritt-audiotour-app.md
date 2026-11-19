@@ -81,6 +81,10 @@ galeria:
   alt: Mosaikdetail im Park Güell
 - src: /images/actividades/barcelona/park-guell/park-guell-brown-white-church-beside-trees-hero.webp
   alt: Eingangspavillon des Park Güell
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-spain-landmark-hero.webp"
+  alt: "Treppe und Säulenhalle des Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+  alt: "Märchenhafter Pavillon am Eingang des Park Güell"
 atraccionesRelacionadas:
 - park-guell
 publicada: true

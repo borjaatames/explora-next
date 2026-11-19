@@ -91,6 +91,8 @@ galeria:
   alt: "Cassette di limoni all'ingresso di un edificio di Alfabia"
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
   alt: "La valle di Sóller e la Serra de Tramuntana dalla strada"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Scogliere del Cap de Formentor sul mare"
 avisoReserva: 'Attività stagionale: le prossime date disponibili iniziano a febbraio 2027.'
 ---
 

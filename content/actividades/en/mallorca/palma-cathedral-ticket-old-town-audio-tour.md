@@ -73,6 +73,10 @@ galeria:
   alt: Facade of Palma Cathedral
 - src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
   alt: Palma Cathedral from Parc de la Mar, by the seafront
+- src: "/images/actividades/mallorca/catedral-palma/roseton.webp"
+  alt: "Great rose window of Palma Cathedral from inside"
+- src: "/images/actividades/mallorca/catedral-palma/nave-interior.webp"
+  alt: "Central nave of Palma Cathedral with the rose window"
 atraccionesRelacionadas:
 - palma
 - catedral

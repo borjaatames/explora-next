@@ -76,6 +76,14 @@ galeria:
   alt: "Interior da basílica de Montserrat"
 - src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-sant-jeroni-01.webp"
   alt: "Os rochedos de Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-12.webp"
+  alt: "O camarim da Virgem Negra em Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-11.webp"
+  alt: "Interior da basílica de Montserrat"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-cremallera-04.webp"
+  alt: "O maciço de Montserrat com o mosteiro"
+- src: "/images/actividades/barcelona/montserrat-nuevas/montserrat-basilica-07.webp"
+  alt: "Mosteiro de Montserrat sob os picos rochosos"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

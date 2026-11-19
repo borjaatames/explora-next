@@ -78,6 +78,10 @@ galeria:
   alt: "Architettura dell'Oceanogràfic nella Città delle Arti"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp"
   alt: "Hemisfèric di Valencia con nuvole sulla Città delle Arti"
+- src: "/images/actividades/valencia/centro/micalet-naranjos.webp"
+  alt: "Il Micalet tra gli aranci a Valencia"
+- src: "/images/actividades/valencia/centro/san-nicolas-boveda.webp"
+  alt: "Volta barocca affrescata della chiesa di San Nicolás"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

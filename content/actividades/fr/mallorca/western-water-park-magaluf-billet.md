@@ -89,12 +89,20 @@ destacada: false
 fecha: '2026-11-04'
 fecha_actualizacion: '2026-11-04'
 galeria:
-- src: /images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp
-  alt: Tour de toboggans à chute libre au Western Water Park
-- src: /images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp
-  alt: Vue aérienne du Western Water Park à Magaluf (Calvià)
-- src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
-  alt: Zone enfants avec toboggans colorés au Western Water Park
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp"
+  alt: "Tour de toboggans à chute libre au Western Water Park"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp"
+  alt: "Vue aérienne du Western Water Park à Magaluf (Calvià)"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp"
+  alt: "Zone enfants avec toboggans colorés au Western Water Park"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Baigneurs dans l'eau claire du Caló des Moro"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Le baldaquin de Gaudí au-dessus du maître-autel de La Seu"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Le palais de l'Almudaina au-dessus des remparts au crépuscule"
+- src: "/images/actividades/mallorca/calo-des-moro/calo-des-moro-05.webp"
+  alt: "Le Caló des Moro au milieu des pins"
 ---
 
 ## Ce que vous verrez

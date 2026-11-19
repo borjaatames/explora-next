@@ -68,6 +68,12 @@ galeria:
   alt: "Straßen der Altstadt von Madrid"
 - src: "/images/actividades/madrid/centro-historico/03.webp"
   alt: "Straßen der Altstadt von Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+  alt: "Der Königspalast in Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

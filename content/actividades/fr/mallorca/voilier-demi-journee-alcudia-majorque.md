@@ -77,6 +77,14 @@ galeria:
   alt: "Voilier au coucher du soleil"
 - src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-unsplash-x0-gvpl3oka.webp"
   alt: "Crique turquoise au pied des falaises au nord de Majorque"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pixabay-8254024.webp"
+  alt: "Petit port avec des bateaux sur la côte majorquine"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pexels-23698698.webp"
+  alt: "Catamaran à voile sur une plage du nord de Majorque"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Le baldaquin de Gaudí au-dessus du maître-autel de La Seu"
+- src: "/images/actividades/mallorca/formentor/formentor-02.webp"
+  alt: "Le phare du cap de Formentor au sommet de la falaise"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

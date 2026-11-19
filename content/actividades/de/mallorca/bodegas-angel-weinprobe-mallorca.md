@@ -70,6 +70,14 @@ galeria:
   alt: "Weinberg mit Hügeln im Hintergrund"
 - src: "/images/actividades/mallorca/bodega/bodega-unsplash-eyqzxh5unoc.webp"
   alt: "Rebzeilen und ein Landhaus"
+- src: "/images/actividades/mallorca/bodega/bodega-unsplash-zsf3deuzrck.webp"
+  alt: "Rebzeilen mit Bergen im Hintergrund"
+- src: "/images/actividades/mallorca/bodega/bodega-pixabay-553462.webp"
+  alt: "Rote Trauben am Rebstock"
+- src: "/images/actividades/mallorca/bodega/bodega-pixabay-1761613.webp"
+  alt: "Gläser mit Weiß- und Rotwein und Trauben"
+- src: "/images/actividades/mallorca/bodega/bodega-pixabay-8345243.webp"
+  alt: "Weg durch die Weinberge bei Sonnenuntergang"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

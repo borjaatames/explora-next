@@ -84,6 +84,14 @@ galeria:
   alt: "Par de bailarinos de flamenco em El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "A sala de El Jaleo"
+- src: "/images/actividades/cordoba/mezquita/arcos-interior.webp"
+  alt: "Interior da Mesquita com arcos em ferradura"
+- src: "/images/actividades/cordoba/alcazar-reyes-cristianos/alcazar-reyes-cristianos-01.webp"
+  alt: "Jardins do Alcázar de los Reyes Cristianos"
+- src: "/images/actividades/cordoba/juderia/calle-juderia.webp"
+  alt: "Rua da Judiaria de Córdova com a torre da Mesquita ao fundo"
+- src: "/images/actividades/cordoba/patios/patio-viana.webp"
+  alt: "Pátio com fonte no Palacio de Viana"
 ---
 
 ## O que vai ver

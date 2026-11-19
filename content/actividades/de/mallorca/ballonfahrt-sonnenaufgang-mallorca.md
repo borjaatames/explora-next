@@ -77,6 +77,16 @@ galeria:
   alt: "Küste Mallorcas aus der Luft"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-37068618.webp"
   alt: "Klippen und Meer im Osten Mallorcas von oben"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-36532620.webp"
+  alt: "Steilküste Mallorcas aus der Luft"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-unsplash-bbdyg-den2w.webp"
+  alt: "Hubschrauber über einem Strand mit türkisfarbenem Wasser"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-wikimedia-01.webp"
+  alt: "Strand mit türkisfarbenem Wasser aus der Vogelperspektive"
+- src: "/images/actividades/mallorca/globo/globo-pexels-19326083.webp"
+  alt: "Bunte Heißluftballons am Himmel"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-8297680.webp"
+  alt: "Felsküste im Norden Mallorcas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

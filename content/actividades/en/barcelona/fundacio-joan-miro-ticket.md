@@ -85,6 +85,8 @@ galeria:
   alt: 'Miró sculpture at the Fundació entrance'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
   alt: 'Fundació Miró seen from the Montjuïc avenue'
+- src: "/images/actividades/barcelona/fundacio-miro/fundacio-miro-wikimedia-02.webp"
+  alt: "Gardens by the Fundació Miró on Montjuïc"
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

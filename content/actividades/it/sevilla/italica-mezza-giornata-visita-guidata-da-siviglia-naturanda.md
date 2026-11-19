@@ -72,6 +72,12 @@ galeria:
   alt: "Rovine delle case romane di Itálica"
 - src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-paisaje-sant-hero.webp"
   alt: "Paesaggio di Santiponce vicino a Itálica"
+- src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-wikimedia-01.webp"
+  alt: "L'anfiteatro romano di Itálica"
+- src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-wikimedia-03.webp"
+  alt: "Le grandi terme di Itálica"
+- src: "/images/actividades/sevilla/italica-ruinas-romanas-monasterio-desde-sevilla/italica-ruinas-romanas-monasterio-desde-sevilla-wikimedia-04.webp"
+  alt: "Il teatro romano di Itálica a Santiponce"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

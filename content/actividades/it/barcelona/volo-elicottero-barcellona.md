@@ -71,6 +71,16 @@ galeria:
   alt: "Elicottero al decollo"
 - src: "/images/actividades/barcelona/helicoptero/helicoptero-unsplash-yzjudbdtvda.webp"
   alt: "Vista aerea dei palazzi di Barcellona"
+- src: "/images/actividades/barcelona/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Elicottero turistico in volo sulle montagne"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Il Port Vell con il monumento a Colombo"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Tramonto sulla spiaggia della Barceloneta con l'Hotel W sullo sfondo e le onde sulla riva"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gotico e lampione nel Quartiere Gotico"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con i suoi alberi"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

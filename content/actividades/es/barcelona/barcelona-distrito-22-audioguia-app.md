@@ -64,12 +64,24 @@ keywords:
 imagen: /images/actividades/barcelona/vistas/eixample-desde-arriba.webp
 imagenAlt: Manzanas del Eixample de Barcelona vistas desde lo alto
 galeria:
-- src: /images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp
-  alt: Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo
-- src: /images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp
-  alt: Tejados y campanarios de Ciutat Vella vistos desde una azotea
-- src: /images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp
-  alt: Barcas de remo en el lago del Parc de la Ciutadella, entre palmeras
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
+- src: "/images/actividades/barcelona/vistas/tejados-campanarios-barcelona.webp"
+  alt: "Tejados y campanarios de Ciutat Vella vistos desde una azotea"
+- src: "/images/actividades/barcelona/ciutadella/parc-ciutadella-estany-barques.webp"
+  alt: "Barcas de remo en el lago del Parc de la Ciutadella, entre palmeras"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Restos arqueológicos de la Barcelona de 1714 bajo la estructura del antiguo mercado del Born"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico y farola en el Barrio Gótico"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Fachada gótica de la Catedral de Barcelona"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional de Montjuïc, sede del MNAC"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Calle estrecha del Barrio Gótico con balcones"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "La Rambla con sus árboles"
 atraccionesRelacionadas:
 - otros-barcelona
 - tours-a-pie

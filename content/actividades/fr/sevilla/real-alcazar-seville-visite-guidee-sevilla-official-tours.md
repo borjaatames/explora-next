@@ -78,6 +78,8 @@ galeria:
   alt: "Jardins et galerie du Real Alcázar"
 - src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
   alt: "La cathédrale et la Giralda de Séville"
+- src: "/images/actividades/sevilla/wikimedia/sevilla-catedral-interior-08.webp"
+  alt: "Voûte de la croisée du transept de la cathédrale de Séville"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

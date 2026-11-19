@@ -70,6 +70,22 @@ galeria:
   alt: "Callejón del barrio de Santa Cruz, en Sevilla"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Espectáculo de flamenco en un tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Bailaoras de flamenco con vestidos rojo y negro sobre el escenario"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Bailaora flamenca con mantón"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol (Las Setas) en Sevilla"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Curvas de las Setas contra el cielo azul"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada del Palacio de Pedro I en el Real Alcázar de Sevilla"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Arcos mudéjares del Palacio de Pedro I"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

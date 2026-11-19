@@ -74,6 +74,12 @@ galeria:
   alt: "Kanarisches Haus mit Holzbalkon in Icod de los Vinos"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico und sein Felsen im Meer"
+- src: "/images/actividades/tenerife/garachico/caleton-garachico.webp"
+  alt: "Die Naturschwimmbecken von El Caletón"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico und der Felsen vor der Küste"
+- src: "/images/actividades/tenerife/garachico/garachico-wikimedia-05.webp"
+  alt: "Platz und Kirche von Garachico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

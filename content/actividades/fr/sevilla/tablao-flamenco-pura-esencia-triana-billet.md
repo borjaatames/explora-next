@@ -67,6 +67,18 @@ imagenAlt: "La troupe de flamenco au complet à Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "La salle de Pura Esencia"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Pont de Triana sur le Guadalquivir"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La cathédrale et la Giralda de Séville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Le Real Alcázar de Séville"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol (Las Setas) à Séville"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Courbes des Setas sur fond de ciel bleu"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Façade de la cathédrale de Séville entre les palmiers"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

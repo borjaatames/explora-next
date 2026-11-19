@@ -86,6 +86,12 @@ galeria:
   alt: "Danseuse de flamenco sur la scène de Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Entrée de Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp"
+  alt: "Lucarnes en forme d'étoile dans la coupole des bains arabes de l'Alcázar de Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Cheval andalou gris monté par un cavalier en costume court traditionnel"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/enganche-caballos-feria.webp"
+  alt: "Attelage de chevaux gris avec une calèche décorée lors d'une feria andalouse"
 ---
 
 ## Ce que vous allez voir

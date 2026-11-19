@@ -85,6 +85,8 @@ galeria:
   alt: "Ambiance de la soirée sociale Los Patos à Barcelone"
 - src: https://imgcdn.bokun.tools/e880e9f4-9d2e-4580-8679-2cdbfa02218c.jpeg
   alt: "Ambiance de la soirée sociale Los Patos à Barcelone"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Le Port Vell et le monument à Christophe Colomb"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

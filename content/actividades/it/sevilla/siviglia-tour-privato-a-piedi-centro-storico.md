@@ -79,6 +79,8 @@ galeria:
   alt: 'Siviglia durante il tour (foto del fornitore)'
 - src: https://imgcdn.bokun.tools/33343e87-1674-45e4-bda4-9d3ed0eed3d9.jpeg
   alt: 'Siviglia durante il tour (foto del fornitore)'
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Le curve delle Setas contro il cielo azzurro"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

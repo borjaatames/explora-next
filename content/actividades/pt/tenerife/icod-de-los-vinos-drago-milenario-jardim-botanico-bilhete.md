@@ -74,6 +74,12 @@ galeria:
   alt: "Casa canária com varanda de madeira em Icod de los Vinos"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico e o seu rochedo no mar"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico e o seu rochedo diante da costa"
+- src: "/images/actividades/tenerife/garachico/garachico-pixabay-1352584.webp"
+  alt: "Piscinas naturais vulcânicas de Garachico"
+- src: "/images/actividades/tenerife/garachico/garachico-wikimedia-05.webp"
+  alt: "Praça e igreja de Garachico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

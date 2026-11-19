@@ -86,6 +86,8 @@ galeria:
   alt: "Die Kathedrale von Barcelona im Herzen des Gotischen Viertels"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Blick auf den Strand von Barceloneta mit Jachthafen und Palmen im Hintergrund"
+- src: "/images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp"
+  alt: "Die Krypta der Sagrada Família, in der Gaudí begraben ist"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

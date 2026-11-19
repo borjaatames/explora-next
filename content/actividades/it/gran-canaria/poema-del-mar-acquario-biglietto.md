@@ -89,6 +89,8 @@ galeria:
   alt: 'Las Palmas de Gran Canaria e la spiaggia di Las Canteras'
 - src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
   alt: 'Porto di Las Palmas de Gran Canaria tra le palme'
+- src: "/images/actividades/gran-canaria/dunas/dunas-maspalomas.webp"
+  alt: "Dune di Maspalomas al tramonto"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

@@ -68,6 +68,18 @@ imagenAlt: "A Gran Vía, no centro de Madrid"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "A Gran Vía, no centro de Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Gran Vía e o edifício Metrópolis ao pôr do sol"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "Plaza de Callao e o edifício Carrión à noite"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "A Plaza del Callao e a Gran Vía à noite"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+  alt: "Edifício Capitol na Plaza de Callao, junto à Calle Mesonero Romanos"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "A Plaza Mayor, no coração do centro histórico"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "A fonte de Cibeles iluminada à noite"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

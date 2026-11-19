@@ -92,6 +92,8 @@ galeria:
   alt: "Une crique turquoise vue depuis Marimurtra"
 - src: /images/actividades/girona/fgi-marimurtra/fgi-marimurtra-vista-mar.webp
   alt: "La Méditerranée vue depuis le jardin botanique de Marimurtra"
+- src: "/images/actividades/girona/girona-onyar/girona-onyar-wikimedia-onyar-river-in-girona-4-jpg-02.webp"
+  alt: "L'Onyar traversant Gérone"
 ---
 
 ## Ce que vous verrez

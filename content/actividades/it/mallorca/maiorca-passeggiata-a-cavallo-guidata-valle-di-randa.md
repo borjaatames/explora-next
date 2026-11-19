@@ -76,6 +76,14 @@ galeria:
   alt: "Testa di un cavallo andaluso bianco"
 - src: "/images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp"
   alt: "La valle di Sóller e la Serra de Tramuntana"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "La Cattedrale di Palma sopra le mura sul mare"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gargoyle gotico sulla facciata della Cattedrale di Palma"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Il baldacchino di Gaudí sopra l'altare maggiore de La Seu"
+- src: "/images/actividades/mallorca/catedral-palma/nave-interior.webp"
+  alt: "Navata centrale della Cattedrale di Palma con il rosone sullo sfondo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

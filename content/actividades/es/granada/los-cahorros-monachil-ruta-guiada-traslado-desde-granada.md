@@ -76,6 +76,12 @@ galeria:
   alt: "Desfiladero de Los Cahorros en las faldas de Sierra Nevada"
 - src: "/images/actividades/granada/cahorros/cahorros-tunel-rio.webp"
   alt: "Paso entre rocas sobre el río Monachil en Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-puente-colgante.webp"
+  alt: "Puente colgante de Los Cahorros sobre el desfiladero del río Monachil"
+- src: "/images/actividades/granada/cahorros/cahorros-wikimedia-02.webp"
+  alt: "Senderistas en un puente colgante de Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-pexels-27097930.webp"
+  alt: "Senderistas en un desfiladero de roca caliza"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

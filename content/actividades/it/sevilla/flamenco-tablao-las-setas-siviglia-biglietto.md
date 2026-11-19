@@ -74,6 +74,12 @@ galeria:
   alt: "Chitarristi e cantanti sul palco"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "Il palco del Tablao Las Setas illuminato di rosso"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Il porticato di Plaza de España con le panchine di azulejos"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Il Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Cattedrale e la Giralda di Siviglia"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

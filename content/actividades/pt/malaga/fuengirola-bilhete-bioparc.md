@@ -80,6 +80,8 @@ galeria:
   alt: Embondeiro no habitat africano do Bioparc
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Ave de plumagem azul no Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Crocodilo-anão no Bioparc de Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

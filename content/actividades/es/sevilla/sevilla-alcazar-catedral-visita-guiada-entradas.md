@@ -77,6 +77,16 @@ galeria:
   alt: "La Catedral y la Giralda de Sevilla"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
   alt: "El Real Alcázar de Sevilla"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada del Palacio de Pedro I en el Real Alcázar de Sevilla"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+  alt: "Detalle de las yeserías mudéjares del Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+  alt: "Baños de Doña María de Padilla en el Real Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
+  alt: "Estanque de Mercurio en el Real Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+  alt: "Patio de las Doncellas, en el Real Alcázar de Sevilla"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

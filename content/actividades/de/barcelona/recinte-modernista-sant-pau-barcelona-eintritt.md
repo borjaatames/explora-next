@@ -74,6 +74,10 @@ galeria:
   alt: "Gewölbe mit Mosaiken in Sant Pau"
 - src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-05.webp"
   alt: "Sant Pau bei Nacht beleuchtet"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-pixabay-967020.webp"
+  alt: "Jugendstilpavillons von Domènech i Montaner in Sant Pau"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-01.webp"
+  alt: "Fassade aus Backstein und Keramik von Sant Pau in der Dämmerung"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

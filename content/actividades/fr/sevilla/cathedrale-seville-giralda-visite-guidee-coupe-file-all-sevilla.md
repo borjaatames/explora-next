@@ -79,6 +79,8 @@ galeria:
   alt: "Intérieur de la cathédrale de Séville"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
   alt: "Façade du palais de Pierre Ier au Real Alcázar de Séville"
+- src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-01.webp"
+  alt: "Bateaux touristiques sur le Guadalquivir au coucher du soleil"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

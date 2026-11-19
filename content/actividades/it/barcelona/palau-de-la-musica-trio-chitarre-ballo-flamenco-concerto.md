@@ -77,6 +77,10 @@ galeria:
   alt: "Sala concerti del Palau con l'organo sullo sfondo"
 - src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
   alt: "Platea del Palau vista dalla galleria"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-stunning-interior-view-barcelona-hero.webp"
+  alt: "La sala da concerto del Palau de la Música Catalana"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp"
+  alt: "Soffitto decorato e vetrate laterali del Palau"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

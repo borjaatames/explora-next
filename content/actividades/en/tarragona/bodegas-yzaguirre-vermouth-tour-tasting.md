@@ -75,14 +75,20 @@ keywords:
 imagen: /images/actividades/tarragona/vermut/barricas-vermut.webp
 imagenAlt: 'Barrels in a Reus vermouth cellar'
 galeria:
-- src: /images/actividades/tarragona/vermut/copa-vermut-hielo.webp
-  alt: 'Glass of vermouth with ice'
-- src: /images/actividades/tarragona/vermut/cata-copa-en-mano.webp
-  alt: 'Glass in hand during a tasting'
-- src: /images/actividades/tarragona/vermut/vermut-grifo.webp
-  alt: 'Vermouth with olives'
-- src: /images/actividades/tarragona/vermut/botellas-vermut.webp
-  alt: 'Bottles of vermouth'
+- src: "/images/actividades/tarragona/vermut/copa-vermut-hielo.webp"
+  alt: "Glass of vermouth with ice"
+- src: "/images/actividades/tarragona/vermut/cata-copa-en-mano.webp"
+  alt: "Glass in hand during a tasting"
+- src: "/images/actividades/tarragona/vermut/vermut-grifo.webp"
+  alt: "Vermouth with olives"
+- src: "/images/actividades/tarragona/vermut/botellas-vermut.webp"
+  alt: "Bottles of vermouth"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-8251576.webp"
+  alt: "Glasses set up for a tasting"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-8251601.webp"
+  alt: "Red and white wine glasses at a tasting"
+- src: "/images/actividades/tarragona/vermut/vermut-pexels-14387123.webp"
+  alt: "A glass of red vermouth with ice and orange"
 ratingProveedor: 4.8
 numeroOpiniones: 6
 atraccionesRelacionadas:

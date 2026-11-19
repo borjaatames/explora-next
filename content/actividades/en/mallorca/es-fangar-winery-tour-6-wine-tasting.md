@@ -60,7 +60,7 @@ keywords:
 - mallorca wine tourism
 imagen: https://imgcdn.bokun.tools/f2ae6a58-9965-4ea5-8bd6-5b8b6f889a9e.png
 imagenAlt: "Tasting table among the winery's tanks"
-galeria: null
+galeria: []
 publicada: true
 indexar: false
 destacada: false

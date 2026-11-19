@@ -86,6 +86,12 @@ galeria:
   alt: Ingresso di Faunia, il parco della natura di Madrid
 - src: /images/actividades/madrid/faunia/lago-faunia.webp
   alt: Lago con anatre a Faunia
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tirannosauro tra gli alberi a Faunia"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, una via di bar nel Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "La Real Casa de Correos in Puerta del Sol di notte"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

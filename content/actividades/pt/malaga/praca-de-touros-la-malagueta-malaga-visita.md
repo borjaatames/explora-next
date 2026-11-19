@@ -77,6 +77,12 @@ galeria:
   alt: "Fachada neomudéjar em tijolo da praça"
 - src: "/images/actividades/malaga/malagueta/malagueta-plaza-toros-wikimedia-02.webp"
   alt: "A praça de La Malagueta entre os prédios de Málaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "A praça de touros de La Malagueta junto ao mar"
+- src: "/images/actividades/malaga/malagueta/malagueta-unsplash-1p-2ygb_vnc.webp"
+  alt: "Letras da praia da Malagueta"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-4773414.webp"
+  alt: "A Malagueta entre os prédios do paseo de Reding"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

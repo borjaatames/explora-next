@@ -87,6 +87,10 @@ galeria:
   alt: Ataurique decoration at Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/ruinas-casas.webp
   alt: Remains of houses at Medina Azahara
+- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-unsplash-etjxcuzskqc.webp"
+  alt: "Gateway with horseshoe arches at Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-wikimedia-05.webp"
+  alt: "Remains of walls and buildings at Medina Azahara"
 ratingProveedor: 4.6
 numeroOpiniones: 1034
 atraccionesRelacionadas:

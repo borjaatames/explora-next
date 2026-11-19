@@ -72,6 +72,16 @@ galeria:
   alt: "Mallorquinisches Landhaus zwischen Palmen und Feldern"
 - src: "/images/actividades/mallorca/buggy/buggy-wikimedia-04.webp"
   alt: "Steinhaus im ländlichen Mallorca"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ovo-_twamlc.webp"
+  alt: "Straße zum Cap de Formentor über dem Meer"
+- src: "/images/actividades/mallorca/buggy/buggy-pexels-28243833.webp"
+  alt: "Kathedrale von Palma von der Stadtmauer aus"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ti9dri8_c3u.webp"
+  alt: "Türkisfarbene Bucht mit Booten auf Mallorca"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Kirche der Königlichen Kartause von Valldemossa"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Gaudís Baldachin über dem Hauptaltar von La Seu"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

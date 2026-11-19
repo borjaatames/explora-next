@@ -67,6 +67,18 @@ imagenAlt: "Liegendes Kamel mit Sattel auf einer Farm"
 galeria:
 - src: "/images/actividades/tenerife/camello/camello-pixabay-4945676.webp"
   alt: "Zwei Kamele mit bunten Decken"
+- src: "/images/actividades/tenerife/cristianos/bahia-los-cristianos.webp"
+  alt: "Die Bucht von Los Cristianos"
+- src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+  alt: "Die Cañadas am Teide"
+- src: "/images/actividades/tenerife/garachico/garachico-pixabay-1352584.webp"
+  alt: "Vulkanische Naturschwimmbecken von Garachico"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Der Teide über der Caldera Las Cañadas"
+- src: "/images/actividades/tenerife/masca/masca-caserio.webp"
+  alt: "Der Weiler Masca zwischen den Bergen"
+- src: "/images/actividades/tenerife/icod/drago-milenario.webp"
+  alt: "Der tausendjährige Drachenbaum von Icod de los Vinos"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

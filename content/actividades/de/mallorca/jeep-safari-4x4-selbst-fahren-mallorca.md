@@ -75,6 +75,14 @@ galeria:
   alt: "Serpentinen in den Bergen Mallorcas"
 - src: "/images/actividades/mallorca/jeep/jeep-wikimedia-05.webp"
   alt: "Felsige Bucht mit klarem Wasser auf Mallorca"
+- src: "/images/actividades/mallorca/jeep/jeep-wikimedia-06.webp"
+  alt: "Klippen an der Küste Mallorcas"
+- src: "/images/actividades/mallorca/jeep/jeep-pexels-33576916.webp"
+  alt: "Geländewagen in einer Berglandschaft"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Klippen des Cap de Formentor über dem Meer"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Die Kathedrale von Palma über der Stadtmauer am Meer"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

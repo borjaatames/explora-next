@@ -74,6 +74,16 @@ galeria:
   alt: "Nasridenpaläste der Alhambra"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp"
   alt: "Nasridenpaläste der Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+  alt: "Innenhof der Alhambra mit Palmen, die sich in einem Wasserkanal spiegeln"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
+  alt: "Kunstvolle islamische Bögen und feine Fliesenarbeit im Alhambra-Palast in Granada"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22203159-hero.webp"
+  alt: "Brunnen im Löwenhof der Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+  alt: "Luftaufnahme der historischen Altstadt von Granada mit dem Palastkomplex der Alhambra am Hang"
+- src: "/images/actividades/granada/alhambra-granada/unsplash-hW9X-WG_13E-hero.webp"
+  alt: "Säulengang des Löwenhofs"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

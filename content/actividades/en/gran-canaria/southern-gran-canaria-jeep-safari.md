@@ -93,6 +93,8 @@ galeria:
   alt: The Chira dam wall
 - src: /images/actividades/gran-canaria/jeep/cumbres-chira.webp
   alt: Inland summits near Chira
+- src: "/images/actividades/gran-canaria/jeep/jeep-pexels-34527481.webp"
+  alt: "Mountains and ravines in inland Gran Canaria"
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:

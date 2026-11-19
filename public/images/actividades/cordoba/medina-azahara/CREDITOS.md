@@ -12,3 +12,5 @@ Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 
 Origen identificado el 23-10-2026 (comparando la imagen con el banco):
 - `medina-azahara-cordoba-hero.webp` — José Antonio Otegui Auzmendi, licencia Pexels, vía Pexels (https://www.pexels.com/photo/31439141/)
+| medina-azahara-unsplash-etjxcuzskqc.webp | Unsplash | Christian Hergesell | Licencia Unsplash | https://unsplash.com/photos/a-stone-building-with-arches-and-a-statue-eTJXCUzSkqc |
+| medina-azahara-wikimedia-05.webp | Wikimedia Commons | Superchilum | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Medina_Azahara_02.JPG |

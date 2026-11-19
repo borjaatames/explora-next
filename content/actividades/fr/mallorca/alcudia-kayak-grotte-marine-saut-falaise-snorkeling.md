@@ -91,18 +91,20 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/mallorca/fma-kayak-alcudia/kayaks-amarillos-acantilado.webp
 imagenAlt: "Kayaks jaunes en mer à côté d'un littoral rocheux"
 galeria:
-- src: /images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/grupo-kayaks-costa-rocosa.webp"
   alt: "Groupe de kayaks pagayant le long d'une côte rocheuse, vue aérienne"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/kayak-dentro-cueva-marina.webp"
   alt: "Kayak vu depuis l'intérieur d'une grotte marine"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/costa-rocosa-montana.webp"
   alt: "Côte méditerranéenne rocheuse avec des montagnes en arrière-plan"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/esnorquel-fondo-rocoso.webp"
   alt: "Personne faisant du snorkeling au-dessus d'un fond rocheux"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/dos-kayaks-agua-transparente.webp"
   alt: "Deux kayaks sur une eau turquoise transparente"
-- src: /images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fondo-marino-rocas.webp"
   alt: "Fond marin rocheux sous une eau cristalline"
+- src: "/images/actividades/mallorca/fma-kayak-alcudia/fma-kayak-alcudia-pixabay-10394760.webp"
+  alt: "Kayak solitaire en mer"
 avisoReserva: 'Activité saisonnière : les prochaines dates disponibles commencent en avril 2027.'
 ---
 

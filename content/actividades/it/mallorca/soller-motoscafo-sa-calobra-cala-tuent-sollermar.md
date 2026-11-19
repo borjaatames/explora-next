@@ -78,6 +78,8 @@ galeria:
   alt: "Vista del porto di Sóller con le montagne della Tramuntana"
 - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
   alt: "La baia di Port de Sóller, da cui parte la barca"
+- src: "/images/actividades/mallorca/soller/tren-soller-estacion.webp"
+  alt: "Il treno di legno di Sóller fermo in stazione"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

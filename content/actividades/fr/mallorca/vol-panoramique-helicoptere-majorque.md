@@ -70,6 +70,14 @@ galeria:
   alt: "Falaises et mer au sud-est de Majorque vues d'en haut"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-wikimedia-01.webp"
   alt: "Plage aux eaux turquoise vue du ciel"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Hélicoptère volant près d'une paroi rocheuse"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-8297680.webp"
+  alt: "Côte rocheuse du nord de Majorque"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-29874104.webp"
+  alt: "Village majorquin entre les montagnes vu du ciel"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Les falaises du cap de Formentor au-dessus de la mer"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -74,6 +74,10 @@ galeria:
   alt: La Giralda vista desde abajo
 - src: /images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-36289620.webp
   alt: Catedral de Sevilla con la Giralda al atardecer
+- src: "/images/actividades/sevilla/catedral-giralda/giralda-catedral-sevilla-dia.webp"
+  alt: "La Giralda y la Catedral de Sevilla"
+- src: "/images/actividades/sevilla/catedral-giralda/giralda-torre-cielo-azul.webp"
+  alt: "Torre de la Giralda de Sevilla bajo cielo azul"
 atraccionesRelacionadas:
 - catedral-giralda
 publicada: true

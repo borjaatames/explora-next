@@ -78,18 +78,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/lanzarote/lagomar/flz-piscina.webp
 imagenAlt: "LagOmar pool surrounded by volcanic rock"
 galeria:
-- src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-terraza-roca.webp"
   alt: "Terrace and white door carved into the rock at LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp"
   alt: "Rock wall with caves and a white door at LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp"
   alt: "White tunnel carved into the rock at LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-arco-roca.webp"
   alt: "Rock arch and cactus garden at LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp"
   alt: "Garden with palms and cacti by the rock at LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-muros-blancos.webp"
   alt: "White walls and plants on the rock at LagOmar"
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Fishing boats in Arrecife, Lanzarote's capital"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
+  alt: "White houses and sandy streets in Caleta de Sebo"
 ---
 
 ## What you will see

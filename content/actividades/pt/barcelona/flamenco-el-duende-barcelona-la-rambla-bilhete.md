@@ -71,6 +71,14 @@ galeria:
   alt: "Bailarino de flamenco no palco de El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Bailarina de flamenco no palco de El Duende"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Rua estreita com varandas no centro histórico de Barcelona"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "O Port Vell com o monumento a Colombo"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico e candeeiro no Bairro Gótico"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Catedral de Barcelona, no coração do Bairro Gótico"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

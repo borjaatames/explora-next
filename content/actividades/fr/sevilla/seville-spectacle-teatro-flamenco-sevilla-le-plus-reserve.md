@@ -112,6 +112,10 @@ galeria:
   alt: Rue du centre illuminée la nuit par des guirlandes lumineuses
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: Spectacle de flamenco au Teatro Flamenco de Séville
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Le Real Alcázar de Séville"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La cathédrale et la Giralda de Séville"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 publicada: true

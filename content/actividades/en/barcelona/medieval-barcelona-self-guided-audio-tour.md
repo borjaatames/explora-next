@@ -73,6 +73,10 @@ galeria:
   alt: Cathedral square with the façade in the background
 - src: /images/actividades/barcelona/catedral/catedral-barcelona-central-nave-cathedral-holy-cross-hero.webp
   alt: Gothic central nave of Barcelona Cathedral
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-stunning-view-gothic-vaulted-hero.webp"
+  alt: "Gothic vaults and chandelier inside Barcelona Cathedral"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cloister-cathedral-holy-cross-hero.webp"
+  alt: "Arches of the Barcelona Cathedral cloister and its garden"
 atraccionesRelacionadas:
 - gotico
 - tours-a-pie

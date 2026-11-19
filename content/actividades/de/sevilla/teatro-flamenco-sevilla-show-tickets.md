@@ -101,6 +101,10 @@ galeria:
   alt: Gasse im Zentrum nachts mit Lichterketten beleuchtet
 - src: /images/actividades/sevilla/teatro-flamenco-sevilla-show-mas-vendido/teatro-flamenco-sevilla-show-mas-vendido-bailaora-escena-pri-hero.webp
   alt: Flamenco-Show im Teatro Flamenco Sevilla
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Der Metropol Parasol über der Plaza de la Encarnación"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arkaden der Plaza de España mit ihren gekachelten Bänken"
 ratingProveedor: 4.7
 numeroOpiniones: 18292
 atraccionesRelacionadas:

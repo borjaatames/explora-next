@@ -7,3 +7,5 @@
 - `degollada-yeguas.webp` — sailko, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Degollada_de_las_yeguas_11.JPG) · recortada a 1600×1200
 - `san-bartolome-tirajana.webp` — sailko, CC BY-SA 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:San_bartolom%C3%A9_de_Tirajana_04.JPG) · recortada a 1600×1200
 - `caldera-tirajana.webp` — Enric, CC BY-SA 4.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:02_La_caldera_de_Tirajana%2C_amb_San_Bartolom%C3%A9_i_La_Hoya_de_Tunte.jpg) · recortada a 1600×1200
+| jeep-pexels-34527481.webp | Pexels | Davide Negro | Licencia Pexels | https://www.pexels.com/photo/stunning-aerial-view-of-desert-mountain-landscape-34527481/ |
+| jeep-pexels-40247295.webp | Pexels | Alina Zerkalii | Licencia Pexels | https://www.pexels.com/photo/scenic-mountain-road-in-arid-desert-landscape-40247295/ |

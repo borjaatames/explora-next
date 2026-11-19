@@ -73,6 +73,12 @@ galeria:
   alt: "Artisti che battono le palmas nel tablao"
 - src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
   alt: "Ballerina con scialle a fiori"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "La statua di Filippo III e la Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facciata del Museo del Prado sul Paseo del Arte, Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

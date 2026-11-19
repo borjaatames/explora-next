@@ -84,6 +84,10 @@ galeria:
   alt: 'Le musée Reina Sofía à Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
   alt: 'Le musée Reina Sofía à Madrid'
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Façade du musée du Prado sur le Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Le Palais royal de Madrid"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

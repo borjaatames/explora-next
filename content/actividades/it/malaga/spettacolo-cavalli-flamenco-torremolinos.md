@@ -74,6 +74,14 @@ galeria:
   alt: "Ballerina di flamenco e cavaliere durante uno spettacolo equestre"
 - src: "/images/actividades/malaga/caballos/caballos-andaluces-wikimedia-05.webp"
   alt: "Cavalieri con cavalli grigi nell'arena illuminata"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-01.webp"
+  alt: "Ballerina di flamenco e cavaliere in uno spettacolo equestre"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-02.webp"
+  alt: "Cavalieri nell'arena al tramonto"
+- src: "/images/actividades/malaga/caballos/caballos-wikimedia-04.webp"
+  alt: "Cavallo andaluso in uno spettacolo notturno"
+- src: "/images/actividades/malaga/caballos/caballos-pexels-37392094.webp"
+  alt: "Carrozze addobbate in una feria andalusa"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -77,6 +77,14 @@ galeria:
   alt: "Veleiro ao pôr do sol"
 - src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-unsplash-x0-gvpl3oka.webp"
   alt: "Enseada turquesa sob as rochas no norte de Maiorca"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pixabay-8254024.webp"
+  alt: "Pequeno porto com barcos na costa de Maiorca"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pexels-23698698.webp"
+  alt: "Catamarã à vela numa praia do norte de Maiorca"
+- src: "/images/actividades/mallorca/formentor/formentor-01.webp"
+  alt: "Falésias do Cap de Formentor sobre o mar"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Catedral de Palma sobre a muralha marítima"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

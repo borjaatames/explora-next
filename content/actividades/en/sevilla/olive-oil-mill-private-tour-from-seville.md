@@ -90,6 +90,10 @@ galeria:
   alt: Bottle of olive oil on a table among olive groves
 - src: https://imgcdn.bokun.tools/023d3e31-a195-420b-a862-34ef333e6357.jpg
   alt: Group among the olive trees with the guide
+- src: "/images/actividades/sevilla/almazara/almazara-wikimedia-05.webp"
+  alt: "Traditional olive mill with a hydraulic press"
+- src: "/images/actividades/sevilla/almazara/almazara-wikimedia-01.webp"
+  alt: "Machinery in a modern olive mill"
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
 privada: true

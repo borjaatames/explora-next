@@ -87,6 +87,10 @@ galeria:
   alt: "Chitarra e canto dal vivo a Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Chitarra e canto dal vivo a Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gargoyle gotico sulla facciata della Cattedrale di Palma"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Bagnanti nell'acqua trasparente di Caló des Moro"
 ---
 
 ## Cosa vedrai

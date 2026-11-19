@@ -87,6 +87,8 @@ galeria:
   alt: "Le torri della Sagrada Família contro il cielo azzurro"
 - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
   alt: "Casa Batlló illuminata di notte sul Passeig de Gràcia"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-spain-gaudi-antonio-hero.webp"
+  alt: "La terrazza di Casa Batlló di notte, con musica dal vivo e vista su Barcellona"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

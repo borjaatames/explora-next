@@ -87,6 +87,10 @@ galeria:
   alt: Decoración de ataurique en Medina Azahara
 - src: /images/actividades/cordoba/medina-azahara/ruinas-casas.webp
   alt: Restos de viviendas en Medina Azahara
+- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-unsplash-etjxcuzskqc.webp"
+  alt: "Puerta con arcos de herradura en Medina Azahara"
+- src: "/images/actividades/cordoba/medina-azahara/medina-azahara-wikimedia-05.webp"
+  alt: "Restos de muros y edificios en Medina Azahara"
 ratingProveedor: 4.6
 numeroOpiniones: 1034
 atraccionesRelacionadas:

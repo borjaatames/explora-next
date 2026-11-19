@@ -75,6 +75,10 @@ galeria:
   alt: View of Passeig de Gràcia from the main-floor gallery of Casa Batlló
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp
   alt: Casa Batlló lit up at night on Passeig de Gràcia
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-foto-8985800-hero.webp"
+  alt: "Dragon-back roof and cross-topped tower of Casa Batlló"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-5-hero.webp"
+  alt: "Blue mosaic and balconies of Casa Batlló seen from below"
 atraccionesRelacionadas:
 - casa-batllo-pedrera
 publicada: true

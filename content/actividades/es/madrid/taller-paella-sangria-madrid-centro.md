@@ -96,18 +96,22 @@ keywords:
 imagen: /images/actividades/madrid/paella/paella-pexels-31748679.webp
 imagenAlt: Paella cocinándose en la paellera durante el taller
 galeria:
-- src: /images/actividades/madrid/paella/paella-pexels-36878063.webp
-  alt: Paella de marisco recién hecha
-- src: /images/actividades/madrid/paella/paella-pixabay-1167973.webp
-  alt: Paella mixta cocinada a la leña
-- src: /images/actividades/madrid/paella/paella-pixabay-1168003.webp
-  alt: Paella de marisco con langostinos al fuego
-- src: /images/actividades/madrid/paella/paella-wikimedia-01-paella-valenciana-original-jpg-05.webp
-  alt: Paella valenciana tradicional
-- src: /images/actividades/madrid/sangria/sangria-jarra-fruta.webp
-  alt: Jarra de sangría con fruta
-- src: /images/actividades/madrid/paella/paella-preparacion-manos.webp
-  alt: Manos removiendo los ingredientes de la paella en la sartén
+- src: "/images/actividades/madrid/paella/paella-pexels-36878063.webp"
+  alt: "Paella de marisco recién hecha"
+- src: "/images/actividades/madrid/paella/paella-pixabay-1167973.webp"
+  alt: "Paella mixta cocinada a la leña"
+- src: "/images/actividades/madrid/paella/paella-pixabay-1168003.webp"
+  alt: "Paella de marisco con langostinos al fuego"
+- src: "/images/actividades/madrid/paella/paella-wikimedia-01-paella-valenciana-original-jpg-05.webp"
+  alt: "Paella valenciana tradicional"
+- src: "/images/actividades/madrid/sangria/sangria-jarra-fruta.webp"
+  alt: "Jarra de sangría con fruta"
+- src: "/images/actividades/madrid/paella/paella-preparacion-manos.webp"
+  alt: "Manos removiendo los ingredientes de la paella en la sartén"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "El Palacio Real de Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos en la Puerta del Sol de noche"
 ratingProveedor: 4.8
 numeroOpiniones: 1853
 publicada: true

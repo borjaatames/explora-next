@@ -77,6 +77,12 @@ galeria:
   alt: "Neomudéjar-Fassade der Arena aus Backstein"
 - src: "/images/actividades/malaga/malagueta/malagueta-plaza-toros-wikimedia-02.webp"
   alt: "Die Arena La Malagueta zwischen den Häusern von Málaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-unsplash-1p-2ygb_vnc.webp"
+  alt: "Schriftzug am Strand La Malagueta"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "Die Stierkampfarena La Malagueta am Meer"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-4773414.webp"
+  alt: "La Malagueta zwischen den Gebäuden am Paseo de Reding"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

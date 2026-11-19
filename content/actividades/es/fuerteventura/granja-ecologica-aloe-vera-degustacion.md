@@ -86,18 +86,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/fuerteventura/granja-aloe/ffv-plantacion-aloe-vera.webp
 imagenAlt: "Plantas de aloe vera en una plantación"
 galeria:
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-finca-aloe-vera-fuerteventura.webp"
   alt: "Finca de aloe vera en flor al pie de las montañas de Fuerteventura"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-burro-majorero.webp"
   alt: "Burro majorero en el campo"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-hoja-aloe-cortada.webp"
   alt: "Hoja de aloe vera cortada con su gel"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-aloe-en-flor.webp"
   alt: "Hileras de aloe en flor"
-- src: /images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/ffv-hileras-aloe-vera.webp"
   alt: "Hileras de aloe vera en tierra volcánica"
-- src: /images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp
+- src: "/images/actividades/fuerteventura/granja-aloe/x-aloe-pexels-6223420.webp"
   alt: "Hojas de aloe vera"
+- src: "/images/actividades/fuerteventura/zonas/dunas-corralejo-mar.webp"
+  alt: "Dunas de Corralejo con Lobos y Lanzarote en el horizonte"
+- src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
+  alt: "Bahía de Corralejo"
 ---
 
 ## Qué vas a ver

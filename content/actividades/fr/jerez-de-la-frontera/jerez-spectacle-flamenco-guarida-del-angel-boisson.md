@@ -86,6 +86,12 @@ galeria:
   alt: "Guitare et chant en direct à La Guarida del Ángel"
 - src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
   alt: "Danseuse de flamenco sur la scène de La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Cheval andalou gris monté par un cavalier en costume court traditionnel"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-cupula.webp"
+  alt: "Lucarnes en forme d'étoile dans la coupole des bains arabes de l'Alcázar de Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+  alt: "Entrée de l'Alcázar de Jerez"
 ---
 
 ## Ce que vous allez voir

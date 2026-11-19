@@ -93,6 +93,8 @@ galeria:
   alt: Die Staumauer von Chira
 - src: /images/actividades/gran-canaria/jeep/cumbres-chira.webp
   alt: Gipfel im Inselinneren bei Chira
+- src: "/images/actividades/gran-canaria/jeep/jeep-pexels-34527481.webp"
+  alt: "Berge und Schluchten im Inneren Gran Canarias"
 ratingProveedor: 4.5
 numeroOpiniones: 1443
 atraccionesRelacionadas:

@@ -74,6 +74,10 @@ galeria:
   alt: "Voûte décorée de mosaïques à Sant Pau"
 - src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-05.webp"
   alt: "Sant Pau illuminé la nuit"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-pixabay-967020.webp"
+  alt: "Pavillons modernistes de Domènech i Montaner à Sant Pau"
+- src: "/images/actividades/barcelona/sant-pau/sant-pau-wikimedia-01.webp"
+  alt: "Façade de brique et céramique de Sant Pau au crépuscule"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

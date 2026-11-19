@@ -73,6 +73,12 @@ galeria:
   alt: "Die roten Ränge des Ramón Sánchez-Pizjuán"
 - src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-06.webp"
   alt: "Das große Mosaik an der Fassade des Stadions"
+- src: "/images/actividades/sevilla/sanchez-pizjuan/sanchez-pizjuan-wikimedia-02.webp"
+  alt: "Volles Stadion Ramón Sánchez-Pizjuán bei einem Abendspiel"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Bunte Häuser von Triana am Guadalquivir"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Der Real Alcázar von Sevilla"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -76,6 +76,16 @@ galeria:
   alt: "La Sagrada Família à Barcelone"
 - src: "/images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp"
   alt: "La Sagrada Família à Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11565894-hero.webp"
+  alt: "La Sagrada Família à Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-6622787689-hero-hero.webp"
+  alt: "La basilique de la Sagrada Família et ses flèches ouvragées, à Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp"
+  alt: "Détail de la façade de la Gloire de la Sagrada Família et de ses fenêtres pyramidales"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp"
+  alt: "Façade de la Sagrada Familia et ses tours, à Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-16841074-hero.webp"
+  alt: "Vitraux bleus et verts illuminant la nef de la Sagrada Família"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

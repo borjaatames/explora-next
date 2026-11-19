@@ -85,6 +85,8 @@ galeria:
   alt: 'Sculpture de Miró à l''entrée de la Fondation'
 - src: /images/actividades/barcelona/fundacio-miro/fundacio-miro-08.webp
   alt: 'La Fondation Miró vue depuis l''avenue de Montjuïc'
+- src: "/images/actividades/barcelona/fundacio-miro/fundacio-miro-pexels-39395910.webp"
+  alt: "Bâtiment blanc de la Fundació Joan Miró à Montjuïc"
 ratingProveedor: 4.6
 numeroOpiniones: 1578
 atraccionesRelacionadas:

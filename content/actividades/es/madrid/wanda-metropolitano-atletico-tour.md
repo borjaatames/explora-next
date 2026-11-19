@@ -111,6 +111,8 @@ galeria:
   alt: Estadio Metropolitano del Atlético de Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Estadio Metropolitano en día de partido
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, en el corazón del Madrid de los Austrias"
 ratingProveedor: 4.7
 numeroOpiniones: 2351
 publicada: true

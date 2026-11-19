@@ -77,6 +77,12 @@ galeria:
   alt: "Façade néo-mudéjare en brique des arènes"
 - src: "/images/actividades/malaga/malagueta/malagueta-plaza-toros-wikimedia-02.webp"
   alt: "Les arènes de La Malagueta entre les immeubles de Málaga"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-4773414.webp"
+  alt: "La Malagueta entre les immeubles du paseo de Reding"
+- src: "/images/actividades/malaga/malagueta/malagueta-pixabay-7137958.webp"
+  alt: "Les arènes de La Malagueta face à la mer"
+- src: "/images/actividades/malaga/malagueta/malagueta-unsplash-1p-2ygb_vnc.webp"
+  alt: "Lettres de la plage de La Malagueta"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

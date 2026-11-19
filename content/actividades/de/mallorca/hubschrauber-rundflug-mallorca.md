@@ -70,6 +70,14 @@ galeria:
   alt: "Klippen und Meer im Südosten Mallorcas von oben"
 - src: "/images/actividades/mallorca/helicoptero/helicoptero-wikimedia-01.webp"
   alt: "Strand mit türkisfarbenem Wasser aus der Vogelperspektive"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pexels-29874104.webp"
+  alt: "Mallorquinischer Ort zwischen Bergen aus der Luft"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Hubschrauber vor einer Felswand"
+- src: "/images/actividades/mallorca/helicoptero/helicoptero-pixabay-8297680.webp"
+  alt: "Felsküste im Norden Mallorcas"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Port de Sóller mit vertäuten Booten"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

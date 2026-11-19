@@ -80,6 +80,8 @@ galeria:
   alt: "Die Stadt der Künste und Wissenschaften spiegelt sich im Wasser"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
   alt: "Architektur des Oceanogràfic in Valencia"
+- src: "/images/actividades/valencia/centro/lonja-fachada.webp"
+  alt: "Gotische Fassade der Seidenbörse"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

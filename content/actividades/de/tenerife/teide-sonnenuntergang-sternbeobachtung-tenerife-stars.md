@@ -75,6 +75,12 @@ galeria:
   alt: "Kanarenkiefern und Wolkenmeer bei Sonnenuntergang im Hochland Teneriffas"
 - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
   alt: "Der Gipfel des Teide im Licht des Sonnenuntergangs über den Wolken"
+- src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
+  alt: "Sternenhimmel über den Roques de García am Teide"
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "Vulkanlandschaft im Teide-Nationalpark"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Der Teide über der Caldera Las Cañadas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

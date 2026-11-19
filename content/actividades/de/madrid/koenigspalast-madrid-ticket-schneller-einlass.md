@@ -70,6 +70,14 @@ galeria:
   alt: "Der Königspalast in Madrid"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
   alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+  alt: "Der beleuchtete Königspalast von Madrid bei Nacht"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-blue-sky-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
+  alt: "Der Königspalast von den Gärten des Campo del Moro aus"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

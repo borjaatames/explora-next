@@ -70,6 +70,22 @@ galeria:
   alt: "Male flamenco dancer on stage at Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Live guitar and singing at Essential Flamenco"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Almudena Cathedral lit up at nightfall"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "Cibeles Fountain lit up at night"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Tío Pepe neon sign at Puerta del Sol at dusk"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, a bar street in the Barrio de las Letras"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

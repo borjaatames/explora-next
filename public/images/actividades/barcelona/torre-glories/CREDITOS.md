@@ -7,3 +7,7 @@
 | torre-glories-wikimedia-02.webp | Wikimedia Commons | Ank Kumar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Torre_Gl%C3%B2ries_(Torre_Agbar)_,_Barcelona,_Spain_(Ank_Kumar,_Infosys_Limited)_03.jpg |
 | torre-glories-wikimedia-03.webp | Wikimedia Commons | Ank Kumar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Torre_Gl%C3%B2ries_(Torre_Agbar)_,_Barcelona,_Spain_(Ank_Kumar,_Infosys_Limited)_04.jpg |
 | torre-glories-pexels-4605475.webp | Pexels | Ali Shahin | Licencia Pexels | https://www.pexels.com/photo/landscape-photography-of-a-street-in-barcelona-4605475/ |
+| torre-glories-pexels-8910324.webp | Pexels | Rockwell branding agency | Licencia Pexels | https://www.pexels.com/photo/city-in-the-morning-8910324/ |
+| torre-glories-pixabay-4744172.webp | Pixabay | tiburi | Licencia Pixabay | https://pixabay.com/photos/city-barcelona-spain-architecture-4744172/ |
+| torre-glories-unsplash-08bthh0ir40.webp | Unsplash | Pere Jurado | Licencia Unsplash | https://unsplash.com/photos/city-lights-during-night-time-08btHh0iR40 |
+| torre-glories-wikimedia-05.webp | Wikimedia Commons | Ank Kumar | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Torre_Gl%C3%B2ries_(Torre_Agbar)_,_Barcelona,_Spain_(Ank_Kumar,_Infosys_Limited)_15.jpg |

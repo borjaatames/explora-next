@@ -78,6 +78,8 @@ galeria:
   alt: "Vista do Porto de Sóller com as montanhas da Tramuntana"
 - src: "/images/actividades/mallorca/soller/port-de-soller-bahia.webp"
   alt: "Baía de Port de Sóller, de onde parte o barco"
+- src: "/images/actividades/mallorca/soller/sa-calobra-sendero.webp"
+  alt: "Trilho pelo interior da garganta de Sa Calobra"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

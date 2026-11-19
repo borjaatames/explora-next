@@ -75,6 +75,12 @@ galeria:
   alt: "A Alcazaba da Alhambra ao entardecer"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp"
   alt: "Cúpula de muqarnas nos Palácios Nasridas"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Vista aérea da fortaleza da Alhambra, Granada, com as suas muralhas e torres medievais"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-source-andalusia-water-courtyard-hero-hero.webp"
+  alt: "Pátio dos Mirtos da Alhambra com fonte e arcos em Granada, Andaluzia"
+- src: "/images/actividades/granada/alhambra/pixabay-4522800-hero.webp"
+  alt: "Palácios da Alhambra vistos através de um arco nacérida"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

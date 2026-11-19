@@ -69,18 +69,22 @@ keywords:
 imagen: /images/actividades/tenerife/anaga/anaga-01.webp
 imagenAlt: Mountains covered in laurel forest in Anaga
 galeria:
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Ridges of the Anaga massif
-- src: /images/actividades/tenerife/anaga/anaga-04.webp
-  alt: Green valleys of the Anaga massif
-- src: /images/actividades/tenerife/anaga/anaga-05.webp
-  alt: Laurel forest in Anaga Rural Park
-- src: /images/actividades/tenerife/anaga/anaga-06.webp
-  alt: Trail in Anaga Rural Park
-- src: /images/actividades/tenerife/anaga/anaga-07.webp
-  alt: Anaga vegetation in the mist
-- src: /images/actividades/tenerife/anaga/anaga-02.webp
-  alt: Tenerife lizard in the Anaga massif
+- src: "/images/actividades/tenerife/anaga/anaga-03.webp"
+  alt: "Ridges of the Anaga massif"
+- src: "/images/actividades/tenerife/anaga/anaga-04.webp"
+  alt: "Green valleys of the Anaga massif"
+- src: "/images/actividades/tenerife/anaga/anaga-05.webp"
+  alt: "Laurel forest in Anaga Rural Park"
+- src: "/images/actividades/tenerife/anaga/anaga-06.webp"
+  alt: "Trail in Anaga Rural Park"
+- src: "/images/actividades/tenerife/anaga/anaga-07.webp"
+  alt: "Anaga vegetation in the mist"
+- src: "/images/actividades/tenerife/anaga/anaga-02.webp"
+  alt: "Tenerife lizard in the Anaga massif"
+- src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+  alt: "Lava flows in Las Cañadas del Teide"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico and its rock off the coast"
 ratingProveedor: 4.8
 numeroOpiniones: 269
 atraccionesRelacionadas:

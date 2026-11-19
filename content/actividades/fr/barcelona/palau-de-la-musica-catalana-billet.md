@@ -89,6 +89,8 @@ galeria:
   alt: 'Angle moderniste du Palau de la Música Catalana'
 - src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp
   alt: 'Parterre du Palau vu depuis le balcon'
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-stunning-interior-view-barcelona-hero.webp"
+  alt: "La salle de concert du Palau de la Música Catalana"
 ratingProveedor: 4.6
 numeroOpiniones: 6321
 publicada: true

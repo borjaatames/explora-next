@@ -81,18 +81,22 @@ keywords:
 imagen: /images/actividades/valencia/mar/catamaran-boramar.webp
 imagenAlt: Catamarán amarrado en el puerto de Valencia
 galeria:
-- src: /images/actividades/valencia/mar/bocana-puerto.webp
-  alt: Bocana norte del puerto de Valencia
-- src: /images/actividades/valencia/mar/luna-atardecer.webp
-  alt: Luna sobre la costa de Valencia al atardecer
-- src: /images/actividades/valencia/mar/veles-e-vents-atardecer.webp
-  alt: Veles e Vents en el puerto de Valencia
-- src: /images/actividades/valencia/mar/veles-e-vents.webp
-  alt: Edificio Veles e Vents en la Marina de Valencia
-- src: /images/actividades/valencia/mar/cabanyal-barcas.webp
-  alt: Barcas en la playa del Cabanyal al atardecer
-- src: /images/actividades/valencia/mar/arenas-orilla.webp
-  alt: Reflejos del sol en la playa de las Arenas
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "Bocana norte del puerto de Valencia"
+- src: "/images/actividades/valencia/mar/luna-atardecer.webp"
+  alt: "Luna sobre la costa de Valencia al atardecer"
+- src: "/images/actividades/valencia/mar/veles-e-vents-atardecer.webp"
+  alt: "Veles e Vents en el puerto de Valencia"
+- src: "/images/actividades/valencia/mar/veles-e-vents.webp"
+  alt: "Edificio Veles e Vents en la Marina de Valencia"
+- src: "/images/actividades/valencia/mar/cabanyal-barcas.webp"
+  alt: "Barcas en la playa del Cabanyal al atardecer"
+- src: "/images/actividades/valencia/mar/arenas-orilla.webp"
+  alt: "Reflejos del sol en la playa de las Arenas"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Puerta de la Catedral de Valencia, centro histórico"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

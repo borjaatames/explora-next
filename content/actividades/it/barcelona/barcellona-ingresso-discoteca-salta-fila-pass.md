@@ -86,6 +86,8 @@ galeria:
   alt: "Discoteca di Barcellona con il pass di Los Patos"
 - src: https://imgcdn.bokun.tools/2a3384c3-54cc-47ef-a0c7-2176ceb5229a.jpeg
   alt: "Discoteca di Barcellona con il pass di Los Patos"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "La cattedrale di Barcellona, nel cuore del Quartiere Gotico"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

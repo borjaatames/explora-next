@@ -78,18 +78,22 @@ fecha_actualizacion: '2026-10-31'
 imagen: /images/actividades/lanzarote/lagomar/flz-piscina.webp
 imagenAlt: "Piscina de LagOmar rodeada de roca volcánica"
 galeria:
-- src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-terraza-roca.webp"
   alt: "Terraza y puerta blanca excavadas en la roca en LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-pared-cuevas.webp"
   alt: "Pared de roca con cuevas y puerta blanca en LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-tunel-blanco.webp"
   alt: "Túnel blanco excavado en la roca en LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-arco-roca.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-arco-roca.webp"
   alt: "Arco de roca y jardín de cactus en LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-jardin-palmeras.webp"
   alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
-- src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
+- src: "/images/actividades/lanzarote/lagomar/flz-muros-blancos.webp"
   alt: "Muros blancos y vegetación sobre la roca en LagOmar"
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Barcas de pesca en Arrecife, la capital de Lanzarote"
+- src: "/images/actividades/lanzarote/zonas/caleta-de-sebo-casas.webp"
+  alt: "Casas blancas y calles de arena en Caleta de Sebo"
 ---
 
 ## Qué vas a ver

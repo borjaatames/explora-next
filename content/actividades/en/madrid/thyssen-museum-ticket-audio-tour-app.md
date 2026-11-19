@@ -74,6 +74,10 @@ galeria:
   alt: Entrance plaque of the Thyssen-Bornemisza Museum
 - src: /images/actividades/madrid/thyssen/thyssen-sala-bodegon-hero.webp
   alt: Still-life gallery
+- src: "/images/actividades/madrid/thyssen/thyssen-fachada-villahermosa-hero.webp"
+  alt: "Villahermosa Palace, home of the Thyssen-Bornemisza Museum in Madrid"
+- src: "/images/actividades/madrid/thyssen/thyssen-sala-coleccion-03-hero.webp"
+  alt: "Permanent collection gallery at the Thyssen"
 atraccionesRelacionadas:
 - monumentos
 publicada: true

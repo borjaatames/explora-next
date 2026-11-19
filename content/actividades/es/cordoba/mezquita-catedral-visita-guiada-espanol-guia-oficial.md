@@ -75,6 +75,14 @@ galeria:
   alt: "Guía oficial durante la visita a la Mezquita"
 - src: "/images/actividades/cordoba/mezquita/torre-campanario.webp"
   alt: "Torre campanario de la Mezquita-Catedral"
+- src: "/images/actividades/cordoba/mezquita/fvc-puente-romano-mezquita-dia.webp"
+  alt: "Puente Romano sobre el Guadalquivir con la Mezquita-Catedral al fondo"
+- src: "/images/actividades/cordoba/mezquita/bosque-arcos-bicolores.webp"
+  alt: "Bosque de arcos bicolores de la Mezquita-Catedral de Cordoba"
+- src: "/images/actividades/cordoba/mezquita/mezquita-guadalquivir.webp"
+  alt: "La Mezquita-Catedral junto al Guadalquivir"
+- src: "/images/actividades/cordoba/mezquita/arcos-lamparas.webp"
+  alt: "Bosque de columnas y arcos con lámparas en la Mezquita"
 bokunProductId: 396286
 bokunPedirPersonas: true
 ---

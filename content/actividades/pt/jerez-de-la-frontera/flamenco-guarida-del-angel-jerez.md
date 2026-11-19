@@ -86,6 +86,12 @@ galeria:
   alt: "Guitarra e canto ao vivo em La Guarida del Ángel"
 - src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
   alt: "Bailarina de flamenco no palco de La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+  alt: "Entrada do Alcázar de Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Jardins com palmeiras junto ao palácio da Real Escola, em Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+  alt: "Banhos árabes do Alcázar de Jerez"
 ---
 
 ## O que vai ver

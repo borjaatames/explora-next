@@ -71,6 +71,14 @@ galeria:
   alt: "Ballerino di flamenco sul palco di El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Ballerina di flamenco sul palco di El Duende"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tetti di Barcellona al tramonto con la Sagrada Família e il Tibidabo"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Stradina stretta con balconi nel centro storico di Barcellona"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gotico e lampione nel Quartiere Gotico"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Tramonto sulla spiaggia della Barceloneta con l'Hotel W sullo sfondo e le onde sulla riva"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -70,6 +70,16 @@ galeria:
   alt: "Ballerino di flamenco sul palco di Essential Flamenco"
 - src: "/images/actividades/madrid/essential-flamenco/cantaor-palmas-essential-flamenco.webp"
   alt: "Chitarra e canto dal vivo a Essential Flamenco"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "La statua di Filippo III e la Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, una via di bar nel Barrio de las Letras"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facciata del Museo del Prado sul Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'insegna al neon di Tío Pepe in Puerta del Sol al crepuscolo"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontana di Cibeles illuminata di notte"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

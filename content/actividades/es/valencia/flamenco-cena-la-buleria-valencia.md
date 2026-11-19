@@ -87,6 +87,16 @@ galeria:
   alt: "Cena y espectáculo en La Bulería"
 - src: "/images/actividades/valencia/la-buleria/sala-la-buleria-valencia.webp"
   alt: "La sala de La Bulería"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-exterior.webp"
+  alt: "Exterior de la Ciudad de las Artes y Ciencias de Valencia"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Puerta de la Catedral de Valencia, centro histórico"
+- src: "/images/actividades/valencia/centro/hemisferic-reflejo.webp"
+  alt: "El Hemisfèric reflejado en el agua"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias"
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "Bocana norte del puerto de Valencia"
 ---
 
 ## Qué vas a ver

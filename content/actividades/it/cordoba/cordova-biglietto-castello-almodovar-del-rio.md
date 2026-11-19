@@ -96,6 +96,10 @@ galeria:
   alt: "Vetrina con reperti esposti all'interno del castello di Almodóvar del Río"
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: "Castello di Almodóvar del Río sulla sua collina"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Bandiera andalusa sui merli del castello di Almodóvar del Río"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Cammino di ronda e torri del castello di Almodóvar del Río"
 ---
 
 ## Cosa vedrai

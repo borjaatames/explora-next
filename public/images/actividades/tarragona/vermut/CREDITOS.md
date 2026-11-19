@@ -8,3 +8,6 @@
 - `vermut-grifo.webp` — kerinin, CC BY-SA 2.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Vermut_de_Grifo.jpg) · recortada a 1600×1200
 - `copa-vermut-hielo.webp` — Pexels, Lorena Martínez (Licencia Pexels) — https://www.pexels.com/photo/person-holding-clear-drinking-glass-with-iced-red-liquid-12698348/
 - `cata-copa-en-mano.webp` — Pixabay, JillWellington (Licencia Pixabay) — https://pixabay.com/photos/wine-glass-drink-tasting-hand-1952051/
+| vermut-pexels-8251576.webp | Pexels | Julia Filirovska | Licencia Pexels | https://www.pexels.com/photo/rows-of-smaller-and-bigger-wineglasses-with-red-wine-8251576/ |
+| vermut-pexels-8251601.webp | Pexels | Julia Filirovska | Licencia Pexels | https://www.pexels.com/photo/glasses-with-alcohols-8251601/ |
+| vermut-pexels-14387123.webp | Pexels | Tim Durand | Licencia Pexels | https://www.pexels.com/photo/glass-with-beverage-14387123/ |

@@ -71,6 +71,12 @@ galeria:
   alt: "Street art walking tour in Barcelona"
 - src: https://imgcdn.bokun.tools/3c43856c-14f9-465c-845d-2381a6496acc.jpeg
   alt: "Street art walking tour in Barcelona"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

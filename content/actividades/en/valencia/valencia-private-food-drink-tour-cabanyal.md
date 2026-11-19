@@ -62,16 +62,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7cfdadfb-abed-4914-8e8d-85ecfadf3035.jpg
 imagenAlt: "Friends toasting with wine at a tapas bar"
 galeria:
-- src: https://imgcdn.bokun.tools/d1091ee1-3bc4-4c04-8ee5-5026d9b2c1dd.jpg
+- src: "https://imgcdn.bokun.tools/d1091ee1-3bc4-4c04-8ee5-5026d9b2c1dd.jpg"
   alt: "Woman tasting a tapa on a terrace"
-- src: https://imgcdn.bokun.tools/85562141-05e1-4692-897f-683d11f92503.jpg
+- src: "https://imgcdn.bokun.tools/85562141-05e1-4692-897f-683d11f92503.jpg"
   alt: "Patatas bravas with aioli"
-- src: https://imgcdn.bokun.tools/5dfef8ab-4e3a-4ac5-abe4-a44229e86a16.jpg
+- src: "https://imgcdn.bokun.tools/5dfef8ab-4e3a-4ac5-abe4-a44229e86a16.jpg"
   alt: "Family having tapas and beer on a terrace"
-- src: https://imgcdn.bokun.tools/6429daa4-c5c4-4ce1-a7a3-c1441953a1ee.jpg
+- src: "https://imgcdn.bokun.tools/6429daa4-c5c4-4ce1-a7a3-c1441953a1ee.jpg"
   alt: "Spanish omelette pintxo with tomato"
-- src: https://imgcdn.bokun.tools/d8574eb9-efd0-4ab0-96da-cba6544fba4b.jpg
+- src: "https://imgcdn.bokun.tools/d8574eb9-efd0-4ab0-96da-cba6544fba4b.jpg"
   alt: "Couple with red wine on a terrace"
+- src: "/images/actividades/valencia/mar/bocana-puerto.webp"
+  alt: "North entrance of Valencia harbour"
+- src: "/images/actividades/valencia/turia/fvc-paseo-jardin-turia.webp"
+  alt: "Walk through the Turia Gardens"
+- src: "/images/actividades/valencia/mar/cabanyal-barcas.webp"
+  alt: "Boats on Cabanyal beach at sunset"
+- src: "/images/actividades/valencia/centro/catedral-puerta.webp"
+  alt: "Door of Valencia Cathedral in the old town"
 publicada: true
 indexar: false
 destacada: false

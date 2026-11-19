@@ -85,6 +85,8 @@ galeria:
   alt: 'Aqueduto de Segóvia'
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
   alt: 'Aqueduto de Segóvia e a plaza del Azoguejo vistos do alto'
+- src: "/images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp"
+  alt: "Fachada principal da catedral de Toledo"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

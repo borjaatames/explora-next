@@ -59,7 +59,7 @@ keywords:
 - enoturismo maiorca
 imagen: https://imgcdn.bokun.tools/f2ae6a58-9965-4ea5-8bd6-5b8b6f889a9e.png
 imagenAlt: "Tavolo di degustazione tra le vasche della cantina"
-galeria: null
+galeria: []
 publicada: true
 destacada: false
 fecha: '2026-11-05'

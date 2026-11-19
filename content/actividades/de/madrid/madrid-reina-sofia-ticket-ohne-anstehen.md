@@ -83,6 +83,10 @@ galeria:
   alt: 'Das Museo Reina Sofía in Madrid'
 - src: /images/actividades/madrid/reina-sofia/museo-reina-sofia-madrid-6394654203-hero-hero.webp
   alt: 'Das Museo Reina Sofía in Madrid'
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
 ratingProveedor: 4.5
 numeroOpiniones: 10347
 atraccionesRelacionadas:

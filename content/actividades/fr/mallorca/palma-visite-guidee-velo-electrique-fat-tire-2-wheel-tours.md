@@ -77,6 +77,10 @@ galeria:
   alt: "La cathédrale de Palma au-dessus des remparts"
 - src: "/images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp"
   alt: "Promenade le long du bassin devant la cathédrale de Palma"
+- src: "/images/actividades/mallorca/catedral-palma/roseton.webp"
+  alt: "La grande rosace de la cathédrale de Palma vue de l'intérieur"
+- src: "/images/actividades/mallorca/catedral-palma/nave-interior.webp"
+  alt: "La nef centrale de la cathédrale de Palma avec la rosace"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

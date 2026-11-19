@@ -75,6 +75,14 @@ galeria:
   alt: "Ballone bei Sonnenaufgang über dem Alcázar von Segovia"
 - src: "/images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp"
   alt: "Blick auf die Türme von Segovia aus der Luft"
+- src: "/images/actividades/segovia/globo/unsplash-catedral-desde-arriba.webp"
+  alt: "Kathedrale und Altstadt von Segovia von oben"
+- src: "/images/actividades/segovia/globo/unsplash-globo-iglesia.webp"
+  alt: "Ballon an einem romanischen Glockenturm in Segovia"
+- src: "/images/actividades/segovia/globo/unsplash-globos-atardecer.webp"
+  alt: "Ballons steigen über der Ebene mit der Sierra de Guadarrama dahinter"
+- src: "/images/actividades/segovia/globo/unsplash-globos-alcazar.webp"
+  alt: "Heißluftballons über dem Alcázar von Segovia bei Sonnenaufgang"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

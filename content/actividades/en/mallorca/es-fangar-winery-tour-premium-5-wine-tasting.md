@@ -60,7 +60,7 @@ keywords:
 - felanitx winery tour
 imagen: https://imgcdn.bokun.tools/f0cb9b16-8b7a-4234-aea3-3ac0fd7f0785.png
 imagenAlt: "Wines and grapes on a table among the vines"
-galeria: null
+galeria: []
 publicada: true
 indexar: false
 destacada: false

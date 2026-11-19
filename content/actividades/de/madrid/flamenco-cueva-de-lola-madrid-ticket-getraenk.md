@@ -73,6 +73,12 @@ galeria:
   alt: "Künstler beim Klatschen (Palmas) im Tablao"
 - src: "/images/actividades/madrid/cueva-de-lola/bailaora-manton-flores.webp"
   alt: "Tänzerin mit geblümtem Schultertuch"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao und Gran Vía bei Nacht"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, eine Kneipenstraße im Barrio de las Letras"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

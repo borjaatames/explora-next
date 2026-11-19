@@ -77,6 +77,18 @@ galeria:
   alt: "Vista de Barcelona desde el Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "Vista de Barcelona desde el Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-architecture-blue-hero.webp"
+  alt: "Park Güell con sus pabellones y Barcelona al fondo"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+  alt: "Park Güell de Gaudí — detalle de mosaico (con vistas panorámicas de Barcelona)"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-gaudi-mosaic-spain-hero.webp"
+  alt: "Fuente escultorica de mosaico ceramico en Park Guell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-mosaic-table-sun-design-it-hero.webp"
+  alt: "Medallón de mosaico en el techo de la sala Hipóstila"
+- src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
+  alt: "Jardín y entrada de la Casa Museo Gaudí"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero.webp"
+  alt: "Pabellón de cuento de hadas en la entrada del Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

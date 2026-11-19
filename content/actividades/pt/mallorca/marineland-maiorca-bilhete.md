@@ -91,6 +91,10 @@ galeria:
   alt: Público na bancada do espetáculo de golfinhos
 - src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
   alt: Recinto dos papagaios do Marineland Mallorca
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-01.webp"
+  alt: "Espetáculo de golfinhos no Marineland Maiorca"
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-02.webp"
+  alt: "Instalações do Marineland em Costa d'en Blanes"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

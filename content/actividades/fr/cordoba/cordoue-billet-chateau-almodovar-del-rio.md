@@ -96,6 +96,10 @@ galeria:
   alt: "Vitrine de pièces exposées à l'intérieur du château d'Almodóvar del Río"
 - src: /images/actividades/cordoba/almodovar/x-almodovar-wikimedia-02.webp
   alt: "Château d'Almodóvar del Río sur sa colline"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-lc3ylmdtxki.webp"
+  alt: "Drapeau andalou sur les créneaux du château d'Almodóvar del Río"
+- src: "/images/actividades/cordoba/almodovar/almodovar-unsplash-mlqzirdln0c.webp"
+  alt: "Chemin de ronde et tours du château d'Almodóvar del Río"
 ---
 
 ## Ce que vous allez voir

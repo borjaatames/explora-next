@@ -65,16 +65,22 @@ keywords:
 imagen: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-2016-02-hero.webp
 imagenAlt: Plaza Mayor, the first stop on the route
 galeria:
-- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp
-  alt: Plaza Mayor, in the heart of the old town
-- src: /images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp
-  alt: Plaza Mayor, Madrid
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp
-  alt: Plaza de la Villa with the Lujanes House and Tower
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp
-  alt: Plaza de la Villa in Madrid, with the statue of Alvaro de Bazan and the Torreon de los Lujanes tower
-- src: /images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp
-  alt: Plaza Mayor in Madrid, with its arcaded buildings and red facades
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "Plaza Mayor, in the heart of the old town"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-sunlit-view-historic-showcasing-hero.webp"
+  alt: "Plaza Mayor, Madrid"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-01-hero.webp"
+  alt: "Plaza de la Villa with the Lujanes House and Tower"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-2012-04-30-plaza-villa-anagoria-02-hero.webp"
+  alt: "Plaza de la Villa in Madrid, with the statue of Alvaro de Bazan and the Torreon de los Lujanes tower"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-brown-white-concrete-building-hero.webp"
+  alt: "Plaza Mayor in Madrid, with its arcaded buildings and red facades"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-plaza-villa-spain-10552069406-hero.webp"
+  alt: "Plaza de la Villa lit up at night"
+- src: "/images/actividades/madrid/calles-historicas/calles-historicas-madrid-detailed-facade-sculptures-latin-hero.webp"
+  alt: "Sculpted relief on a corner of Madrid's Calle Mayor, with a Latin inscription"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

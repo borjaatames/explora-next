@@ -79,6 +79,10 @@ galeria:
   alt: Fachada gótica da Basílica de Santa Maria del Mar, em El Born
 - src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
   alt: Nave gótica de Santa Maria del Mar com a rosácea ao fundo
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp"
+  alt: "Esculturas no portal da Catedral de Barcelona"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+  alt: "Pátio do palácio que acolhe o Museu Picasso"
 atraccionesRelacionadas:
 - gotico
 publicada: true

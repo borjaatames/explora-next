@@ -75,6 +75,14 @@ galeria:
   alt: "Ballons au lever du soleil au-dessus de l'Alcázar de Ségovie"
 - src: "/images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp"
   alt: "Les tours de Ségovie vues du ciel"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp"
+  alt: "L'Alcázar de Ségovie sur son éperon rocheux"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp"
+  alt: "L'Alcázar de Ségovie, ses tours et ses remparts"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp"
+  alt: "Façade extérieure de l'Alcázar de Ségovie et ses tours crénelées"
+- src: "/images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp"
+  alt: "L'aqueduc de Ségovie vu depuis la plaza de la Artillería"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

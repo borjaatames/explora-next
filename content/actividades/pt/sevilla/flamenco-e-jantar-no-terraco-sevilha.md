@@ -73,6 +73,14 @@ galeria:
   alt: "Os telhados de Sevilha com a catedral em primeiro plano"
 - src: "/images/actividades/sevilla/azotea/azotea-atardecer-unsplash-2cedlkdgeq4.webp"
   alt: "A Giralda e a catedral iluminadas à noite"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol (as Setas) em Sevilha"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada da Catedral de Sevilha entre palmeiras"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Ponte de Triana sobre o Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arcadas da Plaza de España com os seus bancos de azulejo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

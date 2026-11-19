@@ -79,6 +79,8 @@ galeria:
   alt: 'Seville tapas bar counter'
 - src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
   alt: 'Courtyard of the Casa de Pilatos with its fountain'
+- src: "/images/actividades/sevilla/fotos-biblioteca/01.webp"
+  alt: "Roman amphitheatre of Itálica"
 publicada: true
 indexar: false
 destacada: false

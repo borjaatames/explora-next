@@ -75,6 +75,10 @@ galeria:
   alt: 'La sala del trono dell''Alcázar di Segovia'
 - src: https://imgcdn.bokun.tools/fc699ff2-67a0-438b-9389-c84edcca651a.jpg
   alt: 'Panorama di Segovia con la cattedrale'
+- src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-04-hero.webp"
+  alt: "Acquedotto di Segovia accanto alla plaza del Azoguejo"
+- src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-01-hero.webp"
+  alt: "Acquedotto di Segovia"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

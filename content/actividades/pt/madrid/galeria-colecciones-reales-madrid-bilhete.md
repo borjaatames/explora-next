@@ -75,6 +75,12 @@ galeria:
   alt: "Pintura renascentista das coleções reais"
 - src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-06.webp"
   alt: "Pormenor de uma pintura com animais na galeria"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-3462249.webp"
+  alt: "Palácio Real de Madrid junto à Galería de las Colecciones Reales"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-7943963.webp"
+  alt: "Estátua equestre de Filipe IV na plaza de Oriente"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-04.webp"
+  alt: "Fachada moderna da Galería de las Colecciones Reales"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

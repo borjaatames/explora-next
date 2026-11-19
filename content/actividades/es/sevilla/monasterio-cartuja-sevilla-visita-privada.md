@@ -76,18 +76,22 @@ publicada: true
 destacada: false
 fecha: '2026-10-24'
 galeria:
-- src: /images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp
-  alt: Claustrillo mudéjar de la Cartuja de Sevilla con arcos, azulejos y fuente central
-- src: /images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp
-  alt: Bóveda dorada de la Sala Capitular del Monasterio de la Cartuja
-- src: /images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp
-  alt: Chimeneas de los hornos de la antigua fábrica de cerámica Pickman en la Cartuja
-- src: https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg
-  alt: El Monasterio de la Cartuja de Sevilla visto desde sus jardines
-- src: https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg
-  alt: Claustro con arcos de ladrillo del monasterio
-- src: https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg
-  alt: Hornos-chimenea de la antigua fábrica de loza
+- src: "/images/actividades/sevilla/cartuja/cartuja-claustrillo-mudejar.webp"
+  alt: "Claustrillo mudéjar de la Cartuja de Sevilla con arcos, azulejos y fuente central"
+- src: "/images/actividades/sevilla/cartuja/cartuja-boveda-sala-capitulo.webp"
+  alt: "Bóveda dorada de la Sala Capitular del Monasterio de la Cartuja"
+- src: "/images/actividades/sevilla/cartuja/cartuja-hornos-pickman.webp"
+  alt: "Chimeneas de los hornos de la antigua fábrica de cerámica Pickman en la Cartuja"
+- src: "https://imgcdn.bokun.tools/7b844bbf-ef3c-455c-b7d8-45985119b3a6.jpg"
+  alt: "El Monasterio de la Cartuja de Sevilla visto desde sus jardines"
+- src: "https://imgcdn.bokun.tools/5a87923c-8c53-4fb0-9e42-c95cf7319b98.jpg"
+  alt: "Claustro con arcos de ladrillo del monasterio"
+- src: "https://imgcdn.bokun.tools/fd1548ee-930f-4908-a2c0-e8a19da5c5c4.jpg"
+  alt: "Hornos-chimenea de la antigua fábrica de loza"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fachada de la Catedral de Sevilla entre palmeras"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Callejón del Agua en el barrio de Santa Cruz"
 bokunProductId: 933450
 fecha_actualizacion: '2026-10-24'
 privada: true

@@ -82,6 +82,8 @@ galeria:
   alt: Baobab en el hábitat africano del Bioparc
 - src: /images/actividades/malaga/bioparc/bioparc-07.webp
   alt: Ave de plumaje azul en el Bioparc
+- src: "/images/actividades/malaga/bioparc/bioparc-wikimedia-01.webp"
+  alt: "Cocodrilo enano en el Bioparc Fuengirola"
 ratingProveedor: 4.7
 numeroOpiniones: 212
 atraccionesRelacionadas:

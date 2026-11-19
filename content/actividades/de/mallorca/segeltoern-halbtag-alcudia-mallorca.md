@@ -77,6 +77,14 @@ galeria:
   alt: "Segelboot bei Sonnenuntergang"
 - src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-unsplash-x0-gvpl3oka.webp"
   alt: "Türkisfarbene Bucht unter Felsen im Norden Mallorcas"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pixabay-8254024.webp"
+  alt: "Kleiner Hafen mit Booten an der Küste Mallorcas"
+- src: "/images/actividades/mallorca/velero-alcudia/velero-alcudia-pexels-23698698.webp"
+  alt: "Segelkatamaran an einem Strand im Norden Mallorcas"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp"
+  alt: "Almudaina und Kathedrale von Palma am Wasserbecken des Parc de la Mar"
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Port de Sóller mit vertäuten Booten"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

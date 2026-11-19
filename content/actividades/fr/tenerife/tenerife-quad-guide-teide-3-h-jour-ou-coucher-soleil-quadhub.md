@@ -74,6 +74,12 @@ galeria:
   alt: "Panorama sur Las Cañadas du Teide"
 - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
   alt: "Le sommet du Teide au coucher du soleil au-dessus des nuages"
+- src: "/images/actividades/tenerife/quad/quads-atardecer.webp"
+  alt: "Deux quads phares allumés à la tombée de la nuit"
+- src: "/images/actividades/tenerife/quad/quad-pinar.webp"
+  alt: "Quad soulevant la poussière sur une piste en terre à travers les pins"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Le Teide au-dessus de la caldeira de Las Cañadas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

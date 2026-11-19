@@ -86,6 +86,14 @@ galeria:
   alt: "Flamenco dancer on stage at Puro Arte"
 - src: "/images/actividades/jerez-de-la-frontera/puro-arte/patio-puro-arte-jerez.webp"
   alt: "Entrance to Puro Arte"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/jardines-palmeras-real-escuela.webp"
+  alt: "Palm-lined gardens beside the Royal School palace in Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Grey Andalusian horse ridden by a rider in traditional short suit"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp"
+  alt: "Entrance gate to the Alcazar of Jerez in the Almohad wall"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-banos-arabes-hero.webp"
+  alt: "Arab baths of the Alcázar of Jerez"
 ---
 
 ## What you will see

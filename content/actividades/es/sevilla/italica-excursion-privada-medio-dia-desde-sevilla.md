@@ -80,6 +80,8 @@ galeria:
   alt: 'Galería del Grutesco en el Real Alcázar de Sevilla'
 - src: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
   alt: 'Paso procesional de la Semana Santa de Sevilla'
+- src: "/images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp"
+  alt: "Patio de la Casa de Pilatos en Sevilla"
 publicada: true
 indexar: false
 destacada: false

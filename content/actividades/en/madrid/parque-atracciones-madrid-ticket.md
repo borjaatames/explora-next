@@ -66,16 +66,24 @@ keywords:
 imagen: /images/actividades/madrid/parque-atracciones/tarantula.webp
 imagenAlt: Tarántula roller coaster at Parque de Atracciones de Madrid
 galeria:
-- src: /images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp
-  alt: Red roller coaster mid-ride
-- src: /images/actividades/madrid/parque-atracciones/los-fiordos.webp
-  alt: Los Fiordos water ride at Parque de Atracciones
-- src: /images/actividades/madrid/parque-atracciones/vista-parque.webp
-  alt: General view of Parque de Atracciones de Madrid
-- src: /images/actividades/madrid/parque-atracciones/zeppelin.webp
-  alt: Zeppelin ride at Parque de Atracciones de Madrid
-- src: /images/actividades/madrid/parque-atracciones/zona-infantil.webp
-  alt: Padrinos Voladores children's ride in Nickelodeon Land
+- src: "/images/actividades/madrid/parque-atracciones/montana-rusa-roja.webp"
+  alt: "Red roller coaster mid-ride"
+- src: "/images/actividades/madrid/parque-atracciones/los-fiordos.webp"
+  alt: "Los Fiordos water ride at Parque de Atracciones"
+- src: "/images/actividades/madrid/parque-atracciones/vista-parque.webp"
+  alt: "General view of Parque de Atracciones de Madrid"
+- src: "/images/actividades/madrid/parque-atracciones/zeppelin.webp"
+  alt: "Zeppelin ride at Parque de Atracciones de Madrid"
+- src: "/images/actividades/madrid/parque-atracciones/zona-infantil.webp"
+  alt: "Padrinos Voladores children's ride in Nickelodeon Land"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, a bar street in the Barrio de las Letras"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue of Philip III and the Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Almudena Cathedral lit up at nightfall"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "The Royal Post Office at Puerta del Sol at night"
 ratingProveedor: 4.5
 numeroOpiniones: 414
 atraccionesRelacionadas:

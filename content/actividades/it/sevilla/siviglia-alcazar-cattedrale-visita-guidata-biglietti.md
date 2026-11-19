@@ -77,6 +77,12 @@ galeria:
   alt: "La Cattedrale e la Giralda di Siviglia"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
   alt: "Il Real Alcázar di Siviglia"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+  alt: "Dettaglio degli stucchi mudéjar dell'Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+  alt: "Un angolo dei giardini dell'Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
+  alt: "Vasca di Mercurio nel Real Alcázar"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -81,6 +81,10 @@ galeria:
   alt: 'Arco mudéjar a Toledo'
 - src: /images/actividades/madrid/alcazar-toledo/alcazar-toledo-stunning-aerial-capture-during-day-hero.webp
   alt: 'L''Alcázar di Toledo che domina la città'
+- src: "/images/actividades/toledo/calles-historicas-toledo/calles-historicas-toledo-narrow-old-alleyway-leads-into-hero-hero.webp"
+  alt: "Vicolo stretto e acciottolato di Toledo con facciate in pietra"
+- src: "/images/actividades/toledo/catedral-toledo/catedral-toledo-foto-13837915-3-hero-hero.webp"
+  alt: "Facciata principale della cattedrale di Toledo"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

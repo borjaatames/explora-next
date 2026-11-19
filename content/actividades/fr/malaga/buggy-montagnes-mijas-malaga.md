@@ -75,6 +75,16 @@ galeria:
   alt: "La sierra de Mijas et la Costa del Sol vues d'avion"
 - src: "/images/actividades/malaga/buggy-mijas/quad-mijas-wikimedia-02.webp"
   alt: "Crêtes de la sierra de Mijas"
+- src: "/images/actividades/malaga/buggy-mijas/buggy-mijas-pixabay-4402214.webp"
+  alt: "Route avec vue sur la mer à Mijas"
+- src: "/images/actividades/malaga/buggy-mijas/buggy-mijas-wikimedia-04.webp"
+  alt: "La Sierra de Mijas et la côte vues du ciel"
+- src: "/images/actividades/malaga/buggy-mijas/buggy-mijas-pixabay-2392323.webp"
+  alt: "Ruelle blanche de Mijas Pueblo"
+- src: "/images/actividades/malaga/buggy-mijas/buggy-mijas-wikimedia-03.webp"
+  alt: "Montagnes de la Sierra de Mijas"
+- src: "/images/actividades/malaga/buggy-mijas/buggy-mijas-wikimedia-06.webp"
+  alt: "La Sierra de Mijas vue depuis le port de Fuengirola"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

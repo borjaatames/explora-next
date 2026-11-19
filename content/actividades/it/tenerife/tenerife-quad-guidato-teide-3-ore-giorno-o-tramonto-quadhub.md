@@ -74,6 +74,12 @@ galeria:
   alt: "Panorama su Las Cañadas del Teide"
 - src: "/images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp"
   alt: "La cima del Teide al tramonto sopra le nuvole"
+- src: "/images/actividades/tenerife/quad/quads-atardecer.webp"
+  alt: "Due quad con i fari accesi al crepuscolo"
+- src: "/images/actividades/tenerife/quad/quad-pinar.webp"
+  alt: "Quad che solleva polvere su una pista sterrata tra i pini"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "Il Teide con la vetta innevata"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

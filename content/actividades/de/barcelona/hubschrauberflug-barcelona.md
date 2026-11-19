@@ -71,6 +71,16 @@ galeria:
   alt: "Hubschrauber beim Abheben"
 - src: "/images/actividades/barcelona/helicoptero/helicoptero-unsplash-yzjudbdtvda.webp"
   alt: "Luftaufnahme der Häuserblocks von Barcelona"
+- src: "/images/actividades/barcelona/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Rundflug-Hubschrauber über den Bergen"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Der Palau Nacional auf dem Montjuïc, Sitz des MNAC"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Die Dächer Barcelonas bei Sonnenuntergang mit der Sagrada Família und dem Tibidabo"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Enge Gasse im Barri Gòtic mit Balkonen"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sonnenuntergang am Strand von Barceloneta mit dem Hotel W im Hintergrund und Wellen am Ufer"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

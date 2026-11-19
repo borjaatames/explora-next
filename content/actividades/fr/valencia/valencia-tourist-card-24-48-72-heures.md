@@ -80,6 +80,8 @@ galeria:
   alt: "La Cité des arts et des sciences se reflétant dans l'eau"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp"
   alt: "Architecture de l'Oceanogràfic de Valence"
+- src: "/images/actividades/valencia/centro/hemisferic-reflejo.webp"
+  alt: "L'Hemisfèric se reflétant dans l'eau"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

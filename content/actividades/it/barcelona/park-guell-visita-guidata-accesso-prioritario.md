@@ -77,6 +77,14 @@ galeria:
   alt: "Vista di Barcellona dal Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-aerial-view-city-buildings-during-2-hero.webp"
   alt: "Vista di Barcellona dal Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-gaudi-barcelona-europe-spain-hero.webp"
+  alt: "Il portico di colonne inclinate del Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-foto-8790292-hero-hero.webp"
+  alt: "I padiglioni d'ingresso del Park Güell con i loro tetti di ceramica"
+- src: "/images/actividades/barcelona/park-guell/park-guell-path-trees-side-hero.webp"
+  alt: "Il sentiero sotto il viadotto in pietra del Park Güell"
+- src: "/images/actividades/barcelona/park-guell/pixabay-63820-hero.webp"
+  alt: "Il giardino e l'ingresso della Casa Museo Gaudí"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -70,6 +70,16 @@ galeria:
   alt: "Fußball auf frisch gemähtem Rasen"
 - src: "/images/actividades/madrid/legends/legends-futbol-pixabay-488714.webp"
   alt: "Ball auf dem Rasen eines Fußballstadions"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Der Königspalast in Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao und Gran Vía bei Nacht"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "Statue von Philipp III. und die Casa de la Panadería auf der Plaza Mayor"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-real-casa-correos-night-hero.webp"
+  alt: "Real Casa de Correos an der Puerta del Sol bei Nacht"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

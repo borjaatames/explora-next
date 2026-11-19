@@ -70,6 +70,18 @@ galeria:
   alt: "The Royal Palace of Madrid"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
   alt: "The Royal Palace of Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-spanish-royal-guard-horseback-hero.webp"
+  alt: "Royal Guard on horseback at the Palace"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-lascar-royal-palace-4607070501-hero.webp"
+  alt: "Plaza de la Armería and the Royal Palace on a sunny day"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+  alt: "Royal Palace of Madrid lit up at night"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero.webp"
+  alt: "Royal Palace seen from the Campo del Moro gardens"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-foto-21092805-hero-hero.webp"
+  alt: "Main façade of Madrid's Royal Palace"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-view-royal-palace-clear-blue-sky-hero.webp"
+  alt: "Royal Palace of Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

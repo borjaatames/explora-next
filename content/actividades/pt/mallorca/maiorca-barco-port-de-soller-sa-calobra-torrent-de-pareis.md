@@ -89,6 +89,8 @@ galeria:
   alt: Trilho pelo interior da garganta de Sa Calobra
 - src: /images/actividades/mallorca/soller/sa-calobra-barco.webp
   alt: Barco a chegar a Sa Calobra
+- src: "/images/actividades/mallorca/soller/port-de-soller-puerto-barcas.webp"
+  alt: "Barcos no porto de Port de Sóller"
 ratingProveedor: 4.4
 numeroOpiniones: 1230
 atraccionesRelacionadas:

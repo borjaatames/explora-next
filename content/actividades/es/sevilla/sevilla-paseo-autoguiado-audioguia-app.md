@@ -64,16 +64,22 @@ keywords:
 imagen: /images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-puentes-canales-hero.webp
 imagenAlt: Puentes y canal de la Plaza de España
 galeria:
-- src: /images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp
-  alt: Puente de Triana sobre el Guadalquivir
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp
-  alt: Galería de la Plaza de España con sus bancos de azulejos
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp
-  alt: Plaza de España iluminada de noche
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp
-  alt: Canal y torre norte de la Plaza de España
-- src: /images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp
-  alt: Barcas de remo en el canal de la Plaza de España
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Puente de Triana sobre el Guadalquivir"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Galería de la Plaza de España con sus bancos de azulejos"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+  alt: "Plaza de España iluminada de noche"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-3573909.webp"
+  alt: "Canal y torre norte de la Plaza de España"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pixabay-4879907.webp"
+  alt: "Barcas de remo en el canal de la Plaza de España"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp"
+  alt: "Torre y puente de la Plaza de España"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-sevilla-pabellon-central-torres-hero.webp"
+  alt: "Plaza de España de Sevilla con sus dos torres y el canal"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35087514.webp"
+  alt: "Vista amplia de la Plaza de España de Sevilla"
 atraccionesRelacionadas:
 - centro-historico
 - tours-a-pie

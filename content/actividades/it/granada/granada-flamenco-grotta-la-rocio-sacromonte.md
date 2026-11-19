@@ -79,6 +79,16 @@ galeria:
   alt: "Ballerina di flamenco sul palco di Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Ballerina di flamenco sul palco di Cueva de la Rocío"
+- src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+  alt: "Cappella di Nuestra Señora de las Angustias, Cattedrale di Granada"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-granada-plaza-de-san-nicol-s-16-03-2011-14-27-28-j.webp"
+  alt: "Il Mirador de San Nicolás nell'Albaicín"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-alcazaba-spain-hero.webp"
+  alt: "L'Alcazaba dell'Alhambra"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "L'Albaicín al calar della sera"
+- src: "/images/actividades/granada/mirador-san-nicolas/mirador-san-nicolas-wikimedia-alhambra-evening-panorama-mirador-san-nicolas-srgb.webp"
+  alt: "L'Alhambra dal Mirador de San Nicolás"
 publicada: true
 destacada: false
 fecha: '2026-10-10'

@@ -71,6 +71,14 @@ galeria:
   alt: "Live-Gitarre und Gesang in Los Tarantos"
 - src: "/images/actividades/barcelona/los-tarantos/palmas-tarantos.webp"
   alt: "Flamencotänzer auf der Bühne von Los Tarantos"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gotische Fassade der Kathedrale von Barcelona"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Die Kathedrale von Barcelona im Herzen des Gotischen Viertels"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero.webp"
+  alt: "Enge Gasse im Barri Gòtic mit Balkonen"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Der Palau Nacional auf dem Montjuïc, Sitz des MNAC"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

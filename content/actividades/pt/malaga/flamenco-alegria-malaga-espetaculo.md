@@ -86,6 +86,12 @@ galeria:
   alt: "Bailarina de flamenco no palco de Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Guitarra e canto ao vivo em Alegría Flamenco"
+- src: "/images/actividades/malaga/muelle-uno/malagueta.webp"
+  alt: "A Malagueta e o Muelle Uno de Málaga"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Bancadas do Teatro Romano de Málaga"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "O Teatro Romano de Málaga com a Alcazaba ao fundo"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

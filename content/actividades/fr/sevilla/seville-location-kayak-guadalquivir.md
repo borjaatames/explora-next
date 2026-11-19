@@ -99,6 +99,8 @@ galeria:
   alt: 'Rive du Guadalquivir à Séville'
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-canal.webp
   alt: 'La Torre del Oro au bord du Guadalquivir'
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Maisons colorées de Triana au bord du Guadalquivir"
 ratingProveedor: 4.5
 numeroOpiniones: 777
 publicada: true

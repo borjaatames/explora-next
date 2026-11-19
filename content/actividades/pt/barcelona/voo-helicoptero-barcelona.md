@@ -71,6 +71,16 @@ galeria:
   alt: "Helicóptero a descolar"
 - src: "/images/actividades/barcelona/helicoptero/helicoptero-unsplash-yzjudbdtvda.webp"
   alt: "Vista aérea dos quarteirões de Barcelona"
+- src: "/images/actividades/barcelona/helicoptero/helicoptero-pixabay-3011983.webp"
+  alt: "Helicóptero turístico a sobrevoar montanhas"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Pôr do sol na praia da Barceloneta com o Hotel W ao fundo e ondas a rebentar na margem"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-explore-narrow-historic-street-hero-hero.webp"
+  alt: "Rua estreita com varandas no centro histórico de Barcelona"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Telhados de Barcelona ao pôr do sol com a Sagrada Família e o Tibidabo"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Ruas do Born, onde fica o Moco Museum"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

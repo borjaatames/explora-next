@@ -64,16 +64,20 @@ keywords:
 imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
 imagenAlt: Palma Cathedral at sunset from the Parc de la Mar
 galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Promenade by the pool in front of Palma Cathedral
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: Palma Cathedral from Parc de la Mar, by the seafront
-- src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: Great rose window of Palma Cathedral from inside
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: Palma Cathedral at sunset reflected in the Parc de la Mar lake
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-cielo-naranja.webp
-  alt: Palma Cathedral under an orange sunset sky
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp"
+  alt: "Promenade by the pool in front of Palma Cathedral"
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp"
+  alt: "Palma Cathedral from Parc de la Mar, by the seafront"
+- src: "/images/actividades/mallorca/catedral-palma/roseton.webp"
+  alt: "Great rose window of Palma Cathedral from inside"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp"
+  alt: "Palma Cathedral at sunset reflected in the Parc de la Mar lake"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-cielo-naranja.webp"
+  alt: "Palma Cathedral under an orange sunset sky"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Gaudí's canopy over the main altar of La Seu"
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp"
+  alt: "Palma Cathedral (La Seu) facade overlooking the bay of Palma, Mallorca"
 atraccionesRelacionadas:
 - palma
 - tours-a-pie

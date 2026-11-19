@@ -79,18 +79,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/9e1fd219-b315-40b7-aec7-113b9922275c.jpeg
 imagenAlt: "Los Patos New Year's Eve party in Barcelona"
 galeria:
-- src: https://imgcdn.bokun.tools/ef502aeb-c0fe-4a46-8af8-3a7086762a25.jpeg
+- src: "https://imgcdn.bokun.tools/ef502aeb-c0fe-4a46-8af8-3a7086762a25.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
-- src: https://imgcdn.bokun.tools/0f3ab4a7-97fc-4da9-8b66-5669540520ae.jpeg
+- src: "https://imgcdn.bokun.tools/0f3ab4a7-97fc-4da9-8b66-5669540520ae.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
-- src: https://imgcdn.bokun.tools/4e5dda3e-d545-45dc-8868-7f4ee4a4f5fd.jpeg
+- src: "https://imgcdn.bokun.tools/4e5dda3e-d545-45dc-8868-7f4ee4a4f5fd.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
-- src: https://imgcdn.bokun.tools/1ab5102f-1d28-44ae-ab99-5aac3ba4c826.jpeg
+- src: "https://imgcdn.bokun.tools/1ab5102f-1d28-44ae-ab99-5aac3ba4c826.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
-- src: https://imgcdn.bokun.tools/13fdeba6-886d-40fe-b1c5-17e6c9a9bfbb.jpeg
+- src: "https://imgcdn.bokun.tools/13fdeba6-886d-40fe-b1c5-17e6c9a9bfbb.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
-- src: https://imgcdn.bokun.tools/3572b6b0-8621-4890-851b-3424f079690d.jpeg
+- src: "https://imgcdn.bokun.tools/3572b6b0-8621-4890-851b-3424f079690d.jpeg"
   alt: "Los Patos New Year's Eve party in Barcelona"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

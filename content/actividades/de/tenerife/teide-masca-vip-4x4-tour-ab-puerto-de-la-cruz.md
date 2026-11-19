@@ -78,6 +78,8 @@ galeria:
   alt: "Der Weiler Masca zwischen den Bergen"
 - src: "/images/actividades/tenerife/garachico/garachico-roque.webp"
   alt: "Garachico und sein Felsen im Meer"
+- src: "/images/actividades/tenerife/masca/barranco-masca-luz.webp"
+  alt: "Abendlicht in der Masca-Schlucht"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

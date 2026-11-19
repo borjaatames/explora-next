@@ -111,6 +111,8 @@ galeria:
   alt: Le stade Metropolitano de l'Atlético de Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Le stade Metropolitano un jour de match
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "La fontaine de Cibeles illuminée la nuit"
 ratingProveedor: 4.7
 numeroOpiniones: 2351
 publicada: true

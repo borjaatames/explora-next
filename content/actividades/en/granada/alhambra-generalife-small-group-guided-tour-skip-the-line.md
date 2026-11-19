@@ -74,6 +74,18 @@ galeria:
   alt: "Nasrid Palaces of the Alhambra"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp"
   alt: "Nasrid Palaces of the Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
+  alt: "Granada's historic architecture and urban landscape view"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+  alt: "Courtyard of the Alhambra with palm trees reflected in a water channel"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
+  alt: "Ornate Islamic arches and intricate tilework at the Alhambra palace in Granada, Spain"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+  alt: "Aerial view of Alhambra castle in Granada with brown stone architecture surrounded by green hills"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-andalusia-spain-hero-hero.webp"
+  alt: "Muqarnas dome in the Nasrid Palaces"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Aerial view of Alhambra fortress in Granada with palace grounds and surrounding walls"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

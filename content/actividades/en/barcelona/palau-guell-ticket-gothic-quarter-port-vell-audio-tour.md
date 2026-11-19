@@ -74,6 +74,10 @@ galeria:
   alt: Barcelona Cathedral lit up at dusk
 - src: /images/actividades/barcelona/gotico/barrio-gotico-barcelona-spain-architecture-catalonia-2-hero.webp
   alt: Gothic gargoyle on Barcelona Cathedral
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-stunning-low-angle-view-ornate-hero.webp"
+  alt: "Archivolts of the Barcelona Cathedral doorway"
+- src: "/images/actividades/barcelona/gotico/barrio-gotico-barcelona-vibrant-orange-bicycle-leans-hero.webp"
+  alt: "Bicycle against a stone wall in the Gothic Quarter"
 atraccionesRelacionadas:
 - gotico
 publicada: true

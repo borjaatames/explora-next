@@ -67,6 +67,18 @@ imagenAlt: "Dromedario sdraiato con la sella in una fattoria"
 galeria:
 - src: "/images/actividades/tenerife/camello/camello-pixabay-4945676.webp"
   alt: "Due dromedari con coperte colorate"
+- src: "/images/actividades/tenerife/teide/canadas-lava.webp"
+  alt: "Paesaggio vulcanico di Las Cañadas del Teide"
+- src: "/images/actividades/tenerife/garachico/garachico-pexels-10862464.webp"
+  alt: "Garachico e il suo scoglio davanti alla costa"
+- src: "/images/actividades/tenerife/masca/ftc-masca-roque-barranco-mar.webp"
+  alt: "Masca con il suo roque e il barranco verso il mare"
+- src: "/images/actividades/tenerife/icod/drago-milenario.webp"
+  alt: "Il drago millenario di Icod de los Vinos"
+- src: "/images/actividades/tenerife/cristianos/bahia-los-cristianos.webp"
+  alt: "La baia di Los Cristianos vista dalla riva"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Il Teide sopra la caldera di Las Cañadas"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

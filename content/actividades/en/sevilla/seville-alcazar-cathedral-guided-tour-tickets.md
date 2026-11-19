@@ -77,6 +77,16 @@ galeria:
   alt: "Seville Cathedral and the Giralda"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
   alt: "The Royal Alcázar of Seville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facade of the Palace of Pedro I in the Royal Alcázar of Seville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+  alt: "Detail of the Mudejar plasterwork of the Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+  alt: "Baths of Doña María de Padilla in the Royal Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-36481634.webp"
+  alt: "Gardens of the Royal Alcázar of Seville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-patio-doncellas-hero.webp"
+  alt: "Patio de las Doncellas in the Royal Alcázar of Seville"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

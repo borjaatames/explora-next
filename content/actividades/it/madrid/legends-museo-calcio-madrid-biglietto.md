@@ -70,6 +70,16 @@ galeria:
   alt: "Pallone da calcio su un prato appena tagliato"
 - src: "/images/actividades/madrid/legends/legends-futbol-pixabay-488714.webp"
   alt: "Pallone sul prato di uno stadio di calcio"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "L'insegna al neon di Tío Pepe in Puerta del Sol al crepuscolo"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facciata del Museo del Prado sul Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, una via di bar nel Barrio de las Letras"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-discover-grandeur-royal-palace-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Il Palazzo Reale di Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

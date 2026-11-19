@@ -85,6 +85,12 @@ galeria:
   alt: Entrée de Faunia, le parc nature de Madrid
 - src: /images/actividades/madrid/faunia/lago-faunia.webp
   alt: Lac et canards à Faunia
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tyrannosaure parmi les arbres à Faunia"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "La Plaza del Callao et la Gran Vía la nuit"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade du Palais royal de Madrid"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

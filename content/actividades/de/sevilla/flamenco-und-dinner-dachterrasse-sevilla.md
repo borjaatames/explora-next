@@ -73,6 +73,14 @@ galeria:
   alt: "Dächer von Sevilla mit der Kathedrale im Vordergrund"
 - src: "/images/actividades/sevilla/azotea/azotea-atardecer-unsplash-2cedlkdgeq4.webp"
   alt: "Die beleuchtete Giralda und die Kathedrale bei Nacht"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Arkaden der Plaza de España mit ihren gekachelten Bänken"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Die Plaza de España spiegelt sich im Kanal"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "Die Kathedrale und die Giralda von Sevilla"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Die Kurven der Setas vor blauem Himmel"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

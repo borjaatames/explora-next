@@ -12,3 +12,5 @@
 | torre-tavira-08.webp | Pixabay | Makalu · 7346597 | Licencia Pixabay |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\cadiz--torre-tavira\` (23 oct 2026).
+| torre-tavira-pexels-22001463.webp | Pexels | Explorando la provincia de Cádiz | Licencia Pexels | https://www.pexels.com/photo/cadiz-city-in-spain-22001463/ |
+| torre-tavira-wikimedia-03.webp | Wikimedia Commons | Emilio J. Rodríguez Posada | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Torre_Tavira_(20459842180).jpg |

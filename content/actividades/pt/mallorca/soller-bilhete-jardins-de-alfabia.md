@@ -91,6 +91,8 @@ galeria:
   alt: "Caixas com limões à entrada de um edifício de Alfabia"
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
   alt: "Vale de Sóller e a Serra de Tramuntana vistos da estrada"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Catedral de Palma sobre a muralha marítima"
 avisoReserva: 'Atividade sazonal: as próximas datas disponíveis começam em fevereiro de 2027.'
 ---
 

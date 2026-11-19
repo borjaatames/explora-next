@@ -79,6 +79,8 @@ galeria:
   alt: "Das Innere der Kathedrale von Sevilla"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
   alt: "Der Real Alcázar von Sevilla"
+- src: "/images/actividades/sevilla/wikimedia/sevilla-guadalquivir-barco-04.webp"
+  alt: "Ufer des Guadalquivir mit der Torre del Oro in der Ferne"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

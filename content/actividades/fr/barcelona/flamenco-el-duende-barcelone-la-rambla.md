@@ -71,6 +71,14 @@ galeria:
   alt: "Danseur de flamenco sur la scène de El Duende"
 - src: "/images/actividades/barcelona/el-duende/bailaora-abanico-rojo.webp"
   alt: "Danseuse de flamenco sur la scène de El Duende"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Vestiges archéologiques de la Barcelone de 1714 sous la structure de l'ancien marché du Born"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Coucher de soleil sur la plage de la Barceloneta avec l’hôtel W au fond"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Les toits de Barcelone au coucher du soleil avec la Sagrada Família et le Tibidabo"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Le Palau Nacional sur Montjuïc, siège du MNAC"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

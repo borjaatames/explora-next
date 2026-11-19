@@ -69,6 +69,16 @@ galeria:
   alt: "Bucht mit türkisfarbenem Wasser an der Küste Mallorcas"
 - src: "/images/actividades/mallorca/buggy/buggy-wikimedia-02.webp"
   alt: "Mallorquinisches Landhaus zwischen Palmen und Feldern"
+- src: "/images/actividades/mallorca/buggy/buggy-pexels-12319308.webp"
+  alt: "Buggy auf einer Schotterpiste"
+- src: "/images/actividades/mallorca/buggy/buggy-wikimedia-04.webp"
+  alt: "Steinhaus im ländlichen Mallorca"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ovo-_twamlc.webp"
+  alt: "Straße zum Cap de Formentor über dem Meer"
+- src: "/images/actividades/mallorca/buggy/buggy-pexels-28243833.webp"
+  alt: "Kathedrale von Palma von der Stadtmauer aus"
+- src: "/images/actividades/mallorca/buggy/buggy-unsplash-ti9dri8_c3u.webp"
+  alt: "Türkisfarbene Bucht mit Booten auf Mallorca"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

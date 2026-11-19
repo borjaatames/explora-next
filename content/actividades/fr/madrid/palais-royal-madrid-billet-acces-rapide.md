@@ -70,6 +70,14 @@ galeria:
   alt: "Le Palais royal de Madrid"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-equestrian-statue-front-royal-hero.webp"
   alt: "Le Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-large-building-lit-up-night-people-hero.webp"
+  alt: "Le Palais royal de Madrid illuminé la nuit"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-explore-grandeur-historic-baroque-hero.webp"
+  alt: "Façade principale du Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-palace-dining-room-royal-spain-hero.webp"
+  alt: "Salle à manger de gala du Palais royal de Madrid"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-spanish-royal-guard-horseback-hero.webp"
+  alt: "Garde royale à cheval au Palais"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

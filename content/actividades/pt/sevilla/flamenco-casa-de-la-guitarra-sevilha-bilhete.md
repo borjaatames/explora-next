@@ -70,6 +70,16 @@ galeria:
   alt: "Ruela do bairro de Santa Cruz, em Sevilha"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Espetáculo de flamenco num tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Bailarinas de flamenco com vestidos vermelhos e pretos em palco"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Bailarina de flamenco com xaile"
+- src: "/images/actividades/sevilla/setas/metropol-parasol-vista-completa.webp"
+  alt: "Metropol Parasol (as Setas) em Sevilha"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "A Giralda vista das muralhas do Real Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Fachada do Palácio de Pedro I no Real Alcázar de Sevilha"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

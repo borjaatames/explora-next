@@ -76,18 +76,22 @@ keywords:
 imagen: /images/actividades/gran-canaria/poema-del-mar/ventana-curva.webp
 imagenAlt: 'La gran ventana curva del acuario Poema del Mar'
 galeria:
-- src: /images/actividades/gran-canaria/poema-del-mar/arrecife.webp
-  alt: 'Peces tropicales en el arrecife del Poema del Mar'
-- src: /images/actividades/gran-canaria/poema-del-mar/tunel.webp
-  alt: 'Túnel submarino entre peces en el Poema del Mar'
-- src: /images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp
-  alt: 'Tiburones y rayas sobre el túnel del Poema del Mar'
-- src: /images/actividades/gran-canaria/poema-del-mar/la-jungla.webp
-  alt: 'Peces bajo las raíces de la zona La Jungla del Poema del Mar'
-- src: /images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp
-  alt: 'Las Palmas de Gran Canaria y la playa de Las Canteras'
-- src: /images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp
-  alt: 'Puerto de Las Palmas de Gran Canaria entre palmeras'
+- src: "/images/actividades/gran-canaria/poema-del-mar/arrecife.webp"
+  alt: "Peces tropicales en el arrecife del Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel.webp"
+  alt: "Túnel submarino entre peces en el Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/tunel-tiburones.webp"
+  alt: "Tiburones y rayas sobre el túnel del Poema del Mar"
+- src: "/images/actividades/gran-canaria/poema-del-mar/la-jungla.webp"
+  alt: "Peces bajo las raíces de la zona La Jungla del Poema del Mar"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-panoramica-las-palmas-mirador.webp"
+  alt: "Las Palmas de Gran Canaria y la playa de Las Canteras"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp"
+  alt: "Puerto de Las Palmas de Gran Canaria entre palmeras"
+- src: "/images/actividades/gran-canaria/mogan/mogan-aerea.webp"
+  alt: "Vista aérea de Puerto de Mogán"
+- src: "/images/actividades/gran-canaria/dunas/charca-palmeral.webp"
+  alt: "Charca entre palmeras en las Dunas de Maspalomas"
 ratingProveedor: 4.8
 numeroOpiniones: 4610
 atraccionesRelacionadas:

@@ -80,6 +80,8 @@ galeria:
   alt: 'Grotesque Gallery in the Royal Alcázar of Seville'
 - src: /images/actividades/sevilla/fotos-biblioteca/wikimedia-08.webp
   alt: 'Holy Week procession float in Seville'
+- src: "/images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp"
+  alt: "Courtyard of the Casa de Pilatos in Seville"
 publicada: true
 indexar: false
 destacada: false

@@ -76,6 +76,16 @@ galeria:
   alt: "Die Sagrada Família in Barcelona"
 - src: "/images/actividades/barcelona/sagrada-familia/fachada-nacimiento-estanque.webp"
   alt: "Die Sagrada Família in Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-32868875-hero.webp"
+  alt: "Die Sagrada Família bei Sonnenuntergang von oben"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-3340939-hero.webp"
+  alt: "Blick ins Innere auf die baumartigen Säulen und die Decke der Sagrada Família"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11773991-hero.webp"
+  alt: "Die Sagrada Família in Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-33602267-hero.webp"
+  alt: "Türme der Sagrada Família vor blauem Himmel"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "Das Hauptschiff der Sagrada Família mit Blick zum Altar und seinen hohen Säulen"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

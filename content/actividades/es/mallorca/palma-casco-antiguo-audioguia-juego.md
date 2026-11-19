@@ -64,16 +64,20 @@ keywords:
 imagen: /images/actividades/mallorca/catedral-palma/catedral-palma-atardecer.webp
 imagenAlt: Catedral de Palma al atardecer desde el Parc de la Mar
 galeria:
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp
-  alt: Paseo junto al estanque frente a la Catedral de Palma
-- src: /images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp
-  alt: La Seu reflejada en el estanque del Parc de la Mar, Palma
-- src: /images/actividades/mallorca/catedral-palma/roseton.webp
-  alt: Rosetón mayor de la Catedral de Palma desde el interior
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp
-  alt: Catedral de Palma al atardecer reflejada en el lago del Parc de la Mar
-- src: /images/actividades/mallorca/fma-palma/catedral-palma-cielo-naranja.webp
-  alt: Catedral de Palma con el cielo naranja del atardecer
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-estanque.webp"
+  alt: "Paseo junto al estanque frente a la Catedral de Palma"
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-parc-de-la-mar.webp"
+  alt: "La Seu reflejada en el estanque del Parc de la Mar, Palma"
+- src: "/images/actividades/mallorca/catedral-palma/roseton.webp"
+  alt: "Rosetón mayor de la Catedral de Palma desde el interior"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-atardecer-rosa.webp"
+  alt: "Catedral de Palma al atardecer reflejada en el lago del Parc de la Mar"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-cielo-naranja.webp"
+  alt: "Catedral de Palma con el cielo naranja del atardecer"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Baldaquino de Gaudí sobre el altar mayor de La Seu"
+- src: "/images/actividades/mallorca/catedral-palma/catedral-palma-fachada.webp"
+  alt: "Fachada de la Catedral de Palma (La Seu) sobre la bahía"
 atraccionesRelacionadas:
 - palma
 - tours-a-pie

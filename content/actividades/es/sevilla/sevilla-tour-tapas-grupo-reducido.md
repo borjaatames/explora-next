@@ -79,6 +79,8 @@ galeria:
   alt: 'Barra de un bar de tapas sevillano'
 - src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
   alt: 'Patio de la Casa de Pilatos con su fuente'
+- src: "/images/actividades/sevilla/fotos-biblioteca/01.webp"
+  alt: "Anfiteatro romano de Itálica"
 publicada: true
 indexar: false
 destacada: false

@@ -79,6 +79,8 @@ galeria:
   alt: "Il viadotto in pietra tra le palme del Park Güell"
 - src: "/images/actividades/barcelona/park-guell/park-guell-view-city-from-high-point-view-hero.webp"
   alt: "Vista su Barcellona dai giardini del Park Güell"
+- src: "/images/actividades/barcelona/park-guell/park-guell-barcelona-spain-city-mosaic-bench-hero.webp"
+  alt: "Dettaglio di mosaico nel Park Güell"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

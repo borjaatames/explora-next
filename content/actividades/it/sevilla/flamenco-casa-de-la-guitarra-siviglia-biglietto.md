@@ -70,6 +70,16 @@ galeria:
   alt: "Vicolo del quartiere di Santa Cruz, Siviglia"
 - src: "/images/actividades/barcelona/flamenco/flamenco-tablao.webp"
   alt: "Spettacolo di flamenco in un tablao"
+- src: "/images/actividades/barcelona/flamenco/flamenco-pixabay-594272.webp"
+  alt: "Ballerina di flamenco con scialle"
+- src: "/images/actividades/barcelona/flamenco/flamenco-bailaoras-rojo-negro.webp"
+  alt: "Ballerine di flamenco con abiti rossi e neri sul palco"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-27548551.webp"
+  alt: "La Cattedrale e la Giralda di Siviglia"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-28989039.webp"
+  alt: "Il porticato di Plaza de España con le panchine di azulejos"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "La Torre del Oro accanto al Guadalquivir"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -79,6 +79,20 @@ galeria:
   alt: "The Sagrada Família in Barcelona"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "Santa Maria del Mar church in Barcelona's old town"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "Interior nave of the Sagrada Familia looking toward the altar, with its tall columns"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-nave-roof-detail-hero.webp"
+  alt: "Vault of the Sagrada Familia's central nave"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-5514549-hero.webp"
+  alt: "Detail of a sculpture on the Nativity facade of the Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-36841528-hero.webp"
+  alt: "Red and orange light from the stained glass inside the Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-view-barcelona-blooming-trees-hero.webp"
+  alt: "Passion façade with trees in bloom"
+- src: "/images/actividades/barcelona/sagrada-familia/pinaculos-torre-vistas.webp"
+  alt: "Fruit-topped pinnacles and the city below, seen from high on the Sagrada Familia"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-intricate-ceiling-gothic-hero-hero.webp"
+  alt: "Intricate Gothic ceiling with ornate stone vaulting and decorative details in Barcelona's Sagrada Familia basilica"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

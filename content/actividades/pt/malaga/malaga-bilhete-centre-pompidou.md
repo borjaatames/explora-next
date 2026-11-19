@@ -86,6 +86,8 @@ galeria:
   alt: O Cubo iluminado à noite
 - src: /images/actividades/malaga/pompidou/pompidou-07.webp
   alt: O Cubo do Pompidou em pleno sol
+- src: "/images/actividades/malaga/pompidou/pompidou-pexels-37475646.webp"
+  alt: "O Cubo colorido do Centre Pompidou Málaga"
 ratingProveedor: 4.2
 numeroOpiniones: 734
 atraccionesRelacionadas:

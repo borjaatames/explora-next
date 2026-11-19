@@ -90,12 +90,22 @@ destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-25'
 galeria:
-- src: /images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp
-  alt: Torre de toboganes de caída libre en Western Water Park
-- src: /images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp
-  alt: Vista aérea de Western Water Park, en Magaluf (Calvià)
-- src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
-  alt: Zona infantil con toboganes de colores en Western Water Park
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp"
+  alt: "Torre de toboganes de caída libre en Western Water Park"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp"
+  alt: "Vista aérea de Western Water Park, en Magaluf (Calvià)"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp"
+  alt: "Zona infantil con toboganes de colores en Western Water Park"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Bañistas en el agua transparente de Caló des Moro"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Palacio de la Almudaina sobre la muralla al atardecer"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-gargola.webp"
+  alt: "Gárgola gótica en la fachada de la Catedral de Palma"
+- src: "/images/actividades/mallorca/fma-palma/catedral-palma-muralla-dia.webp"
+  alt: "Catedral de Palma sobre la muralla del mar"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Iglesia de la Real Cartuja de Valldemossa"
 ---
 
 ## Qué vas a ver

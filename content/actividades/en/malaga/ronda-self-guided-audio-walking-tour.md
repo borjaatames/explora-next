@@ -73,6 +73,10 @@ galeria:
   alt: Ronda's Puente Nuevo and the houses above the gorge
 - src: /images/actividades/granada/ronda/ronda-pexels-15125388.webp
   alt: The Puente Nuevo seen from the viewpoint
+- src: "/images/actividades/granada/ronda/ronda-pixabay-3372201.webp"
+  alt: "Puente Nuevo over the gorge in spring"
+- src: "/images/actividades/granada/ronda/ronda-pexels-36623720.webp"
+  alt: "The Ronda gorge seen from below"
 atraccionesRelacionadas:
 - tours-a-pie
 publicada: true

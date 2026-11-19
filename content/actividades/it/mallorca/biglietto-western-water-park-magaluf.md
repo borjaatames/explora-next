@@ -88,12 +88,20 @@ destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-25'
 galeria:
-- src: /images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp
-  alt: Torre di scivoli a caduta libera al Western Water Park
-- src: /images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp
-  alt: Vista aerea del Western Water Park, a Magaluf (Calvià)
-- src: /images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp
-  alt: Area bambini con scivoli colorati al Western Water Park
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-kamikaze.webp"
+  alt: "Torre di scivoli a caduta libera al Western Water Park"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-vista-aerea.webp"
+  alt: "Vista aerea del Western Water Park, a Magaluf (Calvià)"
+- src: "/images/actividades/mallorca/western-water-park/western-water-park-zona-infantil.webp"
+  alt: "Area bambini con scivoli colorati al Western Water Park"
+- src: "/images/actividades/mallorca/calo-des-moro/banistas-calo-des-moro.webp"
+  alt: "Bagnanti nell'acqua trasparente di Caló des Moro"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-atardecer-muralla.webp"
+  alt: "Il Palazzo dell'Almudaina sopra le mura al tramonto"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Chiesa della Real Cartuja di Valldemossa"
+- src: "/images/actividades/mallorca/calo-des-moro/barco-fondeado-banistas-aerea.webp"
+  alt: "Barca ancorata con bagnanti che nuotano intorno"
 ---
 
 ## Cosa vedrai

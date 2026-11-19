@@ -77,6 +77,10 @@ galeria:
   alt: "Konzertsaal des Palau mit der Orgel im Hintergrund"
 - src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
   alt: "Parkett des Palau vom Rang aus gesehen"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp"
+  alt: "Besucher in den Logen des Palau de la Música"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp"
+  alt: "Verzierte Decke und seitliche Buntglasfenster des Palau"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

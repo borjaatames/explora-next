@@ -86,6 +86,8 @@ galeria:
   alt: "La cattedrale di Barcellona, nel cuore del Quartiere Gotico"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Spiaggia della Barceloneta con il porto turistico e le palme"
+- src: "/images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp"
+  alt: "Ciclisti sul Passeig de Lluís Companys accanto all'Arc de Triomf"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

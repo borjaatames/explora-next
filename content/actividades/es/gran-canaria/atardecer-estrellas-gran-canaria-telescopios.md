@@ -85,18 +85,22 @@ keywords:
 imagen: /images/actividades/gran-canaria/estrellas/atardecer-pico-nieves.webp
 imagenAlt: Atardecer desde el Pico de las Nieves con el Roque Nublo y el Bentayga
 galeria:
-- src: /images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp
-  alt: Silueta de montanas al atardecer en Gran Canaria
-- src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
-  alt: La Vía Láctea sobre un molino en Gran Canaria
-- src: /images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp
-  alt: Puesta de sol junto al Roque Nublo
-- src: /images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp
-  alt: Puesta de sol sobre las nubes desde las cumbres
-- src: /images/actividades/gran-canaria/estrellas/atardecer-calima.webp
-  alt: Atardecer con el Roque Nublo y el Teide
-- src: /images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp
-  alt: Último sol en las cumbres de Gran Canaria
+- src: "/images/actividades/gran-canaria/cumbres-estrellas/atardecer-silueta-montanas.webp"
+  alt: "Silueta de montanas al atardecer en Gran Canaria"
+- src: "/images/actividades/gran-canaria/estrellas/via-lactea-molino.webp"
+  alt: "La Vía Láctea sobre un molino en Gran Canaria"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-roque-nublo.webp"
+  alt: "Puesta de sol junto al Roque Nublo"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-sobre-nubes.webp"
+  alt: "Puesta de sol sobre las nubes desde las cumbres"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-calima.webp"
+  alt: "Atardecer con el Roque Nublo y el Teide"
+- src: "/images/actividades/gran-canaria/estrellas/atardecer-cumbre.webp"
+  alt: "Último sol en las cumbres de Gran Canaria"
+- src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
+  alt: "Almendros en flor frente al Roque Bentayga, en Tejeda"
+- src: "/images/actividades/gran-canaria/las-palmas/fgc-puerto-las-palmas-palmeras.webp"
+  alt: "El puerto de Las Palmas visto desde arriba, entre palmeras"
 ratingProveedor: 4.8
 numeroOpiniones: 302
 atraccionesRelacionadas:

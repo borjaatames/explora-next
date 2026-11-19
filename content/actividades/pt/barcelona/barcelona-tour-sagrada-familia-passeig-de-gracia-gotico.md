@@ -79,6 +79,14 @@ galeria:
   alt: "A Sagrada Família, em Barcelona"
 - src: "/images/actividades/barcelona/born/santa-maria-del-mar-fachada.webp"
   alt: "Igreja de Santa Maria del Mar no centro histórico de Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
+  alt: "A Sagrada Família, em Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-12823989-hero.webp"
+  alt: "A nave central da Sagrada Família em direção ao altar, com as suas colunas altas"
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp"
+  alt: "Fachada da Sagrada Família com as suas torres, em Barcelona"
+- src: "/images/actividades/barcelona/sagrada-familia/cripta-sagrada-familia.webp"
+  alt: "Cripta da Sagrada Família, onde está sepultado Gaudí"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

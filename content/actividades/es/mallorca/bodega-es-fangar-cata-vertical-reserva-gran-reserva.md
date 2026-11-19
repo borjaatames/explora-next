@@ -59,7 +59,7 @@ keywords:
 - cata de vinos especial mallorca
 imagen: https://imgcdn.bokun.tools/27021a1b-ec43-4ae3-8d3a-795c1ed76ee8.png
 imagenAlt: "Grupo en una cata de vinos en la bodega"
-galeria: null
+galeria: []
 publicada: true
 indexar: false
 destacada: false

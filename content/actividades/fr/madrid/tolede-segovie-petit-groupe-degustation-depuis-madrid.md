@@ -85,6 +85,8 @@ galeria:
   alt: 'Aqueduc de Ségovie'
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
   alt: 'Aqueduc de Ségovie et la plaza del Azoguejo vus d''en haut'
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp"
+  alt: "Façade extérieure de l'Alcázar de Ségovie et ses tours crénelées"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

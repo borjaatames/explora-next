@@ -68,6 +68,16 @@ galeria:
   alt: Main square of the Poble Espanyol
 - src: /images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-pobleespanyol-bcn-4864-jpg-01.webp
   alt: Aerial view of the Poble Espanyol on Montjuïc
+- src: "/images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-04.webp"
+  alt: "Andalusian corner of Poble Espanyol"
+- src: "/images/actividades/barcelona/poble-espanyol/poble-espanyol-wikimedia-05.webp"
+  alt: "Stone pavilion in Poble Espanyol"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
 atraccionesRelacionadas:
 - otros-barcelona
 publicada: true

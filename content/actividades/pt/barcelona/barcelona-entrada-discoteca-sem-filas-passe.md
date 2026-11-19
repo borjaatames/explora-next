@@ -86,6 +86,8 @@ galeria:
   alt: "Discoteca de Barcelona com o passe da Los Patos"
 - src: https://imgcdn.bokun.tools/2a3384c3-54cc-47ef-a0c7-2176ceb5229a.jpeg
   alt: "Discoteca de Barcelona com o passe da Los Patos"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "As Ramblas com as suas árvores"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

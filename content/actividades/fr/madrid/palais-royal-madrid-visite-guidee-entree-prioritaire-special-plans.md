@@ -80,6 +80,8 @@ galeria:
   alt: "La cathédrale de l'Almudena à côté du Palais royal"
 - src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-royal-palace-architecture-spain-hero-hero.webp"
   alt: "Le Palais royal vu depuis les jardins du Campo del Moro"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-elegant-neoclassical-architecture-hero.webp"
+  alt: "Le Palais royal de Madrid"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

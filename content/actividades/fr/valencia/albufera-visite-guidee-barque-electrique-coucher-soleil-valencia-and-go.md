@@ -81,6 +81,8 @@ galeria:
   alt: "Ciel rouge se reflétant dans le lac de l'Albufera après le coucher du soleil"
 - src: "/images/actividades/valencia/albufera/fvc-proa-barca-lago-atardecer.webp"
   alt: "La proue d'une barque naviguant sur le lac de l'Albufera au coucher du soleil"
+- src: "/images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp"
+  alt: "Canal avec des barques traditionnelles à la tombée de la nuit à l'Albufera"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

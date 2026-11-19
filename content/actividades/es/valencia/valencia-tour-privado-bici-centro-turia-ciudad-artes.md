@@ -59,16 +59,22 @@ keywords:
 imagen: https://imgcdn.bokun.tools/7fe9ccb4-ca77-4119-875f-dc7b1c4b1f41.jpg
 imagenAlt: "Letras de Valencia ante el Hemisfèric"
 galeria:
-- src: https://imgcdn.bokun.tools/b940faaa-9135-4216-811f-e89b95964818.jpg
+- src: "https://imgcdn.bokun.tools/b940faaa-9135-4216-811f-e89b95964818.jpg"
   alt: "Ciclista en la Ciudad de las Artes y las Ciencias"
-- src: https://imgcdn.bokun.tools/8d621d4c-0fd1-4602-8e62-e24a828a4cd7.jpg
+- src: "https://imgcdn.bokun.tools/8d621d4c-0fd1-4602-8e62-e24a828a4cd7.jpg"
   alt: "Ciclista con su bici en la Ciudad de las Artes y las Ciencias"
-- src: https://imgcdn.bokun.tools/4f089178-15e5-427c-af24-565f313ac100.jpg
+- src: "https://imgcdn.bokun.tools/4f089178-15e5-427c-af24-565f313ac100.jpg"
   alt: "Ciclista entre la vegetación del jardín del Turia"
-- src: https://imgcdn.bokun.tools/e3875302-db12-4b26-9cae-f768c0f88d2b.jpg
+- src: "https://imgcdn.bokun.tools/e3875302-db12-4b26-9cae-f768c0f88d2b.jpg"
   alt: "Vista aérea de la Ciudad de las Artes y el jardín del Turia"
-- src: https://imgcdn.bokun.tools/b6b2a129-d553-4285-8673-3bab18e4ed36.jpg
+- src: "https://imgcdn.bokun.tools/b6b2a129-d553-4285-8673-3bab18e4ed36.jpg"
   alt: "Plaza de la Virgen y la Catedral de Valencia"
+- src: "/images/actividades/valencia/turia/fvc-jardin-turia-palau-arts.webp"
+  alt: "Jardín del Turia con el Palau de les Arts al fondo"
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/arquitectura-moderna-ciudad-artes.webp"
+  alt: "Arquitectura moderna simétrica de la Ciudad de las Artes y Ciencias"
+- src: "/images/actividades/valencia/turia/fvc-bici-camino-arbolado.webp"
+  alt: "Bicicleta junto a un camino de tierra arbolado"
 publicada: true
 indexar: false
 destacada: false

@@ -77,18 +77,22 @@ keywords:
 imagen: /images/actividades/barcelona/palau-musica/palau-musica-catalana-interior-general-hero.webp
 imagenAlt: 'Claraboya de vidrio sobre la sala de conciertos del Palau de la Música'
 galeria:
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-catalana-palace-catalan-music-hero.webp
-  alt: 'Sala de conciertos del Palau con el órgano al fondo'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp
-  alt: 'Techo decorado y vidrieras laterales del Palau'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp
-  alt: 'Visitantes en los palcos del Palau de la Música'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-mosaic-hero.webp
-  alt: 'Columnas de mosaico en la fachada del Palau'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-exterior-hero.webp
-  alt: 'Esquina modernista del Palau de la Música Catalana'
-- src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp
-  alt: 'Platea del Palau vista desde el anfiteatro'
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-catalana-palace-catalan-music-hero.webp"
+  alt: "Sala de conciertos del Palau con el órgano al fondo"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-barcelona-catalonia-spain-hero.webp"
+  alt: "Techo decorado y vidrieras laterales del Palau"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-elegant-interior-visitors-barcelona-hero.webp"
+  alt: "Visitantes en los palcos del Palau de la Música"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-mosaic-hero.webp"
+  alt: "Columnas de mosaico en la fachada del Palau"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-exterior-hero.webp"
+  alt: "Esquina modernista del Palau de la Música Catalana"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
+  alt: "Platea del Palau vista desde el anfiteatro"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "La catedral de Barcelona, en el corazón del Barrio Gótico"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional de Montjuïc, sede del MNAC"
 ratingProveedor: 4.6
 numeroOpiniones: 6321
 publicada: true

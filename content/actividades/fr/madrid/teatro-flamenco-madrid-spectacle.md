@@ -83,6 +83,16 @@ galeria:
   alt: "La troupe de flamenco au complet à Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Couple de danseurs de flamenco à Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Façade du musée du Prado sur le Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "La Plaza Mayor, au cœur de la vieille ville"
+- src: "/images/actividades/madrid/palacio-real/palacio-real-madrid-clear-day-royal-palace-tourists-hero.webp"
+  alt: "Façade du Palais royal de Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "La Calle de las Huertas, rue de bars du Barrio de las Letras"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La cathédrale de l'Almudena illuminée le soir"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

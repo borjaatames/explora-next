@@ -79,6 +79,8 @@ galeria:
   alt: "La Gran Vía, nel centro di Madrid"
 - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
   alt: "Edificio del Museo del Prado a Madrid"
+- src: "/images/actividades/madrid/retiro/bicicleta-electrica-manillar-camino-parque.webp"
+  alt: "Bici elettrica su un viale del parco del Retiro"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -74,6 +74,12 @@ galeria:
   alt: "Gitarristen und Sänger auf der Bühne"
 - src: "/images/actividades/sevilla/tablao-las-setas/escenario-sillas-luces-rojas.webp"
   alt: "Die Bühne des Tablao Las Setas in rotem Licht"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Fassade der Kathedrale von Sevilla zwischen Palmen"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Die Kurven der Setas vor blauem Himmel"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Bunte Häuser von Triana am Guadalquivir"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

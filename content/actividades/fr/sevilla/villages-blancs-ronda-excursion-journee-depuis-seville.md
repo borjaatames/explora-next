@@ -74,6 +74,8 @@ galeria:
   alt: "Paysage de collines et d'oliviers autour des villages blancs"
 - src: "/images/actividades/malaga/setenil/calle-casas-roca.webp"
   alt: "Maisons sous la roche à Setenil de las Bodegas"
+- src: "/images/actividades/granada/ronda-desde-granada/ronda-desde-granada-detalle-arch-mirador-03-hero.webp"
+  alt: "Le Puente Nuevo de Ronda et les maisons au bord du Tajo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

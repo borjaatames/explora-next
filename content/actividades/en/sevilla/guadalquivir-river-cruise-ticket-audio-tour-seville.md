@@ -73,6 +73,10 @@ galeria:
   alt: Torre del Oro and the Guadalquivir at night
 - src: /images/actividades/sevilla/kayak-guadalquivir/torre-del-oro-rio.webp
   alt: Torre del Oro by the Guadalquivir in Seville
+- src: "/images/actividades/sevilla/triana/triana-pixabay-1590890.webp"
+  alt: "Triana Bridge lit up at night"
+- src: "/images/actividades/sevilla/triana/flamenco-sevilla-baile.webp"
+  alt: "Flamenco dancer with a shawl and polka-dot dress during a flamenco show in Seville"
 atraccionesRelacionadas:
 - barco
 publicada: true

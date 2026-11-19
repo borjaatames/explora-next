@@ -73,6 +73,10 @@ galeria:
   alt: "Gaudí walking tour in Barcelona"
 - src: https://imgcdn.bokun.tools/59eb089b-7d4e-4890-8b15-ca859f85467d.jpeg
   alt: "Gaudí walking tour in Barcelona"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gothic façade of Barcelona Cathedral"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Sunset at Barceloneta beach with the W Hotel in the background and waves breaking on the shore"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

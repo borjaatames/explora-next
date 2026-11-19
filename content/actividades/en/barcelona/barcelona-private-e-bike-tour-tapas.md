@@ -60,16 +60,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/c3e94c34-cc9a-4b0a-b7e3-b9f25e5d19c7.jpg
 imagenAlt: "Cyclist on a waterside promenade"
 galeria:
-- src: https://imgcdn.bokun.tools/f7603a00-df7d-438b-a253-dcea083492dc.jpg
+- src: "https://imgcdn.bokun.tools/f7603a00-df7d-438b-a253-dcea083492dc.jpg"
   alt: "Friends with bikes on the seafront promenade"
-- src: https://imgcdn.bokun.tools/0e7c7685-93ae-4ecf-b614-8eca58ba90a2.jpg
+- src: "https://imgcdn.bokun.tools/0e7c7685-93ae-4ecf-b614-8eca58ba90a2.jpg"
   alt: "Couple riding e-bikes in Barcelona"
-- src: https://imgcdn.bokun.tools/22e8ac29-2051-4b42-9d64-c5905041efcd.jpg
+- src: "https://imgcdn.bokun.tools/22e8ac29-2051-4b42-9d64-c5905041efcd.jpg"
   alt: "Park Güell mosaic bench and pavilions overlooking Barcelona"
-- src: https://imgcdn.bokun.tools/9bb62371-e105-485d-a421-153fd18ddac8.jpg
+- src: "https://imgcdn.bokun.tools/9bb62371-e105-485d-a421-153fd18ddac8.jpg"
   alt: "The Sagrada Família seen from the park"
-- src: https://imgcdn.bokun.tools/748bff59-585d-4b2e-b638-ae07187b11ad.jpg
+- src: "https://imgcdn.bokun.tools/748bff59-585d-4b2e-b638-ae07187b11ad.jpg"
   alt: "Barcelona Cathedral at sunset"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/born/born-ccm-ruinas.webp"
+  alt: "Archaeological remains of 1714 Barcelona beneath the old Born market structure"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Barcelona rooftops at sunset with the Sagrada Família and Tibidabo"
 publicada: true
 indexar: false
 destacada: false

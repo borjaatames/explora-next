@@ -81,18 +81,20 @@ keywords:
 imagen: /images/actividades/alicante/vino/vinedos.webp
 imagenAlt: Viñedos en el campo
 galeria:
-- src: /images/actividades/alicante/ciudades/alicante-hero.webp
-  alt: Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara
-- src: /images/actividades/alicante/vino/barricas.webp
-  alt: Barricas de vino en una bodega
-- src: /images/actividades/alicante/vino/cata-copas.webp
-  alt: Copas preparadas para una cata de vino
-- src: /images/actividades/alicante/vino/vinedos-paisaje.webp
-  alt: Paisaje de viñedos
-- src: /images/actividades/alicante/vino/cata-tinto.webp
-  alt: Cata de vino tinto
-- src: /images/actividades/alicante/vino/barricas-filas.webp
-  alt: Filas de barricas
+- src: "/images/actividades/alicante/ciudades/alicante-hero.webp"
+  alt: "Vista del puerto y la playa del Postiguet desde el castillo de Santa Bárbara"
+- src: "/images/actividades/alicante/vino/barricas.webp"
+  alt: "Barricas de vino en una bodega"
+- src: "/images/actividades/alicante/vino/cata-copas.webp"
+  alt: "Copas preparadas para una cata de vino"
+- src: "/images/actividades/alicante/vino/vinedos-paisaje.webp"
+  alt: "Paisaje de viñedos"
+- src: "/images/actividades/alicante/vino/cata-tinto.webp"
+  alt: "Cata de vino tinto"
+- src: "/images/actividades/alicante/vino/barricas-filas.webp"
+  alt: "Filas de barricas"
+- src: "/images/actividades/alicante/centro/castillo-santa-barbara.webp"
+  alt: "Castillo de Santa Bárbara sobre el puerto de Alicante"
 ratingProveedor: 4.9
 numeroOpiniones: 445
 atraccionesRelacionadas:

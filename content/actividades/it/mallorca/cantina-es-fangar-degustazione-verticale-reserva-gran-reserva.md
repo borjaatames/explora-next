@@ -57,7 +57,7 @@ keywords:
 - es fangar gran reserva
 imagen: https://imgcdn.bokun.tools/27021a1b-ec43-4ae3-8d3a-795c1ed76ee8.png
 imagenAlt: "Gruppo a una degustazione di vini in cantina"
-galeria: null
+galeria: []
 publicada: true
 destacada: false
 fecha: '2026-11-05'

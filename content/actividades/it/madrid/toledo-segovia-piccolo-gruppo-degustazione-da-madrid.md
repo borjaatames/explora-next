@@ -84,6 +84,8 @@ galeria:
   alt: 'Acquedotto di Segovia'
 - src: /images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-05-hero.webp
   alt: 'Acquedotto di Segovia e la plaza del Azoguejo dall''alto'
+- src: "/images/actividades/madrid/acueducto-segovia/acueducto-segovia-aqueduct-02-hero.webp"
+  alt: "Acquedotto di Segovia"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

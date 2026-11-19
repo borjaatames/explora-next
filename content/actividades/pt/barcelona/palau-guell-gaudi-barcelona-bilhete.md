@@ -74,6 +74,12 @@ galeria:
   alt: "As cavalariças na cave do Palau Güell"
 - src: "/images/actividades/barcelona/palau-guell/palau-guell-wikimedia-02.webp"
   alt: "Pátio interior do Palau Güell visto de cima"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "As Ramblas com as suas árvores"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Pôr do sol na praia da Barceloneta com o Hotel W ao fundo e ondas a rebentar na margem"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arco gótico e candeeiro no Bairro Gótico"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

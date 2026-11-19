@@ -90,6 +90,10 @@ galeria:
   alt: Botella de aceite de oliva sobre una mesa entre olivares
 - src: https://imgcdn.bokun.tools/023d3e31-a195-420b-a862-34ef333e6357.jpg
   alt: Grupo entre olivos con el guía
+- src: "/images/actividades/sevilla/almazara/almazara-wikimedia-05.webp"
+  alt: "Almazara tradicional con prensa hidráulica"
+- src: "/images/actividades/sevilla/almazara/almazara-wikimedia-01.webp"
+  alt: "Maquinaria de una almazara moderna"
 bokunProductId: 860682
 fecha_actualizacion: '2026-10-24'
 privada: true

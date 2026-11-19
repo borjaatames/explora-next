@@ -86,6 +86,12 @@ galeria:
   alt: "Danseuse de flamenco sur la scène de Alegría Flamenco"
 - src: "/images/actividades/malaga/alegria/guitarra-alegria-malaga.webp"
   alt: "Guitare et chant en direct à Alegría Flamenco"
+- src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
+  alt: "Le théâtre romain de Malaga et l'Alcazaba"
+- src: "/images/actividades/malaga/muelle-uno/malagueta.webp"
+  alt: "La Malagueta et le Muelle Uno de Malaga"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "La cathédrale de Málaga, près du musée Picasso"
 ratingProveedor: 4.7
 numeroOpiniones: 6564
 publicada: true

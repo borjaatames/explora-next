@@ -74,6 +74,16 @@ galeria:
   alt: "Palácios Nasridas da Alhambra"
 - src: "/images/actividades/granada/palacios-nazaries/pexels-12203897-hero.webp"
   alt: "Palácios Nasridas da Alhambra"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
+  alt: "Arcos e colunas decorativas da Alhambra de Granada com azulejos ornamentais"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204352-hero.webp"
+  alt: "A Alhambra e o bairro do Albaicín"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-34369624-hero.webp"
+  alt: "Cúpula de muqarnas nos Palácios Nasridas"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-35021518-hero.webp"
+  alt: "Pátio dos Leões nos Palácios Nacéridas"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+  alt: "Patio de los Leones nos Palácios Nasridas"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

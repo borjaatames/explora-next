@@ -8,3 +8,6 @@
 | buggy-wikimedia-04.webp | Wikimedia Commons | Enric | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:06_Casa_al_peu_de_la_serra_de_Tramuntana,_vora_la_carretera_de_Valldemossa_(Dei%C3%A0).JPG |
 | buggy-wikimedia-03.webp | Wikimedia Commons | Paucabot | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Carretera_de_la_Serra_de_Tramuntana.jpg |
 | buggy-wikimedia-06.webp | Wikimedia Commons | Vicenç Salvador Torres Guerola | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:0.4._Mar_Mediterr%C3%A0nia_-_Serra_de_Tramuntana._Sa_Calobra._(Escorca,_Mallorca).jpg |
+| buggy-pexels-28243833.webp | Pexels | Burkay Canatar | Licencia Pexels | https://www.pexels.com/photo/canon-palma-de-mallorca-28243833/ |
+| buggy-unsplash-ovo-_twamlc.webp | Unsplash | Austin Farrington | Licencia Unsplash | https://unsplash.com/photos/a-car-driving-down-a-road-near-a-mountain-OVo-_TwAMlc |
+| buggy-unsplash-ti9dri8_c3u.webp | Unsplash | Luke Moss | Licencia Unsplash | https://unsplash.com/photos/a-couple-of-boats-that-are-in-the-water-ti9DRi8_C3U |

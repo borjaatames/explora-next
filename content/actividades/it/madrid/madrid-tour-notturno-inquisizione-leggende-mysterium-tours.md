@@ -70,6 +70,12 @@ galeria:
   alt: "Plaza de Callao e l'edificio Carrión di notte"
 - src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
   alt: "Plaza del Callao e la Gran Vía di notte"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-spain-hero.webp"
+  alt: "La cupola della cattedrale dell'Almudena"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-cathedral-madrid-architecture-hero-hero.webp"
+  alt: "La Cattedrale dell'Almudena a Madrid, architettura neogotica"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "La Cattedrale dell'Almudena illuminata al calar della notte"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

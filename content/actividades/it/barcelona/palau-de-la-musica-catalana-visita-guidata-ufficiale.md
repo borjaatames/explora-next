@@ -81,6 +81,8 @@ galeria:
   alt: "Soffitto decorato e vetrate laterali del Palau"
 - src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp"
   alt: "Platea del Palau vista dalla galleria"
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-curved-rows-elegant-red-theater-hero.webp"
+  alt: "File di poltrone rosse nella sala del Palau de la Música"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

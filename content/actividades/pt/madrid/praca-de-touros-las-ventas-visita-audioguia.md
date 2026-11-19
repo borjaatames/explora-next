@@ -90,6 +90,10 @@ galeria:
   alt: 'Monumento de bronze em frente à praça de Las Ventas'
 - src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
   alt: 'Porta principal de Las Ventas'
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "O letreiro néon do Tío Pepe na Puerta del Sol ao entardecer"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "A fonte de Cibeles iluminada à noite"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

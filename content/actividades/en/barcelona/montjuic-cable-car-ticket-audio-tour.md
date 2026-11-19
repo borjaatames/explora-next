@@ -78,6 +78,10 @@ galeria:
   alt: Montjuïc cable car with views of Barcelona
 - src: /images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-04.webp
   alt: Cabins climbing towards Montjuïc Castle
+- src: "/images/actividades/barcelona/teleferico-montjuic/teleferico-montjuic-cabina-05.webp"
+  alt: "Montjuïc cable car cabins above the park"
+- src: "/images/actividades/barcelona/montjuic/descarga-11-hero.webp"
+  alt: "Palau Nacional on Montjuïc, home of the MNAC"
 atraccionesRelacionadas:
 - parques
 publicada: true

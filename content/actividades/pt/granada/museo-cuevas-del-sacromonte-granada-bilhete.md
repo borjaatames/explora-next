@@ -72,6 +72,12 @@ galeria:
   alt: "O Albaicín visto dos jardins da Alhambra"
 - src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
   alt: "Casas brancas do Albaicín, em Granada"
+- src: "/images/actividades/granada/albaicin/albaicin-unsplash-C7MUgJowo8s.webp"
+  alt: "A Alhambra iluminada pelo sol da tarde"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-38321002.webp"
+  alt: "O Albaicín ao cair da tarde"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829133-hero.webp"
+  alt: "Palácios Nasridas da Alhambra"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

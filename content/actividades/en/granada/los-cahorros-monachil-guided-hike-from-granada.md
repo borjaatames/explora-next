@@ -76,6 +76,12 @@ galeria:
   alt: "Los Cahorros gorge in the Sierra Nevada foothills"
 - src: "/images/actividades/granada/cahorros/cahorros-tunel-rio.webp"
   alt: "Rocky passage over the Monachil river in Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-puente-colgante.webp"
+  alt: "Los Cahorros suspension bridge over the Monachil river gorge"
+- src: "/images/actividades/granada/cahorros/cahorros-wikimedia-02.webp"
+  alt: "Hikers on a suspension bridge in Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-pexels-27097930.webp"
+  alt: "Hikers in a limestone gorge"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

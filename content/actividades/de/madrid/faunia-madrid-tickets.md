@@ -85,6 +85,12 @@ galeria:
   alt: Eingang von Faunia, dem Naturpark in Madrid
 - src: /images/actividades/madrid/faunia/lago-faunia.webp
   alt: See mit Enten in Faunia
+- src: "/images/actividades/madrid/faunia/faunia-wikimedia-07.webp"
+  alt: "Tyrannosaurus zwischen Bäumen im Faunia"
+- src: "/images/actividades/madrid/almudena/catedral-almudena-130826-211731-hero.webp"
+  alt: "Die Almudena-Kathedrale bei Einbruch der Nacht beleuchtet"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "Die Tío-Pepe-Leuchtreklame an der Puerta del Sol in der Dämmerung"
 ratingProveedor: 4.6
 numeroOpiniones: 111
 atraccionesRelacionadas:

@@ -75,6 +75,12 @@ galeria:
   alt: "Filas de bananeiras numa plantação"
 - src: "/images/actividades/tenerife/platano/platano-unsplash-3qvpfwwvcgc.webp"
   alt: "Bananas das Canárias antes da colheita"
+- src: "/images/actividades/tenerife/platano/platano-pixabay-219268.webp"
+  alt: "Bananais junto ao mar no norte de Tenerife"
+- src: "/images/actividades/tenerife/platano/platano-unsplash-rcw4sq6n5uk.webp"
+  alt: "Caminho sob as folhas das bananeiras"
+- src: "/images/actividades/tenerife/icod/ftc-drago-milenario-visitantes.webp"
+  alt: "Visitantes diante do dragoeiro milenar"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

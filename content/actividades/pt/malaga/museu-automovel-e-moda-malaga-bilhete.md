@@ -76,6 +76,12 @@ galeria:
   alt: "Escultura feita de tampões de roda à frente do museu"
 - src: "/images/actividades/malaga/museo-automovil/museo-automovil-wikimedia-06.webp"
   alt: "Motor histórico numa vitrine"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-18435540.webp"
+  alt: "Pormenor cromado de um carro antigo"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-36352989.webp"
+  alt: "Descapotável vermelho dos anos 50 em exposição"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-11408644.webp"
+  alt: "Carro clássico verde num museu do automóvel"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

@@ -85,6 +85,8 @@ galeria:
   alt: "Ambiente da noite social Los Patos em Barcelona"
 - src: https://imgcdn.bokun.tools/e880e9f4-9d2e-4580-8679-2cdbfa02218c.jpeg
   alt: "Ambiente da noite social Los Patos em Barcelona"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "O Port Vell com o monumento a Colombo"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -87,6 +87,8 @@ galeria:
   alt: "Torres da Sagrada Família contra o céu azul"
 - src: "/images/actividades/barcelona/casa-batllo/casa-batllo-barcelona-passeig-gracia-1905-07-hero.webp"
   alt: "A Casa Batlló iluminada à noite no Passeig de Gràcia"
+- src: "/images/actividades/barcelona/casa-batllo/wikimedia-41698940-hero.webp"
+  alt: "Vista aérea de Barcelona com a costa mediterrânica e a Sagrada Família"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

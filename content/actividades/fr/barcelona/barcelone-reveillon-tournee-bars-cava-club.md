@@ -91,6 +91,8 @@ galeria:
   alt: "Soirée du réveillon Los Patos à Barcelone"
 - src: https://imgcdn.bokun.tools/3572b6b0-8621-4890-851b-3424f079690d.jpeg
   alt: "Soirée du réveillon Los Patos à Barcelone"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Arc gothique et lanterne dans le Barri Gòtic"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

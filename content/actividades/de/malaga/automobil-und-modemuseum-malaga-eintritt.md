@@ -76,6 +76,12 @@ galeria:
   alt: "Skulptur aus Radkappen vor dem Museum"
 - src: "/images/actividades/malaga/museo-automovil/museo-automovil-wikimedia-06.webp"
   alt: "Historischer Motor in einer Vitrine"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-36352989.webp"
+  alt: "Rotes Cabrio aus den 50er-Jahren in der Ausstellung"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-18435540.webp"
+  alt: "Chromdetail eines Oldtimers"
+- src: "/images/actividades/malaga/museo-automovil/museo-automovil-pexels-11408644.webp"
+  alt: "Grüner Oldtimer in einem Automobilmuseum"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

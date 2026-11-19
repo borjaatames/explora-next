@@ -90,6 +90,8 @@ galeria:
   alt: Garten mit Palmen und Kakteen am Fels von LagOmar
 - src: /images/actividades/lanzarote/lagomar/flz-muros-blancos.webp
   alt: Weiße Mauern und Pflanzen am Fels von LagOmar
+- src: "/images/actividades/lanzarote/zonas/arrecife-barcas.webp"
+  alt: "Fischerboote in Arrecife, der Hauptstadt Lanzarotes"
 ---
 
 ## Was du siehst

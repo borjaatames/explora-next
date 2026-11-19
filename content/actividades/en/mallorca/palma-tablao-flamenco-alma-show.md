@@ -89,6 +89,12 @@ galeria:
   alt: "Live guitar and singing at Tablao Flamenco Alma"
 - src: "/images/actividades/mallorca/tablao-alma/guitarra-tablao-alma-palma.webp"
   alt: "Live guitar and singing at Tablao Flamenco Alma"
+- src: "/images/actividades/mallorca/formentor/formentor-02.webp"
+  alt: "Cap de Formentor lighthouse on top of the cliff"
+- src: "/images/actividades/mallorca/valldemossa/valldemossa-01.webp"
+  alt: "Church of the Royal Charterhouse of Valldemossa"
+- src: "/images/actividades/mallorca/catedral-palma/baldaquino-gaudi.webp"
+  alt: "Gaudí's canopy over the main altar of La Seu"
 ---
 
 ## What you will see

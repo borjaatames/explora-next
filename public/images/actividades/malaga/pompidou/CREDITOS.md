@@ -11,3 +11,5 @@
 | pompidou-07.webp | Wikimedia Commons | Zarateman · File:Málaga - Centro Pompidou Málaga 07.jpg | CC0 |
 
 Origen: `E:\imagenes-master\_descargas-2026-10-23b\malaga--pompidou\` (23 oct 2026).
+| pompidou-pexels-37475646.webp | Pexels | Igor Passchier | Licencia Pexels | https://www.pexels.com/photo/colorful-modern-art-structure-in-malaga-37475646/ |
+| pompidou-wikimedia-02.webp | Wikimedia Commons | Adrian Scottow from London, England | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Centre_Pompidou_M%C3%A1laga_(22389920164).jpg |

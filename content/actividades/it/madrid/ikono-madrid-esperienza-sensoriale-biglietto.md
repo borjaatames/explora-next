@@ -68,6 +68,18 @@ imagenAlt: "La Gran Vía, nel centro di Madrid"
 galeria:
 - src: "/images/actividades/madrid/gran-via/gran-via-madrid-spain-road-plaza-callao-espana-hero.webp"
   alt: "La Gran Vía, nel centro di Madrid"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-aerial-photography-vehicles-hero.webp"
+  alt: "Vista aerea della Gran Vía al tramonto, con l'edificio Metrópolis"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao e la Gran Vía di notte"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-long-exposure-bustling-callao-hero.webp"
+  alt: "Plaza de Callao e l'edificio Carrión di notte"
+- src: "/images/actividades/madrid/gran-via/gran-via-madrid-great-way-spain-city-center-hero.webp"
+  alt: "Edificio Capitol in Plaza de Callao, accanto a Calle Mesonero Romanos"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-felipe-iii-casa-panaderia-02-hero.webp"
+  alt: "La statua di Filippo III e la Casa de la Panadería in Plaza Mayor"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, una via di bar nel Barrio de las Letras"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

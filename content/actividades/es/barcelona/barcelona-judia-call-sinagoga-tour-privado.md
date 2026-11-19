@@ -60,16 +60,24 @@ keywords:
 imagen: https://imgcdn.bokun.tools/02ae40ca-0029-4352-9f3e-01dd46358948.jpg
 imagenAlt: "Barcelona desde las escalinatas de Montjuïc"
 galeria:
-- src: https://imgcdn.bokun.tools/5a4e9ec1-5b38-4d50-bdb6-5aeb3e143b5b.jpg
+- src: "https://imgcdn.bokun.tools/5a4e9ec1-5b38-4d50-bdb6-5aeb3e143b5b.jpg"
   alt: "Callejón medieval estrecho en el Call judío"
-- src: https://imgcdn.bokun.tools/915309e1-bb8f-43c3-992f-45ccf9e468bb.jpg
+- src: "https://imgcdn.bokun.tools/915309e1-bb8f-43c3-992f-45ccf9e468bb.jpg"
   alt: "Palacio Nacional (MNAC) en Montjuïc"
-- src: https://imgcdn.bokun.tools/4cdf7543-b9fb-43c8-b377-b74ec3d9f620.jpg
+- src: "https://imgcdn.bokun.tools/4cdf7543-b9fb-43c8-b377-b74ec3d9f620.jpg"
   alt: "Puente de la calle del Bisbe en el Barrio Gótico"
-- src: https://imgcdn.bokun.tools/cf309f3d-06d6-425c-84d9-980d5736d127.jpg
+- src: "https://imgcdn.bokun.tools/cf309f3d-06d6-425c-84d9-980d5736d127.jpg"
   alt: "Gárgola de la Catedral de Barcelona"
-- src: https://imgcdn.bokun.tools/8fadfbfc-d94e-4d4f-86bd-ec78dbf9f61d.jpg
+- src: "https://imgcdn.bokun.tools/8fadfbfc-d94e-4d4f-86bd-ec78dbf9f61d.jpg"
   alt: "Calle estrecha del antiguo barrio judío"
+- src: "/images/actividades/barcelona/barceloneta/barceloneta-glass-building-near-sea-during-hero.webp"
+  alt: "Atardecer en la playa de la Barceloneta con el Hotel W al fondo y olas rompiendo en la orilla"
+- src: "/images/actividades/barcelona/vistas/skyline-sagrada-familia-atardecer.webp"
+  alt: "Tejados de Barcelona al atardecer con la Sagrada Família y el Tibidabo"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Mirador de Colón y muelle del Port Vell de Barcelona"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "La catedral de Barcelona, en el corazón del Barrio Gótico"
 publicada: true
 indexar: false
 destacada: false

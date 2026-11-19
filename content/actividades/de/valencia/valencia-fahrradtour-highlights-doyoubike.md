@@ -78,6 +78,10 @@ galeria:
   alt: "Architektur des Oceanogràfic in Valencia, Stadt der Künste"
 - src: "/images/actividades/valencia/ciudad-artes-ciencias/hemisféric-nubes-ciudad-artes.webp"
   alt: "Das Hemisfèric mit Wolken über der Stadt der Künste"
+- src: "/images/actividades/valencia/centro/micalet-plaza.webp"
+  alt: "Der Micalet, der Glockenturm der Kathedrale von Valencia"
+- src: "/images/actividades/valencia/centro/micalet-naranjos.webp"
+  alt: "Der Glockenturm Micalet zwischen Orangenbäumen"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

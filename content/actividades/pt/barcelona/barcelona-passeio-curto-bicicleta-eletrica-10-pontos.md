@@ -86,6 +86,8 @@ galeria:
   alt: "Catedral de Barcelona, no coração do Bairro Gótico"
 - src: "/images/actividades/barcelona/barceloneta/barceloneta-platja-02-hero.webp"
   alt: "Vista da praia da Barceloneta com a marina e palmeiras ao fundo"
+- src: "/images/actividades/barcelona/bici/bicis-arco-de-triunfo.webp"
+  alt: "Ciclistas no Passeig de Lluís Companys junto ao Arco do Triunfo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

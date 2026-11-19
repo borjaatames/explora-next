@@ -85,6 +85,16 @@ galeria:
   alt: "Flamencotänzerin auf der Bühne von Teatro Flamenco Málaga"
 - src: "/images/actividades/malaga/teatro-flamenco-malaga/cuadro-escenario-teatro-flamenco-malaga.webp"
   alt: "Das komplette Flamenco-Ensemble in Teatro Flamenco Málaga"
+- src: "/images/actividades/malaga/teatro-romano/gradas.webp"
+  alt: "Ränge des Römischen Theaters von Málaga"
+- src: "/images/actividades/malaga/alcazaba/alcazaba-malaga-vista-hero.webp"
+  alt: "Alcazaba von Málaga und der Hügel Gibralfaro"
+- src: "/images/actividades/malaga/calle-larios/calle-larios-unsplash-ZZEjI6yNxd0.webp"
+  alt: "Die Calle Larios im Zentrum von Málaga"
+- src: "/images/actividades/malaga/catedral-malaga/catedral-malaga-hero.webp"
+  alt: "Die Kathedrale von Málaga, nahe dem Museo Picasso"
+- src: "/images/actividades/malaga/muelle-uno/malagueta.webp"
+  alt: "La Malagueta und der Muelle Uno in Málaga"
 ratingProveedor: 4.7
 numeroOpiniones: 5347
 publicada: true

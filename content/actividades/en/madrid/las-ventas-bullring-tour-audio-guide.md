@@ -80,16 +80,22 @@ keywords:
 imagen: /images/actividades/madrid/plaza-toros-ventas/ventas-fachada-neomudejar-cielo.webp
 imagenAlt: 'Neo-Mudéjar façade of Las Ventas bullring'
 galeria:
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-gradas-interior.webp
-  alt: 'Stands and galleries inside Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-ruedo-panoramica.webp
-  alt: 'Las Ventas arena seen from the stands'
-- src: /images/actividades/madrid/plaza-toros-ventas/ventas-arco-herradura-azulejos.webp
-  alt: 'Horseshoe arch with tiles on the façade of Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-bronze-sculpture-ventas-bullring-hero.webp
-  alt: 'Bronze monument in front of Las Ventas'
-- src: /images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp
-  alt: 'Main gate of Las Ventas'
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-gradas-interior.webp"
+  alt: "Stands and galleries inside Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-ruedo-panoramica.webp"
+  alt: "Las Ventas arena seen from the stands"
+- src: "/images/actividades/madrid/plaza-toros-ventas/ventas-arco-herradura-azulejos.webp"
+  alt: "Horseshoe arch with tiles on the façade of Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-bronze-sculpture-ventas-bullring-hero.webp"
+  alt: "Bronze monument in front of Las Ventas"
+- src: "/images/actividades/madrid/plaza-toros-ventas/plaza-toros-ventas-arena-facade-architecture-bull-hero.webp"
+  alt: "Main gate of Las Ventas"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Facade of the Prado Museum on the Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, a bar street in the Barrio de las Letras"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "Plaza del Callao and Gran Vía at night"
 ratingProveedor: 4.6
 numeroOpiniones: 3600
 publicada: true

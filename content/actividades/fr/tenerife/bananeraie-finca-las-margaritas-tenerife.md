@@ -75,6 +75,12 @@ galeria:
   alt: "Rangées de bananiers dans une plantation"
 - src: "/images/actividades/tenerife/platano/platano-unsplash-3qvpfwwvcgc.webp"
   alt: "Bananes des Canaries avant la récolte"
+- src: "/images/actividades/tenerife/platano/platano-pexels-6012718.webp"
+  alt: "Bananeraie au pied de la montagne à Tenerife"
+- src: "/images/actividades/tenerife/platano/platano-unsplash-rcw4sq6n5uk.webp"
+  alt: "Chemin sous les feuilles de bananier"
+- src: "/images/actividades/tenerife/masca/masca-caserio.webp"
+  alt: "Le hameau de Masca au milieu des montagnes"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

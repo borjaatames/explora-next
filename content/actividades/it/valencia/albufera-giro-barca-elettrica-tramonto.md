@@ -98,6 +98,8 @@ galeria:
   alt: "Cielo rosso riflesso nel lago dell'Albufera dopo il tramonto"
 - src: /images/actividades/valencia/albufera/fvc-canal-barcas-anochecer.webp
   alt: "Canale con barche tradizionali all'imbrunire nell'Albufera"
+- src: "/images/actividades/valencia/albufera/albufera-wikimedia-02.webp"
+  alt: "Barca ormeggiata tra i canneti dell'Albufera"
 ---
 
 ## Cosa vedrai

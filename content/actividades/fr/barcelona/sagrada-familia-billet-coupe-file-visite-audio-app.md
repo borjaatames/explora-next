@@ -81,6 +81,10 @@ galeria:
   alt: Vitraux bleus et verts illuminant la nef de la Sagrada Família
 - src: /images/actividades/barcelona/sagrada-familia/pexels-16984454-hero.webp
   alt: Détail de la façade de la Gloire de la Sagrada Família et de ses fenêtres pyramidales
+- src: "/images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp"
+  alt: "Façade de la Sagrada Familia et ses tours, à Barcelone"
+- src: "/images/actividades/barcelona/sagrada-familia/pexels-11920332-hero.webp"
+  alt: "La Sagrada Família à Barcelone"
 atraccionesRelacionadas:
 - sagrada-familia
 publicada: true

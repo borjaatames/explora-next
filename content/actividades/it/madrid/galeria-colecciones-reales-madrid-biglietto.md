@@ -75,6 +75,12 @@ galeria:
   alt: "Dipinto rinascimentale delle collezioni reali"
 - src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-06.webp"
   alt: "Dettaglio di un dipinto con animali nella galleria"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-3462249.webp"
+  alt: "Palazzo Reale di Madrid accanto alla Galería de las Colecciones Reales"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-pixabay-7943963.webp"
+  alt: "Statua equestre di Filippo IV in plaza de Oriente"
+- src: "/images/actividades/madrid/galeria-colecciones-reales/galeria-colecciones-reales-wikimedia-04.webp"
+  alt: "Facciata moderna della Galería de las Colecciones Reales"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

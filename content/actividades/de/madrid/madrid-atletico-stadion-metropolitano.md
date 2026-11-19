@@ -108,6 +108,8 @@ galeria:
   alt: Das Stadion Metropolitano von Atlético de Madrid
 - src: /images/actividades/madrid/wanda-metropolitano/wikimedia-wanda-metropolitano-stadium-dec-2017-39ea73b8c7-o-hero.webp
   alt: Das Stadion Metropolitano an einem Spieltag
+- src: "/images/actividades/madrid/barrio-letras/barrio-letras-calle-huertas.webp"
+  alt: "Calle de las Huertas, eine Kneipenstraße im Barrio de las Letras"
 ratingProveedor: 4.7
 numeroOpiniones: 2351
 publicada: true

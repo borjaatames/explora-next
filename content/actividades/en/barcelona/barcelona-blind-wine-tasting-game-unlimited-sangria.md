@@ -74,6 +74,10 @@ galeria:
   alt: "Blind wine tasting game by Los Patos in Barcelona"
 - src: https://imgcdn.bokun.tools/967e68eb-4012-47d2-b480-05ef124f591d.jpeg
   alt: "Blind wine tasting game by Los Patos in Barcelona"
+- src: "/images/actividades/barcelona/port-vell/mirador-colon-port-vell.webp"
+  alt: "Columbus Monument and Port Vell quayside in Barcelona"
+- src: "/images/actividades/barcelona/rambla/rambla-pexels-35727858.webp"
+  alt: "Tree-lined La Rambla with café terraces"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

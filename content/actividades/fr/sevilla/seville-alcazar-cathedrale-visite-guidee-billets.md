@@ -77,6 +77,12 @@ galeria:
   alt: "La cathédrale et la Giralda de Séville"
 - src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pixabay-3573907.webp"
   alt: "Le Real Alcázar de Séville"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-sevilla-arqueria-mudejar-hero.webp"
+  alt: "Arcades mudéjares du Real Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-37490978.webp"
+  alt: "Recoin des jardins de l'Alcázar"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538426.webp"
+  alt: "Détail des stucs mudéjars de l'Alcázar"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

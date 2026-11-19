@@ -78,6 +78,8 @@ galeria:
   alt: "Due delfini che saltano insieme"
 - src: "/images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp"
   alt: "Scogliere lungo la costa sud di Tenerife"
+- src: "/images/actividades/tenerife/cetaceos/calderon-respirando.webp"
+  alt: "Globicefalo di Gray che respira in superficie"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

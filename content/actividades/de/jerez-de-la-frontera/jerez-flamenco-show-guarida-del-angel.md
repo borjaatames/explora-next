@@ -79,6 +79,12 @@ galeria:
   alt: "Live-Gitarre und Gesang in La Guarida del Ángel"
 - src: "/images/actividades/jerez-de-la-frontera/guarida-del-angel/bailaora-guarida-del-angel.webp"
   alt: "Flamencotänzerin auf der Bühne von La Guarida del Ángel"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-entrada-hero.webp"
+  alt: "Eingang zum Alcázar von Jerez"
+- src: "/images/actividades/jerez-de-la-frontera/escuela-ecuestre/caballo-andaluz-jinete-corto.webp"
+  alt: "Andalusischer Schimmel mit Reiter in traditioneller Tracht"
+- src: "/images/actividades/jerez-de-la-frontera/centro/alcazar-puerta-entrada.webp"
+  alt: "Eingangstor des Alcázar von Jerez in der almohadischen Mauer"
 ratingProveedor: 4.7
 numeroOpiniones: 138
 atraccionesRelacionadas:

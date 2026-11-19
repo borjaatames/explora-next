@@ -93,6 +93,8 @@ galeria:
   alt: Barcos na praia do Cabanyal ao pôr do sol
 - src: /images/actividades/valencia/mar/arenas-orilla.webp
   alt: Reflexos do sol na praia de las Arenas
+- src: "/images/actividades/valencia/centro/catedral-nave-central.webp"
+  alt: "Nave central da Catedral de Valência"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

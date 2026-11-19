@@ -67,6 +67,18 @@ imagenAlt: "Dromadaire couché avec sa selle dans une ferme"
 galeria:
 - src: "/images/actividades/tenerife/camello/camello-pixabay-4945676.webp"
   alt: "Deux dromadaires avec des couvertures colorées"
+- src: "/images/actividades/tenerife/icod/drago-milenario.webp"
+  alt: "Le dragonnier millénaire d'Icod de los Vinos"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Le Teide au-dessus de la caldeira de Las Cañadas"
+- src: "/images/actividades/tenerife/garachico/garachico-pixabay-1352584.webp"
+  alt: "Piscines naturelles volcaniques de Garachico"
+- src: "/images/actividades/tenerife/cristianos/bahia-los-cristianos.webp"
+  alt: "La baie de Los Cristianos vue depuis le rivage"
+- src: "/images/actividades/tenerife/masca/masca-caserio.webp"
+  alt: "Le hameau de Masca au milieu des montagnes"
+- src: "/images/actividades/tenerife/masca/ftc-masca-roque-barranco-mar.webp"
+  alt: "Masca, son rocher et le ravin vers la mer"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

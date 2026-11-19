@@ -93,6 +93,8 @@ galeria:
   alt: Barche sulla spiaggia del Cabanyal al tramonto
 - src: /images/actividades/valencia/mar/arenas-orilla.webp
   alt: La luce del sole sul mare alla spiaggia di Las Arenas
+- src: "/images/actividades/valencia/ciudad-artes-ciencias/ciudad-artes-ciencias-reflejo-agua.webp"
+  alt: "Città delle Arti e delle Scienze riflessa nell'acqua"
 ratingProveedor: 4.0
 numeroOpiniones: 3360
 atraccionesRelacionadas:

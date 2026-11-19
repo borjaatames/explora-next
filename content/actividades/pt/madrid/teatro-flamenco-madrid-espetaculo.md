@@ -83,6 +83,16 @@ galeria:
   alt: "O grupo de flamenco completo em Teatro Flamenco Madrid"
 - src: "/images/actividades/madrid/teatro-flamenco-madrid/pareja-sevillanas-escenario.webp"
   alt: "Par de bailarinos de flamenco em Teatro Flamenco Madrid"
+- src: "/images/actividades/madrid/plaza-cibeles/plaza-cibeles-fuente-madrid-02-hero.webp"
+  alt: "A fonte de Cibeles iluminada à noite"
+- src: "/images/actividades/madrid/gran-via/gran-via-callao-noche.webp"
+  alt: "A Plaza del Callao e a Gran Vía à noite"
+- src: "/images/actividades/madrid/plaza-mayor/plaza-mayor-madrid-crowds-gather-historic-espana-its-hero.webp"
+  alt: "A Plaza Mayor, no coração do centro histórico"
+- src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-2016-25185969599-hero.webp"
+  alt: "Fachada do Museu do Prado no Paseo del Arte, Madrid"
+- src: "/images/actividades/madrid/puerta-sol/puerta-sol-madrid-neon-tio-pepe-sign-glowing-dusk-hero.webp"
+  alt: "O letreiro néon do Tío Pepe na Puerta del Sol ao entardecer"
 ratingProveedor: 4.8
 numeroOpiniones: 15830
 publicada: true

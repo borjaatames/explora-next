@@ -95,6 +95,8 @@ galeria:
   alt: "Caisses de citrons à la porte d'un bâtiment d'Alfabia"
 - src: /images/actividades/mallorca/fma-soller/valle-soller-tramuntana.webp
   alt: "La vallée de Sóller et la Serra de Tramuntana depuis la route"
+- src: "/images/actividades/mallorca/fma-almudaina/almudaina-catedral-estanque.webp"
+  alt: "L'Almudaina et la cathédrale de Palma près du bassin du Parc de la Mar"
 avisoReserva: "Activité saisonnière : les prochaines dates disponibles commencent en février 2027."
 ---
 

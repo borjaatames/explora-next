@@ -91,6 +91,10 @@ galeria:
   alt: Pubblico sulle tribune dello spettacolo dei delfini
 - src: /images/actividades/mallorca/marineland/marineland-mallorca-loros.webp
   alt: Recinto dei pappagalli di Marineland Maiorca
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-01.webp"
+  alt: "Spettacolo dei delfini al Marineland Maiorca"
+- src: "/images/actividades/mallorca/marineland/marineland-wikimedia-02.webp"
+  alt: "Il Marineland a Costa d'en Blanes"
 ratingProveedor: 4.5
 numeroOpiniones: 786
 publicada: true

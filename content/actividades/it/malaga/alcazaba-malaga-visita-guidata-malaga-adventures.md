@@ -73,6 +73,8 @@ galeria:
   alt: "Panorama di Málaga dall'Alcazaba"
 - src: "/images/actividades/malaga/teatro-romano/teatro-alcazaba.webp"
   alt: "Il Teatro Romano di Málaga con l'Alcazaba alle spalle"
+- src: "/images/actividades/malaga/teatro-romano/teatro-romano-malaga-hero.webp"
+  alt: "Il teatro romano di Malaga accanto all'Alcazaba"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

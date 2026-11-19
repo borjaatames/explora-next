@@ -86,6 +86,18 @@ galeria:
   alt: "Flamenco dance couple at El Jaleo"
 - src: "/images/actividades/cordoba/el-jaleo/comedor-el-jaleo.webp"
   alt: "The venue at El Jaleo"
+- src: "/images/actividades/cordoba/mezquita/arcos-ampliacion.webp"
+  alt: "Arches of the al-Hakam II extension"
+- src: "/images/actividades/cordoba/mezquita/arcos-interior.webp"
+  alt: "Mosque interior with horseshoe arches"
+- src: "/images/actividades/cordoba/juderia/alcazar-jardines.webp"
+  alt: "Gardens of the Alcázar of the Christian Monarchs"
+- src: "/images/actividades/cordoba/patios/patio-viana.webp"
+  alt: "Courtyard with fountain at the Palacio de Viana"
+- src: "/images/actividades/cordoba/juderia/calle-juderia.webp"
+  alt: "Street in the Córdoba Jewish Quarter with the Mosque tower behind"
+- src: "/images/actividades/cordoba/alcazar/fvc-jardines-estanque-flores.webp"
+  alt: "Pond and flowers in the gardens of the Alcázar of the Christian Monarchs"
 ---
 
 ## What you will see

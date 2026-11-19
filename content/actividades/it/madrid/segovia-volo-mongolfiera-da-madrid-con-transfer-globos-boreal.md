@@ -75,6 +75,14 @@ galeria:
   alt: "Palloni all'alba sopra l'Alcázar di Segovia"
 - src: "/images/actividades/segovia/globo/unsplash-vista-segovia-torres.webp"
   alt: "Le torri di Segovia viste dall'alto"
+- src: "/images/actividades/segovia/acueducto-segovia/acueducto-segovia-plaza-artilleria-hero-hero.webp"
+  alt: "L'acquedotto di Segovia visto da plaza de la Artillería"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-castle-spain-fortress-hero-hero.webp"
+  alt: "L'Alcázar di Segovia con torri e mura"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-ext-02-hero-hero.webp"
+  alt: "Facciata esterna dell'Alcázar di Segovia con torri merlate"
+- src: "/images/actividades/segovia/alcazar-segovia/alcazar-segovia-alcazar-espana-2024-06-14-dd-71-hero-hero.webp"
+  alt: "L'Alcázar di Segovia sul suo sperone roccioso"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

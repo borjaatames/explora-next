@@ -73,6 +73,10 @@ galeria:
   alt: La Rambla street sign on a stone wall
 - src: /images/actividades/barcelona/rambla/rambla-pixabay-325901.webp
   alt: Living statue performer on La Rambla
+- src: "/images/actividades/barcelona/gaudi/cripta-colonia-guell-interior.webp"
+  alt: "Interior of the Colònia Güell Crypt, with Gaudí's leaning columns and pews"
+- src: "/images/actividades/barcelona/gaudi/torre-bellesguard.webp"
+  alt: "Gaudí's Torre Bellesguard among trees at the foot of Collserola"
 atraccionesRelacionadas:
 - tours-a-pie
 publicada: true

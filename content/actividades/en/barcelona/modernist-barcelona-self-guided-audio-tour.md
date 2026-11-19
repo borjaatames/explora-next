@@ -76,6 +76,10 @@ galeria:
   alt: Casa Batlló rooftop at night with live music and Barcelona views
 - src: /images/actividades/barcelona/casa-batllo/casa-batllo-building-is-lit-up-christmas-lights-hero.webp
   alt: Casa Batlló lit up at night on Passeig de Gràcia
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-high-first-gaudi-barcelona-bart-hero.webp"
+  alt: "Casa Batlló façade framed by trees on Passeig de Gràcia"
+- src: "/images/actividades/barcelona/casa-batllo/casa-batllo-overview-barcelona-spain-cut-hero.webp"
+  alt: "Casa Batlló seen from Passeig de Gràcia"
 atraccionesRelacionadas:
 - casa-batllo-pedrera
 - tours-a-pie

@@ -72,6 +72,16 @@ galeria:
   alt: "El volcán Pico Viejo"
 - src: "/images/actividades/tenerife/teide/canadas-lava.webp"
   alt: "Las Cañadas del Teide"
+- src: "/images/actividades/tenerife/teide/teide-canadas.webp"
+  alt: "Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio"
+- src: "/images/actividades/tenerife/teide/teide-nordeste.webp"
+  alt: "El Teide desde el nordeste"
+- src: "/images/actividades/tenerife/teide/teide-nevado.webp"
+  alt: "El Teide, que se ve desde el norte de Tenerife"
+- src: "/images/actividades/tenerife/teide/crater-teide-las-canadas.webp"
+  alt: "Cono y cráter del Teide sobre Las Cañadas"
+- src: "/images/actividades/tenerife/teide/roques-garcia-vista.webp"
+  alt: "Los Roques de García, junto al Observatorio"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

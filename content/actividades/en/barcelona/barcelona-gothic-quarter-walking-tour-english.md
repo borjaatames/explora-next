@@ -73,6 +73,10 @@ galeria:
   alt: "Gothic Quarter walking tour in Barcelona"
 - src: https://imgcdn.bokun.tools/51f4635a-bad0-4dea-9e04-d4bcfab273f1.jpeg
   alt: "Gothic Quarter walking tour in Barcelona"
+- src: "/images/actividades/barcelona/barrio-gotico/pexels-14123620-hero.webp"
+  alt: "Barcelona Cathedral, in the heart of the Gothic Quarter"
+- src: "/images/actividades/barcelona/barrio-gotico/pixabay-6997864-hero.webp"
+  alt: "Gothic arch and street lamp in the Gothic Quarter"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

@@ -76,6 +76,12 @@ galeria:
   alt: "Casa a graticcio nel villaggio storico del parco"
 - src: "/images/actividades/madrid/puy-du-fou/puy-du-fou-wikimedia-06.webp"
   alt: "Le mura del Puy du Fou España vicino a Toledo"
+- src: "/images/actividades/toledo/calles-historicas-toledo/unsplash-9Q118KEfGTk-hero.webp"
+  alt: "Strada acciottolata con un arco nel centro storico di Toledo"
+- src: "/images/actividades/toledo/alcazar-toledo/alcazar-toledo-alcazar-fortress-spain-architecture-hero-hero.webp"
+  alt: "La fortezza dell'Alcázar di Toledo"
+- src: "/images/actividades/toledo/alcazar-toledo/wikimedia-28428753-hero.webp"
+  alt: "Alcázar di Toledo"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

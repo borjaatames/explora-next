@@ -80,6 +80,8 @@ galeria:
   alt: 'Bancone di un bar di tapas a Siviglia'
 - src: /images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-03.webp
   alt: 'Cortile della Casa de Pilatos con la sua fontana'
+- src: "/images/actividades/sevilla/fotos-biblioteca/sevilla-casa-pilatos-04.webp"
+  alt: "Cortile della Casa de Pilatos a Siviglia"
 publicada: true
 destacada: false
 fecha: '2026-11-05'

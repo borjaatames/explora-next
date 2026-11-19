@@ -95,6 +95,10 @@ galeria:
   alt: Group crossing a suspension bridge
 - src: https://imgcdn.bokun.tools/cfca74ad-d23f-4286-bbd5-3cc9ab91c65a.jpg
   alt: Metal walkway in the gorge
+- src: "/images/actividades/granada/cahorros/cahorros-wikimedia-02.webp"
+  alt: "Hikers on a suspension bridge in Los Cahorros"
+- src: "/images/actividades/granada/cahorros/cahorros-pexels-27097930.webp"
+  alt: "Hikers in a limestone gorge"
 bokunProductId: 860680
 fecha_actualizacion: '2026-10-24'
 precioPorGrupo: true

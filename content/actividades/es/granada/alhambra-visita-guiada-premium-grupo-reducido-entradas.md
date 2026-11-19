@@ -69,6 +69,14 @@ galeria:
   alt: "Patio de los Palacios Nazaríes de la Alhambra"
 - src: "/images/actividades/granada/alhambra-granada/alhambra-granada-explore-s-stunning-arches-hero-hero.webp"
   alt: "La Alhambra de Granada"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-22204764-hero.webp"
+  alt: "Patio de la Alhambra con palmeras reflejadas en una acequia"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Fortaleza de la Alhambra en Granada vista aérea, muros y torres medievales"
+- src: "/images/actividades/granada/alhambra-granada/wikimedia-21774772-hero.webp"
+  alt: "Vista aérea de Granada con la Alhambra en la colina, rodeada de edificios blancos"
+- src: "/images/actividades/granada/alhambra-granada/alhambra-granada-world-heritage-site-islamic-art-hero-hero.webp"
+  alt: "La Alhambra de Granada"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

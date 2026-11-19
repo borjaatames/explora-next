@@ -79,6 +79,8 @@ galeria:
   alt: "La Gran Vía, dans le centre de Madrid"
 - src: "/images/actividades/madrid/prado-edificio/museo-prado-edificio-large-building-many-windows-hero.webp"
   alt: "Le bâtiment du musée du Prado à Madrid"
+- src: "/images/actividades/madrid/retiro/parque-retiro-spain-architecture-city-buildings-hero.webp"
+  alt: "Colonnade du monument à Alphonse XII"
 publicada: true
 destacada: false
 fecha: '2026-11-19'

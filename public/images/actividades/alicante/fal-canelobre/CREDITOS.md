@@ -7,3 +7,4 @@
 - `fal-vista-busot.webp` — armennano, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/spain-busot-canelobre-caves-cave-4376857/) · recortada a 1600×1200
 - `fal-canelobre-estalagmita-color.webp` — chisloup, CC BY 3.0, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:La_grotte_de_canelobre_-_panoramio_(4).jpg) · recortada a 1600×1200
 - `x-canelobre-pexels-16455426.webp` — Emilio Sánchez  Hernández, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/stalagmites-in-cave-16455426/) · recortada a 1600×1200
+| fal-canelobre-wikimedia-06.webp | Wikimedia Commons | chisloup | CC BY 3.0 | https://commons.wikimedia.org/wiki/File:Vue_depuis_la_route_des_grottes_de_canelobre_-_panoramio_(1).jpg |

@@ -67,6 +67,22 @@ imagenAlt: "The full flamenco ensemble at Pura Esencia"
 galeria:
 - src: "/images/actividades/sevilla/pura-esencia/sala-escenario-cena-pura-esencia.webp"
   alt: "The venue at Pura Esencia"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Callejón del Agua in the Santa Cruz quarter"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "Plaza de España reflected in the canal"
+- src: "/images/actividades/sevilla/catedral-giralda/catedral-giralda-pexels-30643235.webp"
+  alt: "Seville Cathedral façade among palm trees"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-16627228.webp"
+  alt: "Facade of the Palace of Pedro I in the Royal Alcázar of Seville"
+- src: "/images/actividades/sevilla/triana/casas-colores-rio-guadalquivir.webp"
+  alt: "Colourful houses on Calle Betis along the Guadalquivir"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "Torre del Oro on the Guadalquivir"
+- src: "/images/actividades/sevilla/setas/setas-pexels-18536662.webp"
+  alt: "Seville's Setas at sunset"
+- src: "/images/actividades/sevilla/real-alcazar/real-alcazar-pexels-31538422.webp"
+  alt: "Mudejar arches of the Palace of Pedro I"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

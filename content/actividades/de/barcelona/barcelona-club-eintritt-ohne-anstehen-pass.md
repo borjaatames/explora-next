@@ -86,6 +86,8 @@ galeria:
   alt: "Club in Barcelona mit dem Los-Patos-Pass"
 - src: https://imgcdn.bokun.tools/2a3384c3-54cc-47ef-a0c7-2176ceb5229a.jpeg
   alt: "Club in Barcelona mit dem Los-Patos-Pass"
+- src: "/images/actividades/barcelona/catedral/catedral-barcelona-cathedral-holy-cross-saint-eulalia-2-hero.webp"
+  alt: "Gotische Fassade der Kathedrale von Barcelona"
 publicada: true
 destacada: false
 fecha: '2026-11-10'

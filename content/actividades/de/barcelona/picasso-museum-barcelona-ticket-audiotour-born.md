@@ -80,6 +80,10 @@ galeria:
   alt: Gotische Fassade der Basilika Santa Maria del Mar in El Born
 - src: /images/actividades/barcelona/born/santa-maria-del-mar-interior.webp
   alt: Gotisches Kirchenschiff von Santa Maria del Mar mit der Fensterrose
+- src: "/images/actividades/barcelona/wikimedia/barcelona-catedral-08.webp"
+  alt: "Skulpturen am Portal der Kathedrale von Barcelona"
+- src: "/images/actividades/barcelona/wikimedia/barcelona-museu-picasso-01.webp"
+  alt: "Innenhof des Palastes, in dem das Museu Picasso untergebracht ist"
 atraccionesRelacionadas:
 - gotico
 publicada: true

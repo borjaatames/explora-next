@@ -89,6 +89,8 @@ galeria:
   alt: 'Jugendstil-Ecke des Palau de la Música Catalana'
 - src: /images/actividades/barcelona/palau-musica/palau-musica-catalana-palace-catalan-music-barcelona-hero.webp
   alt: 'Parkett des Palau vom Rang aus gesehen'
+- src: "/images/actividades/barcelona/palau-musica/palau-musica-catalana-curved-rows-elegant-red-theater-hero.webp"
+  alt: "Rote Sitzreihen im Konzertsaal des Palau de la Música"
 ratingProveedor: 4.6
 numeroOpiniones: 6321
 publicada: true

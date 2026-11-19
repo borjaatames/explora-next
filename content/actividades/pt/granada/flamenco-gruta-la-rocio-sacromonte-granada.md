@@ -79,6 +79,16 @@ galeria:
   alt: "Bailarina de flamenco no palco de Cueva de la Rocío"
 - src: "/images/actividades/granada/cueva-la-rocio/bailaora-guitarra-cueva-la-rocio.webp"
   alt: "Bailarina de flamenco no palco de Cueva de la Rocío"
+- src: "/images/actividades/granada/palacios-nazaries/pexels-11829108-hero.webp"
+  alt: "Patio de los Leones nos Palácios Nasridas"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-photography-brown-castle-hero.webp"
+  alt: "Vista aérea da Alhambra de Granada com a Serra Nevada ao fundo"
+- src: "/images/actividades/granada/albaicin/albaicin-pexels-30359825.webp"
+  alt: "Casas brancas do Albaicín, em Granada"
+- src: "/images/actividades/granada/catedral/granada-catedral-01.webp"
+  alt: "Capela de Nuestra Señora de las Angustias, Catedral de Granada"
+- src: "/images/actividades/granada/alhambra/alhambra-granada-aerial-view-fortress-showcasing-hero-hero.webp"
+  alt: "Vista aérea da fortaleza da Alhambra, Granada, com as suas muralhas e torres medievais"
 publicada: true
 destacada: false
 fecha: '2026-10-10'
