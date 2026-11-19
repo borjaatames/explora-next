@@ -27,6 +27,7 @@ import CreditosFotos from "@/components/CreditosFotos";
 import StickyReservaMovil from "@/components/StickyReservaMovil";
 import CalendarioReserva from "@/components/CalendarioReserva";
 import WidgetDisponibilidadGyg from "@/components/WidgetDisponibilidadGyg";
+import PrecioDestacado from "@/components/PrecioDestacado";
 import { ANCLA_WIDGET_GYG, tourWidgetGyg } from "@/lib/gyg-widget";
 import BokunWidget from "@/components/BokunWidget";
 import ConfianzaReservaBokun from "@/components/ficha/ConfianzaReservaBokun";
@@ -247,6 +248,17 @@ export default async function ActividadPage({ params }: Props) {
   const etiquetaPrecio = actividad.precioPorGrupo
     ? dict.actividades.porGrupo
     : dict.actividades.porPersona;
+  // Nuestro precio encima del calendario de GYG: Borja lo quiere siempre visible
+  // (se quitó por error el 17-11-2026 y se repuso el 19-11-2026).
+  const precioWidget = (
+    <PrecioDestacado
+      textoDesde={dict.actividades.desde}
+      precio={precio}
+      textoPorPersona={etiquetaPrecio}
+      rating={tieneRating ? ratingTextoValor : undefined}
+      opiniones={tieneRating ? ratingTextoOpiniones : undefined}
+    />
+  );
   const etiquetaCanc = etiquetaCancelacion("es", actividad);
   const etiquetaPagoDespues = etiquetaReservaSinPagar("es", actividad.reservaSinPagar);
   const bloqueCalendario = (
@@ -495,6 +507,7 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
+                  cabecera={precioWidget}
                   campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="movil"
                 />
@@ -614,6 +627,7 @@ export default async function ActividadPage({ params }: Props) {
                   tourId={tourWidget}
                   idioma="es"
                   urlReserva={urlReservaBase}
+                  cabecera={precioWidget}
                   campana={campanaGyg("widget", "es", params.slug)}
                   soloEn="escritorio"
                   fallback={bloqueCalendario}
