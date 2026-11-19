@@ -4,8 +4,10 @@ slug: montserrat-rack-railway-winery-castlexperience
 ciudad: barcelona
 descripcion: 'Flexible 6-10 hour excursion: coach, rack railway, monastery, optional Moreneta and 10th-century winery with tasting and tapas (optional). The most complete Castlexperience offer on GYG.'
 slugs:
-  en: montserrat-rack-railway-winery-castlexperience
   es: montserrat-cremallera-bodega-castlexperience
+  en: montserrat-rack-railway-winery-castlexperience
+  de: montserrat-zahnradbahn-weingut-castlexperience
+  fr: montserrat-cremaillere-domaine-viticole-castlexperience
 duracion: 6-10 hours
 duracionMinutos: 480
 precioDesde: 47

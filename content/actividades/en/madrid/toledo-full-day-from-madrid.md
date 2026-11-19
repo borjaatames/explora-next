@@ -4,8 +4,10 @@ slug: toledo-full-day-from-madrid
 ciudad: madrid
 descripcion: 8-hour guided day trip from Madrid to Toledo with return coach and skip-the-line entry to the Cathedral, Santo Tomé (El Greco) and the Santa María la Blanca Synagogue. Rated 4.6/5 by nearly 900 travellers.
 slugs:
-  en: toledo-full-day-from-madrid
   es: excursion-toledo-dia-completo
+  en: toledo-full-day-from-madrid
+  de: toledo-ganztagestour-ab-madrid
+  fr: toledo-journee-complete-depuis-madrid
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 79

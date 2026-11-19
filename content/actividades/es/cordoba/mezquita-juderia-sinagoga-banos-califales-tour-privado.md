@@ -80,4 +80,11 @@ galeria:
   alt: "Calle de la Judería de Córdoba"
 bokunProductId: 396289
 bokunPedirPersonas: true
+preciosGrupo:
+- personas: 2
+  total: 248
+- personas: 4
+  total: 425
+- personas: 6
+  total: 537
 ---

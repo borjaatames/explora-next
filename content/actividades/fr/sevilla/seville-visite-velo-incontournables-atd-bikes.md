@@ -1,0 +1,85 @@
+---
+titulo: "Séville : visite guidée à vélo des incontournables"
+slug: seville-visite-velo-incontournables-atd-bikes
+ciudad: sevilla
+descripcion: "Balade de 3 h à vélo dans Séville avec guide : cathédrale, Torre del Oro, Triana, parc María Luisa et Plaza de España. Notée 4,7/5 sur 2406 avis. Dès 33 €."
+slugs:
+  de: sevilla-radtour-highlights-atd-bikes
+  fr: seville-visite-velo-incontournables-atd-bikes
+duracion: "3 h"
+duracionMinutos: 180
+precioDesde: 33
+moneda: EUR
+idiomas:
+- es
+- en
+- de
+- fr
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/es-es/activity-t29040/?partner_id=C71NOAW
+cancelacionGratuita: true
+reservaSinPagar: true
+horasCancelacion: 24
+ratingProveedor: 4.7
+numeroOpiniones: 2406
+highlights:
+- "Plaza de España et parc María Luisa"
+- "Torre del Oro et les rives du Guadalquivir"
+- "Triana, sa céramique et son histoire flamenca"
+- "Quartier de la cathédrale (sans arrêt)"
+incluye:
+- "Vélo"
+- "Guide"
+- "Assurance accident et responsabilité civile"
+noIncluye:
+- "Entrées"
+puntoEncuentro:
+  texto: "Magasin ATD Bikes, calle Alcalde Isacio Contreras 1, 41003 Séville (rue piétonne)."
+  latitud: 37.38671
+  longitud: -5.9843
+  zoom: 16
+detallesPracticos:
+  ticketMovil: true
+  confirmacionInmediata: true
+informacionImportante:
+  aTenerEnCuenta:
+  - "En cas de pluie, vous pouvez changer de date"
+  - "Chaussures confortables"
+politicaCancelacion: "Annulation gratuite jusqu'à 24 heures avant, avec remboursement intégral."
+opinionEditorial: "Séville est plate et pleine de pistes cyclables : à vélo, on voit toutes les grandes places en trois heures sans souffrir de la chaleur à pied. ATD est l'un des loueurs les plus expérimentés de la ville."
+preguntasFrecuentes:
+- pregunta: "Combien de temps ?"
+  respuesta: "Trois heures."
+- pregunta: "Où est le départ ?"
+  respuesta: "Au magasin ATD Bikes, calle Alcalde Isacio Contreras 1."
+- pregunta: "Et s'il pleut ?"
+  respuesta: "On peut changer de date."
+categoria: toursCiudad
+guiasRelacionadas:
+- seville-en-1-jour
+- seville-en-2-jours
+keywords:
+- "séville vélo"
+- "visite séville à vélo"
+- "séville vélo plaza de españa"
+imagen: "/images/actividades/sevilla/bici-sevilla/ciclista-sevilla.webp"
+imagenAlt: "Cycliste devant le palais de San Telmo à Séville"
+galeria:
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-35037760.webp"
+  alt: "La Plaza de España se reflétant dans le canal"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-37437571.webp"
+  alt: "Tour et pont de la Plaza de España"
+- src: "/images/actividades/sevilla/triana/triana-sevilla-bridge-spain-river-engineering-hero.webp"
+  alt: "Pont de Triana sur le Guadalquivir"
+- src: "/images/actividades/sevilla/torre-oro/torre-oro-sevilla-river-guadalquivir-2-hero.webp"
+  alt: "Torre del Oro au bord du Guadalquivir"
+- src: "/images/actividades/sevilla/maestranza/plaza-toros-maestranza-fachada.webp"
+  alt: "Façade de la Real Maestranza de Séville"
+- src: "/images/actividades/sevilla/santa-cruz/barrio-santa-cruz-sevilla-callejon-agua-2023an002-hero.webp"
+  alt: "Ruelle du quartier de Santa Cruz, Séville"
+- src: "/images/actividades/sevilla/plaza-espana/plaza-espana-pexels-34946149.webp"
+  alt: "La place d’Espagne illuminée la nuit"
+publicada: true
+destacada: false
+fecha: '2026-11-19'
+---

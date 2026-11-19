@@ -52,6 +52,8 @@ import BandaVersionPrivada from "@/components/ficha/BandaVersionPrivada";
 import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
+import CompartirFicha from "@/components/ficha/CompartirFicha";
+import { formatearPrecio } from "@/lib/guiasReservas";
 import { obtenerAlternativasFicha } from "@/lib/alternativasReserva";
 import { tituloSeoGuia } from "@/lib/tituloSeo";
 
@@ -467,6 +469,14 @@ export default async function ActividadPage({ params }: Props) {
             ubicacion="cabecera"
           />
         )}
+
+        <CompartirFicha
+          idioma={"es"}
+          titulo={actividad.titulo}
+          precio={actividad.precioDesde > 0 ? formatearPrecio(actividad, "es") : null}
+          ruta={actividad.url}
+          slugEs={params.slug}
+        />
       </div>
 
       </div>

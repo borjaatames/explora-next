@@ -6,6 +6,8 @@ descripcion: 'Excursión flexible de 6-10 horas: bus, tren cremallera, monasteri
 slugs:
   es: montserrat-cremallera-bodega-castlexperience
   en: montserrat-rack-railway-winery-castlexperience
+  de: montserrat-zahnradbahn-weingut-castlexperience
+  fr: montserrat-cremaillere-domaine-viticole-castlexperience
 duracion: 6-10 horas
 duracionMinutos: 480
 precioDesde: 47

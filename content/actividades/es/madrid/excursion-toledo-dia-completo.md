@@ -6,6 +6,8 @@ descripcion: Excursión de 8 horas desde Madrid a Toledo con guía, bus de ida y
 slugs:
   es: excursion-toledo-dia-completo
   en: toledo-full-day-from-madrid
+  de: toledo-ganztagestour-ab-madrid
+  fr: toledo-journee-complete-depuis-madrid
 duracion: 8 horas
 duracionMinutos: 480
 precioDesde: 79

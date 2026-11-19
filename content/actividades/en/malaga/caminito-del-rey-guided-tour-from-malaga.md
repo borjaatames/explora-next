@@ -6,6 +6,8 @@ descripcion: 'Trip from Málaga to the Caminito del Rey with direct coach, entry
 slugs:
   es: caminito-del-rey-guiado-desde-malaga
   en: caminito-del-rey-guided-tour-from-malaga
+  de: caminito-del-rey-gefuehrte-tour-ab-malaga
+  fr: caminito-del-rey-visite-guidee-depuis-malaga
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 60
