@@ -70,7 +70,7 @@ opciones:
 
 | Destino a partir de Sevilha | Em grupo (por pessoa) | Privado, 2 pessoas | Privado, 4 pessoas | Privado, 6 pessoas |
 | --- | --- | --- | --- | --- |
-| Córdova | [110 € de AVE, máx. 8](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) · [109 € de autocarro](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [216 €](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € total) | 167 € (668 €) | 147 € (882 €) |
+| Córdova | [109 € de autocarro](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [216 €](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € total) | 167 € (668 €) | 147 € (882 €) |
 | Córdova de carro privado | — | [379 €](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (758 €) | — | 160 € (960 €) |
 | Ronda (e aldeias brancas) | [47 €](/en/cities/sevilla/activities/pueblos-blancos-ronda-day-trip-from-seville) | [250 €](/en/cities/sevilla/activities/ronda-private-day-trip-from-seville-with-or-without-guide) sem guia (500 €) | 180 € (720 €) | 125 € (750 €) |
 | Aldeias brancas e Ronda em privado | — | [389 €](/en/cities/sevilla/activities/white-villages-ronda-private-day-trip-from-seville) (778 €) | — | 160 € (960 €) |

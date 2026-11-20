@@ -70,7 +70,7 @@ opciones:
 
 | Destination from Seville | Group (per person) | Private, 2 people | Private, 4 people | Private, 6 people |
 | --- | --- | --- | --- | --- |
-| Córdoba | [€110 by AVE, max. 8](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) · [€109 by coach](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [€216](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (€432 total) | €167 (€668) | €147 (€882) |
+| Córdoba | [€109 by coach](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [€216](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (€432 total) | €167 (€668) | €147 (€882) |
 | Córdoba by private car | — | [€379](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (€758) | — | €160 (€960) |
 | Ronda (and white villages) | [€47](/en/cities/sevilla/activities/pueblos-blancos-ronda-day-trip-from-seville) | [€250](/en/cities/sevilla/activities/ronda-private-day-trip-from-seville-with-or-without-guide) no guide (€500) | €180 (€720) | €125 (€750) |
 | White villages and Ronda, private | — | [€389](/en/cities/sevilla/activities/white-villages-ronda-private-day-trip-from-seville) (€778) | — | €160 (€960) |

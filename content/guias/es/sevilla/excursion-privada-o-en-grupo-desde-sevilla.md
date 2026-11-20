@@ -70,7 +70,7 @@ opciones:
 
 | Destino desde Sevilla | En grupo (por persona) | Privado, 2 personas | Privado, 4 personas | Privado, 6 personas |
 | --- | --- | --- | --- | --- |
-| Córdoba | [110 € en AVE, máx. 8](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) · [109 € en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) | [216 €](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) (432 € total) | 167 € (668 €) | 147 € (882 €) |
+| Córdoba | [109 € en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) | [216 €](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) (432 € total) | 167 € (668 €) | 147 € (882 €) |
 | Córdoba en coche privado | — | [379 €](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) (758 €) | — | 160 € (960 €) |
 | Ronda (y pueblos blancos) | [47 €](/ciudades/sevilla/actividades/pueblos-blancos-ronda-excursion-dia-desde-sevilla) | [250 €](/ciudades/sevilla/actividades/ronda-excursion-privada-desde-sevilla-con-o-sin-guia) sin guía (500 €) | 180 € (720 €) | 125 € (750 €) |
 | Pueblos blancos y Ronda en privado | — | [389 €](/ciudades/sevilla/actividades/pueblos-blancos-ronda-excursion-privada-desde-sevilla) (778 €) | — | 160 € (960 €) |

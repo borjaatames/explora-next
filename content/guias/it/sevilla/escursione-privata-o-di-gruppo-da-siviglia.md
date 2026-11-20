@@ -70,7 +70,7 @@ opciones:
 
 | Destinazione da Siviglia | In gruppo (a persona) | Privato, 2 persone | Privato, 4 persone | Privato, 6 persone |
 | --- | --- | --- | --- | --- |
-| Cordova | [110 € in AVE, max 8](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) · [109 € in pullman](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [216 €](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € totale) | 167 € (668 €) | 147 € (882 €) |
+| Cordova | [109 € in pullman](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [216 €](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € totale) | 167 € (668 €) | 147 € (882 €) |
 | Cordova in auto privata | — | [379 €](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (758 €) | — | 160 € (960 €) |
 | Ronda (e pueblos blancos) | [47 €](/en/cities/sevilla/activities/pueblos-blancos-ronda-day-trip-from-seville) | [250 €](/en/cities/sevilla/activities/ronda-private-day-trip-from-seville-with-or-without-guide) senza guida (500 €) | 180 € (720 €) | 125 € (750 €) |
 | Pueblos blancos e Ronda in privato | — | [389 €](/en/cities/sevilla/activities/white-villages-ronda-private-day-trip-from-seville) (778 €) | — | 160 € (960 €) |
