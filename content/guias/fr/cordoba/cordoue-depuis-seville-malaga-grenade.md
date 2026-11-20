@@ -45,7 +45,7 @@ faq:
 
 | Depuis | Train | Voiture | Excursion en groupe | Excursion privée |
 | --- | --- | --- | --- | --- |
-| Séville | AVE, environ 45 min | 1 h 30 | [à partir de 109 €](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) · [en AVE, petit groupe](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) | [en train : 432 € (2) · 668 € (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [en voiture : à partir de 379 € par personne](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
+| Séville | AVE, environ 45 min | 1 h 30 | [à partir de 109 €](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) | [en train : 432 € (2) · 668 € (4)](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) · [en voiture : à partir de 379 € par personne](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) |
 | Malaga | grande vitesse, un peu moins d'1 h | 1 h 50 | [à partir de 76 €](/en/cities/malaga/activities/cordoba-mosque-day-trip-from-malaga) | [750 € (2) · 920 € (4)](/en/cities/malaga/activities/cordoba-private-day-trip-from-malaga) |
 | Grenade | — | environ 2 h | — | [800 € (2) · 1 040 € (4)](/en/cities/granada/activities/cordoba-private-day-trip-from-granada) |
 | Cadix | — | 2 h 30 | — | [à partir de 780 € (2)](/en/cities/cadiz/activities/cordoba-private-day-trip-from-cadiz) |

@@ -45,7 +45,7 @@ faq:
 
 | Desde | Tren | Coche | Excursión en grupo | Excursión privada |
 | --- | --- | --- | --- | --- |
-| Sevilla | AVE, unos 45 min | 1 h 30 | [desde 109 €](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) · [en AVE, grupo reducido](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) | [en tren: 432 € (2) · 668 € (4)](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) · [en coche: desde 379 € por persona](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) |
+| Sevilla | AVE, unos 45 min | 1 h 30 | [desde 109 €](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) | [en tren: 432 € (2) · 668 € (4)](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) · [en coche: desde 379 € por persona](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) |
 | Málaga | alta velocidad, algo menos de 1 h | 1 h 50 | [desde 76 €](/ciudades/malaga/actividades/cordoba-mezquita-desde-malaga) | [750 € (2) · 920 € (4)](/ciudades/malaga/actividades/cordoba-excursion-privada-desde-malaga) |
 | Granada | — | unas 2 h | — | [800 € (2) · 1.040 € (4)](/ciudades/granada/actividades/cordoba-excursion-privada-desde-granada) |
 | Cádiz | — | 2 h 30 | — | [desde 780 € (2)](/ciudades/cadiz/actividades/cordoba-excursion-privada-desde-cadiz) |

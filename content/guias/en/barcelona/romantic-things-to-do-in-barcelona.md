@@ -57,7 +57,6 @@ Barcelona has everything a couple's trip needs: the sea, sunsets, Gaudí buildin
 | [Sunset sailing](/en/cities/barcelona/activities/barcelona-sunset-sailing-experience) | 2 h | €110 | The headline plan; open bar on board |
 | [Tapas, wine and flamenco, private tour](/en/cities/barcelona/activities/barcelona-private-tapas-wine-flamenco-tour) | 3 h | €228 (€114 each) | A full evening with nothing to organise |
 | [Flamenco at Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 50-55 min | From €60 | Flamenco in a baroque palace |
-| [Casa Batlló by night with a concert](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) | 2 h | €118 | Gaudí, live music and cava |
 | [La Pedrera by night with cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava) | 1 h 30 min | €79 | A light show on the rooftop |
 | [Rooftop wine tasting](/en/cities/barcelona/activities/barcelona-rooftop-wine-tasting) | 2 h | €96 | Six wines with a view, by day |
 | [VIP private photo shoot](/en/cities/barcelona/activities/vip-private-photoshoot-barcelona) | 1 h | €125 per session | Anniversaries, honeymoons, proposals |
@@ -93,8 +92,6 @@ If you would rather eat during the show, **Tablao de Carmen**, inside Poble Espa
 
 - **Casa Batlló by night (€59):** an audio-guided visit plus a **one-hour live concert on the rooftop**, with a reserved table and a glass of cava. The style changes by date (jazz, soul or flamenco). It is **non-refundable** and in summer sells out one or two weeks ahead.
 - **La Pedrera by night (€39.50):** a semi-guided visit with projections in the courtyards, an audiovisual show on the rooftop among the chimneys and a glass of cava at the end. In heavy rain the rooftop may close; if so, they reschedule or refund.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## By day: wine with a view and photos
 

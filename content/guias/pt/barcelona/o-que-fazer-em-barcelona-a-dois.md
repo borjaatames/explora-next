@@ -57,7 +57,6 @@ Barcelona tem tudo o que uma viagem a dois pede: o mar, o pôr do sol, edifício
 | [Veleiro ao pôr do sol](/en/cities/barcelona/activities/barcelona-sunset-sailing-experience) | 2 h | 110 € | O plano principal; bar aberto a bordo |
 | [Tapas, vinho e flamenco, tour privado](/pt/cities/barcelona/activities/barcelona-tour-privado-tapas-vinho-flamenco) | 3 h | 228 € (114 € cada) | Uma noite completa sem nada para organizar |
 | [Flamenco no Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 50-55 min | Desde 60 € | Flamenco num palácio barroco |
-| [Casa Batlló à noite com concerto](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) | 2 h | 118 € | Gaudí, música ao vivo e cava |
 | [La Pedrera à noite com cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava) | 1 h 30 min | 79 € | Espetáculo de luz no terraço |
 | [Prova de vinhos num terraço](/en/cities/barcelona/activities/barcelona-rooftop-wine-tasting) | 2 h | 96 € | Seis vinhos com vista, de dia |
 | [Sessão fotográfica privada VIP](/en/cities/barcelona/activities/vip-private-photoshoot-barcelona) | 1 h | 125 € por sessão | Aniversários, luas de mel, pedidos de casamento |
@@ -93,8 +92,6 @@ Se preferir comer durante o espetáculo, o **Tablao de Carmen**, dentro do Poble
 
 - **Casa Batlló à noite (59 €):** visita com audioguia e **concerto ao vivo de uma hora no terraço**, com mesa reservada e uma taça de cava. O estilo muda consoante a data (jazz, soul ou flamenco). **Não é reembolsável** e no verão esgota com uma ou duas semanas de antecedência.
 - **La Pedrera à noite (39,50 €):** visita semiguiada com projeções nos pátios, espetáculo audiovisual no terraço entre as chaminés e uma taça de cava no final. Com chuva forte o terraço pode fechar; nesse caso, remarcam ou reembolsam.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## De dia: vinho com vista e fotografias
 

@@ -57,7 +57,6 @@ Barcelone a tout ce que demande un voyage en couple : la mer, des couchers de so
 | [Voilier au coucher du soleil](/en/cities/barcelona/activities/barcelona-sunset-sailing-experience) | 2 h | 110 € | L'activité phare ; open bar à bord |
 | [Tapas, vin et flamenco, visite privée](/fr/cities/barcelona/activities/barcelona-visite-privee-tapas-vin-flamenco) | 3 h | 228 € (114 € par personne) | Une soirée complète sans rien organiser |
 | [Flamenco au Palau Dalmases](/en/cities/barcelona/activities/palau-dalmases-flamenco-show-17th-century-palace) | 50-55 min | À partir de 60 € | Du flamenco dans un palais baroque |
-| [Casa Batlló de nuit avec concert](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music) | 2 h | 118 € | Gaudí, musique live et cava |
 | [La Pedrera de nuit avec cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava) | 1 h 30 | 79 € | Spectacle de lumière sur le toit-terrasse |
 | [Dégustation de vins sur toit-terrasse](/fr/cities/barcelona/activities/barcelona-degustation-vins-rooftop) | 2 h | 96 € | Six vins avec vue, en journée |
 | [Séance photo privée VIP](/en/cities/barcelona/activities/vip-private-photoshoot-barcelona) | 1 h | 125 € la séance | Anniversaires, lunes de miel, demandes en mariage |
@@ -93,8 +92,6 @@ Si vous préférez dîner pendant le spectacle, le **Tablao de Carmen**, dans le
 
 - **Casa Batlló de nuit (59 €) :** visite avec audioguide et **concert live d'une heure sur le toit-terrasse**, avec table réservée et une coupe de cava. Le style change selon la date (jazz, soul ou flamenco). Elle n'est **pas remboursable** et, en été, elle est complète une ou deux semaines à l'avance.
 - **La Pedrera de nuit (39,50 €) :** visite semi-guidée avec projections dans les cours, spectacle audiovisuel sur le toit-terrasse entre les cheminées et coupe de cava pour finir. En cas de forte pluie, le toit-terrasse peut fermer ; dans ce cas, la visite est reprogrammée ou remboursée.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## En journée : du vin avec vue et des photos
 
