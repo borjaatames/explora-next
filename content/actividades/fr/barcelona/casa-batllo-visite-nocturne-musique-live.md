@@ -124,7 +124,7 @@ galeria:
   alt: Plafond en spirale et lustre du grand salon de la Casa Batlló
 ratingProveedor: 4.5
 numeroOpiniones: 377
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

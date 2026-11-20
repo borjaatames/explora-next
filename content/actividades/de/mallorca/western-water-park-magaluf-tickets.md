@@ -99,7 +99,7 @@ ratingProveedor: 4.3
 numeroOpiniones: 582
 atraccionesRelacionadas:
 - parques
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-04'
 fecha_actualizacion: '2026-11-04'

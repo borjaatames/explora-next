@@ -73,7 +73,7 @@ ratingProveedor: 4.6
 numeroOpiniones: 69
 atraccionesRelacionadas:
 - costa
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-31'

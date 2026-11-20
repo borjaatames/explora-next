@@ -109,7 +109,7 @@ galeria:
   alt: Vue de Cadaqués et de sa baie d'en haut
 ratingProveedor: 4.5
 numeroOpiniones: 414
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

@@ -96,7 +96,7 @@ numeroOpiniones: 1822
 atraccionesRelacionadas:
 - tabarca
 - mar
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

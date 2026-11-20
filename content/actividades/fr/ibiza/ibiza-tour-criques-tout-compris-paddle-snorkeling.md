@@ -109,7 +109,7 @@ ratingProveedor: 4.9
 numeroOpiniones: 1410
 atraccionesRelacionadas:
 - calas-barco
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

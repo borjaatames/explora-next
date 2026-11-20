@@ -111,7 +111,7 @@ galeria:
   alt: Vista de Cadaqués y su bahía desde lo alto
 ratingProveedor: 4.5
 numeroOpiniones: 414
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

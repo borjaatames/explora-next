@@ -111,7 +111,7 @@ galeria:
   alt: Blick von oben auf Cadaqués und seine Bucht
 ratingProveedor: 4.5
 numeroOpiniones: 414
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

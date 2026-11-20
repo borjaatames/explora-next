@@ -99,7 +99,7 @@ galeria:
   alt: Un'altra delle porte tematiche di Isla Mágica
 ratingProveedor: 4.4
 numeroOpiniones: 1386
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

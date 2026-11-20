@@ -111,7 +111,7 @@ galeria:
   alt: View of Cadaqués and its bay from above
 ratingProveedor: 4.5
 numeroOpiniones: 414
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

@@ -123,7 +123,7 @@ galeria:
   alt: Spiraldecke und Lampe im Hauptsalon der Casa Batlló
 ratingProveedor: 4.5
 numeroOpiniones: 377
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

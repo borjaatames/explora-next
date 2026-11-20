@@ -126,7 +126,7 @@ galeria:
   alt: Balcones y mosaico de trencadís de la fachada de la Casa Batlló
 ratingProveedor: 4.4
 numeroOpiniones: 1930
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

@@ -125,7 +125,7 @@ galeria:
   alt: Flower-filled corner of Córdoba's Jewish Quarter
 ratingProveedor: 4.7
 numeroOpiniones: 85
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

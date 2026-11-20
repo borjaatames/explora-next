@@ -125,7 +125,7 @@ galeria:
   alt: Balkone und Trencadís-Mosaik an der Fassade der Casa Batlló
 ratingProveedor: 4.4
 numeroOpiniones: 1930
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

@@ -82,7 +82,7 @@ imagen: /images/actividades/mallorca/western-water-park/western-water-park-rio-t
 imagenAlt: Piscina con ciambelle e scivoli al Western Water Park
 ratingProveedor: 4.3
 numeroOpiniones: 582
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

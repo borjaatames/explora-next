@@ -122,7 +122,7 @@ galeria:
   alt: Varandas e mosaico de trencadís na fachada da Casa Batlló
 ratingProveedor: 4.4
 numeroOpiniones: 1930
-publicada: true
+publicada: false
 destacada: false
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-11-05'

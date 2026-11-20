@@ -125,7 +125,7 @@ galeria:
   alt: Spiral ceiling and lamp in the main hall of Casa Batlló
 ratingProveedor: 4.5
 numeroOpiniones: 377
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-05-17'

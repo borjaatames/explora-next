@@ -99,7 +99,7 @@ galeria:
   alt: "Instalaciones de Marineland en Costa d'en Blanes"
 ratingProveedor: 4.5
 numeroOpiniones: 786
-publicada: true
+publicada: false
 indexar: false
 destacada: false
 fecha: '2026-10-04'

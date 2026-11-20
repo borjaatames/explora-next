@@ -121,7 +121,7 @@ galeria:
   alt: Teto em espiral e candeeiro no salão principal da Casa Batlló
 ratingProveedor: 4.5
 numeroOpiniones: 377
-publicada: true
+publicada: false
 destacada: true
 fecha: '2026-05-17'
 fecha_actualizacion: '2026-11-05'

@@ -125,7 +125,7 @@ galeria:
   alt: Rincón con flores de la Judería de Córdoba
 ratingProveedor: 4.7
 numeroOpiniones: 85
-publicada: true
+publicada: false
 indexar: false
 destacada: true
 fecha: '2026-05-17'
