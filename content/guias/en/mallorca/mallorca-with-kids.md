@@ -71,8 +71,8 @@ faq:
 | Caves from Palma | [Drach Caves with concert and boat ride](/en/cities/mallorca/activities/drach-caves-concert-boat-from-palma), 4.4★ (1,489) | €54 |
 | Wild dolphins | [Dolphin watching from Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4.8★ (3,435) | €90 |
 | Treetop adventure | [Forestal Park](/en/cities/mallorca/activities/forestal-park-mallorca-adventure), 4.8★ (277) | €26 |
-| Water park | [Western Water Park](/en/cities/mallorca/activities/western-water-park-magaluf-ticket), 4.3★ (582) | €38 |
-| Animal shows | [Marineland](/en/cities/mallorca/activities/marineland-mallorca-entry-ticket), 4.5★ (786) | €32 |
+
+Marineland and Western Water Park close for the winter and reopen in spring.
 
 ## Where to stay: pick one base
 

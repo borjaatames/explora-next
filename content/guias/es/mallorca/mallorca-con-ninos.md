@@ -71,8 +71,8 @@ faq:
 | Cuevas desde Palma | [Cuevas del Drach con concierto y barca](/ciudades/mallorca/actividades/cuevas-del-drach-concierto-barca-desde-palma), 4,4★ (1.489) | 54 € |
 | Delfines en libertad | [Avistamiento de delfines desde Alcúdia](/ciudades/mallorca/actividades/avistamiento-delfines-alcudia), 4,8★ (3.435) | 90 € |
 | Aventura en los árboles | [Forestal Park](/ciudades/mallorca/actividades/forestal-park-mallorca-aventura), 4,8★ (277) | 26 € |
-| Parque acuático | [Western Water Park](/ciudades/mallorca/actividades/western-water-park-magaluf-entrada), 4,3★ (582) | 38 € |
-| Espectáculos con animales | [Marineland](/ciudades/mallorca/actividades/marineland-mallorca-entrada), 4,5★ (786) | 32 € |
+
+Marineland y Western Water Park cierran en invierno y vuelven a abrir en primavera.
 
 ## Mejores playas para niños
 

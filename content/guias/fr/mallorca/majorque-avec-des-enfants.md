@@ -71,8 +71,8 @@ faq:
 | Grottes depuis Palma | [Grottes du Drach avec concert et traversée en barque](/fr/cities/mallorca/activities/grottes-du-drach-concert-barque-depuis-palma), 4,4★ (1 489) | 54 € |
 | Dauphins sauvages | [Observation des dauphins depuis Alcúdia](/en/cities/mallorca/activities/alcudia-dolphin-watching), 4,8★ (3 435) | 90 € |
 | Aventure dans les arbres | [Forestal Park](/fr/cities/mallorca/activities/forestal-park-majorque-parcours-accrobranche), 4,8★ (277) | 26 € |
-| Parc aquatique | [Western Water Park](/en/cities/mallorca/activities/western-water-park-magaluf-ticket), 4,3★ (582) | 38 € |
-| Spectacles d'animaux | [Marineland](/en/cities/mallorca/activities/marineland-mallorca-entry-ticket), 4,5★ (786) | 32 € |
+
+Marineland et le Western Water Park ferment en hiver et rouvrent au printemps.
 
 ## Où loger : choisissez une seule base
 
