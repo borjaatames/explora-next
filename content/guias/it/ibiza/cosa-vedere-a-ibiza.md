@@ -41,8 +41,6 @@ imagen_alt: "Dalt Vila, la città alta di Ibiza"
 
 | Attività | Valutazione | Da |
 | --- | --- | --- |
-| [Giro delle calette all inclusive con pranzo, paddle surf e snorkeling](/it/cities/ibiza/activities/ibiza-giro-cale-tutto-incluso-paddle-snorkeling) | 4,9★ (1.410) | 60 € |
-| [Crociera tra le calette con paddle surf, pranzo e bevande](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
 | [Barca per Es Vedrà, Espalmador e Formentera con pasti](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
 | [Giro in barca al tramonto con bevande e bagno](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4,8★ (110) | 70 € |
 | [Biglietto del traghetto andata e ritorno per Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |

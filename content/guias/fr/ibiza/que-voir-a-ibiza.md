@@ -41,8 +41,6 @@ imagen_alt: "Dalt Vila, la ville haute d'Ibiza"
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
-| [Circuit des criques tout compris avec repas, paddle et snorkeling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1 410) | 60 € |
-| [Croisière dans les criques avec paddle, repas et boissons](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3 570) | 69 € |
 | [Bateau vers Es Vedrà, Espalmador et Formentera avec repas](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1 335) | 155 € |
 | [Sortie en bateau au coucher du soleil avec boissons et baignade](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4,8★ (110) | 70 € |
 | [Billet de ferry aller-retour pour Formentera](/en/cities/ibiza/activities/ibiza-formentera-return-ferry-ticket) | 4,7★ (322) | 55 € |

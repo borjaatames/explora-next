@@ -41,8 +41,6 @@ imagen_alt: "Dalt Vila, a cidade alta de Ibiza"
 
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
-| [Roteiro pelas calas tudo incluído com refeição, paddle surf e snorkel](/pt/cities/ibiza/activities/ibiza-rota-enseadas-tudo-incluido-paddle-snorkel) | 4,9★ (1.410) | 60 € |
-| [Cruzeiro pelas calas com paddle surf, refeição e bebidas](/pt/cities/ibiza/activities/ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas) | 4,6★ (3.570) | 69 € |
 | [Barco a Es Vedrà, Espalmador e Formentera com refeições](/pt/cities/ibiza/activities/sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes) | 4,1★ (1.335) | 155 € |
 | [Passeio de barco ao pôr do sol com bebidas e banho](/pt/cities/ibiza/activities/ibiza-passeio-barco-por-do-sol-bebidas-banho) | 4,8★ (110) | 70 € |
 | [Bilhete de ferry de ida e volta para Formentera](/pt/cities/ibiza/activities/ibiza-bilhete-ferry-ida-volta-formentera) | 4,7★ (322) | 55 € |
