@@ -48,14 +48,10 @@ imagen_alt: "Cala Conta con il suo isolotto a Ibiza"
 
 | Attività | Valutazione | Da |
 | --- | --- | --- |
-| [Giro delle calette all inclusive con pranzo, paddle surf e snorkeling](/it/cities/ibiza/activities/ibiza-giro-cale-tutto-incluso-paddle-snorkeling) | 4,9★ (1.410) | 60 € |
-| [Crociera tra le calette con paddle surf, pranzo e bevande](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
 | [Tour in kayak nelle grotte marine con snorkeling da Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4,8★ (333) | 50 € |
 | [Barca per Es Vedrà, Espalmador e Formentera con pasti](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
 
 L'isola è piccola: il **sud-ovest** concentra le calette più fotogeniche e i tramonti; il **nord** è più tranquillo e selvaggio; il **sud** ha le spiagge alla moda vicino alle saline.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
 ## Per zona
 
@@ -102,8 +98,6 @@ L'isola è piccola: il **sud-ovest** concentra le calette più fotogeniche e i t
 2. **Aspettarsi servizi nelle calette selvagge.** In alcune del nord non c'è il chiringuito; porta acqua e ombra.
 3. **Calpestare la posidonia senza attenzione.** Le praterie (Patrimonio dell'Umanità) regalano l'acqua cristallina.
 4. **Restare solo sulle spiagge di Playa d'en Bossa.** Le calette migliori sono altrove.
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Errori tipici
 

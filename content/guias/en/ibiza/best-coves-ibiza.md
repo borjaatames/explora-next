@@ -48,15 +48,11 @@ imagen_alt: "Cala Conta and its islet in Ibiza"
 
 | Activity | Rating | From |
 | --- | --- | --- |
-| [All-inclusive beach hopping with lunch, paddleboarding and snorkelling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4.9★ (1,410) | €60 |
-| [Beach-hopping cruise with paddleboarding, lunch and drinks](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4.6★ (3,570) | €69 |
 | [Sea kayak tour through caves with snorkelling from Cala Codolar](/en/cities/ibiza/activities/ibiza-sea-kayak-caves-snorkel-cala-codolar) | 4.8★ (333) | €50 |
 | [Boat to Es Vedrà, Espalmador and Formentera with meals](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4.1★ (1,335) | €155 |
 | [Sunset boat trip with drinks and swim stop](/en/cities/ibiza/activities/ibiza-sunset-boat-trip-drinks-swim) | 4.8★ (110) | €70 |
 
 A boat solves the parking problem and reaches coves you can't walk to. The island is small: the **south-west** holds the most photogenic coves and the sunsets; the **north** is calmer and wilder; the **south** has the trendy beaches by the salt flats.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
 ## By area
 
@@ -111,8 +107,6 @@ The sea is 25–27 °C in July and August, and around 24 °C in September. Jelly
 2. **Expecting services at the wild coves.** Some in the north have no beach bar; bring water and shade.
 3. **Stepping carelessly on the posidonia.** The seagrass meadows (a World Heritage Site) are what keep the water crystal-clear.
 4. **Staying only on the Playa d'en Bossa beaches.** The best coves are elsewhere.
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Common mistakes
 

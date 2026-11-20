@@ -48,14 +48,10 @@ imagen_alt: "Cala Conta com o seu ilhéu em Ibiza"
 
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
-| [Roteiro pelas calas tudo incluído com refeição, paddle surf e snorkel](/pt/cities/ibiza/activities/ibiza-rota-enseadas-tudo-incluido-paddle-snorkel) | 4,9★ (1.410) | 60 € |
-| [Cruzeiro pelas calas com paddle surf, refeição e bebidas](/pt/cities/ibiza/activities/ibiza-cruzeiro-enseadas-paddle-surf-almoco-bebidas) | 4,6★ (3.570) | 69 € |
 | [Tour de caiaque por grutas marinhas com snorkel a partir de Cala Codolar](/pt/cities/ibiza/activities/ibiza-caiaque-grutas-marinhas-snorkel-cala-codolar) | 4,8★ (333) | 50 € |
 | [Barco a Es Vedrà, Espalmador e Formentera com refeições](/pt/cities/ibiza/activities/sant-antoni-barco-es-vedra-espalmador-formentera-refeicoes) | 4,1★ (1.335) | 155 € |
 
 A ilha é pequena: o **sudoeste** concentra as calas mais fotogénicas e os pores do sol; o **norte** é mais tranquilo e selvagem; o **sul** tem as praias da moda junto às salinas.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
 ## Por zonas
 
@@ -102,8 +98,6 @@ A ilha é pequena: o **sudoeste** concentra as calas mais fotogénicas e os pore
 2. **Esperar serviços nas calas selvagens.** Em algumas do norte não há chiringuito; leve água e sombra.
 3. **Pisar a posidónia sem cuidado.** As pradarias (Património da Humanidade) dão a água cristalina.
 4. **Ficar só pelas praias de Playa d'en Bossa.** As melhores calas estão fora.
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Erros típicos
 

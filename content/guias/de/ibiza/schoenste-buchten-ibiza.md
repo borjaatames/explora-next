@@ -52,14 +52,10 @@ reservasArriba: true
 
 | Aktivität | Bewertung | Ab |
 | --- | --- | --- |
-| [Buchten-Tour all inclusive mit Essen, Stand-up-Paddling und Schnorcheln](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1.410) | 60 € |
-| [Bootstour zu den Buchten mit Stand-up-Paddling, Essen und Getränken](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3.570) | 69 € |
 | [Kajaktour durch Meereshöhlen mit Schnorcheln ab Cala Codolar](/de/cities/ibiza/activities/ibiza-kajaktour-hoehlen-schnorcheln-cala-codolar) | 4,8★ (333) | 50 € |
 | [Boot nach Es Vedrà, Espalmador und Formentera mit Essen](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1.335) | 155 € |
 
 Die Insel ist klein: Im **Südwesten** liegen die fotogensten Buchten und die Sonnenuntergänge, der **Norden** ist ruhiger und wilder, und im **Süden** findest du die angesagten Strände neben den Salinen.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
 ## Nach Regionen
 
@@ -106,8 +102,6 @@ Die Insel ist klein: Im **Südwesten** liegen die fotogensten Buchten und die So
 2. **In den wilden Buchten Infrastruktur erwarten.** In manchen im Norden gibt es keine Strandbar; nimm Wasser und Schatten mit.
 3. **Unachtsam auf die Posidonia treten.** Die Seegraswiesen (UNESCO-Welterbe) sorgen für das klare Wasser.
 4. **Nur am Strand von Playa d'en Bossa bleiben.** Die schönsten Buchten liegen woanders.
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Typische Fehler
 

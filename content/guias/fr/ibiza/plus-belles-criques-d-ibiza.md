@@ -48,14 +48,10 @@ imagen_alt: "Cala Conta et son îlot à Ibiza"
 
 | Activité | Note | À partir de |
 | --- | --- | --- |
-| [Circuit des criques tout compris avec repas, paddle et snorkeling](/en/cities/ibiza/activities/ibiza-all-inclusive-beach-hopper-paddle-snorkel) | 4,9★ (1 410) | 60 € |
-| [Croisière dans les criques avec paddle, repas et boissons](/en/cities/ibiza/activities/ibiza-beach-hopping-cruise-paddleboarding) | 4,6★ (3 570) | 69 € |
 | [Kayak dans les grottes marines avec snorkeling depuis Cala Codolar](/fr/cities/ibiza/activities/ibiza-kayak-de-mer-grottes-snorkeling-cala-codolar) | 4,8★ (333) | 50 € |
 | [Bateau vers Es Vedrà, Espalmador et Formentera avec repas](/en/cities/ibiza/activities/es-vedra-cruise-sant-antoni) | 4,1★ (1 335) | 155 € |
 
 L'île est petite : le **sud-ouest** concentre les criques les plus photogéniques et les couchers de soleil ; le **nord** est plus calme et sauvage ; le **sud** a les plages à la mode près des salines.
-
-[actividad: ruta-calas-ibiza-todo-incluido-paddle-esnorquel]
 
 ## Par zone
 
@@ -102,8 +98,6 @@ L'île est petite : le **sud-ouest** concentre les criques les plus photogéniqu
 2. **Attendre des services dans les criques sauvages.** Certaines criques du nord n'ont pas de chiringuito ; apportez eau et ombre.
 3. **Marcher sur la posidonie sans précaution.** Ces herbiers (patrimoine mondial) donnent son eau cristalline.
 4. **Ne voir que les plages de Platja d'en Bossa.** Les plus belles criques sont ailleurs.
-
-[actividad: crucero-calas-ibiza-paddle-surf-barra-libre]
 
 ## Erreurs fréquentes
 
