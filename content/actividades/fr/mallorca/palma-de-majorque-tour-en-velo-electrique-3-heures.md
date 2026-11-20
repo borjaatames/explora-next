@@ -57,8 +57,8 @@ keywords:
 - "vélo électrique palma de majorque"
 - "tour à vélo palma en français"
 - "visite palma vélo électrique"
-imagen: "/images/actividades/mallorca/fma-bici-palma/bicicletas-blancas-aparcadas.webp"
-imagenAlt: "Vélos blancs garés dans une rue"
+imagen: "/images/actividades/granada/ebike-sierra-nevada-aldeas/ebike-sierra-nevada-aldeas-detalle-ebike-tecnologia-03-hero.webp"
+imagenAlt: "Détail d'un vélo électrique avec son casque"
 galeria:
 - src: "/images/actividades/mallorca/fma-palma/catedral-palma-desde-mar.webp"
   alt: "La cathédrale de Palma vue depuis la mer"
