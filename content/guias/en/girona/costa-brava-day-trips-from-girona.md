@@ -54,7 +54,6 @@ imagen_alt: "Tossa de Mar's Vila Vella above the beach"
 | Plan | Activity | From |
 | --- | --- | --- |
 | Coves and caves by kayak | [Kayak and snorkel in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4.7★ (1,393) | €34 |
-| Cadaqués by sea | [Boat from Roses to Cadaqués along Cap de Creus](/en/cities/girona/activities/roses-cadaques-boat-trip-cap-de-creus), 4.5★ (414) | €27 |
 | Medes Islands | [Boat to the Medes Islands from L'Estartit](/en/cities/girona/activities/medes-islands-boat-trip-caves-estartit), 4.6★ (634) | €24 |
 | Dalí Museum with a guide | [Guided tour of the Dalí Theatre-Museum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4.7★ (105) | €31 |
 | If you're staying in Barcelona | [Girona, Figueres, Dalí and Cadaqués in one day](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4.7★ (2,352) | €40 |
@@ -84,8 +83,6 @@ The last two leave from Barcelona, not Girona. If you're sleeping in Girona, the
 - **You want to swim and see the coast from the water:** the [kayak and snorkel tour in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 35 minutes from Girona by car. Two hours, no experience needed, but you must be able to swim (minimum age 7).
 - **With children:** the Medes Islands boat from L'Estartit. It lasts 1 h 30 min, the boat has underwater windows and there's a 15-minute swim stop.
 - **Cadaqués without the hairpin road:** drive or take the direct Sarfa bus to Roses (just over an hour) and do the boat along Cap de Creus. You get 1 h 30 min in Cadaqués, enough for the old town and the seafront, not for Portlligat.
-
-[actividad: roses-cadaques-boat-trip-cap-de-creus]
 
 - **Villages and history by car:** Besalú in the morning and Figueres in the afternoon combine well. Pals and Peratallada pair with Calella or Begur.
 

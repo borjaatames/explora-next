@@ -54,7 +54,6 @@ imagen_alt: "La Vila Vella de Tossa de Mar au-dessus de la plage"
 | Formule | Activité | À partir de |
 | --- | --- | --- |
 | Criques et grottes en kayak | [Kayak et snorkeling à S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4,7★ (1 393) | 34 € |
-| Cadaqués par la mer | [Bateau de Roses à Cadaqués le long du cap de Creus](/fr/cities/girona/activities/roses-cadaques-en-bateau-cap-de-creus), 4,5★ (414) | 27 € |
 | Îles Medes | [Bateau vers les îles Medes depuis L'Estartit](/fr/cities/girona/activities/iles-medes-sortie-en-bateau-grottes-estartit), 4,6★ (634) | 24 € |
 | Musée Dalí avec guide | [Visite guidée du Théâtre-Musée Dalí](/fr/cities/girona/activities/figueres-visite-guidee-theatre-musee-dali-billets), 4,7★ (105) | 31 € |
 | Si vous logez à Barcelone | [Gérone, Figueres, Dalí et Cadaqués en une journée](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2 352) | 40 € |
@@ -84,8 +83,6 @@ Les deux dernières partent de Barcelone, pas de Gérone. Si vous dormez à Gér
 - **Vous voulez vous baigner et voir la côte depuis l'eau :** la [sortie kayak et snorkeling à S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), à 35 minutes de Gérone en voiture. Deux heures, aucune expérience requise, mais il faut savoir nager (âge minimum 7 ans).
 - **Avec des enfants :** le bateau des îles Medes depuis L'Estartit. Il dure 1 h 30, le bateau a des vitres sous-marines et il y a un arrêt baignade de 15 minutes.
 - **Cadaqués sans la route en lacets :** rejoignez Roses en voiture ou avec le bus direct Sarfa (un peu plus d'une heure) et faites le bateau le long du cap de Creus. Vous avez 1 h 30 à Cadaqués, assez pour la vieille ville et le front de mer, pas pour Portlligat.
-
-[actividad: roses-cadaques-boat-trip-cap-de-creus]
 
 - **Villages et histoire en voiture :** Besalú le matin et Figueres l'après-midi se combinent bien. Pals et Peratallada s'associent à Calella ou à Begur.
 

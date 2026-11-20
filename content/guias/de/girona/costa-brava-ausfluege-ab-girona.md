@@ -58,7 +58,6 @@ imagen_alt: "Die Vila Vella von Tossa de Mar über dem Strand"
 | Plan | Aktivität | Ab |
 | --- | --- | --- |
 | Buchten und Höhlen im Kajak | [Kajak und Schnorcheln in S'Agaró](/en/cities/girona/activities/costa-brava-kayak-snorkel-sea-caves-sagaro), 4,7★ (1.393) | 34 € |
-| Cadaqués über das Meer | [Boot von Roses nach Cadaqués um das Cap de Creus](/de/cities/girona/activities/roses-cadaques-bootsausflug-cap-de-creus), 4,5★ (414) | 27 € |
 | Medes-Inseln | [Boot zu den Medes-Inseln ab L'Estartit](/en/cities/girona/activities/medes-islands-boat-trip-caves-estartit), 4,6★ (634) | 24 € |
 | Dalí-Museum mit Guide | [Führung durch das Dalí-Theatermuseum](/en/cities/girona/activities/dali-theatre-museum-figueres-guided-tour), 4,7★ (105) | 31 € |
 | Wenn du in Barcelona übernachtest | [Girona, Figueres, Dalí und Cadaqués an einem Tag](/en/cities/girona/activities/girona-figueres-dali-cadaques-from-barcelona), 4,7★ (2.352) | 40 € |
