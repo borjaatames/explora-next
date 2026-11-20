@@ -5,6 +5,8 @@ ciudad: cordoba
 descripcion: "Tour privado de 3 horas con guía oficial por la Mezquita-Catedral, la Judería, la Sinagoga y los Baños Califales, con entradas y recogida en tu hotel. Precio por grupo: unos 194 € si vas solo, 248 € para 2 y 425 € para 4."
 slugs:
   es: mezquita-juderia-sinagoga-banos-califales-tour-privado
+  fr: cordoue-visite-privee-mosquee-juiverie-synagogue-bains-califaux
+  it: cordova-tour-privato-moschea-juderia-sinagoga-bagni-califfali
 duracion: "3 horas"
 duracionMinutos: 180
 precioDesde: 194
