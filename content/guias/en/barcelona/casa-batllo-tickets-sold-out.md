@@ -33,8 +33,7 @@ webOficial:
   nota: "€4-15 more at the ticket office"
 actividades:
   - casa-batllo-entrada-con-audioguia
-  - casa-batllo-visita-nocturna-copa-cava-bienvenida
-  - casa-batllo-visita-nocturna-musica-en-vivo
+  - casa-mila-experiencia-nocturna-con-cava
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
 - pregunta: Can I buy Casa Batlló tickets at the box office?
@@ -48,8 +47,8 @@ faq:
 opciones:
   - ficha: casa-batllo-entrada-con-audioguia
     etiqueta: Cheapest
-  - ficha: casa-batllo-visita-nocturna-copa-cava-bienvenida
-    etiqueta: At night
+  - ficha: casa-mila-experiencia-nocturna-con-cava
+    etiqueta: At night, at La Pedrera
   - ficha: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
     etiqueta: With a guide
 ---
@@ -61,8 +60,7 @@ Casa Batlló sells **timed tickets** at **dynamic prices**: the earlier you buy,
 | If you want… | Option | From |
 | --- | --- | --- |
 | A timed ticket, no guide | [Casa Batlló: entry with audioguide (official ticket)](/en/cities/barcelona/activities/casa-batllo-entry-with-audioguide), 4.7★ (27,982) | €29 |
-| An evening visit with a drink | [Casa Batlló: night visit with a glass of cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4.4★ (1,930) | €29 |
-| A visit plus a rooftop concert | [Casa Batlló: night visit with live music](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4.5★ (377) | €59 |
+| A Gaudí house at night | [La Pedrera: night experience with show and cava](/en/cities/barcelona/activities/casa-mila-night-experience-cava), 4.4★ (4,913) | €39.50 |
 | Three Gaudí houses with a guide | [Casa Vicens, Casa Milà and Casa Batlló: guided tour](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4.6★ (331) | €119 |
 
 ## 1. The official website: other times and other ticket types
@@ -82,7 +80,9 @@ If the day is full, the evening is the easiest way in. The **night visit** has e
 
 From March to November there are also **Magical Nights**: a visit at 20:00 and a rooftop concert at 21:00, with a drink and a table, **from €59**. Each month's programme is published two or three weeks ahead, and general visit discounts don't apply.
 
-[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+Outside those dates it isn't on sale. If you want a Gaudí house at night, the alternative is **La Pedrera**, a 10-minute walk away, with an audiovisual show on the rooftop and a glass of cava.
+
+[actividad: casa-mila-experiencia-nocturna-con-cava]
 
 ## 3. The box office
 
@@ -93,7 +93,6 @@ Casa Batlló has a box office in the building, but it **only sells the General V
 When the official site has nothing left, licensed resellers usually still have places because they buy their allocations ahead. You normally pay a bit more than on the official site:
 
 - **Timed ticket with audio guide (from €29):** the simplest way in if you just want to see the house.
-- **Night visit with live music (from €59):** the Magical Nights experience, with a concert on the rooftop.
 - **Three Gaudí houses tour (from €119):** Casa Vicens, Casa Milà and Casa Batlló with a guide; handy if you haven't sorted La Pedrera either.
 
 Before paying, check that the listing says **"Casa Batlló entry included"** and shows an entry time. Some Modernisme walks only look at the façades.
@@ -109,8 +108,6 @@ If you get nothing, Passeig de Gràcia still has plenty:
 - The **Casa Batlló façade** at number 43, with its bone-like balconies and scaled roof. It's best seen from the opposite pavement.
 - The **Block of Discord**: right next to Casa Batlló is **Casa Amatller** (number 41, by Puig i Cadafalch), which runs its own guided visits, and on the same block **Casa Lleó Morera**, by Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, further up the same avenue, about 10 minutes on foot.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Mistakes to avoid
 

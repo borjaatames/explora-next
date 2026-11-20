@@ -33,8 +33,7 @@ webOficial:
   nota: "4 à 15 € de plus au guichet"
 actividades:
   - casa-batllo-entrada-con-audioguia
-  - casa-batllo-visita-nocturna-copa-cava-bienvenida
-  - casa-batllo-visita-nocturna-musica-en-vivo
+  - casa-mila-experiencia-nocturna-con-cava
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
 - pregunta: Peut-on acheter des billets pour la Casa Batlló au guichet ?
@@ -48,8 +47,8 @@ faq:
 opciones:
   - ficha: casa-batllo-entrada-con-audioguia
     etiqueta: La moins chère
-  - ficha: casa-batllo-visita-nocturna-copa-cava-bienvenida
-    etiqueta: De nuit
+  - ficha: casa-mila-experiencia-nocturna-con-cava
+    etiqueta: De nuit, à La Pedrera
   - ficha: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
     etiqueta: Avec guide
 ---
@@ -61,8 +60,7 @@ La Casa Batlló vend ses billets **avec un horaire d'accès** et à **prix dynam
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
 | Un billet avec horaire, sans guide | [Casa Batlló : billet avec audioguide (billet officiel)](/en/cities/barcelona/activities/casa-batllo-entry-with-audioguide), 4,7★ (27 982) | 29 € |
-| Y aller de nuit, avec un verre | [Casa Batlló : visite nocturne avec une coupe de cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4,4★ (1 930) | 29 € |
-| Visite et concert sur le toit-terrasse | [Casa Batlló : visite nocturne avec musique live](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4,5★ (377) | 59 € |
+| Gaudí de nuit | [La Pedrera : expérience nocturne avec spectacle et cava](/fr/cities/barcelona/activities/casa-mila-la-pedrera-experience-nocturne-cava), 4,4★ (4 913) | 39,50 € |
 | Trois maisons de Gaudí avec guide | [Maisons de Gaudí : visite privée avec billets coupe-file pour La Pedrera et la Casa Vicens](/fr/cities/barcelona/activities/maisons-gaudi-pedrera-casa-vicens-visite-privee) | 156 € |
 | Trois maisons de Gaudí avec guide | [Casa Vicens, Casa Milà et Casa Batlló : visite guidée](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour) (uniquement en espagnol et anglais), 4,6★ (331) | 119 € |
 
@@ -83,7 +81,9 @@ Si la journée est complète, la nuit est la solution la plus simple. La **visit
 
 Entre mars et novembre, il y a aussi les **Nuits magiques** : visite à 20 h et concert sur le toit-terrasse à 21 h, avec un verre et une table, **à partir de 59 €**. La programmation de chaque mois est publiée deux ou trois semaines avant et les réductions de la visite générale ne s'appliquent pas.
 
-[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+En dehors de ces dates, elle n'est pas en vente. Si vous voulez voir une maison de Gaudí de nuit, l'alternative est **La Pedrera**, à 10 minutes à pied, avec un spectacle audiovisuel sur le toit-terrasse et une coupe de cava.
+
+[actividad: casa-mila-experiencia-nocturna-con-cava]
 
 ## 3. Le guichet
 
@@ -94,7 +94,6 @@ La Casa Batlló a un guichet dans le bâtiment même, mais on n'y vend **que la 
 Quand le site officiel n'a plus rien, les revendeurs agréés ont généralement des places, car ils achètent des quotas à l'avance. En principe, vous payez un peu plus que sur le site officiel :
 
 - **Billet avec horaire et audioguide (à partir de 29 €) :** la façon la plus simple d'entrer si vous voulez seulement voir la maison.
-- **Visite nocturne avec musique live (à partir de 59 €) :** c'est l'expérience des Nuits magiques, avec un concert sur le toit-terrasse.
 - **Visite des trois maisons de Gaudí (à partir de 119 €) :** Casa Vicens, Casa Milà et Casa Batlló avec guide ; utile si vous n'avez pas non plus La Pedrera.
 
 Avant de payer, vérifiez sur la fiche qu'il est écrit **« entrée à la Casa Batlló incluse »** et l'heure d'accès. Certaines promenades sur le modernisme ne montrent que les façades.
@@ -110,8 +109,6 @@ Si vous n'obtenez rien, le Passeig de Gràcia offre déjà beaucoup :
 - La **façade de la Casa Batlló**, au numéro 43, avec ses balcons en os et son toit en écailles. On la voit mieux depuis le trottoir d'en face.
 - L'**îlot de la Discorde** (Manzana de la Discordia) : collée à la Batlló se trouve la **Casa Amatller** (numéro 41, de Puig i Cadafalch), qui propose ses propres visites guidées, et dans le même pâté de maisons la **Casa Lleó Morera**, de Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, en remontant la même avenue, à une dizaine de minutes à pied.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Erreurs à éviter
 

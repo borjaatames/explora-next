@@ -33,8 +33,7 @@ webOficial:
   nota: "An der Kasse 4-15 € teurer"
 actividades:
   - casa-batllo-entrada-con-audioguia
-  - casa-batllo-visita-nocturna-copa-cava-bienvenida
-  - casa-batllo-visita-nocturna-musica-en-vivo
+  - casa-mila-experiencia-nocturna-con-cava
   - casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
 faq:
   - pregunta: "Kann man Tickets für die Casa Batlló an der Kasse kaufen?"
@@ -48,8 +47,8 @@ faq:
 opciones:
   - ficha: casa-batllo-entrada-con-audioguia
     etiqueta: Am günstigsten
-  - ficha: casa-batllo-visita-nocturna-copa-cava-bienvenida
-    etiqueta: Bei Nacht
+  - ficha: casa-mila-experiencia-nocturna-con-cava
+    etiqueta: Bei Nacht, in La Pedrera
   - ficha: casa-batllo-casa-mila-casa-vicens-tour-tres-casas-gaudi
     etiqueta: Mit Guide
 ---
@@ -61,8 +60,7 @@ Die Casa Batlló verkauft ihre Tickets **mit fester Einlasszeit** und **dynamisc
 | Wenn du … suchst | Option | Ab |
 | --- | --- | --- |
 | Ticket mit Uhrzeit, ohne Guide | [Casa Batlló: Ticket mit Audioguide (offizielles Ticket)](/en/cities/barcelona/activities/casa-batllo-entry-with-audioguide), 4,7★ (27.982) | 29 € |
-| Abends, mit einem Glas | [Casa Batlló: Nachtbesuch mit einem Glas Cava](/en/cities/barcelona/activities/casa-batllo-night-visit-welcome-drink), 4,4★ (1.930) | 29 € |
-| Besuch und Konzert auf der Dachterrasse | [Casa Batlló: Nachtbesuch mit Livemusik](/en/cities/barcelona/activities/casa-batllo-night-visit-live-music), 4,5★ (377) | 59 € |
+| Gaudí bei Nacht | [La Pedrera: Nachterlebnis mit Show und Cava](/de/cities/barcelona/activities/barcelona-casa-mila-nachterlebnis-cava), 4,4★ (4.913) | 39,50 € |
 | Drei Gaudí-Häuser mit Guide | [Casa Vicens, Casa Milà und Casa Batlló: Führung](/en/cities/barcelona/activities/casa-batllo-casa-mila-casa-vicens-3-gaudi-houses-tour), 4,6★ (331) | 119 € |
 
 ## 1. Die offizielle Website: andere Uhrzeiten und Varianten
@@ -82,7 +80,9 @@ Wenn der Tag voll ist, ist der Abend der einfachste Weg. Beim **Nachtbesuch** gi
 
 Zwischen März und November gibt es außerdem die **Noches Mágicas**: Besuch um 20:00 Uhr und Konzert auf der Dachterrasse um 21:00 Uhr, mit Getränk und Tisch, **ab 59 €**. Das Programm für jeden Monat wird zwei bis drei Wochen vorher veröffentlicht, und die Ermäßigungen des regulären Besuchs gelten hier nicht.
 
-[actividad: casa-batllo-visita-nocturna-copa-cava-bienvenida]
+Außerhalb dieser Zeiten wird er nicht verkauft. Wenn du ein Gaudí-Haus bei Nacht erleben willst, ist **La Pedrera** die Alternative – 10 Minuten zu Fuß entfernt, mit audiovisueller Show auf der Dachterrasse und einem Glas Cava.
+
+[actividad: casa-mila-experiencia-nocturna-con-cava]
 
 ## 3. Die Kasse
 
@@ -93,7 +93,6 @@ Die Casa Batlló hat eine Kasse im Gebäude selbst, aber dort wird **nur der reg
 Wenn die offizielle Website nichts mehr hat, haben autorisierte Wiederverkäufer meist noch Plätze, weil sie Kontingente im Voraus kaufen. Normalerweise zahlst du etwas mehr als auf der offiziellen Website:
 
 - **Ticket mit Uhrzeit und Audioguide (ab 29 €):** der einfachste Weg hinein, wenn du nur das Haus sehen willst.
-- **Nachtbesuch mit Livemusik (ab 59 €):** das Erlebnis der Noches Mágicas, mit Konzert auf der Dachterrasse.
 - **Tour durch drei Gaudí-Häuser (ab 119 €):** Casa Vicens, Casa Milà und Casa Batlló mit Guide; praktisch, wenn du auch für La Pedrera kein Ticket hast.
 
 Prüf vor dem Bezahlen in der Beschreibung, ob **„Eintritt in die Casa Batlló inklusive“** steht und welche Einlasszeit gilt. Manche Modernisme-Rundgänge zeigen nur die Fassaden.
@@ -109,8 +108,6 @@ Wenn du nichts bekommst, hat der Passeig de Gràcia trotzdem viel zu bieten:
 - Die **Fassade der Casa Batlló** in Hausnummer 43, mit ihren knochenförmigen Balkonen und dem schuppenbedeckten Dach. Am besten siehst du sie vom gegenüberliegenden Gehweg aus.
 - Die **Manzana de la Discordia**: Direkt neben der Batlló steht die **Casa Amatller** (Nummer 41, von Puig i Cadafalch), die eigene Führungen anbietet, und im selben Block die **Casa Lleó Morera** von Domènech i Montaner.
 - **La Pedrera (Casa Milà)**, denselben Boulevard hinauf, etwa 10 Minuten zu Fuß.
-
-[actividad: casa-batllo-visita-nocturna-musica-en-vivo]
 
 ## Fehler, die du vermeiden solltest
 
