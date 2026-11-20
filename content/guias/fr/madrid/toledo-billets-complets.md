@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: "Pour Tolède, ce qui est complet en premier n'est pas le monument mais le **billet de train AVE** le week-end. Si vous n'en trouvez pas, une **excursion depuis Madrid avec transport et billets inclus** règle tout le voyage ; en autonomie, le **bracelet touristique de 7 monuments** et l'entrée de la **cathédrale** s'achètent à part."
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Tolède est à un peu plus d'une demi-heure de Madrid en AVE, et c'est précisé
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
 | Ne vous occuper de rien | [Tolède journée complète avec guide et cathédrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Rapide, en petit groupe | [Tolède en AVE, max. 8 personnes](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid), 4,8★ (81) | 90 € |
 | La cathédrale seule, avec guide | [Visite guidée de la cathédrale de Tolède](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
 | En autonomie et pas cher | [Bracelet touristique de 7 monuments](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments), 4,4★ (728) | 14 € |
 | Quelque chose de différent | [Tolède et les moulins de Don Quichotte, petit groupe](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid), 4,9★ | 125 € |
@@ -87,8 +85,6 @@ Les trains AVE et Avant de Madrid à Tolède partent d'Atocha et mettent environ
 C'est l'option la plus sûre quand il n'y a pas d'AVE : le bus ou le train, le guide et les billets clés viennent dans un seul forfait et vous n'organisez rien. L'excursion d'une journée inclut l'entrée coupe-file à la cathédrale, Santo Tomé et la synagogue Santa María la Blanca, avec un car aller-retour depuis le centre de Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-Si vous préférez y aller et revenir en train sans vous battre pour les billets, la **version AVE en petit groupe (max. 8)** est plus rapide et plus personnelle, avec le billet de train déjà géré.
 
 ## 4. En autonomie avec le bracelet touristique
 

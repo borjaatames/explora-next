@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: 'Lo que primero se agota para Toledo no son los monumentos, sino el **billete de AVE** los fines de semana. Si no lo encuentras, una **excursión desde Madrid con transporte y entradas incluidas** te resuelve el viaje entero; para ir por libre, la **pulsera turística de 7 monumentos** y la entrada a la **catedral** se compran aparte.'
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Toledo está a poco más de media hora de Madrid en AVE, y ese es justo el probl
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
 | Que no te preocupe nada | [Toledo día completo con guía y catedral](/ciudades/madrid/actividades/excursion-toledo-dia-completo), 4,6★ (869) | 79 € |
-| Rápido y en grupo reducido | [Toledo en AVE, grupo máx. 8](/ciudades/madrid/actividades/excursion-toledo-ave-tren), 4,8★ (81) | 90 € |
 | Solo la catedral, con guía | [Visita guiada a la catedral de Toledo](/ciudades/madrid/actividades/toledo-catedral-visita-guiada), 4,5★ (444) | 25 € |
 | Ir por libre y barato | [Pulsera turística de 7 monumentos](/ciudades/madrid/actividades/toledo-pulsera-turistica-7-monumentos), 4,4★ (728) | 14 € |
 | Una experiencia diferente | [Toledo y Molinos del Quijote, grupo pequeño](/ciudades/madrid/actividades/excursion-toledo-molinos-quijote), 4,9★ | 125 € |
@@ -85,8 +83,6 @@ En Toledo no hay una única entrada: cada monumento se gestiona por su cuenta.
 Es la opción más segura cuando no hay AVE: el bus o el tren, el guía y las entradas clave van en el mismo paquete y te olvidas de organizar nada. La de día completo incluye las entradas sin colas a la Catedral, Santo Tomé y la Sinagoga de Santa María la Blanca, con bus de ida y vuelta desde el centro de Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-Si prefieres ir y volver en tren pero sin pelearte con los billetes, la versión en **AVE en grupo reducido (máx. 8)** es más rápida y más personal, con el billete de tren ya gestionado.
 
 ## 4. Ir por libre con la pulsera turística
 

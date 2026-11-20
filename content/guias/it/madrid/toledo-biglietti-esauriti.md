@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: 'Per Toledo, ciò che si esaurisce prima non è il monumento ma il **biglietto del treno AVE** nei weekend. Se non lo trovi, un''**escursione da Madrid con trasporto e biglietti inclusi** risolve l''intero viaggio; in autonomia, il **braccialetto turistico di 7 monumenti** e l''ingresso alla **cattedrale** si comprano a parte.'
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Toledo è a poco più di mezz'ora da Madrid in AVE, ed è proprio questo il prob
 | Se cerchi… | Opzione | Da |
 | --- | --- | --- |
 | Non pensare a nulla | [Toledo giornata intera con guida e cattedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Veloce, in piccolo gruppo | [Toledo in AVE, max. 8 persone](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid), 4,8★ (81) | 90 € |
 | Solo la cattedrale, con guida | [Visita guidata alla cattedrale di Toledo](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
 | In autonomia e a poco | [Braccialetto turistico di 7 monumenti](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments), 4,4★ (728) | 14 € |
 | Qualcosa di diverso | [Toledo e i mulini di Don Chisciotte, piccolo gruppo](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid), 4,9★ | 125 € |
@@ -87,8 +85,6 @@ A Toledo non c'è un biglietto unico: ogni monumento è gestito per conto suo.
 È l'opzione più sicura quando non c'è l'AVE: bus o treno, guida e i biglietti chiave arrivano in un unico pacchetto e non organizzi nulla. L'escursione di una giornata include l'ingresso senza code alla cattedrale, a Santo Tomé e alla sinagoga di Santa María la Blanca, con pullman andata e ritorno dal centro di Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-Se preferisci andare e tornare in treno ma senza lottare per i biglietti, la **versione AVE in piccolo gruppo (max. 8)** è più rapida e personale, con il biglietto del treno già gestito.
 
 ## 4. In autonomia con il braccialetto turistico
 

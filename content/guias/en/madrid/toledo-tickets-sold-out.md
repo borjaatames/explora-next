@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: 'For Toledo, what sells out first is not the monuments but the **AVE train ticket** on weekends. If you cannot find one, a **day trip from Madrid with transport and tickets included** solves the whole trip; to go on your own, the **7-monument tourist bracelet** and the **cathedral** entry are bought separately.'
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Toledo is just over half an hour from Madrid by AVE train, and that is exactly t
 | If you want… | Option | From |
 | --- | --- | --- |
 | Nothing to worry about | [Toledo full day with guide and cathedral](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4.6★ (869) | €79 |
-| Fast, in a small group | [Toledo by AVE, max. 8 people](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid), 4.8★ (81) | €90 |
 | The cathedral only, with a guide | [Guided tour of Toledo Cathedral](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4.5★ (444) | €25 |
 | To go on your own, cheaply | [7-monument tourist bracelet](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments), 4.4★ (728) | €14 |
 | Something different | [Toledo and Don Quixote's windmills, small group](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid), 4.9★ | €125 |
@@ -85,8 +83,6 @@ In Toledo there isn't a single ticket: each monument is run separately.
 This is the safest option when there's no AVE: the bus or train, the guide and the key tickets come in one package and you don't organise a thing. The full-day trip includes skip-the-line entry to the Cathedral, Santo Tomé and the Synagogue of Santa María la Blanca, with a round-trip coach from central Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-If you'd rather travel there and back by train but without fighting for tickets, the **AVE small-group version (max. 8)** is faster and more personal, with the train ticket already handled.
 
 ## 4. Going on your own with the tourist bracelet
 

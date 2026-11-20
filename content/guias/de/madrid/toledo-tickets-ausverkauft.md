@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: 'Bei Toledo ist zuerst nicht das Monument ausverkauft, sondern das **AVE-Zugticket** am Wochenende. Findest du keins, löst ein **Tagesausflug ab Madrid mit Transport und Tickets** die ganze Reise; auf eigene Faust kaufst du das **7-Monumente-Armband** und den Eintritt zur **Kathedrale** separat.'
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Toledo liegt gut eine halbe Stunde mit dem AVE von Madrid entfernt, und genau da
 | Wenn du suchst… | Option | Ab |
 | --- | --- | --- |
 | Dich um nichts kümmern | [Toledo Ganztag mit Guide und Kathedrale](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Schnell, in kleiner Gruppe | [Toledo mit dem AVE, max. 8 Personen](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid), 4,8★ (81) | 90 € |
 | Nur die Kathedrale, mit Guide | [Führung durch die Kathedrale von Toledo](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
 | Auf eigene Faust und günstig | [Touristenarmband für 7 Monumente](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments), 4,4★ (728) | 14 € |
 | Etwas anderes | [Toledo und die Windmühlen des Don Quijote, kleine Gruppe](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid), 4,9★ | 125 € |
@@ -87,8 +85,6 @@ In Toledo gibt es kein Einheitsticket: jedes Monument wird separat verwaltet.
 Das ist die sicherste Option, wenn es keinen AVE gibt: Bus oder Zug, Guide und die wichtigsten Tickets kommen in einem Paket und du organisierst nichts. Der Ganztagesausflug enthält den Eintritt ohne Anstehen in die Kathedrale, Santo Tomé und die Synagoge Santa María la Blanca, mit Hin- und Rückfahrt im Bus ab dem Zentrum von Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-Möchtest du lieber mit dem Zug hin und zurück, aber ohne um Tickets zu kämpfen, ist die **AVE-Version in kleiner Gruppe (max. 8)** schneller und persönlicher, mit bereits organisiertem Zugticket.
 
 ## 4. Auf eigene Faust mit dem Touristenarmband
 

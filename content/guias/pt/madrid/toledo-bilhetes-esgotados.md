@@ -30,7 +30,6 @@ reservasArriba: true
 respuestaCorta: 'Para Toledo, o que esgota primeiro não é o monumento mas o **bilhete de comboio AVE** aos fins de semana. Se não encontrar, uma **excursão desde Madrid com transporte e bilhetes incluídos** resolve toda a viagem; por conta própria, a **pulseira turística de 7 monumentos** e a entrada da **catedral** compram-se à parte.'
 actividades:
   - excursion-toledo-dia-completo
-  - excursion-toledo-ave-tren
   - toledo-catedral-visita-guiada
   - toledo-pulsera-turistica-7-monumentos
   - excursion-toledo-molinos-quijote
@@ -59,7 +58,6 @@ Toledo fica a pouco mais de meia hora de Madrid em AVE, e é precisamente esse o
 | Se procura… | Opção | Desde |
 | --- | --- | --- |
 | Não se preocupar com nada | [Toledo dia inteiro com guia e catedral](/en/cities/madrid/activities/toledo-full-day-from-madrid), 4,6★ (869) | 79 € |
-| Rápido, em grupo pequeno | [Toledo em AVE, máx. 8 pessoas](/en/cities/madrid/activities/toledo-by-high-speed-train-from-madrid), 4,8★ (81) | 90 € |
 | Só a catedral, com guia | [Visita guiada à catedral de Toledo](/en/cities/madrid/activities/toledo-cathedral-guided-tour), 4,5★ (444) | 25 € |
 | Por conta própria e barato | [Pulseira turística de 7 monumentos](/en/cities/madrid/activities/toledo-tourist-bracelet-7-monuments), 4,4★ (728) | 14 € |
 | Algo diferente | [Toledo e os moinhos de Dom Quixote, grupo pequeno](/en/cities/madrid/activities/toledo-and-don-quixote-windmills-from-madrid), 4,9★ | 125 € |
@@ -87,8 +85,6 @@ Em Toledo não há um bilhete único: cada monumento é gerido por si.
 É a opção mais segura quando não há AVE: o autocarro ou o comboio, o guia e os bilhetes principais vêm num só pacote e não organiza nada. A excursão de um dia inclui a entrada sem filas na catedral, Santo Tomé e a sinagoga de Santa María la Blanca, com autocarro de ida e volta a partir do centro de Madrid.
 
 [actividad: excursion-toledo-dia-completo]
-
-Se prefere ir e voltar de comboio mas sem lutar pelos bilhetes, a **versão AVE em grupo pequeno (máx. 8)** é mais rápida e pessoal, com o bilhete de comboio já tratado.
 
 ## 4. Por conta própria com a pulseira turística
 
