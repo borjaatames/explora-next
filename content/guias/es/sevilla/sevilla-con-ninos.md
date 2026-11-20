@@ -61,7 +61,6 @@ faq:
 
 | Plan | Actividad | Desde |
 | --- | --- | --- |
-| Parque temático (4-11 años) | [Isla Mágica con opción de Agua Mágica](/ciudades/sevilla/actividades/isla-magica-sevilla-entrada), 4,4★ (1.386) | 27 € |
 | Plan a cubierto con calor | [Acuario de Sevilla](/ciudades/sevilla/actividades/acuario-sevilla-entrada), 4,6★ (2.295) | 17 € |
 | Ver Sevilla sin andar | [Tour privado en tuk tuk eléctrico](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla), 1 h, hasta 4 personas | 71 € por grupo |
 | Ver toda Sevilla, con Cartuja y Macarena | [Gran tour privado en tuk tuk de 2 horas](/ciudades/sevilla/actividades/tuk-tuk-privado-sevilla-2-horas), hasta 4 personas | 124 € por grupo |
@@ -71,6 +70,8 @@ faq:
 | Mirador al atardecer | [Setas de Sevilla con mirador 360°](/ciudades/sevilla/actividades/setas-sevilla-metropol-parasol-entrada-mirador), 4,6★ (12.014) | 16 € |
 | Alcázar sin colas | [Real Alcázar con guía y acceso sin colas](/ciudades/sevilla/actividades/real-alcazar-sevilla-tour-guiado-skip-line), 4,4★ (510) | 36 € |
 | Fotos imposibles a cubierto | [Museo de las Ilusiones](/ciudades/sevilla/actividades/museo-ilusiones-sevilla-entrada), 4,2★ (1.352) | 15 € |
+
+Isla Mágica cierra en invierno y vuelve a abrir en primavera.
 
 ## Qué funciona según la edad
 

@@ -61,7 +61,6 @@ tiempo_lectura: 3
 
 | Plan | Activity | From |
 | --- | --- | --- |
-| Theme park (ages 4-11) | [Isla Mágica with optional Agua Mágica](/en/cities/sevilla/activities/isla-magica-seville-ticket), 4.4★ (1,386) | €27 |
 | Indoor plan in the heat | [Seville Aquarium](/en/cities/sevilla/activities/seville-aquarium-ticket), 4.6★ (2,295) | €17 |
 | See Seville without walking | [Private electric tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, up to 4 people | €71 per group |
 | See all of Seville, incl. Cartuja and the Macarena | [2-hour private grand tuk tuk tour](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), up to 4 people | €124 per group |
@@ -71,6 +70,8 @@ tiempo_lectura: 3
 | Sunset viewpoint | [Setas de Sevilla with 360° viewpoint](/en/cities/sevilla/activities/seville-setas-metropol-parasol-entry-ticket-viewpoint), 4.6★ (12,014) | €16 |
 | Alcázar without queues | [Royal Alcázar guided tour, skip the line](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4.4★ (510) | €36 |
 | Impossible photos indoors | [Museum of Illusions](/en/cities/sevilla/activities/museum-of-illusions-seville-ticket), 4.2★ (1,352) | €15 |
+
+Isla Mágica closes for the winter and reopens in spring.
 
 ## What works by age
 

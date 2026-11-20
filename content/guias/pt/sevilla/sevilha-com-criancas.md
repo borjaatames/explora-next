@@ -61,7 +61,6 @@ faq:
 
 | Programa | Atividade | Desde |
 | --- | --- | --- |
-| Parque temático (4-11 anos) | [Isla Mágica com opção de Agua Mágica](/pt/cities/sevilla/activities/isla-magica-sevilha-bilhete-agua-magica), 4,4★ (1.386) | 27 € |
 | Programa coberto com calor | [Aquário de Sevilha](/pt/cities/sevilla/activities/aquario-sevilha-bilhete-entrada), 4,6★ (2.295) | 17 € |
 | Ver Sevilha sem caminhar | [Tour privado em tuk-tuk elétrico](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, até 4 pessoas | 71 € por grupo |
 | Ver toda a Sevilha, com Cartuja e Macarena | [Grande tour privado em tuk-tuk de 2 horas](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), até 4 pessoas | 124 € por grupo |
@@ -71,6 +70,8 @@ faq:
 | Miradouro ao pôr do sol | [Setas de Sevilha com miradouro 360°](/pt/cities/sevilla/activities/setas-sevilha-metropol-parasol-bilhete-miradouro), 4,6★ (12.014) | 16 € |
 | Alcázar sem filas | [Real Alcázar com guia e acesso sem filas](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour), 4,4★ (510) | 36 € |
 | Fotografias impossíveis em espaço coberto | [Museu das Ilusões](/pt/cities/sevilla/activities/museu-das-ilusoes-sevilha-bilhete), 4,2★ (1.352) | 15 € |
+
+A Isla Mágica fecha no inverno e reabre na primavera.
 
 ## O que funciona consoante a idade
 

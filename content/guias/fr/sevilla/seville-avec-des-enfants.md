@@ -61,7 +61,6 @@ faq:
 
 | Formule | Activité | À partir de |
 | --- | --- | --- |
-| Parc à thème (4-11 ans) | [Isla Mágica avec option Agua Mágica](/fr/cities/sevilla/activities/isla-magica-seville-billet-parc-aquatique-option), 4,4★ (1 386) | 27 € |
 | Activité couverte quand il fait chaud | [Aquarium de Séville](/fr/cities/sevilla/activities/seville-billet-aquarium), 4,6★ (2 295) | 17 € |
 | Voir Séville sans marcher | [Tour privé en tuk-tuk électrique](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, jusqu'à 4 personnes | 71 € par groupe |
 | Voir tout Séville, avec la Cartuja et la Macarena | [Grand tour privé en tuk-tuk de 2 heures](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), jusqu'à 4 personnes | 124 € par groupe |
@@ -71,6 +70,8 @@ faq:
 | Belvédère au coucher du soleil | [Setas de Séville avec belvédère à 360°](/fr/cities/sevilla/activities/seville-billet-setas-metropol-parasol-belvedere), 4,6★ (12 014) | 16 € |
 | L'Alcázar sans file d'attente | [Séville : visite guidée coupe-file de l'Alcázar, de la cathédrale et de la Giralda](/fr/cities/sevilla/activities/seville-alcazar-cathedrale-giralda-visite-guidee-coupe-file), 4,8★ (13 238) | 53 € |
 | Photos impossibles, à l'abri | [Musée des Illusions](/fr/cities/sevilla/activities/seville-billet-musee-des-illusions), 4,2★ (1 352) | 15 € |
+
+Isla Mágica ferme en hiver et rouvre au printemps.
 
 ## Ce qui marche selon l'âge
 

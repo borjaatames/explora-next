@@ -61,7 +61,6 @@ faq:
 
 | Idea | Attività | Da |
 | --- | --- | --- |
-| Parco a tema (4-11 anni) | [Isla Mágica con opzione Agua Mágica](/it/cities/sevilla/activities/biglietto-isla-magica-siviglia-agua-magica), 4,4★ (1.386) | 27 € |
 | Al coperto quando fa caldo | [Acquario di Siviglia](/it/cities/sevilla/activities/biglietto-acquario-di-siviglia), 4,6★ (2.295) | 17 € |
 | Vedere Siviglia senza camminare | [Tour privato in tuk tuk elettrico](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville), 1 h, fino a 4 persone | 71 € a gruppo |
 | Vedere tutta Siviglia, con Cartuja e Macarena | [Grande tour privato in tuk tuk di 2 ore](/en/cities/sevilla/activities/private-tuk-tuk-tour-seville-2-hours), fino a 4 persone | 124 € a gruppo |
@@ -72,6 +71,8 @@ faq:
 | Alcázar senza code | [Siviglia: tour guidato salta fila di Real Alcázar, Cattedrale e Giralda](/it/cities/sevilla/activities/siviglia-alcazar-cattedrale-giralda-tour-salta-fila), 4,8★ (13.238) | 53 € |
 | Alcázar senza code | [Real Alcázar con guida e accesso senza code](/en/cities/sevilla/activities/royal-alcazar-seville-skip-line-guided-tour) (solo in spagnolo e inglese), 4,4★ (510) | 36 € |
 | Foto impossibili al coperto | [Museo delle Illusioni](/it/cities/sevilla/activities/biglietto-museo-delle-illusioni-siviglia), 4,2★ (1.352) | 15 € |
+
+Isla Mágica chiude in inverno e riapre in primavera.
 
 ## Cosa funziona in base all'età
 
