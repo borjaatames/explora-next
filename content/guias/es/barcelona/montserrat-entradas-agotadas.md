@@ -29,10 +29,9 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'La basílica de Montserrat es gratis; lo que se satura es **subir**: la cremallera, el teleférico, el parking y los combinados Trans/Tot Montserrat los fines de semana. Si no hay plazas, una **excursión desde Barcelona con transporte y traslados incluidos** te sube sin depender de ellos.'
 actividades:
-  - montserrat-cremallera-virgen-negra
-  - montserrat-basilica-y-traslados
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cremallera-bodega-castlexperience
-  - montserrat-teleferico-y-caminata-grupo-pequeno
   - montserrat-tour-privado-recogida-hotel
 faq:
 - pregunta: ¿Hay que pagar entrada para entrar en el monasterio de Montserrat?
@@ -44,12 +43,12 @@ faq:
 - pregunta: ¿Merece la pena una excursión si puedo ir por mi cuenta?
   respuesta: Si no hay plazas de cremallera o el parking está lleno, sí, porque el transporte y la subida van incluidos. Si consigues los billetes y vas con tiempo, ir por libre en tren y cremallera sale más barato.
 opciones:
-  - ficha: montserrat-cremallera-virgen-negra
+  - ficha: montserrat-cremallera-bodega-castlexperience
     etiqueta: En cremallera
-  - ficha: montserrat-teleferico-y-caminata-grupo-pequeno
-    etiqueta: En teleférico
-  - ficha: montserrat-basilica-y-traslados
-    etiqueta: La más barata
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Medio día, grupo pequeño
+  - ficha: montserrat-privado-o-semiprivado-entradas-basilica
+    etiqueta: Con entrada a la basílica
 ---
 
 El monasterio de Montserrat está a una hora de Barcelona, encaramado en la montaña, y la basílica es de entrada libre. El problema no suele ser la entrada, sino **subir**: la cremallera y el teleférico tienen cupo, el parking de arriba se llena y los billetes combinados Trans Montserrat y Tot Montserrat se agotan los fines de semana. Que no queden plazas no significa que te quedes sin Montserrat; estas son las vías, en orden.
@@ -58,10 +57,9 @@ El monasterio de Montserrat está a una hora de Barcelona, encaramado en la mont
 
 | Si buscas… | Opción | Desde |
 | --- | --- | --- |
-| La forma clásica de subir | [Montserrat con cremallera y Virgen Negra](/ciudades/barcelona/actividades/montserrat-cremallera-virgen-negra), 4,6★ (9.606) | 50 € |
-| Lo más barato con traslados | [Montserrat con traslados y basílica](/ciudades/barcelona/actividades/montserrat-basilica-y-traslados), 4,7★ (3.416) | 41 € |
 | Cremallera y una bodega | [Montserrat con cremallera y bodega del s. X](/ciudades/barcelona/actividades/montserrat-cremallera-bodega-castlexperience), 4,8★ (6.154) | 47 € |
-| Teleférico y caminata, grupo pequeño | [Montserrat con teleférico y caminata fácil](/ciudades/barcelona/actividades/montserrat-teleferico-y-caminata-grupo-pequeno), 4,9★ (1.146) | 74 € |
+| Medio día, en grupo pequeño | [Montserrat en medio día, grupo pequeño](/ciudades/barcelona/actividades/montserrat-medio-dia-grupo-pequeno), 4,9★ (6.372) | 59 € |
+| En coche, con entrada a la basílica | [Montserrat en coche con guía, privado o semiprivado](/ciudades/barcelona/actividades/montserrat-privado-o-semiprivado-entradas-basilica), 4,8★ (311) | 121 € |
 | A tu aire, privado | [Tour privado a Montserrat con recogida](/ciudades/barcelona/actividades/montserrat-tour-privado-recogida-hotel), 5,0★ (658) | 838 € |
 
 ## 1. Cómo se sube y qué se agota
@@ -82,11 +80,11 @@ Se compran en FGC (Plaça Espanya) y en la web de FGC. En puentes y fines de sem
 
 ## 3. Una excursión con transporte y traslados incluidos
 
-Es la opción más segura cuando no hay plazas de cremallera ni sitio en el parking: el transporte desde Barcelona y la subida van incluidos y no dependes de los combinados. La de cremallera y Virgen Negra es la más elegida, con casi 10.000 reseñas.
+Es la opción más segura cuando no hay plazas de cremallera ni sitio en el parking: el transporte desde Barcelona y la subida van incluidos y no dependes de los combinados. La de cremallera con visita a una bodega es de las más elegidas, con más de 6.000 reseñas.
 
-[actividad: montserrat-cremallera-virgen-negra]
+[actividad: montserrat-cremallera-bodega-castlexperience]
 
-Si prefieres subir en teleférico y dar un paseo fácil por arriba, la versión en **grupo pequeño con caminata** es de las mejor valoradas (4,9).
+Si prefieres ir en grupo pequeño y estar de vuelta a mediodía, la versión de **medio día** es de las mejor valoradas (4,9).
 
 ## 4. Qué ver una vez arriba
 

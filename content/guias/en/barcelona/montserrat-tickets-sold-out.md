@@ -29,10 +29,9 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'The basilica at Montserrat is free; what fills up is **getting up there**: the rack railway, the cable car, the car park and the Trans/Tot Montserrat passes on weekends. If there are no spaces, a **trip from Barcelona with transport and transfers included** takes you up without depending on them.'
 actividades:
-  - montserrat-cremallera-virgen-negra
-  - montserrat-basilica-y-traslados
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cremallera-bodega-castlexperience
-  - montserrat-teleferico-y-caminata-grupo-pequeno
   - montserrat-tour-privado-recogida-hotel
 faq:
 - pregunta: Do you have to pay to enter the monastery of Montserrat?
@@ -44,12 +43,12 @@ faq:
 - pregunta: Is a trip worth it if I can go on my own?
   respuesta: If there are no rack railway spaces or the car park is full, yes, because transport and the ascent are included. If you get the tickets and go early, going independently by train and rack railway is cheaper.
 opciones:
-  - ficha: montserrat-cremallera-virgen-negra
+  - ficha: montserrat-cremallera-bodega-castlexperience
     etiqueta: By rack railway
-  - ficha: montserrat-teleferico-y-caminata-grupo-pequeno
-    etiqueta: By cable car
-  - ficha: montserrat-basilica-y-traslados
-    etiqueta: Cheapest
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Half day, small group
+  - ficha: montserrat-privado-o-semiprivado-entradas-basilica
+    etiqueta: With basilica tickets
 ---
 
 The monastery of Montserrat is an hour from Barcelona, perched on the mountain, and the basilica is free to enter. The problem usually isn't the entry but **getting up there**: the rack railway and cable car have limited capacity, the car park at the top fills, and the Trans Montserrat and Tot Montserrat combined tickets sell out on weekends. No spaces left doesn't mean no Montserrat; here are the routes, in order.
@@ -58,10 +57,9 @@ The monastery of Montserrat is an hour from Barcelona, perched on the mountain, 
 
 | If you want… | Option | From |
 | --- | --- | --- |
-| The classic way up | [Montserrat with rack railway and Black Madonna](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna), 4.6★ (9,606) | €50 |
-| The cheapest, with transfers | [Montserrat with transfers and basilica](/en/cities/barcelona/activities/montserrat-basilica-and-transfers), 4.7★ (3,416) | €41 |
 | Rack railway and a winery | [Montserrat with rack railway and a 10th-century winery](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience), 4.8★ (6,154) | €47 |
-| Cable car and a hike, small group | [Montserrat with cable car and easy hike](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group), 4.9★ (1,146) | €74 |
+| Half a day, in a small group | [Montserrat half day, small group](/en/cities/barcelona/activities/montserrat-half-day-small-group), 4.9★ (6,372) | €59 |
+| By car, with basilica tickets | [Montserrat by car with a guide, private or semi-private](/en/cities/barcelona/activities/montserrat-private-or-semi-private-basilica-tickets), 4.8★ (311) | €121 |
 | Your own pace, private | [Private tour to Montserrat with pickup](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup), 5.0★ (658) | €838 |
 
 ## 1. How you get up and what sells out
@@ -82,11 +80,11 @@ They are sold at FGC (Plaça Espanya) and on the FGC website. On long weekends t
 
 ## 3. A trip with transport and transfers included
 
-This is the safest option when there are no rack railway spaces or room in the car park: transport from Barcelona and the ascent are included and you don't depend on the passes. The rack railway and Black Madonna trip is the most chosen, with almost 10,000 reviews.
+This is the safest option when there are no rack railway spaces or room in the car park: transport from Barcelona and the ascent are included and you don't depend on the passes. The rack railway trip with a winery visit is one of the most chosen, with over 6,000 reviews.
 
-[actividad: montserrat-cremallera-virgen-negra]
+[actividad: montserrat-cremallera-bodega-castlexperience]
 
-If you'd rather go up by cable car and take an easy walk at the top, the **small-group version with a hike** is one of the best rated (4.9).
+If you'd rather go in a small group and be back by midday, the **half-day version** is one of the best rated (4.9).
 
 ## 4. What to see once you're up
 

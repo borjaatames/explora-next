@@ -29,10 +29,9 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'Die Basilika von Montserrat ist gratis; was sich füllt, ist der **Aufstieg**: Zahnradbahn, Seilbahn, Parkplatz und die Kombitickets Trans/Tot Montserrat am Wochenende. Gibt es keine Plätze, bringt dich ein **Ausflug ab Barcelona mit Transport und Transfers** hinauf, ohne davon abhängig zu sein.'
 actividades:
-  - montserrat-cremallera-virgen-negra
-  - montserrat-basilica-y-traslados
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cremallera-bodega-castlexperience
-  - montserrat-teleferico-y-caminata-grupo-pequeno
   - montserrat-tour-privado-recogida-hotel
 faq:
 - pregunta: Muss man Eintritt zahlen, um ins Kloster von Montserrat zu kommen?
@@ -44,12 +43,12 @@ faq:
 - pregunta: Lohnt sich ein Ausflug, wenn ich allein hinfahren kann?
   respuesta: Gibt es keine Plätze in der Zahnradbahn oder ist der Parkplatz voll, ja, denn Transport und Aufstieg sind inklusive. Bekommst du die Tickets und fährst früh, ist es auf eigene Faust mit Zug und Zahnradbahn günstiger.
 opciones:
-  - ficha: montserrat-cremallera-virgen-negra
+  - ficha: montserrat-cremallera-bodega-castlexperience
     etiqueta: Mit Zahnradbahn
-  - ficha: montserrat-teleferico-y-caminata-grupo-pequeno
-    etiqueta: Mit Seilbahn
-  - ficha: montserrat-basilica-y-traslados
-    etiqueta: Am günstigsten
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Halber Tag, kleine Gruppe
+  - ficha: montserrat-privado-o-semiprivado-entradas-basilica
+    etiqueta: Mit Basilika-Tickets
 ---
 
 Das Kloster von Montserrat liegt eine Stunde von Barcelona entfernt, hoch am Berg, und die Basilika ist frei zugänglich. Das Problem ist meist nicht der Eintritt, sondern der **Aufstieg**: Zahnradbahn und Seilbahn haben begrenzte Kapazität, der Parkplatz oben füllt sich, und die Kombitickets Trans Montserrat und Tot Montserrat sind am Wochenende ausverkauft. Keine Plätze mehr heißt nicht kein Montserrat; hier die Wege, der Reihe nach.
@@ -58,10 +57,9 @@ Das Kloster von Montserrat liegt eine Stunde von Barcelona entfernt, hoch am Ber
 
 | Wenn du suchst… | Option | Ab |
 | --- | --- | --- |
-| Der klassische Aufstieg | [Montserrat mit Zahnradbahn und Schwarzer Madonna](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna), 4,6★ (9.606) | 50 € |
-| Am günstigsten, mit Transfers | [Montserrat mit Transfers und Basilika](/en/cities/barcelona/activities/montserrat-basilica-and-transfers), 4,7★ (3.416) | 41 € |
 | Zahnradbahn und ein Weingut | [Montserrat mit Zahnradbahn und Weingut aus dem 10. Jh.](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience), 4,8★ (6.154) | 47 € |
-| Seilbahn und Wanderung, kleine Gruppe | [Montserrat mit Seilbahn und leichter Wanderung](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group), 4,9★ (1.146) | 74 € |
+| Halber Tag, kleine Gruppe | [Montserrat halbtags in kleiner Gruppe](/en/cities/barcelona/activities/montserrat-half-day-small-group) (auf Englisch oder Spanisch), 4,9★ (6.372) | 59 € |
+| Im Auto, mit Basilika-Tickets | [Montserrat im Auto mit Guide, privat oder halbprivat](/en/cities/barcelona/activities/montserrat-private-or-semi-private-basilica-tickets), 4,8★ (311) | 121 € |
 | Eigenes Tempo, privat | [Private Tour nach Montserrat mit Abholung](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup), 5,0★ (658) | 838 € |
 
 _Alle diese Touren werden auf Spanisch und Englisch gebucht._
@@ -84,11 +82,11 @@ Sie werden bei FGC (Plaça Espanya) und auf der FGC-Website verkauft. An langen 
 
 ## 3. Ein Ausflug mit Transport und Transfers inklusive
 
-Das ist die sicherste Option, wenn es keine Zahnradbahn-Plätze oder keinen Platz im Parkplatz gibt: Transport ab Barcelona und der Aufstieg sind inklusive und du bist nicht auf die Kombitickets angewiesen. Die Tour mit Zahnradbahn und Schwarzer Madonna ist die meistgewählte, mit fast 10.000 Bewertungen.
+Das ist die sicherste Option, wenn es keine Zahnradbahn-Plätze oder keinen Platz im Parkplatz gibt: Transport ab Barcelona und der Aufstieg sind inklusive und du bist nicht auf die Kombitickets angewiesen. Die Tour mit Zahnradbahn und Weingutbesuch gehört zu den meistgewählten, mit über 6.000 Bewertungen.
 
-[actividad: montserrat-cremallera-virgen-negra]
+[actividad: montserrat-cremallera-bodega-castlexperience]
 
-Fährst du lieber mit der Seilbahn hinauf und machst oben einen leichten Spaziergang, ist die **Version in kleiner Gruppe mit Wanderung** eine der bestbewerteten (4,9).
+Wenn du lieber in kleiner Gruppe fährst und mittags zurück sein willst, ist die **Halbtagestour** eine der bestbewerteten (4,9).
 
 ## 4. Was es oben zu sehen gibt
 

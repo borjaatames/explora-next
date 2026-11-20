@@ -29,10 +29,9 @@ slugs:
 reservasArriba: true
 respuestaCorta: "La basilique de Montserrat est gratuite ; ce qui se remplit, c'est le **fait de monter** : la crémaillère, le téléphérique, le parking et les forfaits Trans/Tot Montserrat le week-end. S'il n'y a pas de places, une **excursion depuis Barcelone avec transport et transferts inclus** vous monte sans en dépendre."
 actividades:
-  - montserrat-cremallera-virgen-negra
-  - montserrat-basilica-y-traslados
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cremallera-bodega-castlexperience
-  - montserrat-teleferico-y-caminata-grupo-pequeno
   - montserrat-tour-privado-recogida-hotel
 faq:
 - pregunta: Faut-il payer pour entrer dans le monastère de Montserrat ?
@@ -44,12 +43,12 @@ faq:
 - pregunta: Une excursion vaut-elle la peine si je peux y aller seul ?
   respuesta: S'il n'y a pas de places de crémaillère ou si le parking est plein, oui, car le transport et la montée sont inclus. Si vous obtenez les billets et partez tôt, y aller en autonomie en train et crémaillère revient moins cher.
 opciones:
-  - ficha: montserrat-cremallera-virgen-negra
+  - ficha: montserrat-cremallera-bodega-castlexperience
     etiqueta: En crémaillère
-  - ficha: montserrat-teleferico-y-caminata-grupo-pequeno
-    etiqueta: En téléphérique
-  - ficha: montserrat-basilica-y-traslados
-    etiqueta: Le moins cher
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Demi-journée, petit groupe
+  - ficha: montserrat-privado-o-semiprivado-entradas-basilica
+    etiqueta: Avec billets pour la basilique
 ---
 
 Le monastère de Montserrat est à une heure de Barcelone, perché sur la montagne, et la basilique est en accès libre. Le problème n'est généralement pas l'entrée mais le **fait de monter** : la crémaillère et le téléphérique ont une capacité limitée, le parking d'en haut se remplit, et les forfaits combinés Trans Montserrat et Tot Montserrat sont complets le week-end. Plus de places ne veut pas dire pas de Montserrat ; voici les solutions, dans l'ordre.
@@ -58,10 +57,9 @@ Le monastère de Montserrat est à une heure de Barcelone, perché sur la montag
 
 | Si vous cherchez… | Option | À partir de |
 | --- | --- | --- |
-| La façon classique de monter | [Montserrat avec crémaillère et Vierge noire](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna), 4,6★ (9 606) | 50 € |
-| Le moins cher, avec transferts | [Montserrat avec transferts et basilique](/en/cities/barcelona/activities/montserrat-basilica-and-transfers), 4,7★ (3 416) | 41 € |
 | Crémaillère et un domaine viticole | [Montserrat avec crémaillère et cave du Xe siècle](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience), 4,8★ (6 154) | 47 € |
-| Téléphérique et randonnée, petit groupe | [Montserrat avec téléphérique et randonnée facile](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group), 4,9★ (1 146) | 74 € |
+| Une demi-journée, en petit groupe | [Montserrat en demi-journée, petit groupe](/en/cities/barcelona/activities/montserrat-half-day-small-group) (en anglais ou espagnol), 4,9★ (6 372) | 59 € |
+| En voiture, avec billets pour la basilique | [Montserrat en voiture avec guide, privé ou semi-privé](/fr/cities/barcelona/activities/montserrat-voiture-guide-prive-semi-prive-basilique), 4,8★ (311) | 121 € |
 | À votre rythme, privé | [Visite privée de Montserrat avec prise en charge](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup), 5,0★ (658) | 838 € |
 
 _Toutes ces réservations se font en espagnol et en anglais._
@@ -84,11 +82,11 @@ Ils se vendent à FGC (Plaça Espanya) et sur le site de FGC. Les longs week-end
 
 ## 3. Une excursion avec transport et transferts inclus
 
-C'est l'option la plus sûre quand il n'y a pas de places de crémaillère ni de place au parking : le transport depuis Barcelone et la montée sont inclus et vous ne dépendez pas des forfaits. L'excursion crémaillère et Vierge noire est la plus choisie, avec près de 10 000 avis.
+C'est l'option la plus sûre quand il n'y a pas de places de crémaillère ni de place au parking : le transport depuis Barcelone et la montée sont inclus et vous ne dépendez pas des forfaits. L'excursion en crémaillère avec visite d'un domaine viticole est l'une des plus choisies, avec plus de 6 000 avis.
 
-[actividad: montserrat-cremallera-virgen-negra]
+[actividad: montserrat-cremallera-bodega-castlexperience]
 
-Si vous préférez monter en téléphérique et faire une petite marche en haut, la **version en petit groupe avec randonnée** est l'une des mieux notées (4,9).
+Si vous préférez partir en petit groupe et être de retour à midi, la **version demi-journée** est l'une des mieux notées (4,9).
 
 ## 4. Que voir une fois en haut
 

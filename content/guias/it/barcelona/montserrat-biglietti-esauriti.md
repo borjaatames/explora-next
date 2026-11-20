@@ -29,10 +29,9 @@ slugs:
 reservasArriba: true
 respuestaCorta: 'La basilica di Montserrat è gratis; ciò che si riempie è **salire**: il trenino a cremagliera, la funivia, il parcheggio e i biglietti combinati Trans/Tot Montserrat nei weekend. Se non ci sono posti, un''**escursione da Barcellona con trasporto e transfer inclusi** ti porta su senza dipenderne.'
 actividades:
-  - montserrat-cremallera-virgen-negra
-  - montserrat-basilica-y-traslados
+  - montserrat-medio-dia-grupo-pequeno
+  - montserrat-privado-o-semiprivado-entradas-basilica
   - montserrat-cremallera-bodega-castlexperience
-  - montserrat-teleferico-y-caminata-grupo-pequeno
   - montserrat-tour-privado-recogida-hotel
 faq:
 - pregunta: Bisogna pagare un biglietto per entrare nel monastero di Montserrat?
@@ -44,12 +43,12 @@ faq:
 - pregunta: Vale la pena un'escursione se posso andare da solo?
   respuesta: Se non ci sono posti sulla cremagliera o il parcheggio è pieno, sì, perché trasporto e salita sono inclusi. Se ottieni i biglietti e parti presto, andare in autonomia in treno e cremagliera costa meno.
 opciones:
-  - ficha: montserrat-cremallera-virgen-negra
+  - ficha: montserrat-cremallera-bodega-castlexperience
     etiqueta: In cremagliera
-  - ficha: montserrat-teleferico-y-caminata-grupo-pequeno
-    etiqueta: In funivia
-  - ficha: montserrat-basilica-y-traslados
-    etiqueta: Il più economico
+  - ficha: montserrat-medio-dia-grupo-pequeno
+    etiqueta: Mezza giornata, piccolo gruppo
+  - ficha: montserrat-privado-o-semiprivado-entradas-basilica
+    etiqueta: Con biglietti per la basilica
 ---
 
 Il monastero di Montserrat è a un'ora da Barcellona, aggrappato alla montagna, e la basilica è a ingresso libero. Il problema di solito non è l'ingresso ma **salire**: la cremagliera e la funivia hanno posti limitati, il parcheggio in cima si riempie e i biglietti combinati Trans Montserrat e Tot Montserrat si esauriscono nei weekend. Niente posti non vuol dire niente Montserrat; ecco le strade, in ordine.
@@ -58,10 +57,9 @@ Il monastero di Montserrat è a un'ora da Barcellona, aggrappato alla montagna, 
 
 | Se cerchi… | Opzione | Da |
 | --- | --- | --- |
-| Il modo classico di salire | [Montserrat con cremagliera e Madonna Nera](/en/cities/barcelona/activities/montserrat-rack-railway-black-madonna), 4,6★ (9.606) | 50 € |
-| Il più economico, con transfer | [Montserrat con transfer e basilica](/en/cities/barcelona/activities/montserrat-basilica-and-transfers), 4,7★ (3.416) | 41 € |
 | Cremagliera e una cantina | [Montserrat con cremagliera e cantina del X secolo](/en/cities/barcelona/activities/montserrat-rack-railway-winery-castlexperience), 4,8★ (6.154) | 47 € |
-| Funivia e camminata, piccolo gruppo | [Montserrat con funivia e camminata facile](/en/cities/barcelona/activities/montserrat-cable-car-and-easy-hike-small-group), 4,9★ (1.146) | 74 € |
+| Mezza giornata, in piccolo gruppo | [Montserrat in mezza giornata, piccolo gruppo](/en/cities/barcelona/activities/montserrat-half-day-small-group) (in inglese o spagnolo), 4,9★ (6.372) | 59 € |
+| In auto, con biglietti per la basilica | [Montserrat in auto con guida, privato o semiprivato](/it/cities/barcelona/activities/montserrat-tour-privato-o-semiprivato-biglietti-basilica), 4,8★ (311) | 121 € |
 | Al tuo ritmo, privato | [Tour privato a Montserrat con prelievo](/en/cities/barcelona/activities/montserrat-private-tour-hotel-pickup), 5,0★ (658) | 838 € |
 
 _Tutte queste prenotazioni avvengono in spagnolo e inglese._
@@ -84,11 +82,11 @@ Si comprano a FGC (Plaça Espanya) e sul sito di FGC. Nei ponti si esauriscono i
 
 ## 3. Un'escursione con trasporto e transfer inclusi
 
-È l'opzione più sicura quando non ci sono posti sulla cremagliera né spazio nel parcheggio: il trasporto da Barcellona e la salita sono inclusi e non dipendi dai combinati. L'escursione con cremagliera e Madonna Nera è la più scelta, con quasi 10.000 recensioni.
+È l'opzione più sicura quando non ci sono posti sulla cremagliera né spazio nel parcheggio: il trasporto da Barcellona e la salita sono inclusi e non dipendi dai combinati. L'escursione in cremagliera con visita a una cantina è tra le più scelte, con oltre 6.000 recensioni.
 
-[actividad: montserrat-cremallera-virgen-negra]
+[actividad: montserrat-cremallera-bodega-castlexperience]
 
-Se preferisci salire in funivia e fare una camminata facile in cima, la **versione in piccolo gruppo con camminata** è una delle più apprezzate (4,9).
+Se preferisci andare in piccolo gruppo ed essere di ritorno a mezzogiorno, la **versione di mezza giornata** è una delle più apprezzate (4,9).
 
 ## 4. Cosa vedere una volta su
 
