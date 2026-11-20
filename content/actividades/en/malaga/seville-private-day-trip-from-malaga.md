@@ -74,7 +74,6 @@ keywords:
 imagen: /images/actividades/sevilla/acuario-sevilla/boveda-mudejar-arcos-sevilla.webp
 imagenAlt: 'Baths of Doña María de Padilla in the Royal Alcázar of Seville'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

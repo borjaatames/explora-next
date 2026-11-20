@@ -87,7 +87,6 @@ imagenAlt: 'Monastery buildings and Montserrat mountain under blue sky'
 ratingProveedor: 4.8
 numeroOpiniones: 311
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

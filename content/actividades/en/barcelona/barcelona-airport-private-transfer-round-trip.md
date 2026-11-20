@@ -76,7 +76,6 @@ keywords:
 imagen: https://imgcdn.bokun.tools/5dcbf5d6-1110-417c-86d4-5c8c37bca5ea.jpg
 imagenAlt: Private transfer cars parked in Barcelona
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-09'
 galeria:

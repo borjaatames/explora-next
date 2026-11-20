@@ -79,7 +79,6 @@ galeria:
 - src: https://imgcdn.bokun.tools/56d319cb-89aa-4df4-a78e-91aebf30be90.jpg
   alt: 'Traveller walking along a palm-lined seafront promenade'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

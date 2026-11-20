@@ -110,7 +110,6 @@ galeria:
 atraccionesRelacionadas:
 - centro-historico
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 privada: true

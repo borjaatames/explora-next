@@ -86,7 +86,6 @@ numeroOpiniones: 2815
 atraccionesRelacionadas:
 - excursiones
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'

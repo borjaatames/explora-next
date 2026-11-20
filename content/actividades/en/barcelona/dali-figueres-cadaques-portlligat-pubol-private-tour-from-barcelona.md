@@ -83,7 +83,6 @@ galeria:
 - src: https://imgcdn.bokun.tools/0298a7b0-73c4-4df1-be9d-bcd43ef27725.jpg
   alt: 'Traveller looking across the bay at the white houses of Cadaqués'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 privada: true

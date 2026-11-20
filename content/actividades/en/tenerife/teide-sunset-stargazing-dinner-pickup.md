@@ -106,7 +106,6 @@ galeria:
 atraccionesRelacionadas:
 - teide
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 ---

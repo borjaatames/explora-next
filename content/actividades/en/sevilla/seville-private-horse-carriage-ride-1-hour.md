@@ -82,7 +82,6 @@ galeria:
 - src: /images/actividades/sevilla/coche-caballos/coche-caballos-catedral.webp
   alt: 'Horse-drawn carriage with a white horse in front of Seville Cathedral'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

@@ -81,7 +81,6 @@ keywords:
 imagen: /images/actividades/valencia/turia-bici/bici-palmera.webp
 imagenAlt: 'Bicycle parked by a palm tree in a Valencia park'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

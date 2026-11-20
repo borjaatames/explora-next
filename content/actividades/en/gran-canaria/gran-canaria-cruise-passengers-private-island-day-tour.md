@@ -74,7 +74,6 @@ keywords:
 atraccionesRelacionadas:
 - isla
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-12'
 fecha_actualizacion: '2026-11-12'

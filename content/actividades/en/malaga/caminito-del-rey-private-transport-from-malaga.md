@@ -82,7 +82,6 @@ keywords:
 imagen: /images/actividades/malaga/caminito-del-rey/pasarelas-roca.webp
 imagenAlt: 'Walkways fixed to the rock on the Caminito del Rey'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

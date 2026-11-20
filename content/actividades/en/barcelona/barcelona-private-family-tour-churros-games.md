@@ -85,7 +85,6 @@ imagenAlt: Barcelona Cathedral, in the heart of the Gothic Quarter
 ratingProveedor: 4.4
 numeroOpiniones: 90
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

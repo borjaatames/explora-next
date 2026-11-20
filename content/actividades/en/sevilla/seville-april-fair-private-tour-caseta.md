@@ -95,7 +95,6 @@ galeria:
 - src: https://imgcdn.bokun.tools/0cd49505-ad0b-4056-98aa-2f54a71da6ed.jpg
   alt: 'Decorated casetas at the Fair'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'

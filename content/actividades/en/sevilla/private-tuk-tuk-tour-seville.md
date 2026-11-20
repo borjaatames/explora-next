@@ -109,7 +109,6 @@ galeria:
 - src: /images/actividades/sevilla/maestranza/plaza-toros-maestranza-sevilla-explore-iconic-its-stunning-hero.webp
   alt: 'Maestranza bullring in Seville'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-04'
 fecha_actualizacion: '2026-10-05'

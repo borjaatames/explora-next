@@ -78,7 +78,6 @@ keywords:
 imagen: /images/actividades/granada/ronda/ronda-pixabay-7205207.webp
 imagenAlt: 'Arches of Ronda''s Puente Nuevo'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

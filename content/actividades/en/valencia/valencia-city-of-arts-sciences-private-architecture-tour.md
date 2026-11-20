@@ -77,7 +77,6 @@ galeria:
 - src: /images/actividades/valencia/ciudad-artes-ciencias/oceanografic-arquitectura-valencia.webp
   alt: 'Architecture of the Oceanogràfic in Valencia''s City of Arts and Sciences'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 privada: true

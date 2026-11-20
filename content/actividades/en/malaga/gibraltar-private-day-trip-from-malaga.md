@@ -84,7 +84,6 @@ keywords:
 imagen: /images/actividades/malaga/gibraltar/tuneles-asedio.webp
 imagenAlt: 'Great Siege Tunnels in the Rock'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

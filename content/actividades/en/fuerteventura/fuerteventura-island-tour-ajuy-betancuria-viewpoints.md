@@ -82,7 +82,6 @@ ratingProveedor: 4.8
 numeroOpiniones: 195
 atraccionesRelacionadas: []
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'

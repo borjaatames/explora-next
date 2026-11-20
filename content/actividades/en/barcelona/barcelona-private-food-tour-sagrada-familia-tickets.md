@@ -90,7 +90,6 @@ keywords:
 imagen: /images/actividades/barcelona/boqueria/mercat-boqueria-people-shop-vibrant-market-hero.webp
 imagenAlt: 'Entrance to La Boqueria Market'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

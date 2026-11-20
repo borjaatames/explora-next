@@ -86,7 +86,6 @@ atraccionesRelacionadas:
 avisoReserva: The price is per buggy, not per person. Choose the model (white, red or 4-seat family) when booking.
 precioPorGrupo: true
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'

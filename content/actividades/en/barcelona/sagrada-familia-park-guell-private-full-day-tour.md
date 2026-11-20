@@ -88,7 +88,6 @@ imagenAlt: The mosaic dragon on the entrance stairway of Park Güell
 ratingProveedor: 4.8
 numeroOpiniones: 952
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-10-24'
 galeria:

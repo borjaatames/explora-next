@@ -73,7 +73,6 @@ galeria:
 - src: /images/actividades/barcelona/proveedor-1229823/prov-bici-calle.webp
   alt: 'Group cycling along a Barcelona street'
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 privada: true

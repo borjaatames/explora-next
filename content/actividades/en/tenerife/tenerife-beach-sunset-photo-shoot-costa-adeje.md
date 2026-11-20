@@ -77,7 +77,6 @@ galeria:
 - src: https://imgcdn.bokun.tools/3112cb1d-5e51-49dc-ab50-61d0d5b8c316.jpg
   alt: Traveller in a red jacket on volcanic rocks by the sea
 publicada: true
-indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
