@@ -69,7 +69,7 @@ I tempi sono in auto o in treno in condizioni normali; d'estate e nei ponti, cal
 In **AVE**, Siviglia-Cordova è circa 45 minuti, quindi è l'unica di questa lista che si fa comodamente per conto proprio. Vai dritto alla **Mezquita-Catedral** (compra prima il biglietto), perditi nella **Judería** e attraversa il **ponte romano** al tramonto. Se vai a maggio, coincide con la festa dei patios.
 
 - **Per conto tuo:** treno e biglietto per la Mezquita. La soluzione più economica se siete in 1 o 2.
-- **In gruppo:** [escursione in AVE in piccolo gruppo](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) da 110 € a persona, o [in pullman](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) da 109 €.
+- **In gruppo:** [in pullman](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) da 109 €.
 - **In privato:** [Cordova in treno con biglietti e visita privata](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € per un gruppo di 2, 668 € per uno di 4) o [in auto privata](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (da 379 € a persona, minimo 2).
 
 ## Ronda e i pueblos blancos

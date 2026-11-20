@@ -67,7 +67,7 @@ Times are by road or train in normal conditions; in summer and on bank holidays,
 By **high-speed train**, Seville to Córdoba takes about 45 minutes, so it's the only one on this list that's easy on your own. Head straight to the **Mosque-Cathedral** (buy your ticket ahead), wander the **Jewish Quarter** and cross the **Roman bridge** at sunset. In May it coincides with the patios festival.
 
 - **On your own:** train plus a Mosque-Cathedral ticket. Cheapest for 1 or 2.
-- **Group tour:** [small group with high-speed train](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) from €110 per person, or [by coach](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) from €109.
+- **Group tour:** [by coach](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) from €109.
 - **Private:** [Córdoba by train with tickets and a private tour](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (€432 for a group of 2, €668 for 4) or [by private car](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (from €379 per person, minimum 2).
 
 ## Ronda and the white villages

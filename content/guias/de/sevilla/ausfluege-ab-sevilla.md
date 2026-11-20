@@ -78,7 +78,7 @@ Die Zeiten gelten für Straße oder Zug unter normalen Bedingungen; im Sommer un
 Mit dem **AVE** sind Sevilla-Córdoba etwa 45 Minuten, es ist also das einzige dieser Liste, das sich bequem auf eigene Faust machen lässt. Geh direkt zur **Mezquita-Catedral** (kauf das Ticket vorher), verlier dich in der **Judería** und überquer die **römische Brücke** bei Sonnenuntergang. Fährst du im Mai, triffst du es mit den Patios.
 
 - **Auf eigene Faust:** Zug und Mezquita-Ticket. Am günstigsten, wenn ihr 1 oder 2 seid.
-- **In der Gruppe:** [Ausflug mit AVE und kleiner Gruppe](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) ab 110 € pro Person, oder [per Reisebus](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) ab 109 €.
+- **In der Gruppe:** [per Reisebus](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) ab 109 €.
 - **Privat:** [Córdoba mit dem Zug mit Tickets und privater Führung](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € die Gruppe von 2, 668 € die von 4) oder [im Privatauto](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (ab 379 € pro Person, mindestens 2).
 
 ## Ronda und die weißen Dörfer

@@ -69,7 +69,7 @@ Les durées s'entendent par la route ou en train dans des conditions normales ; 
 En **AVE**, Séville-Cordoue prend environ 45 minutes : c'est la seule de cette liste qui se fait confortablement en autonomie. Allez directement à la **Mosquée-cathédrale** (achetez l'entrée avant), perdez-vous dans la **Judería** et traversez le **pont romain** au coucher du soleil. Si vous y allez en mai, vous tomberez sur la fête des patios.
 
 - **En autonomie :** train et entrée à la Mosquée. Le moins cher si vous êtes 1 ou 2.
-- **En groupe :** [excursion en AVE et petit groupe](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) à partir de 110 € par personne, ou [en autocar](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) à partir de 109 €.
+- **En groupe :** [en autocar](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) à partir de 109 €.
 - **En privé :** [Cordoue en train avec billets et visite privée](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € le groupe de 2, 668 € celui de 4) ou [en voiture privée](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (à partir de 379 € par personne, minimum 2).
 
 ## Ronda et les villages blancs

@@ -69,7 +69,7 @@ Os tempos são por estrada ou comboio em condições normais; no verão e em fin
 De **AVE**, Sevilha-Córdova são cerca de 45 minutos, por isso é a única desta lista que se faz comodamente por conta própria. Vá diretamente à **Mesquita-Catedral** (compre o bilhete antes), perca-se pela **Judiaria** e atravesse a **ponte romana** ao pôr do sol. Se for em maio, coincide com os pátios.
 
 - **Por conta própria:** comboio e bilhete da Mesquita. O mais barato se forem 1 ou 2.
-- **Em grupo:** [excursão de AVE em grupo reduzido](/en/cities/sevilla/activities/cordoba-premium-small-group-tour-high-speed-train-from-seville) desde 110 € por pessoa, ou [de autocarro](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) desde 109 €.
+- **Em grupo:** [de autocarro](/en/cities/sevilla/activities/cordoba-full-day-essential-mezquita-tour-from-seville) desde 109 €.
 - **Em privado:** [Córdova de comboio com bilhetes e visita privada](/en/cities/sevilla/activities/cordoba-by-train-private-day-trip-from-seville) (432 € o grupo de 2, 668 € o de 4) ou [de carro privado](/en/cities/sevilla/activities/cordoba-private-day-trip-from-seville) (desde 379 € por pessoa, mínimo 2).
 
 ## Ronda e as aldeias brancas

@@ -69,7 +69,7 @@ Los tiempos son por carretera o tren en condiciones normales; en verano y en pue
 En **AVE**, Sevilla-Córdoba son unos 45 minutos, así que es la única de esta lista que se hace cómodamente por libre. Ve directo a la **Mezquita-Catedral** (compra la entrada antes), piérdete por la **Judería** y cruza el **puente romano** al atardecer. Si vas en mayo, coincide con los patios.
 
 - **Por libre:** tren y entrada a la Mezquita. Lo más barato si sois 1 o 2.
-- **En grupo:** [excursión con AVE y grupo reducido](/ciudades/sevilla/actividades/cordoba-excursion-premium-grupo-pequeno-ave-desde-sevilla) desde 110 € por persona, o [en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) desde 109 €.
+- **En grupo:** [en autocar](/ciudades/sevilla/actividades/cordoba-excursion-dia-completo-mezquita-desde-sevilla) desde 109 €.
 - **En privado:** [Córdoba en tren con billetes y visita privada](/ciudades/sevilla/actividades/cordoba-en-tren-excursion-privada-desde-sevilla) (432 € el grupo de 2, 668 € el de 4) o [en coche privado](/ciudades/sevilla/actividades/cordoba-excursion-privada-desde-sevilla) (desde 379 € por persona, mínimo 2).
 
 ## Ronda y los pueblos blancos
