@@ -46,12 +46,9 @@ opciones:
 | Attività | Valutazione | Da |
 | --- | --- | --- |
 | [Barca andata e ritorno per l'isola di Tabarca](/it/cities/alicante/activities/alicante-barca-andata-ritorno-isola-tabarca) | 4,3★ (5.628) | 25 € |
-| [Traghetto andata e ritorno da Santa Pola](/it/cities/alicante/activities/santa-pola-traghetto-andata-ritorno-isola-tabarca) | 4,6★ (1.822) | 9 € |
 | [Barca a vela per Tabarca con snorkeling e tramonto](/it/cities/alicante/activities/santa-pola-barca-a-vela-tabarca-snorkeling-tramonto) | 4,8★ (27) | 85 € |
 
 La chiave: è un programma di **mezza giornata o giornata intera**, e dipende dalla barca. Scegli bene il porto di partenza e controlla sempre le condizioni del mare.
-
-[actividad: ferry-santa-pola-tabarca]
 
 ## Come arrivare
 

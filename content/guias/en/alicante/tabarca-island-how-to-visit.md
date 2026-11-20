@@ -46,12 +46,9 @@ opciones:
 | Activity | Rating | From |
 | --- | --- | --- |
 | [Return boat to Tabarca island from Alicante](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4.3★ (5,628) | €25 |
-| [Return ferry from Santa Pola](/en/cities/alicante/activities/santa-pola-tabarca-ferry) | 4.6★ (1,822) | €9 |
 | [Sailing trip to Tabarca with snorkelling and sunset](/en/cities/alicante/activities/tabarca-snorkeling-tour) | 4.8★ (27) | €85 |
 
 The key: it's a **half-day or full-day** plan, and it depends on the boat. Choose the right departure port and always check the sea conditions.
-
-[actividad: ferry-santa-pola-tabarca]
 
 ## Getting there
 

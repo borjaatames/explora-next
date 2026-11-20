@@ -46,12 +46,9 @@ opciones:
 | Atividade | Avaliação | Desde |
 | --- | --- | --- |
 | [Barco de ida e volta à ilha de Tabarca](/pt/cities/alicante/activities/alicante-barco-ilha-tabarca-ida-volta) | 4,3★ (5.628) | 25 € |
-| [Ferry de ida e volta a partir de Santa Pola](/pt/cities/alicante/activities/santa-pola-ferry-ilha-tabarca-ida-volta) | 4,6★ (1.822) | 9 € |
 | [Veleiro a Tabarca com snorkel e pôr do sol](/pt/cities/alicante/activities/santa-pola-veleiro-tabarca-snorkel-por-do-sol) | 4,8★ (27) | 85 € |
 
 O essencial: é um plano de **meio dia ou dia inteiro**, e depende do barco. Escolha bem o porto de partida e veja sempre o estado do mar.
-
-[actividad: ferry-santa-pola-tabarca]
 
 ## Como chegar
 

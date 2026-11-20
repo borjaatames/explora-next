@@ -48,12 +48,9 @@ reservasArriba: true
 | Aktivität | Bewertung | Ab |
 | --- | --- | --- |
 | [Boot hin und zurück zur Insel Tabarca](/en/cities/alicante/activities/alicante-tabarca-island-return-boat) | 4,3★ (5.628) | 25 € |
-| [Fähre hin und zurück ab Santa Pola](/en/cities/alicante/activities/santa-pola-tabarca-ferry) | 4,6★ (1.822) | 9 € |
 | [Segeltörn nach Tabarca mit Schnorcheln und Sonnenuntergang](/en/cities/alicante/activities/tabarca-snorkeling-tour) | 4,8★ (27) | 85 € |
 
 Das Wichtigste vorab: Tabarca ist ein Plan für **einen halben oder ganzen Tag**, und das hängt vom Boot ab. Wähle den Abfahrtshafen mit Bedacht und prüfe immer den Seegang.
-
-[actividad: ferry-santa-pola-tabarca]
 
 ## Anreise
 
