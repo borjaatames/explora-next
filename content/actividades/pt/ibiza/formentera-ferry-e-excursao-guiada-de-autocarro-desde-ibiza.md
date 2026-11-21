@@ -5,6 +5,9 @@ ciudad: ibiza
 descripcion: "Dia completo em Formentera com guia, também em português: travessia de ferry até La Savina e volta à ilha de autocarro, com a capital, o farol de La Mola, um miradouro, as salinas e paragem para banho. Recolha no hotel opcional. 4,5/5 em 161 opiniões. Desde 108 €."
 slugs:
   pt: formentera-ferry-e-excursao-guiada-de-autocarro-desde-ibiza
+  de: formentera-ab-ibiza-faehre-und-gefuehrte-busrundfahrt
+  fr: formentera-depuis-ibiza-ferry-et-excursion-guidee-en-bus
+  it: formentera-da-ibiza-traghetto-ed-escursione-guidata-in-autobus
 duracion: "9 horas"
 duracionMinutos: 540
 precioDesde: 108

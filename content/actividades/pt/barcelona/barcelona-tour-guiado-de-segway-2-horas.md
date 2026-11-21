@@ -5,6 +5,8 @@ ciudad: barcelona
 descripcion: "Duas horas de segway com guia, também em português: Port Vell, monumento a Colombo, Ramblas, Parque da Ciutadella, Arco do Triunfo, Porto Olímpico e Parc del Fòrum. Treino inicial incluído. 4,8/5 em 447 opiniões. Desde 49 €."
 slugs:
   pt: barcelona-tour-guiado-de-segway-2-horas
+  de: barcelona-gefuehrte-segway-tour-2-stunden
+  fr: barcelone-tour-guide-en-segway-2-heures
 duracion: "2 horas"
 duracionMinutos: 120
 precioDesde: 49
