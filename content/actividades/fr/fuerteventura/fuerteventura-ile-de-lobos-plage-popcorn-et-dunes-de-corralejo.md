@@ -5,6 +5,8 @@ ciudad: fuerteventura
 descripcion: "Journée dans le nord de Fuerteventura en minibus de 8 personnes maximum, avec guide également en français : île de Lobos, retour en bateau à fond de verre, plage du Popcorn et dunes de Corralejo. Prise en charge à Corralejo ou Caleta de Fuste. 4,8/5 sur 469 avis. Dès 75 €."
 slugs:
   fr: fuerteventura-ile-de-lobos-plage-popcorn-et-dunes-de-corralejo
+  de: fuerteventura-insel-lobos-popcorn-strand-und-duenen-von-corralejo
+  it: fuerteventura-isola-di-lobos-spiaggia-dei-popcorn-e-dune-di-corralejo
 duracion: "8 heures"
 duracionMinutos: 480
 precioDesde: 75

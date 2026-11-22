@@ -5,6 +5,7 @@ ciudad: barcelona
 descripcion: "Vier Stunden Barcelona zu Land, zu Wasser und aus der Luft, mit Guide auch auf Deutsch: Rundgang über den Passeig de Gràcia mit Casa Batlló und La Pedrera und durchs Gotische Viertel, Bootstransfer ab Port Vell und Helikopterflug. Maximal 8 Teilnehmer. 4,6/5 bei 1.365 Bewertungen. Ab 200 €."
 slugs:
   de: barcelona-helikopterflug-bootsfahrt-und-altstadtfuehrung-kleingruppe
+  fr: barcelone-vol-en-helicoptere-bateau-et-visite-de-la-vieille-ville-petit-groupe
 duracion: "4 Stunden"
 duracionMinutos: 240
 precioDesde: 200

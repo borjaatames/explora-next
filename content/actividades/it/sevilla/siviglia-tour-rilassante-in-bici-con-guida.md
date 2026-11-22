@@ -5,6 +5,7 @@ ciudad: sevilla
 descripcion: "Due ore e mezza in bici con guida locale, anche in italiano: quartiere di Santa Cruz, giardini di Murillo, Real Fabbrica di Tabacchi e Plaza de España, circa 10 km in piano. Bici e assicurazione incluse. 4,8/5 su 1.846 recensioni. Da 30 €."
 slugs:
   it: siviglia-tour-rilassante-in-bici-con-guida
+  fr: seville-balade-tranquille-a-velo-avec-guide
 duracion: "2 ore e 30 minuti"
 duracionMinutos: 150
 precioDesde: 30
