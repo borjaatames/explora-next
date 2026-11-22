@@ -4,6 +4,7 @@ slug: lanzarote-observation-des-dauphins-en-bateau-rapide
 ciudad: lanzarote
 descripcion: Sortie en bateau rapide de 12 passagers maximum au large de Lanzarote pour chercher dauphins, tortues et oiseaux marins, avec skipper, gilets de sauvetage et eau. 4,4/5 sur 139 avis. Dès 65 €.
 slugs:
+  es: lanzarote-avistamiento-de-delfines-en-lancha-rapida
   en: lanzarote-dolphin-watching-by-speedboat
   fr: lanzarote-observation-des-dauphins-en-bateau-rapide
 duracion: 2 heures

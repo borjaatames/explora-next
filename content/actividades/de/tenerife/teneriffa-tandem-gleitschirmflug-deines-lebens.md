@@ -4,10 +4,12 @@ slug: teneriffa-tandem-gleitschirmflug-deines-lebens
 ciudad: tenerife
 descripcion: Tandemflug von 15 bis 20 Minuten ab Taucho über den Süden Teneriffas mit erfahrenen Berufspiloten, Abholung von Los Cristianos bis Playa Paraíso im klimatisierten Van und 5 GoPro-Fotos. 4,8/5 bei 303 Bewertungen. Ab 100 €.
 slugs:
+  es: tenerife-vuelo-en-parapente-biplaza-inolvidable
   en: tenerife-tandem-paragliding-flight-of-a-lifetime
   de: teneriffa-tandem-gleitschirmflug-deines-lebens
   fr: tenerife-le-vol-en-parapente-biplace-de-votre-vie
   it: tenerife-il-volo-in-parapendio-biposto-della-tua-vita
+  pt: tenerife-voo-de-parapente-em-tandem-inesquecivel
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 100

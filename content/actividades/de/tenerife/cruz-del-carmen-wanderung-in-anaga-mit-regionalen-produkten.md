@@ -4,6 +4,7 @@ slug: cruz-del-carmen-wanderung-in-anaga-mit-regionalen-produkten
 ciudad: tenerife
 descripcion: Dreieinhalb Stunden geführte Wanderung ab Cruz del Carmen im Biosphärenreservat Anaga, mit Panoramablicken auf dem Weg in den Lorbeerwald, Verkostung regionaler Produkte und Rückfahrt zum Startpunkt. 4,9/5 bei 207 Bewertungen. Ab 55 €.
 slugs:
+  es: cruz-del-carmen-senderismo-por-anaga-con-productos-locales
   en: cruz-del-carmen-anaga-hike-with-local-products
   de: cruz-del-carmen-wanderung-in-anaga-mit-regionalen-produkten
   fr: cruz-del-carmen-randonnee-dans-l-anaga-avec-produits-locaux

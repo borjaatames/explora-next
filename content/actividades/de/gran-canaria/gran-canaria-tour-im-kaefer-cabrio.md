@@ -4,6 +4,7 @@ slug: gran-canaria-tour-im-kaefer-cabrio
 ciudad: gran-canaria
 descripcion: Sechs Stunden geführte Tour am Steuer eines VW-Käfer-Cabrios (bis zu 4 pro Auto) durch die Berglandschaft Gran Canarias, mit Abholung im Süden, Picknick und einem Softdrink. 4,9/5 bei 174 Bewertungen. Ab 70 €.
 slugs:
+  es: gran-canaria-ruta-en-escarabajo-descapotable
   en: gran-canaria-convertible-beetle-tour
   de: gran-canaria-tour-im-kaefer-cabrio
 duracion: 6 Stunden

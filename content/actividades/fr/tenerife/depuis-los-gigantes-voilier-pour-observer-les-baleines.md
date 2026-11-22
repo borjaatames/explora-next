@@ -4,6 +4,7 @@ slug: depuis-los-gigantes-voilier-pour-observer-les-baleines
 ciudad: tenerife
 descripcion: Trois à quatre heures en voilier depuis la marina de Los Gigantes pour observer la faune marine résidente et migratrice, avec du temps pour nager ou faire du snorkeling au pied des falaises ; en privé ou en petit groupe. 4,9/5 sur 294 avis. Dès 79 €.
 slugs:
+  es: desde-los-gigantes-avistamiento-de-cetaceos-en-velero
   en: from-los-gigantes-whale-watching-sailing-trip
   fr: depuis-los-gigantes-voilier-pour-observer-les-baleines
 duracion: 3 h 30

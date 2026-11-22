@@ -4,6 +4,7 @@ slug: teneriffa-ganztagestour-zu-teide-icod-garachico-und-masca
 ciudad: tenerife
 descripcion: 'Ganztägige geführte Tour mit Abholung vom Hotel: Halt in Vilaflor, Teide-Nationalpark, der tausendjährige Drachenbaum von Icod de los Vinos, die Naturschwimmbecken von Garachico und das Dorf Masca. 4,3/5 bei 124 Bewertungen. Ab 58 €.'
 slugs:
+  es: tenerife-excursion-de-dia-completo-al-teide-icod-garachico-y-masca
   en: tenerife-full-day-tour-of-teide-icod-garachico-and-masca
   de: teneriffa-ganztagestour-zu-teide-icod-garachico-und-masca
   fr: tenerife-journee-au-teide-icod-garachico-et-masca

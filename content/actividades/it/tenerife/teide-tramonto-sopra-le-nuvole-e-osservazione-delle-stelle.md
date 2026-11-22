@@ -4,6 +4,7 @@ slug: teide-tramonto-sopra-le-nuvole-e-osservazione-delle-stelle
 ciudad: tenerife
 descripcion: Tramonto sopra le nuvole a 2.100 metri nel Parco Nazionale del Teide e poi osservazione delle stelle con una guida professionista, con opzioni di picnic in piccolo gruppo, telescopi professionali o cena e trasporto dal sud o dal nord. 4,4/5 su 383 recensioni. Da 60 €.
 slugs:
+  es: teide-atardecer-sobre-las-nubes-y-observacion-de-estrellas
   en: teide-sunset-above-the-clouds-and-stargazing
   de: teide-sonnenuntergang-ueber-den-wolken-und-sternbeobachtung
   it: teide-tramonto-sopra-le-nuvole-e-osservazione-delle-stelle

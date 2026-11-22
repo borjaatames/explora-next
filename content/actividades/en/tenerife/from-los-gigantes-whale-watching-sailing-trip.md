@@ -4,6 +4,7 @@ slug: from-los-gigantes-whale-watching-sailing-trip
 ciudad: tenerife
 descripcion: Three to four hours on a sailing boat from Los Gigantes marina to see resident and migratory marine wildlife, with time to swim or snorkel below the cliffs; private or small-group options. Rated 4.9/5 from 294 reviews. From €79.
 slugs:
+  es: desde-los-gigantes-avistamiento-de-cetaceos-en-velero
   en: from-los-gigantes-whale-watching-sailing-trip
   fr: depuis-los-gigantes-voilier-pour-observer-les-baleines
 duracion: 3 h 30 min

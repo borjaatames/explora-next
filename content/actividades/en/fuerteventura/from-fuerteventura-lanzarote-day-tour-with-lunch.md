@@ -4,6 +4,7 @@ slug: from-fuerteventura-lanzarote-day-tour-with-lunch
 ciudad: fuerteventura
 descripcion: 'Long day from Fuerteventura by ferry to Lanzarote with an official guide: the craters of Timanfaya National Park, the Jameos del Agua lava tube and a stop in the La Geria wine region, with entries and lunch included. Rated 4.5/5 from 321 reviews. From €160.'
 slugs:
+  es: desde-fuerteventura-excursion-de-un-dia-a-lanzarote-con-almuerzo
   en: from-fuerteventura-lanzarote-day-tour-with-lunch
   de: ab-fuerteventura-tagestour-nach-lanzarote-mit-mittagessen
   fr: depuis-fuerteventura-journee-a-lanzarote-avec-dejeuner

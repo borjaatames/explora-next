@@ -4,6 +4,7 @@ slug: grottes-de-lanzarote-excursion-d-une-demi-journee
 ciudad: lanzarote
 descripcion: Demi-journée en autocar avec guide aux Jameos del Agua et leurs crabes albinos, au tunnel de lave de la Cueva de los Verdes et dans un musée de l'aloe vera, avec vue panoramique sur Teguise ; entrées et prise en charge incluses. 4,4/5 sur 216 avis. Dès 68 €.
 slugs:
+  es: cuevas-de-lanzarote-excursion-de-medio-dia
   en: caves-of-lanzarote-half-day-trip
   de: hoehlen-von-lanzarote-halbtagesausflug
   fr: grottes-de-lanzarote-excursion-d-une-demi-journee

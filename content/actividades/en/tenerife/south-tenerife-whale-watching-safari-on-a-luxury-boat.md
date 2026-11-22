@@ -4,6 +4,7 @@ slug: south-tenerife-whale-watching-safari-on-a-luxury-boat
 ciudad: tenerife
 descripcion: Three hours on a luxury boat along the south of Tenerife to unspoilt spots and to see whales, with hotel pick-up in the south, food and two free drinks. Rated 4.7/5 from 157 reviews. From €54.
 slugs:
+  es: sur-de-tenerife-safari-de-ballenas-en-barco-de-lujo
   en: south-tenerife-whale-watching-safari-on-a-luxury-boat
   it: sud-di-tenerife-safari-tra-le-balene-su-una-barca-di-lusso
 duracion: 3 hours

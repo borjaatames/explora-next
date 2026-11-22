@@ -4,6 +4,7 @@ slug: lanzarote-teguise-craft-market-and-la-graciosa-island
 ciudad: lanzarote
 descripcion: 'Day trip with hotel pick-up: two hours at the Sunday street market in Teguise, then the ferry to La Graciosa with a sightseeing cruise, a guided visit to the island''s church, paella and drinks on board and free time. Rated 4.3/5 from 235 reviews. From €65.'
 slugs:
+  es: lanzarote-mercadillo-de-teguise-e-isla-de-la-graciosa
   en: lanzarote-teguise-craft-market-and-la-graciosa-island
   fr: lanzarote-marche-artisanal-de-teguise-et-ile-de-la-graciosa
 duracion: 7 hours

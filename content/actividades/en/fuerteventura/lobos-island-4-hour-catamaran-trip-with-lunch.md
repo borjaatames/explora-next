@@ -4,6 +4,7 @@ slug: lobos-island-4-hour-catamaran-trip-with-lunch
 ciudad: fuerteventura
 descripcion: Four hours on the OBY catamaran from Corralejo around the beaches and bays of Lobos Island, with an underwater viewing area, a swim and snorkel stop, paddleboards, Spanish paella, unlimited drinks and a landing on the island. Rated 4.4/5 from 258 reviews. From €62.
 slugs:
+  es: isla-de-lobos-catamaran-de-4-horas-con-almuerzo
   en: lobos-island-4-hour-catamaran-trip-with-lunch
   de: isla-de-lobos-katamaranfahrt-von-4-stunden-mit-essen
   it: isola-di-lobos-gita-in-catamarano-di-4-ore-con-pranzo

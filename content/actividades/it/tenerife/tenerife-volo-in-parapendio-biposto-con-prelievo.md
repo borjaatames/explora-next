@@ -4,10 +4,12 @@ slug: tenerife-volo-in-parapendio-biposto-con-prelievo
 ciudad: tenerife
 descripcion: Volo in parapendio biposto sopra il sud di Tenerife con un pilota esperto e multilingue, quattro opzioni di volo a prezzi diversi, prelievo a Costa Adeje, Los Cristianos e Las Américas e trasporto al decollo. 4,9/5 su 372 recensioni. Da 110 €.
 slugs:
+  es: tenerife-parapente-biplaza-con-recogida
   en: tenerife-tandem-paragliding-experience-with-pick-up
   de: teneriffa-tandem-gleitschirmflug-mit-abholung
   fr: tenerife-vol-en-parapente-biplace-avec-prise-en-charge
   it: tenerife-volo-in-parapendio-biposto-con-prelievo
+  pt: tenerife-parapente-em-tandem-com-recolha
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 110

@@ -4,6 +4,7 @@ slug: ab-teneriffa-sued-tagesausflug-nach-la-gomera-mit-mittagessen
 ciudad: tenerife
 descripcion: 'Tagesausflug mit der Schnellfähre ab dem Süden Teneriffas nach La Gomera mit mehrsprachigem Guide: der Roque de Agando, der Wald El Cedro im Nationalpark Garajonay, Mittagessen mit Vorführung der Pfeifsprache und San Sebastián. 4,1/5 bei 2.264 Bewertungen. Ab 110 €.'
 slugs:
+  es: desde-el-sur-de-tenerife-excursion-a-la-gomera-con-almuerzo
   en: from-south-tenerife-la-gomera-day-trip-with-lunch
   de: ab-teneriffa-sued-tagesausflug-nach-la-gomera-mit-mittagessen
   fr: depuis-le-sud-de-tenerife-journee-a-la-gomera-avec-dejeuner

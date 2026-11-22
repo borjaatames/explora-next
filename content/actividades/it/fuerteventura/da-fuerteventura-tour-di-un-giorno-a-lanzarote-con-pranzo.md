@@ -4,6 +4,7 @@ slug: da-fuerteventura-tour-di-un-giorno-a-lanzarote-con-pranzo
 ciudad: fuerteventura
 descripcion: 'Lunga giornata da Fuerteventura in traghetto fino a Lanzarote con guida ufficiale: i crateri del Parco Nazionale di Timanfaya, il tunnel di lava dei Jameos del Agua e una sosta nella zona vinicola di La Geria, con ingressi e pranzo inclusi. 4,5/5 su 321 recensioni. Da 160 €.'
 slugs:
+  es: desde-fuerteventura-excursion-de-un-dia-a-lanzarote-con-almuerzo
   en: from-fuerteventura-lanzarote-day-tour-with-lunch
   de: ab-fuerteventura-tagestour-nach-lanzarote-mit-mittagessen
   fr: depuis-fuerteventura-journee-a-lanzarote-avec-dejeuner

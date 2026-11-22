@@ -4,6 +4,7 @@ slug: gran-canaria-puerto-de-mogan-village-and-local-market
 ciudad: gran-canaria
 descripcion: Six-hour coach trip with a guide from the southern resorts to Puerto de Mogán, the 'Little Venice' of Gran Canaria, for its weekly market and harbour, with an optional boat trip from Puerto Rico. Rated 4.4/5 from 153 reviews. From €22.
 slugs:
+  es: gran-canaria-puerto-de-mogan-y-su-mercadillo
   en: gran-canaria-puerto-de-mogan-village-and-local-market
   de: gran-canaria-puerto-de-mogan-und-der-wochenmarkt
 duracion: 6 hours

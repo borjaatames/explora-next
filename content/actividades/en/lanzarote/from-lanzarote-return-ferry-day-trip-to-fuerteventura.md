@@ -4,10 +4,12 @@ slug: from-lanzarote-return-ferry-day-trip-to-fuerteventura
 ciudad: lanzarote
 descripcion: Day trip from Lanzarote with transfer to the ferry, a modern catamaran ferry to Corralejo and back, and five hours free in Fuerteventura for the Corralejo dunes, a swim in the turquoise sea and the town's narrow streets. Rated 4.3/5 from 302 reviews. From €65.
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-en-ferry
   en: from-lanzarote-return-ferry-day-trip-to-fuerteventura
   de: ab-lanzarote-tagesausflug-mit-der-faehre-nach-fuerteventura
   fr: depuis-lanzarote-excursion-en-ferry-aller-retour-a-fuerteventura
   it: da-lanzarote-gita-in-traghetto-andata-e-ritorno-a-fuerteventura
+  pt: de-lanzarote-excursao-de-um-dia-a-fuerteventura-de-ferry
 duracion: 9 hours
 duracionMinutos: 540
 precioDesde: 65

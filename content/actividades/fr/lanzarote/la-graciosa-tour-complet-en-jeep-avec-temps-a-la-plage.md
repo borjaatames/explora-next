@@ -4,10 +4,12 @@ slug: la-graciosa-tour-complet-en-jeep-avec-temps-a-la-plage
 ciudad: lanzarote
 descripcion: 'Deux heures et demie en jeep autour de La Graciosa depuis Caleta de Sebo : le hameau de Pedro Barba, les arches volcaniques et les plages de Las Conchas, La Francesa et Montaña Amarilla, avec possibilité de rester plus longtemps à la plage. 4,4/5 sur 213 avis. Dès 55 €.'
 slugs:
+  es: la-graciosa-ruta-completa-en-jeep-con-tiempo-de-playa
   en: la-graciosa-full-jeep-tour-with-beach-time
   de: la-graciosa-komplette-jeeptour-mit-zeit-am-strand
   fr: la-graciosa-tour-complet-en-jeep-avec-temps-a-la-plage
   it: la-graciosa-tour-completo-in-jeep-con-tempo-in-spiaggia
+  pt: la-graciosa-passeio-completo-de-jipe-com-tempo-de-praia
 duracion: 2 h 30
 duracionMinutos: 150
 precioDesde: 55

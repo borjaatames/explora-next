@@ -4,6 +4,7 @@ slug: lanzarote-marche-artisanal-de-teguise-et-ile-de-la-graciosa
 ciudad: lanzarote
 descripcion: 'Journée avec prise en charge à l''hôtel : deux heures au marché du dimanche de Teguise, puis ferry pour La Graciosa avec croisière, visite guidée de l''église de l''île, paella et boissons à bord et temps libre. 4,3/5 sur 235 avis. Dès 65 €.'
 slugs:
+  es: lanzarote-mercadillo-de-teguise-e-isla-de-la-graciosa
   en: lanzarote-teguise-craft-market-and-la-graciosa-island
   fr: lanzarote-marche-artisanal-de-teguise-et-ile-de-la-graciosa
 duracion: 7 heures

@@ -4,6 +4,7 @@ slug: l-essentiel-de-tenerife-candelaria-la-orotava-garachico-et-masca
 ciudad: tenerife
 descripcion: Journée en autocar avec un guide officiel agréé par le gouvernement des Canaries, en groupe de 35 personnes maximum, à Candelaria, La Orotava, Garachico et Masca, avec des points de prise en charge dans toute l'île. 4,4/5 sur 346 avis. Dès 58 €.
 slugs:
+  es: esencia-de-tenerife-candelaria-la-orotava-garachico-y-masca
   en: essence-of-tenerife-candelaria-la-orotava-garachico-and-masca
   de: das-beste-von-teneriffa-candelaria-la-orotava-garachico-und-masca
   fr: l-essentiel-de-tenerife-candelaria-la-orotava-garachico-et-masca

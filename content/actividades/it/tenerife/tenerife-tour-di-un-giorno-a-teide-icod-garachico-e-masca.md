@@ -4,6 +4,7 @@ slug: tenerife-tour-di-un-giorno-a-teide-icod-garachico-e-masca
 ciudad: tenerife
 descripcion: 'Tour guidato di una giornata con prelievo in hotel: sosta a Vilaflor, Parco Nazionale del Teide, il drago millenario di Icod de los Vinos, le piscine naturali di Garachico e il paese di Masca. 4,3/5 su 124 recensioni. Da 58 €.'
 slugs:
+  es: tenerife-excursion-de-dia-completo-al-teide-icod-garachico-y-masca
   en: tenerife-full-day-tour-of-teide-icod-garachico-and-masca
   de: teneriffa-ganztagestour-zu-teide-icod-garachico-und-masca
   fr: tenerife-journee-au-teide-icod-garachico-et-masca

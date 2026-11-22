@@ -4,10 +4,12 @@ slug: gran-canaria-klettersteig-an-den-felsen-bei-maspalomas
 ciudad: gran-canaria
 descripcion: 'Vier Stunden Klettersteig in den Bergen bei Bahía Feliz: versteckte Höhlen, Wege durch ein Tal wie im Western, Kletterpassage an der Felswand, eine Hängebrücke in 60 Metern Höhe und eine Riesenschaukel, mit Ausrüstung, Snack und Fotos. 4,9/5 bei 203 Bewertungen. Ab 70 €.'
 slugs:
+  es: gran-canaria-via-ferrata-en-acantilados-cerca-de-maspalomas
   en: gran-canaria-via-ferrata-climb-on-cliffs-near-maspalomas
   de: gran-canaria-klettersteig-an-den-felsen-bei-maspalomas
   fr: grande-canarie-via-ferrata-sur-les-falaises-pres-de-maspalomas
   it: gran-canaria-via-ferrata-sulle-scogliere-vicino-a-maspalomas
+  pt: gran-canaria-via-ferrata-em-falesias-perto-de-maspalomas
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 70

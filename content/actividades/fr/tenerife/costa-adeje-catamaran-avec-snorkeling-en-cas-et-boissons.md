@@ -4,6 +4,7 @@ slug: costa-adeje-catamaran-avec-snorkeling-en-cas-et-boissons
 ciudad: tenerife
 descripcion: Trois heures en catamaran depuis Puerto Colón le long de Costa Adeje, avec pause baignade et snorkeling, solarium, en-cas et boissons (bière, sodas et eau). 4,4/5 sur 370 avis. Dès 45 €.
 slugs:
+  es: costa-adeje-catamaran-con-esnorquel-aperitivos-y-bebidas
   en: costa-adeje-catamaran-tour-with-snorkelling-snacks-and-drinks
   fr: costa-adeje-catamaran-avec-snorkeling-en-cas-et-boissons
 duracion: 3 heures

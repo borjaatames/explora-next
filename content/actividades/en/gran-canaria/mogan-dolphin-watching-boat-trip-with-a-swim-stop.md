@@ -4,10 +4,12 @@ slug: mogan-dolphin-watching-boat-trip-with-a-swim-stop
 ciudad: gran-canaria
 descripcion: Four hours on a boat from Puerto de Mogán along the south-west coast of Gran Canaria looking for several dolphin species, with a swim stop, snorkelling gear, paddleboard, drinks and a light lunch. Rated 4.7/5 from 290 reviews. From €89.
 slugs:
+  es: mogan-avistamiento-de-delfines-en-barco-con-parada-para-banarse
   en: mogan-dolphin-watching-boat-trip-with-a-swim-stop
   de: mogan-bootsfahrt-zur-delfinbeobachtung-mit-badestopp
   fr: mogan-sortie-en-bateau-pour-voir-les-dauphins-avec-baignade
   it: mogan-gita-in-barca-per-vedere-i-delfini-con-sosta-per-il-bagno
+  pt: mogan-observacao-de-golfinhos-de-barco-com-paragem-para-nadar
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 89

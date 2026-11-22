@@ -4,6 +4,7 @@ slug: teneriffa-anaga-wald-la-laguna-und-doerfer-im-norden-privat
 ciudad: tenerife
 descripcion: 'Sieben Stunden private Tour durch den Norden Teneriffas in flexiblem Tempo mit einheimischem Guide: der Landschaftspark Anaga mit seinem Lorbeerwald, die UNESCO-Stadt La Laguna, das Dorf Taganana und eine Küstenfahrt am schwarzen Strand von Benijo, mit Abholung im Süden. 4,9/5 bei 102 Bewertungen. Ab 120 €.'
 slugs:
+  es: tenerife-bosque-de-anaga-la-laguna-y-pueblos-del-norte-privado
   en: tenerife-anaga-forest-la-laguna-and-northern-villages-private
   de: teneriffa-anaga-wald-la-laguna-und-doerfer-im-norden-privat
   it: tenerife-foresta-di-anaga-la-laguna-e-paesi-del-nord-privato

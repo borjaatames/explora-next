@@ -4,10 +4,12 @@ slug: lanzarote-und-fuerteventura-faehre-einfach-oder-hin-und-zurueck
 ciudad: lanzarote
 descripcion: 'Fähre von Líneas Romero zwischen Playa Blanca (Lanzarote) und Corralejo (Fuerteventura): 30 Minuten Überfahrt, mehrere Abfahrten am Tag, Priority Boarding und Gepäck bis 20 kg, Surfbretter und Fahrräder kostenlos. 4,7/5 bei 303 Bewertungen. Ab 20 €.'
 slugs:
+  es: lanzarote-y-fuerteventura-ferry-de-ida-o-de-ida-y-vuelta
   en: lanzarote-and-fuerteventura-one-way-or-return-ferry
   de: lanzarote-und-fuerteventura-faehre-einfach-oder-hin-und-zurueck
   fr: lanzarote-et-fuerteventura-ferry-aller-simple-ou-aller-retour
   it: lanzarote-e-fuerteventura-traghetto-solo-andata-o-andata-e-ritorno
+  pt: lanzarote-e-fuerteventura-ferry-de-ida-ou-ida-e-volta
 duracion: 30 Minuten
 duracionMinutos: 30
 precioDesde: 20

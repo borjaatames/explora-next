@@ -4,6 +4,7 @@ slug: ab-fuerteventura-tagestour-nach-lanzarote-mit-mittagessen
 ciudad: fuerteventura
 descripcion: 'Langer Tag ab Fuerteventura mit der Fähre nach Lanzarote und offiziellem Guide: die Krater des Timanfaya-Nationalparks, die Lavahöhle Jameos del Agua und ein Halt im Weinbaugebiet La Geria, mit Eintritten und Mittagessen. 4,5/5 bei 321 Bewertungen. Ab 160 €.'
 slugs:
+  es: desde-fuerteventura-excursion-de-un-dia-a-lanzarote-con-almuerzo
   en: from-fuerteventura-lanzarote-day-tour-with-lunch
   de: ab-fuerteventura-tagestour-nach-lanzarote-mit-mittagessen
   fr: depuis-fuerteventura-journee-a-lanzarote-avec-dejeuner

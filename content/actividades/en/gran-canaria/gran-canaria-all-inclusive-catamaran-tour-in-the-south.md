@@ -4,6 +4,7 @@ slug: gran-canaria-all-inclusive-catamaran-tour-in-the-south
 ciudad: gran-canaria
 descripcion: Four hours on a new two-deck catamaran from Puerto Rico to unspoilt beaches in the south of Gran Canaria, with hotel transfer, paella, salad and wrinkled potatoes, unlimited drinks, snorkelling, Bali beds and a floating sundeck. Rated 4.7/5 from 208 reviews. From €69.
 slugs:
+  es: gran-canaria-catamaran-todo-incluido-por-el-sur
   en: gran-canaria-all-inclusive-catamaran-tour-in-the-south
 duracion: 4 hours
 duracionMinutos: 240

@@ -4,6 +4,7 @@ slug: morro-jable-dolphin-and-whale-watching-boat-trip-with-snorkelling
 ciudad: fuerteventura
 descripcion: Two-and-a-half-hour eco boat trip from Morro Jable for at most 12 passengers to see up to seven dolphin species, flying fish and even whales, with a swim or snorkel stop in turquoise water and optional hotel pick-up. Rated 4.5/5 from 95 reviews. From €49.
 slugs:
+  es: morro-jable-avistamiento-de-delfines-y-ballenas-en-barco-con-esnorquel
   en: morro-jable-dolphin-and-whale-watching-boat-trip-with-snorkelling
 duracion: 2 h 30 min
 duracionMinutos: 150

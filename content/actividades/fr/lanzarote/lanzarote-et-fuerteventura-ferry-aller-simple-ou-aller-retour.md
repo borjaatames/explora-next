@@ -4,10 +4,12 @@ slug: lanzarote-et-fuerteventura-ferry-aller-simple-ou-aller-retour
 ciudad: lanzarote
 descripcion: 'Ferry Líneas Romero entre Playa Blanca (Lanzarote) et Corralejo (Fuerteventura) : traversée de 30 minutes, plusieurs départs par jour, embarquement prioritaire et bagages jusqu''à 20 kg, planches de surf et vélos gratuits. 4,7/5 sur 303 avis. Dès 20 €.'
 slugs:
+  es: lanzarote-y-fuerteventura-ferry-de-ida-o-de-ida-y-vuelta
   en: lanzarote-and-fuerteventura-one-way-or-return-ferry
   de: lanzarote-und-fuerteventura-faehre-einfach-oder-hin-und-zurueck
   fr: lanzarote-et-fuerteventura-ferry-aller-simple-ou-aller-retour
   it: lanzarote-e-fuerteventura-traghetto-solo-andata-o-andata-e-ritorno
+  pt: lanzarote-e-fuerteventura-ferry-de-ida-ou-ida-e-volta
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 20

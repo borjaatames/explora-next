@@ -4,10 +4,12 @@ slug: tenerife-le-vol-en-parapente-biplace-de-votre-vie
 ciudad: tenerife
 descripcion: Vol en parapente biplace de 15 à 20 minutes depuis Taucho au-dessus du sud de Tenerife avec des pilotes professionnels expérimentés, prise en charge de Los Cristianos à Playa Paraíso en van climatisé et 5 photos GoPro. 4,8/5 sur 303 avis. Dès 100 €.
 slugs:
+  es: tenerife-vuelo-en-parapente-biplaza-inolvidable
   en: tenerife-tandem-paragliding-flight-of-a-lifetime
   de: teneriffa-tandem-gleitschirmflug-deines-lebens
   fr: tenerife-le-vol-en-parapente-biplace-de-votre-vie
   it: tenerife-il-volo-in-parapendio-biposto-della-tua-vita
+  pt: tenerife-voo-de-parapente-em-tandem-inesquecivel
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 100

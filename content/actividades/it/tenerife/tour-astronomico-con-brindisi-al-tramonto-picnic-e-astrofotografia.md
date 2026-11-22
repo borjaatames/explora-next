@@ -4,6 +4,7 @@ slug: tour-astronomico-con-brindisi-al-tramonto-picnic-e-astrofotografia
 ciudad: tenerife
 descripcion: 'Tour astronomico in piccolo gruppo dal sud di Tenerife in minivan: tramonto panoramico con aperitivo e brindisi, osservazione del Sole con filtro professionale, osservazione notturna con telescopi e astrofotografia dal vivo, con foto della galassia di Andromeda inclusa. 4,7/5 su 131 recensioni. Da 39 €.'
 slugs:
+  es: tour-astronomico-con-brindis-al-atardecer-picnic-y-astrofotografia
   en: astronomy-tour-with-a-sunset-toast-picnic-and-astrophotography
   it: tour-astronomico-con-brindisi-al-tramonto-picnic-e-astrofotografia
 duracion: 6 ore

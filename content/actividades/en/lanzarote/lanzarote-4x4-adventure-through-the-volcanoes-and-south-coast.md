@@ -4,6 +4,7 @@ slug: lanzarote-4x4-adventure-through-the-volcanoes-and-south-coast
 ciudad: lanzarote
 descripcion: 'Six-hour 4x4 trip with hotel pick-up across volcanic terrain: Yaiza, free time at Papagayo beach, the green lagoon of El Golfo, the Timanfaya visitor centre, an off-road track from El Cuervo volcano to La Geria and a small wine tasting. Rated 4.4/5 from 109 reviews. From €68.'
 slugs:
+  es: lanzarote-aventura-en-4x4-por-los-volcanes-y-la-costa-sur
   en: lanzarote-4x4-adventure-through-the-volcanoes-and-south-coast
   de: lanzarote-gelaendewagen-abenteuer-zu-vulkanen-und-suedkueste
   fr: lanzarote-aventure-en-4x4-entre-volcans-et-cote-sud

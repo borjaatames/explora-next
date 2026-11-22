@@ -4,6 +4,7 @@ slug: vip-tour-grand-tour-of-tenerife-without-teide
 ciudad: tenerife
 descripcion: Full-day small-group tour with hotel pick-up through the natural scenery and well-preserved historic towns of northern Tenerife, with stops tourists rarely make and a flexible itinerary. Rated 4.8/5 from 170 reviews. From €75.
 slugs:
+  es: tour-vip-gran-vuelta-a-tenerife-sin-teide
   en: vip-tour-grand-tour-of-tenerife-without-teide
 duracion: 8 hours
 duracionMinutos: 480

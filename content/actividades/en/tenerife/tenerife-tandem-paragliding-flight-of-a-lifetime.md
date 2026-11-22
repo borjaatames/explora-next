@@ -4,10 +4,12 @@ slug: tenerife-tandem-paragliding-flight-of-a-lifetime
 ciudad: tenerife
 descripcion: Tandem paragliding flight of 15 to 20 minutes from Taucho over the south of Tenerife with experienced professional pilots, pick-up from Los Cristianos to Playa Paraíso in an air-conditioned van and 5 GoPro photos. Rated 4.8/5 from 303 reviews. From €100.
 slugs:
+  es: tenerife-vuelo-en-parapente-biplaza-inolvidable
   en: tenerife-tandem-paragliding-flight-of-a-lifetime
   de: teneriffa-tandem-gleitschirmflug-deines-lebens
   fr: tenerife-le-vol-en-parapente-biplace-de-votre-vie
   it: tenerife-il-volo-in-parapendio-biposto-della-tua-vita
+  pt: tenerife-voo-de-parapente-em-tandem-inesquecivel
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 100

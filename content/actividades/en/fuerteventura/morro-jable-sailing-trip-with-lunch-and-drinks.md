@@ -4,6 +4,7 @@ slug: morro-jable-sailing-trip-with-lunch-and-drinks
 ciudad: fuerteventura
 descripcion: Three and a half hours on a sailing yacht from Morro Jable along the Jandía coast, with a swim and snorkel, Canarian lunch and unlimited drinks including beer, cava and wine, a turn at the helm and hotel pick-up in the south. Rated 4.9/5 from 350 reviews. From €85.
 slugs:
+  es: morro-jable-paseo-en-velero-con-almuerzo-y-bebidas
   en: morro-jable-sailing-trip-with-lunch-and-drinks
   de: morro-jable-segeltoern-mit-essen-und-getraenken
 duracion: 3 h 30 min

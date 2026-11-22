@@ -4,8 +4,10 @@ slug: tenerife-kayak-tour-with-wildlife-underwater-scooters-and-free-photos
 ciudad: tenerife
 descripcion: Small-group kayak trip in the south of Tenerife to see bottlenose dolphins and loggerhead turtles, visit the Palmar sea cave and snorkel with brand-new underwater scooters, with free GoPro photos and videos. Rated 4.6/5 from 333 reviews. From €25.
 slugs:
+  es: tenerife-kayak-con-fauna-scooters-submarinos-y-fotos-gratis
   en: tenerife-kayak-tour-with-wildlife-underwater-scooters-and-free-photos
   it: tenerife-kayak-tra-la-fauna-marina-con-scooter-subacquei-e-foto-gratis
+  pt: tenerife-caiaque-com-vida-selvagem-scooters-subaquaticas-e-fotos-gratis
 duracion: 2 h 45 min
 duracionMinutos: 165
 precioDesde: 25

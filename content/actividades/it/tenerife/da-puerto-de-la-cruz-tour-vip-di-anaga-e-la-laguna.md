@@ -4,6 +4,7 @@ slug: da-puerto-de-la-cruz-tour-vip-di-anaga-e-la-laguna
 ciudad: tenerife
 descripcion: Tour di un giorno con autista da Puerto de la Cruz a San Cristóbal de La Laguna (patrimonio UNESCO) e al parco rurale di Anaga con la sua laurisilva, con pranzo e prelievo in hotel. 4,4/5 su 162 recensioni. Da 84 €.
 slugs:
+  es: desde-puerto-de-la-cruz-tour-vip-por-anaga-y-la-laguna
   en: from-puerto-de-la-cruz-vip-tour-of-anaga-and-la-laguna
   de: ab-puerto-de-la-cruz-vip-tour-durch-anaga-und-la-laguna
   fr: depuis-puerto-de-la-cruz-visite-vip-de-l-anaga-et-de-la-laguna

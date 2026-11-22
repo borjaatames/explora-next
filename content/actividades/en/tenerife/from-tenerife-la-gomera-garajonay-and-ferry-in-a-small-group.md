@@ -4,6 +4,7 @@ slug: from-tenerife-la-gomera-garajonay-and-ferry-in-a-small-group
 ciudad: tenerife
 descripcion: 'Day trip to La Gomera with return ferry tickets, transfers on the island and an official Canary Islands guide, in a group of at most 18: the ancient laurel forest of Garajonay, volcanic viewpoints, rural villages and local traditions. Rated 4.6/5 from 248 reviews. From €149.'
 slugs:
+  es: desde-tenerife-la-gomera-garajonay-y-ferry-en-grupo-reducido
   en: from-tenerife-la-gomera-garajonay-and-ferry-in-a-small-group
   it: da-tenerife-la-gomera-garajonay-e-traghetto-in-piccolo-gruppo
 duracion: 11 hours

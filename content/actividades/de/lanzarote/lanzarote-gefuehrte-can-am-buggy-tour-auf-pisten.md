@@ -4,10 +4,12 @@ slug: lanzarote-gefuehrte-can-am-buggy-tour-auf-pisten
 ciudad: lanzarote
 descripcion: Drei Stunden am Steuer eines automatischen Can-Am-Trail-Buggys für zwei Personen auf den besten Pisten Lanzarotes durch raue Vulkanlandschaft, mit einem erfahrenen Lehrer, der dir das Fahren zeigt. 4,5/5 bei 309 Bewertungen. Ab 170 € pro Gruppe.
 slugs:
+  es: lanzarote-ruta-guiada-en-buggy-can-am-por-pistas-de-tierra
   en: lanzarote-guided-can-am-buggy-tour-on-off-road-tracks
   de: lanzarote-gefuehrte-can-am-buggy-tour-auf-pisten
   fr: lanzarote-buggy-can-am-guide-sur-pistes
   it: lanzarote-tour-guidato-in-buggy-can-am-su-sterrato
+  pt: lanzarote-passeio-guiado-de-buggy-can-am-por-trilhos-de-terra
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 170

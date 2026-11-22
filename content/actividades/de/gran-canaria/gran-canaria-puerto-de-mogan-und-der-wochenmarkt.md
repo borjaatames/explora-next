@@ -4,6 +4,7 @@ slug: gran-canaria-puerto-de-mogan-und-der-wochenmarkt
 ciudad: gran-canaria
 descripcion: Sechs Stunden mit dem Bus und Guide ab den Urlaubsorten im Süden nach Puerto de Mogán, dem „Klein-Venedig“ Gran Canarias, mit Wochenmarkt und Hafen, optional mit Bootsfahrt ab Puerto Rico. 4,4/5 bei 153 Bewertungen. Ab 22 €.
 slugs:
+  es: gran-canaria-puerto-de-mogan-y-su-mercadillo
   en: gran-canaria-puerto-de-mogan-village-and-local-market
   de: gran-canaria-puerto-de-mogan-und-der-wochenmarkt
 duracion: 6 Stunden

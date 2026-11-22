@@ -4,10 +4,12 @@ slug: mogan-gita-in-barca-per-vedere-i-delfini-con-sosta-per-il-bagno
 ciudad: gran-canaria
 descripcion: Quattro ore in barca da Puerto de Mogán lungo la costa sud-ovest di Gran Canaria alla ricerca di varie specie di delfini, con sosta per il bagno, attrezzatura da snorkeling, paddle, bevande e pranzo leggero. 4,7/5 su 290 recensioni. Da 89 €.
 slugs:
+  es: mogan-avistamiento-de-delfines-en-barco-con-parada-para-banarse
   en: mogan-dolphin-watching-boat-trip-with-a-swim-stop
   de: mogan-bootsfahrt-zur-delfinbeobachtung-mit-badestopp
   fr: mogan-sortie-en-bateau-pour-voir-les-dauphins-avec-baignade
   it: mogan-gita-in-barca-per-vedere-i-delfini-con-sosta-per-il-bagno
+  pt: mogan-observacao-de-golfinhos-de-barco-com-paragem-para-nadar
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 89

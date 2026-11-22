@@ -4,10 +4,12 @@ slug: teneriffa-tandem-gleitschirmflug-mit-abholung
 ciudad: tenerife
 descripcion: Tandemflug über den Süden Teneriffas mit einem erfahrenen, mehrsprachigen Piloten, vier Flugoptionen zu unterschiedlichen Preisen, Abholung in Costa Adeje, Los Cristianos und Las Américas und Transfer zum Startplatz. 4,9/5 bei 372 Bewertungen. Ab 110 €.
 slugs:
+  es: tenerife-parapente-biplaza-con-recogida
   en: tenerife-tandem-paragliding-experience-with-pick-up
   de: teneriffa-tandem-gleitschirmflug-mit-abholung
   fr: tenerife-vol-en-parapente-biplace-avec-prise-en-charge
   it: tenerife-volo-in-parapendio-biposto-con-prelievo
+  pt: tenerife-parapente-em-tandem-com-recolha
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 110

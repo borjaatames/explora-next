@@ -4,6 +4,7 @@ slug: cruz-del-carmen-anaga-hike-with-local-products
 ciudad: tenerife
 descripcion: Three-and-a-half-hour guided hike from Cruz del Carmen in the Anaga Biosphere Reserve, with panoramic views on the way into the laurel forest, a tasting of local food and transport back to the starting point. Rated 4.9/5 from 207 reviews. From €55.
 slugs:
+  es: cruz-del-carmen-senderismo-por-anaga-con-productos-locales
   en: cruz-del-carmen-anaga-hike-with-local-products
   de: cruz-del-carmen-wanderung-in-anaga-mit-regionalen-produkten
   fr: cruz-del-carmen-randonnee-dans-l-anaga-avec-produits-locaux

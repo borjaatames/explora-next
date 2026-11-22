@@ -4,10 +4,12 @@ slug: lanzarote-e-fuerteventura-traghetto-solo-andata-o-andata-e-ritorno
 ciudad: lanzarote
 descripcion: 'Traghetto Líneas Romero tra Playa Blanca (Lanzarote) e Corralejo (Fuerteventura): traversata di 30 minuti, varie partenze al giorno, imbarco prioritario e bagaglio fino a 20 kg, tavole da surf e bici gratis. 4,7/5 su 303 recensioni. Da 20 €.'
 slugs:
+  es: lanzarote-y-fuerteventura-ferry-de-ida-o-de-ida-y-vuelta
   en: lanzarote-and-fuerteventura-one-way-or-return-ferry
   de: lanzarote-und-fuerteventura-faehre-einfach-oder-hin-und-zurueck
   fr: lanzarote-et-fuerteventura-ferry-aller-simple-ou-aller-retour
   it: lanzarote-e-fuerteventura-traghetto-solo-andata-o-andata-e-ritorno
+  pt: lanzarote-e-fuerteventura-ferry-de-ida-ou-ida-e-volta
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 20

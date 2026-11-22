@@ -4,6 +4,7 @@ slug: from-south-tenerife-teide-national-park-small-group-tour
 ciudad: tenerife
 descripcion: Four-hour tour of Teide National Park for at most 8 passengers, reaching places big coaches can't, with more time to walk around the volcanic landscape and several photo stops; hotel pick-up in the south. Rated 4.7/5 from 360 reviews. From €70.
 slugs:
+  es: desde-el-sur-de-tenerife-parque-nacional-del-teide-en-grupo-reducido
   en: from-south-tenerife-teide-national-park-small-group-tour
   de: ab-teneriffa-sued-teide-nationalpark-in-kleiner-gruppe
 duracion: 4 hours

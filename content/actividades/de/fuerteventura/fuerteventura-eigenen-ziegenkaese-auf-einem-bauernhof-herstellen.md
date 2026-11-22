@@ -4,10 +4,12 @@ slug: fuerteventura-eigenen-ziegenkaese-auf-einem-bauernhof-herstellen
 ciudad: fuerteventura
 descripcion: 'Zweieinhalb Stunden Käse-Workshop in einer traditionellen Käserei in Los Alares: Melken von Hand und mit der Maschine, eigenen Majorero-Käse herstellen – von der Presse bis zum Vakuumieren und Etikettieren – und ein traditionelles Frühstück. 4,9/5 bei 135 Bewertungen. Ab 75 €.'
 slugs:
+  es: fuerteventura-haz-tu-propio-queso-de-cabra-en-una-granja
   en: fuerteventura-make-your-own-goat-cheese-at-a-local-farm
   de: fuerteventura-eigenen-ziegenkaese-auf-einem-bauernhof-herstellen
   fr: fuerteventura-fabriquez-votre-fromage-de-chevre-dans-une-ferme
   it: fuerteventura-prepara-il-tuo-formaggio-di-capra-in-una-fattoria
+  pt: fuerteventura-faca-o-seu-proprio-queijo-de-cabra-numa-quinta
 duracion: 2 Std. 30 Min.
 duracionMinutos: 150
 precioDesde: 75

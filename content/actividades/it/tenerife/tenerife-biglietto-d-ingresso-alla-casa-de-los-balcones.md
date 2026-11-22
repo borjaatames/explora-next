@@ -4,10 +4,12 @@ slug: tenerife-biglietto-d-ingresso-alla-casa-de-los-balcones
 ciudad: tenerife
 descripcion: Ingresso alla Casa de los Balcones a La Orotava, casa canaria dell'Ottocento trasformata in museo, con gli oggetti antichi dei vecchi proprietari, l'artigianato tradizionale del filo e un'audioguida da scaricare. 4,5/5 su 164 recensioni. Da 6 €.
 slugs:
+  es: tenerife-entrada-a-la-casa-de-los-balcones
   en: tenerife-la-casa-de-los-balcones-entry-ticket
   de: teneriffa-eintritt-in-die-casa-de-los-balcones
   fr: tenerife-billet-d-entree-a-la-casa-de-los-balcones
   it: tenerife-biglietto-d-ingresso-alla-casa-de-los-balcones
+  pt: tenerife-bilhete-de-entrada-na-casa-de-los-balcones
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 6

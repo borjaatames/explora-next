@@ -4,6 +4,7 @@ slug: cruz-del-carmen-randonnee-dans-l-anaga-avec-produits-locaux
 ciudad: tenerife
 descripcion: Trois heures et demie de randonnée guidée depuis Cruz del Carmen dans la réserve de biosphère d'Anaga, avec vues panoramiques en entrant dans la forêt de lauriers, dégustation de produits locaux et retour au point de départ. 4,9/5 sur 207 avis. Dès 55 €.
 slugs:
+  es: cruz-del-carmen-senderismo-por-anaga-con-productos-locales
   en: cruz-del-carmen-anaga-hike-with-local-products
   de: cruz-del-carmen-wanderung-in-anaga-mit-regionalen-produkten
   fr: cruz-del-carmen-randonnee-dans-l-anaga-avec-produits-locaux

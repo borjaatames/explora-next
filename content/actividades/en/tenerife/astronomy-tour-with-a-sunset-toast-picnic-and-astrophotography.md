@@ -4,6 +4,7 @@ slug: astronomy-tour-with-a-sunset-toast-picnic-and-astrophotography
 ciudad: tenerife
 descripcion: 'Small-group astronomy tour from the south of Tenerife by minivan: panoramic sunset with an aperitif and toast, solar observation with a professional filter, night stargazing with telescopes and live astrophotography, including a photo of the Andromeda galaxy. Rated 4.7/5 from 131 reviews. From €39.'
 slugs:
+  es: tour-astronomico-con-brindis-al-atardecer-picnic-y-astrofotografia
   en: astronomy-tour-with-a-sunset-toast-picnic-and-astrophotography
   it: tour-astronomico-con-brindisi-al-tramonto-picnic-e-astrofotografia
 duracion: 6 hours

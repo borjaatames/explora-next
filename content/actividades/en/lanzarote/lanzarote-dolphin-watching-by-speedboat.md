@@ -4,6 +4,7 @@ slug: lanzarote-dolphin-watching-by-speedboat
 ciudad: lanzarote
 descripcion: Speedboat trip for at most 12 passengers off Lanzarote to look for dolphins, turtles and seabirds, with a skipper, life jackets and water. Rated 4.4/5 from 139 reviews. From €65.
 slugs:
+  es: lanzarote-avistamiento-de-delfines-en-lancha-rapida
   en: lanzarote-dolphin-watching-by-speedboat
   fr: lanzarote-observation-des-dauphins-en-bateau-rapide
 duracion: 2 hours

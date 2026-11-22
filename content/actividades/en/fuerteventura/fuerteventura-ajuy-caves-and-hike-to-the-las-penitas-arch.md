@@ -4,6 +4,7 @@ slug: fuerteventura-ajuy-caves-and-hike-to-the-las-penitas-arch
 ciudad: fuerteventura
 descripcion: 'Seven-hour small-group day from the north of Fuerteventura: a guided hike up the Las Peñitas gorge to its hidden rock window, a visit to the Ajuy caves, a sandwich lunch and transport. Rated 4.9/5 from 98 reviews. From €85.'
 slugs:
+  es: fuerteventura-cuevas-de-ajuy-y-ruta-al-arco-de-las-penitas
   en: fuerteventura-ajuy-caves-and-hike-to-the-las-penitas-arch
 duracion: 7 hours
 duracionMinutos: 420

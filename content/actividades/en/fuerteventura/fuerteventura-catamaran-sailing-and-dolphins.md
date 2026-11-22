@@ -4,6 +4,7 @@ slug: fuerteventura-catamaran-sailing-and-dolphins
 ciudad: fuerteventura
 descripcion: Four-and-a-half-hour sailing catamaran trip in a group of up to 10 off the south of Fuerteventura to look for dolphins, with transfer, food and drinks and an experienced crew. Rated 4.7/5 from 107 reviews. From €99.
 slugs:
+  es: fuerteventura-catamaran-a-vela-y-delfines
   en: fuerteventura-catamaran-sailing-and-dolphins
 duracion: 4 h 30 min
 duracionMinutos: 270

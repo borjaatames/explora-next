@@ -4,6 +4,7 @@ slug: teide-sunset-above-the-clouds-and-stargazing
 ciudad: tenerife
 descripcion: Sunset from above the clouds at 2,100 metres in Teide National Park followed by stargazing with a professional guide, with options for a small-group picnic, professional telescopes or dinner, and transport from the south or north. Rated 4.4/5 from 383 reviews. From €60.
 slugs:
+  es: teide-atardecer-sobre-las-nubes-y-observacion-de-estrellas
   en: teide-sunset-above-the-clouds-and-stargazing
   de: teide-sonnenuntergang-ueber-den-wolken-und-sternbeobachtung
   it: teide-tramonto-sopra-le-nuvole-e-osservazione-delle-stelle

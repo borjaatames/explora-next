@@ -4,6 +4,7 @@ slug: das-beste-von-teneriffa-candelaria-la-orotava-garachico-und-masca
 ciudad: tenerife
 descripcion: Ganztägige Busrundfahrt mit offiziellem, von der kanarischen Regierung zertifiziertem Guide, in einer Gruppe von höchstens 35 Personen, nach Candelaria, La Orotava, Garachico und Masca, mit Abholpunkten auf ganz Teneriffa. 4,4/5 bei 346 Bewertungen. Ab 58 €.
 slugs:
+  es: esencia-de-tenerife-candelaria-la-orotava-garachico-y-masca
   en: essence-of-tenerife-candelaria-la-orotava-garachico-and-masca
   de: das-beste-von-teneriffa-candelaria-la-orotava-garachico-und-masca
   fr: l-essentiel-de-tenerife-candelaria-la-orotava-garachico-et-masca

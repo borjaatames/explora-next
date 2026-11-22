@@ -4,10 +4,12 @@ slug: tenerife-tandem-paragliding-experience-with-pick-up
 ciudad: tenerife
 descripcion: Tandem paragliding flight over the south of Tenerife with an experienced, multilingual pilot, four flight options at different prices, pick-up in Costa Adeje, Los Cristianos and Las Américas and transport to the take-off point. Rated 4.9/5 from 372 reviews. From €110.
 slugs:
+  es: tenerife-parapente-biplaza-con-recogida
   en: tenerife-tandem-paragliding-experience-with-pick-up
   de: teneriffa-tandem-gleitschirmflug-mit-abholung
   fr: tenerife-vol-en-parapente-biplace-avec-prise-en-charge
   it: tenerife-volo-in-parapendio-biposto-con-prelievo
+  pt: tenerife-parapente-em-tandem-com-recolha
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 110

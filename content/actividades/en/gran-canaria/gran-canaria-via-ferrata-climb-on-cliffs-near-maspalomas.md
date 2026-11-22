@@ -4,10 +4,12 @@ slug: gran-canaria-via-ferrata-climb-on-cliffs-near-maspalomas
 ciudad: gran-canaria
 descripcion: 'Four-hour via ferrata in the mountains near Bahía Feliz: hidden caves, Wild-West-style valley trails, a climb up the rock wall, a suspension bridge 60 metres up and a giant swing, with all the gear, a snack and photos. Rated 4.9/5 from 203 reviews. From €70.'
 slugs:
+  es: gran-canaria-via-ferrata-en-acantilados-cerca-de-maspalomas
   en: gran-canaria-via-ferrata-climb-on-cliffs-near-maspalomas
   de: gran-canaria-klettersteig-an-den-felsen-bei-maspalomas
   fr: grande-canarie-via-ferrata-sur-les-falaises-pres-de-maspalomas
   it: gran-canaria-via-ferrata-sulle-scogliere-vicino-a-maspalomas
+  pt: gran-canaria-via-ferrata-em-falesias-perto-de-maspalomas
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 70

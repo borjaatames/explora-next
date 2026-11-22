@@ -4,6 +4,7 @@ slug: da-tenerife-la-gomera-garajonay-e-traghetto-in-piccolo-gruppo
 ciudad: tenerife
 descripcion: 'Gita di un giorno a La Gomera con biglietti del traghetto andata e ritorno, transfer sull''isola e guida ufficiale delle Canarie, in un gruppo di massimo 18: l''antica laurisilva di Garajonay, belvedere vulcanici, paesi rurali e tradizioni locali. 4,6/5 su 248 recensioni. Da 149 €.'
 slugs:
+  es: desde-tenerife-la-gomera-garajonay-y-ferry-en-grupo-reducido
   en: from-tenerife-la-gomera-garajonay-and-ferry-in-a-small-group
   it: da-tenerife-la-gomera-garajonay-e-traghetto-in-piccolo-gruppo
 duracion: 11 ore

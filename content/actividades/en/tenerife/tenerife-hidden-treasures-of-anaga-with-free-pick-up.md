@@ -4,6 +4,7 @@ slug: tenerife-hidden-treasures-of-anaga-with-free-pick-up
 ciudad: tenerife
 descripcion: 'Day trip to Anaga Rural Park with a guide and transfer: panoramic viewpoints, a relict laurel forest and a village where locals live in caves, as an active small-group hike or a relaxed private tour with beaches; flexible times for cruise passengers in Santa Cruz. Rated 4.9/5 from 104 reviews. From €123.'
 slugs:
+  es: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
   en: tenerife-hidden-treasures-of-anaga-with-free-pick-up
 duracion: 7 h 30 min
 duracionMinutos: 450

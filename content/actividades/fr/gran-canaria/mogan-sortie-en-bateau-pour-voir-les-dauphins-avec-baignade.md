@@ -4,10 +4,12 @@ slug: mogan-sortie-en-bateau-pour-voir-les-dauphins-avec-baignade
 ciudad: gran-canaria
 descripcion: Quatre heures en bateau depuis Puerto de Mogán le long de la côte sud-ouest de la Grande Canarie à la recherche de plusieurs espèces de dauphins, avec baignade, équipement de snorkeling, paddle, boissons et déjeuner léger. 4,7/5 sur 290 avis. Dès 89 €.
 slugs:
+  es: mogan-avistamiento-de-delfines-en-barco-con-parada-para-banarse
   en: mogan-dolphin-watching-boat-trip-with-a-swim-stop
   de: mogan-bootsfahrt-zur-delfinbeobachtung-mit-badestopp
   fr: mogan-sortie-en-bateau-pour-voir-les-dauphins-avec-baignade
   it: mogan-gita-in-barca-per-vedere-i-delfini-con-sosta-per-il-bagno
+  pt: mogan-observacao-de-golfinhos-de-barco-com-paragem-para-nadar
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 89

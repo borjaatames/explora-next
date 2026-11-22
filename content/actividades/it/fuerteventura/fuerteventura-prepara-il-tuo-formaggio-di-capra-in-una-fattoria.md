@@ -4,10 +4,12 @@ slug: fuerteventura-prepara-il-tuo-formaggio-di-capra-in-una-fattoria
 ciudad: fuerteventura
 descripcion: 'Due ore e mezza di laboratorio in un caseificio tradizionale a Los Alares: mungitura a mano e a macchina, preparazione del tuo formaggio majorero dalla pressa al sottovuoto con etichetta e colazione tradizionale. 4,9/5 su 135 recensioni. Da 75 €.'
 slugs:
+  es: fuerteventura-haz-tu-propio-queso-de-cabra-en-una-granja
   en: fuerteventura-make-your-own-goat-cheese-at-a-local-farm
   de: fuerteventura-eigenen-ziegenkaese-auf-einem-bauernhof-herstellen
   fr: fuerteventura-fabriquez-votre-fromage-de-chevre-dans-une-ferme
   it: fuerteventura-prepara-il-tuo-formaggio-di-capra-in-una-fattoria
+  pt: fuerteventura-faca-o-seu-proprio-queijo-de-cabra-numa-quinta
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 75

@@ -4,6 +4,7 @@ slug: gran-canaria-highlights-teror-arucas-und-mehr
 ciudad: gran-canaria
 descripcion: Ganztägige Busrundfahrt mit Guide ab dem Süden Gran Canarias ins Zentrum und in den Norden der Insel, durch traditionelle Orte wie Teror und Arucas mit ihrer farbenfrohen kanarischen Architektur. 4,4/5 bei 381 Bewertungen. Ab 44 €.
 slugs:
+  es: lo-mejor-de-gran-canaria-teror-arucas-y-mas
   en: gran-canaria-highlights-tour-teror-arucas-and-more
   de: gran-canaria-highlights-teror-arucas-und-mehr
 duracion: 8 Stunden

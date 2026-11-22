@@ -4,6 +4,7 @@ slug: tenerife-3-hour-guided-buggy-tour-to-teide-day-or-sunset
 ciudad: tenerife
 descripcion: Three-hour guided on-road buggy tour through Teide National Park (UNESCO) from Chío, with departures at 10:00, 12:00, 15:00 or at sunset (18:00), thermal jacket, gloves, panoramic stops and a snack and drink at the end. Rated 4.7/5 from 305 reviews. From €160 per group.
 slugs:
+  es: tenerife-ruta-guiada-de-3-horas-en-buggy-al-teide-de-dia-o-al-atardecer
   en: tenerife-3-hour-guided-buggy-tour-to-teide-day-or-sunset
   fr: tenerife-buggy-guide-de-3-h-au-teide-de-jour-ou-au-coucher-du-soleil
   it: tenerife-tour-guidato-di-3-ore-in-buggy-al-teide-di-giorno-o-al-tramonto

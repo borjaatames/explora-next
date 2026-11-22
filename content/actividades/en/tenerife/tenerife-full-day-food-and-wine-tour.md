@@ -4,6 +4,7 @@ slug: tenerife-full-day-food-and-wine-tour
 ciudad: tenerife
 descripcion: 'Full day from the south of Tenerife with a guide: the World Heritage city of La Laguna, a cheese and wine tasting at the Casa del Vino wine museum and a lunch where each dish comes with a different wine. Rated 4.5/5 from 248 reviews. From €85.'
 slugs:
+  es: tenerife-ruta-gastronomica-y-de-vinos-de-dia-completo
   en: tenerife-full-day-food-and-wine-tour
 duracion: 8 hours
 duracionMinutos: 480

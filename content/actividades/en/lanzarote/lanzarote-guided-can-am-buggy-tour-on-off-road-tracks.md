@@ -4,10 +4,12 @@ slug: lanzarote-guided-can-am-buggy-tour-on-off-road-tracks
 ciudad: lanzarote
 descripcion: Three hours driving an automatic two-seat Can-Am Trail buggy on Lanzarote's best off-road tracks through rugged volcanic landscape, with an experienced instructor who shows you how to handle it. Rated 4.5/5 from 309 reviews. From €170 per group.
 slugs:
+  es: lanzarote-ruta-guiada-en-buggy-can-am-por-pistas-de-tierra
   en: lanzarote-guided-can-am-buggy-tour-on-off-road-tracks
   de: lanzarote-gefuehrte-can-am-buggy-tour-auf-pisten
   fr: lanzarote-buggy-can-am-guide-sur-pistes
   it: lanzarote-tour-guidato-in-buggy-can-am-su-sterrato
+  pt: lanzarote-passeio-guiado-de-buggy-can-am-por-trilhos-de-terra
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 170

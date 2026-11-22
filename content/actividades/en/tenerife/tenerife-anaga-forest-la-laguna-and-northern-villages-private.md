@@ -4,6 +4,7 @@ slug: tenerife-anaga-forest-la-laguna-and-northern-villages-private
 ciudad: tenerife
 descripcion: 'Seven-hour private tour of northern Tenerife at a flexible pace with a local guide: Anaga Rural Park and its laurel forest, the UNESCO city of La Laguna, the village of Taganana and a coastal drive past Benijo''s black-sand beach, with pick-up in the south. Rated 4.9/5 from 102 reviews. From €120.'
 slugs:
+  es: tenerife-bosque-de-anaga-la-laguna-y-pueblos-del-norte-privado
   en: tenerife-anaga-forest-la-laguna-and-northern-villages-private
   de: teneriffa-anaga-wald-la-laguna-und-doerfer-im-norden-privat
   it: tenerife-foresta-di-anaga-la-laguna-e-paesi-del-nord-privato

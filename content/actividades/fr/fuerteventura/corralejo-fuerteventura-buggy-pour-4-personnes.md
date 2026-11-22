@@ -4,6 +4,7 @@ slug: corralejo-fuerteventura-buggy-pour-4-personnes
 ciudad: fuerteventura
 descripcion: Deux heures de buggy guidé depuis Corralejo sur les terrains accidentés de Fuerteventura, entre paysages volcaniques et plages dorées, en buggy automatique 4 places avec briefing de sécurité. 4,3/5 sur 104 avis. Dès 220 € par groupe.
 slugs:
+  es: corralejo-fuerteventura-ruta-en-buggy-para-4
   en: corralejo-fuerteventura-buggy-tour-for-4
   fr: corralejo-fuerteventura-buggy-pour-4-personnes
   it: corralejo-fuerteventura-tour-in-buggy-per-4

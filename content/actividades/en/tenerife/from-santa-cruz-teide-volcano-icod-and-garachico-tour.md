@@ -4,6 +4,7 @@ slug: from-santa-cruz-teide-volcano-icod-and-garachico-tour
 ciudad: tenerife
 descripcion: Day tour by minivan with a local guide from Santa Cruz to Teide National Park, the thousand-year-old dragon tree of Icod de los Vinos and the town of Garachico, combining nature, culture and history, with pick-up. Rated 4.9/5 from 281 reviews. From €75.
 slugs:
+  es: desde-santa-cruz-volcan-teide-icod-y-garachico
   en: from-santa-cruz-teide-volcano-icod-and-garachico-tour
 duracion: 7 h 30 min
 duracionMinutos: 450

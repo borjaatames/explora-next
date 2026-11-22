@@ -4,6 +4,7 @@ slug: tenerife-buggy-guide-de-3-h-au-teide-de-jour-ou-au-coucher-du-soleil
 ciudad: tenerife
 descripcion: Trois heures de buggy guidé sur route dans le parc national du Teide (UNESCO) au départ de Chío, avec départs à 10 h, 12 h, 15 h ou au coucher du soleil (18 h), veste thermique, gants, arrêts panoramiques et en-cas à la fin. 4,7/5 sur 305 avis. Dès 160 € par groupe.
 slugs:
+  es: tenerife-ruta-guiada-de-3-horas-en-buggy-al-teide-de-dia-o-al-atardecer
   en: tenerife-3-hour-guided-buggy-tour-to-teide-day-or-sunset
   fr: tenerife-buggy-guide-de-3-h-au-teide-de-jour-ou-au-coucher-du-soleil
   it: tenerife-tour-guidato-di-3-ore-in-buggy-al-teide-di-giorno-o-al-tramonto

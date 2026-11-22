@@ -4,6 +4,7 @@ slug: gran-canaria-delfin-und-walbeobachtung-lineas-salmon
 ciudad: gran-canaria
 descripcion: Zweieinhalb Stunden mit Líneas Salmón vor dem Süden Gran Canarias, um Delfine und Wale aus der Nähe zu sehen, mit Bar an Bord und Gutschein für eine Gratisfahrt, falls keine Tiere auftauchen. 4,2/5 bei 3.296 Bewertungen. Ab 38 €.
 slugs:
+  es: gran-canaria-avistamiento-delfines-ballenas-lineas-salmon
   en: gran-canaria-dolphin-whale-watching-boat-trip-lineas-salmon
   de: gran-canaria-delfin-und-walbeobachtung-lineas-salmon
 duracion: 2 Std. 30 Min.

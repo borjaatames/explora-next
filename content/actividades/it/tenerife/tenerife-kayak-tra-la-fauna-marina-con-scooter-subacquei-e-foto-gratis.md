@@ -4,8 +4,10 @@ slug: tenerife-kayak-tra-la-fauna-marina-con-scooter-subacquei-e-foto-gratis
 ciudad: tenerife
 descripcion: Uscita in kayak in piccolo gruppo nel sud di Tenerife per vedere tursiopi e tartarughe Caretta, visitare la grotta marina di Palmar e fare snorkeling con scooter subacquei nuovissimi, con foto e video GoPro gratis. 4,6/5 su 333 recensioni. Da 25 €.
 slugs:
+  es: tenerife-kayak-con-fauna-scooters-submarinos-y-fotos-gratis
   en: tenerife-kayak-tour-with-wildlife-underwater-scooters-and-free-photos
   it: tenerife-kayak-tra-la-fauna-marina-con-scooter-subacquei-e-foto-gratis
+  pt: tenerife-caiaque-com-vida-selvagem-scooters-subaquaticas-e-fotos-gratis
 duracion: 2 h 45 min
 duracionMinutos: 165
 precioDesde: 25

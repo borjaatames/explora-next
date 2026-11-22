@@ -4,10 +4,12 @@ slug: la-premiere-ecole-de-surf-de-lanzarote-cours-de-2-ou-4-heures-a-famara
 ciudad: lanzarote
 descripcion: Cours de surf sur la plage de Famara avec des moniteurs de plus de 30 ans d'expérience, diplômés ISA et RLSS, pour débutants ou intermédiaires, en petit groupe ou en privé, avec planche, combinaison et transport jusqu'à la plage. 4,9/5 sur 331 avis. Dès 45 €.
 slugs:
+  es: la-primera-escuela-de-surf-de-lanzarote-clases-de-2-o-4-horas-en-famara
   en: lanzarote-s-first-surf-school-2-or-4-hour-lessons-at-famara
   de: lanzarotes-erste-surfschule-kurse-von-2-oder-4-stunden-in-famara
   fr: la-premiere-ecole-de-surf-de-lanzarote-cours-de-2-ou-4-heures-a-famara
   it: la-prima-scuola-di-surf-di-lanzarote-lezioni-di-2-o-4-ore-a-famara
+  pt: a-primeira-escola-de-surf-de-lanzarote-aulas-de-2-ou-4-horas-em-famara
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 45

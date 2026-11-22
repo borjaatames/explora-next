@@ -4,6 +4,7 @@ slug: teide-sonnenuntergang-ueber-den-wolken-und-sternbeobachtung
 ciudad: tenerife
 descripcion: Sonnenuntergang über den Wolken auf 2.100 Metern im Teide-Nationalpark und danach Sternbeobachtung mit professionellem Guide, mit Optionen für Picknick in kleiner Gruppe, Profi-Teleskope oder Abendessen und Transport aus dem Süden oder Norden. 4,4/5 bei 383 Bewertungen. Ab 60 €.
 slugs:
+  es: teide-atardecer-sobre-las-nubes-y-observacion-de-estrellas
   en: teide-sunset-above-the-clouds-and-stargazing
   de: teide-sonnenuntergang-ueber-den-wolken-und-sternbeobachtung
   it: teide-tramonto-sopra-le-nuvole-e-osservazione-delle-stelle

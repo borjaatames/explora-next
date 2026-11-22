@@ -4,6 +4,7 @@ slug: gran-canaria-dolphin-whale-watching-boat-trip-lineas-salmon
 ciudad: gran-canaria
 descripcion: Two-and-a-half-hour cruise with Líneas Salmón off the south of Gran Canaria to see dolphins and whales up close, with a bar on board and a free voucher to come back if no cetaceans are seen. Rated 4.2/5 from 3,296 reviews. From €38.
 slugs:
+  es: gran-canaria-avistamiento-delfines-ballenas-lineas-salmon
   en: gran-canaria-dolphin-whale-watching-boat-trip-lineas-salmon
   de: gran-canaria-delfin-und-walbeobachtung-lineas-salmon
 duracion: 2 h 30 min

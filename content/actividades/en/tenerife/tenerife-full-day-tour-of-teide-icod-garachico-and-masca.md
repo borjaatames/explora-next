@@ -4,6 +4,7 @@ slug: tenerife-full-day-tour-of-teide-icod-garachico-and-masca
 ciudad: tenerife
 descripcion: 'Full-day guided tour with hotel pick-up: a stop in Vilaflor, Teide National Park, the thousand-year-old dragon tree of Icod de los Vinos, the natural rock pools of Garachico and the village of Masca. Rated 4.3/5 from 124 reviews. From €58.'
 slugs:
+  es: tenerife-excursion-de-dia-completo-al-teide-icod-garachico-y-masca
   en: tenerife-full-day-tour-of-teide-icod-garachico-and-masca
   de: teneriffa-ganztagestour-zu-teide-icod-garachico-und-masca
   fr: tenerife-journee-au-teide-icod-garachico-et-masca

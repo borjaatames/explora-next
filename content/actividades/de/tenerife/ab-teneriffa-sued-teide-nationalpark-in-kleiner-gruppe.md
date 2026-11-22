@@ -4,6 +4,7 @@ slug: ab-teneriffa-sued-teide-nationalpark-in-kleiner-gruppe
 ciudad: tenerife
 descripcion: Vier Stunden durch den Teide-Nationalpark mit höchstens 8 Gästen, zu Orten, die große Busse nicht erreichen, mit mehr Zeit für Spaziergänge in der Vulkanlandschaft und mehreren Fotostopps; Abholung im Süden. 4,7/5 bei 360 Bewertungen. Ab 70 €.
 slugs:
+  es: desde-el-sur-de-tenerife-parque-nacional-del-teide-en-grupo-reducido
   en: from-south-tenerife-teide-national-park-small-group-tour
   de: ab-teneriffa-sued-teide-nationalpark-in-kleiner-gruppe
 duracion: 4 Stunden

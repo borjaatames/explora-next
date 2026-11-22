@@ -4,6 +4,7 @@ slug: morro-jable-segeltoern-mit-essen-und-getraenken
 ciudad: fuerteventura
 descripcion: Dreieinhalb Stunden auf einer Segeljacht ab Morro Jable entlang der Küste von Jandía, mit Baden und Schnorcheln, kanarischem Mittagessen und Getränken ohne Limit wie Bier, Cava und Wein, einmal selbst steuern und Abholung im Süden. 4,9/5 bei 350 Bewertungen. Ab 85 €.
 slugs:
+  es: morro-jable-paseo-en-velero-con-almuerzo-y-bebidas
   en: morro-jable-sailing-trip-with-lunch-and-drinks
   de: morro-jable-segeltoern-mit-essen-und-getraenken
 duracion: 3 Std. 30 Min.

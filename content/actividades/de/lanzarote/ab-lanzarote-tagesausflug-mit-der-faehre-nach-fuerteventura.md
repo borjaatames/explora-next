@@ -4,10 +4,12 @@ slug: ab-lanzarote-tagesausflug-mit-der-faehre-nach-fuerteventura
 ciudad: lanzarote
 descripcion: Tagesausflug ab Lanzarote mit Transfer zur Fähre, einem modernen Katamaran nach Corralejo und zurück und fünf Stunden Freizeit auf Fuerteventura für die Dünen von Corralejo, ein Bad im türkisfarbenen Meer und die Gassen des Orts. 4,3/5 bei 302 Bewertungen. Ab 65 €.
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-en-ferry
   en: from-lanzarote-return-ferry-day-trip-to-fuerteventura
   de: ab-lanzarote-tagesausflug-mit-der-faehre-nach-fuerteventura
   fr: depuis-lanzarote-excursion-en-ferry-aller-retour-a-fuerteventura
   it: da-lanzarote-gita-in-traghetto-andata-e-ritorno-a-fuerteventura
+  pt: de-lanzarote-excursao-de-um-dia-a-fuerteventura-de-ferry
 duracion: 9 Stunden
 duracionMinutos: 540
 precioDesde: 65

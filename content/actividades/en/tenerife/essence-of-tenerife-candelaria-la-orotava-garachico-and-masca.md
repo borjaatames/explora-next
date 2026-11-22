@@ -4,6 +4,7 @@ slug: essence-of-tenerife-candelaria-la-orotava-garachico-and-masca
 ciudad: tenerife
 descripcion: Full-day coach tour with an official guide certified by the Canary Islands government, in a group of at most 35, to Candelaria, La Orotava, Garachico and Masca, with pick-up points all over Tenerife. Rated 4.4/5 from 346 reviews. From €58.
 slugs:
+  es: esencia-de-tenerife-candelaria-la-orotava-garachico-y-masca
   en: essence-of-tenerife-candelaria-la-orotava-garachico-and-masca
   de: das-beste-von-teneriffa-candelaria-la-orotava-garachico-und-masca
   fr: l-essentiel-de-tenerife-candelaria-la-orotava-garachico-et-masca

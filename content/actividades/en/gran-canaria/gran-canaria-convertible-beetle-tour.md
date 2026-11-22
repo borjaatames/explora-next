@@ -4,6 +4,7 @@ slug: gran-canaria-convertible-beetle-tour
 ciudad: gran-canaria
 descripcion: Six-hour guided tour driving a convertible VW Beetle (up to 4 per car) through Gran Canaria's mountain scenery, with hotel pick-up in the south, a picnic lunch and a soft drink. Rated 4.9/5 from 174 reviews. From €70.
 slugs:
+  es: gran-canaria-ruta-en-escarabajo-descapotable
   en: gran-canaria-convertible-beetle-tour
   de: gran-canaria-tour-im-kaefer-cabrio
 duracion: 6 hours

@@ -4,6 +4,7 @@ slug: costa-adeje-catamaran-tour-with-snorkelling-snacks-and-drinks
 ciudad: tenerife
 descripcion: Three hours on a catamaran from Puerto Colón along Costa Adeje, with a swim and snorkelling stop, sundeck, snacks and drinks (beer, soft drinks and water). Rated 4.4/5 from 370 reviews. From €45.
 slugs:
+  es: costa-adeje-catamaran-con-esnorquel-aperitivos-y-bebidas
   en: costa-adeje-catamaran-tour-with-snorkelling-snacks-and-drinks
   fr: costa-adeje-catamaran-avec-snorkeling-en-cas-et-boissons
 duracion: 3 hours

@@ -4,6 +4,7 @@ slug: tenerife-3-ore-in-buggy-nel-parco-nazionale-del-teide
 ciudad: tenerife
 descripcion: Tre ore in buggy Can-Am da 800 cc nel Parco Nazionale del Teide, tra fiumi di lava e paesaggi lunari fino a 2.400 metri, con vista sui Roques de García e sul Llano de Ucanca e una guida. 4,6/5 su 212 recensioni. Da 143 € a gruppo.
 slugs:
+  es: tenerife-ruta-de-3-horas-en-buggy-por-el-parque-nacional-del-teide
   en: tenerife-3-hour-buggy-tour-in-teide-national-park
   fr: tenerife-3-heures-en-buggy-dans-le-parc-national-du-teide
   it: tenerife-3-ore-in-buggy-nel-parco-nazionale-del-teide

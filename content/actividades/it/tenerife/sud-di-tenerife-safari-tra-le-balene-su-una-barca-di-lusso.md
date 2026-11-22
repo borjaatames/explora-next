@@ -4,6 +4,7 @@ slug: sud-di-tenerife-safari-tra-le-balene-su-una-barca-di-lusso
 ciudad: tenerife
 descripcion: Tre ore su una barca di lusso lungo il sud di Tenerife verso angoli incontaminati e per vedere le balene, con prelievo in hotel nel sud, cibo e due bevande gratuite. 4,7/5 su 157 recensioni. Da 54 €.
 slugs:
+  es: sur-de-tenerife-safari-de-ballenas-en-barco-de-lujo
   en: south-tenerife-whale-watching-safari-on-a-luxury-boat
   it: sud-di-tenerife-safari-tra-le-balene-su-una-barca-di-lusso
 duracion: 3 ore

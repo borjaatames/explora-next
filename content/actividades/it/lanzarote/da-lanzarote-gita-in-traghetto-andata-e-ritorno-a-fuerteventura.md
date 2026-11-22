@@ -4,10 +4,12 @@ slug: da-lanzarote-gita-in-traghetto-andata-e-ritorno-a-fuerteventura
 ciudad: lanzarote
 descripcion: Gita di un giorno da Lanzarote con transfer al traghetto, un catamarano moderno fino a Corralejo e ritorno e cinque ore libere a Fuerteventura per le dune di Corralejo, un bagno nel mare turchese e le stradine del paese. 4,3/5 su 302 recensioni. Da 65 €.
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-en-ferry
   en: from-lanzarote-return-ferry-day-trip-to-fuerteventura
   de: ab-lanzarote-tagesausflug-mit-der-faehre-nach-fuerteventura
   fr: depuis-lanzarote-excursion-en-ferry-aller-retour-a-fuerteventura
   it: da-lanzarote-gita-in-traghetto-andata-e-ritorno-a-fuerteventura
+  pt: de-lanzarote-excursao-de-um-dia-a-fuerteventura-de-ferry
 duracion: 9 ore
 duracionMinutos: 540
 precioDesde: 65

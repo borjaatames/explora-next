@@ -4,6 +4,7 @@ slug: hoehlen-von-lanzarote-halbtagesausflug
 ciudad: lanzarote
 descripcion: Halbtägige Busrundfahrt mit Guide zur Höhle Jameos del Agua mit ihren Albinokrebsen, zur Lavaröhre Cueva de los Verdes und zu einem Aloe-vera-Museum, mit Panoramablick auf Teguise; Eintritte und Abholung inklusive. 4,4/5 bei 216 Bewertungen. Ab 68 €.
 slugs:
+  es: cuevas-de-lanzarote-excursion-de-medio-dia
   en: caves-of-lanzarote-half-day-trip
   de: hoehlen-von-lanzarote-halbtagesausflug
   fr: grottes-de-lanzarote-excursion-d-une-demi-journee

@@ -4,10 +4,12 @@ slug: fuerteventura-make-your-own-goat-cheese-at-a-local-farm
 ciudad: fuerteventura
 descripcion: 'Two-and-a-half-hour cheese-making workshop at a traditional dairy in Los Alares: hand and machine milking, making your own Majorero cheese from press to vacuum pack and label, and a traditional Fuerteventura breakfast. Rated 4.9/5 from 135 reviews. From €75.'
 slugs:
+  es: fuerteventura-haz-tu-propio-queso-de-cabra-en-una-granja
   en: fuerteventura-make-your-own-goat-cheese-at-a-local-farm
   de: fuerteventura-eigenen-ziegenkaese-auf-einem-bauernhof-herstellen
   fr: fuerteventura-fabriquez-votre-fromage-de-chevre-dans-une-ferme
   it: fuerteventura-prepara-il-tuo-formaggio-di-capra-in-una-fattoria
+  pt: fuerteventura-faca-o-seu-proprio-queijo-de-cabra-numa-quinta
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 75

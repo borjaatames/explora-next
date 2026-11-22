@@ -4,6 +4,7 @@ slug: west-tenerife-scenic-route-through-icod-garachico-and-masca
 ciudad: tenerife
 descripcion: 'Five-and-a-half-hour small-group tour (at most 8) along the volcanic west coast: Icod de los Vinos with entry to the thousand-year-old dragon tree, the historic streets and natural pools of Garachico and the Masca valley, with a snack. Rated 4.8/5 from 247 reviews. From €69.'
 slugs:
+  es: oeste-de-tenerife-ruta-panoramica-por-icod-garachico-y-masca
   en: west-tenerife-scenic-route-through-icod-garachico-and-masca
   fr: ouest-de-tenerife-route-panoramique-par-icod-garachico-et-masca
 duracion: 5 h 30 min

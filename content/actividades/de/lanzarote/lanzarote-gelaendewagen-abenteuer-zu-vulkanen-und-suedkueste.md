@@ -4,6 +4,7 @@ slug: lanzarote-gelaendewagen-abenteuer-zu-vulkanen-und-suedkueste
 ciudad: lanzarote
 descripcion: 'Sechs Stunden im Geländewagen mit Abholung vom Hotel durch Vulkanlandschaft: Yaiza, freie Zeit am Strand von Papagayo, die grüne Lagune von El Golfo, das Besucherzentrum Timanfaya, eine Piste vom Vulkan El Cuervo nach La Geria und eine kleine Weinprobe. 4,4/5 bei 109 Bewertungen. Ab 68 €.'
 slugs:
+  es: lanzarote-aventura-en-4x4-por-los-volcanes-y-la-costa-sur
   en: lanzarote-4x4-adventure-through-the-volcanoes-and-south-coast
   de: lanzarote-gelaendewagen-abenteuer-zu-vulkanen-und-suedkueste
   fr: lanzarote-aventure-en-4x4-entre-volcans-et-cote-sud

@@ -4,6 +4,7 @@ slug: gran-canaria-highlights-tour-teror-arucas-and-more
 ciudad: gran-canaria
 descripcion: Full-day coach tour with a guide from the south of Gran Canaria to the centre and north of the island, through traditional villages such as Teror and Arucas with their colourful Canarian architecture. Rated 4.4/5 from 381 reviews. From €44.
 slugs:
+  es: lo-mejor-de-gran-canaria-teror-arucas-y-mas
   en: gran-canaria-highlights-tour-teror-arucas-and-more
   de: gran-canaria-highlights-teror-arucas-und-mehr
 duracion: 8 hours

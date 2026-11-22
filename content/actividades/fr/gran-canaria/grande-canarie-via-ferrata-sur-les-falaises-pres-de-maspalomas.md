@@ -4,10 +4,12 @@ slug: grande-canarie-via-ferrata-sur-les-falaises-pres-de-maspalomas
 ciudad: gran-canaria
 descripcion: 'Quatre heures de via ferrata dans les montagnes près de Bahía Feliz : grottes cachées, sentiers de vallée façon western, escalade de la paroi, pont suspendu à 60 mètres et balançoire géante, avec tout l''équipement, un en-cas et des photos. 4,9/5 sur 203 avis. Dès 70 €.'
 slugs:
+  es: gran-canaria-via-ferrata-en-acantilados-cerca-de-maspalomas
   en: gran-canaria-via-ferrata-climb-on-cliffs-near-maspalomas
   de: gran-canaria-klettersteig-an-den-felsen-bei-maspalomas
   fr: grande-canarie-via-ferrata-sur-les-falaises-pres-de-maspalomas
   it: gran-canaria-via-ferrata-sulle-scogliere-vicino-a-maspalomas
+  pt: gran-canaria-via-ferrata-em-falesias-perto-de-maspalomas
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 70

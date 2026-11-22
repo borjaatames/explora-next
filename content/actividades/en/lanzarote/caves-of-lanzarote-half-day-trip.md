@@ -4,6 +4,7 @@ slug: caves-of-lanzarote-half-day-trip
 ciudad: lanzarote
 descripcion: Half-day coach tour with a guide to the Jameos del Agua cave with its albino crabs, the Cueva de los Verdes lava tube and an aloe vera museum, with a panoramic view of Teguise; entries and hotel pick-up included. Rated 4.4/5 from 216 reviews. From €68.
 slugs:
+  es: cuevas-de-lanzarote-excursion-de-medio-dia
   en: caves-of-lanzarote-half-day-trip
   de: hoehlen-von-lanzarote-halbtagesausflug
   fr: grottes-de-lanzarote-excursion-d-une-demi-journee

@@ -4,6 +4,7 @@ slug: ab-puerto-de-la-cruz-vip-tour-durch-anaga-und-la-laguna
 ciudad: tenerife
 descripcion: Tagestour mit Fahrer ab Puerto de la Cruz nach San Cristóbal de La Laguna (UNESCO-Welterbe) und in den Landschaftspark Anaga mit seinem Lorbeerwald, mit Mittagessen und Abholung vom Hotel. 4,4/5 bei 162 Bewertungen. Ab 84 €.
 slugs:
+  es: desde-puerto-de-la-cruz-tour-vip-por-anaga-y-la-laguna
   en: from-puerto-de-la-cruz-vip-tour-of-anaga-and-la-laguna
   de: ab-puerto-de-la-cruz-vip-tour-durch-anaga-und-la-laguna
   fr: depuis-puerto-de-la-cruz-visite-vip-de-l-anaga-et-de-la-laguna

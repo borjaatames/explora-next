@@ -4,6 +4,7 @@ slug: ouest-de-tenerife-route-panoramique-par-icod-garachico-et-masca
 ciudad: tenerife
 descripcion: 'Excursion de cinq heures et demie en petit groupe (8 maximum) le long de la côte volcanique ouest : Icod de los Vinos avec entrée au dragonnier millénaire, les rues historiques et piscines naturelles de Garachico et la vallée de Masca, avec en-cas. 4,8/5 sur 247 avis. Dès 69 €.'
 slugs:
+  es: oeste-de-tenerife-ruta-panoramica-por-icod-garachico-y-masca
   en: west-tenerife-scenic-route-through-icod-garachico-and-masca
   fr: ouest-de-tenerife-route-panoramique-par-icod-garachico-et-masca
 duracion: 5 h 30

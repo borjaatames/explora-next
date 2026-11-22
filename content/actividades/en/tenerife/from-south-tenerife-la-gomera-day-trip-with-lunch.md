@@ -4,6 +4,7 @@ slug: from-south-tenerife-la-gomera-day-trip-with-lunch
 ciudad: tenerife
 descripcion: 'Day trip by fast ferry from the south of Tenerife to La Gomera with a multilingual guide: the Roque de Agando, the El Cedro forest in Garajonay National Park, lunch with a live whistled-language demonstration and San Sebastián. Rated 4.1/5 from 2,264 reviews. From €110.'
 slugs:
+  es: desde-el-sur-de-tenerife-excursion-a-la-gomera-con-almuerzo
   en: from-south-tenerife-la-gomera-day-trip-with-lunch
   de: ab-teneriffa-sued-tagesausflug-nach-la-gomera-mit-mittagessen
   fr: depuis-le-sud-de-tenerife-journee-a-la-gomera-avec-dejeuner
