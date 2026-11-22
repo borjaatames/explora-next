@@ -1,0 +1,73 @@
+---
+titulo: 'Famara: 2,5 Stunden Surfkurs mit der Kalufa Surf School'
+slug: famara-2-5-stunden-surfkurs-mit-der-kalufa-surf-school
+ciudad: lanzarote
+descripcion: Ein 2,5-stündiger Surfkurs am Strand von Famara mit der Kalufa Surf School, mit ISA-Lehrern, Theorie und Praxis, kleinen Gruppen und flexiblen Zeiten für die besten Bedingungen, mit Brett und Neoprenanzug, die du danach den Rest des Tages gratis nutzen kannst. 4,9/5 bei 43 Bewertungen. Ab 50 €.
+slugs:
+  en: famara-2-5-hour-surf-lesson-with-kalufa-surf-school
+  de: famara-2-5-stunden-surfkurs-mit-der-kalufa-surf-school
+  fr: famara-cours-de-surf-de-2-h-30-avec-kalufa-surf-school
+  it: famara-lezione-di-surf-di-2-ore-e-mezza-con-kalufa-surf-school
+duracion: 2 Std. 30 Min.
+duracionMinutos: 150
+precioDesde: 50
+moneda: EUR
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/es-es/activity-t645776/?partner_id=C71NOAW
+cancelacionGratuita: true
+horasCancelacion: 24
+ratingProveedor: 4.9
+numeroOpiniones: 43
+highlights:
+- ISA-Lehrer
+- Kleine Gruppen
+- Flexible Zeiten für die besten Bedingungen
+- Material den restlichen Tag gratis
+incluye:
+- Surfkurs von 2,5 Stunden
+- Surfbrett und Neoprenanzug
+- Material nach dem Kurs den restlichen Tag gratis
+puntoEncuentro:
+  texto: Parkplatz am Strand von Famara (Calle Brezo de Mar 1, Urbanización Famara). Die Uhrzeit hängt von den Bedingungen ab.
+  latitud: 29.1182
+  longitud: -13.5539
+  zoom: 15
+detallesPracticos:
+  ticketMovil: true
+  confirmacionInmediata: true
+informacionImportante:
+  aTenerEnCuenta:
+  - Du musst schwimmen können
+  - Nicht für Kinder unter 8; unter 10 nur mit Erwachsenem im Kurs
+politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rückerstattung.
+preguntasFrecuentes:
+- pregunta: Welche Sprache spricht der Lehrer?
+  respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
+- pregunta: Kann ich stornieren?
+  respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+categoria: agua
+keywords:
+- kalufa surfschule
+- surfkurs famara
+- surfschule lanzarote
+imagen: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
+imagenAlt: Surfer im flachen Wasser warten auf Wellen
+galeria:
+- src: /images/actividades/lanzarote/famara/flz-vista-macizo.webp
+  alt: Caleta de Famara vom Famara-Massiv aus
+- src: /images/actividades/_shared/surf/clase-remando-tablas.webp
+  alt: Surfkurs paddelt auf den Brettern hinaus
+- src: /images/actividades/lanzarote/zonas/la-graciosa-desde-famara.webp
+  alt: La Graciosa von Famara aus gesehen
+- src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
+  alt: Silhouette eines Surfers mit Brett am Strand
+- src: /images/actividades/lanzarote/famara/flz-risco-famara.webp
+  alt: Die Klippen von Famara von La Caleta de Famara aus
+- src: /images/actividades/_shared/surf/surfista-vista-cenital.webp
+  alt: Draufsicht auf einen Surfer neben brechenden Wellen
+- src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
+  alt: Wellen an einer roten Vulkanküste mit schwarzem Strand
+publicada: true
+destacada: false
+fecha: '2026-11-22'
+---

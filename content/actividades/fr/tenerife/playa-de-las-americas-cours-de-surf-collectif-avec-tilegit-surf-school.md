@@ -1,0 +1,74 @@
+---
+titulo: 'Playa de las Américas : cours de surf collectif avec Tilegit Surf School'
+slug: playa-de-las-americas-cours-de-surf-collectif-avec-tilegit-surf-school
+ciudad: tenerife
+descripcion: 'Un cours de surf collectif de 2 heures avec Tilegit Surf School à Playa de las Américas : 20 minutes de théorie puis l''eau, avec un moniteur pour 8 participants, planche choisie pour vous, combinaison, chaussons et assurance accident. 4,8/5 sur 31 avis. Dès 44 €.'
+slugs:
+  en: playa-de-las-americas-group-surf-lesson-with-tilegit-surf-school
+  de: playa-de-las-americas-gruppensurfkurs-mit-der-tilegit-surf-school
+  fr: playa-de-las-americas-cours-de-surf-collectif-avec-tilegit-surf-school
+  it: playa-de-las-americas-lezione-di-surf-di-gruppo-con-tilegit-surf-school
+duracion: 2 heures
+duracionMinutos: 120
+precioDesde: 44
+moneda: EUR
+proveedor: getyourguide
+urlReserva: https://www.getyourguide.com/es-es/activity-t490696/?partner_id=C71NOAW
+cancelacionGratuita: true
+horasCancelacion: 24
+ratingProveedor: 4.8
+numeroOpiniones: 31
+highlights:
+- 20 minutes de théorie, puis l'eau
+- Un moniteur pour 8 participants
+- Matériel de qualité
+- Accessible à tous
+incluye:
+- Planche choisie par le moniteur
+- Combinaison et chaussons
+- Assurance accident
+- Moniteur
+- Théorie (20 min)
+noIncluye:
+- Repas et boissons
+- Prise en charge à l'hôtel
+puntoEncuentro:
+  texto: C.C. Parque Santiago 2, Playa de las Américas.
+  latitud: 28.0599
+  longitud: -16.7333
+  zoom: 15
+detallesPracticos:
+  ticketMovil: true
+  confirmacionInmediata: true
+politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec remboursement intégral.
+preguntasFrecuentes:
+- pregunta: En quelle langue est le moniteur ?
+  respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
+- pregunta: Puis-je annuler ?
+  respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+categoria: agua
+keywords:
+- tilegit surf school
+- cours de surf collectif tenerife
+- surf las americas
+imagen: /images/actividades/_shared/surf/silueta-surfista-playa.webp
+imagenAlt: Silhouette d'un surfeur tenant sa planche sur la plage
+galeria:
+- src: /images/actividades/_shared/surf/surfista-ola-grande.webp
+  alt: Surfeur sur une grosse vague
+- src: /images/actividades/tenerife/surf-americas/surf-las-americas-panoramica.webp
+  alt: Surfeurs à Playa de las Américas
+- src: /images/actividades/fuerteventura/surf-corralejo/clase-de-surf-vista-aerea.webp
+  alt: Vue aérienne d'un cours de surf en mer
+- src: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
+  alt: Surfeurs au bord de l'eau
+- src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
+  alt: Plage de Costa Adeje avec les montagnes en arrière-plan
+- src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
+  alt: Surfeurs dans les vagues du bord attendant la houle
+- src: /images/actividades/fuerteventura/surf-corralejo/tablas-de-surf-en-la-arena.webp
+  alt: Planches de surf alignées sur le sable
+publicada: true
+destacada: false
+fecha: '2026-11-22'
+---
