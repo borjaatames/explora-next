@@ -4,6 +4,7 @@ slug: depuis-arona-journee-en-jeep-a-la-gomera
 ciudad: tenerife
 descripcion: 'Journée complète depuis le sud de Tenerife : ferry jusqu''à La Gomera et circuit en jeep dans le parc national de Garajonay (UNESCO), les villages les plus pittoresques de l''île, démonstration de la langue sifflée et déjeuner local. 4,6/5 sur 591 avis. Dès 150 €.'
 slugs:
+  es: desde-arona-aventura-de-un-dia-en-jeep-por-la-gomera
   en: from-arona-full-day-jeep-adventure-on-la-gomera
   de: ab-arona-jeep-abenteuer-auf-la-gomera-ganzer-tag
   fr: depuis-arona-journee-en-jeep-a-la-gomera

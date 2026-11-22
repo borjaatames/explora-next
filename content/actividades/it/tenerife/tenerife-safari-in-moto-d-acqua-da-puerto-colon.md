@@ -4,10 +4,12 @@ slug: tenerife-safari-in-moto-d-acqua-da-puerto-colon
 ciudad: tenerife
 descripcion: Un'ora di safari in moto d'acqua lungo la costa di Costa Adeje, alla guida della tua moto moderna dopo un briefing di sicurezza completo, con la supervisione di una guida di salvataggio e armadietti e spogliatoi nell'ufficio del porto. 4,7/5 su 402 recensioni. Da 47 €.
 slugs:
+  es: tenerife-safari-en-moto-de-agua-desde-puerto-colon
   en: tenerife-jet-ski-safari-from-puerto-colon
   de: teneriffa-jetski-safari-ab-puerto-colon
   fr: tenerife-safari-en-jet-ski-depuis-puerto-colon
   it: tenerife-safari-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-safari-de-moto-de-agua-desde-puerto-colon
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 47

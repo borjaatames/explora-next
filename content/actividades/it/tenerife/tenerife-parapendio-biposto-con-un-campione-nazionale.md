@@ -4,10 +4,12 @@ slug: tenerife-parapendio-biposto-con-un-campione-nazionale
 ciudad: tenerife
 descripcion: Volo in parapendio biposto sopra i burroni e la costa di Adeje con piloti campioni, tranquillo o acrobatico, con prelievo nel sud e 5 foto GoPro. 4,9/5 su 1.283 recensioni. Da 130 €.
 slugs:
+  es: tenerife-parapente-biplaza-con-un-campeon-nacional
   en: tenerife-tandem-paragliding-with-a-national-champion
   de: teneriffa-tandem-gleitschirmflug-mit-einem-landesmeister
   fr: tenerife-parapente-biplace-avec-un-champion-national
   it: tenerife-parapendio-biposto-con-un-campione-nazionale
+  pt: tenerife-parapente-em-tandem-com-um-campeao-nacional
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 130

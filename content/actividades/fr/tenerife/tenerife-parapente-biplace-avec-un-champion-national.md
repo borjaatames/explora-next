@@ -4,10 +4,12 @@ slug: tenerife-parapente-biplace-avec-un-champion-national
 ciudad: tenerife
 descripcion: Vol en parapente biplace au-dessus des ravins et de la côte d'Adeje avec des pilotes champions, en vol tranquille ou acrobatique, avec prise en charge dans le sud et 5 photos GoPro. 4,9/5 sur 1.283 avis. Dès 130 €.
 slugs:
+  es: tenerife-parapente-biplaza-con-un-campeon-nacional
   en: tenerife-tandem-paragliding-with-a-national-champion
   de: teneriffa-tandem-gleitschirmflug-mit-einem-landesmeister
   fr: tenerife-parapente-biplace-avec-un-champion-national
   it: tenerife-parapendio-biposto-con-un-campione-nazionale
+  pt: tenerife-parapente-em-tandem-com-um-campeao-nacional
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 130

@@ -4,6 +4,7 @@ slug: teneriffa-tagestour-zum-teide-und-ins-masca-tal
 ciudad: tenerife
 descripcion: 'Ganztägige Tour ab dem Süden Teneriffas im klimatisierten Fahrzeug mit einheimischem Guide: Teide-Nationalpark, freie Zeit in den Dörfern Garachico und Masca, mit über 150 Abholpunkten auf der Insel. 4,5/5 bei 478 Bewertungen. Ab 56 €.'
 slugs:
+  es: tenerife-excursion-de-un-dia-al-teide-y-al-valle-de-masca
   en: tenerife-teide-and-masca-valley-day-tour
   de: teneriffa-tagestour-zum-teide-und-ins-masca-tal
   it: tenerife-tour-di-un-giorno-al-teide-e-alla-valle-di-masca

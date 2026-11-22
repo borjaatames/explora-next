@@ -4,6 +4,7 @@ slug: fuerteventura-initiation-a-la-plongee
 ciudad: fuerteventura
 descripcion: Deux heures et demie de baptême de plongée en petit groupe dans le sud de Fuerteventura avec un moniteur qui parle anglais, français, allemand ou espagnol, avec prise en charge à l'hôtel. 4,9/5 sur 398 avis. Dès 85 €.
 slugs:
+  es: fuerteventura-iniciacion-al-buceo
   en: fuerteventura-introduction-to-scuba-diving
   de: fuerteventura-einfuehrung-ins-tauchen
   fr: fuerteventura-initiation-a-la-plongee

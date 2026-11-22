@@ -4,10 +4,12 @@ slug: dal-sud-di-tenerife-biglietto-loro-parque-con-transfer-andata-e-ritorno
 ciudad: tenerife
 descripcion: Biglietto d'ingresso al Loro Parque con il pullman dagli hotel del sud di Tenerife a Puerto de la Cruz e ritorno, senza dover attraversare l'isola in auto. 4,4/5 su 3.646 recensioni. Da 65 €.
 slugs:
+  es: desde-el-sur-de-tenerife-entrada-al-loro-parque-con-traslado-de-ida-y-vuelta
   en: from-south-tenerife-loro-parque-ticket-with-return-transfer
   de: ab-teneriffa-sued-loro-parque-mit-ticket-und-bustransfer
   fr: depuis-le-sud-de-tenerife-billet-loro-parque-avec-transfert-aller-retour
   it: dal-sud-di-tenerife-biglietto-loro-parque-con-transfer-andata-e-ritorno
+  pt: do-sul-de-tenerife-bilhete-do-loro-parque-com-transporte-de-ida-e-volta
 duracion: 8 ore
 duracionMinutos: 480
 precioDesde: 65

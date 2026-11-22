@@ -4,6 +4,7 @@ slug: teneriffa-wal-und-delfinfahrt-mit-unterwasserfenstern-essen-und-baden
 ciudad: tenerife
 descripcion: Katamaran ab Puerto Colón ins Walschutzgebiet Teno-Rasca, mit 16 großen Unterwasserfenstern, Essen und Getränken an Bord und Badestopp; Option mit 3 oder 4,5 Stunden. 4,5/5 bei 1.830 Bewertungen. Ab 50 €.
 slugs:
+  es: tenerife-crucero-de-ballenas-y-delfines-con-ventanas-submarinas-almuerzo-y-bano
   en: tenerife-whale-and-dolphin-cruise-with-underwater-windows-lunch-and-swim
   de: teneriffa-wal-und-delfinfahrt-mit-unterwasserfenstern-essen-und-baden
   fr: tenerife-croisiere-baleines-et-dauphins-avec-hublots-sous-marins-repas-et-baigna

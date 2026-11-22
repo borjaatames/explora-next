@@ -4,6 +4,7 @@ slug: tenerife-kayak-e-snorkeling-con-foto-incluse
 ciudad: tenerife
 descripcion: Uscita guidata di tre ore in kayak biposto lungo la costa vulcanica del sud di Tenerife, con sosta snorkeling, muta, spogliatoi con docce e foto e video in omaggio. 4,6/5 su 2.409 recensioni. Da 23 €.
 slugs:
+  es: tenerife-aventura-en-kayak-y-esnorquel-con-fotos-gratis
   en: tenerife-kayak-and-snorkel-adventure-with-free-photos
   fr: tenerife-kayak-et-snorkeling-avec-photos-offertes
   it: tenerife-kayak-e-snorkeling-con-foto-incluse

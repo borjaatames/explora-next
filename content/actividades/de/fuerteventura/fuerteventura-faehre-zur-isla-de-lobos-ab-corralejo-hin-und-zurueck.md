@@ -4,10 +4,12 @@ slug: fuerteventura-faehre-zur-isla-de-lobos-ab-corralejo-hin-und-zurueck
 ciudad: fuerteventura
 descripcion: Fähre hin und zurück vom Hafen Corralejo zur Isla de Lobos, rund 20 Minuten pro Strecke, mit Nortour, einer Reederei vor Ort seit 1988; die Insel erkundest du auf eigene Faust. 4,7/5 bei 3.698 Bewertungen. Ab 17 €.
 slugs:
+  es: fuerteventura-ferry-de-ida-y-vuelta-a-la-isla-de-lobos-desde-corralejo
   en: fuerteventura-return-ferry-to-lobos-island-from-corralejo
   de: fuerteventura-faehre-zur-isla-de-lobos-ab-corralejo-hin-und-zurueck
   fr: fuerteventura-ferry-aller-retour-pour-l-ile-de-lobos-depuis-corralejo
   it: fuerteventura-traghetto-andata-e-ritorno-per-l-isola-di-lobos-da-corralejo
+  pt: fuerteventura-ferry-de-ida-e-volta-para-a-ilha-de-lobos-desde-corralejo
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 17

@@ -4,6 +4,7 @@ slug: los-gigantes-3-hour-whale-and-dolphin-sailing-trip
 ciudad: tenerife
 descripcion: Small-group sailing trip from Los Gigantes marina to watch whales and dolphins below the 600-metre cliffs, with a swim or snorkel in a natural cove and a stop at the foot of the cliffs with snacks, fruit, lunch and drinks. Rated 4.5/5 from 936 reviews. From €65.
 slugs:
+  es: los-gigantes-3-horas-en-velero-para-ver-ballenas-y-delfines
   en: los-gigantes-3-hour-whale-and-dolphin-sailing-trip
   fr: los-gigantes-3-heures-en-voilier-pour-observer-baleines-et-dauphins
 duracion: 3 hours

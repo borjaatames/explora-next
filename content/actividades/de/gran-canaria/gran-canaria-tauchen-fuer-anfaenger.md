@@ -4,10 +4,12 @@ slug: gran-canaria-tauchen-fuer-anfaenger
 ciudad: gran-canaria
 descripcion: 'Drei Stunden Schnuppertauchen in kleiner Gruppe im Süden Gran Canarias: die Grundlagen des Tauchens und Atmens unter Wasser, dann ein Tauchgang mit erfahrenen Tauchlehrern, mit Abholung vom Hotel. 4,8/5 bei 508 Bewertungen. Ab 89 €.'
 slugs:
+  es: gran-canaria-buceo-para-principiantes
   en: gran-canaria-scuba-diving-for-beginners
   de: gran-canaria-tauchen-fuer-anfaenger
   fr: grande-canarie-plongee-pour-debutants
   it: gran-canaria-immersione-per-principianti
+  pt: gran-canaria-mergulho-para-principiantes
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 89

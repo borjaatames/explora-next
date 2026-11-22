@@ -4,6 +4,7 @@ slug: tenerife-whale-and-dolphin-sailing-trip-with-drinks-and-snacks
 ciudad: tenerife
 descripcion: Three hours on a sailing yacht from Puerto Colón, shared with at most 11 passengers or private, to look for whales and dolphins, snorkel with turtles in a sheltered bay and enjoy an open bar and lunch on board. Rated 4.5/5 from 3,128 reviews. From €65.
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-velero-con-bebidas-y-aperitivos
   en: tenerife-whale-and-dolphin-sailing-trip-with-drinks-and-snacks
   de: teneriffa-segeltoern-zu-walen-und-delfinen-mit-getraenken-und-snacks
   fr: tenerife-voilier-baleines-et-dauphins-avec-boissons-et-en-cas

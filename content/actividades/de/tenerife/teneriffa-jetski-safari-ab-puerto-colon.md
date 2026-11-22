@@ -4,10 +4,12 @@ slug: teneriffa-jetski-safari-ab-puerto-colon
 ciudad: tenerife
 descripcion: Eine Stunde Jetski-Safari entlang der Küste von Costa Adeje auf deinem eigenen modernen Jetski nach ausführlicher Sicherheitseinweisung, begleitet von einem Rettungsguide, mit Schließfächern und Umkleiden im Hafenbüro. 4,7/5 bei 402 Bewertungen. Ab 47 €.
 slugs:
+  es: tenerife-safari-en-moto-de-agua-desde-puerto-colon
   en: tenerife-jet-ski-safari-from-puerto-colon
   de: teneriffa-jetski-safari-ab-puerto-colon
   fr: tenerife-safari-en-jet-ski-depuis-puerto-colon
   it: tenerife-safari-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-safari-de-moto-de-agua-desde-puerto-colon
 duracion: 1 Stunde
 duracionMinutos: 60
 precioDesde: 47

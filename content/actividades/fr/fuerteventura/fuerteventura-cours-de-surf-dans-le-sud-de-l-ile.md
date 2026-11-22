@@ -4,10 +4,12 @@ slug: fuerteventura-cours-de-surf-dans-le-sud-de-l-ile
 ciudad: fuerteventura
 descripcion: Cours de surf sur les plages blanches du sud de Fuerteventura avec des moniteurs expérimentés, également sauveteurs, transport jusqu'à la plage aux meilleures vagues pour votre niveau et groupes de 4 à 8 par moniteur. 4,8/5 sur 466 avis. Dès 51 €.
 slugs:
+  es: fuerteventura-clase-de-surf-en-el-sur-de-la-isla
   en: fuerteventura-surf-lesson-in-the-south-of-the-island
   de: fuerteventura-surfkurs-im-sueden-der-insel
   fr: fuerteventura-cours-de-surf-dans-le-sud-de-l-ile
   it: fuerteventura-lezione-di-surf-nel-sud-dell-isola
+  pt: fuerteventura-aula-de-surf-no-sul-da-ilha
 duracion: 3 h 30
 duracionMinutos: 210
 precioDesde: 51

@@ -4,10 +4,12 @@ slug: morro-jable-aventure-en-jet-ski-sans-permis
 ciudad: fuerteventura
 descripcion: Trente minutes de jet-ski guidé au large de la plage de Morro Jable, avec explications du guide avant de filer sur l'eau claire ; prix par jet-ski pour deux personnes. 4,7/5 sur 1.037 avis. Dès 80 € par groupe.
 slugs:
+  es: morro-jable-aventura-en-moto-de-agua-sin-licencia
   en: morro-jable-jet-ski-adventure-no-licence-needed
   de: morro-jable-jetski-abenteuer-ohne-fuehrerschein
   fr: morro-jable-aventure-en-jet-ski-sans-permis
   it: morro-jable-avventura-in-moto-d-acqua-senza-patente
+  pt: morro-jable-aventura-de-moto-de-agua-sem-licenca
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 80

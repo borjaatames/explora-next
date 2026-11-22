@@ -4,10 +4,12 @@ slug: tenerife-jet-ski-safari-from-puerto-colon
 ciudad: tenerife
 descripcion: One-hour jet ski safari along the Costa Adeje coast, driving your own modern jet ski after a full safety briefing, supervised by a rescue guide, with lockers and changing rooms at the harbour office. Rated 4.7/5 from 402 reviews. From €47.
 slugs:
+  es: tenerife-safari-en-moto-de-agua-desde-puerto-colon
   en: tenerife-jet-ski-safari-from-puerto-colon
   de: teneriffa-jetski-safari-ab-puerto-colon
   fr: tenerife-safari-en-jet-ski-depuis-puerto-colon
   it: tenerife-safari-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-safari-de-moto-de-agua-desde-puerto-colon
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 47

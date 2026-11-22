@@ -4,6 +4,7 @@ slug: los-gigantes-sortie-en-bateau-avec-baignade-boisson-et-tapas
 ciudad: tenerife
 descripcion: Trois heures en bateau (10 passagers maximum) le long des falaises de Los Gigantes, avec arrêts dans des baies et criques pour faire du snorkeling en eau profonde, une boisson et des tapas sur le pont et un skipper expérimenté. 4,8/5 sur 551 avis. Dès 70 €.
 slugs:
+  es: los-gigantes-paseo-en-barco-con-bano-bebida-y-tapas
   en: los-gigantes-boat-trip-with-swimming-a-drink-and-tapas
   fr: los-gigantes-sortie-en-bateau-avec-baignade-boisson-et-tapas
 duracion: 3 heures

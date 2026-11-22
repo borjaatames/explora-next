@@ -4,6 +4,7 @@ slug: costa-adeje-sortie-en-bateau-baleines-et-dauphins
 ciudad: tenerife
 descripcion: Deux heures depuis Puerto Colón dans un petit bateau de 12 passagers maximum, avec un guide spécialisé en cétacés, un skipper expérimenté et une boisson offerte. 4,7/5 sur 390 avis. Dès 35 €.
 slugs:
+  es: costa-adeje-avistamiento-de-ballenas-y-delfines-en-barco
   en: costa-adeje-whale-and-dolphin-watching-boat-trip
   fr: costa-adeje-sortie-en-bateau-baleines-et-dauphins
   it: costa-adeje-gita-in-barca-tra-balene-e-delfini

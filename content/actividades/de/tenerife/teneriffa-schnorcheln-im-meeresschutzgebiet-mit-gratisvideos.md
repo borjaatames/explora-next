@@ -4,6 +4,7 @@ slug: teneriffa-schnorcheln-im-meeresschutzgebiet-mit-gratisvideos
 ciudad: tenerife
 descripcion: Fünfzig Minuten geführtes Schnorcheln im Meeresschutzgebiet von Abades an der Ostküste, zwischen Schildkröten, Korallen und Fischen, mit Ganzkörper-Neopren, verstellbarer Ausrüstung, mehrsprachigen Guides sowie Gratisfotos und -videos. 4,9/5 bei 762 Bewertungen. Ab 38 €.
 slugs:
+  es: tenerife-esnorquel-en-una-zona-marina-protegida-con-videos-gratis
   en: tenerife-snorkelling-in-a-marine-protected-area-with-free-videos
   de: teneriffa-schnorcheln-im-meeresschutzgebiet-mit-gratisvideos
   fr: tenerife-snorkeling-dans-une-aire-marine-protegee-avec-videos-offertes

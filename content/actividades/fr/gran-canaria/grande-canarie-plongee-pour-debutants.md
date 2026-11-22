@@ -4,10 +4,12 @@ slug: grande-canarie-plongee-pour-debutants
 ciudad: gran-canaria
 descripcion: 'Trois heures de baptême en petit groupe dans le sud de la Grande Canarie : les bases de la plongée et de la respiration sous l''eau, puis une plongée avec des moniteurs expérimentés, avec prise en charge à l''hôtel. 4,8/5 sur 508 avis. Dès 89 €.'
 slugs:
+  es: gran-canaria-buceo-para-principiantes
   en: gran-canaria-scuba-diving-for-beginners
   de: gran-canaria-tauchen-fuer-anfaenger
   fr: grande-canarie-plongee-pour-debutants
   it: gran-canaria-immersione-per-principianti
+  pt: gran-canaria-mergulho-para-principiantes
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 89

@@ -4,10 +4,12 @@ slug: tenerife-kayak-safari-and-snorkelling-in-a-marine-reserve
 ciudad: tenerife
 descripcion: Guided sea-kayak trip from Los Cristianos along the volcanic coast, with a good chance of seeing marine wildlife, a sea cave and a snorkelling stop in water you can only reach by sea. Rated 4.5/5 from 3,569 reviews. From €25.
 slugs:
+  es: tenerife-safari-en-kayak-y-esnorquel-en-una-reserva-marina
   en: tenerife-kayak-safari-and-snorkelling-in-a-marine-reserve
   de: teneriffa-kajak-safari-und-schnorcheln-im-meeresschutzgebiet
   fr: tenerife-safari-en-kayak-et-snorkeling-dans-une-reserve-marine
   it: tenerife-safari-in-kayak-e-snorkeling-in-una-riserva-marina
+  pt: tenerife-safari-de-caiaque-e-snorkel-numa-reserva-marinha
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 25

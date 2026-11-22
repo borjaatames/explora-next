@@ -4,6 +4,7 @@ slug: tenerife-whale-watching-sailing-trip-with-food-and-snorkelling
 ciudad: tenerife
 descripcion: Three hours on an exclusive sailing boat from Puerto Colón to look for whales, turtles and seabirds, with a guide, drinks including cava and wine, snacks and snorkelling gear. Rated 4.8/5 from 719 reviews. From €60.
 slugs:
+  es: tenerife-avistamiento-de-cetaceos-en-velero-con-comida-y-esnorquel
   en: tenerife-whale-watching-sailing-trip-with-food-and-snorkelling
   it: tenerife-gita-in-barca-a-vela-tra-le-balene-con-cibo-e-snorkeling
 duracion: 3 hours

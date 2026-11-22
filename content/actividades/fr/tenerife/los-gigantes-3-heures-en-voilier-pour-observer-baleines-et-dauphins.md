@@ -4,6 +4,7 @@ slug: los-gigantes-3-heures-en-voilier-pour-observer-baleines-et-dauphins
 ciudad: tenerife
 descripcion: Sortie en voilier en petit groupe depuis la marina de Los Gigantes pour observer baleines et dauphins au pied des falaises de 600 mètres, avec baignade ou snorkeling dans une crique et pause avec en-cas, fruits, repas et boissons. 4,5/5 sur 936 avis. Dès 65 €.
 slugs:
+  es: los-gigantes-3-horas-en-velero-para-ver-ballenas-y-delfines
   en: los-gigantes-3-hour-whale-and-dolphin-sailing-trip
   fr: los-gigantes-3-heures-en-voilier-pour-observer-baleines-et-dauphins
 duracion: 3 heures

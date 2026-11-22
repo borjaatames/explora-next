@@ -4,6 +4,7 @@ slug: tenerife-snorkeling-dans-une-aire-marine-protegee-avec-videos-offertes
 ciudad: tenerife
 descripcion: Cinquante minutes de snorkeling guidé dans l'aire marine protégée d'Abades, sur la côte est, parmi tortues, coraux et poissons, avec combinaison intégrale, équipement réglable, moniteurs multilingues et photos et vidéos offertes. 4,9/5 sur 762 avis. Dès 38 €.
 slugs:
+  es: tenerife-esnorquel-en-una-zona-marina-protegida-con-videos-gratis
   en: tenerife-snorkelling-in-a-marine-protected-area-with-free-videos
   de: teneriffa-schnorcheln-im-meeresschutzgebiet-mit-gratisvideos
   fr: tenerife-snorkeling-dans-une-aire-marine-protegee-avec-videos-offertes

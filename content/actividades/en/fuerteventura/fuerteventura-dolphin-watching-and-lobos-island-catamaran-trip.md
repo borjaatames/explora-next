@@ -4,6 +4,7 @@ slug: fuerteventura-dolphin-watching-and-lobos-island-catamaran-trip
 ciudad: fuerteventura
 descripcion: Five hours on a catamaran from Corralejo to look for dolphins, whales and turtles, then snorkel, kayak or paddleboard at La Concha beach on Lobos, with seafood paella and an open bar on board. Rated 4.6/5 from 545 reviews. From €75.
 slugs:
+  es: fuerteventura-catamaran-con-avistamiento-de-delfines-e-isla-de-lobos
   en: fuerteventura-dolphin-watching-and-lobos-island-catamaran-trip
 duracion: 5 hours
 duracionMinutos: 300

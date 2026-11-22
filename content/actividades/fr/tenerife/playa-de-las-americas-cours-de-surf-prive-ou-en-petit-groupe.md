@@ -4,10 +4,12 @@ slug: playa-de-las-americas-cours-de-surf-prive-ou-en-petit-groupe
 ciudad: tenerife
 descripcion: Deux heures de cours de surf à Playa de las Américas avec un moniteur diplômé, 20 minutes de théorie, tout le matériel et accès aux casiers et douches de l'école ; en privé ou en petit groupe. 4,8/5 sur 1.274 avis. Dès 32 €.
 slugs:
+  es: playa-de-las-americas-clase-de-surf-privada-o-en-grupo-reducido
   en: playa-de-las-americas-private-or-small-group-surf-lesson
   de: playa-de-las-americas-surfkurs-privat-oder-in-kleiner-gruppe
   fr: playa-de-las-americas-cours-de-surf-prive-ou-en-petit-groupe
   it: playa-de-las-americas-lezione-di-surf-privata-o-in-piccolo-gruppo
+  pt: playa-de-las-americas-aula-de-surf-privada-ou-em-grupo-reduzido
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 32

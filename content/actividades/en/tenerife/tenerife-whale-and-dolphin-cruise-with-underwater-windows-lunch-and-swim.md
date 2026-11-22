@@ -4,6 +4,7 @@ slug: tenerife-whale-and-dolphin-cruise-with-underwater-windows-lunch-and-swim
 ciudad: tenerife
 descripcion: Catamaran from Puerto Colón into the Teno-Rasca whale sanctuary, with 16 panoramic underwater windows, lunch and drinks on board and a swim stop; 3-hour or 4.5-hour option. Rated 4.5/5 from 1,830 reviews. From €50.
 slugs:
+  es: tenerife-crucero-de-ballenas-y-delfines-con-ventanas-submarinas-almuerzo-y-bano
   en: tenerife-whale-and-dolphin-cruise-with-underwater-windows-lunch-and-swim
   de: teneriffa-wal-und-delfinfahrt-mit-unterwasserfenstern-essen-und-baden
   fr: tenerife-croisiere-baleines-et-dauphins-avec-hublots-sous-marins-repas-et-baigna

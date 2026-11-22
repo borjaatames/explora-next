@@ -4,6 +4,7 @@ slug: ab-arona-jeep-abenteuer-auf-la-gomera-ganzer-tag
 ciudad: tenerife
 descripcion: 'Ein ganzer Tag ab dem Süden Teneriffas: Fähre nach La Gomera und Jeeptour durch den Nationalpark Garajonay (UNESCO), die schönsten Dörfer der Insel, eine Vorführung der Pfeifsprache und ein einheimisches Mittagessen. 4,6/5 bei 591 Bewertungen. Ab 150 €.'
 slugs:
+  es: desde-arona-aventura-de-un-dia-en-jeep-por-la-gomera
   en: from-arona-full-day-jeep-adventure-on-la-gomera
   de: ab-arona-jeep-abenteuer-auf-la-gomera-ganzer-tag
   fr: depuis-arona-journee-en-jeep-a-la-gomera

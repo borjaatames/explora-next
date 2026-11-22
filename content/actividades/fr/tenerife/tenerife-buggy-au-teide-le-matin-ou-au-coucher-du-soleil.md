@@ -4,6 +4,7 @@ slug: tenerife-buggy-au-teide-le-matin-ou-au-coucher-du-soleil
 ciudad: tenerife
 descripcion: Trois heures au volant d'un buggy au-dessus des nuages dans le parc national du Teide, le matin ou au coucher du soleil, avec des guides qui racontent l'histoire du volcan, arrêts photo, boissons offertes et prise en charge en option. 4,8/5 sur 549 avis. Dès 200 € par groupe.
 slugs:
+  es: tenerife-buggy-por-el-teide-por-la-manana-o-al-atardecer
   en: tenerife-teide-buggy-tour-in-the-morning-or-at-sunset
   de: teneriffa-buggy-tour-zum-teide-am-morgen-oder-bei-sonnenuntergang
   fr: tenerife-buggy-au-teide-le-matin-ou-au-coucher-du-soleil

@@ -4,10 +4,12 @@ slug: las-palmas-schnorcheltour-am-strand-las-canteras
 ciudad: gran-canaria
 descripcion: Geführte Schnorcheltour an Las Canteras, dem Stadtstrand von Las Palmas, mit qualifiziertem Lehrer, 1 bis 1,5 Stunden im Wasser über dem geschützten Riff, Ausrüstung, Wasser und Obst. 4,5/5 bei 455 Bewertungen. Ab 39 €.
 slugs:
+  es: las-palmas-esnorquel-guiado-en-la-playa-de-las-canteras
   en: las-palmas-snorkelling-tour-at-las-canteras-beach
   de: las-palmas-schnorcheltour-am-strand-las-canteras
   fr: las-palmas-snorkeling-sur-la-plage-de-las-canteras
   it: las-palmas-snorkeling-alla-spiaggia-di-las-canteras
+  pt: las-palmas-snorkel-guiado-na-praia-de-las-canteras
 duracion: 2 Std. 30 Min.
 duracionMinutos: 150
 precioDesde: 39

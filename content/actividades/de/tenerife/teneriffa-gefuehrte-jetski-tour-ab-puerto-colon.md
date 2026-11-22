@@ -4,10 +4,12 @@ slug: teneriffa-gefuehrte-jetski-tour-ab-puerto-colon
 ciudad: tenerife
 descripcion: Eine Stunde mit dem Jetski entlang der Südküste Teneriffas, auf einer Yamaha für eine oder zwei Personen, mit Einweisung Schritt für Schritt, Begleitboot und Badestopp; ohne Führerschein. 4,8/5 bei 1.381 Bewertungen. Ab 40 €.
 slugs:
+  es: tenerife-ruta-guiada-en-moto-de-agua-desde-puerto-colon
   en: tenerife-guided-jet-ski-tour-from-puerto-colon
   de: teneriffa-gefuehrte-jetski-tour-ab-puerto-colon
   fr: tenerife-balade-guidee-en-jet-ski-depuis-puerto-colon
   it: tenerife-tour-guidato-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-passeio-guiado-de-moto-de-agua-desde-puerto-colon
 duracion: 1 Stunde
 duracionMinutos: 60
 precioDesde: 40

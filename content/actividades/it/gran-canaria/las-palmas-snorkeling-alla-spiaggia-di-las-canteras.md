@@ -4,10 +4,12 @@ slug: las-palmas-snorkeling-alla-spiaggia-di-las-canteras
 ciudad: gran-canaria
 descripcion: Uscita di snorkeling guidata a Las Canteras, la spiaggia cittadina di Las Palmas, con istruttore qualificato, da 1 a 1,5 ore in acqua sopra la barriera riparata, attrezzatura, acqua e frutta. 4,5/5 su 455 recensioni. Da 39 €.
 slugs:
+  es: las-palmas-esnorquel-guiado-en-la-playa-de-las-canteras
   en: las-palmas-snorkelling-tour-at-las-canteras-beach
   de: las-palmas-schnorcheltour-am-strand-las-canteras
   fr: las-palmas-snorkeling-sur-la-plage-de-las-canteras
   it: las-palmas-snorkeling-alla-spiaggia-di-las-canteras
+  pt: las-palmas-snorkel-guiado-na-praia-de-las-canteras
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 39

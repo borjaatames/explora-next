@@ -4,6 +4,7 @@ slug: tenerife-kayak-and-snorkel-adventure-with-free-photos
 ciudad: tenerife
 descripcion: Three-hour guided tour in double kayaks along the volcanic coast of southern Tenerife, with a snorkelling stop, wetsuit, changing rooms with showers and free photos and videos of the trip. Rated 4.6/5 from 2,409 reviews. From €23.
 slugs:
+  es: tenerife-aventura-en-kayak-y-esnorquel-con-fotos-gratis
   en: tenerife-kayak-and-snorkel-adventure-with-free-photos
   fr: tenerife-kayak-et-snorkeling-avec-photos-offertes
   it: tenerife-kayak-e-snorkeling-con-foto-incluse

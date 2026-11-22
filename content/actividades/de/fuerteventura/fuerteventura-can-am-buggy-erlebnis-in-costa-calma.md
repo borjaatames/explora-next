@@ -4,10 +4,12 @@ slug: fuerteventura-can-am-buggy-erlebnis-in-costa-calma
 ciudad: fuerteventura
 descripcion: Zwei Stunden im Can-Am-Buggy mit professionellem Guide ab Costa Calma durch den Westen der Insel zum versteckten Strand von Ugán, mit Abholung vom Hotel, Treibstoff, Schutzbrille und Versicherung. 4,5/5 bei 400 Bewertungen. Ab 119 € pro Gruppe.
 slugs:
+  es: fuerteventura-experiencia-en-buggy-can-am-en-costa-calma
   en: fuerteventura-can-am-buggy-experience-in-costa-calma
   de: fuerteventura-can-am-buggy-erlebnis-in-costa-calma
   fr: fuerteventura-buggy-can-am-a-costa-calma
   it: fuerteventura-esperienza-in-buggy-can-am-a-costa-calma
+  pt: fuerteventura-experiencia-de-buggy-can-am-em-costa-calma
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 119

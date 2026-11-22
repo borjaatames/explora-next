@@ -4,6 +4,7 @@ slug: lanzarote-timanfaya-national-park-tour
 ciudad: lanzarote
 descripcion: Coach tour with an expert guide to Timanfaya National Park, the geothermal demonstrations at Islote de Hilario and the La Geria wine region, with pick-up in the main resorts and an optional camel ride. Rated 4.4/5 from 1,083 reviews. From €59.
 slugs:
+  es: lanzarote-excursion-al-parque-nacional-de-timanfaya
   en: lanzarote-timanfaya-national-park-tour
 duracion: 6 hours
 duracionMinutos: 360

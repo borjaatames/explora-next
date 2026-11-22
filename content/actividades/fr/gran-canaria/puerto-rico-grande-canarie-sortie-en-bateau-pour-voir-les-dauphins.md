@@ -4,10 +4,12 @@ slug: puerto-rico-grande-canarie-sortie-en-bateau-pour-voir-les-dauphins
 ciudad: gran-canaria
 descripcion: Deux heures et demie à bord du catamaran Spirit of the Sea depuis Puerto Rico pour observer certaines des 30 espèces de cétacés de Grande Canarie, avec zone de vision sous-marine et boissons ; sans observation, une nouvelle sortie est offerte. 4,3/5 sur 2.770 avis. Dès 40 €.
 slugs:
+  es: puerto-rico-de-gran-canaria-avistamiento-de-delfines-en-barco
   en: puerto-rico-de-gran-canaria-dolphin-watching-boat-trip
   de: puerto-rico-gran-canaria-bootsfahrt-zur-delfinbeobachtung
   fr: puerto-rico-grande-canarie-sortie-en-bateau-pour-voir-les-dauphins
   it: puerto-rico-gran-canaria-gita-in-barca-per-avvistare-i-delfini
+  pt: puerto-rico-de-gran-canaria-passeio-de-barco-para-ver-golfinhos
 duracion: 2 h 30
 duracionMinutos: 150
 precioDesde: 40

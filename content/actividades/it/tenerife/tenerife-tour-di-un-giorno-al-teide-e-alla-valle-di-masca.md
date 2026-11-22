@@ -4,6 +4,7 @@ slug: tenerife-tour-di-un-giorno-al-teide-e-alla-valle-di-masca
 ciudad: tenerife
 descripcion: 'Tour di una giornata dal sud di Tenerife in veicolo climatizzato con guida locale: Parco Nazionale del Teide, tempo libero nei paesi di Garachico e Masca, con oltre 150 punti di prelievo sull''isola. 4,5/5 su 478 recensioni. Da 56 €.'
 slugs:
+  es: tenerife-excursion-de-un-dia-al-teide-y-al-valle-de-masca
   en: tenerife-teide-and-masca-valley-day-tour
   de: teneriffa-tagestour-zum-teide-und-ins-masca-tal
   it: tenerife-tour-di-un-giorno-al-teide-e-alla-valle-di-masca

@@ -4,6 +4,7 @@ slug: fuerteventura-introduction-to-scuba-diving
 ciudad: fuerteventura
 descripcion: Two-and-a-half-hour try dive in a small group in the south of Fuerteventura with an instructor who speaks English, French, German or Spanish, with hotel pick-up. Rated 4.9/5 from 398 reviews. From €85.
 slugs:
+  es: fuerteventura-iniciacion-al-buceo
   en: fuerteventura-introduction-to-scuba-diving
   de: fuerteventura-einfuehrung-ins-tauchen
   fr: fuerteventura-initiation-a-la-plongee

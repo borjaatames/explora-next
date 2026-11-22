@@ -4,6 +4,7 @@ slug: los-gigantes-baleines-et-dauphins-a-bord-d-un-bateau-pirate
 ciudad: tenerife
 descripcion: Bateau de style pirate au départ du port de Los Gigantes pour chercher dauphins et globicéphales au pied des falaises de Los Gigantes et de Masca, avec baignade, trapèze pour sauter dans la mer, boissons et, selon l'option, paella au poulet. 4,6/5 sur 2.593 avis. Dès 35 €.
 slugs:
+  es: los-gigantes-avistamiento-de-ballenas-y-delfines-en-barco-pirata
   en: los-gigantes-whale-and-dolphin-trip-on-a-pirate-ship
   de: los-gigantes-wal-und-delfintour-auf-einem-piratenschiff
   fr: los-gigantes-baleines-et-dauphins-a-bord-d-un-bateau-pirate

@@ -4,6 +4,7 @@ slug: from-lanzarote-la-graciosa-day-trip-by-catamaran
 ciudad: lanzarote
 descripcion: 'Full day with hotel pick-up: ferry to La Graciosa and a catamaran trip along its white-sand beaches, with swimming, snorkelling and kayaks in the marine reserve, lunch and unlimited drinks, plus free time in Caleta de Sebo. Rated 4.4/5 from 1,201 reviews. From €72.'
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-la-graciosa-en-catamaran
   en: from-lanzarote-la-graciosa-day-trip-by-catamaran
   fr: depuis-lanzarote-journee-en-catamaran-a-la-graciosa
 duracion: 6 hours

@@ -4,6 +4,7 @@ slug: fuerteventura-einfuehrung-ins-tauchen
 ciudad: fuerteventura
 descripcion: Zweieinhalb Stunden Schnuppertauchen in kleiner Gruppe im Süden Fuerteventuras mit einem Tauchlehrer, der Englisch, Französisch, Deutsch oder Spanisch spricht, mit Abholung vom Hotel. 4,9/5 bei 398 Bewertungen. Ab 85 €.
 slugs:
+  es: fuerteventura-iniciacion-al-buceo
   en: fuerteventura-introduction-to-scuba-diving
   de: fuerteventura-einfuehrung-ins-tauchen
   fr: fuerteventura-initiation-a-la-plongee

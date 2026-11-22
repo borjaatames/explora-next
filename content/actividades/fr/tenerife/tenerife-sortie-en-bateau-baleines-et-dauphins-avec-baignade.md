@@ -4,6 +4,7 @@ slug: tenerife-sortie-en-bateau-baleines-et-dauphins-avec-baignade
 ciudad: tenerife
 descripcion: Deux heures à bord d'un bateau traditionnel en bois au départ de Los Cristianos ou de Puerto Colón pour observer globicéphales et dauphins, avec un équipage certifié Pavillon bleu et une courte baignade si la mer le permet. 4,7/5 sur 4.390 avis. Dès 28 €.
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-barco-con-parada-para-banarse
   en: tenerife-whale-and-dolphin-boat-trip-with-a-swim-stop
   fr: tenerife-sortie-en-bateau-baleines-et-dauphins-avec-baignade
   it: tenerife-gita-in-barca-tra-balene-e-delfini-con-sosta-per-il-bagno

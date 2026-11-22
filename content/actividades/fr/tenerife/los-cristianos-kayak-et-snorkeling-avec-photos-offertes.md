@@ -4,10 +4,12 @@ slug: los-cristianos-kayak-et-snorkeling-avec-photos-offertes
 ciudad: tenerife
 descripcion: Trois heures de kayak en petit groupe depuis Los Cristianos à la recherche de dauphins et de tortues, avec pause snorkeling parmi les poissons colorés, explications pour débutants et photos offertes. 4,4/5 sur 1.243 avis. Dès 21 €.
 slugs:
+  es: los-cristianos-aventura-en-kayak-y-esnorquel-con-fotos-gratis
   en: los-cristianos-kayak-and-snorkel-adventure-with-free-photos
   de: los-cristianos-kajak-und-schnorcheltour-mit-gratisfotos
   fr: los-cristianos-kayak-et-snorkeling-avec-photos-offertes
   it: los-cristianos-kayak-e-snorkeling-con-foto-gratuite
+  pt: los-cristianos-aventura-de-caiaque-e-snorkel-com-fotos-gratis
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 21

@@ -4,6 +4,7 @@ slug: los-gigantes-boat-trip-with-swimming-a-drink-and-tapas
 ciudad: tenerife
 descripcion: Three hours on a boat for at most 10 passengers along the Los Gigantes cliffs, stopping in quiet bays and coves to snorkel in deep water, with a drink and tapas on deck and an experienced skipper. Rated 4.8/5 from 551 reviews. From €70.
 slugs:
+  es: los-gigantes-paseo-en-barco-con-bano-bebida-y-tapas
   en: los-gigantes-boat-trip-with-swimming-a-drink-and-tapas
   fr: los-gigantes-sortie-en-bateau-avec-baignade-boisson-et-tapas
 duracion: 3 hours

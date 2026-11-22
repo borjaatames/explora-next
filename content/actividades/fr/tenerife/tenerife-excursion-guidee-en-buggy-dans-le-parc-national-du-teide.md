@@ -4,10 +4,12 @@ slug: tenerife-excursion-guidee-en-buggy-dans-le-parc-national-du-teide
 ciudad: tenerife
 descripcion: Trois heures et demie au volant d'un buggy neuf de 2 ou 4 places jusqu'à 2 200 mètres dans le parc national du Teide, en petit groupe avec un guide local, entre paysages volcaniques et villages, avec arrêts photo. 4,6/5 sur 853 avis. Dès 210 € par groupe.
 slugs:
+  es: tenerife-excursion-guiada-en-buggy-por-el-parque-nacional-del-teide
   en: tenerife-guided-buggy-tour-in-teide-national-park
   de: teneriffa-gefuehrte-buggy-tour-im-teide-nationalpark
   fr: tenerife-excursion-guidee-en-buggy-dans-le-parc-national-du-teide
   it: tenerife-tour-guidato-in-buggy-nel-parco-nazionale-del-teide
+  pt: tenerife-passeio-guiado-de-buggy-no-parque-nacional-do-teide
 duracion: 3 h 30
 duracionMinutos: 210
 precioDesde: 210

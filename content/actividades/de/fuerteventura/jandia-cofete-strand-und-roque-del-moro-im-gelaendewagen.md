@@ -4,10 +4,12 @@ slug: jandia-cofete-strand-und-roque-del-moro-im-gelaendewagen
 ciudad: fuerteventura
 descripcion: Vier Stunden im Geländewagen mit Guide ab dem Süden Fuerteventuras über die Halbinsel Jandía zum abgelegenen Strand von Cofete und zum Roque del Moro, mit Abholung vom Hotel. 4,6/5 bei 521 Bewertungen. Ab 59 €.
 slugs:
+  es: jandia-playa-de-cofete-y-roque-del-moro-en-4x4
   en: jandia-cofete-beach-and-roque-del-moro-4x4-trip
   de: jandia-cofete-strand-und-roque-del-moro-im-gelaendewagen
   fr: jandia-plage-de-cofete-et-roque-del-moro-en-4x4
   it: jandia-spiaggia-di-cofete-e-roque-del-moro-in-4x4
+  pt: jandia-praia-de-cofete-e-roque-del-moro-em-4x4
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 59

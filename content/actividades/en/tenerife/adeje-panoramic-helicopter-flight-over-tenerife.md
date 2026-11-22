@@ -4,6 +4,7 @@ slug: adeje-panoramic-helicopter-flight-over-tenerife
 ciudad: tenerife
 descripcion: Helicopter sightseeing flight from Adeje, from a short 8-minute hop to a 45-minute tour over the coast, Los Gigantes, Isla Baja or Teide National Park. Rated 4.9/5 from 384 reviews. From €110.
 slugs:
+  es: adeje-vuelo-panoramico-en-helicoptero-sobre-tenerife
   en: adeje-panoramic-helicopter-flight-over-tenerife
 duracion: 40 min
 duracionMinutos: 40

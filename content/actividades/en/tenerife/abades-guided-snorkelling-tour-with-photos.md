@@ -4,10 +4,12 @@ slug: abades-guided-snorkelling-tour-with-photos
 ciudad: tenerife
 descripcion: Guided snorkel off Playa Abades, on Tenerife's east coast, among colourful fish and reef, with a chance of turtles, rays and octopus, wetsuit included and free high-quality photos and videos. Rated 4.8/5 from 450 reviews. From €30.
 slugs:
+  es: abades-esnorquel-guiado-con-fotos
   en: abades-guided-snorkelling-tour-with-photos
   de: abades-gefuehrte-schnorcheltour-mit-fotos
   fr: abades-snorkeling-guide-avec-photos
   it: abades-snorkeling-guidato-con-foto
+  pt: abades-snorkel-guiado-com-fotos
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 30

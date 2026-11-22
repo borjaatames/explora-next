@@ -4,10 +4,12 @@ slug: gran-canaria-scuba-diving-for-beginners
 ciudad: gran-canaria
 descripcion: 'Three-hour try dive in a small group in the south of Gran Canaria: the basics of diving and breathing underwater, then a dive among the island''s marine life with experienced instructors, with hotel pick-up. Rated 4.8/5 from 508 reviews. From €89.'
 slugs:
+  es: gran-canaria-buceo-para-principiantes
   en: gran-canaria-scuba-diving-for-beginners
   de: gran-canaria-tauchen-fuer-anfaenger
   fr: grande-canarie-plongee-pour-debutants
   it: gran-canaria-immersione-per-principianti
+  pt: gran-canaria-mergulho-para-principiantes
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 89

@@ -4,10 +4,12 @@ slug: teneriffa-schnuppertauchen-fuer-anfaenger-bei-den-schildkroeten
 ciudad: tenerife
 descripcion: Zwei Stunden Schnuppertauchen für Anfänger an der Südküste Teneriffas, mit dem Schnellboot zum Tauchplatz, einem zertifizierten Tauchlehrer für je zwei Taucher, ausführlicher Sicherheitseinweisung und kompletter Ausrüstung. 4,8/5 bei 916 Bewertungen. Ab 70 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-una-zona-de-tortugas
   en: tenerife-beginner-scuba-dive-at-a-turtle-spot
   de: teneriffa-schnuppertauchen-fuer-anfaenger-bei-den-schildkroeten
   fr: tenerife-bapteme-de-plongee-pour-debutants-pres-des-tortues
   it: tenerife-immersione-per-principianti-dove-si-vedono-le-tartarughe
+  pt: tenerife-batismo-de-mergulho-numa-zona-de-tartarugas
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 70

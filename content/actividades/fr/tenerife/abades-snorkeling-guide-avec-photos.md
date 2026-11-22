@@ -4,10 +4,12 @@ slug: abades-snorkeling-guide-avec-photos
 ciudad: tenerife
 descripcion: Snorkeling guidé au large de la Playa Abades, sur la côte est de Tenerife, parmi les poissons colorés et le récif, avec des chances de voir tortues, raies et poulpes, combinaison incluse et photos et vidéos HD offertes. 4,8/5 sur 450 avis. Dès 30 €.
 slugs:
+  es: abades-esnorquel-guiado-con-fotos
   en: abades-guided-snorkelling-tour-with-photos
   de: abades-gefuehrte-schnorcheltour-mit-fotos
   fr: abades-snorkeling-guide-avec-photos
   it: abades-snorkeling-guidato-con-foto
+  pt: abades-snorkel-guiado-com-fotos
 duracion: 1 h 30
 duracionMinutos: 90
 precioDesde: 30

@@ -4,10 +4,12 @@ slug: teneriffa-kajak-safari-und-schnorcheln-im-meeresschutzgebiet
 ciudad: tenerife
 descripcion: Geführte Seekajak-Tour ab Los Cristianos entlang der Vulkanküste, mit guten Chancen auf Meerestiere, einer Meereshöhle und einem Schnorchelstopp in Buchten, die nur vom Meer aus erreichbar sind. 4,5/5 bei 3.569 Bewertungen. Ab 25 €.
 slugs:
+  es: tenerife-safari-en-kayak-y-esnorquel-en-una-reserva-marina
   en: tenerife-kayak-safari-and-snorkelling-in-a-marine-reserve
   de: teneriffa-kajak-safari-und-schnorcheln-im-meeresschutzgebiet
   fr: tenerife-safari-en-kayak-et-snorkeling-dans-une-reserve-marine
   it: tenerife-safari-in-kayak-e-snorkeling-in-una-riserva-marina
+  pt: tenerife-safari-de-caiaque-e-snorkel-numa-reserva-marinha
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 25

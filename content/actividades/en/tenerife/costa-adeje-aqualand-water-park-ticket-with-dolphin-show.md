@@ -4,10 +4,12 @@ slug: costa-adeje-aqualand-water-park-ticket-with-dolphin-show
 ciudad: tenerife
 descripcion: Entry to Aqualand Costa Adeje with all the water rides for every age, the dolphin show and parking. Rated 4.3/5 from 1,135 reviews. From €37.
 slugs:
+  es: costa-adeje-entrada-a-aqualand-con-espectaculo-de-delfines
   en: costa-adeje-aqualand-water-park-ticket-with-dolphin-show
   de: costa-adeje-ticket-fuer-den-wasserpark-aqualand-mit-delfinshow
   fr: costa-adeje-billet-pour-le-parc-aquatique-aqualand-avec-spectacle-de-dauphins
   it: costa-adeje-biglietto-per-il-parco-acquatico-aqualand-con-spettacolo-dei-delfini
+  pt: costa-adeje-bilhete-do-aqualand-com-espetaculo-de-golfinhos
 duracion: 7 hours
 duracionMinutos: 420
 precioDesde: 37

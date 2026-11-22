@@ -4,6 +4,7 @@ slug: costa-adeje-whale-and-dolphin-watching-boat-trip
 ciudad: tenerife
 descripcion: Two hours from Puerto Colón in a small boat for at most 12 passengers, with a guide who specialises in cetaceans, an experienced skipper and a free drink. Rated 4.7/5 from 390 reviews. From €35.
 slugs:
+  es: costa-adeje-avistamiento-de-ballenas-y-delfines-en-barco
   en: costa-adeje-whale-and-dolphin-watching-boat-trip
   fr: costa-adeje-sortie-en-bateau-baleines-et-dauphins
   it: costa-adeje-gita-in-barca-tra-balene-e-delfini

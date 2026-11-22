@@ -4,6 +4,7 @@ slug: los-gigantes-whale-and-dolphin-trip-on-a-pirate-ship
 ciudad: tenerife
 descripcion: Pirate-style boat from Los Gigantes harbour to look for dolphins and pilot whales below the cliffs of Los Gigantes and Masca, with a swim, a trapeze to jump into the sea, drinks and, depending on the option, chicken paella. Rated 4.6/5 from 2,593 reviews. From €35.
 slugs:
+  es: los-gigantes-avistamiento-de-ballenas-y-delfines-en-barco-pirata
   en: los-gigantes-whale-and-dolphin-trip-on-a-pirate-ship
   de: los-gigantes-wal-und-delfintour-auf-einem-piratenschiff
   fr: los-gigantes-baleines-et-dauphins-a-bord-d-un-bateau-pirate

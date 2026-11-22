@@ -4,6 +4,7 @@ slug: lanzarote-guided-volcano-hike-with-transfers
 ciudad: lanzarote
 descripcion: Small-group guided hike in Lanzarote's volcanic natural park, with professional hiking guides who explain how the eruptions shaped the island, pick-up included and fruit and water for the walk. Rated 4.9/5 from 962 reviews. From €42.
 slugs:
+  es: lanzarote-senderismo-guiado-por-los-volcanes-con-traslados
   en: lanzarote-guided-volcano-hike-with-transfers
 duracion: 3 h 45 min
 duracionMinutos: 225

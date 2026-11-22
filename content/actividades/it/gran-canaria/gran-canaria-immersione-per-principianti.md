@@ -4,10 +4,12 @@ slug: gran-canaria-immersione-per-principianti
 ciudad: gran-canaria
 descripcion: 'Tre ore di prova di immersione in piccolo gruppo nel sud di Gran Canaria: le basi della subacquea e della respirazione sott''acqua, poi un''immersione con istruttori esperti, con prelievo in hotel. 4,8/5 su 508 recensioni. Da 89 €.'
 slugs:
+  es: gran-canaria-buceo-para-principiantes
   en: gran-canaria-scuba-diving-for-beginners
   de: gran-canaria-tauchen-fuer-anfaenger
   fr: grande-canarie-plongee-pour-debutants
   it: gran-canaria-immersione-per-principianti
+  pt: gran-canaria-mergulho-para-principiantes
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 89

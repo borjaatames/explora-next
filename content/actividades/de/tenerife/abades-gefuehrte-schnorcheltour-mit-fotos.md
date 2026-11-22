@@ -4,10 +4,12 @@ slug: abades-gefuehrte-schnorcheltour-mit-fotos
 ciudad: tenerife
 descripcion: Geführtes Schnorcheln vor der Playa Abades an der Ostküste Teneriffas zwischen bunten Fischen und Riff, mit Chancen auf Schildkröten, Rochen und Oktopus, Neoprenanzug inklusive und Gratisfotos und -videos in hoher Qualität. 4,8/5 bei 450 Bewertungen. Ab 30 €.
 slugs:
+  es: abades-esnorquel-guiado-con-fotos
   en: abades-guided-snorkelling-tour-with-photos
   de: abades-gefuehrte-schnorcheltour-mit-fotos
   fr: abades-snorkeling-guide-avec-photos
   it: abades-snorkeling-guidato-con-foto
+  pt: abades-snorkel-guiado-com-fotos
 duracion: 1 Std. 30 Min.
 duracionMinutos: 90
 precioDesde: 30

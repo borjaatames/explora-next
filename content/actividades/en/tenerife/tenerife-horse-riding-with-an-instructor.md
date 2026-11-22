@@ -4,6 +4,7 @@ slug: tenerife-horse-riding-with-an-instructor
 ciudad: tenerife
 descripcion: One- or two-hour horse ride in the south of Tenerife with an instructor, through rugged countryside with views of the ocean. Rated 4.3/5 from 955 reviews. From €45.
 slugs:
+  es: tenerife-paseo-a-caballo-con-monitor
   en: tenerife-horse-riding-with-an-instructor
 duracion: 1 hour
 duracionMinutos: 60

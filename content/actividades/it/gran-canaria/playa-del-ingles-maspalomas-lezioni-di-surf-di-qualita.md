@@ -4,10 +4,12 @@ slug: playa-del-ingles-maspalomas-lezioni-di-surf-di-qualita
 ciudad: gran-canaria
 descripcion: Quattro ore di lezione di surf a Playa del Inglés per principianti assoluti, con teoria e video introduttivo, gruppi fino a 5 per istruttore, lunghe sessioni in acqua, frutta e acqua e foto di surf gratis. 4,9/5 su 418 recensioni. Da 60 €.
 slugs:
+  es: playa-del-ingles-maspalomas-clases-de-surf-de-calidad
   en: playa-del-ingles-maspalomas-high-quality-surf-lessons
   de: playa-del-ingles-maspalomas-hochwertige-surfkurse
   fr: playa-del-ingles-maspalomas-cours-de-surf-de-qualite
   it: playa-del-ingles-maspalomas-lezioni-di-surf-di-qualita
+  pt: playa-del-ingles-maspalomas-aulas-de-surf-de-qualidade
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 60

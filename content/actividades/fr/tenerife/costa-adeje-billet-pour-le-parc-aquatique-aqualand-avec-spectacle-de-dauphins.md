@@ -4,10 +4,12 @@ slug: costa-adeje-billet-pour-le-parc-aquatique-aqualand-avec-spectacle-de-dauph
 ciudad: tenerife
 descripcion: Entrée à l'Aqualand Costa Adeje avec toutes les attractions aquatiques pour tous les âges, le spectacle de dauphins et le parking. 4,3/5 sur 1.135 avis. Dès 37 €.
 slugs:
+  es: costa-adeje-entrada-a-aqualand-con-espectaculo-de-delfines
   en: costa-adeje-aqualand-water-park-ticket-with-dolphin-show
   de: costa-adeje-ticket-fuer-den-wasserpark-aqualand-mit-delfinshow
   fr: costa-adeje-billet-pour-le-parc-aquatique-aqualand-avec-spectacle-de-dauphins
   it: costa-adeje-biglietto-per-il-parco-acquatico-aqualand-con-spettacolo-dei-delfini
+  pt: costa-adeje-bilhete-do-aqualand-com-espetaculo-de-golfinhos
 duracion: 7 heures
 duracionMinutos: 420
 precioDesde: 37

@@ -4,10 +4,12 @@ slug: jandia-cofete-beach-and-roque-del-moro-4x4-trip
 ciudad: fuerteventura
 descripcion: Four-hour off-road trip with a guide from the south of Fuerteventura across the Jandía peninsula to remote Cofete beach and the Roque del Moro, with hotel pick-up. Rated 4.6/5 from 521 reviews. From €59.
 slugs:
+  es: jandia-playa-de-cofete-y-roque-del-moro-en-4x4
   en: jandia-cofete-beach-and-roque-del-moro-4x4-trip
   de: jandia-cofete-strand-und-roque-del-moro-im-gelaendewagen
   fr: jandia-plage-de-cofete-et-roque-del-moro-en-4x4
   it: jandia-spiaggia-di-cofete-e-roque-del-moro-in-4x4
+  pt: jandia-praia-de-cofete-e-roque-del-moro-em-4x4
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 59

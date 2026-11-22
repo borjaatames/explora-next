@@ -4,6 +4,7 @@ slug: teneriffa-buggy-tour-zum-teide-am-morgen-oder-bei-sonnenuntergang
 ciudad: tenerife
 descripcion: Drei Stunden am Steuer eines Buggys über die Wolken im Teide-Nationalpark, morgens oder bei Sonnenuntergang, mit Guides, die die Geschichte des Vulkans erzählen, Fotostopps, Gratisgetränken und optionaler Abholung. 4,8/5 bei 549 Bewertungen. Ab 200 € pro Gruppe.
 slugs:
+  es: tenerife-buggy-por-el-teide-por-la-manana-o-al-atardecer
   en: tenerife-teide-buggy-tour-in-the-morning-or-at-sunset
   de: teneriffa-buggy-tour-zum-teide-am-morgen-oder-bei-sonnenuntergang
   fr: tenerife-buggy-au-teide-le-matin-ou-au-coucher-du-soleil

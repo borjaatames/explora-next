@@ -4,10 +4,12 @@ slug: puerto-rico-gran-canaria-bootsfahrt-zur-delfinbeobachtung
 ciudad: gran-canaria
 descripcion: Zweieinhalb Stunden mit dem Katamaran Spirit of the Sea ab Puerto Rico zu einigen der 30 Wal- und Delfinarten vor Gran Canaria, mit Unterwasser-Sichtbereich und Softdrinks; ohne Sichtung gibt es eine Gratisfahrt. 4,3/5 bei 2.770 Bewertungen. Ab 40 €.
 slugs:
+  es: puerto-rico-de-gran-canaria-avistamiento-de-delfines-en-barco
   en: puerto-rico-de-gran-canaria-dolphin-watching-boat-trip
   de: puerto-rico-gran-canaria-bootsfahrt-zur-delfinbeobachtung
   fr: puerto-rico-grande-canarie-sortie-en-bateau-pour-voir-les-dauphins
   it: puerto-rico-gran-canaria-gita-in-barca-per-avvistare-i-delfini
+  pt: puerto-rico-de-gran-canaria-passeio-de-barco-para-ver-golfinhos
 duracion: 2 Std. 30 Min.
 duracionMinutos: 150
 precioDesde: 40

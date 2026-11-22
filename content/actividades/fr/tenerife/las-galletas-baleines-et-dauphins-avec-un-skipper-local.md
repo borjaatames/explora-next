@@ -4,6 +4,7 @@ slug: las-galletas-baleines-et-dauphins-avec-un-skipper-local
 ciudad: tenerife
 descripcion: Trois heures en yacht depuis Las Galletas, à l'extrême sud de Tenerife, pour observer baleines, dauphins et tortues, avec repas maison et boissons préparés à bord par un skipper local. 4,8/5 sur 527 avis. Dès 63 €.
 slugs:
+  es: las-galletas-ballenas-y-delfines-con-un-patron-local
   en: las-galletas-whale-and-dolphin-tour-with-a-local-skipper
   fr: las-galletas-baleines-et-dauphins-avec-un-skipper-local
 duracion: 3 heures

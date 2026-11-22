@@ -4,10 +4,12 @@ slug: tenerife-tour-guidato-in-moto-d-acqua-da-puerto-colon
 ciudad: tenerife
 descripcion: Un'ora in moto d'acqua guidata lungo la costa sud di Tenerife, su una Yamaha per una o due persone, con istruzioni passo passo, barca d'appoggio e sosta per il bagno; senza patente. 4,8/5 su 1.381 recensioni. Da 40 €.
 slugs:
+  es: tenerife-ruta-guiada-en-moto-de-agua-desde-puerto-colon
   en: tenerife-guided-jet-ski-tour-from-puerto-colon
   de: teneriffa-gefuehrte-jetski-tour-ab-puerto-colon
   fr: tenerife-balade-guidee-en-jet-ski-depuis-puerto-colon
   it: tenerife-tour-guidato-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-passeio-guiado-de-moto-de-agua-desde-puerto-colon
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 40

@@ -4,10 +4,12 @@ slug: puerto-rico-gran-canaria-gita-in-barca-per-avvistare-i-delfini
 ciudad: gran-canaria
 descripcion: Due ore e mezza sul catamarano Spirit of the Sea da Puerto Rico per avvistare alcune delle 30 specie di cetacei di Gran Canaria, con zona di visione subacquea e bibite; se non si vede nulla, la gita successiva è gratis. 4,3/5 su 2.770 recensioni. Da 40 €.
 slugs:
+  es: puerto-rico-de-gran-canaria-avistamiento-de-delfines-en-barco
   en: puerto-rico-de-gran-canaria-dolphin-watching-boat-trip
   de: puerto-rico-gran-canaria-bootsfahrt-zur-delfinbeobachtung
   fr: puerto-rico-grande-canarie-sortie-en-bateau-pour-voir-les-dauphins
   it: puerto-rico-gran-canaria-gita-in-barca-per-avvistare-i-delfini
+  pt: puerto-rico-de-gran-canaria-passeio-de-barco-para-ver-golfinhos
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 40

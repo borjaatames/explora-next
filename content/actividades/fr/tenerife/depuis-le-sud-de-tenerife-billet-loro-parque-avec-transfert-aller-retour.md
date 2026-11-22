@@ -4,10 +4,12 @@ slug: depuis-le-sud-de-tenerife-billet-loro-parque-avec-transfert-aller-retour
 ciudad: tenerife
 descripcion: Billet d'entrée au Loro Parque avec l'autocar depuis les hôtels du sud de Tenerife jusqu'à Puerto de la Cruz et retour, sans avoir à traverser l'île en voiture. 4,4/5 sur 3.646 avis. Dès 65 €.
 slugs:
+  es: desde-el-sur-de-tenerife-entrada-al-loro-parque-con-traslado-de-ida-y-vuelta
   en: from-south-tenerife-loro-parque-ticket-with-return-transfer
   de: ab-teneriffa-sued-loro-parque-mit-ticket-und-bustransfer
   fr: depuis-le-sud-de-tenerife-billet-loro-parque-avec-transfert-aller-retour
   it: dal-sud-di-tenerife-biglietto-loro-parque-con-transfer-andata-e-ritorno
+  pt: do-sul-de-tenerife-bilhete-do-loro-parque-com-transporte-de-ida-e-volta
 duracion: 8 heures
 duracionMinutos: 480
 precioDesde: 65

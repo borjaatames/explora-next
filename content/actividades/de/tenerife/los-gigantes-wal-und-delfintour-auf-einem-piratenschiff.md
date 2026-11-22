@@ -4,6 +4,7 @@ slug: los-gigantes-wal-und-delfintour-auf-einem-piratenschiff
 ciudad: tenerife
 descripcion: Mit einem Boot im Piratenstil ab dem Hafen von Los Gigantes zu Delfinen und Grindwalen unter den Steilwänden von Los Gigantes und Masca, mit Badestopp, Trapez zum Sprung ins Meer, Getränken und je nach Option Paella mit Huhn. 4,6/5 bei 2.593 Bewertungen. Ab 35 €.
 slugs:
+  es: los-gigantes-avistamiento-de-ballenas-y-delfines-en-barco-pirata
   en: los-gigantes-whale-and-dolphin-trip-on-a-pirate-ship
   de: los-gigantes-wal-und-delfintour-auf-einem-piratenschiff
   fr: los-gigantes-baleines-et-dauphins-a-bord-d-un-bateau-pirate

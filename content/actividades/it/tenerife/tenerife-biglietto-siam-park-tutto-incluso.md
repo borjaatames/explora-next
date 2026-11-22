@@ -4,10 +4,12 @@ slug: tenerife-biglietto-siam-park-tutto-incluso
 ciudad: tenerife
 descripcion: 'Biglietto per il Siam Park con braccialetto tutto incluso: pranzo, cibo e bevande nei punti ristoro del parco, asciugamano, armadietto e accesso prioritario alle attrazioni, tra cui la Tower of Power e la piscina a onde. 4,7/5 su 1.622 recensioni. Da 165 €.'
 slugs:
+  es: tenerife-entrada-a-siam-park-con-todo-incluido
   en: tenerife-siam-park-all-inclusive-ticket
   de: teneriffa-siam-park-all-inclusive-ticket
   fr: tenerife-billet-siam-park-tout-compris
   it: tenerife-biglietto-siam-park-tutto-incluso
+  pt: tenerife-bilhete-do-siam-park-com-tudo-incluido
 duracion: 8 ore
 duracionMinutos: 480
 precioDesde: 165

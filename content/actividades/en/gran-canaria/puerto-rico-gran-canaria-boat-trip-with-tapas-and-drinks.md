@@ -4,6 +4,7 @@ slug: puerto-rico-gran-canaria-boat-trip-with-tapas-and-drinks
 ciudad: gran-canaria
 descripcion: Four-hour boat trip along the south-west coast from Puerto Rico, with sangria and beer, tapas of cheese and cold cuts, snorkelling and paddleboard, and pick-up from selected hotels in the south. Rated 4.6/5 from 392 reviews. From €59.
 slugs:
+  es: puerto-rico-gran-canaria-paseo-en-barco-con-tapas-y-bebidas
   en: puerto-rico-gran-canaria-boat-trip-with-tapas-and-drinks
   de: puerto-rico-gran-canaria-bootstour-mit-tapas-und-getraenken
 duracion: 4 hours

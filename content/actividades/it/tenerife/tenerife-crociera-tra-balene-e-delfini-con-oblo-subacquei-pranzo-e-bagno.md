@@ -4,6 +4,7 @@ slug: tenerife-crociera-tra-balene-e-delfini-con-oblo-subacquei-pranzo-e-bagno
 ciudad: tenerife
 descripcion: Catamarano da Puerto Colón al santuario dei cetacei Teno-Rasca, con 16 grandi finestre subacquee, pranzo e bevande a bordo e sosta per il bagno; opzione da 3 o 4,5 ore. 4,5/5 su 1.830 recensioni. Da 50 €.
 slugs:
+  es: tenerife-crucero-de-ballenas-y-delfines-con-ventanas-submarinas-almuerzo-y-bano
   en: tenerife-whale-and-dolphin-cruise-with-underwater-windows-lunch-and-swim
   de: teneriffa-wal-und-delfinfahrt-mit-unterwasserfenstern-essen-und-baden
   fr: tenerife-croisiere-baleines-et-dauphins-avec-hublots-sous-marins-repas-et-baigna

@@ -4,6 +4,7 @@ slug: tenerife-teide-buggy-tour-in-the-morning-or-at-sunset
 ciudad: tenerife
 descripcion: Three hours driving a buggy up above the clouds in Teide National Park, morning or sunset, with expert guides who tell the story of the volcano, photo stops, free drinks and optional hotel pick-up. Rated 4.8/5 from 549 reviews. From €200 per group.
 slugs:
+  es: tenerife-buggy-por-el-teide-por-la-manana-o-al-atardecer
   en: tenerife-teide-buggy-tour-in-the-morning-or-at-sunset
   de: teneriffa-buggy-tour-zum-teide-am-morgen-oder-bei-sonnenuntergang
   fr: tenerife-buggy-au-teide-le-matin-ou-au-coucher-du-soleil

@@ -4,10 +4,12 @@ slug: las-palmas-snorkelling-tour-at-las-canteras-beach
 ciudad: gran-canaria
 descripcion: Guided snorkelling tour at Las Canteras, the city beach of Las Palmas, with a qualified instructor, 1 to 1.5 hours in the water over its sheltered reef, gear, water and fruit. Rated 4.5/5 from 455 reviews. From €39.
 slugs:
+  es: las-palmas-esnorquel-guiado-en-la-playa-de-las-canteras
   en: las-palmas-snorkelling-tour-at-las-canteras-beach
   de: las-palmas-schnorcheltour-am-strand-las-canteras
   fr: las-palmas-snorkeling-sur-la-plage-de-las-canteras
   it: las-palmas-snorkeling-alla-spiaggia-di-las-canteras
+  pt: las-palmas-snorkel-guiado-na-praia-de-las-canteras
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 39

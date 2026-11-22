@@ -4,10 +4,12 @@ slug: fuerteventura-return-ferry-to-lobos-island-from-corralejo
 ciudad: fuerteventura
 descripcion: Return ferry from Corralejo harbour to Lobos Island, about 20 minutes each way, with Nortour, a local company sailing since 1988; you explore the island at your own pace. Rated 4.7/5 from 3,698 reviews. From €17.
 slugs:
+  es: fuerteventura-ferry-de-ida-y-vuelta-a-la-isla-de-lobos-desde-corralejo
   en: fuerteventura-return-ferry-to-lobos-island-from-corralejo
   de: fuerteventura-faehre-zur-isla-de-lobos-ab-corralejo-hin-und-zurueck
   fr: fuerteventura-ferry-aller-retour-pour-l-ile-de-lobos-depuis-corralejo
   it: fuerteventura-traghetto-andata-e-ritorno-per-l-isola-di-lobos-da-corralejo
+  pt: fuerteventura-ferry-de-ida-e-volta-para-a-ilha-de-lobos-desde-corralejo
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 17

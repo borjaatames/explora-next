@@ -4,6 +4,7 @@ slug: teneriffa-segeltoern-zu-walen-und-delfinen-mit-getraenken-und-snacks
 ciudad: tenerife
 descripcion: 'Drei Stunden auf einer Segeljacht ab Puerto Colón, geteilt mit höchstens 11 Gästen oder privat: Wale und Delfine beobachten, mit Schildkröten in einer geschützten Bucht schnorcheln, mit offener Bar und Imbiss an Bord. 4,5/5 bei 3.128 Bewertungen. Ab 65 €.'
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-velero-con-bebidas-y-aperitivos
   en: tenerife-whale-and-dolphin-sailing-trip-with-drinks-and-snacks
   de: teneriffa-segeltoern-zu-walen-und-delfinen-mit-getraenken-und-snacks
   fr: tenerife-voilier-baleines-et-dauphins-avec-boissons-et-en-cas

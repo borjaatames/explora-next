@@ -4,6 +4,7 @@ slug: tenerife-gita-in-barca-a-vela-tra-le-balene-con-cibo-e-snorkeling
 ciudad: tenerife
 descripcion: Tre ore su un'esclusiva barca a vela da Puerto Colón alla ricerca di balene, tartarughe e uccelli marini, con guida, bevande tra cui cava e vino, snack e attrezzatura da snorkeling. 4,8/5 su 719 recensioni. Da 60 €.
 slugs:
+  es: tenerife-avistamiento-de-cetaceos-en-velero-con-comida-y-esnorquel
   en: tenerife-whale-watching-sailing-trip-with-food-and-snorkelling
   it: tenerife-gita-in-barca-a-vela-tra-le-balene-con-cibo-e-snorkeling
 duracion: 3 ore

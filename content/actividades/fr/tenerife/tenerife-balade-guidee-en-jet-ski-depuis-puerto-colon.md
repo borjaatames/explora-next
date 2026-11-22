@@ -4,10 +4,12 @@ slug: tenerife-balade-guidee-en-jet-ski-depuis-puerto-colon
 ciudad: tenerife
 descripcion: Une heure de jet-ski guidé le long de la côte sud de Tenerife, sur une Yamaha pour une ou deux personnes, avec explications pas à pas, bateau d'assistance et baignade ; sans permis. 4,8/5 sur 1.381 avis. Dès 40 €.
 slugs:
+  es: tenerife-ruta-guiada-en-moto-de-agua-desde-puerto-colon
   en: tenerife-guided-jet-ski-tour-from-puerto-colon
   de: teneriffa-gefuehrte-jetski-tour-ab-puerto-colon
   fr: tenerife-balade-guidee-en-jet-ski-depuis-puerto-colon
   it: tenerife-tour-guidato-in-moto-d-acqua-da-puerto-colon
+  pt: tenerife-passeio-guiado-de-moto-de-agua-desde-puerto-colon
 duracion: 1 heure
 duracionMinutos: 60
 precioDesde: 40

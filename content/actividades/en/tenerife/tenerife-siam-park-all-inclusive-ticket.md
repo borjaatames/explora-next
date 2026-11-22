@@ -4,10 +4,12 @@ slug: tenerife-siam-park-all-inclusive-ticket
 ciudad: tenerife
 descripcion: 'Siam Park ticket with an all-inclusive wristband: lunch, food and drinks at the park''s outlets, towel, locker and priority access to the rides, including the Tower of Power and the wave pool. Rated 4.7/5 from 1,622 reviews. From €165.'
 slugs:
+  es: tenerife-entrada-a-siam-park-con-todo-incluido
   en: tenerife-siam-park-all-inclusive-ticket
   de: teneriffa-siam-park-all-inclusive-ticket
   fr: tenerife-billet-siam-park-tout-compris
   it: tenerife-biglietto-siam-park-tutto-incluso
+  pt: tenerife-bilhete-do-siam-park-com-tudo-incluido
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 165

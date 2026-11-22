@@ -4,10 +4,12 @@ slug: tenerife-tandem-paragliding-with-a-national-champion
 ciudad: tenerife
 descripcion: Tandem paragliding flight over the ravines and coast of Adeje with champion pilots, either a gentle flight or an acrobatic one, with hotel pick-up in the south and 5 GoPro photos. Rated 4.9/5 from 1,283 reviews. From €130.
 slugs:
+  es: tenerife-parapente-biplaza-con-un-campeon-nacional
   en: tenerife-tandem-paragliding-with-a-national-champion
   de: teneriffa-tandem-gleitschirmflug-mit-einem-landesmeister
   fr: tenerife-parapente-biplace-avec-un-champion-national
   it: tenerife-parapendio-biposto-con-un-campione-nazionale
+  pt: tenerife-parapente-em-tandem-com-um-campeao-nacional
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 130

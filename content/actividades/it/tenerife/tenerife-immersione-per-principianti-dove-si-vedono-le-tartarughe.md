@@ -4,10 +4,12 @@ slug: tenerife-immersione-per-principianti-dove-si-vedono-le-tartarughe
 ciudad: tenerife
 descripcion: Due ore di prova di immersione per principianti sulla costa sud di Tenerife, con trasferimento in motoscafo, un istruttore certificato ogni due sub, briefing di sicurezza dettagliato e attrezzatura completa. 4,8/5 su 916 recensioni. Da 70 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-una-zona-de-tortugas
   en: tenerife-beginner-scuba-dive-at-a-turtle-spot
   de: teneriffa-schnuppertauchen-fuer-anfaenger-bei-den-schildkroeten
   fr: tenerife-bapteme-de-plongee-pour-debutants-pres-des-tortues
   it: tenerife-immersione-per-principianti-dove-si-vedono-le-tartarughe
+  pt: tenerife-batismo-de-mergulho-numa-zona-de-tartarugas
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 70

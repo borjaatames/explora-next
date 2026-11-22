@@ -4,10 +4,12 @@ slug: morro-jable-avventura-in-moto-d-acqua-senza-patente
 ciudad: fuerteventura
 descripcion: Trenta minuti di moto d'acqua guidata davanti alla spiaggia di Morro Jable, con le spiegazioni della guida prima di sfrecciare sull'acqua limpida; prezzo per moto d'acqua per due persone. 4,7/5 su 1.037 recensioni. Da 80 € a gruppo.
 slugs:
+  es: morro-jable-aventura-en-moto-de-agua-sin-licencia
   en: morro-jable-jet-ski-adventure-no-licence-needed
   de: morro-jable-jetski-abenteuer-ohne-fuehrerschein
   fr: morro-jable-aventure-en-jet-ski-sans-permis
   it: morro-jable-avventura-in-moto-d-acqua-senza-patente
+  pt: morro-jable-aventura-de-moto-de-agua-sem-licenca
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 80

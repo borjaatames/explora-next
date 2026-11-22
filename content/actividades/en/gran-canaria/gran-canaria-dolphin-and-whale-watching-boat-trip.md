@@ -4,6 +4,7 @@ slug: gran-canaria-dolphin-and-whale-watching-boat-trip
 ciudad: gran-canaria
 descripcion: Two-hour guided boat trip off the south of Gran Canaria to see dolphins and whales, with a multilingual marine guide on board, soft drinks and water, and pick-up available from the south of the island. Rated 4.4/5 from 629 reviews. From €36.
 slugs:
+  es: gran-canaria-avistamiento-de-delfines-y-ballenas-en-barco
   en: gran-canaria-dolphin-and-whale-watching-boat-trip
 duracion: 2 hours
 duracionMinutos: 120

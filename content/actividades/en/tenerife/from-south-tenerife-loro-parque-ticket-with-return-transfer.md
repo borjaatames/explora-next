@@ -4,10 +4,12 @@ slug: from-south-tenerife-loro-parque-ticket-with-return-transfer
 ciudad: tenerife
 descripcion: Loro Parque entry ticket with the coach from the hotels in the south of Tenerife to Puerto de la Cruz and back, so you don't have to drive across the island. Rated 4.4/5 from 3,646 reviews. From €65.
 slugs:
+  es: desde-el-sur-de-tenerife-entrada-al-loro-parque-con-traslado-de-ida-y-vuelta
   en: from-south-tenerife-loro-parque-ticket-with-return-transfer
   de: ab-teneriffa-sued-loro-parque-mit-ticket-und-bustransfer
   fr: depuis-le-sud-de-tenerife-billet-loro-parque-avec-transfert-aller-retour
   it: dal-sud-di-tenerife-biglietto-loro-parque-con-transfer-andata-e-ritorno
+  pt: do-sul-de-tenerife-bilhete-do-loro-parque-com-transporte-de-ida-e-volta
 duracion: 8 hours
 duracionMinutos: 480
 precioDesde: 65

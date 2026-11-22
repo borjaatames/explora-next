@@ -4,6 +4,7 @@ slug: tenerife-whale-and-dolphin-boat-trip-with-a-swim-stop
 ciudad: tenerife
 descripcion: Two hours on a traditional wooden boat from Los Cristianos or Puerto Colón to look for pilot whales and dolphins, with a Blue Flag–certified crew and a short swim stop if the sea allows. Rated 4.7/5 from 4,390 reviews. From €28.
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-barco-con-parada-para-banarse
   en: tenerife-whale-and-dolphin-boat-trip-with-a-swim-stop
   fr: tenerife-sortie-en-bateau-baleines-et-dauphins-avec-baignade
   it: tenerife-gita-in-barca-tra-balene-e-delfini-con-sosta-per-il-bagno

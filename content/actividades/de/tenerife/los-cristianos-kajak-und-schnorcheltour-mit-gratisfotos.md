@@ -4,10 +4,12 @@ slug: los-cristianos-kajak-und-schnorcheltour-mit-gratisfotos
 ciudad: tenerife
 descripcion: Drei Stunden im Kajak in kleiner Gruppe ab Los Cristianos auf der Suche nach Delfinen und Schildkröten, mit Schnorchelstopp zwischen bunten Fischen, Einweisung für Anfänger und Gratisfotos. 4,4/5 bei 1.243 Bewertungen. Ab 21 €.
 slugs:
+  es: los-cristianos-aventura-en-kayak-y-esnorquel-con-fotos-gratis
   en: los-cristianos-kayak-and-snorkel-adventure-with-free-photos
   de: los-cristianos-kajak-und-schnorcheltour-mit-gratisfotos
   fr: los-cristianos-kayak-et-snorkeling-avec-photos-offertes
   it: los-cristianos-kayak-e-snorkeling-con-foto-gratuite
+  pt: los-cristianos-aventura-de-caiaque-e-snorkel-com-fotos-gratis
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 21

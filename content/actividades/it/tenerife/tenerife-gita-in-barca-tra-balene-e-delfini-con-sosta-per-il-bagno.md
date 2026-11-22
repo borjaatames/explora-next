@@ -4,6 +4,7 @@ slug: tenerife-gita-in-barca-tra-balene-e-delfini-con-sosta-per-il-bagno
 ciudad: tenerife
 descripcion: Due ore su una barca tradizionale in legno da Los Cristianos o da Puerto Colón per avvistare globicefali e delfini, con equipaggio certificato Bandiera Blu e un breve bagno se il mare lo consente. 4,7/5 su 4.390 recensioni. Da 28 €.
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-barco-con-parada-para-banarse
   en: tenerife-whale-and-dolphin-boat-trip-with-a-swim-stop
   fr: tenerife-sortie-en-bateau-baleines-et-dauphins-avec-baignade
   it: tenerife-gita-in-barca-tra-balene-e-delfini-con-sosta-per-il-bagno

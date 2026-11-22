@@ -4,10 +4,12 @@ slug: los-cristianos-kayak-and-snorkel-adventure-with-free-photos
 ciudad: tenerife
 descripcion: Three-hour small-group kayak trip from Los Cristianos to look for dolphins and turtles, with a snorkelling stop among colourful fish, beginner instructions and free photos. Rated 4.4/5 from 1,243 reviews. From €21.
 slugs:
+  es: los-cristianos-aventura-en-kayak-y-esnorquel-con-fotos-gratis
   en: los-cristianos-kayak-and-snorkel-adventure-with-free-photos
   de: los-cristianos-kajak-und-schnorcheltour-mit-gratisfotos
   fr: los-cristianos-kayak-et-snorkeling-avec-photos-offertes
   it: los-cristianos-kayak-e-snorkeling-con-foto-gratuite
+  pt: los-cristianos-aventura-de-caiaque-e-snorkel-com-fotos-gratis
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 21

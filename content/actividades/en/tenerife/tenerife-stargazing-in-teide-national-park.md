@@ -4,6 +4,7 @@ slug: tenerife-stargazing-in-teide-national-park
 ciudad: tenerife
 descripcion: Two hours of stargazing in a small group with a Starlight-accredited guide and a high-end telescope, with the history and mythology of the sky explained with a laser pointer and free photos of the experience. Rated 4.9/5 from 556 reviews. From €35.
 slugs:
+  es: tenerife-observacion-de-estrellas-en-el-parque-nacional-del-teide
   en: tenerife-stargazing-in-teide-national-park
 duracion: 2 hours
 duracionMinutos: 120

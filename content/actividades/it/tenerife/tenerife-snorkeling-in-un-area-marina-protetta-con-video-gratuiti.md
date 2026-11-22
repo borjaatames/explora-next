@@ -4,6 +4,7 @@ slug: tenerife-snorkeling-in-un-area-marina-protetta-con-video-gratuiti
 ciudad: tenerife
 descripcion: Cinquanta minuti di snorkeling guidato nell'area marina protetta di Abades, sulla costa est, tra tartarughe, coralli e pesci, con muta intera, attrezzatura regolabile, istruttori multilingue e foto e video gratuiti. 4,9/5 su 762 recensioni. Da 38 €.
 slugs:
+  es: tenerife-esnorquel-en-una-zona-marina-protegida-con-videos-gratis
   en: tenerife-snorkelling-in-a-marine-protected-area-with-free-videos
   de: teneriffa-schnorcheln-im-meeresschutzgebiet-mit-gratisvideos
   fr: tenerife-snorkeling-dans-une-aire-marine-protegee-avec-videos-offertes

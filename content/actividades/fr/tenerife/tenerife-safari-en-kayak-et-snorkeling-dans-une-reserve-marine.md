@@ -4,10 +4,12 @@ slug: tenerife-safari-en-kayak-et-snorkeling-dans-une-reserve-marine
 ciudad: tenerife
 descripcion: Sortie guidée en kayak de mer depuis Los Cristianos le long de la côte volcanique, avec de bonnes chances de voir la faune marine, une grotte marine et une pause snorkeling dans des criques accessibles seulement par la mer. 4,5/5 sur 3.569 avis. Dès 25 €.
 slugs:
+  es: tenerife-safari-en-kayak-y-esnorquel-en-una-reserva-marina
   en: tenerife-kayak-safari-and-snorkelling-in-a-marine-reserve
   de: teneriffa-kajak-safari-und-schnorcheln-im-meeresschutzgebiet
   fr: tenerife-safari-en-kayak-et-snorkeling-dans-une-reserve-marine
   it: tenerife-safari-in-kayak-e-snorkeling-in-una-riserva-marina
+  pt: tenerife-safari-de-caiaque-e-snorkel-numa-reserva-marinha
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 25

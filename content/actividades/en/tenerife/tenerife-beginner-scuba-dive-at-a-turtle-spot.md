@@ -4,10 +4,12 @@ slug: tenerife-beginner-scuba-dive-at-a-turtle-spot
 ciudad: tenerife
 descripcion: Two-hour try dive for beginners off the south coast of Tenerife, reached by speedboat, with one certified instructor for every two divers, a detailed safety briefing and full equipment. Rated 4.8/5 from 916 reviews. From €70.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-una-zona-de-tortugas
   en: tenerife-beginner-scuba-dive-at-a-turtle-spot
   de: teneriffa-schnuppertauchen-fuer-anfaenger-bei-den-schildkroeten
   fr: tenerife-bapteme-de-plongee-pour-debutants-pres-des-tortues
   it: tenerife-immersione-per-principianti-dove-si-vedono-le-tartarughe
+  pt: tenerife-batismo-de-mergulho-numa-zona-de-tartarugas
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 70

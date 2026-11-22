@@ -4,6 +4,7 @@ slug: tenerife-tour-in-buggy-al-teide-al-mattino-o-al-tramonto
 ciudad: tenerife
 descripcion: Tre ore alla guida di un buggy sopra le nuvole nel Parco Nazionale del Teide, al mattino o al tramonto, con guide che raccontano la storia del vulcano, soste per le foto, bevande gratuite e prelievo facoltativo. 4,8/5 su 549 recensioni. Da 200 € a gruppo.
 slugs:
+  es: tenerife-buggy-por-el-teide-por-la-manana-o-al-atardecer
   en: tenerife-teide-buggy-tour-in-the-morning-or-at-sunset
   de: teneriffa-buggy-tour-zum-teide-am-morgen-oder-bei-sonnenuntergang
   fr: tenerife-buggy-au-teide-le-matin-ou-au-coucher-du-soleil

@@ -4,10 +4,12 @@ slug: morro-jable-jetski-abenteuer-ohne-fuehrerschein
 ciudad: fuerteventura
 descripcion: Dreißig Minuten geführte Jetski-Fahrt vor dem Strand von Morro Jable, mit Einweisung durch den Guide, bevor es mit Tempo über das klare Wasser geht; Preis pro Jetski für zwei Personen. 4,7/5 bei 1.037 Bewertungen. Ab 80 € pro Gruppe.
 slugs:
+  es: morro-jable-aventura-en-moto-de-agua-sin-licencia
   en: morro-jable-jet-ski-adventure-no-licence-needed
   de: morro-jable-jetski-abenteuer-ohne-fuehrerschein
   fr: morro-jable-aventure-en-jet-ski-sans-permis
   it: morro-jable-avventura-in-moto-d-acqua-senza-patente
+  pt: morro-jable-aventura-de-moto-de-agua-sem-licenca
 duracion: 30 Minuten
 duracionMinutos: 30
 precioDesde: 80

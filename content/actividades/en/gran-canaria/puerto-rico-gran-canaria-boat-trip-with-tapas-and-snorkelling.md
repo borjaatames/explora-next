@@ -4,6 +4,7 @@ slug: puerto-rico-gran-canaria-boat-trip-with-tapas-and-snorkelling
 ciudad: gran-canaria
 descripcion: Four hours on a classic boat from Puerto Rico along the south-west coast, with hammocks, shade and a toilet on board, swimming, snorkelling and paddleboarding, and tapas and drinks included. Rated 4.5/5 from 704 reviews. From €48.
 slugs:
+  es: puerto-rico-gran-canaria-paseo-en-barco-con-tapas-y-esnorquel
   en: puerto-rico-gran-canaria-boat-trip-with-tapas-and-snorkelling
 duracion: 4 hours
 duracionMinutos: 240

@@ -4,10 +4,12 @@ slug: depuis-corralejo-ferry-pour-l-ile-de-lobos-avec-transfert-en-option
 ciudad: fuerteventura
 descripcion: Ferry aller-retour avec OBY de Corralejo à l'île de Lobos en seulement 20 minutes, avec des horaires pratiques et une option avec prise en charge à l'hôtel. 4,6/5 sur 629 avis. Dès 17 €.
 slugs:
+  es: desde-corralejo-ferry-a-la-isla-de-lobos-con-traslado-opcional
   en: from-corralejo-ferry-to-lobos-island-with-optional-transfer
   de: ab-corralejo-faehre-zur-isla-de-lobos-mit-optionalem-transfer
   fr: depuis-corralejo-ferry-pour-l-ile-de-lobos-avec-transfert-en-option
   it: da-corralejo-traghetto-per-l-isola-di-lobos-con-transfer-facoltativo
+  pt: desde-corralejo-ferry-para-a-ilha-de-lobos-com-transporte-opcional
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 17

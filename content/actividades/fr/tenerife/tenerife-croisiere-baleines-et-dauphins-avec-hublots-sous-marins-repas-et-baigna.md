@@ -4,6 +4,7 @@ slug: tenerife-croisiere-baleines-et-dauphins-avec-hublots-sous-marins-repas-et-
 ciudad: tenerife
 descripcion: Catamaran au départ de Puerto Colón vers le sanctuaire de cétacés de Teno-Rasca, avec 16 grandes vitres sous-marines, repas et boissons à bord et baignade ; option de 3 h ou 4 h 30. 4,5/5 sur 1.830 avis. Dès 50 €.
 slugs:
+  es: tenerife-crucero-de-ballenas-y-delfines-con-ventanas-submarinas-almuerzo-y-bano
   en: tenerife-whale-and-dolphin-cruise-with-underwater-windows-lunch-and-swim
   de: teneriffa-wal-und-delfinfahrt-mit-unterwasserfenstern-essen-und-baden
   fr: tenerife-croisiere-baleines-et-dauphins-avec-hublots-sous-marins-repas-et-baigna

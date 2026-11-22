@@ -4,6 +4,7 @@ slug: las-galletas-whale-and-dolphin-tour-with-a-local-skipper
 ciudad: tenerife
 descripcion: Three hours on a yacht from Las Galletas, in the far south of Tenerife, to see whales, dolphins and turtles, with home-made food and drinks prepared on board by a local skipper. Rated 4.8/5 from 527 reviews. From €63.
 slugs:
+  es: las-galletas-ballenas-y-delfines-con-un-patron-local
   en: las-galletas-whale-and-dolphin-tour-with-a-local-skipper
   fr: las-galletas-baleines-et-dauphins-avec-un-skipper-local
 duracion: 3 hours

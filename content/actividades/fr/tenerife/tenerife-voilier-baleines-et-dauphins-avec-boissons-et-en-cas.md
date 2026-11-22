@@ -4,6 +4,7 @@ slug: tenerife-voilier-baleines-et-dauphins-avec-boissons-et-en-cas
 ciudad: tenerife
 descripcion: Trois heures en voilier depuis Puerto Colón, en sortie partagée (11 passagers maximum) ou privée, pour observer baleines et dauphins, nager avec les tortues dans une baie abritée et profiter d'un open bar et d'un repas à bord. 4,5/5 sur 3.128 avis. Dès 65 €.
 slugs:
+  es: tenerife-avistamiento-de-ballenas-y-delfines-en-velero-con-bebidas-y-aperitivos
   en: tenerife-whale-and-dolphin-sailing-trip-with-drinks-and-snacks
   de: teneriffa-segeltoern-zu-walen-und-delfinen-mit-getraenken-und-snacks
   fr: tenerife-voilier-baleines-et-dauphins-avec-boissons-et-en-cas

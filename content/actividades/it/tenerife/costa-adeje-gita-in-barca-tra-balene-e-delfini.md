@@ -4,6 +4,7 @@ slug: costa-adeje-gita-in-barca-tra-balene-e-delfini
 ciudad: tenerife
 descripcion: Due ore da Puerto Colón su una piccola barca per massimo 12 passeggeri, con una guida esperta di cetacei, uno skipper esperto e una bevanda in omaggio. 4,7/5 su 390 recensioni. Da 35 €.
 slugs:
+  es: costa-adeje-avistamiento-de-ballenas-y-delfines-en-barco
   en: costa-adeje-whale-and-dolphin-watching-boat-trip
   fr: costa-adeje-sortie-en-bateau-baleines-et-dauphins
   it: costa-adeje-gita-in-barca-tra-balene-e-delfini

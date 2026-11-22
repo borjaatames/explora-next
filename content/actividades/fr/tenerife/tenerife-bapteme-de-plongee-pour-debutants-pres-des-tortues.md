@@ -4,10 +4,12 @@ slug: tenerife-bapteme-de-plongee-pour-debutants-pres-des-tortues
 ciudad: tenerife
 descripcion: Deux heures de baptême de plongée pour débutants sur la côte sud de Tenerife, avec trajet en bateau rapide, un moniteur certifié pour deux plongeurs, briefing de sécurité détaillé et équipement complet. 4,8/5 sur 916 avis. Dès 70 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-una-zona-de-tortugas
   en: tenerife-beginner-scuba-dive-at-a-turtle-spot
   de: teneriffa-schnuppertauchen-fuer-anfaenger-bei-den-schildkroeten
   fr: tenerife-bapteme-de-plongee-pour-debutants-pres-des-tortues
   it: tenerife-immersione-per-principianti-dove-si-vedono-le-tartarughe
+  pt: tenerife-batismo-de-mergulho-numa-zona-de-tartarugas
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 70
