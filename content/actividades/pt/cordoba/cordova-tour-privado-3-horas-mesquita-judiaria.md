@@ -5,7 +5,9 @@ ciudad: cordoba
 descripcion: "Tour privado de 3 horas com guia oficial, também em português: Mesquita-Catedral, Judiaria e, se quiser, o Alcázar ou um pátio, ao seu ritmo. Preço por grupo; as entradas pagam-se à parte. 4,9/5 em 105 opiniões. Desde 290 € por grupo."
 slugs:
   pt: cordova-tour-privado-3-horas-mesquita-judiaria
+  fr: cordoue-visite-privee-3-heures-mosquee-cathedrale-juiverie
   de: cordoba-private-fuehrung-3-stunden-mezquita-judenviertel
+  it: cordova-tour-privato-3-ore-moschea-cattedrale-quartiere-ebraico
 duracion: "3 horas"
 duracionMinutos: 180
 precioDesde: 290
