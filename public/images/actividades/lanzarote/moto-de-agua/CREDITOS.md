@@ -7,3 +7,4 @@
 - `flz-atardecer.webp` — r-q, Licencia Pixabay, vía Pixabay (https://pixabay.com/photos/sunset-glow-sea-beach-waves-9890310/) · recortada a 1600×1200
 - `x-moto-agua-unsplash-od2nj8ulz8m.webp` — Ben Koorengevel, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/person-in-black-and-red-life-vest-riding-on-white-boat-during-daytime-oD2nJ8ULz8M) · recortada a 1600×1200
 - `x-moto-agua-wikimedia-06.webp` — Germanramos, Public domain, vía Wikimedia Commons (https://commons.wikimedia.org/wiki/File:Jun%C3%ADn_PNLG_Moto_de_agua_01.jpg) · recortada a 1600×1200
+| jetski-estela-cielo-azul.webp | Pexels | Asad Photo Maldives | Licencia Pexels | https://www.pexels.com/photo/people-riding-a-jet-ski-1430675/ |
