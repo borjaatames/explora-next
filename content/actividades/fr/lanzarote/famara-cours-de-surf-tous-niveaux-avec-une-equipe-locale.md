@@ -4,6 +4,7 @@ slug: famara-cours-de-surf-tous-niveaux-avec-une-equipe-locale
 ciudad: lanzarote
 descripcion: 'Un cours de surf de 2 heures avec Momo Surf School à Famara, une école locale et familiale : échauffement, théorie et pratique dans l''eau avec un moniteur diplômé, planche adaptée à votre niveau, combinaison, lycra et assurance responsabilité civile, en petits groupes. 4,9/5 sur 81 avis. Dès 44 €.'
 slugs:
+  es: famara-clases-de-surf-para-todos-los-niveles-con-un-equipo-local
   en: famara-surf-lessons-for-all-levels-with-a-local-team
   fr: famara-cours-de-surf-tous-niveaux-avec-une-equipe-locale
 duracion: 2 heures

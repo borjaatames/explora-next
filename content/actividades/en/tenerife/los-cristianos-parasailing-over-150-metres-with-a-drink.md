@@ -4,8 +4,10 @@ slug: los-cristianos-parasailing-over-150-metres-with-a-drink
 ciudad: tenerife
 descripcion: Parasailing from the port of Los Cristianos at more than 150 metres, the highest flight in the Canary Islands according to the operator, with a 10-minute flight, a cold drink, a boat ride with an experienced skipper and views of the coast and Teide. The boat can also be booked privately for up to 10 people. Rated 4.9/5 from 115 reviews. From €54.
 slugs:
+  es: los-cristianos-parasailing-a-mas-de-150-metros-con-bebida
   en: los-cristianos-parasailing-over-150-metres-with-a-drink
   it: los-cristianos-parasailing-a-oltre-150-metri-con-bevanda
+  pt: los-cristianos-parasailing-a-mais-de-150-metros-com-bebida
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 54

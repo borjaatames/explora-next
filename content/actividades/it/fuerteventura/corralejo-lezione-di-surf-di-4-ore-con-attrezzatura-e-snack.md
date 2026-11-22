@@ -4,10 +4,12 @@ slug: corralejo-lezione-di-surf-di-4-ore-con-attrezzatura-e-snack
 ciudad: fuerteventura
 descripcion: 'Quattro ore con FreeSurfers School a Corralejo: trasferimento alla spiaggia con le condizioni migliori del giorno, tavola, muta e leash, assicurazione e uno snack dopo il surf. 4,8/5 su 93 recensioni. Da 50 €.'
 slugs:
+  es: corralejo-clase-de-surf-de-4-horas-con-equipo-y-tentempie
   en: corralejo-4-hour-surf-lesson-with-equipment-and-snack
   de: corralejo-4-stuendiger-surfkurs-mit-ausruestung-und-snack
   fr: corralejo-cours-de-surf-de-4-heures-avec-equipement-et-collation
   it: corralejo-lezione-di-surf-di-4-ore-con-attrezzatura-e-snack
+  pt: corralejo-aula-de-surf-de-4-horas-com-equipamento-e-lanche
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 50

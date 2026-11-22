@@ -4,6 +4,7 @@ slug: lanzarote-northern-delights-tour
 ciudad: lanzarote
 descripcion: 'Full day with a guide: LagOmar, the house built into the rock once linked to Omar Sharif, the view from the Mirador del Río and an express ferry to La Graciosa with lunch on board, an open bar and free time on the island. Rated 4.5/5 from 78 reviews. From €79.'
 slugs:
+  es: lanzarote-lo-mejor-del-norte
   en: lanzarote-northern-delights-tour
   fr: lanzarote-les-delices-du-nord
 duracion: 8 hours

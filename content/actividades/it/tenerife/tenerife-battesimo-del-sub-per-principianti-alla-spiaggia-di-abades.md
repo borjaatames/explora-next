@@ -4,10 +4,12 @@ slug: tenerife-battesimo-del-sub-per-principianti-alla-spiaggia-di-abades
 ciudad: tenerife
 descripcion: Un'introduzione all'immersione di 4 ore nella baia riparata di Abades, sulla costa sud-est di Tenerife, fino a un massimo di 8 metri, con al massimo 2 partecipanti per istruttore, attrezzatura, assicurazione, logbook online, acqua e prelievo gratuito dai punti confermati. 4,7/5 su 171 recensioni. Da 85 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-la-playa-de-abades
   en: tenerife-beginner-scuba-diving-at-abades-beach
   de: teneriffa-schnuppertauchen-fuer-anfaenger-am-strand-von-abades
   fr: tenerife-bapteme-de-plongee-sur-la-plage-d-abades
   it: tenerife-battesimo-del-sub-per-principianti-alla-spiaggia-di-abades
+  pt: tenerife-batismo-de-mergulho-na-praia-de-abades
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 85

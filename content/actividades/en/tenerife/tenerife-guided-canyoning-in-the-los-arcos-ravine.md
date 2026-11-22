@@ -4,6 +4,7 @@ slug: tenerife-guided-canyoning-in-the-los-arcos-ravine
 ciudad: tenerife
 descripcion: A canyoning day of about 6 hours in the Los Arcos ravine above the Orotava Valley, abseiling down walls of volcanic ash with certified guides who explain the geology of the canyon, with all equipment, accident insurance, access permits, photos and first aid. Rated 4.8/5 from 242 reviews. From €70.
 slugs:
+  es: tenerife-barranquismo-guiado-en-el-barranco-de-los-arcos
   en: tenerife-guided-canyoning-in-the-los-arcos-ravine
 duracion: 6 hours
 duracionMinutos: 360

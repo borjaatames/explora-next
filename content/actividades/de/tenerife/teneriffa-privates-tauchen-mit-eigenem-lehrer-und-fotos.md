@@ -4,10 +4,12 @@ slug: teneriffa-privates-tauchen-mit-eigenem-lehrer-und-fotos
 ciudad: tenerife
 descripcion: Ein privater 2,5-stündiger Tauchgang mit LovOcean Diving und deinem eigenen zertifizierten Lehrer, an dich angepasst und ohne Gruppe, mit Sicherheitseinweisung, kompletter Ausrüstung, Begleitung im Wasser, Nachbesprechung, Unterwasserfotos und -videos und Transfer von deiner Unterkunft. 4,8/5 bei 121 Bewertungen. Ab 97 €.
 slugs:
+  es: tenerife-buceo-privado-con-tu-propio-instructor-y-fotos
   en: tenerife-private-scuba-diving-with-your-own-instructor-and-photos
   de: teneriffa-privates-tauchen-mit-eigenem-lehrer-und-fotos
   fr: tenerife-plongee-privee-avec-votre-moniteur-et-photos
   it: tenerife-immersione-privata-con-il-tuo-istruttore-e-foto
+  pt: tenerife-mergulho-privado-com-o-seu-proprio-instrutor-e-fotos
 duracion: 2 Std. 30 Min.
 duracionMinutos: 150
 precioDesde: 97

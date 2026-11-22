@@ -4,10 +4,12 @@ slug: 4-ore-in-catamarano-condiviso-alle-spiagge-di-papagayo-max-12
 ciudad: lanzarote
 descripcion: Quattro ore in catamarano a vela per massimo 12 persone da Puerto Calero lungo la costa est fino alle spiagge di Papagayo, con pranzo, bevande, kayak, paddle, attrezzatura da snorkeling e prelievo. 4,8/5 su 58 recensioni. Da 89 €.
 slugs:
+  es: catamaran-a-vela-compartido-de-4-horas-a-las-playas-de-papagayo-max-12
   en: 4-hour-shared-catamaran-sail-to-the-papagayo-beaches-max-12
   de: 4-stunden-katamaran-segeln-zu-den-straenden-von-papagayo-max-12
   fr: 4-heures-de-catamaran-partage-jusqu-aux-plages-de-papagayo-12-max
   it: 4-ore-in-catamarano-condiviso-alle-spiagge-di-papagayo-max-12
+  pt: catamara-a-vela-partilhado-de-4-horas-as-praias-de-papagayo-max-12
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 89

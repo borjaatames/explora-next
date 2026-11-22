@@ -4,10 +4,12 @@ slug: lanzarote-lezioni-di-surf-di-2-o-4-ore-a-famara
 ciudad: lanzarote
 descripcion: Lezioni di surf di 2 o 4 ore con ZooPark Famara a Caleta de Famara, con istruttori esperti, tecnica e sicurezza, piccoli gruppi e tutta l'attrezzatura; possono partecipare i bambini dagli 8 anni. 4,9/5 su 95 recensioni. Da 50 €.
 slugs:
+  es: lanzarote-clases-de-surf-de-2-o-4-horas-en-famara
   en: lanzarote-2-or-4-hour-surf-lessons-in-famara
   de: lanzarote-surfkurse-von-2-oder-4-stunden-in-famara
   fr: lanzarote-cours-de-surf-de-2-ou-4-heures-a-famara
   it: lanzarote-lezioni-di-surf-di-2-o-4-ore-a-famara
+  pt: lanzarote-aulas-de-surf-de-2-ou-4-horas-em-famara
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 50

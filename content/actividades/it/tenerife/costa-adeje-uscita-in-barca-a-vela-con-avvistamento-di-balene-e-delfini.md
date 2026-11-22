@@ -4,6 +4,7 @@ slug: costa-adeje-uscita-in-barca-a-vela-con-avvistamento-di-balene-e-delfini
 ciudad: tenerife
 descripcion: Un'uscita di 3 ore in barca a vela da Puerto Colón lungo la costa sud di Tenerife per avvistare balene e delfini, con bagno e snorkeling in una baia tranquilla, frutta fresca, panini e bevande (birra, cava, vino, bibite, succhi e acqua). 4,8/5 su 243 recensioni. Da 80 €.
 slugs:
+  es: costa-adeje-paseo-en-velero-con-avistamiento-de-ballenas-y-delfines
   en: costa-adeje-sailing-trip-with-whale-and-dolphin-watching
   fr: costa-adeje-sortie-en-voilier-avec-observation-des-baleines-et-dauphins
   it: costa-adeje-uscita-in-barca-a-vela-con-avvistamento-di-balene-e-delfini

@@ -4,10 +4,12 @@ slug: caleta-de-fuste-20-minuten-jetski-rundkurs-in-der-bucht
 ciudad: fuerteventura
 descripcion: Zwanzig Minuten auf einem Jetski für 1 oder 2 Personen auf einem Rundkurs in der Bucht von Caleta de Fuste mit Lehrer, Schwimmweste inklusive. Der Preis gilt pro Jetski. 4,5/5 bei 217 Bewertungen. Ab 68 € pro Gruppe.
 slugs:
+  es: caleta-de-fuste-circuito-de-20-minutos-en-moto-de-agua-por-la-bahia
   en: caleta-de-fuste-20-minute-jet-ski-circuit-in-the-bay
   de: caleta-de-fuste-20-minuten-jetski-rundkurs-in-der-bucht
   fr: caleta-de-fuste-circuit-de-20-minutes-en-jet-ski-dans-la-baie
   it: caleta-de-fuste-circuito-in-moto-d-acqua-di-20-minuti-nella-baia
+  pt: caleta-de-fuste-circuito-de-20-minutos-de-mota-de-agua-na-baia
 duracion: 20 Minuten
 duracionMinutos: 20
 precioDesde: 68

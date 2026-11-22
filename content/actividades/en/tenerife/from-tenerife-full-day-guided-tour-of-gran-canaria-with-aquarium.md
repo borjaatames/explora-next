@@ -4,6 +4,7 @@ slug: from-tenerife-full-day-guided-tour-of-gran-canaria-with-aquarium
 ciudad: tenerife
 descripcion: 'Day trip by ferry from Santa Cruz de Tenerife to Gran Canaria with an official guide: the Poema del Mar aquarium, a walking tour of historic Vegueta and a guided visit to the Arehucas rum distillery with a tasting. Rated 4.5/5 from 70 reviews. From €123.'
 slugs:
+  es: desde-tenerife-excursion-guiada-de-dia-completo-a-gran-canaria-con-acuario
   en: from-tenerife-full-day-guided-tour-of-gran-canaria-with-aquarium
   de: ab-teneriffa-gefuehrter-tagesausflug-nach-gran-canaria-mit-aquarium
 duracion: 12 hours

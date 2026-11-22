@@ -4,6 +4,7 @@ slug: los-cristianos-kayak-e-snorkeling-in-piccolo-gruppo-con-la-fauna-marina
 ciudad: tenerife
 descripcion: 'Tre ore con SeaThru Kayaks da Los Cristianos: pagaia lungo la costa vulcanica di Tenerife in kayak doppi sit-on-top con una guida, cerca la fauna marina e fai snorkeling quando il mare lo permette, con giubbotti, attrezzatura da snorkeling, mute facoltative, acqua e un ufficio dove cambiarsi e lasciare le tue cose. 4,9/5 su 198 recensioni. Da 23 €.'
 slugs:
+  es: los-cristianos-kayak-y-esnorquel-en-grupo-reducido-con-fauna-marina
   en: los-cristianos-small-group-kayak-and-snorkel-with-marine-life
   it: los-cristianos-kayak-e-snorkeling-in-piccolo-gruppo-con-la-fauna-marina
 duracion: 3 ore

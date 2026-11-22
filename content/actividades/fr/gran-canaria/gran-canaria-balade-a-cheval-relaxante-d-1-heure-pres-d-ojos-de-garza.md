@@ -4,6 +4,7 @@ slug: gran-canaria-balade-a-cheval-relaxante-d-1-heure-pres-d-ojos-de-garza
 ciudad: gran-canaria
 descripcion: Une balade à cheval tranquille d'environ 1 heure dans la campagne canarienne près d'Ojos de Garza, avec vue sur la côte est et les montagnes, sur un cheval calme et en apprenant les bases, avec casque et dorsale. 4,5/5 sur 161 avis. Dès 35 €.
 slugs:
+  es: gran-canaria-paseo-relajante-a-caballo-de-1-hora-cerca-de-ojos-de-garza
   en: gran-canaria-relaxing-1-hour-horse-ride-near-ojos-de-garza
   fr: gran-canaria-balade-a-cheval-relaxante-d-1-heure-pres-d-ojos-de-garza
   it: gran-canaria-rilassante-passeggiata-a-cavallo-di-1-ora-vicino-a-ojos-de-garza

@@ -4,6 +4,7 @@ slug: tenerife-teide-national-park-hike-and-lava-cave-tour
 ciudad: tenerife
 descripcion: 'Six-hour small-group trip from the south of Tenerife: an easy hike in the heart of Teide National Park, a lava tube, a climb up a volcano with 360° views of Teide, Pico Viejo and the ocean, a light picnic and 20–30 photos of your day. Rated 4.9/5 from 71 reviews. From €89.'
 slugs:
+  es: tenerife-senderismo-en-el-parque-nacional-del-teide-y-cueva-de-lava
   en: tenerife-teide-national-park-hike-and-lava-cave-tour
   fr: tenerife-randonnee-dans-le-parc-national-du-teide-et-grotte-de-lave
   it: tenerife-escursione-nel-parco-nazionale-del-teide-e-grotta-di-lava

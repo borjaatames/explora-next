@@ -4,6 +4,7 @@ slug: south-tenerife-beginner-scuba-diving-in-adeje
 ciudad: tenerife
 descripcion: 'A beginner diving experience of about 3.5 hours with 12dive in Costa Adeje: no experience needed, two learners per instructor and a 45-minute dive, with full equipment, welcome coffee, dive insurance, transport to the site and back, water, fruit and snacks. Rated 4.9/5 from 89 reviews. From €85.'
 slugs:
+  es: sur-de-tenerife-bautismo-de-buceo-en-adeje
   en: south-tenerife-beginner-scuba-diving-in-adeje
   de: sued-teneriffa-schnuppertauchen-fuer-anfaenger-in-adeje
   fr: sud-de-tenerife-bapteme-de-plongee-a-adeje

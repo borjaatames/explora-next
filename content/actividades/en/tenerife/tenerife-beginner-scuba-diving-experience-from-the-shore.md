@@ -4,10 +4,12 @@ slug: tenerife-beginner-scuba-diving-experience-from-the-shore
 ciudad: tenerife
 descripcion: 'A PADI Discover Scuba Diving experience in the south of Tenerife: a briefing on the basics, then a beginner-friendly shore dive of 40 minutes to 1 hour in the Atlantic, with transfer from the dive centre to the site, full equipment, tank and dive insurance. Rated 4.8/5 from 357 reviews. From €75.'
 slugs:
+  es: tenerife-bautismo-de-buceo-desde-la-orilla
   en: tenerife-beginner-scuba-diving-experience-from-the-shore
   de: teneriffa-schnuppertauchen-fuer-anfaenger-vom-ufer-aus
   fr: tenerife-bapteme-de-plongee-pour-debutants-depuis-le-bord
   it: tenerife-battesimo-del-sub-per-principianti-da-riva
+  pt: tenerife-batismo-de-mergulho-a-partir-da-costa
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 75

@@ -4,6 +4,7 @@ slug: lanzarote-les-delices-du-nord
 ciudad: lanzarote
 descripcion: 'Journée avec guide : LagOmar, la maison creusée dans la roche liée à Omar Sharif, la vue du Mirador del Río et un ferry express pour La Graciosa avec déjeuner à bord, open bar et temps libre sur l''île. 4,5/5 sur 78 avis. Dès 79 €.'
 slugs:
+  es: lanzarote-lo-mejor-del-norte
   en: lanzarote-northern-delights-tour
   fr: lanzarote-les-delices-du-nord
 duracion: 8 heures

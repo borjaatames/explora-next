@@ -4,6 +4,7 @@ slug: playa-blanca-40-minute-private-jet-ski-ride-from-marina-rubicon
 ciudad: lanzarote
 descripcion: A 40-minute jet ski ride from Marina Rubicón in Playa Blanca to see the Papagayo beaches and the Pechiguera lighthouse from the sea, with a life jacket; photos and videos can be bought. Rated 4.6/5 from 124 reviews. From €130.
 slugs:
+  es: playa-blanca-40-minutos-en-moto-de-agua-privada-desde-marina-rubicon
   en: playa-blanca-40-minute-private-jet-ski-ride-from-marina-rubicon
 duracion: 40 min
 duracionMinutos: 40

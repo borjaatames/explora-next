@@ -4,6 +4,7 @@ slug: tenerife-escursione-nel-parco-nazionale-del-teide-e-grotta-di-lava
 ciudad: tenerife
 descripcion: 'Sei ore in piccolo gruppo dal sud di Tenerife: un''escursione facile nel cuore del Parco Nazionale del Teide, un tunnel di lava, la salita su un vulcano con vista a 360° su Teide, Pico Viejo e oceano, un picnic leggero e 20-30 foto della giornata. 4,9/5 su 71 recensioni. Da 89 €.'
 slugs:
+  es: tenerife-senderismo-en-el-parque-nacional-del-teide-y-cueva-de-lava
   en: tenerife-teide-national-park-hike-and-lava-cave-tour
   fr: tenerife-randonnee-dans-le-parc-national-du-teide-et-grotte-de-lave
   it: tenerife-escursione-nel-parco-nazionale-del-teide-e-grotta-di-lava

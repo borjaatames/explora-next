@@ -4,10 +4,12 @@ slug: maspalomas-tour-in-moto-d-acqua-di-30-minuti-da-pasito-blanco
 ciudad: gran-canaria
 descripcion: Trenta minuti alla guida della tua moto d'acqua, per 1 o 2 persone, lungo la costa di Maspalomas da Pasito Blanco in piccolo gruppo, con attrezzatura, assicurazione infortuni, istruttore di sicurezza, bagni e parcheggio gratuito. Il prezzo è per moto d'acqua. 4,9/5 su 67 recensioni. Da 80 € a gruppo.
 slugs:
+  es: maspalomas-30-minutos-en-moto-de-agua-desde-pasito-blanco
   en: maspalomas-30-minute-jet-ski-tour-from-pasito-blanco
   de: maspalomas-30-minuten-jetski-tour-ab-pasito-blanco
   fr: maspalomas-sortie-en-jet-ski-de-30-minutes-depuis-pasito-blanco
   it: maspalomas-tour-in-moto-d-acqua-di-30-minuti-da-pasito-blanco
+  pt: maspalomas-30-minutos-de-mota-de-agua-a-partir-de-pasito-blanco
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 80

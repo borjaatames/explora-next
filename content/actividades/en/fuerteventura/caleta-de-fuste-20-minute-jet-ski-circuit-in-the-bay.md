@@ -4,10 +4,12 @@ slug: caleta-de-fuste-20-minute-jet-ski-circuit-in-the-bay
 ciudad: fuerteventura
 descripcion: Twenty minutes on a jet ski for 1 or 2 people on a circuit in the bay of Caleta de Fuste with an instructor, life jacket included. The price is per jet ski. Rated 4.5/5 from 217 reviews. From €68 per group.
 slugs:
+  es: caleta-de-fuste-circuito-de-20-minutos-en-moto-de-agua-por-la-bahia
   en: caleta-de-fuste-20-minute-jet-ski-circuit-in-the-bay
   de: caleta-de-fuste-20-minuten-jetski-rundkurs-in-der-bucht
   fr: caleta-de-fuste-circuit-de-20-minutes-en-jet-ski-dans-la-baie
   it: caleta-de-fuste-circuito-in-moto-d-acqua-di-20-minuti-nella-baia
+  pt: caleta-de-fuste-circuito-de-20-minutos-de-mota-de-agua-na-baia
 duracion: 20 min
 duracionMinutos: 20
 precioDesde: 68

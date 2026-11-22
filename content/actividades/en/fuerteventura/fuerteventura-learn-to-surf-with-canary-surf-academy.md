@@ -4,10 +4,12 @@ slug: fuerteventura-learn-to-surf-with-canary-surf-academy
 ciudad: fuerteventura
 descripcion: A 2-hour surf lesson with a qualified instructor at a Fuerteventura beach, about 4 to 5 hours in total with transfers, with wetsuit, board, leash, insurance and pick-up in the north and centre of the island; options of up to 3 days. Rated 4.9/5 from 72 reviews. From €50.
 slugs:
+  es: fuerteventura-aprende-a-surfear-con-canary-surf-academy
   en: fuerteventura-learn-to-surf-with-canary-surf-academy
   de: fuerteventura-surfen-lernen-mit-der-canary-surf-academy
   fr: fuerteventura-apprendre-le-surf-avec-canary-surf-academy
   it: fuerteventura-impara-il-surf-con-canary-surf-academy
+  pt: fuerteventura-aprenda-a-surfar-com-a-canary-surf-academy
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 50

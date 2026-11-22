@@ -4,10 +4,12 @@ slug: fuerteventura-lezione-di-surf-a-corralejo-con-prelievo-in-hotel
 ciudad: fuerteventura
 descripcion: Un'uscita di surf di 4 ore con la scuola Surf-Therapy a Corralejo, con prelievo e ritorno al tuo hotel di Corralejo, per provare le onde del nord dell'isola. 4,5/5 su 214 recensioni. Da 55 €.
 slugs:
+  es: fuerteventura-clase-de-surf-en-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-surf-lesson-in-corralejo-with-hotel-pick-up
   de: fuerteventura-surfkurs-in-corralejo-mit-abholung-vom-hotel
   fr: fuerteventura-cours-de-surf-a-corralejo-avec-prise-en-charge
   it: fuerteventura-lezione-di-surf-a-corralejo-con-prelievo-in-hotel
+  pt: fuerteventura-aula-de-surf-em-corralejo-com-recolha-no-hotel
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 55

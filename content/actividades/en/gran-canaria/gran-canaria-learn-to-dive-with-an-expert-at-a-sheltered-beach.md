@@ -4,10 +4,12 @@ slug: gran-canaria-learn-to-dive-with-an-expert-at-a-sheltered-beach
 ciudad: gran-canaria
 descripcion: A 4-hour introduction to diving at a sheltered beach in Gran Canaria that is ideal for beginners, with at most 3 people per instructor, equipment, insurance, an online dive log, water and pick-up from the south of the island. Rated 4.5/5 from 133 reviews. From €85.
 slugs:
+  es: gran-canaria-aprende-a-bucear-con-un-experto-en-una-playa-resguardada
   en: gran-canaria-learn-to-dive-with-an-expert-at-a-sheltered-beach
   de: gran-canaria-tauchen-lernen-mit-einem-experten-an-einem-geschuetzten-strand
   fr: gran-canaria-apprendre-a-plonger-avec-un-expert-sur-une-plage-abritee
   it: gran-canaria-impara-a-immergerti-con-un-esperto-in-una-spiaggia-riparata
+  pt: gran-canaria-aprenda-a-mergulhar-com-um-especialista-numa-praia-abrigada
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 85

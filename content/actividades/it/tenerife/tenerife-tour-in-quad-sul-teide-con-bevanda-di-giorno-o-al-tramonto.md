@@ -4,6 +4,7 @@ slug: tenerife-tour-in-quad-sul-teide-con-bevanda-di-giorno-o-al-tramonto
 ciudad: tenerife
 descripcion: Un giro guidato di 3 ore in quad da El Roque lungo strade di montagna asfaltate verso Vilaflor e la zona del Teide, partenza alle 12:30 o alle 16:30 per il tramonto, con soste ai belvedere e una bevanda durante la pausa. 4,3/5 su 434 recensioni. Da 60 €.
 slugs:
+  es: tenerife-ruta-en-quad-al-teide-con-bebida-de-dia-o-al-atardecer
   en: tenerife-teide-quad-tour-with-a-drink-by-day-or-at-sunset
   de: teneriffa-quadtour-zum-teide-mit-getraenk-tagsueber-oder-zum-sonnenuntergang
   fr: tenerife-quad-jusqu-au-teide-avec-boisson-en-journee-ou-au-coucher-du-soleil

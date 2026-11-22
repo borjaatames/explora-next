@@ -4,10 +4,12 @@ slug: tenerife-beginner-scuba-diving-at-abades-beach
 ciudad: tenerife
 descripcion: A 4-hour introduction to diving in the sheltered bay of Abades, on the south-east coast of Tenerife, down to a maximum of 8 metres, with at most 2 participants per instructor, equipment, insurance, an online dive log, water and free pick-up from confirmed points. Rated 4.7/5 from 171 reviews. From €85.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-la-playa-de-abades
   en: tenerife-beginner-scuba-diving-at-abades-beach
   de: teneriffa-schnuppertauchen-fuer-anfaenger-am-strand-von-abades
   fr: tenerife-bapteme-de-plongee-sur-la-plage-d-abades
   it: tenerife-battesimo-del-sub-per-principianti-alla-spiaggia-di-abades
+  pt: tenerife-batismo-de-mergulho-na-praia-de-abades
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 85

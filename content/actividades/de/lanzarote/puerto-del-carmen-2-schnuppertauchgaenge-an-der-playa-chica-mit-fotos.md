@@ -4,10 +4,12 @@ slug: puerto-del-carmen-2-schnuppertauchgaenge-an-der-playa-chica-mit-fotos
 ciudad: lanzarote
 descripcion: Zwei Schnuppertauchgänge von je 50 Minuten an der Playa Chica in Puerto del Carmen mit Atlantis Diving, einem PADI-Center, mit höchstens 3 Tauchern pro Lehrer, kompletter Ausrüstung, Versicherung, professionellen Fotos und Video beider Tauchgänge und digitalem Discover-Scuba-Diving-Zertifikat. 4,8/5 bei 148 Bewertungen. Ab 140 €.
 slugs:
+  es: puerto-del-carmen-2-inmersiones-de-iniciacion-en-playa-chica-con-fotos
   en: puerto-del-carmen-2-beginner-dives-at-playa-chica-with-photos
   de: puerto-del-carmen-2-schnuppertauchgaenge-an-der-playa-chica-mit-fotos
   fr: puerto-del-carmen-2-plongees-debutant-a-playa-chica-avec-photos
   it: puerto-del-carmen-2-immersioni-per-principianti-a-playa-chica-con-foto
+  pt: puerto-del-carmen-2-mergulhos-de-iniciacao-na-playa-chica-com-fotos
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 140

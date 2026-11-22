@@ -4,10 +4,12 @@ slug: gran-canaria-private-parasailing-for-1-to-3-over-anfi-beach
 ciudad: gran-canaria
 descripcion: A 10-minute private parasailing flight for 1 to 3 people over Anfi del Mar beach in Mogán, with a gentle take-off and landing, life jacket and insurance; a photographer can capture the flight. Rated 4.6/5 from 158 reviews. From €50.
 slugs:
+  es: gran-canaria-parasailing-privado-para-1-a-3-sobre-la-playa-de-anfi
   en: gran-canaria-private-parasailing-for-1-to-3-over-anfi-beach
   de: gran-canaria-privates-parasailing-fuer-1-bis-3-ueber-dem-strand-von-anfi
   fr: gran-canaria-parachute-ascensionnel-prive-pour-1-a-3-au-dessus-de-la-plage-d-anf
   it: gran-canaria-parasailing-privato-per-1-3-persone-sulla-spiaggia-di-anfi
+  pt: gran-canaria-parasailing-privado-para-1-a-3-sobre-a-praia-de-anfi
 duracion: 10 min
 duracionMinutos: 10
 precioDesde: 50

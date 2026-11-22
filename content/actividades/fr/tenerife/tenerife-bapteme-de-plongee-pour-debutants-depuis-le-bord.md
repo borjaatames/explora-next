@@ -4,10 +4,12 @@ slug: tenerife-bapteme-de-plongee-pour-debutants-depuis-le-bord
 ciudad: tenerife
 descripcion: 'Un baptême PADI Discover Scuba Diving dans le sud de Tenerife : briefing sur les bases, puis une plongée du bord adaptée aux débutants de 40 minutes à 1 heure dans l''Atlantique, avec trajet du centre jusqu''au site, équipement complet, bouteille et assurance plongée. 4,8/5 sur 357 avis. Dès 75 €.'
 slugs:
+  es: tenerife-bautismo-de-buceo-desde-la-orilla
   en: tenerife-beginner-scuba-diving-experience-from-the-shore
   de: teneriffa-schnuppertauchen-fuer-anfaenger-vom-ufer-aus
   fr: tenerife-bapteme-de-plongee-pour-debutants-depuis-le-bord
   it: tenerife-battesimo-del-sub-per-principianti-da-riva
+  pt: tenerife-batismo-de-mergulho-a-partir-da-costa
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 75

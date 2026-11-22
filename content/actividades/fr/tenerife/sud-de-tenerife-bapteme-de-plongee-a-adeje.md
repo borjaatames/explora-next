@@ -4,6 +4,7 @@ slug: sud-de-tenerife-bapteme-de-plongee-a-adeje
 ciudad: tenerife
 descripcion: 'Un baptême de plongée d''environ 3 h 30 avec 12dive à Costa Adeje : aucune expérience requise, deux élèves par moniteur et une plongée de 45 minutes, avec équipement complet, café d''accueil, assurance plongée, trajet aller-retour jusqu''au site, eau, fruits et en-cas. 4,9/5 sur 89 avis. Dès 85 €.'
 slugs:
+  es: sur-de-tenerife-bautismo-de-buceo-en-adeje
   en: south-tenerife-beginner-scuba-diving-in-adeje
   de: sued-teneriffa-schnuppertauchen-fuer-anfaenger-in-adeje
   fr: sud-de-tenerife-bapteme-de-plongee-a-adeje

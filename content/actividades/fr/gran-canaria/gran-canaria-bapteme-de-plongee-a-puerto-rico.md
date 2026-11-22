@@ -4,10 +4,12 @@ slug: gran-canaria-bapteme-de-plongee-a-puerto-rico
 ciudad: gran-canaria
 descripcion: 'Une plongée débutant de 2 heures avec Blue Water Diving à Puerto Rico de Gran Canaria : apprendre les bases, découvrir la sensation de respirer sous l''eau et la faune marine des Canaries, avec équipement, moniteurs PADI et assurance. 4,7/5 sur 106 avis. Dès 90 €.'
 slugs:
+  es: gran-canaria-bautismo-de-buceo-en-puerto-rico
   en: gran-canaria-beginner-scuba-diving-in-puerto-rico
   de: gran-canaria-schnuppertauchen-in-puerto-rico
   fr: gran-canaria-bapteme-de-plongee-a-puerto-rico
   it: gran-canaria-battesimo-del-sub-a-puerto-rico
+  pt: gran-canaria-batismo-de-mergulho-em-puerto-rico
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 90

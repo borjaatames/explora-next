@@ -4,6 +4,7 @@ slug: tenerife-quad-safari-de-4-heures-jusqu-au-teide-avec-prise-en-charge
 ciudad: tenerife
 descripcion: Quatre heures sur votre propre quad simple ou double depuis le sud de Tenerife, à travers la forêt de pins jusqu'à Vilaflor et au mirador de Boca de Tauce dans le parc national du Teide, avec guide-moniteur, casque, assurance et prise en charge dans les stations du sud. 4,8/5 sur 1.710 avis. Dès 104 €.
 slugs:
+  es: tenerife-safari-en-quad-de-4-horas-al-teide-con-recogida
   en: tenerife-4-hour-quad-safari-to-teide-with-pick-up
   de: teneriffa-4-stuendige-quad-safari-zum-teide-mit-abholung
   fr: tenerife-quad-safari-de-4-heures-jusqu-au-teide-avec-prise-en-charge

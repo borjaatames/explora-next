@@ -4,6 +4,7 @@ slug: ab-teneriffa-gefuehrter-tagesausflug-nach-gran-canaria-mit-aquarium
 ciudad: tenerife
 descripcion: 'Tagesausflug mit der Fähre ab Santa Cruz de Tenerife nach Gran Canaria mit offiziellem Guide: das Aquarium Poema del Mar, ein Rundgang durch das historische Vegueta und eine Führung in der Rumbrennerei Arehucas mit Verkostung. 4,5/5 bei 70 Bewertungen. Ab 123 €.'
 slugs:
+  es: desde-tenerife-excursion-guiada-de-dia-completo-a-gran-canaria-con-acuario
   en: from-tenerife-full-day-guided-tour-of-gran-canaria-with-aquarium
   de: ab-teneriffa-gefuehrter-tagesausflug-nach-gran-canaria-mit-aquarium
 duracion: 12 Stunden

@@ -4,10 +4,12 @@ slug: maspalomas-cours-de-surf-pour-tous-niveaux
 ciudad: gran-canaria
 descripcion: Un cours de surf de 2 h 30 avec South Coast Surfschool à Maspalomas, avec planche, combinaison, eau et fruits, et assurance accident et responsabilité civile. 4,9/5 sur 252 avis. Dès 50 €.
 slugs:
+  es: maspalomas-clases-de-surf-para-todos-los-niveles
   en: maspalomas-surf-lessons-for-all-levels
   de: maspalomas-surfkurse-fuer-alle-niveaus
   fr: maspalomas-cours-de-surf-pour-tous-niveaux
   it: maspalomas-lezioni-di-surf-per-tutti-i-livelli
+  pt: maspalomas-aulas-de-surf-para-todos-os-niveis
 duracion: 2 h 30
 duracionMinutos: 150
 precioDesde: 50

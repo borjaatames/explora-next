@@ -4,10 +4,12 @@ slug: gran-canaria-discover-scuba-diving-programm-fuer-anfaenger
 ciudad: gran-canaria
 descripcion: 'Ein Discover-Scuba-Diving-Programm mit der Delphinus Diving School: Theorie und Übungen im flachen Wasser, dann ein Freiwassertauchgang vor der Küste Gran Canarias zwischen der Meereswelt des Atlantiks, mit kompletter Ausrüstung, Tauchversicherung, qualifiziertem Guide und Abholung vom Hotel. 4,5/5 bei 107 Bewertungen. Ab 99 €.'
 slugs:
+  es: gran-canaria-programa-de-iniciacion-discover-scuba-diving
   en: gran-canaria-discover-scuba-diving-beginner-programme
   de: gran-canaria-discover-scuba-diving-programm-fuer-anfaenger
   fr: gran-canaria-programme-debutant-discover-scuba-diving
   it: gran-canaria-programma-per-principianti-discover-scuba-diving
+  pt: gran-canaria-programa-de-iniciacao-discover-scuba-diving
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 99

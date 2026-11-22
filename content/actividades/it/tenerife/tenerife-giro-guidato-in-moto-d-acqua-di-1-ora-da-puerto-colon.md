@@ -4,10 +4,12 @@ slug: tenerife-giro-guidato-in-moto-d-acqua-di-1-ora-da-puerto-colon
 ciudad: tenerife
 descripcion: Un'ora su una moto d'acqua singola o doppia con guida dalla scuola nautica di Puerto Colón, a Costa Adeje, lungo la costa sud di Tenerife, con tasse e commissioni incluse. 4,5/5 su 64 recensioni. Da 70 €.
 slugs:
+  es: tenerife-1-hora-en-moto-de-agua-con-guia-desde-puerto-colon
   en: tenerife-1-hour-guided-jet-ski-ride-from-puerto-colon
   de: teneriffa-1-stunde-gefuehrte-jetski-tour-ab-puerto-colon
   fr: tenerife-balade-guidee-en-jet-ski-d-1-heure-depuis-puerto-colon
   it: tenerife-giro-guidato-in-moto-d-acqua-di-1-ora-da-puerto-colon
+  pt: tenerife-1-hora-de-mota-de-agua-com-guia-a-partir-de-puerto-colon
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 70

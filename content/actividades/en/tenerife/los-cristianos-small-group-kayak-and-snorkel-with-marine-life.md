@@ -4,6 +4,7 @@ slug: los-cristianos-small-group-kayak-and-snorkel-with-marine-life
 ciudad: tenerife
 descripcion: 'Three hours with SeaThru Kayaks from Los Cristianos: paddle along the volcanic coast of Tenerife in double sit-on-top kayaks with a guide, look for marine life and snorkel when the sea allows, with life jackets, snorkel gear, optional wetsuits, water and an office to change and leave your things. Rated 4.9/5 from 198 reviews. From €23.'
 slugs:
+  es: los-cristianos-kayak-y-esnorquel-en-grupo-reducido-con-fauna-marina
   en: los-cristianos-small-group-kayak-and-snorkel-with-marine-life
   it: los-cristianos-kayak-e-snorkeling-in-piccolo-gruppo-con-la-fauna-marina
 duracion: 3 hours

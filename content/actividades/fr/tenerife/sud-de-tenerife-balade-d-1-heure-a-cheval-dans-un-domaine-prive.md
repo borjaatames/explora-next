@@ -4,10 +4,12 @@ slug: sud-de-tenerife-balade-d-1-heure-a-cheval-dans-un-domaine-prive
 ciudad: tenerife
 descripcion: Une balade guidée d'1 heure à cheval dans un domaine privé près de Fañabé, dans le sud de Tenerife, entre paysages volcaniques et vue sur l'océan, le matin ou au coucher du soleil, pour tous niveaux et avec tout l'équipement ; les enfants dès 7 ans participent, les plus jeunes montent des poneys dans une carrière fermée. 4,5/5 sur 173 avis. Dès 49 €.
 slugs:
+  es: sur-de-tenerife-1-hora-a-caballo-en-una-finca-privada
   en: south-tenerife-1-hour-horse-ride-on-a-private-estate
   de: sued-teneriffa-1-stunde-ausritt-auf-einer-privaten-finca
   fr: sud-de-tenerife-balade-d-1-heure-a-cheval-dans-un-domaine-prive
   it: sud-di-tenerife-passeggiata-a-cavallo-di-1-ora-in-una-tenuta-privata
+  pt: sul-de-tenerife-1-hora-a-cavalo-numa-quinta-privada
 duracion: 1 heure
 duracionMinutos: 60
 precioDesde: 49

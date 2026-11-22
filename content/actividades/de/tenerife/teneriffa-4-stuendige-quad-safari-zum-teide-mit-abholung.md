@@ -4,6 +4,7 @@ slug: teneriffa-4-stuendige-quad-safari-zum-teide-mit-abholung
 ciudad: tenerife
 descripcion: Vier Stunden auf dem eigenen Einzel- oder Doppelquad vom Süden Teneriffas durch den Kiefernwald nach Vilaflor und zum Aussichtspunkt Boca de Tauce im Teide-Nationalpark, mit Guide, Helm, Versicherung und Abholung in den Urlaubsorten im Süden. 4,8/5 bei 1.710 Bewertungen. Ab 104 €.
 slugs:
+  es: tenerife-safari-en-quad-de-4-horas-al-teide-con-recogida
   en: tenerife-4-hour-quad-safari-to-teide-with-pick-up
   de: teneriffa-4-stuendige-quad-safari-zum-teide-mit-abholung
   fr: tenerife-quad-safari-de-4-heures-jusqu-au-teide-avec-prise-en-charge

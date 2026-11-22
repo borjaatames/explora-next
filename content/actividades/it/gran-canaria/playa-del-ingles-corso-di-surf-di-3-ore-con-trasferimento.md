@@ -4,10 +4,12 @@ slug: playa-del-ingles-corso-di-surf-di-3-ore-con-trasferimento
 ciudad: gran-canaria
 descripcion: Un corso di surf di 3 ore con Canary Wave Surf School, di solito a Playa del Inglés o sulla spiaggia di Maspalomas vicino al faro a seconda delle condizioni, con attrezzatura, istruttore e trasferimento dagli hotel del sud. 4,8/5 su 167 recensioni. Da 49 €.
 slugs:
+  es: playa-del-ingles-curso-de-surf-de-3-horas-con-traslado
   en: playa-del-ingles-3-hour-surf-course-with-transfer
   de: playa-del-ingles-3-stuendiger-surfkurs-mit-transfer
   fr: playa-del-ingles-stage-de-surf-de-3-heures-avec-transfert
   it: playa-del-ingles-corso-di-surf-di-3-ore-con-trasferimento
+  pt: playa-del-ingles-curso-de-surf-de-3-horas-com-transporte
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 49

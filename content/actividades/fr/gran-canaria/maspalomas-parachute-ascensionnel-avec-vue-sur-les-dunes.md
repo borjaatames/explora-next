@@ -4,10 +4,12 @@ slug: maspalomas-parachute-ascensionnel-avec-vue-sur-les-dunes
 ciudad: gran-canaria
 descripcion: Parachute ascensionnel au large du sud de Gran Canaria avec vue sur les dunes de Maspalomas, seul ou accompagné, décollage et atterrissage depuis le bateau, avec briefing, équipement homologué et assurance. 4,8/5 sur 117 avis. Dès 60 €.
 slugs:
+  es: maspalomas-parasailing-con-vistas-a-las-dunas
   en: maspalomas-parasailing-with-views-of-the-dunes
   de: maspalomas-parasailing-mit-blick-auf-die-duenen
   fr: maspalomas-parachute-ascensionnel-avec-vue-sur-les-dunes
   it: maspalomas-parasailing-con-vista-sulle-dune
+  pt: maspalomas-parasailing-com-vista-para-as-dunas
 duracion: 1 heure
 duracionMinutos: 60
 precioDesde: 60

@@ -4,10 +4,12 @@ slug: impara-il-surf-nel-nord-di-fuerteventura-con-flag-beach
 ciudad: fuerteventura
 descripcion: Una giornata di surf con Flag Beach nel nord di Fuerteventura, tutto l'anno, sulla spiaggia adatta alle condizioni del giorno, con tavola, muta e prelievo in hotel. 4,7/5 su 140 recensioni. Da 50 €.
 slugs:
+  es: aprende-a-surfear-en-el-norte-de-fuerteventura-con-flag-beach
   en: learn-to-surf-in-the-north-of-fuerteventura-with-flag-beach
   de: surfen-lernen-im-norden-fuerteventuras-mit-flag-beach
   fr: apprendre-le-surf-dans-le-nord-de-fuerteventura-avec-flag-beach
   it: impara-il-surf-nel-nord-di-fuerteventura-con-flag-beach
+  pt: aprenda-a-surfar-no-norte-de-fuerteventura-com-a-flag-beach
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 50

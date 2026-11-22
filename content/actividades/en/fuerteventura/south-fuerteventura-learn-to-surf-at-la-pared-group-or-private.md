@@ -4,10 +4,12 @@ slug: south-fuerteventura-learn-to-surf-at-la-pared-group-or-private
 ciudad: fuerteventura
 descripcion: A 2-hour surf lesson at La Pared, Esquinzo or Jandía with Wellenkind Surfschool, in groups of up to 8 or private, about 4 hours with hotel transfers in the south, with board, wetsuit, showers and changing rooms. Rated 4.7/5 from 232 reviews. From €51.
 slugs:
+  es: sur-de-fuerteventura-aprende-a-surfear-en-la-pared-grupo-o-privada
   en: south-fuerteventura-learn-to-surf-at-la-pared-group-or-private
   de: sued-fuerteventura-surfen-lernen-in-la-pared-gruppe-oder-privat
   fr: sud-de-fuerteventura-apprendre-le-surf-a-la-pared-groupe-ou-prive
   it: sud-di-fuerteventura-impara-il-surf-a-la-pared-gruppo-o-privato
+  pt: sul-de-fuerteventura-aprenda-a-surfar-em-la-pared-grupo-ou-privada
 duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 51

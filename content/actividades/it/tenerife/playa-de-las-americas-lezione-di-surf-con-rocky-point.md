@@ -4,10 +4,12 @@ slug: playa-de-las-americas-lezione-di-surf-con-rocky-point
 ciudad: tenerife
 descripcion: Una lezione di surf di 2 ore con Rocky Point Surf Experience a Playa de las Américas, con istruttore professionista, teoria e pratica in acqua, softboard, muta, calzari e assicurazione infortuni; di gruppo o privata. 4,9/5 su 143 recensioni. Da 35 €.
 slugs:
+  es: playa-de-las-americas-clase-de-surf-con-rocky-point
   en: playa-de-las-americas-surf-lesson-with-rocky-point
   de: playa-de-las-americas-surfkurs-mit-rocky-point
   fr: playa-de-las-americas-cours-de-surf-avec-rocky-point
   it: playa-de-las-americas-lezione-di-surf-con-rocky-point
+  pt: playa-de-las-americas-aula-de-surf-com-a-rocky-point
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 35

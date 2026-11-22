@@ -4,10 +4,12 @@ slug: sud-de-tenerife-parachute-ascensionnel-avec-balade-en-bateau-depuis-puerto
 ciudad: tenerife
 descripcion: Un vol de 10 minutes en parachute ascensionnel jusqu'à 100 mètres au-dessus de la mer depuis Puerto Colón à Costa Adeje, avec vue sur le Teide et la côte sud, balade en bateau, équipement et assurance inclus. 4,8/5 sur 269 avis. Dès 54 €.
 slugs:
+  es: sur-de-tenerife-parasailing-con-paseo-en-barco-desde-puerto-colon
   en: south-tenerife-parasailing-flight-with-boat-ride-from-puerto-colon
   de: sued-teneriffa-parasailing-mit-bootsfahrt-ab-puerto-colon
   fr: sud-de-tenerife-parachute-ascensionnel-avec-balade-en-bateau-depuis-puerto-colon
   it: sud-di-tenerife-parasailing-con-giro-in-barca-da-puerto-colon
+  pt: sul-de-tenerife-parasailing-com-passeio-de-barco-a-partir-de-puerto-colon
 duracion: 10 min
 duracionMinutos: 10
 precioDesde: 54

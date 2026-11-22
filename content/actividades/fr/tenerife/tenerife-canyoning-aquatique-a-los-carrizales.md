@@ -4,10 +4,12 @@ slug: tenerife-canyoning-aquatique-a-los-carrizales
 ciudad: tenerife
 descripcion: 'Une journée de 6 heures dans le massif de Teno : 2 heures de marche avec votre guide jusqu''au canyon de Los Carrizales, puis sauts et rappels dans les cascades et baignade dans des vasques d''eau douce, avec tout l''équipement de canyoning et assurance responsabilité civile et accidents. 4,9/5 sur 65 avis. Dès 133 €.'
 slugs:
+  es: tenerife-barranquismo-acuatico-en-los-carrizales
   en: tenerife-water-canyoning-in-los-carrizales
   de: teneriffa-wasser-canyoning-in-los-carrizales
   fr: tenerife-canyoning-aquatique-a-los-carrizales
   it: tenerife-canyoning-acquatico-a-los-carrizales
+  pt: tenerife-canyoning-aquatico-em-los-carrizales
 duracion: 6 heures
 duracionMinutos: 360
 precioDesde: 133

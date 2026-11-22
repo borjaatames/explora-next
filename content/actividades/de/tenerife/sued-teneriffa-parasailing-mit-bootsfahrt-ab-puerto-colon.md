@@ -4,10 +4,12 @@ slug: sued-teneriffa-parasailing-mit-bootsfahrt-ab-puerto-colon
 ciudad: tenerife
 descripcion: Ein 10-minütiger Parasailing-Flug bis 100 Meter über dem Meer ab Puerto Colón in Costa Adeje, mit Blick auf den Teide und die Südküste, Bootsfahrt, Ausrüstung und Versicherung inklusive. 4,8/5 bei 269 Bewertungen. Ab 54 €.
 slugs:
+  es: sur-de-tenerife-parasailing-con-paseo-en-barco-desde-puerto-colon
   en: south-tenerife-parasailing-flight-with-boat-ride-from-puerto-colon
   de: sued-teneriffa-parasailing-mit-bootsfahrt-ab-puerto-colon
   fr: sud-de-tenerife-parachute-ascensionnel-avec-balade-en-bateau-depuis-puerto-colon
   it: sud-di-tenerife-parasailing-con-giro-in-barca-da-puerto-colon
+  pt: sul-de-tenerife-parasailing-com-passeio-de-barco-a-partir-de-puerto-colon
 duracion: 10 Minuten
 duracionMinutos: 10
 precioDesde: 54

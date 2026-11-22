@@ -4,10 +4,12 @@ slug: gran-canaria-gefuehrte-jetski-safari-an-der-suedkueste-ab-arguineguin
 ciudad: gran-canaria
 descripcion: Eine geführte Jetski-Safari von 30 Minuten oder 1 Stunde ab Arguineguín entlang der Südküste Gran Canarias, vorbei an versteckten Buchten und Vulkanklippen, allein oder mit Beifahrer ohne Aufpreis, mit Treibstoff, Sicherheitseinweisung und Versicherung. 4,9/5 bei 71 Bewertungen. Ab 81 € pro Gruppe.
 slugs:
+  es: gran-canaria-safari-guiado-en-moto-de-agua-por-la-costa-sur-desde-arguineguin
   en: gran-canaria-guided-jet-ski-safari-on-the-south-coast-from-arguineguin
   de: gran-canaria-gefuehrte-jetski-safari-an-der-suedkueste-ab-arguineguin
   fr: gran-canaria-safari-guide-en-jet-ski-sur-la-cote-sud-depuis-arguineguin
   it: gran-canaria-safari-guidato-in-moto-d-acqua-sulla-costa-sud-da-arguineguin
+  pt: gran-canaria-safari-guiado-de-mota-de-agua-pela-costa-sul-a-partir-de-arguinegui
 duracion: 30 Minuten
 duracionMinutos: 30
 precioDesde: 81

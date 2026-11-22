@@ -4,10 +4,12 @@ slug: corralejo-surfkurs-fuer-alle-niveaus-und-altersgruppen
 ciudad: fuerteventura
 descripcion: Ein Surfkurs von rund 3,5 Stunden ab der Schule Boards Connections in Corralejo, mit Theorie und Praxis im Wasser mit qualifiziertem Lehrer, offen für alle Niveaus. 4,7/5 bei 313 Bewertungen. Ab 50 €.
 slugs:
+  es: corralejo-clase-de-surf-para-todos-los-niveles-y-edades
   en: corralejo-surf-lesson-for-all-levels-and-ages
   de: corralejo-surfkurs-fuer-alle-niveaus-und-altersgruppen
   fr: corralejo-cours-de-surf-pour-tous-niveaux-et-tous-ages
   it: corralejo-lezione-di-surf-per-tutti-i-livelli-e-tutte-le-eta
+  pt: corralejo-aula-de-surf-para-todos-os-niveis-e-idades
 duracion: 3 Std. 30 Min.
 duracionMinutos: 210
 precioDesde: 50

@@ -4,6 +4,7 @@ slug: tenerife-randonnee-dans-le-parc-national-du-teide-et-grotte-de-lave
 ciudad: tenerife
 descripcion: 'Six heures en petit groupe depuis le sud de Tenerife : randonnée facile au cœur du parc national du Teide, tunnel de lave, ascension d''un volcan avec vue à 360° sur le Teide, le Pico Viejo et l''océan, pique-nique léger et 20 à 30 photos de votre journée. 4,9/5 sur 71 avis. Dès 89 €.'
 slugs:
+  es: tenerife-senderismo-en-el-parque-nacional-del-teide-y-cueva-de-lava
   en: tenerife-teide-national-park-hike-and-lava-cave-tour
   fr: tenerife-randonnee-dans-le-parc-national-du-teide-et-grotte-de-lave
   it: tenerife-escursione-nel-parco-nazionale-del-teide-e-grotta-di-lava

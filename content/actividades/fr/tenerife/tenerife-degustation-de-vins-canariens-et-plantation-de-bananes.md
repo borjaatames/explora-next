@@ -4,6 +4,7 @@ slug: tenerife-degustation-de-vins-canariens-et-plantation-de-bananes
 ciudad: tenerife
 descripcion: 'Demi-journée en autocar avec guide officiel : une plantation de bananes traditionnelle avec dégustation, puis une bodega au milieu des vignes avec cinq vins canariens accompagnés d''en-cas traditionnels et vue sur le sud volcanique. 4,7/5 sur 56 avis. Dès 72 €.'
 slugs:
+  es: tenerife-cata-de-vinos-canarios-y-visita-a-una-finca-de-platanos
   en: tenerife-canarian-wine-tasting-and-banana-plantation-tour
   de: teneriffa-kanarische-weinprobe-und-bananenplantage
   fr: tenerife-degustation-de-vins-canariens-et-plantation-de-bananes

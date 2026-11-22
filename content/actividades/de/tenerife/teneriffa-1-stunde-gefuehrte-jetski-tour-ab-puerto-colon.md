@@ -4,10 +4,12 @@ slug: teneriffa-1-stunde-gefuehrte-jetski-tour-ab-puerto-colon
 ciudad: tenerife
 descripcion: Eine Stunde auf einem Einzel- oder Doppeljetski mit Guide ab der Wassersportschule in Puerto Colón, Costa Adeje, entlang der Südküste Teneriffas, Steuern und Gebühren inklusive. 4,5/5 bei 64 Bewertungen. Ab 70 €.
 slugs:
+  es: tenerife-1-hora-en-moto-de-agua-con-guia-desde-puerto-colon
   en: tenerife-1-hour-guided-jet-ski-ride-from-puerto-colon
   de: teneriffa-1-stunde-gefuehrte-jetski-tour-ab-puerto-colon
   fr: tenerife-balade-guidee-en-jet-ski-d-1-heure-depuis-puerto-colon
   it: tenerife-giro-guidato-in-moto-d-acqua-di-1-ora-da-puerto-colon
+  pt: tenerife-1-hora-de-mota-de-agua-com-guia-a-partir-de-puerto-colon
 duracion: 1 Stunde
 duracionMinutos: 60
 precioDesde: 70

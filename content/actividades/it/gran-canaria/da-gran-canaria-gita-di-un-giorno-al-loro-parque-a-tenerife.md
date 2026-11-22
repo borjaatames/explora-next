@@ -4,10 +4,12 @@ slug: da-gran-canaria-gita-di-un-giorno-al-loro-parque-a-tenerife
 ciudad: gran-canaria
 descripcion: 'Lunga giornata dal sud di Gran Canaria: prelievo, nave da Agaete a Santa Cruz de Tenerife, pullman fino a Puerto de la Cruz e ingresso al Loro Parque, con spettacoli di delfini e leoni marini, mammiferi, rettili e uccelli esotici. 4,7/5 su 57 recensioni. Da 205 €.'
 slugs:
+  es: desde-gran-canaria-excursion-de-un-dia-al-loro-parque-de-tenerife
   en: from-gran-canaria-day-trip-to-loro-parque-in-tenerife
   de: ab-gran-canaria-tagesausflug-in-den-loro-parque-auf-teneriffa
   fr: depuis-la-grande-canarie-journee-au-loro-parque-a-tenerife
   it: da-gran-canaria-gita-di-un-giorno-al-loro-parque-a-tenerife
+  pt: de-gran-canaria-excursao-de-um-dia-ao-loro-parque-em-tenerife
 duracion: 12 ore
 duracionMinutos: 720
 precioDesde: 205

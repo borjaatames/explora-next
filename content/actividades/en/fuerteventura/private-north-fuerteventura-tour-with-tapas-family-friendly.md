@@ -4,6 +4,7 @@ slug: private-north-fuerteventura-tour-with-tapas-family-friendly
 ciudad: fuerteventura
 descripcion: 'Private tour of the north of Fuerteventura with a local guide: a volcano hike with island views, the Corralejo dunes, the lagoons of El Cotillo and an authentic Canarian meal by the ocean, at a relaxed pace. Rated 4.9/5 from 77 reviews. From €95.'
 slugs:
+  es: tour-privado-por-el-norte-de-fuerteventura-con-tapas-para-familias
   en: private-north-fuerteventura-tour-with-tapas-family-friendly
 duracion: 4 h 30 min
 duracionMinutos: 270

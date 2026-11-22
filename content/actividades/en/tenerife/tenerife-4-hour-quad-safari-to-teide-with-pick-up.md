@@ -4,6 +4,7 @@ slug: tenerife-4-hour-quad-safari-to-teide-with-pick-up
 ciudad: tenerife
 descripcion: Four hours riding your own single or double quad from the south of Tenerife up through the pine forest to Vilaflor and the Boca de Tauce viewpoint in Teide National Park, with a guide-instructor, helmet, insurance and pick-up from the southern resorts. Rated 4.8/5 from 1,710 reviews. From €104.
 slugs:
+  es: tenerife-safari-en-quad-de-4-horas-al-teide-con-recogida
   en: tenerife-4-hour-quad-safari-to-teide-with-pick-up
   de: teneriffa-4-stuendige-quad-safari-zum-teide-mit-abholung
   fr: tenerife-quad-safari-de-4-heures-jusqu-au-teide-avec-prise-en-charge

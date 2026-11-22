@@ -4,6 +4,7 @@ slug: gran-canaria-adrenaline-packed-coasteering-experience
 ciudad: gran-canaria
 descripcion: Five-hour coasteering trip along the sea caves and cliffs of the Mogán coast, with optional cliff jumps of different heights, a zip line across a sea cave and a via ferrata above the waves, with an English- and Spanish-speaking guide, picnic and photos. Rated 4.4/5 from 89 reviews. From €70.
 slugs:
+  es: gran-canaria-coasteering-lleno-de-adrenalina
   en: gran-canaria-adrenaline-packed-coasteering-experience
 duracion: 5 hours
 duracionMinutos: 300

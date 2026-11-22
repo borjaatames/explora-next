@@ -4,10 +4,12 @@ slug: teneriffa-schnuppertauchen-fuer-anfaenger-am-strand-von-abades
 ciudad: tenerife
 descripcion: Eine 4-stündige Einführung ins Tauchen in der geschützten Bucht von Abades an der Südostküste Teneriffas, bis höchstens 8 Meter Tiefe, mit maximal 2 Teilnehmern pro Lehrer, Ausrüstung, Versicherung, Online-Logbuch, Wasser und kostenloser Abholung an bestätigten Punkten. 4,7/5 bei 171 Bewertungen. Ab 85 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-la-playa-de-abades
   en: tenerife-beginner-scuba-diving-at-abades-beach
   de: teneriffa-schnuppertauchen-fuer-anfaenger-am-strand-von-abades
   fr: tenerife-bapteme-de-plongee-sur-la-plage-d-abades
   it: tenerife-battesimo-del-sub-per-principianti-alla-spiaggia-di-abades
+  pt: tenerife-batismo-de-mergulho-na-praia-de-abades
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 85

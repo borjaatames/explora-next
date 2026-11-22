@@ -4,9 +4,11 @@ slug: tenerife-teide-quad-ride-in-the-morning-or-at-sunset-from-la-escalona
 ciudad: tenerife
 descripcion: A 3-hour quad ride from La Escalona up towards Teide, the highest volcano in Spain, in the morning or at sunset, with helmet and gloves included. Rated 4.8/5 from 359 reviews. From €64.
 slugs:
+  es: tenerife-quad-al-teide-por-la-manana-o-al-atardecer-desde-la-escalona
   en: tenerife-teide-quad-ride-in-the-morning-or-at-sunset-from-la-escalona
   fr: tenerife-quad-jusqu-au-teide-le-matin-ou-au-coucher-du-soleil-depuis-la-escalona
   it: tenerife-giro-in-quad-sul-teide-al-mattino-o-al-tramonto-da-la-escalona
+  pt: tenerife-moto-quatro-ao-teide-de-manha-ou-ao-por-do-sol-a-partir-de-la-escalona
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 64

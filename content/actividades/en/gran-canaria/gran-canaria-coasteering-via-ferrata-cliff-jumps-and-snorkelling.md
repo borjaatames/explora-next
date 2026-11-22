@@ -4,6 +4,7 @@ slug: gran-canaria-coasteering-via-ferrata-cliff-jumps-and-snorkelling
 ciudad: gran-canaria
 descripcion: 'Four-hour mix of sea and mountain on the Mogán coast: climbing and walking along cliffs, a via ferrata, a suspension bridge, abseiling, snorkelling and jumps into the sea, with an English- and Spanish-speaking guide, all the gear and photos. Rated 4.9/5 from 57 reviews. From €70.'
 slugs:
+  es: gran-canaria-coasteering-via-ferrata-saltos-y-esnorquel
   en: gran-canaria-coasteering-via-ferrata-cliff-jumps-and-snorkelling
 duracion: 4 hours
 duracionMinutos: 240

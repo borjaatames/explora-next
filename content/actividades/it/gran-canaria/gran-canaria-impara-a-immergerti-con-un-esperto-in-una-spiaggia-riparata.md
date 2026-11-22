@@ -4,10 +4,12 @@ slug: gran-canaria-impara-a-immergerti-con-un-esperto-in-una-spiaggia-riparata
 ciudad: gran-canaria
 descripcion: Un'introduzione all'immersione di 4 ore in una spiaggia riparata di Gran Canaria ideale per principianti, con al massimo 3 persone per istruttore, attrezzatura, assicurazione, logbook online, acqua e prelievo nel sud dell'isola. 4,5/5 su 133 recensioni. Da 85 €.
 slugs:
+  es: gran-canaria-aprende-a-bucear-con-un-experto-en-una-playa-resguardada
   en: gran-canaria-learn-to-dive-with-an-expert-at-a-sheltered-beach
   de: gran-canaria-tauchen-lernen-mit-einem-experten-an-einem-geschuetzten-strand
   fr: gran-canaria-apprendre-a-plonger-avec-un-expert-sur-une-plage-abritee
   it: gran-canaria-impara-a-immergerti-con-un-esperto-in-una-spiaggia-riparata
+  pt: gran-canaria-aprenda-a-mergulhar-com-um-especialista-numa-praia-abrigada
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 85

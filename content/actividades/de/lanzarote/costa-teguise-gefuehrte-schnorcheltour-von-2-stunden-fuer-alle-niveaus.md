@@ -4,10 +4,12 @@ slug: costa-teguise-gefuehrte-schnorcheltour-von-2-stunden-fuer-alle-niveaus
 ciudad: lanzarote
 descripcion: 'Zwei Stunden geführtes Schnorcheln in der Bucht von Costa Teguise: Einführung und Übung im flachen Wasser, dann die Bucht zwischen Fischen, Nacktschnecken, Schwämmen und Seesternen erkunden, mit kompletter Ausrüstung und Abholung in Costa Teguise, Tahíche und Arrecife. 4,9/5 bei 84 Bewertungen. Ab 50 €.'
 slugs:
+  es: costa-teguise-esnorquel-guiado-de-2-horas-para-todos-los-niveles
   en: costa-teguise-2-hour-guided-snorkelling-tour-for-all-levels
   de: costa-teguise-gefuehrte-schnorcheltour-von-2-stunden-fuer-alle-niveaus
   fr: costa-teguise-snorkeling-guide-de-2-heures-pour-tous-niveaux
   it: costa-teguise-snorkeling-guidato-di-2-ore-per-tutti-i-livelli
+  pt: costa-teguise-snorkel-guiado-de-2-horas-para-todos-os-niveis
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 50

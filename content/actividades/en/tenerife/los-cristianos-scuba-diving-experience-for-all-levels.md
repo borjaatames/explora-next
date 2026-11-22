@@ -4,10 +4,12 @@ slug: los-cristianos-scuba-diving-experience-for-all-levels
 ciudad: tenerife
 descripcion: 'A 2.5-hour diving experience with Barbarian Diving in Los Cristianos, in a small private group: explanations and training, then a dive at one of several sites in the south of Tenerife, with full equipment including dive computer and surface marker buoy, and transport from meeting points or local accommodation. Rated 4.9/5 from 142 reviews. From €87.'
 slugs:
+  es: los-cristianos-experiencia-de-buceo-para-todos-los-niveles
   en: los-cristianos-scuba-diving-experience-for-all-levels
   de: los-cristianos-taucherlebnis-fuer-alle-niveaus
   fr: los-cristianos-experience-de-plongee-pour-tous-niveaux
   it: los-cristianos-esperienza-d-immersione-per-tutti-i-livelli
+  pt: los-cristianos-experiencia-de-mergulho-para-todos-os-niveis
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 87

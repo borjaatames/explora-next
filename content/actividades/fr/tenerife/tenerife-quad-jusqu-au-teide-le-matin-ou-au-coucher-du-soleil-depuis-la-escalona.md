@@ -4,9 +4,11 @@ slug: tenerife-quad-jusqu-au-teide-le-matin-ou-au-coucher-du-soleil-depuis-la-es
 ciudad: tenerife
 descripcion: Une sortie de 3 heures en quad depuis La Escalona vers le Teide, le plus haut volcan d'Espagne, le matin ou au coucher du soleil, avec casque et gants fournis. 4,8/5 sur 359 avis. Dès 64 €.
 slugs:
+  es: tenerife-quad-al-teide-por-la-manana-o-al-atardecer-desde-la-escalona
   en: tenerife-teide-quad-ride-in-the-morning-or-at-sunset-from-la-escalona
   fr: tenerife-quad-jusqu-au-teide-le-matin-ou-au-coucher-du-soleil-depuis-la-escalona
   it: tenerife-giro-in-quad-sul-teide-al-mattino-o-al-tramonto-da-la-escalona
+  pt: tenerife-moto-quatro-ao-teide-de-manha-ou-ao-por-do-sol-a-partir-de-la-escalona
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 64

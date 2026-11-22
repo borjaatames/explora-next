@@ -4,10 +4,12 @@ slug: fuerteventura-sortie-guidee-en-kayaks-electriques-transparents
 ciudad: fuerteventura
 descripcion: Une sortie guidée de 1 à 2 heures le long de la côte de Fuerteventura en kayaks électriques transparents avec e-KayakCanarias, pour voir les fonds en glissant, avec guide professionnel, gilets, chaussures d'eau, talkie-walkie, pochette étanche pour le téléphone, consignes de sécurité et navette. 4,9/5 sur 135 avis. Dès 55 €.
 slugs:
+  es: fuerteventura-ruta-guiada-en-kayaks-electricos-transparentes
   en: fuerteventura-guided-tour-in-transparent-electric-kayaks
   de: fuerteventura-gefuehrte-tour-in-transparenten-elektro-kajaks
   fr: fuerteventura-sortie-guidee-en-kayaks-electriques-transparents
   it: fuerteventura-tour-guidato-in-kayak-elettrici-trasparenti
+  pt: fuerteventura-passeio-guiado-em-caiaques-eletricos-transparentes
 duracion: 1 h 30
 duracionMinutos: 90
 precioDesde: 55

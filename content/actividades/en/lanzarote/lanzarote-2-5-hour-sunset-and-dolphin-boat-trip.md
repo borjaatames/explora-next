@@ -4,6 +4,7 @@ slug: lanzarote-2-5-hour-sunset-and-dolphin-boat-trip
 ciudad: lanzarote
 descripcion: Two and a half hours on a speedboat at sunset off the coast of Lanzarote, looking for whales and dolphins, with live commentary from a professional crew, cava or juice, local sweets and hotel pick-up. Rated 4.2/5 from 1,765 reviews. From €52.
 slugs:
+  es: lanzarote-paseo-en-barco-de-2-5-horas-al-atardecer-con-delfines
   en: lanzarote-2-5-hour-sunset-and-dolphin-boat-trip
   fr: lanzarote-2-h-30-en-bateau-au-coucher-du-soleil-avec-les-dauphins
 duracion: 2 h 30 min

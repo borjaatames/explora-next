@@ -4,10 +4,12 @@ slug: fuerteventura-guided-tour-in-transparent-electric-kayaks
 ciudad: fuerteventura
 descripcion: A guided tour of 1 to 2 hours along the coast of Fuerteventura in transparent electric kayaks with e-KayakCanarias, so you see the seabed while you glide, with a professional guide, life jackets, water shoes, walkie-talkie, waterproof phone case, safety briefing and shuttle. Rated 4.9/5 from 135 reviews. From €55.
 slugs:
+  es: fuerteventura-ruta-guiada-en-kayaks-electricos-transparentes
   en: fuerteventura-guided-tour-in-transparent-electric-kayaks
   de: fuerteventura-gefuehrte-tour-in-transparenten-elektro-kajaks
   fr: fuerteventura-sortie-guidee-en-kayaks-electriques-transparents
   it: fuerteventura-tour-guidato-in-kayak-elettrici-trasparenti
+  pt: fuerteventura-passeio-guiado-em-caiaques-eletricos-transparentes
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 55

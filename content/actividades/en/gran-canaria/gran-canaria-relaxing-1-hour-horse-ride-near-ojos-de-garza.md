@@ -4,6 +4,7 @@ slug: gran-canaria-relaxing-1-hour-horse-ride-near-ojos-de-garza
 ciudad: gran-canaria
 descripcion: A relaxing horse ride of about 1 hour through the Canarian countryside near Ojos de Garza, with views of the east coast and the mountains, on a calm horse and learning the basics, with helmet and back protector. Rated 4.5/5 from 161 reviews. From €35.
 slugs:
+  es: gran-canaria-paseo-relajante-a-caballo-de-1-hora-cerca-de-ojos-de-garza
   en: gran-canaria-relaxing-1-hour-horse-ride-near-ojos-de-garza
   fr: gran-canaria-balade-a-cheval-relaxante-d-1-heure-pres-d-ojos-de-garza
   it: gran-canaria-rilassante-passeggiata-a-cavallo-di-1-ora-vicino-a-ojos-de-garza

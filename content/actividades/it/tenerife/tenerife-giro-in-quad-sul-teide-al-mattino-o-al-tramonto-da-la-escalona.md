@@ -4,9 +4,11 @@ slug: tenerife-giro-in-quad-sul-teide-al-mattino-o-al-tramonto-da-la-escalona
 ciudad: tenerife
 descripcion: Un giro di 3 ore in quad da La Escalona verso il Teide, il vulcano più alto della Spagna, al mattino o al tramonto, con casco e guanti inclusi. 4,8/5 su 359 recensioni. Da 64 €.
 slugs:
+  es: tenerife-quad-al-teide-por-la-manana-o-al-atardecer-desde-la-escalona
   en: tenerife-teide-quad-ride-in-the-morning-or-at-sunset-from-la-escalona
   fr: tenerife-quad-jusqu-au-teide-le-matin-ou-au-coucher-du-soleil-depuis-la-escalona
   it: tenerife-giro-in-quad-sul-teide-al-mattino-o-al-tramonto-da-la-escalona
+  pt: tenerife-moto-quatro-ao-teide-de-manha-ou-ao-por-do-sol-a-partir-de-la-escalona
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 64

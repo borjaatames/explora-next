@@ -4,6 +4,7 @@ slug: costa-adeje-sailing-trip-with-whale-and-dolphin-watching
 ciudad: tenerife
 descripcion: A 3-hour sailing trip from Puerto Colón along the south coast of Tenerife to look for whales and dolphins, with a swim and snorkel in a quiet bay, fresh fruit, sandwiches and drinks (beer, cava, wine, soft drinks, juice and water). Rated 4.8/5 from 243 reviews. From €80.
 slugs:
+  es: costa-adeje-paseo-en-velero-con-avistamiento-de-ballenas-y-delfines
   en: costa-adeje-sailing-trip-with-whale-and-dolphin-watching
   fr: costa-adeje-sortie-en-voilier-avec-observation-des-baleines-et-dauphins
   it: costa-adeje-uscita-in-barca-a-vela-con-avvistamento-di-balene-e-delfini

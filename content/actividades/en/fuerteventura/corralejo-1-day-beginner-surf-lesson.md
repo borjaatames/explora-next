@@ -4,10 +4,12 @@ slug: corralejo-1-day-beginner-surf-lesson
 ciudad: fuerteventura
 descripcion: 'A 4-hour beginner surf day with Point Break in Corralejo: theory and warm-up, then practice on sandy or easy reef breaks, moving from white water to small green waves, with federation-qualified instructors, equipment, transfer to the spot and insurance. Rated 4.3/5 from 60 reviews. From €50.'
 slugs:
+  es: corralejo-clase-de-surf-de-un-dia-para-principiantes
   en: corralejo-1-day-beginner-surf-lesson
   de: corralejo-surfkurs-fuer-anfaenger-an-einem-tag
   fr: corralejo-journee-de-cours-de-surf-pour-debutants
   it: corralejo-giornata-di-surf-per-principianti
+  pt: corralejo-aula-de-surf-de-um-dia-para-principiantes
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 50

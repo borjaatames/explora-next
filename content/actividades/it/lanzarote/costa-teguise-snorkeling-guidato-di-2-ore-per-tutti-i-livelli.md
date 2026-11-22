@@ -4,10 +4,12 @@ slug: costa-teguise-snorkeling-guidato-di-2-ore-per-tutti-i-livelli
 ciudad: lanzarote
 descripcion: 'Due ore di snorkeling guidato nella baia di Costa Teguise: introduzione ed esercizi in acqua bassa, poi esplorazione della baia tra pesci, nudibranchi, spugne e stelle marine, con attrezzatura completa e prelievo a Costa Teguise, Tahíche e Arrecife. 4,9/5 su 84 recensioni. Da 50 €.'
 slugs:
+  es: costa-teguise-esnorquel-guiado-de-2-horas-para-todos-los-niveles
   en: costa-teguise-2-hour-guided-snorkelling-tour-for-all-levels
   de: costa-teguise-gefuehrte-schnorcheltour-von-2-stunden-fuer-alle-niveaus
   fr: costa-teguise-snorkeling-guide-de-2-heures-pour-tous-niveaux
   it: costa-teguise-snorkeling-guidato-di-2-ore-per-tutti-i-livelli
+  pt: costa-teguise-snorkel-guiado-de-2-horas-para-todos-os-niveis
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 50

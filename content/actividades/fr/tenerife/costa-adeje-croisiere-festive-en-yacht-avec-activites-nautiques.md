@@ -4,10 +4,12 @@ slug: costa-adeje-croisiere-festive-en-yacht-avec-activites-nautiques
 ciudad: tenerife
 descripcion: Une croisière de 3 h 30 depuis Puerto Colón sur un yacht de 20 mètres le long de la côte de Tenerife, avec activités nautiques et jeux d'eau, repas et boissons et équipage professionnel. 4,8/5 sur 164 avis. Dès 80 €.
 slugs:
+  es: costa-adeje-crucero-en-yate-con-actividades-acuaticas
   en: costa-adeje-fun-yacht-cruise-with-water-activities
   de: costa-adeje-spass-yachtfahrt-mit-wasseraktivitaeten
   fr: costa-adeje-croisiere-festive-en-yacht-avec-activites-nautiques
   it: costa-adeje-crociera-divertente-in-yacht-con-attivita-acquatiche
+  pt: costa-adeje-cruzeiro-de-iate-com-atividades-aquaticas
 duracion: 3 h 30
 duracionMinutos: 210
 precioDesde: 80

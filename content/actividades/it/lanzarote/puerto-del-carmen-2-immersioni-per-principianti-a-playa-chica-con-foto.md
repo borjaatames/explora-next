@@ -4,10 +4,12 @@ slug: puerto-del-carmen-2-immersioni-per-principianti-a-playa-chica-con-foto
 ciudad: lanzarote
 descripcion: Due immersioni per principianti di 50 minuti a Playa Chica, a Puerto del Carmen, con Atlantis Diving, centro PADI, con al massimo 3 sub per istruttore, tutta l'attrezzatura, assicurazione, foto e video professionali di entrambe le immersioni e certificato digitale Discover Scuba Diving. 4,8/5 su 148 recensioni. Da 140 €.
 slugs:
+  es: puerto-del-carmen-2-inmersiones-de-iniciacion-en-playa-chica-con-fotos
   en: puerto-del-carmen-2-beginner-dives-at-playa-chica-with-photos
   de: puerto-del-carmen-2-schnuppertauchgaenge-an-der-playa-chica-mit-fotos
   fr: puerto-del-carmen-2-plongees-debutant-a-playa-chica-avec-photos
   it: puerto-del-carmen-2-immersioni-per-principianti-a-playa-chica-con-foto
+  pt: puerto-del-carmen-2-mergulhos-de-iniciacao-na-playa-chica-com-fotos
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 140

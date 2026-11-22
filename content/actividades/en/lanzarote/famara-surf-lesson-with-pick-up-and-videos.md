@@ -4,10 +4,12 @@ slug: famara-surf-lesson-with-pick-up-and-videos
 ciudad: lanzarote
 descripcion: A 2.5-hour surf lesson at Famara beach with School3S, plus about 1 hour of transfers from the Puerto del Carmen area, in small groups with certified instructors in the water, wetsuit and board, water and fruit, photos and videos, and insurance. Rated 4.7/5 from 216 reviews. From €50.
 slugs:
+  es: famara-clase-de-surf-con-recogida-y-videos
   en: famara-surf-lesson-with-pick-up-and-videos
   de: famara-surfkurs-mit-abholung-und-videos
   fr: famara-cours-de-surf-avec-prise-en-charge-et-videos
   it: famara-lezione-di-surf-con-prelievo-e-video
+  pt: famara-aula-de-surf-com-recolha-e-videos
 duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 50

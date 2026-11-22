@@ -4,10 +4,12 @@ slug: gran-canaria-apprendre-a-plonger-avec-un-expert-sur-une-plage-abritee
 ciudad: gran-canaria
 descripcion: Une initiation à la plongée de 4 heures sur une plage abritée de Gran Canaria idéale pour débuter, avec 3 personnes maximum par moniteur, équipement, assurance, carnet de plongée en ligne, eau et prise en charge dans le sud de l'île. 4,5/5 sur 133 avis. Dès 85 €.
 slugs:
+  es: gran-canaria-aprende-a-bucear-con-un-experto-en-una-playa-resguardada
   en: gran-canaria-learn-to-dive-with-an-expert-at-a-sheltered-beach
   de: gran-canaria-tauchen-lernen-mit-einem-experten-an-einem-geschuetzten-strand
   fr: gran-canaria-apprendre-a-plonger-avec-un-expert-sur-une-plage-abritee
   it: gran-canaria-impara-a-immergerti-con-un-esperto-in-una-spiaggia-riparata
+  pt: gran-canaria-aprenda-a-mergulhar-com-um-especialista-numa-praia-abrigada
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 85

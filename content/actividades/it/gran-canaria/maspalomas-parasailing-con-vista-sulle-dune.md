@@ -4,10 +4,12 @@ slug: maspalomas-parasailing-con-vista-sulle-dune
 ciudad: gran-canaria
 descripcion: Parasailing al largo del sud di Gran Canaria con vista sulle dune di Maspalomas, da soli o in compagnia, con decollo e atterraggio dalla barca, briefing, attrezzatura omologata e assicurazione. 4,8/5 su 117 recensioni. Da 60 €.
 slugs:
+  es: maspalomas-parasailing-con-vistas-a-las-dunas
   en: maspalomas-parasailing-with-views-of-the-dunes
   de: maspalomas-parasailing-mit-blick-auf-die-duenen
   fr: maspalomas-parachute-ascensionnel-avec-vue-sur-les-dunes
   it: maspalomas-parasailing-con-vista-sulle-dune
+  pt: maspalomas-parasailing-com-vista-para-as-dunas
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 60

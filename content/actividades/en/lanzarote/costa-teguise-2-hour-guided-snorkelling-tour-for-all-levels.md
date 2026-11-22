@@ -4,10 +4,12 @@ slug: costa-teguise-2-hour-guided-snorkelling-tour-for-all-levels
 ciudad: lanzarote
 descripcion: 'Two-hour guided snorkel in the bay of Costa Teguise: an introduction and practice in shallow water, then exploring the bay among fish, nudibranchs, sponges and starfish, with full gear and hotel pick-up in Costa Teguise, Tahíche and Arrecife. Rated 4.9/5 from 84 reviews. From €50.'
 slugs:
+  es: costa-teguise-esnorquel-guiado-de-2-horas-para-todos-los-niveles
   en: costa-teguise-2-hour-guided-snorkelling-tour-for-all-levels
   de: costa-teguise-gefuehrte-schnorcheltour-von-2-stunden-fuer-alle-niveaus
   fr: costa-teguise-snorkeling-guide-de-2-heures-pour-tous-niveaux
   it: costa-teguise-snorkeling-guidato-di-2-ore-per-tutti-i-livelli
+  pt: costa-teguise-snorkel-guiado-de-2-horas-para-todos-os-niveis
 duracion: 2 hours
 duracionMinutos: 120
 precioDesde: 50

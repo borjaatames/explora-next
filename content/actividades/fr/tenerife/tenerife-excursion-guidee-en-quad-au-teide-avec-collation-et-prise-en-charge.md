@@ -4,10 +4,12 @@ slug: tenerife-excursion-guidee-en-quad-au-teide-avec-collation-et-prise-en-char
 ciudad: tenerife
 descripcion: Une excursion guidée de 3 heures en quad dans les paysages du Teide, avec des guides qui expliquent l'histoire, la géologie et l'écologie du volcan, des rafraîchissements en route, l'équipement de protection et la prise en charge. 4,6/5 sur 160 avis. Dès 300 €.
 slugs:
+  es: tenerife-ruta-guiada-en-quad-por-el-teide-con-tentempie-y-recogida
   en: tenerife-guided-teide-quad-tour-with-snacks-and-pick-up
   de: teneriffa-gefuehrte-quadtour-am-teide-mit-snacks-und-abholung
   fr: tenerife-excursion-guidee-en-quad-au-teide-avec-collation-et-prise-en-charge
   it: tenerife-tour-guidato-in-quad-sul-teide-con-snack-e-prelievo
+  pt: tenerife-passeio-guiado-de-moto-quatro-pelo-teide-com-lanche-e-recolha
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 300

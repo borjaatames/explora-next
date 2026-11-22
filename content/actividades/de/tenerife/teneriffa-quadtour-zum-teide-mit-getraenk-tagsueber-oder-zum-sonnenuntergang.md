@@ -4,6 +4,7 @@ slug: teneriffa-quadtour-zum-teide-mit-getraenk-tagsueber-oder-zum-sonnenunterga
 ciudad: tenerife
 descripcion: Eine 3-stündige geführte Quadtour ab El Roque über asphaltierte Bergstraßen Richtung Vilaflor und Teide, Start um 12:30 oder um 16:30 zum Sonnenuntergang, mit Stopps an Aussichtspunkten und einem Getränk in der Pause. 4,3/5 bei 434 Bewertungen. Ab 60 €.
 slugs:
+  es: tenerife-ruta-en-quad-al-teide-con-bebida-de-dia-o-al-atardecer
   en: tenerife-teide-quad-tour-with-a-drink-by-day-or-at-sunset
   de: teneriffa-quadtour-zum-teide-mit-getraenk-tagsueber-oder-zum-sonnenuntergang
   fr: tenerife-quad-jusqu-au-teide-avec-boisson-en-journee-ou-au-coucher-du-soleil

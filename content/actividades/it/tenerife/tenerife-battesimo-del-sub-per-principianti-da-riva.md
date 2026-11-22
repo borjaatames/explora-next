@@ -4,10 +4,12 @@ slug: tenerife-battesimo-del-sub-per-principianti-da-riva
 ciudad: tenerife
 descripcion: 'Un PADI Discover Scuba Diving nel sud di Tenerife: briefing sulle basi, poi un''immersione da riva adatta ai principianti da 40 minuti a 1 ora nell''Atlantico, con trasferimento dal diving al sito, attrezzatura completa, bombola e assicurazione. 4,8/5 su 357 recensioni. Da 75 €.'
 slugs:
+  es: tenerife-bautismo-de-buceo-desde-la-orilla
   en: tenerife-beginner-scuba-diving-experience-from-the-shore
   de: teneriffa-schnuppertauchen-fuer-anfaenger-vom-ufer-aus
   fr: tenerife-bapteme-de-plongee-pour-debutants-depuis-le-bord
   it: tenerife-battesimo-del-sub-per-principianti-da-riva
+  pt: tenerife-batismo-de-mergulho-a-partir-da-costa
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 75

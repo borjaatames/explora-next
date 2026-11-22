@@ -4,10 +4,12 @@ slug: teneriffa-schnuppertauchen-fuer-anfaenger-vom-ufer-aus
 ciudad: tenerife
 descripcion: 'Ein PADI Discover Scuba Diving im Süden Teneriffas: Einweisung in die Grundlagen, dann ein anfängerfreundlicher Tauchgang vom Ufer von 40 Minuten bis 1 Stunde im Atlantik, mit Fahrt vom Tauchcenter zum Spot, kompletter Ausrüstung, Flasche und Tauchversicherung. 4,8/5 bei 357 Bewertungen. Ab 75 €.'
 slugs:
+  es: tenerife-bautismo-de-buceo-desde-la-orilla
   en: tenerife-beginner-scuba-diving-experience-from-the-shore
   de: teneriffa-schnuppertauchen-fuer-anfaenger-vom-ufer-aus
   fr: tenerife-bapteme-de-plongee-pour-debutants-depuis-le-bord
   it: tenerife-battesimo-del-sub-per-principianti-da-riva
+  pt: tenerife-batismo-de-mergulho-a-partir-da-costa
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 75

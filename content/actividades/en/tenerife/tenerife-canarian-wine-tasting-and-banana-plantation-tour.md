@@ -4,6 +4,7 @@ slug: tenerife-canarian-wine-tasting-and-banana-plantation-tour
 ciudad: tenerife
 descripcion: 'Half-day coach tour with an official guide: a traditional Canarian banana plantation with a banana tasting, then a local winery among vineyards with five Canarian wines paired with traditional snacks and views over the volcanic south. Rated 4.7/5 from 56 reviews. From €72.'
 slugs:
+  es: tenerife-cata-de-vinos-canarios-y-visita-a-una-finca-de-platanos
   en: tenerife-canarian-wine-tasting-and-banana-plantation-tour
   de: teneriffa-kanarische-weinprobe-und-bananenplantage
   fr: tenerife-degustation-de-vins-canariens-et-plantation-de-bananes

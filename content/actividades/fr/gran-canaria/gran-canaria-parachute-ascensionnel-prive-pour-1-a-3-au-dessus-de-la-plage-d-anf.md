@@ -4,10 +4,12 @@ slug: gran-canaria-parachute-ascensionnel-prive-pour-1-a-3-au-dessus-de-la-plage
 ciudad: gran-canaria
 descripcion: Un vol privé de 10 minutes en parachute ascensionnel pour 1 à 3 personnes au-dessus de la plage d'Anfi del Mar à Mogán, avec décollage et atterrissage en douceur, gilet de sauvetage et assurance ; un photographe peut immortaliser le vol. 4,6/5 sur 158 avis. Dès 50 €.
 slugs:
+  es: gran-canaria-parasailing-privado-para-1-a-3-sobre-la-playa-de-anfi
   en: gran-canaria-private-parasailing-for-1-to-3-over-anfi-beach
   de: gran-canaria-privates-parasailing-fuer-1-bis-3-ueber-dem-strand-von-anfi
   fr: gran-canaria-parachute-ascensionnel-prive-pour-1-a-3-au-dessus-de-la-plage-d-anf
   it: gran-canaria-parasailing-privato-per-1-3-persone-sulla-spiaggia-di-anfi
+  pt: gran-canaria-parasailing-privado-para-1-a-3-sobre-a-praia-de-anfi
 duracion: 10 min
 duracionMinutos: 10
 precioDesde: 50

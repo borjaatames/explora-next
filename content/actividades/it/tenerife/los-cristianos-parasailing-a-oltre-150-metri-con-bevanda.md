@@ -4,8 +4,10 @@ slug: los-cristianos-parasailing-a-oltre-150-metri-con-bevanda
 ciudad: tenerife
 descripcion: Parasailing dal porto di Los Cristianos a oltre 150 metri, il volo più alto delle Canarie secondo l'operatore, con 10 minuti di volo, una bevanda fresca, giro in barca con skipper esperto e vista sulla costa e sul Teide. La barca si può prenotare anche in privato fino a 10 persone. 4,9/5 su 115 recensioni. Da 54 €.
 slugs:
+  es: los-cristianos-parasailing-a-mas-de-150-metros-con-bebida
   en: los-cristianos-parasailing-over-150-metres-with-a-drink
   it: los-cristianos-parasailing-a-oltre-150-metri-con-bevanda
+  pt: los-cristianos-parasailing-a-mais-de-150-metros-com-bebida
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 54

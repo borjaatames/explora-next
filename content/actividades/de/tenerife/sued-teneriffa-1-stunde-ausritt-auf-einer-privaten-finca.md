@@ -4,10 +4,12 @@ slug: sued-teneriffa-1-stunde-ausritt-auf-einer-privaten-finca
 ciudad: tenerife
 descripcion: Ein einstündiger geführter Ausritt auf einer privaten Finca bei Fañabé im Süden Teneriffas, zwischen Vulkanlandschaften mit Meerblick, morgens oder zum Sonnenuntergang, für alle Niveaus und mit kompletter Ausrüstung; Kinder ab 7 reiten mit, jüngere auf Ponys in einer geschlossenen Bahn. 4,5/5 bei 173 Bewertungen. Ab 49 €.
 slugs:
+  es: sur-de-tenerife-1-hora-a-caballo-en-una-finca-privada
   en: south-tenerife-1-hour-horse-ride-on-a-private-estate
   de: sued-teneriffa-1-stunde-ausritt-auf-einer-privaten-finca
   fr: sud-de-tenerife-balade-d-1-heure-a-cheval-dans-un-domaine-prive
   it: sud-di-tenerife-passeggiata-a-cavallo-di-1-ora-in-una-tenuta-privata
+  pt: sul-de-tenerife-1-hora-a-cavalo-numa-quinta-privada
 duracion: 1 Stunde
 duracionMinutos: 60
 precioDesde: 49

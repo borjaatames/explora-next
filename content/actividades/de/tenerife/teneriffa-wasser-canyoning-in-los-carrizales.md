@@ -4,10 +4,12 @@ slug: teneriffa-wasser-canyoning-in-los-carrizales
 ciudad: tenerife
 descripcion: 'Ein 6-stündiger Tag im Teno-Gebirge: 2 Stunden Wanderung mit dem Guide zur Schlucht von Los Carrizales, dann Sprünge und Abseilen an Wasserfällen und Baden in natürlichen Süßwasserbecken, mit kompletter Canyoning-Ausrüstung sowie Haftpflicht- und Unfallversicherung. 4,9/5 bei 65 Bewertungen. Ab 133 €.'
 slugs:
+  es: tenerife-barranquismo-acuatico-en-los-carrizales
   en: tenerife-water-canyoning-in-los-carrizales
   de: teneriffa-wasser-canyoning-in-los-carrizales
   fr: tenerife-canyoning-aquatique-a-los-carrizales
   it: tenerife-canyoning-acquatico-a-los-carrizales
+  pt: tenerife-canyoning-aquatico-em-los-carrizales
 duracion: 6 Stunden
 duracionMinutos: 360
 precioDesde: 133

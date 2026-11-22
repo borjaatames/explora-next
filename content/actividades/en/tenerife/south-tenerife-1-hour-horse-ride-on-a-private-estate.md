@@ -4,10 +4,12 @@ slug: south-tenerife-1-hour-horse-ride-on-a-private-estate
 ciudad: tenerife
 descripcion: A 1-hour guided horse ride on a private estate near Fañabé in the south of Tenerife, among volcanic landscapes with ocean views, in the morning or at sunset, for all levels and with all equipment; children from 7 join the ride and younger ones ride ponies in a closed arena. Rated 4.5/5 from 173 reviews. From €49.
 slugs:
+  es: sur-de-tenerife-1-hora-a-caballo-en-una-finca-privada
   en: south-tenerife-1-hour-horse-ride-on-a-private-estate
   de: sued-teneriffa-1-stunde-ausritt-auf-einer-privaten-finca
   fr: sud-de-tenerife-balade-d-1-heure-a-cheval-dans-un-domaine-prive
   it: sud-di-tenerife-passeggiata-a-cavallo-di-1-ora-in-una-tenuta-privata
+  pt: sul-de-tenerife-1-hora-a-cavalo-numa-quinta-privada
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 49

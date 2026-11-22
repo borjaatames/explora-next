@@ -4,10 +4,12 @@ slug: tenerife-private-scuba-diving-with-your-own-instructor-and-photos
 ciudad: tenerife
 descripcion: A private 2.5-hour dive with LovOcean Diving and your own certified instructor, adapted to you and without a group, with a safety briefing, full equipment, guidance in the water, a debrief afterwards, underwater photos and videos and transfer from your accommodation. Rated 4.8/5 from 121 reviews. From €97.
 slugs:
+  es: tenerife-buceo-privado-con-tu-propio-instructor-y-fotos
   en: tenerife-private-scuba-diving-with-your-own-instructor-and-photos
   de: teneriffa-privates-tauchen-mit-eigenem-lehrer-und-fotos
   fr: tenerife-plongee-privee-avec-votre-moniteur-et-photos
   it: tenerife-immersione-privata-con-il-tuo-istruttore-e-foto
+  pt: tenerife-mergulho-privado-com-o-seu-proprio-instrutor-e-fotos
 duracion: 2 h 30 min
 duracionMinutos: 150
 precioDesde: 97

@@ -4,6 +4,7 @@ slug: teneriffa-kanarische-weinprobe-und-bananenplantage
 ciudad: tenerife
 descripcion: 'Halbtägige Busrundfahrt mit offiziellem Guide: eine traditionelle kanarische Bananenplantage mit Verkostung, dann eine Bodega zwischen Weinbergen mit fünf kanarischen Weinen zu traditionellen Snacks und Blick über den vulkanischen Süden. 4,7/5 bei 56 Bewertungen. Ab 72 €.'
 slugs:
+  es: tenerife-cata-de-vinos-canarios-y-visita-a-una-finca-de-platanos
   en: tenerife-canarian-wine-tasting-and-banana-plantation-tour
   de: teneriffa-kanarische-weinprobe-und-bananenplantage
   fr: tenerife-degustation-de-vins-canariens-et-plantation-de-bananes

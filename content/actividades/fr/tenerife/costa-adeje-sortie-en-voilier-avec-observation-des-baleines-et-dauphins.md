@@ -4,6 +4,7 @@ slug: costa-adeje-sortie-en-voilier-avec-observation-des-baleines-et-dauphins
 ciudad: tenerife
 descripcion: Une sortie de 3 heures en voilier depuis Puerto Colón le long de la côte sud de Tenerife pour observer baleines et dauphins, avec baignade et snorkeling dans une baie tranquille, fruits frais, sandwichs et boissons (bière, cava, vin, sodas, jus et eau). 4,8/5 sur 243 avis. Dès 80 €.
 slugs:
+  es: costa-adeje-paseo-en-velero-con-avistamiento-de-ballenas-y-delfines
   en: costa-adeje-sailing-trip-with-whale-and-dolphin-watching
   fr: costa-adeje-sortie-en-voilier-avec-observation-des-baleines-et-dauphins
   it: costa-adeje-uscita-in-barca-a-vela-con-avvistamento-di-balene-e-delfini

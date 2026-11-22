@@ -4,10 +4,12 @@ slug: tenerife-balade-guidee-a-cheval-dans-la-foret-de-lomo
 ciudad: tenerife
 descripcion: Une balade guidée et tranquille d'environ 1 h 40 au pas dans la forêt autour de Cruz del Camino, dans le nord de Tenerife, accessible à ceux qui ne montent pas, avec moniteur, casque et gants. 4,8/5 sur 284 avis. Dès 48 €.
 slugs:
+  es: tenerife-ruta-guiada-a-caballo-por-el-monte-del-lomo
   en: tenerife-guided-horse-ride-through-the-lomo-forest
   de: teneriffa-gefuehrter-ausritt-durch-den-wald-von-lomo
   fr: tenerife-balade-guidee-a-cheval-dans-la-foret-de-lomo
   it: tenerife-passeggiata-guidata-a-cavallo-nel-bosco-di-lomo
+  pt: tenerife-passeio-guiado-a-cavalo-pela-floresta-do-lomo
 duracion: 1 h 30
 duracionMinutos: 90
 precioDesde: 48

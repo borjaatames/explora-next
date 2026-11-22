@@ -4,6 +4,7 @@ slug: puerto-del-carmen-katamaranfahrt-mit-wassersport
 ciudad: lanzarote
 descripcion: Katamaranfahrt ab Puerto del Carmen vorbei an Puerto Calero zum Barranco del Quiquere und zum Strand von Papagayo, mit Baden, Kajaks, Paddleboards, Schnorcheln, Banane und Donut, Snacks und Getränken; geteilt oder privat. 4,5/5 bei 83 Bewertungen. Ab 100 €.
 slugs:
+  es: puerto-del-carmen-catamaran-con-deportes-acuaticos
   en: puerto-del-carmen-catamaran-trip-with-water-sports
   de: puerto-del-carmen-katamaranfahrt-mit-wassersport
   fr: puerto-del-carmen-catamaran-et-sports-nautiques

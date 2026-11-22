@@ -4,6 +4,7 @@ slug: tenerife-quad-jusqu-au-teide-avec-boisson-en-journee-ou-au-coucher-du-sole
 ciudad: tenerife
 descripcion: Une sortie guidée de 3 heures en quad depuis El Roque par des routes de montagne goudronnées vers Vilaflor et le Teide, départ à 12 h 30 ou à 16 h 30 pour le coucher du soleil, avec arrêts aux miradors et une boisson pendant la pause. 4,3/5 sur 434 avis. Dès 60 €.
 slugs:
+  es: tenerife-ruta-en-quad-al-teide-con-bebida-de-dia-o-al-atardecer
   en: tenerife-teide-quad-tour-with-a-drink-by-day-or-at-sunset
   de: teneriffa-quadtour-zum-teide-mit-getraenk-tagsueber-oder-zum-sonnenuntergang
   fr: tenerife-quad-jusqu-au-teide-avec-boisson-en-journee-ou-au-coucher-du-soleil

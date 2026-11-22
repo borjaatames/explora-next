@@ -4,10 +4,12 @@ slug: corralejo-surfkurs-fuer-anfaenger-an-einem-tag
 ciudad: fuerteventura
 descripcion: 'Ein 4-stündiger Surftag für Anfänger mit Point Break in Corralejo: Theorie und Aufwärmen, dann Praxis an Sand- oder leichten Riffspots, vom Weißwasser zu kleinen grünen Wellen, mit Lehrern der Surfverbände, Ausrüstung, Fahrt zum Spot und Versicherung. 4,3/5 bei 60 Bewertungen. Ab 50 €.'
 slugs:
+  es: corralejo-clase-de-surf-de-un-dia-para-principiantes
   en: corralejo-1-day-beginner-surf-lesson
   de: corralejo-surfkurs-fuer-anfaenger-an-einem-tag
   fr: corralejo-journee-de-cours-de-surf-pour-debutants
   it: corralejo-giornata-di-surf-per-principianti
+  pt: corralejo-aula-de-surf-de-um-dia-para-principiantes
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 50

@@ -4,10 +4,12 @@ slug: tenerife-guided-horse-ride-through-the-lomo-forest
 ciudad: tenerife
 descripcion: A calm guided horse ride of about 1 hour 40 minutes at a safe walking pace through the forest around Cruz del Camino in the north of Tenerife, suitable for people who do not ride, with an instructor, helmet and gloves. Rated 4.8/5 from 284 reviews. From €48.
 slugs:
+  es: tenerife-ruta-guiada-a-caballo-por-el-monte-del-lomo
   en: tenerife-guided-horse-ride-through-the-lomo-forest
   de: teneriffa-gefuehrter-ausritt-durch-den-wald-von-lomo
   fr: tenerife-balade-guidee-a-cheval-dans-la-foret-de-lomo
   it: tenerife-passeggiata-guidata-a-cavallo-nel-bosco-di-lomo
+  pt: tenerife-passeio-guiado-a-cavalo-pela-floresta-do-lomo
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 48

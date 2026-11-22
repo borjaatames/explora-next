@@ -4,10 +4,12 @@ slug: maspalomas-30-minute-jet-ski-tour-from-pasito-blanco
 ciudad: gran-canaria
 descripcion: Thirty minutes driving your own jet ski, for 1 or 2 people, along the Maspalomas coast from Pasito Blanco in a small group, with equipment, accident insurance, a safety instructor, toilets and free parking. The price is per jet ski. Rated 4.9/5 from 67 reviews. From €80 per group.
 slugs:
+  es: maspalomas-30-minutos-en-moto-de-agua-desde-pasito-blanco
   en: maspalomas-30-minute-jet-ski-tour-from-pasito-blanco
   de: maspalomas-30-minuten-jetski-tour-ab-pasito-blanco
   fr: maspalomas-sortie-en-jet-ski-de-30-minutes-depuis-pasito-blanco
   it: maspalomas-tour-in-moto-d-acqua-di-30-minuti-da-pasito-blanco
+  pt: maspalomas-30-minutos-de-mota-de-agua-a-partir-de-pasito-blanco
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 80

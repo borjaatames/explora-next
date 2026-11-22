@@ -4,10 +4,12 @@ slug: playa-de-las-americas-cours-de-surf-en-petit-groupe-chez-ika-ika
 ciudad: tenerife
 descripcion: 'Un cours de surf de 2 heures avec Ika Ika Surf School, directement sur la plage de Playa de las Américas : théorie et échauffement sur le sable, puis pratique dans l''eau avec des moniteurs certifiés ISA, planche et combinaison incluses. 4,7/5 sur 250 avis. Dès 40 €.'
 slugs:
+  es: playa-de-las-americas-clase-de-surf-en-grupo-reducido-en-ika-ika
   en: playa-de-las-americas-small-group-surf-lesson-at-ika-ika
   de: playa-de-las-americas-surfkurs-in-kleiner-gruppe-bei-ika-ika
   fr: playa-de-las-americas-cours-de-surf-en-petit-groupe-chez-ika-ika
   it: playa-de-las-americas-lezione-di-surf-in-piccolo-gruppo-da-ika-ika
+  pt: playa-de-las-americas-aula-de-surf-em-grupo-reduzido-na-ika-ika
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 40

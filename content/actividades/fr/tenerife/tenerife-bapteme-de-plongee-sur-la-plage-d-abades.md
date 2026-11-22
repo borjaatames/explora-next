@@ -4,10 +4,12 @@ slug: tenerife-bapteme-de-plongee-sur-la-plage-d-abades
 ciudad: tenerife
 descripcion: Une initiation à la plongée de 4 heures dans la baie abritée d'Abades, sur la côte sud-est de Tenerife, jusqu'à 8 mètres maximum, avec 2 participants maximum par moniteur, équipement, assurance, carnet de plongée en ligne, eau et prise en charge gratuite aux points confirmés. 4,7/5 sur 171 avis. Dès 85 €.
 slugs:
+  es: tenerife-bautismo-de-buceo-en-la-playa-de-abades
   en: tenerife-beginner-scuba-diving-at-abades-beach
   de: teneriffa-schnuppertauchen-fuer-anfaenger-am-strand-von-abades
   fr: tenerife-bapteme-de-plongee-sur-la-plage-d-abades
   it: tenerife-battesimo-del-sub-per-principianti-alla-spiaggia-di-abades
+  pt: tenerife-batismo-de-mergulho-na-praia-de-abades
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 85

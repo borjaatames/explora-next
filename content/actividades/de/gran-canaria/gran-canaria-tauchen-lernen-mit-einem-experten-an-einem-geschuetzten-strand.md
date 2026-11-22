@@ -4,10 +4,12 @@ slug: gran-canaria-tauchen-lernen-mit-einem-experten-an-einem-geschuetzten-stran
 ciudad: gran-canaria
 descripcion: Eine 4-stündige Einführung ins Tauchen an einem geschützten, anfängerfreundlichen Strand auf Gran Canaria, mit höchstens 3 Personen pro Lehrer, Ausrüstung, Versicherung, Online-Logbuch, Wasser und Abholung im Süden der Insel. 4,5/5 bei 133 Bewertungen. Ab 85 €.
 slugs:
+  es: gran-canaria-aprende-a-bucear-con-un-experto-en-una-playa-resguardada
   en: gran-canaria-learn-to-dive-with-an-expert-at-a-sheltered-beach
   de: gran-canaria-tauchen-lernen-mit-einem-experten-an-einem-geschuetzten-strand
   fr: gran-canaria-apprendre-a-plonger-avec-un-expert-sur-une-plage-abritee
   it: gran-canaria-impara-a-immergerti-con-un-esperto-in-una-spiaggia-riparata
+  pt: gran-canaria-aprenda-a-mergulhar-com-um-especialista-numa-praia-abrigada
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 85

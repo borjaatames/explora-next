@@ -4,6 +4,7 @@ slug: palm-mar-kayak-and-snorkel-in-the-marine-reserve
 ciudad: tenerife
 descripcion: A 3-hour guided tour in stable double sit-on-top kayaks along the coast of Palm-Mar, in the south of Tenerife, through a protected marine reserve, with a snorkelling stop, life jacket, dry bag, water, snacks and insurance; suitable for beginners and families. Rated 4.7/5 from 141 reviews. From €39.
 slugs:
+  es: palm-mar-kayak-y-esnorquel-en-la-reserva-marina
   en: palm-mar-kayak-and-snorkel-in-the-marine-reserve
   fr: palm-mar-kayak-et-snorkeling-dans-la-reserve-marine
   it: palm-mar-kayak-e-snorkeling-nella-riserva-marina

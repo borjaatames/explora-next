@@ -4,10 +4,12 @@ slug: gran-canaria-safari-guide-en-jet-ski-sur-la-cote-sud-depuis-arguineguin
 ciudad: gran-canaria
 descripcion: Un safari guidé en jet-ski de 30 minutes ou 1 heure depuis Arguineguín le long de la côte sud de Gran Canaria, entre criques cachées et falaises volcaniques, seul ou avec un passager sans supplément, carburant, briefing de sécurité et assurance inclus. 4,9/5 sur 71 avis. Dès 81 € par groupe.
 slugs:
+  es: gran-canaria-safari-guiado-en-moto-de-agua-por-la-costa-sur-desde-arguineguin
   en: gran-canaria-guided-jet-ski-safari-on-the-south-coast-from-arguineguin
   de: gran-canaria-gefuehrte-jetski-safari-an-der-suedkueste-ab-arguineguin
   fr: gran-canaria-safari-guide-en-jet-ski-sur-la-cote-sud-depuis-arguineguin
   it: gran-canaria-safari-guidato-in-moto-d-acqua-sulla-costa-sud-da-arguineguin
+  pt: gran-canaria-safari-guiado-de-mota-de-agua-pela-costa-sul-a-partir-de-arguinegui
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 81

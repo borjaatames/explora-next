@@ -4,10 +4,12 @@ slug: teneriffa-gefuehrter-ausritt-durch-den-wald-von-lomo
 ciudad: tenerife
 descripcion: Ein ruhiger geführter Ausritt von rund 1 Stunde 40 Minuten im sicheren Schritt durch den Wald bei Cruz del Camino im Norden Teneriffas, auch für Nichtreiter, mit Lehrer, Helm und Handschuhen. 4,8/5 bei 284 Bewertungen. Ab 48 €.
 slugs:
+  es: tenerife-ruta-guiada-a-caballo-por-el-monte-del-lomo
   en: tenerife-guided-horse-ride-through-the-lomo-forest
   de: teneriffa-gefuehrter-ausritt-durch-den-wald-von-lomo
   fr: tenerife-balade-guidee-a-cheval-dans-la-foret-de-lomo
   it: tenerife-passeggiata-guidata-a-cavallo-nel-bosco-di-lomo
+  pt: tenerife-passeio-guiado-a-cavalo-pela-floresta-do-lomo
 duracion: 1 Std. 30 Min.
 duracionMinutos: 90
 precioDesde: 48

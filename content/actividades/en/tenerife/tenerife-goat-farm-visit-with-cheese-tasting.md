@@ -4,6 +4,7 @@ slug: tenerife-goat-farm-visit-with-cheese-tasting
 ciudad: tenerife
 descripcion: One-hour guided visit to a goat farm and cheese dairy in Tijoco Bajo (Adeje) to see how cheese is made by hand, ending with a tasting of three of its award-winning goat cheeses. Rated 4.9/5 from 80 reviews. From €28.
 slugs:
+  es: tenerife-visita-a-una-granja-de-cabras-con-cata-de-quesos
   en: tenerife-goat-farm-visit-with-cheese-tasting
 duracion: 1 hour
 duracionMinutos: 60

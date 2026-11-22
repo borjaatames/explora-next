@@ -4,6 +4,7 @@ slug: lanzarote-2-h-30-en-bateau-au-coucher-du-soleil-avec-les-dauphins
 ciudad: lanzarote
 descripcion: Deux heures et demie en bateau rapide au coucher du soleil au large de Lanzarote, à la recherche de baleines et de dauphins, avec commentaires en direct d'un équipage professionnel, cava ou jus, douceurs locales et prise en charge à l'hôtel. 4,2/5 sur 1.765 avis. Dès 52 €.
 slugs:
+  es: lanzarote-paseo-en-barco-de-2-5-horas-al-atardecer-con-delfines
   en: lanzarote-2-5-hour-sunset-and-dolphin-boat-trip
   fr: lanzarote-2-h-30-en-bateau-au-coucher-du-soleil-avec-les-dauphins
 duracion: 2 h 30

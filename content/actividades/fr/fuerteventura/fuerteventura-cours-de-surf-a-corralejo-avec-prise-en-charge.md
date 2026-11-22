@@ -4,10 +4,12 @@ slug: fuerteventura-cours-de-surf-a-corralejo-avec-prise-en-charge
 ciudad: fuerteventura
 descripcion: Une sortie surf de 4 heures avec l'école Surf-Therapy à Corralejo, avec prise en charge et retour à votre hôtel de Corralejo, pour découvrir les vagues du nord de l'île. 4,5/5 sur 214 avis. Dès 55 €.
 slugs:
+  es: fuerteventura-clase-de-surf-en-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-surf-lesson-in-corralejo-with-hotel-pick-up
   de: fuerteventura-surfkurs-in-corralejo-mit-abholung-vom-hotel
   fr: fuerteventura-cours-de-surf-a-corralejo-avec-prise-en-charge
   it: fuerteventura-lezione-di-surf-a-corralejo-con-prelievo-in-hotel
+  pt: fuerteventura-aula-de-surf-em-corralejo-com-recolha-no-hotel
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 55

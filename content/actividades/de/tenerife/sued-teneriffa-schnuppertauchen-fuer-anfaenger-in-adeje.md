@@ -4,6 +4,7 @@ slug: sued-teneriffa-schnuppertauchen-fuer-anfaenger-in-adeje
 ciudad: tenerife
 descripcion: 'Ein Schnuppertauchen von rund 3,5 Stunden mit 12dive in Costa Adeje: keine Erfahrung nötig, zwei Schüler pro Lehrer und ein Tauchgang von 45 Minuten, mit kompletter Ausrüstung, Begrüßungskaffee, Tauchversicherung, Fahrt zum Spot und zurück, Wasser, Obst und Snacks. 4,9/5 bei 89 Bewertungen. Ab 85 €.'
 slugs:
+  es: sur-de-tenerife-bautismo-de-buceo-en-adeje
   en: south-tenerife-beginner-scuba-diving-in-adeje
   de: sued-teneriffa-schnuppertauchen-fuer-anfaenger-in-adeje
   fr: sud-de-tenerife-bapteme-de-plongee-a-adeje

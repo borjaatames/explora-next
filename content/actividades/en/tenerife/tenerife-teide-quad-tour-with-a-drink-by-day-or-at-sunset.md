@@ -4,6 +4,7 @@ slug: tenerife-teide-quad-tour-with-a-drink-by-day-or-at-sunset
 ciudad: tenerife
 descripcion: A 3-hour guided quad ride from El Roque along paved mountain roads towards Vilaflor and the Teide area, leaving at 12:30 or at 16:30 for the sunset, with stops at viewpoints and a drink during the break. Rated 4.3/5 from 434 reviews. From €60.
 slugs:
+  es: tenerife-ruta-en-quad-al-teide-con-bebida-de-dia-o-al-atardecer
   en: tenerife-teide-quad-tour-with-a-drink-by-day-or-at-sunset
   de: teneriffa-quadtour-zum-teide-mit-getraenk-tagsueber-oder-zum-sonnenuntergang
   fr: tenerife-quad-jusqu-au-teide-avec-boisson-en-journee-ou-au-coucher-du-soleil

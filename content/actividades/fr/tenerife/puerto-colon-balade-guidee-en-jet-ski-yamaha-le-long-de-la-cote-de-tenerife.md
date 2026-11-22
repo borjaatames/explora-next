@@ -4,6 +4,7 @@ slug: puerto-colon-balade-guidee-en-jet-ski-yamaha-le-long-de-la-cote-de-tenerif
 ciudad: tenerife
 descripcion: Une balade guidée de 40 minutes à 1 heure en jet-ski Yamaha 2024, simple ou double, depuis Puerto Colón à Costa Adeje le long de la côte sud, avec bateau d'assistance, guide professionnel, gilet de sauvetage, briefing et casier. 4,6/5 sur 270 avis. Dès 46 €.
 slugs:
+  es: puerto-colon-ruta-guiada-en-moto-de-agua-yamaha-por-la-costa-de-tenerife
   en: puerto-colon-guided-yamaha-jet-ski-ride-along-the-tenerife-coast
   fr: puerto-colon-balade-guidee-en-jet-ski-yamaha-le-long-de-la-cote-de-tenerife
   it: puerto-colon-giro-guidato-in-moto-d-acqua-yamaha-lungo-la-costa-di-tenerife

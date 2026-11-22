@@ -4,6 +4,7 @@ slug: puerto-colon-giro-guidato-in-moto-d-acqua-yamaha-lungo-la-costa-di-tenerif
 ciudad: tenerife
 descripcion: Un giro guidato da 40 minuti a 1 ora su una moto d'acqua Yamaha 2024, singola o doppia, da Puerto Colón a Costa Adeje lungo la costa sud, con barca d'appoggio, guida professionale, giubbotto salvagente, briefing e armadietto. 4,6/5 su 270 recensioni. Da 46 €.
 slugs:
+  es: puerto-colon-ruta-guiada-en-moto-de-agua-yamaha-por-la-costa-de-tenerife
   en: puerto-colon-guided-yamaha-jet-ski-ride-along-the-tenerife-coast
   fr: puerto-colon-balade-guidee-en-jet-ski-yamaha-le-long-de-la-cote-de-tenerife
   it: puerto-colon-giro-guidato-in-moto-d-acqua-yamaha-lungo-la-costa-di-tenerife

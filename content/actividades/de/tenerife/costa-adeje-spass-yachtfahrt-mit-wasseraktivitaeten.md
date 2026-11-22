@@ -4,10 +4,12 @@ slug: costa-adeje-spass-yachtfahrt-mit-wasseraktivitaeten
 ciudad: tenerife
 descripcion: Eine 3,5-stündige Fahrt ab Puerto Colón auf einer 20-Meter-Yacht entlang der Küste Teneriffas, mit Wasseraktivitäten und Spielzeug, Essen und Getränken und professioneller Crew. 4,8/5 bei 164 Bewertungen. Ab 80 €.
 slugs:
+  es: costa-adeje-crucero-en-yate-con-actividades-acuaticas
   en: costa-adeje-fun-yacht-cruise-with-water-activities
   de: costa-adeje-spass-yachtfahrt-mit-wasseraktivitaeten
   fr: costa-adeje-croisiere-festive-en-yacht-avec-activites-nautiques
   it: costa-adeje-crociera-divertente-in-yacht-con-attivita-acquatiche
+  pt: costa-adeje-cruzeiro-de-iate-com-atividades-aquaticas
 duracion: 3 Std. 30 Min.
 duracionMinutos: 210
 precioDesde: 80

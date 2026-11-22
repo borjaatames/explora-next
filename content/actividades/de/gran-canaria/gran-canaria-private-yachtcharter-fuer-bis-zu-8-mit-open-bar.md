@@ -4,10 +4,12 @@ slug: gran-canaria-private-yachtcharter-fuer-bis-zu-8-mit-open-bar
 ciudad: gran-canaria
 descripcion: Eine private Yacht für bis zu 8 Personen mit Kapitän und Crew entlang der Küste Gran Canarias, für 3 bis 8 Stunden, mit eigener Playlist, Open Bar, Tapas, Schnorchelausrüstung und 2 Paddleboards sowie Rabatt auf Jetski, Parasailing und Sea Scooter. Der Preis gilt pro Gruppe. 4,9/5 bei 129 Bewertungen. Ab 540 € pro Gruppe.
 slugs:
+  es: gran-canaria-yate-privado-para-hasta-8-con-barra-libre
   en: gran-canaria-private-yacht-charter-for-up-to-8-with-open-bar
   de: gran-canaria-private-yachtcharter-fuer-bis-zu-8-mit-open-bar
   fr: gran-canaria-yacht-prive-jusqu-a-8-personnes-avec-open-bar
   it: gran-canaria-yacht-privato-fino-a-8-persone-con-open-bar
+  pt: gran-canaria-iate-privado-para-ate-8-com-bar-aberto
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 540

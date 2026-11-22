@@ -4,10 +4,12 @@ slug: tenerife-guided-teide-quad-tour-with-snacks-and-pick-up
 ciudad: tenerife
 descripcion: A 3-hour guided quad tour through the landscapes of Teide, with guides who explain the volcano's history, geology and ecology, refreshments along the way, protective gear and pick-up. Rated 4.6/5 from 160 reviews. From €300.
 slugs:
+  es: tenerife-ruta-guiada-en-quad-por-el-teide-con-tentempie-y-recogida
   en: tenerife-guided-teide-quad-tour-with-snacks-and-pick-up
   de: teneriffa-gefuehrte-quadtour-am-teide-mit-snacks-und-abholung
   fr: tenerife-excursion-guidee-en-quad-au-teide-avec-collation-et-prise-en-charge
   it: tenerife-tour-guidato-in-quad-sul-teide-con-snack-e-prelievo
+  pt: tenerife-passeio-guiado-de-moto-quatro-pelo-teide-com-lanche-e-recolha
 duracion: 3 hours
 duracionMinutos: 180
 precioDesde: 300

@@ -4,10 +4,12 @@ slug: depuis-la-grande-canarie-journee-au-loro-parque-a-tenerife
 ciudad: gran-canaria
 descripcion: 'Longue journée depuis le sud de la Grande Canarie : prise en charge, bateau d''Agaete à Santa Cruz de Tenerife, autocar jusqu''à Puerto de la Cruz et entrée au Loro Parque, avec ses spectacles de dauphins et d''otaries, mammifères, reptiles et oiseaux exotiques. 4,7/5 sur 57 avis. Dès 205 €.'
 slugs:
+  es: desde-gran-canaria-excursion-de-un-dia-al-loro-parque-de-tenerife
   en: from-gran-canaria-day-trip-to-loro-parque-in-tenerife
   de: ab-gran-canaria-tagesausflug-in-den-loro-parque-auf-teneriffa
   fr: depuis-la-grande-canarie-journee-au-loro-parque-a-tenerife
   it: da-gran-canaria-gita-di-un-giorno-al-loro-parque-a-tenerife
+  pt: de-gran-canaria-excursao-de-um-dia-ao-loro-parque-em-tenerife
 duracion: 12 heures
 duracionMinutos: 720
 precioDesde: 205
