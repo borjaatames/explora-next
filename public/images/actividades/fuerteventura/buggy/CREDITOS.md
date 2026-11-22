@@ -5,3 +5,4 @@
 - `ffv-buggy-junto-al-mar.webp` — Jay H, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/black-utv-on-sand-near-seashore-8UxQ53RClYc) · recortada a 1600×1200
 - `ffv-buggy-corralejo-polvo.webp` — Alberto Cotogni, Licencia Pexels, vía Pexels (https://www.pexels.com/photo/thrilling-dune-buggy-adventure-in-corralejo-28525238/) · recortada a 1600×1200
 - `ffv-buggy-saltando-arena.webp` — Roberto Nickson, Licencia Unsplash, vía Unsplash (https://unsplash.com/photos/man-riding-on-utv-on-desert-during-daytime-WvRMzYER6FM) · recortada a 1600×1200
+| buggies-llanura-arena.webp | Unsplash | Kart Aventure | Licencia Unsplash | https://unsplash.com/photos/dune-buggies-on-sandy-desert-9KQl7V7q1m8 |

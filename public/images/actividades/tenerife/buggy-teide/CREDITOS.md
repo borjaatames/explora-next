@@ -7,3 +7,5 @@
 | buggy-teide-pixabay-4317569.webp | Pixabay | analogicus | Licencia Pixabay | https://pixabay.com/photos/volcanic-landscape-tenerife-4317569/ |
 | buggy-teide-pixabay-7670716.webp | Pixabay | OleksandrPidvalnyi | Licencia Pixabay | https://pixabay.com/photos/park-mountains-tenerife-teide-7670716/ |
 | buggy-teide-wikimedia-02.webp | Wikimedia Commons | Benjamín Núñez González | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Carretera,_Parque_Nacional_del_Teide,_Tenerife,_Espa%C3%B1a,_2015.JPG |
+| buggy-biplaza-atardecer.webp | Pexels | Quang Nguyen Vinh | Licencia Pexels | https://www.pexels.com/photo/person-riding-dune-buggy-on-desert-2155728/ |
+| buggy-vista-conductor-montanas.webp | Pixabay | juergenbalbach65 | Licencia Pixabay | https://pixabay.com/photos/desert-sunset-buggy-tour-buggy-7417478/ |
