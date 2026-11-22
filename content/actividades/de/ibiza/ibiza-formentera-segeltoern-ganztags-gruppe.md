@@ -8,6 +8,7 @@ slugs:
   en: ibiza-formentera-shared-full-day-sailing
   fr: ibiza-formentera-voilier-journee-partagee
   it: ibiza-formentera-barca-vela-giornata-condivisa
+  pt: ibiza-formentera-veleiro-dia-inteiro-partilhado
   de: ibiza-formentera-segeltoern-ganztags-gruppe
 duracion: 7 Stunden
 duracionMinutos: 420
