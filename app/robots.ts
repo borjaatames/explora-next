@@ -14,6 +14,11 @@ const SITE_URL =
  *
  * Las landings SEM van con noindex en todos los idiomas activos: una entrada
  * `/<idioma>/sem/` por idioma (sin prefijo en español).
+ *
+ * `meta-externalagent` (rastreador de Meta para entrenar IA) queda excluido:
+ * no trae visitas y llegó a ser el 40 % de las peticiones (nov. 2026). No
+ * afecta a `facebookexternalhit` (vistas previas de enlaces) ni a
+ * `meta-webindexer`.
  */
 export default function robots(): MetadataRoute.Robots {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -38,6 +43,7 @@ export default function robots(): MetadataRoute.Robots {
           "/*?*utm_",
         ],
       },
+      { userAgent: "meta-externalagent", disallow: "/" },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
     host: SITE_URL,
