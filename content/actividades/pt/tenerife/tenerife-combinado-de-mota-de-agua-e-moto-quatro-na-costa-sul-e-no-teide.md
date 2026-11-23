@@ -71,6 +71,16 @@ galeria:
   alt: Duas motos 4 com os faróis acesos ao entardecer
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
   alt: Las Cañadas del Teide
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Mota de água a levantar espuma na costa de Tenerife'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Casal numa mota de água junto às falésias'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Mota de água em frente a uma gruta vulcânica'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Piloto de mota de água junto a uma gruta marinha'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Duas pessoas a desfrutar da mota de água'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

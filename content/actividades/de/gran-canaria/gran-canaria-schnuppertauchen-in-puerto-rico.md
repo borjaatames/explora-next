@@ -72,6 +72,8 @@ galeria:
   alt: Fische über sandigem Grund vor Gran Canaria
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Sonnenuntergang in Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-blue-water-diving/grupo-de-bautismo-de-buceo-con-el-instructor-en-puerto-.webp
+  alt: 'Schnuppertauchgruppe mit dem Lehrer in Puerto Rico'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

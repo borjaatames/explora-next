@@ -69,6 +69,18 @@ galeria:
   alt: Pini canari e mare di nuvole al tramonto sulle alture di Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Scogliere lungo la costa sud di Tenerife
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/parapente-biplaza-sobre-la-costa-sur-de-tenerife.webp
+  alt: 'Parapendio biposto sopra la costa sud di Tenerife'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/piloto-y-pasajera-sonriendo-en-pleno-vuelo.webp
+  alt: 'Pilota e passeggera sorridenti in pieno volo'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vela-roja-de-parapente-sobre-costa-adeje.webp
+  alt: 'Vela rossa di parapendio sopra Costa Adeje'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vista-del-litoral-desde-el-parapente.webp
+  alt: 'Vista del litorale dal parapendio'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/despegue-en-parapente-desde-la-montana.webp
+  alt: 'Decollo in parapendio dalla montagna'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/grupo-de-pasajeros-con-los-pilotos-tras-el-vuelo.webp
+  alt: 'Gruppo di passeggeri con i piloti dopo il volo'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

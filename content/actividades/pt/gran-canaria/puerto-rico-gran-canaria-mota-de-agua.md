@@ -86,8 +86,8 @@ keywords:
 - mota de agua gran canaria
 - jet ski puerto rico
 - o que fazer em puerto rico gran canaria
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: Mota de água sobre as ondas
+imagen: /images/actividades/gran-canaria/prov-esnautica-water-sport/moto-de-agua-navegando-frente-a-puerto-rico-de-gran-can.webp
+imagenAlt: 'Mota de água ao largo de Puerto Rico de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: 'Marina de Puerto Rico de Gran Canaria, ponto de partida do passeio'
@@ -103,6 +103,8 @@ galeria:
   alt: 'Grupo de baleias-piloto no Atlântico canário'
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
   alt: 'Baleia-piloto-tropical em águas canárias'
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: 'Mota de água sobre as ondas'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

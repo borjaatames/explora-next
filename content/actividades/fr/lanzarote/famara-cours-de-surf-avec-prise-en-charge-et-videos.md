@@ -71,6 +71,18 @@ galeria:
   alt: Silhouettes de surfeurs avec leurs planches au coucher du soleil
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Vagues sur une côte volcanique rouge avec une plage noire
+- src: /images/actividades/lanzarote/prov-school3s/instructor-acompanando-a-una-alumna-en-la-ola-en-famara.webp
+  alt: 'Moniteur accompagnant une élève sur une vague à Famara'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-alumnos-con-sus-tablas-en-la-playa-de-famara.webp
+  alt: 'Groupe d''élèves avec leurs planches sur la plage de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/surfistas-caminando-hacia-el-agua-con-sus-tablas.webp
+  alt: 'Surfeurs marchant vers l''eau avec leurs planches'
+- src: /images/actividades/lanzarote/prov-school3s/alumnos-entrando-al-mar-bajo-los-riscos-de-famara.webp
+  alt: 'Élèves entrant dans la mer sous les falaises de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/practica-del-despegue-en-la-arena.webp
+  alt: 'Entraînement au take-off sur le sable'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-la-escuela-de-surf-en-la-playa.webp
+  alt: 'Groupe de l''école de surf sur la plage'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

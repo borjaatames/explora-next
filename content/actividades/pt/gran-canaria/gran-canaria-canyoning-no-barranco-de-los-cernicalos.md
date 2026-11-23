@@ -73,6 +73,18 @@ galeria:
   alt: Flor de amendoeira com o Roque Bentayga ao fundo
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Encostas do barranco de Guayadeque, perto de Agüimes
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Rapel junto a uma cascata em Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Praticante de canyoning sorridente a descer pela corda'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Descida por um escorrega natural de rocha'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Praticante de canyoning pronto para o rapel'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Passagem por uma poça entre rochas do barranco'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Praticantes de canyoning em frente a uma cascata'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -77,6 +77,16 @@ galeria:
   alt: Taucher über felsigem Meeresgrund
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
   alt: Die Bucht von Los Cristianos
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceadora-explorando-el-fondo-rocoso-en-tenerife.webp
+  alt: 'Taucherin erkundet den felsigen Meeresgrund auf Teneriffa'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceador-junto-a-una-roca-en-aguas-de-tenerife.webp
+  alt: 'Taucher neben einem Felsen in den Gewässern Teneriffas'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/instructor-y-alumno-de-buceo-en-el-fondo-marino.webp
+  alt: 'Tauchlehrer und Schüler am Meeresgrund'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/pecio-hundido-en-una-inmersion-en-tenerife.webp
+  alt: 'Gesunkenes Wrack bei einem Tauchgang auf Teneriffa'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/briefing-con-los-buceadores-antes-de-entrar-al-agua.webp
+  alt: 'Briefing mit den Tauchern vor dem Einstieg ins Wasser'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

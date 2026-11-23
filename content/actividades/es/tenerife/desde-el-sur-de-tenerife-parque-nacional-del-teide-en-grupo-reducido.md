@@ -70,6 +70,16 @@ galeria:
   alt: El Teide sobre el mar de nubes
 - src: /images/actividades/tenerife/teleferico/teleferico-canadas.webp
   alt: Teleférico del Teide sobre Las Cañadas
+- src: /images/actividades/tenerife/prov-tenerife-stars/furgoneta-de-la-excursion-con-el-teide-al-fondo.webp
+  alt: 'Furgoneta de la excursión con el Teide al fondo'
+- src: /images/actividades/tenerife/prov-tenerife-stars/viajeros-saltando-frente-al-teide.webp
+  alt: 'Viajeros saltando frente al Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/sendero-de-los-roques-de-garcia-con-el-teide.webp
+  alt: 'Sendero de los Roques de García con el Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/paisaje-volcanico-de-las-canadas-del-teide.webp
+  alt: 'Paisaje volcánico de Las Cañadas del Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/el-teide-sobre-el-mar-de-nubes-entre-pinos.webp
+  alt: 'El Teide sobre el mar de nubes entre pinos'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

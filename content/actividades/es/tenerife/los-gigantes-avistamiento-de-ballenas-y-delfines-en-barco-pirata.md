@@ -61,8 +61,8 @@ keywords:
 - barco los gigantes
 - barco pirata tenerife
 - delfines los gigantes
-imagen: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-imagenAlt: Acantilados de Los Gigantes vistos desde el mar
+imagen: /images/actividades/tenerife/prov-flipper-uno/barco-pirata-flipper-uno-navegando-a-vela.webp
+imagenAlt: 'Barco pirata Flipper Uno navegando a vela'
 galeria:
 - src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
   alt: Delfin nadando en la superficie del mar
@@ -78,6 +78,14 @@ galeria:
   alt: Acantilados de Los Gigantes con la luz de la tarde
 - src: /images/actividades/tenerife/masca/masca-caserio.webp
   alt: El caserío de Masca entre montañas
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: 'Acantilados de Los Gigantes vistos desde el mar'
+- src: /images/actividades/tenerife/prov-flipper-uno/calderones-nadando-junto-al-velero-en-los-gigantes.webp
+  alt: 'Calderones nadando junto al velero en Los Gigantes'
+- src: /images/actividades/tenerife/prov-flipper-uno/parada-para-banarse-junto-a-los-acantilados.webp
+  alt: 'Parada para bañarse junto a los acantilados'
+- src: /images/actividades/tenerife/prov-flipper-uno/delfin-saltando-en-mar-abierto.webp
+  alt: 'Delfín saltando en mar abierto'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

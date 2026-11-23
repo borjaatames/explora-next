@@ -96,6 +96,8 @@ galeria:
   alt: 'Los Cristianos coast with the Atlantic behind, the catamaran base in Tenerife'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: 'Montaña de Guaza, in the municipality of Arona'
+- src: /images/actividades/tenerife/prov-shaka-surf-tenerife/alumnos-de-surf-entrando-al-agua-con-sus-tablas.webp
+  alt: 'Surf students heading into the water with their boards'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

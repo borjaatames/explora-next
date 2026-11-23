@@ -73,6 +73,16 @@ galeria:
   alt: Baleia-piloto-tropical em águas canárias
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Entardecer em Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Catamarã Spirit of the Sea a navegar com passageiros'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Golfinhos a nadar à frente do barco'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Passageiros a observar um grupo de golfinhos'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Passageiros na proa à procura de cetáceos'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Sopro de uma baleia no mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -103,6 +103,18 @@ galeria:
   alt: 'Le pareti di roccia delle scogliere di Los Gigantes'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
   alt: 'Le scogliere di Los Gigantes sopra il mare'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-de-white-tenerife-navegando-a-vela.webp
+  alt: 'Catamarano di White Tenerife a vela'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-frente-a-la-costa-de-costa-adeje.webp
+  alt: 'Catamarano davanti a Costa Adeje'
+- src: /images/actividades/tenerife/prov-white-tenerife/delfines-nadando-junto-al-barco.webp
+  alt: 'Delfini che nuotano accanto alla barca'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-en-la-superficie-del-mar.webp
+  alt: 'Globicefalo sulla superficie del mare'
+- src: /images/actividades/tenerife/prov-white-tenerife/barco-fondeado-en-aguas-turquesa-visto-desde-el-aire.webp
+  alt: 'Barca all''ancora in acque turchesi vista dall''alto'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-con-su-cria.webp
+  alt: 'Globicefalo con il suo piccolo'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

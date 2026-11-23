@@ -73,6 +73,16 @@ galeria:
   alt: A short-finned pilot whale in Canary Islands waters
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Puerto Rico de Gran Canaria at sunset
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Spirit of the Sea catamaran sailing with passengers'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Dolphins swimming in front of the boat'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Passengers watching a pod of dolphins'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Passengers on the bow looking for cetaceans'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Whale blow at sea'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

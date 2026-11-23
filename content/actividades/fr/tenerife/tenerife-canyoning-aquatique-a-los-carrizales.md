@@ -74,6 +74,16 @@ galeria:
   alt: À l'intérieur du ravin de Masca
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Canyoniste descendant des rochers mouillés
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Canyoneurs près d''une cascade dans une gorge volcanique'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Descente en tyrolienne au-dessus d''une vasque du canyon'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Groupe flottant dans une vasque en combinaisons et casques'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Canyoneur traversant une vasque sous une grotte'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Canyoneurs nageant entre des parois rocheuses'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

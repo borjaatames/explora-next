@@ -76,6 +76,14 @@ galeria:
   alt: "Catamaran dans des eaux turquoise"
 - src: "/images/actividades/lanzarote/catamaran/flz-fondeado-aguas-claras.webp"
   alt: "Catamaran au mouillage dans une eau cristalline"
+- src: /images/actividades/lanzarote/prov-wewhale-gran-canaria/catamaran-electrico-frente-a-las-montanas-de-lanzarote.webp
+  alt: 'Catamaran électrique face aux montagnes de Lanzarote'
+- src: /images/actividades/lanzarote/prov-wewhale-gran-canaria/pasajeros-en-la-proa-del-catamaran-buscando-cetaceos.webp
+  alt: 'Passagers à la proue du catamaran cherchant des cétacés'
+- src: /images/actividades/lanzarote/prov-wewhale-gran-canaria/delfin-comun-nadando-junto-al-catamaran.webp
+  alt: 'Dauphin commun nageant près du catamaran'
+- src: /images/actividades/lanzarote/prov-wewhale-gran-canaria/tripulacion-y-pasajeros-a-bordo-al-atardecer.webp
+  alt: 'Équipage et passagers à bord au coucher du soleil'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

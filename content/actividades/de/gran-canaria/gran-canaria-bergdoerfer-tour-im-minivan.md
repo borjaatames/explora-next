@@ -108,6 +108,8 @@ galeria:
   alt: 'Bananenplantagen an der Nordküste von Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
   alt: 'Kanarische Palmen in der Schlucht von Fataga'
+- src: /images/actividades/gran-canaria/prov-discovery-jeep-safari/minibus-de-la-excursion-parado-en-una-carretera-de-mont.webp
+  alt: 'Ausflugs-Minibus auf einer Bergstraße'
 ---
 
 ## Was du siehst

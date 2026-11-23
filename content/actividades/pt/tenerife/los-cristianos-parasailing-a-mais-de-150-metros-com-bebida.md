@@ -76,6 +76,16 @@ galeria:
   alt: Paraquedas no céu azul sobre o mar, visto da costa
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: Praia de Los Cristianos
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/parasailing-sobre-la-playa-de-los-cristianos.webp
+  alt: 'Parasailing sobre a praia de Los Cristianos'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/lancha-de-parasailing-navegando-frente-a-la-costa-sur.webp
+  alt: 'Lancha de parasailing ao largo da costa sul'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/dos-personas-volando-en-parasailing-sobre-tenerife.webp
+  alt: 'Duas pessoas a fazer parasailing sobre Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/monitor-preparando-el-arnes-antes-del-despegue.webp
+  alt: 'Monitor a ajustar o arnês antes da descolagem'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/paracaidas-de-parasailing-sobre-el-mar-azul.webp
+  alt: 'Paraquedas de parasailing sobre o mar azul'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

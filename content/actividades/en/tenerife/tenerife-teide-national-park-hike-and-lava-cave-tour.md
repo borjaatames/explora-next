@@ -70,6 +70,14 @@ galeria:
   alt: Teide from the north-east
 - src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
   alt: Canary pine forest with Mount Teide behind
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-con-el-teide-nevado-al-fondo.webp
+  alt: 'Hikers with snow-capped Teide behind'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/grupo-en-la-cima-de-una-ladera-volcanica-frente-al-teid.webp
+  alt: 'Group on a volcanic ridge facing Teide'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/sendero-entre-helechos-en-un-bosque-humedo-de-tenerife.webp
+  alt: 'Trail through ferns in a Tenerife cloud forest'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-por-un-camino-junto-a-un-canal-en-la-ladera.webp
+  alt: 'Hikers on a path beside a channel on the hillside'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

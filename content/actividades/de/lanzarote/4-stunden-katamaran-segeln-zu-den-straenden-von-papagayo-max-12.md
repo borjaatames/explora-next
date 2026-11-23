@@ -72,6 +72,18 @@ galeria:
   alt: Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Rotes Kajak an einem weißen Sandstrand
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Katamaran vor Anker vor den Papagayo-Stränden'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Segelkatamaran mit der Küste Lanzarotes im Hintergrund'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Goldene Sandbucht zwischen Vulkanfelsen'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Sonnenuntergang vom Deck des Segelboots'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'Stand-up-Paddling neben dem Katamaran'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Kind paddelt beim Stopp im Kajak'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

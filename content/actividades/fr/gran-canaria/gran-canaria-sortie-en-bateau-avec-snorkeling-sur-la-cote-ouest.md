@@ -65,6 +65,12 @@ galeria:
   alt: Puerto de Mogán, sa plage et son port
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: La plage et les hôtels de Taurito
+- src: /images/actividades/gran-canaria/prov-zeusteam/persona-haciendo-esnorquel-en-aguas-turquesa.webp
+  alt: 'Personne en snorkeling dans une eau turquoise'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-junto-a-un-pez-globo.webp
+  alt: 'Snorkeling à côté d''un poisson-globe'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-sobre-un-fondo-poco-profundo.webp
+  alt: 'Snorkeling au-dessus d''un fond peu profond'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

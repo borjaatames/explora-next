@@ -80,6 +80,18 @@ galeria:
   alt: "Barche a vela ormeggiate in un porto turistico"
 - src: "/images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp"
   alt: "Dune di Maspalomas in riva al mare"
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-paradise-cat-fondeado-junto-a-los-acantilados.webp
+  alt: 'Catamarano Paradise Cat ancorato vicino alle scogliere'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-con-tablas-de-padel-surf-en-aguas-azules.webp
+  alt: 'Catamarano con tavole da SUP in acque blu'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-navegando-en-mar-abierto.webp
+  alt: 'Catamarano in navigazione in mare aperto'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/pasajeras-relajandose-en-la-cubierta-del-catamaran.webp
+  alt: 'Passeggere che si rilassano sul ponte del catamarano'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/esnorquel-entre-peces-durante-la-parada-de-bano.webp
+  alt: 'Snorkeling tra i pesci durante la sosta per il bagno'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/puesta-de-sol-desde-la-popa-del-barco.webp
+  alt: 'Tramonto dalla poppa della barca'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

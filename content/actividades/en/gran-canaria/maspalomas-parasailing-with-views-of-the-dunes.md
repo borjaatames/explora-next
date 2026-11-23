@@ -68,6 +68,14 @@ galeria:
   alt: Puerto Rico de Gran Canaria marina
 - src: /images/actividades/_shared/parasailing/parasailing-yate-turquesa.webp
   alt: Parasail behind a motor yacht on turquoise water
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/parasailing-frente-al-faro-de-maspalomas.webp
+  alt: 'Parasailing in front of the Maspalomas lighthouse'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/aterrizaje-suave-en-el-agua-tras-el-vuelo.webp
+  alt: 'Gentle splash-down after the flight'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/paracaidas-rojo-sobre-la-costa-de-meloneras.webp
+  alt: 'Red parasail above the Meloneras coast'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/vista-del-parasailing-desde-la-lancha.webp
+  alt: 'View of the parasail from the boat'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

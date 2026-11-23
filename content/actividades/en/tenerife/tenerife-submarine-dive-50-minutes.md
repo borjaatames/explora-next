@@ -96,6 +96,10 @@ galeria:
   alt: 'A pilot whale blowing at the surface'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'A pilot whale surfacing to breathe'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Yellow submarine next to a wreck on the seabed'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Inside the submarine with seats facing the portholes'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

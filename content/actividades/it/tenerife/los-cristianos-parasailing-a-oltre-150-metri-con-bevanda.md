@@ -76,6 +76,16 @@ galeria:
   alt: Parasailing nel cielo azzurro sopra il mare, visto dalla riva
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: Spiaggia di Los Cristianos, ad Arona
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/parasailing-sobre-la-playa-de-los-cristianos.webp
+  alt: 'Parasailing sopra la spiaggia di Los Cristianos'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/lancha-de-parasailing-navegando-frente-a-la-costa-sur.webp
+  alt: 'Motoscafo del parasailing al largo della costa sud'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/dos-personas-volando-en-parasailing-sobre-tenerife.webp
+  alt: 'Due persone in parasailing sopra Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/monitor-preparando-el-arnes-antes-del-despegue.webp
+  alt: 'Istruttore che sistema l''imbracatura prima del decollo'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/paracaidas-de-parasailing-sobre-el-mar-azul.webp
+  alt: 'Vela del parasailing sopra il mare blu'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

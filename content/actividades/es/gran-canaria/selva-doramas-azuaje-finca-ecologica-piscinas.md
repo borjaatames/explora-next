@@ -107,6 +107,18 @@ galeria:
   alt: 'Piscina natural entre rocas volcánicas junto al océano'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
   alt: 'Iglesia de San Juan Bautista de Arucas, cerca de la destilería'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-en-un-claro-del-barranco-de-la-selva-de-doramas.webp
+  alt: 'Grupo en un claro del barranco de la selva de Doramas'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-cruzando-un-tronco-en-el-bosque.webp
+  alt: 'Senderista cruzando un tronco en el bosque'
+- src: /images/actividades/gran-canaria/prov-climbo/sendero-entre-vegetacion-frondosa-en-doramas.webp
+  alt: 'Sendero entre vegetación frondosa en Doramas'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-pasando-entre-arboles-caidos.webp
+  alt: 'Grupo pasando entre árboles caídos'
+- src: /images/actividades/gran-canaria/prov-climbo/senderistas-subiendo-por-el-bosque-de-laurisilva.webp
+  alt: 'Senderistas subiendo por el bosque de laurisilva'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-en-un-camino-de-la-selva.webp
+  alt: 'Senderista en un camino de la selva'
 avisoReserva: 'Actividad de temporada: las próximas fechas disponibles empiezan en marzo de 2027.'
 ---
 

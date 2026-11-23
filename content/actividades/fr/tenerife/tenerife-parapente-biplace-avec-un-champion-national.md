@@ -69,6 +69,18 @@ galeria:
   alt: Pins canariens et mer de nuages au coucher du soleil sur les hauteurs de Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Les falaises de la côte sud de Tenerife
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/parapente-biplaza-sobre-la-costa-sur-de-tenerife.webp
+  alt: 'Parapente biplace au-dessus de la côte sud de Tenerife'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/piloto-y-pasajera-sonriendo-en-pleno-vuelo.webp
+  alt: 'Pilote et passagère souriant en plein vol'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vela-roja-de-parapente-sobre-costa-adeje.webp
+  alt: 'Voile de parapente rouge au-dessus de Costa Adeje'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vista-del-litoral-desde-el-parapente.webp
+  alt: 'Vue du littoral depuis le parapente'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/despegue-en-parapente-desde-la-montana.webp
+  alt: 'Décollage en parapente depuis la montagne'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/grupo-de-pasajeros-con-los-pilotos-tras-el-vuelo.webp
+  alt: 'Groupe de passagers avec les pilotes après le vol'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

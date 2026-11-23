@@ -80,6 +80,8 @@ galeria:
   alt: Puerto Rico harbour in Gran Canaria seen from above
 - src: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
   alt: Jet ski riding through waves
+- src: /images/actividades/gran-canaria/prov-ocean-motion-gc/pareja-en-moto-de-agua-frente-a-la-costa-de-mogan.webp
+  alt: 'Couple on a jet ski off the Mogán coast'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

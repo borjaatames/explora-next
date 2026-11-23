@@ -74,6 +74,16 @@ galeria:
   alt: No interior do barranco de Masca
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Praticante de canyoning a descer entre rochas molhadas
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Praticantes de canyoning junto a uma cascata num desfiladeiro vulcânico'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Descida em slide sobre uma poça do desfiladeiro'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Grupo a flutuar numa poça com fatos e capacetes'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Praticante de canyoning a atravessar uma poça sob uma gruta'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Praticantes de canyoning a nadar entre paredes de rocha'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

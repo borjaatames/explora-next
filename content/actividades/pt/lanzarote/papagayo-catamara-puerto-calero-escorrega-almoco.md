@@ -103,6 +103,18 @@ galeria:
   alt: 'Falésias e praia nas Playas de Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
   alt: 'Enseada de águas turquesa em Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-fondeado-en-las-aguas-turquesa-de-papagayo.webp
+  alt: 'Catamarã fundeado nas águas turquesa de Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/familia-en-kayak-y-padel-surf-junto-a-los-acantilados.webp
+  alt: 'Família de caiaque e paddle junto às falésias'
+- src: /images/actividades/lanzarote/prov-catlanza/pasajeros-banandose-junto-al-catamaran.webp
+  alt: 'Passageiros a nadar junto ao catamarã'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-a-vela-frente-a-la-costa-sur-de-lanzarote.webp
+  alt: 'Catamarã à vela ao largo da costa sul de Lanzarote'
+- src: /images/actividades/lanzarote/prov-catlanza/amigos-sentados-en-el-borde-de-la-plataforma-de-bano.webp
+  alt: 'Amigos sentados na borda da plataforma de banho'
+- src: /images/actividades/lanzarote/prov-catlanza/nino-con-gafas-de-buceo-en-la-escalera-del-barco.webp
+  alt: 'Criança com máscara de mergulho na escada do barco'
 avisoReserva: "A tripulação ou o guia fala inglês, francês, alemão e espanhol: não há explicações em português."
 ---
 

@@ -72,6 +72,10 @@ galeria:
   alt: Pale di fico d'India con frutti maturi su un pendio
 - src: /images/actividades/tenerife/tuno/tunera-flor-costa.webp
   alt: Fico d'India in fiore sulla costa di Tenerife
+- src: /images/actividades/tenerife/prov-tuno-canarias/tuneras-con-higos-picos-maduros-en-la-finca.webp
+  alt: 'Fichi d''India con frutti maturi nella fattoria'
+- src: /images/actividades/tenerife/prov-tuno-canarias/higos-picos-rojos-en-primer-plano.webp
+  alt: 'Primo piano di fichi d''India rossi'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

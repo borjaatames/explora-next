@@ -73,6 +73,14 @@ galeria:
   alt: Costa rocciosa vulcanica a Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fondale roccioso sotto un'acqua cristallina, ideale per lo snorkeling
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-junto-a-una-tortuga-marina.webp
+  alt: 'Nuotatrice accanto a una tartaruga marina'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/buceadora-en-apnea-con-una-tortuga-bajo-el-agua.webp
+  alt: 'Apneista con una tartaruga sott''acqua'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-entre-rocas-en-aguas-claras.webp
+  alt: 'Nuotatrice tra le rocce in acque limpide'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/lancha-neumatica-frente-a-la-costa-de-tenerife.webp
+  alt: 'Gommone al largo della costa di Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

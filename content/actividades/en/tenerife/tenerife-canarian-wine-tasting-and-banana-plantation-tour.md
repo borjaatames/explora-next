@@ -74,6 +74,8 @@ galeria:
   alt: Banana plantations around a village in Tenerife
 - src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
   alt: Ripe red grapes among vine leaves
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Atlántico Excursiones coach'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

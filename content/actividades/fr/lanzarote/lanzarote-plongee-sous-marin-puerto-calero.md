@@ -104,6 +104,10 @@ galeria:
   alt: 'La plage de Playa Blanca, dans le sud de Lanzarote'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
   alt: 'Une crique de Papagayo aux eaux turquoise et aux roches volcaniques'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Sous-marin jaune près d''une épave sur le fond marin'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Intérieur du sous-marin avec sièges face aux hublots'
 ratingProveedor: 4.6
 numeroOpiniones: 1587
 atraccionesRelacionadas:

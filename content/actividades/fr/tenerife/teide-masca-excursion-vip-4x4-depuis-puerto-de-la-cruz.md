@@ -80,6 +80,10 @@ galeria:
   alt: "Garachico et son rocher"
 - src: "/images/actividades/tenerife/masca/ftc-barranco-masca-luz.webp"
   alt: "Le ravin de Masca à contre-jour, vu d'en haut"
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: '4x4 de Tamarán sur un belvédère au-dessus de la mer'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Voyageuse à la fenêtre du jeep safari'
 publicada: true
 destacada: false
 fecha: '2026-11-19'

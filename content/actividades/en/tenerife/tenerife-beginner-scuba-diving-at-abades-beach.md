@@ -72,6 +72,18 @@ galeria:
   alt: Diver swimming over a sandy seabed
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Teide above the sea of clouds
+- src: /images/actividades/tenerife/prov-zeus-dive-center/buceador-sobre-el-fondo-rocoso-de-abades.webp
+  alt: 'Diver over the rocky seabed at Abades'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/selfi-de-buceadores-bajo-el-agua.webp
+  alt: 'Divers taking an underwater selfie'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/estrella-de-mar-roja-sobre-una-roca.webp
+  alt: 'Red starfish on a rock'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/chucho-sobre-el-fondo-arenoso.webp
+  alt: 'Stingray on the sandy bottom'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/morena-asomando-entre-las-algas.webp
+  alt: 'Moray eel peeking out from the seaweed'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/instructor-con-un-alumno-en-el-bautismo-de-buceo.webp
+  alt: 'Instructor with a student on the try dive'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

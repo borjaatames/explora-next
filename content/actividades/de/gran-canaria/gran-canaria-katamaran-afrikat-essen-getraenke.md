@@ -91,8 +91,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
-imagenAlt: 'Boote vor den Klippen von Gran Canaria'
+imagen: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-afrikat-navegando-con-pasajeros-en-cubierta.webp
+imagenAlt: 'Katamaran Afrikat mit Passagieren an Deck'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
   alt: 'Der Jachthafen von Puerto Rico de Gran Canaria'
@@ -108,6 +108,18 @@ galeria:
   alt: 'Bucht und Strand von Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
   alt: 'Der Hafen von Puerto Rico auf Gran Canaria von oben'
+- src: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+  alt: 'Boote vor den Klippen von Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-fondeado-junto-a-los-acantilados-del-sur-de-g.webp
+  alt: 'Katamaran vor Anker an den Klippen im Süden Gran Canarias'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/pasajeros-banandose-desde-la-popa-del-catamaran.webp
+  alt: 'Passagiere baden vom Heck des Katamarans aus'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/saltos-al-agua-en-una-cala-durante-el-crucero.webp
+  alt: 'Sprünge ins Wasser in einer Bucht während der Fahrt'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/flotador-gigante-junto-a-la-costa-rocosa.webp
+  alt: 'Riesiger Schwimmring an der Felsküste'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-saliendo-de-puerto-rico-de-gran-canaria.webp
+  alt: 'Katamaran verlässt Puerto Rico auf Gran Canaria'
 avisoReserva: 'An Bord gibt es keine Erklärungen auf Deutsch: Die Crew spricht vor allem Spanisch und Englisch.'
 ---
 

@@ -56,8 +56,8 @@ keywords:
 - buggy tour puerto de la cruz
 - buggy norden teneriffa
 - buggy orotava tal
-imagen: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
-imagenAlt: Buggy in einer Vulkanlandschaft
+imagen: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-por-una-pista-del-pinar-en-el-norte-de-tenerife.webp
+imagenAlt: 'Buggy auf einer Piste im Kiefernwald im Norden Teneriffas'
 galeria:
 - src: /images/actividades/tenerife/platano/platano-pixabay-219268.webp
   alt: Bananenfelder am Meer im Norden Teneriffas
@@ -73,6 +73,18 @@ galeria:
   alt: Buggy auf einer Vulkanstraße
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Vulkanlandschaft im Teide-Nationalpark
+- src: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
+  alt: 'Buggy in einer Vulkanlandschaft'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/dos-buggies-en-ruta-por-el-bosque-de-pinos.webp
+  alt: 'Zwei Buggys unterwegs durch den Kiefernwald'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/pareja-en-buggy-entre-pinos-canarios.webp
+  alt: 'Paar im Buggy zwischen Kanarischen Kiefern'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-parado-en-un-pueblo-del-norte-de-tenerife.webp
+  alt: 'Buggy hält in einem Dorf im Norden Teneriffas'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/parada-en-una-platanera-durante-la-ruta-en-buggy.webp
+  alt: 'Halt auf einer Bananenplantage während der Buggy-Tour'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/grupo-junto-a-las-plataneras-con-el-mar-al-fondo.webp
+  alt: 'Gruppe an den Bananenplantagen mit dem Meer im Hintergrund'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

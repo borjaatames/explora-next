@@ -72,6 +72,12 @@ galeria:
   alt: View of northern Tenerife, with the Orotava Valley and the Atlantic
 - src: /images/actividades/tenerife/garachico/garachico-pexels-10862464.webp
   alt: Garachico and its rock off the coast
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Atlántico Excursiones coach'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/basilica-de-candelaria-junto-al-mar.webp
+  alt: 'Candelaria Basilica by the sea'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/montanas-del-valle-de-masca.webp
+  alt: 'Mountains of the Masca valley'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

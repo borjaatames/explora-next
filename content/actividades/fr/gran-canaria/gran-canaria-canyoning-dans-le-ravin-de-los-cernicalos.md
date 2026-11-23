@@ -73,6 +73,18 @@ galeria:
   alt: Fleur d'amandier avec le Roque Bentayga en arrière-plan
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Versants du ravin de Guayadeque, près d'Agüimes
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Rappel près d''une cascade à Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Canyoneur souriant descendant en rappel'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Descente par un toboggan naturel de roche'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Canyoneur prêt pour le rappel'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Passage d''une vasque entre les rochers du ravin'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Canyoneurs face à une cascade'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -96,6 +96,8 @@ galeria:
   alt: 'La costa di Los Cristianos con l''Atlantico alle spalle, base dei catamarani a Tenerife'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: 'La Montaña de Guaza accanto a Los Cristianos'
+- src: /images/actividades/tenerife/prov-shaka-surf-tenerife/alumnos-de-surf-entrando-al-agua-con-sus-tablas.webp
+  alt: 'Allievi di surf che entrano in acqua con le tavole'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

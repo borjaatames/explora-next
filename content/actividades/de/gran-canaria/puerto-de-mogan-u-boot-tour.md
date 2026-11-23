@@ -102,6 +102,10 @@ galeria:
   alt: Das gelbe U-Boot im Hafen von Puerto de Mogán
 - src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
   alt: Nahaufnahme des gelben U-Boots von Mogán
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/submarino-amarillo-atracado-en-el-puerto-de-mogan.webp
+  alt: 'Gelbes U-Boot im Hafen von Mogán'
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/interior-del-submarino-con-grandes-ventanas.webp
+  alt: 'Im U-Boot mit großen Fenstern'
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

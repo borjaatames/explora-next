@@ -51,8 +51,8 @@ keywords:
 - jeep teide atardecer
 - jeep wrangler tenerife
 - conducir jeep teide
-imagen: /images/actividades/tenerife/jeep/jeep-amarillo-pista-montana.webp
-imagenAlt: Jeep Wrangler amarillo en una pista de grava en la montaña
+imagen: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-wrangler-aparcado-junto-a-la-carretera-del-teide.webp
+imagenAlt: 'Jeep Wrangler aparcado junto a la carretera del Teide'
 galeria:
 - src: /images/actividades/_shared/jeep/todoterreno-pista-desde-ventana.webp
   alt: Vista de una pista de tierra desde un todoterreno
@@ -68,6 +68,14 @@ galeria:
   alt: Paisaje volcánico de Las Cañadas del Teide, donde está el Observatorio
 - src: /images/actividades/tenerife/teleferico/canadas-desde-arriba.webp
   alt: La caldera de Las Cañadas desde las alturas
+- src: /images/actividades/tenerife/jeep/jeep-amarillo-pista-montana.webp
+  alt: 'Jeep Wrangler amarillo en una pista de grava en la montaña'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-rojo-por-la-carretera-entre-coladas-de-lava.webp
+  alt: 'Jeep rojo por la carretera entre coladas de lava'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/frontal-del-jeep-wrangler-en-el-parque-nacional-del-tei.webp
+  alt: 'Frontal del Jeep Wrangler en el Parque Nacional del Teide'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-en-un-mirador-del-teide-con-pinos-al-fondo.webp
+  alt: 'Jeep en un mirador del Teide con pinos al fondo'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

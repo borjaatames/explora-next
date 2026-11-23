@@ -88,8 +88,8 @@ keywords:
 - gran canaria jetski
 - puerto rico jetski tour
 - puerto rico gran canaria aktivitäten
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: Ein Jetski auf den Wellen
+imagen: /images/actividades/gran-canaria/prov-esnautica-water-sport/moto-de-agua-navegando-frente-a-puerto-rico-de-gran-can.webp
+imagenAlt: 'Jetski vor Puerto Rico auf Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: 'Der Jachthafen von Puerto Rico de Gran Canaria, Startpunkt der Tour'
@@ -105,6 +105,8 @@ galeria:
   alt: 'Eine Gruppe Grindwale im Atlantik vor den Kanaren'
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
   alt: 'Ein Kurzflossen-Grindwal in kanarischen Gewässern'
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: 'Ein Jetski auf den Wellen'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

@@ -103,6 +103,18 @@ galeria:
   alt: 'Paredes de los Acantilados de Los Gigantes'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
   alt: 'Acantilados de Los Gigantes sobre el mar'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-de-white-tenerife-navegando-a-vela.webp
+  alt: 'Catamarán de White Tenerife navegando a vela'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-frente-a-la-costa-de-costa-adeje.webp
+  alt: 'Catamarán frente a la costa de Costa Adeje'
+- src: /images/actividades/tenerife/prov-white-tenerife/delfines-nadando-junto-al-barco.webp
+  alt: 'Delfines nadando junto al barco'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-en-la-superficie-del-mar.webp
+  alt: 'Calderón en la superficie del mar'
+- src: /images/actividades/tenerife/prov-white-tenerife/barco-fondeado-en-aguas-turquesa-visto-desde-el-aire.webp
+  alt: 'Barco fondeado en aguas turquesa visto desde el aire'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-con-su-cria.webp
+  alt: 'Calderón con su cría'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

@@ -72,6 +72,8 @@ galeria:
   alt: Peces sobre el fondo arenoso en aguas de Gran Canaria
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Puerto Rico de Gran Canaria al atardecer
+- src: /images/actividades/gran-canaria/prov-blue-water-diving/grupo-de-bautismo-de-buceo-con-el-instructor-en-puerto-.webp
+  alt: 'Grupo de bautismo de buceo con el instructor en Puerto Rico'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

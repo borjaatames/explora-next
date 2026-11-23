@@ -68,6 +68,8 @@ galeria:
   alt: The walls of the Fataga ravine
 - src: /images/actividades/_shared/buggy/buggies-lejos-dunas-atardecer.webp
   alt: Buggies in the distance among dunes at dusk
+- src: /images/actividades/gran-canaria/prov-esnautica-water-sport/buggies-levantando-polvo-en-una-pista-de-gran-canaria.webp
+  alt: 'Buggies kicking up dust on a Gran Canaria track'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

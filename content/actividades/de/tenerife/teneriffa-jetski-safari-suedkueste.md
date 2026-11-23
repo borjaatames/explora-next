@@ -101,6 +101,16 @@ galeria:
   alt: 'Person schwimmt mit Brille unter Wasser (Symbolbild)'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: 'Felsige Vulkanküste in Costa Adeje'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Jetski mit Gischt an der Küste Teneriffas'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Paar auf einem Jetski an den Klippen'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Jetski vor einer vulkanischen Meereshöhle'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Jetski-Fahrer neben einer Meereshöhle'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Zwei Personen genießen eine Jetski-Fahrt'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

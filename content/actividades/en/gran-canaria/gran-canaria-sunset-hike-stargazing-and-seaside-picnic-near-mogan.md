@@ -67,6 +67,14 @@ galeria:
   alt: Last light on Gran Canaria's summits
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: The cliff coast at Taurito, near Mogán
+- src: /images/actividades/gran-canaria/prov-rocknatour/atardecer-sobre-el-mar-de-nubes-en-la-cumbre-de-gran-ca.webp
+  alt: 'Sunset over the sea of clouds on Gran Canaria''s summit'
+- src: /images/actividades/gran-canaria/prov-rocknatour/senderistas-contemplando-el-atardecer-entre-rocas.webp
+  alt: 'Hikers watching the sunset among the rocks'
+- src: /images/actividades/gran-canaria/prov-rocknatour/siluetas-bajo-el-cielo-estrellado.webp
+  alt: 'Silhouettes under the starry sky'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-en-silueta-al-anochecer-entre-pinos.webp
+  alt: 'Group silhouetted at dusk among the pines'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

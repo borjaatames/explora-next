@@ -74,6 +74,18 @@ galeria:
   alt: Quad fermi su un pendio vulcanico di Tenerife
 - src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
   alt: Il cratere del Teide e Las Cañadas, Tenerife
+- src: /images/actividades/tenerife/prov-fun-teide-quad/grupo-en-quad-por-la-carretera-de-las-canadas.webp
+  alt: 'Gruppo in quad sulla strada di Las Cañadas'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/fila-de-quads-parados-en-la-ruta-entre-pinos.webp
+  alt: 'Fila di quad fermi sul percorso tra i pini'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/participante-junto-a-su-quad-al-atardecer.webp
+  alt: 'Partecipante accanto al suo quad al tramonto'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/quads-preparados-antes-de-salir-hacia-el-teide.webp
+  alt: 'Quad pronti prima di partire verso il Teide'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/ruta-en-quad-por-la-carretera-del-pinar.webp
+  alt: 'Tour in quad lungo la strada della pineta'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/pareja-en-quad-durante-la-puesta-de-sol.webp
+  alt: 'Coppia in quad durante il tramonto'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

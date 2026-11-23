@@ -104,6 +104,10 @@ galeria:
   alt: 'Playa de Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: 'Bahía de Corralejo'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+  alt: 'Todoterrenos en la pista hacia la playa de Cofete'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Playa de Cofete vista desde el mirador de Jandía'
 ---
 
 ## Qué vas a ver

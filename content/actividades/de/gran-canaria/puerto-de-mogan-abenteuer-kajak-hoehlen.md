@@ -109,6 +109,18 @@ galeria:
   alt: 'Fische über sandigem Grund vor Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: 'Felsküste im Südwesten von Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-bajo-un-arco-de-roca-en-la-costa-de-mogan.webp
+  alt: 'Kajaks unter einem Felsbogen an der Küste von Mogán'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kajak am Eingang einer Meereshöhle'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-de-kayaks-visto-desde-lo-alto-del-acantilado.webp
+  alt: 'Kajakgruppe von der Klippe aus gesehen'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayakistas-junto-a-un-rompiente-en-la-costa.webp
+  alt: 'Kajakfahrer neben brechenden Wellen an der Küste'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-entrando-en-una-cueva-volcanica.webp
+  alt: 'Kajak fährt in eine Vulkanhöhle'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-saliendo-del-puerto-de-mogan.webp
+  alt: 'Kajaks starten im Hafen von Mogán'
 avisoReserva: 'Die Guides sprechen Spanisch und Englisch, und du musst eine der beiden Sprachen verstehen: Erklärungen auf Deutsch gibt es nicht.'
 ---
 

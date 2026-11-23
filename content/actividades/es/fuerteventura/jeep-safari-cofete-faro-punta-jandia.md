@@ -85,8 +85,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
-imagenAlt: "Todoterreno parado en una pista de tierra"
+imagen: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+imagenAlt: 'Todoterrenos en la pista hacia la playa de Cofete'
 galeria:
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
   alt: "Pista hacia el faro de Punta Jandía"
@@ -102,6 +102,10 @@ galeria:
   alt: "Oleaje del Atlántico en la playa de Cofete"
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
   alt: "Vista de Cofete desde el mirador"
+- src: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
+  alt: 'Todoterreno parado en una pista de tierra'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Playa de Cofete vista desde el mirador de Jandía'
 ---
 
 ## Qué vas a ver

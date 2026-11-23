@@ -71,6 +71,18 @@ galeria:
   alt: Sagome di surfisti con le tavole al tramonto
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Onde su una costa vulcanica rossa con spiaggia nera
+- src: /images/actividades/lanzarote/prov-school3s/instructor-acompanando-a-una-alumna-en-la-ola-en-famara.webp
+  alt: 'Istruttore che accompagna un''allieva sull''onda a Famara'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-alumnos-con-sus-tablas-en-la-playa-de-famara.webp
+  alt: 'Gruppo di allievi con le tavole sulla spiaggia di Famara'
+- src: /images/actividades/lanzarote/prov-school3s/surfistas-caminando-hacia-el-agua-con-sus-tablas.webp
+  alt: 'Surfisti che vanno in acqua con le tavole'
+- src: /images/actividades/lanzarote/prov-school3s/alumnos-entrando-al-mar-bajo-los-riscos-de-famara.webp
+  alt: 'Allievi che entrano in mare sotto le scogliere di Famara'
+- src: /images/actividades/lanzarote/prov-school3s/practica-del-despegue-en-la-arena.webp
+  alt: 'Pratica del take-off sulla sabbia'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-la-escuela-de-surf-en-la-playa.webp
+  alt: 'Gruppo della scuola di surf in spiaggia'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

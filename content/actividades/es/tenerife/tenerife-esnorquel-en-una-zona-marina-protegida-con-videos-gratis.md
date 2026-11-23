@@ -66,8 +66,8 @@ keywords:
 - esnórquel tenerife
 - snorkel abades
 - esnórquel tortugas tenerife
-imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-imagenAlt: Persona haciendo esnórquel vista desde arriba
+imagen: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/grupo-haciendo-esnorquel-entre-peces-en-la-zona-protegi.webp
+imagenAlt: 'Grupo haciendo esnórquel entre peces en la zona protegida'
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
   alt: Fondo rocoso visto a través del agua clara
@@ -83,6 +83,14 @@ galeria:
   alt: Costa rocosa volcánica en Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fondo rocoso bajo aguas cristalinas, ideal para el esnórquel
+- src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+  alt: 'Persona haciendo esnórquel vista desde arriba'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/persona-haciendo-esnorquel-sobre-el-fondo-con-algas.webp
+  alt: 'Persona haciendo esnórquel sobre el fondo con algas'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/saludo-bajo-el-agua-durante-la-excursion-de-esnorquel.webp
+  alt: 'Saludo bajo el agua durante la excursión de esnórquel'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/participantes-con-neopreno-y-mascara-en-la-orilla.webp
+  alt: 'Participantes con neopreno y máscara en la orilla'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

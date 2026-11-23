@@ -69,6 +69,8 @@ galeria:
   alt: Tours de Santa Cruz devant les montagnes d'Anaga
 - src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
   alt: Sentier de terre à travers la forêt de lauriers à Tenerife
+- src: /images/actividades/tenerife/prov-canaventura-services-canarias/sendero-entre-la-laurisilva-con-niebla-en-anaga.webp
+  alt: 'Sentier dans la laurisylve brumeuse d''Anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

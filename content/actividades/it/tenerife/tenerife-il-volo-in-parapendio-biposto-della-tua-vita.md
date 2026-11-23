@@ -71,6 +71,18 @@ galeria:
   alt: Spiaggia di Los Cristianos, ad Arona
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: Costa rocciosa vulcanica a Costa Adeje
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-biplaza-sobre-el-mar-de-nubes-con-el-teide-al.webp
+  alt: 'Parapendio biposto sopra il mare di nuvole con il Teide sullo sfondo'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-sobre-nubes-y-montanas-verdes.webp
+  alt: 'Volo in parapendio sopra nuvole e montagne verdi'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-sobrevolando-la-costa-de-adeje.webp
+  alt: 'Parapendio che sorvola la costa di Adeje'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vela-de-parapente-sobre-una-playa-de-arena-negra.webp
+  alt: 'Vela di parapendio sopra una spiaggia di sabbia nera'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-al-atardecer-sobre-el-sur-de-tenerif.webp
+  alt: 'Parapendio al tramonto sul sud di Tenerife'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-rojo-sobre-las-montanas-de-adeje.webp
+  alt: 'Parapendio rosso sopra le montagne di Adeje'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

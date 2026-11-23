@@ -70,6 +70,12 @@ galeria:
   alt: Sendero de tierra entre árboles de laurisilva en Tenerife
 - src: /images/actividades/tenerife/anaga/anaga-05.webp
   alt: Bosque de laurisilva en el Parque Rural de Anaga
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/vinedo-de-la-bodega-el-lomo-en-tegueste.webp
+  alt: 'Viñedo de la Bodega El Lomo en Tegueste'
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/visitantes-catando-vino-blanco-entre-las-vinas.webp
+  alt: 'Visitantes catando vino blanco entre las viñas'
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/racimo-de-uva-tinta-de-la-bodega.webp
+  alt: 'Racimo de uva tinta de la bodega'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

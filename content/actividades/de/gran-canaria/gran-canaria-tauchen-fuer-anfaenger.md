@@ -50,8 +50,8 @@ keywords:
 - schnuppertauchen gran canaria
 - tauchen anfänger gran canaria
 - tauchen puerto rico gran canaria
-imagen: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-imagenAlt: Fische über sandigem Grund vor Gran Canaria
+imagen: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-principiantes-con-su-instructor-bajo-el-agua.webp
+imagenAlt: 'Tauchanfänger mit ihrem Lehrer unter Wasser'
 galeria:
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln
@@ -67,6 +67,18 @@ galeria:
   alt: Klippen und Häuser an der Küste von Mogán, vom Meer aus gesehen
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
   alt: Blaues Meer vor einer felsigen Küste, auf Wasserhöhe
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: 'Fische über sandigem Grund vor Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-una-sepia-sobre-la-roca.webp
+  alt: 'Taucher neben einem Tintenfisch auf dem Felsen'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-entrando-al-agua-desde-la-playa.webp
+  alt: 'Taucher gehen vom Strand ins Meer'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/pareja-de-buceadores-en-su-primera-inmersion.webp
+  alt: 'Tauchpaar bei seinem ersten Tauchgang'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-un-banco-de-peces.webp
+  alt: 'Taucher neben einem Fischschwarm'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/alumnos-en-el-agua-poco-profunda-antes-de-bucear.webp
+  alt: 'Schüler im flachen Wasser vor dem Tauchgang'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

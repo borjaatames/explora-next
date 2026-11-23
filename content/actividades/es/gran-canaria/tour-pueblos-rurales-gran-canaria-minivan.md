@@ -108,6 +108,8 @@ galeria:
   alt: 'Plataneras en la costa norte de Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
   alt: 'Palmeras canarias en el barranco de Fataga'
+- src: /images/actividades/gran-canaria/prov-discovery-jeep-safari/minibus-de-la-excursion-parado-en-una-carretera-de-mont.webp
+  alt: 'Minibús de la excursión parado en una carretera de montaña'
 ---
 
 ## Qué vas a ver

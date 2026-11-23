@@ -109,6 +109,12 @@ galeria:
   alt: 'Katamarane vor Anker in türkisfarbenem Wasser nahe der Küste, aus der Luft gesehen'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Segelboote im Jachthafen'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Passagiere sonnen sich am Bug des Katamarans'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Entspannen an Deck des Katamarans auf offenem Meer'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava und Handtücher an Bord bereit'
 ---
 
 ## Was du siehst

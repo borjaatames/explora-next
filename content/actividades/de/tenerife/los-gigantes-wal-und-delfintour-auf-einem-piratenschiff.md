@@ -61,8 +61,8 @@ keywords:
 - los gigantes bootstour
 - piratenschiff teneriffa
 - delfine los gigantes
-imagen: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-imagenAlt: Klippen von Los Gigantes vom Meer aus
+imagen: /images/actividades/tenerife/prov-flipper-uno/barco-pirata-flipper-uno-navegando-a-vela.webp
+imagenAlt: 'Piratenschiff Flipper Uno unter Segeln'
 galeria:
 - src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
   alt: Delfin schwimmt an der Oberfläche
@@ -78,6 +78,14 @@ galeria:
   alt: Los Gigantes bei Sonnenuntergang
 - src: /images/actividades/tenerife/masca/masca-caserio.webp
   alt: Der Weiler Masca zwischen den Bergen
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: 'Klippen von Los Gigantes vom Meer aus'
+- src: /images/actividades/tenerife/prov-flipper-uno/calderones-nadando-junto-al-velero-en-los-gigantes.webp
+  alt: 'Grindwale schwimmen neben dem Segelschiff bei Los Gigantes'
+- src: /images/actividades/tenerife/prov-flipper-uno/parada-para-banarse-junto-a-los-acantilados.webp
+  alt: 'Badestopp an den Klippen'
+- src: /images/actividades/tenerife/prov-flipper-uno/delfin-saltando-en-mar-abierto.webp
+  alt: 'Delfin springt im offenen Meer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

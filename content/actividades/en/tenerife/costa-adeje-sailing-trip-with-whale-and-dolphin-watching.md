@@ -54,8 +54,8 @@ keywords:
 - sailing tenerife whales
 - sailing boat costa adeje
 - whale watching sailing tenerife
-imagen: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
-imagenAlt: Schooner with guests sailing below arid mountains
+imagen: /images/actividades/tenerife/prov-blue-jack-sail/velero-de-blue-jack-sail-navegando.webp
+imagenAlt: 'Blue Jack Sail yacht under sail'
 galeria:
 - src: /images/actividades/_shared/velero/velero-spi-mar-azul.webp
   alt: Sailing boat with a spinnaker on deep blue sea
@@ -71,6 +71,18 @@ galeria:
   alt: White sailing yacht on the open sea
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Cliffs along the south coast of Tenerife
+- src: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
+  alt: 'Schooner with guests sailing below arid mountains'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajera-en-la-proa-del-velero-junto-a-delfines.webp
+  alt: 'Passenger at the bow with dolphins alongside'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/grupo-de-delfines-bajo-el-agua.webp
+  alt: 'Pod of dolphins underwater'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/calderon-respirando-en-la-superficie.webp
+  alt: 'Pilot whale breathing at the surface'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajeros-a-bordo-del-velero.webp
+  alt: 'Passengers on board the sailing yacht'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/dos-calderones-nadando-juntos.webp
+  alt: 'Two pilot whales swimming together'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

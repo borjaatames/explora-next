@@ -56,8 +56,8 @@ keywords:
 - voilier los gigantes baleines
 - picarus sailing
 - voilier observation baleines tenerife
-imagen: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-imagenAlt: Voiliers amarrés dans un port de plaisance
+imagen: /images/actividades/tenerife/prov-picarus-sailing-club/velero-de-picarus-con-calderones-al-lado.webp
+imagenAlt: 'Voilier de Picarus avec des globicéphales à côté'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
   alt: Voilier au pied des falaises de Los Gigantes
@@ -73,6 +73,18 @@ galeria:
   alt: Personne nageant sous l'eau avec un masque (image d'illustration)
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
   alt: Los Gigantes et ses falaises vus depuis la côte
+- src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
+  alt: 'Voiliers amarrés dans un port de plaisance'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/ballena-junto-al-velero-durante-la-salida.webp
+  alt: 'Baleine près du voilier pendant la sortie'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/grupo-de-calderones-en-la-superficie.webp
+  alt: 'Groupe de globicéphales en surface'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/cola-de-ballena-al-sumergirse.webp
+  alt: 'Queue de baleine qui plonge'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/pasajeros-a-bordo-del-velero.webp
+  alt: 'Passagers à bord du voilier'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/velero-fondeado-bajo-los-acantilados-de-los-gigantes.webp
+  alt: 'Voilier au mouillage sous les falaises de Los Gigantes'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

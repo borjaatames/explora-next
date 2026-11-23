@@ -73,6 +73,18 @@ galeria:
   alt: Fiori di mandorlo con il Roque Bentayga sullo sfondo
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Pendii del burrone di Guayadeque, vicino ad Agüimes
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Calata accanto a una cascata a Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Torrentista sorridente in discesa sulla corda'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Discesa lungo uno scivolo naturale di roccia'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Torrentista pronto per la calata'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Passaggio in una pozza tra le rocce del burrone'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Torrentisti davanti a una cascata'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

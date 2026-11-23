@@ -105,6 +105,18 @@ galeria:
   alt: 'Acantilados y playa en las Playas de Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
   alt: 'Cala de aguas turquesa en Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-fondeado-en-las-aguas-turquesa-de-papagayo.webp
+  alt: 'Catamarán fondeado en las aguas turquesa de Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/familia-en-kayak-y-padel-surf-junto-a-los-acantilados.webp
+  alt: 'Familia en kayak y pádel surf junto a los acantilados'
+- src: /images/actividades/lanzarote/prov-catlanza/pasajeros-banandose-junto-al-catamaran.webp
+  alt: 'Pasajeros bañándose junto al catamarán'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-a-vela-frente-a-la-costa-sur-de-lanzarote.webp
+  alt: 'Catamarán a vela frente a la costa sur de Lanzarote'
+- src: /images/actividades/lanzarote/prov-catlanza/amigos-sentados-en-el-borde-de-la-plataforma-de-bano.webp
+  alt: 'Amigos sentados en el borde de la plataforma de baño'
+- src: /images/actividades/lanzarote/prov-catlanza/nino-con-gafas-de-buceo-en-la-escalera-del-barco.webp
+  alt: 'Niño con gafas de buceo en la escalera del barco'
 ---
 
 ## Qué vas a ver

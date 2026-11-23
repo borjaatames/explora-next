@@ -69,6 +69,8 @@ galeria:
   alt: Towers of Santa Cruz with the Anaga mountains behind
 - src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
   alt: Dirt trail through laurel forest in Tenerife
+- src: /images/actividades/tenerife/prov-canaventura-services-canarias/sendero-entre-la-laurisilva-con-niebla-en-anaga.webp
+  alt: 'Trail through the misty laurel forest in Anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

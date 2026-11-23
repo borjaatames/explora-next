@@ -74,6 +74,16 @@ galeria:
   alt: In der Masca-Schlucht
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Canyoning-Teilnehmer steigt über nasse Felsen ab
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Canyoning-Gruppe an einem Wasserfall in einer Vulkanschlucht'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Abseilen an der Seilrutsche über einem Becken in der Schlucht'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Gruppe treibt in Neoprenanzügen und Helmen in einem Becken'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Canyoningfahrer durchquert ein Becken unter einer Höhle'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Canyoningfahrer schwimmen zwischen Felswänden'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

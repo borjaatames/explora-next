@@ -107,6 +107,12 @@ galeria:
   alt: Steinkreis an der Laguna Grande in Garajonay
 - src: /images/actividades/tenerife/gomera/papas-arrugadas-mojo.webp
   alt: Kanarische Runzelkartoffeln mit rotem und grünem Mojo
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Reisebus von Atlántico Excursiones'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/roque-de-agando-en-la-gomera.webp
+  alt: 'Roque de Agando auf La Gomera'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/viajeros-en-un-mirador-de-la-gomera.webp
+  alt: 'Reisende an einem Aussichtspunkt auf La Gomera'
 ratingProveedor: 4.3
 numeroOpiniones: 709
 publicada: true

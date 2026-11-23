@@ -73,6 +73,14 @@ galeria:
   alt: Rocky volcanic shoreline in Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Rocky seabed under crystal-clear water, ideal for snorkelling
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-junto-a-una-tortuga-marina.webp
+  alt: 'Swimmer next to a sea turtle'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/buceadora-en-apnea-con-una-tortuga-bajo-el-agua.webp
+  alt: 'Freediver with a turtle underwater'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-entre-rocas-en-aguas-claras.webp
+  alt: 'Swimmer among rocks in clear water'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/lancha-neumatica-frente-a-la-costa-de-tenerife.webp
+  alt: 'Inflatable boat off the coast of Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

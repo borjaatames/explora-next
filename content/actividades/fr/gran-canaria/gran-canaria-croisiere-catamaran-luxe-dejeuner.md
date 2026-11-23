@@ -107,6 +107,12 @@ galeria:
   alt: 'Catamarans au mouillage dans une eau turquoise près du rivage, vus du ciel'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Voiliers amarrés dans un port de plaisance'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Passagers prenant le soleil à la proue du catamaran'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Détente sur le pont du catamaran en pleine mer'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava et serviettes préparés à bord'
 ---
 
 ## Ce que vous verrez

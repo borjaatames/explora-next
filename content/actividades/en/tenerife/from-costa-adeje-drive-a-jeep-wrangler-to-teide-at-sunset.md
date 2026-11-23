@@ -51,8 +51,8 @@ keywords:
 - jeep teide sunset
 - jeep wrangler tenerife
 - drive jeep teide
-imagen: /images/actividades/tenerife/jeep/jeep-amarillo-pista-montana.webp
-imagenAlt: Yellow Jeep Wrangler on a gravel track in the mountains
+imagen: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-wrangler-aparcado-junto-a-la-carretera-del-teide.webp
+imagenAlt: 'Jeep Wrangler parked by the Teide road'
 galeria:
 - src: /images/actividades/_shared/jeep/todoterreno-pista-desde-ventana.webp
   alt: View along a dirt road from an off-road vehicle
@@ -68,6 +68,14 @@ galeria:
   alt: Teide from the floor of Las Cañadas
 - src: /images/actividades/tenerife/teleferico/canadas-desde-arriba.webp
   alt: The Las Cañadas caldera from above
+- src: /images/actividades/tenerife/jeep/jeep-amarillo-pista-montana.webp
+  alt: 'Yellow Jeep Wrangler on a gravel track in the mountains'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-rojo-por-la-carretera-entre-coladas-de-lava.webp
+  alt: 'Red jeep on the road between lava fields'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/frontal-del-jeep-wrangler-en-el-parque-nacional-del-tei.webp
+  alt: 'Front of the Jeep Wrangler in Teide National Park'
+- src: /images/actividades/tenerife/prov-soul-jeep-experience/jeep-en-un-mirador-del-teide-con-pinos-al-fondo.webp
+  alt: 'Jeep at a Teide viewpoint with pines behind'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

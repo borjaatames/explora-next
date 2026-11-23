@@ -68,6 +68,10 @@ galeria:
   alt: Puerto Rico de Gran Canaria at sunset
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
   alt: Boats off the coast of Gran Canaria
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/lancha-con-pasajeros-navegando-junto-a-la-costa.webp
+  alt: 'Motorboat with passengers cruising along the coast'
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/barcos-fondeados-al-atardecer-junto-a-los-acantilados.webp
+  alt: 'Boats anchored at sunset by the cliffs'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

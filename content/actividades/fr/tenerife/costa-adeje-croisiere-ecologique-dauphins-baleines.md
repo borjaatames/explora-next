@@ -104,6 +104,18 @@ galeria:
   alt: 'Les parois rocheuses des falaises de Los Gigantes'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
   alt: 'Les falaises de Los Gigantes au-dessus de la mer'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-de-white-tenerife-navegando-a-vela.webp
+  alt: 'Catamaran de White Tenerife à la voile'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-frente-a-la-costa-de-costa-adeje.webp
+  alt: 'Catamaran au large de Costa Adeje'
+- src: /images/actividades/tenerife/prov-white-tenerife/delfines-nadando-junto-al-barco.webp
+  alt: 'Dauphins nageant à côté du bateau'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-en-la-superficie-del-mar.webp
+  alt: 'Globicéphale à la surface de la mer'
+- src: /images/actividades/tenerife/prov-white-tenerife/barco-fondeado-en-aguas-turquesa-visto-desde-el-aire.webp
+  alt: 'Bateau au mouillage dans une eau turquoise vu du ciel'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-con-su-cria.webp
+  alt: 'Globicéphale avec son petit'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

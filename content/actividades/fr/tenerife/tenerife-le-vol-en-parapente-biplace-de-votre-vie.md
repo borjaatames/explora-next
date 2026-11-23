@@ -71,6 +71,18 @@ galeria:
   alt: La plage de Los Cristianos, à Arona
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: Côte volcanique rocheuse à Costa Adeje
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-biplaza-sobre-el-mar-de-nubes-con-el-teide-al.webp
+  alt: 'Parapente biplace au-dessus de la mer de nuages avec le Teide en fond'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-sobre-nubes-y-montanas-verdes.webp
+  alt: 'Vol en parapente au-dessus des nuages et des montagnes vertes'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-sobrevolando-la-costa-de-adeje.webp
+  alt: 'Parapente survolant la côte d''Adeje'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vela-de-parapente-sobre-una-playa-de-arena-negra.webp
+  alt: 'Voile de parapente au-dessus d''une plage de sable noir'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-al-atardecer-sobre-el-sur-de-tenerif.webp
+  alt: 'Parapente au coucher du soleil au-dessus du sud de Tenerife'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-rojo-sobre-las-montanas-de-adeje.webp
+  alt: 'Parapente rouge au-dessus des montagnes d''Adeje'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

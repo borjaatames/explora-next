@@ -72,6 +72,18 @@ galeria:
   alt: Volcán Pico Viejo, en el Parque Nacional del Teide
 - src: /images/actividades/_shared/buggy/buggies-lejos-dunas-atardecer.webp
   alt: Buggies a lo lejos entre dunas al anochecer
+- src: /images/actividades/tenerife/prov-youtenerife/buggies-circulando-por-la-carretera-del-parque-nacional.webp
+  alt: 'Buggies circulando por la carretera del Parque Nacional del Teide'
+- src: /images/actividades/tenerife/prov-youtenerife/dos-buggies-aparcados-frente-al-teide.webp
+  alt: 'Dos buggies aparcados frente al Teide'
+- src: /images/actividades/tenerife/prov-youtenerife/grupo-celebrando-junto-a-los-buggies-en-el-teide.webp
+  alt: 'Grupo celebrando junto a los buggies en el Teide'
+- src: /images/actividades/tenerife/prov-youtenerife/buggy-subiendo-por-la-carretera-entre-pinos.webp
+  alt: 'Buggy subiendo por la carretera entre pinos'
+- src: /images/actividades/tenerife/prov-youtenerife/participantes-posando-en-los-buggies-en-las-canadas.webp
+  alt: 'Participantes posando en los buggies en Las Cañadas'
+- src: /images/actividades/tenerife/prov-youtenerife/buggy-de-cuatro-plazas-en-un-mirador-del-teide.webp
+  alt: 'Buggy de cuatro plazas en un mirador del Teide'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

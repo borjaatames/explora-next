@@ -74,6 +74,18 @@ galeria:
   alt: Pôr do sol com as ilhas vizinhas no horizonte
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: Costa de Palm-Mar, destino do percurso
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumna-de-surf-de-pie-en-la-tabla-en-playa-de-las-ameri.webp
+  alt: 'Aluna de surf de pé na prancha em Playa de las Américas'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-principiante-cogiendo-la-espuma.webp
+  alt: 'Surfista principiante a apanhar a espuma'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-deslizandose-en-una-ola-verde.webp
+  alt: 'Surfista a deslizar numa onda verde'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnos-e-instructor-en-la-orilla-durante-la-clase.webp
+  alt: 'Alunos e instrutor à beira-mar durante a aula'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/practica-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Prática na areia antes de entrar na água'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnas-saliendo-del-agua-con-las-tablas.webp
+  alt: 'Alunas a sair da água com as pranchas'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

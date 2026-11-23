@@ -108,6 +108,18 @@ galeria:
   alt: 'Fish over the sandy seabed in Gran Canaria waters'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: 'Rocky coastline in south-west Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-bajo-un-arco-de-roca-en-la-costa-de-mogan.webp
+  alt: 'Kayaks under a rock arch on the Mogán coast'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayak at the entrance of a sea cave'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-de-kayaks-visto-desde-lo-alto-del-acantilado.webp
+  alt: 'Group of kayaks seen from the clifftop'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayakistas-junto-a-un-rompiente-en-la-costa.webp
+  alt: 'Kayakers next to crashing waves on the coast'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-entrando-en-una-cueva-volcanica.webp
+  alt: 'Kayak entering a volcanic cave'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-saliendo-del-puerto-de-mogan.webp
+  alt: 'Kayaks setting off from Mogán harbour'
 ---
 
 ## What you will see

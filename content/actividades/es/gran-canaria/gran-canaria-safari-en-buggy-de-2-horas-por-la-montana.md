@@ -68,6 +68,8 @@ galeria:
   alt: Paredes del barranco de Fataga
 - src: /images/actividades/_shared/buggy/buggies-lejos-dunas-atardecer.webp
   alt: Buggies a lo lejos entre dunas al anochecer
+- src: /images/actividades/gran-canaria/prov-esnautica-water-sport/buggies-levantando-polvo-en-una-pista-de-gran-canaria.webp
+  alt: 'Buggies levantando polvo en una pista de Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

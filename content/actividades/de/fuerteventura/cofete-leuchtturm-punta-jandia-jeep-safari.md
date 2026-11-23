@@ -85,8 +85,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
-imagenAlt: "Geländewagen auf einer Schotterpiste"
+imagen: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+imagenAlt: 'Geländewagen auf der Piste zum Strand von Cofete'
 galeria:
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
   alt: "Piste zum Leuchtturm Punta Jandía"
@@ -102,6 +102,10 @@ galeria:
   alt: "Atlantikbrandung am Strand von Cofete"
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
   alt: "Blick auf Cofete vom Aussichtspunkt"
+- src: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
+  alt: 'Geländewagen auf einer Schotterpiste'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Strand von Cofete vom Aussichtspunkt in Jandía'
 ---
 
 ## Was du siehst

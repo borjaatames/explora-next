@@ -76,6 +76,18 @@ galeria:
   alt: Le volcan Pico Viejo dans le parc national du Teide
 - src: /images/actividades/tenerife/masca/ftc-macizo-teno-masca-panoramica.webp
   alt: Vue panoramique du massif de Teno au-dessus de Masca
+- src: /images/actividades/tenerife/prov-island-excursions/roques-de-garcia-y-el-teide-al-atardecer.webp
+  alt: 'Roques de García et le Teide au crépuscule'
+- src: /images/actividades/tenerife/prov-island-excursions/drago-milenario-de-icod-de-los-vinos.webp
+  alt: 'Dragonnier millénaire d''Icod de los Vinos'
+- src: /images/actividades/tenerife/prov-island-excursions/garachico-y-su-roque-desde-el-aire.webp
+  alt: 'Garachico et son rocher vus du ciel'
+- src: /images/actividades/tenerife/prov-island-excursions/el-teide-visto-entre-pinos-canarios.webp
+  alt: 'Le Teide vu entre les pins des Canaries'
+- src: /images/actividades/tenerife/prov-island-excursions/barranco-y-caserio-de-masca.webp
+  alt: 'Ravin et hameau de Masca'
+- src: /images/actividades/tenerife/prov-island-excursions/casco-historico-de-garachico-con-sus-iglesias.webp
+  alt: 'Centre historique de Garachico et ses églises'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

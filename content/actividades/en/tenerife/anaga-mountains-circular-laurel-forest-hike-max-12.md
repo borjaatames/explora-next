@@ -73,6 +73,18 @@ galeria:
   alt: Tenerife lizard in the Anaga massif
 - src: /images/actividades/tenerife/ciudad/roque-taborno.webp
   alt: Roque de Taborno in the Anaga mountains
+- src: /images/actividades/tenerife/prov-hikin-kanarii/sendero-bajo-un-tunel-de-laurisilva-en-anaga.webp
+  alt: 'Trail under a laurel forest tunnel in Anaga'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/bosque-de-laurisilva-con-helechos.webp
+  alt: 'Laurel forest with ferns'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/arboles-cubiertos-de-musgo-en-la-laurisilva.webp
+  alt: 'Moss-covered trees in the laurel forest'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/camino-de-tierra-entre-laureles.webp
+  alt: 'Dirt path among laurel trees'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/ramas-retorcidas-sobre-el-sendero-de-anaga.webp
+  alt: 'Twisted branches above the Anaga trail'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/cuevas-excavadas-junto-al-sendero-del-bosque.webp
+  alt: 'Caves carved beside the forest trail'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

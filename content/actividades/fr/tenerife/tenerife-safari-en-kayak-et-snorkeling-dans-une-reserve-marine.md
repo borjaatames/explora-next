@@ -70,8 +70,8 @@ keywords:
 - kayak los cristianos
 - kayak snorkeling tenerife
 - kayak tortues tenerife
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kayak rouge sur une plage de sable blanc
+imagen: /images/actividades/tenerife/prov-adventoure-kayak/kayaks-junto-a-una-cueva-en-los-acantilados-de-tenerife.webp
+imagenAlt: 'Kayaks près d''une grotte dans les falaises de Tenerife'
 galeria:
 - src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
   alt: Personne pagayant dans un kayak orange en pleine mer
@@ -87,6 +87,10 @@ galeria:
   alt: La plage de Los Cristianos, à Arona
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Bateaux amarrés dans le port de Los Cristianos
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: 'Kayak rouge sur une plage de sable blanc'
+- src: /images/actividades/tenerife/prov-adventoure-kayak/kayakista-con-delfines-frente-a-la-costa-sur.webp
+  alt: 'Kayakiste avec des dauphins au large de la côte sud'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -74,6 +74,18 @@ galeria:
   alt: Três motos 4 paradas numa encosta de montanha
 - src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
   alt: O cone e a cratera do Teide sobre Las Cañadas
+- src: /images/actividades/tenerife/prov-fun-teide-quad/grupo-en-quad-por-la-carretera-de-las-canadas.webp
+  alt: 'Grupo de moto-quatro na estrada de Las Cañadas'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/fila-de-quads-parados-en-la-ruta-entre-pinos.webp
+  alt: 'Fila de moto-quatro paradas na rota entre pinheiros'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/participante-junto-a-su-quad-al-atardecer.webp
+  alt: 'Participante junto à sua moto-quatro ao pôr do sol'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/quads-preparados-antes-de-salir-hacia-el-teide.webp
+  alt: 'Moto-quatro preparadas antes de partir para o Teide'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/ruta-en-quad-por-la-carretera-del-pinar.webp
+  alt: 'Passeio de moto-quatro pela estrada do pinhal'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/pareja-en-quad-durante-la-puesta-de-sol.webp
+  alt: 'Casal de moto-quatro durante o pôr do sol'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

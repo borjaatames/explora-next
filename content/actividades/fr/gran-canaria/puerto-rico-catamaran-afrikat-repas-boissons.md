@@ -92,8 +92,8 @@ indexar: false
 destacada: false
 fecha: '2026-11-05'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
-imagenAlt: 'Bateaux au pied des falaises de Grande Canarie'
+imagen: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-afrikat-navegando-con-pasajeros-en-cubierta.webp
+imagenAlt: 'Catamaran Afrikat naviguant avec des passagers sur le pont'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
   alt: 'La marina de Puerto Rico de Gran Canaria'
@@ -109,6 +109,18 @@ galeria:
   alt: 'La baie et la plage de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
   alt: 'Le port de Puerto Rico à Grande Canarie vu d''en haut'
+- src: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+  alt: 'Bateaux au pied des falaises de Grande Canarie'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-fondeado-junto-a-los-acantilados-del-sur-de-g.webp
+  alt: 'Catamaran au mouillage près des falaises du sud de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/pasajeros-banandose-desde-la-popa-del-catamaran.webp
+  alt: 'Passagers se baignant depuis la poupe du catamaran'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/saltos-al-agua-en-una-cala-durante-el-crucero.webp
+  alt: 'Sauts dans l''eau dans une crique pendant la croisière'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/flotador-gigante-junto-a-la-costa-rocosa.webp
+  alt: 'Bouée géante près de la côte rocheuse'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-saliendo-de-puerto-rico-de-gran-canaria.webp
+  alt: 'Catamaran quittant Puerto Rico de Gran Canaria'
 ---
 
 ## Ce que vous verrez

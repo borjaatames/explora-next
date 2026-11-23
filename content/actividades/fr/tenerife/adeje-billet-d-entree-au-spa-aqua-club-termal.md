@@ -51,8 +51,8 @@ keywords:
 - aqua club termal
 - spa adeje
 - spa thermal tenerife
-imagen: /images/actividades/tenerife/spa/piscina-spa-tumbonas.webp
-imagenAlt: Piscine intérieure de spa avec transats et colonnes
+imagen: /images/actividades/tenerife/prov-aqua-club-termal/piscina-termal-cubierta-de-aqua-club-termal.webp
+imagenAlt: 'Piscine thermale couverte de l''Aqua Club Termal'
 galeria:
 - src: /images/actividades/tenerife/spa/piscina-hidromasaje-interior.webp
   alt: Personnes se détendant dans une piscine d'hydrothérapie
@@ -68,6 +68,16 @@ galeria:
   alt: Plage de Costa Adeje avec les montagnes en arrière-plan
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Le Teide au-dessus de la mer de nuages
+- src: /images/actividades/tenerife/spa/piscina-spa-tumbonas.webp
+  alt: 'Piscine intérieure de spa avec transats et colonnes'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/fuente-central-de-la-piscina-del-spa.webp
+  alt: 'Fontaine centrale de la piscine du spa'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/mujer-relajandose-en-el-agua-del-spa.webp
+  alt: 'Femme se détendant dans l''eau du spa'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/pareja-en-la-piscina-iluminada-del-spa.webp
+  alt: 'Couple dans la piscine éclairée du spa'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/masaje-con-piedras-calientes.webp
+  alt: 'Massage aux pierres chaudes'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

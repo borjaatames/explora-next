@@ -100,6 +100,10 @@ galeria:
   alt: Le sous-marin jaune dans le port de Puerto de Mogán
 - src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
   alt: Le sous-marin jaune de Mogán vu de près
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/submarino-amarillo-atracado-en-el-puerto-de-mogan.webp
+  alt: 'Sous-marin jaune amarré au port de Mogán'
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/interior-del-submarino-con-grandes-ventanas.webp
+  alt: 'Intérieur du sous-marin aux grands hublots'
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

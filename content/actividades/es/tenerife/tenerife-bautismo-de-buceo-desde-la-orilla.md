@@ -69,6 +69,18 @@ galeria:
   alt: Morena asomando entre las rocas del fondo marino
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: Montaña de Guaza, en la costa sur de Tenerife
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Grupo de bautismo de buceo rodeado de peces'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Buceadores entrando al agua desde la orilla'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Instructor y alumnos listos en la orilla'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Buceadores junto a una tortuga en una pradera marina'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Buceadora asomando entre rocas con erizos'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Arco de roca submarino en Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

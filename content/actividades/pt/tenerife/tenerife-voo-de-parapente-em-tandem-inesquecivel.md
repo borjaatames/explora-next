@@ -71,6 +71,18 @@ galeria:
   alt: Praia de Los Cristianos
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: Costa rochosa vulcânica em Costa Adeje
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-biplaza-sobre-el-mar-de-nubes-con-el-teide-al.webp
+  alt: 'Paraglider biplace sobre o mar de nuvens com o Teide ao fundo'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-sobre-nubes-y-montanas-verdes.webp
+  alt: 'Voo de paraglider sobre nuvens e montanhas verdes'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-sobrevolando-la-costa-de-adeje.webp
+  alt: 'Paraglider a sobrevoar a costa de Adeje'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vela-de-parapente-sobre-una-playa-de-arena-negra.webp
+  alt: 'Asa de paraglider sobre uma praia de areia preta'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-al-atardecer-sobre-el-sur-de-tenerif.webp
+  alt: 'Paraglider ao pôr do sol sobre o sul de Tenerife'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-rojo-sobre-las-montanas-de-adeje.webp
+  alt: 'Paraglider vermelho sobre as montanhas de Adeje'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

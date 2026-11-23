@@ -58,8 +58,8 @@ keywords:
 - moto de agua tenerife
 - moto de agua puerto colon
 - passeio moto de agua costa adeje
-imagen: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
-imagenAlt: Condutor numa mota de água
+imagen: /images/actividades/tenerife/prov-jetski-racing/pareja-en-moto-de-agua-frente-a-la-costa-de-tenerife.webp
+imagenAlt: 'Casal numa mota de água ao largo de Tenerife'
 galeria:
 - src: /images/actividades/lanzarote/moto-de-agua/flz-estela.webp
   alt: Mota de água a deixar uma esteira no mar
@@ -75,6 +75,8 @@ galeria:
   alt: Montaña Amarilla junto ao mar na costa sul de Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Veleiro fundeado na baía de Masca sob as falésias
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
+  alt: 'Condutor numa mota de água'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

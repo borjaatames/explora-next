@@ -109,6 +109,12 @@ galeria:
   alt: 'Aerial view of catamarans anchored in turquoise water near the shore'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Sailing boats moored in a marina'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Passengers sunbathing on the catamaran''s bow'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Relaxing on the catamaran deck on the open sea'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava and towels ready on board'
 ---
 
 ## What you will see

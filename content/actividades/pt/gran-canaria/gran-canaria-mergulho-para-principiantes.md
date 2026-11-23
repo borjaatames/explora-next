@@ -50,8 +50,8 @@ keywords:
 - batismo de mergulho gran canaria
 - mergulho principiantes gran canaria
 - mergulho puerto rico gran canaria
-imagen: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-imagenAlt: Peixes sobre o fundo arenoso em águas de Gran Canária
+imagen: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-principiantes-con-su-instructor-bajo-el-agua.webp
+imagenAlt: 'Mergulhadores principiantes com o instrutor debaixo de água'
 galeria:
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fundo rochoso sob águas cristalinas, ideal para snorkel
@@ -67,6 +67,18 @@ galeria:
   alt: Falésias e casas da costa de Mogán vistas do mar
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
   alt: Mar azul em frente a uma costa rochosa, ao nível da água
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: 'Peixes sobre o fundo arenoso em águas de Gran Canária'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-una-sepia-sobre-la-roca.webp
+  alt: 'Mergulhador junto a um choco sobre a rocha'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-entrando-al-agua-desde-la-playa.webp
+  alt: 'Mergulhadores a entrar no mar a partir da praia'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/pareja-de-buceadores-en-su-primera-inmersion.webp
+  alt: 'Par de mergulhadores no primeiro mergulho'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-un-banco-de-peces.webp
+  alt: 'Mergulhador junto a um cardume'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/alumnos-en-el-agua-poco-profunda-antes-de-bucear.webp
+  alt: 'Alunos em água pouco profunda antes de mergulhar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

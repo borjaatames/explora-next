@@ -70,8 +70,8 @@ keywords:
 - kayak los cristianos
 - kayak snorkel tenerife
 - kayak tour tenerife turtles
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Red kayak on a white sand beach
+imagen: /images/actividades/tenerife/prov-adventoure-kayak/kayaks-junto-a-una-cueva-en-los-acantilados-de-tenerife.webp
+imagenAlt: 'Kayaks by a cave in the Tenerife cliffs'
 galeria:
 - src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
   alt: Person paddling an orange kayak on the open sea
@@ -87,6 +87,10 @@ galeria:
   alt: Los Cristianos beach
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Boats in Los Cristianos harbour
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: 'Red kayak on a white sand beach'
+- src: /images/actividades/tenerife/prov-adventoure-kayak/kayakista-con-delfines-frente-a-la-costa-sur.webp
+  alt: 'Kayaker with dolphins off the south coast'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

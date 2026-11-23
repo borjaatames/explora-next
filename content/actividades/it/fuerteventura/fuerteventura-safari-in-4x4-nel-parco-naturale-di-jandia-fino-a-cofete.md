@@ -72,6 +72,12 @@ galeria:
   alt: Vista di Cofete dal belvedere
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
   alt: Costa della penisola di Jandía
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: 'Fuoristrada di Tamarán su un belvedere sul mare'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Viaggiatrice affacciata al finestrino della jeep'
+- src: /images/actividades/fuerteventura/prov-tamaran/todoterrenos-por-una-pista-de-tierra.webp
+  alt: 'Fuoristrada su una pista sterrata'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

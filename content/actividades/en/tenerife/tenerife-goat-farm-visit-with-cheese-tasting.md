@@ -56,8 +56,8 @@ keywords:
 - goat farm tenerife
 - cheese tasting tenerife
 - queseria montesdeoca
-imagen: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
-imagenAlt: Aged cheeses of different sizes
+imagen: /images/actividades/tenerife/prov-queseria-montesdeoca/visitantes-en-la-granja-de-cabras-con-vistas-al-mar.webp
+imagenAlt: 'Visitors at the goat farm with sea views'
 galeria:
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
   alt: Majorera goat, the native breed whose milk is used for Majorero cheese
@@ -73,6 +73,14 @@ galeria:
   alt: Goat on volcanic rocks
 - src: /images/actividades/tenerife/estrellas/atardecer-pinos.webp
   alt: Canary pines and the sea of clouds at sunset in Tenerife's high country
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: 'Aged cheeses of different sizes'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/cata-de-quesos-y-vino-en-la-queseria.webp
+  alt: 'Cheese and wine tasting at the cheese dairy'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/queseros-mostrando-uno-de-sus-quesos-premiados.webp
+  alt: 'Cheesemakers showing one of their award-winning cheeses'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/taller-de-elaboracion-durante-la-visita-a-la-queseria.webp
+  alt: 'Hands-on workshop during the cheese dairy visit'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

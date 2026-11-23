@@ -71,6 +71,18 @@ galeria:
   alt: Silhouetten von Surfern mit Brettern bei Sonnenuntergang
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Wellen an einer roten Vulkanküste mit schwarzem Strand
+- src: /images/actividades/lanzarote/prov-school3s/instructor-acompanando-a-una-alumna-en-la-ola-en-famara.webp
+  alt: 'Lehrer begleitet eine Schülerin auf der Welle in Famara'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-alumnos-con-sus-tablas-en-la-playa-de-famara.webp
+  alt: 'Schülergruppe mit ihren Brettern am Strand von Famara'
+- src: /images/actividades/lanzarote/prov-school3s/surfistas-caminando-hacia-el-agua-con-sus-tablas.webp
+  alt: 'Surfer gehen mit ihren Brettern ins Wasser'
+- src: /images/actividades/lanzarote/prov-school3s/alumnos-entrando-al-mar-bajo-los-riscos-de-famara.webp
+  alt: 'Schüler gehen unterhalb der Klippen von Famara ins Meer'
+- src: /images/actividades/lanzarote/prov-school3s/practica-del-despegue-en-la-arena.webp
+  alt: 'Üben des Aufstehens im Sand'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-la-escuela-de-surf-en-la-playa.webp
+  alt: 'Surfschulgruppe am Strand'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

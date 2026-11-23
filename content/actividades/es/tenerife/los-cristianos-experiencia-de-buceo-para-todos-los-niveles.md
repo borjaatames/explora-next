@@ -77,6 +77,16 @@ galeria:
   alt: Buceador sobre un fondo rocoso
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
   alt: Bahía de Los Cristianos, junto a Playa de las Américas
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceadora-explorando-el-fondo-rocoso-en-tenerife.webp
+  alt: 'Buceadora explorando el fondo rocoso en Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceador-junto-a-una-roca-en-aguas-de-tenerife.webp
+  alt: 'Buceador junto a una roca en aguas de Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/instructor-y-alumno-de-buceo-en-el-fondo-marino.webp
+  alt: 'Instructor y alumno de buceo en el fondo marino'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/pecio-hundido-en-una-inmersion-en-tenerife.webp
+  alt: 'Pecio hundido en una inmersión en Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/briefing-con-los-buceadores-antes-de-entrar-al-agua.webp
+  alt: 'Briefing con los buceadores antes de entrar al agua'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

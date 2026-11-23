@@ -74,6 +74,18 @@ galeria:
   alt: Personnes admirant le coucher de soleil sur la mer de nuages
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: La côte de Los Cristianos avec l'Atlantique derrière, base des catamarans à Tenerife
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumna-de-surf-de-pie-en-la-tabla-en-playa-de-las-ameri.webp
+  alt: 'Élève de surf debout sur la planche à Playa de las Américas'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-principiante-cogiendo-la-espuma.webp
+  alt: 'Surfeur débutant dans l''écume'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-deslizandose-en-una-ola-verde.webp
+  alt: 'Surfeur glissant sur une vague verte'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnos-e-instructor-en-la-orilla-durante-la-clase.webp
+  alt: 'Élèves et moniteur au bord de l''eau pendant le cours'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/practica-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Entraînement sur le sable avant d''aller à l''eau'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnas-saliendo-del-agua-con-las-tablas.webp
+  alt: 'Élèves sortant de l''eau avec leurs planches'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

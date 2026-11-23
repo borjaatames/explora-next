@@ -61,8 +61,8 @@ keywords:
 - los gigantes boat trip
 - pirate ship tenerife
 - dolphin watching los gigantes
-imagen: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-imagenAlt: Los Gigantes cliffs from the sea
+imagen: /images/actividades/tenerife/prov-flipper-uno/barco-pirata-flipper-uno-navegando-a-vela.webp
+imagenAlt: 'Flipper Uno pirate-style boat under sail'
 galeria:
 - src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
   alt: Dolphin swimming at the surface
@@ -78,6 +78,14 @@ galeria:
   alt: Los Gigantes at sunset
 - src: /images/actividades/tenerife/masca/masca-caserio.webp
   alt: The hamlet of Masca among the mountains
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: 'Los Gigantes cliffs from the sea'
+- src: /images/actividades/tenerife/prov-flipper-uno/calderones-nadando-junto-al-velero-en-los-gigantes.webp
+  alt: 'Pilot whales swimming beside the sailing ship near Los Gigantes'
+- src: /images/actividades/tenerife/prov-flipper-uno/parada-para-banarse-junto-a-los-acantilados.webp
+  alt: 'Swimming stop next to the cliffs'
+- src: /images/actividades/tenerife/prov-flipper-uno/delfin-saltando-en-mar-abierto.webp
+  alt: 'Dolphin leaping in open water'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

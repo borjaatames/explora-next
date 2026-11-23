@@ -102,6 +102,10 @@ galeria:
   alt: The yellow submarine in Puerto de Mogán harbour
 - src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
   alt: Close-up of the Mogán yellow submarine
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/submarino-amarillo-atracado-en-el-puerto-de-mogan.webp
+  alt: 'Yellow submarine moored in Mogán harbour'
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/interior-del-submarino-con-grandes-ventanas.webp
+  alt: 'Inside the submarine with large windows'
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

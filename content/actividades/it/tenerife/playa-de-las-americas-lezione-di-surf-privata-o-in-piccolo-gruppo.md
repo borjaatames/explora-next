@@ -74,6 +74,18 @@ galeria:
   alt: Tramonto con le isole vicine all'orizzonte
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: La costa di Los Cristianos con l'Atlantico alle spalle, base dei catamarani a Tenerife
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumna-de-surf-de-pie-en-la-tabla-en-playa-de-las-ameri.webp
+  alt: 'Allieva di surf in piedi sulla tavola a Playa de las Américas'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-principiante-cogiendo-la-espuma.webp
+  alt: 'Surfista principiante sulla schiuma'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-deslizandose-en-una-ola-verde.webp
+  alt: 'Surfista che scivola su un''onda verde'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnos-e-instructor-en-la-orilla-durante-la-clase.webp
+  alt: 'Allievi e istruttore a riva durante la lezione'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/practica-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Pratica sulla sabbia prima di entrare in acqua'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnas-saliendo-del-agua-con-las-tablas.webp
+  alt: 'Allieve che escono dall''acqua con le tavole'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

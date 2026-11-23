@@ -73,6 +73,14 @@ galeria:
   alt: Felsige Vulkanküste in Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-junto-a-una-tortuga-marina.webp
+  alt: 'Schwimmerin neben einer Meeresschildkröte'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/buceadora-en-apnea-con-una-tortuga-bajo-el-agua.webp
+  alt: 'Apnoetaucherin mit Schildkröte unter Wasser'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-entre-rocas-en-aguas-claras.webp
+  alt: 'Schwimmerin zwischen Felsen in klarem Wasser'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/lancha-neumatica-frente-a-la-costa-de-tenerife.webp
+  alt: 'Schlauchboot vor der Küste Teneriffas'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

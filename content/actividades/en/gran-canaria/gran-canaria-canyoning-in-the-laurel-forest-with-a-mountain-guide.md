@@ -68,6 +68,12 @@ galeria:
   alt: Almond trees in blossom in front of Roque Bentayga, in Tejeda
 - src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
   alt: A street in Teror with the northern mountains behind
+- src: /images/actividades/gran-canaria/prov-climbo/rapel-junto-a-una-cascada-en-la-laurisilva-de-gran-cana.webp
+  alt: 'Abseiling beside a waterfall in Gran Canaria''s laurel forest'
+- src: /images/actividades/gran-canaria/prov-climbo/guia-junto-a-una-pequena-cascada-del-barranco.webp
+  alt: 'Guide next to a small waterfall in the ravine'
+- src: /images/actividades/gran-canaria/prov-climbo/progresion-por-roca-con-casco-y-arnes.webp
+  alt: 'Moving across rock with helmet and harness'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

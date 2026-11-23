@@ -106,6 +106,18 @@ galeria:
   alt: 'Scogliere e spiaggia a Playas de Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
   alt: 'Cala dalle acque turchesi a Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-fondeado-en-las-aguas-turquesa-de-papagayo.webp
+  alt: 'Catamarano ancorato nelle acque turchesi di Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/familia-en-kayak-y-padel-surf-junto-a-los-acantilados.webp
+  alt: 'Famiglia in kayak e SUP vicino alle scogliere'
+- src: /images/actividades/lanzarote/prov-catlanza/pasajeros-banandose-junto-al-catamaran.webp
+  alt: 'Passeggeri che fanno il bagno accanto al catamarano'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-a-vela-frente-a-la-costa-sur-de-lanzarote.webp
+  alt: 'Catamarano a vela al largo della costa sud di Lanzarote'
+- src: /images/actividades/lanzarote/prov-catlanza/amigos-sentados-en-el-borde-de-la-plataforma-de-bano.webp
+  alt: 'Amici seduti sul bordo della piattaforma bagno'
+- src: /images/actividades/lanzarote/prov-catlanza/nino-con-gafas-de-buceo-en-la-escalera-del-barco.webp
+  alt: 'Bambino con maschera sulla scaletta della barca'
 ---
 
 ## Cosa vedrai

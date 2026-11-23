@@ -88,8 +88,8 @@ keywords:
 - moto de agua gran canaria
 - jet ski puerto rico
 - que hacer en puerto rico gran canaria
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: Moto de agua sobre las olas
+imagen: /images/actividades/gran-canaria/prov-esnautica-water-sport/moto-de-agua-navegando-frente-a-puerto-rico-de-gran-can.webp
+imagenAlt: 'Moto de agua navegando frente a Puerto Rico de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: 'Puerto deportivo de Puerto Rico de Gran Canaria, punto de salida del tour'
@@ -105,6 +105,8 @@ galeria:
   alt: 'Grupo de calderones en el Atlántico canario'
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
   alt: 'Calderón tropical en aguas canarias'
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: 'Moto de agua sobre las olas'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

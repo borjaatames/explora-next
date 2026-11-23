@@ -69,6 +69,18 @@ galeria:
   alt: Dunas de Maspalomas junto ao mar
 - src: /images/actividades/_shared/surf/siluetas-tablas-atardecer.webp
   alt: Silhuetas de surfistas com pranchas ao pôr do sol
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-de-surf-poniendose-de-pie-en-la-espuma.webp
+  alt: 'Alunos de surf a pôr-se de pé na espuma'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/surfista-principiante-cogiendo-una-ola-en-maspalomas.webp
+  alt: 'Surfista principiante a apanhar uma onda em Maspalomas'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-sentados-en-sus-tablas-en-el-agua.webp
+  alt: 'Alunos sentados nas pranchas na água'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/grupo-de-la-escuela-de-surf-celebrando-en-el-mar.webp
+  alt: 'Grupo da escola de surf a celebrar no mar'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/calentamiento-en-la-arena-antes-de-la-clase.webp
+  alt: 'Aquecimento na areia antes da aula'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/instructor-con-alumnas-en-la-orilla.webp
+  alt: 'Instrutor com alunas à beira-mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

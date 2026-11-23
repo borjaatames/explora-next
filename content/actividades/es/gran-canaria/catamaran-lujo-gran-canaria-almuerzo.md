@@ -109,6 +109,12 @@ galeria:
   alt: 'Catamaranes fondeados en aguas turquesa cerca de la orilla, vistos desde el aire'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Veleros amarrados en un puerto deportivo'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Pasajeros tomando el sol en la proa del catamarán'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Relax en la cubierta del catamarán en mar abierto'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava y toallas preparadas a bordo'
 ---
 
 ## Qué vas a ver

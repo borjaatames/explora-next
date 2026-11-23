@@ -70,6 +70,16 @@ galeria:
   alt: Il porto di Puerto Rico a Gran Canaria visto dall'alto
 - src: /images/actividades/_shared/parasailing/parasailing-costa-verde.webp
   alt: Parasailing nel cielo azzurro sopra il mare, visto dalla riva
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/parasailing-tras-la-lancha-frente-a-la-costa-de-gran-ca.webp
+  alt: 'Parasailing dietro il motoscafo al largo di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/paracaidas-de-parasailing-sobre-la-playa-de-anfi.webp
+  alt: 'Vela del parasailing sopra la spiaggia di Anfi'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/despegue-de-parasailing-desde-la-popa-de-la-lancha.webp
+  alt: 'Decollo del parasailing dalla poppa del motoscafo'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/lancha-remolcando-a-los-pasajeros-del-parasailing.webp
+  alt: 'Motoscafo che traina i passeggeri del parasailing'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/tres-pasajeros-listos-en-el-arnes-de-parasailing.webp
+  alt: 'Tre passeggeri pronti nell''imbracatura del parasailing'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

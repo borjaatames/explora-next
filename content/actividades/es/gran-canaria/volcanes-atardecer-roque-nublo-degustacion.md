@@ -110,6 +110,14 @@ galeria:
   alt: 'Puesta de sol junto al Roque Nublo'
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: 'La Vía Láctea sobre un molino en Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/puesta-de-sol-en-las-cumbres-de-gran-canaria.webp
+  alt: 'Puesta de sol en las cumbres de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-contemplando-la-caldera-desde-un-mirador.webp
+  alt: 'Senderista contemplando la caldera desde un mirador'
+- src: /images/actividades/gran-canaria/prov-climbo/paisaje-volcanico-del-interior-con-el-mar-al-fondo.webp
+  alt: 'Paisaje volcánico del interior con el mar al fondo'
+- src: /images/actividades/gran-canaria/prov-climbo/cueva-con-vistas-a-las-montanas-del-interior.webp
+  alt: 'Cueva con vistas a las montañas del interior'
 ---
 
 ## Qué vas a ver

@@ -68,6 +68,10 @@ galeria:
   alt: Sonnenuntergang in Puerto Rico de Gran Canaria
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
   alt: Boote vor der Küste von Gran Canaria
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/lancha-con-pasajeros-navegando-junto-a-la-costa.webp
+  alt: 'Motorboot mit Passagieren entlang der Küste'
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/barcos-fondeados-al-atardecer-junto-a-los-acantilados.webp
+  alt: 'Boote vor Anker bei Sonnenuntergang an den Klippen'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -74,8 +74,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
-imagenAlt: "Grapes being sorted on the winery table during harvest"
+imagen: /images/actividades/tenerife/prov-bodegas-monje/cata-de-vinos-entre-barricas-en-bodegas-monje.webp
+imagenAlt: 'Wine tasting among barrels at Bodegas Monje'
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
   alt: 'Bunches of red grapes on the vine'
@@ -91,6 +91,14 @@ galeria:
   alt: 'Red wine tasting served in small carafes'
 - src: /images/actividades/alicante/vino/vinedos-paisaje.webp
   alt: 'A vineyard landscape'
+- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+  alt: 'Grapes being sorted on the winery table during harvest'
+- src: /images/actividades/tenerife/prov-bodegas-monje/botellero-de-la-bodega.webp
+  alt: 'Wine cellar racks at the winery'
+- src: /images/actividades/tenerife/prov-bodegas-monje/grupo-en-una-visita-guiada-a-la-bodega.webp
+  alt: 'Group on a guided winery tour'
+- src: /images/actividades/tenerife/prov-bodegas-monje/botellas-de-vino-monje.webp
+  alt: 'Bottles of Monje wine'
 ---
 
 ## What you will see

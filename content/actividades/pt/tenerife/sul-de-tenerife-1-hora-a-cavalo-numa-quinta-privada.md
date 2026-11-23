@@ -69,6 +69,12 @@ galeria:
   alt: Montaña Amarilla junto ao mar na costa sul de Tenerife
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
   alt: Praia de Costa Adeje com as montanhas ao fundo
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/paseo-a-caballo-al-atardecer-en-el-sur-de-tenerife.webp
+  alt: 'Passeio a cavalo ao pôr do sol no sul de Tenerife'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/jinete-acariciando-a-su-caballo-antes-de-la-ruta.webp
+  alt: 'Cavaleira a fazer festas ao cavalo antes do passeio'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/cuadras-del-centro-ecuestre-entre-arboles.webp
+  alt: 'Estábulos do centro equestre entre árvores'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

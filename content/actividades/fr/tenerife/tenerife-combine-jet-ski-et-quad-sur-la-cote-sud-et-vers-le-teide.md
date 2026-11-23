@@ -71,6 +71,16 @@ galeria:
   alt: Deux quads phares allumés à la tombée de la nuit
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
   alt: Panorama de la caldeira de Las Cañadas
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Jet-ski soulevant des gerbes d''écume sur la côte de Tenerife'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Couple en jet-ski près des falaises'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Jet-ski devant une grotte volcanique'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Pilote de jet-ski près d''une grotte marine'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Deux personnes profitant d''une balade en jet-ski'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

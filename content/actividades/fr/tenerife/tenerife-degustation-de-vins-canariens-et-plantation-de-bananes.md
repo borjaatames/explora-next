@@ -74,6 +74,8 @@ galeria:
   alt: Bananeraies autour d'un village de Tenerife
 - src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
   alt: Raisins noirs mûrs entre les feuilles de vigne
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Autocar d''Atlántico Excursiones'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

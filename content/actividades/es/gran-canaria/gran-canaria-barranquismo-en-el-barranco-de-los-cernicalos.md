@@ -73,6 +73,18 @@ galeria:
   alt: Flor de almendro con el Roque Bentayga al fondo
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Laderas rojizas del barranco de Guayadeque, en el sureste de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Rápel junto a una cascada en Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Barranquista sonriente descendiendo por la cuerda'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Descenso por un tobogán natural de roca'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Barranquista preparado para el rápel'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Paso por una poza entre rocas del barranco'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Barranquistas frente a una cascada'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

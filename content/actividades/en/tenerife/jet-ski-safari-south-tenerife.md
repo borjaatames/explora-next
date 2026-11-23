@@ -101,6 +101,16 @@ galeria:
   alt: 'Person swimming with goggles underwater (illustrative image)'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: 'Rocky volcanic shoreline in Costa Adeje'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Jet ski throwing up spray on the Tenerife coast'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Couple on a jet ski by the cliffs'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Jet ski in front of a volcanic sea cave'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Jet ski rider next to a sea cave'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Two people enjoying a jet ski ride'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

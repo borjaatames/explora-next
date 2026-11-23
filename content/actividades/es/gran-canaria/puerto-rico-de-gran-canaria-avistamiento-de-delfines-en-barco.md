@@ -73,6 +73,16 @@ galeria:
   alt: Calderón tropical en aguas canarias
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Puerto Rico de Gran Canaria al atardecer
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Catamarán Spirit of the Sea navegando con pasajeros'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Delfines nadando delante del barco'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Pasajeros observando un grupo de delfines'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Pasajeros en la proa buscando cetáceos'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Soplo de una ballena en el mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

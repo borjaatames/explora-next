@@ -96,6 +96,10 @@ galeria:
   alt: 'Calderón en aguas del sur de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'Calderón tropical respirando en superficie'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Submarino amarillo junto a un pecio en el fondo marino'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Interior del submarino con asientos frente a los ojos de buey'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

@@ -54,8 +54,8 @@ keywords:
 - velero tenerife ballenas
 - velero costa adeje
 - avistamiento de cetaceos en velero tenerife
-imagen: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
-imagenAlt: Goleta con pasajeros navegando bajo montañas áridas
+imagen: /images/actividades/tenerife/prov-blue-jack-sail/velero-de-blue-jack-sail-navegando.webp
+imagenAlt: 'Velero de Blue Jack Sail navegando'
 galeria:
 - src: /images/actividades/_shared/velero/velero-spi-mar-azul.webp
   alt: Velero con spinnaker en el mar azul intenso
@@ -71,6 +71,18 @@ galeria:
   alt: Velero blanco en mar abierto
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Velero fondeado en la bahía de Masca bajo los acantilados
+- src: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
+  alt: 'Goleta con pasajeros navegando bajo montañas áridas'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajera-en-la-proa-del-velero-junto-a-delfines.webp
+  alt: 'Pasajera en la proa del velero junto a delfines'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/grupo-de-delfines-bajo-el-agua.webp
+  alt: 'Grupo de delfines bajo el agua'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/calderon-respirando-en-la-superficie.webp
+  alt: 'Calderón respirando en la superficie'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajeros-a-bordo-del-velero.webp
+  alt: 'Pasajeros a bordo del velero'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/dos-calderones-nadando-juntos.webp
+  alt: 'Dos calderones nadando juntos'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

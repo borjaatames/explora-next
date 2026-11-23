@@ -73,6 +73,16 @@ galeria:
   alt: Un globicéphale tropical dans les eaux des Canaries
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Coucher de soleil à Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Catamaran Spirit of the Sea naviguant avec des passagers'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Dauphins nageant devant le bateau'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Passagers observant un groupe de dauphins'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Passagers à la proue cherchant des cétacés'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Souffle d''une baleine en mer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

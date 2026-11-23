@@ -53,8 +53,8 @@ keywords:
 - velero ballenas tenerife
 - roulette charters
 - velero puerto colon
-imagen: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
-imagenAlt: Veleros fondeados
+imagen: /images/actividades/tenerife/prov-roulette-charters/velero-navegando-con-el-teide-al-fondo.webp
+imagenAlt: 'Velero navegando con el Teide al fondo'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Calderón tropical de cerca en las aguas de Tenerife
@@ -70,6 +70,18 @@ galeria:
   alt: Calderón en aguas del sur de Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Velero fondeado en la bahía de Masca bajo los acantilados
+- src: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
+  alt: 'Veleros fondeados'
+- src: /images/actividades/tenerife/prov-roulette-charters/pasajeros-en-la-banera-del-velero-frente-a-la-costa.webp
+  alt: 'Pasajeros en la bañera del velero frente a la costa'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-asomando-junto-al-barco.webp
+  alt: 'Calderón asomando junto al barco'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-nadando-bajo-el-agua.webp
+  alt: 'Calderón nadando bajo el agua'
+- src: /images/actividades/tenerife/prov-roulette-charters/tripulante-explicando-los-cetaceos-a-bordo.webp
+  alt: 'Tripulante explicando los cetáceos a bordo'
+- src: /images/actividades/tenerife/prov-roulette-charters/velero-visto-desde-arriba-en-mar-abierto.webp
+  alt: 'Velero visto desde arriba en mar abierto'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

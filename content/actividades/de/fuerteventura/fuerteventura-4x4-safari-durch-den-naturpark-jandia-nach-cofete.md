@@ -72,6 +72,12 @@ galeria:
   alt: Blick auf Cofete vom Aussichtspunkt
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
   alt: Küste der Halbinsel Jandía
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: 'Geländewagen von Tamarán an einem Aussichtspunkt über dem Meer'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Reisende schaut aus dem Fenster des Jeeps'
+- src: /images/actividades/fuerteventura/prov-tamaran/todoterrenos-por-una-pista-de-tierra.webp
+  alt: 'Geländewagen auf einer Schotterpiste'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

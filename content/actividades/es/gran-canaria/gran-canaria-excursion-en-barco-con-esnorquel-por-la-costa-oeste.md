@@ -65,6 +65,12 @@ galeria:
   alt: Puerto de Mogán y su bahía
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: Costa de acantilados en Taurito, junto a Mogán
+- src: /images/actividades/gran-canaria/prov-zeusteam/persona-haciendo-esnorquel-en-aguas-turquesa.webp
+  alt: 'Persona haciendo esnórquel en aguas turquesa'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-junto-a-un-pez-globo.webp
+  alt: 'Esnórquel junto a un pez globo'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-sobre-un-fondo-poco-profundo.webp
+  alt: 'Esnórquel sobre un fondo poco profundo'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -70,6 +70,18 @@ galeria:
   alt: Buceador en la superficie del mar con barcas al fondo
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Acantilados y casas de la costa de Mogán vistos desde el mar
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Alumnos de buceo practicando en el fondo arenoso'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Buceador haciendo la señal de OK entre peces'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Buceadora sonriente bajo el agua'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Buceador descendiendo junto a la lancha de buceo'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Angelote sobre la arena, especie típica de Canarias'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Buceadores descendiendo por el cabo bajo el sol'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

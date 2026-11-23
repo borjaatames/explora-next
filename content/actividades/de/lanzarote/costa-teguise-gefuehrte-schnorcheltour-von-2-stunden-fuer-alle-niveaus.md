@@ -69,6 +69,8 @@ galeria:
   alt: Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln
 - src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
   alt: Boote im Charco de San Ginés, Arrecife
+- src: /images/actividades/lanzarote/prov-daivoon-diving-centre/buceadores-entrando-al-agua-junto-al-espigon-de-costa-t.webp
+  alt: 'Taucher gehen an der Mole von Costa Teguise ins Wasser'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

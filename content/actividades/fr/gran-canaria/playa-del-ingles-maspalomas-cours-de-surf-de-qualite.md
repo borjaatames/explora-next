@@ -55,8 +55,8 @@ keywords:
 - cours de surf playa del ingles
 - école de surf maspalomas
 - apprendre le surf grande canarie
-imagen: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
-imagenAlt: Surfeurs au bord de l'eau
+imagen: /images/actividades/gran-canaria/prov-surf-canaries/alumna-de-surf-de-pie-en-la-tabla-en-playa-del-ingles.webp
+imagenAlt: 'Élève de surf debout sur la planche à Playa del Inglés'
 galeria:
 - src: /images/actividades/gran-canaria/dunas/dunas-arena.webp
   alt: La plage et le phare de Maspalomas, à côté des dunes
@@ -72,6 +72,16 @@ galeria:
   alt: La Charca et les dunes de Maspalomas
 - src: /images/actividades/gran-canaria/dunas/dunas-palmera.webp
   alt: Les dunes de Maspalomas sous un ciel nuageux
+- src: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
+  alt: 'Surfeurs au bord de l''eau'
+- src: /images/actividades/gran-canaria/prov-surf-canaries/instructor-y-alumno-cogiendo-la-misma-ola.webp
+  alt: 'Moniteur et élève sur la même vague'
+- src: /images/actividades/gran-canaria/prov-surf-canaries/surfista-principiante-agachado-sobre-la-tabla.webp
+  alt: 'Surfeur débutant accroupi sur la planche'
+- src: /images/actividades/gran-canaria/prov-surf-canaries/dos-alumnos-surfeando-la-espuma-a-la-vez.webp
+  alt: 'Deux élèves surfant l''écume ensemble'
+- src: /images/actividades/gran-canaria/prov-surf-canaries/monitor-celebrando-con-una-alumna-en-el-agua.webp
+  alt: 'Moniteur fêtant la réussite d''une élève dans l''eau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

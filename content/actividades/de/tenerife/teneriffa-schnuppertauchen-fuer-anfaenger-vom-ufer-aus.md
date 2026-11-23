@@ -69,6 +69,18 @@ galeria:
   alt: Muräne zwischen Felsen
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: Montaña de Guaza in der Gemeinde Arona
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Schnuppertauchgruppe umgeben von Fischen'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Taucher gehen vom Ufer aus ins Wasser'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Tauchlehrer und Schüler bereit am Ufer'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Taucher neben einer Schildkröte über einer Seegraswiese'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Taucherin schaut zwischen Felsen mit Seeigeln hervor'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Unterwasser-Felsbogen auf Teneriffa'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

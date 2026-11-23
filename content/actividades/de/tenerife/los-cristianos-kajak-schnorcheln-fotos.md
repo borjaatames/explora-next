@@ -94,8 +94,8 @@ keywords:
 - kajak los cristianos
 - schnorcheln teneriffa
 - kajak schildkröten teneriffa
-imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
-imagenAlt: Person paddelt ein oranges Kajak auf offenem Meer
+imagen: /images/actividades/tenerife/prov-xplore-tenerife/kayakistas-junto-a-una-tortuga-marina.webp
+imagenAlt: 'Kajakfahrer neben einer Meeresschildkröte'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
   alt: Person schnorchelt in klarem blauem Wasser
@@ -113,6 +113,16 @@ galeria:
   alt: Der Strand von Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Boote im Hafen von Los Cristianos
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Person paddelt ein oranges Kajak auf offenem Meer'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfines-saltando-junto-a-un-kayak.webp
+  alt: 'Delfine springen neben einem Kajak'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/tortuga-marina-bajo-el-agua.webp
+  alt: 'Meeresschildkröte unter Wasser'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/kayakista-remando-con-delfines-cerca.webp
+  alt: 'Kajakfahrer paddelt mit Delfinen in der Nähe'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfin-saltando-cerca-de-una-kayakista.webp
+  alt: 'Delfin springt in der Nähe einer Kajakfahrerin'
 ratingProveedor: 4.7
 numeroOpiniones: 12364
 atraccionesRelacionadas:

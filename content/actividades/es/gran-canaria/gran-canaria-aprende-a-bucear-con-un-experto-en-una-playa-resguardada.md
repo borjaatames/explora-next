@@ -71,6 +71,16 @@ galeria:
   alt: Fondo rocoso visto a través del agua clara
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: La bahía de Puerto Rico de Gran Canaria, donde está el parque
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Buceador rodeado de peces en Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Buceadores junto a una tortuga marina'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Grupo de buceo sobre el arrecife con una tortuga'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Buceador junto a una gran roca submarina'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Estrella de mar roja en el fondo marino'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -67,6 +67,14 @@ galeria:
   alt: Montaña Roja vista desde la costa rocosa de El Médano, en el sur de Tenerife
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: El Teide desde el nordeste
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/salida-de-karts-con-bandera-a-cuadros-en-el-circuito.webp
+  alt: 'Salida de karts con bandera a cuadros en el circuito'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/pilotos-en-kart-en-la-recta-del-karting-club-tenerife.webp
+  alt: 'Pilotos en kart en la recta del Karting Club Tenerife'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/vista-aerea-del-trazado-del-circuito-de-karts.webp
+  alt: 'Vista aérea del trazado del circuito de karts'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/grupo-celebrando-en-el-podio-del-circuito.webp
+  alt: 'Grupo celebrando en el podio del circuito'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

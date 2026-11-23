@@ -69,6 +69,18 @@ galeria:
   alt: Canary pines and the sea of clouds at sunset in Tenerife's high country
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Cliffs along the south coast of Tenerife
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/parapente-biplaza-sobre-la-costa-sur-de-tenerife.webp
+  alt: 'Tandem paragliding over the south coast of Tenerife'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/piloto-y-pasajera-sonriendo-en-pleno-vuelo.webp
+  alt: 'Pilot and passenger smiling mid-flight'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vela-roja-de-parapente-sobre-costa-adeje.webp
+  alt: 'Red paraglider wing above Costa Adeje'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vista-del-litoral-desde-el-parapente.webp
+  alt: 'View of the coastline from the paraglider'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/despegue-en-parapente-desde-la-montana.webp
+  alt: 'Paraglider taking off from the mountain'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/grupo-de-pasajeros-con-los-pilotos-tras-el-vuelo.webp
+  alt: 'Group of passengers with the pilots after the flight'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

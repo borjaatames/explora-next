@@ -107,6 +107,8 @@ galeria:
   alt: 'Banana plantations on the north coast of Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
   alt: 'Canary palms in the Fataga ravine'
+- src: /images/actividades/gran-canaria/prov-discovery-jeep-safari/minibus-de-la-excursion-parado-en-una-carretera-de-mont.webp
+  alt: 'Tour minibus stopped on a mountain road'
 ---
 
 ## What you will see

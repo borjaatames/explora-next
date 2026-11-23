@@ -107,6 +107,12 @@ galeria:
   alt: Stone circle at Laguna Grande in Garajonay
 - src: /images/actividades/tenerife/gomera/papas-arrugadas-mojo.webp
   alt: Canarian wrinkled potatoes with red and green mojo
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Atlántico Excursiones coach'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/roque-de-agando-en-la-gomera.webp
+  alt: 'Roque de Agando on La Gomera'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/viajeros-en-un-mirador-de-la-gomera.webp
+  alt: 'Travellers at a viewpoint on La Gomera'
 ratingProveedor: 4.3
 numeroOpiniones: 709
 publicada: true

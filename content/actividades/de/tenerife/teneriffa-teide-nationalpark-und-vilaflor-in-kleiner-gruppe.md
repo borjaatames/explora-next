@@ -67,6 +67,18 @@ galeria:
   alt: Der Vulkan Pico Viejo
 - src: /images/actividades/tenerife/teide/canadas-lava.webp
   alt: Die Cañadas am Teide
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/roques-de-garcia-con-el-teide-al-fondo.webp
+  alt: 'Roques de García mit dem Teide im Hintergrund'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/pinar-y-coladas-volcanicas-en-las-faldas-del-teide.webp
+  alt: 'Kiefernwald und Lavaströme an den Hängen des Teide'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/senderistas-en-un-paisaje-de-ceniza-volcanica.webp
+  alt: 'Wanderer in einer Landschaft aus Vulkanasche'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/viajeros-contemplando-el-paisaje-volcanico-del-parque.webp
+  alt: 'Reisende genießen die Vulkanlandschaft des Parks'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/parador-de-las-canadas-del-teide.webp
+  alt: 'Parador de Las Cañadas del Teide'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/paisaje-de-tierra-roja-con-el-teide-al-fondo.webp
+  alt: 'Rote Erdlandschaft mit dem Teide im Hintergrund'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

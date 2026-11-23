@@ -109,6 +109,14 @@ galeria:
   alt: 'Sunset by Roque Nublo'
 - src: /images/actividades/gran-canaria/estrellas/via-lactea-molino.webp
   alt: 'The Milky Way over a windmill in Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/puesta-de-sol-en-las-cumbres-de-gran-canaria.webp
+  alt: 'Sunset on the summits of Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-contemplando-la-caldera-desde-un-mirador.webp
+  alt: 'Hiker gazing at the caldera from a viewpoint'
+- src: /images/actividades/gran-canaria/prov-climbo/paisaje-volcanico-del-interior-con-el-mar-al-fondo.webp
+  alt: 'Volcanic inland landscape with the sea behind'
+- src: /images/actividades/gran-canaria/prov-climbo/cueva-con-vistas-a-las-montanas-del-interior.webp
+  alt: 'Cave overlooking the inland mountains'
 ---
 
 ## What you will see

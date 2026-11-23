@@ -71,6 +71,16 @@ galeria:
   alt: Fondale roccioso visto attraverso l'acqua limpida
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: La baia e la spiaggia di Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Subacqueo circondato da pesci a Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Subacquei accanto a una tartaruga marina'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Gruppo di immersione sulla barriera con una tartaruga'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Subacqueo accanto a una grande roccia sottomarina'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Stella marina rossa sul fondale'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -50,8 +50,8 @@ keywords:
 - try dive gran canaria
 - scuba diving beginners gran canaria
 - diving puerto rico gran canaria
-imagen: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
-imagenAlt: Fish over the sandy seabed in Gran Canaria waters
+imagen: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-principiantes-con-su-instructor-bajo-el-agua.webp
+imagenAlt: 'Beginner divers with their instructor underwater'
 galeria:
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Rocky seabed under crystal-clear water, ideal for snorkelling
@@ -67,6 +67,18 @@ galeria:
   alt: Cliffs and houses on the Mogán coast seen from the sea
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
   alt: Blue sea in front of a rocky coast, at water level
+- src: /images/actividades/gran-canaria/mogan-kayak/peces-fondo-marino-gran-canaria.webp
+  alt: 'Fish over the sandy seabed in Gran Canaria waters'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-una-sepia-sobre-la-roca.webp
+  alt: 'Diver next to a cuttlefish on the rock'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceadores-entrando-al-agua-desde-la-playa.webp
+  alt: 'Divers walking into the sea from the beach'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/pareja-de-buceadores-en-su-primera-inmersion.webp
+  alt: 'Pair of divers on their first dive'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/buceador-junto-a-un-banco-de-peces.webp
+  alt: 'Diver beside a school of fish'
+- src: /images/actividades/gran-canaria/prov-puerto-rico-diving-gran-canaria/alumnos-en-el-agua-poco-profunda-antes-de-bucear.webp
+  alt: 'Students in shallow water before diving'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

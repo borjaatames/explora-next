@@ -63,6 +63,14 @@ galeria:
   alt: Les falaises de la côte sud de Tenerife
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Paysage volcanique du parc national du Teide
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Pyramide à degrés de Güímar sous un ciel nuageux'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Visiteurs contemplant l''une des pyramides du parc'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Famille se promenant sur les sentiers du parc ethnographique'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Visite guidée près du bassin du jardin'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

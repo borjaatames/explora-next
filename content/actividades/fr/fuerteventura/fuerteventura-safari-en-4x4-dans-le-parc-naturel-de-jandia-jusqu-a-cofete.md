@@ -72,6 +72,12 @@ galeria:
   alt: Vue de Cofete depuis le point de vue
 - src: /images/actividades/fuerteventura/zonas/costa-jandia.webp
   alt: Côte de la péninsule de Jandía
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: '4x4 de Tamarán sur un belvédère au-dessus de la mer'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Voyageuse à la fenêtre du jeep safari'
+- src: /images/actividades/fuerteventura/prov-tamaran/todoterrenos-por-una-pista-de-tierra.webp
+  alt: '4x4 sur une piste de terre'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

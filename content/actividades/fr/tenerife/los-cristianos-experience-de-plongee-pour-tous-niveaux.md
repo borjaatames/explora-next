@@ -77,6 +77,16 @@ galeria:
   alt: Plongeur au-dessus d'un fond rocheux
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
   alt: La baie de Los Cristianos vue depuis le rivage
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceadora-explorando-el-fondo-rocoso-en-tenerife.webp
+  alt: 'Plongeuse explorant les fonds rocheux à Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceador-junto-a-una-roca-en-aguas-de-tenerife.webp
+  alt: 'Plongeur près d''un rocher dans les eaux de Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/instructor-y-alumno-de-buceo-en-el-fondo-marino.webp
+  alt: 'Moniteur et élève de plongée sur le fond marin'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/pecio-hundido-en-una-inmersion-en-tenerife.webp
+  alt: 'Épave engloutie lors d''une plongée à Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/briefing-con-los-buceadores-antes-de-entrar-al-agua.webp
+  alt: 'Briefing avec les plongeurs avant la mise à l''eau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -63,6 +63,14 @@ galeria:
   alt: Veleiro fundeado na baía de Masca sob as falésias
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: O Teide visto de nordeste
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Pirâmide escalonada de Güímar sob um céu com nuvens'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Visitantes a contemplar uma das pirâmides do parque'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Família a passear pelos trilhos do parque etnográfico'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Visita guiada junto ao lago do jardim'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -77,6 +77,16 @@ galeria:
   alt: Mergulhador sobre um fundo rochoso
 - src: /images/actividades/tenerife/cristianos/bahia-los-cristianos.webp
   alt: Baía de Los Cristianos vista da costa
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceadora-explorando-el-fondo-rocoso-en-tenerife.webp
+  alt: 'Mergulhadora a explorar o fundo rochoso em Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/buceador-junto-a-una-roca-en-aguas-de-tenerife.webp
+  alt: 'Mergulhador junto a uma rocha nas águas de Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/instructor-y-alumno-de-buceo-en-el-fondo-marino.webp
+  alt: 'Instrutor e aluno de mergulho no fundo do mar'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/pecio-hundido-en-una-inmersion-en-tenerife.webp
+  alt: 'Naufrágio afundado num mergulho em Tenerife'
+- src: /images/actividades/tenerife/prov-barbarian-diving-tenerife/briefing-con-los-buceadores-antes-de-entrar-al-agua.webp
+  alt: 'Briefing com os mergulhadores antes de entrar na água'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

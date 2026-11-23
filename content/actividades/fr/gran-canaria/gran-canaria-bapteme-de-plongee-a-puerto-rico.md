@@ -72,6 +72,8 @@ galeria:
   alt: Poissons au-dessus des fonds sableux de Grande Canarie
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Coucher de soleil à Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-blue-water-diving/grupo-de-bautismo-de-buceo-con-el-instructor-en-puerto-.webp
+  alt: 'Groupe de baptême de plongée avec le moniteur à Puerto Rico'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

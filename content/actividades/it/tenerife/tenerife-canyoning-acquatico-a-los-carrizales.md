@@ -74,6 +74,16 @@ galeria:
   alt: All'interno del burrone di Masca
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Torrentista che scende tra rocce bagnate
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Torrentisti accanto a una cascata in una gola vulcanica'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Discesa in teleferica sopra una pozza della gola'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Gruppo che galleggia in una pozza con mute e caschi'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Torrentista che attraversa una pozza sotto una grotta'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Torrentisti che nuotano tra pareti di roccia'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

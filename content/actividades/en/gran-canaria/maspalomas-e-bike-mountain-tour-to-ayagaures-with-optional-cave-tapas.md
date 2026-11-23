@@ -75,6 +75,8 @@ galeria:
   alt: Mountains of the Fataga ravine
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
   alt: Tracks and slopes of the Fataga ravine
+- src: /images/actividades/gran-canaria/prov-bici-bike-vintage/ciclistas-con-bici-electrica-en-un-mirador-del-sur-de-g.webp
+  alt: 'E-bike riders at a viewpoint in southern Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

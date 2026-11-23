@@ -69,6 +69,18 @@ galeria:
   alt: Dune di Maspalomas in riva al mare
 - src: /images/actividades/_shared/surf/siluetas-tablas-atardecer.webp
   alt: Sagome di surfisti con le tavole al tramonto
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-de-surf-poniendose-de-pie-en-la-espuma.webp
+  alt: 'Allievi di surf che si alzano sulla schiuma'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/surfista-principiante-cogiendo-una-ola-en-maspalomas.webp
+  alt: 'Surfista principiante che prende un''onda a Maspalomas'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-sentados-en-sus-tablas-en-el-agua.webp
+  alt: 'Allievi seduti sulle tavole in acqua'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/grupo-de-la-escuela-de-surf-celebrando-en-el-mar.webp
+  alt: 'Gruppo della scuola di surf che festeggia in mare'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/calentamiento-en-la-arena-antes-de-la-clase.webp
+  alt: 'Riscaldamento sulla sabbia prima della lezione'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/instructor-con-alumnas-en-la-orilla.webp
+  alt: 'Istruttore con allieve a riva'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

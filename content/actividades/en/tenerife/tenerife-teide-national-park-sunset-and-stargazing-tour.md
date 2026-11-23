@@ -73,6 +73,16 @@ galeria:
   alt: Canary pines and the sea of clouds at sunset in Tenerife's high country
 - src: /images/actividades/tenerife/teleferico/vistas-cumbre.webp
   alt: Views from high on Teide above the clouds
+- src: /images/actividades/tenerife/prov-tenerife-stars/observacion-de-estrellas-con-telescopio-bajo-la-via-lac.webp
+  alt: 'Stargazing with a telescope under the Milky Way'
+- src: /images/actividades/tenerife/prov-tenerife-stars/grupo-contemplando-el-atardecer-en-el-teide.webp
+  alt: 'Group watching the sunset on Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/via-lactea-sobre-las-montanas-del-teide.webp
+  alt: 'Milky Way over the Teide mountains'
+- src: /images/actividades/tenerife/prov-tenerife-stars/puesta-de-sol-sobre-el-mar-de-nubes.webp
+  alt: 'Sunset over the sea of clouds'
+- src: /images/actividades/tenerife/prov-tenerife-stars/grupo-de-la-excursion-de-noche-en-el-teide.webp
+  alt: 'Night tour group on Teide'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

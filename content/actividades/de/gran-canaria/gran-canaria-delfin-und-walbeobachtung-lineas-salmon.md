@@ -66,6 +66,8 @@ galeria:
   alt: Strand und Hotels in Taurito
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Sonnenuntergang in Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-lineas-salmon/barco-con-fondo-de-cristal-navegando-en-gran-canaria.webp
+  alt: 'Glasbodenboot unterwegs vor Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

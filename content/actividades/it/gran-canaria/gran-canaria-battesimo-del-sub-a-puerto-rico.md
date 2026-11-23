@@ -72,6 +72,8 @@ galeria:
   alt: Pesci sul fondale sabbioso nelle acque di Gran Canaria
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Tramonto a Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-blue-water-diving/grupo-de-bautismo-de-buceo-con-el-instructor-en-puerto-.webp
+  alt: 'Gruppo di battesimo subacqueo con l''istruttore a Puerto Rico'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

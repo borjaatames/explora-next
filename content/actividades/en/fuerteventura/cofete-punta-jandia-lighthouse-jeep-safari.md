@@ -84,8 +84,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
-imagenAlt: "4x4 stopped on a dirt track"
+imagen: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+imagenAlt: '4x4s on the track to Cofete beach'
 galeria:
 - src: /images/actividades/fuerteventura/punta-jandia/ffv-pista-faro-punta-jandia.webp
   alt: "Track to the Punta Jandía lighthouse"
@@ -101,6 +101,10 @@ galeria:
   alt: "Atlantic surf at Cofete beach"
 - src: /images/actividades/fuerteventura/zonas/cofete-mirador.webp
   alt: "View of Cofete from the viewpoint"
+- src: /images/actividades/granada/sierra-nevada-4x4/todoterreno-pista-tierra.webp
+  alt: '4x4 stopped on a dirt track'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Cofete beach seen from the Jandía viewpoint'
 ---
 
 ## What you will see

@@ -69,6 +69,18 @@ galeria:
   alt: Murène entre les rochers
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: La montagne de Guaza, dans la commune d’Arona
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Groupe de baptême de plongée entouré de poissons'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Plongeurs entrant dans l''eau depuis le rivage'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Moniteur et élèves prêts au bord de l''eau'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Plongeurs près d''une tortue au-dessus d''un herbier'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Plongeuse apparaissant entre des rochers couverts d''oursins'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Arche rocheuse sous-marine à Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

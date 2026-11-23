@@ -96,6 +96,8 @@ galeria:
   alt: 'Costa de Palm-Mar, junto a Las Galletas'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: 'Montaña de Guaza, en la costa sur de Tenerife'
+- src: /images/actividades/tenerife/prov-shaka-surf-tenerife/alumnos-de-surf-entrando-al-agua-con-sus-tablas.webp
+  alt: 'Alumnos de surf entrando al agua con sus tablas'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

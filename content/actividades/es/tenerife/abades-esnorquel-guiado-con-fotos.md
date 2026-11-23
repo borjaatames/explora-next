@@ -73,6 +73,14 @@ galeria:
   alt: Costa rocosa volcánica en Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fondo rocoso bajo aguas cristalinas, ideal para el esnórquel
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-junto-a-una-tortuga-marina.webp
+  alt: 'Nadadora junto a una tortuga marina'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/buceadora-en-apnea-con-una-tortuga-bajo-el-agua.webp
+  alt: 'Buceadora en apnea con una tortuga bajo el agua'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-entre-rocas-en-aguas-claras.webp
+  alt: 'Nadadora entre rocas en aguas claras'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/lancha-neumatica-frente-a-la-costa-de-tenerife.webp
+  alt: 'Lancha neumática frente a la costa de Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

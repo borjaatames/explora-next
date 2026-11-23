@@ -81,6 +81,18 @@ galeria:
   alt: Montaña de Guaza, en la costa sur de Tenerife
 - src: /images/actividades/tenerife/kayak-cristianos/kayak-aguas-transparentes.webp
   alt: Kayak en aguas transparentes junto a la costa
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-entre-tortugas-marinas-en-aguas-turquesa.webp
+  alt: 'Kayaks entre tortugas marinas en aguas turquesa'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayakistas-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayakistas a la entrada de una cueva marina'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/pareja-remando-en-kayak-junto-a-la-costa-rocosa.webp
+  alt: 'Pareja remando en kayak junto a la costa rocosa'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/grupo-en-kayak-frente-a-una-cueva-volcanica.webp
+  alt: 'Grupo en kayak frente a una cueva volcánica'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/tortuga-marina-nadando-bajo-el-agua.webp
+  alt: 'Tortuga marina nadando bajo el agua'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-bajo-los-acantilados-de-la-costa.webp
+  alt: 'Kayaks bajo los acantilados de la costa'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

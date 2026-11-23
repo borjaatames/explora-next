@@ -106,6 +106,8 @@ galeria:
   alt: "Pico de las Nieves, el techo de Gran Canaria"
 - src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
   alt: "Mar de nubes sobre las cumbres"
+- src: /images/actividades/gran-canaria/prov-gc-active-tour/pinar-y-roque-nublo-desde-las-cumbres-de-gran-canaria.webp
+  alt: 'Pinar y Roque Nublo desde las cumbres de Gran Canaria'
 ---
 
 ## Qué vas a ver

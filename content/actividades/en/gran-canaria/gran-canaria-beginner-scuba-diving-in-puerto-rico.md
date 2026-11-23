@@ -72,6 +72,8 @@ galeria:
   alt: Fish over the sandy seabed in Gran Canaria waters
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Puerto Rico de Gran Canaria at sunset
+- src: /images/actividades/gran-canaria/prov-blue-water-diving/grupo-de-bautismo-de-buceo-con-el-instructor-en-puerto-.webp
+  alt: 'Try-dive group with the instructor in Puerto Rico'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

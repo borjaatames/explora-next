@@ -74,6 +74,12 @@ galeria:
   alt: The Fataga ravine in southern Gran Canaria
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
   alt: Winding road through a ravine in southern Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-la-via-ferrata-sobre-roca-rojiza.webp
+  alt: 'Climber on the via ferrata over reddish rock'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-de-cuerdas-entre-paredes-de-roca.webp
+  alt: 'Rope crossing between rock walls'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-lo-alto-de-un-acantilado.webp
+  alt: 'Climber at the top of a cliff'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

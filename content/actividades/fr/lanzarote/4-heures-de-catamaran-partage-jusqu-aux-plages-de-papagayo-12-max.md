@@ -72,6 +72,18 @@ galeria:
   alt: Une crique de Papagayo aux eaux turquoise et aux roches volcaniques
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Kayak rouge sur une plage de sable blanc
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Catamaran au mouillage face aux plages de Papagayo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Catamaran à voile avec la côte de Lanzarote en fond'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Crique de sable doré entre les roches volcaniques'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Coucher de soleil depuis le pont du voilier'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'Paddle à côté du catamaran'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Enfant pagayant en kayak pendant l''arrêt'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

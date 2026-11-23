@@ -107,6 +107,18 @@ galeria:
   alt: 'Peixes sobre o fundo arenoso em águas de Gran Canária'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: 'Costa rochosa do sudoeste de Gran Canária'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-bajo-un-arco-de-roca-en-la-costa-de-mogan.webp
+  alt: 'Caiaques sob um arco de rocha na costa de Mogán'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Caiaque à entrada de uma gruta marinha'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-de-kayaks-visto-desde-lo-alto-del-acantilado.webp
+  alt: 'Grupo de caiaques visto do alto da falésia'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayakistas-junto-a-un-rompiente-en-la-costa.webp
+  alt: 'Caiaquistas junto à rebentação na costa'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-entrando-en-una-cueva-volcanica.webp
+  alt: 'Caiaque a entrar numa gruta vulcânica'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-saliendo-del-puerto-de-mogan.webp
+  alt: 'Caiaques a sair do porto de Mogán'
 avisoReserva: "A tripulação ou o guia fala espanhol e inglês: não há explicações em português."
 ---
 

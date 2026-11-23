@@ -80,6 +80,14 @@ galeria:
   alt: Plage de Costa Adeje avec les montagnes en arrière-plan
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Globicéphales au large de la côte de Tenerife
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-junto-a-un-calderon-en-el-sur-de-tenerife.webp
+  alt: 'Voilier à côté d''un globicéphale au sud de Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-navegando-en-aguas-abiertas-de-tenerife.webp
+  alt: 'Voilier naviguant en pleine mer à Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-frente-a-la-costa-sur-con-las-montanas-al-fondo.webp
+  alt: 'Voilier au large de la côte sud avec les montagnes en fond'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/el-teide-nevado-visto-desde-el-mar.webp
+  alt: 'Le Teide enneigé vu depuis la mer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

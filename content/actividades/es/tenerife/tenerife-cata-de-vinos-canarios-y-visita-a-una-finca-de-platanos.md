@@ -74,6 +74,8 @@ galeria:
   alt: Plataneras alrededor de un pueblo de Tenerife
 - src: /images/actividades/tenerife/casa-del-vino/ftc-uva-tinta-hojas-vina.webp
   alt: Uva tinta madura entre las hojas de la vid
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Autobús de Atlántico Excursiones'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

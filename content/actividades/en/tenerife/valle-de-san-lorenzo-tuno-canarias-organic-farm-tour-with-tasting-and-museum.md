@@ -72,6 +72,10 @@ galeria:
   alt: Prickly pear pads with ripe fruit on a hillside
 - src: /images/actividades/tenerife/tuno/tunera-flor-costa.webp
   alt: Flowering prickly pear on the Tenerife coast
+- src: /images/actividades/tenerife/prov-tuno-canarias/tuneras-con-higos-picos-maduros-en-la-finca.webp
+  alt: 'Prickly pear cacti with ripe fruit at the farm'
+- src: /images/actividades/tenerife/prov-tuno-canarias/higos-picos-rojos-en-primer-plano.webp
+  alt: 'Close-up of red prickly pears'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

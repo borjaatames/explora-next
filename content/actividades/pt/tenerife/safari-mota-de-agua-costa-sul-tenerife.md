@@ -101,6 +101,16 @@ galeria:
   alt: 'Pessoa a nadar com máscara debaixo de água (imagem ilustrativa)'
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: 'Costa rochosa vulcânica em Costa Adeje'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Mota de água a levantar espuma na costa de Tenerife'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Casal numa mota de água junto às falésias'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Mota de água em frente a uma gruta vulcânica'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Piloto de mota de água junto a uma gruta marinha'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Duas pessoas a desfrutar da mota de água'
 ratingProveedor: 4.5
 numeroOpiniones: 3170
 atraccionesRelacionadas:

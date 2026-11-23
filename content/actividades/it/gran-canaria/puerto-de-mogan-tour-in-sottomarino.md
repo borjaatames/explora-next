@@ -100,6 +100,10 @@ galeria:
   alt: Il sottomarino giallo nel porto di Puerto de Mogán
 - src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
   alt: Primo piano del sottomarino giallo di Mogán
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/submarino-amarillo-atracado-en-el-puerto-de-mogan.webp
+  alt: 'Sottomarino giallo ormeggiato nel porto di Mogán'
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/interior-del-submarino-con-grandes-ventanas.webp
+  alt: 'Interno del sottomarino con grandi oblò'
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

@@ -92,8 +92,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-11-05'
-imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
-imagenAlt: 'Barche davanti alle scogliere di Gran Canaria'
+imagen: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-afrikat-navegando-con-pasajeros-en-cubierta.webp
+imagenAlt: 'Catamarano Afrikat in navigazione con passeggeri sul ponte'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
   alt: 'Il porto turistico di Puerto Rico de Gran Canaria'
@@ -109,6 +109,18 @@ galeria:
   alt: 'La baia e la spiaggia di Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
   alt: 'Il porto di Puerto Rico a Gran Canaria visto dall''alto'
+- src: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+  alt: 'Barche davanti alle scogliere di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-fondeado-junto-a-los-acantilados-del-sur-de-g.webp
+  alt: 'Catamarano ancorato vicino alle scogliere del sud di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/pasajeros-banandose-desde-la-popa-del-catamaran.webp
+  alt: 'Passeggeri che fanno il bagno dalla poppa del catamarano'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/saltos-al-agua-en-una-cala-durante-el-crucero.webp
+  alt: 'Tuffi in una caletta durante la crociera'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/flotador-gigante-junto-a-la-costa-rocosa.webp
+  alt: 'Ciambella gigante accanto alla costa rocciosa'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-saliendo-de-puerto-rico-de-gran-canaria.webp
+  alt: 'Catamarano in uscita da Puerto Rico de Gran Canaria'
 ---
 
 ## Cosa vedrai

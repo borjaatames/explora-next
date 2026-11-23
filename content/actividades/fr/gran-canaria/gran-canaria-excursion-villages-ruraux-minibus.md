@@ -105,6 +105,8 @@ galeria:
   alt: 'Bananeraies sur la côte nord de Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
   alt: 'Palmiers des Canaries dans le ravin de Fataga'
+- src: /images/actividades/gran-canaria/prov-discovery-jeep-safari/minibus-de-la-excursion-parado-en-una-carretera-de-mont.webp
+  alt: 'Minibus de l''excursion arrêté sur une route de montagne'
 ---
 
 ## Ce que vous verrez

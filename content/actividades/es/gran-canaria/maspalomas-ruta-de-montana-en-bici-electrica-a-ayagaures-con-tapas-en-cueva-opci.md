@@ -75,6 +75,8 @@ galeria:
   alt: Montañas del barranco de Fataga
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
   alt: Pistas y laderas del barranco de Fataga
+- src: /images/actividades/gran-canaria/prov-bici-bike-vintage/ciclistas-con-bici-electrica-en-un-mirador-del-sur-de-g.webp
+  alt: 'Ciclistas con bici eléctrica en un mirador del sur de Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

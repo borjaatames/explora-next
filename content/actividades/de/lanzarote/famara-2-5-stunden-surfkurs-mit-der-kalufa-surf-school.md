@@ -52,8 +52,8 @@ keywords:
 - kalufa surfschule
 - surfkurs famara
 - surfschule lanzarote
-imagen: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
-imagenAlt: Surfer im flachen Wasser warten auf Wellen
+imagen: /images/actividades/lanzarote/prov-kalufa-surf-school/alumna-surfeando-con-los-riscos-de-famara-al-fondo.webp
+imagenAlt: 'Schülerin surft vor den Klippen von Famara'
 galeria:
 - src: /images/actividades/lanzarote/famara/flz-vista-macizo.webp
   alt: Caleta de Famara vom Famara-Massiv aus
@@ -69,6 +69,18 @@ galeria:
   alt: Draufsicht auf einen Surfer neben brechenden Wellen
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Wellen an einer roten Vulkanküste mit schwarzem Strand
+- src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
+  alt: 'Surfer im flachen Wasser warten auf Wellen'
+- src: /images/actividades/lanzarote/prov-kalufa-surf-school/grupo-saltando-en-la-playa-de-famara-tras-la-clase.webp
+  alt: 'Gruppe springt nach dem Kurs am Strand von Famara'
+- src: /images/actividades/lanzarote/prov-kalufa-surf-school/alumna-cogiendo-la-espuma-en-famara.webp
+  alt: 'Schülerin reitet das Weißwasser in Famara'
+- src: /images/actividades/lanzarote/prov-kalufa-surf-school/instructor-ayudando-a-un-alumno-a-ponerse-de-pie.webp
+  alt: 'Lehrer hilft einem Schüler beim Aufstehen'
+- src: /images/actividades/lanzarote/prov-kalufa-surf-school/teoria-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Theorie im Sand vor dem Gang ins Wasser'
+- src: /images/actividades/lanzarote/prov-kalufa-surf-school/playa-de-famara-con-olas-y-los-riscos.webp
+  alt: 'Strand von Famara mit Wellen und Klippen'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -56,8 +56,8 @@ keywords:
 - paragliding tenerife
 - tandem paragliding tenerife
 - paragliding costa adeje pick-up
-imagen: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
-imagenAlt: Tandem paragliding flight
+imagen: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/vuelo-en-parapente-biplaza-sobre-el-mar-de-nubes.webp
+imagenAlt: 'Tandem paragliding flight above the sea of clouds'
 galeria:
 - src: /images/actividades/tenerife/parapente-adeje/parapente-sobre-las-olas.webp
   alt: Paraglider flying above the waves
@@ -73,6 +73,12 @@ galeria:
   alt: Los Cristianos beach
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Cliffs along the south coast of Tenerife
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: 'Tandem paragliding flight'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/parapente-biplaza-al-atardecer-sobre-la-costa-sur.webp
+  alt: 'Tandem paraglider at sunset over the south coast'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/piloto-y-pasajero-en-pleno-vuelo-en-parapente.webp
+  alt: 'Pilot and passenger mid-flight on a paraglider'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

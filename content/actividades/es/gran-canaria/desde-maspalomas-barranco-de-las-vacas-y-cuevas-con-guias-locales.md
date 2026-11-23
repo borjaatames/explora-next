@@ -67,6 +67,14 @@ galeria:
   alt: Final de la garganta abriéndose al cielo
 - src: /images/actividades/gran-canaria/sureste/fgc-paredes-rojas-barranco.webp
   alt: Paredes de roca rojiza y palmeras en un barranco del sureste de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-sky-rebels/paredes-onduladas-de-arenisca-en-el-barranco-de-las-vac.webp
+  alt: 'Paredes onduladas de arenisca en el Barranco de las Vacas'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/formaciones-de-roca-erosionada-en-el-barranco.webp
+  alt: 'Formaciones de roca erosionada en el barranco'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/grupo-dentro-de-una-cueva-con-vistas-a-las-cumbres.webp
+  alt: 'Grupo dentro de una cueva con vistas a las cumbres'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/visitante-dentro-de-una-cueva-excavada-en-la-roca.webp
+  alt: 'Visitante dentro de una cueva excavada en la roca'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

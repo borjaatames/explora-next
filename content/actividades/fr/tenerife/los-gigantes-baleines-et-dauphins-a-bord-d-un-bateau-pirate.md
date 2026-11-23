@@ -61,8 +61,8 @@ keywords:
 - los gigantes excursion bateau
 - bateau pirate tenerife
 - dauphins los gigantes
-imagen: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
-imagenAlt: Falaises de Los Gigantes vues de la mer
+imagen: /images/actividades/tenerife/prov-flipper-uno/barco-pirata-flipper-uno-navegando-a-vela.webp
+imagenAlt: 'Bateau pirate Flipper Uno naviguant à la voile'
 galeria:
 - src: /images/actividades/tenerife/gigantes/delfin-aleta-nadando.webp
   alt: Dauphin nageant en surface
@@ -78,6 +78,14 @@ galeria:
   alt: Los Gigantes au coucher du soleil
 - src: /images/actividades/tenerife/masca/masca-caserio.webp
   alt: Le hameau de Masca au milieu des montagnes
+- src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
+  alt: 'Falaises de Los Gigantes vues de la mer'
+- src: /images/actividades/tenerife/prov-flipper-uno/calderones-nadando-junto-al-velero-en-los-gigantes.webp
+  alt: 'Globicéphales nageant à côté du voilier près de Los Gigantes'
+- src: /images/actividades/tenerife/prov-flipper-uno/parada-para-banarse-junto-a-los-acantilados.webp
+  alt: 'Arrêt baignade au pied des falaises'
+- src: /images/actividades/tenerife/prov-flipper-uno/delfin-saltando-en-mar-abierto.webp
+  alt: 'Dauphin sautant en pleine mer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

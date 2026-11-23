@@ -68,6 +68,12 @@ galeria:
   alt: Almendros en flor frente al Roque Bentayga, en Tejeda
 - src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
   alt: Calle de Teror con las montañas del norte al fondo
+- src: /images/actividades/gran-canaria/prov-climbo/rapel-junto-a-una-cascada-en-la-laurisilva-de-gran-cana.webp
+  alt: 'Rápel junto a una cascada en la laurisilva de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/guia-junto-a-una-pequena-cascada-del-barranco.webp
+  alt: 'Guía junto a una pequeña cascada del barranco'
+- src: /images/actividades/gran-canaria/prov-climbo/progresion-por-roca-con-casco-y-arnes.webp
+  alt: 'Progresión por roca con casco y arnés'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

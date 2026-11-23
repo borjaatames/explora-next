@@ -110,6 +110,18 @@ galeria:
   alt: 'Pesci sul fondale sabbioso nelle acque di Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: 'Costa rocciosa nel sud-ovest di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-bajo-un-arco-de-roca-en-la-costa-de-mogan.webp
+  alt: 'Kayak sotto un arco di roccia sulla costa di Mogán'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayak all''ingresso di una grotta marina'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-de-kayaks-visto-desde-lo-alto-del-acantilado.webp
+  alt: 'Gruppo di kayak visto dall''alto della scogliera'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayakistas-junto-a-un-rompiente-en-la-costa.webp
+  alt: 'Kayakisti accanto alle onde che si infrangono sulla costa'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-entrando-en-una-cueva-volcanica.webp
+  alt: 'Kayak che entra in una grotta vulcanica'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-saliendo-del-puerto-de-mogan.webp
+  alt: 'Kayak in partenza dal porto di Mogán'
 ---
 
 ## Cosa vedrai

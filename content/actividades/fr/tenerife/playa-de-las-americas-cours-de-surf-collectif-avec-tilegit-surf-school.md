@@ -53,8 +53,8 @@ keywords:
 - tilegit surf school
 - cours de surf collectif tenerife
 - surf las americas
-imagen: /images/actividades/_shared/surf/silueta-surfista-playa.webp
-imagenAlt: Silhouette d'un surfeur tenant sa planche sur la plage
+imagen: /images/actividades/tenerife/prov-tilegit-surf-school/alumna-de-surf-poniendose-de-pie-en-la-tabla-en-playa-d.webp
+imagenAlt: 'Élève de surf se levant sur la planche à Playa de las Américas'
 galeria:
 - src: /images/actividades/_shared/surf/surfista-ola-grande.webp
   alt: Surfeur sur une grosse vague
@@ -70,6 +70,12 @@ galeria:
   alt: Surfeurs dans les vagues du bord attendant la houle
 - src: /images/actividades/fuerteventura/surf-corralejo/tablas-de-surf-en-la-arena.webp
   alt: Planches de surf alignées sur le sable
+- src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
+  alt: 'Silhouette d''un surfeur tenant sa planche sur la plage'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/clase-de-surf-en-tierra-con-el-instructor.webp
+  alt: 'Cours de surf à terre avec le moniteur'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/surfista-deslizandose-en-una-ola-rompiente.webp
+  alt: 'Surfeur glissant sur une vague déferlante'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

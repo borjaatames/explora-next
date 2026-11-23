@@ -80,6 +80,18 @@ galeria:
   alt: "Voiliers amarrés dans un port de plaisance"
 - src: "/images/actividades/gran-canaria/maspalomas/fgc-dunas-maspalomas-crestas.webp"
   alt: "Dunes de Maspalomas au bord de la mer"
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-paradise-cat-fondeado-junto-a-los-acantilados.webp
+  alt: 'Catamaran Paradise Cat au mouillage près des falaises'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-con-tablas-de-padel-surf-en-aguas-azules.webp
+  alt: 'Catamaran avec des planches de paddle dans une eau bleue'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/catamaran-navegando-en-mar-abierto.webp
+  alt: 'Catamaran naviguant en pleine mer'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/pasajeras-relajandose-en-la-cubierta-del-catamaran.webp
+  alt: 'Passagères se détendant sur le pont du catamaran'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/esnorquel-entre-peces-durante-la-parada-de-bano.webp
+  alt: 'Snorkeling parmi les poissons pendant l''arrêt baignade'
+- src: /images/actividades/gran-canaria/prov-infinity-boat-tours-gran-canaria/puesta-de-sol-desde-la-popa-del-barco.webp
+  alt: 'Coucher de soleil depuis la poupe du bateau'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

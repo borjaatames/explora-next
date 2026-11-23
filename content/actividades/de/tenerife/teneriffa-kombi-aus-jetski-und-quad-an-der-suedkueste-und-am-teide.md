@@ -71,6 +71,16 @@ galeria:
   alt: Zwei Quads mit eingeschaltetem Licht in der Dämmerung
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
   alt: Die Cañadas am Teide
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Jetski mit Gischt an der Küste Teneriffas'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Paar auf einem Jetski an den Klippen'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Jetski vor einer vulkanischen Meereshöhle'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Jetski-Fahrer neben einer Meereshöhle'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Zwei Personen genießen eine Jetski-Fahrt'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

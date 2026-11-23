@@ -68,6 +68,18 @@ galeria:
   alt: Ridges of the Anaga massif
 - src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
   alt: Ferns and moss in a misty laurel forest
+- src: /images/actividades/tenerife/prov-trektenerife/roques-de-anaga-y-la-costa-norte-desde-un-mirador.webp
+  alt: 'Roques de Anaga and the north coast from a viewpoint'
+- src: /images/actividades/tenerife/prov-trektenerife/senderistas-descansando-sobre-los-acantilados-de-anaga.webp
+  alt: 'Hikers resting above the Anaga cliffs'
+- src: /images/actividades/tenerife/prov-trektenerife/grupo-caminando-por-un-sendero-de-laurisilva.webp
+  alt: 'Group walking along a laurel forest trail'
+- src: /images/actividades/tenerife/prov-trektenerife/paso-entre-rocas-en-un-barranco-de-anaga.webp
+  alt: 'Scrambling between rocks in an Anaga ravine'
+- src: /images/actividades/tenerife/prov-trektenerife/crestas-verdes-del-macizo-de-anaga.webp
+  alt: 'Green ridges of the Anaga massif'
+- src: /images/actividades/tenerife/prov-trektenerife/senderistas-frente-a-las-montanas-de-anaga.webp
+  alt: 'Hikers facing the Anaga mountains'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

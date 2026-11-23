@@ -54,8 +54,8 @@ keywords:
 - voilier tenerife baleines
 - voilier costa adeje
 - observation baleines voilier tenerife
-imagen: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
-imagenAlt: Goélette avec passagers au pied de montagnes arides
+imagen: /images/actividades/tenerife/prov-blue-jack-sail/velero-de-blue-jack-sail-navegando.webp
+imagenAlt: 'Voilier de Blue Jack Sail en navigation'
 galeria:
 - src: /images/actividades/_shared/velero/velero-spi-mar-azul.webp
   alt: Voilier sous spi sur une mer bleu profond
@@ -71,6 +71,18 @@ galeria:
   alt: Voilier blanc en pleine mer
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Les falaises de la côte sud de Tenerife
+- src: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
+  alt: 'Goélette avec passagers au pied de montagnes arides'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajera-en-la-proa-del-velero-junto-a-delfines.webp
+  alt: 'Passagère à la proue près des dauphins'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/grupo-de-delfines-bajo-el-agua.webp
+  alt: 'Groupe de dauphins sous l''eau'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/calderon-respirando-en-la-superficie.webp
+  alt: 'Globicéphale respirant en surface'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajeros-a-bordo-del-velero.webp
+  alt: 'Passagers à bord du voilier'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/dos-calderones-nadando-juntos.webp
+  alt: 'Deux globicéphales nageant ensemble'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

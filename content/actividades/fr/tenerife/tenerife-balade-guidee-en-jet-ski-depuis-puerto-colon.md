@@ -58,8 +58,8 @@ keywords:
 - jet ski tenerife
 - jet ski puerto colon
 - balade jet ski costa adeje
-imagen: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
-imagenAlt: Pilote sur un jet-ski
+imagen: /images/actividades/tenerife/prov-jetski-racing/pareja-en-moto-de-agua-frente-a-la-costa-de-tenerife.webp
+imagenAlt: 'Couple en jet-ski au large de Tenerife'
 galeria:
 - src: /images/actividades/lanzarote/moto-de-agua/flz-estela.webp
   alt: Jet-ski laissant un sillage sur la mer
@@ -75,6 +75,8 @@ galeria:
   alt: La Montaña Amarilla au bord de la mer, sur la côte sud de Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Les falaises de la côte sud de Tenerife
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
+  alt: 'Pilote sur un jet-ski'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

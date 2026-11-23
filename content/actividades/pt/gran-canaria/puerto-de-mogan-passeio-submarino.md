@@ -100,6 +100,10 @@ galeria:
   alt: O submarino amarelo no porto de Mogán
 - src: /images/actividades/gran-canaria/submarino-mogan/submarino-cerca.webp
   alt: O submarino amarelo de Mogán visto de perto
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/submarino-amarillo-atracado-en-el-puerto-de-mogan.webp
+  alt: 'Submarino amarelo atracado no porto de Mogán'
+- src: /images/actividades/gran-canaria/prov-atlantida-submarine/interior-del-submarino-con-grandes-ventanas.webp
+  alt: 'Interior do submarino com grandes janelas'
 ratingProveedor: 4.4
 numeroOpiniones: 4509
 atraccionesRelacionadas:

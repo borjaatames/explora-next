@@ -105,6 +105,8 @@ galeria:
   alt: "Pico de las Nieves, the highest point in Gran Canaria"
 - src: /images/actividades/gran-canaria/roque-nublo/roque-nublo-mar-nubes.webp
   alt: "Sea of clouds over the summits"
+- src: /images/actividades/gran-canaria/prov-gc-active-tour/pinar-y-roque-nublo-desde-las-cumbres-de-gran-canaria.webp
+  alt: 'Pine forest and Roque Nublo from Gran Canaria''s summits'
 ---
 
 ## What you will see

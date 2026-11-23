@@ -80,6 +80,8 @@ galeria:
   alt: Porto de Puerto Rico de Gran Canaria visto do alto
 - src: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
   alt: Mota de água a navegar entre ondas
+- src: /images/actividades/gran-canaria/prov-ocean-motion-gc/pareja-en-moto-de-agua-frente-a-la-costa-de-mogan.webp
+  alt: 'Casal numa mota de água ao largo da costa de Mogán'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -80,6 +80,8 @@ galeria:
   alt: Le port de Puerto Rico à Grande Canarie vu d'en haut
 - src: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
   alt: Jet-ski fendant les vagues
+- src: /images/actividades/gran-canaria/prov-ocean-motion-gc/pareja-en-moto-de-agua-frente-a-la-costa-de-mogan.webp
+  alt: 'Couple en jet-ski au large de la côte de Mogán'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

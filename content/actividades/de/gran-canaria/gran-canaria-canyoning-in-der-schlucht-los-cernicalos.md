@@ -73,6 +73,18 @@ galeria:
   alt: Mandelblüte mit dem Roque Bentayga im Hintergrund
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Hänge der Schlucht von Guayadeque bei Agüimes
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Abseilen neben einem Wasserfall auf Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Lächelnder Canyoningfahrer beim Abseilen'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Abstieg über eine natürliche Felsrutsche'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Canyoningfahrer bereit zum Abseilen'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Durchquerung eines Beckens zwischen den Felsen der Schlucht'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Canyoningfahrer vor einem Wasserfall'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

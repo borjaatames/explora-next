@@ -56,8 +56,8 @@ keywords:
 - parapente tenerife
 - parapente tandem tenerife
 - parapente costa adeje com recolha
-imagen: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
-imagenAlt: Voo de parapente em tandem
+imagen: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/vuelo-en-parapente-biplaza-sobre-el-mar-de-nubes.webp
+imagenAlt: 'Voo de paraglider biplace sobre o mar de nuvens'
 galeria:
 - src: /images/actividades/tenerife/parapente-adeje/parapente-sobre-las-olas.webp
   alt: Parapente sobre as ondas
@@ -73,6 +73,12 @@ galeria:
   alt: Praia de Los Cristianos
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Veleiro fundeado na baía de Masca sob as falésias
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: 'Voo de parapente em tandem'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/parapente-biplaza-al-atardecer-sobre-la-costa-sur.webp
+  alt: 'Paraglider biplace ao pôr do sol sobre a costa sul'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/piloto-y-pasajero-en-pleno-vuelo-en-parapente.webp
+  alt: 'Piloto e passageiro em pleno voo de paraglider'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

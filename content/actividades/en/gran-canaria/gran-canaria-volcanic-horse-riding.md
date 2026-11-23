@@ -103,6 +103,18 @@ galeria:
   alt: "Aerial view of Puerto de Mogán"
 - src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
   alt: "Almond trees in blossom in front of Roque Bentayga, in Tejeda"
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/grupo-a-caballo-por-una-pista-entre-cardonales.webp
+  alt: 'Group on horseback along a track through spurge scrub'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/jinetes-al-atardecer-en-la-ruta-volcanica.webp
+  alt: 'Riders at sunset on the volcanic route'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/fila-de-caballos-en-el-camino-de-tierra.webp
+  alt: 'Line of horses on the dirt path'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/ruta-a-caballo-con-las-montanas-del-sur-al-fondo.webp
+  alt: 'Horse ride with the southern mountains behind'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/grupo-de-jinetes-en-el-paisaje-arido-de-gran-canaria.webp
+  alt: 'Group of riders in Gran Canaria''s arid landscape'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/jinetes-posando-con-sus-caballos-en-la-ruta.webp
+  alt: 'Riders posing with their horses on the route'
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

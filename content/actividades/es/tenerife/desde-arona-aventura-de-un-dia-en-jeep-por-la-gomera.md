@@ -58,8 +58,8 @@ keywords:
 - la gomera jeep
 - la gomera desde tenerife
 - excursion garajonay
-imagen: /images/actividades/tenerife/gomera/laguna-grande-garajonay.webp
-imagenAlt: Círculo de piedras en la Laguna Grande de Garajonay
+imagen: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+imagenAlt: 'Todoterreno de Tamarán en un mirador sobre el mar'
 galeria:
 - src: /images/actividades/tenerife/gomera/laurisilva-garajonay.webp
   alt: Sendero por la laurisilva del Parque Nacional de Garajonay
@@ -75,6 +75,10 @@ galeria:
   alt: Puerto de San Sebastián de La Gomera
 - src: /images/actividades/tenerife/gomera/ferri-fred-olsen.webp
   alt: Ferri de Fred. Olsen navegando entre Los Cristianos y La Gomera
+- src: /images/actividades/tenerife/gomera/laguna-grande-garajonay.webp
+  alt: 'Círculo de piedras en la Laguna Grande de Garajonay'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Viajera asomada a la ventanilla del jeep safari'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

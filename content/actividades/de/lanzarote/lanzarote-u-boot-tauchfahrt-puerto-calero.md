@@ -106,6 +106,10 @@ galeria:
   alt: 'Playa Blanca im Süden von Lanzarote'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
   alt: 'Eine Bucht von Papagayo mit türkisem Wasser und Vulkanfelsen'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Gelbes U-Boot neben einem Wrack auf dem Meeresgrund'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Im U-Boot mit Sitzen vor den Bullaugen'
 ratingProveedor: 4.6
 numeroOpiniones: 1587
 atraccionesRelacionadas:

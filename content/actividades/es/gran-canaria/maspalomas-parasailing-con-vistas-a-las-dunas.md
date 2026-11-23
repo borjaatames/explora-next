@@ -68,6 +68,14 @@ galeria:
   alt: Puerto deportivo de Puerto Rico de Gran Canaria
 - src: /images/actividades/_shared/parasailing/parasailing-yate-turquesa.webp
   alt: Parasailing detrás de un yate sobre aguas turquesa
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/parasailing-frente-al-faro-de-maspalomas.webp
+  alt: 'Parasailing frente al faro de Maspalomas'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/aterrizaje-suave-en-el-agua-tras-el-vuelo.webp
+  alt: 'Aterrizaje suave en el agua tras el vuelo'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/paracaidas-rojo-sobre-la-costa-de-meloneras.webp
+  alt: 'Paracaídas rojo sobre la costa de Meloneras'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/vista-del-parasailing-desde-la-lancha.webp
+  alt: 'Vista del parasailing desde la lancha'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

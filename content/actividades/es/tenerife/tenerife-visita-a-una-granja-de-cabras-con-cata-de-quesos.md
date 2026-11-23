@@ -56,8 +56,8 @@ keywords:
 - granja de cabras tenerife
 - cata de quesos tenerife
 - queseria montesdeoca
-imagen: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
-imagenAlt: Quesos curados de distintos tamaños
+imagen: /images/actividades/tenerife/prov-queseria-montesdeoca/visitantes-en-la-granja-de-cabras-con-vistas-al-mar.webp
+imagenAlt: 'Visitantes en la granja de cabras con vistas al mar'
 galeria:
 - src: /images/actividades/fuerteventura/gastronomia/cabra-majorera.webp
   alt: Cabra majorera en una finca
@@ -73,6 +73,14 @@ galeria:
   alt: Cabra sobre unas rocas volcánicas
 - src: /images/actividades/tenerife/estrellas/atardecer-pinos.webp
   alt: Atardecer desde el Teide entre pinos
+- src: /images/actividades/fuerteventura/queso/ffv-quesos-curados.webp
+  alt: 'Quesos curados de distintos tamaños'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/cata-de-quesos-y-vino-en-la-queseria.webp
+  alt: 'Cata de quesos y vino en la quesería'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/queseros-mostrando-uno-de-sus-quesos-premiados.webp
+  alt: 'Queseros mostrando uno de sus quesos premiados'
+- src: /images/actividades/tenerife/prov-queseria-montesdeoca/taller-de-elaboracion-durante-la-visita-a-la-queseria.webp
+  alt: 'Taller de elaboración durante la visita a la quesería'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

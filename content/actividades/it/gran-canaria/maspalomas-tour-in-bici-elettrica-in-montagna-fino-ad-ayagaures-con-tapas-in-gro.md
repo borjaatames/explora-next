@@ -75,6 +75,8 @@ galeria:
   alt: Montagne del burrone di Fataga
 - src: /images/actividades/gran-canaria/buggy/fataga-pistas.webp
   alt: Piste e pendii del burrone di Fataga
+- src: /images/actividades/gran-canaria/prov-bici-bike-vintage/ciclistas-con-bici-electrica-en-un-mirador-del-sur-de-g.webp
+  alt: 'Ciclisti in e-bike in un belvedere del sud di Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

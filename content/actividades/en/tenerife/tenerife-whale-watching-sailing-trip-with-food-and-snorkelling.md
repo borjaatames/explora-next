@@ -53,8 +53,8 @@ keywords:
 - sailing tenerife whales
 - roulette charters
 - sailboat puerto colon
-imagen: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
-imagenAlt: Sailing boats at anchor
+imagen: /images/actividades/tenerife/prov-roulette-charters/velero-navegando-con-el-teide-al-fondo.webp
+imagenAlt: 'Sailing boat cruising with Mount Teide behind'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Pilot whale surfacing close to a catamaran off the coast of Tenerife
@@ -70,6 +70,18 @@ galeria:
   alt: A pilot whale blowing at the surface
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Cliffs along the south coast of Tenerife
+- src: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
+  alt: 'Sailing boats at anchor'
+- src: /images/actividades/tenerife/prov-roulette-charters/pasajeros-en-la-banera-del-velero-frente-a-la-costa.webp
+  alt: 'Passengers in the sailing boat''s cockpit off the coast'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-asomando-junto-al-barco.webp
+  alt: 'Pilot whale surfacing beside the boat'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-nadando-bajo-el-agua.webp
+  alt: 'Pilot whale swimming underwater'
+- src: /images/actividades/tenerife/prov-roulette-charters/tripulante-explicando-los-cetaceos-a-bordo.webp
+  alt: 'Crew member explaining the cetaceans on board'
+- src: /images/actividades/tenerife/prov-roulette-charters/velero-visto-desde-arriba-en-mar-abierto.webp
+  alt: 'Sailing boat seen from above on the open sea'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

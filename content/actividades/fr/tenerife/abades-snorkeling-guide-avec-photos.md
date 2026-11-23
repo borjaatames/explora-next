@@ -73,6 +73,14 @@ galeria:
   alt: Côte volcanique rocheuse à Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fond rocheux sous une eau cristalline, idéal pour le snorkeling
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-junto-a-una-tortuga-marina.webp
+  alt: 'Nageuse à côté d''une tortue de mer'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/buceadora-en-apnea-con-una-tortuga-bajo-el-agua.webp
+  alt: 'Apnéiste avec une tortue sous l''eau'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/nadadora-entre-rocas-en-aguas-claras.webp
+  alt: 'Nageuse entre les rochers dans une eau claire'
+- src: /images/actividades/tenerife/prov-meerjungfrau-apnoe-akademie-es/lancha-neumatica-frente-a-la-costa-de-tenerife.webp
+  alt: 'Bateau pneumatique au large de Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

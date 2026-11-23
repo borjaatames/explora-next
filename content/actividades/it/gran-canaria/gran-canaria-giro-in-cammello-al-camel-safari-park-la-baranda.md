@@ -69,6 +69,8 @@ galeria:
   alt: Montagne del burrone di Fataga
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
   alt: Le pareti del burrone di Fataga
+- src: /images/actividades/gran-canaria/prov-camel-safari-park-la-baranda/palmeral-del-barranco-de-fataga-junto-al-parque-de-came.webp
+  alt: 'Palmeto della gola di Fataga accanto al parco dei cammelli'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

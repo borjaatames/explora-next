@@ -65,6 +65,12 @@ galeria:
   alt: Puerto de Mogán e a sua praia
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: Costa de falésias em Taurito, junto a Mogán
+- src: /images/actividades/gran-canaria/prov-zeusteam/persona-haciendo-esnorquel-en-aguas-turquesa.webp
+  alt: 'Pessoa a fazer snorkel em águas turquesa'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-junto-a-un-pez-globo.webp
+  alt: 'Snorkel junto a um peixe-balão'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-sobre-un-fondo-poco-profundo.webp
+  alt: 'Snorkel sobre um fundo pouco profundo'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

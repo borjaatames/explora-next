@@ -74,6 +74,16 @@ galeria:
   alt: Inside the Masca gorge
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Canyoner climbing down wet rocks
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Canyoners by a waterfall in a volcanic gorge'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Zip line descent over a pool in the gorge'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Group floating in a pool in wetsuits and helmets'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Canyoner crossing a pool beneath a cave'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Canyoners swimming between rock walls'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

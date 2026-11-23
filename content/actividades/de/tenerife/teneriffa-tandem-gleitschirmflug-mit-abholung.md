@@ -56,8 +56,8 @@ keywords:
 - gleitschirm teneriffa
 - tandemflug teneriffa
 - paragliding costa adeje abholung
-imagen: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
-imagenAlt: Tandemflug mit dem Gleitschirm
+imagen: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/vuelo-en-parapente-biplaza-sobre-el-mar-de-nubes.webp
+imagenAlt: 'Tandem-Gleitschirmflug über dem Wolkenmeer'
 galeria:
 - src: /images/actividades/tenerife/parapente-adeje/parapente-sobre-las-olas.webp
   alt: Gleitschirm über der Brandung
@@ -73,6 +73,12 @@ galeria:
   alt: Strand von Los Cristianos in Arona
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Klippen an der Südküste Teneriffas
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: 'Tandemflug mit dem Gleitschirm'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/parapente-biplaza-al-atardecer-sobre-la-costa-sur.webp
+  alt: 'Tandem-Gleitschirm bei Sonnenuntergang über der Südküste'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/piloto-y-pasajero-en-pleno-vuelo-en-parapente.webp
+  alt: 'Pilot und Passagier mitten im Gleitschirmflug'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

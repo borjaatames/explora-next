@@ -78,6 +78,14 @@ galeria:
   alt: "Paysage volcanique de Las Cañadas del Teide"
 - src: "/images/actividades/tenerife/estrellas/estrellas-roques-garcia.webp"
   alt: "Ciel étoilé au-dessus des Roques de García"
+- src: /images/actividades/tenerife/prov-night-skies-tenerife/observacion-con-telescopio-bajo-el-cielo-del-teide.webp
+  alt: 'Observation au télescope sous le ciel du Teide'
+- src: /images/actividades/tenerife/prov-night-skies-tenerife/cielo-estrellado-sobre-las-rocas-volcanicas.webp
+  alt: 'Ciel étoilé au-dessus des roches volcaniques'
+- src: /images/actividades/tenerife/prov-night-skies-tenerife/puesta-de-sol-entre-pinos-sobre-el-mar-de-nubes.webp
+  alt: 'Coucher de soleil entre les pins au-dessus de la mer de nuages'
+- src: /images/actividades/tenerife/prov-night-skies-tenerife/brindis-al-atardecer-en-las-alturas-del-teide.webp
+  alt: 'Toast au coucher du soleil sur les hauteurs du Teide'
 publicada: true
 destacada: false
 fecha: '2026-11-19'

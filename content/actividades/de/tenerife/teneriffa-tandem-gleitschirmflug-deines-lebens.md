@@ -71,6 +71,18 @@ galeria:
   alt: Strand von Los Cristianos in Arona
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: Felsige Vulkanküste in Costa Adeje
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-biplaza-sobre-el-mar-de-nubes-con-el-teide-al.webp
+  alt: 'Tandem-Gleitschirm über dem Wolkenmeer mit dem Teide im Hintergrund'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-sobre-nubes-y-montanas-verdes.webp
+  alt: 'Gleitschirmflug über Wolken und grünen Bergen'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-sobrevolando-la-costa-de-adeje.webp
+  alt: 'Gleitschirm über der Küste von Adeje'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vela-de-parapente-sobre-una-playa-de-arena-negra.webp
+  alt: 'Gleitschirm über einem schwarzen Sandstrand'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-al-atardecer-sobre-el-sur-de-tenerif.webp
+  alt: 'Gleitschirmflug bei Sonnenuntergang über dem Süden Teneriffas'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-rojo-sobre-las-montanas-de-adeje.webp
+  alt: 'Roter Gleitschirm über den Bergen von Adeje'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

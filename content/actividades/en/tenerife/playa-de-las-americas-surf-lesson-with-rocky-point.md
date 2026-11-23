@@ -74,6 +74,18 @@ galeria:
   alt: Surfers at Playa de las Américas
 - src: /images/actividades/tenerife/surf-americas/surfista-tabla-agua.webp
   alt: Surfer walking into the water with a board
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfista-cogiendo-una-ola-en-el-sur-de-tenerife.webp
+  alt: 'Surfer catching a wave in southern Tenerife'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/alumna-e-instructor-surfeando-la-misma-ola.webp
+  alt: 'Student and instructor riding the same wave'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/calentamiento-en-tierra-antes-de-la-clase-de-surf.webp
+  alt: 'Warm-up on land before the surf lesson'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/alumnas-preparando-las-tablas-de-surf.webp
+  alt: 'Students getting their surfboards ready'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfistas-caminando-con-las-tablas-por-la-playa.webp
+  alt: 'Surfers walking along the beach with their boards'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfista-remando-en-la-espuma-de-la-orilla.webp
+  alt: 'Surfer paddling through the whitewater'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

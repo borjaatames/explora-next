@@ -63,6 +63,10 @@ galeria:
   alt: A pilot whale blowing at the surface
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Pilot whales off the Tenerife coast
+- src: /images/actividades/tenerife/prov-santa-marta-boats/puente-de-mando-del-barco-con-vistas-al-mar.webp
+  alt: 'Boat bridge with views of the sea'
+- src: /images/actividades/tenerife/prov-santa-marta-boats/pasajeros-brindando-a-bordo-durante-la-salida.webp
+  alt: 'Passengers raising a toast on board during the trip'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

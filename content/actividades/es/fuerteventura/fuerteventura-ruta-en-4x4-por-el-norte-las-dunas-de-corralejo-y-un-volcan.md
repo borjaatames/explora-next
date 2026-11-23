@@ -72,6 +72,12 @@ galeria:
   alt: Dunas y matorral en el Parque Natural de Corralejo
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
   alt: Volcanes del norte de Fuerteventura
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: 'Todoterreno de Tamarán en un mirador sobre el mar'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Viajera asomada a la ventanilla del jeep safari'
+- src: /images/actividades/fuerteventura/prov-tamaran/todoterrenos-por-una-pista-de-tierra.webp
+  alt: 'Todoterrenos por una pista de tierra'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

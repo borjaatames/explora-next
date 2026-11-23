@@ -70,6 +70,16 @@ galeria:
   alt: Teide above the sea of clouds
 - src: /images/actividades/tenerife/teleferico/teleferico-canadas.webp
   alt: The Teide cable car above Las Cañadas
+- src: /images/actividades/tenerife/prov-tenerife-stars/furgoneta-de-la-excursion-con-el-teide-al-fondo.webp
+  alt: 'Tour van with Teide in the background'
+- src: /images/actividades/tenerife/prov-tenerife-stars/viajeros-saltando-frente-al-teide.webp
+  alt: 'Travellers jumping in front of Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/sendero-de-los-roques-de-garcia-con-el-teide.webp
+  alt: 'Roques de García trail with Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/paisaje-volcanico-de-las-canadas-del-teide.webp
+  alt: 'Volcanic landscape of Las Cañadas del Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/el-teide-sobre-el-mar-de-nubes-entre-pinos.webp
+  alt: 'Teide above the sea of clouds among pines'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

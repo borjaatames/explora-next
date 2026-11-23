@@ -69,6 +69,18 @@ galeria:
   alt: Kanarenkiefern und Wolkenmeer bei Sonnenuntergang im Hochland Teneriffas
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Klippen an der Südküste Teneriffas
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/parapente-biplaza-sobre-la-costa-sur-de-tenerife.webp
+  alt: 'Tandem-Gleitschirm über der Südküste Teneriffas'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/piloto-y-pasajera-sonriendo-en-pleno-vuelo.webp
+  alt: 'Pilot und Passagierin lächeln mitten im Flug'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vela-roja-de-parapente-sobre-costa-adeje.webp
+  alt: 'Roter Gleitschirm über der Costa Adeje'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vista-del-litoral-desde-el-parapente.webp
+  alt: 'Blick auf die Küste vom Gleitschirm aus'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/despegue-en-parapente-desde-la-montana.webp
+  alt: 'Gleitschirmstart vom Berg'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/grupo-de-pasajeros-con-los-pilotos-tras-el-vuelo.webp
+  alt: 'Passagiergruppe mit den Piloten nach dem Flug'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

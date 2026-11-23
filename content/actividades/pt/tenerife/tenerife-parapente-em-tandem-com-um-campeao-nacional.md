@@ -69,6 +69,18 @@ galeria:
   alt: Pinheiros canários e o mar de nuvens ao pôr do sol nas cumeadas de Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Veleiro fundeado na baía de Masca sob as falésias
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/parapente-biplaza-sobre-la-costa-sur-de-tenerife.webp
+  alt: 'Paraglider biplace sobre a costa sul de Tenerife'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/piloto-y-pasajera-sonriendo-en-pleno-vuelo.webp
+  alt: 'Piloto e passageira a sorrir em pleno voo'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vela-roja-de-parapente-sobre-costa-adeje.webp
+  alt: 'Asa vermelha de paraglider sobre Costa Adeje'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/vista-del-litoral-desde-el-parapente.webp
+  alt: 'Vista do litoral a partir do paraglider'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/despegue-en-parapente-desde-la-montana.webp
+  alt: 'Descolagem de paraglider a partir da montanha'
+- src: /images/actividades/tenerife/prov-sky-of-tenerife/grupo-de-pasajeros-con-los-pilotos-tras-el-vuelo.webp
+  alt: 'Grupo de passageiros com os pilotos após o voo'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

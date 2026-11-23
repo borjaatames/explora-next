@@ -69,6 +69,8 @@ galeria:
   alt: Mountains of the Fataga ravine
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
   alt: The walls of the Fataga ravine
+- src: /images/actividades/gran-canaria/prov-camel-safari-park-la-baranda/palmeral-del-barranco-de-fataga-junto-al-parque-de-came.webp
+  alt: 'Palm grove in the Fataga ravine by the camel park'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

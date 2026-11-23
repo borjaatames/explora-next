@@ -74,6 +74,12 @@ galeria:
   alt: Die Schlucht von Fataga im Süden von Gran Canaria
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
   alt: Kurvenreiche Straße durch eine Schlucht im Süden von Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-la-via-ferrata-sobre-roca-rojiza.webp
+  alt: 'Kletterer am Klettersteig über rötlichem Fels'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-de-cuerdas-entre-paredes-de-roca.webp
+  alt: 'Seilquerung zwischen Felswänden'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-lo-alto-de-un-acantilado.webp
+  alt: 'Kletterer oben auf einer Klippe'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

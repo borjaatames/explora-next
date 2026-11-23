@@ -69,6 +69,18 @@ galeria:
   alt: Moreia a espreitar entre as rochas do fundo marinho
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: Montaña de Guaza junto a Los Cristianos
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Grupo de batismo de mergulho rodeado de peixes'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Mergulhadores a entrar na água a partir da margem'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Instrutor e alunos prontos à beira-mar'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Mergulhadores junto a uma tartaruga num prado marinho'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Mergulhadora a espreitar entre rochas com ouriços'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Arco de rocha subaquático em Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

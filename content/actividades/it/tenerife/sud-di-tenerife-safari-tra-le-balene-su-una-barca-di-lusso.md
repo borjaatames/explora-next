@@ -63,6 +63,10 @@ galeria:
   alt: Globicefalo che soffia nelle acque del sud di Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Globicefali al largo della costa di Tenerife
+- src: /images/actividades/tenerife/prov-santa-marta-boats/puente-de-mando-del-barco-con-vistas-al-mar.webp
+  alt: 'Plancia della barca con vista sul mare'
+- src: /images/actividades/tenerife/prov-santa-marta-boats/pasajeros-brindando-a-bordo-durante-la-salida.webp
+  alt: 'Passeggeri che brindano a bordo durante l''uscita'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

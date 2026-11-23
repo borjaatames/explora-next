@@ -74,6 +74,16 @@ galeria:
   alt: Interior del barranco de Masca
 - src: /images/actividades/_shared/barranquismo/barranquista-entre-rocas.webp
   alt: Barranquista bajando entre rocas mojadas
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-junto-a-una-cascada-en-un-canon-volcanico.webp
+  alt: 'Barranquistas junto a una cascada en un cañón volcánico'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/descenso-en-tirolina-sobre-una-poza-del-barranco.webp
+  alt: 'Descenso en tirolina sobre una poza del barranco'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/grupo-flotando-en-una-poza-con-neoprenos-y-cascos.webp
+  alt: 'Grupo flotando en una poza con neoprenos y cascos'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquista-atravesando-una-poza-bajo-una-cueva.webp
+  alt: 'Barranquista atravesando una poza bajo una cueva'
+- src: /images/actividades/tenerife/prov-vulcan-walkers/barranquistas-nadando-entre-paredes-de-roca.webp
+  alt: 'Barranquistas nadando entre paredes de roca'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

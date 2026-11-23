@@ -96,6 +96,8 @@ galeria:
   alt: 'La côte de Los Cristianos avec l''Atlantique derrière, base des catamarans à Tenerife'
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: 'La montagne de Guaza, dans la commune d’Arona'
+- src: /images/actividades/tenerife/prov-shaka-surf-tenerife/alumnos-de-surf-entrando-al-agua-con-sus-tablas.webp
+  alt: 'Élèves de surf entrant dans l''eau avec leur planche'
 ratingProveedor: 4.8
 numeroOpiniones: 1679
 publicada: true

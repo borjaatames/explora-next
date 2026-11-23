@@ -73,6 +73,18 @@ galeria:
   alt: Globicéphale crevant la surface au soleil
 - src: /images/actividades/_shared/delfines/delfines-mar-abierto.webp
   alt: Dauphins nageant en pleine mer
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/barco-de-avistamiento-junto-a-un-grupo-de-calderones.webp
+  alt: 'Bateau d''observation à côté d''un groupe de globicéphales'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/delfin-comun-saltando-junto-al-barco.webp
+  alt: 'Dauphin commun sautant près du bateau'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/dos-delfines-saltando-frente-a-la-costa.webp
+  alt: 'Deux dauphins sautant au large de la côte'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/pasajeros-observando-cetaceos-al-atardecer.webp
+  alt: 'Passagers observant les cétacés au coucher du soleil'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/calderon-descansando-en-la-superficie.webp
+  alt: 'Globicéphale se reposant en surface'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/grupo-de-delfines-nadando-bajo-la-superficie.webp
+  alt: 'Groupe de dauphins nageant sous la surface'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

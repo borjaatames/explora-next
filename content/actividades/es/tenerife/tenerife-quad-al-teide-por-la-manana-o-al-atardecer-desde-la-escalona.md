@@ -74,6 +74,18 @@ galeria:
   alt: Tres quads parados en una ladera de montaña
 - src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
   alt: Cono y cráter del Teide sobre Las Cañadas
+- src: /images/actividades/tenerife/prov-fun-teide-quad/grupo-en-quad-por-la-carretera-de-las-canadas.webp
+  alt: 'Grupo en quad por la carretera de Las Cañadas'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/fila-de-quads-parados-en-la-ruta-entre-pinos.webp
+  alt: 'Fila de quads parados en la ruta entre pinos'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/participante-junto-a-su-quad-al-atardecer.webp
+  alt: 'Participante junto a su quad al atardecer'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/quads-preparados-antes-de-salir-hacia-el-teide.webp
+  alt: 'Quads preparados antes de salir hacia el Teide'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/ruta-en-quad-por-la-carretera-del-pinar.webp
+  alt: 'Ruta en quad por la carretera del pinar'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/pareja-en-quad-durante-la-puesta-de-sol.webp
+  alt: 'Pareja en quad durante la puesta de sol'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -88,8 +88,8 @@ keywords:
 - jet ski grande canarie
 - balade jet ski puerto rico
 - que faire a puerto rico gran canaria
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: Un jet-ski filant sur les vagues
+imagen: /images/actividades/gran-canaria/prov-esnautica-water-sport/moto-de-agua-navegando-frente-a-puerto-rico-de-gran-can.webp
+imagenAlt: 'Jet-ski au large de Puerto Rico de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: 'La marina de Puerto Rico de Gran Canaria, point de départ de la balade'
@@ -105,6 +105,8 @@ galeria:
   alt: 'Un groupe de globicéphales dans l''Atlantique canarien'
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
   alt: 'Un globicéphale tropical dans les eaux des Canaries'
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: 'Un jet-ski filant sur les vagues'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

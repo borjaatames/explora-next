@@ -56,8 +56,8 @@ keywords:
 - sailing los gigantes whales
 - picarus sailing
 - sailboat whale watching tenerife
-imagen: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-imagenAlt: Sailing boats moored in a marina
+imagen: /images/actividades/tenerife/prov-picarus-sailing-club/velero-de-picarus-con-calderones-al-lado.webp
+imagenAlt: 'Picarus sailing boat with pilot whales alongside'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
   alt: Sailboat below the Los Gigantes cliffs
@@ -73,6 +73,18 @@ galeria:
   alt: Person swimming with goggles underwater (illustrative image)
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
   alt: Los Gigantes and its cliffs seen from the coast
+- src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
+  alt: 'Sailing boats moored in a marina'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/ballena-junto-al-velero-durante-la-salida.webp
+  alt: 'Whale next to the sailing boat during the trip'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/grupo-de-calderones-en-la-superficie.webp
+  alt: 'Pod of pilot whales at the surface'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/cola-de-ballena-al-sumergirse.webp
+  alt: 'Whale tail as it dives'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/pasajeros-a-bordo-del-velero.webp
+  alt: 'Passengers on board the sailing boat'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/velero-fondeado-bajo-los-acantilados-de-los-gigantes.webp
+  alt: 'Sailing boat anchored below the Los Gigantes cliffs'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

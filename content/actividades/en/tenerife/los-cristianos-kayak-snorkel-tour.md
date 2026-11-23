@@ -94,8 +94,8 @@ keywords:
 - los cristianos kayak
 - tenerife snorkeling
 - tenerife turtles kayak
-imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
-imagenAlt: Person paddling an orange kayak on the open sea
+imagen: /images/actividades/tenerife/prov-xplore-tenerife/kayakistas-junto-a-una-tortuga-marina.webp
+imagenAlt: 'Kayakers next to a sea turtle'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
   alt: Person snorkelling in clear blue water
@@ -113,6 +113,16 @@ galeria:
   alt: Los Cristianos beach
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Boats in Los Cristianos harbour
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Person paddling an orange kayak on the open sea'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfines-saltando-junto-a-un-kayak.webp
+  alt: 'Dolphins jumping next to a kayak'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/tortuga-marina-bajo-el-agua.webp
+  alt: 'Sea turtle underwater'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/kayakista-remando-con-delfines-cerca.webp
+  alt: 'Kayaker paddling with dolphins nearby'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfin-saltando-cerca-de-una-kayakista.webp
+  alt: 'Dolphin leaping near a kayaker'
 ratingProveedor: 4.7
 numeroOpiniones: 12364
 atraccionesRelacionadas:

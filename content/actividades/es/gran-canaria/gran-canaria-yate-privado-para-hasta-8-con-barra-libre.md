@@ -67,6 +67,14 @@ galeria:
   alt: La bahía de Puerto Rico de Gran Canaria, donde está el parque
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: Costa de acantilados en Taurito, junto a Mogán
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/yate-privado-navegando-en-aguas-de-gran-canaria.webp
+  alt: 'Yate privado navegando en aguas de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/banana-hinchable-junto-a-una-cueva-del-litoral.webp
+  alt: 'Banana hinchable junto a una cueva del litoral'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/flotador-remolcado-frente-a-la-costa-de-mogan.webp
+  alt: 'Flotador remolcado frente a la costa de Mogán'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/esnorquel-con-escuter-submarino.webp
+  alt: 'Esnórquel con escúter submarino'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

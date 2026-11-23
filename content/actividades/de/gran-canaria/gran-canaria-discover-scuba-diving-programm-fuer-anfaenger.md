@@ -70,6 +70,18 @@ galeria:
   alt: Taucher an der Wasseroberfläche mit Booten im Hintergrund
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Klippen und Häuser an der Küste von Mogán, vom Meer aus gesehen
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Tauchschüler üben auf dem Sandgrund'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Taucher gibt zwischen Fischen das OK-Zeichen'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Lächelnde Taucherin unter Wasser'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Taucher taucht neben dem Tauchboot ab'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Engelhai auf dem Sand, typisch für die Kanaren'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Taucher steigen am Seil unter der Sonne ab'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

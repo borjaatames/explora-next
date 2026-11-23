@@ -72,6 +72,18 @@ galeria:
   alt: Cala de Papagayo con aguas turquesa y rocas volcánicas
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Kayak rojo en la orilla de una playa de arena blanca
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Catamarán fondeado frente a las playas de Papagayo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Catamarán a vela con la costa de Lanzarote al fondo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Cala de arena dorada entre rocas volcánicas'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Atardecer desde la cubierta del velero'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'Pádel surf junto al catamarán'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Niño remando en kayak durante la parada'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

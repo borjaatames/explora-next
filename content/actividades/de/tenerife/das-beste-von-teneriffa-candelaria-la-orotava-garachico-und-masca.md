@@ -72,6 +72,12 @@ galeria:
   alt: Das Orotava-Tal, das zur Nordküste mit Puerto de la Cruz hin abfällt
 - src: /images/actividades/tenerife/garachico/garachico-pexels-10862464.webp
   alt: Garachico und der Felsen vor der Küste
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Reisebus von Atlántico Excursiones'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/basilica-de-candelaria-junto-al-mar.webp
+  alt: 'Basilika von Candelaria am Meer'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/montanas-del-valle-de-masca.webp
+  alt: 'Berge im Masca-Tal'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

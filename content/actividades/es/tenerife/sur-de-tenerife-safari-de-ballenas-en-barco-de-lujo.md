@@ -63,6 +63,10 @@ galeria:
   alt: Calderón en aguas del sur de Tenerife
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Calderones frente a la costa de Tenerife
+- src: /images/actividades/tenerife/prov-santa-marta-boats/puente-de-mando-del-barco-con-vistas-al-mar.webp
+  alt: 'Puente de mando del barco con vistas al mar'
+- src: /images/actividades/tenerife/prov-santa-marta-boats/pasajeros-brindando-a-bordo-durante-la-salida.webp
+  alt: 'Pasajeros brindando a bordo durante la salida'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

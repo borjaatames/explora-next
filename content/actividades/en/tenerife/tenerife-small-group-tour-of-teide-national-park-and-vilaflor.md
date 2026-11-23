@@ -67,6 +67,18 @@ galeria:
   alt: Pico Viejo volcano
 - src: /images/actividades/tenerife/teide/canadas-lava.webp
   alt: Lava flows in Las Cañadas del Teide
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/roques-de-garcia-con-el-teide-al-fondo.webp
+  alt: 'Roques de García with Mount Teide behind'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/pinar-y-coladas-volcanicas-en-las-faldas-del-teide.webp
+  alt: 'Pine forest and lava flows on the slopes of Teide'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/senderistas-en-un-paisaje-de-ceniza-volcanica.webp
+  alt: 'Hikers in a landscape of volcanic ash'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/viajeros-contemplando-el-paisaje-volcanico-del-parque.webp
+  alt: 'Travellers taking in the park''s volcanic landscape'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/parador-de-las-canadas-del-teide.webp
+  alt: 'Parador de Las Cañadas del Teide'
+- src: /images/actividades/tenerife/prov-comfort-tours-tenerife/paisaje-de-tierra-roja-con-el-teide-al-fondo.webp
+  alt: 'Red earth landscape with Mount Teide behind'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

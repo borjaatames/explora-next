@@ -54,8 +54,8 @@ keywords:
 - barca a vela tenerife balene
 - barca a vela costa adeje
 - avvistamento balene in barca a vela tenerife
-imagen: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
-imagenAlt: Goletta con ospiti sotto montagne aride
+imagen: /images/actividades/tenerife/prov-blue-jack-sail/velero-de-blue-jack-sail-navegando.webp
+imagenAlt: 'Barca a vela di Blue Jack Sail in navigazione'
 galeria:
 - src: /images/actividades/_shared/velero/velero-spi-mar-azul.webp
   alt: Barca a vela con spinnaker sul mare blu
@@ -71,6 +71,18 @@ galeria:
   alt: Barca a vela bianca in mare aperto
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Scogliere lungo la costa sud di Tenerife
+- src: /images/actividades/tenerife/velero/goleta-montanas-aridas.webp
+  alt: 'Goletta con ospiti sotto montagne aride'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajera-en-la-proa-del-velero-junto-a-delfines.webp
+  alt: 'Passeggera a prua accanto ai delfini'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/grupo-de-delfines-bajo-el-agua.webp
+  alt: 'Gruppo di delfini sott''acqua'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/calderon-respirando-en-la-superficie.webp
+  alt: 'Globicefalo che respira in superficie'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/pasajeros-a-bordo-del-velero.webp
+  alt: 'Passeggeri a bordo della barca a vela'
+- src: /images/actividades/tenerife/prov-blue-jack-sail/dos-calderones-nadando-juntos.webp
+  alt: 'Due globicefali che nuotano insieme'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

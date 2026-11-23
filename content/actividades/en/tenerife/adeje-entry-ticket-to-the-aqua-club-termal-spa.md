@@ -51,8 +51,8 @@ keywords:
 - aqua club termal
 - spa adeje
 - thermal spa tenerife
-imagen: /images/actividades/tenerife/spa/piscina-spa-tumbonas.webp
-imagenAlt: Indoor spa pool with loungers and columns
+imagen: /images/actividades/tenerife/prov-aqua-club-termal/piscina-termal-cubierta-de-aqua-club-termal.webp
+imagenAlt: 'Indoor thermal pool at Aqua Club Termal'
 galeria:
 - src: /images/actividades/tenerife/spa/piscina-hidromasaje-interior.webp
   alt: People relaxing in an indoor hydrotherapy pool
@@ -68,6 +68,16 @@ galeria:
   alt: A Costa Adeje beach with the mountains of southern Tenerife behind
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Teide above the sea of clouds
+- src: /images/actividades/tenerife/spa/piscina-spa-tumbonas.webp
+  alt: 'Indoor spa pool with loungers and columns'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/fuente-central-de-la-piscina-del-spa.webp
+  alt: 'Central fountain in the spa pool'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/mujer-relajandose-en-el-agua-del-spa.webp
+  alt: 'Woman relaxing in the spa water'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/pareja-en-la-piscina-iluminada-del-spa.webp
+  alt: 'Couple in the illuminated spa pool'
+- src: /images/actividades/tenerife/prov-aqua-club-termal/masaje-con-piedras-calientes.webp
+  alt: 'Hot stone massage'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -72,6 +72,10 @@ galeria:
   alt: Raquettes de figuier de Barbarie aux fruits mûrs sur une pente
 - src: /images/actividades/tenerife/tuno/tunera-flor-costa.webp
   alt: Figuier de Barbarie en fleur sur la côte de Tenerife
+- src: /images/actividades/tenerife/prov-tuno-canarias/tuneras-con-higos-picos-maduros-en-la-finca.webp
+  alt: 'Figuiers de Barbarie aux fruits mûrs à la ferme'
+- src: /images/actividades/tenerife/prov-tuno-canarias/higos-picos-rojos-en-primer-plano.webp
+  alt: 'Gros plan sur des figues de Barbarie rouges'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

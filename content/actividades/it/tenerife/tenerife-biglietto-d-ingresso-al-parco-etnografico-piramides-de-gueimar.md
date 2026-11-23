@@ -63,6 +63,14 @@ galeria:
   alt: Scogliere lungo la costa sud di Tenerife
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Paesaggio vulcanico del Parco Nazionale del Teide
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Piramide a gradoni di Güímar sotto un cielo nuvoloso'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Visitatori che osservano una delle piramidi del parco'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Famiglia che passeggia sui sentieri del parco etnografico'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Visita guidata accanto allo stagno del giardino'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

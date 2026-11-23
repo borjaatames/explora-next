@@ -69,6 +69,8 @@ galeria:
   alt: Avocados hanging in the light under the leaves
 - src: /images/actividades/tenerife/santa-cruz/torres-montanas-anaga.webp
   alt: Towers of Santa Cruz with the Anaga mountains behind
+- src: /images/actividades/tenerife/prov-tahodio-avocado-experience/cesta-con-aguacates-recien-cogidos-en-la-finca.webp
+  alt: 'Basket of freshly picked avocados at the farm'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -71,6 +71,18 @@ galeria:
   alt: Siluetas de surfistas con tablas al atardecer
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Olas rompiendo en una costa volcánica rojiza con playa negra
+- src: /images/actividades/lanzarote/prov-school3s/instructor-acompanando-a-una-alumna-en-la-ola-en-famara.webp
+  alt: 'Instructor acompañando a una alumna en la ola en Famara'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-alumnos-con-sus-tablas-en-la-playa-de-famara.webp
+  alt: 'Grupo de alumnos con sus tablas en la playa de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/surfistas-caminando-hacia-el-agua-con-sus-tablas.webp
+  alt: 'Surfistas caminando hacia el agua con sus tablas'
+- src: /images/actividades/lanzarote/prov-school3s/alumnos-entrando-al-mar-bajo-los-riscos-de-famara.webp
+  alt: 'Alumnos entrando al mar bajo los riscos de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/practica-del-despegue-en-la-arena.webp
+  alt: 'Práctica del despegue en la arena'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-la-escuela-de-surf-en-la-playa.webp
+  alt: 'Grupo de la escuela de surf en la playa'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

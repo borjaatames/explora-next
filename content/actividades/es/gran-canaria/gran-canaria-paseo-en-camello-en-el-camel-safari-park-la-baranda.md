@@ -69,6 +69,8 @@ galeria:
   alt: Montañas del barranco de Fataga
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
   alt: Paredes del barranco de Fataga
+- src: /images/actividades/gran-canaria/prov-camel-safari-park-la-baranda/palmeral-del-barranco-de-fataga-junto-al-parque-de-came.webp
+  alt: 'Palmeral del barranco de Fataga junto al parque de camellos'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

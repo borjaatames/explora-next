@@ -70,6 +70,14 @@ galeria:
   alt: Paysage volcanique du parc national du Teide
 - src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
   alt: Le Teide au-dessus de la forêt de pins canariens
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-con-el-teide-nevado-al-fondo.webp
+  alt: 'Randonneurs avec le Teide enneigé en fond'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/grupo-en-la-cima-de-una-ladera-volcanica-frente-al-teid.webp
+  alt: 'Groupe sur une crête volcanique face au Teide'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/sendero-entre-helechos-en-un-bosque-humedo-de-tenerife.webp
+  alt: 'Sentier entre les fougères dans une forêt humide de Tenerife'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-por-un-camino-junto-a-un-canal-en-la-ladera.webp
+  alt: 'Randonneurs sur un chemin longeant un canal à flanc de montagne'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

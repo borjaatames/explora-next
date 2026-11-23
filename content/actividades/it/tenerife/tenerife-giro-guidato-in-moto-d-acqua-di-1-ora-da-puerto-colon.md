@@ -73,6 +73,18 @@ galeria:
   alt: Vista della costa di Costa Adeje
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
   alt: La Montaña Amarilla sul mare, nella costa sud di Tenerife
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-navegando-frente-a-costa-adeje.webp
+  alt: 'Moto d''acqua al largo di Costa Adeje'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/pareja-en-moto-de-agua-en-mar-abierto.webp
+  alt: 'Coppia in moto d''acqua in mare aperto'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/ruta-en-moto-de-agua-junto-a-la-costa-rocosa.webp
+  alt: 'Percorso in moto d''acqua lungo la costa rocciosa'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/moto-de-agua-pasando-junto-a-los-acantilados.webp
+  alt: 'Moto d''acqua che passa accanto alle scogliere'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-frente-a-una-cueva-marina.webp
+  alt: 'Moto d''acqua davanti a una grotta marina'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/dos-motos-de-agua-con-pasajeros-en-el-sur-de-tenerife.webp
+  alt: 'Due moto d''acqua con passeggeri nel sud di Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

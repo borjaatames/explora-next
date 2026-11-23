@@ -69,6 +69,18 @@ galeria:
   alt: The crests of the Maspalomas dunes in Gran Canaria
 - src: /images/actividades/_shared/surf/siluetas-tablas-atardecer.webp
   alt: Silhouettes of surfers with boards at sunset
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-de-surf-poniendose-de-pie-en-la-espuma.webp
+  alt: 'Surf students standing up in the whitewater'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/surfista-principiante-cogiendo-una-ola-en-maspalomas.webp
+  alt: 'Beginner surfer catching a wave in Maspalomas'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-sentados-en-sus-tablas-en-el-agua.webp
+  alt: 'Students sitting on their boards in the water'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/grupo-de-la-escuela-de-surf-celebrando-en-el-mar.webp
+  alt: 'Surf school group celebrating in the sea'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/calentamiento-en-la-arena-antes-de-la-clase.webp
+  alt: 'Warm-up on the sand before the lesson'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/instructor-con-alumnas-en-la-orilla.webp
+  alt: 'Instructor with students at the shoreline'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

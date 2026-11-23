@@ -70,6 +70,18 @@ galeria:
   alt: Plongeur à la surface de la mer avec des bateaux en arrière-plan
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Falaises et maisons de la côte de Mogán vues depuis la mer
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Élèves plongeurs s''exerçant sur le fond sableux'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Plongeur faisant le signe OK parmi les poissons'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Plongeuse souriante sous l''eau'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Plongeur descendant près du bateau de plongée'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Ange de mer sur le sable, espèce typique des Canaries'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Plongeurs descendant le long du bout sous le soleil'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

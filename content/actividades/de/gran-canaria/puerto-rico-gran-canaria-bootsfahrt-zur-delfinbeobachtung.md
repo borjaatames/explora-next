@@ -73,6 +73,16 @@ galeria:
   alt: Ein Kurzflossen-Grindwal in kanarischen Gewässern
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Sonnenuntergang in Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Katamaran Spirit of the Sea mit Passagieren'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Delfine schwimmen vor dem Boot'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Passagiere beobachten eine Delfinschule'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Passagiere am Bug auf der Suche nach Walen'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Blas eines Wals auf dem Meer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

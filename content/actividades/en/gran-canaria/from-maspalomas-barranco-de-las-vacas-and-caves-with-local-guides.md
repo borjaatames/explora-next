@@ -67,6 +67,14 @@ galeria:
   alt: End of the gorge opening to the sky
 - src: /images/actividades/gran-canaria/sureste/fgc-paredes-rojas-barranco.webp
   alt: Red rock walls and palms in a ravine of south-east Gran Canaria
+- src: /images/actividades/gran-canaria/prov-sky-rebels/paredes-onduladas-de-arenisca-en-el-barranco-de-las-vac.webp
+  alt: 'Wavy sandstone walls in Barranco de las Vacas'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/formaciones-de-roca-erosionada-en-el-barranco.webp
+  alt: 'Eroded rock formations in the ravine'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/grupo-dentro-de-una-cueva-con-vistas-a-las-cumbres.webp
+  alt: 'Group inside a cave overlooking the summits'
+- src: /images/actividades/gran-canaria/prov-sky-rebels/visitante-dentro-de-una-cueva-excavada-en-la-roca.webp
+  alt: 'Visitor inside a cave carved into the rock'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

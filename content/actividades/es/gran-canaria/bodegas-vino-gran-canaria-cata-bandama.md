@@ -79,8 +79,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
-imagenAlt: "Servicio de vino tinto en una copa durante una cata"
+imagen: /images/actividades/gran-canaria/prov-www-handmadetours-es/visita-a-un-vinedo-familiar-en-el-interior-de-gran-cana.webp
+imagenAlt: 'Visita a un viñedo familiar en el interior de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/vino/fgc-mirador-caldera-bandama.webp
   alt: 'Vista de la Caldera de Bandama desde el mirador'
@@ -96,6 +96,18 @@ galeria:
   alt: 'Interior de la Caldera de Bandama cubierto de vegetación'
 - src: /images/actividades/gran-canaria/vino/fgc-caldera-bandama-santa-brigida.webp
   alt: 'La Caldera de Bandama, junto a Santa Brígida'
+- src: /images/actividades/madrid/bodegas-vino/bodegas-vino-madrid-pexels-zaki-atrouni-4515526-hero.webp
+  alt: 'Servicio de vino tinto en una copa durante una cata'
+- src: /images/actividades/gran-canaria/prov-www-handmadetours-es/vinas-en-las-laderas-de-gran-canaria.webp
+  alt: 'Viñas en las laderas de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-www-handmadetours-es/vinedo-al-pie-de-las-montanas-del-interior.webp
+  alt: 'Viñedo al pie de las montañas del interior'
+- src: /images/actividades/gran-canaria/prov-www-handmadetours-es/grupo-en-una-bodega-tradicional-con-lagar-antiguo.webp
+  alt: 'Grupo en una bodega tradicional con lagar antiguo'
+- src: /images/actividades/gran-canaria/prov-www-handmadetours-es/barricas-y-prensa-de-vino-en-una-bodega-canaria.webp
+  alt: 'Barricas y prensa de vino en una bodega canaria'
+- src: /images/actividades/gran-canaria/prov-www-handmadetours-es/cata-de-vinos-con-queso-local.webp
+  alt: 'Cata de vinos con queso local'
 ---
 
 ## Qué vas a ver

@@ -69,6 +69,8 @@ galeria:
   alt: Fondo rocoso bajo aguas cristalinas, ideal para el esnórquel
 - src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
   alt: Barcas en el Charco de San Ginés, en Arrecife
+- src: /images/actividades/lanzarote/prov-daivoon-diving-centre/buceadores-entrando-al-agua-junto-al-espigon-de-costa-t.webp
+  alt: 'Buceadores entrando al agua junto al espigón de Costa Teguise'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

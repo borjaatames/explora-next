@@ -65,6 +65,12 @@ galeria:
   alt: Puerto de Mogán and its beach
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: The cliff coast at Taurito, near Mogán
+- src: /images/actividades/gran-canaria/prov-zeusteam/persona-haciendo-esnorquel-en-aguas-turquesa.webp
+  alt: 'Snorkeller in turquoise water'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-junto-a-un-pez-globo.webp
+  alt: 'Snorkelling next to a pufferfish'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-sobre-un-fondo-poco-profundo.webp
+  alt: 'Snorkelling over a shallow seabed'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

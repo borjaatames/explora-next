@@ -73,6 +73,18 @@ galeria:
   alt: Calderón rompiendo la superficie al sol
 - src: /images/actividades/_shared/delfines/delfines-mar-abierto.webp
   alt: Delfines nadando en mar abierto
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/barco-de-avistamiento-junto-a-un-grupo-de-calderones.webp
+  alt: 'Barco de avistamiento junto a un grupo de calderones'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/delfin-comun-saltando-junto-al-barco.webp
+  alt: 'Delfín común saltando junto al barco'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/dos-delfines-saltando-frente-a-la-costa.webp
+  alt: 'Dos delfines saltando frente a la costa'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/pasajeros-observando-cetaceos-al-atardecer.webp
+  alt: 'Pasajeros observando cetáceos al atardecer'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/calderon-descansando-en-la-superficie.webp
+  alt: 'Calderón descansando en la superficie'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/grupo-de-delfines-nadando-bajo-la-superficie.webp
+  alt: 'Grupo de delfines nadando bajo la superficie'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

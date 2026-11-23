@@ -74,6 +74,18 @@ galeria:
   alt: El Teide desde el nordeste
 - src: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
   alt: Paredes de roca del barranco de Masca
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/barranquista-bajo-una-cascada-en-tenerife.webp
+  alt: 'Barranquista bajo una cascada en Tenerife'
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/rapel-desde-un-arco-de-roca-con-vistas-al-mar.webp
+  alt: 'Rápel desde un arco de roca con vistas al mar'
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/rapel-por-un-estrecho-canon-de-roca-rojiza.webp
+  alt: 'Rápel por un estrecho cañón de roca rojiza'
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/barranquista-en-una-poza-al-pie-de-una-cascada.webp
+  alt: 'Barranquista en una poza al pie de una cascada'
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/descenso-con-cuerda-en-un-barranco-con-vegetacion.webp
+  alt: 'Descenso con cuerda en un barranco con vegetación'
+- src: /images/actividades/tenerife/prov-natura-xtreme-tenerife/grupo-de-barranquismo-posando-en-el-canon.webp
+  alt: 'Grupo de barranquismo posando en el cañón'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

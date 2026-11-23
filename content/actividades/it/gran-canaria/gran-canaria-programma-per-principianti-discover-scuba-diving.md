@@ -70,6 +70,18 @@ galeria:
   alt: Subacqueo sulla superficie del mare con barche sullo sfondo
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Scogliere e case sulla costa di Mogán viste dal mare
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Allievi subacquei che si esercitano sul fondale sabbioso'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Subacqueo che fa il segno OK tra i pesci'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Subacquea sorridente sott''acqua'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Subacqueo in discesa accanto alla barca d''appoggio'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Squadro sulla sabbia, specie tipica delle Canarie'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Subacquei che scendono lungo la cima sotto il sole'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

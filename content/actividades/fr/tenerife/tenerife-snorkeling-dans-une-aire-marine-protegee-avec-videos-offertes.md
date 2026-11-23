@@ -66,8 +66,8 @@ keywords:
 - snorkeling tenerife
 - snorkeling abades
 - snorkeling tortues tenerife
-imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-imagenAlt: Nageur dans une eau verte et claire
+imagen: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/grupo-haciendo-esnorquel-entre-peces-en-la-zona-protegi.webp
+imagenAlt: 'Groupe faisant du snorkeling parmi les poissons dans la zone protégée'
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
   alt: Fond rocheux dans une eau claire
@@ -83,6 +83,14 @@ galeria:
   alt: Côte volcanique rocheuse à Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Fond rocheux sous une eau cristalline, idéal pour le snorkeling
+- src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+  alt: 'Nageur dans une eau verte et claire'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/persona-haciendo-esnorquel-sobre-el-fondo-con-algas.webp
+  alt: 'Personne en snorkeling au-dessus d''un fond couvert d''algues'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/saludo-bajo-el-agua-durante-la-excursion-de-esnorquel.webp
+  alt: 'Salut sous l''eau pendant la sortie snorkeling'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/participantes-con-neopreno-y-mascara-en-la-orilla.webp
+  alt: 'Participants en combinaison et masque au bord de l''eau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

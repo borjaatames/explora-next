@@ -75,6 +75,18 @@ galeria:
   alt: Laurissilva com troncos cobertos de musgo
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Cumes do maciço de Anaga
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Cavaleira num cavalo branco com o Teide ao fundo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Grupo a cavalo por um caminho do monte'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Passeio a cavalo numa pista de terra vermelha entre pinheiros'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Cavaleiros na quinta com o Teide ao fundo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'A preparar os cavalos em frente ao Teide nevado'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Cavalos e cavaleiros a descansar na floresta'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -68,6 +68,14 @@ galeria:
   alt: Le port de Puerto Rico de Gran Canaria, point de départ
 - src: /images/actividades/_shared/parasailing/parasailing-yate-turquesa.webp
   alt: Parachute ascensionnel derrière un yacht sur une eau turquoise
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/parasailing-frente-al-faro-de-maspalomas.webp
+  alt: 'Parachute ascensionnel devant le phare de Maspalomas'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/aterrizaje-suave-en-el-agua-tras-el-vuelo.webp
+  alt: 'Amerrissage en douceur après le vol'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/paracaidas-rojo-sobre-la-costa-de-meloneras.webp
+  alt: 'Parachute rouge au-dessus de la côte de Meloneras'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/vista-del-parasailing-desde-la-lancha.webp
+  alt: 'Vue du parachute depuis le bateau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

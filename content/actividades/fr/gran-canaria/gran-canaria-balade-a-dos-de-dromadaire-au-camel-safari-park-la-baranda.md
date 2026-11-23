@@ -69,6 +69,8 @@ galeria:
   alt: Montagnes du ravin de Fataga
 - src: /images/actividades/gran-canaria/buggy/fataga-canon.webp
   alt: Les parois du ravin de Fataga
+- src: /images/actividades/gran-canaria/prov-camel-safari-park-la-baranda/palmeral-del-barranco-de-fataga-junto-al-parque-de-came.webp
+  alt: 'Palmeraie du ravin de Fataga près du parc à dromadaires'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

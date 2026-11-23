@@ -81,6 +81,10 @@ galeria:
   alt: "Garachico e il suo faraglione"
 - src: "/images/actividades/tenerife/teide/teide-canadas.webp"
   alt: "Il Teide sopra la caldera di Las Cañadas"
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: 'Fuoristrada di Tamarán su un belvedere sul mare'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Viaggiatrice affacciata al finestrino della jeep'
 publicada: true
 destacada: false
 fecha: '2026-11-19'

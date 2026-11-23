@@ -91,8 +91,8 @@ keywords:
 - kayak los cristianos
 - snorkeling tenerife
 - kayak tortues tenerife
-imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
-imagenAlt: Personne pagayant dans un kayak orange en pleine mer
+imagen: /images/actividades/tenerife/prov-xplore-tenerife/kayakistas-junto-a-una-tortuga-marina.webp
+imagenAlt: 'Kayakistes à côté d''une tortue de mer'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
   alt: Personne faisant du snorkeling dans une eau bleue et limpide
@@ -110,6 +110,16 @@ galeria:
   alt: La plage de Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Bateaux dans le port de Los Cristianos
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Personne pagayant dans un kayak orange en pleine mer'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfines-saltando-junto-a-un-kayak.webp
+  alt: 'Dauphins sautant près d''un kayak'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/tortuga-marina-bajo-el-agua.webp
+  alt: 'Tortue de mer sous l''eau'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/kayakista-remando-con-delfines-cerca.webp
+  alt: 'Kayakiste pagayant près des dauphins'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfin-saltando-cerca-de-una-kayakista.webp
+  alt: 'Dauphin bondissant près d''une kayakiste'
 ratingProveedor: 4.7
 numeroOpiniones: 12364
 atraccionesRelacionadas:

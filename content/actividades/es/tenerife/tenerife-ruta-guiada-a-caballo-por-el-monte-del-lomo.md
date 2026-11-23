@@ -75,6 +75,18 @@ galeria:
   alt: Bosque de laurisilva con troncos cubiertos de musgo
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Crestas del macizo de Anaga
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Jinete en caballo blanco con el Teide al fondo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Grupo a caballo por un camino del monte'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Paseo a caballo por una pista de tierra roja entre pinos'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Jinetes en la finca con el Teide de fondo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'Preparando los caballos frente al Teide nevado'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Caballos y jinetes descansando en el bosque'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

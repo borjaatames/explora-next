@@ -68,6 +68,14 @@ galeria:
   alt: Jachthafen von Puerto Rico de Gran Canaria
 - src: /images/actividades/_shared/parasailing/parasailing-yate-turquesa.webp
   alt: Parasailing-Schirm hinter einer Motoryacht auf türkisem Wasser
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/parasailing-frente-al-faro-de-maspalomas.webp
+  alt: 'Parasailing vor dem Leuchtturm von Maspalomas'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/aterrizaje-suave-en-el-agua-tras-el-vuelo.webp
+  alt: 'Sanfte Wasserlandung nach dem Flug'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/paracaidas-rojo-sobre-la-costa-de-meloneras.webp
+  alt: 'Roter Schirm über der Küste von Meloneras'
+- src: /images/actividades/gran-canaria/prov-aquatribe-parasailing-maspalomas/vista-del-parasailing-desde-la-lancha.webp
+  alt: 'Blick auf den Schirm vom Boot aus'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

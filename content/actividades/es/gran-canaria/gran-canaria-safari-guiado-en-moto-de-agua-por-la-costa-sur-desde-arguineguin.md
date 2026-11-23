@@ -80,6 +80,8 @@ galeria:
   alt: Vista aérea de Puerto Rico de Gran Canaria
 - src: /images/actividades/lanzarote/moto-de-agua/flz-piloto-olas.webp
   alt: Moto de agua navegando entre olas
+- src: /images/actividades/gran-canaria/prov-ocean-motion-gc/pareja-en-moto-de-agua-frente-a-la-costa-de-mogan.webp
+  alt: 'Pareja en moto de agua frente a la costa de Mogán'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -74,6 +74,12 @@ galeria:
   alt: Gola nel sud di Gran Canaria
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
   alt: Strada tortuosa in un burrone del sud di Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-la-via-ferrata-sobre-roca-rojiza.webp
+  alt: 'Scalatore sulla via ferrata su roccia rossastra'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-de-cuerdas-entre-paredes-de-roca.webp
+  alt: 'Passaggio su corde tra pareti di roccia'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-lo-alto-de-un-acantilado.webp
+  alt: 'Scalatore in cima a una scogliera'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -73,6 +73,18 @@ galeria:
   alt: Lézard de Tenerife dans le massif d'Anaga
 - src: /images/actividades/tenerife/ciudad/roque-taborno.webp
   alt: Le Roque de Taborno dans le massif d'Anaga
+- src: /images/actividades/tenerife/prov-hikin-kanarii/sendero-bajo-un-tunel-de-laurisilva-en-anaga.webp
+  alt: 'Sentier sous un tunnel de laurisylve à Anaga'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/bosque-de-laurisilva-con-helechos.webp
+  alt: 'Laurisylve avec des fougères'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/arboles-cubiertos-de-musgo-en-la-laurisilva.webp
+  alt: 'Arbres couverts de mousse dans la laurisylve'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/camino-de-tierra-entre-laureles.webp
+  alt: 'Chemin de terre entre les lauriers'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/ramas-retorcidas-sobre-el-sendero-de-anaga.webp
+  alt: 'Branches tortueuses au-dessus du sentier d''Anaga'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/cuevas-excavadas-junto-al-sendero-del-bosque.webp
+  alt: 'Grottes creusées au bord du sentier forestier'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -71,6 +71,18 @@ galeria:
   alt: Los Cristianos beach
 - src: /images/actividades/tenerife/costa-adeje/costa-rocosa.webp
   alt: Rocky volcanic shoreline in Costa Adeje
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-biplaza-sobre-el-mar-de-nubes-con-el-teide-al.webp
+  alt: 'Tandem paraglider above the sea of clouds with Teide behind'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-sobre-nubes-y-montanas-verdes.webp
+  alt: 'Paragliding flight over clouds and green mountains'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-sobrevolando-la-costa-de-adeje.webp
+  alt: 'Paraglider flying over the Adeje coast'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vela-de-parapente-sobre-una-playa-de-arena-negra.webp
+  alt: 'Paraglider wing above a black sand beach'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/vuelo-en-parapente-al-atardecer-sobre-el-sur-de-tenerif.webp
+  alt: 'Paragliding at sunset over southern Tenerife'
+- src: /images/actividades/tenerife/prov-daydream-paragliding/parapente-rojo-sobre-las-montanas-de-adeje.webp
+  alt: 'Red paraglider over the Adeje mountains'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

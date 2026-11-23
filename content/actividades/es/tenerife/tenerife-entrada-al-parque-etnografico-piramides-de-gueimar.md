@@ -63,6 +63,14 @@ galeria:
   alt: Velero fondeado en la bahía de Masca bajo los acantilados
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: El Teide desde el nordeste
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Pirámide escalonada de Güímar bajo un cielo con nubes'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Visitantes contemplando una de las pirámides del parque'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Familia paseando por los senderos del parque etnográfico'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Visita guiada junto al estanque del jardín'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

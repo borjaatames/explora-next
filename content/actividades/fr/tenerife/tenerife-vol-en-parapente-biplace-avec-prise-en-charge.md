@@ -56,8 +56,8 @@ keywords:
 - parapente tenerife
 - parapente biplace tenerife
 - parapente costa adeje prise en charge
-imagen: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
-imagenAlt: Vol en parapente biplace
+imagen: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/vuelo-en-parapente-biplaza-sobre-el-mar-de-nubes.webp
+imagenAlt: 'Vol en parapente biplace au-dessus de la mer de nuages'
 galeria:
 - src: /images/actividades/tenerife/parapente-adeje/parapente-sobre-las-olas.webp
   alt: Parapente au-dessus des vagues
@@ -73,6 +73,12 @@ galeria:
   alt: La plage de Los Cristianos, à Arona
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Les falaises de la côte sud de Tenerife
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: 'Vol en parapente biplace'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/parapente-biplaza-al-atardecer-sobre-la-costa-sur.webp
+  alt: 'Parapente biplace au coucher du soleil au-dessus de la côte sud'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/piloto-y-pasajero-en-pleno-vuelo-en-parapente.webp
+  alt: 'Pilote et passager en plein vol en parapente'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -74,6 +74,14 @@ galeria:
   alt: The cliff coast at Taurito, near Mogán
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
   alt: Blue sea in front of a rocky coast, at water level
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/salto-al-mar-durante-el-coasteering.webp
+  alt: 'Jumping into the sea during coasteering'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/grupo-de-coasteering-con-chalecos-entre-las-rocas.webp
+  alt: 'Coasteering group in life jackets among the rocks'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/participante-recorriendo-la-costa-acantilada.webp
+  alt: 'Participant traversing the cliffed coast'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalada-con-cuerda-sobre-el-mar.webp
+  alt: 'Roped climbing above the sea'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

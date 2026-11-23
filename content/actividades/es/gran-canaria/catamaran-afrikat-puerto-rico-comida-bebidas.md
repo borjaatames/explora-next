@@ -91,8 +91,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
-imagenAlt: 'Barcos frente a los acantilados de Gran Canaria'
+imagen: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-afrikat-navegando-con-pasajeros-en-cubierta.webp
+imagenAlt: 'Catamarán Afrikat navegando con pasajeros en cubierta'
 galeria:
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-deportivo.webp
   alt: 'Puerto deportivo de Puerto Rico de Gran Canaria'
@@ -108,6 +108,18 @@ galeria:
   alt: 'Bahía y playa de Puerto Rico de Gran Canaria'
 - src: /images/actividades/gran-canaria/puerto-rico/puerto-rico-aerea.webp
   alt: 'Puerto de Puerto Rico de Gran Canaria visto desde lo alto'
+- src: /images/actividades/gran-canaria/fotos-biblioteca/pexels-9091399.webp
+  alt: 'Barcos frente a los acantilados de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-fondeado-junto-a-los-acantilados-del-sur-de-g.webp
+  alt: 'Catamarán fondeado junto a los acantilados del sur de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/pasajeros-banandose-desde-la-popa-del-catamaran.webp
+  alt: 'Pasajeros bañándose desde la popa del catamarán'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/saltos-al-agua-en-una-cala-durante-el-crucero.webp
+  alt: 'Saltos al agua en una cala durante el crucero'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/flotador-gigante-junto-a-la-costa-rocosa.webp
+  alt: 'Flotador gigante junto a la costa rocosa'
+- src: /images/actividades/gran-canaria/prov-afrikat-gran-canaria/catamaran-saliendo-de-puerto-rico-de-gran-canaria.webp
+  alt: 'Catamarán saliendo de Puerto Rico de Gran Canaria'
 ---
 
 ## Qué vas a ver

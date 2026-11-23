@@ -70,6 +70,14 @@ galeria:
   alt: El Teide desde el nordeste
 - src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
   alt: Pinar canario con el Teide al fondo
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-con-el-teide-nevado-al-fondo.webp
+  alt: 'Senderistas con el Teide nevado al fondo'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/grupo-en-la-cima-de-una-ladera-volcanica-frente-al-teid.webp
+  alt: 'Grupo en la cima de una ladera volcánica frente al Teide'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/sendero-entre-helechos-en-un-bosque-humedo-de-tenerife.webp
+  alt: 'Sendero entre helechos en un bosque húmedo de Tenerife'
+- src: /images/actividades/tenerife/prov-10x-tenerife-experience/senderistas-por-un-camino-junto-a-un-canal-en-la-ladera.webp
+  alt: 'Senderistas por un camino junto a un canal en la ladera'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

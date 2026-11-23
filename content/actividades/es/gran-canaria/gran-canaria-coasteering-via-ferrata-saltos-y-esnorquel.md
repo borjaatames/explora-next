@@ -74,6 +74,14 @@ galeria:
   alt: Costa de acantilados en Taurito, junto a Mogán
 - src: /images/actividades/gran-canaria/yate/fgc-mar-azul-costa-rocosa.webp
   alt: Mar azul frente a una costa rocosa, a ras de agua
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/salto-al-mar-durante-el-coasteering.webp
+  alt: 'Salto al mar durante el coasteering'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/grupo-de-coasteering-con-chalecos-entre-las-rocas.webp
+  alt: 'Grupo de coasteering con chalecos entre las rocas'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/participante-recorriendo-la-costa-acantilada.webp
+  alt: 'Participante recorriendo la costa acantilada'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalada-con-cuerda-sobre-el-mar.webp
+  alt: 'Escalada con cuerda sobre el mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

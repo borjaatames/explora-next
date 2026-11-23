@@ -73,6 +73,18 @@ galeria:
   alt: Kanareneidechse im Anaga-Gebirge
 - src: /images/actividades/tenerife/ciudad/roque-taborno.webp
   alt: Der Roque de Taborno im Anaga-Gebirge
+- src: /images/actividades/tenerife/prov-hikin-kanarii/sendero-bajo-un-tunel-de-laurisilva-en-anaga.webp
+  alt: 'Pfad unter einem Lorbeerwald-Tunnel in Anaga'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/bosque-de-laurisilva-con-helechos.webp
+  alt: 'Lorbeerwald mit Farnen'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/arboles-cubiertos-de-musgo-en-la-laurisilva.webp
+  alt: 'Moosbewachsene Bäume im Lorbeerwald'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/camino-de-tierra-entre-laureles.webp
+  alt: 'Erdweg zwischen Lorbeerbäumen'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/ramas-retorcidas-sobre-el-sendero-de-anaga.webp
+  alt: 'Verdrehte Äste über dem Pfad in Anaga'
+- src: /images/actividades/tenerife/prov-hikin-kanarii/cuevas-excavadas-junto-al-sendero-del-bosque.webp
+  alt: 'In den Fels gehauene Höhlen am Waldpfad'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

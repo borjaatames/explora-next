@@ -108,6 +108,12 @@ galeria:
   alt: "Cueva Bermeja, ermita de San Bartolomé en Guayadeque"
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
   alt: "Paisaje del este de Gran Canaria"
+- src: /images/actividades/gran-canaria/prov-climbo/cuevas-excavadas-en-la-roca-volcanica.webp
+  alt: 'Cuevas excavadas en la roca volcánica'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-compartiendo-la-degustacion-en-un-restaurante-loc.webp
+  alt: 'Grupo compartiendo la degustación en un restaurante local'
+- src: /images/actividades/gran-canaria/prov-climbo/mesa-preparada-para-la-degustacion-de-productos-canario.webp
+  alt: 'Mesa preparada para la degustación de productos canarios'
 ---
 
 ## Qué vas a ver

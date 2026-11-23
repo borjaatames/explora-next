@@ -68,6 +68,10 @@ galeria:
   alt: Puerto Rico de Gran Canaria al atardecer
 - src: /images/actividades/gran-canaria/catamaran/fgc-veleros-acantilados-costa-sur.webp
   alt: Barcos frente a la costa de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/lancha-con-pasajeros-navegando-junto-a-la-costa.webp
+  alt: 'Lancha con pasajeros navegando junto a la costa'
+- src: /images/actividades/gran-canaria/prov-panda-boat-canarias/barcos-fondeados-al-atardecer-junto-a-los-acantilados.webp
+  alt: 'Barcos fondeados al atardecer junto a los acantilados'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

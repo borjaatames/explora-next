@@ -69,6 +69,12 @@ galeria:
   alt: Die Montaña Amarilla am Meer an der Südküste Teneriffas
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
   alt: Strand in Costa Adeje mit den Bergen im Hintergrund
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/paseo-a-caballo-al-atardecer-en-el-sur-de-tenerife.webp
+  alt: 'Ausritt bei Sonnenuntergang im Süden Teneriffas'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/jinete-acariciando-a-su-caballo-antes-de-la-ruta.webp
+  alt: 'Reiterin streichelt ihr Pferd vor dem Ausritt'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/cuadras-del-centro-ecuestre-entre-arboles.webp
+  alt: 'Ställe des Reitzentrums zwischen Bäumen'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -72,6 +72,18 @@ galeria:
   alt: Sub sopra un fondale sabbioso
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Il Teide sopra il mare di nuvole
+- src: /images/actividades/tenerife/prov-zeus-dive-center/buceador-sobre-el-fondo-rocoso-de-abades.webp
+  alt: 'Subacqueo sul fondale roccioso di Abades'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/selfi-de-buceadores-bajo-el-agua.webp
+  alt: 'Selfie di subacquei sott''acqua'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/estrella-de-mar-roja-sobre-una-roca.webp
+  alt: 'Stella marina rossa su una roccia'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/chucho-sobre-el-fondo-arenoso.webp
+  alt: 'Pastinaca sul fondale sabbioso'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/morena-asomando-entre-las-algas.webp
+  alt: 'Murena che sbuca tra le alghe'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/instructor-con-un-alumno-en-el-bautismo-de-buceo.webp
+  alt: 'Istruttore con un allievo durante il battesimo'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

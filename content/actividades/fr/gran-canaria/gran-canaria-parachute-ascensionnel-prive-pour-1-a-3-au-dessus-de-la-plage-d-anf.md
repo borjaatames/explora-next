@@ -70,6 +70,16 @@ galeria:
   alt: Le port de Puerto Rico à Grande Canarie vu d'en haut
 - src: /images/actividades/_shared/parasailing/parasailing-costa-verde.webp
   alt: Parachute ascensionnel dans le ciel bleu au-dessus de la mer, vu du rivage
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/parasailing-tras-la-lancha-frente-a-la-costa-de-gran-ca.webp
+  alt: 'Parachute ascensionnel tracté par le bateau au large de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/paracaidas-de-parasailing-sobre-la-playa-de-anfi.webp
+  alt: 'Voile de parachute ascensionnel au-dessus de la plage d''Anfi'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/despegue-de-parasailing-desde-la-popa-de-la-lancha.webp
+  alt: 'Décollage du parachute ascensionnel depuis la poupe du bateau'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/lancha-remolcando-a-los-pasajeros-del-parasailing.webp
+  alt: 'Bateau tractant les passagers du parachute ascensionnel'
+- src: /images/actividades/gran-canaria/prov-watersports-luis-molina/tres-pasajeros-listos-en-el-arnes-de-parasailing.webp
+  alt: 'Trois passagers prêts dans le harnais de parachute ascensionnel'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

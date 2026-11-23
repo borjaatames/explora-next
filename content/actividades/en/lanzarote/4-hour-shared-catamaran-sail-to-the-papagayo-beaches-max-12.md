@@ -72,6 +72,18 @@ galeria:
   alt: A Papagayo cove with turquoise water and volcanic rocks
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Red kayak on a white sand beach
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Catamaran anchored off the Papagayo beaches'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Sailing catamaran with the Lanzarote coast behind'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Golden sand cove between volcanic rocks'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Sunset from the sailing boat''s deck'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'Paddleboarding next to the catamaran'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Child paddling a kayak during the stop'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

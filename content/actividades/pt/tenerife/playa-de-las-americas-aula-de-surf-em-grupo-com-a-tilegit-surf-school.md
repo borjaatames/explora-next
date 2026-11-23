@@ -53,8 +53,8 @@ keywords:
 - tilegit surf school
 - aula de surf em grupo tenerife
 - surf las americas
-imagen: /images/actividades/_shared/surf/silueta-surfista-playa.webp
-imagenAlt: Silhueta de um surfista com a prancha na praia
+imagen: /images/actividades/tenerife/prov-tilegit-surf-school/alumna-de-surf-poniendose-de-pie-en-la-tabla-en-playa-d.webp
+imagenAlt: 'Aluna de surf a pôr-se de pé na prancha em Playa de las Américas'
 galeria:
 - src: /images/actividades/_shared/surf/surfista-ola-grande.webp
   alt: Surfista numa onda grande a rebentar
@@ -70,6 +70,12 @@ galeria:
   alt: Surfistas na beira-mar à espera de ondas
 - src: /images/actividades/fuerteventura/surf-corralejo/tablas-de-surf-en-la-arena.webp
   alt: Pranchas de surf na areia
+- src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
+  alt: 'Silhueta de um surfista com a prancha na praia'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/clase-de-surf-en-tierra-con-el-instructor.webp
+  alt: 'Aula de surf em terra com o instrutor'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/surfista-deslizandose-en-una-ola-rompiente.webp
+  alt: 'Surfista a deslizar numa onda a rebentar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

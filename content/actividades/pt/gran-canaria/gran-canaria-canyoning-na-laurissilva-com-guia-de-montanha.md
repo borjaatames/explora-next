@@ -68,6 +68,12 @@ galeria:
   alt: Amendoeiras em flor em frente ao Roque Bentayga, em Tejeda
 - src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
   alt: Uma rua de Teror com as montanhas do norte ao fundo
+- src: /images/actividades/gran-canaria/prov-climbo/rapel-junto-a-una-cascada-en-la-laurisilva-de-gran-cana.webp
+  alt: 'Rapel junto a uma cascata na laurissilva de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/guia-junto-a-una-pequena-cascada-del-barranco.webp
+  alt: 'Guia junto a uma pequena cascata do barranco'
+- src: /images/actividades/gran-canaria/prov-climbo/progresion-por-roca-con-casco-y-arnes.webp
+  alt: 'Progressão na rocha com capacete e arnês'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

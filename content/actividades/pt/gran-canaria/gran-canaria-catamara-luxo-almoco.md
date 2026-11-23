@@ -107,6 +107,12 @@ galeria:
   alt: 'Catamarãs fundeados em águas turquesa perto da costa, vistos do ar'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Veleiros atracados numa marina'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Passageiros a apanhar sol na proa do catamarã'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Descanso no convés do catamarã em mar aberto'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava e toalhas preparados a bordo'
 avisoReserva: "A tripulação ou o guia fala inglês, espanhol, alemão e francês: não há explicações em português."
 ---
 

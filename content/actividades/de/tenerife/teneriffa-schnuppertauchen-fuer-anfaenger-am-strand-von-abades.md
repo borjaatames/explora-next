@@ -72,6 +72,18 @@ galeria:
   alt: Taucher über sandigem Meeresgrund
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Der Teide über dem Wolkenmeer
+- src: /images/actividades/tenerife/prov-zeus-dive-center/buceador-sobre-el-fondo-rocoso-de-abades.webp
+  alt: 'Taucher über dem felsigen Grund bei Abades'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/selfi-de-buceadores-bajo-el-agua.webp
+  alt: 'Taucher machen ein Unterwasser-Selfie'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/estrella-de-mar-roja-sobre-una-roca.webp
+  alt: 'Roter Seestern auf einem Felsen'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/chucho-sobre-el-fondo-arenoso.webp
+  alt: 'Stachelrochen auf dem Sandgrund'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/morena-asomando-entre-las-algas.webp
+  alt: 'Muräne lugt aus den Algen'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/instructor-con-un-alumno-en-el-bautismo-de-buceo.webp
+  alt: 'Tauchlehrer mit einem Schüler beim Schnuppertauchen'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

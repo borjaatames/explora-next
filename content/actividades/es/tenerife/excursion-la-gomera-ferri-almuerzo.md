@@ -107,6 +107,12 @@ galeria:
   alt: Círculo de piedras en la Laguna Grande de Garajonay
 - src: /images/actividades/tenerife/gomera/papas-arrugadas-mojo.webp
   alt: Papas arrugadas con mojo rojo y verde
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Autobús de Atlántico Excursiones'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/roque-de-agando-en-la-gomera.webp
+  alt: 'Roque de Agando en La Gomera'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/viajeros-en-un-mirador-de-la-gomera.webp
+  alt: 'Viajeros en un mirador de La Gomera'
 ratingProveedor: 4.3
 numeroOpiniones: 709
 publicada: true

@@ -72,6 +72,18 @@ galeria:
   alt: Plongeur au-dessus d'un fond sableux
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: Le Teide au-dessus de la mer de nuages
+- src: /images/actividades/tenerife/prov-zeus-dive-center/buceador-sobre-el-fondo-rocoso-de-abades.webp
+  alt: 'Plongeur au-dessus des fonds rocheux d''Abades'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/selfi-de-buceadores-bajo-el-agua.webp
+  alt: 'Selfie de plongeurs sous l''eau'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/estrella-de-mar-roja-sobre-una-roca.webp
+  alt: 'Étoile de mer rouge sur un rocher'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/chucho-sobre-el-fondo-arenoso.webp
+  alt: 'Raie pastenague sur le fond sableux'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/morena-asomando-entre-las-algas.webp
+  alt: 'Murène sortant des algues'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/instructor-con-un-alumno-en-el-bautismo-de-buceo.webp
+  alt: 'Moniteur avec un élève lors du baptême de plongée'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

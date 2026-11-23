@@ -74,6 +74,12 @@ galeria:
   alt: O barranco de Fataga, no sul de Gran Canaria
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
   alt: Estrada sinuosa num barranco do sul de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-la-via-ferrata-sobre-roca-rojiza.webp
+  alt: 'Escalador na via ferrata sobre rocha avermelhada'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-de-cuerdas-entre-paredes-de-roca.webp
+  alt: 'Passagem de cordas entre paredes de rocha'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-lo-alto-de-un-acantilado.webp
+  alt: 'Escalador no alto de uma falésia'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

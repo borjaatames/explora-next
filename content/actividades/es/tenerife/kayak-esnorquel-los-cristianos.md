@@ -94,8 +94,8 @@ keywords:
 - kayak los cristianos
 - esnorquel tenerife
 - tortugas tenerife kayak
-imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
-imagenAlt: Persona remando en un kayak naranja en mar abierto
+imagen: /images/actividades/tenerife/prov-xplore-tenerife/kayakistas-junto-a-una-tortuga-marina.webp
+imagenAlt: 'Kayakistas junto a una tortuga marina'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
   alt: Persona haciendo esnórquel en aguas azules y transparentes
@@ -113,6 +113,16 @@ galeria:
   alt: Playa de Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Barcos en el puerto de Los Cristianos
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Persona remando en un kayak naranja en mar abierto'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfines-saltando-junto-a-un-kayak.webp
+  alt: 'Delfines saltando junto a un kayak'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/tortuga-marina-bajo-el-agua.webp
+  alt: 'Tortuga marina bajo el agua'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/kayakista-remando-con-delfines-cerca.webp
+  alt: 'Kayakista remando con delfines cerca'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfin-saltando-cerca-de-una-kayakista.webp
+  alt: 'Delfín saltando cerca de una kayakista'
 ratingProveedor: 4.7
 numeroOpiniones: 12364
 atraccionesRelacionadas:

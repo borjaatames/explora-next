@@ -75,6 +75,18 @@ galeria:
   alt: Lorbeerwald mit moosbedeckten Stämmen
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Bergkämme des Anaga-Gebirges
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Reiterin auf einem Schimmel mit dem Teide im Hintergrund'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Gruppe zu Pferd auf einem Waldweg'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Ausritt auf einem roten Erdweg durch die Kiefern'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Reiter auf der Finca mit dem Teide im Hintergrund'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'Vorbereitung der Pferde vor dem verschneiten Teide'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Pferde und Reiter rasten im Wald'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

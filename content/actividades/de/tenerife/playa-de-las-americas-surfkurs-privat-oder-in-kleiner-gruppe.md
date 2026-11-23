@@ -74,6 +74,18 @@ galeria:
   alt: Sonnenuntergang mit den Nachbarinseln am Horizont
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: Die Küste von Los Cristianos mit dem Atlantik, Ausgangspunkt des Katamarans auf Teneriffa
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumna-de-surf-de-pie-en-la-tabla-en-playa-de-las-ameri.webp
+  alt: 'Surfschülerin steht in Playa de las Américas auf dem Brett'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-principiante-cogiendo-la-espuma.webp
+  alt: 'Surfanfänger reitet das Weißwasser'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-deslizandose-en-una-ola-verde.webp
+  alt: 'Surfer gleitet über eine grüne Welle'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnos-e-instructor-en-la-orilla-durante-la-clase.webp
+  alt: 'Schüler und Lehrer am Ufer während des Kurses'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/practica-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Übung im Sand vor dem Gang ins Wasser'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnas-saliendo-del-agua-con-las-tablas.webp
+  alt: 'Schülerinnen kommen mit ihren Brettern aus dem Wasser'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -80,6 +80,14 @@ galeria:
   alt: Strand in Costa Adeje mit den Bergen im Hintergrund
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Grindwale vor der Küste Teneriffas
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-junto-a-un-calderon-en-el-sur-de-tenerife.webp
+  alt: 'Segelboot neben einem Grindwal im Süden Teneriffas'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-navegando-en-aguas-abiertas-de-tenerife.webp
+  alt: 'Segelboot auf offenem Meer vor Teneriffa'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-frente-a-la-costa-sur-con-las-montanas-al-fondo.webp
+  alt: 'Segelboot vor der Südküste mit den Bergen im Hintergrund'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/el-teide-nevado-visto-desde-el-mar.webp
+  alt: 'Der verschneite Teide vom Meer aus gesehen'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

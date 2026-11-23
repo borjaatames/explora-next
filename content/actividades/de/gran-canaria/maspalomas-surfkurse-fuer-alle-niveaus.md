@@ -69,6 +69,18 @@ galeria:
   alt: Dünen von Maspalomas am Meer
 - src: /images/actividades/_shared/surf/siluetas-tablas-atardecer.webp
   alt: Silhouetten von Surfern mit Brettern bei Sonnenuntergang
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-de-surf-poniendose-de-pie-en-la-espuma.webp
+  alt: 'Surfschüler stehen im Weißwasser auf'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/surfista-principiante-cogiendo-una-ola-en-maspalomas.webp
+  alt: 'Surfanfänger erwischt eine Welle in Maspalomas'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-sentados-en-sus-tablas-en-el-agua.webp
+  alt: 'Schüler sitzen im Wasser auf ihren Brettern'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/grupo-de-la-escuela-de-surf-celebrando-en-el-mar.webp
+  alt: 'Surfschulgruppe feiert im Meer'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/calentamiento-en-la-arena-antes-de-la-clase.webp
+  alt: 'Aufwärmen im Sand vor dem Kurs'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/instructor-con-alumnas-en-la-orilla.webp
+  alt: 'Lehrer mit Schülerinnen am Ufer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

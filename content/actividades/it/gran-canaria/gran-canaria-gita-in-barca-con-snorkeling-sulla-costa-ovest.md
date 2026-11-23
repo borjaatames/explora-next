@@ -65,6 +65,12 @@ galeria:
   alt: Puerto de Mogán con la spiaggia e il porto
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: La costa di scogliere a Taurito, vicino a Mogán
+- src: /images/actividades/gran-canaria/prov-zeusteam/persona-haciendo-esnorquel-en-aguas-turquesa.webp
+  alt: 'Persona che fa snorkeling in acque turchesi'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-junto-a-un-pez-globo.webp
+  alt: 'Snorkeling accanto a un pesce palla'
+- src: /images/actividades/gran-canaria/prov-zeusteam/esnorquel-sobre-un-fondo-poco-profundo.webp
+  alt: 'Snorkeling su un fondale poco profondo'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

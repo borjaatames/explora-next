@@ -106,6 +106,10 @@ galeria:
   alt: 'Playa Blanca, en el sur de Lanzarote'
 - src: /images/actividades/lanzarote/zonas/papagayo-cala-rocas.webp
   alt: 'Cala de Papagayo con aguas turquesa y rocas volcánicas'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Submarino amarillo junto a un pecio en el fondo marino'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Interior del submarino con asientos frente a los ojos de buey'
 ratingProveedor: 4.6
 numeroOpiniones: 1587
 atraccionesRelacionadas:

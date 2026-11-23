@@ -80,6 +80,14 @@ galeria:
   alt: A Costa Adeje beach with the mountains of southern Tenerife behind
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Pilot whales off the Tenerife coast
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-junto-a-un-calderon-en-el-sur-de-tenerife.webp
+  alt: 'Sailing boat next to a pilot whale in southern Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-navegando-en-aguas-abiertas-de-tenerife.webp
+  alt: 'Sailing boat on the open waters of Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-frente-a-la-costa-sur-con-las-montanas-al-fondo.webp
+  alt: 'Sailing boat off the south coast with the mountains behind'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/el-teide-nevado-visto-desde-el-mar.webp
+  alt: 'Snow-capped Teide seen from the sea'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -74,6 +74,18 @@ galeria:
   alt: Sunset with neighbouring islands on the horizon
 - src: /images/actividades/tenerife/cristianos/costa-palm-mar.webp
   alt: Los Cristianos coast with the Atlantic behind, the catamaran base in Tenerife
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumna-de-surf-de-pie-en-la-tabla-en-playa-de-las-ameri.webp
+  alt: 'Surf student standing on the board at Playa de las Américas'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-principiante-cogiendo-la-espuma.webp
+  alt: 'Beginner surfer riding the whitewater'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/surfista-deslizandose-en-una-ola-verde.webp
+  alt: 'Surfer gliding along a green wave'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnos-e-instructor-en-la-orilla-durante-la-clase.webp
+  alt: 'Students and instructor at the shoreline during the lesson'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/practica-en-la-arena-antes-de-entrar-al-agua.webp
+  alt: 'Practice on the sand before going into the water'
+- src: /images/actividades/tenerife/prov-kontraola-surf-school/alumnas-saliendo-del-agua-con-las-tablas.webp
+  alt: 'Students coming out of the water with their boards'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

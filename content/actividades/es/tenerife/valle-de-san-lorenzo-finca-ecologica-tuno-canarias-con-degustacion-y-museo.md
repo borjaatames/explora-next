@@ -72,6 +72,10 @@ galeria:
   alt: Palas de tunera con frutos maduros en una ladera
 - src: /images/actividades/tenerife/tuno/tunera-flor-costa.webp
   alt: Tunera en flor en la costa de Tenerife
+- src: /images/actividades/tenerife/prov-tuno-canarias/tuneras-con-higos-picos-maduros-en-la-finca.webp
+  alt: 'Tuneras con higos picos maduros en la finca'
+- src: /images/actividades/tenerife/prov-tuno-canarias/higos-picos-rojos-en-primer-plano.webp
+  alt: 'Higos picos rojos en primer plano'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

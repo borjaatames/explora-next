@@ -72,6 +72,12 @@ galeria:
   alt: Vista del norte de Tenerife, con el valle de La Orotava y el Atlántico
 - src: /images/actividades/tenerife/garachico/garachico-pexels-10862464.webp
   alt: Garachico y el roque frente a la costa
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Autobús de Atlántico Excursiones'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/basilica-de-candelaria-junto-al-mar.webp
+  alt: 'Basílica de Candelaria junto al mar'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/montanas-del-valle-de-masca.webp
+  alt: 'Montañas del valle de Masca'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

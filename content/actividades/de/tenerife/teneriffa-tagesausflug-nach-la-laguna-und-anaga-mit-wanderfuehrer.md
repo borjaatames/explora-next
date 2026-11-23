@@ -69,6 +69,8 @@ galeria:
   alt: Türme von Santa Cruz vor dem Anaga-Gebirge
 - src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
   alt: Erdweg durch den Lorbeerwald auf Teneriffa
+- src: /images/actividades/tenerife/prov-canaventura-services-canarias/sendero-entre-la-laurisilva-con-niebla-en-anaga.webp
+  alt: 'Pfad durch den nebligen Lorbeerwald in Anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

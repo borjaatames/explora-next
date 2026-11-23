@@ -96,6 +96,10 @@ galeria:
   alt: 'Baleia-piloto nas águas do oeste de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'Baleia-piloto tropical a respirar à superfície'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Submarino amarelo junto a um naufrágio no fundo do mar'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Interior do submarino com assentos virados para as vigias'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

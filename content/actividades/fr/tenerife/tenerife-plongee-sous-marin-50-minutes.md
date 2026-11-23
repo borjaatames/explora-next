@@ -96,6 +96,10 @@ galeria:
   alt: 'Un cétacé soufflant en surface au large de Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'Un globicéphale remontant respirer en surface'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Sous-marin jaune près d''une épave sur le fond marin'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Intérieur du sous-marin avec sièges face aux hublots'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

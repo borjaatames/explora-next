@@ -104,6 +104,18 @@ galeria:
   alt: 'Cliffs and beach at Playas de Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
   alt: 'Turquoise-water cove at Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-fondeado-en-las-aguas-turquesa-de-papagayo.webp
+  alt: 'Catamaran anchored in the turquoise waters of Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/familia-en-kayak-y-padel-surf-junto-a-los-acantilados.webp
+  alt: 'Family kayaking and paddleboarding by the cliffs'
+- src: /images/actividades/lanzarote/prov-catlanza/pasajeros-banandose-junto-al-catamaran.webp
+  alt: 'Passengers swimming next to the catamaran'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-a-vela-frente-a-la-costa-sur-de-lanzarote.webp
+  alt: 'Sailing catamaran off Lanzarote''s south coast'
+- src: /images/actividades/lanzarote/prov-catlanza/amigos-sentados-en-el-borde-de-la-plataforma-de-bano.webp
+  alt: 'Friends sitting on the edge of the swim platform'
+- src: /images/actividades/lanzarote/prov-catlanza/nino-con-gafas-de-buceo-en-la-escalera-del-barco.webp
+  alt: 'Child in a snorkel mask on the boat''s ladder'
 ---
 
 ## What you will see

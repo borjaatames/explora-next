@@ -88,8 +88,8 @@ keywords:
 - gran canaria jet ski
 - puerto rico jet ski tour
 - things to do in puerto rico gran canaria
-imagen: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
-imagenAlt: A jet ski riding the waves
+imagen: /images/actividades/gran-canaria/prov-esnautica-water-sport/moto-de-agua-navegando-frente-a-puerto-rico-de-gran-can.webp
+imagenAlt: 'Jet ski cruising off Puerto Rico de Gran Canaria'
 galeria:
 - src: /images/actividades/gran-canaria/mar/puerto-rico-puerto.webp
   alt: 'Puerto Rico de Gran Canaria marina, the tour''s starting point'
@@ -105,6 +105,8 @@ galeria:
   alt: 'A pod of pilot whales in the Canary Atlantic'
 - src: /images/actividades/gran-canaria/mar/calderon-tropical.webp
   alt: 'A short-finned pilot whale in Canary Islands waters'
+- src: /images/actividades/tenerife/motos-agua/moto-de-agua.webp
+  alt: 'A jet ski riding the waves'
 ratingProveedor: 4.6
 numeroOpiniones: 1221
 atraccionesRelacionadas:

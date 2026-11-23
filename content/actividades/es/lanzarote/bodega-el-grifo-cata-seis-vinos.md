@@ -77,8 +77,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
-imagenAlt: "Barricas de roble en la nave de crianza de una bodega"
+imagen: /images/actividades/lanzarote/prov-bodegas-el-grifo/entrada-de-la-bodega-el-grifo-entre-dragos.webp
+imagenAlt: 'Entrada de la Bodega El Grifo entre dragos'
 galeria:
 - src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedo-muros-piedra.webp
   alt: "Viñedos de La Geria protegidos por muros de piedra volcánica"
@@ -94,6 +94,18 @@ galeria:
   alt: "Quesos curados de cabra"
 - src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedos-volcan.webp
   alt: "Viñedos en hoyos de ceniza a los pies de un volcán en La Geria"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: 'Barricas de roble en la nave de crianza de una bodega'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/bodega-el-grifo-y-los-volcanes-de-la-geria-al-atardecer.webp
+  alt: 'Bodega El Grifo y los volcanes de La Geria al atardecer'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/barricas-antiguas-de-malvasia-en-la-bodega.webp
+  alt: 'Barricas antiguas de malvasía en la bodega'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/escalera-de-la-antigua-bodega-excavada.webp
+  alt: 'Escalera de la antigua bodega excavada'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/cata-de-vino-blanco-en-la-terraza-de-la-bodega.webp
+  alt: 'Cata de vino blanco en la terraza de la bodega'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/racimo-de-malvasia-en-la-vina-volcanica.webp
+  alt: 'Racimo de malvasía en la viña volcánica'
 ---
 
 ## Qué vas a ver

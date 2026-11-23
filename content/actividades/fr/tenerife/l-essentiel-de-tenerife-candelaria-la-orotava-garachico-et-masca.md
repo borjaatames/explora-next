@@ -72,6 +72,12 @@ galeria:
   alt: La vallée de La Orotava descendant vers la côte nord, où se trouve Puerto de la Cruz
 - src: /images/actividades/tenerife/garachico/garachico-pexels-10862464.webp
   alt: Garachico et son rocher face à la côte
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/autobus-de-atlantico-excursiones.webp
+  alt: 'Autocar d''Atlántico Excursiones'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/basilica-de-candelaria-junto-al-mar.webp
+  alt: 'Basilique de Candelaria au bord de la mer'
+- src: /images/actividades/tenerife/prov-atlantico-excursiones/montanas-del-valle-de-masca.webp
+  alt: 'Montagnes de la vallée de Masca'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

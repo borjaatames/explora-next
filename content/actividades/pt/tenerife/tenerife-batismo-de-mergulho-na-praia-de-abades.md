@@ -72,6 +72,18 @@ galeria:
   alt: Mergulhador a nadar sobre um fundo de areia
 - src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
   alt: O Teide sobre o mar de nuvens
+- src: /images/actividades/tenerife/prov-zeus-dive-center/buceador-sobre-el-fondo-rocoso-de-abades.webp
+  alt: 'Mergulhador sobre o fundo rochoso de Abades'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/selfi-de-buceadores-bajo-el-agua.webp
+  alt: 'Selfie de mergulhadores debaixo de água'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/estrella-de-mar-roja-sobre-una-roca.webp
+  alt: 'Estrela-do-mar vermelha sobre uma rocha'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/chucho-sobre-el-fondo-arenoso.webp
+  alt: 'Uge sobre o fundo arenoso'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/morena-asomando-entre-las-algas.webp
+  alt: 'Moreia a espreitar entre as algas'
+- src: /images/actividades/tenerife/prov-zeus-dive-center/instructor-con-un-alumno-en-el-bautismo-de-buceo.webp
+  alt: 'Instrutor com um aluno no batismo de mergulho'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -56,8 +56,8 @@ keywords:
 - parapendio tenerife
 - parapendio biposto tenerife
 - parapendio costa adeje prelievo
-imagen: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
-imagenAlt: Volo in parapendio biposto
+imagen: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/vuelo-en-parapente-biplaza-sobre-el-mar-de-nubes.webp
+imagenAlt: 'Volo in parapendio biposto sopra il mare di nuvole'
 galeria:
 - src: /images/actividades/tenerife/parapente-adeje/parapente-sobre-las-olas.webp
   alt: Parapendio sopra le onde
@@ -73,6 +73,12 @@ galeria:
   alt: Spiaggia di Los Cristianos, ad Arona
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Scogliere lungo la costa sud di Tenerife
+- src: /images/actividades/lanzarote/parapente/x-parapente-pixabay-5292803.webp
+  alt: 'Volo in parapendio biposto'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/parapente-biplaza-al-atardecer-sobre-la-costa-sur.webp
+  alt: 'Parapendio biposto al tramonto sulla costa sud'
+- src: /images/actividades/tenerife/prov-airsports-tenerife-paragliding/piloto-y-pasajero-en-pleno-vuelo-en-parapente.webp
+  alt: 'Pilota e passeggero in pieno volo in parapendio'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

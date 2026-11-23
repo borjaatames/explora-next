@@ -69,6 +69,18 @@ galeria:
   alt: Murena che si affaccia tra le rocce del fondale
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: La Montaña de Guaza accanto a Los Cristianos
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Gruppo di battesimo subacqueo circondato da pesci'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Subacquei che entrano in acqua dalla riva'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Istruttore e allievi pronti a riva'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Subacquei accanto a una tartaruga su una prateria marina'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Subacquea che sbuca tra rocce con ricci di mare'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Arco di roccia sottomarino a Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

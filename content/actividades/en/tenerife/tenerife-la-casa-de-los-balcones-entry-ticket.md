@@ -66,6 +66,14 @@ galeria:
   alt: A street in the historic centre of La Laguna
 - src: /images/actividades/tenerife/garachico/garachico-plaza.webp
   alt: The main square of Garachico
+- src: /images/actividades/tenerife/prov-la-casa-de-los-balcones/patio-interior-de-la-casa-de-los-balcones-iluminado.webp
+  alt: 'Lit inner courtyard of the Casa de los Balcones'
+- src: /images/actividades/tenerife/prov-la-casa-de-los-balcones/galeria-de-madera-de-la-casa-con-vistas-a-la-orotava.webp
+  alt: 'Wooden gallery of the house overlooking La Orotava'
+- src: /images/actividades/tenerife/prov-la-casa-de-los-balcones/fachada-de-la-casa-de-los-balcones-de-noche.webp
+  alt: 'Facade of the Casa de los Balcones at night'
+- src: /images/actividades/tenerife/prov-la-casa-de-los-balcones/antigua-cocina-canaria-recreada-en-la-casa.webp
+  alt: 'Recreated old Canarian kitchen in the house'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -68,6 +68,12 @@ galeria:
   alt: Blühende Mandelbäume vor dem Roque Bentayga in Tejeda
 - src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
   alt: Eine Straße in Teror mit den Bergen des Nordens im Hintergrund
+- src: /images/actividades/gran-canaria/prov-climbo/rapel-junto-a-una-cascada-en-la-laurisilva-de-gran-cana.webp
+  alt: 'Abseilen neben einem Wasserfall im Lorbeerwald Gran Canarias'
+- src: /images/actividades/gran-canaria/prov-climbo/guia-junto-a-una-pequena-cascada-del-barranco.webp
+  alt: 'Guide neben einem kleinen Wasserfall in der Schlucht'
+- src: /images/actividades/gran-canaria/prov-climbo/progresion-por-roca-con-casco-y-arnes.webp
+  alt: 'Kletterpassage am Fels mit Helm und Gurt'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

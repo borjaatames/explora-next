@@ -69,6 +69,8 @@ galeria:
   alt: Rocky seabed under crystal-clear water, ideal for snorkelling
 - src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
   alt: Boats in the Charco de San Ginés, Arrecife
+- src: /images/actividades/lanzarote/prov-daivoon-diving-centre/buceadores-entrando-al-agua-junto-al-espigon-de-costa-t.webp
+  alt: 'Divers entering the water by the Costa Teguise breakwater'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

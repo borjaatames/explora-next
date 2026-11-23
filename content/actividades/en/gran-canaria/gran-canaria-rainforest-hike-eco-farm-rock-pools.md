@@ -107,6 +107,18 @@ galeria:
   alt: 'Natural rock pool among volcanic rocks by the ocean'
 - src: /images/actividades/gran-canaria/norte/arucas-iglesia-torre-hero.webp
   alt: 'San Juan Bautista church in Arucas, near the distillery'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-en-un-claro-del-barranco-de-la-selva-de-doramas.webp
+  alt: 'Group in a clearing of the Doramas forest ravine'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-cruzando-un-tronco-en-el-bosque.webp
+  alt: 'Hiker crossing a log in the forest'
+- src: /images/actividades/gran-canaria/prov-climbo/sendero-entre-vegetacion-frondosa-en-doramas.webp
+  alt: 'Trail through lush vegetation in Doramas'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-pasando-entre-arboles-caidos.webp
+  alt: 'Group passing among fallen trees'
+- src: /images/actividades/gran-canaria/prov-climbo/senderistas-subiendo-por-el-bosque-de-laurisilva.webp
+  alt: 'Hikers climbing through the laurel forest'
+- src: /images/actividades/gran-canaria/prov-climbo/senderista-en-un-camino-de-la-selva.webp
+  alt: 'Hiker on a forest path'
 avisoReserva: 'Seasonal activity: the next available dates start in March 2027.'
 ---
 

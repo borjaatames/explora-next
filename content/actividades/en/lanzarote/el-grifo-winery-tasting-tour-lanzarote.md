@@ -77,8 +77,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
-imagenAlt: "Oak barrels in a winery ageing cellar"
+imagen: /images/actividades/lanzarote/prov-bodegas-el-grifo/entrada-de-la-bodega-el-grifo-entre-dragos.webp
+imagenAlt: 'Entrance to Bodega El Grifo among dragon trees'
 galeria:
 - src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedo-muros-piedra.webp
   alt: "La Geria vineyards sheltered by volcanic stone walls"
@@ -94,6 +94,18 @@ galeria:
   alt: "Cured goat cheeses"
 - src: /images/actividades/lanzarote/fre-bodega-grifo/la-geria-vinedos-volcan.webp
   alt: "Vines in ash pits below a volcano in La Geria"
+- src: /images/actividades/fuerteventura/bodega/ffv-barricas-bodega.webp
+  alt: 'Oak barrels in a winery ageing cellar'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/bodega-el-grifo-y-los-volcanes-de-la-geria-al-atardecer.webp
+  alt: 'El Grifo winery and the La Geria volcanoes at dusk'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/barricas-antiguas-de-malvasia-en-la-bodega.webp
+  alt: 'Old Malvasía barrels in the winery'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/escalera-de-la-antigua-bodega-excavada.webp
+  alt: 'Staircase down into the old cellar'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/cata-de-vino-blanco-en-la-terraza-de-la-bodega.webp
+  alt: 'White wine tasting on the winery terrace'
+- src: /images/actividades/lanzarote/prov-bodegas-el-grifo/racimo-de-malvasia-en-la-vina-volcanica.webp
+  alt: 'Malvasía grape bunch in the volcanic vineyard'
 ---
 
 ## What you will see

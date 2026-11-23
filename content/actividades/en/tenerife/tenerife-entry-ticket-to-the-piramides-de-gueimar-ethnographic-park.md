@@ -63,6 +63,14 @@ galeria:
   alt: Cliffs along the south coast of Tenerife
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Teide from the north-east
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Stepped pyramid of Güímar under a cloudy sky'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Visitors looking at one of the park''s pyramids'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Family walking the paths of the ethnographic park'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Guided visit by the garden pond'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

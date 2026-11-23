@@ -69,6 +69,8 @@ galeria:
   alt: Aguacates colgando a contraluz bajo las hojas
 - src: /images/actividades/tenerife/santa-cruz/torres-montanas-anaga.webp
   alt: Torres de Santa Cruz con las montañas de Anaga al fondo
+- src: /images/actividades/tenerife/prov-tahodio-avocado-experience/cesta-con-aguacates-recien-cogidos-en-la-finca.webp
+  alt: 'Cesta con aguacates recién cogidos en la finca'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

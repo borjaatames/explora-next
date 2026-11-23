@@ -75,6 +75,18 @@ galeria:
   alt: Laurisilva con tronchi ricoperti di muschio
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Creste del massiccio di Anaga
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Amazzone su un cavallo bianco con il Teide sullo sfondo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Gruppo a cavallo su un sentiero di montagna'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Passeggiata a cavallo su una pista di terra rossa tra i pini'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Cavalieri nella tenuta con il Teide sullo sfondo'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'Preparazione dei cavalli davanti al Teide innevato'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Cavalli e cavalieri in sosta nel bosco'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

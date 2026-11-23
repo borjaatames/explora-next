@@ -96,6 +96,10 @@ galeria:
   alt: 'Ein Wal bläst an der Oberfläche vor Teneriffa'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'Ein Grindwal taucht zum Atmen auf'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Gelbes U-Boot neben einem Wrack auf dem Meeresgrund'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Im U-Boot mit Sitzen vor den Bullaugen'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

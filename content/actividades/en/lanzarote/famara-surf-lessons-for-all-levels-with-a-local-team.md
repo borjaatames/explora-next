@@ -70,6 +70,14 @@ galeria:
   alt: La Graciosa seen from Famara
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Surf class paddling out on their boards
+- src: /images/actividades/lanzarote/prov-momo-surf-school/alumnas-caminando-con-sus-tablas-por-la-playa-de-famara.webp
+  alt: 'Students walking with their boards on Famara beach'
+- src: /images/actividades/lanzarote/prov-momo-surf-school/alumnas-celebrando-en-el-agua-tras-la-clase-de-surf.webp
+  alt: 'Students celebrating in the water after the surf lesson'
+- src: /images/actividades/lanzarote/prov-momo-surf-school/reflejos-en-la-orilla-de-famara-al-pie-de-los-riscos.webp
+  alt: 'Reflections on the Famara shoreline below the cliffs'
+- src: /images/actividades/lanzarote/prov-momo-surf-school/analisis-en-video-de-la-sesion-de-surf.webp
+  alt: 'Video analysis of the surf session'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

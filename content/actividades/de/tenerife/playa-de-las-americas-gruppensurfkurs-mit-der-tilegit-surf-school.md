@@ -53,8 +53,8 @@ keywords:
 - tilegit surfschule
 - gruppensurfkurs teneriffa
 - surfen las americas
-imagen: /images/actividades/_shared/surf/silueta-surfista-playa.webp
-imagenAlt: Silhouette eines Surfers mit Brett am Strand
+imagen: /images/actividades/tenerife/prov-tilegit-surf-school/alumna-de-surf-poniendose-de-pie-en-la-tabla-en-playa-d.webp
+imagenAlt: 'Surfschülerin steht in Playa de las Américas auf dem Brett auf'
 galeria:
 - src: /images/actividades/_shared/surf/surfista-ola-grande.webp
   alt: Surfer auf einer großen brechenden Welle
@@ -70,6 +70,12 @@ galeria:
   alt: Surfer im flachen Wasser warten auf Wellen
 - src: /images/actividades/fuerteventura/surf-corralejo/tablas-de-surf-en-la-arena.webp
   alt: Surfbretter im Sand aufgereiht
+- src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
+  alt: 'Silhouette eines Surfers mit Brett am Strand'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/clase-de-surf-en-tierra-con-el-instructor.webp
+  alt: 'Surfstunde an Land mit dem Lehrer'
+- src: /images/actividades/tenerife/prov-tilegit-surf-school/surfista-deslizandose-en-una-ola-rompiente.webp
+  alt: 'Surfer gleitet über eine brechende Welle'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

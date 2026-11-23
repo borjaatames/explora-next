@@ -69,6 +69,12 @@ galeria:
   alt: Montaña Amarilla by the sea on the south coast of Tenerife
 - src: /images/actividades/tenerife/costa-adeje/playa-costa-adeje.webp
   alt: A Costa Adeje beach with the mountains of southern Tenerife behind
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/paseo-a-caballo-al-atardecer-en-el-sur-de-tenerife.webp
+  alt: 'Horse ride at sunset in southern Tenerife'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/jinete-acariciando-a-su-caballo-antes-de-la-ruta.webp
+  alt: 'Rider stroking her horse before the ride'
+- src: /images/actividades/tenerife/prov-onira-equestrian-center/cuadras-del-centro-ecuestre-entre-arboles.webp
+  alt: 'Stables of the equestrian centre among the trees'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

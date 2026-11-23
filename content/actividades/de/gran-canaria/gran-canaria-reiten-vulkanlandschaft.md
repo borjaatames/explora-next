@@ -97,6 +97,18 @@ galeria:
   alt: "Die Dünen von Maspalomas mit den Bergen von Gran Canaria im Hintergrund"
 - src: "/images/actividades/gran-canaria/tejeda/fgc-roque-bentayga-almendros.webp"
   alt: "Blühende Mandelbäume vor dem Roque Bentayga in Tejeda"
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/grupo-a-caballo-por-una-pista-entre-cardonales.webp
+  alt: 'Reitergruppe auf einer Piste durch Wolfsmilchbüsche'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/jinetes-al-atardecer-en-la-ruta-volcanica.webp
+  alt: 'Reiter bei Sonnenuntergang auf der Vulkanroute'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/fila-de-caballos-en-el-camino-de-tierra.webp
+  alt: 'Pferdereihe auf dem Erdweg'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/ruta-a-caballo-con-las-montanas-del-sur-al-fondo.webp
+  alt: 'Ausritt mit den Bergen des Südens im Hintergrund'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/grupo-de-jinetes-en-el-paisaje-arido-de-gran-canaria.webp
+  alt: 'Reitergruppe in der kargen Landschaft Gran Canarias'
+- src: /images/actividades/gran-canaria/prov-el-salobre-horse-riding/jinetes-posando-con-sus-caballos-en-la-ruta.webp
+  alt: 'Reiter posieren mit ihren Pferden auf der Route'
 ratingProveedor: 4.5
 numeroOpiniones: 2557
 atraccionesRelacionadas:

@@ -68,6 +68,18 @@ galeria:
   alt: Crestas del macizo de Anaga
 - src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
   alt: Helechos y musgo en un bosque de laurisilva con niebla
+- src: /images/actividades/tenerife/prov-trektenerife/roques-de-anaga-y-la-costa-norte-desde-un-mirador.webp
+  alt: 'Roques de Anaga y la costa norte desde un mirador'
+- src: /images/actividades/tenerife/prov-trektenerife/senderistas-descansando-sobre-los-acantilados-de-anaga.webp
+  alt: 'Senderistas descansando sobre los acantilados de Anaga'
+- src: /images/actividades/tenerife/prov-trektenerife/grupo-caminando-por-un-sendero-de-laurisilva.webp
+  alt: 'Grupo caminando por un sendero de laurisilva'
+- src: /images/actividades/tenerife/prov-trektenerife/paso-entre-rocas-en-un-barranco-de-anaga.webp
+  alt: 'Paso entre rocas en un barranco de Anaga'
+- src: /images/actividades/tenerife/prov-trektenerife/crestas-verdes-del-macizo-de-anaga.webp
+  alt: 'Crestas verdes del macizo de Anaga'
+- src: /images/actividades/tenerife/prov-trektenerife/senderistas-frente-a-las-montanas-de-anaga.webp
+  alt: 'Senderistas frente a las montañas de Anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -109,6 +109,8 @@ galeria:
   alt: Barcas de pesca en Puerto de Mogán
 - src: /images/actividades/gran-canaria/mogan/mogan-buganvillas.webp
   alt: Buganvillas en las casas de Puerto de Mogán
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/kayak-doble-frente-a-los-acantilados-de-mogan.webp
+  alt: 'Kayak doble frente a los acantilados de Mogán'
 ratingProveedor: 4.6
 numeroOpiniones: 406
 atraccionesRelacionadas:

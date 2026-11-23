@@ -70,6 +70,12 @@ galeria:
   alt: Dirt trail through laurel forest in Tenerife
 - src: /images/actividades/tenerife/anaga/anaga-05.webp
   alt: Laurel forest in Anaga Rural Park
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/vinedo-de-la-bodega-el-lomo-en-tegueste.webp
+  alt: 'Bodega El Lomo vineyard in Tegueste'
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/visitantes-catando-vino-blanco-entre-las-vinas.webp
+  alt: 'Visitors tasting white wine among the vines'
+- src: /images/actividades/tenerife/prov-bodega-el-lomo/racimo-de-uva-tinta-de-la-bodega.webp
+  alt: 'Bunch of red grapes from the winery'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

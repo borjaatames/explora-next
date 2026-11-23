@@ -67,6 +67,14 @@ galeria:
   alt: La baia e la spiaggia di Puerto Rico de Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: La costa di scogliere a Taurito, vicino a Mogán
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/yate-privado-navegando-en-aguas-de-gran-canaria.webp
+  alt: 'Yacht privato nelle acque di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/banana-hinchable-junto-a-una-cueva-del-litoral.webp
+  alt: 'Banana boat vicino a una grotta della costa'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/flotador-remolcado-frente-a-la-costa-de-mogan.webp
+  alt: 'Ciambella trainata al largo della costa di Mogán'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/esnorquel-con-escuter-submarino.webp
+  alt: 'Snorkeling con scooter subacqueo'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

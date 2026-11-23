@@ -74,8 +74,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
-imagenAlt: "Selección de la uva en la mesa de la bodega durante la vendimia"
+imagen: /images/actividades/tenerife/prov-bodegas-monje/cata-de-vinos-entre-barricas-en-bodegas-monje.webp
+imagenAlt: 'Cata de vinos entre barricas en Bodegas Monje'
 galeria:
 - src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
   alt: 'Racimos de uva tinta en una viña'
@@ -91,6 +91,14 @@ galeria:
   alt: 'Cata de vinos tintos servidos en pequeñas jarras'
 - src: /images/actividades/alicante/vino/vinedos-paisaje.webp
   alt: 'Paisaje de viñedos'
+- src: /images/actividades/tenerife/bodega/ftc-seleccion-uva-vendimia.webp
+  alt: 'Selección de la uva en la mesa de la bodega durante la vendimia'
+- src: /images/actividades/tenerife/prov-bodegas-monje/botellero-de-la-bodega.webp
+  alt: 'Botellero de la bodega'
+- src: /images/actividades/tenerife/prov-bodegas-monje/grupo-en-una-visita-guiada-a-la-bodega.webp
+  alt: 'Grupo en una visita guiada a la bodega'
+- src: /images/actividades/tenerife/prov-bodegas-monje/botellas-de-vino-monje.webp
+  alt: 'Botellas de vino Monje'
 ---
 
 ## Qué vas a ver

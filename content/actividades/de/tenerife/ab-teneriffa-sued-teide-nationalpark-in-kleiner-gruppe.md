@@ -70,6 +70,16 @@ galeria:
   alt: Der Teide über dem Wolkenmeer
 - src: /images/actividades/tenerife/teleferico/teleferico-canadas.webp
   alt: Die Teide-Seilbahn über Las Cañadas
+- src: /images/actividades/tenerife/prov-tenerife-stars/furgoneta-de-la-excursion-con-el-teide-al-fondo.webp
+  alt: 'Tourbus mit dem Teide im Hintergrund'
+- src: /images/actividades/tenerife/prov-tenerife-stars/viajeros-saltando-frente-al-teide.webp
+  alt: 'Reisende springen vor dem Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/sendero-de-los-roques-de-garcia-con-el-teide.webp
+  alt: 'Wanderweg an den Roques de García mit dem Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/paisaje-volcanico-de-las-canadas-del-teide.webp
+  alt: 'Vulkanlandschaft der Cañadas del Teide'
+- src: /images/actividades/tenerife/prov-tenerife-stars/el-teide-sobre-el-mar-de-nubes-entre-pinos.webp
+  alt: 'Der Teide über dem Wolkenmeer zwischen Kiefern'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -74,6 +74,18 @@ galeria:
   alt: Quads arrêtés sur une pente volcanique de Tenerife
 - src: /images/actividades/tenerife/teide/crater-teide-las-canadas.webp
   alt: Le cratère du Teide et Las Cañadas, Tenerife
+- src: /images/actividades/tenerife/prov-fun-teide-quad/grupo-en-quad-por-la-carretera-de-las-canadas.webp
+  alt: 'Groupe en quad sur la route de Las Cañadas'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/fila-de-quads-parados-en-la-ruta-entre-pinos.webp
+  alt: 'File de quads arrêtés sur l''itinéraire entre les pins'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/participante-junto-a-su-quad-al-atardecer.webp
+  alt: 'Participante à côté de son quad au coucher du soleil'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/quads-preparados-antes-de-salir-hacia-el-teide.webp
+  alt: 'Quads prêts avant de partir vers le Teide'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/ruta-en-quad-por-la-carretera-del-pinar.webp
+  alt: 'Circuit en quad sur la route de la pinède'
+- src: /images/actividades/tenerife/prov-fun-teide-quad/pareja-en-quad-durante-la-puesta-de-sol.webp
+  alt: 'Couple en quad pendant le coucher du soleil'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -69,6 +69,8 @@ galeria:
   alt: Torres de Santa Cruz con las montañas de Anaga al fondo
 - src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
   alt: Sendero de tierra entre árboles de laurisilva en Tenerife
+- src: /images/actividades/tenerife/prov-canaventura-services-canarias/sendero-entre-la-laurisilva-con-niebla-en-anaga.webp
+  alt: 'Sendero entre la laurisilva con niebla en Anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

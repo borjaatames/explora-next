@@ -71,6 +71,16 @@ galeria:
   alt: Rocky seabed seen through clear water
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: Puerto Rico bay in Gran Canaria, where the park is located
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Diver surrounded by fish in Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Divers next to a sea turtle'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Dive group over the reef with a turtle'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Diver beside a large underwater rock'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Red starfish on the seabed'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

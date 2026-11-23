@@ -80,6 +80,14 @@ galeria:
   alt: Playa de Costa Adeje con las montañas al fondo
 - src: /images/actividades/tenerife/cetaceos/calderones-tenerife.webp
   alt: Calderones frente a la costa de Tenerife
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-junto-a-un-calderon-en-el-sur-de-tenerife.webp
+  alt: 'Velero junto a un calderón en el sur de Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-navegando-en-aguas-abiertas-de-tenerife.webp
+  alt: 'Velero navegando en aguas abiertas de Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/velero-frente-a-la-costa-sur-con-las-montanas-al-fondo.webp
+  alt: 'Velero frente a la costa sur con las montañas al fondo'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/el-teide-nevado-visto-desde-el-mar.webp
+  alt: 'El Teide nevado visto desde el mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

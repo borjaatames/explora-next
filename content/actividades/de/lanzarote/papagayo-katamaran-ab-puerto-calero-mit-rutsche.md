@@ -105,6 +105,18 @@ galeria:
   alt: 'Klippen und Strand der Playas de Papagayo'
 - src: /images/actividades/lanzarote/papagayo/flz-cala-turquesa.webp
   alt: 'Bucht mit türkisem Wasser in Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-fondeado-en-las-aguas-turquesa-de-papagayo.webp
+  alt: 'Katamaran vor Anker im türkisen Wasser von Papagayo'
+- src: /images/actividades/lanzarote/prov-catlanza/familia-en-kayak-y-padel-surf-junto-a-los-acantilados.webp
+  alt: 'Familie im Kajak und auf dem SUP an den Klippen'
+- src: /images/actividades/lanzarote/prov-catlanza/pasajeros-banandose-junto-al-catamaran.webp
+  alt: 'Passagiere baden neben dem Katamaran'
+- src: /images/actividades/lanzarote/prov-catlanza/catamaran-a-vela-frente-a-la-costa-sur-de-lanzarote.webp
+  alt: 'Segelkatamaran vor der Südküste Lanzarotes'
+- src: /images/actividades/lanzarote/prov-catlanza/amigos-sentados-en-el-borde-de-la-plataforma-de-bano.webp
+  alt: 'Freunde sitzen am Rand der Badeplattform'
+- src: /images/actividades/lanzarote/prov-catlanza/nino-con-gafas-de-buceo-en-la-escalera-del-barco.webp
+  alt: 'Kind mit Taucherbrille auf der Bootsleiter'
 ---
 
 ## Was du siehst

@@ -73,6 +73,18 @@ galeria:
   alt: Pilot whale breaking the surface in the sun
 - src: /images/actividades/_shared/delfines/delfines-mar-abierto.webp
   alt: Dolphins swimming in the open sea
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/barco-de-avistamiento-junto-a-un-grupo-de-calderones.webp
+  alt: 'Whale-watching boat beside a pod of pilot whales'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/delfin-comun-saltando-junto-al-barco.webp
+  alt: 'Common dolphin leaping beside the boat'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/dos-delfines-saltando-frente-a-la-costa.webp
+  alt: 'Two dolphins leaping off the coast'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/pasajeros-observando-cetaceos-al-atardecer.webp
+  alt: 'Passengers watching cetaceans at sunset'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/calderon-descansando-en-la-superficie.webp
+  alt: 'Pilot whale resting at the surface'
+- src: /images/actividades/gran-canaria/prov-wewhale-gran-canaria/grupo-de-delfines-nadando-bajo-la-superficie.webp
+  alt: 'Pod of dolphins swimming just below the surface'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

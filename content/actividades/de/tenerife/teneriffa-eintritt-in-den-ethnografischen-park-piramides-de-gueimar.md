@@ -63,6 +63,14 @@ galeria:
   alt: Klippen an der Südküste Teneriffas
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Vulkanlandschaft im Teide-Nationalpark
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/piramide-escalonada-de-guimar-bajo-un-cielo-con-nubes.webp
+  alt: 'Stufenpyramide von Güímar unter wolkigem Himmel'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visitantes-contemplando-una-de-las-piramides-del-parque.webp
+  alt: 'Besucher betrachten eine der Pyramiden des Parks'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/familia-paseando-por-los-senderos-del-parque-etnografic.webp
+  alt: 'Familie auf den Wegen des ethnografischen Parks'
+- src: /images/actividades/tenerife/prov-piramides-de-guimar/visita-guiada-junto-al-estanque-del-jardin.webp
+  alt: 'Führung am Teich des Gartens'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

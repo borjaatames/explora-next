@@ -56,8 +56,8 @@ keywords:
 - velero los gigantes ballenas
 - picarus sailing
 - avistamiento de cetaceos en velero tenerife
-imagen: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
-imagenAlt: Veleros amarrados en un puerto deportivo
+imagen: /images/actividades/tenerife/prov-picarus-sailing-club/velero-de-picarus-con-calderones-al-lado.webp
+imagenAlt: 'Velero de Picarus con calderones al lado'
 galeria:
 - src: /images/actividades/tenerife/gigantes/costa-acantilado-velero.webp
   alt: Velero bajo los acantilados de Los Gigantes
@@ -73,6 +73,18 @@ galeria:
   alt: Persona nadando con gafas bajo el agua (imagen ilustrativa)
 - src: /images/actividades/tenerife/gigantes/gigantes-pueblo.webp
   alt: Los Gigantes y sus acantilados vistos desde la costa
+- src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
+  alt: 'Veleros amarrados en un puerto deportivo'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/ballena-junto-al-velero-durante-la-salida.webp
+  alt: 'Ballena junto al velero durante la salida'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/grupo-de-calderones-en-la-superficie.webp
+  alt: 'Grupo de calderones en la superficie'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/cola-de-ballena-al-sumergirse.webp
+  alt: 'Cola de ballena al sumergirse'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/pasajeros-a-bordo-del-velero.webp
+  alt: 'Pasajeros a bordo del velero'
+- src: /images/actividades/tenerife/prov-picarus-sailing-club/velero-fondeado-bajo-los-acantilados-de-los-gigantes.webp
+  alt: 'Velero fondeado bajo los acantilados de Los Gigantes'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

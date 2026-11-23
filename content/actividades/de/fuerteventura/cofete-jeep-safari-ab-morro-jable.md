@@ -105,6 +105,10 @@ galeria:
   alt: 'Strand von Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: 'Bucht von Corralejo'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+  alt: 'Geländewagen auf der Piste zum Strand von Cofete'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Strand von Cofete vom Aussichtspunkt in Jandía'
 ---
 
 ## Was du siehst

@@ -68,6 +68,12 @@ galeria:
   alt: Mandorli in fiore davanti al Roque Bentayga, a Tejeda
 - src: /images/actividades/gran-canaria/norte/fgc-calle-teror-montanas.webp
   alt: Una strada di Teror con le montagne del nord sullo sfondo
+- src: /images/actividades/gran-canaria/prov-climbo/rapel-junto-a-una-cascada-en-la-laurisilva-de-gran-cana.webp
+  alt: 'Calata accanto a una cascata nella laurisilva di Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-climbo/guia-junto-a-una-pequena-cascada-del-barranco.webp
+  alt: 'Guida accanto a una piccola cascata nel burrone'
+- src: /images/actividades/gran-canaria/prov-climbo/progresion-por-roca-con-casco-y-arnes.webp
+  alt: 'Progressione su roccia con casco e imbracatura'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

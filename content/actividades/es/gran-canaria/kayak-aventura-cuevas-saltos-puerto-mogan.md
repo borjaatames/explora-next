@@ -109,6 +109,18 @@ galeria:
   alt: 'Peces sobre el fondo arenoso en aguas de Gran Canaria'
 - src: /images/actividades/gran-canaria/mogan-kayak/costa-rocosa-mogan.webp
   alt: 'Costa rocosa del suroeste de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-bajo-un-arco-de-roca-en-la-costa-de-mogan.webp
+  alt: 'Kayaks bajo un arco de roca en la costa de Mogán'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayak a la entrada de una cueva marina'
+- src: /images/actividades/gran-canaria/prov-rocknatour/grupo-de-kayaks-visto-desde-lo-alto-del-acantilado.webp
+  alt: 'Grupo de kayaks visto desde lo alto del acantilado'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayakistas-junto-a-un-rompiente-en-la-costa.webp
+  alt: 'Kayakistas junto a un rompiente en la costa'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayak-entrando-en-una-cueva-volcanica.webp
+  alt: 'Kayak entrando en una cueva volcánica'
+- src: /images/actividades/gran-canaria/prov-rocknatour/kayaks-saliendo-del-puerto-de-mogan.webp
+  alt: 'Kayaks saliendo del puerto de Mogán'
 ---
 
 ## Qué vas a ver

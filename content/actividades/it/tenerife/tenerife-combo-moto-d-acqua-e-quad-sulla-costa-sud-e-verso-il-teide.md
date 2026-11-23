@@ -71,6 +71,16 @@ galeria:
   alt: Due quad con i fari accesi al crepuscolo
 - src: /images/actividades/tenerife/teide/canadas-panoramica.webp
   alt: Panorama della caldera di Las Cañadas
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-levantando-espuma-en-la-costa-de-tenerife.webp
+  alt: 'Moto d''acqua che solleva spruzzi sulla costa di Tenerife'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/pareja-en-moto-de-agua-junto-a-los-acantilados.webp
+  alt: 'Coppia in moto d''acqua vicino alle scogliere'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/moto-de-agua-frente-a-una-cueva-volcanica.webp
+  alt: 'Moto d''acqua davanti a una grotta vulcanica'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/piloto-de-moto-de-agua-junto-a-una-cueva-marina.webp
+  alt: 'Pilota di moto d''acqua accanto a una grotta marina'
+- src: /images/actividades/tenerife/prov-ocean-jet-ski-boat-tenerife/dos-personas-disfrutando-de-la-moto-de-agua.webp
+  alt: 'Due persone in giro in moto d''acqua'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

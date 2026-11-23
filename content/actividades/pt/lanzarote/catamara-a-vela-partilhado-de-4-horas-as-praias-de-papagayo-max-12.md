@@ -72,6 +72,18 @@ galeria:
   alt: Enseada de Papagayo com águas turquesa e rochas vulcânicas
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Caiaque vermelho na margem de uma praia de areia branca
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Catamarã fundeado em frente às praias de Papagayo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Catamarã à vela com a costa de Lanzarote ao fundo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Enseada de areia dourada entre rochas volcânicas'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Pôr do sol a partir do convés do veleiro'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'Paddle surf junto ao catamarã'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Criança a remar de caiaque durante a paragem'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

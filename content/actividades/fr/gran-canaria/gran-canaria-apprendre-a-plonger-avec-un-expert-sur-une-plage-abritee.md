@@ -71,6 +71,16 @@ galeria:
   alt: Fond rocheux dans une eau claire
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: La baie et la plage de Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Plongeur entouré de poissons à Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Plongeurs près d''une tortue marine'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Groupe de plongée au-dessus du récif avec une tortue'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Plongeur près d''un grand rocher sous-marin'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Étoile de mer rouge sur le fond marin'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

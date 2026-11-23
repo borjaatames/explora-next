@@ -73,6 +73,18 @@ galeria:
   alt: View of the Adeje coast near Playa de las Américas
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
   alt: Montaña Amarilla by the sea on the south coast of Tenerife
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-navegando-frente-a-costa-adeje.webp
+  alt: 'Jet skis cruising off Costa Adeje'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/pareja-en-moto-de-agua-en-mar-abierto.webp
+  alt: 'Couple on a jet ski on the open sea'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/ruta-en-moto-de-agua-junto-a-la-costa-rocosa.webp
+  alt: 'Jet ski route along the rocky coast'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/moto-de-agua-pasando-junto-a-los-acantilados.webp
+  alt: 'Jet ski passing by the cliffs'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-frente-a-una-cueva-marina.webp
+  alt: 'Jet skis in front of a sea cave'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/dos-motos-de-agua-con-pasajeros-en-el-sur-de-tenerife.webp
+  alt: 'Two jet skis with riders in southern Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

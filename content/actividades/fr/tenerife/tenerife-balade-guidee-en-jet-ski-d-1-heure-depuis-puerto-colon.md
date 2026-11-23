@@ -73,6 +73,18 @@ galeria:
   alt: Vue sur le littoral de Costa Adeje
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
   alt: La Montaña Amarilla au bord de la mer, sur la côte sud de Tenerife
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-navegando-frente-a-costa-adeje.webp
+  alt: 'Jet-skis au large de Costa Adeje'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/pareja-en-moto-de-agua-en-mar-abierto.webp
+  alt: 'Couple en jet-ski en pleine mer'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/ruta-en-moto-de-agua-junto-a-la-costa-rocosa.webp
+  alt: 'Balade en jet-ski le long de la côte rocheuse'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/moto-de-agua-pasando-junto-a-los-acantilados.webp
+  alt: 'Jet-ski passant au pied des falaises'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-frente-a-una-cueva-marina.webp
+  alt: 'Jet-skis devant une grotte marine'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/dos-motos-de-agua-con-pasajeros-en-el-sur-de-tenerife.webp
+  alt: 'Deux jet-skis avec passagers au sud de Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

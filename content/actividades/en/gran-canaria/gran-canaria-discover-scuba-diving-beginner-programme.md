@@ -70,6 +70,18 @@ galeria:
   alt: Diver at the sea surface with boats in the background
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Cliffs and houses on the Mogán coast seen from the sea
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Diving students practising on the sandy seabed'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Diver giving the OK sign among fish'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Smiling diver underwater'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Diver descending beside the dive boat'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Angel shark on the sand, a typical Canarian species'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Divers descending the line under the sun'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

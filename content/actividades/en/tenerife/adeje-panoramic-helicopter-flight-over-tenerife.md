@@ -48,8 +48,8 @@ keywords:
 - helicopter tour tenerife
 - helicopter flight teide
 - tenerife helicopter ride
-imagen: /images/actividades/tenerife/teleferico/canadas-desde-arriba.webp
-imagenAlt: The Las Cañadas caldera from above
+imagen: /images/actividades/tenerife/prov-helidream-helicopters/helicoptero-en-el-helipuerto-antes-del-vuelo.webp
+imagenAlt: 'Helicopter on the helipad before the flight'
 galeria:
 - src: /images/actividades/tenerife/gigantes/ftc-acantilados-gigantes-mar.webp
   alt: Los Gigantes cliffs from the sea
@@ -65,6 +65,18 @@ galeria:
   alt: Garachico and its rock off the coast
 - src: /images/actividades/tenerife/siam-park/siam-park-adeje.webp
   alt: Siam Park and Costa Adeje from the air
+- src: /images/actividades/tenerife/teleferico/canadas-desde-arriba.webp
+  alt: 'The Las Cañadas caldera from above'
+- src: /images/actividades/tenerife/prov-helidream-helicopters/helicoptero-volando-sobre-las-nubes-al-atardecer.webp
+  alt: 'Helicopter flying above the clouds at sunset'
+- src: /images/actividades/tenerife/prov-helidream-helicopters/piloto-en-la-cabina-del-helicoptero.webp
+  alt: 'Pilot in the helicopter cockpit'
+- src: /images/actividades/tenerife/prov-helidream-helicopters/vista-aerea-de-la-costa-sur-de-tenerife.webp
+  alt: 'Aerial view of the south coast of Tenerife'
+- src: /images/actividades/tenerife/prov-helidream-helicopters/calas-de-aguas-turquesa-vistas-desde-el-helicoptero.webp
+  alt: 'Turquoise coves seen from the helicopter'
+- src: /images/actividades/tenerife/prov-helidream-helicopters/costa-adeje-desde-el-aire.webp
+  alt: 'Costa Adeje from the air'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

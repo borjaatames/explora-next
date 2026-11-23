@@ -69,6 +69,18 @@ galeria:
   alt: Moray eel peeking out between rocks on the seabed
 - src: /images/actividades/tenerife/cristianos/montana-guaza.webp
   alt: Montaña de Guaza, in the municipality of Arona
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/grupo-de-bautismo-de-buceo-rodeado-de-peces.webp
+  alt: 'Try-dive group surrounded by fish'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-entrando-al-agua-desde-la-orilla.webp
+  alt: 'Divers entering the water from the shore'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/instructor-y-alumnos-listos-en-la-orilla.webp
+  alt: 'Instructor and students ready at the shoreline'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadores-junto-a-una-tortuga-en-una-pradera-marina.webp
+  alt: 'Divers next to a turtle over a seagrass meadow'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/buceadora-asomando-entre-rocas-con-erizos.webp
+  alt: 'Diver peering out between rocks with sea urchins'
+- src: /images/actividades/tenerife/prov-aquarius-dive-center/arco-de-roca-submarino-en-tenerife.webp
+  alt: 'Underwater rock arch in Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

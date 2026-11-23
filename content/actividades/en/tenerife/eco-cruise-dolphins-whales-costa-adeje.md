@@ -103,6 +103,18 @@ galeria:
   alt: 'The rock walls of the Los Gigantes cliffs'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
   alt: 'Los Gigantes cliffs above the sea'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-de-white-tenerife-navegando-a-vela.webp
+  alt: 'White Tenerife catamaran under sail'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-frente-a-la-costa-de-costa-adeje.webp
+  alt: 'Catamaran off the Costa Adeje coastline'
+- src: /images/actividades/tenerife/prov-white-tenerife/delfines-nadando-junto-al-barco.webp
+  alt: 'Dolphins swimming beside the boat'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-en-la-superficie-del-mar.webp
+  alt: 'Pilot whale at the sea surface'
+- src: /images/actividades/tenerife/prov-white-tenerife/barco-fondeado-en-aguas-turquesa-visto-desde-el-aire.webp
+  alt: 'Boat anchored in turquoise water seen from above'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-con-su-cria.webp
+  alt: 'Pilot whale with its calf'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

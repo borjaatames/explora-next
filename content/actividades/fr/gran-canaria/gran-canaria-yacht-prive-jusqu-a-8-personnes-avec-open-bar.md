@@ -67,6 +67,14 @@ galeria:
   alt: La baie et la plage de Puerto Rico de Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: La plage et les hôtels de Taurito
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/yate-privado-navegando-en-aguas-de-gran-canaria.webp
+  alt: 'Yacht privé naviguant dans les eaux de Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/banana-hinchable-junto-a-una-cueva-del-litoral.webp
+  alt: 'Bouée banane près d''une grotte du littoral'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/flotador-remolcado-frente-a-la-costa-de-mogan.webp
+  alt: 'Bouée tractée au large de la côte de Mogán'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/esnorquel-con-escuter-submarino.webp
+  alt: 'Snorkeling avec un scooter sous-marin'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

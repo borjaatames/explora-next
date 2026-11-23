@@ -53,8 +53,8 @@ keywords:
 - barca a vela tenerife balene
 - roulette charters
 - veliero puerto colon
-imagen: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
-imagenAlt: Barche a vela all'ancora
+imagen: /images/actividades/tenerife/prov-roulette-charters/velero-navegando-con-el-teide-al-fondo.webp
+imagenAlt: 'Barca a vela in navigazione con il Teide sullo sfondo'
 galeria:
 - src: /images/actividades/tenerife/cetaceos/calderon-cerca.webp
   alt: Un globicefalo che affiora vicino a un catamarano al largo di Tenerife
@@ -70,6 +70,18 @@ galeria:
   alt: Globicefalo che soffia nelle acque del sud di Tenerife
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Scogliere lungo la costa sud di Tenerife
+- src: /images/actividades/fuerteventura/velero-morro-jable/veleros-fondeados.webp
+  alt: 'Barche a vela all''ancora'
+- src: /images/actividades/tenerife/prov-roulette-charters/pasajeros-en-la-banera-del-velero-frente-a-la-costa.webp
+  alt: 'Passeggeri nel pozzetto della barca a vela davanti alla costa'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-asomando-junto-al-barco.webp
+  alt: 'Globicefalo che affiora accanto alla barca'
+- src: /images/actividades/tenerife/prov-roulette-charters/calderon-nadando-bajo-el-agua.webp
+  alt: 'Globicefalo che nuota sott''acqua'
+- src: /images/actividades/tenerife/prov-roulette-charters/tripulante-explicando-los-cetaceos-a-bordo.webp
+  alt: 'Membro dell''equipaggio che spiega i cetacei a bordo'
+- src: /images/actividades/tenerife/prov-roulette-charters/velero-visto-desde-arriba-en-mar-abierto.webp
+  alt: 'Barca a vela vista dall''alto in mare aperto'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

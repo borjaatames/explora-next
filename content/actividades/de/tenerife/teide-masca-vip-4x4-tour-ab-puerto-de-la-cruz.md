@@ -80,6 +80,10 @@ galeria:
   alt: "Garachico und sein Felsen im Meer"
 - src: "/images/actividades/tenerife/masca/barranco-masca-luz.webp"
   alt: "Abendlicht in der Masca-Schlucht"
+- src: /images/actividades/tenerife/prov-tamaran/todoterreno-de-tamaran-en-un-mirador-sobre-el-mar.webp
+  alt: 'Geländewagen von Tamarán an einem Aussichtspunkt über dem Meer'
+- src: /images/actividades/tenerife/prov-tamaran/viajera-asomada-a-la-ventanilla-del-jeep-safari.webp
+  alt: 'Reisende schaut aus dem Fenster des Jeeps'
 publicada: true
 destacada: false
 fecha: '2026-11-19'

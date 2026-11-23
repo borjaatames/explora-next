@@ -81,6 +81,18 @@ galeria:
   alt: La Montaña de Guaza accanto a Los Cristianos
 - src: /images/actividades/tenerife/kayak-cristianos/kayak-aguas-transparentes.webp
   alt: Kayak in acque trasparenti lungo la costa
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-entre-tortugas-marinas-en-aguas-turquesa.webp
+  alt: 'Kayak tra le tartarughe marine in acque turchesi'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayakistas-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayakisti all''ingresso di una grotta marina'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/pareja-remando-en-kayak-junto-a-la-costa-rocosa.webp
+  alt: 'Coppia in kayak lungo la costa rocciosa'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/grupo-en-kayak-frente-a-una-cueva-volcanica.webp
+  alt: 'Gruppo in kayak davanti a una grotta vulcanica'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/tortuga-marina-nadando-bajo-el-agua.webp
+  alt: 'Tartaruga marina che nuota sott''acqua'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-bajo-los-acantilados-de-la-costa.webp
+  alt: 'Kayak sotto le scogliere della costa'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

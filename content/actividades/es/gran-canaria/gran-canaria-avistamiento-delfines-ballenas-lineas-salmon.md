@@ -66,6 +66,8 @@ galeria:
   alt: Costa de acantilados en Taurito, junto a Mogán
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Puerto Rico de Gran Canaria al atardecer
+- src: /images/actividades/gran-canaria/prov-lineas-salmon/barco-con-fondo-de-cristal-navegando-en-gran-canaria.webp
+  alt: 'Barco con fondo de cristal navegando en Gran Canaria'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

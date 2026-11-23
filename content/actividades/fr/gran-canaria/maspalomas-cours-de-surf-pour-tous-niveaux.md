@@ -69,6 +69,18 @@ galeria:
   alt: Dunes de Maspalomas au bord de la mer
 - src: /images/actividades/_shared/surf/siluetas-tablas-atardecer.webp
   alt: Silhouettes de surfeurs avec leurs planches au coucher du soleil
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-de-surf-poniendose-de-pie-en-la-espuma.webp
+  alt: 'Élèves de surf se levant dans l''écume'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/surfista-principiante-cogiendo-una-ola-en-maspalomas.webp
+  alt: 'Surfeur débutant prenant une vague à Maspalomas'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/alumnos-sentados-en-sus-tablas-en-el-agua.webp
+  alt: 'Élèves assis sur leurs planches dans l''eau'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/grupo-de-la-escuela-de-surf-celebrando-en-el-mar.webp
+  alt: 'Groupe de l''école de surf faisant la fête dans la mer'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/calentamiento-en-la-arena-antes-de-la-clase.webp
+  alt: 'Échauffement sur le sable avant le cours'
+- src: /images/actividades/gran-canaria/prov-south-coast-surfschool/instructor-con-alumnas-en-la-orilla.webp
+  alt: 'Moniteur avec des élèves au bord de l''eau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -70,6 +70,18 @@ galeria:
   alt: Mergulhador à superfície do mar com barcos ao fundo
 - src: /images/actividades/gran-canaria/mogan/mogan-acantilados.webp
   alt: Falésias e casas da costa de Mogán vistas do mar
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/alumnos-de-buceo-practicando-en-el-fondo-arenoso.webp
+  alt: 'Alunos de mergulho a praticar no fundo arenoso'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-haciendo-la-senal-de-ok-entre-peces.webp
+  alt: 'Mergulhador a fazer o sinal de OK entre peixes'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadora-sonriente-bajo-el-agua.webp
+  alt: 'Mergulhadora sorridente debaixo de água'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceador-descendiendo-junto-a-la-lancha-de-buceo.webp
+  alt: 'Mergulhador a descer junto ao barco de mergulho'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/angelote-sobre-la-arena-especie-tipica-de-canarias.webp
+  alt: 'Anjo-do-mar na areia, espécie típica das Canárias'
+- src: /images/actividades/gran-canaria/prov-delphinus-diving-school-gran-canaria/buceadores-descendiendo-por-el-cabo-bajo-el-sol.webp
+  alt: 'Mergulhadores a descer pelo cabo sob o sol'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

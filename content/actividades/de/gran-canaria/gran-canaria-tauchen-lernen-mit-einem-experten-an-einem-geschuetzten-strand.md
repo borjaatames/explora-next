@@ -71,6 +71,16 @@ galeria:
   alt: Felsiger Meeresgrund in klarem Wasser
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: Bucht und Strand von Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Taucher umgeben von Fischen auf Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Taucher neben einer Meeresschildkröte'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Tauchgruppe über dem Riff mit einer Schildkröte'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Taucher neben einem großen Unterwasserfelsen'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Roter Seestern auf dem Meeresgrund'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

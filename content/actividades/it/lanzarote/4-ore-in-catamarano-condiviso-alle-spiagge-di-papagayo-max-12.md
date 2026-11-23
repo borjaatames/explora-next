@@ -72,6 +72,18 @@ galeria:
   alt: Una caletta di Papagayo con acqua turchese e rocce vulcaniche
 - src: /images/actividades/lanzarote/kayak-papagayo.webp
   alt: Kayak rosso su una spiaggia di sabbia bianca
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-fondeado-frente-a-las-playas-de-papagayo.webp
+  alt: 'Catamarano ancorato davanti alle spiagge di Papagayo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/catamaran-a-vela-con-la-costa-de-lanzarote-al-fondo.webp
+  alt: 'Catamarano a vela con la costa di Lanzarote sullo sfondo'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/cala-de-arena-dorada-entre-rocas-volcanicas.webp
+  alt: 'Caletta di sabbia dorata tra rocce vulcaniche'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/atardecer-desde-la-cubierta-del-velero.webp
+  alt: 'Tramonto dal ponte della barca a vela'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/padel-surf-junto-al-catamaran.webp
+  alt: 'SUP accanto al catamarano'
+- src: /images/actividades/lanzarote/prov-papagayo-cat/nino-remando-en-kayak-durante-la-parada.webp
+  alt: 'Bambino in kayak durante la sosta'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

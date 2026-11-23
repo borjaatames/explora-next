@@ -56,8 +56,8 @@ keywords:
 - buggy tour puerto de la cruz
 - buggy north tenerife
 - buggy orotava valley
-imagen: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
-imagenAlt: Buggy driving through a volcanic landscape
+imagen: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-por-una-pista-del-pinar-en-el-norte-de-tenerife.webp
+imagenAlt: 'Buggy on a pine forest track in northern Tenerife'
 galeria:
 - src: /images/actividades/tenerife/platano/platano-pixabay-219268.webp
   alt: Banana fields by the sea in the north of Tenerife
@@ -73,6 +73,18 @@ galeria:
   alt: Buggy driving on a volcanic road
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Teide from the north-east
+- src: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
+  alt: 'Buggy driving through a volcanic landscape'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/dos-buggies-en-ruta-por-el-bosque-de-pinos.webp
+  alt: 'Two buggies on the route through the pine forest'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/pareja-en-buggy-entre-pinos-canarios.webp
+  alt: 'Couple in a buggy among Canary pines'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-parado-en-un-pueblo-del-norte-de-tenerife.webp
+  alt: 'Buggy stopped in a village in northern Tenerife'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/parada-en-una-platanera-durante-la-ruta-en-buggy.webp
+  alt: 'Stop at a banana plantation during the buggy tour'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/grupo-junto-a-las-plataneras-con-el-mar-al-fondo.webp
+  alt: 'Group by the banana plantations with the sea behind'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

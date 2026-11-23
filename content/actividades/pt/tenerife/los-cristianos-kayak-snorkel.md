@@ -91,8 +91,8 @@ keywords:
 - kayak los cristianos
 - snorkel tenerife
 - kayak com tartarugas tenerife
-imagen: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
-imagenAlt: Pessoa a remar num kayak laranja em mar aberto
+imagen: /images/actividades/tenerife/prov-xplore-tenerife/kayakistas-junto-a-una-tortuga-marina.webp
+imagenAlt: 'Canoístas junto a uma tartaruga marinha'
 galeria:
 - src: /images/actividades/tenerife/costa-adeje/esnorquel-aguas-azules.webp
   alt: Pessoa a fazer snorkel em águas azuis cristalinas
@@ -110,6 +110,16 @@ galeria:
   alt: A praia de Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Barcos no porto de Los Cristianos
+- src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
+  alt: 'Pessoa a remar num kayak laranja em mar aberto'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfines-saltando-junto-a-un-kayak.webp
+  alt: 'Golfinhos a saltar junto a um caiaque'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/tortuga-marina-bajo-el-agua.webp
+  alt: 'Tartaruga marinha debaixo de água'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/kayakista-remando-con-delfines-cerca.webp
+  alt: 'Canoísta a remar com golfinhos perto'
+- src: /images/actividades/tenerife/prov-xplore-tenerife/delfin-saltando-cerca-de-una-kayakista.webp
+  alt: 'Golfinho a saltar perto de uma canoísta'
 ratingProveedor: 4.7
 numeroOpiniones: 12364
 atraccionesRelacionadas:

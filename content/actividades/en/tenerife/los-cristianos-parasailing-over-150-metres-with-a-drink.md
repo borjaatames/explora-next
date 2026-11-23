@@ -76,6 +76,16 @@ galeria:
   alt: Parasail in a blue sky over the sea, seen from the shore
 - src: /images/actividades/tenerife/cristianos/playa-los-cristianos.webp
   alt: Los Cristianos beach
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/parasailing-sobre-la-playa-de-los-cristianos.webp
+  alt: 'Parasailing over Los Cristianos beach'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/lancha-de-parasailing-navegando-frente-a-la-costa-sur.webp
+  alt: 'Parasailing boat cruising off the south coast'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/dos-personas-volando-en-parasailing-sobre-tenerife.webp
+  alt: 'Two people parasailing above Tenerife'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/monitor-preparando-el-arnes-antes-del-despegue.webp
+  alt: 'Crew member fitting the harness before take-off'
+- src: /images/actividades/tenerife/prov-tenerife-sailing-charters/paracaidas-de-parasailing-sobre-el-mar-azul.webp
+  alt: 'Parasail canopy over the blue sea'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

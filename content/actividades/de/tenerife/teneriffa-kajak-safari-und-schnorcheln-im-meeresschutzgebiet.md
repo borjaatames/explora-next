@@ -70,8 +70,8 @@ keywords:
 - kajak los cristianos
 - kajak schnorcheln teneriffa
 - kajaktour teneriffa schildkröten
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Rotes Kajak an einem weißen Sandstrand
+imagen: /images/actividades/tenerife/prov-adventoure-kayak/kayaks-junto-a-una-cueva-en-los-acantilados-de-tenerife.webp
+imagenAlt: 'Kajaks an einer Höhle in den Klippen Teneriffas'
 galeria:
 - src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
   alt: Person paddelt ein oranges Kajak auf offenem Meer
@@ -87,6 +87,10 @@ galeria:
   alt: Strand von Los Cristianos in Arona
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Boote im Hafen von Los Cristianos
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: 'Rotes Kajak an einem weißen Sandstrand'
+- src: /images/actividades/tenerife/prov-adventoure-kayak/kayakista-con-delfines-frente-a-la-costa-sur.webp
+  alt: 'Kajakfahrerin mit Delfinen vor der Südküste'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -109,6 +109,8 @@ galeria:
   alt: Fischerboote in Puerto de Mogán
 - src: /images/actividades/gran-canaria/mogan/mogan-buganvillas.webp
   alt: Bougainvillea an den Häusern von Puerto de Mogán
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/kayak-doble-frente-a-los-acantilados-de-mogan.webp
+  alt: 'Doppelkajak vor den Klippen von Mogán'
 ratingProveedor: 4.6
 numeroOpiniones: 406
 atraccionesRelacionadas:

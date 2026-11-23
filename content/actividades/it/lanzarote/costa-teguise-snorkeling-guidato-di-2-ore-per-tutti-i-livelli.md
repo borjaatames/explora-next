@@ -69,6 +69,8 @@ galeria:
   alt: Fondale roccioso sotto un'acqua cristallina, ideale per lo snorkeling
 - src: /images/actividades/lanzarote/zonas/arrecife-charco-san-gines.webp
   alt: Barche nel Charco de San Ginés, Arrecife
+- src: /images/actividades/lanzarote/prov-daivoon-diving-centre/buceadores-entrando-al-agua-junto-al-espigon-de-costa-t.webp
+  alt: 'Subacquei che entrano in acqua accanto al molo di Costa Teguise'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

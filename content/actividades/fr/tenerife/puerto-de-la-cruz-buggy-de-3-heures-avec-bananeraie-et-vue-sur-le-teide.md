@@ -56,8 +56,8 @@ keywords:
 - buggy puerto de la cruz
 - buggy nord tenerife
 - buggy vallée orotava
-imagen: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
-imagenAlt: Buggy dans un paysage volcanique
+imagen: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-por-una-pista-del-pinar-en-el-norte-de-tenerife.webp
+imagenAlt: 'Buggy sur une piste de pinède au nord de Tenerife'
 galeria:
 - src: /images/actividades/tenerife/platano/platano-pixabay-219268.webp
   alt: Bananeraies au bord de l'océan
@@ -73,6 +73,18 @@ galeria:
   alt: Buggy sur une route volcanique
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Paysage volcanique du parc national du Teide
+- src: /images/actividades/tenerife/buggy-teide/buggy-teide-pixabay-3556461.webp
+  alt: 'Buggy dans un paysage volcanique'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/dos-buggies-en-ruta-por-el-bosque-de-pinos.webp
+  alt: 'Deux buggies en route dans la forêt de pins'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/pareja-en-buggy-entre-pinos-canarios.webp
+  alt: 'Couple en buggy parmi les pins des Canaries'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/buggy-parado-en-un-pueblo-del-norte-de-tenerife.webp
+  alt: 'Buggy arrêté dans un village du nord de Tenerife'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/parada-en-una-platanera-durante-la-ruta-en-buggy.webp
+  alt: 'Arrêt dans une bananeraie pendant le circuit en buggy'
+- src: /images/actividades/tenerife/prov-buggy-tour-icod-tenerife/grupo-junto-a-las-plataneras-con-el-mar-al-fondo.webp
+  alt: 'Groupe près des bananeraies avec la mer en fond'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

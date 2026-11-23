@@ -105,6 +105,8 @@ galeria:
   alt: 'Piantagioni di banane sulla costa nord di Gran Canaria'
 - src: /images/actividades/gran-canaria/fataga/fgc-palmeras-fataga.webp
   alt: 'Palme canarie nel burrone di Fataga'
+- src: /images/actividades/gran-canaria/prov-discovery-jeep-safari/minibus-de-la-excursion-parado-en-una-carretera-de-mont.webp
+  alt: 'Minibus dell''escursione fermo su una strada di montagna'
 ---
 
 ## Cosa vedrai

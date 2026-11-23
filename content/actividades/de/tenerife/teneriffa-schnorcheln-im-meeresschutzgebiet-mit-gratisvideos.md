@@ -66,8 +66,8 @@ keywords:
 - schnorcheln teneriffa
 - schnorcheln abades
 - schnorcheln schildkröten teneriffa
-imagen: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
-imagenAlt: Schwimmer in grünem, klarem Wasser
+imagen: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/grupo-haciendo-esnorquel-entre-peces-en-la-zona-protegi.webp
+imagenAlt: 'Gruppe schnorchelt zwischen Fischen im Schutzgebiet'
 galeria:
 - src: /images/actividades/lanzarote/snorkel/flz-fondo-rocoso.webp
   alt: Felsiger Meeresgrund in klarem Wasser
@@ -83,6 +83,14 @@ galeria:
   alt: Felsige Vulkanküste in Costa Adeje
 - src: /images/actividades/gran-canaria/catamaran/fgc-fondo-rocoso-agua-cristalina.webp
   alt: Felsiger Meeresgrund unter glasklarem Wasser, ideal zum Schnorcheln
+- src: /images/actividades/lanzarote/snorkel/flz-buceador-aguas-verdes.webp
+  alt: 'Schwimmer in grünem, klarem Wasser'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/persona-haciendo-esnorquel-sobre-el-fondo-con-algas.webp
+  alt: 'Schnorchler über einem algenbewachsenen Grund'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/saludo-bajo-el-agua-durante-la-excursion-de-esnorquel.webp
+  alt: 'Winken unter Wasser beim Schnorchelausflug'
+- src: /images/actividades/tenerife/prov-snorkel-tenerife-excursions/participantes-con-neopreno-y-mascara-en-la-orilla.webp
+  alt: 'Teilnehmer in Neopren und Maske am Ufer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

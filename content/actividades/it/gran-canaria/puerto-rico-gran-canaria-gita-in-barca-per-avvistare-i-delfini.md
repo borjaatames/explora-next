@@ -73,6 +73,16 @@ galeria:
   alt: Un globicefalo di Gray nelle acque delle Canarie
 - src: /images/actividades/gran-canaria/mar/puerto-rico-atardecer.webp
   alt: Tramonto a Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/catamaran-spirit-of-the-sea-navegando-con-pasajeros.webp
+  alt: 'Catamarano Spirit of the Sea in navigazione con passeggeri'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/delfines-nadando-delante-del-barco.webp
+  alt: 'Delfini che nuotano davanti alla barca'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-observando-un-grupo-de-delfines.webp
+  alt: 'Passeggeri che osservano un gruppo di delfini'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/pasajeros-en-la-proa-buscando-cetaceos.webp
+  alt: 'Passeggeri a prua in cerca di cetacei'
+- src: /images/actividades/gran-canaria/prov-spirit-of-the-sea/soplo-de-una-ballena-en-el-mar.webp
+  alt: 'Soffio di una balena in mare'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

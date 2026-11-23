@@ -103,6 +103,18 @@ galeria:
   alt: 'Paredes das Falésias de Los Gigantes'
 - src: /images/actividades/tenerife/gigantes/gigantes-mar.webp
   alt: 'Falésias de Los Gigantes sobre o mar'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-de-white-tenerife-navegando-a-vela.webp
+  alt: 'Catamarã da White Tenerife à vela'
+- src: /images/actividades/tenerife/prov-white-tenerife/catamaran-frente-a-la-costa-de-costa-adeje.webp
+  alt: 'Catamarã ao largo de Costa Adeje'
+- src: /images/actividades/tenerife/prov-white-tenerife/delfines-nadando-junto-al-barco.webp
+  alt: 'Golfinhos a nadar junto ao barco'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-en-la-superficie-del-mar.webp
+  alt: 'Baleia-piloto à superfície do mar'
+- src: /images/actividades/tenerife/prov-white-tenerife/barco-fondeado-en-aguas-turquesa-visto-desde-el-aire.webp
+  alt: 'Barco ancorado em águas turquesa visto de cima'
+- src: /images/actividades/tenerife/prov-white-tenerife/calderon-con-su-cria.webp
+  alt: 'Baleia-piloto com a cria'
 ratingProveedor: 4.6
 numeroOpiniones: 5872
 atraccionesRelacionadas:

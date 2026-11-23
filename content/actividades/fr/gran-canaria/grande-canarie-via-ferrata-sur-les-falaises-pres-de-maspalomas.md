@@ -74,6 +74,12 @@ galeria:
   alt: Le ravin de Fataga dans le sud de Gran Canaria
 - src: /images/actividades/gran-canaria/barrancos-sur/carretera-sinuosa-barranco.webp
   alt: Route sinueuse traversant un ravin dans le sud de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-la-via-ferrata-sobre-roca-rojiza.webp
+  alt: 'Grimpeur sur la via ferrata sur roche rougeâtre'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-de-cuerdas-entre-paredes-de-roca.webp
+  alt: 'Passage sur cordes entre des parois rocheuses'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/escalador-en-lo-alto-de-un-acantilado.webp
+  alt: 'Grimpeur au sommet d''une falaise'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

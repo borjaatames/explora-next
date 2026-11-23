@@ -107,6 +107,12 @@ galeria:
   alt: "Cueva Bermeja, the cave chapel of San Bartolomé in Guayadeque"
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-hero.webp
   alt: "Landscape in eastern Gran Canaria"
+- src: /images/actividades/gran-canaria/prov-climbo/cuevas-excavadas-en-la-roca-volcanica.webp
+  alt: 'Caves carved into the volcanic rock'
+- src: /images/actividades/gran-canaria/prov-climbo/grupo-compartiendo-la-degustacion-en-un-restaurante-loc.webp
+  alt: 'Group sharing the tasting at a local restaurant'
+- src: /images/actividades/gran-canaria/prov-climbo/mesa-preparada-para-la-degustacion-de-productos-canario.webp
+  alt: 'Table set for the tasting of Canarian produce'
 ---
 
 ## What you will see

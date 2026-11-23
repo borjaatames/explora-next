@@ -75,6 +75,18 @@ galeria:
   alt: Forêt de lauriers aux troncs couverts de mousse
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Crêtes du massif d'Anaga
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Cavalière sur un cheval blanc avec le Teide en fond'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Groupe à cheval sur un chemin forestier'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Balade à cheval sur une piste de terre rouge entre les pins'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Cavaliers à la ferme avec le Teide en arrière-plan'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'Préparation des chevaux face au Teide enneigé'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Chevaux et cavaliers en pause dans la forêt'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

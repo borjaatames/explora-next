@@ -73,6 +73,18 @@ galeria:
   alt: Vista de la costa de Adeje, junto a Playa de las Américas
 - src: /images/actividades/tenerife/motos-agua/montana-amarilla-costa.webp
   alt: Montaña Amarilla junto al mar en la costa sur de Tenerife
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-navegando-frente-a-costa-adeje.webp
+  alt: 'Motos de agua navegando frente a Costa Adeje'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/pareja-en-moto-de-agua-en-mar-abierto.webp
+  alt: 'Pareja en moto de agua en mar abierto'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/ruta-en-moto-de-agua-junto-a-la-costa-rocosa.webp
+  alt: 'Ruta en moto de agua junto a la costa rocosa'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/moto-de-agua-pasando-junto-a-los-acantilados.webp
+  alt: 'Moto de agua pasando junto a los acantilados'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/motos-de-agua-frente-a-una-cueva-marina.webp
+  alt: 'Motos de agua frente a una cueva marina'
+- src: /images/actividades/tenerife/prov-watersports-tenerife/dos-motos-de-agua-con-pasajeros-en-el-sur-de-tenerife.webp
+  alt: 'Dos motos de agua con pasajeros en el sur de Tenerife'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

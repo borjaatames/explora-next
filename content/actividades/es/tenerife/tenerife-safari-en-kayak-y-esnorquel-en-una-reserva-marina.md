@@ -70,8 +70,8 @@ keywords:
 - kayak los cristianos
 - kayak esnórquel tenerife
 - kayak tortugas tenerife
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Kayak rojo en la orilla de una playa de arena blanca
+imagen: /images/actividades/tenerife/prov-adventoure-kayak/kayaks-junto-a-una-cueva-en-los-acantilados-de-tenerife.webp
+imagenAlt: 'Kayaks junto a una cueva en los acantilados de Tenerife'
 galeria:
 - src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
   alt: Persona remando en un kayak naranja en mar abierto
@@ -87,6 +87,10 @@ galeria:
   alt: Playa de Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Barcos amarrados en el puerto de Los Cristianos
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: 'Kayak rojo en la orilla de una playa de arena blanca'
+- src: /images/actividades/tenerife/prov-adventoure-kayak/kayakista-con-delfines-frente-a-la-costa-sur.webp
+  alt: 'Kayakista con delfines frente a la costa sur'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

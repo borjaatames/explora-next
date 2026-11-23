@@ -75,6 +75,18 @@ galeria:
   alt: Laurel forest with moss-covered trunks
 - src: /images/actividades/tenerife/anaga/anaga-03.webp
   alt: Ridges of the Anaga massif
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinete-en-caballo-blanco-con-el-teide-al-fondo.webp
+  alt: 'Rider on a white horse with Teide behind'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/grupo-a-caballo-por-un-camino-del-monte.webp
+  alt: 'Group on horseback along a forest track'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/paseo-a-caballo-por-una-pista-de-tierra-roja-entre-pino.webp
+  alt: 'Horse ride on a red dirt track through the pines'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/jinetes-en-la-finca-con-el-teide-de-fondo.webp
+  alt: 'Riders at the farm with Teide in the background'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/preparando-los-caballos-frente-al-teide-nevado.webp
+  alt: 'Getting the horses ready facing snow-capped Teide'
+- src: /images/actividades/tenerife/prov-finca-estrella-nicole-werner/caballos-y-jinetes-descansando-en-el-bosque.webp
+  alt: 'Horses and riders resting in the forest'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

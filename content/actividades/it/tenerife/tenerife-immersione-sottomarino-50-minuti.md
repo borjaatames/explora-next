@@ -96,6 +96,10 @@ galeria:
   alt: 'Globicefalo che soffia nelle acque del sud di Tenerife'
 - src: /images/actividades/tenerife/cetaceos/calderon-respirando.webp
   alt: 'Globicefalo di Gray che respira in superficie'
+- src: /images/actividades/tenerife/prov-submarine-safaris/submarino-amarillo-junto-a-un-pecio-en-el-fondo-marino.webp
+  alt: 'Sottomarino giallo accanto a un relitto sul fondale'
+- src: /images/actividades/tenerife/prov-submarine-safaris/interior-del-submarino-con-asientos-frente-a-los-ojos-d.webp
+  alt: 'Interno del sottomarino con sedili davanti agli oblò'
 ratingProveedor: 4.8
 numeroOpiniones: 2670
 publicada: true

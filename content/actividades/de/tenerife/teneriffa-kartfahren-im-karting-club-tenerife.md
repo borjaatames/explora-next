@@ -67,6 +67,14 @@ galeria:
   alt: Die Montaña Roja von der Felsküste in El Médano, Süden Teneriffas
 - src: /images/actividades/tenerife/teide/teide-nordeste.webp
   alt: Vulkanlandschaft im Teide-Nationalpark
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/salida-de-karts-con-bandera-a-cuadros-en-el-circuito.webp
+  alt: 'Kartstart unter der Zielflagge auf der Strecke'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/pilotos-en-kart-en-la-recta-del-karting-club-tenerife.webp
+  alt: 'Fahrer in Karts auf der Geraden des Karting Club Tenerife'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/vista-aerea-del-trazado-del-circuito-de-karts.webp
+  alt: 'Luftaufnahme der Kartstrecke'
+- src: /images/actividades/tenerife/prov-karting-club-tenerife/grupo-celebrando-en-el-podio-del-circuito.webp
+  alt: 'Gruppe feiert auf dem Podium der Strecke'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

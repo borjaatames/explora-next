@@ -110,6 +110,12 @@ galeria:
   alt: 'Vista aerea di catamarani all''ancora in acque turchesi vicino alla riva'
 - src: /images/actividades/gran-canaria/catamaran/x-catamaran-pexels-9995827.webp
   alt: 'Barche a vela ormeggiate in un porto turistico'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/pasajeros-tomando-el-sol-en-la-proa-del-catamaran.webp
+  alt: 'Passeggeri che prendono il sole a prua del catamarano'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/relax-en-la-cubierta-del-catamaran-en-mar-abierto.webp
+  alt: 'Relax sul ponte del catamarano in mare aperto'
+- src: /images/actividades/gran-canaria/prov-exclusive-boat/cava-y-toallas-preparadas-a-bordo.webp
+  alt: 'Cava e asciugamani pronti a bordo'
 ---
 
 ## Cosa vedrai

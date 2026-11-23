@@ -73,6 +73,18 @@ galeria:
   alt: Almond blossom with Roque Bentayga behind
 - src: /images/actividades/gran-canaria/guayadeque/guayadeque-laderas.webp
   alt: Slopes of the Guayadeque ravine, near Agüimes
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/rapel-junto-a-una-cascada-en-gran-canaria.webp
+  alt: 'Abseiling beside a waterfall in Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-sonriente-descendiendo-por-la-cuerda.webp
+  alt: 'Smiling canyoner descending on the rope'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/descenso-por-un-tobogan-natural-de-roca.webp
+  alt: 'Descent down a natural rock slide'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquista-preparado-para-el-rapel.webp
+  alt: 'Canyoner ready to abseil'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/paso-por-una-poza-entre-rocas-del-barranco.webp
+  alt: 'Crossing a pool among the ravine rocks'
+- src: /images/actividades/gran-canaria/prov-yukan-outdoor-gran-canaria/barranquistas-frente-a-una-cascada.webp
+  alt: 'Canyoners facing a waterfall'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

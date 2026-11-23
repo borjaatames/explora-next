@@ -58,8 +58,8 @@ keywords:
 - jetski teneriffa
 - jetski puerto colon
 - jetski tour costa adeje
-imagen: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
-imagenAlt: Fahrer auf einem Jetski
+imagen: /images/actividades/tenerife/prov-jetski-racing/pareja-en-moto-de-agua-frente-a-la-costa-de-tenerife.webp
+imagenAlt: 'Paar auf einem Jetski vor der Küste Teneriffas'
 galeria:
 - src: /images/actividades/lanzarote/moto-de-agua/flz-estela.webp
   alt: Ein Jetski zieht eine Spur über das Meer
@@ -75,6 +75,8 @@ galeria:
   alt: Die Montaña Amarilla am Meer an der Südküste Teneriffas
 - src: /images/actividades/tenerife/cetaceos/costa-tenerife-acantilados.webp
   alt: Klippen an der Südküste Teneriffas
+- src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
+  alt: 'Fahrer auf einem Jetski'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

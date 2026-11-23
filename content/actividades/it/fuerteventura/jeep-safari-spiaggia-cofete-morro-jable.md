@@ -101,6 +101,10 @@ galeria:
   alt: 'Spiaggia di Morro Jable'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: 'La baia di Corralejo con Lobos sullo sfondo'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/todoterrenos-en-la-pista-hacia-la-playa-de-cofete.webp
+  alt: 'Fuoristrada sulla pista verso la spiaggia di Cofete'
+- src: /images/actividades/fuerteventura/prov-discovery-jeep-safari/playa-de-cofete-vista-desde-el-mirador-de-jandia.webp
+  alt: 'Spiaggia di Cofete vista dal belvedere di Jandía'
 ---
 
 ## Cosa vedrai

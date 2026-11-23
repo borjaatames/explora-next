@@ -67,6 +67,14 @@ galeria:
   alt: Puerto Rico bay in Gran Canaria, where the park is located
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: The cliff coast at Taurito, near Mogán
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/yate-privado-navegando-en-aguas-de-gran-canaria.webp
+  alt: 'Private yacht cruising in Gran Canaria waters'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/banana-hinchable-junto-a-una-cueva-del-litoral.webp
+  alt: 'Inflatable banana boat by a coastal cave'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/flotador-remolcado-frente-a-la-costa-de-mogan.webp
+  alt: 'Towable ring off the Mogán coast'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/esnorquel-con-escuter-submarino.webp
+  alt: 'Snorkelling with an underwater scooter'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

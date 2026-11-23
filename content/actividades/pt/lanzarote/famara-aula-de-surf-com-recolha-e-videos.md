@@ -71,6 +71,18 @@ galeria:
   alt: Silhuetas de surfistas com pranchas ao pôr do sol
 - src: /images/actividades/lanzarote/surf/costa-volcanica-roja-oleaje.webp
   alt: Ondas a rebentar numa costa vulcânica avermelhada com praia negra
+- src: /images/actividades/lanzarote/prov-school3s/instructor-acompanando-a-una-alumna-en-la-ola-en-famara.webp
+  alt: 'Instrutor a acompanhar uma aluna na onda em Famara'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-alumnos-con-sus-tablas-en-la-playa-de-famara.webp
+  alt: 'Grupo de alunos com as pranchas na praia de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/surfistas-caminando-hacia-el-agua-con-sus-tablas.webp
+  alt: 'Surfistas a caminhar para a água com as pranchas'
+- src: /images/actividades/lanzarote/prov-school3s/alumnos-entrando-al-mar-bajo-los-riscos-de-famara.webp
+  alt: 'Alunos a entrar no mar sob as falésias de Famara'
+- src: /images/actividades/lanzarote/prov-school3s/practica-del-despegue-en-la-arena.webp
+  alt: 'Prática do take-off na areia'
+- src: /images/actividades/lanzarote/prov-school3s/grupo-de-la-escuela-de-surf-en-la-playa.webp
+  alt: 'Grupo da escola de surf na praia'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -67,6 +67,14 @@ galeria:
   alt: Bucht und Strand von Puerto Rico de Gran Canaria
 - src: /images/actividades/gran-canaria/mogan/taurito-costa.webp
   alt: Strand und Hotels in Taurito
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/yate-privado-navegando-en-aguas-de-gran-canaria.webp
+  alt: 'Privatyacht in den Gewässern Gran Canarias'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/banana-hinchable-junto-a-una-cueva-del-litoral.webp
+  alt: 'Bananenboot an einer Küstenhöhle'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/flotador-remolcado-frente-a-la-costa-de-mogan.webp
+  alt: 'Schleppring vor der Küste von Mogán'
+- src: /images/actividades/gran-canaria/prov-nirvana-dreams/esnorquel-con-escuter-submarino.webp
+  alt: 'Schnorcheln mit einem Unterwasser-Scooter'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

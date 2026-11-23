@@ -81,6 +81,18 @@ galeria:
   alt: Montaña de Guaza, in the municipality of Arona
 - src: /images/actividades/tenerife/kayak-cristianos/kayak-aguas-transparentes.webp
   alt: Kayak in clear water along the coast
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-entre-tortugas-marinas-en-aguas-turquesa.webp
+  alt: 'Kayaks among sea turtles in turquoise water'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayakistas-a-la-entrada-de-una-cueva-marina.webp
+  alt: 'Kayakers at the entrance of a sea cave'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/pareja-remando-en-kayak-junto-a-la-costa-rocosa.webp
+  alt: 'Couple paddling a kayak along the rocky coast'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/grupo-en-kayak-frente-a-una-cueva-volcanica.webp
+  alt: 'Group kayaking in front of a volcanic cave'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/tortuga-marina-nadando-bajo-el-agua.webp
+  alt: 'Sea turtle swimming underwater'
+- src: /images/actividades/tenerife/prov-easy-kayak-tenerife/kayaks-bajo-los-acantilados-de-la-costa.webp
+  alt: 'Kayaks beneath the coastal cliffs'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -70,8 +70,8 @@ keywords:
 - caiaque los cristianos
 - caiaque snorkel tenerife
 - caiaque tartarugas tenerife
-imagen: /images/actividades/lanzarote/kayak-papagayo.webp
-imagenAlt: Caiaque vermelho na margem de uma praia de areia branca
+imagen: /images/actividades/tenerife/prov-adventoure-kayak/kayaks-junto-a-una-cueva-en-los-acantilados-de-tenerife.webp
+imagenAlt: 'Caiaques junto a uma gruta nas falésias de Tenerife'
 galeria:
 - src: /images/actividades/tenerife/cristianos/kayak-mar-abierto.webp
   alt: Pessoa a remar num kayak laranja em mar aberto
@@ -87,6 +87,10 @@ galeria:
   alt: Praia de Los Cristianos
 - src: /images/actividades/tenerife/cristianos/puerto-cristianos-barcos.webp
   alt: Barcos atracados no porto de Los Cristianos
+- src: /images/actividades/lanzarote/kayak-papagayo.webp
+  alt: 'Caiaque vermelho na margem de uma praia de areia branca'
+- src: /images/actividades/tenerife/prov-adventoure-kayak/kayakista-con-delfines-frente-a-la-costa-sur.webp
+  alt: 'Caiaquista com golfinhos ao largo da costa sul'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

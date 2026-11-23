@@ -71,6 +71,16 @@ galeria:
   alt: Fundo rochoso visto através da água límpida
 - src: /images/actividades/gran-canaria/puerto-rico/bahia-puerto-rico.webp
   alt: Baía e praia de Puerto Rico de Gran Canaria
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-rodeado-de-peces-en-gran-canaria.webp
+  alt: 'Mergulhador rodeado de peixes em Gran Canaria'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceadores-junto-a-una-tortuga-marina.webp
+  alt: 'Mergulhadores junto a uma tartaruga marinha'
+- src: /images/actividades/gran-canaria/prov-zeusteam/grupo-de-buceo-sobre-el-arrecife-con-una-tortuga.webp
+  alt: 'Grupo de mergulho sobre o recife com uma tartaruga'
+- src: /images/actividades/gran-canaria/prov-zeusteam/buceador-junto-a-una-gran-roca-submarina.webp
+  alt: 'Mergulhador junto a uma grande rocha subaquática'
+- src: /images/actividades/gran-canaria/prov-zeusteam/estrella-de-mar-roja-en-el-fondo-marino.webp
+  alt: 'Estrela-do-mar vermelha no fundo do mar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

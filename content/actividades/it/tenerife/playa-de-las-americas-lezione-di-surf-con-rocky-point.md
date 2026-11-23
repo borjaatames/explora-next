@@ -74,6 +74,18 @@ galeria:
   alt: Surfisti a Playa de las Américas
 - src: /images/actividades/tenerife/surf-americas/surfista-tabla-agua.webp
   alt: Surfista entra in acqua con la tavola
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfista-cogiendo-una-ola-en-el-sur-de-tenerife.webp
+  alt: 'Surfista che prende un''onda nel sud di Tenerife'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/alumna-e-instructor-surfeando-la-misma-ola.webp
+  alt: 'Allieva e istruttore sulla stessa onda'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/calentamiento-en-tierra-antes-de-la-clase-de-surf.webp
+  alt: 'Riscaldamento a terra prima della lezione di surf'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/alumnas-preparando-las-tablas-de-surf.webp
+  alt: 'Allieve che preparano le tavole da surf'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfistas-caminando-con-las-tablas-por-la-playa.webp
+  alt: 'Surfisti che camminano sulla spiaggia con le tavole'
+- src: /images/actividades/tenerife/prov-rocky-point-surf-experience/surfista-remando-en-la-espuma-de-la-orilla.webp
+  alt: 'Surfista che rema nella schiuma'
 publicada: true
 destacada: false
 fecha: '2026-11-22'
