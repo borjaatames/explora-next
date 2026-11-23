@@ -68,6 +68,12 @@ galeria:
   alt: Boats in Corralejo harbour
 - src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
   alt: Pod of pilot whales swimming at the surface
+- src: /images/actividades/fuerteventura/prov-bj-fishing/pasajeros-observando-delfines-desde-la-proa-del-barco.webp
+  alt: 'Passengers watching dolphins from the boat''s bow'
+- src: /images/actividades/fuerteventura/prov-bj-fishing/barco-de-excursion-navegando-frente-a-fuerteventura.webp
+  alt: 'Excursion boat cruising off Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-bj-fishing/delfines-saltando-en-mar-abierto.webp
+  alt: 'Dolphins leaping in open water'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

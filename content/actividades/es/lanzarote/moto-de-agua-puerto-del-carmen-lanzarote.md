@@ -113,6 +113,8 @@ galeria:
   alt: "Moto de agua vista desde el manillar"
 - src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
   alt: "Piloto en moto de agua"
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/pareja-en-moto-de-agua-junto-a-la-costa-volcanica.webp
+  alt: 'Pareja en moto de agua junto a la costa volcánica'
 ---
 
 ## Qué vas a ver

@@ -98,6 +98,10 @@ galeria:
   alt: "Jardín con palmeras y cactus junto a la roca en LagOmar"
 - src: /images/actividades/lanzarote/lagomar/flz-terraza-roca.webp
   alt: "Terrace and white door carved into the rock at LagOmar"
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/montanas-de-colores-del-parque-nacional-de-timanfaya.webp
+  alt: 'Colourful mountains of Timanfaya National Park'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/valle-de-haria-con-palmeras-en-el-norte-de-lanzarote.webp
+  alt: 'Haría valley with palm trees in northern Lanzarote'
 ---
 
 ## What you will see

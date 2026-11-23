@@ -48,8 +48,8 @@ keywords:
 - try dive fuerteventura
 - scuba diving fuerteventura beginners
 - diving costa calma
-imagen: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
-imagenAlt: Dive boats seen from the water
+imagen: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceador-junto-a-un-banco-de-peces-amarillos-en-fuertev.webp
+imagenAlt: 'Diver beside a school of yellow fish in Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
   alt: Person snorkelling over a rocky seabed
@@ -65,6 +65,18 @@ galeria:
   alt: Snorkeller swimming over a rocky seabed
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Morro Jable beach
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Dive boats seen from the water'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/primeros-ejercicios-de-buceo-en-la-piscina.webp
+  alt: 'First diving exercises in the pool'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceadores-entrando-al-mar-desde-la-orilla.webp
+  alt: 'Divers entering the sea from the shore'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/morena-asomando-entre-las-rocas.webp
+  alt: 'Moray eel peeking out from the rocks'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/mero-sobre-el-fondo-arenoso.webp
+  alt: 'Grouper on the sandy bottom'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/chucho-descansando-en-la-arena.webp
+  alt: 'Stingray resting on the sand'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

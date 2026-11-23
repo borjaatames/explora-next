@@ -72,6 +72,18 @@ galeria:
   alt: Surfisti al largo visti dalla spiaggia
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Lezione di surf che rema verso il largo
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Allieva che surfa un''onda a Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'Gruppo della scuola con le tavole a riva'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Allieva in piedi sulla tavola sulla schiuma'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Surfista principiante che prende un''onda'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Istruttrice e allieva a riva'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Allieva che entra in mare con la tavola'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

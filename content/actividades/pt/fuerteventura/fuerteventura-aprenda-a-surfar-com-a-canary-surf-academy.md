@@ -69,6 +69,12 @@ galeria:
   alt: Dunas de Corralejo junto ao mar
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfistas na beira-mar à espera de ondas
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/monitores-observando-a-una-alumna-surfear.webp
+  alt: 'Monitores a observar uma aluna a surfar'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/instructor-ayudando-a-un-alumno-en-el-agua.webp
+  alt: 'Instrutor a ajudar um aluno na água'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/alumna-de-pie-en-la-tabla-en-aguas-turquesa.webp
+  alt: 'Aluna de pé na prancha em águas turquesa'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

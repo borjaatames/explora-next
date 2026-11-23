@@ -105,6 +105,12 @@ galeria:
   alt: 'Ensalada con queso de cabra e higos'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Morro Jable y la playa del Matorral desde la montaña'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderistas-caminando-junto-a-cabras-majoreras.webp
+  alt: 'Senderistas caminando junto a cabras majoreras'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderista-con-baston-en-una-cresta-volcanica.webp
+  alt: 'Senderista con bastón en una cresta volcánica'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/grupo-de-senderismo-en-la-costa-de-fuerteventura.webp
+  alt: 'Grupo de senderismo en la costa de Fuerteventura'
 ---
 
 ## Qué vas a ver

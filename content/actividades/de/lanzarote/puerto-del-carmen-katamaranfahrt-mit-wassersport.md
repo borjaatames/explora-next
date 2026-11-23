@@ -72,6 +72,12 @@ galeria:
   alt: Bucht von Papagayo, von der Klippe aus gesehen
 - src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
   alt: Badende neben einem Ausflugsboot
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Katamaran vor Anker bei Sonnenuntergang'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Katamaran in einer Bucht mit klarem Wasser'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Schnorcheln neben dem Boot'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

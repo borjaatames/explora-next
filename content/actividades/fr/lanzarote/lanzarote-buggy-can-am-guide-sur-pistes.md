@@ -67,6 +67,18 @@ galeria:
   alt: Pente volcanique couverte de lichens à Timanfaya
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
   alt: Côte de Papagayo avec des montagnes volcaniques en arrière-plan
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-can-am-junto-al-mar-en-lanzarote.webp
+  alt: 'Buggies Can-Am au bord de la mer à Lanzarote'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-junto-a-un-cono-volcanico.webp
+  alt: 'Buggy près d''un cône volcanique'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/fila-de-buggies-por-una-pista-de-tierra.webp
+  alt: 'File de buggies sur une piste de terre'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-en-la-arena-con-las-montanas-al-fondo.webp
+  alt: 'Buggy sur le sable avec les montagnes en fond'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-recorriendo-pistas-volcanicas.webp
+  alt: 'Buggies parcourant des pistes volcaniques'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-can-am-biplaza.webp
+  alt: 'Buggy Can-Am biplace'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -70,6 +70,10 @@ galeria:
   alt: Coast of the Jandía peninsula
 - src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
   alt: Morro Jable beach
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/moto-de-agua-dejando-estela-en-mar-abierto.webp
+  alt: 'Jet ski leaving a wake on the open sea'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/dos-motos-de-agua-vistas-desde-el-aire.webp
+  alt: 'Two jet skis seen from the air'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

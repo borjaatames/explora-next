@@ -66,6 +66,14 @@ galeria:
   alt: L'île de Lobos vue depuis la mer
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
   alt: Côte de Jandía vue d'en haut
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/kayaks-transparentes-en-una-cala-de-fuerteventura.webp
+  alt: 'Kayaks transparents dans une crique de Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/tortuga-marina-vista-desde-el-kayak-transparente.webp
+  alt: 'Tortue marine vue depuis le kayak transparent'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/kayak-sobre-aguas-turquesa-junto-a-las-rocas.webp
+  alt: 'Kayak sur une eau turquoise près des rochers'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/raya-nadando-bajo-el-kayak.webp
+  alt: 'Raie nageant sous le kayak'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

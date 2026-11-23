@@ -76,6 +76,10 @@ galeria:
   alt: "Die Nordküste Lanzarotes vom Mirador del Río aus"
 - src: "/images/actividades/lanzarote/mirador-del-rio/flz-interior-cafeteria.webp"
   alt: "Innenraum des Mirador del Río, ein Werk von César Manrique"
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/montanas-de-colores-del-parque-nacional-de-timanfaya.webp
+  alt: 'Farbige Berge im Nationalpark Timanfaya'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/valle-de-haria-con-palmeras-en-el-norte-de-lanzarote.webp
+  alt: 'Tal von Haría mit Palmen im Norden Lanzarotes'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

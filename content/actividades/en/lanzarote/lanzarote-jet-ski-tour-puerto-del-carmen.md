@@ -112,6 +112,8 @@ galeria:
   alt: "Jet ski seen from the handlebars"
 - src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
   alt: "Rider on a jet ski"
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/pareja-en-moto-de-agua-junto-a-la-costa-volcanica.webp
+  alt: 'Couple on a jet ski by the volcanic coast'
 ---
 
 ## What you will see

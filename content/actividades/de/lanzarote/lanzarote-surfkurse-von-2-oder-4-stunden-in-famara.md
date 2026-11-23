@@ -66,6 +66,8 @@ galeria:
   alt: Die Klippen von Famara von La Caleta de Famara aus
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfer im flachen Wasser warten auf Wellen
+- src: /images/actividades/lanzarote/prov-zoopark-famara/dos-alumnas-surfeando-juntas-en-famara.webp
+  alt: 'Zwei Schülerinnen surfen zusammen in Famara'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

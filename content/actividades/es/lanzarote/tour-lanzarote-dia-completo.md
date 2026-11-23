@@ -95,6 +95,10 @@ galeria:
   alt: 'La Graciosa vista desde el norte de Lanzarote'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/montanas-de-colores-del-parque-nacional-de-timanfaya.webp
+  alt: 'Montañas de colores del Parque Nacional de Timanfaya'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/valle-de-haria-con-palmeras-en-el-norte-de-lanzarote.webp
+  alt: 'Valle de Haría con palmeras en el norte de Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

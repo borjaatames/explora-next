@@ -111,6 +111,18 @@ galeria:
   alt: "Tandemflug mit dem Gleitschirm"
 - src: /images/actividades/lanzarote/parapente/x-parapente-wikimedia-01.webp
   alt: "Gleitschirmflieger bereitet sich am Berg auf den Start vor"
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-biplaza-sobre-el-mar-en-lanzarote.webp
+  alt: 'Tandem-Gleitschirm über dem Meer auf Lanzarote'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/vuelo-en-parapente-sobre-la-playa-de-famara.webp
+  alt: 'Gleitschirmflug über dem Strand von Famara'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-sobre-arrecifes-de-aguas-turquesa.webp
+  alt: 'Gleitschirm über türkisen Riffen'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/piloto-y-pasajero-sobrevolando-la-costa.webp
+  alt: 'Pilot und Passagier über der Küste'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/pasajeras-listas-en-la-zona-de-despegue-de-famara.webp
+  alt: 'Passagierinnen bereit am Startplatz in Famara'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/selfi-en-pleno-vuelo-sobre-los-acantilados.webp
+  alt: 'Selfie im Flug über den Klippen'
 ---
 
 ## Was du siehst

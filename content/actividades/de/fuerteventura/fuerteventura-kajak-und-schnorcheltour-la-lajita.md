@@ -77,6 +77,8 @@ galeria:
   alt: "Der Strand von Sotavento auf Jandía"
 - src: "/images/actividades/fuerteventura/zonas/sotavento-aerea.webp"
   alt: "Luftaufnahme von Strand und Lagune von Sotavento"
+- src: /images/actividades/fuerteventura/prov-kayaking-atlantis/grupo-de-kayaks-dobles-junto-a-un-acantilado.webp
+  alt: 'Gruppe von Doppelkajaks an einer Klippe'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

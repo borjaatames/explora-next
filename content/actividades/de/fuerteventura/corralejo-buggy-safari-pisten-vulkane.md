@@ -103,6 +103,16 @@ galeria:
   alt: Strand von Morro Jable
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: Bucht von Corralejo
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-levantando-arena-en-las-pistas-de-fuerteventura.webp
+  alt: 'Buggy wirbelt auf den Pisten Fuerteventuras Sand auf'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/dos-buggies-entre-volcanes-del-norte.webp
+  alt: 'Zwei Buggys zwischen Vulkanen im Norden'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-frente-a-una-montana-volcanica.webp
+  alt: 'Buggy vor einem Vulkanberg'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggies-parados-en-una-duna-de-corralejo.webp
+  alt: 'Buggys auf einer Düne in Corralejo'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-en-lo-alto-de-una-colina-volcanica.webp
+  alt: 'Buggy auf einem Vulkanhügel'
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

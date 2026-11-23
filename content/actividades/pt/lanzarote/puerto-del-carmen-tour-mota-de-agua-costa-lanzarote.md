@@ -111,6 +111,8 @@ galeria:
   alt: "Mota de água vista a partir do guiador"
 - src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
   alt: "Condutor numa mota de água"
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/pareja-en-moto-de-agua-junto-a-la-costa-volcanica.webp
+  alt: 'Casal numa mota de água junto à costa vulcânica'
 ---
 
 ## O que vai ver

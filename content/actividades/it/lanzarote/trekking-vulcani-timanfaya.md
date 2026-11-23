@@ -95,6 +95,18 @@ galeria:
   alt: 'Strada dritta tra lava e vulcani a Lanzarote'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: 'La costa sud di Lanzarote vicino alle spiagge di Papagayo'
+- src: /images/actividades/lanzarote/prov-lava-trekking/grupo-de-senderismo-entre-coladas-de-lava.webp
+  alt: 'Gruppo di escursionisti tra le colate laviche'
+- src: /images/actividades/lanzarote/prov-lava-trekking/guia-senalando-los-volcanes-durante-la-ruta.webp
+  alt: 'Guida che indica i vulcani durante il percorso'
+- src: /images/actividades/lanzarote/prov-lava-trekking/interior-de-un-crater-volcanico-de-lanzarote.webp
+  alt: 'Interno di un cratere vulcanico di Lanzarote'
+- src: /images/actividades/lanzarote/prov-lava-trekking/paisaje-volcanico-con-malpais-y-montanas.webp
+  alt: 'Paesaggio vulcanico di campi di lava e montagne'
+- src: /images/actividades/lanzarote/prov-lava-trekking/atardecer-sobre-el-malpais-volcanico.webp
+  alt: 'Tramonto sul campo di lava'
+- src: /images/actividades/lanzarote/prov-lava-trekking/vista-de-la-costa-desde-un-sendero-volcanico.webp
+  alt: 'Vista della costa da un sentiero vulcanico'
 ratingProveedor: 4.8
 numeroOpiniones: 990
 atraccionesRelacionadas:

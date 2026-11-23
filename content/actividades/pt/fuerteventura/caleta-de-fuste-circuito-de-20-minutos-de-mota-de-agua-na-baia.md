@@ -76,6 +76,10 @@ galeria:
   alt: Mota de água sobre as ondas
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Motas de água amarradas num pontão flutuante
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Casal numa mota de água em frente a Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Marina de Caleta de Fuste vista do ar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

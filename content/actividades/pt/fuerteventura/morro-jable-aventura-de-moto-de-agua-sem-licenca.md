@@ -70,6 +70,10 @@ galeria:
   alt: Costa da península de Jandía
 - src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
   alt: Praia de Morro Jable
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/moto-de-agua-dejando-estela-en-mar-abierto.webp
+  alt: 'Mota de água a deixar rasto em mar aberto'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/dos-motos-de-agua-vistas-desde-el-aire.webp
+  alt: 'Duas motas de água vistas do ar'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

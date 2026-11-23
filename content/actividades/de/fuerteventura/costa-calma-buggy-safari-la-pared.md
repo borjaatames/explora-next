@@ -79,6 +79,10 @@ galeria:
   alt: "Küste von Jandía von oben"
 - src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
   alt: "Berge im Süden von Fuerteventura"
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-entre-montanas-aridas-del-sur-de-fuerteventura.webp
+  alt: 'Buggy zwischen kargen Bergen im Süden Fuerteventuras'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggies-levantando-polvo-en-una-pista.webp
+  alt: 'Buggys wirbeln auf einer Piste Staub auf'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

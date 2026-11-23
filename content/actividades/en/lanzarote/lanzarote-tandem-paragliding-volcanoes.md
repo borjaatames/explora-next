@@ -111,6 +111,18 @@ galeria:
   alt: "Tandem paragliding flight"
 - src: /images/actividades/lanzarote/parapente/x-parapente-wikimedia-01.webp
   alt: "Paraglider getting ready for take-off on the mountain"
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-biplaza-sobre-el-mar-en-lanzarote.webp
+  alt: 'Tandem paragliding over the sea in Lanzarote'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/vuelo-en-parapente-sobre-la-playa-de-famara.webp
+  alt: 'Paragliding flight over Famara beach'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-sobre-arrecifes-de-aguas-turquesa.webp
+  alt: 'Paragliding over turquoise reefs'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/piloto-y-pasajero-sobrevolando-la-costa.webp
+  alt: 'Pilot and passenger flying over the coast'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/pasajeras-listas-en-la-zona-de-despegue-de-famara.webp
+  alt: 'Passengers ready at the Famara take-off area'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/selfi-en-pleno-vuelo-sobre-los-acantilados.webp
+  alt: 'Mid-flight selfie over the cliffs'
 ---
 
 ## What you will see

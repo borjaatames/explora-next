@@ -92,8 +92,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
-imagenAlt: "Ciclista en bicicleta eléctrica con el mar al fondo"
+imagen: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/ciclistas-con-bici-electrica-junto-a-la-costa-de-corral.webp
+imagenAlt: 'Ciclistas con bici eléctrica junto a la costa de Corralejo'
 galeria:
 - src: /images/actividades/fuerteventura/zonas/volcanes-norte.webp
   alt: "Volcanes del norte de Fuerteventura"
@@ -109,6 +109,18 @@ galeria:
   alt: "Senderista contemplando el atardecer desde el borde de un cráter volcánico"
 - src: /images/actividades/fuerteventura/calderon-hondo/ffv-calderon-hondo-paisaje.webp
   alt: "Paisaje volcánico desde el Calderón Hondo"
+- src: /images/actividades/madrid/ebike/ciclista-bicicleta-electrica-paseo.webp
+  alt: 'Ciclista en bicicleta eléctrica con el mar al fondo'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/grupo-en-bici-electrica-por-una-pasarela-de-madera.webp
+  alt: 'Grupo en bici eléctrica por una pasarela de madera'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/pareja-con-sus-bicis-sobre-una-playa-turquesa.webp
+  alt: 'Pareja con sus bicis sobre una playa turquesa'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/grupo-con-bicis-electricas-en-la-playa.webp
+  alt: 'Grupo con bicis eléctricas en la playa'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/ciclistas-descansando-en-un-camino-de-arena.webp
+  alt: 'Ciclistas descansando en un camino de arena'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/grupo-de-ciclistas-frente-al-mar.webp
+  alt: 'Grupo de ciclistas frente al mar'
 ---
 
 ## Qué vas a ver

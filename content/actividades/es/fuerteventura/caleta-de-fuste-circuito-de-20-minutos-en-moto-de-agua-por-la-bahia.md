@@ -76,6 +76,10 @@ galeria:
   alt: Moto de agua sobre las olas
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Motos de agua amarradas en un pantalán flotante
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Pareja en moto de agua frente a Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Puerto deportivo de Caleta de Fuste desde el aire'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

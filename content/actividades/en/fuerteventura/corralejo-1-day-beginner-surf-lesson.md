@@ -72,6 +72,18 @@ galeria:
   alt: Surfers far out in the sea seen from the beach
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Surf class paddling out on their boards
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Student surfing a wave in Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'School group with their boards at the shoreline'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Student standing on the board in the whitewater'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Beginner surfer catching a wave'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Instructor and student at the shoreline'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Student heading into the sea with her board'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

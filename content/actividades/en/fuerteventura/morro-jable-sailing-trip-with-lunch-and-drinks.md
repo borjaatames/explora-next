@@ -71,6 +71,10 @@ galeria:
   alt: Sailing boat under full sail
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Morro Jable beach
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/velero-navegando-frente-a-la-costa-de-morro-jable.webp
+  alt: 'Sailing boat off the Morro Jable coast'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/pasajeros-comiendo-a-bordo-del-velero.webp
+  alt: 'Passengers having lunch on board the sailing boat'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

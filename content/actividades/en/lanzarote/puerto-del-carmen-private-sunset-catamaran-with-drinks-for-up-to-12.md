@@ -68,6 +68,12 @@ galeria:
   alt: Los Hervideros, lava cliffs by the sea
 - src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
   alt: White houses by the sea in Lanzarote
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamaran anchored at sunset'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamaran in a clear-water cove'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkelling next to the boat'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

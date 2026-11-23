@@ -68,6 +68,12 @@ galeria:
   alt: Falésias de lava em Los Hervideros, com vulcões ao fundo
 - src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
   alt: Casas brancas de portas azuis em frente ao mar em Lanzarote
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamarã fundeado ao pôr do sol'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamarã numa enseada de águas claras'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkel junto ao barco'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

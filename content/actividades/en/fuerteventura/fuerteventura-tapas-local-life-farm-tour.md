@@ -98,6 +98,10 @@ galeria:
   alt: 'Fresh goat cheese being made in a cheese dairy'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
   alt: 'Salad with goat cheese and figs'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/tapas-canarias-servidas-junto-al-mar.webp
+  alt: 'Canarian tapas served by the sea'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/mesa-preparada-en-una-finca-local.webp
+  alt: 'Table set at a local farm'
 ---
 
 ## What you will see

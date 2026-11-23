@@ -67,6 +67,18 @@ galeria:
   alt: Mit Flechten bedeckter Vulkanhang im Timanfaya
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
   alt: Küste von Papagayo mit Vulkanbergen im Hintergrund
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-can-am-junto-al-mar-en-lanzarote.webp
+  alt: 'Can-Am-Buggys am Meer auf Lanzarote'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-junto-a-un-cono-volcanico.webp
+  alt: 'Buggy neben einem Vulkankegel'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/fila-de-buggies-por-una-pista-de-tierra.webp
+  alt: 'Buggy-Kolonne auf einer Erdpiste'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-en-la-arena-con-las-montanas-al-fondo.webp
+  alt: 'Buggy im Sand mit Bergen im Hintergrund'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-recorriendo-pistas-volcanicas.webp
+  alt: 'Buggys auf vulkanischen Pisten'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-can-am-biplaza.webp
+  alt: 'Zweisitziger Can-Am-Buggy'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -67,6 +67,18 @@ galeria:
   alt: Ladera volcánica con líquenes en Timanfaya
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
   alt: Costa de Papagayo con montañas volcánicas al fondo
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-can-am-junto-al-mar-en-lanzarote.webp
+  alt: 'Buggies Can-Am junto al mar en Lanzarote'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-junto-a-un-cono-volcanico.webp
+  alt: 'Buggy junto a un cono volcánico'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/fila-de-buggies-por-una-pista-de-tierra.webp
+  alt: 'Fila de buggies por una pista de tierra'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-en-la-arena-con-las-montanas-al-fondo.webp
+  alt: 'Buggy en la arena con las montañas al fondo'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-recorriendo-pistas-volcanicas.webp
+  alt: 'Buggies recorriendo pistas volcánicas'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-can-am-biplaza.webp
+  alt: 'Buggy Can-Am biplaza'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

@@ -72,6 +72,18 @@ galeria:
   alt: Surfeurs au large vus depuis la plage
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Cours de surf ramant vers le large
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Élève surfant une vague à Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'Groupe de l''école avec leurs planches au bord de l''eau'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Élève debout sur la planche dans l''écume'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Surfeuse débutante prenant une vague'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Monitrice et élève au bord de l''eau'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Élève entrant dans la mer avec sa planche'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

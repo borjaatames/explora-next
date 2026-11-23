@@ -113,6 +113,8 @@ galeria:
   alt: "Moto d'acqua vista dal manubrio"
 - src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
   alt: "Pilota su una moto d'acqua"
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/pareja-en-moto-de-agua-junto-a-la-costa-volcanica.webp
+  alt: 'Coppia in moto d''acqua lungo la costa vulcanica'
 ---
 
 ## Cosa vedrai

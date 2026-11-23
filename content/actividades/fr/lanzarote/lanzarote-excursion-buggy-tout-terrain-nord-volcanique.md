@@ -100,6 +100,8 @@ galeria:
   alt: 'La côte sud de Lanzarote près des plages de Papagayo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: 'Falaises de lave à Los Hervideros avec des volcans en arrière-plan'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy sur une piste de terre rouge'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

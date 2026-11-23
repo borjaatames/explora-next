@@ -77,8 +77,8 @@ indexar: false
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/vino/cata-tinto.webp
-imagenAlt: "Cata de vinos tintos servidos en jarritas"
+imagen: /images/actividades/fuerteventura/prov-bodega-conatvs/entrada-de-las-bodegas-conatvs-en-fuerteventura.webp
+imagenAlt: 'Entrada de las Bodegas Conatvs en Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
   alt: "Racimos de uva tinta en la viña"
@@ -94,6 +94,18 @@ galeria:
   alt: "Filas de barricas"
 - src: /images/actividades/alicante/vino/barricas.webp
   alt: "Barricas de vino en una bodega"
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: 'Cata de vinos tintos servidos en jarritas'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/copas-de-vino-de-la-cata-sobre-la-piedra.webp
+  alt: 'Copas de vino de la cata sobre la piedra'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/familia-paseando-entre-las-vinas.webp
+  alt: 'Familia paseando entre las viñas'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/vinedo-de-conatvs-al-atardecer.webp
+  alt: 'Viñedo de Conatvs al atardecer'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/vendimia-en-las-vinas-del-interior-de-fuerteventura.webp
+  alt: 'Vendimia en las viñas del interior de Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/racimos-de-uva-tinta-en-la-cepa.webp
+  alt: 'Racimos de uva tinta en la cepa'
 ---
 
 ## Qué vas a ver

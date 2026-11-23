@@ -102,6 +102,12 @@ galeria:
   alt: "Corralejo dunes with Lobos and Lanzarote on the horizon"
 - src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
   alt: "Corralejo bay"
+- src: /images/actividades/fuerteventura/prov-verdeaurora/visitantes-en-la-granja-entre-plantas-de-aloe-vera.webp
+  alt: 'Visitors at the farm among aloe vera plants'
+- src: /images/actividades/fuerteventura/prov-verdeaurora/degustacion-de-productos-ecologicos-en-la-granja.webp
+  alt: 'Tasting of organic produce at the farm'
+- src: /images/actividades/fuerteventura/prov-verdeaurora/productos-de-aloe-vera-elaborados-en-la-finca.webp
+  alt: 'Aloe vera products made on the farm'
 ---
 
 ## What you will see

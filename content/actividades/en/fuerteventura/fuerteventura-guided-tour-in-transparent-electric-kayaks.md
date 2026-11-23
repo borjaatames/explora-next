@@ -66,6 +66,14 @@ galeria:
   alt: Lobos Island seen from the sea
 - src: /images/actividades/fuerteventura/zonas/jandia-costa.webp
   alt: Jandía coast from above
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/kayaks-transparentes-en-una-cala-de-fuerteventura.webp
+  alt: 'Clear kayaks in a Fuerteventura cove'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/tortuga-marina-vista-desde-el-kayak-transparente.webp
+  alt: 'Sea turtle seen from the clear kayak'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/kayak-sobre-aguas-turquesa-junto-a-las-rocas.webp
+  alt: 'Kayak over turquoise water by the rocks'
+- src: /images/actividades/fuerteventura/prov-e-kayakcanarias/raya-nadando-bajo-el-kayak.webp
+  alt: 'Ray swimming beneath the kayak'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -105,6 +105,18 @@ galeria:
   alt: "Segelkatamarane am Strand von Morro Jable"
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: "Strand von Morro Jable"
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/velero-fondeado-en-aguas-turquesa-de-fuerteventura.webp
+  alt: 'Segelboot vor Anker im türkisen Wasser Fuerteventuras'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/grupo-de-delfines-nadando-junto-a-la-proa-del-velero.webp
+  alt: 'Delfinschule schwimmt am Bug des Segelboots'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-mirando-un-delfin-desde-la-borda.webp
+  alt: 'Passagiere beobachten einen Delfin von der Reling'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/brindis-a-bordo-del-velero.webp
+  alt: 'Anstoßen an Bord des Segelboots'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/esnorquel-en-aguas-cristalinas.webp
+  alt: 'Schnorcheln in kristallklarem Wasser'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-en-la-cubierta-del-velero-navegando.webp
+  alt: 'Passagiere an Deck während der Fahrt'
 ---
 
 ## Was du siehst

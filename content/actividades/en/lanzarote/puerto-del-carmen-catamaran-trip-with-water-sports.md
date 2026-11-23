@@ -72,6 +72,12 @@ galeria:
   alt: Papagayo cove seen from the cliff
 - src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
   alt: Swimmers in the water next to an anchored boat
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamaran anchored at sunset'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamaran in a clear-water cove'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkelling next to the boat'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

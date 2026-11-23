@@ -49,8 +49,8 @@ keywords:
 - cours de surf famara
 - moniteur surf lanzarote
 - cours privé surf famara
-imagen: /images/actividades/_shared/surf/clase-remando-tablas.webp
-imagenAlt: Cours de surf ramant vers le large
+imagen: /images/actividades/lanzarote/prov-manuel-araujo-neto/alumno-de-surf-de-pie-en-la-espuma-de-famara.webp
+imagenAlt: 'Élève de surf debout dans l''écume de Famara'
 galeria:
 - src: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
   alt: Surfeurs au bord de l'eau
@@ -66,6 +66,18 @@ galeria:
   alt: Surfeur sur une grosse vague
 - src: /images/actividades/fuerteventura/surf-corralejo/clase-de-surf-vista-aerea.webp
   alt: Vue aérienne d'un cours de surf en mer
+- src: /images/actividades/_shared/surf/clase-remando-tablas.webp
+  alt: 'Cours de surf ramant vers le large'
+- src: /images/actividades/lanzarote/prov-manuel-araujo-neto/nino-surfeando-con-su-instructor-detras.webp
+  alt: 'Enfant surfant avec son moniteur derrière'
+- src: /images/actividades/lanzarote/prov-manuel-araujo-neto/instructor-explicando-la-tecnica-en-la-arena.webp
+  alt: 'Moniteur expliquant la technique sur le sable'
+- src: /images/actividades/lanzarote/prov-manuel-araujo-neto/alumna-surfeando-frente-a-los-riscos-de-famara.webp
+  alt: 'Élève surfant face aux falaises de Famara'
+- src: /images/actividades/lanzarote/prov-manuel-araujo-neto/calentamiento-en-grupo-en-la-playa-de-famara.webp
+  alt: 'Échauffement en groupe sur la plage de Famara'
+- src: /images/actividades/lanzarote/prov-manuel-araujo-neto/playa-de-famara-y-sus-riscos.webp
+  alt: 'Plage de Famara et ses falaises'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

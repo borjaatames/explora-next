@@ -72,6 +72,12 @@ galeria:
   alt: Crique de Papagayo vue depuis la falaise
 - src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
   alt: Baigneurs dans l'eau à côté d'un bateau au mouillage
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamaran au mouillage au coucher du soleil'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamaran dans une crique aux eaux claires'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkeling à côté du bateau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

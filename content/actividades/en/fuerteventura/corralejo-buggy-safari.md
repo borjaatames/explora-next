@@ -103,6 +103,16 @@ galeria:
   alt: 'Morro Jable beach'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: 'Corralejo bay'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-levantando-arena-en-las-pistas-de-fuerteventura.webp
+  alt: 'Buggy kicking up sand on Fuerteventura''s tracks'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/dos-buggies-entre-volcanes-del-norte.webp
+  alt: 'Two buggies among northern volcanoes'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-frente-a-una-montana-volcanica.webp
+  alt: 'Buggy in front of a volcanic mountain'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggies-parados-en-una-duna-de-corralejo.webp
+  alt: 'Buggies stopped on a Corralejo dune'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-en-lo-alto-de-una-colina-volcanica.webp
+  alt: 'Buggy on top of a volcanic hill'
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

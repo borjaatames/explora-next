@@ -77,6 +77,10 @@ galeria:
   alt: "L'isola di Lobos davanti alla spiaggia, con i kitesurfisti"
 - src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp"
   alt: "L'Isola di Lobos vista dal mare"
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/delfines-nadando-en-mar-abierto-frente-a-corralejo.webp
+  alt: 'Delfini in mare aperto al largo di Corralejo'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/pareja-a-bordo-durante-la-salida-en-barco.webp
+  alt: 'Coppia a bordo durante l''uscita in barca'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

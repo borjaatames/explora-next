@@ -66,6 +66,8 @@ galeria:
   alt: Famara cliffs seen from La Caleta de Famara
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfers in the shallows waiting for waves
+- src: /images/actividades/lanzarote/prov-zoopark-famara/dos-alumnas-surfeando-juntas-en-famara.webp
+  alt: 'Two students surfing together at Famara'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

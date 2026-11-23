@@ -72,6 +72,18 @@ galeria:
   alt: Surfistas mar adentro vistos desde la playa
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Clase de surf remando mar adentro sobre las tablas
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Alumna surfeando una ola en Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'Grupo de la escuela con sus tablas en la orilla'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Alumna de pie en la tabla en la espuma'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Surfista principiante cogiendo una ola'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Instructora y alumna en la orilla'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Alumna entrando al mar con la tabla'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

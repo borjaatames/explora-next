@@ -95,6 +95,8 @@ galeria:
   alt: 'La playa de Cofete y el pico del Islote'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Morro Jable y la playa del Matorral desde la montaña'
+- src: /images/actividades/fuerteventura/prov-vip-cofete-by-dogo-canario-ger/playa-de-cofete-en-el-sur-de-fuerteventura.webp
+  alt: 'Playa de Cofete en el sur de Fuerteventura'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

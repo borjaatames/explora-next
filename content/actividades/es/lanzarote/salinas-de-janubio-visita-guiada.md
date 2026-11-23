@@ -98,6 +98,12 @@ galeria:
   alt: "Panorámica de las Salinas de Janubio y su laguna"
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: "Los Hervideros, acantilados de lava junto al mar"
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/salinero-trabajando-entre-montones-de-sal-en-janubio.webp
+  alt: 'Salinero trabajando entre montones de sal en Janubio'
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/recogida-tradicional-de-sal-en-las-salinas.webp
+  alt: 'Recogida tradicional de sal en las salinas'
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/flor-de-sal-de-janubio-en-la-mano.webp
+  alt: 'Flor de sal de Janubio en la mano'
 ---
 
 ## Qué vas a ver

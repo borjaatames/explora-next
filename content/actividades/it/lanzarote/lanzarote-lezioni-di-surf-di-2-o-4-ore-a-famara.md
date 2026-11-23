@@ -66,6 +66,8 @@ galeria:
   alt: Le scogliere di Famara viste da La Caleta de Famara
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfisti in acqua bassa in attesa delle onde
+- src: /images/actividades/lanzarote/prov-zoopark-famara/dos-alumnas-surfeando-juntas-en-famara.webp
+  alt: 'Due allieve che surfano insieme a Famara'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

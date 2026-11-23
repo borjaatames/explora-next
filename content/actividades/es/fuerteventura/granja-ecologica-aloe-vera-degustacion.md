@@ -102,6 +102,12 @@ galeria:
   alt: "Dunas de Corralejo con Lobos y Lanzarote en el horizonte"
 - src: "/images/actividades/fuerteventura/zonas/bahia-corralejo.webp"
   alt: "Bahía de Corralejo"
+- src: /images/actividades/fuerteventura/prov-verdeaurora/visitantes-en-la-granja-entre-plantas-de-aloe-vera.webp
+  alt: 'Visitantes en la granja entre plantas de aloe vera'
+- src: /images/actividades/fuerteventura/prov-verdeaurora/degustacion-de-productos-ecologicos-en-la-granja.webp
+  alt: 'Degustación de productos ecológicos en la granja'
+- src: /images/actividades/fuerteventura/prov-verdeaurora/productos-de-aloe-vera-elaborados-en-la-finca.webp
+  alt: 'Productos de aloe vera elaborados en la finca'
 ---
 
 ## Qué vas a ver

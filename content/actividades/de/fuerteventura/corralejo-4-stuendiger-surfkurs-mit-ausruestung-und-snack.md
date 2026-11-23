@@ -71,6 +71,14 @@ galeria:
   alt: Luftaufnahme eines Surfkurses im Meer
 - src: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
   alt: Surfer im flachen Wasser am Strand
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/surfista-en-la-espuma-durante-la-clase-en-corralejo.webp
+  alt: 'Surfer im Weißwasser beim Kurs in Corralejo'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/alumnos-surfeando-frente-a-los-volcanes-del-norte.webp
+  alt: 'Schüler surfen vor den Vulkanen im Norden'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/olas-rompiendo-junto-a-la-costa-rocosa-del-norte-de-fue.webp
+  alt: 'Brechende Wellen an der Felsküste im Norden Fuerteventuras'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/ola-perfecta-en-mar-abierto.webp
+  alt: 'Perfekte Welle auf offenem Meer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

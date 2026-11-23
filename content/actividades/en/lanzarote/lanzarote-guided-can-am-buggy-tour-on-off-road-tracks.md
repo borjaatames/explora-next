@@ -67,6 +67,18 @@ galeria:
   alt: Volcanic slope covered in lichen at Timanfaya
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
   alt: Papagayo coast with volcanic mountains behind
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-can-am-junto-al-mar-en-lanzarote.webp
+  alt: 'Can-Am buggies by the sea in Lanzarote'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-junto-a-un-cono-volcanico.webp
+  alt: 'Buggy next to a volcanic cone'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/fila-de-buggies-por-una-pista-de-tierra.webp
+  alt: 'Line of buggies on a dirt track'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-en-la-arena-con-las-montanas-al-fondo.webp
+  alt: 'Buggy on the sand with mountains behind'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-recorriendo-pistas-volcanicas.webp
+  alt: 'Buggies driving volcanic tracks'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-can-am-biplaza.webp
+  alt: 'Two-seater Can-Am buggy'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -95,6 +95,8 @@ galeria:
   alt: 'Cofete beach and El Islote peak'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Morro Jable beach'
+- src: /images/actividades/fuerteventura/prov-vip-cofete-by-dogo-canario-ger/playa-de-cofete-en-el-sur-de-fuerteventura.webp
+  alt: 'Cofete beach in southern Fuerteventura'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

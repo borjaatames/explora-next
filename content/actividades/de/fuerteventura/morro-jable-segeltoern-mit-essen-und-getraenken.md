@@ -71,6 +71,10 @@ galeria:
   alt: Segelboot unter vollen Segeln
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Strand von Morro Jable
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/velero-navegando-frente-a-la-costa-de-morro-jable.webp
+  alt: 'Segelboot vor der Küste von Morro Jable'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/pasajeros-comiendo-a-bordo-del-velero.webp
+  alt: 'Passagiere beim Mittagessen an Bord des Segelboots'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

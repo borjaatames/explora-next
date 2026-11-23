@@ -72,6 +72,18 @@ galeria:
   alt: Surfer weit draußen im Meer vom Strand aus gesehen
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Surfkurs paddelt auf den Brettern hinaus
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Schülerin surft eine Welle auf Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'Schulgruppe mit Brettern am Ufer'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Schülerin steht im Weißwasser auf dem Brett'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Surfanfängerin erwischt eine Welle'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Lehrerin und Schülerin am Ufer'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Schülerin geht mit dem Brett ins Meer'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -68,6 +68,18 @@ galeria:
   alt: Lanzarote's south coast by the Papagayo beaches
 - src: /images/actividades/lanzarote/zonas/arrecife-casas.webp
   alt: White houses by the water in Arrecife
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/lancha-rapida-amarilla-en-el-puerto-de-puerto-del-carme.webp
+  alt: 'Yellow speedboat in Puerto del Carmen harbour'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/delfines-nadando-junto-a-la-lancha.webp
+  alt: 'Dolphins swimming beside the speedboat'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajera-senalando-cetaceos-desde-la-borda.webp
+  alt: 'Passenger pointing out cetaceans from the rail'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajeros-a-bordo-de-la-lancha-rapida.webp
+  alt: 'Passengers on board the speedboat'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajeras-contemplando-el-mar-desde-la-cubierta.webp
+  alt: 'Passengers gazing at the sea from the deck'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/delfin-asomando-junto-a-la-proa.webp
+  alt: 'Dolphin surfacing next to the bow'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

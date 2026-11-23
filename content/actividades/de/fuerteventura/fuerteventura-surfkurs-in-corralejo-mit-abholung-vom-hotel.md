@@ -61,6 +61,10 @@ galeria:
   alt: Boote im Hafen von Corralejo
 - src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
   alt: Silhouette eines Surfers mit Brett am Strand
+- src: /images/actividades/fuerteventura/prov-surf-therapy/clase-teorica-en-la-playa-con-la-isla-de-lobos-al-fondo.webp
+  alt: 'Theoriestunde am Strand mit der Insel Lobos im Hintergrund'
+- src: /images/actividades/fuerteventura/prov-surf-therapy/alumnos-preparandose-junto-a-la-furgoneta-de-la-escuela.webp
+  alt: 'Schüler machen sich am Schulbus bereit'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

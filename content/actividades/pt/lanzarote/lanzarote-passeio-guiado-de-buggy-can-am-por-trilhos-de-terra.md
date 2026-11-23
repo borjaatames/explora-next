@@ -67,6 +67,18 @@ galeria:
   alt: Encosta vulcânica coberta de líquenes em Timanfaya
 - src: /images/actividades/lanzarote/papagayo/flz-costa-montana.webp
   alt: Costa de Papagayo com montanhas vulcânicas ao fundo
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-can-am-junto-al-mar-en-lanzarote.webp
+  alt: 'Buggies Can-Am junto ao mar em Lanzarote'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-junto-a-un-cono-volcanico.webp
+  alt: 'Buggy junto a um cone vulcânico'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/fila-de-buggies-por-una-pista-de-tierra.webp
+  alt: 'Fila de buggies numa pista de terra'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-en-la-arena-con-las-montanas-al-fondo.webp
+  alt: 'Buggy na areia com as montanhas ao fundo'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggies-recorriendo-pistas-volcanicas.webp
+  alt: 'Buggies a percorrer pistas vulcânicas'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/buggy-can-am-biplaza.webp
+  alt: 'Buggy Can-Am de dois lugares'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

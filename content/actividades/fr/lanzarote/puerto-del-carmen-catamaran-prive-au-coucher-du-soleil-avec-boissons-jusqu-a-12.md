@@ -68,6 +68,12 @@ galeria:
   alt: Falaises de lave à Los Hervideros avec des volcans en arrière-plan
 - src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
   alt: Maisons blanches aux portes bleues face à la mer à Lanzarote
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamaran au mouillage au coucher du soleil'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamaran dans une crique aux eaux claires'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkeling à côté du bateau'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -66,6 +66,8 @@ galeria:
   alt: Les falaises de Famara vues depuis La Caleta de Famara
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfeurs dans les vagues du bord attendant la houle
+- src: /images/actividades/lanzarote/prov-zoopark-famara/dos-alumnas-surfeando-juntas-en-famara.webp
+  alt: 'Deux élèves surfant ensemble à Famara'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

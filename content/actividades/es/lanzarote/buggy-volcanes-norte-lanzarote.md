@@ -103,6 +103,8 @@ galeria:
   alt: 'Costa sur de Lanzarote junto a las playas de Papagayo'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: 'Acantilados de lava en Los Hervideros, con volcanes al fondo'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy en una pista de tierra roja'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

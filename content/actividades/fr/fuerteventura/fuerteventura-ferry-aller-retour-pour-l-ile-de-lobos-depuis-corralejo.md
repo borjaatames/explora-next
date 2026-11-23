@@ -54,8 +54,8 @@ keywords:
 - ferry île de lobos
 - lobos corralejo ferry
 - billets île de lobos
-imagen: /images/actividades/fuerteventura/ferry-lobos.webp
-imagenAlt: Ferry de passagers entre Corralejo et l'île de Lobos
+imagen: /images/actividades/fuerteventura/prov-nortour/barco-de-nortour-navegando-hacia-la-isla-de-lobos.webp
+imagenAlt: 'Bateau Nortour naviguant vers l''île de Lobos'
 galeria:
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: Vue aérienne de l'île de Lobos
@@ -71,6 +71,18 @@ galeria:
   alt: L'île de Lobos vue depuis la mer
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-atardecer.webp
   alt: L'île de Lobos au crépuscule
+- src: /images/actividades/fuerteventura/ferry-lobos.webp
+  alt: 'Ferry de passagers entre Corralejo et l''île de Lobos'
+- src: /images/actividades/fuerteventura/prov-nortour/ferry-con-la-montana-de-lobos-al-fondo.webp
+  alt: 'Ferry avec la montagne de Lobos en arrière-plan'
+- src: /images/actividades/fuerteventura/prov-nortour/pasajeros-desembarcando-en-el-muelle-de-lobos.webp
+  alt: 'Passagers débarquant au quai de Lobos'
+- src: /images/actividades/fuerteventura/prov-nortour/montana-de-la-caldera-de-lobos-desde-el-aire.webp
+  alt: 'La montagne de La Caldera à Lobos vue du ciel'
+- src: /images/actividades/fuerteventura/prov-nortour/senderistas-recorriendo-la-isla-de-lobos.webp
+  alt: 'Randonneurs explorant l''île de Lobos'
+- src: /images/actividades/fuerteventura/prov-nortour/playa-de-la-concha-en-la-isla-de-lobos.webp
+  alt: 'Plage de La Concha sur l''île de Lobos'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -68,6 +68,12 @@ galeria:
   alt: Scogliere di lava a Los Hervideros con i vulcani sullo sfondo
 - src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
   alt: Case bianche con porte blu affacciate sul mare a Lanzarote
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamarano ancorato al tramonto'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamarano in una caletta dalle acque limpide'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Snorkeling accanto alla barca'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

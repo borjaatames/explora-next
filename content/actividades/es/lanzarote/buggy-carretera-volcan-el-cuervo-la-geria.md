@@ -106,6 +106,8 @@ galeria:
   alt: 'Viñedo de hoyos con muros de piedra al pie de un volcán en La Geria'
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
   alt: 'Paisaje del Parque Nacional de Timanfaya con el mar al fondo'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy en una pista de tierra roja'
 ---
 
 ## Qué vas a ver

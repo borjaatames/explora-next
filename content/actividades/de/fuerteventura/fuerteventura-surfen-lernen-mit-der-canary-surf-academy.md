@@ -69,6 +69,12 @@ galeria:
   alt: Dünen von Corralejo am Meer
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfer im flachen Wasser warten auf Wellen
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/monitores-observando-a-una-alumna-surfear.webp
+  alt: 'Lehrer beobachten eine Schülerin beim Surfen'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/instructor-ayudando-a-un-alumno-en-el-agua.webp
+  alt: 'Lehrer hilft einem Schüler im Wasser'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/alumna-de-pie-en-la-tabla-en-aguas-turquesa.webp
+  alt: 'Schülerin steht in türkisem Wasser auf dem Brett'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

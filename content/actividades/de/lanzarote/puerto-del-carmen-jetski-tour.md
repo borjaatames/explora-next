@@ -113,6 +113,8 @@ galeria:
   alt: Jetski vom Lenker aus gesehen
 - src: /images/actividades/lanzarote/moto-de-agua/x-moto-agua-wikimedia-06.webp
   alt: Fahrer auf einem Jetski
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/pareja-en-moto-de-agua-junto-a-la-costa-volcanica.webp
+  alt: 'Paar auf einem Jetski an der Vulkanküste'
 ---
 
 ## Was du siehst

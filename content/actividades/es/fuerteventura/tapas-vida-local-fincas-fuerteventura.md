@@ -98,6 +98,10 @@ galeria:
   alt: 'Elaboración de queso fresco de cabra en una quesería'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
   alt: 'Ensalada con queso de cabra e higos'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/tapas-canarias-servidas-junto-al-mar.webp
+  alt: 'Tapas canarias servidas junto al mar'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/mesa-preparada-en-una-finca-local.webp
+  alt: 'Mesa preparada en una finca local'
 ---
 
 ## Qué vas a ver

@@ -68,6 +68,10 @@ galeria:
   alt: Vulkankegel im Norden Fuerteventuras
 - src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
   alt: Die Kirche von Betancuria
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/sendero-de-ajuy-junto-a-los-acantilados.webp
+  alt: 'Wanderweg von Ajuy entlang der Klippen'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/playa-y-costa-de-ajuy.webp
+  alt: 'Strand und Küste von Ajuy'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

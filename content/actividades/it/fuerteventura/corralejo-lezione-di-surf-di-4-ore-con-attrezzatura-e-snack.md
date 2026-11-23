@@ -71,6 +71,14 @@ galeria:
   alt: Vista aerea di una lezione di surf in mare
 - src: /images/actividades/fuerteventura/surf-corralejo/surfistas-en-la-orilla.webp
   alt: Surfisti sulla riva
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/surfista-en-la-espuma-durante-la-clase-en-corralejo.webp
+  alt: 'Surfista sulla schiuma durante la lezione a Corralejo'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/alumnos-surfeando-frente-a-los-volcanes-del-norte.webp
+  alt: 'Allievi che surfano davanti ai vulcani del nord'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/olas-rompiendo-junto-a-la-costa-rocosa-del-norte-de-fue.webp
+  alt: 'Onde che si infrangono sulla costa rocciosa del nord di Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-freesurfers-school/ola-perfecta-en-mar-abierto.webp
+  alt: 'Onda perfetta in mare aperto'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

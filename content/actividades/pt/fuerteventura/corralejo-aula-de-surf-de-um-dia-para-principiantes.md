@@ -72,6 +72,18 @@ galeria:
   alt: Surfistas ao largo vistos da praia
 - src: /images/actividades/_shared/surf/clase-remando-tablas.webp
   alt: Aula de surf a remar nas pranchas mar adentro
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-surfeando-una-ola-en-fuerteventura.webp
+  alt: 'Aluna a surfar uma onda em Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/grupo-de-la-escuela-con-sus-tablas-en-la-orilla.webp
+  alt: 'Grupo da escola com as pranchas à beira-mar'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-de-pie-en-la-tabla-en-la-espuma.webp
+  alt: 'Aluna de pé na prancha na espuma'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/surfista-principiante-cogiendo-una-ola.webp
+  alt: 'Surfista principiante a apanhar uma onda'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/instructora-y-alumna-en-la-orilla.webp
+  alt: 'Instrutora e aluna à beira-mar'
+- src: /images/actividades/fuerteventura/prov-point-break-watersports-fuerteventura/alumna-entrando-al-mar-con-la-tabla.webp
+  alt: 'Aluna a entrar no mar com a prancha'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

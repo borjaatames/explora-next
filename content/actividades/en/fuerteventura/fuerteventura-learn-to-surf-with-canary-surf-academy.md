@@ -69,6 +69,12 @@ galeria:
   alt: Corralejo dunes next to the sea
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfers in the shallows waiting for waves
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/monitores-observando-a-una-alumna-surfear.webp
+  alt: 'Coaches watching a student surf'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/instructor-ayudando-a-un-alumno-en-el-agua.webp
+  alt: 'Instructor helping a student in the water'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/alumna-de-pie-en-la-tabla-en-aguas-turquesa.webp
+  alt: 'Student standing on the board in turquoise water'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

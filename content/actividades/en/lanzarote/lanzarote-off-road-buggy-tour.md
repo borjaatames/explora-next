@@ -103,6 +103,8 @@ galeria:
   alt: 'Lanzarote''s south coast by the Papagayo beaches'
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: 'Los Hervideros, lava cliffs by the sea'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy on a red dirt track'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

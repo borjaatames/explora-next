@@ -79,6 +79,18 @@ galeria:
   alt: "Die Isla de Lobos in der Abenddämmerung"
 - src: "/images/actividades/fuerteventura/zonas/isla-de-lobos-costa.webp"
   alt: "Felsküste der Isla de Lobos aus der Luft"
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/catamaran-barracuda-perdomo-navegando-a-vela.webp
+  alt: 'Katamaran Barracuda Perdomo unter Segeln'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/catamaran-frente-a-la-isla-de-lobos.webp
+  alt: 'Katamaran vor der Insel Lobos'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/catamaran-a-vela-con-la-montana-de-lobos.webp
+  alt: 'Segelkatamaran mit dem Berg von Lobos'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/padel-surf-en-las-aguas-poco-profundas-de-lobos.webp
+  alt: 'Stand-up-Paddling im flachen Wasser von Lobos'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/esnorquel-en-grupo-junto-al-catamaran.webp
+  alt: 'Gruppenschnorcheln neben dem Katamaran'
+- src: /images/actividades/fuerteventura/prov-barracuda-perdomo/barco-fondeado-con-banistas-en-aguas-turquesa.webp
+  alt: 'Boot vor Anker mit Badenden in türkisem Wasser'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

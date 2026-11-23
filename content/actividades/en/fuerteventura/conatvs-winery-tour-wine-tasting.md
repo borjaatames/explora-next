@@ -76,8 +76,8 @@ publicada: true
 destacada: false
 fecha: '2026-10-31'
 fecha_actualizacion: '2026-10-31'
-imagen: /images/actividades/alicante/vino/cata-tinto.webp
-imagenAlt: "Red wine tasting served in small carafes"
+imagen: /images/actividades/fuerteventura/prov-bodega-conatvs/entrada-de-las-bodegas-conatvs-en-fuerteventura.webp
+imagenAlt: 'Entrance to Bodegas Conatvs in Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/bodega/ffv-racimos-uva-vina.webp
   alt: "Bunches of red grapes on the vine"
@@ -93,6 +93,18 @@ galeria:
   alt: "Rows of barrels"
 - src: /images/actividades/alicante/vino/barricas.webp
   alt: "Wine barrels in a winery"
+- src: /images/actividades/alicante/vino/cata-tinto.webp
+  alt: 'Red wine tasting served in small carafes'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/copas-de-vino-de-la-cata-sobre-la-piedra.webp
+  alt: 'Tasting glasses of wine on the stone'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/familia-paseando-entre-las-vinas.webp
+  alt: 'Family walking among the vines'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/vinedo-de-conatvs-al-atardecer.webp
+  alt: 'Conatvs vineyard at sunset'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/vendimia-en-las-vinas-del-interior-de-fuerteventura.webp
+  alt: 'Grape harvest in the vineyards of inland Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-bodega-conatvs/racimos-de-uva-tinta-en-la-cepa.webp
+  alt: 'Bunches of red grapes on the vine'
 ---
 
 ## What you will see

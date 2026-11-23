@@ -54,8 +54,8 @@ keywords:
 - traghetto lobos corralejo
 - oby traghetto lobos
 - barca isola di lobos
-imagen: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
-imagenAlt: Barche da escursione nel porto di Corralejo
+imagen: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/barco-con-fondo-de-cristal-hacia-la-isla-de-lobos.webp
+imagenAlt: 'Barca dal fondo di vetro verso l''isola di Lobos'
 galeria:
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos.webp
   alt: L'isola di Lobos vista dalla costa di Fuerteventura
@@ -71,6 +71,12 @@ galeria:
   alt: La baia di Corralejo con Lobos sullo sfondo
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: Vista aerea dell'Isola di Lobos
+- src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
+  alt: 'Barche da escursione nel porto di Corralejo'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/padel-surf-y-kayak-frente-a-la-isla-de-lobos.webp
+  alt: 'SUP e kayak davanti all''isola di Lobos'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/catamaran-fondeado-junto-a-la-costa-de-lobos.webp
+  alt: 'Catamarano ancorato lungo la costa di Lobos'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

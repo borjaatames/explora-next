@@ -76,6 +76,10 @@ galeria:
   alt: Un jet-ski filant sur les vagues
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Jet-skis amarrés à un ponton flottant
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Couple en jet-ski au large de Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Port de plaisance de Caleta de Fuste vu du ciel'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

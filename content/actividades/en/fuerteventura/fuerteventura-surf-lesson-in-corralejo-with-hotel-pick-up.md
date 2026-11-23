@@ -61,6 +61,10 @@ galeria:
   alt: Boats in Corralejo harbour
 - src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
   alt: Silhouette of a surfer holding a board on the beach
+- src: /images/actividades/fuerteventura/prov-surf-therapy/clase-teorica-en-la-playa-con-la-isla-de-lobos-al-fondo.webp
+  alt: 'Theory lesson on the beach with Lobos island behind'
+- src: /images/actividades/fuerteventura/prov-surf-therapy/alumnos-preparandose-junto-a-la-furgoneta-de-la-escuela.webp
+  alt: 'Students getting ready by the school van'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

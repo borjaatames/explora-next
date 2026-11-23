@@ -68,6 +68,12 @@ galeria:
   alt: Barcos en el puerto de Corralejo
 - src: /images/actividades/fuerteventura/delfines/ffv-calderones-aletas.webp
   alt: Grupo de calderones nadando en la superficie
+- src: /images/actividades/fuerteventura/prov-bj-fishing/pasajeros-observando-delfines-desde-la-proa-del-barco.webp
+  alt: 'Pasajeros observando delfines desde la proa del barco'
+- src: /images/actividades/fuerteventura/prov-bj-fishing/barco-de-excursion-navegando-frente-a-fuerteventura.webp
+  alt: 'Barco de excursión navegando frente a Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-bj-fishing/delfines-saltando-en-mar-abierto.webp
+  alt: 'Delfines saltando en mar abierto'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

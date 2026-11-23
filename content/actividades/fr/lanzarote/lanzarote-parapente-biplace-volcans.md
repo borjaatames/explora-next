@@ -109,6 +109,18 @@ galeria:
   alt: "Vol en parapente biplace"
 - src: /images/actividades/lanzarote/parapente/x-parapente-wikimedia-01.webp
   alt: "Parapentiste se préparant à décoller en montagne"
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-biplaza-sobre-el-mar-en-lanzarote.webp
+  alt: 'Parapente biplace au-dessus de la mer à Lanzarote'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/vuelo-en-parapente-sobre-la-playa-de-famara.webp
+  alt: 'Vol en parapente au-dessus de la plage de Famara'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/parapente-sobre-arrecifes-de-aguas-turquesa.webp
+  alt: 'Parapente au-dessus de récifs aux eaux turquoise'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/piloto-y-pasajero-sobrevolando-la-costa.webp
+  alt: 'Pilote et passager survolant la côte'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/pasajeras-listas-en-la-zona-de-despegue-de-famara.webp
+  alt: 'Passagères prêtes sur l''aire de décollage de Famara'
+- src: /images/actividades/lanzarote/prov-lanzafly-tandem-paragliding/selfi-en-pleno-vuelo-sobre-los-acantilados.webp
+  alt: 'Selfie en plein vol au-dessus des falaises'
 ---
 
 ## Ce que vous verrez

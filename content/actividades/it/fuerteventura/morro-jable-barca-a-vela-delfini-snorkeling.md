@@ -106,6 +106,18 @@ galeria:
   alt: "Catamarani a vela sulla spiaggia di Morro Jable"
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: "La spiaggia di Morro Jable"
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/velero-fondeado-en-aguas-turquesa-de-fuerteventura.webp
+  alt: 'Barca a vela ancorata nelle acque turchesi di Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/grupo-de-delfines-nadando-junto-a-la-proa-del-velero.webp
+  alt: 'Gruppo di delfini che nuota a prua della barca a vela'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-mirando-un-delfin-desde-la-borda.webp
+  alt: 'Passeggeri che guardano un delfino dal parapetto'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/brindis-a-bordo-del-velero.webp
+  alt: 'Brindisi a bordo della barca a vela'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/esnorquel-en-aguas-cristalinas.webp
+  alt: 'Snorkeling in acque cristalline'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-en-la-cubierta-del-velero-navegando.webp
+  alt: 'Passeggeri sul ponte durante la navigazione'
 ---
 
 ## Cosa vedrai

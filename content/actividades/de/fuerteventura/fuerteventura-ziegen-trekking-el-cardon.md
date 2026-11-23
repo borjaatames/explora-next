@@ -105,6 +105,12 @@ galeria:
   alt: 'Salat mit Ziegenkäse und Feigen'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Strand von Morro Jable'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderistas-caminando-junto-a-cabras-majoreras.webp
+  alt: 'Wanderer mit Majorero-Ziegen unterwegs'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderista-con-baston-en-una-cresta-volcanica.webp
+  alt: 'Wanderin mit Stock auf einem Vulkangrat'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/grupo-de-senderismo-en-la-costa-de-fuerteventura.webp
+  alt: 'Wandergruppe an der Küste Fuerteventuras'
 ---
 
 ## Was du siehst

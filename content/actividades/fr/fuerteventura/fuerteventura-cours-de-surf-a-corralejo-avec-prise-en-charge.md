@@ -61,6 +61,10 @@ galeria:
   alt: Bateaux dans le port de Corralejo
 - src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
   alt: Silhouette d'un surfeur tenant sa planche sur la plage
+- src: /images/actividades/fuerteventura/prov-surf-therapy/clase-teorica-en-la-playa-con-la-isla-de-lobos-al-fondo.webp
+  alt: 'Cours théorique sur la plage avec l''île de Lobos en fond'
+- src: /images/actividades/fuerteventura/prov-surf-therapy/alumnos-preparandose-junto-a-la-furgoneta-de-la-escuela.webp
+  alt: 'Élèves se préparant près du van de l''école'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

@@ -105,6 +105,12 @@ galeria:
   alt: 'Salad with goat cheese and figs'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Morro Jable beach'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderistas-caminando-junto-a-cabras-majoreras.webp
+  alt: 'Hikers walking alongside Majorero goats'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/senderista-con-baston-en-una-cresta-volcanica.webp
+  alt: 'Hiker with a staff on a volcanic ridge'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/grupo-de-senderismo-en-la-costa-de-fuerteventura.webp
+  alt: 'Hiking group on the Fuerteventura coast'
 ---
 
 ## What you will see

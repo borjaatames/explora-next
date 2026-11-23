@@ -48,8 +48,8 @@ keywords:
 - schnuppertauchen fuerteventura
 - tauchen fuerteventura anfänger
 - tauchen costa calma
-imagen: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
-imagenAlt: Tauchboote vom Wasser aus gesehen
+imagen: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceador-junto-a-un-banco-de-peces-amarillos-en-fuertev.webp
+imagenAlt: 'Taucher neben einem Schwarm gelber Fische auf Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
   alt: Person beim Schnorcheln über felsigem Meeresgrund
@@ -65,6 +65,18 @@ galeria:
   alt: Schnorchler über felsigem Meeresgrund
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Strand von Morro Jable
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Tauchboote vom Wasser aus gesehen'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/primeros-ejercicios-de-buceo-en-la-piscina.webp
+  alt: 'Erste Tauchübungen im Pool'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceadores-entrando-al-mar-desde-la-orilla.webp
+  alt: 'Taucher gehen vom Ufer ins Meer'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/morena-asomando-entre-las-rocas.webp
+  alt: 'Muräne lugt zwischen den Felsen hervor'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/mero-sobre-el-fondo-arenoso.webp
+  alt: 'Zackenbarsch auf dem Sandgrund'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/chucho-descansando-en-la-arena.webp
+  alt: 'Stachelrochen ruht im Sand'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

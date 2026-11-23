@@ -106,6 +106,18 @@ galeria:
   alt: "Catamarans à voile sur la plage de Morro Jable"
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: "La plage de Morro Jable"
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/velero-fondeado-en-aguas-turquesa-de-fuerteventura.webp
+  alt: 'Voilier au mouillage dans les eaux turquoise de Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/grupo-de-delfines-nadando-junto-a-la-proa-del-velero.webp
+  alt: 'Groupe de dauphins nageant à la proue du voilier'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-mirando-un-delfin-desde-la-borda.webp
+  alt: 'Passagers regardant un dauphin depuis le bastingage'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/brindis-a-bordo-del-velero.webp
+  alt: 'Toast à bord du voilier'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/esnorquel-en-aguas-cristalinas.webp
+  alt: 'Snorkeling dans une eau cristalline'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-en-la-cubierta-del-velero-navegando.webp
+  alt: 'Passagers sur le pont pendant la navigation'
 ---
 
 ## Ce que vous verrez

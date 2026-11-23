@@ -106,6 +106,8 @@ galeria:
   alt: 'Vineyard of pits with stone walls at the foot of a volcano in La Geria'
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
   alt: 'Timanfaya National Park with the sea behind'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy on a red dirt track'
 ---
 
 ## What you will see

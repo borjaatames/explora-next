@@ -72,6 +72,12 @@ galeria:
   alt: Papagayo coast with volcanic mountains behind
 - src: /images/actividades/lanzarote/zonas/playa-blanca.webp
   alt: Playa Blanca in southern Lanzarote
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/roadsters-polaris-aparcados-entre-la-lava.webp
+  alt: 'Polaris roadsters parked among the lava'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/roadsters-frente-a-los-riscos-de-famara.webp
+  alt: 'Roadsters in front of the Famara cliffs'
+- src: /images/actividades/lanzarote/prov-aventura-lanzabuggy/roadster-polaris-slingshot-rojo.webp
+  alt: 'Red Polaris Slingshot roadster'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

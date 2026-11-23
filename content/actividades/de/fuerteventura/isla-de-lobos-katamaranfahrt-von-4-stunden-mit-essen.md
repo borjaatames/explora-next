@@ -57,8 +57,8 @@ keywords:
 - katamaran isla de lobos
 - bootsausflug lobos mittagessen
 - katamaran corralejo paella
-imagen: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barca-fondo-cristal-orilla.webp
-imagenAlt: Kleines Glasbodenboot in türkisfarbenem Wasser
+imagen: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/catamaran-rojo-navegando-con-pasajeros-hacia-lobos.webp
+imagenAlt: 'Roter Katamaran mit Passagieren auf dem Weg nach Lobos'
 galeria:
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
   alt: Luftaufnahme der Isla de Lobos
@@ -74,6 +74,18 @@ galeria:
   alt: Der Berg La Caldera auf der Isla de Lobos
 - src: /images/actividades/fuerteventura/zonas/puerto-corralejo-barcos.webp
   alt: Boote im Hafen von Corralejo
+- src: /images/actividades/fuerteventura/barco-fondo-cristal/ffv-barca-fondo-cristal-orilla.webp
+  alt: 'Kleines Glasbodenboot in türkisfarbenem Wasser'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/catamaran-a-vela-con-la-montana-de-lobos-al-fondo.webp
+  alt: 'Segelkatamaran mit dem Berg von Lobos im Hintergrund'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/catamaran-fondeado-en-aguas-turquesa.webp
+  alt: 'Katamaran vor Anker in türkisem Wasser'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/pasajeros-disfrutando-en-la-cubierta-del-catamaran.webp
+  alt: 'Passagiere genießen das Deck des Katamarans'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/banista-nadando-con-gafas-de-esnorquel.webp
+  alt: 'Schwimmerin beim Schnorcheln'
+- src: /images/actividades/fuerteventura/prov-oby-catamaran-ferry-isla-de-lobos/paella-servida-a-bordo.webp
+  alt: 'An Bord servierte Paella'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

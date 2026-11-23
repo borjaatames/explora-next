@@ -48,8 +48,8 @@ keywords:
 - baptême plongée fuerteventura
 - plongée débutant fuerteventura
 - plongée costa calma
-imagen: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
-imagenAlt: Bateaux de plongée vus depuis l'eau
+imagen: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceador-junto-a-un-banco-de-peces-amarillos-en-fuertev.webp
+imagenAlt: 'Plongeur près d''un banc de poissons jaunes à Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
   alt: Personne faisant du snorkeling au-dessus d'un fond rocheux
@@ -65,6 +65,18 @@ galeria:
   alt: Personne faisant du snorkeling au-dessus de fonds rocheux
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Morro Jable et la plage du Matorral vues depuis les collines
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Bateaux de plongée vus depuis l''eau'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/primeros-ejercicios-de-buceo-en-la-piscina.webp
+  alt: 'Premiers exercices de plongée en piscine'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceadores-entrando-al-mar-desde-la-orilla.webp
+  alt: 'Plongeurs entrant dans la mer depuis le rivage'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/morena-asomando-entre-las-rocas.webp
+  alt: 'Murène sortant d''entre les rochers'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/mero-sobre-el-fondo-arenoso.webp
+  alt: 'Mérou sur le fond sableux'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/chucho-descansando-en-la-arena.webp
+  alt: 'Raie pastenague posée sur le sable'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

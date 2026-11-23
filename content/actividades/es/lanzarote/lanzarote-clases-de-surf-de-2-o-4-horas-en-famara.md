@@ -66,6 +66,8 @@ galeria:
   alt: Risco de Famara visto desde La Caleta de Famara
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfistas en la orilla esperando olas
+- src: /images/actividades/lanzarote/prov-zoopark-famara/dos-alumnas-surfeando-juntas-en-famara.webp
+  alt: 'Dos alumnas surfeando juntas en Famara'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

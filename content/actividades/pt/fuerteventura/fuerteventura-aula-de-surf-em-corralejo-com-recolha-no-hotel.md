@@ -61,6 +61,10 @@ galeria:
   alt: Barcos no porto de Corralejo
 - src: /images/actividades/_shared/surf/silueta-surfista-playa.webp
   alt: Silhueta de um surfista com a prancha na praia
+- src: /images/actividades/fuerteventura/prov-surf-therapy/clase-teorica-en-la-playa-con-la-isla-de-lobos-al-fondo.webp
+  alt: 'Aula teórica na praia com a ilha de Lobos ao fundo'
+- src: /images/actividades/fuerteventura/prov-surf-therapy/alumnos-preparandose-junto-a-la-furgoneta-de-la-escuela.webp
+  alt: 'Alunos a preparar-se junto à carrinha da escola'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

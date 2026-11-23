@@ -68,6 +68,10 @@ galeria:
   alt: Volcanic cones in northern Fuerteventura
 - src: /images/actividades/fuerteventura/zonas/betancuria-iglesia.webp
   alt: The church of Betancuria
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/sendero-de-ajuy-junto-a-los-acantilados.webp
+  alt: 'Ajuy trail along the cliffs'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/playa-y-costa-de-ajuy.webp
+  alt: 'Ajuy beach and coastline'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

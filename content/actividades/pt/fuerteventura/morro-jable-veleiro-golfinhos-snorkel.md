@@ -102,6 +102,18 @@ galeria:
   alt: "Catamarãs à vela na praia de Morro Jable"
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: "Praia de Morro Jable"
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/velero-fondeado-en-aguas-turquesa-de-fuerteventura.webp
+  alt: 'Veleiro fundeado nas águas turquesa de Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/grupo-de-delfines-nadando-junto-a-la-proa-del-velero.webp
+  alt: 'Grupo de golfinhos a nadar junto à proa do veleiro'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-mirando-un-delfin-desde-la-borda.webp
+  alt: 'Passageiros a ver um golfinho da amurada'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/brindis-a-bordo-del-velero.webp
+  alt: 'Brinde a bordo do veleiro'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/esnorquel-en-aguas-cristalinas.webp
+  alt: 'Snorkel em águas cristalinas'
+- src: /images/actividades/fuerteventura/prov-flounder-yacht-sailing/pasajeros-en-la-cubierta-del-velero-navegando.webp
+  alt: 'Passageiros no convés durante a navegação'
 avisoReserva: "A tripulação ou o guia fala inglês, espanhol e alemão: não há explicações em português."
 ---
 

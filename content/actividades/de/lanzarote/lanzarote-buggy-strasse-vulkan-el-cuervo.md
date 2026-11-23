@@ -106,6 +106,8 @@ galeria:
   alt: Weinfeld mit Mulden und Steinmauern am Fuß eines Vulkans in La Geria
 - src: /images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp
   alt: Nationalpark Timanfaya mit dem Meer im Hintergrund
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy auf einer roten Erdpiste'
 ---
 
 ## Was du siehst

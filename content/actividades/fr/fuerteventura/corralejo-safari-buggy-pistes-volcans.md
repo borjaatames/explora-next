@@ -100,6 +100,16 @@ galeria:
   alt: 'Morro Jable et la plage du Matorral vues depuis les collines'
 - src: /images/actividades/fuerteventura/zonas/bahia-corralejo.webp
   alt: 'La baie de Corralejo avec Lobos en arrière-plan'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-levantando-arena-en-las-pistas-de-fuerteventura.webp
+  alt: 'Buggy soulevant le sable sur les pistes de Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/dos-buggies-entre-volcanes-del-norte.webp
+  alt: 'Deux buggies parmi les volcans du nord'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-frente-a-una-montana-volcanica.webp
+  alt: 'Buggy devant une montagne volcanique'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggies-parados-en-una-duna-de-corralejo.webp
+  alt: 'Buggies arrêtés sur une dune de Corralejo'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-en-lo-alto-de-una-colina-volcanica.webp
+  alt: 'Buggy au sommet d''une colline volcanique'
 ratingProveedor: 4.6
 numeroOpiniones: 1558
 atraccionesRelacionadas:

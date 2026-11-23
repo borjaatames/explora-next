@@ -103,6 +103,8 @@ galeria:
   alt: Die Südküste Lanzarotes bei den Stränden von Papagayo
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: Los Hervideros, Lavaklippen am Meer
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/buggy-en-una-pista-de-tierra-roja.webp
+  alt: 'Buggy auf einer roten Erdpiste'
 ratingProveedor: 4.6
 numeroOpiniones: 5653
 atraccionesRelacionadas:

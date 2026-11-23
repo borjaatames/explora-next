@@ -72,6 +72,12 @@ galeria:
   alt: Cala de Papagayo vista desde el acantilado
 - src: /images/actividades/lanzarote/barco-atardecer/banistas-junto-al-barco.webp
   alt: Bañistas nadando junto a un barco fondeado
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamarán fondeado al atardecer'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamarán en una cala de aguas claras'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Esnórquel junto al barco'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

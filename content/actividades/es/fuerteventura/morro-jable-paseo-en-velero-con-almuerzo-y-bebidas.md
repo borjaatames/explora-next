@@ -71,6 +71,10 @@ galeria:
   alt: Velero navegando con las velas desplegadas
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Morro Jable y la playa del Matorral desde la montaña
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/velero-navegando-frente-a-la-costa-de-morro-jable.webp
+  alt: 'Velero navegando frente a la costa de Morro Jable'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-sailing-trips/pasajeros-comiendo-a-bordo-del-velero.webp
+  alt: 'Pasajeros comiendo a bordo del velero'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

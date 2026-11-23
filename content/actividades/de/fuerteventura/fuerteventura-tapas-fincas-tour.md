@@ -99,6 +99,10 @@ galeria:
   alt: 'Herstellung von frischem Ziegenkäse in einer Käserei'
 - src: /images/actividades/fuerteventura/queso/ffv-ensalada-queso-cabra.webp
   alt: 'Salat mit Ziegenkäse und Feigen'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/tapas-canarias-servidas-junto-al-mar.webp
+  alt: 'Kanarische Tapas am Meer serviert'
+- src: /images/actividades/fuerteventura/prov-fuerte-authentic-tours/mesa-preparada-en-una-finca-local.webp
+  alt: 'Gedeckter Tisch auf einer lokalen Finca'
 ---
 
 ## Was du siehst

@@ -77,6 +77,10 @@ galeria:
   alt: "Rote und ockerfarbene Vulkanberge in Timanfaya"
 - src: "/images/actividades/lanzarote/timanfaya/flz-parque-nacional-mar.webp"
   alt: "Nationalpark Timanfaya mit dem Meer im Hintergrund"
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/montanas-de-colores-del-parque-nacional-de-timanfaya.webp
+  alt: 'Farbige Berge im Nationalpark Timanfaya'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/valle-de-haria-con-palmeras-en-el-norte-de-lanzarote.webp
+  alt: 'Tal von Haría mit Palmen im Norden Lanzarotes'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

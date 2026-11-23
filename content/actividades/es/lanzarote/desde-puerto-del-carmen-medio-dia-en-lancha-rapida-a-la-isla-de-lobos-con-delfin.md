@@ -54,8 +54,8 @@ keywords:
 - isla de lobos desde lanzarote
 - lancha rapida lobos delfines
 - excursion en barco puerto del carmen
-imagen: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
-imagenAlt: Vista aérea de la Isla de Lobos
+imagen: /images/actividades/lanzarote/prov-lanzarote-sea-tours/lancha-rapida-amarilla-en-el-puerto-de-puerto-del-carme.webp
+imagenAlt: 'Lancha rápida amarilla en el puerto de Puerto del Carmen'
 galeria:
 - src: /images/actividades/fuerteventura/zonas/isla-de-lobos-mar.webp
   alt: La Isla de Lobos vista desde el mar
@@ -71,6 +71,18 @@ galeria:
   alt: La Isla de Lobos desde la costa de Fuerteventura
 - src: /images/actividades/fuerteventura/isla-lobos/ffv-castillos-arena-lobos.webp
   alt: Castillos de arena en la playa con la Isla de Lobos al fondo
+- src: /images/actividades/fuerteventura/zonas/isla-de-lobos-aerea.webp
+  alt: 'Vista aérea de la Isla de Lobos'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/delfines-nadando-junto-a-la-lancha.webp
+  alt: 'Delfines nadando junto a la lancha'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajera-senalando-cetaceos-desde-la-borda.webp
+  alt: 'Pasajera señalando cetáceos desde la borda'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajeros-a-bordo-de-la-lancha-rapida.webp
+  alt: 'Pasajeros a bordo de la lancha rápida'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/pasajeras-contemplando-el-mar-desde-la-cubierta.webp
+  alt: 'Pasajeras contemplando el mar desde la cubierta'
+- src: /images/actividades/lanzarote/prov-lanzarote-sea-tours/delfin-asomando-junto-a-la-proa.webp
+  alt: 'Delfín asomando junto a la proa'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

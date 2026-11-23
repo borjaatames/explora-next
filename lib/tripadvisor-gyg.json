@@ -1835,6 +1835,170 @@
     "106612": {
       "locationId": "12439559",
       "nombre": "Volcano Roads"
+    },
+    "116668": {
+      "locationId": "2490188",
+      "nombre": "Blackstone Treks & Tours"
+    },
+    "1042258": {
+      "locationId": "25282089",
+      "nombre": "Guía En Lanzarote"
+    },
+    "29984": {
+      "locationId": "2490188",
+      "nombre": "Blackstone Treks & Tours"
+    },
+    "457939": {
+      "locationId": "4544188",
+      "nombre": "Paracraft Lanzarote"
+    },
+    "703035": {
+      "locationId": "4544188",
+      "nombre": "Paracraft Lanzarote"
+    },
+    "400765": {
+      "locationId": "20043762",
+      "nombre": "Geotrekking Lanzarote"
+    },
+    "431758": {
+      "locationId": "23854759",
+      "nombre": "Lava Trekking"
+    },
+    "603941": {
+      "locationId": "3631049",
+      "nombre": "Helidream Helicopters"
+    },
+    "175413": {
+      "locationId": "1571644",
+      "nombre": "Bodegas Monje"
+    },
+    "229867": {
+      "locationId": "3975727",
+      "nombre": "Blue Jack Sail"
+    },
+    "531011": {
+      "locationId": "7106716",
+      "nombre": "Ocean Blue Tenerife"
+    },
+    "435861": {
+      "locationId": "8670825",
+      "nombre": "Picarus Sailing Club"
+    },
+    "765205": {
+      "locationId": "27457407",
+      "nombre": "Justas Vaidogas"
+    },
+    "428824": {
+      "locationId": "5022518",
+      "nombre": "MPC Yacht Charter"
+    },
+    "757405": {
+      "locationId": "28254506",
+      "nombre": "Easy Kayak Tenerife"
+    },
+    "538960": {
+      "locationId": "7106716",
+      "nombre": "Ocean Blue Tenerife"
+    },
+    "617643": {
+      "locationId": "10783241",
+      "nombre": "Bodega El Lomo"
+    },
+    "619298": {
+      "locationId": "27433823",
+      "nombre": "Queseria Montesdeoca"
+    },
+    "414422": {
+      "locationId": "6942896",
+      "nombre": "Natura Xtreme Tenerife"
+    },
+    "910985": {
+      "locationId": "32867392",
+      "nombre": "Astroguide"
+    },
+    "1095659": {
+      "locationId": "25982915",
+      "nombre": "10X. Tenerife eXperience. Hiking Adventure."
+    },
+    "857453": {
+      "locationId": "25229079",
+      "nombre": "Fun Teide Quad"
+    },
+    "1103011": {
+      "locationId": "34677270",
+      "nombre": "Nefertiti Viajes"
+    },
+    "418573": {
+      "locationId": "3419455",
+      "nombre": "Neptuno Whale Experience"
+    },
+    "160484": {
+      "locationId": "6653082",
+      "nombre": "Roulette Luxury Sailboat"
+    },
+    "1226982": {
+      "locationId": "34191051",
+      "nombre": "Magec Tours"
+    },
+    "1148320": {
+      "locationId": "28065922",
+      "nombre": "Infinity Boat Tours Gran Canaria"
+    },
+    "186801": {
+      "locationId": "18276301",
+      "nombre": "Night Skies Tenerife"
+    },
+    "775397": {
+      "locationId": "27952122",
+      "nombre": "Pepe Boat Fishing Lanzarote"
+    },
+    "405847": {
+      "locationId": "3295855",
+      "nombre": "Salinas de Janubio"
+    },
+    "820361": {
+      "locationId": "3161976",
+      "nombre": "The Waverider RIB Experience"
+    },
+    "364665": {
+      "locationId": "2646700",
+      "nombre": "Tonina Cruises"
+    },
+    "407915": {
+      "locationId": "23402702",
+      "nombre": "Shaka Surf School Tenerife"
+    },
+    "1005841": {
+      "locationId": "26865414",
+      "nombre": "YouTenerife"
+    },
+    "1143903": {
+      "locationId": "34530239",
+      "nombre": "Tahodio Avocado Experience"
+    },
+    "547266": {
+      "locationId": "27414532",
+      "nombre": "Santa Marta Boats"
+    },
+    "1073782": {
+      "locationId": "33376098",
+      "nombre": "Trektenerife"
+    },
+    "408684": {
+      "locationId": "23402702",
+      "nombre": "Shaka Surf School Tenerife"
+    },
+    "415622": {
+      "locationId": "23932093",
+      "nombre": "Canarykayaktenerife"
+    },
+    "1348568": {
+      "locationId": "27414532",
+      "nombre": "Santa Marta Boats"
+    },
+    "739141": {
+      "locationId": "25423703",
+      "nombre": "WeWhale Lanzarote"
     }
   }
 }

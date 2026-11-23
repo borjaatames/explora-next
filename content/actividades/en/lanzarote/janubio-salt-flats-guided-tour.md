@@ -98,6 +98,12 @@ galeria:
   alt: "Panorama of the Salinas de Janubio and lagoon"
 - src: /images/actividades/lanzarote/zonas/los-hervideros.webp
   alt: "Los Hervideros, lava cliffs by the sea"
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/salinero-trabajando-entre-montones-de-sal-en-janubio.webp
+  alt: 'Salt worker among piles of salt at Janubio'
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/recogida-tradicional-de-sal-en-las-salinas.webp
+  alt: 'Traditional salt harvesting at the salt pans'
+- src: /images/actividades/lanzarote/prov-salinas-de-janubio/flor-de-sal-de-janubio-en-la-mano.webp
+  alt: 'Janubio flower of salt in the hand'
 ---
 
 ## What you will see

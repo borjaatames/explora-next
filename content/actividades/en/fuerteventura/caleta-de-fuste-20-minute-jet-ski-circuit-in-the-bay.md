@@ -76,6 +76,10 @@ galeria:
   alt: A jet ski riding the waves
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Jet skis moored at a floating dock
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Couple on a jet ski off Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Caleta de Fuste marina from the air'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

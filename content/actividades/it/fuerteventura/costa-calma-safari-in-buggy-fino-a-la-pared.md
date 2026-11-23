@@ -79,6 +79,10 @@ galeria:
   alt: "La costa di Jandía dall'alto"
 - src: "/images/actividades/fuerteventura/zonas/macizo-jandia.webp"
   alt: "Il massiccio di Jandía con le nuvole sulle cime"
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggy-entre-montanas-aridas-del-sur-de-fuerteventura.webp
+  alt: 'Buggy tra le montagne aride del sud di Fuerteventura'
+- src: /images/actividades/fuerteventura/prov-fuerteadventure-excursions/buggies-levantando-polvo-en-una-pista.webp
+  alt: 'Buggy che sollevano polvere su una pista'
 publicada: true
 destacada: false
 fecha: '2026-11-20'

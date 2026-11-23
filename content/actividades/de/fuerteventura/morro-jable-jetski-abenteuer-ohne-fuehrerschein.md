@@ -70,6 +70,10 @@ galeria:
   alt: Küste der Halbinsel Jandía
 - src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
   alt: Strand von Morro Jable
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/moto-de-agua-dejando-estela-en-mar-abierto.webp
+  alt: 'Jetski zieht eine Spur auf offenem Meer'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/dos-motos-de-agua-vistas-desde-el-aire.webp
+  alt: 'Zwei Jetskis aus der Luft'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

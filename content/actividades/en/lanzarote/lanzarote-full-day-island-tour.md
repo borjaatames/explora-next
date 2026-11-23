@@ -95,6 +95,10 @@ galeria:
   alt: 'La Graciosa seen from northern Lanzarote'
 - src: /images/actividades/lanzarote/zonas/costa-sur-papagayo.webp
   alt: 'Lanzarote''s south coast by the Papagayo beaches'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/montanas-de-colores-del-parque-nacional-de-timanfaya.webp
+  alt: 'Colourful mountains of Timanfaya National Park'
+- src: /images/actividades/lanzarote/prov-lanzaroteguides/valle-de-haria-con-palmeras-en-el-norte-de-lanzarote.webp
+  alt: 'Haría valley with palm trees in northern Lanzarote'
 ratingProveedor: 4.7
 numeroOpiniones: 3379
 atraccionesRelacionadas:

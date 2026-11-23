@@ -76,6 +76,10 @@ galeria:
   alt: Ein Jetski auf den Wellen
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Jetskis an einem schwimmenden Steg
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Paar auf einem Jetski vor Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Jachthafen von Caleta de Fuste aus der Luft'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

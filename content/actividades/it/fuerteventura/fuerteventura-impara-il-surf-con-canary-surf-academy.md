@@ -69,6 +69,12 @@ galeria:
   alt: Dune di Corralejo vicino al mare
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfisti in acqua bassa in attesa delle onde
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/monitores-observando-a-una-alumna-surfear.webp
+  alt: 'Istruttori che osservano un''allieva surfare'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/instructor-ayudando-a-un-alumno-en-el-agua.webp
+  alt: 'Istruttore che aiuta un allievo in acqua'
+- src: /images/actividades/fuerteventura/prov-canary-surf-academy/alumna-de-pie-en-la-tabla-en-aguas-turquesa.webp
+  alt: 'Allieva in piedi sulla tavola in acque turchesi'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

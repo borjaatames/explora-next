@@ -76,6 +76,10 @@ galeria:
   alt: Una moto d'acqua che corre sulle onde
 - src: /images/actividades/lanzarote/moto-de-agua/flz-motos-pantalan.webp
   alt: Moto d'acqua ormeggiate a un pontile galleggiante
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/pareja-en-moto-de-agua-frente-a-caleta-de-fuste.webp
+  alt: 'Coppia in moto d''acqua davanti a Caleta de Fuste'
+- src: /images/actividades/fuerteventura/prov-gestion-puerto-castillo/puerto-deportivo-de-caleta-de-fuste-desde-el-aire.webp
+  alt: 'Porto turistico di Caleta de Fuste dall''alto'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

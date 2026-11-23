@@ -51,8 +51,8 @@ keywords:
 - clase de surf costa calma
 - surf sur de fuerteventura
 - dia de surf jandia
-imagen: /images/actividades/_shared/surf/surfista-vista-cenital.webp
-imagenAlt: Vista cenital de un surfista junto a las olas rompiendo
+imagen: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/surfista-cogiendo-una-ola-en-el-sur-de-fuerteventura.webp
+imagenAlt: 'Surfista cogiendo una ola en el sur de Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/surf-corralejo/tablas-de-surf-en-la-arena.webp
   alt: Tablas de surf en la arena
@@ -68,6 +68,18 @@ galeria:
   alt: Surfistas en la orilla
 - src: /images/actividades/_shared/surf/surfistas-orilla-ola.webp
   alt: Surfistas en la orilla esperando olas
+- src: /images/actividades/_shared/surf/surfista-vista-cenital.webp
+  alt: 'Vista cenital de un surfista junto a las olas rompiendo'
+- src: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/alumna-de-pie-en-la-tabla-entre-la-espuma.webp
+  alt: 'Alumna de pie en la tabla entre la espuma'
+- src: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/grupo-de-surf-posando-con-sus-tablas-en-la-playa.webp
+  alt: 'Grupo de surf posando con sus tablas en la playa'
+- src: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/dos-alumnos-surfeando-a-la-vez.webp
+  alt: 'Dos alumnos surfeando a la vez'
+- src: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/calentamiento-en-la-playa-bajo-los-acantilados.webp
+  alt: 'Calentamiento en la playa bajo los acantilados'
+- src: /images/actividades/fuerteventura/prov-flow-surf-project-fuerteventura/alumna-celebrando-sobre-la-tabla.webp
+  alt: 'Alumna celebrando sobre la tabla'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

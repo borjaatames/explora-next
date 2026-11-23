@@ -96,6 +96,8 @@ galeria:
   alt: 'Strand von Cofete und der Gipfel El Islote'
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: 'Strand von Morro Jable'
+- src: /images/actividades/fuerteventura/prov-vip-cofete-by-dogo-canario-ger/playa-de-cofete-en-el-sur-de-fuerteventura.webp
+  alt: 'Strand von Cofete im Süden Fuerteventuras'
 ratingProveedor: 4.8
 numeroOpiniones: 1952
 atraccionesRelacionadas:

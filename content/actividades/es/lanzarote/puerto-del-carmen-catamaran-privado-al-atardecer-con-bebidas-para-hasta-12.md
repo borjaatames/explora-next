@@ -68,6 +68,12 @@ galeria:
   alt: Acantilados de lava en Los Hervideros, con volcanes al fondo
 - src: /images/actividades/lanzarote/zonas/casas-blancas-mar.webp
   alt: Casas blancas de puertas azules frente al mar en Lanzarote
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-fondeado-al-atardecer.webp
+  alt: 'Catamarán fondeado al atardecer'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/catamaran-en-una-cala-de-aguas-claras.webp
+  alt: 'Catamarán en una cala de aguas claras'
+- src: /images/actividades/lanzarote/prov-h2o-sports-lanzarote/esnorquel-junto-al-barco.webp
+  alt: 'Esnórquel junto al barco'
 publicada: true
 destacada: false
 fecha: '2026-11-23'

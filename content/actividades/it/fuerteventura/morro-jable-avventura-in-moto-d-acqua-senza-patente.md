@@ -70,6 +70,10 @@ galeria:
   alt: Costa della penisola di Jandía
 - src: /images/actividades/fuerteventura/morro-jable/ffv-playa-morro-jable.webp
   alt: Spiaggia di Morro Jable
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/moto-de-agua-dejando-estela-en-mar-abierto.webp
+  alt: 'Moto d''acqua che lascia la scia in mare aperto'
+- src: /images/actividades/fuerteventura/prov-fuerteventura-jet-ski/dos-motos-de-agua-vistas-desde-el-aire.webp
+  alt: 'Due moto d''acqua viste dall''alto'
 publicada: true
 destacada: false
 fecha: '2026-11-22'

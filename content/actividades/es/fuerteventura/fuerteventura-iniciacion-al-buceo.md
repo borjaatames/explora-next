@@ -48,8 +48,8 @@ keywords:
 - bautismo de buceo fuerteventura
 - buceo principiantes fuerteventura
 - buceo costa calma
-imagen: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
-imagenAlt: Barcos de buceo vistos desde el agua
+imagen: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceador-junto-a-un-banco-de-peces-amarillos-en-fuertev.webp
+imagenAlt: 'Buceador junto a un banco de peces amarillos en Fuerteventura'
 galeria:
 - src: /images/actividades/fuerteventura/esnorquel/ffv-esnorquel-fondo-rocoso.webp
   alt: Persona haciendo esnórquel sobre un fondo rocoso
@@ -65,6 +65,18 @@ galeria:
   alt: Bañista haciendo esnórquel sobre un fondo rocoso
 - src: /images/actividades/fuerteventura/zonas/morro-jable-playa.webp
   alt: Morro Jable y la playa del Matorral desde la montaña
+- src: /images/actividades/tenerife/fotos-biblioteca/tarragona-buceo-pexels-3098979.webp
+  alt: 'Barcos de buceo vistos desde el agua'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/primeros-ejercicios-de-buceo-en-la-piscina.webp
+  alt: 'Primeros ejercicios de buceo en la piscina'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/buceadores-entrando-al-mar-desde-la-orilla.webp
+  alt: 'Buceadores entrando al mar desde la orilla'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/morena-asomando-entre-las-rocas.webp
+  alt: 'Morena asomando entre las rocas'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/mero-sobre-el-fondo-arenoso.webp
+  alt: 'Mero sobre el fondo arenoso'
+- src: /images/actividades/fuerteventura/prov-dive-pro-fuerte/chucho-descansando-en-la-arena.webp
+  alt: 'Chucho descansando en la arena'
 publicada: true
 destacada: false
 fecha: '2026-11-23'
