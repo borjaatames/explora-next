@@ -1011,6 +1011,830 @@
     "258837": {
       "locationId": "669121",
       "nombre": "Jungle Park Tenerife"
+    },
+    "195437": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "428891": {
+      "locationId": "19928262",
+      "nombre": "Cofete Beach and Villa Winter VIP Tours"
+    },
+    "190163": {
+      "locationId": "1957483",
+      "nombre": "Fuerteadventure Excursions"
+    },
+    "212322": {
+      "locationId": "24985596",
+      "nombre": "Lanzaroteguides"
+    },
+    "135558": {
+      "locationId": "9467087",
+      "nombre": "Dune Buggy"
+    },
+    "190457": {
+      "locationId": "1957483",
+      "nombre": "Fuerteadventure Excursions"
+    },
+    "210330": {
+      "locationId": "3699870",
+      "nombre": "FuerteCharter"
+    },
+    "596105": {
+      "locationId": "10730759",
+      "nombre": "Barracuda Perdomo"
+    },
+    "436172": {
+      "locationId": "24135759",
+      "nombre": "Boards Connections"
+    },
+    "701620": {
+      "locationId": "11870798",
+      "nombre": "Point Break Fuerteventura"
+    },
+    "192552": {
+      "locationId": "1957483",
+      "nombre": "Fuerteadventure Excursions"
+    },
+    "404062": {
+      "locationId": "25303156",
+      "nombre": "Fuerteventura Quad"
+    },
+    "740945": {
+      "locationId": "23243056",
+      "nombre": "Fuerteventura Jet Ski"
+    },
+    "650590": {
+      "locationId": "7184944",
+      "nombre": "Fuertetickets Island Tours & Tickets"
+    },
+    "512165": {
+      "locationId": "15042165",
+      "nombre": "Dive Pro Fuerte"
+    },
+    "306838": {
+      "locationId": "17353418",
+      "nombre": "Naviera Nortour"
+    },
+    "767897": {
+      "locationId": "28148274",
+      "nombre": "E-kayakcanarias"
+    },
+    "797269": {
+      "locationId": "27935176",
+      "nombre": "Route 30 in Fuerteventura"
+    },
+    "1123983": {
+      "locationId": "25303156",
+      "nombre": "Fuerteventura Quad"
+    },
+    "352846": {
+      "locationId": "27711131",
+      "nombre": "Kayaking Atlantis"
+    },
+    "122007": {
+      "locationId": "20390683",
+      "nombre": "Canary Surf Academy"
+    },
+    "467547": {
+      "locationId": "25801504",
+      "nombre": "OTRO MODO Surfschool"
+    },
+    "462232": {
+      "locationId": "2157899",
+      "nombre": "Surf Therapy Fuerteventura"
+    },
+    "84708": {
+      "locationId": "12221698",
+      "nombre": "Fuerte Authentic Tours"
+    },
+    "85389": {
+      "locationId": "12221698",
+      "nombre": "Fuerte Authentic Tours"
+    },
+    "280187": {
+      "locationId": "12221698",
+      "nombre": "Fuerte Authentic Tours"
+    },
+    "560439": {
+      "locationId": "27451364",
+      "nombre": "Fuerteventura Luxury Yacht"
+    },
+    "254507": {
+      "locationId": "16818843",
+      "nombre": "Fuerteventura Full Experience"
+    },
+    "382712": {
+      "locationId": "16818843",
+      "nombre": "Fuerteventura Full Experience"
+    },
+    "443561": {
+      "locationId": "23243056",
+      "nombre": "Fuerteventura Jet Ski"
+    },
+    "232547": {
+      "locationId": "11643726",
+      "nombre": "Flounder Yacht Sailing Tours"
+    },
+    "431557": {
+      "locationId": "11662785",
+      "nombre": "Fuerteventura Sailing Trips"
+    },
+    "464707": {
+      "locationId": "32972947",
+      "nombre": "Wellenkind Surfschool & Surfcamp"
+    },
+    "655560": {
+      "locationId": "14028877",
+      "nombre": "Flow Surf Project Fuerteventura"
+    },
+    "491831": {
+      "locationId": "15188700",
+      "nombre": "Flag Beach"
+    },
+    "182237": {
+      "locationId": "9975062",
+      "nombre": "Climbo"
+    },
+    "409704": {
+      "locationId": "8114248",
+      "nombre": "Yukan"
+    },
+    "215763": {
+      "locationId": "2357410",
+      "nombre": "Líneas Salmón"
+    },
+    "92661": {
+      "locationId": "4583126",
+      "nombre": "Delphinus Diving School"
+    },
+    "440346": {
+      "locationId": "25263852",
+      "nombre": "GC Active Tour"
+    },
+    "360580": {
+      "locationId": "6412629",
+      "nombre": "First Minute Travel"
+    },
+    "453428": {
+      "locationId": "1747530",
+      "nombre": "Camel Safari Park La Baranda"
+    },
+    "149939": {
+      "locationId": "4437519",
+      "nombre": "Afrikat Gran Canaria"
+    },
+    "974044": {
+      "locationId": "33055786",
+      "nombre": "Stingray Catamaran"
+    },
+    "410639": {
+      "locationId": "8114248",
+      "nombre": "Yukan"
+    },
+    "430633": {
+      "locationId": "15198841",
+      "nombre": "Exclusive Boat"
+    },
+    "629726": {
+      "locationId": "27165445",
+      "nombre": "Nirvana Dreams"
+    },
+    "295390": {
+      "locationId": "12794882",
+      "nombre": "WaterSports Luis Molina"
+    },
+    "398062": {
+      "locationId": "3670514",
+      "nombre": "El Salobre Horse Riding"
+    },
+    "98145": {
+      "locationId": "7983959",
+      "nombre": "Blue Water Diving"
+    },
+    "322548": {
+      "locationId": "15133220",
+      "nombre": "Dolphin Sailing"
+    },
+    "1301301": {
+      "locationId": "26551443",
+      "nombre": "Your Gran Canaria Experience"
+    },
+    "733749": {
+      "locationId": "10417149",
+      "nombre": "iJump Gran Canaria"
+    },
+    "246092": {
+      "locationId": "1382036",
+      "nombre": "Puerto Rico Diving"
+    },
+    "214674": {
+      "locationId": "10749464",
+      "nombre": "Emoción Apnea"
+    },
+    "969559": {
+      "locationId": "28653151",
+      "nombre": "Maspalomas Jetski Tour"
+    },
+    "1294305": {
+      "locationId": "34328778",
+      "nombre": "Aquatribe Parasailing Gran Canaria"
+    },
+    "502185": {
+      "locationId": "15150276",
+      "nombre": "Keeper Uno"
+    },
+    "421406": {
+      "locationId": "8114248",
+      "nombre": "Yukan"
+    },
+    "29010": {
+      "locationId": "2718415",
+      "nombre": "Surf Canaries"
+    },
+    "427329": {
+      "locationId": "24052802",
+      "nombre": "RockNatour Experiences"
+    },
+    "360525": {
+      "locationId": "6412629",
+      "nombre": "First Minute Travel"
+    },
+    "202429": {
+      "locationId": "1548625",
+      "nombre": "Submarine Adventure"
+    },
+    "212649": {
+      "locationId": "2356617",
+      "nombre": "Spirit of the Sea"
+    },
+    "533836": {
+      "locationId": "25225133",
+      "nombre": "Panda Boats"
+    },
+    "407032": {
+      "locationId": "20301123",
+      "nombre": "Gran Canaria Water Sport"
+    },
+    "621632": {
+      "locationId": "10895408",
+      "nombre": "Papagayo Catamaran"
+    },
+    "84423": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "439281": {
+      "locationId": "13354823",
+      "nombre": "Fred. Olsen Express"
+    },
+    "645776": {
+      "locationId": "26369974",
+      "nombre": "Kalufa Surf School Lanzarote"
+    },
+    "434199": {
+      "locationId": "5482599",
+      "nombre": "School3S Surf Sup y Soul"
+    },
+    "393454": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "150755": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "886387": {
+      "locationId": "34366573",
+      "nombre": "Yotomu Fuerteventura"
+    },
+    "444252": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "215844": {
+      "locationId": "6412629",
+      "nombre": "First Minute Travel"
+    },
+    "262927": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "214710": {
+      "locationId": "6412629",
+      "nombre": "First Minute Travel"
+    },
+    "394610": {
+      "locationId": "20157825",
+      "nombre": "Aventura Lanzabuggy"
+    },
+    "97188": {
+      "locationId": "24985596",
+      "nombre": "Lanzaroteguides"
+    },
+    "536148": {
+      "locationId": "17735794",
+      "nombre": "Sea Safaris Lanzarote"
+    },
+    "394542": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "486692": {
+      "locationId": "4885009",
+      "nombre": "Atlantis Diving Lanzarote"
+    },
+    "4975": {
+      "locationId": "2019553",
+      "nombre": "Aquatis Diving Lanzarote"
+    },
+    "401914": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "434719": {
+      "locationId": "11998931",
+      "nombre": "Lanzafly Tandem Paragliding"
+    },
+    "517332": {
+      "locationId": "4560744",
+      "nombre": "Dive College Lanzarote"
+    },
+    "192974": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "194774": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "194852": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "84864": {
+      "locationId": "24985596",
+      "nombre": "Lanzaroteguides"
+    },
+    "5309": {
+      "locationId": "1821432",
+      "nombre": "Submarine Safaris"
+    },
+    "321133": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "772359": {
+      "locationId": "2013791",
+      "nombre": "Surf School Lanzarote"
+    },
+    "391264": {
+      "locationId": "6352305",
+      "nombre": "Kayak Lanzarote"
+    },
+    "393306": {
+      "locationId": "3519178",
+      "nombre": "Catlanza"
+    },
+    "687620": {
+      "locationId": "8797234",
+      "nombre": "Buggies Lanzarote"
+    },
+    "199900": {
+      "locationId": "4885009",
+      "nombre": "Atlantis Diving Lanzarote"
+    },
+    "397312": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "86426": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "432553": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "448933": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "527511": {
+      "locationId": "25354808",
+      "nombre": "Pool de Excursiones"
+    },
+    "57756": {
+      "locationId": "7340324",
+      "nombre": "Viajes Teide"
+    },
+    "58006": {
+      "locationId": "7340324",
+      "nombre": "Viajes Teide"
+    },
+    "463195": {
+      "locationId": "23808436",
+      "nombre": "Tenerife Stars"
+    },
+    "433674": {
+      "locationId": "23971161",
+      "nombre": "Meerjungfrau Apnoe Akademie"
+    },
+    "49326": {
+      "locationId": "1587861",
+      "nombre": "Aqua Club Termal"
+    },
+    "966371": {
+      "locationId": "33032987",
+      "nombre": "HikIn Kanarii"
+    },
+    "395162": {
+      "locationId": "16683083",
+      "nombre": "White Tenerife"
+    },
+    "105191": {
+      "locationId": "3617872",
+      "nombre": "Travel Sub Dive Center"
+    },
+    "259152": {
+      "locationId": "629840",
+      "nombre": "Aqualand Costa Adeje"
+    },
+    "194099": {
+      "locationId": "10757930",
+      "nombre": "Tuk Tuk Tenerife"
+    },
+    "388472": {
+      "locationId": "8113948",
+      "nombre": "Anaga Experience"
+    },
+    "218505": {
+      "locationId": "10199684",
+      "nombre": "Atlántico Excursiones"
+    },
+    "406096": {
+      "locationId": "2506888",
+      "nombre": "Parque del Drago"
+    },
+    "217806": {
+      "locationId": "10199684",
+      "nombre": "Atlántico Excursiones"
+    },
+    "109501": {
+      "locationId": "7106673",
+      "nombre": "Xplore Tenerife"
+    },
+    "1323783": {
+      "locationId": "34381284",
+      "nombre": "Tenerife Kayak Tours"
+    },
+    "741797": {
+      "locationId": "27719380",
+      "nombre": "Barbarian Diving"
+    },
+    "392740": {
+      "locationId": "2304694",
+      "nombre": "Travelin' Lady"
+    },
+    "164643": {
+      "locationId": "13948594",
+      "nombre": "Third Element Luxury Charters"
+    },
+    "598797": {
+      "locationId": "1049922",
+      "nombre": "Flipper Uno"
+    },
+    "490696": {
+      "locationId": "15266124",
+      "nombre": "Tilegit Surf School"
+    },
+    "1050884": {
+      "locationId": "11985008",
+      "nombre": "Friends of the Ocean Tenerife Surf Center"
+    },
+    "466909": {
+      "locationId": "14095447",
+      "nombre": "Ika Ika Surf School"
+    },
+    "460222": {
+      "locationId": "23620713",
+      "nombre": "Rocky Point Surf Experience"
+    },
+    "443241": {
+      "locationId": "8749217",
+      "nombre": "Kontraola Surf School"
+    },
+    "1015686": {
+      "locationId": "33232954",
+      "nombre": "Diving On The Moon"
+    },
+    "1172599": {
+      "locationId": "34220110",
+      "nombre": "Buggy Tour Icod Tenerife"
+    },
+    "585843": {
+      "locationId": "3483464",
+      "nombre": "Parascending Tenerife"
+    },
+    "728042": {
+      "locationId": "6834316",
+      "nombre": "One Two Dive"
+    },
+    "392679": {
+      "locationId": "13073847",
+      "nombre": "Vilosquads"
+    },
+    "64904": {
+      "locationId": "6982541",
+      "nombre": "Volcano Teide"
+    },
+    "221595": {
+      "locationId": "21198700",
+      "nombre": "Quad Safari Tenerife"
+    },
+    "1080624": {
+      "locationId": "33226943",
+      "nombre": "Private tour Tenerife"
+    },
+    "405931": {
+      "locationId": "582417",
+      "nombre": "Pirámides de Güímar"
+    },
+    "393972": {
+      "locationId": "247274",
+      "nombre": "Casa de Los Balcones"
+    },
+    "794950": {
+      "locationId": "9802016",
+      "nombre": "Island Excursions"
+    },
+    "369566": {
+      "locationId": "5871259",
+      "nombre": "Top Buggy Adventure"
+    },
+    "430544": {
+      "locationId": "17621679",
+      "nombre": "Finca Estrella"
+    },
+    "57561": {
+      "locationId": "7340324",
+      "nombre": "Viajes Teide"
+    },
+    "317607": {
+      "locationId": "17690781",
+      "nombre": "Ocean Jet Ski & Boat Tenerife"
+    },
+    "345346": {
+      "locationId": "17822232",
+      "nombre": "Adventoure & Experiences"
+    },
+    "216837": {
+      "locationId": "10199684",
+      "nombre": "Atlántico Excursiones"
+    },
+    "74392": {
+      "locationId": "2359711",
+      "nombre": "Karting Club Tenerife"
+    },
+    "639462": {
+      "locationId": "17690781",
+      "nombre": "Ocean Jet Ski & Boat Tenerife"
+    },
+    "710863": {
+      "locationId": "28755618",
+      "nombre": "Jurassic Quad Tenerife"
+    },
+    "433619": {
+      "locationId": "25072210",
+      "nombre": "Snorkel Tenerife Excursions"
+    },
+    "3591": {
+      "locationId": "27164640",
+      "nombre": "Zeus Dive Center Tenerife"
+    },
+    "487177": {
+      "locationId": "2508532",
+      "nombre": "Zero Gravity Scuba Diving"
+    },
+    "512767": {
+      "locationId": "4375096",
+      "nombre": "Ocean Dreams Tenerife"
+    },
+    "203269": {
+      "locationId": "12445661",
+      "nombre": "Aquarius Dive Center"
+    },
+    "14591": {
+      "locationId": "2323079",
+      "nombre": "Tenerife Sailing Charters"
+    },
+    "865751": {
+      "locationId": "31928855",
+      "nombre": "Pirati Tenerife Excursions"
+    },
+    "459958": {
+      "locationId": "5570368",
+      "nombre": "Canaventura"
+    },
+    "843751": {
+      "locationId": "14102617",
+      "nombre": "Utopia Boat Party"
+    },
+    "502694": {
+      "locationId": "26369866",
+      "nombre": "Daydream Paragliding"
+    },
+    "499757": {
+      "locationId": "9584404",
+      "nombre": "Airsports Tenerife"
+    },
+    "403056": {
+      "locationId": "15635364",
+      "nombre": "Sky Of Tenerife"
+    },
+    "3669": {
+      "locationId": "26517185",
+      "nombre": "Submarine Safaris Tenerife"
+    },
+    "437974": {
+      "locationId": "33235145",
+      "nombre": "Vulcan Walkers"
+    },
+    "411071": {
+      "locationId": "23624682",
+      "nombre": "Bodega Conatvs"
+    },
+    "86720": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "513810": {
+      "locationId": "33047035",
+      "nombre": "Taurito Water Sport"
+    },
+    "758567": {
+      "locationId": "10801840",
+      "nombre": "Catatrips"
+    },
+    "195458": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "298775": {
+      "locationId": "7273494",
+      "nombre": "Pie de Caracol"
+    },
+    "106540": {
+      "locationId": "12439559",
+      "nombre": "Volcano Roads"
+    },
+    "430764": {
+      "locationId": "8096342",
+      "nombre": "Verdeaurora Bio Farm"
+    },
+    "485565": {
+      "locationId": "5037084",
+      "nombre": "Sky Rebels"
+    },
+    "494830": {
+      "locationId": "24081124",
+      "nombre": "Taurito Water Sports"
+    },
+    "269062": {
+      "locationId": "5532485",
+      "nombre": "Mojo Picón Aventura"
+    },
+    "172411": {
+      "locationId": "5532485",
+      "nombre": "Mojo Picón Aventura"
+    },
+    "418494": {
+      "locationId": "8114248",
+      "nombre": "Yukan"
+    },
+    "431015": {
+      "locationId": "7001480",
+      "nombre": "Multiacuatic"
+    },
+    "191345": {
+      "locationId": "5532485",
+      "nombre": "Mojo Picón Aventura"
+    },
+    "139631": {
+      "locationId": "10799923",
+      "nombre": "Excursions Gran Canaria"
+    },
+    "403873": {
+      "locationId": "9975062",
+      "nombre": "Climbo"
+    },
+    "410670": {
+      "locationId": "9975062",
+      "nombre": "Climbo"
+    },
+    "561822": {
+      "locationId": "4872904",
+      "nombre": "Horse Riding Canaria"
+    },
+    "1019184": {
+      "locationId": "33237881",
+      "nombre": "WeWhale Gran Canaria"
+    },
+    "438279": {
+      "locationId": "24052802",
+      "nombre": "RockNatour Experiences"
+    },
+    "410149": {
+      "locationId": "9975062",
+      "nombre": "Climbo"
+    },
+    "781276": {
+      "locationId": "4398637",
+      "nombre": "Gran Canaria Excursions"
+    },
+    "428066": {
+      "locationId": "4398637",
+      "nombre": "Gran Canaria Excursions"
+    },
+    "74642": {
+      "locationId": "4398637",
+      "nombre": "Gran Canaria Excursions"
+    },
+    "315497": {
+      "locationId": "4398637",
+      "nombre": "Gran Canaria Excursions"
+    },
+    "224682": {
+      "locationId": "10006367",
+      "nombre": "Bici Bike Vintage"
+    },
+    "269777": {
+      "locationId": "14062626",
+      "nombre": "Yellow Boat Mogan Excursions"
+    },
+    "427451": {
+      "locationId": "2064511",
+      "nombre": "Bodegas El Grifo"
+    },
+    "426883": {
+      "locationId": "23610723",
+      "nombre": "Guaticea Lanzarote"
+    },
+    "422024": {
+      "locationId": "24985596",
+      "nombre": "Lanzaroteguides"
+    },
+    "393162": {
+      "locationId": "20157825",
+      "nombre": "Aventura Lanzabuggy"
+    },
+    "132558": {
+      "locationId": "24985596",
+      "nombre": "Lanzaroteguides"
+    },
+    "403534": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "191927": {
+      "locationId": "7155456",
+      "nombre": "Líneas Romero"
+    },
+    "214689": {
+      "locationId": "6412629",
+      "nombre": "First Minute Travel"
+    },
+    "1289928": {
+      "locationId": "2323079",
+      "nombre": "Tenerife Sailing Charters"
+    },
+    "57626": {
+      "locationId": "7340324",
+      "nombre": "Viajes Teide"
+    },
+    "457265": {
+      "locationId": "23808436",
+      "nombre": "Tenerife Stars"
+    },
+    "69197": {
+      "locationId": "7273494",
+      "nombre": "Pie de Caracol"
+    },
+    "646416": {
+      "locationId": "25357102",
+      "nombre": "H2O Sports"
+    },
+    "677767": {
+      "locationId": "34694192",
+      "nombre": "Canary Trip Booking"
+    },
+    "616951": {
+      "locationId": "10730759",
+      "nombre": "Barracuda Perdomo"
+    },
+    "106612": {
+      "locationId": "12439559",
+      "nombre": "Volcano Roads"
     }
   }
 }
