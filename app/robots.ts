@@ -19,6 +19,10 @@ const SITE_URL =
  * no trae visitas y llegó a ser el 40 % de las peticiones (nov. 2026). No
  * afecta a `facebookexternalhit` (vistas previas de enlaces) ni a
  * `meta-webindexer`.
+ *
+ * `GPTBot` (rastreador de OpenAI para entrenar modelos) también queda fuera:
+ * ~17k peticiones/día sin traer visitas (nov. 2026). No afecta a
+ * `OAI-SearchBot` (buscador de ChatGPT) ni a `ChatGPT-User`.
  */
 export default function robots(): MetadataRoute.Robots {
   const allowIndexing = process.env.NEXT_PUBLIC_ALLOW_INDEXING === "true";
@@ -44,6 +48,7 @@ export default function robots(): MetadataRoute.Robots {
         ],
       },
       { userAgent: "meta-externalagent", disallow: "/" },
+      { userAgent: "GPTBot", disallow: "/" },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
     host: SITE_URL,
