@@ -4,6 +4,7 @@ slug: valle-de-san-lorenzo-ferme-bio-tuno-canarias-avec-degustation-et-musee
 ciudad: tenerife
 descripcion: Une visite guidée d'1 h 30 de Tuno Canarias, plantation bio de figue de Barbarie à chair rouge (Higo Tinto) dans le sud de Tenerife, avec dégustation du fruit frais et de yaourts maison, les animaux de la ferme, des sentiers jusqu'à des belvédères sur d'anciens volcans et un musée ethnographique avec un court métrage. 4,8/5 sur 188 avis. Dès 16 €.
 slugs:
+  es: valle-de-san-lorenzo-finca-ecologica-tuno-canarias-con-degustacion-y-museo
   en: valle-de-san-lorenzo-tuno-canarias-organic-farm-tour-with-tasting-and-museum
   fr: valle-de-san-lorenzo-ferme-bio-tuno-canarias-avec-degustation-et-musee
   it: valle-de-san-lorenzo-fattoria-biologica-tuno-canarias-con-degustazione-e-museo

@@ -4,6 +4,7 @@ slug: fuerteventura-inselrundfahrt-ab-corralejo-mit-hotelabholung
 ciudad: fuerteventura
 descripcion: Eine 8-stündige Inselrundfahrt über Fuerteventura in kleiner Gruppe ab dem Norden, mit Panoramablicken, dem wichtigsten Dorf der Insel und einem Vulkan, mit Hoteltransfer und Wasser inklusive. 4,4/5 bei 50 Bewertungen. Ab 85 €.
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-desde-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-island-tour-from-corralejo-with-hotel-pick-up
   de: fuerteventura-inselrundfahrt-ab-corralejo-mit-hotelabholung
   fr: fuerteventura-tour-de-l-ile-depuis-corralejo-avec-prise-en-charge

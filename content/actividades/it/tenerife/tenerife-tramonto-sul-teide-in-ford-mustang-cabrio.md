@@ -4,10 +4,12 @@ slug: tenerife-tramonto-sul-teide-in-ford-mustang-cabrio
 ciudad: tenerife
 descripcion: Un tour di 3 ore al tramonto fino al Teide in Ford Mustang cabrio, alla guida o come passeggero, su uno dei percorsi più fotogenici di Tenerife, con aperitivo, snack, bevanda e trasporto dall'hotel. 4,9/5 su 152 recensioni. Da 125 €.
 slugs:
+  es: tenerife-ruta-al-atardecer-al-teide-en-ford-mustang-descapotable
   en: tenerife-sunset-drive-to-teide-in-a-ford-mustang-convertible
   de: teneriffa-sonnenuntergangsfahrt-zum-teide-im-ford-mustang-cabrio
   fr: tenerife-coucher-de-soleil-au-teide-en-ford-mustang-cabriolet
   it: tenerife-tramonto-sul-teide-in-ford-mustang-cabrio
+  pt: tenerife-passeio-ao-por-do-sol-ao-teide-num-ford-mustang-descapotavel
 duracion: 3 ore
 duracionMinutos: 180
 precioDesde: 125

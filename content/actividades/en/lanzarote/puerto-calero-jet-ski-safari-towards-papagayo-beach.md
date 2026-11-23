@@ -4,6 +4,7 @@ slug: puerto-calero-jet-ski-safari-towards-papagayo-beach
 ciudad: lanzarote
 descripcion: A guided jet ski safari of up to 1 hour from Puerto Calero towards the Papagayo beaches, on new, powerful jet skis with an expert instructor, with fully comprehensive insurance and fuel included. Rated 4.9/5 from 39 reviews. From €60.
 slugs:
+  es: puerto-calero-safari-en-moto-de-agua-hacia-la-playa-de-papagayo
   en: puerto-calero-jet-ski-safari-towards-papagayo-beach
   it: puerto-calero-safari-in-moto-d-acqua-verso-la-spiaggia-di-papagayo
 duracion: 1 hour

@@ -4,6 +4,7 @@ slug: lanzarote-sortie-guidee-en-ryker-vers-famara-haria-et-caleton-blanco
 ciudad: lanzarote
 descripcion: 'Une sortie guidée de 2 h 30 à 3 h 30 au guidon d''un trois-roues Can-Am Ryker dans le nord de Lanzarote : plage de Famara, Haría vue depuis le meilleur mirador et le sable blanc de Caletón Blanco, avec en-cas et boissons, casque, lunettes coupe-vent et veste. Le prix s''entend par Ryker, jusqu''à 2 personnes. 4,8/5 sur 109 avis. Dès 140 € par groupe.'
 slugs:
+  es: lanzarote-ruta-guiada-en-ryker-a-famara-haria-y-caleton-blanco
   en: lanzarote-guided-ryker-tour-to-famara-haria-and-caleton-blanco
   fr: lanzarote-sortie-guidee-en-ryker-vers-famara-haria-et-caleton-blanco
 duracion: 3 heures

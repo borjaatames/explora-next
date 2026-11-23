@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-in-the-laurel-forest-with-a-mountain-guide
 ciudad: gran-canaria
 descripcion: 'A 4-hour canyoning outing in the ravines of Gran Canaria''s laurel forest with a mountain guide certified by AEGM/UIMLA: walk down the riverbeds, slide over the rocks and reconnect with nature, with hotel pick-up, canyoning equipment and a souvenir photo. Rated 4.8/5 from 50 reviews. From €85.'
 slugs:
+  es: gran-canaria-barranquismo-en-la-laurisilva-con-guia-de-montana
   en: gran-canaria-canyoning-in-the-laurel-forest-with-a-mountain-guide
   de: gran-canaria-canyoning-im-lorbeerwald-mit-bergfuehrer
   fr: gran-canaria-canyoning-dans-la-foret-de-lauriers-avec-guide-de-montagne
   it: gran-canaria-canyoning-nella-laurisilva-con-guida-di-montagna
+  pt: gran-canaria-canyoning-na-laurissilva-com-guia-de-montanha
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 85

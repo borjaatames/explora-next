@@ -4,6 +4,7 @@ slug: gran-canaria-vip-bustour-nach-guayadeque-firgas-und-ins-gruene-inselinnere
 ciudad: gran-canaria
 descripcion: 'Eine 9-stündige Bustour ab dem Süden Gran Canarias durch das grüne Inselinnere: die Schlucht von Guayadeque, eine Aloe-vera-Plantage, das Tal der tausend Kiefern und der Ort Firgas, mit Guide, klimatisiertem Bus und Abholung am Hotel oder am nächsten Punkt in den Urlaubsorten. 4,1/5 bei 433 Bewertungen. Ab 49 €.'
 slugs:
+  es: gran-canaria-excursion-vip-en-autocar-a-guayadeque-firgas-y-el-interior-verde
   en: gran-canaria-vip-coach-tour-to-guayadeque-firgas-and-the-green-interior
   de: gran-canaria-vip-bustour-nach-guayadeque-firgas-und-ins-gruene-inselinnere
 duracion: 9 Stunden

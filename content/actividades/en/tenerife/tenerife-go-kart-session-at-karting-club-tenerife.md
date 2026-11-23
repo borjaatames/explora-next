@@ -4,10 +4,12 @@ slug: tenerife-go-kart-session-at-karting-club-tenerife
 ciudad: tenerife
 descripcion: 'A go-kart session at Karting Club Tenerife in Cho, in the south of the island: a 1,200-metre senior track with 400cc and 270cc Super Karts and competition karts for 15 to 17-year-olds, plus a 250-metre junior track for children, with a free shuttle bus in the south. Rated 4.6/5 from 473 reviews. From €35.'
 slugs:
+  es: tenerife-tanda-de-karts-en-el-karting-club-tenerife
   en: tenerife-go-kart-session-at-karting-club-tenerife
   de: teneriffa-kartfahren-im-karting-club-tenerife
   fr: tenerife-session-de-karting-au-karting-club-tenerife
   it: tenerife-sessione-di-go-kart-al-karting-club-tenerife
+  pt: tenerife-sessao-de-karts-no-karting-club-tenerife
 duracion: 12 min
 duracionMinutos: 12
 precioDesde: 35

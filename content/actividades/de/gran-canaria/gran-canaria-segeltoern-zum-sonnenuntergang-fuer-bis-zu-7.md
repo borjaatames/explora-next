@@ -4,6 +4,7 @@ slug: gran-canaria-segeltoern-zum-sonnenuntergang-fuer-bis-zu-7
 ciudad: gran-canaria
 descripcion: Ein 2,5-stündiger Segeltörn zum Sonnenuntergang auf einer luxuriösen Segelyacht vor dem Süden Gran Canarias, für höchstens 7 Gäste, mit professionellem Skipper, Getränken und kleinen Snacks an Bord, Sicherheitsausrüstung, Versicherung und kostenloser Hotelabholung. 4,6/5 bei 39 Bewertungen. Ab 79 €.
 slugs:
+  es: gran-canaria-velero-al-atardecer-para-hasta-7
   en: gran-canaria-sunset-sailing-experience-for-up-to-7
   de: gran-canaria-segeltoern-zum-sonnenuntergang-fuer-bis-zu-7
 duracion: 2 Std. 30 Min.

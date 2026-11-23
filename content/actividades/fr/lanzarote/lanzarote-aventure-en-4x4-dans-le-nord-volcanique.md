@@ -4,6 +4,7 @@ slug: lanzarote-aventure-en-4x4-dans-le-nord-volcanique
 ciudad: lanzarote
 descripcion: 'Une sortie de 6 heures en 4x4 dans le nord volcanique de Lanzarote avec un guide qui explique la géologie, la culture et l''histoire : arrêts photo à Guatiza, au Mirador de los Helechos et au Mirador de las Nieves, temps libre dans la ville historique de Teguise, la côte sauvage de Famara et un arrêt dans un office de tourisme sur les origines volcaniques de l''île, avec prise en charge à votre logement. 4,7/5 sur 22 avis. Dès 72 €.'
 slugs:
+  es: lanzarote-aventura-en-4x4-por-el-norte-volcanico
   en: lanzarote-4x4-adventure-through-the-volcanic-north
   de: lanzarote-4x4-abenteuer-durch-den-vulkanischen-norden
   fr: lanzarote-aventure-en-4x4-dans-le-nord-volcanique

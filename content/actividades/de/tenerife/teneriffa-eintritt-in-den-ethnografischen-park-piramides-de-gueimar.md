@@ -4,10 +4,12 @@ slug: teneriffa-eintritt-in-den-ethnografischen-park-piramides-de-gueimar
 ciudad: tenerife
 descripcion: 'Eintritt in den Ethnografischen Park Pirámides de Güímar: sechs Stufenpyramiden aus Stein, an wichtigen astronomischen Daten auf die Sonne ausgerichtet, ein Museum und ein botanischer Garten auf 64.000 m²; die Premium-Option umfasst den Giftpflanzengarten und die Polynesien-Ausstellung. 4,3/5 bei 433 Bewertungen. Ab 13 €.'
 slugs:
+  es: tenerife-entrada-al-parque-etnografico-piramides-de-gueimar
   en: tenerife-entry-ticket-to-the-piramides-de-gueimar-ethnographic-park
   de: teneriffa-eintritt-in-den-ethnografischen-park-piramides-de-gueimar
   fr: tenerife-billet-d-entree-au-parc-ethnographique-piramides-de-gueimar
   it: tenerife-biglietto-d-ingresso-al-parco-etnografico-piramides-de-gueimar
+  pt: tenerife-bilhete-para-o-parque-etnografico-piramides-de-gueimar
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 13

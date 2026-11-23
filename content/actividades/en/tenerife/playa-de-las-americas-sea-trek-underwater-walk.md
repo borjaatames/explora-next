@@ -4,10 +4,12 @@ slug: playa-de-las-americas-sea-trek-underwater-walk
 ciudad: tenerife
 descripcion: Walk on the seabed off Playa de las Américas wearing a Sea Trek helmet with a constant air supply, breathing normally without having to swim, close to fish and volcanic formations, in groups of 4 underwater with certified instructors, wetsuit, lockers and insurance. Rated 4.9/5 from 486 reviews. From €77.
 slugs:
+  es: playa-de-las-americas-paseo-submarino-sea-trek
   en: playa-de-las-americas-sea-trek-underwater-walk
   de: playa-de-las-americas-unterwasserspaziergang-mit-sea-trek
   fr: playa-de-las-americas-marche-sous-marine-sea-trek
   it: playa-de-las-americas-passeggiata-subacquea-sea-trek
+  pt: playa-de-las-americas-passeio-subaquatico-sea-trek
 duracion: 1 hour
 duracionMinutos: 60
 precioDesde: 77

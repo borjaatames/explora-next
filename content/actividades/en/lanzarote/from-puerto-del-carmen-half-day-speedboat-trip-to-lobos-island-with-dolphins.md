@@ -4,6 +4,7 @@ slug: from-puerto-del-carmen-half-day-speedboat-trip-to-lobos-island-with-dolphi
 ciudad: lanzarote
 descripcion: A 5.5-hour trip by speedboat from Puerto del Carmen to the islet of Lobos, about 1.5 hours each way with live commentary and a chance to see dolphins, then 2.5 hours of free time on Lobos, with hotel pick-up and a picnic with drinks. Rated 4.2/5 from 691 reviews. From €72.
 slugs:
+  es: desde-puerto-del-carmen-medio-dia-en-lancha-rapida-a-la-isla-de-lobos-con-delfin
   en: from-puerto-del-carmen-half-day-speedboat-trip-to-lobos-island-with-dolphins
   fr: depuis-puerto-del-carmen-demi-journee-en-bateau-rapide-a-l-ile-de-lobos-avec-dau
 duracion: 5 h 30 min

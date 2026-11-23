@@ -4,6 +4,7 @@ slug: lanzarote-vip-inselrundfahrt-mit-aloe-vera-zentrum-und-weingut
 ciudad: lanzarote
 descripcion: 'Eine 7,5-stündige Inselrundfahrt über Lanzarote in kleiner Gruppe im klimatisierten Fahrzeug mit professionellem Guide: Vulkanlandschaften, der Aussichtspunkt Mirador de Las Nieves, das Zentrum Aloe Vera Lanzarote, das Tal der tausend Palmen in Haría und ein traditionelles Weingut mit kleiner Gratisverkostung. 4,5/5 bei 50 Bewertungen. Ab 68 €.'
 slugs:
+  es: lanzarote-vuelta-vip-a-la-isla-con-centro-de-aloe-vera-y-bodega
   en: lanzarote-vip-island-tour-with-aloe-vera-centre-and-winery
   de: lanzarote-vip-inselrundfahrt-mit-aloe-vera-zentrum-und-weingut
   fr: lanzarote-tour-vip-de-l-ile-avec-centre-d-aloe-vera-et-bodega

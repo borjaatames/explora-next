@@ -4,6 +4,7 @@ slug: tenerife-journee-a-la-laguna-et-dans-l-anaga-avec-guide-de-randonnee
 ciudad: tenerife
 descripcion: 'Une journée de 8 heures dans le nord-est de Tenerife : une marche dans la forêt primaire de lauriers de l''Anaga avec un guide de randonnée, la vieille ville de San Cristóbal de La Laguna, classée par l''UNESCO, et l''ambiance d''un marché de producteurs, avec bus et transferts depuis l''hôtel dans les zones prévues. 4,4/5 sur 23 avis. Dès 59 €.'
 slugs:
+  es: tenerife-excursion-a-la-laguna-y-anaga-con-guia-de-senderismo
   en: tenerife-la-laguna-and-anaga-day-trip-with-a-hiking-guide
   de: teneriffa-tagesausflug-nach-la-laguna-und-anaga-mit-wanderfuehrer
   fr: tenerife-journee-a-la-laguna-et-dans-l-anaga-avec-guide-de-randonnee

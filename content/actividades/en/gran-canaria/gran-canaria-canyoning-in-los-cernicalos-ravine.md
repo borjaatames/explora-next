@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-in-los-cernicalos-ravine
 ciudad: gran-canaria
 descripcion: 'A 4-hour canyoning adventure in the Los Marteles special nature reserve, in Los Cernícalos, described by the operator as the only ravine on Gran Canaria with water all year: abseil down waterfalls, wade through pools and hike among native willows, always on an extra safety rope, with guide, equipment, insurance, photos and a snack. Rated 4.6/5 from 40 reviews. From €65.'
 slugs:
+  es: gran-canaria-barranquismo-en-el-barranco-de-los-cernicalos
   en: gran-canaria-canyoning-in-los-cernicalos-ravine
   de: gran-canaria-canyoning-in-der-schlucht-los-cernicalos
   fr: gran-canaria-canyoning-dans-le-ravin-de-los-cernicalos
   it: gran-canaria-canyoning-nel-burrone-di-los-cernicalos
+  pt: gran-canaria-canyoning-no-barranco-de-los-cernicalos
 duracion: 4 hours
 duracionMinutos: 240
 precioDesde: 65

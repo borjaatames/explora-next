@@ -4,10 +4,12 @@ slug: da-maspalomas-tour-in-buggy-a-4-posti-tra-paesaggi-vulcanici
 ciudad: gran-canaria
 descripcion: Un tour di 2 ore su un moderno buggy Yamaha a 4 posti lungo piste tra i paesaggi vulcanici dell'entroterra di Maspalomas, con una guida che racconta la storia dell'isola, assicurazione e prelievo in hotel a Maspalomas. Il prezzo è per buggy, fino a 2 persone. 4,3/5 su 259 recensioni. Da 150 € a gruppo.
 slugs:
+  es: desde-maspalomas-ruta-en-buggy-de-4-plazas-por-paisajes-volcanicos
   en: from-maspalomas-4-seater-buggy-tour-through-volcanic-landscapes
   de: ab-maspalomas-buggytour-im-viersitzer-durch-vulkanlandschaften
   fr: depuis-maspalomas-buggy-4-places-dans-les-paysages-volcaniques
   it: da-maspalomas-tour-in-buggy-a-4-posti-tra-paesaggi-vulcanici
+  pt: de-maspalomas-passeio-de-buggy-de-4-lugares-por-paisagens-vulcanicas
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 150

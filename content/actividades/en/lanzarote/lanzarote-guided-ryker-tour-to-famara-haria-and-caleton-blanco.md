@@ -4,6 +4,7 @@ slug: lanzarote-guided-ryker-tour-to-famara-haria-and-caleton-blanco
 ciudad: lanzarote
 descripcion: 'A guided tour of 2.5 to 3.5 hours driving a Can-Am Ryker three-wheeler through the north of Lanzarote: Famara beach, Haría seen from the best viewpoint and the white sand of Caletón Blanco, with snacks and drinks, helmet, windbreak goggles and jacket. The price is per Ryker for up to 2. Rated 4.8/5 from 109 reviews. From €140 per group.'
 slugs:
+  es: lanzarote-ruta-guiada-en-ryker-a-famara-haria-y-caleton-blanco
   en: lanzarote-guided-ryker-tour-to-famara-haria-and-caleton-blanco
   fr: lanzarote-sortie-guidee-en-ryker-vers-famara-haria-et-caleton-blanco
 duracion: 3 hours

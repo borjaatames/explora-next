@@ -4,10 +4,12 @@ slug: playa-de-las-americas-gruppensurfkurs-mit-der-tilegit-surf-school
 ciudad: tenerife
 descripcion: 'Ein 2-stündiger Gruppensurfkurs mit der Tilegit Surf School in Playa de las Américas: 20 Minuten Theorie, dann ab ins Wasser mit einem Lehrer pro 8 Teilnehmer, mit für dich ausgewähltem Brett, Neoprenanzug, Füßlingen und Unfallversicherung. 4,8/5 bei 31 Bewertungen. Ab 44 €.'
 slugs:
+  es: playa-de-las-americas-clase-de-surf-en-grupo-con-tilegit-surf-school
   en: playa-de-las-americas-group-surf-lesson-with-tilegit-surf-school
   de: playa-de-las-americas-gruppensurfkurs-mit-der-tilegit-surf-school
   fr: playa-de-las-americas-cours-de-surf-collectif-avec-tilegit-surf-school
   it: playa-de-las-americas-lezione-di-surf-di-gruppo-con-tilegit-surf-school
+  pt: playa-de-las-americas-aula-de-surf-em-grupo-com-a-tilegit-surf-school
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 44

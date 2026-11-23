@@ -4,6 +4,7 @@ slug: fuerteventura-inselrundfahrt-in-kleiner-gruppe-mit-kaeseverkostung
 ciudad: fuerteventura
 descripcion: 'Eine 6,5-stündige Tour in kleiner Gruppe durch das Inselinnere Fuerteventuras mit allen Eintritten: Aloe-vera-Farm, Leuchtturm La Entallada, handwerkliche Käserei mit Verkostung, Höhlen von Ajuy, Aussichtspunkt Risco de las Peñas, Betancuria und Käsemuseum, mit Guide in deiner Sprache und Transport ab deiner Unterkunft im Norden oder Süden. 4,6/5 bei 32 Bewertungen. Ab 81 €.'
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-en-grupo-reducido-con-cata-de-quesos
   en: fuerteventura-small-group-island-tour-with-cheese-tasting
   de: fuerteventura-inselrundfahrt-in-kleiner-gruppe-mit-kaeseverkostung
 duracion: 6 Std. 30 Min.

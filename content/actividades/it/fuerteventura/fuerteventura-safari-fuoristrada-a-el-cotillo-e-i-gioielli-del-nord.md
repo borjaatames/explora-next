@@ -4,6 +4,7 @@ slug: fuerteventura-safari-fuoristrada-a-el-cotillo-e-i-gioielli-del-nord
 ciudad: fuerteventura
 descripcion: 'Un safari fuoristrada di 8 ore in piccolo gruppo nel nord di Fuerteventura: le dune, il vulcano Calderón Hondo e le lagune di El Cotillo, con ingresso a una fattoria di aloe vera, guida nella tua lingua e trasferimento dall''hotel. 4,3/5 su 14 recensioni. Da 69 €.'
 slugs:
+  es: fuerteventura-safari-todoterreno-a-el-cotillo-y-las-joyas-del-norte
   en: fuerteventura-off-road-safari-to-el-cotillo-and-the-jewels-of-the-north
   fr: fuerteventura-safari-tout-terrain-a-el-cotillo-et-aux-joyaux-du-nord
   it: fuerteventura-safari-fuoristrada-a-el-cotillo-e-i-gioielli-del-nord

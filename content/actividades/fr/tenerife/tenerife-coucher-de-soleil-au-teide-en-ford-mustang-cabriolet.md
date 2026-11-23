@@ -4,10 +4,12 @@ slug: tenerife-coucher-de-soleil-au-teide-en-ford-mustang-cabriolet
 ciudad: tenerife
 descripcion: Une sortie de 3 heures au coucher du soleil jusqu'au Teide en Ford Mustang cabriolet, au volant ou en passager, sur l'une des routes les plus photogéniques de Tenerife, avec apéritif, collation, boisson et transport depuis l'hôtel. 4,9/5 sur 152 avis. Dès 125 €.
 slugs:
+  es: tenerife-ruta-al-atardecer-al-teide-en-ford-mustang-descapotable
   en: tenerife-sunset-drive-to-teide-in-a-ford-mustang-convertible
   de: teneriffa-sonnenuntergangsfahrt-zum-teide-im-ford-mustang-cabrio
   fr: tenerife-coucher-de-soleil-au-teide-en-ford-mustang-cabriolet
   it: tenerife-tramonto-sul-teide-in-ford-mustang-cabrio
+  pt: tenerife-passeio-ao-por-do-sol-ao-teide-num-ford-mustang-descapotavel
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 125

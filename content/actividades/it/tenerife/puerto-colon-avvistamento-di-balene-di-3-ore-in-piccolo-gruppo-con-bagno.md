@@ -4,6 +4,7 @@ slug: puerto-colon-avvistamento-di-balene-di-3-ore-in-piccolo-gruppo-con-bagno
 ciudad: tenerife
 descripcion: Un'uscita di 3 ore per avvistare balene e delfini da Puerto Colón, con massimo 12 passeggeri, su una barca con visione subacquea, con una bevanda gratuita, un panino e una sosta per il bagno a El Puertito o alla spiaggia di Las Vistas. 4,6/5 su 51 recensioni. Da 45 €.
 slugs:
+  es: puerto-colon-3-horas-de-avistamiento-de-cetaceos-en-grupo-reducido-con-bano
   en: puerto-colon-3-hour-whale-watching-in-a-small-group-with-a-swim-stop
   fr: puerto-colon-observation-des-baleines-de-3-heures-en-petit-groupe-avec-baignade
   it: puerto-colon-avvistamento-di-balene-di-3-ore-in-piccolo-gruppo-con-bagno

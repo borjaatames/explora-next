@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-dans-le-ravin-de-los-cernicalos
 ciudad: gran-canaria
 descripcion: 'Une sortie de canyoning de 4 heures dans la réserve naturelle de Los Marteles, à Los Cernícalos, présenté comme le seul ravin de Gran Canaria où l''eau coule toute l''année : rappels dans les cascades, passages dans les vasques et marche parmi les saules indigènes, toujours assuré par une corde de sécurité, avec guide, équipement, assurance, photos et collation. 4,6/5 sur 40 avis. Dès 65 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-el-barranco-de-los-cernicalos
   en: gran-canaria-canyoning-in-los-cernicalos-ravine
   de: gran-canaria-canyoning-in-der-schlucht-los-cernicalos
   fr: gran-canaria-canyoning-dans-le-ravin-de-los-cernicalos
   it: gran-canaria-canyoning-nel-burrone-di-los-cernicalos
+  pt: gran-canaria-canyoning-no-barranco-de-los-cernicalos
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 65

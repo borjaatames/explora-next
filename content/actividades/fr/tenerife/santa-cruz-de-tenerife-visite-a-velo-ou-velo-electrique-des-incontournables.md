@@ -4,6 +4,7 @@ slug: santa-cruz-de-tenerife-visite-a-velo-ou-velo-electrique-des-incontournable
 ciudad: tenerife
 descripcion: Une balade guidée de 2 h 30 dans Santa Cruz de Tenerife à vélo classique ou électrique, sur un parcours surtout plat et accessible aux débutants, entre monuments, recoins cachés et belvédères, avec arrêts photo, conseils locaux et histoire de la ville. 4,6/5 sur 222 avis. Dès 26 €.
 slugs:
+  es: santa-cruz-de-tenerife-ruta-en-bici-y-bici-electrica-por-lo-mas-destacado
   en: santa-cruz-de-tenerife-bike-and-e-bike-tour-of-the-city-highlights
   de: santa-cruz-de-tenerife-rad-und-e-bike-tour-zu-den-highlights-der-stadt
   fr: santa-cruz-de-tenerife-visite-a-velo-ou-velo-electrique-des-incontournables

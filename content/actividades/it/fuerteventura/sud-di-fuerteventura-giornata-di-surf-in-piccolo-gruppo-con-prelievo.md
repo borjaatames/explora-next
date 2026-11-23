@@ -4,10 +4,12 @@ slug: sud-di-fuerteventura-giornata-di-surf-in-piccolo-gruppo-con-prelievo
 ciudad: fuerteventura
 descripcion: Una lezione di surf di 3 ore in piccolo gruppo con Flow Surf Project, nello spot migliore per le condizioni del giorno e il tuo livello, con istruttori esperti, muta, tavola e prelievo davanti al tuo hotel a Jandía, Costa Calma, La Pared o Tarajalejo (circa 30 minuti a tratta). 4,9/5 su 38 recensioni. Da 51 €.
 slugs:
+  es: sur-de-fuerteventura-dia-de-surf-en-grupo-reducido-con-recogida-en-el-hotel
   en: south-fuerteventura-small-group-surf-day-with-hotel-pick-up
   de: sued-fuerteventura-surftag-in-kleiner-gruppe-mit-hotelabholung
   fr: sud-de-fuerteventura-journee-de-surf-en-petit-groupe-avec-prise-en-charge
   it: sud-di-fuerteventura-giornata-di-surf-in-piccolo-gruppo-con-prelievo
+  pt: sul-de-fuerteventura-dia-de-surf-em-grupo-reduzido-com-recolha-no-hotel
 duracion: 3 h 30 min
 duracionMinutos: 210
 precioDesde: 51

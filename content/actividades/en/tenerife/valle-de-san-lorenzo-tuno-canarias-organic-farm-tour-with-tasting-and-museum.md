@@ -4,6 +4,7 @@ slug: valle-de-san-lorenzo-tuno-canarias-organic-farm-tour-with-tasting-and-muse
 ciudad: tenerife
 descripcion: A 1.5-hour guided visit to Tuno Canarias, an organic plantation of red-fleshed prickly pear (Higo Tinto) in the south of Tenerife, with a tasting of the fresh fruit and farm-made yoghurts, the farm animals, trails to viewpoints over old volcanoes and an ethnographic museum with a short film. Rated 4.8/5 from 188 reviews. From €16.
 slugs:
+  es: valle-de-san-lorenzo-finca-ecologica-tuno-canarias-con-degustacion-y-museo
   en: valle-de-san-lorenzo-tuno-canarias-organic-farm-tour-with-tasting-and-museum
   fr: valle-de-san-lorenzo-ferme-bio-tuno-canarias-avec-degustation-et-musee
   it: valle-de-san-lorenzo-fattoria-biologica-tuno-canarias-con-degustazione-e-museo

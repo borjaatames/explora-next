@@ -4,10 +4,12 @@ slug: gran-canaria-balade-a-dos-de-dromadaire-au-camel-safari-park-la-baranda
 ciudad: gran-canaria
 descripcion: Une balade de 30 minutes à dos de dromadaire au Camel Safari Park La Baranda, sur la route de Fataga au-dessus de Maspalomas, dans une oasis de mille palmiers présentée comme tricentenaire, avec entrée au parc pour voir d'autres animaux et le jardin. 4,1/5 sur 355 avis. Dès 20 €.
 slugs:
+  es: gran-canaria-paseo-en-camello-en-el-camel-safari-park-la-baranda
   en: gran-canaria-camel-ride-at-camel-safari-park-la-baranda
   de: gran-canaria-kamelritt-im-camel-safari-park-la-baranda
   fr: gran-canaria-balade-a-dos-de-dromadaire-au-camel-safari-park-la-baranda
   it: gran-canaria-giro-in-cammello-al-camel-safari-park-la-baranda
+  pt: gran-canaria-passeio-de-camelo-no-camel-safari-park-la-baranda
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 20

@@ -4,6 +4,7 @@ slug: gran-canaria-gefuehrter-ausflug-nach-telde-agueimes-und-in-die-schlucht-vo
 ciudad: gran-canaria
 descripcion: 'Ein 7-stündiger geführter Busausflug in den Osten Gran Canarias: eine Aloe-vera-Farm, das Bufadero de La Garita, kanarische Tapas in einem typischen Restaurant in der Schlucht von Guayadeque und die historischen Orte Telde und Agüimes, mit Hoteltransfer und lokalem Guide. 4,5/5 bei 23 Bewertungen. Ab 58 €.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-telde-agueimes-y-el-barranco-de-guayadeque
   en: gran-canaria-guided-trip-to-telde-agueimes-and-the-guayadeque-ravine
   de: gran-canaria-gefuehrter-ausflug-nach-telde-agueimes-und-in-die-schlucht-von-guay
   fr: gran-canaria-excursion-guidee-a-telde-agueimes-et-au-ravin-de-guayadeque

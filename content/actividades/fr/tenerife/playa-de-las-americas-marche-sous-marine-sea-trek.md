@@ -4,10 +4,12 @@ slug: playa-de-las-americas-marche-sous-marine-sea-trek
 ciudad: tenerife
 descripcion: Marchez sur le fond marin au large de Playa de las Américas avec un casque Sea Trek alimenté en air en continu, en respirant normalement sans avoir à nager, près des poissons et des formations volcaniques, par groupes de 4 sous l'eau avec moniteurs diplômés, combinaison, casiers et assurance. 4,9/5 sur 486 avis. Dès 77 €.
 slugs:
+  es: playa-de-las-americas-paseo-submarino-sea-trek
   en: playa-de-las-americas-sea-trek-underwater-walk
   de: playa-de-las-americas-unterwasserspaziergang-mit-sea-trek
   fr: playa-de-las-americas-marche-sous-marine-sea-trek
   it: playa-de-las-americas-passeggiata-subacquea-sea-trek
+  pt: playa-de-las-americas-passeio-subaquatico-sea-trek
 duracion: 1 heure
 duracionMinutos: 60
 precioDesde: 77

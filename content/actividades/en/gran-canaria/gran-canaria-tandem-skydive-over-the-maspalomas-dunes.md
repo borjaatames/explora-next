@@ -4,10 +4,12 @@ slug: gran-canaria-tandem-skydive-over-the-maspalomas-dunes
 ciudad: gran-canaria
 descripcion: 'A tandem skydive from 3,000 metres over Maspalomas: a 20 to 25-minute scenic flight, freefall at more than 200 km/h and 5 to 8 minutes under the parachute, with equipment, instructions and training, in a 90-minute activity. Rated 4.8/5 from 118 reviews. From €299.'
 slugs:
+  es: gran-canaria-salto-en-paracaidas-en-tandem-sobre-las-dunas-de-maspalomas
   en: gran-canaria-tandem-skydive-over-the-maspalomas-dunes
   de: gran-canaria-tandemsprung-ueber-den-duenen-von-maspalomas
   fr: gran-canaria-saut-en-parachute-tandem-au-dessus-des-dunes-de-maspalomas
   it: gran-canaria-lancio-col-paracadute-in-tandem-sulle-dune-di-maspalomas
+  pt: gran-canaria-salto-de-paraquedas-em-tandem-sobre-as-dunas-de-maspalomas
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 299

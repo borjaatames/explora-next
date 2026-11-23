@@ -4,10 +4,12 @@ slug: gran-canaria-saut-en-parachute-tandem-au-dessus-des-dunes-de-maspalomas
 ciudad: gran-canaria
 descripcion: 'Un saut en parachute tandem depuis 3 000 mètres au-dessus de Maspalomas : 20 à 25 minutes de vol panoramique, chute libre à plus de 200 km/h et 5 à 8 minutes sous voile, avec équipement, consignes et entraînement, pour une activité de 90 minutes. 4,8/5 sur 118 avis. Dès 299 €.'
 slugs:
+  es: gran-canaria-salto-en-paracaidas-en-tandem-sobre-las-dunas-de-maspalomas
   en: gran-canaria-tandem-skydive-over-the-maspalomas-dunes
   de: gran-canaria-tandemsprung-ueber-den-duenen-von-maspalomas
   fr: gran-canaria-saut-en-parachute-tandem-au-dessus-des-dunes-de-maspalomas
   it: gran-canaria-lancio-col-paracadute-in-tandem-sulle-dune-di-maspalomas
+  pt: gran-canaria-salto-de-paraquedas-em-tandem-sobre-as-dunas-de-maspalomas
 duracion: 1 h 30
 duracionMinutos: 90
 precioDesde: 299

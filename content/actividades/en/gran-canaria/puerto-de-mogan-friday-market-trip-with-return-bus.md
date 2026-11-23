@@ -4,6 +4,7 @@ slug: puerto-de-mogan-friday-market-trip-with-return-bus
 ciudad: gran-canaria
 descripcion: A 4.5-hour trip by direct bus from your resort to the Friday street market in Puerto de Mogán, with free time to browse Canarian crafts and food, fashion and souvenirs, and to stroll the canals, the beach and the marina, with a guide assistant on the transfers. Rated 4.1/5 from 256 reviews. From €22.
 slugs:
+  es: puerto-de-mogan-mercadillo-del-viernes-con-autobus-de-ida-y-vuelta
   en: puerto-de-mogan-friday-market-trip-with-return-bus
   de: puerto-de-mogan-ausflug-zum-freitagsmarkt-mit-bus-hin-und-zurueck
 duracion: 4 h 30 min

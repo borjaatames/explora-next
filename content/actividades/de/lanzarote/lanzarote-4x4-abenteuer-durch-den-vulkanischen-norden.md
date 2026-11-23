@@ -4,6 +4,7 @@ slug: lanzarote-4x4-abenteuer-durch-den-vulkanischen-norden
 ciudad: lanzarote
 descripcion: 'Ein 6-stündiger 4x4-Ausflug durch den vulkanischen Norden Lanzarotes mit Guide, der Geologie, Kultur und Geschichte erklärt: Fotostopps in Guatiza, am Mirador de los Helechos und am Mirador de las Nieves, Freizeit im historischen Teguise, die wilde Küste von Famara und ein Stopp in einer Touristeninformation zu den vulkanischen Ursprüngen, mit Abholung an deiner Unterkunft. 4,7/5 bei 22 Bewertungen. Ab 72 €.'
 slugs:
+  es: lanzarote-aventura-en-4x4-por-el-norte-volcanico
   en: lanzarote-4x4-adventure-through-the-volcanic-north
   de: lanzarote-4x4-abenteuer-durch-den-vulkanischen-norden
   fr: lanzarote-aventure-en-4x4-dans-le-nord-volcanique

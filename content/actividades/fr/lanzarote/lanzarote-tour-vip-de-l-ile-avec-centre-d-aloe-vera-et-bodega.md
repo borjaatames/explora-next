@@ -4,6 +4,7 @@ slug: lanzarote-tour-vip-de-l-ile-avec-centre-d-aloe-vera-et-bodega
 ciudad: lanzarote
 descripcion: 'Un tour de 7 h 30 en petit groupe dans un véhicule climatisé avec guide professionnel : paysages volcaniques, le Mirador de Las Nieves, le centre Aloe Vera Lanzarote, la vallée des Mille Palmiers à Haría et une bodega traditionnelle avec petite dégustation offerte de vin local. 4,5/5 sur 50 avis. Dès 68 €.'
 slugs:
+  es: lanzarote-vuelta-vip-a-la-isla-con-centro-de-aloe-vera-y-bodega
   en: lanzarote-vip-island-tour-with-aloe-vera-centre-and-winery
   de: lanzarote-vip-inselrundfahrt-mit-aloe-vera-zentrum-und-weingut
   fr: lanzarote-tour-vip-de-l-ile-avec-centre-d-aloe-vera-et-bodega

@@ -4,6 +4,7 @@ slug: fuerteventura-small-group-island-tour-with-cheese-tasting
 ciudad: fuerteventura
 descripcion: 'A 6.5-hour small-group tour of inland Fuerteventura with entry fees included: an aloe vera farm, La Entallada lighthouse, an artisan cheese dairy with tasting, the Ajuy caves, the Risco de las Peñas viewpoint, Betancuria and the Cheese Museum, with a guide in your language and transport from your accommodation in the north or south. Rated 4.6/5 from 32 reviews. From €81.'
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-en-grupo-reducido-con-cata-de-quesos
   en: fuerteventura-small-group-island-tour-with-cheese-tasting
   de: fuerteventura-inselrundfahrt-in-kleiner-gruppe-mit-kaeseverkostung
 duracion: 6 h 30 min

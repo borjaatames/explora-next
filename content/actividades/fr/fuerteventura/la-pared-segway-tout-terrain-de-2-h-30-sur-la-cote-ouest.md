@@ -4,6 +4,7 @@ slug: la-pared-segway-tout-terrain-de-2-h-30-sur-la-cote-ouest
 ciudad: fuerteventura
 descripcion: Une sortie guidée de 2 h 30 en Segway X2 tout-terrain sur la côte ouest sauvage de Fuerteventura à La Pared, sur des pistes désertiques, avec leçon de conduite, guide local qui raconte la culture de l'île, casque et prise en charge à l'hôtel. 4,7/5 sur 26 avis. Dès 79 €.
 slugs:
+  es: la-pared-ruta-de-2-5-horas-en-segway-todoterreno-por-la-costa-oeste
   en: la-pared-2-5-hour-off-road-segway-tour-on-the-west-coast
   de: la-pared-2-5-stunden-segway-tour-im-gelaende-an-der-westkueste
   fr: la-pared-segway-tout-terrain-de-2-h-30-sur-la-cote-ouest

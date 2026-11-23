@@ -4,6 +4,7 @@ slug: fuerteventura-guided-hike-in-the-north-with-calderon-hondo-and-el-cotillo
 ciudad: fuerteventura
 descripcion: 'A 5.5-hour easy hike in the north of Fuerteventura with an expert geology guide, in a group of at most 8: the crater of Calderón Hondo with views to Lanzarote, the lagoons and beaches of El Cotillo, the Tostón lighthouse and fossil dunes cut by ravines, with hotel pick-up. Rated 4.8/5 from 43 reviews. From €47.'
 slugs:
+  es: fuerteventura-senderismo-guiado-por-el-norte-con-calderon-hondo-y-el-cotillo
   en: fuerteventura-guided-hike-in-the-north-with-calderon-hondo-and-el-cotillo
   fr: fuerteventura-randonnee-guidee-dans-le-nord-calderon-hondo-et-el-cotillo
   it: fuerteventura-escursione-guidata-nel-nord-con-calderon-hondo-ed-el-cotillo

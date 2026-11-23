@@ -4,6 +4,7 @@ slug: from-maspalomas-barranco-de-las-vacas-and-caves-with-local-guides
 ciudad: gran-canaria
 descripcion: A 4-hour small-group trip from Maspalomas to the Barranco de las Vacas early in the morning, before the crowds, then beyond the ravine to a little-known archaeological site and the village of Temisas, with two local guides, a light picnic and an air-conditioned minivan for up to 6. Rated 4.9/5 from 193 reviews. From €74.
 slugs:
+  es: desde-maspalomas-barranco-de-las-vacas-y-cuevas-con-guias-locales
   en: from-maspalomas-barranco-de-las-vacas-and-caves-with-local-guides
 duracion: 4 hours
 duracionMinutos: 240

@@ -4,6 +4,7 @@ slug: fuerteventura-off-road-safari-to-el-cotillo-and-the-jewels-of-the-north
 ciudad: fuerteventura
 descripcion: 'An 8-hour off-road safari in a small group through the north of Fuerteventura: the dunes, the Calderón Hondo volcano and the lagoons of El Cotillo, with entry to an aloe vera farm, a guide in your language and hotel transfer. Rated 4.3/5 from 14 reviews. From €69.'
 slugs:
+  es: fuerteventura-safari-todoterreno-a-el-cotillo-y-las-joyas-del-norte
   en: fuerteventura-off-road-safari-to-el-cotillo-and-the-jewels-of-the-north
   fr: fuerteventura-safari-tout-terrain-a-el-cotillo-et-aux-joyaux-du-nord
   it: fuerteventura-safari-fuoristrada-a-el-cotillo-e-i-gioielli-del-nord

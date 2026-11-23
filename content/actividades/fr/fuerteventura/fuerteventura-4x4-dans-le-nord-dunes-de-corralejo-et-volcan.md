@@ -4,6 +4,7 @@ slug: fuerteventura-4x4-dans-le-nord-dunes-de-corralejo-et-volcan
 ciudad: fuerteventura
 descripcion: 'Une sortie de 6 heures en 4x4 en petit groupe dans le nord de Fuerteventura : Majanicho, le phare du Tostón, la plage de La Concha et des piscines naturelles, les dunes de Corralejo et un volcan, avec du temps pour se baigner, faire du snorkeling, marcher et goûter la cuisine locale, guide-chauffeur dans votre langue et prise en charge dans le sud. 4,5/5 sur 45 avis. Dès 69 €.'
 slugs:
+  es: fuerteventura-ruta-en-4x4-por-el-norte-las-dunas-de-corralejo-y-un-volcan
   en: fuerteventura-4x4-tour-of-the-north-corralejo-dunes-and-a-volcano
   de: fuerteventura-4x4-tour-durch-den-norden-duenen-von-corralejo-und-vulkan
   fr: fuerteventura-4x4-dans-le-nord-dunes-de-corralejo-et-volcan

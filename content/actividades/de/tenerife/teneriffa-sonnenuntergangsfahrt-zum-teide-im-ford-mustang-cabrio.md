@@ -4,10 +4,12 @@ slug: teneriffa-sonnenuntergangsfahrt-zum-teide-im-ford-mustang-cabrio
 ciudad: tenerife
 descripcion: Eine 3-stündige Tour zum Sonnenuntergang auf den Teide im Ford Mustang Cabrio, selbst am Steuer oder als Beifahrer, auf einer der fotogensten Strecken Teneriffas, mit Aperitif, Snack, Getränk und Hoteltransfer. 4,9/5 bei 152 Bewertungen. Ab 125 €.
 slugs:
+  es: tenerife-ruta-al-atardecer-al-teide-en-ford-mustang-descapotable
   en: tenerife-sunset-drive-to-teide-in-a-ford-mustang-convertible
   de: teneriffa-sonnenuntergangsfahrt-zum-teide-im-ford-mustang-cabrio
   fr: tenerife-coucher-de-soleil-au-teide-en-ford-mustang-cabriolet
   it: tenerife-tramonto-sul-teide-in-ford-mustang-cabrio
+  pt: tenerife-passeio-ao-por-do-sol-ao-teide-num-ford-mustang-descapotavel
 duracion: 3 Stunden
 duracionMinutos: 180
 precioDesde: 125

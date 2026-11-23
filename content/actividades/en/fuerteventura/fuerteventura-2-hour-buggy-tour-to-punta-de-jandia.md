@@ -4,6 +4,7 @@ slug: fuerteventura-2-hour-buggy-tour-to-punta-de-jandia
 ciudad: fuerteventura
 descripcion: A guided buggy tour of up to 2 hours from the south of Fuerteventura towards Punta de Jandía, meeting the local goats along the way, with pick-up in Costa Calma, Jandía and Esquinzo. The price is per buggy for up to 2. Rated 4.5/5 from 49 reviews. From €150 per group.
 slugs:
+  es: fuerteventura-ruta-de-2-horas-en-buggy-hacia-punta-de-jandia
   en: fuerteventura-2-hour-buggy-tour-to-punta-de-jandia
 duracion: 2 hours
 duracionMinutos: 120

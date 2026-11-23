@@ -4,6 +4,7 @@ slug: lanzarote-vip-island-tour-with-aloe-vera-centre-and-winery
 ciudad: lanzarote
 descripcion: 'A 7.5-hour small-group tour of Lanzarote in an air-conditioned vehicle with a professional guide: volcanic landscapes, the Mirador de Las Nieves viewpoint, the Aloe Vera Lanzarote centre, the Valley of a Thousand Palms in Haría and a traditional winery with a small complimentary tasting of local wine. Rated 4.5/5 from 50 reviews. From €68.'
 slugs:
+  es: lanzarote-vuelta-vip-a-la-isla-con-centro-de-aloe-vera-y-bodega
   en: lanzarote-vip-island-tour-with-aloe-vera-centre-and-winery
   de: lanzarote-vip-inselrundfahrt-mit-aloe-vera-zentrum-und-weingut
   fr: lanzarote-tour-vip-de-l-ile-avec-centre-d-aloe-vera-et-bodega

@@ -4,6 +4,7 @@ slug: puerto-del-carmen-off-road-buggy-adventure
 ciudad: lanzarote
 descripcion: A 2-hour guided off-road buggy tour from Puerto del Carmen through the volcanic terrain of Lanzarote, with a full briefing before setting off, photo stops at key viewpoints and a high-altitude view of the island, with fuel and insurance included. The price is per buggy for up to 4. Rated 4.6/5 from 159 reviews. From €250 per group.
 slugs:
+  es: puerto-del-carmen-aventura-en-buggy-por-pistas
   en: puerto-del-carmen-off-road-buggy-adventure
 duracion: 2 hours
 duracionMinutos: 120

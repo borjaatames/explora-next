@@ -4,6 +4,7 @@ slug: maspalomas-e-bike-mountain-tour-to-ayagaures-with-optional-cave-tapas
 ciudad: gran-canaria
 descripcion: A 3-hour guided e-bike tour from Maspalomas past the dunes and through the Ayagaures valley to a panoramic viewpoint at its highest point, on paved roads only, with helmet, reflective vest, a local guide, water and a soft drink or coffee; tapas in a cave can be added. Rated 4.8/5 from 69 reviews. From €79.
 slugs:
+  es: maspalomas-ruta-de-montana-en-bici-electrica-a-ayagaures-con-tapas-en-cueva-opci
   en: maspalomas-e-bike-mountain-tour-to-ayagaures-with-optional-cave-tapas
   it: maspalomas-tour-in-bici-elettrica-in-montagna-fino-ad-ayagaures-con-tapas-in-gro
 duracion: 3 hours

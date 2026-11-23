@@ -4,6 +4,7 @@ slug: da-costa-adeje-guida-una-jeep-wrangler-fino-al-teide-al-tramonto
 ciudad: tenerife
 descripcion: Quattro ore al volante della tua Jeep Wrangler in un convoglio guidato da Costa Adeje al Parco Nazionale del Teide, con soste in belvedere tranquilli e il tramonto sul mare di nuvole, in piccolo gruppo con briefing, guida in testa per tutto il percorso, bibite fresche e giacca se serve. 4,9/5 su 114 recensioni. Da 53 €.
 slugs:
+  es: desde-costa-adeje-conduce-un-jeep-wrangler-al-teide-al-atardecer
   en: from-costa-adeje-drive-a-jeep-wrangler-to-teide-at-sunset
   it: da-costa-adeje-guida-una-jeep-wrangler-fino-al-teide-al-tramonto
 duracion: 4 ore

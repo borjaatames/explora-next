@@ -4,6 +4,7 @@ slug: la-pared-2-5-stunden-segway-tour-im-gelaende-an-der-westkueste
 ciudad: fuerteventura
 descripcion: Eine 2,5-stündige geführte Tour auf Gelände-Segways X2 an der wilden Westküste Fuerteventuras bei La Pared, auf Wüstenpisten, mit Fahrstunde, einem lokalen Guide, der die Kultur der Insel erklärt, Helm und Hotelabholung. 4,7/5 bei 26 Bewertungen. Ab 79 €.
 slugs:
+  es: la-pared-ruta-de-2-5-horas-en-segway-todoterreno-por-la-costa-oeste
   en: la-pared-2-5-hour-off-road-segway-tour-on-the-west-coast
   de: la-pared-2-5-stunden-segway-tour-im-gelaende-an-der-westkueste
   fr: la-pared-segway-tout-terrain-de-2-h-30-sur-la-cote-ouest

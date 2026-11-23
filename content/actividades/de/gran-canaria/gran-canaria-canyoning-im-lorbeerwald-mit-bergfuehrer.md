@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-im-lorbeerwald-mit-bergfuehrer
 ciudad: gran-canaria
 descripcion: 'Ein 4-stündiges Canyoning in den Schluchten des Lorbeerwalds auf Gran Canaria mit einem Bergführer mit AEGM/UIMLA-Zertifikat: durch die Bachbetten gehen, über die Felsen rutschen und die Natur erleben, mit Abholung vom Hotel, Canyoning-Ausrüstung und Erinnerungsfoto. 4,8/5 bei 50 Bewertungen. Ab 85 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-la-laurisilva-con-guia-de-montana
   en: gran-canaria-canyoning-in-the-laurel-forest-with-a-mountain-guide
   de: gran-canaria-canyoning-im-lorbeerwald-mit-bergfuehrer
   fr: gran-canaria-canyoning-dans-la-foret-de-lauriers-avec-guide-de-montagne
   it: gran-canaria-canyoning-nella-laurisilva-con-guida-di-montagna
+  pt: gran-canaria-canyoning-na-laurissilva-com-guia-de-montanha
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 85

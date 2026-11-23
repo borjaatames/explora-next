@@ -4,6 +4,7 @@ slug: puerto-de-mogan-boat-trip-and-wine-pairing-on-the-quay-with-the-owners
 ciudad: gran-canaria
 descripcion: 'A relaxed 3-hour small-group experience with Marta and Rubén, the owners of the Yellow Boat: a 1-hour cruise along the volcanic south coast, then a three-course Canarian tasting menu paired with local wines on the moored boat, with Teror chorizo, local cheeses and olive oil, under shaded U-shaped seating. Rated 4.9/5 from 37 reviews. From €65.'
 slugs:
+  es: puerto-de-mogan-paseo-en-barco-y-maridaje-de-vinos-en-el-muelle-con-los-duenos
   en: puerto-de-mogan-boat-trip-and-wine-pairing-on-the-quay-with-the-owners
 duracion: 3 hours
 duracionMinutos: 180

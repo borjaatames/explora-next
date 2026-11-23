@@ -4,6 +4,7 @@ slug: fuerteventura-4x4-safari-through-jandia-natural-park-to-cofete
 ciudad: fuerteventura
 descripcion: A 5-hour small-group 4x4 safari through Jandía Natural Park to Cofete beach, the Punta de Jandía lighthouse and Puertito de la Cruz, with a local guide who drives and explains in your language, in a closed 4x4 for at most 6 passengers, with hotel pick-up in the designated areas. Rated 4.3/5 from 46 reviews. From €69.
 slugs:
+  es: fuerteventura-safari-en-4x4-por-el-parque-natural-de-jandia-hasta-cofete
   en: fuerteventura-4x4-safari-through-jandia-natural-park-to-cofete
   de: fuerteventura-4x4-safari-durch-den-naturpark-jandia-nach-cofete
   fr: fuerteventura-safari-en-4x4-dans-le-parc-naturel-de-jandia-jusqu-a-cofete

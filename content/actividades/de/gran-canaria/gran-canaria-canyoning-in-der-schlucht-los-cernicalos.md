@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-in-der-schlucht-los-cernicalos
 ciudad: gran-canaria
 descripcion: 'Ein 4-stündiges Canyoning im Naturreservat Los Marteles in Los Cernícalos, laut Anbieter die einzige Schlucht Gran Canarias mit ganzjährig Wasser: an Wasserfällen abseilen, durch Becken waten und zwischen heimischen Weiden wandern, immer mit zusätzlichem Sicherungsseil, mit Guide, Ausrüstung, Versicherung, Fotos und Snack. 4,6/5 bei 40 Bewertungen. Ab 65 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-el-barranco-de-los-cernicalos
   en: gran-canaria-canyoning-in-los-cernicalos-ravine
   de: gran-canaria-canyoning-in-der-schlucht-los-cernicalos
   fr: gran-canaria-canyoning-dans-le-ravin-de-los-cernicalos
   it: gran-canaria-canyoning-nel-burrone-di-los-cernicalos
+  pt: gran-canaria-canyoning-no-barranco-de-los-cernicalos
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 65

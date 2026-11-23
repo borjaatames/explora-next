@@ -4,10 +4,12 @@ slug: gran-canaria-giro-in-cammello-al-camel-safari-park-la-baranda
 ciudad: gran-canaria
 descripcion: Un giro in cammello di 30 minuti al Camel Safari Park La Baranda, sulla strada per Fataga sopra Maspalomas, in un'oasi di mille palme che si dice abbia 300 anni, con ingresso al parco per vedere altri animali e il giardino. 4,1/5 su 355 recensioni. Da 20 €.
 slugs:
+  es: gran-canaria-paseo-en-camello-en-el-camel-safari-park-la-baranda
   en: gran-canaria-camel-ride-at-camel-safari-park-la-baranda
   de: gran-canaria-kamelritt-im-camel-safari-park-la-baranda
   fr: gran-canaria-balade-a-dos-de-dromadaire-au-camel-safari-park-la-baranda
   it: gran-canaria-giro-in-cammello-al-camel-safari-park-la-baranda
+  pt: gran-canaria-passeio-de-camelo-no-camel-safari-park-la-baranda
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 20

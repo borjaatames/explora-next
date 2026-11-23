@@ -4,10 +4,12 @@ slug: gran-canaria-tandemsprung-ueber-den-duenen-von-maspalomas
 ciudad: gran-canaria
 descripcion: 'Ein Tandem-Fallschirmsprung aus 3.000 Metern über Maspalomas: 20 bis 25 Minuten Panoramaflug, freier Fall mit über 200 km/h und 5 bis 8 Minuten am Schirm, mit Ausrüstung, Einweisung und Training, in einer Aktivität von 90 Minuten. 4,8/5 bei 118 Bewertungen. Ab 299 €.'
 slugs:
+  es: gran-canaria-salto-en-paracaidas-en-tandem-sobre-las-dunas-de-maspalomas
   en: gran-canaria-tandem-skydive-over-the-maspalomas-dunes
   de: gran-canaria-tandemsprung-ueber-den-duenen-von-maspalomas
   fr: gran-canaria-saut-en-parachute-tandem-au-dessus-des-dunes-de-maspalomas
   it: gran-canaria-lancio-col-paracadute-in-tandem-sulle-dune-di-maspalomas
+  pt: gran-canaria-salto-de-paraquedas-em-tandem-sobre-as-dunas-de-maspalomas
 duracion: 1 Std. 30 Min.
 duracionMinutos: 90
 precioDesde: 299

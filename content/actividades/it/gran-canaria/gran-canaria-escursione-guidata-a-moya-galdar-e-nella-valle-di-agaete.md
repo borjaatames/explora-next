@@ -4,6 +4,7 @@ slug: gran-canaria-escursione-guidata-a-moya-galdar-e-nella-valle-di-agaete
 ciudad: gran-canaria
 descripcion: 'Un''escursione guidata di 9 ore in pullman nel nord di Gran Canaria: i centri storici di Moya e Gáldar, Puerto de las Nieves con la vista sul Dedo de Dios e la valle di Agaete con visita e degustazione alla cantina Los Berrazales, che coltiva anche caffè, con prelievo in hotel e guida locale. 4,5/5 su 25 recensioni. Da 62 €.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-moya-galdar-y-el-valle-de-agaete
   en: gran-canaria-guided-trip-to-moya-galdar-and-the-agaete-valley
   de: gran-canaria-gefuehrter-ausflug-nach-moya-galdar-und-ins-agaete-tal
   fr: gran-canaria-excursion-guidee-a-moya-galdar-et-dans-la-vallee-d-agaete

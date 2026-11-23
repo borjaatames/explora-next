@@ -4,6 +4,7 @@ slug: valle-de-san-lorenzo-fattoria-biologica-tuno-canarias-con-degustazione-e-m
 ciudad: tenerife
 descripcion: Una visita guidata di 1 ora e mezza a Tuno Canarias, piantagione biologica di fico d'India a polpa rossa (Higo Tinto) nel sud di Tenerife, con degustazione del frutto fresco e di yogurt della fattoria, gli animali, sentieri verso belvedere su antichi vulcani e un museo etnografico con un cortometraggio. 4,8/5 su 188 recensioni. Da 16 €.
 slugs:
+  es: valle-de-san-lorenzo-finca-ecologica-tuno-canarias-con-degustacion-y-museo
   en: valle-de-san-lorenzo-tuno-canarias-organic-farm-tour-with-tasting-and-museum
   fr: valle-de-san-lorenzo-ferme-bio-tuno-canarias-avec-degustation-et-musee
   it: valle-de-san-lorenzo-fattoria-biologica-tuno-canarias-con-degustazione-e-museo

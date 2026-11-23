@@ -4,6 +4,7 @@ slug: da-lanzarote-gita-di-un-giorno-a-fuerteventura-corralejo-ed-el-cotillo
 ciudad: lanzarote
 descripcion: 'Una gita di 9 ore da Lanzarote in traghetto fino a Fuerteventura con guida multilingue: le dune del parco naturale di Corralejo, il villaggio di pescatori di El Cotillo e tempo libero per prendere il sole, con trasferimento in bus dal punto d''incontro più vicino al tuo hotel. 4,2/5 su 1.087 recensioni. Da 62 €.'
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-corralejo-y-el-cotillo
   en: from-lanzarote-day-trip-to-fuerteventura-corralejo-and-el-cotillo
   de: ab-lanzarote-tagesausflug-nach-fuerteventura-corralejo-und-el-cotillo
   fr: depuis-lanzarote-excursion-d-une-journee-a-fuerteventura-corralejo-et-el-cotillo

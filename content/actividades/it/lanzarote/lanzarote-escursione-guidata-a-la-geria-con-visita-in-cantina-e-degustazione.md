@@ -4,6 +4,7 @@ slug: lanzarote-escursione-guidata-a-la-geria-con-visita-in-cantina-e-degustazio
 ciudad: lanzarote
 descripcion: Un'escursione circolare di 3 ore e mezza nel paesaggio protetto di La Geria, tra viti secolari, con una guida locale abilitata che spiega paesaggio, storia e tradizione del vino, con arrivo alle Bodegas Rubicón per la degustazione di un vino locale. 4,8/5 su 14 recensioni. Da 48 €.
 slugs:
+  es: lanzarote-senderismo-guiado-por-la-geria-con-visita-a-bodega-y-cata
   en: lanzarote-guided-hike-through-la-geria-with-winery-visit-and-tasting
   fr: lanzarote-randonnee-guidee-a-la-geria-avec-visite-de-bodega-et-degustation
   it: lanzarote-escursione-guidata-a-la-geria-con-visita-in-cantina-e-degustazione

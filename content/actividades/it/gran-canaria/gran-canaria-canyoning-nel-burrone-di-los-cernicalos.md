@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-nel-burrone-di-los-cernicalos
 ciudad: gran-canaria
 descripcion: 'Un''avventura di canyoning di 4 ore nella riserva naturale di Los Marteles, a Los Cernícalos, indicato dall''operatore come l''unico burrone di Gran Canaria con acqua tutto l''anno: calate in corda lungo le cascate, guadi nelle pozze e cammino tra salici autoctoni, sempre con una corda di sicurezza in più, con guida, attrezzatura, assicurazione, foto e snack. 4,6/5 su 40 recensioni. Da 65 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-el-barranco-de-los-cernicalos
   en: gran-canaria-canyoning-in-los-cernicalos-ravine
   de: gran-canaria-canyoning-in-der-schlucht-los-cernicalos
   fr: gran-canaria-canyoning-dans-le-ravin-de-los-cernicalos
   it: gran-canaria-canyoning-nel-burrone-di-los-cernicalos
+  pt: gran-canaria-canyoning-no-barranco-de-los-cernicalos
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 65

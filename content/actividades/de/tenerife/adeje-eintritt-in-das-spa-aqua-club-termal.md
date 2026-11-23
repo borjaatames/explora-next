@@ -4,10 +4,12 @@ slug: adeje-eintritt-in-das-spa-aqua-club-termal
 ciudad: tenerife
 descripcion: 'Ein Tagesticket für den Aqua Club Termal in Torviscas Alto, Costa Adeje, ein großes Stadt-Spa mit 18 Bereichen: Hydromassage-, Entspannungs- und Tonisierungsbecken, Hamam, Saunen, ein Duschtempel mit ätherischen Ölen und Ruhezonen. 4,5/5 bei 769 Bewertungen. Ab 41 €.'
 slugs:
+  es: adeje-entrada-al-spa-aqua-club-termal
   en: adeje-entry-ticket-to-the-aqua-club-termal-spa
   de: adeje-eintritt-in-das-spa-aqua-club-termal
   fr: adeje-billet-d-entree-au-spa-aqua-club-termal
   it: adeje-biglietto-d-ingresso-alla-spa-aqua-club-termal
+  pt: adeje-bilhete-para-o-spa-aqua-club-termal
 duracion: 4 Stunden
 duracionMinutos: 240
 precioDesde: 41

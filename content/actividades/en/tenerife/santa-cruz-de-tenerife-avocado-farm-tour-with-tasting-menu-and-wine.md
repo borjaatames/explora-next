@@ -4,6 +4,7 @@ slug: santa-cruz-de-tenerife-avocado-farm-tour-with-tasting-menu-and-wine
 ciudad: tenerife
 descripcion: A 2.5-hour guided visit to a family farm of avocados, bananas and citrus in the Tahodio valley, just outside Santa Cruz, followed by a zero-kilometre Canarian lunch with local cheese, wrinkled potatoes with mojo, avocado, honey, roast pork and chickpeas, paired with a glass of Tenerife wine. Rated 4.9/5 from 145 reviews. From €50.
 slugs:
+  es: santa-cruz-de-tenerife-visita-a-una-finca-de-aguacates-con-menu-degustacion-y-vi
   en: santa-cruz-de-tenerife-avocado-farm-tour-with-tasting-menu-and-wine
 duracion: 2 h 30 min
 duracionMinutos: 150

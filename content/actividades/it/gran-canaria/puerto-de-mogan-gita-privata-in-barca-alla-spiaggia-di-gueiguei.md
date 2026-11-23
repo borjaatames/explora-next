@@ -4,6 +4,7 @@ slug: puerto-de-mogan-gita-privata-in-barca-alla-spiaggia-di-gueiguei
 ciudad: gran-canaria
 descripcion: Una gita privata di 4 ore in barca da Puerto de Mogán con skipper professionista fino a Güigüi, spiaggia incontaminata raggiungibile solo dal mare, con snorkeling in calette limpide, soste sotto scogliere vulcaniche, attrezzatura da snorkeling, bevande e snack leggeri; si possono avvistare delfini e balene se le condizioni lo permettono. 4,4/5 su 20 recensioni. Da 125 €.
 slugs:
+  es: puerto-de-mogan-barco-privado-a-la-playa-de-gueiguei
   en: puerto-de-mogan-private-boat-trip-to-gueiguei-beach
   it: puerto-de-mogan-gita-privata-in-barca-alla-spiaggia-di-gueiguei
 duracion: 4 ore

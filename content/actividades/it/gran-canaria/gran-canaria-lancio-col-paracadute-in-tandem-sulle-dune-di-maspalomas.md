@@ -4,10 +4,12 @@ slug: gran-canaria-lancio-col-paracadute-in-tandem-sulle-dune-di-maspalomas
 ciudad: gran-canaria
 descripcion: 'Un lancio in tandem da 3.000 metri sopra Maspalomas: 20-25 minuti di volo panoramico, caduta libera a oltre 200 km/h e 5-8 minuti sotto la vela, con attrezzatura, istruzioni e addestramento, in un''attività di 90 minuti. 4,8/5 su 118 recensioni. Da 299 €.'
 slugs:
+  es: gran-canaria-salto-en-paracaidas-en-tandem-sobre-las-dunas-de-maspalomas
   en: gran-canaria-tandem-skydive-over-the-maspalomas-dunes
   de: gran-canaria-tandemsprung-ueber-den-duenen-von-maspalomas
   fr: gran-canaria-saut-en-parachute-tandem-au-dessus-des-dunes-de-maspalomas
   it: gran-canaria-lancio-col-paracadute-in-tandem-sulle-dune-di-maspalomas
+  pt: gran-canaria-salto-de-paraquedas-em-tandem-sobre-as-dunas-de-maspalomas
 duracion: 1 h 30 min
 duracionMinutos: 90
 precioDesde: 299

@@ -4,6 +4,7 @@ slug: ab-lanzarote-tagesausflug-nach-fuerteventura-corralejo-und-el-cotillo
 ciudad: lanzarote
 descripcion: 'Ein 9-stündiger Tagesausflug ab Lanzarote mit der Fähre nach Fuerteventura mit mehrsprachigem Guide: die Dünen des Naturparks Corralejo, das Fischerdorf El Cotillo und Freizeit zum Sonnenbaden, mit Bustransfer ab dem Treffpunkt nahe deinem Hotel. 4,2/5 bei 1.087 Bewertungen. Ab 62 €.'
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-corralejo-y-el-cotillo
   en: from-lanzarote-day-trip-to-fuerteventura-corralejo-and-el-cotillo
   de: ab-lanzarote-tagesausflug-nach-fuerteventura-corralejo-und-el-cotillo
   fr: depuis-lanzarote-excursion-d-une-journee-a-fuerteventura-corralejo-et-el-cotillo

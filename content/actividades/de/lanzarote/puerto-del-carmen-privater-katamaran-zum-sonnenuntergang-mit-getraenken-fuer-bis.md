@@ -4,10 +4,12 @@ slug: puerto-del-carmen-privater-katamaran-zum-sonnenuntergang-mit-getraenken-fu
 ciudad: lanzarote
 descripcion: 'Eine 2-stündige private Katamaranfahrt ab Puerto del Carmen zum Sonnenuntergang für bis zu 12 Personen, mit Blick auf die Insel bis zu ihrem höchsten Punkt Peñas del Chache, Snacks und Getränken: Softdrinks, Wasser, Sangria, Bier und Champagner; Wakeboarden ist zubuchbar. Der Preis gilt pro Gruppe. 4,9/5 bei 46 Bewertungen. Ab 500 € pro Gruppe.'
 slugs:
+  es: puerto-del-carmen-catamaran-privado-al-atardecer-con-bebidas-para-hasta-12
   en: puerto-del-carmen-private-sunset-catamaran-with-drinks-for-up-to-12
   de: puerto-del-carmen-privater-katamaran-zum-sonnenuntergang-mit-getraenken-fuer-bis
   fr: puerto-del-carmen-catamaran-prive-au-coucher-du-soleil-avec-boissons-jusqu-a-12
   it: puerto-del-carmen-catamarano-privato-al-tramonto-con-bevande-fino-a-12
+  pt: puerto-del-carmen-catamara-privado-ao-por-do-sol-com-bebidas-para-ate-12
 duracion: 2 Stunden
 duracionMinutos: 120
 precioDesde: 500

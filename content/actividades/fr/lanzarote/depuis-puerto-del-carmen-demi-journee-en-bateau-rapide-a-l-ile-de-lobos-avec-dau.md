@@ -4,6 +4,7 @@ slug: depuis-puerto-del-carmen-demi-journee-en-bateau-rapide-a-l-ile-de-lobos-av
 ciudad: lanzarote
 descripcion: Une sortie de 5 h 30 en bateau rapide depuis Puerto del Carmen jusqu'à l'îlot de Lobos, environ 1 h 30 de trajet avec commentaires et possibilité de voir des dauphins, puis 2 h 30 de temps libre sur Lobos, avec prise en charge à l'hôtel et pique-nique avec boissons. 4,2/5 sur 691 avis. Dès 72 €.
 slugs:
+  es: desde-puerto-del-carmen-medio-dia-en-lancha-rapida-a-la-isla-de-lobos-con-delfin
   en: from-puerto-del-carmen-half-day-speedboat-trip-to-lobos-island-with-dolphins
   fr: depuis-puerto-del-carmen-demi-journee-en-bateau-rapide-a-l-ile-de-lobos-avec-dau
 duracion: 5 h 30

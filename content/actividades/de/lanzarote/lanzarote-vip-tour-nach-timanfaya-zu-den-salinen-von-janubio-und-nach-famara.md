@@ -4,6 +4,7 @@ slug: lanzarote-vip-tour-nach-timanfaya-zu-den-salinen-von-janubio-und-nach-fama
 ciudad: lanzarote
 descripcion: 'Eine 7-stündige Tour über Lanzarote in kleiner Gruppe im Minivan mit 8 Plätzen und mehrsprachigem Fahrer-Guide: Salinen von Janubio, Vulkangebiet Timanfaya, Mirador del Río und Mirador de las Nieves, Caletón Blanco und die wilde Küste von Famara, mit Abholung in Playa Blanca, Puerto del Carmen und Costa Teguise (Option ab Fuerteventura inklusive Fähre). 4,6/5 bei 14 Bewertungen. Ab 75 €.'
 slugs:
+  es: lanzarote-tour-vip-a-timanfaya-las-salinas-de-janubio-y-famara
   en: lanzarote-vip-tour-to-timanfaya-janubio-salt-flats-and-famara
   de: lanzarote-vip-tour-nach-timanfaya-zu-den-salinen-von-janubio-und-nach-famara
   fr: lanzarote-tour-vip-a-timanfaya-aux-salines-de-janubio-et-a-famara

@@ -4,10 +4,12 @@ slug: playa-de-las-americas-cours-de-surf-premium-avec-friends-of-the-ocean
 ciudad: tenerife
 descripcion: Un cours de surf de 2 heures, théorie et pratique, à Playa de las Américas avec Friends of the Ocean, en privé, semi-privé ou en groupe, avec planche, combinaison, chaussons et assurance, douches, casiers, café et eau offerts, photos et une heure de matériel gratuite en plus. 4,7/5 sur 34 avis. Dès 36 €.
 slugs:
+  es: playa-de-las-americas-clase-de-surf-premium-con-friends-of-the-ocean
   en: playa-de-las-americas-premium-surf-lesson-with-friends-of-the-ocean
   de: playa-de-las-americas-premium-surfkurs-mit-friends-of-the-ocean
   fr: playa-de-las-americas-cours-de-surf-premium-avec-friends-of-the-ocean
   it: playa-de-las-americas-lezione-di-surf-premium-con-friends-of-the-ocean
+  pt: playa-de-las-americas-aula-de-surf-premium-com-a-friends-of-the-ocean
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 36

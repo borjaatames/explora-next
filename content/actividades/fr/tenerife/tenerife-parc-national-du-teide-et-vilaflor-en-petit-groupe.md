@@ -4,6 +4,7 @@ slug: tenerife-parc-national-du-teide-et-vilaflor-en-petit-groupe
 ciudad: tenerife
 descripcion: Une sortie de 5 heures en minibus de 8 personnes maximum depuis le sud de Tenerife jusqu'au parc national du Teide, avec les Roques de García ou le volcan Sámara et une randonnée en option, puis Vilaflor et l'église de Santo Hermano Pedro avec dégustation de vin en option, prise en charge à l'hôtel et bâtons de marche. 4,8/5 sur 41 avis. Dès 60 €.
 slugs:
+  es: tenerife-parque-nacional-del-teide-y-vilaflor-en-grupo-reducido
   en: tenerife-small-group-tour-of-teide-national-park-and-vilaflor
   de: teneriffa-teide-nationalpark-und-vilaflor-in-kleiner-gruppe
   fr: tenerife-parc-national-du-teide-et-vilaflor-en-petit-groupe

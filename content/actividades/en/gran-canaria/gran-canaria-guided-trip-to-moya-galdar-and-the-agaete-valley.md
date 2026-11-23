@@ -4,6 +4,7 @@ slug: gran-canaria-guided-trip-to-moya-galdar-and-the-agaete-valley
 ciudad: gran-canaria
 descripcion: 'A 9-hour guided coach trip to the north of Gran Canaria: the old towns of Moya and Gáldar, Puerto de las Nieves with its views of the Dedo de Dios, and the Agaete valley with a visit and tasting at the Los Berrazales winery, which also grows coffee, with hotel pick-up and a local guide. Rated 4.5/5 from 25 reviews. From €62.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-moya-galdar-y-el-valle-de-agaete
   en: gran-canaria-guided-trip-to-moya-galdar-and-the-agaete-valley
   de: gran-canaria-gefuehrter-ausflug-nach-moya-galdar-und-ins-agaete-tal
   fr: gran-canaria-excursion-guidee-a-moya-galdar-et-dans-la-vallee-d-agaete

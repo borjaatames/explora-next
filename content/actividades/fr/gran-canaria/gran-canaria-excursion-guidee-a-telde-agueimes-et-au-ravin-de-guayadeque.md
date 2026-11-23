@@ -4,6 +4,7 @@ slug: gran-canaria-excursion-guidee-a-telde-agueimes-et-au-ravin-de-guayadeque
 ciudad: gran-canaria
 descripcion: 'Une excursion guidée de 7 heures en autocar dans l''est de Gran Canaria : une ferme d''aloe vera, le souffleur de La Garita, des tapas canariennes dans un restaurant typique du ravin de Guayadeque et les villes historiques de Telde et Agüimes, avec transferts depuis l''hôtel et guide local. 4,5/5 sur 23 avis. Dès 58 €.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-telde-agueimes-y-el-barranco-de-guayadeque
   en: gran-canaria-guided-trip-to-telde-agueimes-and-the-guayadeque-ravine
   de: gran-canaria-gefuehrter-ausflug-nach-telde-agueimes-und-in-die-schlucht-von-guay
   fr: gran-canaria-excursion-guidee-a-telde-agueimes-et-au-ravin-de-guayadeque

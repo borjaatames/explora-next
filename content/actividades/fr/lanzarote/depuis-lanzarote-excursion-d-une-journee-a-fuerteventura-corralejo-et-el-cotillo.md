@@ -4,6 +4,7 @@ slug: depuis-lanzarote-excursion-d-une-journee-a-fuerteventura-corralejo-et-el-c
 ciudad: lanzarote
 descripcion: 'Une excursion de 9 heures depuis Lanzarote en ferry jusqu''à Fuerteventura avec un guide multilingue : les dunes du parc naturel de Corralejo, le village de pêcheurs d''El Cotillo et du temps libre pour bronzer, avec transfert en bus depuis le point de rendez-vous le plus proche de votre hôtel. 4,2/5 sur 1.087 avis. Dès 62 €.'
 slugs:
+  es: desde-lanzarote-excursion-de-un-dia-a-fuerteventura-corralejo-y-el-cotillo
   en: from-lanzarote-day-trip-to-fuerteventura-corralejo-and-el-cotillo
   de: ab-lanzarote-tagesausflug-nach-fuerteventura-corralejo-und-el-cotillo
   fr: depuis-lanzarote-excursion-d-une-journee-a-fuerteventura-corralejo-et-el-cotillo

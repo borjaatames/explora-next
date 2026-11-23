@@ -4,6 +4,7 @@ slug: gran-canaria-gefuehrter-ausflug-nach-moya-galdar-und-ins-agaete-tal
 ciudad: gran-canaria
 descripcion: 'Ein 9-stündiger geführter Busausflug in den Norden Gran Canarias: die Altstädte von Moya und Gáldar, Puerto de las Nieves mit Blick auf den Dedo de Dios und das Agaete-Tal mit Besuch und Verkostung im Weingut Los Berrazales, das auch Kaffee anbaut, mit Hotelabholung und lokalem Guide. 4,5/5 bei 25 Bewertungen. Ab 62 €.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-moya-galdar-y-el-valle-de-agaete
   en: gran-canaria-guided-trip-to-moya-galdar-and-the-agaete-valley
   de: gran-canaria-gefuehrter-ausflug-nach-moya-galdar-und-ins-agaete-tal
   fr: gran-canaria-excursion-guidee-a-moya-galdar-et-dans-la-vallee-d-agaete

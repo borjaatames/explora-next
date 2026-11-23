@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-nella-laurisilva-con-guida-di-montagna
 ciudad: gran-canaria
 descripcion: 'Un''uscita di canyoning di 4 ore nei burroni della laurisilva di Gran Canaria con una guida di montagna certificata AEGM/UIMLA: si scende lungo i letti dei torrenti, si scivola sulle rocce e si torna a contatto con la natura, con prelievo in hotel, attrezzatura e foto ricordo. 4,8/5 su 50 recensioni. Da 85 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-la-laurisilva-con-guia-de-montana
   en: gran-canaria-canyoning-in-the-laurel-forest-with-a-mountain-guide
   de: gran-canaria-canyoning-im-lorbeerwald-mit-bergfuehrer
   fr: gran-canaria-canyoning-dans-la-foret-de-lauriers-avec-guide-de-montagne
   it: gran-canaria-canyoning-nella-laurisilva-con-guida-di-montagna
+  pt: gran-canaria-canyoning-na-laurissilva-com-guia-de-montanha
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 85

@@ -4,6 +4,7 @@ slug: santa-cruz-de-tenerife-rad-und-e-bike-tour-zu-den-highlights-der-stadt
 ciudad: tenerife
 descripcion: Eine 2,5-stündige geführte Tour durch Santa Cruz de Tenerife mit normalem Rad oder E-Bike, auf meist flachen, anfängerfreundlichen Wegen, vorbei an Denkmälern, versteckten Ecken und Aussichtspunkten, mit Fotostopps, Tipps und Geschichten zur Stadt. 4,6/5 bei 222 Bewertungen. Ab 26 €.
 slugs:
+  es: santa-cruz-de-tenerife-ruta-en-bici-y-bici-electrica-por-lo-mas-destacado
   en: santa-cruz-de-tenerife-bike-and-e-bike-tour-of-the-city-highlights
   de: santa-cruz-de-tenerife-rad-und-e-bike-tour-zu-den-highlights-der-stadt
   fr: santa-cruz-de-tenerife-visite-a-velo-ou-velo-electrique-des-incontournables

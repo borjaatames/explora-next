@@ -4,10 +4,12 @@ slug: playa-de-las-americas-passeggiata-subacquea-sea-trek
 ciudad: tenerife
 descripcion: Cammina sul fondale al largo di Playa de las Américas con un casco Sea Trek ad aria continua, respirando normalmente senza dover nuotare, vicino a pesci e formazioni vulcaniche, in gruppi di 4 sott'acqua con istruttori certificati, muta, armadietti e assicurazione. 4,9/5 su 486 recensioni. Da 77 €.
 slugs:
+  es: playa-de-las-americas-paseo-submarino-sea-trek
   en: playa-de-las-americas-sea-trek-underwater-walk
   de: playa-de-las-americas-unterwasserspaziergang-mit-sea-trek
   fr: playa-de-las-americas-marche-sous-marine-sea-trek
   it: playa-de-las-americas-passeggiata-subacquea-sea-trek
+  pt: playa-de-las-americas-passeio-subaquatico-sea-trek
 duracion: 1 ora
 duracionMinutos: 60
 precioDesde: 77

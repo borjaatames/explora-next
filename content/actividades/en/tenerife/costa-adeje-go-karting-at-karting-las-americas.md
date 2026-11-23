@@ -4,10 +4,12 @@ slug: costa-adeje-go-karting-at-karting-las-americas
 ciudad: tenerife
 descripcion: 'A go-kart session at Karting Las Américas in Fañabé, Costa Adeje: an individual race of 10 or 20 minutes, a two-seater kart, or a Mini Prix or Grand Prix package with practice, qualifying, a full race and a trophy ceremony; the Grand Prix includes a cava toast. Rated 4.3/5 from 37 reviews. From €20.'
 slugs:
+  es: costa-adeje-karts-en-karting-las-americas
   en: costa-adeje-go-karting-at-karting-las-americas
   de: costa-adeje-kartfahren-bei-karting-las-americas
   fr: costa-adeje-karting-a-karting-las-americas
   it: costa-adeje-go-kart-al-karting-las-americas
+  pt: costa-adeje-karts-no-karting-las-americas
 duracion: 20 min
 duracionMinutos: 20
 precioDesde: 20

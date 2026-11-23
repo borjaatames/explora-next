@@ -4,6 +4,7 @@ slug: fuerteventura-highlights-day-tour-with-lunch
 ciudad: fuerteventura
 descripcion: A full-day tour of Fuerteventura with seven key stops, including Ajuy and its cave, Betancuria, the dunes and La Entallada lighthouse, with lunch and hotel pick-up included. Rated 4.6/5 from 35 reviews. From €69.
 slugs:
+  es: fuerteventura-excursion-de-un-dia-por-lo-mas-destacado-con-almuerzo
   en: fuerteventura-highlights-day-tour-with-lunch
 duracion: 8 hours
 duracionMinutos: 480

@@ -4,6 +4,7 @@ slug: fuerteventura-safari-tout-terrain-a-el-cotillo-et-aux-joyaux-du-nord
 ciudad: fuerteventura
 descripcion: 'Un safari tout-terrain de 8 heures en petit groupe dans le nord de Fuerteventura : les dunes, le volcan Calderón Hondo et les lagunes d''El Cotillo, avec entrée à une ferme d''aloe vera, guide dans votre langue et transfert depuis l''hôtel. 4,3/5 sur 14 avis. Dès 69 €.'
 slugs:
+  es: fuerteventura-safari-todoterreno-a-el-cotillo-y-las-joyas-del-norte
   en: fuerteventura-off-road-safari-to-el-cotillo-and-the-jewels-of-the-north
   fr: fuerteventura-safari-tout-terrain-a-el-cotillo-et-aux-joyaux-du-nord
   it: fuerteventura-safari-fuoristrada-a-el-cotillo-e-i-gioielli-del-nord

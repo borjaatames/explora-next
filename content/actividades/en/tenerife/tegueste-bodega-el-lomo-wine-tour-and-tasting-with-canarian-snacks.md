@@ -4,6 +4,7 @@ slug: tegueste-bodega-el-lomo-wine-tour-and-tasting-with-canarian-snacks
 ciudad: tenerife
 descripcion: 'A guided visit of 1.5 to 2 hours to Bodega El Lomo in Tegueste, in the north of Tenerife: the winery, vineyards, varietal garden, organic vegetable garden, bottling hall and El 18 vermouth bar, with a tasting of Listán Negro and Listán Blanco wines paired with local smoked cheese and chorizo. Rated 4.9/5 from 52 reviews. From €21.'
 slugs:
+  es: tegueste-visita-a-la-bodega-el-lomo-y-cata-con-productos-canarios
   en: tegueste-bodega-el-lomo-wine-tour-and-tasting-with-canarian-snacks
 duracion: 1 h 45 min
 duracionMinutos: 105

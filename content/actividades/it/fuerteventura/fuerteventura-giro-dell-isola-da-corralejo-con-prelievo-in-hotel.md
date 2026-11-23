@@ -4,6 +4,7 @@ slug: fuerteventura-giro-dell-isola-da-corralejo-con-prelievo-in-hotel
 ciudad: fuerteventura
 descripcion: Un giro dell'isola di 8 ore in piccolo gruppo dal nord di Fuerteventura, con viste panoramiche, il paese più importante dell'isola e un vulcano, con trasferimento dall'hotel e acqua inclusi. 4,4/5 su 50 recensioni. Da 85 €.
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-desde-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-island-tour-from-corralejo-with-hotel-pick-up
   de: fuerteventura-inselrundfahrt-ab-corralejo-mit-hotelabholung
   fr: fuerteventura-tour-de-l-ile-depuis-corralejo-avec-prise-en-charge

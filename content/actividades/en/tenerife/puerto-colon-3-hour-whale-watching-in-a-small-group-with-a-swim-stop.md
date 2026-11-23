@@ -4,6 +4,7 @@ slug: puerto-colon-3-hour-whale-watching-in-a-small-group-with-a-swim-stop
 ciudad: tenerife
 descripcion: A 3-hour whale and dolphin watching trip from Puerto Colón for at most 12 passengers, on a boat with underwater viewing, with a free drink and a sandwich and a swim stop at El Puertito or Las Vistas beach. Rated 4.6/5 from 51 reviews. From €45.
 slugs:
+  es: puerto-colon-3-horas-de-avistamiento-de-cetaceos-en-grupo-reducido-con-bano
   en: puerto-colon-3-hour-whale-watching-in-a-small-group-with-a-swim-stop
   fr: puerto-colon-observation-des-baleines-de-3-heures-en-petit-groupe-avec-baignade
   it: puerto-colon-avvistamento-di-balene-di-3-ore-in-piccolo-gruppo-con-bagno

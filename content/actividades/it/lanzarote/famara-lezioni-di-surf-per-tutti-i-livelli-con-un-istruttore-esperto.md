@@ -4,10 +4,12 @@ slug: famara-lezioni-di-surf-per-tutti-i-livelli-con-un-istruttore-esperto
 ciudad: lanzarote
 descripcion: Una lezione di surf di 2 ore a Famara con un istruttore con oltre 11 anni di esperienza internazionale, massimo 5 allievi per istruttore, orari flessibili, tavola e muta di qualità, e foto e video quando le condizioni lo permettono. 4,9/5 su 35 recensioni. Da 50 €.
 slugs:
+  es: famara-clases-de-surf-para-todos-los-niveles-con-un-monitor-experimentado
   en: famara-surf-lessons-for-all-levels-with-an-experienced-instructor
   de: famara-surfkurse-fuer-alle-niveaus-mit-erfahrenem-lehrer
   fr: famara-cours-de-surf-tous-niveaux-avec-un-moniteur-experimente
   it: famara-lezioni-di-surf-per-tutti-i-livelli-con-un-istruttore-esperto
+  pt: famara-aulas-de-surf-para-todos-os-niveis-com-um-instrutor-experiente
 duracion: 2 ore
 duracionMinutos: 120
 precioDesde: 50

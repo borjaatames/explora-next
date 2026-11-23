@@ -4,6 +4,7 @@ slug: puerto-colon-observation-des-baleines-de-3-heures-en-petit-groupe-avec-bai
 ciudad: tenerife
 descripcion: Une sortie de 3 heures pour observer baleines et dauphins depuis Puerto Colón, 12 passagers maximum, sur un bateau à vision sous-marine, avec une boisson offerte, un sandwich et une baignade à El Puertito ou sur la plage de Las Vistas. 4,6/5 sur 51 avis. Dès 45 €.
 slugs:
+  es: puerto-colon-3-horas-de-avistamiento-de-cetaceos-en-grupo-reducido-con-bano
   en: puerto-colon-3-hour-whale-watching-in-a-small-group-with-a-swim-stop
   fr: puerto-colon-observation-des-baleines-de-3-heures-en-petit-groupe-avec-baignade
   it: puerto-colon-avvistamento-di-balene-di-3-ore-in-piccolo-gruppo-con-bagno

@@ -4,10 +4,12 @@ slug: tenerife-combine-jet-ski-et-quad-sur-la-cote-sud-et-vers-le-teide
 ciudad: tenerife
 descripcion: 'Deux activités en une réservation : une sortie en jet-ski le long de la côte sud de Tenerife, devant la Montaña Amarilla et la Montaña Roja avec les explications du guide, et une balade en quad vers le Teide, avec gilet, lunettes, boissons, douches et casiers. Les deux activités ont lieu à 35 km l''une de l''autre et les transferts ne sont pas inclus. 4,5/5 sur 52 avis. Dès 90 €.'
 slugs:
+  es: tenerife-combinado-de-moto-de-agua-y-quad-por-la-costa-sur-y-el-teide
   en: tenerife-jet-ski-and-quad-combo-on-the-south-coast-and-teide
   de: teneriffa-kombi-aus-jetski-und-quad-an-der-suedkueste-und-am-teide
   fr: tenerife-combine-jet-ski-et-quad-sur-la-cote-sud-et-vers-le-teide
   it: tenerife-combo-moto-d-acqua-e-quad-sulla-costa-sud-e-verso-il-teide
+  pt: tenerife-combinado-de-mota-de-agua-e-moto-quatro-na-costa-sul-e-no-teide
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 90

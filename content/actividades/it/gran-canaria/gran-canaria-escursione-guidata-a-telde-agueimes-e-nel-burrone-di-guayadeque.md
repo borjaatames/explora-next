@@ -4,6 +4,7 @@ slug: gran-canaria-escursione-guidata-a-telde-agueimes-e-nel-burrone-di-guayadeq
 ciudad: gran-canaria
 descripcion: 'Un''escursione guidata di 7 ore in pullman nell''est di Gran Canaria: una fattoria di aloe vera, il soffione marino di La Garita, tapas canarie in un ristorante tipico nel burrone di Guayadeque e le località storiche di Telde e Agüimes, con trasferimenti dall''hotel e guida locale. 4,5/5 su 23 recensioni. Da 58 €.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-telde-agueimes-y-el-barranco-de-guayadeque
   en: gran-canaria-guided-trip-to-telde-agueimes-and-the-guayadeque-ravine
   de: gran-canaria-gefuehrter-ausflug-nach-telde-agueimes-und-in-die-schlucht-von-guay
   fr: gran-canaria-excursion-guidee-a-telde-agueimes-et-au-ravin-de-guayadeque

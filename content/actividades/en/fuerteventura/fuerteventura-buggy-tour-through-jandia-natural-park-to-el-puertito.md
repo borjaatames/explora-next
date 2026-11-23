@@ -4,6 +4,7 @@ slug: fuerteventura-buggy-tour-through-jandia-natural-park-to-el-puertito
 ciudad: fuerteventura
 descripcion: A 2-hour guided tour driving your own buggy through Jandía Natural Park to the village of Puerto de la Cruz (El Puertito), watching for squirrels, goats, sheep and donkeys, with a driving lesson, safety talk, dust goggles and pick-up in Jandía, Costa Calma, Morro Jable and Esquinzo. The price is per buggy for up to 2. Rated 4.2/5 from 1,530 reviews. From €140 per group.
 slugs:
+  es: fuerteventura-ruta-en-buggy-por-el-parque-natural-de-jandia-hasta-el-puertito
   en: fuerteventura-buggy-tour-through-jandia-natural-park-to-el-puertito
   de: fuerteventura-buggytour-durch-den-naturpark-jandia-nach-el-puertito
   fr: fuerteventura-buggy-dans-le-parc-naturel-de-jandia-jusqu-a-el-puertito

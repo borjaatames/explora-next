@@ -4,6 +4,7 @@ slug: fuerteventura-tour-de-l-ile-depuis-corralejo-avec-prise-en-charge
 ciudad: fuerteventura
 descripcion: Un tour de l'île de 8 heures en petit groupe depuis le nord de Fuerteventura, avec vues panoramiques, la visite du village le plus important de l'île et d'un volcan, transfert depuis l'hôtel et eau inclus. 4,4/5 sur 50 avis. Dès 85 €.
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-desde-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-island-tour-from-corralejo-with-hotel-pick-up
   de: fuerteventura-inselrundfahrt-ab-corralejo-mit-hotelabholung
   fr: fuerteventura-tour-de-l-ile-depuis-corralejo-avec-prise-en-charge

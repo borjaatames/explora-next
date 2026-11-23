@@ -4,6 +4,7 @@ slug: gran-canaria-coach-tour-to-puerto-de-mogan-agaete-and-las-canteras
 ciudad: gran-canaria
 descripcion: An 8-hour coach tour from the south of Gran Canaria to the fishing port of Puerto de Mogán, across colourful volcanic landscapes to La Aldea and Agaete, and a walk along Las Canteras beach in Las Palmas, with a guide, air-conditioned coach and hotel pick-up in the southern resorts. Rated 4.2/5 from 293 reviews. From €44.
 slugs:
+  es: gran-canaria-excursion-en-autocar-a-puerto-de-mogan-agaete-y-las-canteras
   en: gran-canaria-coach-tour-to-puerto-de-mogan-agaete-and-las-canteras
   de: gran-canaria-bustour-nach-puerto-de-mogan-agaete-und-las-canteras
 duracion: 8 hours

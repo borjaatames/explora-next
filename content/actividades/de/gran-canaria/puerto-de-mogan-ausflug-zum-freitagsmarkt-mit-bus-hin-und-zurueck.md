@@ -4,6 +4,7 @@ slug: puerto-de-mogan-ausflug-zum-freitagsmarkt-mit-bus-hin-und-zurueck
 ciudad: gran-canaria
 descripcion: Ein 4,5-stündiger Ausflug mit Direktbus von deinem Urlaubsort zum Freitagsmarkt in Puerto de Mogán, mit Freizeit für kanarisches Kunsthandwerk und Essen, Mode und Souvenirs und für einen Bummel an Kanälen, Strand und Yachthafen, mit Reisebegleitung bei den Transfers. 4,1/5 bei 256 Bewertungen. Ab 22 €.
 slugs:
+  es: puerto-de-mogan-mercadillo-del-viernes-con-autobus-de-ida-y-vuelta
   en: puerto-de-mogan-friday-market-trip-with-return-bus
   de: puerto-de-mogan-ausflug-zum-freitagsmarkt-mit-bus-hin-und-zurueck
 duracion: 4 Std. 30 Min.

@@ -4,6 +4,7 @@ slug: la-pared-2-5-hour-off-road-segway-tour-on-the-west-coast
 ciudad: fuerteventura
 descripcion: A 2.5-hour guided tour on off-road Segway X2s along the wild west coast of Fuerteventura at La Pared, on desert tracks, with a riding lesson, a local guide who explains the island's culture, helmet and hotel pick-up. Rated 4.7/5 from 26 reviews. From €79.
 slugs:
+  es: la-pared-ruta-de-2-5-horas-en-segway-todoterreno-por-la-costa-oeste
   en: la-pared-2-5-hour-off-road-segway-tour-on-the-west-coast
   de: la-pared-2-5-stunden-segway-tour-im-gelaende-an-der-westkueste
   fr: la-pared-segway-tout-terrain-de-2-h-30-sur-la-cote-ouest

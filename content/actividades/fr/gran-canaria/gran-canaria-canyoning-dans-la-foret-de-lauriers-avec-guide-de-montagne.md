@@ -4,10 +4,12 @@ slug: gran-canaria-canyoning-dans-la-foret-de-lauriers-avec-guide-de-montagne
 ciudad: gran-canaria
 descripcion: 'Une sortie de canyoning de 4 heures dans les ravins de la forêt de lauriers de Gran Canaria avec un guide de montagne certifié AEGM/UIMLA : descendre les lits de torrent, glisser sur les rochers et renouer avec la nature, avec prise en charge à l''hôtel, équipement de canyoning et photo souvenir. 4,8/5 sur 50 avis. Dès 85 €.'
 slugs:
+  es: gran-canaria-barranquismo-en-la-laurisilva-con-guia-de-montana
   en: gran-canaria-canyoning-in-the-laurel-forest-with-a-mountain-guide
   de: gran-canaria-canyoning-im-lorbeerwald-mit-bergfuehrer
   fr: gran-canaria-canyoning-dans-la-foret-de-lauriers-avec-guide-de-montagne
   it: gran-canaria-canyoning-nella-laurisilva-con-guida-di-montagna
+  pt: gran-canaria-canyoning-na-laurissilva-com-guia-de-montanha
 duracion: 4 heures
 duracionMinutos: 240
 precioDesde: 85

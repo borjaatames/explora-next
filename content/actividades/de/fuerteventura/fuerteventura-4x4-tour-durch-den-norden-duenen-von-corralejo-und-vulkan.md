@@ -4,6 +4,7 @@ slug: fuerteventura-4x4-tour-durch-den-norden-duenen-von-corralejo-und-vulkan
 ciudad: fuerteventura
 descripcion: 'Eine 6-stündige 4x4-Tour in kleiner Gruppe durch den Norden Fuerteventuras: Majanicho, Leuchtturm Tostón, Strand La Concha und Naturbecken, die Dünen von Corralejo und ein Vulkan, mit Zeit zum Baden, Schnorcheln, Spazieren und für lokale Küche in Küstendörfern, mit Fahrer-Guide in deiner Sprache und Abholung im Süden. 4,5/5 bei 45 Bewertungen. Ab 69 €.'
 slugs:
+  es: fuerteventura-ruta-en-4x4-por-el-norte-las-dunas-de-corralejo-y-un-volcan
   en: fuerteventura-4x4-tour-of-the-north-corralejo-dunes-and-a-volcano
   de: fuerteventura-4x4-tour-durch-den-norden-duenen-von-corralejo-und-vulkan
   fr: fuerteventura-4x4-dans-le-nord-dunes-de-corralejo-et-volcan

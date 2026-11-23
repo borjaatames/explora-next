@@ -4,6 +4,7 @@ slug: fuerteventura-randonnee-guidee-dans-le-nord-calderon-hondo-et-el-cotillo
 ciudad: fuerteventura
 descripcion: 'Une randonnée facile de 5 h 30 dans le nord de Fuerteventura avec un guide géologue, en groupe de 8 personnes maximum : le cratère du Calderón Hondo avec vue sur Lanzarote, les lagunes et plages d''El Cotillo, le phare du Tostón et des dunes fossiles creusées de ravins, avec prise en charge à l''hôtel. 4,8/5 sur 43 avis. Dès 47 €.'
 slugs:
+  es: fuerteventura-senderismo-guiado-por-el-norte-con-calderon-hondo-y-el-cotillo
   en: fuerteventura-guided-hike-in-the-north-with-calderon-hondo-and-el-cotillo
   fr: fuerteventura-randonnee-guidee-dans-le-nord-calderon-hondo-et-el-cotillo
   it: fuerteventura-escursione-guidata-nel-nord-con-calderon-hondo-ed-el-cotillo

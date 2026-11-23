@@ -4,6 +4,7 @@ slug: puerto-calero-safari-in-moto-d-acqua-verso-la-spiaggia-di-papagayo
 ciudad: lanzarote
 descripcion: Un safari guidato in moto d'acqua fino a 1 ora da Puerto Calero verso le spiagge di Papagayo, su moto d'acqua nuove e potenti con un istruttore esperto, con assicurazione kasko e carburante inclusi. 4,9/5 su 39 recensioni. Da 60 €.
 slugs:
+  es: puerto-calero-safari-en-moto-de-agua-hacia-la-playa-de-papagayo
   en: puerto-calero-jet-ski-safari-towards-papagayo-beach
   it: puerto-calero-safari-in-moto-d-acqua-verso-la-spiaggia-di-papagayo
 duracion: 1 ora

@@ -4,6 +4,7 @@ slug: santa-cruz-de-tenerife-tour-in-bici-e-e-bike-dei-luoghi-principali
 ciudad: tenerife
 descripcion: Un giro guidato di 2 ore e mezza per Santa Cruz de Tenerife in bici normale o elettrica, su un percorso per lo più pianeggiante e adatto ai principianti, tra monumenti, angoli nascosti e belvedere, con soste fotografiche, consigli locali e storie della città. 4,6/5 su 222 recensioni. Da 26 €.
 slugs:
+  es: santa-cruz-de-tenerife-ruta-en-bici-y-bici-electrica-por-lo-mas-destacado
   en: santa-cruz-de-tenerife-bike-and-e-bike-tour-of-the-city-highlights
   de: santa-cruz-de-tenerife-rad-und-e-bike-tour-zu-den-highlights-der-stadt
   fr: santa-cruz-de-tenerife-visite-a-velo-ou-velo-electrique-des-incontournables

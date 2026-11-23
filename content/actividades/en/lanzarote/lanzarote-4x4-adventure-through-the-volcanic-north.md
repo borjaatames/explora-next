@@ -4,6 +4,7 @@ slug: lanzarote-4x4-adventure-through-the-volcanic-north
 ciudad: lanzarote
 descripcion: 'A 6-hour 4x4 trip through the volcanic north of Lanzarote with a guide who explains the geology, culture and history: photo stops at Guatiza, the Mirador de los Helechos and Mirador de las Nieves, free time in historic Teguise, the wild coast of Famara and a stop at a tourist office to learn about the island''s volcanic origins, with pick-up from your accommodation. Rated 4.7/5 from 22 reviews. From €72.'
 slugs:
+  es: lanzarote-aventura-en-4x4-por-el-norte-volcanico
   en: lanzarote-4x4-adventure-through-the-volcanic-north
   de: lanzarote-4x4-abenteuer-durch-den-vulkanischen-norden
   fr: lanzarote-aventure-en-4x4-dans-le-nord-volcanique

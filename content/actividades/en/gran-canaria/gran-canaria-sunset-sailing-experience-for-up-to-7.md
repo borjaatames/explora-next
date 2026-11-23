@@ -4,6 +4,7 @@ slug: gran-canaria-sunset-sailing-experience-for-up-to-7
 ciudad: gran-canaria
 descripcion: A 2.5-hour sunset sail on a luxury sailing yacht off the south of Gran Canaria, for at most 7 guests, with a professional skipper, drinks and light snacks on board, safety equipment, insurance and free hotel pick-up. Rated 4.6/5 from 39 reviews. From €79.
 slugs:
+  es: gran-canaria-velero-al-atardecer-para-hasta-7
   en: gran-canaria-sunset-sailing-experience-for-up-to-7
   de: gran-canaria-segeltoern-zum-sonnenuntergang-fuer-bis-zu-7
 duracion: 2 h 30 min

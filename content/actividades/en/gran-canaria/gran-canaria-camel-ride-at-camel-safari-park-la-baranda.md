@@ -4,10 +4,12 @@ slug: gran-canaria-camel-ride-at-camel-safari-park-la-baranda
 ciudad: gran-canaria
 descripcion: A 30-minute camel ride at Camel Safari Park La Baranda, on the road to Fataga above Maspalomas, through an oasis of a thousand palm trees said to be 300 years old, with entry to the park to see more animals and the garden. Rated 4.1/5 from 355 reviews. From €20.
 slugs:
+  es: gran-canaria-paseo-en-camello-en-el-camel-safari-park-la-baranda
   en: gran-canaria-camel-ride-at-camel-safari-park-la-baranda
   de: gran-canaria-kamelritt-im-camel-safari-park-la-baranda
   fr: gran-canaria-balade-a-dos-de-dromadaire-au-camel-safari-park-la-baranda
   it: gran-canaria-giro-in-cammello-al-camel-safari-park-la-baranda
+  pt: gran-canaria-passeio-de-camelo-no-camel-safari-park-la-baranda
 duracion: 30 min
 duracionMinutos: 30
 precioDesde: 20

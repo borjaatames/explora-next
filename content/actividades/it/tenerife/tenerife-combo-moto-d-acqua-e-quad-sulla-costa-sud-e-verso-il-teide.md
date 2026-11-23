@@ -4,10 +4,12 @@ slug: tenerife-combo-moto-d-acqua-e-quad-sulla-costa-sud-e-verso-il-teide
 ciudad: tenerife
 descripcion: 'Due attività in una prenotazione: un giro in moto d''acqua lungo la costa sud di Tenerife, davanti a Montaña Amarilla e Montaña Roja con le spiegazioni della guida, e un giro in quad tra i paesaggi verso il Teide, con giubbotto, occhialini, bevande, docce e armadietti. Le due attività si svolgono a 35 km di distanza e i trasferimenti non sono inclusi. 4,5/5 su 52 recensioni. Da 90 €.'
 slugs:
+  es: tenerife-combinado-de-moto-de-agua-y-quad-por-la-costa-sur-y-el-teide
   en: tenerife-jet-ski-and-quad-combo-on-the-south-coast-and-teide
   de: teneriffa-kombi-aus-jetski-und-quad-an-der-suedkueste-und-am-teide
   fr: tenerife-combine-jet-ski-et-quad-sur-la-cote-sud-et-vers-le-teide
   it: tenerife-combo-moto-d-acqua-e-quad-sulla-costa-sud-e-verso-il-teide
+  pt: tenerife-combinado-de-mota-de-agua-e-moto-quatro-na-costa-sul-e-no-teide
 duracion: 4 ore
 duracionMinutos: 240
 precioDesde: 90

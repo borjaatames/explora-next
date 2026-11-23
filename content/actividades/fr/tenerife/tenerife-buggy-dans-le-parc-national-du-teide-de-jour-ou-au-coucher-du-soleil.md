@@ -4,6 +4,7 @@ slug: tenerife-buggy-dans-le-parc-national-du-teide-de-jour-ou-au-coucher-du-sol
 ciudad: tenerife
 descripcion: Trois heures au volant de votre buggy biplace depuis La Camella, dans le sud de Tenerife, par Vilaflor jusqu'au parc national du Teide, entre coulées de lave et paysages volcaniques, en petit groupe de 3 buggys maximum, avec prise en charge gratuite dans le sud, collation et boisson, vestes, lunettes et gants. Le prix s'entend par buggy, jusqu'à 2 personnes. 4,9/5 sur 170 avis. Dès 159 € par groupe.
 slugs:
+  es: tenerife-ruta-en-buggy-por-el-parque-nacional-del-teide-de-dia-o-al-atardecer
   en: tenerife-buggy-tour-in-teide-national-park-by-day-or-at-sunset
   de: teneriffa-buggytour-im-teide-nationalpark-tagsueber-oder-zum-sonnenuntergang
   fr: tenerife-buggy-dans-le-parc-national-du-teide-de-jour-ou-au-coucher-du-soleil

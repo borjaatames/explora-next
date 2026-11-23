@@ -4,6 +4,7 @@ slug: lanzarote-3-hour-guided-tour-in-a-polaris-slingshot-roadster
 ciudad: lanzarote
 descripcion: Three hours driving a three-wheeled Polaris Slingshot roadster around the highlights of Lanzarote with a professional guide, starting from Yaiza, with driving instructions included. The price is per vehicle for up to 2. Rated 4.7/5 from 200 reviews. From €170 per group.
 slugs:
+  es: lanzarote-ruta-guiada-de-3-horas-en-roadster-polaris-slingshot
   en: lanzarote-3-hour-guided-tour-in-a-polaris-slingshot-roadster
 duracion: 3 hours
 duracionMinutos: 180

@@ -4,6 +4,7 @@ slug: gran-canaria-100-off-road-guided-buggy-tour-with-pick-up-from-las-palmas
 ciudad: gran-canaria
 descripcion: A 2-hour guided buggy tour on 100% off-road mountain tracks in Gran Canaria, with stops at panoramic viewpoints, a professional guide, goggles and pick-up from selected points in Las Palmas. Rated 4.4/5 from 248 reviews. From €120.
 slugs:
+  es: gran-canaria-ruta-guiada-en-buggy-100-por-pistas-con-recogida-en-las-palmas
   en: gran-canaria-100-off-road-guided-buggy-tour-with-pick-up-from-las-palmas
 duracion: 2 hours
 duracionMinutos: 120

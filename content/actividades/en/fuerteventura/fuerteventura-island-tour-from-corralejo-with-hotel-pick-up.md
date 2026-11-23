@@ -4,6 +4,7 @@ slug: fuerteventura-island-tour-from-corralejo-with-hotel-pick-up
 ciudad: fuerteventura
 descripcion: An 8-hour small-group island tour of Fuerteventura from the north, with panoramic views, a visit to the most important village on the island and a volcano, with hotel transfer and water included. Rated 4.4/5 from 50 reviews. From €85.
 slugs:
+  es: fuerteventura-vuelta-a-la-isla-desde-corralejo-con-recogida-en-el-hotel
   en: fuerteventura-island-tour-from-corralejo-with-hotel-pick-up
   de: fuerteventura-inselrundfahrt-ab-corralejo-mit-hotelabholung
   fr: fuerteventura-tour-de-l-ile-depuis-corralejo-avec-prise-en-charge

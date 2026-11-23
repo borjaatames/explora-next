@@ -4,10 +4,12 @@ slug: famara-cours-de-surf-de-2-h-30-avec-kalufa-surf-school
 ciudad: lanzarote
 descripcion: Un cours de surf de 2 h 30 sur la plage de Famara avec Kalufa Surf School, moniteurs ISA, théorie et pratique, petits groupes et horaires flexibles selon les conditions, avec planche et combinaison que vous pouvez garder gratuitement le reste de la journée. 4,9/5 sur 43 avis. Dès 50 €.
 slugs:
+  es: famara-clase-de-surf-de-2-5-horas-con-kalufa-surf-school
   en: famara-2-5-hour-surf-lesson-with-kalufa-surf-school
   de: famara-2-5-stunden-surfkurs-mit-der-kalufa-surf-school
   fr: famara-cours-de-surf-de-2-h-30-avec-kalufa-surf-school
   it: famara-lezione-di-surf-di-2-ore-e-mezza-con-kalufa-surf-school
+  pt: famara-aula-de-surf-de-2-5-horas-com-a-kalufa-surf-school
 duracion: 2 h 30
 duracionMinutos: 150
 precioDesde: 50

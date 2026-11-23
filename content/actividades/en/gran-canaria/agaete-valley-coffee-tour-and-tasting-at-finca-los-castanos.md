@@ -4,6 +4,7 @@ slug: agaete-valley-coffee-tour-and-tasting-at-finca-los-castanos
 ciudad: gran-canaria
 descripcion: 'A guided visit to the coffee plantation at Finca Los Castaños in the Agaete valley, which the operator describes as the only place in Europe where coffee is grown traditionally: the process from seed to cup, a tasting of freshly roasted coffee and the shop with local coffee and jams. Rated 4.7/5 from 151 reviews. From €16.'
 slugs:
+  es: valle-de-agaete-visita-a-la-plantacion-de-cafe-y-cata-en-la-finca-los-castanos
   en: agaete-valley-coffee-tour-and-tasting-at-finca-los-castanos
 duracion: 1 hour
 duracionMinutos: 60

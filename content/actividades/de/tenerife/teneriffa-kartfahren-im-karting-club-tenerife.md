@@ -4,10 +4,12 @@ slug: teneriffa-kartfahren-im-karting-club-tenerife
 ciudad: tenerife
 descripcion: 'Eine Kartsession im Karting Club Tenerife in Cho im Süden der Insel: 1.200-Meter-Strecke für Erwachsene mit Super Karts mit 400 cm³ und 270 cm³ und Rennkarts für 15- bis 17-Jährige, dazu eine 250-Meter-Juniorstrecke für Kinder, mit kostenlosem Shuttlebus im Süden. 4,6/5 bei 473 Bewertungen. Ab 35 €.'
 slugs:
+  es: tenerife-tanda-de-karts-en-el-karting-club-tenerife
   en: tenerife-go-kart-session-at-karting-club-tenerife
   de: teneriffa-kartfahren-im-karting-club-tenerife
   fr: tenerife-session-de-karting-au-karting-club-tenerife
   it: tenerife-sessione-di-go-kart-al-karting-club-tenerife
+  pt: tenerife-sessao-de-karts-no-karting-club-tenerife
 duracion: 12 Minuten
 duracionMinutos: 12
 precioDesde: 35

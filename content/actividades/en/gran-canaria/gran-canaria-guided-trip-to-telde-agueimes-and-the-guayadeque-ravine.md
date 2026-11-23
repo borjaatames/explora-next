@@ -4,6 +4,7 @@ slug: gran-canaria-guided-trip-to-telde-agueimes-and-the-guayadeque-ravine
 ciudad: gran-canaria
 descripcion: 'A 7-hour guided coach trip to the east of Gran Canaria: an aloe vera farm, the blowhole of La Garita, Canarian tapas in a typical restaurant in the Guayadeque ravine, and the historic towns of Telde and Agüimes, with hotel transfers and a local guide. Rated 4.5/5 from 23 reviews. From €58.'
 slugs:
+  es: gran-canaria-excursion-guiada-a-telde-agueimes-y-el-barranco-de-guayadeque
   en: gran-canaria-guided-trip-to-telde-agueimes-and-the-guayadeque-ravine
   de: gran-canaria-gefuehrter-ausflug-nach-telde-agueimes-und-in-die-schlucht-von-guay
   fr: gran-canaria-excursion-guidee-a-telde-agueimes-et-au-ravin-de-guayadeque

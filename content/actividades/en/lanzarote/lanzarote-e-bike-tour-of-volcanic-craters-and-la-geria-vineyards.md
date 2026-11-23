@@ -4,6 +4,7 @@ slug: lanzarote-e-bike-tour-of-volcanic-craters-and-la-geria-vineyards
 ciudad: lanzarote
 descripcion: A 4-hour guided ride on premium e-bikes from the Los Bermejos winery through the volcanic landscapes near Timanfaya and the vineyards of La Geria, with views of the island's largest volcano, helmet, water, an energy bar and gel, insurance and a photo and video report. Rated 4.9/5 from 156 reviews. From €135.
 slugs:
+  es: lanzarote-ruta-en-bici-electrica-por-crateres-volcanicos-y-vinedos-de-la-geria
   en: lanzarote-e-bike-tour-of-volcanic-craters-and-la-geria-vineyards
 duracion: 4 hours
 duracionMinutos: 240

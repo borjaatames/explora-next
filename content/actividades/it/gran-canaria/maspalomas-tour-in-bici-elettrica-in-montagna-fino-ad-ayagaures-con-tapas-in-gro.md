@@ -4,6 +4,7 @@ slug: maspalomas-tour-in-bici-elettrica-in-montagna-fino-ad-ayagaures-con-tapas-
 ciudad: gran-canaria
 descripcion: Un tour guidato di 3 ore in bici elettrica da Maspalomas, passando per le dune e la valle di Ayagaures fino a un belvedere nel suo punto più alto, solo su strade asfaltate, con casco, gilet riflettente, guida locale, acqua e una bibita o un caffè; si possono aggiungere le tapas in una grotta. 4,8/5 su 69 recensioni. Da 79 €.
 slugs:
+  es: maspalomas-ruta-de-montana-en-bici-electrica-a-ayagaures-con-tapas-en-cueva-opci
   en: maspalomas-e-bike-mountain-tour-to-ayagaures-with-optional-cave-tapas
   it: maspalomas-tour-in-bici-elettrica-in-montagna-fino-ad-ayagaures-con-tapas-in-gro
 duracion: 3 ore

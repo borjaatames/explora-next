@@ -4,6 +4,7 @@ slug: gran-canaria-vip-coach-tour-to-guayadeque-firgas-and-the-green-interior
 ciudad: gran-canaria
 descripcion: 'A 9-hour coach tour from the south of Gran Canaria through the green interior of the island: the Guayadeque ravine, an aloe vera plantation, the valley of a thousand pines and the town of Firgas, with a guide, air-conditioned coach and pick-up at your hotel or the nearest point in resort areas. Rated 4.1/5 from 433 reviews. From €49.'
 slugs:
+  es: gran-canaria-excursion-vip-en-autocar-a-guayadeque-firgas-y-el-interior-verde
   en: gran-canaria-vip-coach-tour-to-guayadeque-firgas-and-the-green-interior
   de: gran-canaria-vip-bustour-nach-guayadeque-firgas-und-ins-gruene-inselinnere
 duracion: 9 hours

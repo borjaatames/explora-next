@@ -4,10 +4,12 @@ slug: puerto-calero-buggy-de-3-heures-avec-vue-sur-les-volcans
 ciudad: lanzarote
 descripcion: Une sortie de 3 heures en buggy depuis la marina de Puerto Calero sur des itinéraires avec vue sur les volcans de Lanzarote, au volant des derniers Can-Am Maverick automatiques, avec lunettes anti-poussière et réduction au restaurant du prestataire dans la marina. Le prix s'entend par buggy, jusqu'à 2 personnes. 4,8/5 sur 154 avis. Dès 170 € par groupe.
 slugs:
+  es: puerto-calero-ruta-de-3-horas-en-buggy-con-vistas-a-los-volcanes
   en: puerto-calero-3-hour-buggy-tour-with-views-of-the-volcanoes
   de: puerto-calero-3-stuendige-buggytour-mit-blick-auf-die-vulkane
   fr: puerto-calero-buggy-de-3-heures-avec-vue-sur-les-volcans
   it: puerto-calero-tour-in-buggy-di-3-ore-con-vista-sui-vulcani
+  pt: puerto-calero-passeio-de-buggy-de-3-horas-com-vista-para-os-vulcoes
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 170

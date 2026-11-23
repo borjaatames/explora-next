@@ -4,6 +4,7 @@ slug: lanzarote-vip-tour-to-timanfaya-janubio-salt-flats-and-famara
 ciudad: lanzarote
 descripcion: 'A 7-hour small-group tour of Lanzarote in an 8-seat minivan with a multilingual local driver-guide: the Janubio salt flats, the volcanic area of Timanfaya, the Mirador del Río and Mirador de las Nieves, Caletón Blanco and the wild coast of Famara, with pick-up in Playa Blanca, Puerto del Carmen and Costa Teguise (an option from Fuerteventura includes the ferry). Rated 4.6/5 from 14 reviews. From €75.'
 slugs:
+  es: lanzarote-tour-vip-a-timanfaya-las-salinas-de-janubio-y-famara
   en: lanzarote-vip-tour-to-timanfaya-janubio-salt-flats-and-famara
   de: lanzarote-vip-tour-nach-timanfaya-zu-den-salinen-von-janubio-und-nach-famara
   fr: lanzarote-tour-vip-a-timanfaya-aux-salines-de-janubio-et-a-famara

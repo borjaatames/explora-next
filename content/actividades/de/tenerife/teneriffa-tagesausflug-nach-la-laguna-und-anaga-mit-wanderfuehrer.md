@@ -4,6 +4,7 @@ slug: teneriffa-tagesausflug-nach-la-laguna-und-anaga-mit-wanderfuehrer
 ciudad: tenerife
 descripcion: 'Ein 8-stündiger Tagesausflug in den Nordosten Teneriffas: eine Wanderung im urwüchsigen Lorbeerwald von Anaga mit Wanderführer, die Altstadt von San Cristóbal de La Laguna (UNESCO-Welterbe) und das Treiben auf einem Bauernmarkt, mit Busfahrt und Hoteltransfer aus ausgewählten Gebieten. 4,4/5 bei 23 Bewertungen. Ab 59 €.'
 slugs:
+  es: tenerife-excursion-a-la-laguna-y-anaga-con-guia-de-senderismo
   en: tenerife-la-laguna-and-anaga-day-trip-with-a-hiking-guide
   de: teneriffa-tagesausflug-nach-la-laguna-und-anaga-mit-wanderfuehrer
   fr: tenerife-journee-a-la-laguna-et-dans-l-anaga-avec-guide-de-randonnee

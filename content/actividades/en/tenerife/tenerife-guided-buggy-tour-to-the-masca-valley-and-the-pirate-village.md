@@ -4,6 +4,7 @@ slug: tenerife-guided-buggy-tour-to-the-masca-valley-and-the-pirate-village
 ciudad: tenerife
 descripcion: A 3-hour guided buggy tour from the south of Tenerife to the Masca valley, passing its highest point, with a stop and a walk in the village known as the pirate village and time for photos, with an experienced guide, liability insurance and pick-up in Los Cristianos and Costa Adeje. The price is per buggy for up to 2. Rated 4.7/5 from 203 reviews. From €199 per group.
 slugs:
+  es: tenerife-ruta-guiada-en-buggy-al-valle-de-masca-y-el-pueblo-de-los-piratas
   en: tenerife-guided-buggy-tour-to-the-masca-valley-and-the-pirate-village
 duracion: 3 hours
 duracionMinutos: 180

@@ -4,10 +4,12 @@ slug: puerto-del-carmen-catamaran-prive-au-coucher-du-soleil-avec-boissons-jusqu
 ciudad: lanzarote
 descripcion: 'Une sortie privée de 2 heures en catamaran depuis Puerto del Carmen au coucher du soleil, jusqu''à 12 personnes, avec vue sur l''île jusqu''à son point culminant, Peñas del Chache, en-cas et boissons : sodas, eau, sangria, bière et champagne ; wakeboard en option. Le prix s''entend par groupe. 4,9/5 sur 46 avis. Dès 500 € par groupe.'
 slugs:
+  es: puerto-del-carmen-catamaran-privado-al-atardecer-con-bebidas-para-hasta-12
   en: puerto-del-carmen-private-sunset-catamaran-with-drinks-for-up-to-12
   de: puerto-del-carmen-privater-katamaran-zum-sonnenuntergang-mit-getraenken-fuer-bis
   fr: puerto-del-carmen-catamaran-prive-au-coucher-du-soleil-avec-boissons-jusqu-a-12
   it: puerto-del-carmen-catamarano-privato-al-tramonto-con-bevande-fino-a-12
+  pt: puerto-del-carmen-catamara-privado-ao-por-do-sol-com-bebidas-para-ate-12
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 500

@@ -4,10 +4,12 @@ slug: puerto-de-la-cruz-buggy-de-3-heures-avec-bananeraie-et-vue-sur-le-teide
 ciudad: tenerife
 descripcion: Une sortie guidée de 3 heures en buggy depuis Puerto de la Cruz par la route côtière, à travers une bananeraie canarienne, en tout-terrain dans la pinède et par des routes de moyenne montagne jusqu'à environ 800 mètres, avec un superbe mirador sur la vallée de la Orotava et le Teide, carburant, lunettes, coupe-vent, eau et en-cas inclus. 4,9/5 sur 41 avis. Dès 110 €.
 slugs:
+  es: puerto-de-la-cruz-ruta-de-3-horas-en-buggy-con-finca-de-platanos-y-vistas-al-tei
   en: puerto-de-la-cruz-3-hour-buggy-tour-with-banana-farm-and-teide-views
   de: puerto-de-la-cruz-3-stunden-buggytour-mit-bananenfinca-und-teide-blick
   fr: puerto-de-la-cruz-buggy-de-3-heures-avec-bananeraie-et-vue-sur-le-teide
   it: puerto-de-la-cruz-tour-in-buggy-di-3-ore-con-piantagione-di-banane-e-vista-sul-t
+  pt: puerto-de-la-cruz-passeio-de-buggy-de-3-horas-com-bananal-e-vistas-do-teide
 duracion: 3 heures
 duracionMinutos: 180
 precioDesde: 110

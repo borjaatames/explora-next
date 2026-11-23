@@ -4,6 +4,7 @@ slug: tenerife-la-laguna-and-anaga-day-trip-with-a-hiking-guide
 ciudad: tenerife
 descripcion: 'An 8-hour day trip to the north-east of Tenerife: a walk in the primeval laurel forest of Anaga with a hiking guide, the old town of San Cristóbal de La Laguna, a UNESCO World Heritage Site, and the atmosphere of a local produce market, with bus transport and hotel transfers from selected areas. Rated 4.4/5 from 23 reviews. From €59.'
 slugs:
+  es: tenerife-excursion-a-la-laguna-y-anaga-con-guia-de-senderismo
   en: tenerife-la-laguna-and-anaga-day-trip-with-a-hiking-guide
   de: teneriffa-tagesausflug-nach-la-laguna-und-anaga-mit-wanderfuehrer
   fr: tenerife-journee-a-la-laguna-et-dans-l-anaga-avec-guide-de-randonnee

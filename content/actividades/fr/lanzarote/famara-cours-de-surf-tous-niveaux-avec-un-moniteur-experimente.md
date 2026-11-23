@@ -4,10 +4,12 @@ slug: famara-cours-de-surf-tous-niveaux-avec-un-moniteur-experimente
 ciudad: lanzarote
 descripcion: Un cours de surf de 2 heures à Famara avec un moniteur aux plus de 11 ans d'expérience internationale, 5 élèves maximum par moniteur, horaires flexibles, planche et combinaison de qualité, et photos et vidéos quand les conditions le permettent. 4,9/5 sur 35 avis. Dès 50 €.
 slugs:
+  es: famara-clases-de-surf-para-todos-los-niveles-con-un-monitor-experimentado
   en: famara-surf-lessons-for-all-levels-with-an-experienced-instructor
   de: famara-surfkurse-fuer-alle-niveaus-mit-erfahrenem-lehrer
   fr: famara-cours-de-surf-tous-niveaux-avec-un-moniteur-experimente
   it: famara-lezioni-di-surf-per-tutti-i-livelli-con-un-istruttore-esperto
+  pt: famara-aulas-de-surf-para-todos-os-niveis-com-um-instrutor-experiente
 duracion: 2 heures
 duracionMinutos: 120
 precioDesde: 50

@@ -4,6 +4,7 @@ slug: gran-canaria-bustour-nach-puerto-de-mogan-agaete-und-las-canteras
 ciudad: gran-canaria
 descripcion: Eine 8-stündige Bustour ab dem Süden Gran Canarias zum Fischerhafen Puerto de Mogán, durch farbige Vulkanlandschaften nach La Aldea und Agaete und ein Spaziergang am Strand Las Canteras in Las Palmas, mit Guide, klimatisiertem Bus und Abholung in den Urlaubsorten im Süden. 4,2/5 bei 293 Bewertungen. Ab 44 €.
 slugs:
+  es: gran-canaria-excursion-en-autocar-a-puerto-de-mogan-agaete-y-las-canteras
   en: gran-canaria-coach-tour-to-puerto-de-mogan-agaete-and-las-canteras
   de: gran-canaria-bustour-nach-puerto-de-mogan-agaete-und-las-canteras
 duracion: 8 Stunden
