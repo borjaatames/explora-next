@@ -101,6 +101,12 @@ galeria:
   alt: 'Viajeros sonrientes junto a la Sagrada Familia'
 - src: /images/actividades/barcelona/sagrada-familia/sagrada-familia-facade-barcelona-hero-hero.webp
   alt: 'Fachada de la Sagrada Familia con sus torres en Barcelona'
+resenasClientes:
+- autor: Janie
+  pais: Estados Unidos
+  fecha: '2026-11-24'
+  texto: 'La experiencia con Jennifer, nuestra guía, fue increíble: una guía profesional y con muchos conocimientos. Es un gran valor para la empresa. Es perfecta.'
+  nota: 'Mensaje de voz, transcrito y traducido del inglés con su permiso.'
 bokunProductId: 217562
 bokunPedirPersonas: true
 fecha_actualizacion: '2026-10-24'

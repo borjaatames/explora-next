@@ -33,6 +33,7 @@ import CtaReservaBokun from "@/components/ficha/CtaReservaBokun";
 import DatosClave from "@/components/ficha/DatosClave";
 import NotaTripadvisor from "@/components/ficha/NotaTripadvisor";
 import ResenasTripadvisor from "@/components/ficha/ResenasTripadvisor";
+import ResenasClientes from "@/components/ficha/ResenasClientes";
 import { datosTripadvisorBokun, fuenteResenasGyg } from "@/lib/tripadvisor";
 import SeccionMovil from "@/components/ficha/SeccionMovil";
 import StickyReservaBokun from "@/components/ficha/StickyReservaBokun";
@@ -736,6 +737,11 @@ export default async function ActividadPage({ params }: Props) {
             {/* 13. Guías relacionadas */}
             {bloqueGuias && (
               <div>{bloqueGuias}</div>
+            )}
+
+            {/* 13a. Reseñas de clientes propios (frontmatter), con su permiso */}
+            {(actividad.resenasClientes?.length ?? 0) > 0 && (
+              <ResenasClientes idioma="es" resenas={actividad.resenasClientes ?? []} />
             )}
 
             {/* 13b. Reseñas reales del proveedor (Tripadvisor Content API),

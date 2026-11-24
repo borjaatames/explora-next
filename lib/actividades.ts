@@ -100,6 +100,39 @@ export type PreguntaFrecuente = {
   respuesta: string;
 };
 
+/** Reseña de un cliente de ExploraSpain, publicada con su permiso. */
+export type ResenaCliente = {
+  autor: string;
+  pais?: string;
+  /** Fecha ISO (AAAA-MM-DD). */
+  fecha?: string;
+  texto: string;
+  /** Nota de 1 a 5 que dio el cliente. Solo si la dio él: no se inventa. */
+  valoracion?: number;
+  /** Aclaración visible, p. ej. «Mensaje de voz, transcrito con su permiso». */
+  nota?: string;
+};
+
+function leerResenasClientes(valor: unknown): ResenaCliente[] {
+  if (!Array.isArray(valor)) return [];
+  const texto = (v: unknown): string | undefined =>
+    typeof v === "string" && v.trim() ? v.trim() : undefined;
+  return valor.flatMap((item: unknown): ResenaCliente[] => {
+    if (typeof item !== "object" || item === null) return [];
+    const r = item as Record<string, unknown>;
+    const autor = texto(r.autor);
+    const cuerpo = texto(r.texto);
+    if (!autor || !cuerpo) return [];
+    const valoracion =
+      typeof r.valoracion === "number" && r.valoracion >= 1 && r.valoracion <= 5
+        ? Math.round(r.valoracion)
+        : undefined;
+    return [
+      { autor, texto: cuerpo, pais: texto(r.pais), fecha: texto(r.fecha), valoracion, nota: texto(r.nota) },
+    ];
+  });
+}
+
 export type ActividadFrontmatter = {
   titulo: string;
   slug: string;
@@ -195,6 +228,8 @@ export type ActividadFrontmatter = {
 
   // Editorial
   opinionEditorial?: string;
+  /** Reseñas de clientes propios, publicadas con su permiso. */
+  resenasClientes?: ResenaCliente[];
   /**
    * Aviso de disponibilidad, cierto y estático (p. ej. «Las entradas de la
    * Alhambra se agotan con semanas de antelación»). Nunca contadores
@@ -656,6 +691,7 @@ function construirListItem(
     variantes: fm.variantes || [],
 
     opinionEditorial: fm.opinionEditorial,
+    resenasClientes: leerResenasClientes(fm.resenasClientes),
     avisoReserva:
       typeof fm.avisoReserva === "string" && fm.avisoReserva.trim()
         ? fm.avisoReserva.trim()
