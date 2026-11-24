@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Sandwich, Snacks, ein Glas Sekt, Getränke ohne Limit und Schnorchelausrüstung."
 - pregunta: "Wo legt das Boot ab?"
   respuesta: "In Puerto Colón, Steg 2, in Costa Adeje."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Puerto Colón, Steg (Pantalán) 2, Costa Adeje: gegenüber der Apotheke, Richtung Strand. Bitte 15 Minuten vorher da sein.'
 categoria: agua
 keywords:
 - "walbeobachtung teneriffa segelboot"

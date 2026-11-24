@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Um 8:20 Uhr am Einkaufszentrum X-Sur in Costa Adeje oder nahe Ihrem Hotel."
 - pregunta: "Wie lange dauert die Tour?"
   respuesta: "Etwa sieben Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Um 8:20 Uhr auf dem kostenlosen Parkplatz des Einkaufszentrums X-Sur, Calle Lisboa 2, Costa Adeje (oder Abholung nahe Ihrem Hotel in Las Américas).'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-tickets-ausverkauft

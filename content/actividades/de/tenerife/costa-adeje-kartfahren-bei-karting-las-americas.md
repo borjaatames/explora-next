@@ -44,6 +44,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Karting Las Américas, Carretera General, Ausfahrt 78, Fañabé (Costa Adeje).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Einzelrennen 10 oder 20 Minuten, Zweisitzer-Kart, Mini Prix oder Grand Prix, je nach Option.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 6.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke.'
 categoria: aventura
 keywords:
 - karting las americas

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, il faut choisir le tour de 2 heures."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, l'initiation est incluse."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Cuchilleros 12, à côté de la Plaza Nueva.'
 categoria: toursCiudad
 keywords:
 - "segway grenade 1 heure"

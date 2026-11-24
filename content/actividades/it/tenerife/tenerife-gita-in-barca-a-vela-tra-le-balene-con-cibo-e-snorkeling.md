@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: La guida parla spagnolo, inglese, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita in barca a vela con guida; Avvistamento cetacei; Bevande: acqua, vino, cava, birra e bibite; Snack; Attrezzatura da snorkeling.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - barca a vela tenerife balene

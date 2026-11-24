@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla español y italiano. Las explicaciones en inglés van con audio o con una app de traducción.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte privado desde Madrid; Guía; Agua; Tasas.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

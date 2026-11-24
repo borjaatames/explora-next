@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Au magasin ATD Bikes, calle Alcalde Isacio Contreras 1."
 - pregunta: "Et s'il pleut ?"
   respuesta: "On peut changer de date."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Magasin ATD Bikes, calle Alcalde Isacio Contreras 1, 41003 Séville (rue piétonne).'
 categoria: toursCiudad
 guiasRelacionadas:
 - seville-en-1-jour

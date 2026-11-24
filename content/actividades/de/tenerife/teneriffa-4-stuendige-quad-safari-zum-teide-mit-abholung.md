@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Französisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer: Playa de las Américas, Costa Adeje, Los Cristianos, Golf del Sur, Callao Salvaje und Playa Paraíso; 4-stündige geführte Quadtour; Guide; Zugelassener Helm; Haftpflicht- und Unfallversicherung; Freie Zeit in Vilaflor und an der Boca de Tauce.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Fahrer ab 21 mit Führerschein seit mindestens 2 Jahren; Kinder ab 7, nur als Beifahrer; Höchstens 160 kg pro Quad.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Extras: Brille, Jacke, Handschuhe, Tuch, Fotos.'
 categoria: aventura
 keywords:
 - quad safari teneriffa

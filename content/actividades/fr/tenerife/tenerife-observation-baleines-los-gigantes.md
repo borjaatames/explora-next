@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Aucun opérateur ne peut garantir l'observation d'animaux sauvages, mais les globicéphales vivent toute l'année au large de la côte ouest de Tenerife (ils ne migrent pas), donc les observations sont très fréquentes. Les dauphins sont aussi visibles lors de la plupart des sorties.
 - pregunta: Quelles baleines verrai-je ?
   respuesta: L'espèce la plus courante est le globicéphale tropical (présent toute l'année). Les grands dauphins et les dauphins tachetés de l'Atlantique sont aussi très souvent observés. Plus rarement, on voit des cachalots et des tortues caouannes.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Los Gigantes, Tenerife. Los Gigantes se trouve sur la côte ouest de Tenerife, à environ 45 km de Santa Cruz et 30 km de Las Américas. Depuis le sud, prenez les autoroutes TF-1 et TF-47. Parking disponible au port. Confirmez le point de rendez-vous exact avec l''opérateur indiqué sur votre bon.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en bateau (2 à 3 heures); Observation des baleines et des dauphins avec un guide naturaliste.'
 opinionEditorial: "Los Gigantes réunit deux des plus grands spectacles naturels de Tenerife : les plus hautes falaises maritimes d'Espagne et des globicéphales sédentaires juste au large. L'un des meilleurs sites d'observation des cétacés d'Europe."
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

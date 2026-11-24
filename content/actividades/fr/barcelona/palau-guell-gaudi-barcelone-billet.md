@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, sauf s'il pleut."
 - pregunta: "Où se trouve le palais ?"
   respuesta: "Carrer Nou de la Rambla, à deux pas de la Rambla."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Selon le prestataire, pas d''annulation gratuite ; vérifiez les conditions avant de réserver.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Palau Güell, carrer Nou de la Rambla 3-5, près de la Rambla.'
 categoria: entradas
 guiasRelacionadas:
 - barcelone-en-2-jours

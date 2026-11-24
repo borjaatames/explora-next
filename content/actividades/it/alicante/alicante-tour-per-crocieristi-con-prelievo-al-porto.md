@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Sì, con il biglietto dell'ascensore."
 - pregunta: "Si torna in tempo per la nave?"
   respuesta: "Sì, la guida organizza il rientro prima della partenza."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Terminal crociere di Alicante, molo 14: la guida ti aspetta al porto con un cartello.'
 categoria: toursCiudad
 keywords:
 - "alicante tour crociera"

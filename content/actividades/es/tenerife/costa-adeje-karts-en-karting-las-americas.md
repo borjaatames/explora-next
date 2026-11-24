@@ -44,6 +44,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Karting Las Américas, Carretera General, salida 78, Fañabé (Costa Adeje).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Carrera individual de 10 o 20 minutos, kart biplaza, Mini Prix o Grand Prix, según la opción.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 6 años.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas.'
 categoria: aventura
 keywords:
 - karting las americas

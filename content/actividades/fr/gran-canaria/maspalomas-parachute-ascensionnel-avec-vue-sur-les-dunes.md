@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Vol en parachute ascensionnel; Équipement de sécurité homologué; Briefing; Décollage et atterrissage depuis le bateau; Assurance; Assistance de l''équipage.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux enfants de moins de 5 ans, aux femmes enceintes et aux personnes cardiaques; 159 kg maximum; Déconseillé après une opération récente et aux personnes en fauteuil roulant.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '1 heure.'
 categoria: agua
 keywords:
 - parachute ascensionnel maspalomas

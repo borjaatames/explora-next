@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'No: Valencia is flat and much of the route uses the Turia bike lane.'
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Carrer de la Corretgeria, Valencia.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide; Bike and helmet.'
 opinionEditorial: Valencia is the perfect bike city, and in three hours you go from the old town to the City of Arts. Private means your own pace.
 atraccionesRelacionadas:
 - centro-historico

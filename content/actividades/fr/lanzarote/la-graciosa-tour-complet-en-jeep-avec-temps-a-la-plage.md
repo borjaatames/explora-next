@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Location de vélos et boutique Gracioserito, C. García Escámez 18, Caleta de Sebo.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Tour en jeep du nord et du sud de La Graciosa; Visite des plages de Las Conchas et de La Francesa; Plage de Montaña Amarilla; Temps de plage supplémentaire sur demande.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Il faut d''abord prendre le ferry jusqu''à La Graciosa; Prévoyez crème solaire, chapeau et eau; Déconseillé aux femmes enceintes et en cas de problèmes de dos.'
 categoria: excursionesDia
 keywords:
 - la graciosa jeep

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "De 30 minutes à plusieurs heures selon l'option."
 - pregunta: "Est-ce accessible ?"
   respuesta: "Oui, aux personnes à mobilité réduite."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option ; le point de rendez-vous figure dans la confirmation.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

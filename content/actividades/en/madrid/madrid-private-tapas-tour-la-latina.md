@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de la Cebada, La Latina, Madrid.'
+- pregunta: 'What is included?'
+  respuesta: 'Food; Drinks; Private guide; Support from a travel agent.'
 atraccionesRelacionadas:
 - tapas-madrid
 categoria: toursGastronomicos

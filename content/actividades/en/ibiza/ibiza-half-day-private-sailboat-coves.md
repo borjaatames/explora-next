@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: €700 for the whole boat, whether you're 2 or 7.
 - pregunta: Can I cancel?
   respuesta: Free up to 60 days before; no refund after that.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private sailboat with skipper; Fuel; Snorkelling gear and 2 paddle boards.'
 opinionEditorial: Half a day on your own sailboat is the best way to see Ibiza's coves without crowds. With 5 or 6 people the price per head is very reasonable.
 atraccionesRelacionadas:
 - calas-barco

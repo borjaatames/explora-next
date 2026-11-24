@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "No, solo un punto d'incontro al centro dell'isola."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, tra le altre lingue."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo dall''alloggio nel nord o nel centro; dal sud ci si trova in un punto d''incontro al centro dell''isola.'
 categoria: aventura
 keywords:
 - "calderon hondo escursione"

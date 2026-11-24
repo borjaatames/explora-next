@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: Kostenlos bis 60 Tage vorher; danach keine Erstattung.
 - pregunta: Welche Sprachen spricht der Skipper?
   respuesta: Spanisch und Englisch, nicht Deutsch. Für den Sonnenuntergang brauchst du keine Sprachkenntnisse.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 opinionEditorial: Es Vedrà bei Sonnenuntergang ist einer der berühmtesten Ausblicke Ibizas, und ihn vom eigenen Segelboot aus mit einem Glas Cava zu sehen, ist kaum zu schlagen.
 atraccionesRelacionadas:
 - vedra-atardecer

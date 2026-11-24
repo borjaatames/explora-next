@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Guide; Excursion tout-terrain.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prise en charge dans des lieux choisis du sud de Fuerteventura; L''heure exacte est communiquée avant l''excursion.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '4 heures.'
 categoria: excursionesDia
 keywords:
 - cofete 4x4

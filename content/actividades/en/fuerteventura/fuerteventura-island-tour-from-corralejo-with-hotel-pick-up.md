@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Italian, Spanish, German, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transfer from and to your hotel; Water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with vertigo or fear of heights.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food.'
 categoria: excursionesDia
 keywords:
 - fuerteventura island tour

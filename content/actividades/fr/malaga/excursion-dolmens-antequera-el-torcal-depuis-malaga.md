@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'Non : c''est une promenade guidée de 90 minutes sur des sentiers caillouteux. Des chaussures fermées suffisent.'
 - pregunta: Comment revenir à Málaga ?
   respuesta: En bus régulier depuis Antequera ; le guide vous remet la carte.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Málaga, près de La Orquídea Restobar (Alameda Principal). Vérifiez l''emplacement exact sur votre bon de réservation. Le retour à Málaga se fait en bus régulier depuis Antequera.'
 opinionEditorial: Deux sites du patrimoine mondial en une demi-journée, en groupe de huit. El Torcal ressemble à une autre planète et les dolmens sont plus impressionnants qu'on ne l'imagine. Une excellente alternative au Caminito si vous l'avez déjà fait.
 categoria: excursionesDia
 keywords:

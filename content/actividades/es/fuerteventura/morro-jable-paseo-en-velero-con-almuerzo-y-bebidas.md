@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, polaco, ruso, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Equipo de esnórquel; Comida y bebida ilimitadas (cerveza, cava, vino y refrescos).'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Recogida: Costa Calma 10:25, Esquinzo/Butihondo 10:40, Jandía/Morro Jable 10:45; Si vas por tu cuenta: 10:50 frente al restaurante de la Cofradía, en el puerto.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas (opcionales).'
 categoria: agua
 keywords:
 - velero morro jable

@@ -44,6 +44,14 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Karting Las Américas, Carretera General, exit 78, Fañabé (Costa Adeje).'
+- pregunta: 'What is included?'
+  respuesta: '10 or 20-minute individual race, two-seater kart, Mini Prix or Grand Prix, depending on the option.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 6.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: aventura
 keywords:
 - karting las americas

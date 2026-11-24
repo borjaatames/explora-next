@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle italien, français, allemand, anglais, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transfert aller-retour depuis l''hôtel; Transport en autocar; Guide local; Entrée et visite d''une ferme d''aloe vera; Tapas dans un restaurant canarien typique; Assurance voyage.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Boissons.'
 categoria: excursionesDia
 keywords:
 - excursion guayadeque

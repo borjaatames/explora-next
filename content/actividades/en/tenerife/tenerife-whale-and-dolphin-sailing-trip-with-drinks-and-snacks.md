@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Yes, pick-up and drop-off at your hotel are included.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón, at the top of the pier by the «Pantalán Nº4» sign, 15 minutes before departure.'
+- pregunta: 'What is included?'
+  respuesta: 'Sailing trip; Hotel pick-up and drop-off; Safety briefing; Snorkelling gear; Drinks: cava, beer, soft drinks and water; Baguettes, fruit, crisps and nuts.'
 categoria: agua
 keywords:
 - sailing whale watching tenerife

@@ -34,6 +34,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: "Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo."
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Punto de encuentro en Valencia (se confirma al reservar).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte de ida y vuelta desde Valencia; Guía acompañante.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida; Propinas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: 'Día completo (unas 9 horas).'
 opinionEditorial: "Esta versión añade al baño en las pozas la visita al Salto de la Novia, con su leyenda incluida, así que da más juego que la excursión básica. Buen plan para combinar naturaleza, baño y un poco de historia local."
 categoria: excursionesDia
 keywords:

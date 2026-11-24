@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour in SUV 4x4 chiuso (max 6 passeggeri + autista); Spiegazioni nella tua lingua; Prelievo in hotel nel sud dell''isola; Assicurazione RC.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a chi ha problemi alla schiena; Mostra la conferma della prenotazione, stampata o sul telefono.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo.'
 categoria: excursionesDia
 keywords:
 - tour 4x4 nord fuerteventura

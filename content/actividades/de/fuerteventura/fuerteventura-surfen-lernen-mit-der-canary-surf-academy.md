@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung vom Hotel oder Apartment (Verfügbarkeit prüfen); Neoprenanzug, Brett und Leash; Surfkurs mit qualifiziertem Lehrer; Versicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 6; Nicht für Schwangere; Du musst schwimmen können.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Abholung in Costa Calma, Morro Jable und im Süden (Treffpunkt am Strand möglich).'
 categoria: agua
 keywords:
 - canary surf academy

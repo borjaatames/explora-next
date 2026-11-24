@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: The basilica carved into the mountain (a 262-metre nave), the 150-metre cross, the tallest in the world, and the pine forests of the Guadarrama range. The guide explains its history as a post-war monument and its current reinterpretation.
 - pregunta: Is there an English-speaking guide?
   respuesta: Yes, there are departures with English-speaking and Spanish-speaking guides. Choose the language when booking.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Central Madrid (exact point on your voucher). Departure is from central Madrid first thing in the morning; the exact point and time are on your voucher. Arrive 15 minutes early.'
 opinionEditorial: 'The efficient way to see both monuments without a car: five hours, one morning, and back in Madrid for lunch. El Escorial impresses with the building, the Valley with the setting and the history. Consistently praised for its guides.'
 guiasRelacionadas:
 - madrid-in-3-days

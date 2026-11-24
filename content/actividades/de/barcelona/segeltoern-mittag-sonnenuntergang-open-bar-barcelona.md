@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Open Bar mit Cava, Wein, Bier und Softdrinks."
 - pregunta: "Kann man baden?"
   respuesta: "Ja, wenn das Wetter es erlaubt."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Auf der Straße vor dem Restaurant MOLO39 warten (nicht auf der Terrasse), Plaça de Pau Vila 39, Südseite des Palau de Mar (Metro Barceloneta, L4). 15 Minuten vorher da sein.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-in-2-tagen

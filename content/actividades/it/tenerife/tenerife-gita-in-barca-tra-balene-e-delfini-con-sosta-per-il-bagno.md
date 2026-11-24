@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Da Los Cristianos o da Puerto Colón (Costa Adeje), secondo l'opzione prenotata.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita in barca di due ore per l''avvistamento; Guida e spiegazioni nella lingua dell''opzione scelta; Breve sosta per il bagno; Acqua potabile e bicchieri riutilizzabili.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Gli avvistamenti sono molto frequenti ma non garantiti: gli animali sono selvatici; Il punto d''incontro dipende dall''opzione scelta; Se soffri il mal di mare, prendi un farmaco prima di salpare.'
 categoria: agua
 keywords:
 - avvistamento balene tenerife

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Na véspera, segundo a previsão do tempo."
 - pregunta: "Há limite de peso?"
   respuesta: "Sim, 130 kg; acima de 110 kg é preciso reservar dois lugares."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Heliporto de Barcelona, Moll Adossat 2, no porto (Sants-Montjuïc).'
 categoria: aventura
 guiasRelacionadas:
 - barcelona-em-2-dias

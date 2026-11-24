@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, italiano, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Pantalanes 2, Puerto Calero.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta guiada de 1 hora con monitor profesional; Seguro a todo riesgo; Combustible.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Conductores desde 16 años; No apto para embarazadas; Máximo 110 kg.'
 categoria: agua
 keywords:
 - moto de agua puerto calero

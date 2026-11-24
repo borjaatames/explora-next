@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: A lancha está homologada para atividade comercial e leva até 8 passageiros em lugares individuais, com um skipper profissional e divertido que vai contando coisas sobre a cidade.
 - pregunta: Há idade mínima ou alguma restrição?
   respuesta: A idade mínima é de 12 anos. Não é recomendado a pessoas com problemas de costas ou cardíacos, nem a grávidas, por ser um passeio a alta velocidade.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes do início, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Marina Vela, Port Vell, Barcelona.'
 opinionEditorial: "Para quem quer algo mais animado do que um veleiro: meia hora pelo Port Vell a ver superiates e as bases da America's Cup, e meia hora a toda a velocidade ao longo da costa. Curto, intenso e muito divertido."
 atraccionesRelacionadas:
 - barco

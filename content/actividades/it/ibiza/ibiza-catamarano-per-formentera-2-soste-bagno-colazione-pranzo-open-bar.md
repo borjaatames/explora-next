@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Check-in dalle 8:15 alle 9:00, partenza alle 9:15."
 - pregunta: "Dove si fa il bagno?"
   respuesta: "Davanti a Espalmador e Ses Illetes."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Pier 69, Carrer de la Punta 3, Playa d''en Bossa (Ibiza). Check-in dalle 8:15 alle 9:00.'
 categoria: agua
 keywords:
 - "catamarano formentera da ibiza"

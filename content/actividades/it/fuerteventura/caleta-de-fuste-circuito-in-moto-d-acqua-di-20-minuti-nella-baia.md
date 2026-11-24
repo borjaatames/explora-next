@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Oceanarium Explorer, Barceló Club El Castillo, Caleta de Fuste.'
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Moto d''acqua; Giubbotto salvagente; Istruttore.'
 categoria: agua
 keywords:
 - moto d'acqua caleta de fuste

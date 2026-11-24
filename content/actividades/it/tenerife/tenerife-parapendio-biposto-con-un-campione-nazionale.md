@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno a Costa Adeje, Adeje, Las Américas e Los Cristianos; Casco e attrezzatura di sicurezza; 5 foto GoPro; Bottiglia d''acqua.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Dai 6 ai 70 anni, fino a 110 kg; Prelievo a Las Américas e Los Cristianos solo alle 10:00 e alle 12:00; Il volo dipende dal vento.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Pacchetto premium foto e video GoPro (40 €); Pacchetto VIP Insta360 (80 €).'
 categoria: aventura
 keywords:
 - parapendio tenerife

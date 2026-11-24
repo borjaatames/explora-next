@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla francés, inglés, español, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Vehículo todoterreno; Traslado desde el hotel; Guía en tu idioma; Grupos reducidos; Entrada a la granja de aloe vera.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No accesible en silla de ruedas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida; Bebidas.'
 categoria: excursionesDia
 keywords:
 - safari el cotillo

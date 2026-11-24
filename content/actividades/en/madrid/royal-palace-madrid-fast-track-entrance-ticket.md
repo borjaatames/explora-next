@@ -46,6 +46,10 @@ preguntasFrecuentes:
   respuesta: 'Yes: fast-track entrance ticket to the Royal Palace of Madrid.'
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Royal Palace of Madrid, Plaza de la Armería. Show your ticket on your phone at the entrance at your time slot.'
+- pregunta: 'What is included?'
+  respuesta: 'Fast-track entrance ticket to the Royal Palace of Madrid.'
 categoria: entradas
 keywords:
 - royal palace madrid tickets

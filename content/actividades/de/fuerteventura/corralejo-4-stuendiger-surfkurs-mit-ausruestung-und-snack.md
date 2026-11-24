@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Villa Comercial El Campanario, Calle Hibisco 1, Corralejo.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fahrt zum Strand mit den besten Bedingungen; Brett, Neoprenanzug und Leash; Haftpflicht- und Unfallversicherung; Snack: Obst, Wasser oder Saft.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 6; Nicht für Schwangere; Nicht für Personen über 70 oder nach kürzlichen Operationen.'
 categoria: agua
 keywords:
 - surfkurs 4 stunden corralejo

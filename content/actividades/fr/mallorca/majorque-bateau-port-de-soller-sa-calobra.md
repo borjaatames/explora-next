@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Une gorge calcaire étroite et spectaculaire, creusée par un torrent saisonnier, qui débouche sur la mer dans la crique de Sa Calobra. La balade dure environ 20 à 30 minutes et demande d'escalader quelques rochers et de passer par un étroit tunnel creusé dans la roche.
 - pregunta: Peut-on se baigner à Sa Calobra ?
   respuesta: Oui. Sa Calobra a une petite plage de galets à l'embouchure des gorges. L'eau est cristalline et le cadre exceptionnel. Prenez un maillot de bain.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Sóller, Majorque. Le port de Sóller est à 30 km au nord de Palma par la route de montagne Ma-11. En transports en commun, prenez le train en bois de Palma à Sóller (l''un des trajets les plus pittoresques de Majorque), puis le tramway jusqu''au port. Confirmez le point de départ exact avec l''opérateur indiqué sur votre bon.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Excursion en bateau aller-retour de Sóller à Sa Calobra; Temps libre à Sa Calobra pour la balade dans les gorges.'
 opinionEditorial: "Sa Calobra en bateau depuis Sóller est l'une des plus belles expériences de Majorque : le paysage côtier vaut à lui seul le déplacement, et la balade dans les gorges à l'arrivée la rend inoubliable. Ne prenez pas la route à la place : l'approche en bateau n'a rien à voir."
 guiasRelacionadas:
 - serra-tramuntana-soller

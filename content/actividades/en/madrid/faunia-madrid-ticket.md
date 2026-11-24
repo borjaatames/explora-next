@@ -57,6 +57,12 @@ preguntasFrecuentes:
   respuesta: Faunia focuses on recreating full ecosystems rather than housing large collections of animals. It's smaller, less crowded and more educational. The climate-controlled indoor environments (jungle, polar pavilion) are unique.
 - pregunta: Is Faunia open every day?
   respuesta: No. Opening days and hours change by season and the park closes on some days, so check the calendar on faunia.es before you go. Ticket offices close one hour before closing time.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Faunia, Av. de las Comunidades, 28, Madrid. Metro line 9 to Valdebernardo, Cercanías C2 to Vicálvaro, or EMT bus 71 from Plaza de Manuel Becerra (stops at the park gate). By car, A-3 exit 6 (Valdebernardo) or M-40 exits 12/13.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day entry to Faunia.'
 opinionEditorial: Faunia is Madrid's underrated nature park — more educational and less crowded. The climate-controlled ecosystems are genuinely immersive, and the polar pavilion with six species of penguin is unforgettable.
 guiasRelacionadas:
 - madrid-with-kids

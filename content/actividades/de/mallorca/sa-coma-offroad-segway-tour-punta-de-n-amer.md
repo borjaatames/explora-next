@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Am Passeig Neptú 21 in Sa Coma."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 8 Teilnehmer."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Offroad-Segway und Helm; Guide; Wasser.'
 categoria: toursCiudad
 keywords:
 - "segway sa coma"

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Goggles; Buggy safari.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The driver needs a valid driving licence: bring the original; Not suitable for pregnant women; Price per buggy for up to 2 people.'
 categoria: aventura
 keywords:
 - buggy safari gran canaria

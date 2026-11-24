@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Quad et équipement de protection; Guide; Rafraîchissements; Prise en charge.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Photos; Caution ou assurance complémentaire.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '3 heures.'
 categoria: aventura
 keywords:
 - excursion quad guidée teide

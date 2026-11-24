@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Sí, la entrada a la catedral está incluida.
 - pregunta: ¿Cuánto dura?
   respuesta: Entre hora y media y dos horas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza del Ayuntamiento, Toledo (frente a la fachada de la catedral). El punto puede variar según la opción reservada: revisa el bono. Desde la estación de AVE, autobuses urbanos 5, 61 y 62 al centro.'
 opinionEditorial: La catedral es lo mejor de Toledo y también lo que más se pierde sin explicación. Por 25 € con la entrada incluida, es la visita que más rendimiento da a una mañana en la ciudad.
 guiasRelacionadas:
 - escapadas-desde-madrid-toledo

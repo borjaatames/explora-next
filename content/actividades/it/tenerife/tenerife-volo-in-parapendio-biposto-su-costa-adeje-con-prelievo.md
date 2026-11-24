@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Sì, negli hotel e alloggi di Costa Adeje."
 - pregunta: "Le foto sono comprese?"
   respuesta: "No, foto e video si possono aggiungere sul posto."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo alloggio a Costa Adeje. In auto: parcheggio sopra la Playa de La Enramada (Avenida de Las Gaviotas).'
 categoria: aventura
 keywords:
 - "parapendio tenerife"

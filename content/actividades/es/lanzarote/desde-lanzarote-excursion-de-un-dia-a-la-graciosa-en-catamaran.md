@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: No. El catamarán fondea frente a las playas; te bañas desde el barco y tienes tiempo libre en Caleta de Sebo.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Ferry de ida y vuelta a La Graciosa; Paseo en catamarán; Copa de cava, cerveza, vino y refrescos ilimitados; Aperitivos y almuerzo (pasta); Kayaks y equipo de esnórquel.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El operador confirma hora y lugar de recogida tras la reserva; A bordo del catamarán se va descalzo; No accesible en silla de ruedas.'
 categoria: agua
 keywords:
 - la graciosa catamaran

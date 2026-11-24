@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Tre-quattro ore."
 - pregunta: "Dove ci si incontra?"
   respuesta: "Davanti al KFC vicino alla Sagrada Família, agli ombrelli blu."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti al KFC vicino alla Sagrada Família. Cercate gli ombrelli blu.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcellona-in-1-giorno

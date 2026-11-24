@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "A pedido; caso contrário, o encontro é junto à Casa Carbonell."
 - pregunta: "O motorista fala português?"
   respuesta: "Sim, o idioma escolhe-se na reserva."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Casa Carbonell, Passeig Esplanada d''Espanya, 1; a pedido, recolha no hotel.'
 categoria: toursCiudad
 keywords:
 - "tuk tuk alicante"

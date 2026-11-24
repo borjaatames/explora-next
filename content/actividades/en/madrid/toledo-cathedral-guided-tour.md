@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Yes, cathedral entry is included.
 - pregunta: How long is it?
   respuesta: Between an hour and a half and two hours.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza del Ayuntamiento, Toledo (facing the cathedral front). The meeting point can vary by option: check your voucher. From the AVE station, city buses 5, 61 and 62 go to the centre.'
 opinionEditorial: The cathedral is the best thing in Toledo and also what you miss most without explanation. At €25 with entry included, it is the visit that gets the most out of a morning in the city.
 guiasRelacionadas:
 - toledo-day-trip-from-madrid

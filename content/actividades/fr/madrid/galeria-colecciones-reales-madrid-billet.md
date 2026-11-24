@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Environ deux heures."
 - pregunta: "Quels sont les horaires ?"
   respuesta: "Selon le prestataire, du lundi au samedi de 10 h à 20 h, dimanches et fêtes de 10 h à 19 h."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Selon le prestataire, non remboursable.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Galería de las Colecciones Reales, calle Bailén, à côté du Palais royal (métro Ópera, L2 et L5).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-en-1-jour

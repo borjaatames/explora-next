@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Ja, persönliche Kopfhörer."
 - pregunta: "Kann ich danach bleiben?"
   respuesta: "Ja, mit freier Zeit in der Basilika."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option nahe der Sagrada Família; der genaue Treffpunkt steht in der Buchung.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-tickets-ausverkauft

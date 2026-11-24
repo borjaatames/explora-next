@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, con Generalife e Alcazaba."
 - pregunta: "Posso cancellare?"
   respuesta: "Fino a 24 ore prima, con rimborso del 60 %."
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Accanto al cartello «guías» all''ingresso dell''Alhambra. Qualche ora prima ricevete nome e telefono della guida.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Ingresso a tutto il complesso; Palazzi Nasridi, Generalife e Alcazaba; Visita in piccolo gruppo; Auricolari da 6 persone.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-biglietti-esauriti

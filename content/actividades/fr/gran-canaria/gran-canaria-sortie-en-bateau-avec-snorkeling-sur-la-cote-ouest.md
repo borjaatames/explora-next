@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour dans certaines zones du sud; Eau et biscuits.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux enfants de moins de 6 ans, aux personnes à mobilité réduite et en fauteuil roulant.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Photos et vidéo; Prise en charge depuis d''autres zones.'
 categoria: agua
 keywords:
 - sortie bateau snorkeling gran canaria

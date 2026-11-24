@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Non, une formation est faite avant de partir."
 - pregunta: "Quelle durée choisir ?"
   respuesta: "De 1 à 3 heures ; 2 heures permettent de faire le centre et le Retiro."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Barrio de las Letras, près de la Plaza de Santa Ana et du Teatro Español (métro Antón Martín, Sol ou Sevilla).'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía de barranquismo; Todo el equipo de barranquismo; Seguro de responsabilidad civil y accidentes.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 14 años; Hay que saber nadar; Solo para personas en forma: incluye 2 horas de caminata.'
 categoria: aventura
 keywords:
 - barranquismo acuatico tenerife

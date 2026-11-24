@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Give your height, weight and shoe size when booking.'
+- pregunta: 'What is included?'
+  respuesta: 'Equipment; PADI dive instructors; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 10; Not suitable for pregnant women; A medical questionnaire is required; some conditions need a doctor''s certificate.'
 categoria: agua
 keywords:
 - beginner diving puerto rico gran canaria

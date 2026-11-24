@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Non, elles coûtent 25 € en plus."
 - pregunta: "Y a-t-il une prise en charge ?"
   respuesta: "Oui, indiquez votre hôtel ou un point de rendez-vous à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Aquatis Diving, Playa de las Cucharas, local 6, Costa Teguise : grand panneau bleu sur la promenade. Départ à 8 h 30 ; prise en charge sur demande.'
 categoria: agua
 keywords:
 - "baptême de plongée lanzarote"

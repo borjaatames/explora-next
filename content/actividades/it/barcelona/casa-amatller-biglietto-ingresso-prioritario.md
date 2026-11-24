@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Circa 45 minuti con la videoguida, più il tempo che vuoi passare nel negozio di cioccolato.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratuitamente fino a 24 ore prima.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Casa Amatller, Passeig de Gràcia 41, Barcellona. Metro Passeig de Gràcia (L2, L3, L4). L''ingresso è nell''androne, accanto alla caffetteria.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Ingresso prioritario a Casa Amatller; Videoguida su tablet con cuffie.'
 opinionEditorial: 'L''alternativa tranquilla a Casa Batlló nello stesso isolato. Interni originali, gruppi piccoli e 18 €: se hai già visto Gaudí dall''esterno, questa è la casa che ti godrai di più all''interno.'
 categoria: entradas
 keywords:

@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Galería Náutica, Puerto Calero.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Lunettes anti-poussière; Réduction au restaurant de la marina de Puerto Calero.'
 categoria: aventura
 keywords:
 - buggy puerto calero

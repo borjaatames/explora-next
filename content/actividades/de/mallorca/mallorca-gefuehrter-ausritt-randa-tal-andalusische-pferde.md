@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Mit dem Auto oder Bus bis Llucmajor/Algaida, dort Abholung."
 - pregunta: "Wie lange dauert es?"
   respuesta: "Etwa zweieinhalb Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Reitstall im Randa-Tal; Busreisende werden in Llucmajor oder Algaida mit dem Kleinbus abgeholt. Details in der Buchung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

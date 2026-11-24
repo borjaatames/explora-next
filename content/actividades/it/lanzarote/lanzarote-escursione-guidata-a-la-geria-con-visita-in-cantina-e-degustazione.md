@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, italiano, francese, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Bodegas Rubicón, Carretera Teguise–Yaiza 2, La Geria.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida locale abilitata, esperta di paesaggio, storia e vino; Escursione circolare nel paesaggio protetto di La Geria; Visita alle Bodegas Rubicón con degustazione di un vino locale; Assicurazione RC e infortuni.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 10 anni o persone con problemi alla schiena, cardiaci o di mobilità.'
 categoria: toursGastronomicos
 keywords:
 - trekking la geria

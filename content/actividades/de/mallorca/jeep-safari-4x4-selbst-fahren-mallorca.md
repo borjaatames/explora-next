@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Nein, Schaltgetriebe."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 19 Personen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Restaurant/Bar Tapas y Más, Carretera de l''Arenal 58, Playa de Palma. Dort wartet der Guide; man kann auf eigene Kosten etwas trinken.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

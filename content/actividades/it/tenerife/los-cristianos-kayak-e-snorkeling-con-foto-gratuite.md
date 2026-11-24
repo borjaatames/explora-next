@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'C. el Coronel 8, Los Cristianos.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida professionista; Kayak e pagaia; Giubbotto salvagente; Attrezzatura da snorkeling; Foto gratuite.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Le uscite si svolgono soprattutto in inglese; le altre lingue dipendono dal personale disponibile; Bisogna saper nuotare.'
 categoria: agua
 keywords:
 - kayak los cristianos

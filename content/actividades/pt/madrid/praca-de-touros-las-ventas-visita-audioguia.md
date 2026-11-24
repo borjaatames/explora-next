@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Em dez idiomas, entre eles espanhol, inglês, francês, alemão, italiano e português.
 - pregunta: Quanto tempo é preciso?
   respuesta: Cerca de 50 minutos para o percurso, um pouco mais se se demorar no museu e no simulador.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Plaza de toros de Las Ventas, Calle de Alcalá, 237 (28028 Madrid). Metro Ventas (linhas 2 e 5): sai mesmo em frente à praça. A entrada para a visita fica na bilheteira da fachada principal. Apresente o voucher e levante o audioguia.'
 opinionEditorial: 'Uma visita curta e barata para ver por dentro o edifício neomudéjar mais marcante de Madrid e perceber o que a praça significa para a cidade, sem precisar de ir a uma tourada. O melhor é pisar a arena e sair pela Puerta Grande; o simulador é mais anedótico.'
 atraccionesRelacionadas:
 - otros-madrid

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, si le vent et la mer le permettent."
 - pregunta: "Combien de temps dure la sortie ?"
   respuesta: "Deux heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Dans le port de Barcelone ; le ponton exact dépend de l''option et figure dans la réservation.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

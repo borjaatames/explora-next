@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Passeig Neptú 21, à Sa Coma."
 - pregunta: "Combien de participants ?"
   respuesta: "8 au maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Passeig Neptú 21, Sa Coma (côte est de Majorque).'
 categoria: toursCiudad
 keywords:
 - "segway sa coma"

@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Non. Une fois échangé, le bracelet n'expire pas, vous pouvez donc répartir les monuments sur deux jours si vous dormez à Tolède.
 - pregunta: Comprend-il la cathédrale ?
   respuesta: "Non. La cathédrale a son propre billet (environ 12 €) et le vaut à elle seule. Un programme raisonnable sur une journée : la cathédrale le matin, le bracelet l'après-midi."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Échange du bracelet dans l''un des 7 monuments, Tolède. Présentez votre bon sur mobile au guichet de l''un des 7 monuments et vous recevrez le bracelet. Le plus simple est de commencer par San Ildefonso (Jésuites) : montez dans ses tours, puis continuez vers Santo Tomé et San Juan de los Reyes.'
 opinionEditorial: Le secret le mieux gardé de Tolède. Sept monuments, dont le chef-d'œuvre du Greco et le plus beau cloître de la ville, pour le prix d'un menu du jour. Si vous visitez Tolède en autonomie depuis Madrid, achetez-le avant de partir.
 guiasRelacionadas:
 - tolede-depuis-madrid-en-une-journee

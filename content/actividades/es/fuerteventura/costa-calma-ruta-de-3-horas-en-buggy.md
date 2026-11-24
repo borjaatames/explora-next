@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Costa Calma, gasolinera Disa.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta de unas 3 horas, por la mañana o por la tarde; Guía.'
 categoria: aventura
 keywords:
 - buggy costa calma

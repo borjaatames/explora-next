@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Bodega El Lomo, Calle El Lomo 18, Tegueste.'
+- pregunta: 'What is included?'
+  respuesta: 'Guided tour of the winery, vineyards, varietal garden, organic garden, bottling hall and El 18 vermouth bar; Wine tasting (1–2 young wines and 1–2 limited-edition wines, depending on option); One local food pairing per wine.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Children 6–12 taste grape juice instead of wine; under 6 free.'
 categoria: toursGastronomicos
 keywords:
 - winery tour tenerife

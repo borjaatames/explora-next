@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: No, la visita es por fuera. Si quieres entrar, compra la entrada aparte para después.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Hotel Barceló Valencia, avenida de Francia 11.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado.'
 opinionEditorial: Para entender por qué este conjunto es tan especial hace falta alguien que explique la arquitectura; dos horas en privado son suficientes y luego puedes entrar donde quieras.
 atraccionesRelacionadas:
 - ciudad-artes

@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: Die Fahrt von der Talstation (Mirador) zur Station an der Burg dauert etwa 10 Minuten pro Strecke. Plane insgesamt 1-2 Stunden ein, mit Wartezeit und Ausblick oben.
 - pregunta: Kann ich von der Seilbahn aus die Burg Montjuïc besuchen?
   respuesta: Ja. Die Bergstation liegt nur wenige Meter vom Eingang der Burg entfernt. Das Ticket für die Burg ist nicht inklusive; kauf es separat am Eingang.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Telefèric de Montjuïc, Talstation, Av. de Miramar, Barcelona. Nimm die Metrolinie 2 oder 3 bis Paral·lel und dann die Standseilbahn auf den Montjuïc (mit T-Casual kostenlos). Die Talstation der Seilbahn liegt oben an der Standseilbahn. Von dort fährt die Seilbahn hinauf zur Burg Montjuïc.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Seilbahnticket hin und zurück.'
 opinionEditorial: Die Seilbahn auf den Montjuïc bietet dir den besten Panoramablick Barcelonas, besser als der Tibidabo für die Kombination aus Stadt und Meer. Die 10-minütige Fahrt ist kurz, aber eindrucksvoll, vor allem bei Sonnenuntergang.
 guiasRelacionadas:
 - barcelona-in-3-tagen

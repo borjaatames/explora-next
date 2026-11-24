@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado desde Puerto Calero, Puerto del Carmen, Arrecife y Costa Teguise; Almuerzo a bordo con barra libre (sangría, cerveza, refrescos, agua); Entrada a LagOmar; Entrada al Mirador del Río; Tiempo libre en La Graciosa; Ferry de ida y vuelta a La Graciosa con wifi.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Menús para celíacos y vegetarianos bajo petición; El itinerario puede cambiar según el tiempo.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '8 horas.'
 categoria: excursionesDia
 keywords:
 - excursion norte de lanzarote

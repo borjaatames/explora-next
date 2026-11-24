@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: 'Zwischen 1,5 und 2 Stunden: 45-60 Minuten für die Paläste und der Rest für die Gärten. Im Frühling, wenn die Gärten blühen, lohnt es sich, länger zu bleiben.'
 - pregunta: Kann ich es am selben Tag mit der Kathedrale verbinden?
   respuesta: 'Ja, sie liegen 100 Meter auseinander. Der einfache Plan: morgens zuerst der Alcázar und nach dem Mittagessen die Kathedrale, oder du buchst den Vorrang-Pass für 3 Monumente.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattbar: Nach der Buchung kann das Ticket weder storniert noch geändert werden. GetYourGuide bestätigt das Ticket innerhalb von 48 Stunden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Real Alcázar, Puerta del León, Patio de Banderas, Sevilla. Der Eingang ist die Puerta del León an der Plaza del Triunfo, neben der Kathedrale. Zeig dein Handyticket innerhalb deines Zeitfensters; außerhalb davon ist der Einlass nicht garantiert.'
 avisoReserva: Tickets für den Alcázar sind meist mehrere Tage im Voraus ausverkauft, auch bei GetYourGuide. Wenn keine mehr da sind, verkauft die Kasse am Patio de Banderas Tickets für denselben Tag, mit begrenzten Plätzen pro Zeitfenster.
 opinionEditorial: Der Alcázar ist das Besuchsziel Nummer eins in Sevilla, und die Schlange an der Kasse dauert in der Saison über eine Stunde. Mit einem Ticket mit Zeitfenster gehst du zu deiner Uhrzeit hinein und bleibst nicht in der Sonne stehen. Buch im Frühling und zu Ostern mehrere Tage im Voraus.
 guiasRelacionadas:

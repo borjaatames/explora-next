@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Tra un'ora e mezza e un'ora e tre quarti."
 - pregunta: "La visita è in italiano?"
   respuesta: "Sì, scegliete la lingua alla prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti all''Archivio delle Indie, Avenida de la Constitución (centro storico).'
 categoria: visitasGuiadas
 keywords:
 - "archivio delle indie siviglia"

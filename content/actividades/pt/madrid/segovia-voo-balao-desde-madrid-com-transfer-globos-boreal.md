@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Cerca de uma hora."
 - pregunta: "E se o tempo estiver mau?"
   respuesta: "O voo é adiado."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Recolha no seu hotel em Madrid; a hora é confirmada antes.'
 categoria: aventura
 guiasRelacionadas:
 - o-que-ver-em-segovia-num-dia

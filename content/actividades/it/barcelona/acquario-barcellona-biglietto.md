@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: È uno dei migliori per la fauna mediterranea. Per la fauna oceanica e tropicale, l'Oceanogràfic di Valencia è più grande e vario.
 - pregunta: Si può fare il bagno con gli squali?
   respuesta: "Sì, con l'immersione in gabbia nella vasca degli squali: non servono brevetto né esperienza, l'età minima è 8 anni e costa 175 € a persona (attrezzatura, assicurazione, istruzioni e ingresso per te e un accompagnatore inclusi). Dura 2 ore, con al massimo 4 persone per turno, e si prenota sul sito dell'Aquàrium."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Aquàrium de Barcelona, Moll d''Espanya del Port Vell, 5, 08039 Barcellona. Metro L3 fino a Drassanes e 15 minuti a piedi lungo la Rambla e il Port Vell, oppure metro L4 fino a Barceloneta e 10 minuti. Mostra il biglietto sul telefono.'
 opinionEditorial: 'L''Aquàrium di Barcellona ha il tunnel degli squali più spettacolare di Spagna: 80 metri di vetro circondati da squali toro e razze. La collezione mediterranea è unica. Vale la pena anche se il prezzo è alto: compra online ed eviti la coda alla biglietteria.'
 guiasRelacionadas:
 - barcellona-con-bambini

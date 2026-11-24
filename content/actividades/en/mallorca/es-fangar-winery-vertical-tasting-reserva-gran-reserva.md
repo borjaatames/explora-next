@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: You taste several vintages of the same wine to see how it changes from year to year.
 - pregunta: Can I cancel?
   respuesta: The terms are shown in the calendar before you pay.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Es Fangar winery, Carrer Son Colom 23, Felanitx (Mallorca).'
+- pregunta: 'What is included?'
+  respuesta: 'Guided vertical tasting; Cold cuts and cheese board.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Price per person; Organic winery in Felanitx, central Mallorca: you need a car; Tour in English, Spanish or Italian.'
 opinionEditorial: 'The winery''s most special tasting, for enthusiasts: the same wine across years teaches more than any explanation.'
 atraccionesRelacionadas:
 - gastronomia

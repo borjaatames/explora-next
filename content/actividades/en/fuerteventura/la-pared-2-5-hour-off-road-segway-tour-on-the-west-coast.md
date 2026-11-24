@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, French, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Segway X2 (off-road version); Helmet; Guide; Hotel pick-up and drop-off.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 8 or pregnant women.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Tips.'
 categoria: aventura
 keywords:
 - segway la pared

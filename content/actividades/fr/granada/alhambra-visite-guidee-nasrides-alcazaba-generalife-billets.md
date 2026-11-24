@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Oui, on choisit la langue lors de la réservation. Si un jour il n'y a pas assez de personnes pour une langue, le guide peut faire la visite en deux langues.
 - pregunta: Que se passe-t-il si j'arrive en retard ?
   respuesta: La visite n'attend pas. Le guide laisse le billet au Café-Bar Polinario et vous pouvez faire la visite par vous-même, en respectant l'horaire des palais nasrides.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : les billets de l''Alhambra sont nominatifs et ne peuvent être ni annulés ni modifiés.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Entrée de l''Alhambra (le point exact dépend de l''option). Le voucher indique le point exact, à côté des accès de l''Alhambra. Depuis le centre, montez avec les bus C30 ou C32 depuis la plaza Isabel la Católica. Arrivez 15 minutes avant : la visite commence à l''heure et l''entrée aux palais nasrides a un horaire fixe.'
 opinionEditorial: 'Un bon moyen de s''assurer l''Alhambra avec un guide dans votre langue quand les billets à l''unité sont épuisés. Trois heures bien remplies. N''oubliez pas qu''on ne peut pas annuler : réservez quand votre voyage est bouclé.'
 atraccionesRelacionadas:
 - alhambra

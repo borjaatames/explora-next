@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Recogida y regreso; Fruta, frutos secos y galletas; Agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Los niños son bienvenidos, pero deben estar preparados para caminar bastante; No apto para personas con poca forma física o problemas cardíacos.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comidas y bebidas.'
 categoria: aventura
 keywords:
 - senderismo volcanes lanzarote

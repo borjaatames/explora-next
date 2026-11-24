@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: No, per buggy fino a 2 persone.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo facoltativo a Costa Adeje, Las Américas, Los Cristianos e Golf del Sur; 3,5 ore in buggy da 2 a 4 posti; Guida professionista; Occhiali protettivi e giacca calda se serve; Acqua e uno snack; Carburante.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Conducenti dai 18 anni con patente definitiva; Passeggeri alti almeno 120 cm nei buggy da 2 posti; dai 3 anni in quelli da 4; Scarpe chiuse obbligatorie.'
 categoria: aventura
 keywords:
 - buggy teide

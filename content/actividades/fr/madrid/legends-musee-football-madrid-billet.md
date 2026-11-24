@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "À la Puerta del Sol, carrera de San Jerónimo 2."
 - pregunta: "Le cinéma 4D et la VR sont-ils inclus ?"
   respuesta: "Oui, selon le prestataire."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Legends, carrera de San Jerónimo 2, à la Puerta del Sol (métro Sol).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-en-1-jour

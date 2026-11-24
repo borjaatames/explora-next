@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: No. In bassa stagione (autunno, inverno e primavera) apre solo nei fine settimana e nei festivi; in estate anche durante la settimana. Controlla il calendario sul sito ufficiale prima di comprare.
 - pregunta: Cos'è l'Avió?
   respuesta: Una replica del 1928 dell'aereo del primo volo commerciale Madrid-Barcellona, appesa a un braccio girevole che vola sopra la città. È l'attrazione più famosa del parco.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: una volta prenotato non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Parc d''Atraccions Tibidabo, Plaça del Tibidabo, 3-4, 08035 Barcellona. Da Plaça de Catalunya, autobus T2A (Bus Tibidabo) fino al Tramvia Blau o direttamente alla base della funicolare, poi funicolare fino alla cima (biglietto a parte). Mostra il biglietto sul telefono all''ingresso del parco.'
 opinionEditorial: 'Il Tibidabo è unico: non è il parco più moderno né il più grande, ma ha qualcosa che nessun altro ha. La nostalgia dell''Avió e del Museu d''Autòmates, l''architettura modernista e la vista assoluta su Barcellona lo rendono irripetibile. Il prezzo è alto: controlla il calendario di apertura prima di andare.'
 guiasRelacionadas:
 - barcellona-con-bambini

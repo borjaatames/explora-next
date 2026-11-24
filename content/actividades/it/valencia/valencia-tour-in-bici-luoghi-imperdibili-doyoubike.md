@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Da Doyoubike, calle de la Sang 9, vicino al municipio."
 - pregunta: "È faticoso?"
   respuesta: "No, il percorso è pianeggiante."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Doyoubike, calle de la Sang 9, in centro accanto al municipio.'
 categoria: toursCiudad
 guiasRelacionadas:
 - valencia-in-2-giorni

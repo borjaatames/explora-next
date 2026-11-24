@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Yes, from the age of 3. The speedboat is fast, so it is not recommended for pregnant women or people with back problems.
 - pregunta: Is pickup included?
   respuesta: Yes, from the hotels and points in the south of the island that you choose when booking.
+- pregunta: 'How long is the snorkelling stop?'
+  respuesta: 'About 30 minutes, with the equipment included.'
+- pregunta: 'How many people are on the boat?'
+  respuesta: 'Groups are of up to 20 people.'
 opinionEditorial: 'A short, lively trip to see dolphins in the south of Fuerteventura, with a good spell of snorkelling and pickup included. If you are after something calmer, the sailing boat or catamaran from Morro Jable are more leisurely.'
 atraccionesRelacionadas:
 - sur

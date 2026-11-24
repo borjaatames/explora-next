@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Visit the Montserrat Museum (works by Dalí, Picasso and Caravaggio), taste the monastery's liqueurs, hike to Sant Miquel Cross or ride the Sant Joan funicular.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Estació de França, Avinguda del Marquès de l’Argentera 6, Barcelona.'
+- pregunta: 'What is included?'
+  respuesta: 'Return transport from Barcelona; Guided visit of the basilica and monastery.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Several departures each morning and midday; Price per person.'
 opinionEditorial: The most practical, affordable way to reach Montserrat without juggling trains and rack railways, with enough free time to enjoy the mountain.
 atraccionesRelacionadas:
 - montserrat

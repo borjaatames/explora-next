@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Ja, das Ticket für die Kathedrale beinhaltet den Aufstieg auf die Giralda, der über 35 Rampen ohne Treppen erfolgt.
 - pregunta: Kann man stornieren?
   respuesta: Nur mit teilweiser Rückerstattung (45 %), wenn Sie zwei Tage im Voraus stornieren, da die Tickets personalisiert sind. Buchen Sie, wenn Ihr Datum feststeht.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Zentrum von Sevilla, nahe der Kathedrale (der genaue Treffpunkt hängt von der Option ab). Der Treffpunkt steht je nach gewählter Uhrzeit und Sprache auf dem Voucher; er liegt wenige Gehminuten von der Kathedrale entfernt. Bringen Sie Reisepass oder Personalausweis mit: Die Tickets sind personalisiert.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Führung; Tickets ohne Anstehen für die Kathedrale von Sevilla und Aufstieg auf die Giralda; Tickets ohne Anstehen für den Real Alcázar und den Patio de las Doncellas.'
 opinionEditorial: 'Erledigt an einem Vormittag die beiden unverzichtbaren Besichtigungen Sevillas, mit inklusive Tickets und ohne Anstehen. Die Stärke ist das Sprachangebot, vor allem auf Deutsch. Der Nachteil ist die Stornierung: Es wird nur ein Teil erstattet.'
 atraccionesRelacionadas:
 - real-alcazar

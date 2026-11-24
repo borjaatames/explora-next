@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla alemán, inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Patrón profesional; Navegación de 2,5 horas; Bebidas y aperitivos ligeros a bordo; Equipo de seguridad; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 6 años ni usuarios de silla de ruedas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas (se recomienda un 10–20 %); Bebidas alcohólicas (a la venta a bordo).'
 categoria: agua
 keywords:
 - velero atardecer gran canaria

@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: 'Oui, à partir de 3 ans. Le bateau est rapide, c''est pourquoi l''activité est déconseillée aux femmes enceintes et aux personnes souffrant de problèmes de dos.'
 - pregunta: 'La prise en charge est-elle incluse ?'
   respuesta: 'Oui, depuis les hôtels et points du sud de l''île que vous choisissez lors de la réservation.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge dans le sud de Fuerteventura ; départ du port de Morro Jable. Vous choisissez le point de prise en charge lors de la réservation (hôtels et arrêts de la zone de Jandía et Costa Calma). Si vous venez par vos propres moyens, le bateau part du port de Morro Jable.'
 opinionEditorial: 'Une sortie courte et dynamique pour voir des dauphins dans le sud de Fuerteventura, avec un bon moment de snorkeling et la prise en charge incluse. Si vous cherchez quelque chose de plus calme, le voilier ou le catamaran de Morro Jable sont plus paisibles.'
 atraccionesRelacionadas:
 - sur

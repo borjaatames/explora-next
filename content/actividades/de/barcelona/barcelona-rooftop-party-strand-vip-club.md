@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Nein, die zahlst du vor Ort.
 - pregunta: Wann gibt es Termine?
   respuesta: 'In der Saison: derzeit ab Mai 2027.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Die Stornobedingungen werden bei der Buchung angezeigt.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Treffpunkt am Strand von Barcelona (wird bei der Buchung bestätigt).'
 categoria: nocturno
 keywords:
 - barcelona rooftop party

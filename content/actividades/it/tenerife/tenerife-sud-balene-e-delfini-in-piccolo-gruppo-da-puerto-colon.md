@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Sì, c'è una sosta per lo snorkeling con attrezzatura inclusa."
 - pregunta: "Da dove si parte?"
   respuesta: "Da Puerto Colón, cancello n. 3."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerto Colón, cancello (puerta) n. 3, Costa Adeje.'
 categoria: agua
 keywords:
 - "balene tenerife piccolo gruppo"

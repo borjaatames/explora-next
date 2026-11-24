@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sim, conforme a opção."
 - pregunta: "Há restrições?"
   respuesta: "Não indicado para grávidas, pessoas com alergia a animais ou com mais de 110 kg."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Conforme a opção: parque de dromedários perto de La Camella (Arona), no sul de Tenerife, ou recolha; detalhes após a reserva.'
 categoria: parques
 guiasRelacionadas:
 - o-que-ver-em-tenerife

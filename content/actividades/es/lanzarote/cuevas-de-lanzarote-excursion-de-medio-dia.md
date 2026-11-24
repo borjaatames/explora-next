@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla alemán, inglés, español, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Autocar con aire acondicionado; Guía; Entrada a los Jameos del Agua y a la Cueva de los Verdes; Museo del Aloe Vera; Seguro de viaje.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo.'
 categoria: excursionesDia
 keywords:
 - excursion jameos del agua cueva de los verdes

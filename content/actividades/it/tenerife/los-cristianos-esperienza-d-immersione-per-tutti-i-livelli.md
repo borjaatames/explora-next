@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Istruttore; Spiegazioni e allenamento; Muta, maschera e pinne; Bombola, erogatore e jacket; Computer subacqueo e pedagno; Immersione.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Età minima 12 anni; Non volare nelle 12-24 ore successive all''immersione; Serve un questionario medico; alcune condizioni richiedono un certificato.'
 categoria: agua
 keywords:
 - immersioni los cristianos

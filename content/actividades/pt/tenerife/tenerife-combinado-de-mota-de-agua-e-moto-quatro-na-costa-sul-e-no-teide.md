@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. A hora reservada é a da moto quatro; a mota de água combina-se por WhatsApp.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Colete salva-vidas; Óculos; Guia; Bebidas; Duche e casas de banho; Cacifos.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Caução em dinheiro: 50 € por mota de água e 100 € por moto quatro; Transportes entre as atividades.'
 categoria: aventura
 keywords:
 - mota de agua e moto quatro tenerife

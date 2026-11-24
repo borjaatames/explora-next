@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: You can choose between the 11:00 am tour and the 6:00 pm tour. The exact meeting point is confirmed when you book.
 - pregunta: Can you cater for allergies or vegetarians?
   respuesta: Yes. Let your guide know about any allergies or dietary needs when you arrive; vegetarian options can be arranged.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'The meeting point is in Barcelona''s old town; the exact address is given when your booking is confirmed.'
 opinionEditorial: Evening is the best time for tapas in Barcelona, and going with a guide saves you from ending up in the wrong bar. Four stops are enough to taste plenty and get to know the neighbourhood at a relaxed pace.
 atraccionesRelacionadas:
 - tapas-barcelona

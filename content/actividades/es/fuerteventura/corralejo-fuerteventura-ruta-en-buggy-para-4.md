@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: No, es por buggy para hasta 4 personas.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'C. La Ballena 10, Corralejo.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Alquiler de buggy automático; Guía profesional; Charla de seguridad.'
 categoria: aventura
 keywords:
 - buggy corralejo

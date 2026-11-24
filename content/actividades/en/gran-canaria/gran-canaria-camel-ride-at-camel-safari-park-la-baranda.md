@@ -47,6 +47,14 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Camel Safari Park La Baranda, Fataga road km 12.'
+- pregunta: 'What is included?'
+  respuesta: '30-minute camel ride; Park entry to see more animals and the garden.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for pregnant women; Maximum 120 kg.'
+- pregunta: 'What is not included?'
+  respuesta: 'Drinks; Animal feed.'
 categoria: aventura
 keywords:
 - camel ride gran canaria

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, mit Generalife und Alcazaba."
 - pregunta: "Kann ich stornieren?"
   respuesta: "Bis 24 Stunden vorher mit 60 % Erstattung."
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Am Schild «Guías» am Eingang der Alhambra. Einige Stunden vorher erhalten Sie Name und Telefonnummer des Guides.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in den gesamten Komplex; Nasridenpaläste, Generalife und Alcazaba; Führung in kleiner Gruppe; Kopfhörer ab 6 Personen.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-tickets-ausverkauft

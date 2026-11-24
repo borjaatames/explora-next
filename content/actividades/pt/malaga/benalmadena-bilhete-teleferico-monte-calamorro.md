@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'Não: fecha com vento forte. Consulte a previsão do dia antes de ir.'
 - pregunta: É possível cancelar?
   respuesta: Não, o bilhete não é reembolsável.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Estação base do teleférico, Av. de Tívoli, Arroyo de la Miel (Benalmádena). Junto ao Tívoli World. Comboio suburbano (Cercanías) C1 até Benalmádena-Arroyo de la Miel e 10 minutos a pé.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete do teleférico.'
 opinionEditorial: A melhor vista da Costa del Sol por menos de 20 €. Vá de manhã, quando há menos neblina, e, se gosta de caminhar, desça por um dos trilhos.
 categoria: entradas
 keywords:

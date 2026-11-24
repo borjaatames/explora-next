@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Bateau; Gilet de sauvetage; Skipper; Eau.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'L''observation de dauphins ou d''autres animaux n''est pas garantie; Déconseillé aux moins de 2 ans et aux femmes enceintes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Pourboires; Repas; 5 € de supplément par personne.'
 categoria: agua
 keywords:
 - observation dauphins lanzarote

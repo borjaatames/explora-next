@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Non, les monuments se voient de l'extérieur."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, l'initiation est incluse."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Carrer del Palau Reial 12, près de la cathédrale.'
 categoria: toursCiudad
 keywords:
 - "segway palma 2 heures"

@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Surfbrett und Neoprenanzug; Eigener Lehrer, angepasst an dein Niveau; Höchstens 5 Schüler pro Lehrer; Fotos und Videos, wenn die Bedingungen es erlauben.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Bei der Buchung dein Niveau angeben; Nicht für Kinder unter 4 oder Schwangere; Handtuch, Sonnencreme und trockene Kleidung mitbringen.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '2 Stunden.'
 categoria: agua
 keywords:
 - surfkurs famara

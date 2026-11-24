@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, espagnol, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Van climatisé; Petit groupe (8 maximum); En-cas; Entrée au parc du Drago Milenario; Temps libre à Icod, Garachico et Masca; Arrêts panoramiques.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Baignade à Garachico seulement si la mer le permet; L''heure exacte de prise en charge est confirmée la veille; Déconseillé en cas de mal des transports.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas ou boissons supplémentaires.'
 categoria: excursionesDia
 keywords:
 - excursion masca garachico

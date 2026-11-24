@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, alemán, español, neerlandés, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en tu alojamiento; Ruta en 4x4; Paradas para fotos en Guatiza, el Mirador de los Helechos y el Mirador de las Nieves; Visita a la histórica Teguise; Parada en un mirador sobre la costa de Famara; Parada en una oficina de turismo sobre el origen volcánico.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con movilidad reducida; Los 4x4 pueden compartirse con otros participantes.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comidas; Gastos personales.'
 categoria: aventura
 keywords:
 - excursion 4x4 norte de lanzarote

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Surf School Lanzarote, C. El Callejón 4, Caleta de Famara.'
+- pregunta: 'What is included?'
+  respuesta: 'Surfboard; Wetsuit; ISA-certified instructor; RLSS-certified lifeguard instructor; Transport to the beach from the school.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Bring a snack or lunch for the full-day option (break around 12:00); You must be able to swim.'
 categoria: agua
 keywords:
 - surf lesson famara

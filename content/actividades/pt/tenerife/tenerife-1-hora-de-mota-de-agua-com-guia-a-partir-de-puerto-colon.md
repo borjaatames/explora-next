@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Taxas; Guia.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Mota individual a partir dos 16 com autorização escrita dos pais; mota dupla, condutores com 18 anos ou mais; Passageiros a partir dos 10 anos; Leve um documento de identificação com foto.'
 categoria: agua
 keywords:
 - mota de agua 1 hora tenerife

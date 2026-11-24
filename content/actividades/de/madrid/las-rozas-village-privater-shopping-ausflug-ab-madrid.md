@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Rund 6 Stunden insgesamt, inklusive Fahrt.
 - pregunta: Ist es eine Führung?
   respuesta: 'Nein: Der Fahrer bringt dich hin, wartet und fährt dich zurück.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher. Danach keine Erstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an deinem Hotel oder deiner Unterkunft in Madrid.'
 categoria: excursionesDia
 privada: true
 precioPorGrupo: true

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Parascending Tenerife, Steg 4, Puerto Colón, Costa Adeje.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Parasailing-Flug; Ausrüstung; Bootsfahrt; Versicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Schwangere oder Rollstuhlfahrer.'
 categoria: agua
 keywords:
 - parasailing teneriffa

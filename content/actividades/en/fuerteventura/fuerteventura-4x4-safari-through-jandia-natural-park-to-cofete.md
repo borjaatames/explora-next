@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Guide explanations in your language; Hotel pick-up in designated areas; Closed 4x4 for up to 6 passengers plus driver; Liability insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with back problems or reduced mobility; Show your booking confirmation, printed or on your phone.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food.'
 categoria: excursionesDia
 keywords:
 - cofete jeep safari

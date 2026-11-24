@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Non con questo biglietto, valido per i passeggeri a piedi."
 - pregunta: "Devo tornare in giornata?"
   respuesta: "No, il ritorno può essere in un altro giorno."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Playa Blanca (Lanzarote) o porto di Corralejo (Fuerteventura), secondo l''opzione scelta.'
 categoria: agua
 keywords:
 - "traghetto lanzarote fuerteventura"

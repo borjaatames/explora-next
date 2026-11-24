@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Dulces de convento, panades, pan con sobrasada, tres tapas de temporada con vino, ensaimada, helado de almendra y un licor mallorquín.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 48 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Oficina de Turismo del Parc de la Mar, Palma. Bajo la catedral, junto al lago del Parc de la Mar. El guía lleva camiseta naranja y un cartel con el nombre del tour. Termina en la plaza de Cort.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía local; Degustaciones: dulces de convento, panades, sobrasada, tapas y ensaimada; Una copa de vino local; Agua; Visita al Mercat de l''Olivar; Mapa de la ciudad.'
 opinionEditorial: 'Lo más parecido a comer mallorquín de verdad sin salir de Palma: convento, mercado y ensaimada en una mañana. Grupos pequeños y raciones generosas.'
 guiasRelacionadas:
 - comer-en-mallorca

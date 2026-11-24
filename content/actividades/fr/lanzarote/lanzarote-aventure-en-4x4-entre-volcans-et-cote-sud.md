@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, espagnol, allemand.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour; Trajet en 4x4; Village de Yaiza; Plage de Papagayo; El Golfo et Charco de los Clicos; Centre d''accueil de Timanfaya.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'En-cas; Boissons; Repas.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '6 heures.'
 categoria: excursionesDia
 keywords:
 - 4x4 lanzarote

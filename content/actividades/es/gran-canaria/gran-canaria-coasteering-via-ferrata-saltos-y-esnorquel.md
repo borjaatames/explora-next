@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aparcamiento de la playa de Medio Almud, GC-500, Mogán.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía en inglés y español; Fotos; Arnés y casco; Neopreno y chaleco salvavidas; Pícnic (barrita de cereales y bebida isotónica); Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 8 años; No apto para embarazadas.'
 categoria: aventura
 keywords:
 - coasteering mogan

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Na Puerta del Sol, carrera de San Jerónimo 2."
 - pregunta: "O cinema 4D e a RV estão incluídos?"
   respuesta: "Sim, segundo o operador."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Legends, carrera de San Jerónimo 2, na Puerta del Sol (metro Sol).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-num-dia

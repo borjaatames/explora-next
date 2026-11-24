@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Optional, an Sammelpunkten in Costa Calma, Esquinzo, Jandía und Morro Jable."
 - pregunta: "Wo legt das Boot ab?"
   respuesta: "Im Hafen von Morro Jable."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Morro Jable, 30 Minuten vor Abfahrt (Option ohne Transfer). Mit Transfer: Abholpunkte in Costa Calma, Esquinzo, Jandía und Morro Jable.'
 categoria: agua
 keywords:
 - "sunset bootstour fuerteventura"

@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: 700 € por el barco completo, seáis 2 o 7.
 - pregunta: ¿Se puede cancelar?
   respuesta: Gratis hasta 60 días antes; después no hay reembolso.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Velero privado con patrón; Combustible; Equipo de snorkel y 2 tablas de paddle surf.'
 opinionEditorial: Medio día en velero propio es la mejor forma de ver las calas de Ibiza sin multitudes. Con 5 o 6 personas el precio por cabeza es muy razonable.
 atraccionesRelacionadas:
 - calas-barco

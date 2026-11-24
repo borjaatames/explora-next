@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Carretera a La Escalona 34, El Roque (Granadilla). Arriva 30 minuti prima: alle 12:00 per il tour delle 12:30, alle 16:00 per quello delle 16:30.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour guidato; Guida; Quad; Attrezzatura di sicurezza; Bevande.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a persone sotto i 120 cm.'
 categoria: aventura
 keywords:
 - tour quad teide tramonto

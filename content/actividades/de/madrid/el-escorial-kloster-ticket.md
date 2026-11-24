@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Ja, sie liegen 15 Autominuten auseinander, aber ohne Auto ist es umständlich (der Bus 660 fährt selten). Wenn du beides an einem Tag ohne Auto sehen willst, schau dir den organisierten Ausflug an.
 - pregunta: Wie viel Zeit brauche ich?
   respuesta: Zwei Stunden für den offiziellen Rundgang (Palast, Grüfte, Kapitelsäle, Bibliothek und Basilika). Rechne eine Stunde für die Gärten und den Ort dazu.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann nicht storniert oder geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Real Monasterio de San Lorenzo de El Escorial, Av. Juan de Borbón y Battemberg. Cercanías C-3 oder C-8 ab Atocha, Sol oder Chamartín nach El Escorial (50-60 Min.), dann 15 Minuten zu Fuß bergauf, oder Bus 661/664 ab Moncloa (50 Min.), der neben dem Kloster hält.'
 opinionEditorial: 'El Escorial ist der ernsthafteste Halbtagesausflug ab Madrid: weniger malerisch als Toledo oder Segovia, aber das Bauwerk ist überwältigend, und die Königsgruft bleibt im Gedächtnis. Günstiges Ticket, einfach mit dem Zug. Buch im Voraus, damit du am Wochenende nicht an der Kasse anstehst.'
 guiasRelacionadas:
 - madrid-in-3-tagen

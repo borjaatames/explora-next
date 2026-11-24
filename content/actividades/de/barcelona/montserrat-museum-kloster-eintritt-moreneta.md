@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Es ist Ihr Zugang zur Moreneta."
 - pregunta: "Gibt es einen Audioguide?"
   respuesta: "Ja, er ist inklusive."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Touristeninformation von Montserrat.'
 categoria: entradas
 guiasRelacionadas:
 - montserrat-tickets-ausverkauft

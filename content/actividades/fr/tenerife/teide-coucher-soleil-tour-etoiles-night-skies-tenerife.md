@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Oui, rendez-vous à la montaña Sámara."
 - pregunta: "Y a-t-il un dîner ?"
   respuesta: "Oui, en option."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Si vous venez par vos propres moyens : montaña Sámara, dans le parc national. Demandez Kieran à votre arrivée.'
 categoria: nocturno
 guiasRelacionadas:
 - teide-billets-complets

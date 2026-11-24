@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle italien, allemand, français, anglais, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking gratuit du centre commercial X-Sur, Calle Lisboa 2, Costa Adeje, à 8 h 20.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Chauffeur; Traversée en ferry; Déjeuner.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Apportez votre pièce d''identité ou passeport original pour le ferry.'
 categoria: excursionesDia
 keywords:
 - la gomera jeep

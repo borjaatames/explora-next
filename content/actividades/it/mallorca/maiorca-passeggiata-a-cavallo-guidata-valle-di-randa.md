@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "In auto o in autobus fino a Llucmajor/Algaida, con prelievo."
 - pregunta: "Quanto dura?"
   respuesta: "Circa due ore e mezza."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Maneggio nella valle di Randa; chi arriva in autobus viene prelevato a Llucmajor o Algaida. Dettagli nella prenotazione.'
 categoria: aventura
 guiasRelacionadas:
 - cosa-vedere-a-maiorca

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, German, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Aquasports Fuerteventura, Morro Jable harbour.'
+- pregunta: 'What is included?'
+  respuesta: 'Guided boat trip.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Be on time: there is no waiting margin; Bring a sweater and a towel.'
 categoria: agua
 keywords:
 - speedboat morro jable dolphins

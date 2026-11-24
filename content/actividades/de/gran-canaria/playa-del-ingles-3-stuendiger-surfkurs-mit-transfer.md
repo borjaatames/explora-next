@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Canary Wave Surf School, Centro Comercial Oasis, Paseo del Faro 1, Maspalomas. Die Schule bestätigt die Startzeit, meist vormittags.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Transfer vom/zum Hotel (nur im Süden der Insel); Surfausrüstung; Lehrer.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Wasser.'
 categoria: agua
 keywords:
 - surfkurs playa del ingles

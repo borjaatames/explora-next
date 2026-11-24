@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, Italian, German, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Magilu, Av. Ocira 27, Abades (east coast of Tenerife).'
+- pregunta: 'What is included?'
+  respuesta: 'Mask, snorkel, fins, booties and wetsuit; Multilingual instructors; 50-minute guided snorkel; Free photos and videos; Extra help for young children and older people; Insurance and water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'You must be able to swim; between 30 and 140 kg; The operator messages you the day before to ask your sizes; Arrive with your swimsuit on.'
 categoria: agua
 keywords:
 - snorkeling tenerife

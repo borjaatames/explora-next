@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Visitar el Museo de Montserrat (con obras de Dalí, Picasso y Caravaggio), probar los licores del monasterio, subir a la Cruz de Sant Miquel o coger el funicular de Sant Joan.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estació de França, avinguda del Marquès de l’Argentera 6, Barcelona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte de ida y vuelta desde Barcelona; Visita guiada a la basílica y el monasterio (en inglés).'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'La explicación es en inglés; Varias salidas al día por la mañana y a mediodía; Precio por persona.'
 opinionEditorial: La forma más práctica y barata de ir a Montserrat sin depender del tren y el cremallera, con tiempo libre suficiente para disfrutar la montaña.
 atraccionesRelacionadas:
 - montserrat

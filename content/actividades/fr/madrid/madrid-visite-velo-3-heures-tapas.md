@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: 'À la fin, des tapas et une boisson dans un bar du centre, avec les recommandations du guide pour le reste du séjour.'
 - pregunta: 'À partir de quel âge les enfants peuvent-ils participer ?'
   respuesta: 'Dès 7 ans ; des sièges bébé sont disponibles à la location pour les plus petits.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Tim Bikes, Calle del Espejo, 9 (28013 Madrid). À 5 minutes à pied du métro Ópera, entre la plaza de Ramales et la calle Mayor. Arrivez 10 minutes avant pour les consignes de sécurité.'
 opinionEditorial: 'Trois heures qui permettent de voir la moitié de Madrid sans s''épuiser, sur des itinéraires tranquilles et avec un guide qui recommande où manger. Très bonne note. Si les côtes vous font peur, l''option électrique vaut le coup.'
 atraccionesRelacionadas:
 - otros-madrid

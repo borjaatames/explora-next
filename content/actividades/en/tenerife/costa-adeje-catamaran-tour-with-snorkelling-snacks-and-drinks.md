@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón, Pantalán 4, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Skipper and deckhand; Snacks and drinks: beer, soft drinks and water; Snorkelling gear; Sundeck; 3-hour catamaran tour; Swim and snorkel stop.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not wheelchair accessible.'
 categoria: agua
 keywords:
 - catamaran costa adeje

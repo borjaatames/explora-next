@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Ja, die Sprache wählen Sie bei der Buchung. Wenn an einem Tag nicht genügend Personen einer Sprache teilnehmen, kann der Guide die Führung zweisprachig halten.
 - pregunta: Was passiert, wenn ich zu spät komme?
   respuesta: Die Tour wartet nicht. Der Guide hinterlegt das Ticket im Café-Bar Polinario, und Sie können die Besichtigung auf eigene Faust machen, unter Einhaltung der Uhrzeit für die Palacios Nazaríes.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Die Alhambra-Tickets sind personalisiert und können weder storniert noch umgebucht werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Eingang der Alhambra (der genaue Treffpunkt hängt von der Option ab). Der Voucher nennt den genauen Treffpunkt an den Zugängen der Alhambra. Vom Zentrum fahren die Busse C30 oder C32 ab der Plaza Isabel la Católica hinauf. Seien Sie 15 Minuten vorher da: Die Tour beginnt pünktlich, und der Eintritt in die Palacios Nazaríes hat eine feste Uhrzeit.'
 opinionEditorial: 'Eine gute Möglichkeit, sich die Alhambra mit Guide in Ihrer Sprache zu sichern, wenn die Einzeltickets ausverkauft sind. Drei gut genutzte Stunden. Denken Sie daran, dass keine Stornierung möglich ist: Buchen Sie, wenn Ihre Reise feststeht.'
 atraccionesRelacionadas:
 - alhambra

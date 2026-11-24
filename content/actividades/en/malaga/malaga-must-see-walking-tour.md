@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No. You see them from outside; tickets are separate.
 - pregunta: Can it be private?
   respuesta: Yes, there is a private group option.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Alameda Principal, 1 (Málaga). In the centre, near the cathedral and the Picasso Museum. Check the time and meeting point in your confirmation.'
 opinionEditorial: A good two-hour introduction to Málaga, with the bonus that you can do it in your own language.
 atraccionesRelacionadas:
 - centro-historico

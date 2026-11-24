@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens 10 Personen."
 - pregunta: "Wo legt das Boot ab?"
   respuesta: "In der Marina Alcudiamar, Steg 7."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Direkt zum Boot: Marina Alcudiamar, Steg 7, Liegeplatz 646, Boot NEREIDA. 30 Minuten vor Abfahrt da sein.'
 categoria: agua
 guiasRelacionadas:
 - was-sehen-auf-mallorca

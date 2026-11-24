@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Il giorno prima, in base alle previsioni."
 - pregunta: "C'è un limite di peso?"
   respuesta: "Sì, 130 kg; oltre 110 kg bisogna prenotare due posti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Eliporto di Barcellona, Moll Adossat 2, nel porto (Sants-Montjuïc).'
 categoria: aventura
 guiasRelacionadas:
 - barcellona-in-2-giorni

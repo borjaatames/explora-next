@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: 'Der Guide spricht Englisch, Spanisch und Italienisch. Die Erklärungen auf Deutsch, Portugiesisch und Französisch gibt es per Audio oder Übersetzungs-App.'
 - pregunta: 'Kann ich stornieren?'
   respuesta: 'Ja. Die Stornierung ist bis 24 Stunden vor Beginn kostenlos, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Marinemuseum (Museo Naval), Paseo del Prado 3, Madrid.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fahrt im klimatisierten Mercedes; Begleitung während der ganzen Tour; Eintritte zu den Monumenten; Iberische Verkostung; Steuern.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

@@ -47,6 +47,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Camel Safari Park La Baranda, Straße nach Fataga km 12.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: '30 Minuten Kamelritt; Parkeintritt mit weiteren Tieren und Garten.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Schwangere; Höchstens 120 kg.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Getränke; Tierfutter.'
 categoria: aventura
 keywords:
 - kamelreiten gran canaria

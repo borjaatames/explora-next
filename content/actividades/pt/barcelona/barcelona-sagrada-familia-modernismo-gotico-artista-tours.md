@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Três a quatro horas."
 - pregunta: "Onde é o ponto de encontro?"
   respuesta: "Em frente ao KFC perto da Sagrada Família, nos guarda-chuvas azuis."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia local profissional; Visita exterior da Sagrada Família; Prova de torrão; Passeio pelo Passeig de Gràcia e pelo Bairro Gótico.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-num-dia

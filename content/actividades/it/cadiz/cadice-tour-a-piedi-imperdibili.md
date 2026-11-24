@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Sì, c'è l'opzione gruppo privato; il prezzo dipende dal numero di persone.
 - pregunta: Si entra nella cattedrale?
   respuesta: No. Il percorso passa davanti alla cattedrale, ma l'ingresso non è incluso.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Plaza de San Juan de Dios, accanto al Municipio (Cadice). La scheda di GetYourGuide indica come indirizzo la plaza de las Tortugas ma nel testo cita il Municipio, in plaza de San Juan de Dios: controlla il punto esatto nella conferma.'
 opinionEditorial: Un tour classico e ben recensito per orientarti a Cadice il primo giorno, in italiano e, se viaggi in famiglia, in privato.
 atraccionesRelacionadas:
 - casco-antiguo

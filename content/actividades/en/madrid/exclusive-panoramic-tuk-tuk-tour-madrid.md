@@ -49,6 +49,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
+preguntasFrecuentes:
+- pregunta: 'Is it a private tour?'
+  respuesta: 'Yes. The tuk-tuk is just for your party for the whole 2-hour route, and the price is per tuk-tuk, not per person.'
+- pregunta: 'Where does it start?'
+  respuesta: 'At Plaza de la Villa, in the centre of Madrid. If the meeting point isn''t reachable on foot for you, pickup is arranged at the nearest accessible point.'
+- pregunta: 'Can children come?'
+  respuesta: 'Yes, from age 3. Infants cannot ride in arms. Child seats are available on request.'
+- pregunta: 'Is it wheelchair accessible?'
+  respuesta: 'No. It is stroller accessible, and service animals are welcome.'
+- pregunta: 'Can I cancel for free?'
+  respuesta: 'Yes, up to 24 hours before the tour.'
 opinionEditorial: 'A tuk-tuk is a quick way to see a lot of Madrid in a short time, but it isn''t a walking tour: don''t expect long stops or in-depth explanations at every landmark. It works well if you''re traveling as a group and want to split the cost, or if someone in your party struggles with long walks but doesn''t use a wheelchair.'
 atraccionesRelacionadas:
 - tuk-tuk

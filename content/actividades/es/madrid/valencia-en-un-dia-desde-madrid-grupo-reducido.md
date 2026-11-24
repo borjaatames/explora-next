@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla español. Las explicaciones en inglés van con audio o con una app de traducción.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle de Alfonso XI, 2 (junto al Retiro), Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte en furgoneta Mercedes Vito o similar con aire acondicionado; Agua y snacks; Tasas.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

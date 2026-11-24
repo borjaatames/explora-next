@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Non, les monuments se voient de l'extérieur."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, une initiation est prévue."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Dans la vieille ville de Palma, près de l''église Santa Eulalia ; l''adresse exacte figure sur le bon de réservation.'
 categoria: toursCiudad
 keywords:
 - "segway palma"

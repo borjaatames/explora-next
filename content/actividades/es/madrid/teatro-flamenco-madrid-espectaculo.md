@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: No, es un teatro y no un tablao con cena. Hay bares y restaurantes a pocos pasos, en la propia calle del Pez y en Malasaña.
 - pregunta: ¿Hace falta entender español?
   respuesta: No. El cante es en español, pero el espectáculo no tiene narración y se disfruta igual sin entender la letra.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del pase, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Teatro Flamenco Madrid, Calle del Pez, 10 (28004 Madrid). A 3 minutos a pie del metro Noviciado (línea 2) y a 5 de Callao y Gran Vía. Las puertas abren 30 minutos antes del pase: llega con tiempo para coger buen sitio. Enseña el voucher en el móvil en la entrada.'
 opinionEditorial: 'Es la opción con más opiniones y mejor nota de Madrid: buen elenco, sala pequeña en la que se ve bien desde cualquier asiento y precio por debajo de los tablaos con cena. Si quieres cenar viendo flamenco, mejor un tablao como Las Carboneras o Torres Bermejas; si solo quieres el espectáculo, esta es la apuesta segura.'
 guiasRelacionadas:
 - flamenco-madrid-que-tablao-elegir

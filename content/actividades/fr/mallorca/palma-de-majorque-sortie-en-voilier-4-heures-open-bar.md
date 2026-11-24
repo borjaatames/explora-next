@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Oui, open bar avec cava, vin, bière et sodas."
 - pregunta: "Peut-on se baigner ?"
   respuesta: "Oui, il y a un arrêt baignade avec paddle et matériel de snorkeling."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Club de Mar, Avinguda de Gabriel Roca 44, Palma : devant le Carrefour City, près des bancs en bois.'
 categoria: agua
 keywords:
 - "voilier palma de majorque"

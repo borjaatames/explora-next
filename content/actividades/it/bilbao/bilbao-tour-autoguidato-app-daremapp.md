@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Cancellazione gratuita fino a 24 ore prima dell'inizio; per le cancellazioni successive si applica un addebito del 100%.
+preguntasFrecuentes:
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima dell''inizio; per le cancellazioni successive si applica un addebito del 100%.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nessun punto d''incontro fisico: attivi il percorso dal tuo telefono con il codice che ricevi dopo l''acquisto, quando e dove vuoi a Bilbao.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Accesso al percorso autoguidato di Bilbao tramite l''app DareMapp, con un codice di riferimento inviato dopo l''acquisto; Audioguida in 6 lingue (spagnolo, inglese, portoghese, francese, italiano, tedesco); Totale libertà di scegliere il ritmo e le tappe, e di mettere in pausa o riprendere quando vuoi; Disponibilità 24 ore su 24, 365 giorni l''anno, senza data di scadenza; Accesso ai consigli su dove mangiare e sulle attività per famiglie all''interno dell''app.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno; Adatto a sedie a rotelle e passeggini, perché puoi percorrere l''itinerario al tuo ritmo; alcuni tratti del Casco Viejo hanno leggere pendenze; Gli animali di servizio sono i benvenuti.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Una guida o un accompagnatore in presenza (è un''esperienza completamente autoguidata e indipendente); Trasporto fino all''inizio del percorso; Biglietti d''ingresso a monumenti o musei lungo il percorso (se previsti).'
 opinionEditorial: Funziona bene per unire la Bilbao classica (Casco Viejo, palazzi, cattedrale) al Guggenheim senza dipendere dagli orari delle visite guidate. Con oltre 15 punti d'interesse è un percorso di lunghezza media, più lungo di quello di Girona ma più corto di quello di Barcellona. Ideale per chi preferisce muoversi al proprio ritmo e prendersi il tempo per le foto.
 atraccionesRelacionadas:
 - casco-viejo

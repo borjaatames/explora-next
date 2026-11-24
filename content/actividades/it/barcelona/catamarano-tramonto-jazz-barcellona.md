@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "In fondo alla Rambla, accanto al ponte del Maremagnum."
 - pregunta: "Quanto dura il giro?"
   respuesta: "Circa un'ora e mezza."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giro in catamarano al tramonto; Jazz dal vivo.'
 categoria: agua
 guiasRelacionadas:
 - barcellona-in-2-giorni

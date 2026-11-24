@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No. Se ven por fuera; las entradas van aparte.
 - pregunta: ¿Puede ser privado?
   respuesta: Sí, hay opción de grupo privado.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Alameda Principal, 1 (Málaga). En el centro, cerca de la catedral y del Museo Picasso. Comprueba la hora y el punto en tu confirmación.'
 opinionEditorial: Una buena primera toma de contacto con Málaga en dos horas, con la ventaja de poder hacerla en tu idioma.
 atraccionesRelacionadas:
 - centro-historico

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Planche choisie par le moniteur; Combinaison et chaussons; Assurance accident; Moniteur; Théorie (20 min).'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas et boissons; Prise en charge à l''hôtel.'
 categoria: agua
 keywords:
 - tilegit surf school

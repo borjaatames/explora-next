@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, spagnolo, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno in hotel (a pagamento); Guida; Briefing di sicurezza; Giacca e guanti.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Da ottobre ad aprile porta pantaloni lunghi e una felpa; I conducenti devono mostrare una patente valida; Prezzo per buggy.'
 categoria: aventura
 keywords:
 - buggy teide

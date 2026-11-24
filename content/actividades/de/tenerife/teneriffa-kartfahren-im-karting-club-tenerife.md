@@ -45,6 +45,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Kostenloser Shuttlebus im Süden der Insel.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Schwangere oder Menschen mit Herzproblemen; Junior-Optionen: Zweisitzer-Kart mit 160 cm³ (1 Erwachsener + 1 Kind bis 5) und Pony Kart mit 120 cm³.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke.'
 categoria: aventura
 keywords:
 - kartfahren teneriffa

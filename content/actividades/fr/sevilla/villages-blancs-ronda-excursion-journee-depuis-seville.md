@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "Non."
 - pregunta: "Combien de personnes ?"
   respuesta: "Minibus de 9 places maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à Séville ; le point exact est indiqué dans la confirmation.'
 categoria: excursionesDia
 guiasRelacionadas:
 - excursions-depuis-seville

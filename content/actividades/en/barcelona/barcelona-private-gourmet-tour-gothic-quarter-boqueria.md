@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Yes, there are alcohol-free options and everyone loves the churros.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Gran Teatre del Liceu, La Rambla, Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide for 3 hours; Tastings at 5 stops; Three drinks (alcoholic or not).'
 opinionEditorial: A well-designed food walk through the Gothic Quarter, with varied stops and no rush. Private means it adapts to tastes and allergies.
 atraccionesRelacionadas:
 - tapas-barcelona

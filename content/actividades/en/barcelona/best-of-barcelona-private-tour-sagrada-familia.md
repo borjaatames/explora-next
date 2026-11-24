@@ -38,6 +38,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your Barcelona hotel (confirmed when booking).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Live private guide; Skip-the-line entry and a guided visit inside the Sagrada Família; Guided tour of Montjuïc, the Gothic Quarter and Passeig de Gràcia; Private transport throughout the tour; Hotel pickup and drop-off.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Tips.'
 opinionEditorial: 'It''s the perfect plan if you only have one day: Barcelona''s essentials —Gaudí, Montjuïc and the old town— private, skip-the-line and with no logistics to worry about. The more of you there are, the better the value of the per-group price.'
 atraccionesRelacionadas:
 - sagrada-familia

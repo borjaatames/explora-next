@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Non, une formation est incluse."
 - pregunta: "Y a-t-il des départs en français le week-end ?"
   respuesta: "Oui, mais selon disponibilité."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Près du parc du Retiro ; l''adresse exacte figure dans la confirmation de réservation.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

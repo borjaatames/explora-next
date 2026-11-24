@@ -45,6 +45,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Montserrat Monastery, Spain — about an hour from Barcelona by train or car (the photographer confirms the exact spot when you book).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: '30 edited digital photos; A private professional photographer for 1 hour.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'This session takes place in Montserrat, about an hour from Barcelona; arrange your own round-trip transport (train or car); Wheelchair and stroller accessible; Service animals welcome.'
 opinionEditorial: 'This is the listing that strays furthest from central Barcelona: what you''re buying here is the Montserrat landscape, not the city. Keep in mind that transport up the mountain is on you, and admission to the monastery is paid separately — if you''re already planning a Montserrat day trip, adding this photoshoot gives you a keepsake unlike the rest of your Barcelona photos.'
 atraccionesRelacionadas:
 - montserrat

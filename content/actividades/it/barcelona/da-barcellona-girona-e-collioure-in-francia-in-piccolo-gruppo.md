@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "No, c'è tempo libero per mangiare a Collioure."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, tra le altre lingue."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nel centro di Barcellona, accanto alla banca BBVA; il punto esatto è indicato alla prenotazione.'
 categoria: excursionesDia
 keywords:
 - "girona e francia da barcellona"

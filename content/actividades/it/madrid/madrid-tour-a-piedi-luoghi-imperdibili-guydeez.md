@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "No, è una visita all'esterno."
 - pregunta: "Si può fare in privato?"
   respuesta: "Sì, c'è un'opzione privata."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nel centro storico; il punto esatto è nella conferma.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-in-1-giorno

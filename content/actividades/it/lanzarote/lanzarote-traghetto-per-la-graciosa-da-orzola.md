@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sì, il parcheggio di Líneas Romero è gratuito."
 - pregunta: "Bisogna tornare in giornata?"
   respuesta: "L'orario di ritorno si sceglie alla prenotazione; esiste anche la sola andata."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Líneas Romero, molo di Órzola (Calle La Quemadita), nel nord di Lanzarote.'
 categoria: agua
 keywords:
 - "traghetto la graciosa"

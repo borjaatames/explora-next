@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle allemand, français, italien, espagnol, anglais.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge à l''hôtel; Transport en autocar; Guide local; Entrée, visite et dégustation à la bodega Los Berrazales; Assurance voyage; Conseils locaux.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes sujettes au mal des transports ou à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas et boissons.'
 categoria: excursionesDia
 keywords:
 - excursion vallée agaete

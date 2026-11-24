@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Sì, open bar e snack."
 - pregunta: "Da dove parte la barca?"
   respuesta: "Dal Port Olímpic, Moll de la Marina 14, ormeggio 1428."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in barca a vela con skipper; Open bar con bevande alcoliche; Snack a bordo.'
 categoria: agua
 keywords:
 - "barca a vela barcellona tramonto"

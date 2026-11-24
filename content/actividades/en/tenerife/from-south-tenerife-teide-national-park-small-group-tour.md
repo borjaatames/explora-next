@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Personalised experience; At most 8 passengers; Convenient start time.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'You get a WhatsApp message the day before with the exact pick-up time; Pick-up only in the south: Costa Adeje, Las Américas and Los Cristianos.'
+- pregunta: 'What is not included?'
+  respuesta: 'Cable car; Food, drinks and snacks.'
 categoria: excursionesDia
 keywords:
 - teide small group tour

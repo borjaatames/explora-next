@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: 'Tra un''ora e mezza e due ore: 45-60 minuti per i palazzi e il resto per i giardini. In primavera, quando i giardini sono in fiore, vale la pena trattenersi di più.'
 - pregunta: Si può abbinare alla Cattedrale nello stesso giorno?
   respuesta: Sì, sono a 100 metri l'uno dall'altra. La cosa più comoda è l'Alcázar a prima ora e la Cattedrale dopo pranzo, oppure prenotare il pacchetto di 3 monumenti con accesso prioritario.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: una volta prenotato non si può cancellare né modificare. GetYourGuide conferma il biglietto entro 48 ore.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Real Alcázar, Puerta del León, Patio de Banderas, Siviglia. L''ingresso è dalla Puerta del León, in plaza del Triunfo, accanto alla Cattedrale. Presenta il biglietto sul cellulare nella fascia prenotata; al di fuori di essa l''accesso non è garantito.'
 avisoReserva: I biglietti per l'Alcázar si esauriscono con diversi giorni di anticipo, anche su GetYourGuide. Se sono esauriti, la biglietteria del Patio de Banderas vende biglietti per il giorno stesso, con posti limitati per fascia oraria.
 opinionEditorial: L'Alcázar è la visita numero uno di Siviglia e in alta stagione la coda in biglietteria supera l'ora. Con il biglietto a fascia oraria entri al tuo orario e ti risparmi il sole. Prenota con qualche giorno di anticipo in primavera e durante la Settimana Santa.
 categoria: entradas

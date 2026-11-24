@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Trajet gratuit du centre jusqu''au site de plongée; Briefing sur les bases; Une plongée de 40 minutes à 1 heure; Équipement de plongée; Bouteille pleine; Assurance plongée.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes et aux personnes cardiaques; Déconseillé en cas d''asthme ou de problèmes respiratoires.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '3 heures.'
 categoria: agua
 keywords:
 - baptême de plongée tenerife

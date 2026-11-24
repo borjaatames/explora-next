@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "La veille, selon les prévisions météo."
 - pregunta: "Y a-t-il une limite de poids ?"
   respuesta: "Oui, 130 kg ; au-delà de 110 kg, il faut réserver deux places."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Héliport de Barcelone, Moll Adossat 2, dans le port (Sants-Montjuïc).'
 categoria: aventura
 guiasRelacionadas:
 - barcelone-en-2-jours

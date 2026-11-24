@@ -59,6 +59,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Jet Ski Island Tenerife, pontoon 9, Puerto Colón, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Support boat; Professional guide; 2024 Yamaha jet ski, single or double; Life jacket; Briefing; Locker.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Drivers 18+; 16 and 17-year-olds only on a single jet ski; Not suitable for children under 9 or people under 135 cm; Maximum 140 kg.'
 categoria: agua
 keywords:
 - jet ski puerto colon

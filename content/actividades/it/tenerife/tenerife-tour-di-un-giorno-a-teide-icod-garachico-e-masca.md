@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, tedesco, spagnolo, francese, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno da hotel selezionati; Visita guidata; Parco Nazionale di Las Cañadas del Teide; Sosta a Vilaflor; Garachico; Icod e il Drago Milenario.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: '40 minuti per il pranzo; si può aggiungere un pranzo opzionale tramite l''operatore; Porta abiti comodi, crema solare e acqua.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Pranzo (supplemento facoltativo); Non c''è tempo per la funivia del Teide.'
 categoria: excursionesDia
 keywords:
 - tour teide masca garachico

@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Mundomar est nettement mieux pour les 2-8 ans, grâce aux animaux et aux spectacles. Terra Mítica convient davantage aux plus de 8-10 ans pour ses montagnes russes.
 - pregunta: Mundomar est-il un parc aquatique ?
   respuesta: Il a une zone avec des attractions aquatiques, mais ce n’est pas un vrai parc aquatique. Pour cela, Aqualandia est l’option à Benidorm.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Mundomar, Sierra Helada, s/n, Benidorm, Alicante. Mundomar se trouve dans la Sierra Helada, à l’est de Benidorm. Une navette part du centre. En voiture, prenez la N-332 en direction du Rincón de Loix. Parking sur place.'
 opinionEditorial: 'Mundomar est la meilleure option pour les familles avec de jeunes enfants à Benidorm : des animaux, des spectacles de dauphins et une ambiance détendue. Le rapport qualité-prix est excellent et la note de 4,7/5 montre que les visiteurs repartent contents.'
 guiasRelacionadas:
 - excursions-costa-blanca-depuis-alicante

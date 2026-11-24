@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Among others, English, Spanish, French and Italian. You pick the language when booking.
 - pregunta: Can I cancel?
   respuesta: Only with a 50% refund up to 24 hours before. If your date isn't fixed, choose an option with free cancellation.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Next to the Generalife ticket office, Paseo del Generalife (Granada). Look for staff in purple Crown Tours T-shirts. Bring your passport or ID: tickets are in your name.'
+- pregunta: 'What is included?'
+  respuesta: 'Alhambra tickets with Nasrid Palaces; Licensed guide; Headsets.'
 opinionEditorial: 'A complete, highly rated visit with tickets included and a guide in your language. The catch is the cancellation policy: you only get half back.'
 atraccionesRelacionadas:
 - alhambra

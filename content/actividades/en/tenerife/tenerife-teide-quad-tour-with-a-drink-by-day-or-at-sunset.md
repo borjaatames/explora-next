@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Carretera a La Escalona 34, El Roque (Granadilla). Arrive 30 minutes before: 12:00 for the 12:30 tour, 16:00 for the 16:30 tour.'
+- pregunta: 'What is included?'
+  respuesta: 'Guided tour; Guide; Quad; Safety equipment; Drinks.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people under 120 cm.'
 categoria: aventura
 keywords:
 - teide quad tour sunset

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Boards Connections Surf School, Calle Acorazado España 10, Corralejo.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Clase de surf para todos los niveles.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 4 años; No apto para embarazadas; Hay que saber nadar.'
 categoria: agua
 keywords:
 - clase de surf corralejo

@@ -40,6 +40,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Tour with 7 key stops in Fuerteventura; Lunch.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not wheelchair accessible.'
+- pregunta: 'How long does it last?'
+  respuesta: '8 hours.'
 categoria: excursionesDia
 keywords:
 - fuerteventura day tour lunch

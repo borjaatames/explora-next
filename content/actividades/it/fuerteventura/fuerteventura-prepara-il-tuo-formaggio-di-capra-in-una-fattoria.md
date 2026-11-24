@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Caseificio La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Caffè di benvenuto; Laboratorio guidato di caseificazione; Tecniche di mungitura a mano e a macchina; Preparazione del tuo formaggio majorero; Tutti gli attrezzi e l''attrezzatura; Colazione: panino con formaggio fresco, tagliere di formaggi locali, mojo e marmellate fatte in casa.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Bevande extra.'
 categoria: talleres
 keywords:
 - laboratorio formaggio fuerteventura

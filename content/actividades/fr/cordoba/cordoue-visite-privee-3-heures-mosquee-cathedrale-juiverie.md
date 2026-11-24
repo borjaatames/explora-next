@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Non, par groupe : 290 € au total."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, choisissez la langue au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Fuente de Santa María, près de l''olivier du Patio de los Naranjos de la Mosquée-Cathédrale (Calle Cardenal Herrero, 18).'
 categoria: visitasGuiadas
 keywords:
 - "visite privée cordoue"

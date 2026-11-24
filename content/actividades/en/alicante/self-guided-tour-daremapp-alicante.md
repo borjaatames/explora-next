@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'No physical meeting point: activate the route from your phone using the code you receive after purchase, whenever and wherever you like in Alicante.'
+- pregunta: 'What is included?'
+  respuesta: 'Access to the self-guided Alicante route through the DareMapp app, with a reference code sent after purchase; Audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); Complete freedom to set your pace, pick your stops, and pause or resume whenever you like; Availability 24 hours a day, 365 days a year, with no expiry date; Access to food and family-activity recommendations inside the app.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Suitable for the whole family: minimum age 1 year; Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; particularly on the climb up to Santa Bárbara Castle, which is steep; Service animals are welcome.'
+- pregunta: 'What is not included?'
+  respuesta: 'A physical guide or companion (this is a fully self-guided, independent experience); Transport to the start of the route; Admission tickets to monuments or museums along the route (where applicable).'
 opinionEditorial: It's a cheap, flexible way to see central Alicante without committing to a fixed schedule. With +10 stops it's a shorter route than other cities in the catalogue, so I'd recommend it as a complement to your own wandering rather than the day's only activity. You'll miss the stories a live guide brings, but you gain total freedom.
 categoria: toursCiudad
 keywords:

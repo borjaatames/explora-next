@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: About 2 hours on the motorway to Úbeda. Baeza is just 9 km from Úbeda. The excursion handles the transport directly — there's no convenient train or bus from Granada, which is why the organised tour is the most efficient option.
 - pregunta: Why so expensive (€135)?
   respuesta: The price covers transport for the whole day (2 hours each way), official guide, skip-the-line, travel insurance and a guided visit in Baeza. It's a full day with long travel. Compared to other Granada day trips (Alpujarra €71-115, Sierra Nevada €75), the extra for Úbeda and Baeza is the distance (~150 km) and the dual destination.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number of participants isn''t reached.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Discovering Spain office, Plaza de las Descalzas 3, Granada. The operator is Discovering Spain (same as the Originals Alpujarra tour). The office is at Plaza de las Descalzas 3, in the Cathedral area. Arrive 10-15 minutes early. Note: this tour requires a minimum number of participants to confirm — worth booking in advance.'
 variantes: []
 opinionEditorial: 'If you value the Andalusian Renaissance over the Alhambra (which is also Nasrid) or the white villages (which are Arab-Berber), Úbeda and Baeza are the destination. Both cities are UNESCO World Heritage and preserve architectural ensembles from Spain''s Golden Age that few places in Europe can match in a single block.
 

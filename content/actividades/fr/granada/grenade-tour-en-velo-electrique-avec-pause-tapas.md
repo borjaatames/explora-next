@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Oui, avec une boisson."
 - pregunta: "Faut-il être sportif ?"
   respuesta: "Non, l'assistance électrique rend les montées faciles."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Cuchilleros 12, centre de Grenade : depuis le bar La Trastienda, prenez la rue qui monte à droite, le local est sur la gauche.'
 categoria: toursCiudad
 keywords:
 - "grenade vélo électrique"

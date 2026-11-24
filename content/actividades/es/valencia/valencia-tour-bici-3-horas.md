@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Sí, se puede añadir como complemento al reservar.
 - pregunta: ¿Me puedo quedar la bici después?
   respuesta: Sí, con el complemento de alquiler hasta el final del día, dejando una fianza de 50 € y un documento de identidad.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Doyoubike, Carrer de la Sang, 9 (46002 Valencia). La tienda está a un minuto de la plaza del Ayuntamiento, junto a la calle San Vicente. Llega 10 minutos antes para ajustar la bici.'
 opinionEditorial: 'La bici es la mejor forma de ver Valencia, una ciudad llana y con el Turia como gran autopista verde. En tres horas unes el casco antiguo con la Ciudad de las Artes, algo que a pie llevaría todo el día. Muy buena opción para el primer día.'
 atraccionesRelacionadas:
 - ciudad-artes

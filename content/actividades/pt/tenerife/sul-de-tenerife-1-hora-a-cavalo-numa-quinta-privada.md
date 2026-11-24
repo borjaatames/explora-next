@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Passeio guiado por instrutores profissionais; Todo o equipamento; Passeios de pónei em pista fechada para menores de 7 anos.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a grávidas; Máximo de 10 pessoas por passeio.'
 categoria: aventura
 keywords:
 - passeio a cavalo sul de tenerife

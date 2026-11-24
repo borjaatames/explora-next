@@ -68,6 +68,12 @@ preguntasFrecuentes:
   respuesta: O operador garante um mínimo de 30 minutos com os golfinhos. São animais em liberdade, por isso verifique no GetYourGuide as condições caso, num dia, não apareçam.
 - pregunta: É indicado para crianças?
   respuesta: Sim, a partir dos 3 anos. Como é um grupo pequeno, é cómodo para famílias.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Alcudiamar (parque de estacionamento da marina), Alcúdia. Partida da marina Alcudiamar, em Alcúdia. Há opção com recolha e regresso ao hotel: se a escolher, a hora vem indicada no voucher.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Barco semiprivado com capitão (máximo de 12 pessoas); Combustível e taxas; Mínimo de 30 minutos com os golfinhos; Percurso pela costa, falésias e grutas; Banho na praia de Coll Baix; Recolha e regresso ao hotel (se escolher essa opção).'
 opinionEditorial: É a atividade com golfinhos mais bem avaliada de Maiorca, com milhares de avaliações e grupos pequenos. Vale a pena madrugar.
 categoria: agua
 keywords:

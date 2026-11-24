@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Outside the Acua water park, Av. Nuestra Señora del Carmen 41, Corralejo, at 8:00.'
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off from the north of Fuerteventura; Transport; Guided hike in the Las Peñitas gorge up to the arch; Visit to the Ajuy caves; Sandwich lunch.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Cruise passengers: pick-up at 9:15 at Puerto del Rosario port; Cancelled in official weather alerts or with fewer than 2 participants; The Ajuy caves can close in winter during coastal alerts.'
 categoria: aventura
 keywords:
 - ajuy caves tour

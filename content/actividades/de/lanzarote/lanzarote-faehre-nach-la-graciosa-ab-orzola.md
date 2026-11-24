@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Ja, der Parkplatz von Líneas Romero ist kostenlos."
 - pregunta: "Muss man am selben Tag zurückfahren?"
   respuesta: "Die Rückfahrtzeit wählt man bei der Buchung; es gibt auch einfache Tickets."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Líneas Romero, Hafen von Órzola (Calle La Quemadita), im Norden Lanzarotes.'
 categoria: agua
 keywords:
 - "fähre la graciosa"

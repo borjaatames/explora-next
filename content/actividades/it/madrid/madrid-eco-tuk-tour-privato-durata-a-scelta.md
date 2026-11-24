@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Da una a sette ore, secondo l'opzione."
 - pregunta: "Da dove si parte?"
   respuesta: "Davanti alla Borsa di Madrid, di fronte al Ritz."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti alla Borsa di Madrid, di fronte all''Hotel Ritz (Plaza de la Lealtad).'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-in-1-giorno

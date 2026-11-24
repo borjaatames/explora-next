@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 45-minütige IMAX-Dokumentationen über Natur, Weltraum und Wissenschaft auf einer 900 m² großen gewölbten Leinwand. Das Programm wechselt jede Saison; die Vorstellung wählst du beim Umtausch des Gutscheins.
 - pregunta: Ist es gut für Kinder?
   respuesta: Das Wissenschaftsmuseum gehört zu den besten interaktiven Museen Spaniens für Kinder. Das Hemisfèric passt für jedes Alter.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann nicht storniert oder geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kassen des Museu de les Ciències, Av. del Professor López Piñero 7, Valencia. Tausch deinen Gutschein an den Kassen des Museu de les Ciències um und wähl dort deine Vorstellung im Hemisfèric. Metro: Alameda (L3/L5) und 15 Minuten zu Fuß durch die Turia-Gärten, oder Busse 35 und 95.'
 opinionEditorial: 'Das Ticket für alle, die die Stadt der Künste von innen sehen wollen, ohne für das Oceanogràfic zu zahlen. Für 14 € hast du einen vollen Nachmittag: das interaktive Museum und einen Film auf der spektakulärsten Leinwand Valencias.'
 guiasRelacionadas:
 - stadt-der-kuenste-und-wissenschaften-besichtigen

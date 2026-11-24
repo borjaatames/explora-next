@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'Vous n''entrez pas dans les palais et il n''y a pas de remboursement. Arrivez sur le site au moins 30 minutes avant votre créneau : il faut 10 à 15 minutes à pied de l''entrée principale jusqu''aux palais.'
 - pregunta: Pourquoi est-il plus cher que sur le site officiel ?
   respuesta: Le billet officiel coûte environ 22 €. Cette option comprend les frais de gestion et, surtout, la disponibilité quand le site du Patronato est déjà complet, ce qui est la norme en saison.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable. Les billets de l''Alhambra sont nominatifs et ne peuvent pas être modifiés.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Alhambra, pavillon d''accès, Grenade. Le pavillon d''accès se trouve à côté du parking de l''Alhambra, à l''extrémité est de l''enceinte. Minibus C30/C32 depuis la Plaza Isabel la Católica, ou 20 à 25 minutes à pied en montant par la Cuesta de Gomérez. Munissez-vous de votre carte d''identité ou passeport : le billet est nominatif.'
 avisoReserva: Les billets de l'Alhambra sont épuisés des semaines à l'avance
 opinionEditorial: 'Si vous visitez seul et voulez voir toute l''Alhambra, c''est le billet qu''il vous faut. Réservez dès que vous avez vos dates : c''est le monument le plus visité d''Espagne et les créneaux du matin partent très vite.'
 guiasRelacionadas:

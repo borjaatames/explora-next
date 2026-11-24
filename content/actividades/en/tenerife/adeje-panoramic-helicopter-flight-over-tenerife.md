@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: No, it is non-refundable once booked.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Helidream Helicopters, C. Charfa, Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Helicopter flight.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'With briefing and boarding the whole experience lasts up to 90 minutes; In bad weather the route changes but keeps the minutes booked.'
 categoria: aventura
 keywords:
 - helicopter tour tenerife

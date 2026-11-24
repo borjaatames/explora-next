@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Repas et boissons dans tous les points de restauration sauf la maison de thé ; certains alcools et sucreries sont en supplément.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Entrée principale du Siam Park, Avenida Siam, Costa Adeje.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Même avec l''accès prioritaire, il peut y avoir de l''attente en haute saison; Limites de poids sur certains toboggans.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Certaines boissons alcoolisées, sucreries, en-cas et crêpes; Maison de thé.'
 categoria: parques
 keywords:
 - siam park tout compris

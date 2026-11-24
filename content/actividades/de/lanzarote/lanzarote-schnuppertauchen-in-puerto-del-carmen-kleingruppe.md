@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Buchung ist ab 2 Personen möglich."
 - pregunta: "Ist die Ausrüstung dabei?"
   respuesta: "Ja, die komplette Tauchausrüstung ist inklusive."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Aquanautic Club Lanzarote, Avenida de las Playas 99 (Centro Comercial Los Pocillos, Local 10), Puerto del Carmen: am Kreisverkehr mit dem Windspiel von César Manrique. Beginn um 12:30 Uhr.'
 categoria: agua
 keywords:
 - "schnuppertauchen lanzarote"

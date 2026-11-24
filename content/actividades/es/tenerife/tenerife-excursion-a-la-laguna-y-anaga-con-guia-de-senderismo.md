@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: El guía habla francés, alemán, español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Autobús; Guía de senderismo; Traslados de ida y vuelta desde hoteles de zonas seleccionadas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva botas de montaña o zapatillas, chaqueta, agua y comida; No apto para embarazadas ni personas con problemas cardiacos, respiratorios o de movilidad.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas.'
 categoria: aventura
 keywords:
 - excursion anaga la laguna

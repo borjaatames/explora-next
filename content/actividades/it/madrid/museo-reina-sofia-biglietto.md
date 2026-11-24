@@ -59,6 +59,12 @@ preguntasFrecuentes:
   respuesta: Il Guernica è al secondo piano dell'Edificio Sabatini. Vai lì per primo, perché è la sala più visitata e si riempie nel corso della giornata.
 - pregunta: Il Reina Sofía è gratuito?
   respuesta: L'ingresso è gratuito il lunedì e da mercoledì a sabato dalle 19:00 alle 21:00, e la domenica dalle 12:30 alle 14:30 (il museo chiude il martedì). Questo biglietto ti dà l'accesso salta fila negli orari a pagamento, cioè per tutta la giornata.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: dopo la prenotazione non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Museo Nacional Centro de Arte Reina Sofía, Calle Santa Isabel, 52, Madrid. Metro linea 1 fino ad Atocha, oppure linee 1 e 3 fino a Estación del Arte. Il museo è accanto alla stazione ferroviaria di Atocha. Mostra il biglietto sul telefono all''ingresso principale.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Ingresso al museo salta fila.'
 opinionEditorial: A Madrid il Reina Sofía è irrinunciabile. Basta il Guernica, il capolavoro inquietante che Picasso dipinse nel 1937, per farne uno dei grandi pellegrinaggi artistici del mondo. Conta 2-3 ore per la collezione principale.
 guiasRelacionadas:
 - prado-reina-sofia-o-thyssen-quale-scegliere

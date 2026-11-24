@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, open bar et snacks."
 - pregunta: "D'où part le voilier ?"
   respuesta: "Du Port Olímpic, Moll de la Marina 14, poste 1428."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en voilier avec skipper; Open bar avec boissons alcoolisées; Snacks à bord.'
 categoria: agua
 keywords:
 - "voilier barcelone coucher de soleil"

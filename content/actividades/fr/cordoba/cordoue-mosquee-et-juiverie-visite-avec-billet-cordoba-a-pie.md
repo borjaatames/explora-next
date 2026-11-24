@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Deux heures et demie."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Cardenal Herrero, 16, devant la Mosquée-Cathédrale.'
 categoria: visitasGuiadas
 keywords:
 - "cordoue mosquée juiverie visite français"

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, à partir de 120 cm s'ils savent faire du vélo."
 - pregunta: "Vélo électrique possible ?"
   respuesta: "Oui, au choix."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Devant le magasin de location de vélos Tres Gatos (n''entrez pas : le guide vous accueille dehors). L''adresse exacte est dans la réservation.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

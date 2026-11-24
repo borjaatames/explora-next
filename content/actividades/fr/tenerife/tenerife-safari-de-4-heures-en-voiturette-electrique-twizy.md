@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Deux, l'une derrière l'autre ; une option permet d'être seul."
 - pregunta: "Le déjeuner est-il compris ?"
   respuesta: "Non, seuls le café ou le thé et l'eau sont inclus."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking de l''Hotel Rural El Navío, Avenida Los Pescadores, Alcalá (Guía de Isora). Départ à 9 h 30.'
 categoria: aventura
 keywords:
 - "twizy tenerife"

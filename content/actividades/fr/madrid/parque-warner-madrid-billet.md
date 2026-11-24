@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: En haute saison (été, ponts), oui ; en basse saison, ce n’est pas nécessaire.
 - pregunta: Y a-t-il des réductions pour les enfants ?
   respuesta: Oui, tarif réduit pour les moins de 120 cm et les plus de 60 ans. Gratuit pour les moins de 100 cm.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parque Warner Madrid, Autovía A-4, km 22, San Martín de la Vega. À 35 km au sud de Madrid. Bus direct depuis Conde de Casal (Madrid). Entrez directement avec le billet sur votre téléphone.'
 opinionEditorial: Parque Warner est le parc d’attractions le mieux thématisé autour de Madrid. Ses cinq zones ont une identité visuelle impeccable et son ambiance compte parmi les meilleures d’Europe. Le bémol habituel, ce sont les queues en été ; réservez en ligne à l’avance pour ne pas payer plus cher au guichet.
 guiasRelacionadas:
 - madrid-avec-des-enfants

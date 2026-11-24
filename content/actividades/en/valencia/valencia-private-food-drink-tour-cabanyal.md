@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Baby squid, padrón peppers, vermouth, cheeses, mojama, anchovies, Valencian wines and churros, among others.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaça de les Hores, El Cabanyal, Valencia (the guide confirms the spot).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide for 3 hours; Tastings at 4 stops; Three drinks per person; Churros with chocolate.'
 opinionEditorial: El Cabanyal is Valencia's tastiest neighbourhood and off the tourist circuit; a local guide gets you into places you wouldn't find alone.
 atraccionesRelacionadas:
 - gastronomia

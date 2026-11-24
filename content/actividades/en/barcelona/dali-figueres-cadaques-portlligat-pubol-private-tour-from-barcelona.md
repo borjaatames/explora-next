@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: The guide speaks English and Spanish; audio guides are available in German, French and Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your accommodation in Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
 opinionEditorial: 'The only realistic way to see all four Dalí sites in one day: by public transport it''s impossible. For Dalí fans it''s worth every euro.'
 atraccionesRelacionadas:
 - otros-barcelona

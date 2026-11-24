@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
+- pregunta: 'What is included?'
+  respuesta: 'Instructor; Explanations and training; Wetsuit, mask and fins; Tank, regulator and BCD; Dive computer and surface marker buoy; Dive.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 12; Do not fly for 12 to 24 hours after diving; A medical questionnaire is required; some conditions need a doctor''s certificate.'
 categoria: agua
 keywords:
 - diving los cristianos

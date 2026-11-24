@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: El paseo es en inglés. Dentro de la Sagrada Familia hay audioguía en varios idiomas o guía oficial en inglés.
 - pregunta: ¿Se puede cancelar?
   respuesta: No, la reserva no es reembolsable.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estatua de Frederic Soler (Pitarra), Rambla, Barcelona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo guiado de 3 horas (en inglés); Entrada sin colas a la Sagrada Familia; Audioguía o guía oficial dentro, según la opción; Billetes de metro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El paseo es en inglés; Lleva auriculares para la audioguía y el DNI o pasaporte; No reembolsable.'
 opinionEditorial: Buena relación calidad-precio para ver la Barcelona modernista con explicación y entrar en la Sagrada Familia sin colas. Solo encaja si te defiendes en inglés.
 atraccionesRelacionadas:
 - sagrada-familia

@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'Non entri nei palazzi e non c''è rimborso. Arriva al complesso almeno 30 minuti prima della tua fascia oraria: dall''ingresso principale ai Palazzi ci sono 10-15 minuti a piedi.'
 - pregunta: Perché costa più che sul sito ufficiale?
   respuesta: Il biglietto ufficiale costa circa 22 €. Questa opzione include la gestione e, soprattutto, la disponibilità quando il sito del Patronato è già esaurito, cosa abituale in alta stagione.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile. I biglietti dell''Alhambra sono nominativi e non ammettono modifiche.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Alhambra, Padiglione d''accesso, Granada. Il padiglione d''accesso si trova accanto al parcheggio dell''Alhambra, all''estremità est del complesso. Minibus C30/C32 da Plaza Isabel la Católica, oppure 20-25 minuti a piedi salendo per la Cuesta de Gomérez. Porta un documento d''identità o il passaporto: il biglietto è nominativo.'
 avisoReserva: I biglietti dell'Alhambra si esauriscono con settimane di anticipo
 opinionEditorial: 'Se vai in autonomia e vuoi vedere l''Alhambra per intero, questo è il biglietto giusto. Prenota appena hai le date: è il monumento più visitato della Spagna e le fasce del mattino vanno a ruba.'
 guiasRelacionadas:

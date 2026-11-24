@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Indique altura, peso e número de calçado ao reservar.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento; Instrutores de mergulho PADI; Seguro.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 10 anos; Não recomendado a grávidas; É obrigatório um questionário médico; algumas condições exigem atestado médico.'
 categoria: agua
 keywords:
 - batismo de mergulho puerto rico gran canaria

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: No, por buggy para hasta 2 personas.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida opcional en Costa Adeje, Las Américas, Los Cristianos y Golf del Sur; Excursión de 3,5 horas en buggies de 2 a 4 plazas; Guía profesional; Gafas y ropa de abrigo si hace falta; Agua y snack; Combustible.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Conductores mayores de 18 años con carné definitivo (no provisional); Pasajeros de al menos 120 cm en buggies de 2 plazas; desde 3 años en los de 4; Calzado cerrado obligatorio.'
 categoria: aventura
 keywords:
 - buggy teide

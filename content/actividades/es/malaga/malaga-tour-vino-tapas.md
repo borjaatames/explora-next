@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: Sí, en cada parada puedes pedir cerveza, refresco o agua en lugar de vino.
 - pregunta: ¿En qué idioma es?
   respuesta: Solo en inglés.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Marqués de Larios 18, Málaga (frente a Women''Secret). Ojo: es la tienda Women''Secret, no la Victoria''s Secret del otro extremo de la calle. Del 24 de noviembre al 6 de enero, los tours de después de las 17:00 salen de la Oficina de Turismo de la plaza de la Marina.'
 opinionEditorial: La nota más alta de los tours gastronómicos de Málaga, con más de 1.300 opiniones. Es la forma más rápida de saber dónde comer el resto del viaje, aunque solo se hace en inglés.
 guiasRelacionadas:
 - comer-en-malaga

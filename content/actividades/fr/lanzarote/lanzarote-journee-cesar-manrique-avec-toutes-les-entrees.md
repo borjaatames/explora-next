@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, le circuit se concentre sur le nord."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à des points de rendez-vous dans les stations ; lieu et heure sur la confirmation.'
 categoria: excursionesDia
 keywords:
 - "circuit césar manrique lanzarote"

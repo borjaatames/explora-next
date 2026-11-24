@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Telescopios solares como GREGOR (el mayor de Europa) y THEMIS, y telescopios nocturnos y de microondas. Se entra en una cúpula y el resto se ve desde fuera con la explicación del guía.
 - pregunta: ¿Cómo llego?
   respuesta: En coche propio por la TF-24 (la carretera de la cumbre desde La Laguna, muy bonita) o reservando la opción con traslado desde el sur o el norte de la isla.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Observatorio del Teide, Izaña (carretera TF-24), Tenerife. El observatorio está en Izaña, a 2.390 m, por la TF-24 desde La Laguna o la TF-21 desde el Portillo. Aparcamiento en la entrada; presenta el voucher al guía a la hora reservada. Si reservas la opción con traslado, el punto de recogida va en el voucher.'
 opinionEditorial: 'Una visita distinta en el Teide: ciencia de primera línea explicada por quien trabaja allí, y el Sol visto como no lo has visto nunca. Barata y de hora y media; encaja con el teleférico o con el atardecer en Las Cañadas.'
 guiasRelacionadas:
 - subir-al-teide

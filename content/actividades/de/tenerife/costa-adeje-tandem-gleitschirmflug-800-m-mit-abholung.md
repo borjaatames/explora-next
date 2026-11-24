@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die GoPro-Aufnahmen können Sie nach dem Flug kaufen."
 - pregunta: "Wo werde ich abgeholt?"
   respuesta: "An Ihrem Hotel zwischen Los Cristianos und Costa Adeje."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Ihrem Hotel in der Touristenzone im Süden, oder direkt am Chiringuito Coqueluche Beach Bar an der Playa de La Enramada, Costa Adeje.'
 categoria: aventura
 keywords:
 - "gleitschirm costa adeje"

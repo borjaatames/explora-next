@@ -44,6 +44,17 @@ detallesPracticos:
   confirmacionInmediata: true
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 12 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 12 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Ubicación secreta y discreta en Madrid, revelada al confirmar la reserva; si el guía no te localiza al llegar, te llamará al teléfono facilitado.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Comida completa: jamón Reserva Serrano, quesos artesanales y delicias españolas auténticas; Espumosos 0,0% sin alcohol, snacks, refrescos y agua embotellada.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 3 años; los bebés no pueden viajar en brazos; No recomendado para personas con intolerancias alimenticias severas; Accesible con cochecito de bebé; se admiten animales de servicio.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Menú adaptado a intolerancias alimenticias severas (no recomendado en estos casos).'
 opinionEditorial: 'Es la opción más relajada de este grupo de experiencias: menos ''turística'' y más pensada para una tarde tranquila en pareja o con amigos. La localización sorpresa forma parte de la propuesta, así que no es para quien necesite controlar exactamente dónde va a estar de antemano. El menú (jamón, quesos, espumoso sin alcohol) es de gama alta y funciona también para quien no bebe, aunque no es buena opción si hay intolerancias alimenticias severas en el grupo.'
 atraccionesRelacionadas:
 - otros-madrid

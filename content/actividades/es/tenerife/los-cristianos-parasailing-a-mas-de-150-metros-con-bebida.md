@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, italiano, portugués.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Espigón del Benchijigua 11A, puerto de Los Cristianos.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Vuelo de parasailing de 10 minutos; Bebidas; Patrón con experiencia; Paseo en barco; Seguro; Equipo de seguridad.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con vértigo o que se mareen en el mar.'
 categoria: agua
 keywords:
 - parasailing los cristianos

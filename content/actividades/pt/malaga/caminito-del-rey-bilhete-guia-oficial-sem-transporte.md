@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: O bilhete oficial sem guia existe, mas esgota com meses de antecedência. Esta opção com guia oficial tem quota própria e, além disso, o guia explica a história da central hidroelétrica e a geologia do desfiladeiro.
 - pregunta: Mete medo?
   respuesta: Os passadiços são largos, com corrimão e a 100 metros acima do rio. É seguro e indicado para famílias com crianças a partir dos 8 anos, mas a ponte suspensa final impressiona quem tem vertigens.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Caminito del Rey, acesso norte (Ardales), Málaga. O percurso é linear e começa pelo acesso norte, em Ardales. De carro, estacione no norte (El Kiosko) ou no sul (El Chorro) e use o autocarro de ligação. De comboio, Cercanías C-2 até El Chorro-Caminito del Rey (40 min desde Málaga). Ponto exato no voucher.'
 avisoReserva: Os lugares da primavera e do outono esgotam em poucos dias
 opinionEditorial: A forma mais barata de fazer o Caminito com entrada garantida. Se já tem carro ou vai usar o comboio, não pague o tour com transporte. Reserve o dia que lhe convier e organize a viagem a Málaga em torno dessa data.
 categoria: entradas

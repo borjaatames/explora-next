@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: El barco fondea en la zona y las paradas de baño dependen del estado del mar.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto de Cala Figuera (Santanyí). El punto exacto aparece en el bono. Aparcar en Cala Figuera en verano cuesta: llega con margen.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en barco; Equipo de esnórquel; Una bebida.'
 opinionEditorial: La forma más cómoda de ver la cala más fotografiada de Mallorca. Muy buena nota y precio razonable para dos horas y media de mar.
 guiasRelacionadas:
 - mejores-calas-mallorca

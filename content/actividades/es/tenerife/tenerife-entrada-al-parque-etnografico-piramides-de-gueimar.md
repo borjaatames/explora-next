@@ -41,6 +41,12 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Pirámides; Museo; Jardín botánico; Jardín de plantas venenosas (opción premium); Exposición polinesia (opción premium).'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Recogida y regreso al hotel.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '2 horas.'
 categoria: entradas
 keywords:
 - piramides de guimar entradas

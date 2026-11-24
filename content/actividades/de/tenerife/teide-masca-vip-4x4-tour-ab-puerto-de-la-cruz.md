@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "In Puerto de la Cruz um 8:45 Uhr."
 - pregunta: "Wie lange dauert die Tour?"
   respuesta: "Etwa acht Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Um 8:45 Uhr im Büro Tamaran/Volcanic, Calle Aceviño 12, Puerto de la Cruz (oder Abholung nahe Ihrem Hotel).'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-tickets-ausverkauft

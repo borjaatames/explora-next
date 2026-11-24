@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Non, prévoyez de quoi manger."
 - pregunta: "Combien de personnes dans le groupe ?"
   respuesta: "8 au maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hébergement à Corralejo ou Caleta de Fuste.'
 categoria: excursionesDia
 keywords:
 - "excursion ile de lobos"

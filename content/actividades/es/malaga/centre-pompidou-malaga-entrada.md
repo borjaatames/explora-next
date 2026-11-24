@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Hora y media.
 - pregunta: ¿Hay días gratis?
   respuesta: Sí, los domingos desde las 16:00 hasta el cierre.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Esta actividad no es reembolsable.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Centre Pompidou Málaga, Muelle Uno, Pasaje Doctor Carrillo Casaux. En el Muelle Uno del puerto, a 10 minutos a pie de la catedral.'
 opinionEditorial: Arte moderno de primera fila en el puerto y por 9 €. No es tan grande como el Picasso ni el Thyssen de Málaga, así que funciona bien para una tarde o un día de lluvia.
 guiasRelacionadas:
 - malaga-en-dos-dias

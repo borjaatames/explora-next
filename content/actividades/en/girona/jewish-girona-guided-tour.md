@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Two and a half hours.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaça de Sant Feliu, Girona. In front of the Basilica of Sant Feliu, in the old town.'
+- pregunta: 'What is included?'
+  respuesta: 'Expert guide.'
 opinionEditorial: The top-rated tour in Girona. You can walk the Call alone, but without a guide it is just a pretty maze; with one you understand six centuries of history.
 guiasRelacionadas:
 - what-to-see-in-girona-in-one-day

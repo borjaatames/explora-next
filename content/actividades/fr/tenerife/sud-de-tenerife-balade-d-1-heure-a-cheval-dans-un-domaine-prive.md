@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Balade guidée par des moniteurs professionnels; Tout l''équipement; Poney en carrière fermée pour les moins de 7 ans.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux femmes enceintes; 10 personnes maximum par sortie.'
 categoria: aventura
 keywords:
 - balade à cheval sud tenerife

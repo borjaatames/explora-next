@@ -49,6 +49,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Mercado de La Boquería, La Rambla, 91, 08001 Barcelona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Comida completa: degustación de tapas con vinos regionales; Visita al Mercado de la Boquería con degustación de quesos y embutidos locales; Parada en 4 bodegas emblemáticas del Gótico y el Born, con comida y bebida en cada una; Guía local experto en gastronomía, cercano y aficionado a la cocina; Visita guiada a pie por la ciudad vieja, en grupo reducido (máx. 12).'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Salida a las 11:00 de la mañana; Llega al punto de encuentro 10 minutos antes para el registro; Avisa al guía de cualquier alergia o necesidad alimentaria al llegar.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y devolución en el alojamiento; Propinas (opcionales).'
 opinionEditorial: 'Es una forma estupenda de comer como un local sin acabar en una trampa para turistas: el guía te lleva a sitios que no encontrarías solo, y la Boquería al mediodía está en su mejor momento. Grupo reducido, ritmo tranquilo y comida de verdad.'
 atraccionesRelacionadas:
 - tapas-barcelona

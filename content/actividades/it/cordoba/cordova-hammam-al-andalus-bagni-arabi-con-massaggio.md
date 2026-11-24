@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Solo il costume; gli asciugamani sono forniti."
 - pregunta: "I bambini possono entrare?"
   respuesta: "Dai 5 anni, con liberatoria firmata dai genitori."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Hammam Al Ándalus, Calle Corregidor Luis de la Cerda, 51, a due passi dalla Moschea-Cattedrale.'
 categoria: entradas
 keywords:
 - "hammam cordova"

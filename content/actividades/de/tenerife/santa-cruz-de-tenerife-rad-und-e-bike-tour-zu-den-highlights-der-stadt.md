@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Französisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Radtour mit lokalem Guide; Wahl zwischen normalem Rad und E-Bike; Fotostopps; Lokale Empfehlungen; Geschichten zu Geschichte und Denkmälern.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Du musst Rad fahren können; Kinder unter 6 (max. 20 kg, 140 cm) fahren gratis im Kindersitz.'
 categoria: aventura
 keywords:
 - radtour santa cruz de tenerife

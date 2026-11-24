@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Sí, con entrada sin colas y el guía.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaça de Catalunya, Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía oficial privado; Entrada sin colas a la Sagrada Familia; Transporte entre el Gótico y la Sagrada Familia.'
 opinionEditorial: Une la Barcelona medieval y la de Gaudí en una mañana, con el traslado resuelto. Para un primer día en la ciudad es de lo más práctico.
 atraccionesRelacionadas:
 - sagrada-familia

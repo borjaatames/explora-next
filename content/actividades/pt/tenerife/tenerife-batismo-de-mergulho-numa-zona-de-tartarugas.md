@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Scuba Point, Puerto Colón, loja 131 (rés-do-chão, em frente ao pontão 3), Costa Adeje.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Transporte de barco até ao ponto de mergulho; Equipamento de mergulho completo; Instrutor certificado; Seguro completo.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Depois do mergulho não suba acima de 300 m (Teide ou avião) no mesmo dia; Não recomendado a menores de 8 anos, grávidas ou pessoas com problemas cardíacos, respiratórios ou diabetes; Não se garante ver fauna.'
 categoria: agua
 keywords:
 - batismo de mergulho tenerife

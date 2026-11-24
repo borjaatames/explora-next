@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Des bananes et des produits au gofio."
 - pregunta: "Où se trouve la finca ?"
   respuesta: "À La Estrella, près de Las Galletas, dans le sud de l'île."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Entrée principale de Las Margaritas Banana Experience, avenida La Calma, La Estrella (Las Galletas, Arona). Parking gratuit.'
 categoria: toursGastronomicos
 guiasRelacionadas:
 - que-voir-a-tenerife

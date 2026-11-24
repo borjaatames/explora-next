@@ -67,6 +67,12 @@ preguntasFrecuentes:
   respuesta: The setting is unique — a natural barranco (ravine) with native Canarian vegetation surrounding the enclosures. This gives it a more naturalistic feel than most parks. The botanical gardens are also a highlight. The dolphin auditorium is the largest in the Canary Islands.
 - pregunta: Is the butterfly house worth the visit?
   respuesta: Yes — it is consistently one of the top-rated features of the park. The greenhouse contains hundreds of tropical butterflies from several continents, flying freely around you. Worth visiting in the morning when they are most active.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Palmitos Park, GC-503, km 4.6, Maspalomas, Gran Canaria. Palmitos Park is 15 km north of Maspalomas and Playa del Inglés, in the interior of Gran Canaria. By car, take the GC-1 to Maspalomas and then the GC-503 towards Palmitos. Regular buses run from the Maspalomas and Playa del Inglés resort area — check the timetable with the operator. The journey takes about 30 minutes from the south coast resorts.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day park entry; Dolphin show; Parrot show; Access to all gardens, enclosures, and butterfly house.'
 opinionEditorial: Palmitos Park is Gran Canaria's hidden gem — far less visited than the beach resorts, dramatically beautiful in its ravine setting, and with genuinely excellent animal care. The dolphin show and butterfly house are the highlights, but the whole park rewards a full day.
 guiasRelacionadas:
 - what-to-see-in-gran-canaria

@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: 'Es la obra cumbre del románico europeo: 200 figuras talladas por el Maestro Mateo en 1188, con los 24 ancianos del Apocalipsis tocando instrumentos. La restauración devolvió el color original que estuvo oculto siglos.'
 - pregunta: ¿Cuánto dura y qué más se ve?
   respuesta: 'Dos horas y media: Pórtico (30 min), interior de la catedral con la tumba del Apóstol, y las plazas del casco histórico (Obradoiro, Platerías, Quintana) con la historia del Camino.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza del Obradoiro, Santiago de Compostela (punto exacto en el voucher). Encuentro en la Plaza del Obradoiro, frente a la fachada de la catedral. El guía lleva identificación. Llega 10 minutos antes: el acceso al Pórtico tiene hora fija.'
 opinionEditorial: La mejor forma de entrar al Pórtico de la Gloria, que por libre es difícil de conseguir. El guía convierte una fachada de piedra en una historia que se sigue, y el resto de la visita ordena el casco histórico. Valoración de 4,8 por algo.
 guiasRelacionadas:
 - catedral-de-santiago-como-visitar

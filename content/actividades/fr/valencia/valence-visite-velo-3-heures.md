@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'Oui, vous pouvez en ajouter un en option lors de la réservation.'
 - pregunta: 'Puis-je garder le vélo après la visite ?'
   respuesta: 'Oui, avec l''option de location jusqu''à la fin de la journée, en laissant une caution de 50 € et une pièce d''identité.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Doyoubike, Carrer de la Sang, 9 (46002 Valencia). La boutique est à une minute de la place de l''Hôtel de Ville, à côté de la rue San Vicente. Arrivez 10 minutes avant pour régler votre vélo.'
 opinionEditorial: 'Le vélo est le meilleur moyen de découvrir Valence, une ville plate avec le Turia comme grande autoroute verte. En trois heures, vous reliez la vieille ville à la Cité des Arts, ce qui à pied prendrait toute la journée. Une très bonne option pour le premier jour.'
 atraccionesRelacionadas:
 - ciudad-artes

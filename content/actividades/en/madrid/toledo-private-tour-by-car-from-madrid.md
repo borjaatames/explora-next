@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English, Spanish and Italian.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza del Emperador Carlos V (Atocha) or pickup at the Madrid location you prefer.'
+- pregunta: 'What is included?'
+  respuesta: 'Private transport with driver; Private official guide; Skip-the-line monument tickets; Pickup at the point you choose.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

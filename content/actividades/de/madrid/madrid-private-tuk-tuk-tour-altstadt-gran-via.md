@@ -53,6 +53,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Laut Anbieter ist die Buchung nicht erstattungsfähig, prüfe also Datum und Uhrzeit genau, bevor du bezahlst.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Laut Anbieter ist die Buchung nicht erstattungsfähig, prüfe also Datum und Uhrzeit genau, bevor du bezahlst.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Plaza de Cánovas del Castillo (Neptunbrunnen), gegenüber dem Museum Thyssen-Bornemisza, 28014 Madrid, Spanien.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; Kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; Kindersitzerhöhung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen; Mindestalter 3 Jahre; Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
 opinionEditorial: 'Das ist die umfassendste kurze Route von Tuk Tuk Zero für einen ersten Besuch: Sie deckt in gut einer Stunde den Großteil des Postkarten-Madrids ab. Beachte, dass die Erklärungen über Kopfhörer kommen und nicht von einem Live-Guide, und dass die Buchung nicht storniert werden kann.'
 atraccionesRelacionadas:
 - tuk-tuk

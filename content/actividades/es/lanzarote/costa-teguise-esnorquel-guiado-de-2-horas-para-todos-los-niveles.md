@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo de esnórquel; Seguro; Introducción teórica; Monitor; Recogida y regreso en Costa Teguise, Tahíche y Arrecife.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que saber nadar; No apto para menores de 8 años.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Fotos.'
 categoria: agua
 keywords:
 - esnórquel costa teguise

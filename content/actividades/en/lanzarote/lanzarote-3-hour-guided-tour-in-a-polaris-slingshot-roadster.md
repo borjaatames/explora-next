@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'LZ-2 road, Yaiza.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Three-wheeled roadster; Professional guide; Driving instructions.'
 categoria: aventura
 keywords:
 - slingshot tour lanzarote

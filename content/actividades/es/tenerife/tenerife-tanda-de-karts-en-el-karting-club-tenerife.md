@@ -45,6 +45,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Autobús lanzadera gratis en el sur de la isla.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para embarazadas ni personas con problemas cardiacos; Opciones junior: kart biplaza de 160cc (1 adulto + 1 niño hasta 5 años) y Pony Kart de 120cc.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas.'
 categoria: aventura
 keywords:
 - karting tenerife

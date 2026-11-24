@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, italien, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Guide géologue expert.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Randonnée de niveau facile; Déconseillé aux moins de 8 ans et aux personnes à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas et boissons; Musée.'
 categoria: aventura
 keywords:
 - randonnée fuerteventura

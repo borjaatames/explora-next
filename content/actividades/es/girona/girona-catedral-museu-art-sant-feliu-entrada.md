@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Unas 3 horas para las tres visitas, pero tienes 48 horas para repartirlas.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Canjea el cupón en la recepción del Museu d''Art, junto a la escalinata de la catedral.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Entrada a la catedral y su tesoro; Entrada a la basílica de Sant Feliu; Entrada al Museu d''Art; Audioguía en la catedral.'
 opinionEditorial: Lo esencial del Barri Vell de Girona en una sola entrada y por 12 €. La nave de la catedral y el Tapiz de la Creación ya justifican el precio.
 guiasRelacionadas:
 - que-ver-en-girona-en-un-dia

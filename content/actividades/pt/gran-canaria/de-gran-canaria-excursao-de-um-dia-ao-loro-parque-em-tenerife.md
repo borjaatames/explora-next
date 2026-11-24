@@ -43,6 +43,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha e regresso em hotéis do sul de Gran Canaria; Barco de Agaete a Santa Cruz de Tenerife; Autocarro de Santa Cruz ao Loro Parque; Entrada no Loro Parque.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Leve o cartão de cidadão ou passaporte: sem ele não pode viajar; Não recomendado a pessoas com mobilidade reduzida.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Comida e bebida.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '12 horas.'
 categoria: parques
 keywords:
 - loro parque de gran canaria

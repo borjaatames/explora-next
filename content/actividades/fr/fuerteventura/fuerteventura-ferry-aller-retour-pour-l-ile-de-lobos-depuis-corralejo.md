@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'L''accès est réglementé : choisissez l''option avec permis inclus.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Nortour, port de Corralejo.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billets de ferry aller-retour; Assurance voyage obligatoire.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Arrivez au moins 20 minutes avant ; l''embarquement ferme 10 minutes avant le départ; Prévoyez eau et nourriture : il n''y a ni boutique ni eau potable sur Lobos; Choisissez l''option avec permis pour monter à La Caldera.'
 categoria: excursionesDia
 keywords:
 - ferry île de lobos

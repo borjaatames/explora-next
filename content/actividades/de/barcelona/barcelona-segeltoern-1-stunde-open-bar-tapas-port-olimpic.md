@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Getränke und Tapas ohne Limit."
 - pregunta: "Wie viele Gäste sind an Bord?"
   respuesta: "In der Regel höchstens 9."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barcelona Sailing Day, Moll de la Marina 10, Port Olímpic: von der Carrer de la Marina zwischen den beiden Hochhäusern die Treppe hinunter.'
 categoria: agua
 keywords:
 - "segeln barcelona 1 stunde"

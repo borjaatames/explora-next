@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Yes, from the age of 2. It is one of the favourite activities for families in the south of Tenerife.
 - pregunta: Do you get wet?
   respuesta: No. You are seated in the dry interior of the submarine.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Submarine Safaris, Amarilla Marina, San Miguel de Abona (38639 Tenerife). If you are driving, go to the port 30 minutes before the dive to check in; there is free parking at the end of the port. If you use the free bus, you will receive the pickup time and point by email or phone.'
 opinionEditorial: 'The easiest way to see Tenerife''s seabed without getting wet, perfect with children or with anyone who does not snorkel. The rays and the divers feeding the fish are the best part. The price is high for an hour, but the experience is unique on the island.'
 guiasRelacionadas:
 - what-to-see-in-tenerife

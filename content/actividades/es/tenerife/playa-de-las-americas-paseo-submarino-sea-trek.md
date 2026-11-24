@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Casco Sea Trek con suministro de aire constante; Todo el equipo, sin experiencia previa; Charla de seguridad y paseo submarino guiado; Instructores titulados todo el tiempo; Neopreno; Taquillas y vestuarios.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 8 años ni embarazadas.'
 categoria: agua
 keywords:
 - sea trek tenerife

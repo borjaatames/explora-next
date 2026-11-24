@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Avenida de Alemania 22, Playa del Inglés (San Bartolomé de Tirajana).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Bici eléctrica; Casco y chaleco reflectante; Guía local; Botella de agua de 0,5 l; 1 bebida: refresco de frutas tropicales, cola, naranja, té frío o café.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 14, mayores de 70 ni personas con movilidad reducida.'
 categoria: aventura
 keywords:
 - ruta bici electrica maspalomas

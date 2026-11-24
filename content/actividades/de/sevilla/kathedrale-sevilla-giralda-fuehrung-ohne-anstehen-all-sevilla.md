@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Eine bis anderthalb Stunden."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Plaza Virgen de los Reyes 4, bei der roten Fahne."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Führung durch die Kathedrale; Ticket ohne Anstehen; Zugang zur Giralda.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - kathedrale-sevilla-giralda-tickets-ausverkauft

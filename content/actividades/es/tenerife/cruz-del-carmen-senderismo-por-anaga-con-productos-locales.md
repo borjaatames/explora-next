@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, alemán, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado de vuelta al inicio en Cruz del Carmen; Degustación de productos locales.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva una chaqueta ligera: en Anaga la llovizna es muy habitual; No apto para personas con movilidad reducida.'
 categoria: aventura
 keywords:
 - senderismo anaga

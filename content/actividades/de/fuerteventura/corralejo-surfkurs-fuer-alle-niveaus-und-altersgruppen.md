@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Boards Connections Surf School, Calle Acorazado España 10, Corralejo.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Surfkurs für alle Niveaus.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 4; Nicht für Schwangere; Du musst schwimmen können.'
 categoria: agua
 keywords:
 - surfkurs corralejo

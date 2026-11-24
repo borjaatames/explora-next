@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sim, a cerca de 10-12 km. A partir de Maspalomas e Playa del Inglés há autocarro. De carro são cerca de 15-20 minutos por estrada de montanha.
 - pregunta: Há espetáculo de golfinhos?
   respuesta: Sim, o Palmitos Park tem um delfinário com espetáculo incluído no bilhete. É um dos poucos sítios nas Canárias onde os pode ver.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Palmitos Park, Barranco de los Palmitos, s/n, Mogán, Gran Canária. O parque fica no Barranco de los Palmitos, a cerca de 10 km de Maspalomas. Há autocarro a partir de Playa del Inglés e Maspalomas. De carro, apanhe a GC-503 a partir da GC-500 (Maspalomas). O estacionamento é gratuito.'
 opinionEditorial: 'O Palmitos Park não compete em tamanho com o Loro Parque, mas tem algo que este não tem: um cenário natural de ravina canária que torna o passeio pelo parque uma experiência em si. O borboletário tropical é imperdível.'
 categoria: parques
 keywords:

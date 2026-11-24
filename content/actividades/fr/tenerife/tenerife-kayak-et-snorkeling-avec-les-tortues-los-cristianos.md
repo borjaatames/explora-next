@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, dans le sud de Tenerife, pour environ 4 € par personne."
 - pregunta: "À partir de quel âge ?"
   respuesta: "Dès 6 ans, accompagné d'un adulte."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Kayaking Tenerife Atlantis, Edificio Guayero 2, Los Cristianos.'
 categoria: agua
 keywords:
 - "kayak tortues tenerife"

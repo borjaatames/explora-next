@@ -34,6 +34,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'El punto de encuentro está en Valencia; el lugar exacto se indica al confirmar la reserva.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte en bus de ida y vuelta; Acompañamiento del guía.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida; Propinas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: 'Día completo (unas 8 horas).'
 opinionEditorial: 'Montanejos es el plan perfecto de baño en agua dulce: las pozas mantienen una temperatura suave todo el año y el paisaje de montaña es precioso. La opción en bus es la más económica y sin complicaciones.'
 categoria: excursionesDia
 keywords:

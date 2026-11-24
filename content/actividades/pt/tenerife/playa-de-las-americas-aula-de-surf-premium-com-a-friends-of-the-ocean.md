@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Aula de surf de 2 horas (teoria e prática); Todo o equipamento: prancha, fato, sapatilhas e seguro; Duches, cacifos, café e água grátis; 1 hora extra de uso grátis do material.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Aulas para todos os níveis e idades; Os instrutores falam espanhol, inglês, francês, alemão e russo.'
 categoria: agua
 keywords:
 - aula de surf playa de las americas

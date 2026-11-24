@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: Le billet officiel sans guide existe, mais il est épuisé des mois à l'avance. Cette option avec guide officiel dispose de son propre quota et, en plus, le guide explique l'histoire de la centrale hydroélectrique et la géologie du défilé.
 - pregunta: Est-ce impressionnant ?
   respuesta: Les passerelles sont larges, munies de garde-corps et situées à 100 mètres au-dessus de la rivière. C'est sûr et adapté aux familles avec des enfants à partir de 8 ans, mais le pont suspendu final impressionne ceux qui ont le vertige.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Caminito del Rey, accès nord (Ardales), Malaga. Le parcours est linéaire et commence par l''accès nord, à Ardales. En voiture, garez-vous au nord (El Kiosko) ou au sud (El Chorro) et prenez la navette. En train, Cercanías C-2 jusqu''à El Chorro-Caminito del Rey (40 min depuis Malaga). Point exact indiqué sur le voucher.'
 avisoReserva: Les places de printemps et d'automne partent en quelques jours
 opinionEditorial: La façon la moins chère de faire le Caminito avec une entrée assurée. Si vous avez déjà une voiture ou comptez prendre le train, ne payez pas l'excursion avec transport. Réservez le jour qui vous convient et organisez votre voyage à Malaga autour de cette date.
 categoria: entradas

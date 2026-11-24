@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Oui, l'aller-retour depuis votre hôtel est inclus.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerto Colón, en haut du ponton près du panneau « Pantalán Nº4 », 15 minutes avant le départ.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en voilier; Prise en charge et retour à l''hôtel; Briefing de sécurité; Équipement de snorkeling; Boissons : cava, bière, sodas et eau; Baguettes, fruits, chips et fruits secs.'
 categoria: agua
 keywords:
 - voilier baleines tenerife

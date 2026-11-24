@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tasse e commissioni; Guida.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Moto singola dai 16 anni con consenso scritto dei genitori; conducenti di moto doppia dai 18; Passeggeri dai 10 anni; Porta un documento d''identità con foto.'
 categoria: agua
 keywords:
 - moto d'acqua 1 ora tenerife

@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: Das Boot hat alle Lizenzen für den gewerblichen Betrieb und fasst bis zu 8 Passagiere auf Einzelsitzen, mit einem professionellen, lustigen Skipper, der dir von der Stadt erzählt.
 - pregunta: Gibt es ein Mindestalter oder Einschränkungen?
   respuesta: Das Mindestalter ist 12 Jahre. Für Menschen mit Rücken- oder Herzproblemen und für Schwangere wird die Fahrt nicht empfohlen, da sie mit hoher Geschwindigkeit stattfindet.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Marina Vela, Port Vell, Barcelona.'
 opinionEditorial: 'Für alle, die etwas Lebhafteres als ein Segelboot wollen: eine halbe Stunde durch den Port Vell zwischen Superyachten und den Basen des America''s Cup, dann eine halbe Stunde mit Tempo an der Küste. Kurz, intensiv und ein riesiger Spaß.'
 atraccionesRelacionadas:
 - barco

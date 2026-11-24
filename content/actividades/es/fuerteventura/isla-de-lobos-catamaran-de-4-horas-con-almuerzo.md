@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, alemán, italiano, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Barco Celia Cruz, puerto de Corralejo (Calle Arena 9).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en catamarán con guía; Almuerzo; Bebida ilimitada; Equipo de esnórquel; Tabla de paddle surf y flotadores; Desembarco en la isla de Lobos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Recogida disponible en el norte de la isla si eliges esa opción.'
 categoria: agua
 keywords:
 - catamaran isla de lobos

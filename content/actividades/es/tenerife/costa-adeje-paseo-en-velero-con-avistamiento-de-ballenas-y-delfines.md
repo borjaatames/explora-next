@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, francés, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Lleva bañador, toalla y protector solar; a bordo se va descalzo.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en velero; Fruta fresca y bocadillos; Bebidas: cerveza, cava, vino, refrescos, zumo y agua; Equipo básico de esnórquel.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - velero tenerife ballenas

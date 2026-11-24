@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Italienisch, Spanisch, Deutsch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Transfer von und zum Hotel; Wasser.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Menschen mit Höhenangst oder Schwindel.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen.'
 categoria: excursionesDia
 keywords:
 - fuerteventura inselrundfahrt

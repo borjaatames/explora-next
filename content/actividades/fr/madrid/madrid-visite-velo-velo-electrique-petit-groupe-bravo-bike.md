@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Il faut savoir rouler à vélo ; le vélo électrique aide dans les montées."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "À 3 minutes de la Plaza de España, côté nord-ouest."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide dans la langue choisie; Location de vélo à vitesses ou vélo électrique (selon l''option); Casque (obligatoire pour les moins de 16 ans); Sacoche de guidon pour une bouteille.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, ein kanarisches Picknick ist dabei."
 - pregunta: "Gibt es eine Abholung?"
   respuesta: "Ja, in den Ferienorten im Süden der Insel."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Buggy Pirates Outdoor Center, Calle Puntarenas 16, El Tablero. Abholung in Bahía Feliz, San Agustín, Playa del Inglés, Maspalomas und Umgebung. Abfahrt um 8:00 Uhr.'
 categoria: aventura
 keywords:
 - "käfer cabrio tour gran canaria"

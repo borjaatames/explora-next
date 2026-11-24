@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: 'En saison : actuellement, les dates commencent en mai 2027.'
 - pregunta: Que boit-on à bord ?
   respuesta: Cava, vin et bière, avec des snacks.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant. Aucun remboursement ensuite.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Barcelona Watersports, Marina Port Vell.'
 categoria: agua
 privada: true
 precioPorGrupo: true

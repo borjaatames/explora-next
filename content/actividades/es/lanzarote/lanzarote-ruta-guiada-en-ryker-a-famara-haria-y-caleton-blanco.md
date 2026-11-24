@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla catalán, inglés, francés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta en Ryker; Guía; Casco; Gafas cortavientos; Cortavientos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 10 años ni embarazadas.'
 categoria: aventura
 keywords:
 - ryker lanzarote

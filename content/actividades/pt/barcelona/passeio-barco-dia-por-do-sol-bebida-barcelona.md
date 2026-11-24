@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Na praia em frente ao Pati Vela, junto às bandeiras da Catamarán TurTur."
 - pregunta: "E se estiver mau tempo?"
   respuesta: "Nova data ou reembolso total."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bebida de boas-vindas; Capitão e tripulação; Combustível, limpeza, seguro e taxas; Wi-fi a bordo.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-em-2-dias

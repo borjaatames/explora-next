@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "O voo pode ser cancelado; terá nova data ou reembolso."
 - pregunta: "Onde é o ponto de encontro?"
   respuesta: "No Restaurante Bonanza, em Cala Millor, ou noutro local conforme o tempo."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: '1 hora de voo de balão; Taça de cava; Fotos e vídeos do voo; Certificado de voo; Seguro.'
 categoria: aventura
 guiasRelacionadas:
 - o-que-ver-em-maiorca

@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: Des documentaires IMAX de 45 minutes sur la nature, l'espace et la science, sur un écran concave de 900 m². La programmation change chaque saison ; vous choisissez la séance en échangeant votre bon.
 - pregunta: Est-ce bien pour les enfants ?
   respuesta: Le musée des Sciences est l'un des meilleurs musées interactifs d'Espagne pour les enfants. L'Hemisfèric convient à tous les âges.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Billetterie du Museu de les Ciències, Av. del Professor López Piñero 7, Valence. Échangez votre bon à la billetterie du Museu de les Ciències et choisissez-y votre séance à l''Hemisfèric. Métro : Alameda (L3/L5), puis 15 minutes à pied par les jardins du Turia, ou bus 35 et 95.'
 opinionEditorial: "Le billet pour ceux qui veulent voir la Cité des arts de l'intérieur sans payer l'Oceanogràfic. Pour 14 €, vous avez un après-midi complet : le musée interactif et un film sur l'écran le plus spectaculaire de Valence."
 guiasRelacionadas:
 - cite-des-arts-et-des-sciences-comment-la-visiter

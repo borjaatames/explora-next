@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Nein, pro Gruppe: 290 € insgesamt."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, die Sprache wählen Sie bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Fuente de Santa María, am Olivenbaum im Patio de los Naranjos der Mezquita-Kathedrale (Calle Cardenal Herrero, 18).'
 categoria: visitasGuiadas
 keywords:
 - "private führung córdoba"

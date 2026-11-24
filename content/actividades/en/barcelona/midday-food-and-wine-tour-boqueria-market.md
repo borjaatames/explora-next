@@ -49,6 +49,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'Is this a full meal?'
+  respuesta: 'Yes. You taste local cheeses and cured meats at La Boquería Market and then have tapas and regional wines at 4 wine bars in the Gothic Quarter and El Born, with food and drink at each one.'
+- pregunta: 'Where and when does it start?'
+  respuesta: 'At 11:00 am at La Boquería Market (La Rambla, 91). Arrive 10 minutes early for check-in.'
+- pregunta: 'Can you cater for vegetarians or allergies?'
+  respuesta: 'Yes. Dietary restrictions, allergies and vegetarian options can be accommodated. Tell your guide on arrival.'
+- pregunta: 'How big is the group?'
+  respuesta: 'It is a small group of 12 people at most.'
+- pregunta: 'Can I cancel for free?'
+  respuesta: 'Yes, up to 24 hours before the tour.'
 opinionEditorial: 'A great way to eat like a local without ending up in a tourist trap: the guide takes you to places you would not find on your own, and the Boquería at midday is at its best. Small group, relaxed pace and real food.'
 atraccionesRelacionadas:
 - tapas-barcelona

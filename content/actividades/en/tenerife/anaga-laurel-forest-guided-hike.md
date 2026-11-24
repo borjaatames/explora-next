@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: A humid subtropical forest that covered southern Europe millions of years ago and now survives only in the Canaries, Madeira and the Azores.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Cruz del Carmen visitor centre, Anaga Rural Park. 20 minutes by car from La Laguna. Bus 076 also runs from La Laguna.'
+- pregunta: 'What is included?'
+  respuesta: 'Hiking guide.'
 opinionEditorial: 'Tenerife''s other side: green, damp and free of crowds. At €24 with a guide who explains the forest, it is one of the best-value trips on the island.'
 guiasRelacionadas:
 - what-to-see-in-tenerife

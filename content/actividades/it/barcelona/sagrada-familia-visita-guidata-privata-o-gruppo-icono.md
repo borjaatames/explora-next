@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Sì, privata o di gruppo."
 - pregunta: "Dove ci si incontra?"
   respuesta: "Al ristorante Cervecería Baviera, Carrer de la Marina 241."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ristorante Cervecería Baviera, Carrer de la Marina 241, a 50 metri dalla basilica. Non andate direttamente alla Sagrada Família.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-biglietti-esauriti

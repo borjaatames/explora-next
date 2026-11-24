@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, a Costa Calma, Esquinzo e Jandía, se scegli un punto di prelievo alla prenotazione."
 - pregunta: "Da dove parte la barca?"
   respuesta: "Dal porto di Morro Jable, alle 10:00."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Massimo 35 passeggeri; Porta costume, asciugamano e crema solare; Non accessibile in sedia a rotelle.'
 categoria: agua
 keywords:
 - "crociera fuerteventura morro jable"

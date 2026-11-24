@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'C''est autre chose : ici, c''est le contexte. La section moderniste du MNAC (mobilier de Gaudí, Casas, Rusiñol) explique d''où viennent La Pedrera et la Casa Batlló, et pour 12 € vous voyez mille ans d''art catalan sans faire la queue.'
 - pregunta: Combien de temps ?
   respuesta: 'Deux heures pour le roman, le gothique et le modernisme. Une demi-heure de plus sur la terrasse : la vue de la Plaça d''Espanya au Tibidabo est le plus beau panorama gratuit de Barcelone.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'MNAC, Palau Nacional, Parc de Montjuïc, Barcelone. Métro Espanya (L1/L3), puis 10 minutes de montée par les escalators de l''Avinguda de la Reina Maria Cristina. Présentez votre bon à l''accueil.'
 opinionEditorial: Le musée le plus sous-estimé de Barcelone. Les fresques romanes n'existent nulle part ailleurs au monde et la terrasse du Palau Nacional vaut à elle seule le billet. Douze euros, pas de file, à dix minutes du métro.
 guiasRelacionadas:
 - barcelone-en-3-jours

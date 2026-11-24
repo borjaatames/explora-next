@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Quad y equipo de protección; Guía; Refrigerio; Recogida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Fotos; Fianza o seguro extra.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '3 horas.'
 categoria: aventura
 keywords:
 - ruta guiada en quad teide

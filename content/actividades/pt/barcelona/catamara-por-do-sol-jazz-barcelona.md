@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Do fim da Rambla, junto à ponte do Maremagnum."
 - pregunta: "Quanto tempo dura?"
   respuesta: "Cerca de hora e meia."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Catamarã Orsom no fim da Rambla, a 100 m do monumento a Colombo, junto à ponte do Maremagnum.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-em-2-dias

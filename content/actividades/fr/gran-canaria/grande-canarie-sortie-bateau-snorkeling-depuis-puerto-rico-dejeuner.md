@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, le déjeuner est servi à bord."
 - pregunta: "Y a-t-il une prise en charge ?"
   respuesta: "Oui, à un point convenu près de votre hôtel, 30 minutes avant le départ."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Amarrage EC 04, Calle Puerto Escala, Puerto Rico de Gran Canaria. Avec prise en charge : le point de rendez-vous proche de votre hôtel est fixé à l''avance, 30 minutes avant le départ.'
 categoria: agua
 keywords:
 - "sortie bateau grande canarie snorkeling"

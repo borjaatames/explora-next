@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Cours de surf avec moniteurs certifiés ISA; Théorie et échauffement sur la plage; Pratique dans l''eau avec aide constante; Planche de surf; Combinaison.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Prise en charge à l''hôtel; Repas et boissons; Assurance voyage.'
 categoria: agua
 keywords:
 - cours de surf playa de las americas

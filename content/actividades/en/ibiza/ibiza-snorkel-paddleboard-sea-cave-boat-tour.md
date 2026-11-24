@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: The boat approaches the sea caves and, if the sea allows, you can swim or paddle in. It depends on the conditions on the day.
 - pregunta: Is pickup included?
   respuesta: 'Yes: hotel pickup and drop-off. The exact time is on your voucher.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà). Meeting point at Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, Sant Antoni. Hotel pickup and drop-off are included: check the time on your voucher.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat trip with crew; Snorkelling gear; Paddleboards; Underwater scooter; Drinks, fresh fruit and tapas; Towel and sunscreen.'
 opinionEditorial: 'A very complete half-day plan in Sant Antoni: boat, caves, snorkelling and paddleboarding with tapas, and no transport to worry about.'
 guiasRelacionadas:
 - best-coves-ibiza

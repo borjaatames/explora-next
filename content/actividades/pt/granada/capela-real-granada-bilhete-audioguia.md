@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Porque a conquista de Granada em 1492 foi o grande feito do seu reinado. Isabel deixou-o escrito no testamento e a capela foi construída entre 1505 e 1517.
 - pregunta: O que há no museu?
   respuesta: 'A coleção pessoal de Isabel: painéis flamengos de Memling, Van der Weyden e Bouts, um Botticelli, a sua coroa e o seu cetro, a espada de Fernando e os estandartes da conquista.'
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável: depois de reservada não pode ser cancelada nem alterada.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Capilla Real, Calle Oficios s/n, Granada. A entrada fica na Calle Oficios, entre a Catedral e a Alcaicería, pela Lonja. Apresente o voucher na bilheteira.'
 opinionEditorial: 'É o lugar onde a história de Espanha se torna concreta: dois reis em mármore e, por baixo, os seus caixões de chumbo. Pequena, intensa e com um museu que surpreende. Dez euros bem gastos; visite-a juntamente com a Catedral.'
 guiasRelacionadas:
 - alhambra-como-visitar

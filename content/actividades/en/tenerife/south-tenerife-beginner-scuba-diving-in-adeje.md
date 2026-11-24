@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, German, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'GF Isabel, Avenida de Moscú 2, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Full diving equipment: mask, wetsuit, booties and fins; 45-minute dive; Welcome coffee; Dive insurance; Transport to the dive site and back to the centre; Water, fruit and snacks.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 10; Not suitable for pregnant women, people with epilepsy or over 70; Do not fly for 12 to 24 hours after diving.'
 categoria: agua
 keywords:
 - beginner diving adeje

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Yellow Boat Mogán, Explanada del Castillete 163, Playa de Mogán.'
+- pregunta: 'What is included?'
+  respuesta: 'Local hosts (the boat owners); 1-hour boat trip along the coast; Three-course Canarian tasting menu; Wine with each course (rosé, aged white, semi-dry Listán); Water and soft drinks during the cruise; Shaded U-shaped seating on board.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Calm, sit-down experience focused on food and wine, not water activities; If you get seasick, take a remedy 30 minutes before.'
 categoria: toursGastronomicos
 keywords:
 - mogan boat trip wine

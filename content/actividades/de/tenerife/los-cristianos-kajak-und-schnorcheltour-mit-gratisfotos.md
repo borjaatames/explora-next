@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Französisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'C. el Coronel 8, Los Cristianos.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller Guide; Kajak und Paddel; Schwimmweste; Schnorchelausrüstung; Gratisfotos.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Touren finden vor allem auf Englisch statt; andere Sprachen je nach verfügbarem Personal; Du musst schwimmen können.'
 categoria: agua
 keywords:
 - kajak los cristianos

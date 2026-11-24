@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Klimatisierter Luxus-Minibus; Mehrsprachiger einheimischer Guide; Panoramablicke den ganzen Tag; Schwarze und weiße Strände; Spaziergang zu den Kalksteinhöhlen von Ajuy; Zeit fürs Mittagessen am Strand.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Keine Abholung südlich von Jandía oder am Hafen; Nicht geeignet bei Reiseübelkeit.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '6 Stunden.'
 categoria: excursionesDia
 keywords:
 - fuerteventura inselrundfahrt kleingruppe

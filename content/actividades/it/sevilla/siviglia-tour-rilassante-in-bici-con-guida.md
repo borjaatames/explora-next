@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "No, si vedono dall'esterno."
 - pregunta: "A che ora si parte?"
   respuesta: "Alle 10:00 e alle 14:00."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Negozio Rent a Bike Sevilla, Plaza de Santa Cruz, 4.'
 categoria: toursCiudad
 keywords:
 - "tour in bici siviglia"

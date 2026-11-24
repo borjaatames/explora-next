@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: "2 ore e mezza, poi un'ora di bici gratis."
 - pregunta: "Quanto sono grandi i gruppi?"
   respuesta: "Da 2 a 15 persone per guida."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ufficio del fornitore, Passeig de Lluís Companys 10, vicino all''Arc de Triomf (metro Arc de Triomf, L1).'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcellona-in-1-giorno

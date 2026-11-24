@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: 700 € pour le bateau entier, à 2 comme à 7.
 - pregunta: Peut-on annuler ?
   respuesta: Gratuitement jusqu’à 60 jours avant ; ensuite, pas de remboursement.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Voilier privé avec skipper; Carburant; Équipement de snorkeling et 2 paddles.'
 opinionEditorial: Une demi-journée sur son propre voilier, c’est la meilleure façon de voir les criques d’Ibiza sans la foule.
 atraccionesRelacionadas:
 - calas-barco

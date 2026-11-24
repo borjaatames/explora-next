@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Quesería La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Café de boas-vindas; Oficina guiada de fabrico de queijo; Técnicas de ordenha manual e mecânica; Elaboração do seu próprio queijo majorero; Todas as ferramentas e equipamento; Pequeno-almoço: sanduíche de queijo fresco, tábua de queijos locais, mojos canários e compotas caseiras.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Bebidas extra.'
 categoria: talleres
 keywords:
 - oficina de queijo fuerteventura

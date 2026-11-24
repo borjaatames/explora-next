@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Il volo può essere annullato; avrete una nuova data o un rimborso."
 - pregunta: "Dov'è il punto d'incontro?"
   respuesta: "Al Restaurante Bonanza di Cala Millor, o altrove secondo il meteo."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: '1 ora di volo in mongolfiera; Calice di cava; Foto e video del volo; Certificato di volo; Assicurazione.'
 categoria: aventura
 guiasRelacionadas:
 - cosa-vedere-a-maiorca

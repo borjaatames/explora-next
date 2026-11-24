@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui : café avant, cava en vol et brunch après l'atterrissage."
 - pregunta: "Y a-t-il un transfert depuis Barcelone ?"
   respuesta: "Non, il faut se rendre sur place par ses propres moyens."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Vol de Coloms, Carretera del Volcà Croscat s/n, Santa Pau (Garrotxa), à environ 1 h 45 de Barcelone en voiture.'
 categoria: aventura
 keywords:
 - "montgolfière garrotxa"

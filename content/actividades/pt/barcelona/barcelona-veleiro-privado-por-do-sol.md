@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: 'Na época: neste momento as datas começam em maio de 2027.'
 - pregunta: O que se bebe a bordo?
   respuesta: Cava, vinho e cerveja, com snacks.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes. Depois disso não há reembolso.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Barcelona Watersports, na Marina Port Vell.'
 categoria: agua
 privada: true
 precioPorGrupo: true

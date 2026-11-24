@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: La barca si ancora nella zona e le soste per il bagno dipendono dalle condizioni del mare.
 - pregunta: Si può cancellare?
   respuesta: Sì, gratis fino a 24 ore prima.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Cala Figuera (Santanyí). Il punto esatto è indicato nel voucher. Parcheggiare a Cala Figuera in estate è difficile: arriva con margine.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giro in barca; Attrezzatura da snorkeling; Una bevanda.'
 opinionEditorial: Il modo più comodo di vedere la cala più fotografata di Maiorca. Valutazione ottima e prezzo ragionevole per due ore e mezza di mare.
 categoria: agua
 keywords:

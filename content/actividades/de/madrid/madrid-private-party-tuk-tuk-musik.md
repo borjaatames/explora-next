@@ -46,6 +46,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung (100 % Gebühr bei kurzfristigerer Stornierung).
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung (100 % Gebühr bei kurzfristigerer Stornierung).'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Der Treffpunkt in Madrid wird bei der Bestätigung der Buchung vereinbart; die Fahrt endet, wo deine Gruppe im Zentrum Madrids will.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt; Privater Transport im Tuk-Tuk; Musik an Bord, von der Gruppe ausgewählt.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Rollstühle oder Kinderwagen geeignet; Alkohol trinken während der Fahrt ist nicht erlaubt; Babys können nicht auf dem Arm mitfahren, und es gibt keine Kindersitze.'
 opinionEditorial: Das ist keine Kulturtour, sondern ein Party-Erlebnis, um vor dem Ausgehen in Stimmung zu kommen oder in der Gruppe etwas zu feiern. Wenn du Geschichte und Monumente in Ruhe willst, nimm lieber die Panorama-Tour im Tuk-Tuk; wenn du Musik und gute Stimmung mit deinen Leuten willst, ist das hier das Richtige. Beachte nur, dass an Bord kein Alkohol erlaubt ist.
 atraccionesRelacionadas:
 - tuk-tuk

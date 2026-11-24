@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: No. Solo saber nadar si vas a meterte en el agua. El paddle surf y las gafas de snorkel están incluidos.
 - pregunta: ¿En qué idioma es?
   respuesta: 'GetYourGuide lo ofrece en inglés, pero la tripulación es local. No es una visita guiada: lo importante es la navegación y el baño.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Marina Miramar, Puerto Deportivo de Santa Pola (Muelle Norte). Salida desde el puerto deportivo Marina Miramar de Santa Pola, Muelle Norte s/n. Llega 15 minutos antes; el patrón te espera en el pantalán del velero.'
 opinionEditorial: 'Es la forma más tranquila de disfrutar Tabarca: en velero, con poca gente y bañándote donde el ferry no para. La vuelta al atardecer es lo que la hace distinta.'
 guiasRelacionadas:
 - isla-de-tabarca-como-visitar

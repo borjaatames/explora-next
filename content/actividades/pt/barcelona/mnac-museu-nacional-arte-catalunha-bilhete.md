@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'É outra coisa: é o contexto. A secção de modernismo do MNAC (móveis de Gaudí, Casas, Rusiñol) explica de onde vêm La Pedrera e a Casa Batlló, e por 12 € vê mil anos de arte catalã sem filas.'
 - pregunta: Quanto tempo é preciso?
   respuesta: 'Duas horas para o românico, o gótico e o modernismo. Mais meia hora no terraço: a vista da Plaça d''Espanya até ao Tibidabo é a melhor panorâmica gratuita de Barcelona.'
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'MNAC, Palau Nacional, Parc de Montjuïc, Barcelona. Metro Espanya (L1/L3) e depois 10 minutos pelas escadas rolantes da Avinguda de la Reina Maria Cristina. Mostre o voucher na receção.'
 opinionEditorial: O museu mais subestimado de Barcelona. Os frescos românicos não existem em mais nenhum lugar do mundo e o terraço do Palau Nacional vale o bilhete por si só. Doze euros, sem filas, a dez minutos do metro.
 guiasRelacionadas:
 - barcelona-em-3-dias

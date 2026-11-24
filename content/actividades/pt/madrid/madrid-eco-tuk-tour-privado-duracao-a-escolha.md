@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "De uma a sete horas, conforme a opção."
 - pregunta: "Onde começa?"
   respuesta: "Em frente à Bolsa de Madrid, diante do Ritz."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Tour em tuk-tuk; Guia.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-num-dia

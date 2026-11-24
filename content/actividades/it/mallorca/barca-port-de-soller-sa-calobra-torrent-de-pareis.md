@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'Il primo tratto (fino alla spiaggia) è semplice: circa 10-15 minuti su un sentiero di ciottoli tra pareti di roccia. Per addentrarsi di più nella gola bisogna arrampicarsi sulle rocce.'
 - pregunta: Vale la pena abbinarla al treno di Sóller?
   respuesta: Assolutamente. Lo storico treno di legno Palma-Sóller + il tram fino al porto + la barca per Sa Calobra è l'escursione classica di Maiorca. Da non perdere.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Port de Sóller, Moll de Pesquers, Port de Sóller, Maiorca. L''imbarcadero si trova nel porto di Sóller. Per arrivare da Palma: storico treno di legno Palma-Sóller (1 h, consigliatissimo) + tram fino al porto. Oppure in auto lungo la Ma-11.'
 opinionEditorial: 'Il Torrent de Pareis è uno degli angoli più spettacolari della Spagna e la barca da Sóller è il modo più comodo per arrivarci. Abbinandola allo storico treno di legno Palma-Sóller hai l''escursione di un giorno perfetta a Maiorca. Prenota in anticipo in alta stagione: le barche si riempiono.'
 categoria: agua
 keywords:

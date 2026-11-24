@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: Il biglietto ufficiale senza guida esiste, ma si esaurisce con mesi di anticipo. Questa opzione con guida ufficiale ha una quota di posti propria e, in più, la guida racconta la storia della centrale idroelettrica e la geologia della gola.
 - pregunta: Fa paura?
   respuesta: Le passerelle sono larghe, con parapetto, a 100 metri sopra il fiume. È sicuro e adatto alle famiglie con bambini dagli 8 anni in su, ma il ponte sospeso finale impressiona chi soffre di vertigini.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Caminito del Rey, accesso nord (Ardales), Malaga. Il percorso è lineare e parte dall''accesso nord, ad Ardales. In auto, parcheggia a nord (El Kiosko) o a sud (El Chorro) e usa il bus navetta. In treno, Cercanías C-2 fino a El Chorro-Caminito del Rey (40 min da Malaga). Il punto esatto è indicato nel voucher.'
 avisoReserva: I posti di primavera e autunno si esauriscono in pochi giorni
 opinionEditorial: Il modo più economico di percorrere il Caminito con l'ingresso assicurato. Se hai già l'auto o userai il treno, non pagare il tour con trasporto. Prenota il giorno che ti conviene e organizza il viaggio a Malaga intorno a quella data.
 guiasRelacionadas:

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Non, la visite se fait en extérieur ; le guide vous explique comment les visiter ensuite.
 - pregunta: Peut-on annuler ?
   respuesta: Oui, gratuitement jusqu’à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à l’hôtel s’il est dans le centre ; sinon, le guide vous indique le point de rendez-vous.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide privé pendant 3 heures; Prise en charge à l’hôtel (zone du centre).'
 opinionEditorial: Trois heures bien utilisées pour comprendre la vieille ville et découvrir des coins qu’on rate seul.
 atraccionesRelacionadas:
 - gotico

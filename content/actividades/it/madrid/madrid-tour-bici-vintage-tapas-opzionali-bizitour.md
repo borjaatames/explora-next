@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Solo se scegliete l'opzione tapas."
 - pregunta: "Da dove si parte?"
   respuesta: "Dal negozio BiziTour, vicino a Plaza Mayor."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Negozio di bici BiziTour, vicino a Plaza Mayor e al Mercato di San Miguel.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-in-1-giorno

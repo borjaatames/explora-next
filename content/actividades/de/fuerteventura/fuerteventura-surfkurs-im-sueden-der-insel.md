@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Transport zum Strand; Soft- oder Epoxy-Surfbrett; Billabong-Neoprenanzug; Erfahrener Lehrer mit Rettungsschwimmerschein.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Der Strand richtet sich nach Wind, Gezeiten und Wetter; Schick nach der Buchung Hotel, Handynummer, Größe und Gewicht; Mindestalter 13 Jahre.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke.'
 categoria: agua
 keywords:
 - surfkurs fuerteventura süden

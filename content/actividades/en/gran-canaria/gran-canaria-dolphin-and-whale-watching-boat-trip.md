@@ -40,6 +40,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Guided marine-life boat trip; Soft drinks and water; Pick-up and drop-off from the south of Gran Canaria (available).'
+- pregunta: 'What is not included?'
+  respuesta: 'Alcoholic drinks; Food.'
+- pregunta: 'How long does it last?'
+  respuesta: '2 hours.'
 categoria: agua
 keywords:
 - dolphin watching gran canaria

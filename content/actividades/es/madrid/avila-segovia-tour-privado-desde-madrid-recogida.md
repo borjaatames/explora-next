@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel o alojamiento de Madrid (indica dónde te alojas al reservar).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en tu alojamiento de Madrid; Guía oficial privado; Transporte privado de ida y vuelta; Asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

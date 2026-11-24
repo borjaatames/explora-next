@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Tra le altre, italiano, spagnolo, inglese e francese. Scegli la lingua quando prenoti.
 - pregunta: Si può cancellare?
   respuesta: Solo con il 50 % di rimborso fino a 24 ore prima. Se la data non è sicura, scegli un'opzione con cancellazione gratuita.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Accanto alla biglietteria del Generalife, paseo del Generalife (Granada). Cerca il personale con la maglietta viola di Crown Tours. Porta passaporto o carta d''identità: il biglietto è nominativo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Biglietti per l''Alhambra con Palazzi Nasridi; Guida ufficiale; Auricolari.'
 opinionEditorial: 'Una visita completa e molto ben recensita, biglietti inclusi e guida in italiano. Il difetto è la cancellazione: rimborsano solo metà.'
 atraccionesRelacionadas:
 - alhambra

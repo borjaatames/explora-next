@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Deux heures et demie."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerta del Perdón de la Mosquée-Cathédrale, Calle Cardenal Herrero.'
 categoria: visitasGuiadas
 keywords:
 - "mosquée et alcazar cordoue visite"

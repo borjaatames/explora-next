@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: O barco fundeia na zona e as paragens para banho dependem do estado do mar.
 - pregunta: É possível cancelar?
   respuesta: Sim, gratuitamente até 24 horas antes.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto de Cala Figuera (Santanyí). O ponto exato aparece no voucher. Estacionar em Cala Figuera no verão é difícil: chegue com margem.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Passeio de barco; Equipamento de snorkel; Uma bebida.'
 opinionEditorial: A forma mais cómoda de ver a enseada mais fotografada de Maiorca. Nota muito alta e preço razoável para duas horas e meia de mar.
 categoria: agua
 keywords:

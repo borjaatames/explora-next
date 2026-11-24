@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'Varias tapas en cada una de las tres paradas: suele dar para cenar o comer.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel de Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado; Tapas en tres locales; Bebidas.'
 opinionEditorial: Comer bien en Barcelona sin caer en el menú turístico es más difícil de lo que parece; un guía local en privado lo resuelve y de paso cuenta la ciudad.
 atraccionesRelacionadas:
 - tapas-barcelona

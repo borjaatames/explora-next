@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Bergantín 6, Pasito Blanco. Die Details kommen am Vortag per WhatsApp.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ausrüstung; Unfallversicherung; Sicherheitsbetreuer; Toiletten; Kostenloser Parkplatz.'
 categoria: agua
 keywords:
 - jetski maspalomas

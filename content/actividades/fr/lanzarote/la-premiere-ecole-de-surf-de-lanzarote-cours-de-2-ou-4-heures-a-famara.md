@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Surf School Lanzarote, C. El Callejón 4, Caleta de Famara.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Planche de surf; Combinaison; Moniteur diplômé ISA; Sauveteur diplômé RLSS; Transport de l''école à la plage.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prévoyez un en-cas ou un déjeuner pour l''option journée (pause vers 12 h); Il faut savoir nager.'
 categoria: agua
 keywords:
 - cours de surf famara

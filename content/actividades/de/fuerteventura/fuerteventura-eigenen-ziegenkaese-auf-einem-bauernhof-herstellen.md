@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Käserei La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Begrüßungskaffee; Geführter Käse-Workshop; Melken von Hand und mit der Maschine; Eigenen Majorero-Käse herstellen; Alle Werkzeuge und Geräte; Frühstück: Sandwich mit Frischkäse, regionale Käseplatte, kanarische Mojos und hausgemachte Marmeladen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Weitere Getränke.'
 categoria: talleres
 keywords:
 - käse herstellen fuerteventura

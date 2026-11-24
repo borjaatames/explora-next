@@ -35,6 +35,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Meeting point in Valencia (confirmed when booking).'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip transport from Valencia; Guide escort.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Snorkelling gear; Tips.'
+- pregunta: 'How long does it last?'
+  respuesta: 'Full day (about 8 hours).'
 opinionEditorial: 'Granadella is one of those coves that makes every list of Spain''s best, and for good reason: turquoise water, pines down to the shore and great snorkelling. Going with transport from Valencia saves you the parking nightmare that summer brings.'
 categoria: excursionesDia
 keywords:

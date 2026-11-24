@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: Eine spektakuläre, enge Kalksteinschlucht, die ein saisonaler Fluss gegraben hat. Sie endet dort, wo sie in der Bucht Sa Calobra aufs Meer trifft. Der Weg durch die Schlucht dauert etwa 20-30 Minuten, mit Klettern über Felsen und einem engen, in den Fels gehauenen Tunnel.
 - pregunta: Kann ich in Sa Calobra baden?
   respuesta: Ja. Sa Calobra hat einen kleinen Kiesstrand an der Mündung der Schlucht. Das Wasser ist kristallklar und die Kulisse herausragend. Bring Badesachen mit.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Port de Sóller, Mallorca. Port de Sóller liegt 30 km nördlich von Palma über die Bergstraße Ma-11. Mit öffentlichen Verkehrsmitteln nimmst du den Holzzug von Palma nach Sóller (eine der schönsten Strecken Mallorcas) und dann die Straßenbahn hinunter zum Hafen. Den genauen Abfahrtspunkt bestätigt der Anbieter auf deinem Gutschein.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsfahrt von Sóller nach Sa Calobra und zurück; Zeit in Sa Calobra für den Spaziergang durch die Schlucht.'
 opinionEditorial: 'Sa Calobra mit dem Boot ab Sóller gehört zu den größten Erlebnissen auf Mallorca: Allein die Küstenlandschaft lohnt sich, und der Spaziergang durch die Schlucht am Ende macht es unvergesslich. Nimm nicht stattdessen die Straße: Die Anfahrt mit dem Boot ist etwas ganz anderes.'
 guiasRelacionadas:
 - serra-de-tramuntana-soller

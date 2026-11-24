@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Wellenkind Surfschool, La Pared. Se as condições não o permitirem, a escola indica o ponto de encontro alternativo.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Prancha, fato e transporte; Duches e balneários; Aula de 2 horas na praia; Recolha e regresso ao hotel: Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 7 anos; É preciso saber nadar; A hora de início depende da maré e das condições; a escola confirma-a.'
 categoria: agua
 keywords:
 - aula de surf la pared

@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Spanisch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung an deiner Unterkunft; 4x4-Tour; Fotostopps in Guatiza, am Mirador de los Helechos und am Mirador de las Nieves; Besuch des historischen Teguise; Aussichtsstopp über der Küste von Famara; Stopp in einer Touristeninformation zu den vulkanischen Ursprüngen.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Menschen mit eingeschränkter Mobilität; Die 4x4 können mit anderen Teilnehmern geteilt werden.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mahlzeiten; Persönliche Ausgaben.'
 categoria: aventura
 keywords:
 - 4x4 tour lanzarote norden

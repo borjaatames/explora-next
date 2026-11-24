@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: 'Mindestens 2 volle Tage: einen für den PortAventura Park und einen für Ferrari Land und Caribe Aquatic Park. Mit 3 Tagen genießen Sie alles ohne Eile.'
 - pregunta: 'Dragon Khan oder Shambhala: Welche ist besser?'
   respuesta: Es sind unterschiedliche Erlebnisse. Shambhala ist ein Hyper-Coaster mit 76 m Höhe und 134 km/h und fährt für ihre Größe sehr sanft. Dragon Khan ist klassischer, mit 8 Inversionen und ruppiger. Fans empfehlen beide.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 72 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'PortAventura World, Av. Alcalde Pere Molas, km 2, Vila-seca, Tarragona. Das Resort liegt in Vila-seca, 10 km von Tarragona. Mit dem Zug fahren Sie mit Rodalies bis zum Bahnhof PortAventura. Mit dem Auto über die AP-7, Ausfahrt 35. Parkplätze vorhanden (gegen Gebühr). Zeigen Sie den Voucher an der Hauptkasse vor.'
 opinionEditorial: 'PortAventura ist der größte Freizeitpark Spaniens und einer der besten Europas. Das Kombiticket mit Ferrari Land und Caribe Aquatic Park bietet so viel mehr, dass sich der Preis voll rechtfertigt. Wer von weit her anreist, sollte nicht an Tagen sparen: Das Resort verdient Zeit.'
 guiasRelacionadas:
 - portaventura-world-guide

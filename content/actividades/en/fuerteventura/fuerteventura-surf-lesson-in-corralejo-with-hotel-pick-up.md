@@ -39,6 +39,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off at your hotel in Corralejo.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 14.'
+- pregunta: 'How long does it last?'
+  respuesta: '4 hours.'
 categoria: agua
 keywords:
 - surf lesson corralejo pick up

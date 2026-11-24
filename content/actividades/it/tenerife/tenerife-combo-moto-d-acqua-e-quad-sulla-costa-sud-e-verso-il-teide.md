@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. L''orario prenotato è per il quad; concorda la moto d''acqua su WhatsApp.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giubbotto salvagente; Occhialini; Guida; Bevande; Doccia e bagni; Armadietti.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cauzione in contanti: 50 € per moto d''acqua e 100 € per quad; Trasferimenti tra le attività.'
 categoria: aventura
 keywords:
 - moto d'acqua e quad tenerife

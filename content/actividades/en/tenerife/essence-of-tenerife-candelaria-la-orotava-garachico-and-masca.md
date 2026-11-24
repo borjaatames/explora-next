@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off at set points all over Tenerife; Official guide certified by the Canary Islands government; Multilingual guide: Spanish, English, German, French (subject to availability); Air-conditioned coach; Group of at most 35.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'A lot of time is spent travelling between stops; Not recommended for people with reduced mobility; Not available for cruise passengers.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch and drinks (optional, paid separately).'
 categoria: excursionesDia
 keywords:
 - tenerife island tour

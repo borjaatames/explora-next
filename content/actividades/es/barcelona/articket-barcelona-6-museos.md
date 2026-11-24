@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: El pase vale 12 meses desde que lo canjeas, una entrada por museo.
 - pregunta: ¿Qué museo hago primero?
   respuesta: 'El que te pille mejor: el pase se canjea en cualquiera de los seis.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'En el primer museo que visites (acceso preferente). Ve directamente al acceso preferente del museo que elijas y canjea el cupón por el pasaporte Articket. Museu Picasso: c/ Montcada 15-23.'
 opinionEditorial: Si vas a ver Picasso y Miró, el Articket es la forma más barata de hacerlo, y te regala el románico del MNAC. Solo tiene sentido si visitas al menos tres de los seis.
 guiasRelacionadas:
 - barcelona-en-3-dias

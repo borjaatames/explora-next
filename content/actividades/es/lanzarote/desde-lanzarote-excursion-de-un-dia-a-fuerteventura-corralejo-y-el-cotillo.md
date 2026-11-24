@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, alemán, francés, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Autobús de ida y vuelta desde el punto de encuentro más cercano a tu alojamiento; Ferry de ida y vuelta entre Lanzarote y Fuerteventura; Tiempo libre en cada parada; Guía multilingüe con experiencia.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hace falta DNI o pasaporte en vigor para viajar entre islas; Guía en alemán solo los martes y en italiano solo los miércoles; No apto para personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida.'
 categoria: excursionesDia
 keywords:
 - excursion fuerteventura desde lanzarote

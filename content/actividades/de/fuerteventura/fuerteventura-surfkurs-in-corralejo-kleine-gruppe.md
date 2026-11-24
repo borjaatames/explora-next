@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens 6 Schüler pro Lehrer."
 - pregunta: "Ist die Ausrüstung dabei?"
   respuesta: "Ja, Brett, Leash und Neopren sind inklusive."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Protest Surfcenter, Calle Drago, Local 1, La Capellanía (2 km von Corralejo, über dem Supermarkt neben der Schnellstraße).'
 categoria: agua
 keywords:
 - "surfkurs fuerteventura"

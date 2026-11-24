@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Yes, you choose the language when booking. If on a given day there are not enough people for one language, the guide may run the tour in two languages.
 - pregunta: What happens if I arrive late?
   respuesta: The tour does not wait. The guide leaves your ticket at the Café-Bar Polinario and you can do the visit on your own, keeping to your Nasrid Palaces time slot.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: Alhambra tickets are issued in each visitor''s name and cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Alhambra entrance (the exact point depends on the option). The voucher shows the exact point, next to the Alhambra entrances. From the centre, take bus C30 or C32 up from Plaza Isabel la Católica. Arrive 15 minutes early: the tour starts on time and entry to the Nasrid Palaces is at a fixed time.'
 opinionEditorial: 'A good way to secure the Alhambra with a guide in your language when standalone tickets have sold out. Three hours well spent. Remember that it cannot be cancelled: book once your trip is confirmed.'
 atraccionesRelacionadas:
 - alhambra

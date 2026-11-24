@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: La guida parla francese, inglese, spagnolo, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Fun Teide Quad, strada TF-51 km 10,75, La Escalona. Arriva 30 minuti prima; i ritardi non vengono rimborsati.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Casco e guanti.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Serve la patente fisica (non si accettano foto); permesso internazionale per i residenti fuori dall''Europa; Conducenti dai 18 anni; Massimo 150 kg per quad; 2 biglietti = 1 quad doppio.'
 categoria: aventura
 keywords:
 - quad teide tramonto

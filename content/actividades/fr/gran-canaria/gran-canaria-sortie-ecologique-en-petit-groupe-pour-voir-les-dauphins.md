@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Pasito Blanco, ponton Ribera, place R04. Rendez-vous à 9 h 15, départ à 9 h 30.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie de 3 heures d''observation des dauphins; Skipper et biologiste marin; Bateau hybride à moteurs électriques; Eau, boissons bio, bière WeWhale, fruits frais et fruits secs.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes sujettes au mal de mer; Gratuit pour les moins de 3 ans.'
 categoria: agua
 keywords:
 - sortie dauphins gran canaria

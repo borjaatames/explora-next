@@ -34,6 +34,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: "Free cancellation up to 24 hours before the start, with a full refund."
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Meeting point in Valencia (confirmed when booking).'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip transport from Valencia; Accompanying guide.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Tips.'
+- pregunta: 'How long does it last?'
+  respuesta: 'Full day (about 9 hours).'
 opinionEditorial: "This version adds the Waterfall of the Bride, legend included, to the pool swim, so it offers more than the basic trip. A good plan to combine nature, swimming and a bit of local history."
 categoria: excursionesDia
 keywords:

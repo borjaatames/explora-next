@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sí. El Oceanogràfic de Valencia tiene 45.000 animales de 500 especies en 10 ecosistemas diferenciados, incluyendo el mayor túnel submarino de Europa (35 m).
 - pregunta: ¿Vale la pena el 3 en 1 frente a entradas individuales?
   respuesta: Sí; el ahorro respecto a comprar las tres entradas por separado es significativo, especialmente para familias.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Ciudad de las Artes y las Ciencias, Av. del Professor López Piñero, 7, 46013 Valencia. Autobús EMT líneas 35, 40 o 95 desde el centro de Valencia. En bici o a pie desde el centro histórico son unos 20 minutos. Recoge o valida tu entrada en el Oceanogràfic (el primero que abre).'
 opinionEditorial: 'La Ciudad de las Artes y las Ciencias es la visita más espectacular de Valencia. El combo 3 en 1 es la opción más inteligente: el Oceanogràfic solo ya vale la excursión, y el Hemisfèric y el Museu redondean el día. Necesitas el día completo y energías; no intentes hacerlo a medias.'
 guiasRelacionadas:
 - ciudad-artes-ciencias-como-visitar

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Panino, snack, un calice di spumante, bevande senza limiti e attrezzatura da snorkeling."
 - pregunta: "Da dove parte la barca?"
   respuesta: "Da Puerto Colón, pontile 2, a Costa Adeje."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Un calice di spumante; Panino fresco e snack; Birra, vino e bibite senza limiti; Attrezzatura da snorkeling.'
 categoria: agua
 keywords:
 - "avvistamento balene tenerife veliero"

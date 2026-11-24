@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Sim. O golfinho-pintado-do-atlântico e o golfinho-comum avistam-se com frequência, sobretudo no verão. Em algumas saídas também se veem tartarugas marinhas.
 - pregunta: A excursão é adequada para crianças pequenas?
   respuesta: Sim, mas tenha em conta que vão estar num barco durante 2-3 horas. As crianças que tendem a enjoar devem tomar precauções.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto de Los Gigantes, Santiago del Teide, Tenerife Oeste. Los Gigantes fica no sudoeste da ilha. Apanhe a autoestrada TF-1 até Santiago del Teide ou o autocarro 473 a partir de Adeje. O barco sai do cais de Los Gigantes; chegue 15 minutos antes.'
 opinionEditorial: A combinação das falésias de Los Gigantes — as mais altas da Europa — com a observação de baleias-piloto tropicais no seu habitat natural faz desta excursão uma das mais memoráveis de toda a Espanha. Não é um espetáculo, mas um encontro com animais selvagens em liberdade.
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

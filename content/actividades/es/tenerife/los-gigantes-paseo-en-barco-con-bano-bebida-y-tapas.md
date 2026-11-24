@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'C. Poblado Marinero 20, puerto de Los Gigantes.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Acantilados de Los Gigantes; Paradas en bahías y calas; Bebida con o sin alcohol; Tapas; Equipo de esnórquel; Patrón y guía.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Opciones vegetarianas y veganas bajo petición; Hasta 4 niños por salida.'
 categoria: agua
 keywords:
 - paseo en barco los gigantes

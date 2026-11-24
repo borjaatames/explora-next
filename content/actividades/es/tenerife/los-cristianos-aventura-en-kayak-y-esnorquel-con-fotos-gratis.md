@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: El guía habla neerlandés, inglés, francés, alemán, italiano, polaco, ruso, español, portugués.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'C. el Coronel 8, Los Cristianos.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Kayak y remo; Chaleco salvavidas; Equipo de esnórquel; Fotos gratis.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Las salidas son sobre todo en inglés; otros idiomas según el personal disponible; Hay que saber nadar.'
 categoria: agua
 keywords:
 - kayak los cristianos

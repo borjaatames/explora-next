@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, c'est l'une des meilleures vues sur elle."
 - pregunta: "Qu'est-ce que Cloud Cities ?"
   respuesta: "Une installation dans laquelle on peut marcher, sous la coupole, selon l'option."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Mirador Torre Glòries, avinguda Diagonal 211 (métro Glòries, L1).'
 categoria: entradas
 guiasRelacionadas:
 - barcelone-en-2-jours

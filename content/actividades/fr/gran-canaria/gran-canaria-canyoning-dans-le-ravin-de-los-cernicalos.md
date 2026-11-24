@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Barranquismo Los Cernícalos, GC-130, Telde.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide; Équipement; Assurance; Photos; Collation.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux moins de 12 ans, aux plus de 70 ans, aux femmes enceintes et en cas de vertige; 110 kg maximum.'
 categoria: aventura
 keywords:
 - canyoning los cernicalos

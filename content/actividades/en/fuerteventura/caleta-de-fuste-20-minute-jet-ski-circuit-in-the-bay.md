@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Oceanarium Explorer, Barceló Club El Castillo, Caleta de Fuste.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Jet ski; Life jacket; Instructor.'
 categoria: agua
 keywords:
 - jet ski caleta de fuste

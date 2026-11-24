@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Auf dem Segelboot sind Sie höchstens zehn Personen, mit hausgemachtem Essen und Getränken inklusive und Zeit zum Baden. Katamarane nehmen viel mehr Passagiere mit.
 - pregunta: Kann ich seekrank werden?
   respuesta: Das Segelboot liegt ruhig im Wasser, aber wenn Sie leicht seekrank werden, nehmen Sie vor dem Einsteigen etwas dagegen.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Third Element Charters, Calle Poblado Marinero, 20, Los Gigantes (38683 Santiago del Teide). Das Büro befindet sich im Yachthafen von Los Gigantes. Neben dem Hafen gibt es einen öffentlichen Parkplatz. Seien Sie 15 Minuten vor der Abfahrt da.'
 opinionEditorial: 'Die am besten bewertete Walbeobachtungstour auf Teneriffa, und das merkt man: kleine Gruppe, freundliche Betreuung, Essen und Getränke inklusive und ein Bad unter den Klippen. Sie kostet mehr als ein Katamaran, aber das Erlebnis ist viel ruhiger.'
 guiasRelacionadas:
 - walbeobachtung-teneriffa

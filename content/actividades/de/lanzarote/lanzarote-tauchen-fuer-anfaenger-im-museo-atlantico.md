@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt in Playa Blanca; Schnellboottransfer zum Museo Atlántico; Zertifizierter Tauchlehrer; Komplette Tauchausrüstung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 12 Jahre; Nicht für Schwangere, Rollstuhlfahrer oder Menschen mit Atemproblemen, Vorerkrankungen oder Bluthochdruck; Danach mindestens 18 Stunden nicht fliegen.'
 categoria: agua
 keywords:
 - tauchen museo atlantico

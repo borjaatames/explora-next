@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Oui, si vous le souhaitez, le pilote vous laisse les commandes un moment."
 - pregunta: "Où a lieu la prise en charge ?"
   respuesta: "À Las Américas, Costa Adeje, Playa Paraíso et Callao Salvaje ; à Los Cristianos seulement pour le vol de 10 h."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking au-dessus de la plage de La Enramada, Costa Adeje ; vous pouvez vous y garer et attendre l''équipe.'
 categoria: aventura
 keywords:
 - "parapente thermique tenerife"

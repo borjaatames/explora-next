@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Entrambe vanno nello stesso habitat dei cetacei. La differenza principale è il punto di partenza. Questa parte da Costa Adeje, nel sud, ed è più comoda per le grandi zone turistiche del sud di Tenerife. Quella di Los Gigantes parte dalla costa ovest e aggiunge le scogliere come sfondo.
 - pregunta: C'è una sosta per il bagno?
   respuesta: La maggior parte delle partenze include una sosta per il bagno in acque atlantiche calme e limpide. Dipende dal meteo e dal mare; confermalo con l'operatore quando prenoti.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerto Colón o porto di Los Cristianos, Costa Adeje, Tenerife. Costa Adeje è la principale zona turistica del sud di Tenerife. Il porto di partenza esatto (Puerto Colón a Las Américas o Los Cristianos) è indicato nel voucher. Entrambi i porti sono ben collegati con gli autobus locali dalle zone turistiche del sud.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in catamarano di 3 ore; Avvistamento di balene e delfini; Sosta per il bagno (se le condizioni lo permettono).'
 opinionEditorial: È l'opzione del sud di Tenerife per l'avvistamento di cetacei. Comoda se alloggi a Los Cristianos o a Las Américas, con le stesse ottime probabilità di vedere globicefali del percorso da Los Gigantes.
 guiasRelacionadas:
 - avvistamento-balene-tenerife

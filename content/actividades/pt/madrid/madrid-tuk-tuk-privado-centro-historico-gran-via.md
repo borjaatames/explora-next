@@ -53,6 +53,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Segundo o fornecedor, a reserva não é reembolsável, por isso confirme bem a data e a hora antes de pagar.
+preguntasFrecuentes:
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Segundo o fornecedor, a reserva não é reembolsável, por isso confirme bem a data e a hora antes de pagar.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Plaza de Cánovas del Castillo (Fonte de Neptuno), em frente ao Museu Thyssen-Bornemisza, 28014 Madrid, Espanha.'
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Tour privado em tuk-tuk elétrico (até 4 pessoas por tuk-tuk); Audioguia com auscultadores em 11 idiomas; Água fresca, wifi e carregamento de telemóvel; Assento elevatório para crianças.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Chegue 10 minutos antes; o tuk-tuk espera na zona de estacionamento em frente ao Museu Thyssen; Idade mínima de 3 anos; Se forem mais de 4 pessoas, reserve um tuk-tuk por cada grupo de 4.'
 opinionEditorial: 'É a rota curta mais completa da Tuk Tuk Zero para uma primeira visita: cobre a maior parte da Madrid de postal em pouco mais de uma hora. Tenha em conta que as explicações são dadas por auscultadores e não por um guia ao vivo, e que a reserva não pode ser cancelada.'
 atraccionesRelacionadas:
 - tuk-tuk

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: O guia fala espanhol, inglês, português, italiano.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento de snorkel; Equipamento de caiaque; Fotos; Seguro; Cacifos.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'É preciso saber nadar; Não recomendado a grávidas, maiores de 70 anos ou acima de 110 kg.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Recolha e regresso ao hotel.'
 categoria: agua
 keywords:
 - caiaque tenerife scooter subaquatica

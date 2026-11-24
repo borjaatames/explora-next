@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Quadhub / Tenerife Quads, Paseo de la Libertad 2, Chío.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: '3-hour guided buggy tour on roads; Professional guide; Safety briefing; Thermal jacket and gloves; Panoramic viewpoint stops; Snack and drink at the last stop.'
 categoria: aventura
 keywords:
 - teide buggy tour sunset

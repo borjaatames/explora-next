@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Guide; Off-road trip.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up from selected places in the south of Fuerteventura; The operator sends the exact pick-up time before the tour.'
+- pregunta: 'How long does it last?'
+  respuesta: '4 hours.'
 categoria: excursionesDia
 keywords:
 - cofete jeep tour

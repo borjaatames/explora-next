@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: 700 € per la barca intera, che siate 2 o 7.
 - pregunta: Posso cancellare?
   respuesta: Gratis fino a 60 giorni prima; poi nessun rimborso.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Barca a vela privata con skipper; Carburante; Attrezzatura da snorkeling e 2 SUP.'
 opinionEditorial: Mezza giornata sulla propria barca a vela è il modo migliore di vedere le calette di Ibiza senza folla.
 atraccionesRelacionadas:
 - calas-barco

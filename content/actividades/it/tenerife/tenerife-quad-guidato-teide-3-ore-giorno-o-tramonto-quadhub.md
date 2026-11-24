@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Per quad, guidatore da solo o con passeggero."
 - pregunta: "Quale partenza scegliere?"
   respuesta: "Il tramonto, con abiti caldi."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Da QuadHub / Hub Excursions nel sud di Tenerife; seguite i cartelli all''arrivo. L''indirizzo esatto è nella prenotazione.'
 categoria: aventura
 guiasRelacionadas:
 - teide-biglietti-esauriti

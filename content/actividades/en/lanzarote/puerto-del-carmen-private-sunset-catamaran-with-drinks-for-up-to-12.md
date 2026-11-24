@@ -46,6 +46,14 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Catamaran trip; Light snacks; Soft drinks, water, sangria, beer and champagne; Hotel pick-up (only with the pick-up option).'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility; May be cancelled if the sea is rough.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up (option without pick-up); Tips; Other drinks.'
 categoria: agua
 keywords:
 - private catamaran lanzarote

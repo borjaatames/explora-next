@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Yes, entry to the Old Synagogue is included.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaça de Sant Jaume, Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private official guide; Old Synagogue ticket.'
 opinionEditorial: 'A very different Barcelona visit: the story of its medieval Jewish community, told calmly and with the synagogue included.'
 atraccionesRelacionadas:
 - gotico

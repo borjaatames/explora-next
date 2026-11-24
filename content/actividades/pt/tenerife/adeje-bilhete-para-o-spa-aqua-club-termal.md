@@ -46,6 +46,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Aqua Club Termal, Calle Galicia 6, Torviscas Alto (Adeje).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete de entrada; Acesso às 18 zonas do spa.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a grávidas; Menores de 13 anos: só nos dias úteis das 10:00 às 12:00 e aos fins de semana das 9:00 às 10:00.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Toalha.'
 categoria: entradas
 keywords:
 - aqua club termal

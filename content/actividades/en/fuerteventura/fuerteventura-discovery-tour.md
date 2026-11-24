@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Full-day tour; Air-conditioned coach; Professional guide; Lunch; Entry to Casa Santa María.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Departs from the north: pick-up in Corralejo and Caleta de Fuste; Not wheelchair accessible.'
+- pregunta: 'How long does it last?'
+  respuesta: '8 hours.'
 categoria: excursionesDia
 keywords:
 - fuerteventura island tour

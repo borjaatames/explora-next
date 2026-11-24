@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Man sollte sicher Rad fahren können; das E-Bike erleichtert die Steigungen."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Drei Minuten von der Plaza de España, Nordwestseite."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide in der gewählten Sprache; Leihrad mit Gangschaltung oder E-Bike (je nach Option); Helm (für Kinder bis 16 Pflicht); Lenkertasche für Wasserflasche.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-an-einem-tag

@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'No physical meeting point: activate the route from your phone using the code you receive after purchase, whenever and wherever you like in Girona.'
+- pregunta: 'What is included?'
+  respuesta: 'Access to the self-guided Girona route through the DareMapp app, with a reference code sent after purchase; Audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); Complete freedom to set your pace, pick your stops, and pause or resume whenever you like; Availability 24 hours a day, 365 days a year, with no expiry date; Access to food and family-activity recommendations inside the app.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Suitable for the whole family: minimum age 1 year; Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; the Call quarter has cobbled streets and the occasional step; Service animals are welcome.'
+- pregunta: 'What is not included?'
+  respuesta: 'A physical guide or companion (this is a fully self-guided, independent experience); Transport to the start of the route; Admission tickets to monuments or museums along the route (where applicable).'
 opinionEditorial: 'This is the shortest listing in the catalogue (1h30), and that makes sense: Girona''s old town, with the Call and the Rambla de la Llibertat, is easily covered in that time. A good fit if you''re passing through on the way to somewhere else, or if you pair the tour with free time for tapas. Don''t expect an exhaustive tour of the whole city.'
 atraccionesRelacionadas:
 - casco-antiguo

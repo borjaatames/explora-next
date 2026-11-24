@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, deux arrêts baignade et snorkeling."
 - pregunta: "Et par mauvais temps ?"
   respuesta: "La sortie est reportée ou remboursée."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Kiosque en bois sur le port de Port de Sóller, en face de l''hôtel Miramar.'
 categoria: agua
 guiasRelacionadas:
 - serra-tramuntana-soller

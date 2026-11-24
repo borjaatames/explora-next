@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Atividade de 3 horas; De 1 a 1,5 horas de snorkel; Instrutor certificado; Equipamento de snorkel; Água e fruta; Seguro.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'A hora de início depende do tempo e da maré e é confirmada depois da reserva.'
 categoria: agua
 keywords:
 - snorkel las canteras

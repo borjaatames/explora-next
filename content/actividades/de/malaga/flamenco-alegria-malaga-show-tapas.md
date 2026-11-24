@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Eine Stunde Show. Kommen Sie etwas früher, um in Ruhe zu bestellen.
 - pregunta: Alegría oder Teatro Flamenco Málaga?
   respuesta: Das Alegría ist ein intimeres Lokal, in dem während der Show gegessen und getrunken wird; das Teatro Flamenco Málaga in der Altstadt ist ein Theatersaal nur zum Ansehen der Show.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Alegría Flamenco y Gastronomía, Calle Vélez-Málaga, 6 (29016 Málaga). Das Lokal liegt an der Malagueta, etwa 10 Gehminuten vom Muelle Uno und von der Stierkampfarena. Bestellen Sie Essen und Getränke vor Beginn: Während der Show werden keine Bestellungen aufgenommen.'
 opinionEditorial: 'Guter Flamenco in Tablao-Atmosphäre, mit dem Vorteil, dass Sie dabei etwas trinken können, und zu einem vernünftigen Preis. Das Lokal liegt etwas außerhalb der Altstadt an der Malagueta, was es ideal für einen Abend am Hafen macht.'
 guiasRelacionadas:
 - malaga-in-zwei-tagen

@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: No. It includes 3 drinks (one welcome drink and two beers or sangrias). Anything else is paid on board.
 - pregunta: When is the sunset party?
   respuesta: The sunset departure runs on Tuesdays and Thursdays. On other days the party is in the daytime.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Rio Ibiza, Passeig de la Mar 8, Sant Antoni de Portmany. It starts with a 2-hour pre-party at Rio Ibiza on the Sant Antoni seafront. From there the group walks to the boat.'
+- pregunta: 'What is included?'
+  respuesta: '2-hour pre-party at Rio Ibiza; 3-hour boat party; 3 drinks: 1 welcome drink and 2 beers or sangrias; DJ, dancers, photographer and videographer.'
 opinionEditorial: 'For groups of friends partying in Sant Antoni: pre-party, boat and show in one ticket. Do not expect an open bar: it is 3 drinks.'
 guiasRelacionadas:
 - what-to-see-in-ibiza

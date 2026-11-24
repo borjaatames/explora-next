@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'No. Es no reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estación de Madrid-Puerta de Atocha; en Córdoba el guía te espera en la Mezquita.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tren de ida y vuelta Madrid-Córdoba; Guía privado en Córdoba durante 2 horas y media; Entrada a la Mezquita-Catedral; Asistencia de un agente para elegir horarios.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

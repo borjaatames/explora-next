@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Seulement si vous choisissez l'option tapas."
 - pregunta: "Où est le départ ?"
   respuesta: "Au magasin BiziTour, près de la Plaza Mayor."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Magasin de vélos BiziTour, près de la Plaza Mayor et du marché de San Miguel.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

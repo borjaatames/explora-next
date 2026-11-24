@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Oui, à votre hébergement dans le sud ; pour le vol de 17 h 30, un point de rendez-vous est convenu."
 - pregunta: "Les photos sont-elles comprises ?"
   respuesta: "Non, les vidéos et photos GoPro s'achètent sur place."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à l''heure convenue à votre hébergement dans le sud ; rendez-vous à la Playa de la Enramada, Costa Adeje.'
 categoria: aventura
 keywords:
 - "parapente biplace tenerife"

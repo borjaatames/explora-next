@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Porte 2 (Puerta 2)."
 - pregunta: "Peut-on annuler ?"
   respuesta: "Selon le prestataire, le billet n'est pas remboursable."
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Estadio Ramón Sánchez-Pizjuán, entrée par la porte 2 (Puerta 2), quartier de Nervión.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Entrée au musée et au stade; Application audioguide.'
 categoria: entradas
 guiasRelacionadas:
 - seville-avec-des-enfants

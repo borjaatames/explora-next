@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "De la plage de La Herradura, Paseo Andrés Segovia 55."
 - pregunta: "Le matériel de snorkeling est-il fourni ?"
   respuesta: "Oui, il est inclus avec le kayak et le gilet."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Kayak et gilet de sauvetage; Sac étanche et matériel de snorkeling; Photos de l''activité.'
 categoria: agua
 keywords:
 - "kayak maro cerro gordo"

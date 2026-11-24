@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt von Los Cristianos bis Playa Paraíso; Klimatisierter Van mit 9 Sitzen; Helm und Gurtzeug; Tandemflug (15–20 Minuten); Lehrer; 5 GoPro-Fotos (vor dem Flug danach fragen).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Flüge hängen vom Wetter ab, das auch den Startplatz bestimmt; Gruppen über 4 Personen fliegen in zwei Durchgängen; Nicht für Kinder unter 4, in der Schwangerschaft oder über 100 kg.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Alle GoPro-Fotos und -Videos (gegen Aufpreis).'
 categoria: aventura
 keywords:
 - gleitschirm taucho

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sim, é uma das melhores vistas."
 - pregunta: "O que é Cloud Cities?"
   respuesta: "Uma instalação percorrível sob a cúpula, conforme a opção."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Mirador Torre Glòries, avinguda Diagonal 211 (metro Glòries, L1).'
 categoria: entradas
 guiasRelacionadas:
 - barcelona-em-2-dias

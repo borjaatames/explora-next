@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle Espigón del Benchijigua 11A, port of Los Cristianos.'
+- pregunta: 'What is included?'
+  respuesta: '10-minute parasailing flight; Drinks; Experienced skipper; Boat ride; Insurance; Safety equipment.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people afraid of heights or prone to seasickness.'
 categoria: agua
 keywords:
 - parasailing los cristianos

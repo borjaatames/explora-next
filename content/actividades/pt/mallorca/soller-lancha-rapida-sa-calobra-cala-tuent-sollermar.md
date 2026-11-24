@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sim, há duas paragens para banho e snorkel."
 - pregunta: "E se o tempo estiver mau?"
   respuesta: "O passeio é adiado ou reembolsado."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Quiosque de madeira no porto de Port de Sóller, em frente ao Hotel Miramar.'
 categoria: agua
 guiasRelacionadas:
 - serra-de-tramuntana-e-soller

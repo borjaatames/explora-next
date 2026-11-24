@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tavola e muta; Istruttore dedicato al tuo livello; Massimo 5 allievi per istruttore; Foto e video quando le condizioni lo permettono.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Indica il tuo livello alla prenotazione; Non adatto a bambini sotto i 4 anni o donne in gravidanza; Porta asciugamano, crema solare e vestiti asciutti.'
+- pregunta: 'Quanto dura?'
+  respuesta: '2 ore.'
 categoria: agua
 keywords:
 - lezioni di surf famara

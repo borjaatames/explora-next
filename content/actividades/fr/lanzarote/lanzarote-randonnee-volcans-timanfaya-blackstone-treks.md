@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Oui, à Costa Teguise, Arrecife, Puerto del Carmen et Puerto Calero."
 - pregunta: "Combien de personnes ?"
   respuesta: "10 au maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking au bord de la route LZ-56 vers Tinguatón (Tinajo), avec de petits palmiers et une table en bois ; ou prise en charge dans les zones indiquées.'
 categoria: aventura
 guiasRelacionadas:
 - visiter-timanfaya

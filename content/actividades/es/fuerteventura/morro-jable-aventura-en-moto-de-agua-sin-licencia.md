@@ -48,6 +48,10 @@ preguntasFrecuentes:
   respuesta: No, es por moto para dos personas. Si queréis una moto cada uno, reservad 3 participantes.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Combustible de la moto de agua; Guía.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El precio es para 2 personas compartiendo 1 moto; Sujeto al estado del mar; La caseta del operador está en la arena, con bandera rosa.'
 categoria: agua
 keywords:
 - moto de agua morro jable

@@ -50,6 +50,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Café del Puerto, Puerto Calero, 20 minutes avant le départ.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Kayak; Paddle; Équipement de snorkeling; Déjeuner; Boissons : bière, vin, cava, sodas et eau; Carburant.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Non accessible en fauteuil roulant.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '4 heures.'
 categoria: agua
 keywords:
 - catamaran papagayo

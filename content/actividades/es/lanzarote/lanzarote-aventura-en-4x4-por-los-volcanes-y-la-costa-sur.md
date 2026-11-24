@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, neerlandés, español, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso; Ruta en 4x4; Pueblo de Yaiza; Playa de Papagayo; El Golfo y el Charco de los Clicos; Centro de visitantes de Timanfaya.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Tentempiés; Bebidas; Comidas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '6 horas.'
 categoria: excursionesDia
 keywords:
 - excursion 4x4 lanzarote

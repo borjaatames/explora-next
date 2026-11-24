@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Français, espagnol, anglais et italien.
 - pregunta: Entre-t-on dans la cathédrale ou l'Alcázar ?
   respuesta: Non, on les voit de l'extérieur. L'équipe vous aide à réserver les entrées pour y aller ensuite.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de los Refinadores, 7 (Séville). Dans le quartier de Santa Cruz, près de la statue de Don Juan Tenorio. La visite se termine au même endroit.'
 opinionEditorial: Une visite souple et bon marché pour se repérer à Séville dès le premier jour, en français et éventuellement en privé.
 atraccionesRelacionadas:
 - tours-a-pie

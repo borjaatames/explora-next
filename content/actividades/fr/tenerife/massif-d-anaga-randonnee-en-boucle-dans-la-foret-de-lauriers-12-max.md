@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, allemand, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Los Batanes, Anaga (Santa Cruz de Tenerife).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Assurance accident; Trousse de premiers secours; Bâtons de marche et protection pluie (en nombre limité).'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Un peu d''expérience de la randonnée est nécessaire; Déconseillé aux moins de 8 ans et en cas de problèmes cardiaques ou respiratoires.'
 categoria: aventura
 keywords:
 - randonnée anaga en français

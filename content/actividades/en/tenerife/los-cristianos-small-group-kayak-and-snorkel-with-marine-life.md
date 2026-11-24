@@ -56,6 +56,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'SeaThru Kayaks Tenerife, Calle Juan XXIII 27, Los Cristianos.'
+- pregunta: 'What is included?'
+  respuesta: 'Double sit-on-top kayaks; Life jackets and paddles; Snorkel gear (mask and snorkel); Wetsuits (optional); Kayak guide; Office with changing area, safe storage and toilet.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Children under 11 share a kayak with a parent and do not paddle; Must be able to swim; maximum 100 kg; Not suitable for pregnant women or people prone to seasickness.'
 categoria: agua
 keywords:
 - kayak los cristianos

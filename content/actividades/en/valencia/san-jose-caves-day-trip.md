@@ -39,6 +39,12 @@ preguntasFrecuentes:
   respuesta: In La Vall d'Uixó, in the province of Castellón, just under an hour from Valencia. The tour includes transport, so you don't need a car.
 - pregunta: Is it suitable for children or people with reduced mobility?
   respuesta: For children, yes —they usually love the boat ride. The cave has sections with steps and low ceilings, so for reduced mobility it's best to check with the operator before booking.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance for a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup point in central Valencia; the exact location is confirmed on booking.'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip transport from Valencia; Entry to the San José Caves and boat ride; Accompanying guide.'
 opinionEditorial: 'It''s the best half-day trip from Valencia: a navigable underground river, the longest in Europe, less than an hour from the city and with transport included for 69 €. It''s not a must-see like the City of Arts, but if you''re back in Valencia or travelling with kids, the boat ride through the cave is a different and rewarding plan. With 4.6 out of 5 and hundreds of reviews, it delivers.'
 categoria: excursionesDia
 keywords:

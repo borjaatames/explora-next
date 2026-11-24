@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, elle est en supplément."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge au port de croisière d''Arrecife ; le lieu exact figure sur la confirmation.'
 categoria: excursionesDia
 keywords:
 - "excursion timanfaya el golfo"

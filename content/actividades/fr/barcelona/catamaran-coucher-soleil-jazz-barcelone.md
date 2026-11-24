@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Du bout de la Rambla, à côté du pont du Maremagnum."
 - pregunta: "Combien de temps dure la balade ?"
   respuesta: "Environ une heure et demie."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Balade en catamaran au coucher du soleil; Jazz en direct.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

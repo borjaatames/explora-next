@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Esta recorre toda la gama de la bodega y la visita es más larga; la de 5 se centra en los vinos premium.
 - pregunta: ¿Se puede cancelar?
   respuesta: Las condiciones se muestran en el calendario antes de pagar.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Bodega Es Fangar, carrer Son Colom 23, Felanitx (Mallorca).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada a la bodega; Cata de 6 vinos; Tabla de embutidos y quesos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Precio por persona; Bodega ecológica en Felanitx, en el centro de Mallorca: hace falta coche; Visita en español, inglés o italiano.'
 opinionEditorial: 'La opción para quien quiere la imagen completa de una bodega mallorquina: más tiempo en la finca y la gama entera en la copa.'
 atraccionesRelacionadas:
 - gastronomia

@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: Non, par buggy pour 4 personnes maximum.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'C. La Ballena 10, Corralejo.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Location de buggy automatique; Guide professionnel; Briefing de sécurité.'
 categoria: aventura
 keywords:
 - buggy corralejo

@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu alojamiento de Madrid; te contactan 24 horas antes para concretar la hora.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso a Madrid; Visita a 2 bodegas con entrada; 2 catas de vino; 2 tapas con vino; Anfitrión durante todo el día.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

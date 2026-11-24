@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: En español, inglés y francés.
 - pregunta: ¿Hay límite de altura o peso?
   respuesta: 'Sí: mínimo 1,50 m de altura y máximo 120 kg.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de los Cuchilleros, 12 (Granada). Junto al bar La Trastienda, sube por la calle de la derecha. Comprueba el punto exacto en tu confirmación.'
 opinionEditorial: La forma más divertida de recorrer el Albaicín y el Sacromonte, que a pie se hacen duros por las cuestas. Muy bien valorada.
 atraccionesRelacionadas:
 - albaicin-sacromonte

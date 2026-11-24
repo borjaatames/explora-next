@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: En haute saison, l'accès en voiture particulière à Formentor est restreint et le parking de la plage est vite complet. Le minibus et le bateau règlent la question.
 - pregunta: Va-t-on jusqu'au phare ?
   respuesta: "Non : l'excursion s'arrête au belvédère d'Es Colomer et à la plage de Formentor, puis revient en bateau. Le phare du cap n'est pas inclus."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 48 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge dans le nord de Majorque (selon l''option) ; le bateau termine au port de Pollença. Le point de prise en charge dépend de l''option choisie lors de la réservation (plusieurs secteurs du nord de Majorque). Le minibus va jusqu''au belvédère d''Es Colomer et à la plage de Formentor, et vous rentrez en bateau jusqu''au port de Pollença.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Minibus panoramique aller-retour; Guide local; Arrêt au belvédère d''Es Colomer; Bateau de la plage de Formentor au port de Pollença; Assurance voyage.'
 opinionEditorial: La façon la plus simple de voir Formentor en haute saison, quand y aller en voiture devient un problème. La traversée de la baie en bateau est le meilleur moment.
 guiasRelacionadas:
 - que-voir-a-majorque

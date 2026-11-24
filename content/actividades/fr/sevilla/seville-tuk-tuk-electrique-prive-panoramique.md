@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Au parking SABA de la calle Marqués de Paradas, niveau -1."
 - pregunta: "Combien de temps ?"
   respuesta: "D'une à deux heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Chauffeur-guide local; Véhicule 100 % électrique; Tuk-tuk privé; Sièges enfant (plus de 2 ans); Guide numérique de Séville par QR.'
 categoria: toursCiudad
 guiasRelacionadas:
 - tuk-tuk-caleche-ou-bus-touristique-seville

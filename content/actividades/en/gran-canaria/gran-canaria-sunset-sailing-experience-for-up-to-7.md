@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks German, English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Professional skipper; 2.5-hour sail; Drinks and light snacks on board; Safety equipment; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 6 or wheelchair users.'
+- pregunta: 'What is not included?'
+  respuesta: 'Tips (10–20% recommended); Alcoholic drinks (for sale on board).'
 categoria: agua
 keywords:
 - sunset sailing gran canaria

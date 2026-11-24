@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "In Málaga oder Rincón de la Victoria, je nach Option."
 - pregunta: "Was muss ich mitbringen?"
   respuesta: "Ausweis, geschlossene Schuhe und Sonnenschutz."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach gewählter Option in Málaga oder Rincón de la Victoria; der genaue Ort steht in der Buchung.'
 categoria: excursionesDia
 guiasRelacionadas:
 - caminito-del-rey-tickets-ausverkauft

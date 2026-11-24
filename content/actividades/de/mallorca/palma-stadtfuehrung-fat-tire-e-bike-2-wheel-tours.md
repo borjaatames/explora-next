@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Eine Minute von der Kathedrale."
 - pregunta: "Brauche ich Erfahrung?"
   respuesta: "Nein, die E-Bikes sind leicht zu fahren."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fat-Tire-E-Bike; Guide; Helm.'
 categoria: toursCiudad
 guiasRelacionadas:
 - was-sehen-auf-mallorca

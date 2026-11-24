@@ -46,6 +46,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Aqua Club Termal, Calle Galicia 6, Torviscas Alto (Adeje).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintrittskarte; Zugang zu den 18 Spa-Bereichen.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Schwangere; Kinder unter 13: nur werktags 10–12 Uhr und am Wochenende 9–10 Uhr.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Handtuch.'
 categoria: entradas
 keywords:
 - aqua club termal

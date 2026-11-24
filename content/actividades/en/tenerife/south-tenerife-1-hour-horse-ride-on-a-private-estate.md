@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
+- pregunta: 'What is included?'
+  respuesta: 'Ride guided by professional instructors; All equipment; Pony rides in a closed arena for children under 7.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for pregnant women; Maximum 10 people per ride.'
 categoria: aventura
 keywords:
 - horse riding south tenerife

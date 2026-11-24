@@ -47,6 +47,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 4
 politicaCancelacion: Cancellazione gratuita fino a 24 ore prima dell'inizio, con rimborso completo.
+preguntasFrecuentes:
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerta del Sol, accanto alla statua dell''Orso e del Corbezzolo (Madrid), oppure prelievo in hotel.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida locale privata; Prelievo in hotel.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prezzo a persona, con un minimo di 2 persone per prenotazione; Dopo la prenotazione riceverai i contatti della guida; indica il nome del tuo hotel se vuoi essere prelevato lì; Tour a piedi; indossa scarpe comode.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Biglietti per i monumenti (non necessari per il percorso standard); Trasporto (tutto il tour si svolge a piedi).'
 opinionEditorial: Un free tour segue un percorso simile per molto meno; qui paghi una guida solo per il tuo gruppo, che parte dal tuo hotel e ha tempo per tutte le tue domande. Conviene soprattutto a famiglie o gruppi. Minimo 2 persone per prenotazione.
 atraccionesRelacionadas:
 - tours-a-pie

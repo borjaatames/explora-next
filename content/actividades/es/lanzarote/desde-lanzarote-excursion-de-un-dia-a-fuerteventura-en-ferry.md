@@ -46,6 +46,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado al ferry y regreso al punto de recogida; Billete de ferry de ida y vuelta; 5 horas de tiempo libre en Fuerteventura.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El tiempo en autocar depende de dónde esté tu hotel; Los taxis no están incluidos; No apto para personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo; Bebidas; Guía; Autobús o taxi en Corralejo.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '9 horas.'
 categoria: excursionesDia
 keywords:
 - excursion fuerteventura desde lanzarote

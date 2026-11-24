@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: No. The sailboat anchors in the marine reserve for swimming and snorkelling. To walk around the village, take the ferry from Santa Pola or the boat from Alicante.
 - pregunta: Do I need experience?
   respuesta: No. You only need to swim if you go in the water. Paddleboards and snorkel goggles are included.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Marina Miramar, Santa Pola marina (North Pier). Departure from the Marina Miramar marina in Santa Pola, North Pier. Arrive 15 minutes early; the skipper meets you at the sailboat berth.'
+- pregunta: 'What is included?'
+  respuesta: 'Sailboat with skipper; Fuel; Food tasting and one drink; Stand-up paddleboards; Snorkel goggles.'
 opinionEditorial: 'The most relaxed way to enjoy Tabarca: by sailboat, with few people, swimming where the ferry does not stop. Coming back at sunset is what makes it special.'
 guiasRelacionadas:
 - tabarca-island-how-to-visit

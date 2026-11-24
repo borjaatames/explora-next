@@ -50,6 +50,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Café del Puerto, Puerto Calero, 20 Minuten vor Abfahrt.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Kajak; Paddleboard; Schnorchelausrüstung; Mittagessen; Getränke: Bier, Wein, Cava, Softdrinks und Wasser; Treibstoff.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht rollstuhlgerecht.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '4 Stunden.'
 categoria: agua
 keywords:
 - katamaran papagayo

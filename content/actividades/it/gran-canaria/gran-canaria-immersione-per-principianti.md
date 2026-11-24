@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno nelle località del sud; Attrezzatura subacquea; Assicurazione infortuni subacquei.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prima dell''immersione serve un questionario medico; Con asma, epilessia, diabete, ipertensione o cardiopatie serve un nulla osta medico; Età minima 10 anni.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Noleggio GoPro (20 € a videocamera).'
 categoria: agua
 keywords:
 - battesimo sub gran canaria

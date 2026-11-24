@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Varía por operador pero suele incluir sándwiches, fruta, snacks y bebidas (agua, refrescos, alcohol moderado). Consulta los detalles exactos al confirmar tu reserva.
 - pregunta: ¿Por qué es el más caro de los tres tours?
   respuesta: Porque dura el doble (4 horas vs 2) e incluye comida y bebida ilimitada a bordo, además del equipo de snorkel. El precio por hora de actividad es muy competitivo.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto en el sur de Tenerife (confirmado en el voucher). El punto exacto de salida se confirma en el voucher. Generalmente en la zona de Los Cristianos o Costa Adeje. Llega 20-30 minutos antes de la salida.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El buffet distingue este tour del resto; es una buena opción si salís a primera hora de la mañana; Al ser 4 horas tenéis más tiempo en el agua y más tiempo de observación; Valorado con 4,8/5: la mejor puntuación de los tours de ballenas en Tenerife disponibles en GYG.'
 opinionEditorial: El tour más completo y mejor valorado (4,8★) de los tres disponibles en Tenerife. Si buscas una experiencia de medio día sin preocuparte de llevar comida ni bebida, este es el que te lleva el carro.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife

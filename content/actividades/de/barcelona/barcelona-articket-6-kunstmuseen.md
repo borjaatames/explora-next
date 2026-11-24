@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: Der Pass gilt 12 Monate ab Aktivierung, ein Eintritt pro Museum.
 - pregunta: Welches Museum zuerst?
   respuesta: 'Wie es dir passt: Du kannst ihn in jedem der sechs aktivieren.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Im ersten Museum, das du besuchst (Vorrangeingang). Geh direkt zum Vorrangeingang des Museums deiner Wahl und tausch den Gutschein gegen den Articket-Pass. Museu Picasso: Carrer de Montcada 15-23.'
 opinionEditorial: Wenn du Picasso und Miró sehen willst, ist Articket der günstigste Weg, und die romanische Kunst des MNAC gibt es dazu. Er lohnt sich nur, wenn du mindestens drei der sechs besuchst.
 guiasRelacionadas:
 - barcelona-in-3-tagen

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Oui, seul votre groupe est à bord."
 - pregunta: "Le chauffeur parle-t-il français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Avenida del Compás, à l''entrée de Mijas Pueblo.'
 categoria: toursCiudad
 keywords:
 - "tuk tuk mijas"

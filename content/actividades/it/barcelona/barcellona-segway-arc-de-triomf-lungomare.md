@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Passeig de Lluís Companys 10, vicino all'Arc de Triomf."
 - pregunta: "Serve esperienza?"
   respuesta: "No, c'è una lezione prima."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Passeig de Lluís Companys 10, accanto all''Arc de Triomf. Arrivate 10-15 minuti prima per il check-in e la lezione.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcellona-in-1-giorno

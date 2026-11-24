@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "In Playa Blanca, Puerto del Carmen, Costa Teguise, Puerto Calero und Arrecife."
 - pregunta: "Ist die Führung auf Deutsch?"
   respuesta: "Ja, parallel zu anderen Sprachen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Sammelpunkten in den Ferienorten; Ort und Zeit stehen in der Bestätigung.'
 categoria: excursionesDia
 keywords:
 - "lanzarote inselrundfahrt"

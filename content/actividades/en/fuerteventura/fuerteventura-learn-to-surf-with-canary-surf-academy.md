@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up from your hotel or apartment (check availability); Wetsuit, board and leash; Surf lesson with a qualified instructor; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 6; Not suitable for pregnant women; Must be able to swim.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Pick-up in Costa Calma, Morro Jable and the south (you can meet at the beach).'
 categoria: agua
 keywords:
 - canary surf academy

@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Indiquez taille, poids et pointure à la réservation.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Équipement; Moniteurs de plongée PADI; Assurance.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes; Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
 categoria: agua
 keywords:
 - baptême de plongée puerto rico gran canaria

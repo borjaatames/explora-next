@@ -46,6 +46,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 12
 politicaCancelacion: Cancellazione gratuita fino a 24 ore prima dell'inizio, con rimborso completo.
+preguntasFrecuentes:
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Centro di Madrid (la guida conferma il punto esatto dopo la prenotazione) oppure prelievo in hotel.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida privata; 2 bevande e 2 tapas a persona (nella prima e nell''ultima taverna).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prezzo a persona, con un minimo di 2 persone per prenotazione; Il percorso può variare e non sempre si entra in tutti i locali; Età minima 12 anni.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Trasporto.'
 opinionEditorial: 'È più una passeggiata storica che un food tour: si mangia poco (2 tapas) e si ascolta molto. Se cerchi una cena, è più adatto un tour di tapas con cena; se ti incuriosisce la storia di Madrid attraverso i suoi bar, questo non ha eguali. Minimo 2 persone per prenotazione.'
 atraccionesRelacionadas:
 - tapas-madrid

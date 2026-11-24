@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: No. Once exchanged, the bracelet has no expiry date, so you can spread the monuments over two days if you stay overnight in Toledo.
 - pregunta: Does it include the Cathedral?
   respuesta: 'No. The Cathedral has its own ticket (about €12) and is worth it on its own. A sensible one-day plan: Cathedral in the morning, bracelet in the afternoon.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Bracelet exchange at any of the 7 monuments, Toledo. Show your mobile voucher at the ticket desk of any of the 7 monuments and you will receive the bracelet. The easy start is San Ildefonso (Jesuits): climb its tower, then continue to Santo Tomé and San Juan de los Reyes.'
 opinionEditorial: Toledo's best-kept trick. Seven monuments, including El Greco's masterpiece and the city's most beautiful cloister, for the price of a set lunch. If you are visiting independently from Madrid, buy it before you leave.
 guiasRelacionadas:
 - toledo-day-trip-from-madrid

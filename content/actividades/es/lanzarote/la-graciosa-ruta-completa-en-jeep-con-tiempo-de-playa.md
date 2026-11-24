@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Alquiler de bicis y tienda de recuerdos Gracioserito, C. García Escámez 18, Caleta de Sebo.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta en jeep por el norte y el sur de La Graciosa; Visita a las playas de Las Conchas y La Francesa; Playa de Montaña Amarilla; Tiempo extra de playa si lo quieres.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Primero tienes que llegar a La Graciosa en ferry; Lleva protector solar, gorra y agua; No apto para embarazadas ni con problemas de espalda.'
 categoria: excursionesDia
 keywords:
 - la graciosa en jeep

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: 'Five gourmet tapas, one per restaurant, with five drinks: about a dinner.'
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Fervor restaurant, Palma old town (first stop). The day before you receive by WhatsApp and email a PDF with the route and a QR code to show at each venue. Stops: Fervor, Casa S''Oli, Bodega Mayor, Bocalto and Maura.'
+- pregunta: 'What is included?'
+  respuesta: '5 gourmet tapas (one per stop); 5 drinks; WhatsApp support during the route.'
 opinionEditorial: For those who want a tapas dinner in Palma without a group or a schedule. The five venues are well chosen and the price per tapa and drink is fair.
 guiasRelacionadas:
 - eating-in-mallorca

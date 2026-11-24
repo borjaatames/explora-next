@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de Zocodover, o el guía te recoge en la estación de tren de Toledo.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía oficial privado; Entrada a la sinagoga de Santa María la Blanca; Entrada al Monasterio de San Juan de los Reyes; Entrada a la iglesia de Santo Tomé; Acceso sin colas a la catedral (entrada aparte); Asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

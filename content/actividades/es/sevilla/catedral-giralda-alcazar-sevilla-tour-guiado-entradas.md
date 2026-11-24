@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Sí, la entrada a la Catedral incluye la subida a la Giralda, que se hace por 35 rampas, sin escaleras.
 - pregunta: ¿Se puede cancelar?
   respuesta: Solo con reembolso parcial (45 %) si cancelas con dos días de antelación, porque las entradas son nominativas. Reserva cuando tengas la fecha clara.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Centro de Sevilla, junto a la Catedral (el punto exacto depende de la opción). El punto de encuentro aparece en el voucher según el horario y el idioma que elijas; está a pocos minutos a pie de la Catedral. Lleva el pasaporte o DNI: las entradas son nominativas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada; Entradas sin colas a la Catedral de Sevilla y subida a la Giralda; Entradas sin colas al Real Alcázar y al Patio de las Doncellas.'
 opinionEditorial: 'Resuelve en una mañana las dos visitas imprescindibles de Sevilla, con las entradas incluidas y sin colas. Su punto fuerte es la oferta de idiomas, sobre todo el alemán. La pega es la cancelación: solo devuelven una parte.'
 atraccionesRelacionadas:
 - real-alcazar

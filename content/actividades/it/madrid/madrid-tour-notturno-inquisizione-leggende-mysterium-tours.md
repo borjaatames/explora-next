@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "In Plaza de la Provincia, alla fontana di Orfeo."
 - pregunta: "È adatto ai bambini?"
   respuesta: "I racconti sono macabri: meglio per ragazzi più grandi e adulti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Accanto alla fontanella di Orfeo in Plaza de la Provincia, a circa 100 metri da Plaza Mayor. Finisce in calle de Torija, vicino alla Gran Vía.'
 categoria: nocturno
 guiasRelacionadas:
 - madrid-in-2-giorni

@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Es un recorrido con acompañante y bastante tiempo libre en cada parada.
 - pregunta: ¿Recogen en el hotel?
   respuesta: No, se sale frente al Ayuntamiento de Málaga.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Frente al Ayuntamiento de Málaga, Av. de Cervantes 4. En el paseo del Parque, junto al Ayuntamiento. Llega 10 minutos antes.'
 opinionEditorial: La forma más barata de ver lo mejor de la Costa del Sol sin coche. Mucho autobús y poca explicación, pero Mijas y el casco de Marbella compensan.
 guiasRelacionadas:
 - escapadas-desde-malaga

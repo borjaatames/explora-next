@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Non, ils se visitent de l'extérieur."
 - pregunta: "Le tour existe-t-il en français ?"
   respuesta: "Oui, la langue se choisit à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'GreenTours Palma, Travessa d''en Ballester 8, centre de Palma (boutique sur la gauche).'
 categoria: toursCiudad
 keywords:
 - "vélo électrique palma"

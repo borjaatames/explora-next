@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Direct return bus from your resort to the market; Guide assistant during transfers; Free time in Puerto de Mogán.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not recommended for people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Pick-up outside the listed areas (Taurito not included).'
 categoria: excursionesDia
 keywords:
 - mogan market

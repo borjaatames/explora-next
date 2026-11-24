@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Não, este bilhete é para os pátios e o jardim.
 - pregunta: Pode-se cancelar?
   respuesta: Sim, gratuitamente até 24 horas antes.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Palacio de Viana, plaza de Don Gome 2, Córdova. No bairro de Santa Marina, a cerca de 20 minutos a pé da Mesquita.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Entrada nos pátios e no jardim.'
 opinionEditorial: 'Doze pátios por 9 €: se não vai a Córdova em maio, é a melhor maneira de perceber por que os pátios são Património Imaterial.'
 categoria: entradas
 keywords:

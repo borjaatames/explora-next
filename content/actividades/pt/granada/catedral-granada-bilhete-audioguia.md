@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'É outro mundo: a Alhambra é nasrida e a Catedral é a resposta cristã, começada 30 anos depois da conquista. Juntas contam a história da cidade. Uma hora bem investida.'
 - pregunta: Porque é que a catedral está tão encaixada?
   respuesta: Foi construída sobre a mesquita maior, no centro da medina, e a envolvente nunca foi desimpedida. Por isso não há uma grande praça à frente e a fachada vê-se melhor a partir da Plaza de las Pasiegas.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável: depois de reservada não pode ser cancelada nem alterada.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Catedral de Granada, Calle Gran Vía de Colón 5 (entrada pela Plaza de las Pasiegas). A entrada de visitantes fica na Plaza de las Pasiegas, na lateral da catedral virada para a Gran Vía. Apresente o voucher na bilheteira e levante o audioguia.'
 opinionEditorial: 'A Catedral de Granada vive à sombra da Alhambra e não o merece: é a obra-prima do Renascimento andaluz e a capela-mor é das mais luminosas de Espanha. Dez euros com audioguia; combine-a com a Capilla Real.'
 guiasRelacionadas:
 - alhambra-como-visitar

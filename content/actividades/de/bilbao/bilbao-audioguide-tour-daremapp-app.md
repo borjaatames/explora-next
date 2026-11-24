@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn; bei späterer Stornierung werden 100 % berechnet.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn; bei späterer Stornierung werden 100 % berechnet.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kein Treffpunkt: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst, wann und wo du willst in Bilbao.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Zugang zur Bilbao-Route auf eigene Faust über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; Verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; Tipps zu Essen und Familienaktivitäten in der App.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Geeignet für Rollstühle und Kinderwagen, da du die Route in deinem Tempo gehst; einige Abschnitte im Casco Viejo haben leichte Steigungen; Assistenzhunde sind willkommen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Ein Guide oder eine Begleitperson vor Ort (das ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; Eintrittstickets für Monumente oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: Gut geeignet, um das klassische Bilbao (Casco Viejo, Paläste, Kathedrale) mit dem Guggenheim zu verbinden, ohne von den Zeiten geführter Touren abhängig zu sein. Mit über 15 Sehenswürdigkeiten ist es eine mittellange Route, länger als Girona, aber kürzer als Barcelona. Ideal für alle, die lieber in ihrem eigenen Tempo unterwegs sind und sich Zeit für Fotos nehmen.
 atraccionesRelacionadas:
 - casco-viejo

@@ -78,6 +78,10 @@ preguntasFrecuentes:
   respuesta: They are common along this coast, but they are wild animals and sightings are never guaranteed.
 - pregunta: Can I request a guide in my language?
   respuesta: There are guides who speak French, Italian and Portuguese, but they are assigned according to availability. Message the operator on WhatsApp before the day.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Mana Kayak, Calle del Valle Menéndez, 22, local 1, Los Cristianos (38650 Arona). In the centre of Los Cristianos, a 3-minute walk from the beach. If you want to make sure you get a guide in a particular language, message them on WhatsApp beforehand.'
 opinionEditorial: 'One of the highest-rated kayak trips in the south of Tenerife: the stretch to the Palm-Mar cave is beautiful and the equipment is complete. It is longer and more demanding than other kayak trips, so it is better suited to people who are fit.'
 guiasRelacionadas:
 - what-to-see-in-tenerife

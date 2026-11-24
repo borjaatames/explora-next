@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Sì, c'è un menù di piatti tradizionali spagnoli a prezzi accessibili, che si paga a parte.
 - pregunta: Quale bevanda è inclusa?
   respuesta: Una consumazione a scelta tra sangria, birra, vino o bibita.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Sala Temple, Cuesta de San Vicente, 40 (28008 Madrid). A 5 minuti a piedi da Plaza de España e dalla metro Príncipe Pío (linee 6, 10 e R). Arriva qualche minuto prima per scegliere il tavolo e ordinare la bevanda.'
 opinionEditorial: 'Il flamenco più economico e ravvicinato del centro di Madrid con buone recensioni. Ideale se cerchi l''atmosfera autentica di un piccolo tablao invece di un grande spettacolo per turisti.'
 atraccionesRelacionadas:
 - flamenco

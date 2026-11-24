@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Visite de 2 heures du marché de Teguise; Ferry aller-retour vers La Graciosa; Croisière touristique; Visite guidée de l''église de La Graciosa; Déjeuner et boissons (paella).'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Options végétariennes, véganes et sans fruits de mer sur demande; La durée totale dépend des transferts depuis l''hôtel; Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '7 heures.'
 categoria: excursionesDia
 keywords:
 - marché de teguise excursion

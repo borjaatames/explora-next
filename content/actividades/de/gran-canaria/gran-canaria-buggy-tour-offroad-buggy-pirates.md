@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "In Bahía Feliz, Maspalomas, Playa del Inglés, San Agustín, Sonnenland und Meloneras."
 - pregunta: "Wie lange dauert die Tour?"
   respuesta: "Etwa drei Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung in Bahía Feliz, Maspalomas, Playa del Inglés, San Agustín, Sonnenland und Meloneras; keine Abholung in Las Palmas.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-gran-canaria

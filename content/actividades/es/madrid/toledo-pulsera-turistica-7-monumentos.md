@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: No. La pulsera no tiene fecha de caducidad una vez canjeada, así que puedes repartir los monumentos en dos días si duermes en Toledo.
 - pregunta: ¿Incluye la Catedral?
   respuesta: 'No. La Catedral tiene su propia entrada (unos 12 €) y merece la pena por separado. El plan razonable en un día: Catedral por la mañana y la pulsera por la tarde.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Canje de la pulsera en cualquiera de los 7 monumentos, Toledo. Presenta el voucher del móvil en la taquilla de cualquiera de los 7 monumentos y te dan la pulsera. Lo cómodo es empezar por San Ildefonso (Jesuitas), subir a su torre y seguir hacia Santo Tomé y San Juan de los Reyes.'
 opinionEditorial: Es el truco de Toledo que casi nadie conoce. Siete monumentos, entre ellos la obra maestra de El Greco y el claustro más bonito de la ciudad, por el precio de un menú del día. Si vas por libre desde Madrid, cómprala antes de salir.
 guiasRelacionadas:
 - escapadas-desde-madrid-toledo

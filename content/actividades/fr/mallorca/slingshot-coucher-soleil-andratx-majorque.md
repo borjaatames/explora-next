@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Elle coûte 30 € sur place."
 - pregunta: "Âge minimum du passager ?"
   respuesta: "3 ans."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Agence Formula Tours à Andratx ; présentez-vous 30 minutes avant le départ.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

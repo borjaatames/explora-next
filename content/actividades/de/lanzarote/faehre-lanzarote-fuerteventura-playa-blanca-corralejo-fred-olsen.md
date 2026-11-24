@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Nicht mit diesem Ticket: Es gilt nur für Fußpassagiere."
 - pregunta: "Muss ich am selben Tag zurück?"
   respuesta: "Nein, die Rückfahrt kann auf einen anderen Tag gelegt werden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Playa Blanca (Lanzarote) oder Hafen von Corralejo (Fuerteventura), je nach gewählter Option.'
 categoria: agua
 keywords:
 - "fähre lanzarote fuerteventura"

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'La guida parla spagnolo e italiano.'
 - pregunta: 'Posso cancellare?'
   respuesta: 'Sì. La cancellazione è gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle de Alfonso XI, 2 (accanto al Retiro), Madrid.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasporto privato da Madrid; Guida privata; Ingresso alla cattedrale di Cuenca; Ingresso al Museo di Arte Astratta Spagnola; Bibita.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

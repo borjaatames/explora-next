@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sì, al tuo alloggio nel sud; per il volo delle 17:30 si concorda un punto d'incontro."
 - pregunta: "Le foto sono comprese?"
   respuesta: "No, video e foto GoPro si acquistano sul posto."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo all''ora concordata al tuo alloggio nel sud; punto d''incontro a Playa de la Enramada, Costa Adeje.'
 categoria: aventura
 keywords:
 - "parapendio biposto tenerife"

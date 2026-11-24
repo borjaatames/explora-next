@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, seulement une réduction."
 - pregunta: "Pour qui est-elle rentable ?"
   respuesta: "Pour ceux qui prennent souvent bus et métro et visitent plusieurs musées."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option : retrait à l''office de tourisme ou carte numérique ; détails dans la réservation.'
 categoria: entradas
 guiasRelacionadas:
 - valence-en-2-jours

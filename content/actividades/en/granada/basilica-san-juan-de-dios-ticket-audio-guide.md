@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: About an hour with the audio guide.
 - pregunta: Is it near the Cathedral?
   respuesta: It is a 10-minute walk away. It combines well with the Cathedral, the Royal Chapel and the Monastery of San Jerónimo, which is right next door.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Basílica de San Juan de Dios, Calle San Juan de Dios, 17 (18001 Granada). A 10-minute walk from the Cathedral, along Calle San Jerónimo. Show your voucher at the basilica entrance.'
 opinionEditorial: 'Granada''s big surprise for anyone who has already seen the Alhambra: exuberant Baroque, cheap and with no queues. An hour very well spent between the Cathedral and San Jerónimo.'
 atraccionesRelacionadas:
 - otros-granada

@@ -46,6 +46,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transfert jusqu''au ferry et retour au point de prise en charge; Billet de ferry aller-retour; 5 heures de temps libre à Fuerteventura.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Le temps en autocar dépend de l''emplacement de l''hôtel; Les taxis ne sont pas pris en charge; Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner; Boissons; Guide; Bus ou taxi à Corralejo.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '9 heures.'
 categoria: excursionesDia
 keywords:
 - excursion fuerteventura depuis lanzarote

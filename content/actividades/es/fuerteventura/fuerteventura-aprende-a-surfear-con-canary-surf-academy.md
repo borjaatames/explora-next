@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en tu hotel o apartamento (consulta disponibilidad); Neopreno, tabla e invento; Clase de surf con monitor titulado; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 6 años; No apto para embarazadas; Hay que saber nadar.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Recogida en Costa Calma, Morro Jable y el sur (puedes quedar en la playa).'
 categoria: agua
 keywords:
 - canary surf academy

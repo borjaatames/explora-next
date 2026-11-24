@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Oui. L’Oceanogràfic compte 45 000 animaux de 500 espèces répartis en 10 écosystèmes, avec le plus long tunnel sous-marin d’Europe (35 m).
 - pregunta: Le 3 en 1 vaut-il le coup face aux billets séparés ?
   respuesta: 'Oui : l’économie par rapport aux trois billets achetés séparément est réelle, surtout pour une famille.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Cité des Arts et des Sciences, Av. del Professor López Piñero, 7, 46013 Valence. Bus EMT lignes 35, 40 ou 95 depuis le centre de Valence. À vélo ou à pied depuis le centre historique, comptez une vingtaine de minutes. Validez votre billet à l’Oceanogràfic, le premier à ouvrir.'
 opinionEditorial: 'La Cité des Arts et des Sciences est la visite la plus spectaculaire de Valence. Le combiné 3 en 1 est le choix le plus malin : l’Oceanogràfic justifie à lui seul le déplacement, et l’Hemisfèric et le musée complètent la journée. Prévoyez la journée entière et de l’énergie.'
 guiasRelacionadas:
 - cite-des-arts-et-des-sciences-comment-la-visiter

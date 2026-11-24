@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Canary Wave Surf School, Centro Comercial Oasis, Paseo del Faro 1, Maspalomas. La scuola conferma l''orario, di solito al mattino.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasferimento da/per l''hotel (solo sud dell''isola); Attrezzatura da surf; Istruttore.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Acqua.'
 categoria: agua
 keywords:
 - lezione di surf playa del ingles

@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Tour durch das Inselinnere im Minivan oder Minibus; Besuch einer Aloe-vera-Farm, des Leuchtturms La Entallada, einer Käserei mit Verkostung, der Höhlen von Ajuy, des Aussichtspunkts Risco de las Peñas, von Betancuria und dem Käsemuseum (Eintritte inklusive); Erklärungen in deiner Sprache; Transport ab deiner Unterkunft im Norden oder Süden; Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Zeit: 9:30 bis 16:00; Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen.'
 categoria: excursionesDia
 keywords:
 - fuerteventura käse tour

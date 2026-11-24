@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo de buceo; Seguro; Cuaderno de inmersiones online; Instructor de buceo; Recogida y regreso gratis en puntos confirmados de Tenerife; Agua potable.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 8 años; No apto para embarazadas ni personas con problemas cardiacos; Hay que rellenar un cuestionario médico; algunas condiciones requieren certificado médico.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo; Fotos submarinas.'
 categoria: agua
 keywords:
 - buceo abades

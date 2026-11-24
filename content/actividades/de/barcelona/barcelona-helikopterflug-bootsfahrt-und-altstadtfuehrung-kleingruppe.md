@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Nein, nur von außen."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 8 Teilnehmer."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Passatge de la Concepció, 7, im Eixample, nahe dem Passeig de Gràcia.'
 categoria: toursCiudad
 keywords:
 - "helikopterflug barcelona"

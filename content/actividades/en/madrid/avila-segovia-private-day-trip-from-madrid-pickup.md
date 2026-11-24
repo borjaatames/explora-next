@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel or accommodation in Madrid (tell them where you are staying when you book).'
+- pregunta: 'What is included?'
+  respuesta: 'Pickup at your Madrid accommodation; Private official guide; Private round-trip transport; Support from a travel agent.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

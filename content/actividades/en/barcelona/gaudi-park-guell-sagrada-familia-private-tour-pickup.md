@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Yes, Park Güell and skip-the-line Sagrada Familia.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel in Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private licensed guide; Park Güell ticket; Skip-the-line Sagrada Familia ticket; Transport from the hotel and between sites.'
 opinionEditorial: Gaudí's two must-sees with no queues, no metro and a guide just for you. For 4 or more people the price per head is reasonable.
 atraccionesRelacionadas:
 - sagrada-familia

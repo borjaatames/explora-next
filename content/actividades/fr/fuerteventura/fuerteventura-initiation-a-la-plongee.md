@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, allemand, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Baptême avec moniteur; Prise en charge à l''hôtel.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux moins de 10 ans, aux femmes enceintes et en cas de problème médical.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '2 h 30.'
 categoria: agua
 keywords:
 - baptême plongée fuerteventura

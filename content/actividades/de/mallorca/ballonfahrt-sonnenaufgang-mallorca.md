@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Der Flug kann abgesagt werden; dann gibt es einen neuen Termin oder eine Erstattung."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Im Restaurante Bonanza in Cala Millor, je nach Wetter auch anderswo."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: '1 Stunde Ballonfahrt; Glas Cava; Fotos und Videos vom Flug; Flugzertifikat; Versicherung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

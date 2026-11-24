@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Nein, freie Platzwahl; die Türen öffnen 20 Minuten vorher."
 - pregunta: "Wie lange dauert die Show?"
   respuesta: "Eine Stunde."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'La Casa del Flamenco, Calle Ximénez de Enciso, 28, im Viertel Santa Cruz.'
 categoria: espectaculos
 keywords:
 - "flamenco sevilla santa cruz"

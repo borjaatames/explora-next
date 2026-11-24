@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Sì, è indispensabile.
 - pregunta: Che cosa bisogna portare?
   respuesta: Solo costume, asciugamano e protezione solare. Muta, tavola e calzari li fornisce la scuola.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Shaka Surf Tenerife, Calle México, 3, Playa de las Américas (38660 Arona). La scuola è a 30 metri dalla spiaggia. Per qualsiasi dubbio sul punto d''incontro, la scuola risponde su WhatsApp.'
 opinionEditorial: 'Uno dei modi migliori per provare il surf alle Canarie: gruppi piccoli, istruttori pazienti e foto ricordo senza costi extra. Molto consigliato per chi inizia.'
 guiasRelacionadas:
 - cosa-vedere-a-tenerife

@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: Yes, Sagrada Familia and Park Güell, both skip-the-line.
 - pregunta: Can I cancel?
   respuesta: 'No: the supplier does not accept cancellations or changes once booked.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your accommodation in Barcelona (add it when booking).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
 opinionEditorial: 'The most comfortable way to see Barcelona in a single day: no queues, no public transport and a guide who sets the pace. Pricey for two, but for 4 to 6 people the cost per head drops a lot.'
 atraccionesRelacionadas:
 - sagrada-familia

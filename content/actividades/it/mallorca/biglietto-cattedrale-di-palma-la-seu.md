@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: 'È uno dei rosoni gotici più grandi del mondo: misura 12,5 metri di diametro e ha 1.236 pezzi di vetro colorato. Il fenomeno ottico del 2 febbraio (Candelora) è famoso tra i fotografi.'
 - pregunta: Qual è il momento migliore per visitarla?
   respuesta: A prima ora del mattino (all'apertura) per evitare i gruppi turistici. Al mattino la luce entra meglio da est.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Catedral de Mallorca, Plaça de la Seu, s/n, 07001 Palma. Nel cuore del centro storico di Palma, di fronte alla baia. Facilmente raggiungibile dal Paseo de la Explanada o dal Palau de l''Almudaina.'
 opinionEditorial: La Cattedrale di Palma è uno dei migliori esempi di gotico mediterraneo e ha in più la sorpresa dell'intervento di Gaudí. La combinazione di rosone, baldacchino e vista sul mare è unica al mondo. Il prezzo del biglietto è molto ragionevole per l'esperienza. Visita imprescindibile a Palma.
 categoria: entradas
 keywords:

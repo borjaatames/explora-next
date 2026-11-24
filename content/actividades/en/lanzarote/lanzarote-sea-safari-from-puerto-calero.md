@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Sea Safaris Lanzarote, Calle Pantalanes, Puerto Calero marina.'
+- pregunta: 'What is included?'
+  respuesta: 'Life jackets; Boat safari.'
+- pregunta: 'What should I know before booking?'
+  respuesta: '8.6-metre motor trimaran licensed for 15 people; Not suitable for children under 2 or pregnant women.'
 categoria: agua
 keywords:
 - sea safari lanzarote

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Une heure."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Fuente de Santa María, près du seul olivier du Patio de los Naranjos (Calle Cardenal Herrero, 18).'
 categoria: visitasGuiadas
 keywords:
 - "visite guidée mosquée cordoue"

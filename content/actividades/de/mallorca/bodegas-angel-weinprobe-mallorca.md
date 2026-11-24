@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Vier."
 - pregunta: "Wo liegt die Bodega?"
   respuesta: "Bei Santa Maria del Camí, an der Straße nach Sencelles."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Bodegas Ángel, an der Straße von Santa Maria del Camí nach Sencelles; Anfahrt mit eigenem Auto.'
 categoria: toursGastronomicos
 guiasRelacionadas:
 - was-sehen-auf-mallorca

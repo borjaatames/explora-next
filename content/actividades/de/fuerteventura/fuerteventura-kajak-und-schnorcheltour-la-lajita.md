@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Kajak, Weste, Neoprenanzug und Schnorchelset."
 - pregunta: "Ab welchem Alter?"
   respuesta: "Ab 6 Jahren."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Hotels im Süden der Insel; die Tour startet am Strand von La Lajita.'
 categoria: agua
 keywords:
 - "kajak fuerteventura"

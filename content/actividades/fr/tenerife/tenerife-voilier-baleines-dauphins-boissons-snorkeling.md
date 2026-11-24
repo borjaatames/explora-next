@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Sandwich, en-cas, une coupe de pétillant, boissons à volonté et matériel de snorkeling."
 - pregunta: "D'où part le bateau ?"
   respuesta: "De Puerto Colón, ponton 2, à Costa Adeje."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Une coupe de vin pétillant; Sandwich frais et en-cas; Bière, vin et sodas à volonté; Matériel de snorkeling.'
 categoria: agua
 keywords:
 - "observation baleines tenerife voilier"

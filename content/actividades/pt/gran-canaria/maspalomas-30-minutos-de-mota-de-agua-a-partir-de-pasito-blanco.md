@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Calle Bergantín 6, Pasito Blanco. Recebe os detalhes por WhatsApp na véspera.'
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento; Seguro de acidentes; Instrutor de segurança; Casas de banho; Estacionamento grátis.'
 categoria: agua
 keywords:
 - mota de agua maspalomas

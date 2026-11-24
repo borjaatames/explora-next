@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Circa un'ora."
 - pregunta: "Dove ci si incontra?"
   respuesta: "All'ombrello verde vicino alla Moschea, 10 minuti prima."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Vicino alla Moschea-Cattedrale: cercate l''ombrello verde. Arrivate almeno 10 minuti prima.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - moschea-cordova-biglietti-esauriti

@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: 'Sí: dos platos, postre y una bebida.'
 - pregunta: ¿Se puede cancelar?
   respuesta: No, la reserva no es reembolsable.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel de Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
 opinionEditorial: 'Junta en un día lo mejor de la Costa Brava: un pueblo de pescadores, un pueblo medieval y Girona. En privado es mucho más cómodo que en grupo grande, y con la comida incluida no hay que pensar en nada.'
 atraccionesRelacionadas:
 - otros-barcelona

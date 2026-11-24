@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Non, l'initiation est incluse."
 - pregunta: "À partir de quel âge ?"
   respuesta: "Dès 9 ans."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'TopSegway, Calle Federico Sánchez Bedoya 12, à deux pas de la cathédrale.'
 categoria: toursCiudad
 keywords:
 - "segway séville 1 heure"

@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Documentales IMAX de naturaleza, espacio y ciencia, de 45 minutos, en pantalla cóncava de 900 m². La cartelera cambia cada temporada; eliges la sesión al canjear.
 - pregunta: ¿Es para niños?
   respuesta: El Museu de les Ciències es uno de los mejores museos interactivos de España para niños. El Hemisfèric gusta a todas las edades.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Taquillas del Museu de les Ciències, Av. del Professor López Piñero 7, Valencia. Canjea el voucher en las taquillas del Museu de les Ciències y elige allí la sesión del Hemisfèric. Metro: Alameda (L3/L5) y 15 minutos a pie por el jardín del Turia, o autobuses 35 y 95.'
 opinionEditorial: 'La entrada para quien quiere ver la Ciudad de las Artes por dentro sin pagar el Oceanogràfic. Por 14 € tienes una tarde completa: el museo interactivo y una película en la pantalla más espectacular de Valencia.'
 guiasRelacionadas:
 - ciudad-artes-ciencias-como-visitar

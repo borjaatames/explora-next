@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Weil die Eroberung Granadas 1492 der große Erfolg ihrer Herrschaft war. Isabella legte es in ihrem Testament fest, und die Kapelle wurde zwischen 1505 und 1517 gebaut.
 - pregunta: Was ist im Museum?
   respuesta: 'Isabellas persönliche Sammlung: flämische Tafelbilder von Memling, Van der Weyden und Bouts, ein Botticelli, ihre Krone und ihr Zepter, Ferdinands Schwert und die Banner der Eroberung.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann nicht storniert oder geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Capilla Real, Calle Oficios, Granada. Der Eingang liegt in der Calle Oficios zwischen Kathedrale und Alcaicería, durch die Lonja. Zeig deinen Gutschein am Schalter.'
 opinionEditorial: 'Hier wird spanische Geschichte greifbar: zwei Monarchen in Marmor und darunter ihre Bleisärge. Klein, intensiv, mit einem Museum, das überrascht. Zehn gut angelegte Euro; mach es zusammen mit der Kathedrale.'
 guiasRelacionadas:
 - granada-in-2-tagen

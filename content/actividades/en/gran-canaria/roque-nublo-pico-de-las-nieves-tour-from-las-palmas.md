@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'On a clear day, yes: from Pico de las Nieves and from Roque Nublo, Teide rises above the sea of clouds 100 km away. It is more common in the morning.'
 - pregunta: Is there a version from the south?
   respuesta: Yes, there are departures with pickup in Maspalomas and Playa del Inglés. This is the one from Las Palmas; choose according to where you are staying.
+- pregunta: 'Is lunch included?'
+  respuesta: 'No. There is a lunch stop in Tejeda, where you pay for your own meal. Bring some cash for the local almond sweets.'
+- pregunta: 'What should I wear?'
+  respuesta: 'Hiking or sports shoes and warm layers: the peaks are about 10 °C cooler than the coast. Bring water, sun protection and a snack too.'
 opinionEditorial: 'The inland trip you have to do on Gran Canaria: Roque Nublo is the island''s symbol and the peaks have nothing to do with the coast. Without a car, this is the way to see it in a day with someone who explains what you are looking at.'
 guiasRelacionadas:
 - roque-nublo-hike

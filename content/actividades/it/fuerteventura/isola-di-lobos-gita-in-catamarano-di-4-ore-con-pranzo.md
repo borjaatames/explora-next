@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Barca Celia Cruz, porto di Corralejo (Calle Arena 9).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita in catamarano con guida; Pranzo; Bevande illimitate; Attrezzatura da snorkeling; Paddle e galleggianti; Sbarco sull''isola di Lobos.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prelievo disponibile nel nord dell''isola se scegli l''opzione.'
 categoria: agua
 keywords:
 - catamarano isola di lobos

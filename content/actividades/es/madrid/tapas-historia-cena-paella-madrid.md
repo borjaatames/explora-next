@@ -45,6 +45,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 0
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estatua central de la Plaza de Isabel II (Ópera), Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía local; Tapas en tres bares tradicionales; Cena completa con paella, tapas y sangría casera; Bebidas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El tour es en inglés; Opción vegetariana disponible si la pides al reservar; Edad mínima para beber alcohol: 18 años.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas; Recogida y regreso al hotel.'
 opinionEditorial: 'Es una cena larga con paseo y explicaciones, más que una ruta de pinchos rápida: termina sentado con paella y sangría. Va en inglés, así que encaja mejor con viajeros extranjeros o con quien quiera practicar. Tiene muchas opiniones en las plataformas de reserva, buena señal de que la experiencia es consistente.'
 atraccionesRelacionadas:
 - tapas-madrid

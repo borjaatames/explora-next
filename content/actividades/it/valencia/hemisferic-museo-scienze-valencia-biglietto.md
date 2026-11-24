@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Documentari IMAX di 45 minuti su natura, spazio e scienza, su uno schermo concavo di 900 m². La programmazione cambia ogni stagione; scegli la proiezione quando cambi il voucher.
 - pregunta: Va bene per i bambini?
   respuesta: Il Museo delle Scienze è uno dei migliori musei interattivi di Spagna per bambini. L'Hemisfèric va bene per tutte le età.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: una volta prenotato non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Biglietterie del Museu de les Ciències, Av. del Professor López Piñero 7, Valencia. Cambia il voucher alle biglietterie del Museu de les Ciències e lì scegli la proiezione dell''Hemisfèric. Metro: Alameda (L3/L5) e 15 minuti a piedi nei giardini del Turia, oppure autobus 35 e 95.'
 opinionEditorial: 'Il biglietto per chi vuole vedere la Città delle Arti dall''interno senza pagare l''Oceanogràfic. Con 14 € ti fai un pomeriggio pieno: il museo interattivo e un film sullo schermo più spettacolare di Valencia.'
 guiasRelacionadas:
 - citta-delle-arti-e-delle-scienze-come-visitarla

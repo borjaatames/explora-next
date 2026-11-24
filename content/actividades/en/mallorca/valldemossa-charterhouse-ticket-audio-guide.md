@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: An hour for the Charterhouse; allow another to stroll the village.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Royal Charterhouse of Valldemossa, Plaça de la Cartoixa, Valldemossa. TIB bus 203 from Palma (about 30 minutes). By car, there are paid car parks at the village entrance.'
+- pregunta: 'What is included?'
+  respuesta: 'Entry to the Royal Charterhouse and King Sancho''s palace; Audio guide app on your phone; Piano recital (as scheduled).'
 opinionEditorial: The must-do visit in Valldemossa. It is not a big museum, but the Chopin story, the recital and the Tramuntana views make it worth the €13.
 guiasRelacionadas:
 - serra-tramuntana-soller

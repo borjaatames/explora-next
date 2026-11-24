@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
+- pregunta: 'What is included?'
+  respuesta: 'Diving equipment; Dive insurance; Basic diving and underwater communication skills; One dive of 40 minutes to 1 hour; Instructor; Water and coffee.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum 2 people per booking; Minimum age 10; Not suitable for pregnant women or people with reduced mobility.'
 categoria: agua
 keywords:
 - beginner diving los cristianos

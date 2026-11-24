@@ -43,6 +43,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour aux hôtels du sud de la Grande Canarie; Bateau d''Agaete à Santa Cruz de Tenerife; Autocar de Santa Cruz au Loro Parque; Entrée au Loro Parque.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Apportez votre carte d''identité ou passeport : sans eux, impossible de voyager; Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas et boissons.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '12 heures.'
 categoria: parques
 keywords:
 - loro parque depuis grande canarie

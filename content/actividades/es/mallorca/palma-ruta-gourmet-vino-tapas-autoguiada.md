@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: 'Cinco tapas gourmet, una por restaurante, con cinco bebidas: equivale a una cena.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Restaurante Fervor, casco antiguo de Palma (primera parada). La víspera recibes por WhatsApp y correo un PDF con la ruta y un código QR que enseñas en cada local. Paradas: Fervor, Casa S''Oli, Bodega Mayor, Bocalto y Maura.'
+- pregunta: '¿Qué incluye?'
+  respuesta: '5 tapas gourmet (una por parada); 5 bebidas; Asistencia por WhatsApp durante la ruta.'
 opinionEditorial: Para quien quiere cenar de tapas por Palma sin ir en grupo ni con horario. Los cinco sitios están bien elegidos y el precio por tapa y bebida es razonable.
 guiasRelacionadas:
 - comer-en-mallorca

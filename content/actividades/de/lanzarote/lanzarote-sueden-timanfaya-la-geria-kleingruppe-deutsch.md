@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Ja, das Ticket für den Nationalpark ist im Preis inbegriffen."
 - pregunta: "Gehört der Kamelritt dazu?"
   respuesta: "Nein, er ist freiwillig und wird vor Ort bezahlt."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Ihrer Unterkunft oder am vorab bestätigten Treffpunkt; die genaue Uhrzeit erhalten Sie vor der Tour. Start gegen 8:00 Uhr.'
 categoria: excursionesDia
 keywords:
 - "timanfaya ausflug deutsch"

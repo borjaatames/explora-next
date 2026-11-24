@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Ja, unter 6 Jahren gratis im Kindersitz."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Passeig de Lluís Companys 10, beim Arc de Triomf."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Rad oder E-Bike (je nach Option); Lokaler Guide; Helm; Kindersitze auf Anfrage; Gepäckaufbewahrung; Versicherung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

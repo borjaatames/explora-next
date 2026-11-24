@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, gratuit selon le prestataire."
 - pregunta: "Est-ce intéressant sans être passionné de voitures ?"
   respuesta: "Oui, la mode et la mise en scène valent la visite."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Museo Automovilístico y de la Moda, avenida Sor Teresa Prat 15, Málaga (bâtiment La Tabacalera).'
 categoria: entradas
 guiasRelacionadas:
 - malaga-en-deux-jours

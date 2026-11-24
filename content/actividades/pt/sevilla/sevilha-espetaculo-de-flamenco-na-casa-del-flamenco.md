@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Não, lugar livre; as portas abrem 20 minutos antes."
 - pregunta: "Quanto dura o espetáculo?"
   respuesta: "Uma hora."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'La Casa del Flamenco, Calle Ximénez de Enciso, 28, no bairro de Santa Cruz.'
 categoria: espectaculos
 keywords:
 - "flamenco sevilha santa cruz"

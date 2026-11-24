@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: "2,5 Stunden, danach eine Stunde Rad gratis."
 - pregunta: "Wie groß sind die Gruppen?"
   respuesta: "2 bis 15 Personen pro Guide."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Büro des Anbieters, Passeig de Lluís Companys 10, beim Arc de Triomf (Metro Arc de Triomf, L1).'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

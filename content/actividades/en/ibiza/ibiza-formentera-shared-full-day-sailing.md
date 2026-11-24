@@ -57,6 +57,12 @@ preguntasFrecuentes:
   respuesta: 'Depending on the weather: Formentera, Espalmador island, Salinas or Es Vedrà, with several swim stops.'
 - pregunta: Can I cancel?
   respuesta: Free up to 60 days before; no refund after that.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'What is included?'
+  respuesta: 'Place on a 41-foot sailboat with skipper; Fuel; Snorkelling gear and 2 paddle boards; On-board restroom.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Price per person (up to 7 on board); The route depends on wind and sea; Not wheelchair accessible.'
 opinionEditorial: 'The most affordable way to spend a whole day sailing in Ibiza: you share the boat with a few people and reach coves you can''t get to by land.'
 atraccionesRelacionadas:
 - formentera

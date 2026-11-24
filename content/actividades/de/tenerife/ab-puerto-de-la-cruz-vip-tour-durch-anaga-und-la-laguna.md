@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Französisch, Spanisch, Italienisch, Deutsch, Englisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Büro Tamaran / Volcanic, Calle Aceviño 12, Puerto de la Cruz, um 08:45 Uhr.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fahrer; Mittagessen; Abholung am Hotel oder an einem nahen Punkt in Puerto de la Cruz; Haftpflichtversicherung.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '8 Stunden.'
 categoria: excursionesDia
 keywords:
 - anaga la laguna tour

@@ -56,6 +56,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, spagnolo, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'SeaThru Kayaks Tenerife, Calle Juan XXIII 27, Los Cristianos.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Kayak doppi sit-on-top; Giubbotti salvagente e pagaie; Attrezzatura da snorkeling (maschera e boccaglio); Mute (facoltative); Guida di kayak; Ufficio con spogliatoio, deposito sicuro e bagno.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'I bambini sotto gli 11 anni vanno nel kayak con un genitore e non pagaiano; Bisogna saper nuotare; massimo 100 kg; Non adatto a donne in gravidanza o a chi soffre il mal di mare.'
 categoria: agua
 keywords:
 - kayak los cristianos

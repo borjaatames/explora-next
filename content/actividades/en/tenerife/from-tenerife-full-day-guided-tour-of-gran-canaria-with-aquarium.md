@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, German, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Return transfer to Santa Cruz pier from the north or south (if selected); Ferry ticket; Poema del Mar entry; Walking tour of Vegueta; Guided visit to Arehucas with a rum and liqueur tasting; Official guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Reconfirm pick-up time by WhatsApp; Bring ID or passport for the ferry.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink.'
 categoria: excursionesDia
 keywords:
 - gran canaria day trip from tenerife

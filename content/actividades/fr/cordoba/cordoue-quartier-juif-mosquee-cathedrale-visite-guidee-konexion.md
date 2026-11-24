@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Deux heures."
 - pregunta: "Y a-t-il des écouteurs ?"
   respuesta: "Oui, dans la Mosquée-cathédrale."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option, près de la Mosquée-cathédrale ; le point exact est dans la réservation.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - mosquee-cordoue-billets-epuises

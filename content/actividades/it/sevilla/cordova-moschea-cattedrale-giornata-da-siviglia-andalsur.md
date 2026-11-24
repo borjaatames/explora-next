@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Circa 10 ore."
 - pregunta: "Il pranzo è incluso?"
   respuesta: "No, c'è tempo libero per pranzare."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Partenza da Siviglia secondo l''opzione; il punto esatto è nella conferma.'
 categoria: excursionesDia
 guiasRelacionadas:
 - cordova-da-siviglia-malaga-granada

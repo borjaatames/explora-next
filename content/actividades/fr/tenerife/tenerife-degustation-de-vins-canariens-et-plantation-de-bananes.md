@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, allemand, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à des points fixes de Tenerife; Guide officiel agréé par le gouvernement des Canaries; Visite multilingue : espagnol, anglais, allemand et français (selon disponibilité); Autocar climatisé; Visite guidée de la plantation et dégustation de bananes; Visite de la bodega avec 5 vins.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'La bodega est en altitude : chaussures fermées et veste légère conseillées; Routes de montagne sinueuses; Non disponible pour les croisiéristes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner.'
 categoria: toursGastronomicos
 keywords:
 - dégustation vin tenerife

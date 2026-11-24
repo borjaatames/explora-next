@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Sim, a partir dos 2 anos. É uma das atividades favoritas das famílias no sul de Tenerife.
 - pregunta: Molhamo-nos?
   respuesta: Não. Vai sentado no interior seco do submarino.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Submarine Safaris, Amarilla Marina, San Miguel de Abona (38639 Tenerife). Se for de carro, apresente-se no porto 30 minutos antes da imersão para fazer o registo; há estacionamento gratuito no fundo do porto. Se usar o autocarro gratuito, receberá a hora e o ponto de recolha por e-mail ou telefone.'
 opinionEditorial: 'A forma mais fácil de ver o fundo do mar de Tenerife sem se molhar, perfeita com crianças ou com quem não faz snorkel. As raias e os mergulhadores a alimentar os peixes são o melhor. O preço é alto para uma hora, mas a experiência é única na ilha.'
 guiasRelacionadas:
 - o-que-ver-em-tenerife

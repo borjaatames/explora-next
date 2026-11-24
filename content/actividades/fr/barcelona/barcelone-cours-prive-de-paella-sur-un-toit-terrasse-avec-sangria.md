@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Au moins 2 personnes."
 - pregunta: "Peut-on avoir une paella végétarienne ?"
   respuesta: "Oui, le menu s'adapte aux végétariens et aux allergies."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Passatge de Coll 19, quartier de Sant Martí (métro et tramway Selva de Mar). Sonnez à l''arrivée : le cours a lieu sur le toit.'
 categoria: toursGastronomicos
 keywords:
 - "cours paella privé barcelone"

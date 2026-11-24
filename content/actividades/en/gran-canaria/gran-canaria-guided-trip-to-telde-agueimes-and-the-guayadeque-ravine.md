@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Italian, French, German, English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Return hotel transfer; Coach transport; Local guide; Entry and visit to an aloe vera farm; Tapas in a typical Canarian restaurant; Travel insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Drinks.'
 categoria: excursionesDia
 keywords:
 - guayadeque tour

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Bei Doyoubike, Calle de la Sang 9, neben dem Rathaus."
 - pregunta: "Ist es anstrengend?"
   respuesta: "Nein, die Strecke ist flach."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fahrrad; Guide; Helm.'
 categoria: toursCiudad
 guiasRelacionadas:
 - valencia-in-2-tagen

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "No, si cavalca nella campagna vicino a Bollullos de la Mitación."
 - pregunta: "Come si arriva?"
   respuesta: "Con mezzi propri: il trasporto non è incluso."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Centro Ecuestre El Acebuche, Camino Monasterejo, Bollullos de la Mitación (circa 20 km da Siviglia).'
 categoria: aventura
 keywords:
 - "passeggiata a cavallo siviglia"

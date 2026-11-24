@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ausritt; Reitlehrer; Helm und Handschuhe.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Höchstgewicht 85 kg; Nicht für Kinder unter 5; Nicht für Schwangere.'
 categoria: aventura
 keywords:
 - reiten teneriffa norden

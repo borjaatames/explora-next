@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en puntos fijos de Maspalomas; Bastones de senderismo si hacen falta; Pícnic ligero: bocadillo y fruta; 2 guías locales; Minibús con aire acondicionado, máx. 6 viajeros.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Unos 4 km a pie, en su mayoría fáciles con algún tramo rocoso o irregular; No apto para menores de 6 años ni personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Agua.'
 categoria: excursionesDia
 keywords:
 - excursion barranco de las vacas

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Bodega Los Bermejos, Camino a Los Bermejos 7, San Bartolomé. Tras reservar, envía tu altura, peso y experiencia.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía acreditado; Bici eléctrica; Casco; Agua; Barrita y gel energéticos; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 13, mayores de 70, embarazadas ni personas con diabetes.'
 categoria: aventura
 keywords:
 - ruta bici electrica lanzarote

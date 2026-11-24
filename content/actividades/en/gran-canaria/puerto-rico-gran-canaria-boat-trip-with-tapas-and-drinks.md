@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up from selected hotels in the south; Boat trip with skipper/guide; Snacks and drinks; Snorkelling; Paddleboard.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Depends on sea and weather conditions.'
+- pregunta: 'What is not included?'
+  respuesta: 'Parasailing, e-foil and jet ski (for sale).'
 categoria: agua
 keywords:
 - boat trip puerto rico gran canaria

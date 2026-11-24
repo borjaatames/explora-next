@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Spanish, French, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off from selected hotels; Guided tour; Las Cañadas del Teide National Park; Stop in Vilaflor; Garachico; Icod and the Drago Milenario.'
+- pregunta: 'What should I know before booking?'
+  respuesta: '40 minutes for lunch; an optional lunch can be added through the operator; Bring comfortable clothes, sun cream and water.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch (optional supplement); No time for the Teide cable car.'
 categoria: excursionesDia
 keywords:
 - teide masca garachico tour

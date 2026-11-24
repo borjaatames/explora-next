@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Apéritif et collation; Boisson; Transport depuis l''hôtel.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Permis B depuis au moins 1 an obligatoire ; permis provisoire ou papier de remplacement refusés; Déconseillé si vous avez plongé dans les 24 heures précédentes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Photos; Vestes et manteaux.'
 categoria: aventura
 keywords:
 - mustang teide

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens drei Personen pro Tauchlehrer."
 - pregunta: "Ist der Transfer inklusive?"
   respuesta: "Ja, ab Costa Teguise, Tahiche und Arrecife."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Daivoon Diving Center, Calle las Conchas, Lokal 4, Costa Teguise: neben dem Hotel Galeón Playa, am Ende der Avenida del Jablillo links. Start um 14:30 Uhr.'
 categoria: agua
 keywords:
 - "tauchtaufe lanzarote"

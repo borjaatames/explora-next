@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Yes, they are 15 minutes apart by car, but without a car it is awkward (bus 660 runs rarely). If you want both in one day without driving, look at the organised excursion.
 - pregunta: How long do I need?
   respuesta: Two hours for the official route (palace, pantheons, chapter rooms, library and basilica). Add an hour for the gardens and the town.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Royal Monastery of San Lorenzo de El Escorial, Av. Juan de Borbón y Battemberg. Cercanías C-3 or C-8 from Atocha, Sol or Chamartín to El Escorial (50-60 min) then a 15-minute uphill walk, or bus 661/664 from Moncloa (50 min), which stops next to the monastery.'
 opinionEditorial: 'El Escorial is the most serious half-day trip from Madrid: less picturesque than Toledo or Segovia, but the building is overwhelming and the Pantheon of Kings stays with you. Cheap ticket, easy by train. Book ahead to skip the weekend box office.'
 guiasRelacionadas:
 - madrid-in-3-days

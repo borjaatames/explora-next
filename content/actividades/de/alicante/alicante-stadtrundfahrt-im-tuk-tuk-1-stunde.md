@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Auf Wunsch ja; sonst Treffpunkt an der Casa Carbonell."
 - pregunta: "Spricht der Fahrer Deutsch?"
   respuesta: "Ja, die Sprache wählt man bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Casa Carbonell, Passeig Esplanada d''Espanya, 1; auf Wunsch Abholung am Hotel.'
 categoria: toursCiudad
 keywords:
 - "tuk tuk alicante"

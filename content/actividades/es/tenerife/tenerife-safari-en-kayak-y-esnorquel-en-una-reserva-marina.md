@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: No. El guía explica lo básico antes de salir.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Llega 20 minutos antes para registrarte.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional oficial; Kayak, chaleco salvavidas y caja estanca; Equipo de esnórquel; Foto de grupo al inicio; Seguro.'
 categoria: agua
 keywords:
 - kayak los cristianos

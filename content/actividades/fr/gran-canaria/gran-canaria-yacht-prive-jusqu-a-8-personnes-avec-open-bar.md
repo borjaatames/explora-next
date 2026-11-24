@@ -45,6 +45,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Location privée d''un yacht pour 8 personnes maximum; Open bar : bière, sangria, vin blanc, une bouteille de cava, eau, sodas et jus de pomme; Tapas; Équipement de snorkeling et 2 paddles; Réductions sur jet-ski, parachute ascensionnel ou scooter sous-marin.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux femmes enceintes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Jet-ski 40 €/10 min, parachute ascensionnel 40 €/10 min, scooter sous-marin 40 €/40 min (pas après 17 h); Serviettes (10 €) et crème solaire.'
 categoria: agua
 keywords:
 - yacht privé gran canaria

@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: Nein. Das Segelboot ankert im Meeresschutzgebiet zum Baden und Schnorcheln. Wenn du durch das Dorf spazieren willst, nimm die Fähre ab Santa Pola oder das Boot ab Alicante.
 - pregunta: Brauche ich Erfahrung?
   respuesta: Nein. Schwimmen musst du nur, wenn du ins Wasser gehst. Paddleboards und Schnorchelbrillen sind inklusive.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Marina Miramar, Yachthafen von Santa Pola (Nordmole). Abfahrt von der Marina Miramar in Santa Pola, Nordmole. Sei 15 Minuten früher da; der Skipper wartet am Liegeplatz des Segelboots.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Segelboot mit Skipper; Treibstoff; Verkostung und ein Getränk; Stand-up-Paddleboards; Schnorchelbrillen.'
 opinionEditorial: 'Die entspannteste Art, Tabarca zu genießen: mit dem Segelboot, mit wenigen Leuten, baden, wo die Fähre nicht hält. Die Rückfahrt bei Sonnenuntergang macht es besonders.'
 guiasRelacionadas:
 - isla-de-tabarca-besichtigen

@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: Puedes elegir entre el tour de las 11:00 y el de las 18:00. El punto de encuentro exacto se confirma al reservar.
 - pregunta: ¿Se adaptan a alergias o vegetarianos?
   respuesta: Sí. Avisa al guía de cualquier alergia o necesidad alimentaria al llegar; hay opciones vegetarianas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'El punto de encuentro está en el casco antiguo de Barcelona; la dirección exacta se indica al confirmar la reserva.'
 opinionEditorial: La noche es el mejor momento para las tapas en Barcelona, y hacerlo con guía te ahorra acabar en el bar equivocado. Cuatro paradas dan para probar bastante y conocer el barrio con calma.
 atraccionesRelacionadas:
 - tapas-barcelona

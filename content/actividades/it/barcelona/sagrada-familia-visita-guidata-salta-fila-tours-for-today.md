@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Sì, personali."
 - pregunta: "Posso restare dopo?"
   respuesta: "Sì, con tempo libero nella basilica."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione, vicino alla Sagrada Família; il punto esatto è nella prenotazione.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-biglietti-esauriti

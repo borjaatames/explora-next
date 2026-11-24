@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, on la voit depuis le mirador de San Nicolás."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, une initiation est prévue avant le départ."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Cuchilleros 12, à côté de la Plaza Nueva.'
 categoria: toursCiudad
 keywords:
 - "segway grenade"

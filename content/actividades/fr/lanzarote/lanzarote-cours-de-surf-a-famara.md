@@ -50,6 +50,10 @@ preguntasFrecuentes:
   respuesta: "Oui, tout le matériel de surf est inclus."
 - pregunta: "Faut-il savoir nager ?"
   respuesta: "Oui, c'est obligatoire."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'École Calima Surf, Av. El Marinero 13, Caleta de Famara.'
 categoria: aventura
 keywords:
 - "cours de surf lanzarote"

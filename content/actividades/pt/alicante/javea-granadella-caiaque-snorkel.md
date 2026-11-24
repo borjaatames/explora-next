@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Sim, a partir dos 4 anos e acompanhadas por um adulto no mesmo caiaque.
 - pregunta: Pode-se cancelar?
   respuesta: Sim, gratuitamente até 24 horas antes.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Praia da Granadella, Jávea. A cerca de 20 minutos de carro do centro de Jávea. No verão, o acesso à enseada é condicionado: informe-se sobre como chegar ao reservar.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Caiaque e remo; Colete salva-vidas; Equipamento de snorkel; Guia.'
 opinionEditorial: 'Uma das melhores manhãs de mar da Costa Blanca: falésias, grutas e água transparente. Vale a viagem a partir de Alicante.'
 categoria: agua
 keywords:

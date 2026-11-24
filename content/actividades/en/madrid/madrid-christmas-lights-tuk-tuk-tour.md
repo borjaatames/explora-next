@@ -54,6 +54,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: According to the supplier, the booking is non-refundable, so double-check the date and time before paying.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'According to the supplier, the booking is non-refundable, so double-check the date and time before paying.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de Cánovas del Castillo (Neptune Fountain), opposite the Thyssen-Bornemisza Museum, 28014 Madrid, Spain.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private electric tuk-tuk tour (up to 4 people per tuk-tuk); Headphone audio guide in 11 languages; Cold water, wifi and phone charging; Child booster seat.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Arrive 10 minutes early; the tuk-tuk waits in the parking area opposite the Thyssen Museum; Minimum age 3; If there are more than 4 of you, book one tuk-tuk per group of 4.'
 opinionEditorial: Seeing the Christmas lights by tuk-tuk avoids the crowds on foot around Sol and Gran Vía and covers several areas in one evening. It only runs in the Christmas season and the booking is non-refundable; wrap up warm, as the tuk-tuk is open-sided.
 atraccionesRelacionadas:
 - tuk-tuk

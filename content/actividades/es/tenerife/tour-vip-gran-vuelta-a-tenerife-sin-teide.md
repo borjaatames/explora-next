@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso; Guía.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Mínimo 2 participantes; Tiempo libre para comer en un restaurante o hacer pícnic.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas (se pueden comprar); Entradas a museos.'
 categoria: excursionesDia
 keywords:
 - excursion norte de tenerife

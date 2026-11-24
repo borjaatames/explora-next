@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Only in the option with paella; the shorter option includes drinks.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Flipper Uno, C. Poblado Marinero, local 20, Los Gigantes harbour. Be there 30 minutes before departure.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat trip with guide; Free time to swim; Drinks: cola, orange soda, water, beer and red wine; Chicken and vegetable paella (depending on option); Toilets on board.'
 categoria: agua
 keywords:
 - los gigantes boat trip

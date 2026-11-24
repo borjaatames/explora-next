@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Etwa 75 Minuten."
 - pregunta: "Kann ich stornieren?"
   respuesta: "Bis 24 Stunden vorher mit 53 % Erstattung."
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Nahe der Plaza del Triunfo; der genaue Treffpunkt hängt von der Option ab und steht in der Buchung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in den Alcázar; Einlass ohne Anstehen; Offizieller Guide; Kopfhörer bei Bedarf; Gärten; Cuarto Real Alto.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alcazar-sevilla-tickets-ausverkauft

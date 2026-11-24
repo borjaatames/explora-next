@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'La guida parla inglese, spagnolo e italiano. Le spiegazioni in tedesco, portoghese e francese sono in audio o con un''app di traduzione.'
 - pregunta: 'Posso cancellare?'
   respuesta: 'Sì. La cancellazione è gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo alloggio a Madrid.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo a Madrid; Veicolo premium con wifi e aria condizionata; Ingressi a Santo Tomé, Santa María la Blanca e Alcázar di Segovia; Degustazione iberica con consumazione; Acqua; Tasse.'
 atraccionesRelacionadas:
 - toledo
 - segovia

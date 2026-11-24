@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'El primer tramo (hasta la playa) es sencillo: unos 10-15 minutos por un camino de guijarros entre paredes de roca. Para adentrarse más en la garganta es necesario trepar por rocas.'
 - pregunta: ¿Merece combinar con el tren de Sóller?
   respuesta: Absolutamente. El tren histórico de madera Palma-Sóller (1961) + tranvía al puerto + barco a Sa Calobra es la excursión clásica de Mallorca. No te la pierdas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto de Port de Sóller, Moll de Pesquers, Port de Sóller, Mallorca. El embarcadero está en el puerto de Sóller. Para llegar desde Palma: tren histórico de madera Palma-Sóller (1h, muy recomendable) + tranvía hasta el puerto. O en coche por la Ma-11.'
 opinionEditorial: 'El Torrent de Pareis es uno de los rincones más espectaculares de España y el barco desde Sóller es la forma más cómoda de llegar. Combinado con el tren histórico de madera Palma-Sóller, tienes la excursión perfecta de un día en Mallorca. Reserva con antelación en temporada alta: los barcos se llenan.'
 guiasRelacionadas:
 - serra-tramuntana-soller

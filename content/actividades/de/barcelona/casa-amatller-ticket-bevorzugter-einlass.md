@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Etwa 45 Minuten mit dem Videoguide, plus so viel Zeit, wie du im Schokoladengeschäft verbringen möchtest.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Casa Amatller, Passeig de Gràcia 41, Barcelona. Metro Passeig de Gràcia (L2, L3, L4). Der Eingang befindet sich in der Eingangshalle neben dem Café.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bevorzugter Einlass in die Casa Amatller; Videoguide auf dem Tablet mit Kopfhörern.'
 opinionEditorial: 'Die ruhige Alternative zur Casa Batlló im selben Häuserblock. Originale Innenräume, kleine Gruppen und 18 €: Wenn du Gaudí schon von außen gesehen hast, ist das das Haus, das du von innen am meisten genießen wirst.'
 guiasRelacionadas:
 - barcelona-in-3-tagen

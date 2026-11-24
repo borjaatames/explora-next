@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, das Mittagessen an Bord gehört dazu."
 - pregunta: "Gibt es eine Abholung?"
   respuesta: "Ja, an einem vereinbarten Punkt nahe Ihrem Hotel, 30 Minuten vor Abfahrt."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Liegeplatz EC 04, Calle Puerto Escala, Puerto Rico de Gran Canaria. Mit Abholung: Der Treffpunkt nahe Ihrem Hotel wird vorab vereinbart, 30 Minuten vor Abfahrt.'
 categoria: agua
 keywords:
 - "bootstour gran canaria schnorcheln"

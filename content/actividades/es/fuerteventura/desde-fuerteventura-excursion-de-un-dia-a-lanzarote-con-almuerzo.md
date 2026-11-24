@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, alemán, italiano, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel (hoteles seleccionados); Guía oficial; Billetes de ferry; Entrada al Parque Nacional de Timanfaya; Entrada a los Jameos del Agua; Almuerzo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Recogida temprana: Jandía 05:40–06:10, Costa Calma 06:20–06:55, Caleta de Fuste 06:50–07:35, Corralejo 08:00–08:20; No accesible en silla de ruedas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Cata de vinos.'
 categoria: excursionesDia
 keywords:
 - excursion lanzarote desde fuerteventura

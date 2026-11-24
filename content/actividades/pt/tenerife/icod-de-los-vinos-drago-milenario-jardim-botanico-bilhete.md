@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "O dragoeiro mais antigo conhecido da sua espécie, monumento nacional."
 - pregunta: "Dá para combinar?"
   respuesta: "Sim, com Garachico na costa norte."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Entrada principal do Parque del Drago em Icod de los Vinos; mostre o voucher.'
 categoria: entradas
 guiasRelacionadas:
 - o-que-ver-em-tenerife

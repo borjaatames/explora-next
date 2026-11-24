@@ -48,6 +48,10 @@ preguntasFrecuentes:
   respuesta: No, it's per jet ski for two people. If you each want your own jet ski, book 3 participants.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Jet ski fuel; Guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The price is for 2 people sharing 1 jet ski; Subject to sea conditions; The operator''s hut is on the sand, with a pink flag.'
 categoria: agua
 keywords:
 - jet ski morro jable

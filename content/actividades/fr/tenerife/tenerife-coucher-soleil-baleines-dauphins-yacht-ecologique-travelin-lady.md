@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, avec un arrêt baignade et snorkeling."
 - pregunta: "Où embarque-t-on ?"
   respuesta: "À Puerto Colón, quai des pêcheurs, zone A."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Puerto Colón (Costa Adeje), quai des pêcheurs, zone d''excursions A : suivez la ligne bleue jusqu''au bout. Soyez là 30 minutes avant ; l''embarquement ferme 5 minutes avant le départ.'
 categoria: agua
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

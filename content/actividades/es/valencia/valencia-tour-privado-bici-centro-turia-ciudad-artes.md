@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'No: Valencia es llana y gran parte de la ruta va por el carril bici del Turia.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Carrer de la Corretgeria, Valencia.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado; Bicicleta y casco.'
 opinionEditorial: Valencia es la ciudad perfecta para la bici, y en tres horas se ve del casco antiguo a la Ciudad de las Artes. En privado, además, a vuestro ritmo.
 atraccionesRelacionadas:
 - centro-historico

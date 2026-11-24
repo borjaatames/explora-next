@@ -58,6 +58,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: Cancelamento gratuito até 24 horas antes do início, com reembolso total.
+preguntasFrecuentes:
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes do início, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, Espanha.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Um shot grátis em cada um dos 4 espaços (3 bares/pubs e 1 discoteca); Gorjetas incluídas no preço; Entrada nos 4 espaços do percurso.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Apenas para adultos, maiores de 18 anos; Não é adequado para cadeiras de rodas nem carrinhos de bebé, e não são permitidos animais de estimação; Não recomendado para pessoas com problemas de costas ou cardíacos, nem para grávidas.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Transporte; Comida e bebidas além dos shots incluídos.'
 opinionEditorial: 'Em comparação com o nosso outro pub crawl de Madrid, esta é a opção mais flexível: cancelamento gratuito até 24 horas antes e guia em seis idiomas, uma boa escolha para grupos internacionais. Tem menos um espaço (4 em vez de 5) e o código de vestuário é mais rigoroso: nada de roupa desportiva, nem sandálias ou calções para os homens.'
 atraccionesRelacionadas:
 - otros-madrid

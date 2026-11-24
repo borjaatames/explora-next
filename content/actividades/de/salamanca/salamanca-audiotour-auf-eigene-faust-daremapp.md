@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung; bei kurzfristigerer Stornierung werden 100 % berechnet.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung; bei kurzfristigerer Stornierung werden 100 % berechnet.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kein Treffpunkt: Die Route wird auf deinem Handy mit dem Code aktiviert, den du nach dem Kauf erhältst – zu jeder Zeit und an jedem Ort in Salamanca, den du wählst.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Unterwegs in deinem eigenen Tempo, ohne Zeitplan und ohne Gruppe; Freie Wahl der Stopps entlang der Route; Audio hören, wann du willst, mit Pause- und Fortsetzen-Funktion; Verfügbar 24 Stunden am Tag, 365 Tage im Jahr; In die App integrierte Tipps zu Essen und Familienaktivitäten.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; App verfügbar auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch; Für Rollstühle und Kinderwagen geeignet; Assistenzhunde willkommen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Guide vor Ort (es ist ein komplett selbstgeführtes Erlebnis ohne Begleitung).'
 opinionEditorial: 'Die richtige Wahl, wenn du Salamanca nach deinen eigenen Vorstellungen erkunden möchtest, ohne Zeitplan und ohne Gruppe: Du startest die Route, wann du Lust hast, und gehst in dem Tempo, das dir passt. Was du nicht bekommst, ist die persönliche Note eines Guides vor Ort, seine Geschichten oder die Möglichkeit, direkt Fragen zu stellen – wenn dir das wichtig ist, passt eine Führung mit Guide besser. Für Familien, unabhängig Reisende oder alle, die gern in Ruhe erkunden, funktioniert sie richtig gut.'
 categoria: toursCiudad
 keywords:

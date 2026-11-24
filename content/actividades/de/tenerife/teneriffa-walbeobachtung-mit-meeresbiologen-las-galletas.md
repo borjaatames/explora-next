@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens 10."
 - pregunta: "Gibt es eine Toilette an Bord?"
   respuesta: "Nein; die Ausfahrt dauert etwa 2 Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Marina del Sur, Steg (Pantalán) 4, Las Galletas: im Hafen.'
 categoria: agua
 keywords:
 - "walbeobachtung teneriffa biologe"

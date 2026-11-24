@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: '4-seater Yamaha buggy; Pick-up and drop-off at your hotel in Maspalomas; Insurance.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: aventura
 keywords:
 - buggy tour maspalomas

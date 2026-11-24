@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Snorkelling gear; Kayak gear; Photos; Insurance; Lockers.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'You must be able to swim; Not for pregnant women, people over 70 or above 110 kg.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - kayak tenerife underwater scooter

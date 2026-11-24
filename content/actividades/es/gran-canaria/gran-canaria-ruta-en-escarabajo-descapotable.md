@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía; Ruta en Escarabajo descapotable; Recogida y regreso al hotel en zonas fijas; Almuerzo de pícnic; 1 refresco; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Los conductores necesitan carné de conducir válido; Hasta 4 personas por coche; niños desde 4 años.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '6 horas.'
 categoria: excursionesDia
 keywords:
 - escarabajo descapotable gran canaria

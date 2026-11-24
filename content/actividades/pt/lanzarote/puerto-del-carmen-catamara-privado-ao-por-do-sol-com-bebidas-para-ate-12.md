@@ -46,6 +46,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Passeio de catamarã; Petiscos leves; Refrigerantes, água, sangria, cerveja e champanhe; Recolha no hotel (só na opção com recolha).'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a pessoas com mobilidade reduzida; Pode ser cancelado se o mar estiver agitado.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Recolha no hotel (opção sem recolha); Gorjetas; Outras bebidas.'
 categoria: agua
 keywords:
 - catamara privado lanzarote

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Dans le sud entre Los Cristianos et Los Gigantes ou à Puerto de la Cruz."
 - pregunta: "Comment s'habiller ?"
   respuesta: "Vêtements chauds et chaussures confortables."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à plusieurs endroits dans le sud (entre Los Cristianos et Los Gigantes) ou dans le nord (Puerto de la Cruz) ; le lieu exact figure dans la réservation.'
 categoria: nocturno
 guiasRelacionadas:
 - teide-billets-complets

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida di montagna certificata AEGM/UIMLA; Prelievo e ritorno in hotel; Attrezzatura da canyoning; Foto ricordo.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Circa 2 km di cammino ripido per raggiungere il burrone: serve buona forma fisica e scarpe robuste e impermeabili; Non adatto a minori di 12 anni, persone oltre gli 80 anni, donne in gravidanza o chi soffre di vertigini.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande; Scarpe impermeabili.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "No, la visita è all'esterno."
 - pregunta: "Dove finisce?"
   respuesta: "Al Mercato Centrale."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Due punti di partenza possibili secondo l''opzione; il punto esatto è nella prenotazione.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - valencia-in-2-giorni

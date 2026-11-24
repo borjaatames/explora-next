@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Sì, quando il tempo e il mare lo permettono."
 - pregunta: "Da dove si parte?"
   respuesta: "Dal Porto Olimpico, Moll de Mestral 20."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto Olimpico di Barcellona, Moll de Mestral 20. Le barche si chiamano Maggie May, Catharina Maria e Samui (ormeggi da 1536 a 1538).'
 categoria: agua
 keywords:
 - "barca a vela barcellona"

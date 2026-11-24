@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Bergantín 6, Pasito Blanco. Recibes los detalles por WhatsApp el día antes.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo; Seguro de accidentes; Monitor de seguridad; Aseos; Aparcamiento gratis.'
 categoria: agua
 keywords:
 - moto de agua maspalomas

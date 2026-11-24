@@ -38,6 +38,10 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transfer; Food and drinks; Experienced professional crew; Insurance and fees.'
+- pregunta: 'How long does it last?'
+  respuesta: '4 h 30 min.'
 categoria: agua
 keywords:
 - catamaran fuerteventura dolphins

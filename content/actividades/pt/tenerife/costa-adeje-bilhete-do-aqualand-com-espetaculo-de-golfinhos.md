@@ -47,6 +47,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Bilheteira principal do Aqualand, Avenida Austria 15, Costa Adeje.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Entrada no parque e em todas as atrações aquáticas; Espetáculo de golfinhos; Estacionamento.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Horário: 10:00–18:00 em julho e agosto, 10:00–17:00 no resto do ano; Última entrada às 16:00.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Recolha e regresso ao hotel.'
 categoria: parques
 keywords:
 - bilhetes aqualand tenerife

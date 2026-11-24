@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
+- pregunta: 'What is included?'
+  respuesta: 'Surf lesson with ISA-certified instructors; Theory and warm-up on the beach; Practice in the water with constant help; Surfboard; Wetsuit.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off; Food and drinks; Travel insurance.'
 categoria: agua
 keywords:
 - surf lesson playa de las americas

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Französisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Segway X2 (Geländeversion); Helm; Guide; Abholung und Rücktransfer.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 8 oder Schwangere.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Trinkgeld.'
 categoria: aventura
 keywords:
 - segway la pared

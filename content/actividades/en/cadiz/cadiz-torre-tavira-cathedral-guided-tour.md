@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: 173 steps up to the camera obscura and the terrace.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Segismundo Moret monument, Plaza de San Juan de Dios, Cádiz. Facing City Hall, a 5-minute walk from the train station.'
+- pregunta: 'What is included?'
+  respuesta: 'Guide; Torre Tavira entry; Cathedral entry.'
 opinionEditorial: The two key visits in Cádiz in one morning, with commentary. The camera obscura surprises everyone.
 guiasRelacionadas:
 - cadiz-in-one-day

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "O espetáculo com cocktail e o jantar no terraço."
 - pregunta: "O transporte está incluído?"
   respuesta: "Não, a recolha no hotel não está incluída."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Tablao Flamenco Las Setas, perto da plaza de la Encarnación (Setas de Sevilla); a morada exata vem na confirmação.'
 categoria: espectaculos
 guiasRelacionadas:
 - flamenco-em-sevilha-que-tablao-escolher

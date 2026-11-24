@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'Es otra cosa: aquí está el contexto. El modernismo del MNAC (muebles de Gaudí, Casas, Rusiñol) explica de dónde salen la Pedrera y la Batlló, y por 12 € ves mil años de arte catalán sin colas.'
 - pregunta: ¿Cuánto tiempo?
   respuesta: 'Dos horas para románico, gótico y modernismo. Media hora más en la terraza: la vista desde la Plaza de España hasta el Tibidabo es la mejor panorámica gratuita de Barcelona.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'MNAC, Palau Nacional, Parc de Montjuïc, Barcelona. Metro Espanya (L1/L3) y 10 minutos subiendo por las escaleras mecánicas de la avenida de la Reina Maria Cristina. Presenta el voucher en taquilla.'
 opinionEditorial: El museo más infravalorado de Barcelona. Los frescos románicos no existen en ningún otro sitio del mundo y la terraza del Palau Nacional vale la entrada por sí sola. Doce euros, sin colas y a diez minutos del metro.
 guiasRelacionadas:
 - barcelona-en-3-dias

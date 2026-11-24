@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Etwa eine Stunde."
 - pregunta: "Was passiert bei schlechtem Wetter?"
   respuesta: "Der Flug wird verschoben."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Ihrem Hotel in Madrid; die Uhrzeit wird vorher bestätigt.'
 categoria: aventura
 guiasRelacionadas:
 - segovia-sehenswuerdigkeiten-tagesausflug

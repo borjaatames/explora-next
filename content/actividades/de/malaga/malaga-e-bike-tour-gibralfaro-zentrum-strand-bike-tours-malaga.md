@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "Nein, das E-Bike übernimmt die Steigung."
 - pregunta: "Wo startet die Tour?"
   respuesta: "Bei Bike Tours Málaga, neben dem Hotel Room Mate Valeria."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'E-Bike; Guide.'
 categoria: toursCiudad
 guiasRelacionadas:
 - malaga-sehenswuerdigkeiten-an-einem-tag

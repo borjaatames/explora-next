@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Oui, aller-retour depuis Valence."
 - pregunta: "Quelle est la taille du groupe ?"
   respuesta: "15 personnes maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option, à l''un des quatre points de rendez-vous à Valence ; les détails sont confirmés la veille.'
 categoria: excursionesDia
 guiasRelacionadas:
 - escapades-depuis-valence

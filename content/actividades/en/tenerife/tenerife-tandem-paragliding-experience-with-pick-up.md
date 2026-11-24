@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Tandem paragliding flight; Pick-up in Costa Adeje, Los Cristianos and Las Américas; Transport to take-off; Personal multilingual tandem pilot; Safety briefing and certified gear; Liability and accident insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Paragliding depends on the weather: don''t book too close to your departure date; Not for children under 4, during pregnancy or above 100 kg.'
+- pregunta: 'What is not included?'
+  respuesta: 'GoPro photos and videos (€30); Food and drinks; Pick-up in Los Cristianos after 12:00 on weekdays; Return to your hotel.'
 categoria: aventura
 keywords:
 - paragliding tenerife

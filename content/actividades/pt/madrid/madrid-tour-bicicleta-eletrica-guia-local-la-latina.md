@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sim, conforme a opção escolhida."
 - pregunta: "Onde começa?"
   respuesta: "Na Carrera de San Francisco 7, perto do metro La Latina."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia ao vivo; Bicicleta ou bicicleta elétrica (conforme a opção); Cadeiras de criança e capacetes a pedido; Depósito de bagagem.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-num-dia

@@ -57,6 +57,12 @@ preguntasFrecuentes:
   respuesta: 'A seconda del meteo: Formentera, l’isola di Espalmador, le Saline o Es Vedrà, con diverse soste per il bagno.'
 - pregunta: Posso cancellare?
   respuesta: Gratis fino a 60 giorni prima; poi nessun rimborso.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Posto su barca a vela di 41 piedi con skipper; Carburante; Snorkeling e 2 SUP; Bagno a bordo.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prezzo a persona (max 7 a bordo); L’itinerario dipende da vento e mare; Non accessibile in sedia a rotelle.'
 opinionEditorial: Il modo più economico per passare un’intera giornata in barca a vela a Ibiza.
 atraccionesRelacionadas:
 - formentera

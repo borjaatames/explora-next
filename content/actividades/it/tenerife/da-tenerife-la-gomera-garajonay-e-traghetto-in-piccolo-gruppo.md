@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La guida parla italiano, spagnolo, inglese.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo in zone selezionate del sud di Tenerife (se disponibile); Biglietti del traghetto Tenerife–La Gomera andata e ritorno; Transfer a La Gomera; Guida ufficiale; Gruppo di massimo 18.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Chi alloggia a Los Cristianos può dover raggiungere l''ufficio Fred. Olsen al porto; Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Pranzo; Bevande; Parcheggio al porto di Los Cristianos.'
 categoria: excursionesDia
 keywords:
 - la gomera piccolo gruppo

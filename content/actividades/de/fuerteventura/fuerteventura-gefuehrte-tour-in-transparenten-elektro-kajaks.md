@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller Guide; Geführte Tour; Komplette Ausrüstung: Schwimmwesten, Wasserschuhe, Funkgerät, wasserdichte Handyhülle; Sicherheitseinweisung; Shuttle-Service.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 6; Kinder von 6 bis 11 Jahren fahren mit einem Erwachsenen gratis (ein Kind pro Erwachsenem).'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '1 Std. 30 Min.'
 categoria: agua
 keywords:
 - transparentes kajak fuerteventura

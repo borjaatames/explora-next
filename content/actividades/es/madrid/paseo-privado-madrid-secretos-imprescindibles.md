@@ -47,6 +47,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 4
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerta del Sol, junto a la estatua del Oso y el Madroño (Madrid), o recogida en tu hotel.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía local privado; Recogida en el hotel.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Precio por persona con un mínimo de 2 personas por reserva; Tras reservar recibirás el contacto del guía; indica tu hotel si quieres que te recoja allí; Recorrido a pie; lleva calzado cómodo.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Entradas a monumentos (no hacen falta para la ruta estándar); Transporte (todo el recorrido es a pie).'
 opinionEditorial: Un free tour hace una ruta parecida por mucho menos dinero; lo que paga esta versión es tener al guía para tu grupo, empezar en tu hotel y poder preguntar todo lo que quieras. Compensa sobre todo en familia o en grupo. Mínimo 2 personas por reserva.
 atraccionesRelacionadas:
 - tours-a-pie

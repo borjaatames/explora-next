@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Spanisch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Klimatisiertes Fahrzeug; Professioneller Guide; Besuch des Aloe-Vera-Zentrums; Stopp in einem traditionellen Weingut; Fotostopps an Sehenswürdigkeiten.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht rollstuhlgerecht; Bequeme Kleidung und Schuhe tragen, Sonnencreme mitnehmen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen; Persönliche Ausgaben und Einkäufe.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip inselrundfahrt

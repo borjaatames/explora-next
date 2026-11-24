@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "10 au maximum."
 - pregunta: "Y a-t-il des toilettes à bord ?"
   respuesta: "Non ; la sortie dure environ 2 heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Marina del Sur, ponton (pantalán) 4, Las Galletas : à l''intérieur du port.'
 categoria: agua
 keywords:
 - "observation baleines tenerife biologiste"

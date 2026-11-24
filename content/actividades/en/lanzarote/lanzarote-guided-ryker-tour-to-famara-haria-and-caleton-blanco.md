@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Ryker tour; Guide; Helmet; Windbreak goggles; Windbreaker.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 10 or pregnant women.'
 categoria: aventura
 keywords:
 - ryker tour lanzarote

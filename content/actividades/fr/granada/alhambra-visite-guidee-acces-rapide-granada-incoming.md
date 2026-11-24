@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Trois heures."
 - pregunta: "Puis-je annuler ?"
   respuesta: "Jusqu'à 24 h avant, avec 50 % de remboursement."
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option, à l''entrée de l''Alhambra ; le point exact figure dans la réservation.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billet général accès rapide; Palais nasrides; Guide officiel local; Écouteurs.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

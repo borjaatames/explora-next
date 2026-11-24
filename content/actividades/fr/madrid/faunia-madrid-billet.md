@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Métro L9 jusqu’à Valdebernardo, Cercanías C2 jusqu’à Vicálvaro ou bus EMT 71 depuis Manuel Becerra, qui vous dépose devant l’entrée. En voiture, A-3 sortie 6 (Valdebernardo) ou M-40 sorties 12/13.
 - pregunta: Est-ce intéressant avec de jeunes enfants ?
   respuesta: Oui, surtout de 3 à 10 ans. Les écosystèmes immersifs (jungle, pôles) les impressionnent beaucoup.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Faunia Madrid, Av. de las Comunidades, 28, 28032 Madrid. Métro ligne 9 jusqu’à Valdebernardo, Cercanías C2 jusqu’à Vicálvaro ou bus EMT 71 depuis la place Manuel Becerra (arrêt devant le parc). Entrez directement avec le billet sur votre téléphone.'
 opinionEditorial: Faunia est l’alternative la plus originale au zoo classique à Madrid. Ses écosystèmes reconstitués rendent la visite très pédagogique, et Los Polos, avec six espèces de manchots, est incontournable. Le billet est plus abordable que celui du zoo et il y a moins de monde. Une bonne idée pour une deuxième journée avec des enfants à Madrid.
 guiasRelacionadas:
 - madrid-avec-des-enfants

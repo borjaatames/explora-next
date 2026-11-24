@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Dipende dall'opzione: c'è anche la formula solo trasferimento."
 - pregunta: "Si può portare il proprio cibo?"
   respuesta: "Sì, secondo il fornitore. Nel parco ci sono anche ristoranti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Agenzia Amigo Tours a Madrid; l''indirizzo esatto è nella conferma di prenotazione.'
 categoria: excursionesDia
 guiasRelacionadas:
 - madrid-in-1-giorno

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Environ une heure."
 - pregunta: "Et s'il fait mauvais ?"
   respuesta: "Le vol est reporté."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hôtel à Madrid ; l''heure est confirmée à l''avance.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-segovie-en-une-journee

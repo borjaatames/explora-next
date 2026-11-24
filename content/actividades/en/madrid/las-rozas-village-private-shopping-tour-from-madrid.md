@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: About 6 hours in total, including the drive.
 - pregunta: Is it a guided tour?
   respuesta: 'No: the driver takes you, waits and brings you back.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before. No refund after that.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel or accommodation in Madrid.'
 categoria: excursionesDia
 privada: true
 precioPorGrupo: true

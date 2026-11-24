@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Mit der Abholung an Ihrer Unterkunft in Costa Calma."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt in Costa Calma; Guide; Helm; Versicherung für Fahrer und Beifahrer.'
 categoria: aventura
 keywords:
 - "buggy costa calma"

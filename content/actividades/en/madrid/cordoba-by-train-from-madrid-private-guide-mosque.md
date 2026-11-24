@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'No. It is non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Madrid-Puerta de Atocha station; in Córdoba the guide meets you at the Mosque.'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip Madrid-Córdoba train; Private guide in Córdoba for 2.5 hours; Mosque-Cathedral ticket; Help from an agent to choose train times.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

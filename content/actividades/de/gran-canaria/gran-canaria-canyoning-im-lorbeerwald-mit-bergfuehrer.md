@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bergführer mit AEGM/UIMLA-Zertifikat; Abholung und Rücktransfer; Canyoning-Ausrüstung; Erinnerungsfoto.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Rund 2 km steiler Fußweg zur Schlucht: gute Kondition und feste, wasserfeste Schuhe nötig; Nicht für unter 12, über 80, Schwangere oder Menschen mit Höhenangst.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Wasserfeste Schuhe.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

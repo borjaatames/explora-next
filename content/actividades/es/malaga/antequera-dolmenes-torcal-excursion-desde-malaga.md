@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'No: es un paseo guiado de una hora y media por senderos de piedra. Basta con calzado cerrado.'
 - pregunta: ¿Cómo vuelvo a Málaga?
   respuesta: En autobús de línea desde Antequera; el guía te da la tarjeta.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Málaga, cerca de La Orquídea Restobar (Alameda Principal). Revisa la ubicación exacta en el bono. La vuelta a Málaga es en autobús de línea desde Antequera.'
 opinionEditorial: Dos Patrimonios en media jornada y en grupo de ocho. El Torcal parece otro planeta y los dólmenes impresionan más de lo que esperas. Muy buena alternativa al Caminito si ya lo has hecho.
 guiasRelacionadas:
 - escapadas-desde-malaga

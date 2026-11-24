@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Environ 3 h 30."
 - pregunta: "Puis-je annuler ?"
   respuesta: "Jusqu'à 24 h avant, avec 50 % de remboursement."
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Office de tourisme de la Plaza del Triunfo. Le guide porte un parapluie orange.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide; Entrée coupe-file au Real Alcázar; Visite guidée du palais et des jardins; Billets coupe-file pour la cathédrale; Accès à la Giralda (formules avec cathédrale).'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alcazar-de-seville-billets-epuises

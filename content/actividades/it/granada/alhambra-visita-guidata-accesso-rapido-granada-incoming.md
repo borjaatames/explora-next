@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Tre ore."
 - pregunta: "Posso cancellare?"
   respuesta: "Fino a 24 ore prima, con rimborso del 50 %."
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione, all''ingresso dell''Alhambra; il punto esatto è nella prenotazione.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Biglietto generale con accesso rapido; Palazzi Nasridi; Guida ufficiale locale; Auricolari.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-biglietti-esauriti

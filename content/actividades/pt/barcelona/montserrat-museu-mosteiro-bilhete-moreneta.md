@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "É o seu acesso à Moreneta."
 - pregunta: "Há audioguia?"
   respuesta: "Sim, está incluído."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Posto de turismo de Montserrat.'
 categoria: entradas
 guiasRelacionadas:
 - montserrat-bilhetes-esgotados

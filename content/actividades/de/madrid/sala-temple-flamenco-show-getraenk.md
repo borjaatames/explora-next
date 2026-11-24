@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Ja, es gibt eine Karte mit traditionellen spanischen Gerichten zu erschwinglichen Preisen, die separat bezahlt werden.
 - pregunta: Welches Getränk ist inbegriffen?
   respuesta: Ein Getränk nach Wahl, Sangria, Bier, Wein oder Softdrink.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Sala Temple, Cuesta de San Vicente, 40 (28008 Madrid). 5 Gehminuten von der Plaza de España und der Metrostation Príncipe Pío (Linien 6, 10 und R). Kommen Sie ein paar Minuten früher, um einen Tisch auszuwählen und Ihr Getränk zu bestellen.'
 opinionEditorial: 'Der günstigste und nahbarste gut bewertete Flamenco im Zentrum Madrids. Ideal, wenn Sie eine authentische Atmosphäre in einem kleinen Tablao statt einer großen Show für Touristen suchen.'
 atraccionesRelacionadas:
 - flamenco

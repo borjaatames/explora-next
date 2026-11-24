@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, espagnol, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Paseo Espigón de Las Galletas 1, Arona.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Repas et boissons.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Arrivez 15 minutes avant le départ; Peut être annulé en cas de mauvais temps; Non accessible en fauteuil roulant.'
 categoria: agua
 keywords:
 - baleines las galletas

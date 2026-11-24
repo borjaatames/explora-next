@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Uma hora.
 - pregunta: Pode-se cancelar?
   respuesta: Sim, gratuitamente até 24 horas antes.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Huerto del Cura, c/ Porta de la Morera 49, Elche. A partir de Alicante, comboio suburbano (Cercanías C1) ou autocarro até Elche (cerca de 30 minutos) e 15 minutos a pé.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete para o Huerto del Cura.'
 opinionEditorial: Um oásis a meia hora de Alicante e por 7 €. Combine-o com um passeio pelo Palmeral e pela basílica de Santa María e tem uma meia jornada perfeita.
 categoria: entradas
 keywords:

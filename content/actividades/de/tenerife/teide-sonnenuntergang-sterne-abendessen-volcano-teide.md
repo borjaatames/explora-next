@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Im Süden zwischen Los Cristianos und Los Gigantes oder in Puerto de la Cruz."
 - pregunta: "Was ziehe ich an?"
   respuesta: "Warme Kleidung und bequeme Schuhe."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an mehreren Orten im Süden (zwischen Los Cristianos und Los Gigantes) oder im Norden (Puerto de la Cruz); der genaue Ort steht in der Buchung.'
 categoria: nocturno
 guiasRelacionadas:
 - teide-tickets-ausverkauft

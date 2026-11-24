@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Sortie de 2 h 30 en bateau rapide; Commentaires en direct à bord; Cava, jus ou eau; Douceurs locales.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'L''observation d''animaux n''est pas garantie; Prévoyez une couche chaude : il fait plus frais en mer, même en été; Non accessible en fauteuil roulant.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '2 h 30.'
 categoria: agua
 keywords:
 - bateau coucher de soleil lanzarote

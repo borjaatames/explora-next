@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Non, la visite se fait en extérieur. Achetez les entrées à part pour y aller ensuite.
 - pregunta: Peut-on annuler ?
   respuesta: Oui, gratuitement jusqu’à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Hôtel Barceló Valencia, avenue de France 11.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide privé.'
 opinionEditorial: Pour comprendre pourquoi cet ensemble est si spécial, il faut quelqu’un pour expliquer l’architecture ; deux heures en privé suffisent.
 atraccionesRelacionadas:
 - ciudad-artes

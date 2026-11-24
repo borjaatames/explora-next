@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 45-minute IMAX documentaries on nature, space and science, on a 900 m² concave screen. The programme changes each season; you choose the session when you exchange your voucher.
 - pregunta: Is it good for children?
   respuesta: The Science Museum is one of Spain's best interactive museums for children. The Hemisfèric works for all ages.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Museu de les Ciències ticket desks, Av. del Professor López Piñero 7, Valencia. Exchange your voucher at the Museu de les Ciències ticket desks and choose your Hemisfèric session there. Metro: Alameda (L3/L5) and a 15-minute walk through the Turia gardens, or buses 35 and 95.'
 opinionEditorial: 'The ticket for anyone who wants to see the City of Arts from the inside without paying for the Oceanogràfic. For €14 you get a full afternoon: the interactive museum and a film on Valencia''s most spectacular screen.'
 guiasRelacionadas:
 - city-of-arts-sciences-how-to-visit

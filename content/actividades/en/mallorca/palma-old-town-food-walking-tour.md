@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Convent sweets, panades, bread with sobrasada, three seasonal tapas with wine, ensaimada, almond ice cream and a Mallorcan liqueur.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 48 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Parc de la Mar tourist office, Palma. Below the cathedral, by the Parc de la Mar lake. The guide wears an orange shirt and holds a sign with the tour name. It ends at Plaça de Cort.'
+- pregunta: 'What is included?'
+  respuesta: 'Local guide; Tastings: convent sweets, panades, sobrasada, tapas and ensaimada; One glass of local wine; Water; Visit to Mercat de l''Olivar; City map.'
 opinionEditorial: 'The closest thing to real Mallorcan food without leaving Palma: convent, market and ensaimada in one morning. Small groups and generous portions.'
 guiasRelacionadas:
 - eating-in-mallorca

@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Board and wetsuit.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 11; Not suitable for pregnant women; Must be able to swim.'
+- pregunta: 'How long does it last?'
+  respuesta: '4 hours.'
 categoria: agua
 keywords:
 - flag beach surf

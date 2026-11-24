@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Licensed professional guides; Guided sunset and stargazing; Transport from selected meeting points (depending on option); Constellation tour with a green laser; Professional telescopes (telescope option); Sunset picnic (small-group picnic option).'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Bring warm clothes: it gets cold at night; Drop-off at the same meeting point; Not for pregnant women, people with back problems or wheelchair users.'
+- pregunta: 'What is not included?'
+  respuesta: 'Dinner unless included in your option; Professional photos; Warm clothes or blankets.'
 categoria: nocturno
 keywords:
 - teide sunset tour

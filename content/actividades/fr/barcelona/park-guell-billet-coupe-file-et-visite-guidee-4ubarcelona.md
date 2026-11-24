@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, aussi longtemps que vous voulez."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Ctra. del Carmel 22."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billet coupe-file pour la zone monumentale; Guide certifié; Accès libre après la visite.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-billets-epuises

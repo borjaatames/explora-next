@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giacca per il freddo (se serve); Acqua e bibite fresche; Istruttori esperti per tutto il tour; Jeep Wrangler da guidare.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Serve la patente fisica o quella digitale dall''app ufficiale; Non adatto a donne in gravidanza o a chi ha problemi alla schiena.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo e ritorno all''alloggio.'
 categoria: aventura
 keywords:
 - jeep teide tramonto

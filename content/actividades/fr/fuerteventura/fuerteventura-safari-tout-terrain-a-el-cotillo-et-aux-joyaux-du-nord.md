@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle français, anglais, espagnol, italien.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Véhicule tout-terrain; Transfert depuis l''hôtel; Guide dans votre langue; Petits groupes; Entrée à la ferme d''aloe vera.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Non accessible en fauteuil roulant.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas; Boissons.'
 categoria: excursionesDia
 keywords:
 - safari el cotillo

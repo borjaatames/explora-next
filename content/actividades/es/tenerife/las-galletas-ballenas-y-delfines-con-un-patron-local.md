@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Paseo Espigón de Las Galletas 1, Arona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Comida y bebida.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Llega 15 minutos antes de la salida; Puede cancelarse por mal tiempo; No accesible en silla de ruedas.'
 categoria: agua
 keywords:
 - ballenas las galletas

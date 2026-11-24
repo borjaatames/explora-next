@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Annulation gratuite jusqu'à 24 heures avant le début ; au-delà, 100 % du montant est facturé.
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début ; au-delà, 100 % du montant est facturé.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pas de point de rendez-vous physique : activez le parcours depuis votre téléphone avec le code reçu après l''achat, quand et où vous voulez à Barcelone.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Accès au parcours autoguidé de Barcelone via l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès dans l''application à des recommandations de restaurants et d''activités en famille.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; le parcours est essentiellement plat, même si certains tronçons du centre ont des trottoirs étroits; Les animaux d''assistance sont acceptés.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au début du parcours; Billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
 opinionEditorial: 'Avec 3 parcours et plus de 50 points d''intérêt, c''est l''une des offres DareMapp les plus complètes du catalogue : elle couvre tout, de la Sagrada Familia à la Casa Batlló en passant par le modernisme barcelonais, sans réserver trois visites séparées. Dans une ville aussi grande, choisir son rythme et faire une pause quand on veut est un vrai avantage par rapport à une visite guidée à horaire fixe. Ce que vous n''aurez pas : un accès prioritaire aux monuments ni les anecdotes d''un guide en chair et en os.'
 atraccionesRelacionadas:
 - otros-barcelona

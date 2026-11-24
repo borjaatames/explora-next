@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français, allemand.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à des points fixes dans toute l''île; Guide officiel agréé par le gouvernement des Canaries; Guide multilingue : espagnol, anglais, allemand, français (selon disponibilité); Autocar climatisé; Groupe de 35 personnes maximum.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Beaucoup de temps est passé sur la route entre les arrêts; Déconseillé aux personnes à mobilité réduite; Non disponible pour les croisiéristes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner et boissons (en option, à régler sur place).'
 categoria: excursionesDia
 keywords:
 - tour de l'île tenerife

@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "No, portate qualcosa da mangiare."
 - pregunta: "Quante persone nel gruppo?"
   respuesta: "Al massimo 8."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo dal vostro alloggio a Corralejo o Caleta de Fuste.'
 categoria: excursionesDia
 keywords:
 - "escursione isola di lobos"

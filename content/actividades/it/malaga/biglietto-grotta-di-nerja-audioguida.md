@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No. Le pitture (tra le più antiche del mondo, di circa 40.000 anni fa) si trovano nelle gallerie alte, chiuse al pubblico per conservarle. Nel museo di Nerja ci sono delle riproduzioni.
 - pregunta: Conviene abbinarla a Frigiliana?
   respuesta: 'Sì: Frigiliana è a 10 minuti in auto ed è uno dei pueblos blancos più belli dell''Andalusia. Grotta al mattino, Frigiliana per pranzo e il Balcón de Europa a Nerja al tramonto.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: una volta prenotato non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Cueva de Nerja, Carretera de Maro s/n, Nerja (Malaga). La grotta si trova a Maro, a 5 km da Nerja lungo la N-340. In auto, parcheggio gratuito. In autobus, linea Malaga-Nerja di ALSA (1 h 15) e poi l''autobus urbano o un taxi fino alla grotta. Presenta il voucher in biglietteria all''orario prenotato.'
 opinionEditorial: 'La Grotta di Nerja è l''escursione naturale più spettacolare della Costa del Sol: la Sala del Cataclismo, con la sua colonna di 32 metri, lascia senza parole. Biglietto economico e con orario; in estate prenota con qualche giorno di anticipo.'
 guiasRelacionadas:
 - malaga-in-due-giorni

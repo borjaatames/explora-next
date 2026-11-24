@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento de mergulho; Seguro; Registo de mergulhos online; Instrutor de mergulho; Recolha e regresso no sul de Gran Canaria; Água.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 8 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos; Não recomendado a pessoas com problemas de costas ou respiratórios, epilepsia, hipertensão ou cirurgia recente.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Almoço; Fotos subaquáticas.'
 categoria: agua
 keywords:
 - aprender a mergulhar gran canaria

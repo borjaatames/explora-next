@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Porque la conquista de Granada en 1492 fue el gran logro de su reinado. Isabel lo dejó escrito en su testamento y la capilla se construyó entre 1505 y 1517.
 - pregunta: ¿Qué hay en el museo?
   respuesta: 'La colección personal de Isabel: tablas flamencas de Memling, Van der Weyden y Bouts, un Botticelli, su corona y cetro, la espada de Fernando y los estandartes de la conquista.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Capilla Real, Calle Oficios s/n, Granada. La entrada está en la calle Oficios, entre la Catedral y la Alcaicería, por la Lonja. Presenta el voucher en taquilla.'
 opinionEditorial: 'Es el lugar donde la historia de España se vuelve concreta: dos reyes en mármol y, debajo, sus ataúdes de plomo. Pequeña, intensa y con un museo que sorprende. Diez euros bien gastados; hazla junto con la Catedral.'
 guiasRelacionadas:
 - granada-en-2-dias

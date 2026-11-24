@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'It is another world: the Alhambra is Nasrid and the Cathedral is the Christian response, begun 30 years after the conquest. Together they tell the city''s story. An hour well spent.'
 - pregunta: Why is the cathedral so hemmed in?
   respuesta: It was built on the site of the main mosque, in the heart of the medina, and the surroundings were never cleared. That is why there is no grand square in front and the facade is best seen from Plaza de las Pasiegas.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Granada Cathedral, Calle Gran Vía de Colón 5 (entrance via Plaza de las Pasiegas). The visitor entrance is on Plaza de las Pasiegas, on the side of the cathedral facing Gran Vía. Show your voucher at the desk and collect the audio guide.'
 opinionEditorial: 'Granada Cathedral lives in the Alhambra''s shadow and does not deserve to: it is the masterpiece of the Andalusian Renaissance and its High Chapel is among the brightest in Spain. Ten euros with audio guide; combine it with the Royal Chapel.'
 guiasRelacionadas:
 - granada-in-2-days

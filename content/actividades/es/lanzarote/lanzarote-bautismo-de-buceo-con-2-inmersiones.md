@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte; Recogida en toda la isla; Equipo; Seguro; Refrigerio.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 12 años; No apto para embarazadas ni personas con problemas cardiacos, de espalda o respiratorios, epilepsia, claustrofobia, hipertensión o resfriado; No vueles en las 12 a 24 horas siguientes a bucear.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Fotos.'
 categoria: agua
 keywords:
 - bautismo de buceo lanzarote

@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Nur Badebekleidung; Handtücher gibt es vor Ort."
 - pregunta: "Dürfen Kinder hinein?"
   respuesta: "Ab 5 Jahren, mit unterschriebener Einverständniserklärung der Eltern."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hammam Al Ándalus, Calle Corregidor Luis de la Cerda, 51, wenige Schritte von der Mezquita.'
 categoria: entradas
 keywords:
 - "hammam córdoba"

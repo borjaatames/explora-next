@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: One hour.
 - pregunta: Can I combine it with the Mosque?
   respuesta: Yes, they are a 5-minute walk apart.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Main gate of the Alcázar of the Christian Monarchs, Córdoba. By the river, a 5-minute walk from the Mosque-Cathedral.'
 opinionEditorial: The gardens are the best part of the Alcázar, and with a guide you understand Córdoba's role in the Reconquista and in Columbus's voyage. Check whether the interior is open.
 guiasRelacionadas:
 - cordoba-in-one-day

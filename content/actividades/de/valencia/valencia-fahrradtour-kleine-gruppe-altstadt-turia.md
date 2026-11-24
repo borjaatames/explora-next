@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Monumente sieht man von außen."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 15 Teilnehmer."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Bike Me Around, Carrer de les Carabasses 15, Ciutat Vella, Valencia.'
 categoria: toursCiudad
 keywords:
 - "fahrradtour valencia deutsch"

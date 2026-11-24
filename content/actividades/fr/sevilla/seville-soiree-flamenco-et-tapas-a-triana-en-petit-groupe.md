@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Trois tapas et trois boissons, dans trois bars différents."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Calle San Jacinto 1, à Triana, à 19 h 30."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billet pour le spectacle de flamenco; 3 tapas et 3 boissons; Guide local.'
 categoria: toursGastronomicos
 keywords:
 - "séville flamenco et tapas"

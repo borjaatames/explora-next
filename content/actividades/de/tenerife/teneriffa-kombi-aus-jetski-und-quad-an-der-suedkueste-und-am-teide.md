@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. Die gebuchte Uhrzeit gilt für das Quad; den Jetski per WhatsApp vereinbaren.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Schwimmweste; Brille; Guide; Getränke; Dusche und Toiletten; Schließfächer.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Kaution in bar: 50 € pro Jetski und 100 € pro Quad; Transfers zwischen den Aktivitäten.'
 categoria: aventura
 keywords:
 - jetski und quad teneriffa

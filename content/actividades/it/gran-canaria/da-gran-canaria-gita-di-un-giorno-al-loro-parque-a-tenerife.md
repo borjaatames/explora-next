@@ -43,6 +43,14 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno agli hotel del sud di Gran Canaria; Nave da Agaete a Santa Cruz de Tenerife; Pullman da Santa Cruz al Loro Parque; Ingresso al Loro Parque.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Porta carta d''identità o passaporto: senza non si può viaggiare; Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande.'
+- pregunta: 'Quanto dura?'
+  respuesta: '12 ore.'
 categoria: parques
 keywords:
 - loro parque da gran canaria

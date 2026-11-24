@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: Magnus is a wooden roller coaster widely considered the star of the park. Titanes is the largest steel coaster. The Furia de Tritón is a popular water ride for mixed groups.
 - pregunta: Is there enough for young children?
   respuesta: Yes. The park has a dedicated children's area with gentler rides. The ancient civilisation theme is engaging for families with children aged 5 and over.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Terra Mítica, Partida de les Fonts, s/n, Benidorm, Alicante. Terra Mítica is 5 km from Benidorm centre. Buses run from Benidorm''s main bus station and from the main resort beaches. By car, take the N-332 towards Finestrat. Parking is available at the park.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day park entry; All standard rides and attractions; Live shows.'
 opinionEditorial: The Costa Blanca's best theme park. Terra Mítica punches above its size with a distinctive theme, several impressive coasters, and good live entertainment. Book ahead in summer to avoid sold-out days.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

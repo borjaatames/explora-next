@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, allemand, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en catamaran; Paddle et kayak; Banane et bouée tractée; Équipement de snorkeling; En-cas; Sodas, eau, sangria et bière.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Rendez-vous à l''entrée du port, face à la station-service; Peut être annulé si la mer est agitée.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Prise en charge à l''hôtel.'
 categoria: agua
 keywords:
 - catamaran puerto del carmen

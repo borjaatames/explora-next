@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Ermita de las Nieves, carretera TF-21, La Orotava (en la subida al Teide).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Telescopio; Explicaciones con puntero láser; Fotos gratis.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Necesitas transporte propio hasta el punto de encuentro; En altura hace frío: lleva ropa de abrigo.'
 categoria: nocturno
 keywords:
 - observacion estrellas teide

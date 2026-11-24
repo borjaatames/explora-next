@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: 'Der Guide spricht Englisch, Spanisch und Italienisch. Die Erklärungen auf Deutsch, Portugiesisch und Französisch gibt es per Audio oder Übersetzungs-App.'
 - pregunta: 'Kann ich stornieren?'
   respuesta: 'Ja. Die Stornierung ist bis 24 Stunden vor Beginn kostenlos, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an deiner Unterkunft in Madrid.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung in Madrid; Premium-Fahrzeug mit WLAN und Klimaanlage; Eintritte für Santo Tomé, Santa María la Blanca und den Alcázar von Segovia; Iberische Verkostung mit Getränk; Wasser; Steuern.'
 atraccionesRelacionadas:
 - toledo
 - segovia

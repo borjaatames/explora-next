@@ -54,6 +54,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 6
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Basis von Aerodifusión in Segovia (carretera, 40002 Segovia). Optionale Abholung in Madrid am Hotel Riu Plaza España (Gran Vía).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ballonfahrt von 1 Stunde; Frühstück mit Cava; Fahrturkunde; Fotoreportage als Erinnerung; Transfer im Geländewagen zwischen Landeplatz, Frühstück und Startplatz; Versicherung nach EU-Vorschriften (EASA).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Preis pro Person; Mindestalter 6 Jahre; Kinder nur in Begleitung eines Erwachsenen; Die Fahrtzeiten sind ungefähr und können sich wegen Wetter und Gewichtsgrenzen ändern.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt nach Madrid (optional, 40 € pro Person).'
 opinionEditorial: 'Segovia vom Ballon aus zu sehen, ist eines dieser Erlebnisse, an die man sich erinnert: Aquädukt, Kathedrale und Alcázar passen in einen einzigen Blick. Es ist nicht billig, aber Frühstück, Fotos und Urkunde sind inbegriffen, und das Unternehmen fährt hier seit Jahren. Wenn du kein Auto hast, lohnt sich die Abholung ab Madrid.'
 atraccionesRelacionadas:
 - segovia

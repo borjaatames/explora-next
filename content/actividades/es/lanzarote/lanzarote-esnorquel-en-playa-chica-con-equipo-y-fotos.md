@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recepción en la zona de esnórquel; Seguro de actividades acuáticas; Equipo de esnórquel completo; Monitor profesional; Media hora de teoría; 1 hora en el agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 6 años; Hay que saber nadar.'
 categoria: agua
 keywords:
 - esnórquel playa chica

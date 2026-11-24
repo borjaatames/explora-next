@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Environ une demi-journée."
 - pregunta: "Le déjeuner est-il compris ?"
   respuesta: "Non."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Points de rendez-vous à Séville selon l''option ; le point exact figure dans la réservation.'
 categoria: excursionesDia
 guiasRelacionadas:
 - excursions-depuis-seville

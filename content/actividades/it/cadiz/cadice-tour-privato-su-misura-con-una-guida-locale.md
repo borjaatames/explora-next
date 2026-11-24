@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "No, si pagano a parte."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, scegliete l'italiano alla prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Al vostro alloggio nella città di Cadice o in un punto concordato con la guida.'
 categoria: visitasGuiadas
 keywords:
 - "tour privato cadice"

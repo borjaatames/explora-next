@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'No. It is non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Madrid-Puerta de Atocha station (Calle Méndez Álvaro, 1).'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip Madrid-Toledo train; Private guide for 3 hours; Taxi from Toledo station and panoramic ride (about 20 minutes); Help from an agent to choose train times.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Entre otros, español, inglés, francés e italiano. Eliges el idioma al reservar.
 - pregunta: ¿Se puede cancelar?
   respuesta: Solo con un 50 % de reembolso hasta 24 horas antes. Si no tienes clara la fecha, mira otra opción con cancelación gratuita.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Junto a la taquilla del Generalife, paseo del Generalife (Granada). Busca al personal con camiseta morada de Crown Tours. Lleva el pasaporte o DNI: la entrada es nominativa.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Entradas a la Alhambra con Palacios Nazaríes; Guía oficial; Auriculares.'
 opinionEditorial: 'Una visita completa y muy bien valorada, con entradas incluidas y guía en tu idioma. Su pega es la cancelación: solo devuelven la mitad.'
 atraccionesRelacionadas:
 - alhambra

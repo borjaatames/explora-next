@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Los menores de 3 años entran gratis. De 3 a 11 años hay entrada infantil.
 - pregunta: ¿Incluye transporte?
   respuesta: No. El acuario está en Las Palmas; desde el sur de la isla se llega en coche o en guagua (autobús interurbano).
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Taquillas del acuario Poema del Mar, Muelle Sanapú, Las Palmas de Gran Canaria. Presenta la reserva en la taquilla del acuario; la entrada sin colas se canjea allí. El acuario está en la zona portuaria de Las Palmas, en el Muelle Sanapú.'
 opinionEditorial: 'Es el plan de lluvia o de calima por excelencia en Gran Canaria, y la ventana curva del tanque principal impresiona de verdad. Desde el sur hay unos 50 km de trayecto: compénsalo combinándolo con Vegueta o con Las Canteras.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria

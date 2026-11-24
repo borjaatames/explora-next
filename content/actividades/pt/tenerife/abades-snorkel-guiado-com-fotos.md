@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Em frente ao restaurante Magilu, Av. Ocira 27, Abades.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Snorkel com guia; Equipamento de snorkel; Fato comprido ou curto; Fotos e vídeos.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Quem não sabe nadar vê peixes mas não as tartarugas, que exigem nadar bastante; Não se podem usar óculos debaixo da máscara; Não recomendado a menores de 5 anos nem a pessoas constipadas.'
 categoria: agua
 keywords:
 - snorkel abades

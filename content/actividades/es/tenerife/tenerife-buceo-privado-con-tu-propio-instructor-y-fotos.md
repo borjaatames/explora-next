@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado desde y hasta tu alojamiento; Instructor de buceo titulado; Inmersión privada y personalizada; Charla de seguridad y explicación del equipo; Equipo de buceo completo; Fotos y vídeos submarinos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 8 años; No apto para embarazadas ni personas con problemas cardiacos; No vueles en las 24 horas siguientes a bucear.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Seguro de buceo personal (obligatorio para buceadores titulados; los principiantes están cubiertos); Comida y bebidas.'
 categoria: agua
 keywords:
 - buceo privado tenerife

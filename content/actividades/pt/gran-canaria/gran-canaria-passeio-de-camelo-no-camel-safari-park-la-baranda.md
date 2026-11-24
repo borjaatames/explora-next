@@ -47,6 +47,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Camel Safari Park La Baranda, estrada de Fataga km 12.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Passeio de camelo de 30 minutos; Entrada no parque para ver mais animais e o jardim.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a grávidas; Máximo 120 kg.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Bebidas; Comida para os animais.'
 categoria: aventura
 keywords:
 - passeio de camelo gran canaria

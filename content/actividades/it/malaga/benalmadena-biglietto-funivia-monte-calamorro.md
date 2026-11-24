@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'No: chiude con vento forte. Controlla le previsioni del giorno prima di andare.'
 - pregunta: Si può cancellare?
   respuesta: No, il biglietto non è rimborsabile.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Stazione a valle della funivia, Av. de Tívoli, Arroyo de la Miel (Benalmádena). Accanto a Tívoli World. Treno Cercanías C1 fino a Benalmádena-Arroyo de la Miel e 10 minuti a piedi.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Biglietto della funivia.'
 opinionEditorial: Il miglior panorama della Costa del Sol per meno di 20 €. Vai di mattina, quando c'è meno foschia, e se ti piace camminare scendi per uno dei sentieri.
 categoria: entradas
 keywords:

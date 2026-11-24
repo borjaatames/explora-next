@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha em frente ao seu hotel no sul (Jandía, Costa Calma, La Pared, Tarajalejo); Instrutor de surf; Fato de neoprene; Prancha de surf.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 12, grávidas ou pessoas com problemas cardíacos; Leve água, lanche, protetor solar e chapéu.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Água potável; Protetor solar.'
 categoria: agua
 keywords:
 - aula de surf costa calma

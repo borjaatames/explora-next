@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla español y italiano.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle de Alfonso XI, 2 (junto al Retiro), Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte privado desde Madrid; Guía privado; Entrada a la catedral de Cuenca; Entrada al Museo de Arte Abstracto Español; Refresco.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

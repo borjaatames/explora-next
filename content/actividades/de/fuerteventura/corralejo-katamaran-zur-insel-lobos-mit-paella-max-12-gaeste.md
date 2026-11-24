@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Der Katamaran ankert vor der Insel zum Baden, Schnorcheln, Paddeln und Essen."
 - pregunta: "Sind Essen und Getränke inklusive?"
   respuesta: "Ja, Paella und Getränke."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barracuda Water Taxi, im Hafen von Corralejo.'
 categoria: agua
 keywords:
 - "katamaran lobos corralejo"

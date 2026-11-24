@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Passeig de Lluís Companys 10, junto ao Arc de Triomf."
 - pregunta: "É preciso experiência?"
   respuesta: "Não, há treino antes."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Segway i2; Guia; Treino; Capacete e equipamento de segurança; Seguro.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-num-dia

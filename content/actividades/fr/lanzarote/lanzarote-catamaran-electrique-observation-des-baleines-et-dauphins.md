@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "De la marina de Puerto Calero, ponton F22."
 - pregunta: "Les explications sont-elles en français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en catamaran de 4 heures; Collations et fruits frais; Boissons sans alcool.'
 categoria: agua
 keywords:
 - "observation dauphins lanzarote"

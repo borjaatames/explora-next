@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The tour reaches the museum, but entry isn't included; your guide can advise if you want to go in later.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel in Bilbao.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide; Hotel pickup.'
 opinionEditorial: 'A great first look at Bilbao: old and new told by a local, at your own pace.'
 atraccionesRelacionadas:
 - casco-viejo

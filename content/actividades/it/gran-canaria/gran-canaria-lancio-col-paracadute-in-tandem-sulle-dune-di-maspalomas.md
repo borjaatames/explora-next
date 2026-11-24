@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 2 giorni prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Attrezzatura; Istruzioni e addestramento; Lancio da 3.000 metri; Caduta libera a oltre 200 km/h; Volo in paracadute di 5-8 minuti; Attività di 90 minuti.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Massimo 100 kg (il peso dichiarato viene verificato al check-in); Non adatto a bambini sotto i 9 anni, donne in gravidanza o se hai fatto immersioni nelle 24 ore precedenti.'
 categoria: aventura
 keywords:
 - paracadutismo gran canaria

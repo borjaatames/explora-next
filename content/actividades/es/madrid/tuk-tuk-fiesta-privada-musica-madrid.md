@@ -46,6 +46,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'El punto de encuentro se coordina en Madrid al confirmar la reserva; el recorrido termina en el lugar del centro de Madrid que elija el cliente.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Entrada/admisión; Transporte privado en tuk-tuk; Experiencia musical a bordo, con la música elegida por el grupo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No accesible para sillas de ruedas ni con cochecito de bebé; No se permite el consumo de alcohol durante el trayecto; Los bebés no pueden viajar en brazos y no hay sillas infantiles disponibles.'
 opinionEditorial: 'Esto no es un tour cultural: es una experiencia festiva pensada para animar el ambiente antes de salir de noche o para celebrar algo en grupo. Si buscáis historia y monumentos con calma, mejor elegid el tuk-tuk panorámico; si lo que queréis es música y buen rollo con vuestra gente, este es el producto. Eso sí, nada de alcohol a bordo.'
 atraccionesRelacionadas:
 - tuk-tuk

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Questa copre tutta la gamma e la visita è più lunga; quella da 5 si concentra sui vini premium.
 - pregunta: Posso cancellare?
   respuesta: Le condizioni sono indicate nel calendario prima del pagamento.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Cantina Es Fangar, Carrer Son Colom 23, Felanitx (Maiorca).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Visita guidata alla cantina; Degustazione di 6 vini; Tagliere di salumi e formaggi.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prezzo a persona; Cantina biologica a Felanitx, nel centro di Maiorca: serve l’auto; Visita in italiano, inglese o spagnolo.'
 opinionEditorial: 'Per chi vuole il quadro completo di una cantina maiorchina: più tempo nella tenuta e tutta la gamma nel bicchiere.'
 atraccionesRelacionadas:
 - gastronomia

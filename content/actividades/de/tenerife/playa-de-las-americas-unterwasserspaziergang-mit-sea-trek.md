@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Sea-Trek-Helm mit ständiger Luftzufuhr; Komplette Ausrüstung, keine Erfahrung nötig; Sicherheitseinweisung und geführter Unterwasserspaziergang; Zertifizierte Lehrer die ganze Zeit; Neoprenanzug; Schließfächer und Umkleiden.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 8 oder Schwangere.'
 categoria: agua
 keywords:
 - sea trek teneriffa

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'Con el día despejado, sí: desde el Pico de las Nieves y desde el Roque Nublo el Teide aparece sobre el mar de nubes a 100 km. Es más frecuente por la mañana.'
 - pregunta: ¿Hay versión desde el sur?
   respuesta: Sí, hay salidas con recogida en Maspalomas y Playa del Inglés. Esta es la que sale de Las Palmas; elige según dónde te alojes.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Las Palmas de Gran Canaria (punto exacto en el voucher). Recogida en puntos del centro de Las Palmas a primera hora. El punto y la hora exactos se indican en el voucher; confírmalos el día anterior.'
 opinionEditorial: 'La excursión al interior que hay que hacer en Gran Canaria: el Roque Nublo es el símbolo de la isla y las cumbres no tienen nada que ver con la costa. Sin coche, esta es la forma de verlo en un día con alguien que explica lo que ves.'
 guiasRelacionadas:
 - roque-nublo-como-subir

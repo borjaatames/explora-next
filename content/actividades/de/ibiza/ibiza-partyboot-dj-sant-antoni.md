@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: Nein. Inbegriffen sind 3 Getränke (ein Begrüßungsdrink und zwei Bier oder Sangria). Alles andere zahlst du an Bord.
 - pregunta: Wann ist die Party zum Sonnenuntergang?
   respuesta: Die Abfahrt zum Sonnenuntergang ist dienstags und donnerstags. An den anderen Tagen ist die Party tagsüber.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Rio Ibiza, Passeig de la Mar 8, Sant Antoni de Portmany. Es beginnt mit einer Vorparty von 2 Stunden im Rio Ibiza an der Promenade von Sant Antoni. Von dort geht die Gruppe zu Fuß zum Boot.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Vorparty von 2 Stunden im Rio Ibiza; Bootsparty von 3 Stunden; 3 Getränke: 1 Begrüßungsdrink und 2 Bier oder Sangria; DJ, Tänzer, Fotograf und Videograf.'
 opinionEditorial: 'Für Freundesgruppen, die in Sant Antoni feiern: Vorparty, Boot und Show in einem Ticket. Erwarte keine Open Bar: Es sind 3 Getränke.'
 guiasRelacionadas:
 - was-sehen-in-ibiza

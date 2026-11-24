@@ -43,6 +43,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer von Hotels im Süden Gran Canarias; Schiff von Agaete nach Santa Cruz de Tenerife; Bus von Santa Cruz zum Loro Parque; Eintritt in den Loro Parque.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Personalausweis oder Reisepass mitnehmen: ohne geht es nicht; Nicht geeignet bei eingeschränkter Mobilität.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '12 Stunden.'
 categoria: parques
 keywords:
 - loro parque ab gran canaria

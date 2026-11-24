@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Oui, à 10-12 km environ. Un bus part de Maspalomas et de Playa del Inglés. En voiture, comptez 15 à 20 minutes par une route de montagne.
 - pregunta: Y a-t-il un spectacle de dauphins ?
   respuesta: Oui, Palmitos Park a un delphinarium et le spectacle est inclus dans le billet. C’est l’un des rares endroits des Canaries où en voir.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Palmitos Park, Barranco de los Palmitos, s/n, Mogán, Gran Canaria. Le parc est situé dans le Barranco de los Palmitos, à une dizaine de kilomètres de Maspalomas. Un bus part de Playa del Inglés et de Maspalomas. En voiture, prenez la GC-503 depuis la GC-500 (Maspalomas). Le parking est gratuit.'
 opinionEditorial: 'Palmitos Park ne rivalise pas en taille avec Loro Parque, mais il a ce que l’autre n’a pas : un vrai ravin canarien qui fait de la promenade une expérience en soi. Le papillonnarium tropical est incontournable.'
 guiasRelacionadas:
 - que-voir-a-grande-canarie

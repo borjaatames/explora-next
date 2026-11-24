@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, insieme alle bevande."
 - pregunta: "Il cibo è incluso?"
   respuesta: "No, portate qualcosa da mangiare."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Marina di Puerto Calero; il punto esatto dipende dall''opzione ed è indicato alla prenotazione.'
 categoria: agua
 keywords:
 - "pesca lanzarote"

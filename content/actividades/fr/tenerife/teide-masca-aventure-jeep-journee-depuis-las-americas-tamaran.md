@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Du centre commercial X-Sur à Costa Adeje à 8 h 20, ou près de votre hôtel."
 - pregunta: "Combien de temps ?"
   respuesta: "Environ sept heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Chauffeur; Prise en charge à l''hôtel ou point proche à Las Américas.'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-billets-complets

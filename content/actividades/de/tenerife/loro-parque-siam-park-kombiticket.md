@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Je nach Saison meist 15 bis 25 € gegenüber Einzeltickets. Vergleichen Sie vor der Entscheidung die Einzelpreise.
 - pregunta: Ist der Loro Parque ein Zoo oder ein Zirkus?
   respuesta: Der Loro Parque versteht sich als Artenschutz-Zoo und unterstützt zahlreiche Schutzprojekte in freier Wildbahn. Die Shows mit Orcas und Delfinen zeigen trainiertes Verhalten in Gefangenschaft und sind umstritten – entscheiden Sie selbst, ob Sie sie sehen möchten.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Loro Parque: Av. Loro Parque, s/n, Puerto de la Cruz. Siam Park: C. Alcojora, s/n, Adeje. Die beiden Parks liegen in verschiedenen Gemeinden. Der offizielle Bus des Loro Parque fährt kostenlos ab Puerto de la Cruz. Zum Siam Park fährt der Bus (Guagua) 473 ab Costa Adeje. Zeigen Sie in jedem Park das Ticket auf dem Handy vor.'
 opinionEditorial: Die Kombination aus Loro Parque und Siam Park ist der Top-Ausflug auf Teneriffa und enttäuscht nicht. Der Loro Parque hat eine der beeindruckendsten Tiersammlungen Europas, der Siam Park eine der besten Thematisierungen aller Wasserparks. Wenn Sie zwei freie Tage auf Teneriffa haben, ist das die perfekte Investition.
 guiasRelacionadas:
 - loro-parque-tickets-preise

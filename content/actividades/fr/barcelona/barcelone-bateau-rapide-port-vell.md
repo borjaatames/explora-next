@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Jusqu’à 8, en sièges individuels, avec un pilote professionnel.
 - pregunta: Y a-t-il des restrictions ?
   respuesta: Âge minimum 12 ans ; déconseillé en cas de problèmes de dos ou cardiaques et pendant la grossesse.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant le début, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Marina Vela, Port Vell, Barcelone.'
 opinionEditorial: 'Pour ceux qui veulent plus de sensations qu’en voilier : une demi-heure dans le Port Vell et une demi-heure à fond le long de la côte. Court, intense et très amusant.'
 atraccionesRelacionadas:
 - barco

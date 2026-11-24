@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Je nach Option zwischen 8 Minuten und 1 Stunde."
 - pregunta: "Gibt es eine Gewichtsgrenze?"
   respuesta: "Ja, 136 kg pro Passagier."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Flugplatz Son Bonet (Marratxí): durch die offene Schranke geradeaus bis zum Gebäude, dann rechts, links, rechts bis zu den Fahnen «The Helicopter Centre».'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

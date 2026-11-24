@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'C. el Coronel 8, Los Cristianos.'
+- pregunta: 'What is included?'
+  respuesta: 'Professional guide; Kayak and paddle; Life jacket; Snorkelling gear; Free photos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Tours run mainly in English; other languages depend on staff availability; You must be able to swim.'
 categoria: agua
 keywords:
 - kayak los cristianos

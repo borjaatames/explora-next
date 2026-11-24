@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, due soste per bagno e snorkeling."
 - pregunta: "E con maltempo?"
   respuesta: "L'uscita viene rinviata o rimborsata."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Chiosco di legno nel porto di Port de Sóller, di fronte all''Hotel Miramar.'
 categoria: agua
 guiasRelacionadas:
 - serra-de-tramuntana-e-soller

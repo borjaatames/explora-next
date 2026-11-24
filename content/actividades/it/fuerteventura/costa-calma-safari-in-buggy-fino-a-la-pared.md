@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Con il prelievo dal vostro alloggio a Costa Calma."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, tra le altre lingue."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo presso il vostro alloggio a Costa Calma; l''orario viene confermato dopo la prenotazione.'
 categoria: aventura
 keywords:
 - "buggy costa calma"

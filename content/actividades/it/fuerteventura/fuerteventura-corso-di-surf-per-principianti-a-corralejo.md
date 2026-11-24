@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Sì, tavola e muta sono incluse."
 - pregunta: "C'è il trasporto?"
   respuesta: "Sì, dall'alloggio a Corralejo fino alla spiaggia e ritorno."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo alloggio a Corralejo; in alternativa ci si trova direttamente con la scuola (Surfintrip Academy, Calle Chorlitejo 8).'
 categoria: agua
 keywords:
 - "corso surf fuerteventura"

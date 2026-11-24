@@ -46,6 +46,14 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita in barca con skipper; Bevande: bibite, birra e acqua; Cibo: tortilla, insalata di pasta e formaggio; Attrezzatura da snorkeling; Paddle.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Quanto dura?'
+  respuesta: '4 ore.'
 categoria: agua
 keywords:
 - delfini mogan

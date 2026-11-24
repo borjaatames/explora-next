@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Une heure.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Huerto del Cura, Carrer Porta de la Morera 49, Elche. Depuis Alicante, train de banlieue C1 ou bus jusqu''à Elche (environ 30 minutes), puis 15 minutes à pied.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Entrée au Huerto del Cura.'
 opinionEditorial: Une oasis à une demi-heure d'Alicante pour 7 €. Associez-la à une promenade dans la Palmeraie et à la basilique Santa María pour une demi-journée parfaite.
 guiasRelacionadas:
 - excursions-costa-blanca-depuis-alicante

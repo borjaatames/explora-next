@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle Pantalanes 2, Puerto Calero.'
+- pregunta: 'What is included?'
+  respuesta: '1-hour guided tour with a professional instructor; Fully comprehensive insurance; Fuel.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Drivers 16+; Not suitable for pregnant women; Maximum 110 kg.'
 categoria: agua
 keywords:
 - jet ski puerto calero

@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transport; Pick-up all over the island; Equipment; Insurance; Refreshments.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 12; Not suitable for pregnant women or people with heart, back or breathing problems, epilepsy, claustrophobia, high blood pressure or a cold; Do not fly for 12 to 24 hours after diving.'
+- pregunta: 'What is not included?'
+  respuesta: 'Photos.'
 categoria: agua
 keywords:
 - try scuba diving lanzarote

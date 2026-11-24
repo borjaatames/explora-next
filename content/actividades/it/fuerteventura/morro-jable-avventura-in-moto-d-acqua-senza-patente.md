@@ -48,6 +48,10 @@ preguntasFrecuentes:
   respuesta: No, per moto d'acqua per due persone. Se volete una moto a testa, prenotate 3 partecipanti.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Carburante; Guida.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Il prezzo è per 2 persone su 1 moto d''acqua; Soggetto alle condizioni del mare; Il chiosco dell''operatore è sulla sabbia, con una bandiera rosa.'
 categoria: agua
 keywords:
 - moto d'acqua morro jable

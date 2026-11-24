@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'Several tapas at each of the three stops: usually enough for lunch or dinner.'
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel in Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide; Tapas at three venues; Drinks.'
 opinionEditorial: Eating well in Barcelona without falling into tourist menus is harder than it looks; a private local guide solves it and tells you about the city too.
 atraccionesRelacionadas:
 - tapas-barcelona

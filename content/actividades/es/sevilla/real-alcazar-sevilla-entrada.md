@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: 'Entre hora y media y dos horas: 45-60 minutos para los palacios y el resto para los jardines. En primavera, cuando los jardines están en flor, merece la pena alargar.'
 - pregunta: ¿Se puede combinar con la Catedral el mismo día?
   respuesta: Sí, están a 100 metros. Lo cómodo es Alcázar a primera hora y Catedral después de comer, o reservar el pack de 3 monumentos con acceso prioritario.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar. GetYourGuide confirma la entrada en un plazo de 48 horas.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Real Alcázar, Puerta del León, Patio de Banderas, Sevilla. La entrada es por la Puerta del León, en la plaza del Triunfo, junto a la Catedral. Presenta el ticket del móvil en la franja reservada; fuera de ella no se garantiza el acceso.'
 avisoReserva: Las entradas del Alcázar se agotan con varios días de antelación, también en GetYourGuide. Si no quedan, en la taquilla del Patio de Banderas venden entradas para el mismo día, con plazas limitadas por franja.
 opinionEditorial: El Alcázar es la visita número uno de Sevilla y la cola de taquilla en temporada pasa de la hora. Con entrada por franja entras a tu hora y te ahorras el sol. Reserva con días de antelación en primavera y Semana Santa.
 guiasRelacionadas:

@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour in bici con guida locale; Scelta tra bici normale ed elettrica; Soste fotografiche; Consigli locali; Racconti su storia e monumenti.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Bisogna saper andare in bici; I bambini sotto i 6 anni (max 20 kg, 140 cm) viaggiano gratis sul seggiolino.'
 categoria: aventura
 keywords:
 - tour in bici santa cruz de tenerife

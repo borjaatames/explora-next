@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn; bei späterer Stornierung werden 100 % berechnet.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn; bei späterer Stornierung werden 100 % berechnet.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kein Treffpunkt vor Ort: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst, wann und wo du willst in Alicante.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Zugang zur selbstgeführten Route durch Alicante über die App DareMapp, mit einem Referenzcode, den du nach dem Kauf erhältst; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; Verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; Zugang zu Restaurant- und Familientipps in der App.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Rollstuhl- und kinderwagenfreundlich, da du die Route in deinem eigenen Tempo gehst; Vorsicht vor allem beim steilen Aufstieg zur Burg Santa Bárbara; Assistenztiere sind willkommen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Ein Guide oder eine Begleitperson vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: Eine günstige, flexible Möglichkeit, das Zentrum von Alicante zu entdecken, ohne dich an feste Zeiten zu binden. Mit mehr als 10 Stopps ist die Route kürzer als in anderen Städten des Katalogs, daher empfehle ich sie eher als Ergänzung zu deinen eigenen Streifzügen denn als einziges Programm des Tages. Dir entgehen die Geschichten eines Live-Guides, dafür gewinnst du totale Freiheit.
 categoria: toursCiudad
 keywords:

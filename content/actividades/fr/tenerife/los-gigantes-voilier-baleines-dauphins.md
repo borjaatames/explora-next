@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: 'Sur le voilier, vous êtes dix personnes au maximum, avec repas maison et boissons inclus et du temps pour vous baigner. Les catamarans transportent beaucoup plus de passagers.'
 - pregunta: 'Risque-t-on le mal de mer ?'
   respuesta: 'Le voilier est stable, mais si vous êtes sujet au mal de mer, prenez quelque chose avant d''embarquer.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Third Element Charters, Calle Poblado Marinero, 20, Los Gigantes (38683 Santiago del Teide). Le bureau se trouve dans le port de plaisance de Los Gigantes. Il y a un parking public à côté du port. Arrivez 15 minutes avant le départ.'
 opinionEditorial: 'La sortie d''observation la mieux notée de Tenerife, et cela se voit : petit groupe, accueil soigné, repas et boissons inclus et une baignade au pied des falaises. Elle coûte plus cher qu''un catamaran, mais l''expérience est bien plus paisible.'
 guiasRelacionadas:
 - que-voir-a-tenerife

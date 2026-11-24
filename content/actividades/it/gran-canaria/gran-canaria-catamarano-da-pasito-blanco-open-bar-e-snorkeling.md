@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Dal porto di Pasito Blanco, vicino a Meloneras."
 - pregunta: "C'è il prelievo?"
   respuesta: "Sì, nel sud dell'isola, da prenotare in anticipo."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Capitano e guida; Open bar: birra, bibite, sangria, acqua e succhi; Assortimento di stuzzichini; Attrezzatura da snorkeling e tavole SUP; Prelievo nel sud dell''isola (da prenotare).'
 categoria: agua
 keywords:
 - "catamarano maspalomas"

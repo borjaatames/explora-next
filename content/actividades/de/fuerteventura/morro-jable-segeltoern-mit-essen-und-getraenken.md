@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Spanisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer vom Hotel; Schnorchelausrüstung; Essen und Getränke ohne Limit (Bier, Cava, Wein und Softdrinks).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Abholung: Costa Calma 10:25, Esquinzo/Butihondo 10:40, Jandía/Morro Jable 10:45 Uhr; Bei eigener Anreise: 10:50 Uhr vor dem Restaurant Cofradía im Hafen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Trinkgeld (freiwillig).'
 categoria: agua
 keywords:
 - segeltörn morro jable

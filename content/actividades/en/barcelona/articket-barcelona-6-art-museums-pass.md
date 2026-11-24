@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: The pass is valid for 12 months from activation, one entry per museum.
 - pregunta: Which museum first?
   respuesta: 'Whichever suits you: you can activate it at any of the six.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'At the first museum you visit (priority entrance). Go straight to the priority entrance of the museum you choose and swap the voucher for the Articket passport. Museu Picasso: Carrer de Montcada 15-23.'
 opinionEditorial: If you plan to see Picasso and Miró, Articket is the cheapest way to do it, and it throws in the MNAC's Romanesque art. It only makes sense if you visit at least three of the six.
 guiasRelacionadas:
 - barcelona-in-3-days

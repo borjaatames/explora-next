@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, allemand, italien, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à Jandía, Costa Calma, Morro Jable ou Esquinzo; Leçon de conduite et consignes de sécurité; Excursion guidée en buggy; Lunettes anti-poussière.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux moins de 7 ans et aux femmes enceintes; 140 kg maximum.'
 categoria: aventura
 keywords:
 - buggy jandia

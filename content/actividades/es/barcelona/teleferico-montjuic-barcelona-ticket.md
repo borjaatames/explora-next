@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: No. El ticket del teleférico te sube a la colina; el acceso al Castillo requiere entrada separada (generalmente 5€, gratis el primer domingo de mes).
 - pregunta: ¿Cuáles son las mejores horas para las vistas?
   respuesta: Al atardecer, desde la estación Castell, las vistas del sol cayendo sobre Barcelona y el mar son excepcionales. La mañana también ofrece luz limpia.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estación Paral·lel del Teleférico, Av. del Paral·lel / C. de la Font Florida, Barcelona. Metro L2/L3 hasta Paral·lel. La estación inferior del teleférico está junto a la salida del metro. Muestra la entrada en el móvil.'
 opinionEditorial: 'El teleférico de Montjuïc es la forma más espectacular de subir a la colina y uno de los miradores clásicos de Barcelona. Las vistas desde las cabinas acristaladas son perfectas para fotografías: el puerto, la Barceloneta y el skyline de la ciudad. Sube en el teleférico y baja a pie (o al revés) para aprovechar mejor la excursión.'
 guiasRelacionadas:
 - barcelona-en-3-dias

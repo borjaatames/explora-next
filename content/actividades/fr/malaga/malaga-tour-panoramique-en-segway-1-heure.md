@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Non, l'initiation est incluse."
 - pregunta: "À partir de quel âge ?"
   respuesta: "Dès 8 ans."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'TopSegway Málaga, Calle Ángel Ganivet 1, dans le centre.'
 categoria: toursCiudad
 keywords:
 - "segway malaga 1 heure"

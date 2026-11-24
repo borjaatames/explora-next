@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Quad and protective gear; Guide; Refreshments; Pick-up.'
+- pregunta: 'What is not included?'
+  respuesta: 'Photos; Security deposit or extra insurance.'
+- pregunta: 'How long does it last?'
+  respuesta: '3 hours.'
 categoria: aventura
 keywords:
 - guided quad tour teide

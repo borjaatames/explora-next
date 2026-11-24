@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barranquismo Los Cernícalos, GC-130, Telde.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide; Ausrüstung; Versicherung; Fotos; Snack.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für unter 12, über 70, Schwangere oder Menschen mit Schwindel; Höchstens 110 kg.'
 categoria: aventura
 keywords:
 - canyoning los cernícalos

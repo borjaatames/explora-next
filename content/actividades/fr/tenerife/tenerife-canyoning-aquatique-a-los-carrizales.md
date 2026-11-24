@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide de canyoning; Tout l''équipement de canyoning; Assurance responsabilité civile et accidents.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux enfants de moins de 14 ans; Savoir nager est obligatoire; Réservé aux personnes sportives : 2 heures de marche.'
 categoria: aventura
 keywords:
 - canyoning tenerife

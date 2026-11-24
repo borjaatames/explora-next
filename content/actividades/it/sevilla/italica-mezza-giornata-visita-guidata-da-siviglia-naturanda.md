@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Circa mezza giornata."
 - pregunta: "Il pranzo è incluso?"
   respuesta: "No."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Punti d''incontro a Siviglia secondo l''opzione; il punto esatto è nella prenotazione.'
 categoria: excursionesDia
 guiasRelacionadas:
 - escursioni-da-siviglia

@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, italiano, neerlandés, alemán, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Magilu, Av. Ocira 27, Abades (costa este de Tenerife).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Máscara, tubo, aletas, escarpines y neopreno; Monitores multilingües; Esnórquel guiado de 50 minutos; Fotos y vídeos gratis; Ayuda extra para niños pequeños y mayores; Seguro y agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que saber nadar; entre 30 y 140 kg; El operador te escribe el día antes para pedirte las tallas; Llega con el bañador puesto.'
 categoria: agua
 keywords:
 - esnórquel tenerife

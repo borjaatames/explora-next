@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Un peu : on reste debout trois heures, avec des pauses."
 - pregunta: "À partir de quel âge ?"
   respuesta: "Dès 9 ans et 30 kg."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'TopSegway Málaga, Calle Ángel Ganivet 1, dans le centre.'
 categoria: toursCiudad
 keywords:
 - "segway malaga 3 heures"

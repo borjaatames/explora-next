@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: 'Sim: há tempo livre em Formentera e em Espalmador. Em Formentera pode alugar bicicleta, mota ou carro com desconto.'
 - pregunta: Desembarca-se em Es Vedrà?
   respuesta: 'Não. Es Vedrà é um ilhéu protegido: o barco aproxima-se para o ver e tirar fotografias, mas não é possível desembarcar.'
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (ponto da Excursiones-Ibiza). Partida às 10:00 da marginal de Sant Antoni, no ponto da Excursiones-Ibiza do Passeig de ses Fonts. Chegue 20 minutos antes.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Barco com tripulação; Pequeno-almoço, almoço (paella) e jantar; Bar aberto de cerveja, sangria e refrigerantes; Brinde com cava ao pôr do sol; Máscara e tubo de snorkel; Pranchas de paddle surf.'
 opinionEditorial: 'Se só vai fazer um passeio de barco em Ibiza, este junta o melhor: Es Vedrà, a água de Espalmador e Formentera, com todas as refeições incluídas. É caro, mas é o dia inteiro.'
 categoria: agua
 keywords:

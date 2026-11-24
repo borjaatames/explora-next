@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Sì, secondo l'opzione, in bus dalle principali località."
 - pregunta: "Si può pagare con carta?"
   respuesta: "Al bar e al negozio no: solo contanti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Centro equestre in senda del Pilar 4, 29620 Torremolinos. Ritirate il biglietto alla cassa; arrivate in anticipo.'
 categoria: espectaculos
 guiasRelacionadas:
 - malaga-in-due-giorni

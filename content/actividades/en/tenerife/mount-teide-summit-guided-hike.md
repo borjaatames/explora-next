@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: No, the ticket (about €22) is paid separately.
 - pregunta: Do I need a summit permit?
   respuesta: Yes, the last stretch to the peak needs a permit booked on Tenerife ON, the island council website (€15 for non-Canary residents). After booking, check with the provider whether it is included or you need to get it yourself.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Teide cable car car park, Teide National Park. You need your own car or a taxi; from the south of the island, allow 1 hour.'
 opinionEditorial: The safest way to stand on the roof of Spain. It is pricey and demanding, but the guide sets the pace for the altitude and the reviews are near perfect.
 guiasRelacionadas:
 - climbing-mount-teide

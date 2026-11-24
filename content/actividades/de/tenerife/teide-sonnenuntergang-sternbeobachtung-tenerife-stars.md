@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "An den offiziellen Treffpunkten im Süden oder in Puerto de la Cruz."
 - pregunta: "Was ziehe ich an?"
   respuesta: "Warme Kleidung: Oben ist es nachts kalt."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an den offiziellen Treffpunkten im Süden Teneriffas oder in Puerto de la Cruz (je nach Option); bei Anreise mit eigenem Auto keine Abholung.'
 categoria: nocturno
 guiasRelacionadas:
 - teide-tickets-ausverkauft

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, paella e bevande."
 - pregunta: "Da dove si parte?"
   respuesta: "Dal porto di Corralejo."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Barracuda Water Taxi, nel porto di Corralejo.'
 categoria: agua
 keywords:
 - "delfini fuerteventura"

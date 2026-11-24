@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Todo o equipamento de mergulho; Seguro de mergulho; Recolha e regresso ao hotel; Acompanhamento e instrução de um membro certificado da equipa; Desconto em cursos seguintes.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 10 anos; Não recomendado a grávidas; É obrigatório um questionário médico; algumas condições exigem atestado médico.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Bocal pessoal (4 €); Fotografia subaquática (34 €).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

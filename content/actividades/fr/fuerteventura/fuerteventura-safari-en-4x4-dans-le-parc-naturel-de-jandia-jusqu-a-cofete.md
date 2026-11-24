@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, allemand, italien, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Explications dans votre langue; Prise en charge à l''hôtel dans les zones prévues; 4x4 fermé pour 6 passagers + chauffeur; Assurance responsabilité civile.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé en cas de problèmes de dos ou de mobilité réduite; Présentez votre confirmation, imprimée ou sur téléphone.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas.'
 categoria: excursionesDia
 keywords:
 - safari 4x4 cofete

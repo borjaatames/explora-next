@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'MPC Yacht Charter, yacht El Mojo Picón, Los Gigantes marina (C. Poblado Marinero).'
+- pregunta: 'What is included?'
+  respuesta: 'Shared or private cruise; Snorkelling gear; Snacks and drinks; Lunch; Safety equipment.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility or heart problems.'
 categoria: agua
 keywords:
 - sailing los gigantes

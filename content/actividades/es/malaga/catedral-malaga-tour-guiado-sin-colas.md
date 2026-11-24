@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: No. Además, las cubiertas están cerradas por las obras del tejado hasta, previsiblemente, finales de 2027.
 - pregunta: ¿Cuánto dura?
   respuesta: Hora y media.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Catedral de Málaga, centro histórico. El punto exacto depende de la opción reservada: revisa el bono. Si llegas tarde, pierdes el tour y la entrada.'
 opinionEditorial: 'La mejor nota de las visitas de Málaga y con razón: el guía hace entender una catedral que por libre es solo grande. Por 24 € con la entrada, buena compra.'
 guiasRelacionadas:
 - malaga-en-dos-dias

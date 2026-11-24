@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Ja, an Ihrer Unterkunft im Süden; nur beim Flug um 17:30 Uhr wird ein Treffpunkt vereinbart."
 - pregunta: "Sind Fotos im Preis enthalten?"
   respuesta: "Nein, GoPro-Videos und Fotos können vor Ort gekauft werden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung zur vereinbarten Zeit an Ihrer Unterkunft im Süden; Treffpunkt an der Playa de la Enramada, Costa Adeje.'
 categoria: aventura
 keywords:
 - "tandem gleitschirm teneriffa"

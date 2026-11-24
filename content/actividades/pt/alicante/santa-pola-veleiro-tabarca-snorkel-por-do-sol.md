@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Não. Basta saber nadar se for entrar na água. O paddle surf e as máscaras de snorkel estão incluídos.
 - pregunta: Em que idioma é?
   respuesta: 'A GetYourGuide oferece-o em inglês, mas a tripulação é local. Não é uma visita guiada: o importante é a navegação e o banho.'
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Marina Miramar, Puerto Deportivo de Santa Pola (Muelle Norte). Partida da marina Marina Miramar de Santa Pola, Muelle Norte s/n. Chegue 15 minutos antes; o patrão espera-o no pontão do veleiro.'
 opinionEditorial: 'É a forma mais tranquila de desfrutar de Tabarca: de veleiro, com pouca gente e a tomar banho onde o ferry não para. O regresso ao entardecer é o que a torna diferente.'
 guiasRelacionadas:
 - o-que-ver-em-alicante

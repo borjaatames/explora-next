@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Muta, calzari, leash, lycra, assicurazione e armadietto."
 - pregunta: "Quanti siamo in gruppo?"
   respuesta: "Al massimo 12 persone."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'All''incrocio tra Av. Las Américas e Av. Rafael Puig Lluvina, entrata laterale del centro commerciale Parque Santiago 3, scendendo le scale.'
 categoria: aventura
 keywords:
 - "lezione surf tenerife"

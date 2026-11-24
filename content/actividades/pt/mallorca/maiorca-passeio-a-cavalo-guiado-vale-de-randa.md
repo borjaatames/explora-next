@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "De carro ou autocarro até Llucmajor/Algaida, com recolha."
 - pregunta: "Quanto tempo dura?"
   respuesta: "Cerca de duas horas e meia."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Centro equestre no vale de Randa; quem chega de autocarro é recolhido em Llucmajor ou Algaida. Detalhes na reserva.'
 categoria: aventura
 guiasRelacionadas:
 - o-que-ver-em-maiorca

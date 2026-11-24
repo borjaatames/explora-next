@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: At the end, tapas and a drink in a bar in the centre, with the guide's recommendations for the rest of your trip.
 - pregunta: From what age can children take part?
   respuesta: From 7 years old; child seats can be rented for younger children.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Tim Bikes, Calle del Espejo, 9 (28013 Madrid). A 5-minute walk from Ópera metro, between Plaza de Ramales and Calle Mayor. Arrive 10 minutes early for the safety briefing.'
 opinionEditorial: 'Three hours that let you see half of Madrid without wearing yourself out, along quiet routes and with a guide who recommends where to eat. Very highly rated. If hills put you off, the e-bike option is worth it.'
 guiasRelacionadas:
 - madrid-in-3-days

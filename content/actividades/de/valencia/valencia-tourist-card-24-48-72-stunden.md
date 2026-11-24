@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Nein, dort gibt es nur einen Rabatt."
 - pregunta: "Für wen lohnt sie sich?"
   respuesta: "Für alle, die viel mit Bus und Metro fahren und mehrere Museen besuchen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option: Abholung am Touristenbüro oder digitale Karte; Details in der Buchung.'
 categoria: entradas
 guiasRelacionadas:
 - valencia-in-2-tagen

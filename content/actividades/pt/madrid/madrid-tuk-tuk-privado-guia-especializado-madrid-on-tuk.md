@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Sim, há guias em português, inglês e espanhol."
 - pregunta: "Quanto tempo dura?"
   respuesta: "De 1 a 4 horas, conforme a opção."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'No centro de Madrid; o ponto exato aparece na confirmação da reserva.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-num-dia

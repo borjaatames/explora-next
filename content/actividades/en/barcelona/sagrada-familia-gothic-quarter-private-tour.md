@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Yes, with a skip-the-line ticket and the guide.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaça de Catalunya, Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private licensed guide; Skip-the-line Sagrada Familia ticket; Transport between the Gothic Quarter and Sagrada Familia.'
 opinionEditorial: Medieval and Gaudí's Barcelona in one morning, with the transfer sorted. Very practical for a first day in the city.
 atraccionesRelacionadas:
 - sagrada-familia

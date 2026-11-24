@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento de mergulho; Seguro de mergulho; Técnicas básicas e comunicação debaixo de água; Um mergulho de 40 minutos a 1 hora; Instrutor; Água e café.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Mínimo 2 pessoas por reserva; Idade mínima 10 anos; Não recomendado a grávidas ou pessoas com mobilidade reduzida.'
 categoria: agua
 keywords:
 - batismo de mergulho los cristianos

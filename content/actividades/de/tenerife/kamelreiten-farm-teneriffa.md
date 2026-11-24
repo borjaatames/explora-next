@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, je nach Option."
 - pregunta: "Gibt es Einschränkungen?"
   respuesta: "Nicht für Schwangere, Personen mit Tierallergie oder über 110 kg."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option: Kamelpark bei La Camella (Arona) im Süden Teneriffas oder Abholung; Details nach der Buchung.'
 categoria: parques
 guiasRelacionadas:
 - was-sehen-auf-teneriffa

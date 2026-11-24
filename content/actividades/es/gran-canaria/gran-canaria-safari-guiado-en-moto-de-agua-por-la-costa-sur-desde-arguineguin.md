@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Arguineguín (Plus Code Q847+MRW). Llega 20 minutos antes; si llegas tarde no puedes unirte.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Safari guiado en moto de agua; Moto de agua moderna; Combustible; Chaleco salvavidas; Charla de seguridad.'
 categoria: agua
 keywords:
 - safari moto de agua gran canaria

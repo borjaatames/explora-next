@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti al ristorante Magilu, Av. Ocira 27, Abades.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita di snorkeling con guida; Attrezzatura da snorkeling; Muta lunga o corta; Foto e video.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Chi non sa nuotare vede i pesci ma non le tartarughe, per cui bisogna nuotare a lungo; Non si possono portare occhiali sotto la maschera; Non adatto sotto i 5 anni o con il raffreddore.'
 categoria: agua
 keywords:
 - snorkeling abades

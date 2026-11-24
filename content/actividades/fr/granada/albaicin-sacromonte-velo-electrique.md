@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Français, espagnol et anglais.
 - pregunta: Y a-t-il des limites de taille ou de poids ?
   respuesta: 'Oui : 1,50 m minimum et 120 kg maximum.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de los Cuchilleros, 12 (Grenade). Près du bar La Trastienda, prenez la rue qui monte à droite. Vérifiez le point exact dans votre confirmation.'
 opinionEditorial: La façon la plus amusante de parcourir l'Albaicín et le Sacromonte, éprouvants à pied à cause des pentes, avec un guide francophone.
 atraccionesRelacionadas:
 - albaicin-sacromonte

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Tour führt in den Norden."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Sammelpunkten in den Ferienorten; Ort und Zeit stehen in der Bestätigung.'
 categoria: excursionesDia
 keywords:
 - "césar manrique tour lanzarote"

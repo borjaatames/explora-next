@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Instrutor PADI (máx. 3 mergulhadores cada); Todo o equipamento de mergulho; 2 mergulhos de 50 minutos; Seguro da atividade; Fotos e vídeo profissionais de ambos os mergulhos; Certificado digital.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 10 anos; Não recomendado a grávidas, pessoas com problemas cardíacos ou epilepsia; Tem de compreender bem o briefing de segurança no idioma que reservar.'
 categoria: agua
 keywords:
 - mergulho playa chica

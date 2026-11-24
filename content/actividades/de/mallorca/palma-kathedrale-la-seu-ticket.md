@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: Zwischen 1904 und 1914 gestaltete Gaudí das Innere von La Seu neu. Von ihm stammen der eindrucksvolle Baldachin aus Schmiedeeisen und Stoff über dem Hauptaltar, das versetzte Chorgestühl und mehrere Keramikarbeiten. Die Wirkung ist beeindruckend und ganz anders als in üblichen gotischen Innenräumen.
 - pregunta: Wann ist die beste Zeit für den Besuch?
   respuesta: Früh am Morgen (9-10 Uhr), bevor die Gruppen der Kreuzfahrtschiffe kommen. Die Rosette ist am frühen Nachmittag mit Gegenlicht am spektakulärsten.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Catedral de Palma, Plaça de la Seu, Palma de Mallorca. Die Kathedrale liegt in der Altstadt von Palma gegenüber dem Parc de la Mar. Geh vom Zentrum zu Fuß (15 Minuten vom Passeig del Born) oder nimm den Bus. Zeig dein Handyticket am Eingang.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt ohne Anstehen in Kathedrale und Museum.'
 opinionEditorial: 'Die Kathedrale von Palma gehört zu den großen gotischen Monumenten Europas und ist das Erste, was Mallorca dir von der Fähre oder dem Flugzeug aus zeigt. Spar dir die Schlange: Im Sommer füllt sich die Kathedrale schnell, und das Erlebnis drinnen ist es wert.'
 guiasRelacionadas:
 - was-sehen-auf-mallorca

@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: Non. Le billet est remis dans l'autocar, le transfert est obligatoire.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour aux hôtels du sud de Tenerife; Entrée au Loro Parque; Transferts.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prise en charge uniquement dans le sud de l''île; Les billets sont distribués dans l''autocar : le transfert est obligatoire pour entrer.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner.'
 categoria: parques
 keywords:
 - loro parque transfert

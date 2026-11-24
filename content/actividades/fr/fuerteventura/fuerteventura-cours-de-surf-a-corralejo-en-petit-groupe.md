@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Six au maximum par moniteur."
 - pregunta: "Le matériel est-il fourni ?"
   respuesta: "Oui, planche, leash et combinaison sont inclus."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Protest Surfcenter, Calle Drago, Local 1, La Capellanía (à 2 km de Corralejo, au-dessus du supermarché, près de la voie rapide).'
 categoria: agua
 keywords:
 - "cours de surf fuerteventura"

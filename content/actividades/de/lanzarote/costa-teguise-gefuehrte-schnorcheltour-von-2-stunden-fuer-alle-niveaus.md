@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Schnorchelausrüstung; Versicherung; Theoretische Einführung; Lehrer; Abholung und Rücktransfer in Costa Teguise, Tahíche und Arrecife.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Du musst schwimmen können; Nicht für Kinder unter 8.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Fotos.'
 categoria: agua
 keywords:
 - schnorcheln costa teguise

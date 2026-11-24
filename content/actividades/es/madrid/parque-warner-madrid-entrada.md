@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: En temporada alta (verano, puentes) sí; en temporada baja no es necesario.
 - pregunta: ¿Hay descuento para niños?
   respuesta: Sí, precio reducido para menores de 120 cm y para mayores de 60 años. Menores de 100 cm gratis.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Parque Warner Madrid, Autovía A-4, km 22, San Martín de la Vega. A 35 km al sur de Madrid. Autobús directo desde Conde de Casal (Madrid). Con la entrada en el móvil, accede directamente.'
 opinionEditorial: Parque Warner es el parque de atracciones con mejor producción temática cerca de Madrid. Sus cinco zonas tienen una identidad visual impecable y su ambientación está entre las mejores de Europa. La pega habitual son las colas en verano; reserva online con antelación para no pagar más en taquilla.
 guiasRelacionadas:
 - madrid-con-ninos

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel o alojamiento de Madrid; el guía te espera en la recepción con una acreditación.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte privado; Guía privado; Entradas a los monumentos del itinerario.'
 atraccionesRelacionadas:
 - escorial
 - palacio-real

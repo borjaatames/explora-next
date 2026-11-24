@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Die kleinste Option mit einer schnellen Runde; mehr Runden kosten mehr."
 - pregunta: "Ab welchem Alter?"
   respuesta: "Ab 16 Jahren."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Circuito de Maspalomas, GC-500, km 46,5, San Bartolomé de Tirajana.'
 categoria: aventura
 keywords:
 - "ferrari fahren gran canaria"

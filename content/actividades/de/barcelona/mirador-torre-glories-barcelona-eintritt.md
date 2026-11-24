@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, es ist einer der besten Blicke auf sie."
 - pregunta: "Was ist Cloud Cities?"
   respuesta: "Eine begehbare Installation in der Kuppel, je nach Option."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Mirador Torre Glòries, Avinguda Diagonal 211 (Metro Glòries, L1).'
 categoria: entradas
 guiasRelacionadas:
 - barcelona-in-2-tagen

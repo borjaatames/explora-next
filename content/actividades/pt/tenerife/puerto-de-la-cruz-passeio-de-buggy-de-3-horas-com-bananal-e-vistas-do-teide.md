@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Combustível; Óculos para pista; Casacos corta-vento; Água; Lanche (amendoins).'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Condutores e passageiros com 18 anos ou mais; Não recomendado a grávidas.'
 categoria: aventura
 keywords:
 - buggy puerto de la cruz

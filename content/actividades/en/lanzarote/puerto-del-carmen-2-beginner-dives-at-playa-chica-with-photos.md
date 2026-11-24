@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'What is included?'
+  respuesta: 'PADI-certified instructor (max. 3 divers each); All diving equipment; 2 dives of 50 minutes; Activity insurance; Professional photos and video of both dives; Digital completion certificate.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 10; Not suitable for pregnant women, people with heart problems or epilepsy; You must fully understand the safety briefing in the language you book.'
 categoria: agua
 keywords:
 - diving playa chica

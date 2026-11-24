@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, loja E2, Maspalomas.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Todo o material: prancha, leash, top de neoprene e calções ou fato comprido; Aula de surf; Fruta e água; Fotos suas a surfar; 10 % de desconto na loja; Seguro de acidentes a terceiros.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Os dias de surf dependem muito das condições; Não recomendado a menores de 8 anos, a quem não sabe nadar nem acima de 110 kg.'
 categoria: agua
 keywords:
 - aula de surf playa del ingles

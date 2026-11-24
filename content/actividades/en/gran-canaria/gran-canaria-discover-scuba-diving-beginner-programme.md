@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'All diving equipment; Dive insurance; Hotel pick-up and drop-off; Guidance and instruction from a qualified team member; Discount on further courses.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 10; Not suitable for pregnant women; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+- pregunta: 'What is not included?'
+  respuesta: 'Personal mouthpiece (€4); Underwater photography (€34).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

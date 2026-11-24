@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Sim, a partir dos 3 anos. A lancha é rápida, por isso não é recomendada a grávidas nem a pessoas com problemas de costas.
 - pregunta: Inclui recolha?
   respuesta: Sim, a partir dos hotéis e pontos do sul da ilha que escolhe ao reservar.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Recolha no sul de Fuerteventura; a partida é do porto de Morro Jable. Escolhe o ponto de recolha ao reservar (hotéis e paragens da zona de Jandía e Costa Calma). Se for por conta própria, o barco parte do porto de Morro Jable.'
 opinionEditorial: 'Uma saída curta e dinâmica para ver golfinhos no sul de Fuerteventura, com um bom tempo de snorkel e recolha incluída. Se procura algo mais tranquilo, o veleiro ou o catamarã de Morro Jable são mais calmos.'
 atraccionesRelacionadas:
 - sur

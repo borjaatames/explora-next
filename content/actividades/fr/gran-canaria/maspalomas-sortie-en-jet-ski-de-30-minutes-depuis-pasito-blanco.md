@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Bergantín 6, Pasito Blanco. Vous recevez les détails sur WhatsApp la veille.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Équipement; Assurance accident; Moniteur de sécurité; Toilettes; Parking gratuit.'
 categoria: agua
 keywords:
 - jet ski maspalomas

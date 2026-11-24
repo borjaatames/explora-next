@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: 'Es uno de los más grandes del mundo en gótico: mide 12,5 metros de diámetro y tiene 1.236 piezas de vidrio de colores. El fenómeno óptico del 2 de febrero (Candelaria) es famoso entre los fotografos.'
 - pregunta: ¿Cuándo es mejor visitarla?
   respuesta: A primera hora de la mañana (cuando abre) para evitar grupos turísticos. La luz entra mejor desde el este por las mañanas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Catedral de Mallorca, Plaça de la Seu, s/n, 07001 Palma. En el corazón del centro histórico de Palma, frente a la bahía. Fácilmente accesible desde el Paseo de la Explanada o el Palau de l''Almudaina.'
 opinionEditorial: La Catedral de Palma es uno de los mejores ejemplos del gótico mediterráneo y tiene la sorpresa añadida de la intervención de Gaudí. La combinación de rosetón, baldaquino y vista al mar es única en el mundo. El precio de la entrada es muy razonable para la experiencia. Visita imprescindible en Palma.
 guiasRelacionadas:
 - que-ver-en-mallorca

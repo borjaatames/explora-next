@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "C'est votre accès à la Moreneta."
 - pregunta: "Y a-t-il un audioguide ?"
   respuesta: "Oui, il est inclus."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Office de tourisme de Montserrat.'
 categoria: entradas
 guiasRelacionadas:
 - montserrat-billets-complets

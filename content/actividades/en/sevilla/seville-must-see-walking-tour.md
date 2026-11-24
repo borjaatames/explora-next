@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: English, Spanish, French and Italian.
 - pregunta: Do we go inside the cathedral or the Alcázar?
   respuesta: No, you see them from outside. The team can help you book tickets to visit them afterwards.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de los Refinadores, 7 (Seville). In the Santa Cruz quarter, by the Don Juan Tenorio statue. The tour ends at the same point.'
 opinionEditorial: A flexible, inexpensive tour to get your bearings on day one in Seville, with the option to do it privately and in your language.
 atraccionesRelacionadas:
 - tours-a-pie

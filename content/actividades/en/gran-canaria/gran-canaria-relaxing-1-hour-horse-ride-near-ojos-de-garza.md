@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Italian, French, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Horse Riding Canaria, Camino del Cardonal, Ojos de Garza (Telde). Tell them the level and age of each rider.'
+- pregunta: 'What is included?'
+  respuesta: 'Helmet and back protector.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 5, pregnant women or people over 65; Maximum 95 kg and 2 m tall.'
 categoria: aventura
 keywords:
 - horse riding gran canaria

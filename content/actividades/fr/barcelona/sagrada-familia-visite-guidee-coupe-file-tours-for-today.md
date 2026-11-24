@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, individuels."
 - pregunta: "Peut-on rester après ?"
   respuesta: "Oui, avec du temps libre dans la basilique."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option, près de la Sagrada Família ; le point exact figure dans la réservation.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-billets-epuises

@@ -45,6 +45,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Aluguer de iate privado para até 8 pessoas; Bar aberto: cerveja, sangria, vinho branco, uma garrafa de cava, água, refrigerantes e sumo de maçã; Tapas; Equipamento de snorkel e 2 pranchas de paddle; Descontos em mota de água, parasailing ou scooter subaquática.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a grávidas.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Mota de água 40 €/10 min, parasailing 40 €/10 min, scooter subaquática 40 €/40 min (não depois das 17:00); Toalhas (10 €) e protetor solar.'
 categoria: agua
 keywords:
 - iate privado gran canaria

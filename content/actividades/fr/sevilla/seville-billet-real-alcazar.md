@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: 'Entre une heure et demie et deux heures : 45 à 60 minutes pour les palais et le reste pour les jardins. Au printemps, quand les jardins sont en fleurs, cela vaut la peine de prolonger.'
 - pregunta: Peut-on le combiner avec la cathédrale le même jour ?
   respuesta: Oui, ils sont à 100 mètres l'un de l'autre. Le plus pratique est l'Alcázar à la première heure et la cathédrale après le déjeuner, ou de réserver la formule 3 monuments avec accès prioritaire.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié. GetYourGuide confirme le billet sous 48 heures.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Real Alcázar, Puerta del León, Patio de Banderas, Séville. L''entrée se fait par la Puerta del León, sur la Plaza del Triunfo, à côté de la cathédrale. Présentez le billet sur votre téléphone pendant le créneau réservé ; en dehors de celui-ci, l''accès n''est pas garanti.'
 avisoReserva: Les billets de l'Alcázar sont épuisés plusieurs jours à l'avance, y compris sur GetYourGuide. S’il n’en reste plus, le guichet du Patio de Banderas vend des billets pour le jour même, en nombre limité par créneau.
 opinionEditorial: L'Alcázar est la visite numéro un de Séville et, en saison, la file au guichet dépasse l'heure. Avec un billet horodaté, vous entrez à votre heure et évitez le soleil. Réservez plusieurs jours à l'avance au printemps et pendant la Semaine sainte.
 categoria: entradas

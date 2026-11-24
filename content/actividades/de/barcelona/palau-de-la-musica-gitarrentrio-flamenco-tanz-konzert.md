@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Im Palau de la Música Catalana."
 - pregunta: "Gibt es Flamenco-Tanz?"
   respuesta: "Ja, zusammen mit Gitarre und Percussion."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Palau de la Música Catalana, Carrer Palau de la Música 4-6. Den mobilen Gutschein vor dem Einlass an der Kasse gegen Tickets tauschen.'
 categoria: espectaculos
 guiasRelacionadas:
 - barcelona-in-2-tagen

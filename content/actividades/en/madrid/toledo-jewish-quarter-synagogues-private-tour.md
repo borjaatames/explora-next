@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de Zocodover, Toledo.'
+- pregunta: 'What is included?'
+  respuesta: 'Private official guide; Monument tickets; Support from a travel agent.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

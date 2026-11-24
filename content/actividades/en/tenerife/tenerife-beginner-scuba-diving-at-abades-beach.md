@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Diving equipment; Insurance; Online dive log; Dive instructor; Free pick-up and drop-off from confirmed points in Tenerife; Drinking water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch; Underwater photos.'
 categoria: agua
 keywords:
 - diving abades

@@ -54,6 +54,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 6
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Aerodifusión base in Segovia (carretera, 40002 Segovia). Optional pickup in Madrid at Hotel Riu Plaza España (Gran Vía).'
+- pregunta: 'What is included?'
+  respuesta: '1-hour hot air balloon flight; Breakfast with cava; Flight certificate; Souvenir photo report; 4x4 transfers between landing site, breakfast and launch site; Activity insurance under EU EASA regulations.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Price per person; Minimum age 6; children must be accompanied by an adult; Flight times are approximate and may change due to weather and weight limits.'
+- pregunta: 'What is not included?'
+  respuesta: 'Pickup and return to Madrid (optional, €40 per person).'
 opinionEditorial: 'Seeing Segovia from a balloon is one of those experiences you remember: the Aqueduct, the Cathedral and the Alcázar all fit in a single view. It isn''t cheap, but breakfast, photos and a certificate are included, and the company has been flying here for years. If you don''t have a car, the Madrid pickup is worth adding.'
 atraccionesRelacionadas:
 - segovia

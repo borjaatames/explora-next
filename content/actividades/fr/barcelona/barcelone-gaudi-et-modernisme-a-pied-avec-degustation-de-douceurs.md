@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Du chocolat catalan et des douceurs traditionnelles."
 - pregunta: "La visite existe-t-elle en français ?"
   respuesta: "Oui, la langue se choisit à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Devant le Rock Shop Sagrada Família, Avinguda de Gaudí 1. Indiquez un numéro joignable sur WhatsApp.'
 categoria: toursCiudad
 keywords:
 - "visite gaudi barcelone français"

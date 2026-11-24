@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, depuis l'hôtel Regina, au centre de Barcelone."
 - pregunta: "Que se passe-t-il en cas de mauvais temps ?"
   respuesta: "Le vol est reporté ou remboursé."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Devant l''hôtel Regina, Carrer de Bergara 4, Barcelone. L''heure exacte est confirmée deux jours avant le vol.'
 categoria: aventura
 keywords:
 - "montgolfière barcelone"

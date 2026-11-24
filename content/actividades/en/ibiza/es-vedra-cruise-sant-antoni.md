@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: 'Yes: there is free time in Formentera and at Espalmador. In Formentera you can rent a bike, scooter or car at a discount.'
 - pregunta: Do we land on Es Vedrà?
   respuesta: 'No. Es Vedrà is a protected islet: the boat gets close for views and photos, but landing is not allowed.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (Excursiones-Ibiza point). Departure at 10:00 from the Sant Antoni seafront, at the Excursiones-Ibiza point on Passeig de ses Fonts. Arrive 20 minutes early.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat with crew; Breakfast, lunch (paella) and dinner; Open bar of beer, sangria and soft drinks; Cava toast at sunset; Snorkel mask and tube; Paddleboards.'
 opinionEditorial: 'If you only do one boat trip in Ibiza, this one combines the best: Es Vedrà, the water at Espalmador and Formentera, with all meals included. It is pricey, but it is the whole day.'
 guiasRelacionadas:
 - what-to-see-in-ibiza

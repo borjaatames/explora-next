@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla francés, español, inglés, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía y patrón; Barco; Bebida gratis (cerveza, agua o refresco); Combustible; Tasas portuarias.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '2 horas.'
 categoria: agua
 keywords:
 - avistamiento ballenas costa adeje

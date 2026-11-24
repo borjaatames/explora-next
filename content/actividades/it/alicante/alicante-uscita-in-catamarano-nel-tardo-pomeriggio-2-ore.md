@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Una bevanda alcolica, poi acqua, bibite e succhi illimitati."
 - pregunta: "L'uscita può essere annullata?"
   respuesta: "Sì, con meno di 15 passeggeri o in caso di maltempo."
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Adventurer Catamaran, Avenida Conde de Vallellano, nel porto di Alicante.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in catamarano di 2 ore; Una birra o un calice di cava, vino o tinto de verano; Acqua, bibite e succhi; Attrezzatura da snorkeling in prestito (lasciando un documento).'
 categoria: agua
 keywords:
 - "catamarano alicante"

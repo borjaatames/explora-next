@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "No, i monumenti si vedono dall'esterno."
 - pregunta: "Quanti siamo in gruppo?"
   respuesta: "Al massimo 15 partecipanti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Bike Me Around, Carrer de les Carabasses 15, Ciutat Vella, Valencia.'
 categoria: toursCiudad
 keywords:
 - "tour in bicicletta valencia"

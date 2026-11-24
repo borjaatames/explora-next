@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Sì, dai 4 anni e accompagnati da un adulto nello stesso kayak.
 - pregunta: Si può cancellare?
   respuesta: Sì, gratis fino a 24 ore prima.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Spiaggia della Granadella, Jávea. A circa 20 minuti in auto dal centro di Jávea. In estate l''accesso alla cala è regolamentato: informati su come arrivare al momento della prenotazione.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Kayak e pagaia; Giubbotto di salvataggio; Attrezzatura da snorkeling; Guida.'
 opinionEditorial: 'Una delle migliori mattinate di mare della Costa Blanca: scogliere, grotte e acqua trasparente. Vale il viaggio da Alicante.'
 categoria: agua
 keywords:

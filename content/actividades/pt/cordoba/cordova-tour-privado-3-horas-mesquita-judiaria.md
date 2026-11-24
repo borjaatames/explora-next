@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Não, é por grupo: 290 € no total."
 - pregunta: "O guia fala português?"
   respuesta: "Sim, o tour pode fazer-se em português; escolha o idioma ao reservar."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Fuente de Santa María, junto à oliveira do Patio de los Naranjos da Mesquita-Catedral (Calle Cardenal Herrero, 18).'
 categoria: visitasGuiadas
 keywords:
 - "guia em português córdova"

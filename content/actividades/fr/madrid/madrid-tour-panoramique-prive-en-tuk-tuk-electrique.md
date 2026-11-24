@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Le tour panoramique court ; le tour de 2 heures coûte 42,50 € par personne pour 2."
 - pregunta: "Les entrées sont-elles incluses ?"
   respuesta: "Non, les monuments se voient de l'extérieur."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Isabel II (Ópera), en face du Starbucks : les tuk-tuks sont jaune et blanc. La prise en charge à l''hôtel n''est comprise que dans l''option la plus chère.'
 categoria: toursCiudad
 keywords:
 - "tuk tuk madrid"

@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Ein alkoholisches Getränk sowie Wasser, Softdrinks und Säfte unbegrenzt."
 - pregunta: "Kann die Fahrt ausfallen?"
   respuesta: "Ja, wenn weniger als 15 Passagiere gebucht haben oder das Wetter schlecht ist."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Adventurer Catamaran, Avenida Conde de Vallellano, im Hafen von Alicante.'
 categoria: agua
 keywords:
 - "katamaran alicante"

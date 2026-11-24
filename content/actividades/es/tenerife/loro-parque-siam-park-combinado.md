@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Normalmente entre 15 y 25€ frente a comprar las entradas por separado, dependiendo de la temporada. Comprueba el precio de cada entrada individual antes de decidir.
 - pregunta: ¿Loro Parque es un zoo o un circo?
   respuesta: Loro Parque se presenta como un zoo de conservación y financia proyectos en libertad a través de Loro Parque Fundación. Tiene sesiones con orcas y delfines que el parque llama demostraciones de comportamiento; mantener cetáceos en cautividad es un tema polémico, así que decide tú si quieres verlas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Loro Parque: Av. Loro Parque, s/n, Puerto de la Cruz. Siam Park: C. Alcojora, s/n, Adeje. Los dos parques están en municipios diferentes. El bus oficial de Loro Parque sale gratis desde Puerto de la Cruz. Siam Park tiene parada de guagua (bus 473 desde Costa Adeje). Muestra las entradas en el móvil en cada parque.'
 opinionEditorial: El combo Loro Parque + Siam Park es la excursión estrella de Tenerife y no decepciona. Loro Parque tiene la colección de animales más impresionante de Europa y Siam Park el mejor diseño temático de todos los parques acuáticos españoles. Si tienes dos días libres en Tenerife, esta es la inversión perfecta.
 guiasRelacionadas:
 - que-ver-en-tenerife

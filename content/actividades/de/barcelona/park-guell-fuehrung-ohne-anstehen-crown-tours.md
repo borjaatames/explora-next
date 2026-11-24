@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Etwa 55 Minuten."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Ctra. del Carmel 23, gegenüber dem Parkplatz."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Lizenzierter lokaler Guide; Ticket ohne Anstehen für den Park Güell; Audiosystem mit Kopfhörern.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-tickets-ausverkauft

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, la visite guidée se fait à l'extérieur ; l'intérieur se visite librement."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Devant Puppy, la sculpture florale de l''entrée du musée (Mazarredo Zumarkalea, 66).'
 categoria: visitasGuiadas
 keywords:
 - "guggenheim bilbao visite guidée"

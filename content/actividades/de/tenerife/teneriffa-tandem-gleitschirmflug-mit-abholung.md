@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Tandem-Gleitschirmflug; Abholung in Costa Adeje, Los Cristianos und Las Américas; Transfer zum Startplatz; Persönlicher, mehrsprachiger Tandempilot; Sicherheitseinweisung und zertifizierte Ausrüstung; Haftpflicht- und Unfallversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Gleitschirmfliegen hängt vom Wetter ab: Buche nicht zu kurz vor der Abreise; Nicht für Kinder unter 4, in der Schwangerschaft oder über 100 kg.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'GoPro-Fotos und -Videos (30 €); Essen und Getränke; Abholung in Los Cristianos werktags ab 12 Uhr; Rückfahrt zum Hotel.'
 categoria: aventura
 keywords:
 - gleitschirm teneriffa

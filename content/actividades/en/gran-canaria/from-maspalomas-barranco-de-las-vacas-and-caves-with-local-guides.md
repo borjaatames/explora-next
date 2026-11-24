@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up at set points in Maspalomas; Walking poles if needed; Light picnic: sandwich and fruit; 2 local guides; Air-conditioned minivan, max. 6 travellers.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'About 4 km on foot, mostly easy with some rocky or uneven stretches; Not suitable for children under 6 or people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Water.'
 categoria: excursionesDia
 keywords:
 - barranco de las vacas tour

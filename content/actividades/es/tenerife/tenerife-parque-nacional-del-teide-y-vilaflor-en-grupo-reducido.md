@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: El guía habla neerlandés, inglés, francés, alemán, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado y recogida en el sur en minibús de hasta 8; Bastones de senderismo en el parque nacional; Sillitas infantiles disponibles.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida (puedes llevar la tuya); Billetes del teleférico.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '5 horas.'
 categoria: excursionesDia
 keywords:
 - teide grupo reducido

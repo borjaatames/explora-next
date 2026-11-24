@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Istruttore certificato PADI (max 3 sub); Tutta l''attrezzatura; 2 immersioni di 50 minuti; Assicurazione; Foto e video professionali di entrambe le immersioni; Certificato digitale.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Età minima 10 anni; Non adatto a donne in gravidanza, persone con problemi cardiaci o epilessia; Devi capire perfettamente il briefing di sicurezza nella lingua prenotata.'
 categoria: agua
 keywords:
 - immersione playa chica

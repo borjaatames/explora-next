@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Uma hora para a Cartuxa; reserve outra para passear pela vila.
 - pregunta: É possível cancelar?
   respuesta: Sim, gratuitamente até 24 horas antes.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Real Cartuja de Valldemossa, plaza de la Cartuja, Valldemossa. Autocarro TIB 203 a partir de Palma (cerca de 30 minutos). De carro, parques de estacionamento pagos à entrada da vila.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete para a Real Cartuxa e para o palácio do rei Sancho; Audioguia no telemóvel; Recital de piano (consoante o horário).'
 opinionEditorial: A visita imprescindível de Valldemossa. Não é um grande museu, mas a história de Chopin, o recital e as vistas sobre a Tramuntana fazem com que valha os 13 €.
 categoria: entradas
 keywords:

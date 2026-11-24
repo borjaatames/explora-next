@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'Não entra nos palácios e não há reembolso. Chegue ao recinto pelo menos 30 minutos antes do seu horário: da entrada principal até aos Palácios são 10-15 minutos a pé.'
 - pregunta: Porque custa mais do que no site oficial?
   respuesta: O bilhete oficial custa cerca de 22 €. Esta opção inclui a gestão e, sobretudo, disponibilidade quando o site do Patronato já está esgotado, o que na época alta é o habitual.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável. Os bilhetes da Alhambra são nominativos e não admitem alterações.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Alhambra, Pabellón de acceso, Granada. O pavilhão de acesso fica junto ao estacionamento da Alhambra, no extremo leste do recinto. Miniautocarro C30/C32 a partir da Plaza Isabel la Católica, ou 20-25 minutos a pé subindo pela Cuesta de Gomérez. Leve o documento de identificação ou o passaporte: o bilhete é nominativo.'
 avisoReserva: Os bilhetes da Alhambra esgotam com semanas de antecedência
 opinionEditorial: 'Se vai por conta própria e quer a Alhambra inteira, este é o bilhete. Reserve assim que tiver datas: é o monumento mais visitado de Espanha e os horários da manhã desaparecem num instante.'
 guiasRelacionadas:

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'No mucho: la bici es eléctrica y el ritmo lo marca tu grupo.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaça del Teatre, Rambla, Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía con licencia; Bici eléctrica y casco; Degustación de tapas.'
 opinionEditorial: En bici eléctrica se cubre en una mañana lo que a pie llevaría el día, y en privado se para donde queráis. Las tapas del final son un buen cierre.
 atraccionesRelacionadas:
 - gotico

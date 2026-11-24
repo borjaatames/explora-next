@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Uma bebida alcoólica e depois água, refrigerantes e sumos à discrição."
 - pregunta: "O passeio pode ser cancelado?"
   respuesta: "Sim, com menos de 15 passageiros ou com mau tempo."
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Adventurer Catamaran, Avenida Conde de Vallellano, no porto de Alicante.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Passeio de catamarã de 2 horas; Uma cerveja ou um copo de cava, vinho ou tinto de verano; Água, refrigerantes e sumos; Equipamento de snorkel emprestado (mediante documento de identificação).'
 categoria: agua
 keywords:
 - "catamarã alicante"

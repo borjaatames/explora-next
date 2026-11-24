@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sim. O Oceanogràfic de Valência tem 45.000 animais de 500 espécies em 10 ecossistemas distintos, incluindo o maior túnel subaquático da Europa (35 m).
 - pregunta: Vale a pena o 3 em 1 face aos bilhetes individuais?
   respuesta: Sim; a poupança face à compra dos três bilhetes em separado é significativa, sobretudo para famílias.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável: depois de reservado não pode ser cancelado nem alterado.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Ciudad de las Artes y las Ciencias, Av. del Professor López Piñero, 7, 46013 Valência. Autocarro EMT, linhas 35, 40 ou 95, a partir do centro de Valência. De bicicleta ou a pé a partir do centro histórico são cerca de 20 minutos. Levante ou valide o bilhete no Oceanogràfic (o primeiro a abrir).'
 opinionEditorial: 'A Cidade das Artes e das Ciências é a visita mais espetacular de Valência. O combinado 3 em 1 é a opção mais inteligente: só o Oceanogràfic já vale a excursão, e o Hemisfèric e o Museu completam o dia. Precisa do dia completo e de energia; não tente fazê-lo pela metade.'
 guiasRelacionadas:
 - valencia-em-2-dias

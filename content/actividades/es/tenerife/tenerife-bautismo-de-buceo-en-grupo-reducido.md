@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo de buceo; Seguro de buceo; Técnicas básicas y comunicación bajo el agua; Una inmersión de 40 minutos a 1 hora; Instructor; Agua y café.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Mínimo 2 personas por reserva; Edad mínima 10 años; No apto para embarazadas ni personas con movilidad reducida.'
 categoria: agua
 keywords:
 - bautismo de buceo los cristianos

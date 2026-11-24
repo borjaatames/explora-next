@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle français, anglais, espagnol, italien.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Fun Teide Quad, route TF-51 km 10,75, La Escalona. Arrivez 30 minutes avant ; aucun remboursement en cas de retard.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Casque et gants.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Permis de conduire physique obligatoire (photos refusées) ; permis international pour les résidents hors Europe; Conducteurs de 18 ans minimum; 150 kg maximum par quad ; 2 billets = 1 quad double.'
 categoria: aventura
 keywords:
 - quad teide coucher de soleil

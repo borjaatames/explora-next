@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, salvo pioggia."
 - pregunta: "Dove si trova?"
   respuesta: "In carrer Nou de la Rambla, a due passi dalla Rambla."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Secondo il fornitore non c''è cancellazione gratuita; verificate le condizioni prima di prenotare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Palau Güell, carrer Nou de la Rambla 3-5, vicino alla Rambla.'
 categoria: entradas
 guiasRelacionadas:
 - barcellona-in-2-giorni

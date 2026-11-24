@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Kaffee oder Tee, Softdrinks und Wasser."
 - pregunta: "Bekomme ich Fotos?"
   respuesta: "Ja, alle Fotos der Tour sind gratis."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Mar Blanco 6, hinter dem Hotel H10, am Restaurant Don Darío (San Bartolomé de Tirajana).'
 categoria: aventura
 keywords:
 - "buggy tour gran canaria"

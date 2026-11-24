@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Yukan activity car park, Bahía Feliz.'
+- pregunta: 'What is included?'
+  respuesta: 'Guide; Harness, helmet and via ferrata kit; Head torch; Snack; Photos; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Ages 14 to 60, up to 100 kg and at least 145 cm; Not for people with vertigo or a fear of heights.'
 categoria: aventura
 keywords:
 - via ferrata gran canaria

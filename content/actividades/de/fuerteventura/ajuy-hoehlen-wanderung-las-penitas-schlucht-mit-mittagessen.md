@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "Ja, das Mittagessen und der Transport sind im Preis enthalten."
 - pregunta: "Wo geht es los?"
   respuesta: "In Corralejo, am Parkplatz vor dem Wasserpark Acua, um 8:00 Uhr."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Av. Nuestra Señora del Carmen 41, Corralejo: Parkplatz vor dem Eingang des Wasserparks Acua, unter der großen Kinderfigur mit orangefarbenem Haar. Start um 8:00 Uhr.'
 categoria: aventura
 keywords:
 - "ajuy höhlen ausflug"

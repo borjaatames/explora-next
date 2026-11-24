@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Con il treno Cercanías C1 fino a Fuengirola, circa 45 minuti, e 10 minuti a piedi.
 - pregunta: Si può cancellare?
   respuesta: No, il biglietto non è rimborsabile.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Treno Cercanías C1 da Malaga fino a Fuengirola (capolinea) e 10 minuti a piedi.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Ingresso al Bioparc Fuengirola.'
 opinionEditorial: Uno zoo moderno, di quelli incentrati sulla conservazione e sugli habitat, non sulle gabbie. Per una mattinata con i bambini sulla Costa del Sol è tra il meglio che ci sia.
 categoria: parques
 keywords:

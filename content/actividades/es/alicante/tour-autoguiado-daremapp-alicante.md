@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio; cargo del 100% si se cancela con menos antelación.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Alicante.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Acceso a la ruta autoguiada por Alicante a través de la app DareMapp, con código de referencia enviado tras la compra; Audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); Libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; Disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; Acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Apto para toda la familia: edad mínima 1 año; Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; especialmente en la subida al Castillo de Santa Bárbara, con pendiente pronunciada; Se permiten animales de servicio.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Guía físico o acompañante (es una experiencia 100% autónoma y autoguiada); Transporte hasta el punto de inicio de la ruta; Entradas a monumentos o museos del recorrido (donde aplique).'
 opinionEditorial: Es una opción barata y flexible para conocer el centro histórico de Alicante sin comprometerte a un horario fijo. Con +10 paradas es un recorrido más corto que otras ciudades del catálogo, así que lo recomiendo sobre todo como complemento a un paseo por tu cuenta, no como la única actividad del día. Echarás en falta las anécdotas de un guía en vivo, pero ganas en libertad total.
 categoria: toursCiudad
 keywords:

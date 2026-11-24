@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Circa quattro ore."
 - pregunta: "Quando andare?"
   respuesta: "Al tramonto, per la luce migliore."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nel centro di Valencia secondo l''opzione; il punto esatto è nella prenotazione.'
 categoria: excursionesDia
 guiasRelacionadas:
 - gite-da-valencia

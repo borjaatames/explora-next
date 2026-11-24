@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Non, une formation est faite avant."
 - pregunta: "Que voit-on ?"
   respuesta: "La Plaza Mayor, l'Almudena et le Palais royal."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Boutique All Ways Madrid, dans le centre historique ; l''adresse exacte figure dans la réservation.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Spanish, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off; 4x4 ride; Yaiza village; Papagayo beach; El Golfo and Charco de los Clicos; Timanfaya visitor centre.'
+- pregunta: 'What is not included?'
+  respuesta: 'Snacks; Drinks; Meals.'
+- pregunta: 'How long does it last?'
+  respuesta: '6 hours.'
 categoria: excursionesDia
 keywords:
 - 4x4 tour lanzarote

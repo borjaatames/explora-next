@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Casque Sea Trek avec alimentation en air continue; Tout l''équipement, sans expérience requise; Briefing de sécurité et marche guidée; Moniteurs diplômés à vos côtés; Combinaison; Casiers et vestiaires.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux moins de 8 ans et aux femmes enceintes.'
 categoria: agua
 keywords:
 - sea trek tenerife

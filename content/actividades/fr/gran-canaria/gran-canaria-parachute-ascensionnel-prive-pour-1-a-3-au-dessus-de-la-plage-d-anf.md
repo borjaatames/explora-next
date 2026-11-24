@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Anfi del Mar 2, Mogán.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Toutes taxes; Assurance; Gilet de sauvetage.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Poids total maximum 200 kg.'
 categoria: agua
 keywords:
 - parachute ascensionnel anfi

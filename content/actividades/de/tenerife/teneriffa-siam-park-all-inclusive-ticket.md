@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Essen und Getränke an allen Ständen außer dem Teehaus; manche alkoholischen Getränke und Süßes kosten extra.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Haupteingang des Siam Park, Avenida Siam, Costa Adeje.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in den Siam Park; Mittagessen mit Getränken; Handtücher; Schließfach; All-inclusive-Armband (Essen und Getränke an allen Ständen außer dem Teehaus).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Trotz bevorzugtem Zugang kann es in der Hochsaison Schlangen geben; Für manche Rutschen gelten Gewichtsgrenzen.'
 categoria: parques
 keywords:
 - siam park all inclusive

@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: Meist lokale Tapas, frisch gegrillter Fisch, Salate, Brot und Softdrinks. Das genaue Menü hängt vom Anbieter ab; kläre es bei der Buchung, wenn du besondere Ernährungswünsche hast.
 - pregunta: Warum ist das teurer als andere Walbeobachtungen?
   respuesta: Die längere Dauer (5-6 Stunden statt 2-3), das inklusive Buffet-Mittagessen und der Premium-Katamaran erklären den höheren Preis. Es ist durchgehend die bestbewertete Walbeobachtung auf Teneriffa, und mit dem inklusive Essen kostet es etwa so viel wie eine kürzere Fahrt plus separates Mittagessen.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen im Süden Teneriffas (Gegend Costa Adeje). Wird auf dem Gutschein bestätigt. Der genaue Abfahrtshafen steht auf deinem Buchungsgutschein. Der Ausflug startet an der Südküste Teneriffas. Rechne 15 Minuten von Las Américas oder Los Cristianos zum Hafen.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ganztägiger Katamaranausflug (5-6 Stunden); Buffet-Mittagessen an Bord; Badestopp; Wal- und Delfinbeobachtung.'
 opinionEditorial: Wenn du auf Teneriffa Wale beobachten willst, dann richtig. Der ganze Tag, das Buffet und die zusätzliche Zeit auf dem Wasser ergeben die beste Version dieses Erlebnisses. Besser bewertet als jede andere Walbeobachtung auf der Insel.
 guiasRelacionadas:
 - walbeobachtung-teneriffa

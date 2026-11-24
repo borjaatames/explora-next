@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, à Costa Calma, Esquinzo et Jandía, si vous choisissez un point de prise en charge à la réservation."
 - pregunta: "D'où part le bateau ?"
   respuesta: "Du port de Morro Jable, à 10 h."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: '35 passagers maximum; Apportez maillot de bain, serviette et crème solaire; Non accessible en fauteuil roulant.'
 categoria: agua
 keywords:
 - "croisière fuerteventura morro jable"

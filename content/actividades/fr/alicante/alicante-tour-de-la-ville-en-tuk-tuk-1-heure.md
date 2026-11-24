@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Sur demande ; sinon, rendez-vous devant la Casa Carbonell."
 - pregunta: "Le chauffeur parle-t-il français ?"
   respuesta: "Oui, la langue se choisit à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Casa Carbonell, Passeig Esplanada d''Espanya, 1 ; prise en charge à l''hôtel sur demande.'
 categoria: toursCiudad
 keywords:
 - "tuk tuk alicante"

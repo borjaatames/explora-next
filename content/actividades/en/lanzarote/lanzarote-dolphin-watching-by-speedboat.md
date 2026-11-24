@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Boat; Life jacket; Skipper; Water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Sightings of dolphins or other animals are not guaranteed; Not for children under 2 or during pregnancy.'
+- pregunta: 'What is not included?'
+  respuesta: 'Tips; Food; €5 extra per person.'
 categoria: agua
 keywords:
 - dolphin watching lanzarote

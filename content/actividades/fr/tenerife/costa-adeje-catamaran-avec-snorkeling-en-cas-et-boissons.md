@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerto Colón, Pantalán 4, Costa Adeje.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Skipper et matelot; En-cas et boissons : bière, sodas et eau; Équipement de snorkeling; Solarium; Sortie en catamaran de 3 heures; Pause baignade et snorkeling.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Non accessible en fauteuil roulant.'
 categoria: agua
 keywords:
 - catamaran costa adeje

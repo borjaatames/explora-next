@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: On the sailing boat there are ten people at most, with homemade food and drinks included and time to swim. Catamarans carry many more passengers.
 - pregunta: Might I get seasick?
   respuesta: The sailing boat is stable, but if you tend to get seasick, take something before boarding.
+- pregunta: 'What food and drink is included?'
+  respuesta: 'Fresh fruit and homemade sandwiches, with vegetarian, vegan and gluten-free options, plus drinks: cava, wine, beer and soft drinks.'
+- pregunta: 'Where does it leave from, and is there a transfer?'
+  respuesta: 'From the Third Element Charters office in Los Gigantes marina (Calle Poblado Marinero, 20). The transfer to the harbour is not included; there is public parking next to the harbour. Arrive 15 minutes before departure.'
 opinionEditorial: 'The highest-rated whale-watching trip in Tenerife, and it shows: small group, friendly service, food and drinks included and a swim beneath the cliffs. It costs more than a catamaran, but the experience is much more relaxed.'
 guiasRelacionadas:
 - whale-watching-tenerife

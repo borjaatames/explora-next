@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Quad und Schutzausrüstung; Guide; Erfrischungen; Abholung.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Fotos; Kaution oder Zusatzversicherung.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '3 Stunden.'
 categoria: aventura
 keywords:
 - geführte quadtour teide

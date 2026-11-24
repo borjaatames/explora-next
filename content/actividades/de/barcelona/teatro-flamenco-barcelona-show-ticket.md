@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Nein, es ist ein Theater. Im Born gibt es nur wenige Minuten entfernt zahlreiche Restaurants und Tapas-Bars.
 - pregunta: Wie lange dauert es?
   respuesta: Eine Stunde. Kommen Sie zum Einlass, 30 Minuten vorher.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Teatro Flamenco Barcelona, Carrer dels Abaixadors, 10 (08003 Barcelona). In Ciutat Vella, 5 Gehminuten von der Metrostation Jaume I (Linie 4) und der Basilika Santa Maria del Mar. Einlass ist 30 Minuten vorher.'
 opinionEditorial: 'Hochwertiger Flamenco in einem kleinen Saal zu einem moderaten Preis, ohne das Pflicht-Abendessen der großen Tablaos. Ideal vor einem Abendessen im Born.'
 atraccionesRelacionadas:
 - flamenco

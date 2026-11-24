@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Da Puerto de la Cruz alle 8:45."
 - pregunta: "Quanto dura?"
   respuesta: "Circa otto ore."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Alle 8:45 all''ufficio Tamaran/Volcanic, calle Aceviño 12, Puerto de la Cruz (o prelievo vicino al vostro hotel).'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-biglietti-esauriti

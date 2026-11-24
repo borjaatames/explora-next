@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Varia consoante o operador, mas costuma incluir sanduíches, fruta, snacks e bebidas (água, refrigerantes, álcool com moderação). Consulte os pormenores exatos ao confirmar a reserva.
 - pregunta: Porque é o mais caro dos três passeios?
   respuesta: Porque dura o dobro (4 horas face a 2) e inclui comida e bebida ilimitada a bordo, além do equipamento de snorkel. O preço por hora de atividade é muito competitivo.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto no sul de Tenerife (confirmado no voucher). O ponto exato de partida é confirmado no voucher. Geralmente na zona de Los Cristianos ou Costa Adeje. Chegue 20-30 minutos antes da saída.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'O buffet distingue este passeio dos restantes; é uma boa opção se saírem logo de manhã; Sendo de 4 horas, têm mais tempo na água e mais tempo de observação; Avaliado com 4,8/5: a melhor pontuação dos passeios de baleias em Tenerife disponíveis no GYG.'
 opinionEditorial: O passeio mais completo e mais bem avaliado (4,8★) dos três disponíveis em Tenerife. Se procura uma experiência de meio dia sem se preocupar em levar comida nem bebida, este é o que se destaca.
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

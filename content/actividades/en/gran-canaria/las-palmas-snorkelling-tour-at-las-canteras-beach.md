@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
+- pregunta: 'What is included?'
+  respuesta: '3-hour tour; 1 to 1.5 hours of snorkelling; Qualified instructor; Snorkelling gear; Water and fruit; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The start time depends on weather and tide and is confirmed after booking.'
 categoria: agua
 keywords:
 - snorkeling las canteras

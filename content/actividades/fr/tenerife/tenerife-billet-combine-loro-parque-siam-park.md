@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: En général entre 15 et 25 € par rapport aux billets séparés, selon la saison. Comparez avec le prix de chaque billet avant de décider.
 - pregunta: Loro Parque est-il un zoo ou un cirque ?
   respuesta: Loro Parque se présente comme un zoo de conservation et finance des projets en milieu naturel via la Loro Parque Fundación. Il propose des séances avec orques et dauphins qu’il appelle démonstrations de comportements ; garder des cétacés en captivité fait débat, à vous de décider si vous voulez y assister.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Loro Parque : Av. Loro Parque, s/n, Puerto de la Cruz. Siam Park : C. Alcojora, s/n, Adeje. Les deux parcs sont dans des communes différentes. Le bus officiel de Loro Parque part gratuitement de Puerto de la Cruz. Siam Park a un arrêt de guagua (bus 473 depuis Costa Adeje). Présentez les billets sur votre téléphone à chaque parc.'
 opinionEditorial: Le combiné Loro Parque + Siam Park est l’excursion phare de Tenerife et ne déçoit pas. Loro Parque possède l’une des collections animales les plus impressionnantes d’Europe et Siam Park la meilleure thématisation des parcs aquatiques espagnols. Si vous avez deux jours libres à Tenerife, c’est l’achat idéal.
 guiasRelacionadas:
 - que-voir-a-tenerife

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasferimento da e per il tuo alloggio; Istruttore subacqueo certificato; Immersione privata e personalizzata; Briefing di sicurezza e spiegazione dell''attrezzatura; Attrezzatura completa; Foto e video subacquei.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Età minima 8 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci; Non volare nelle 24 ore successive.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Assicurazione subacquea personale (obbligatoria per i brevettati; i principianti sono coperti); Cibo e bevande.'
 categoria: agua
 keywords:
 - immersione privata tenerife

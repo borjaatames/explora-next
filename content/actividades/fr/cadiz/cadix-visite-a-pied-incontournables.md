@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Oui, il existe une option groupe privé ; le prix dépend du nombre de personnes.
 - pregunta: Entre-t-on dans la cathédrale ?
   respuesta: Non. Le parcours passe devant la cathédrale, mais l'entrée n'est pas incluse.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de San Juan de Dios, près de l''hôtel de ville (Cadix). La fiche GetYourGuide indique la plaza de las Tortugas comme adresse mais cite l''hôtel de ville, sur la plaza de San Juan de Dios : vérifiez le point exact dans votre confirmation.'
 opinionEditorial: Une visite classique et bien notée pour se repérer à Cadix dès le premier jour, en français et, si vous voyagez en famille, en privé.
 atraccionesRelacionadas:
 - casco-antiguo

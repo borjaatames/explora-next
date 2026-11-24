@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, le rendez-vous est à Puerto Colón, ponton 4."
 - pregunta: "Faut-il savoir nager ?"
   respuesta: "Vous portez un gilet de sauvetage et un harnais pendant toute l'activité."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Marina de Puerto Colón, ponton 4, en face du Café Victoria, Costa Adeje.'
 categoria: aventura
 keywords:
 - "parachute ascensionnel tenerife"

@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tour privado guiado; Recogida y regreso en puntos seleccionados; Comida canaria en un restaurante local.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva bañador si quieres darte un baño en alguna playa; No accesible en silla de ruedas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Bebidas en el restaurante.'
 categoria: excursionesDia
 keywords:
 - tour privado norte de fuerteventura

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La visite va jusqu’au musée, mais l’entrée n’est pas incluse.
 - pregunta: Peut-on annuler ?
   respuesta: Oui, gratuitement jusqu’à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hôtel à Bilbao.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide privé; Prise en charge à l’hôtel.'
 opinionEditorial: Une excellente première découverte de Bilbao, ancienne et moderne, racontée par quelqu’un du coin.
 atraccionesRelacionadas:
 - casco-viejo

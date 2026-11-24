@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Alrededor de una hora con la audioguía.
 - pregunta: ¿Está cerca de la Catedral?
   respuesta: A 10 minutos a pie. Se combina bien con la Catedral, la Capilla Real y el Monasterio de San Jerónimo, que está al lado.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Basílica de San Juan de Dios, Calle San Juan de Dios, 17 (18001 Granada). A 10 minutos a pie de la Catedral, por la calle San Jerónimo. Presenta el voucher en la entrada de la basílica.'
 opinionEditorial: 'La gran sorpresa de Granada para quien ya ha visto la Alhambra: un barroco desbordante, barato y sin colas. Una hora muy bien empleada entre la Catedral y San Jerónimo.'
 atraccionesRelacionadas:
 - otros-granada

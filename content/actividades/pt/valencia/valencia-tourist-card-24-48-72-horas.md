@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Não, há só desconto."
 - pregunta: "Para quem compensa?"
   respuesta: "Para quem usa muito autocarro e metro e visita vários museus."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Conforme a opção: levantamento no posto de turismo ou cartão digital; detalhes na reserva.'
 categoria: entradas
 guiasRelacionadas:
 - valencia-em-2-dias

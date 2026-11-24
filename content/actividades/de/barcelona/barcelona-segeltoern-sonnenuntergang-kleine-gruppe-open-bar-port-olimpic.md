@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Open Bar und Snacks."
 - pregunta: "Wo legt das Boot ab?"
   respuesta: "Im Port Olímpic, Moll de la Marina 14, Liegeplatz 1428."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Port Olímpic, Moll de la Marina 14, Liegeplatz 1428; das Segelboot heißt ARUBA. Metro L4 in der Nähe.'
 categoria: agua
 keywords:
 - "segeln barcelona sonnenuntergang"

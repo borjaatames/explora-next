@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Nei punti ufficiali del sud o a Puerto de la Cruz."
 - pregunta: "Come vestirsi?"
   respuesta: "Con abiti caldi: in quota di notte fa freddo."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nei punti ufficiali del sud di Tenerife o a Puerto de la Cruz (secondo l''opzione); con l''opzione in auto propria non c''è prelievo.'
 categoria: nocturno
 guiasRelacionadas:
 - teide-biglietti-esauriti

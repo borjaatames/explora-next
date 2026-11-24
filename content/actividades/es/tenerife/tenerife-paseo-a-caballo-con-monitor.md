@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Hípica Xanadú, Camino Los Gorones 10, Arona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo de 1 o 2 horas (según la opción); Monitor; Casco.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El monitor habla algo de inglés; su lengua es el español; No apto para menores de 6 años ni jinetes de más de 91 kg; Centro pequeño: tu hora puede cambiar si el turno está completo.'
 categoria: aventura
 keywords:
 - paseo a caballo tenerife

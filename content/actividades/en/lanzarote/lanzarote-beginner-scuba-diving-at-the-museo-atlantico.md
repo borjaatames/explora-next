@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off in Playa Blanca; Speedboat transfer to the Museo Atlántico; Certified dive instructor; All diving equipment.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 12; Not suitable for pregnant women, wheelchair users or people with breathing problems, pre-existing conditions or high blood pressure; Do not fly for at least 18 hours afterwards.'
 categoria: agua
 keywords:
 - museo atlantico diving

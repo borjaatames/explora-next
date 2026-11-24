@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: In der Hochsaison (Sommer, Brückentage) ja; in der Nebensaison ist er nicht nötig.
 - pregunta: Gibt es Ermäßigungen für Kinder?
   respuesta: Ja, ermäßigte Preise für Kinder unter 120 cm und für Personen über 60 Jahre. Kinder unter 100 cm sind frei.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann das Ticket weder storniert noch geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Parque Warner Madrid, Autovía A-4, km 22, San Martín de la Vega. 35 km südlich von Madrid. Direktbus ab Conde de Casal (Madrid). Mit dem Ticket auf dem Handy gehen Sie direkt hinein.'
 opinionEditorial: Der Parque Warner ist der Freizeitpark mit der besten Thematisierung in der Nähe von Madrid. Die fünf Bereiche haben eine makellose visuelle Identität, und die Shows sind sehr aufwendig produziert. Der übliche Haken sind die Schlangen im Sommer; buchen Sie online im Voraus, um an der Kasse nicht mehr zu zahlen.
 guiasRelacionadas:
 - madrid-mit-kindern

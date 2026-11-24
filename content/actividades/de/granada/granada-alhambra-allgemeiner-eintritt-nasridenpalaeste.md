@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'Du wirst nicht in die Paläste gelassen, und es gibt keine Erstattung. Sei mindestens 30 Minuten vor deinem Zeitfenster auf dem Gelände: Vom Haupteingang zu den Palästen sind es 10-15 Minuten zu Fuß.'
 - pregunta: Warum ist es teurer als auf der offiziellen Website?
   respuesta: Das offizielle Ticket kostet etwa 22 €. Diese Option enthält den Buchungsservice und vor allem Verfügbarkeit, wenn die offizielle Website ausverkauft ist, was in der Hochsaison die Regel ist.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattbar. Die Tickets der Alhambra sind personalisiert und können nicht geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Alhambra, Zugangspavillon, Granada. Der Zugangspavillon liegt neben dem Parkplatz der Alhambra am Ostende der Anlage. Nimm den Minibus C30/C32 ab der Plaza Isabel la Católica oder geh 20-25 Minuten zu Fuß die Cuesta de Gomérez hinauf. Bring Reisepass oder Ausweis mit: Die Tickets sind personalisiert.'
 avisoReserva: Die Tickets für die Alhambra sind Wochen im Voraus ausverkauft
 opinionEditorial: 'Wenn du auf eigene Faust kommst und die ganze Alhambra sehen willst, ist das dein Ticket. Buch, sobald deine Daten feststehen: Es ist das meistbesuchte Monument Spaniens, und die Zeitfenster am Vormittag sind schnell weg.'
 guiasRelacionadas:

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Oui."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza Alameda, à Yaiza ; on peut se garer sur place.'
 categoria: excursionesDia
 keywords:
 - "timanfaya sans file d'attente"

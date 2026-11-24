@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: No, per buggy for up to 4 people.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'C. La Ballena 10, Corralejo.'
+- pregunta: 'What is included?'
+  respuesta: 'Automatic buggy hire; Professional guide; Safety briefing.'
 categoria: aventura
 keywords:
 - buggy corralejo

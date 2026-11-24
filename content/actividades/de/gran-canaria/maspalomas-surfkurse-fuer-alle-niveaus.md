@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Surfbrett; Neoprenanzug; Wasser und Obst; Unfall- und Haftpflichtversicherung.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Abholung vom Hotel; Transport.'
 categoria: agua
 keywords:
 - surfkurs maspalomas

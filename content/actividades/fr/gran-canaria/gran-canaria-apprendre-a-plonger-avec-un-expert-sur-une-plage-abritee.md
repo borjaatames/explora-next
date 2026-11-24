@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Équipement de plongée; Assurance; Carnet de plongée en ligne; Moniteur de plongée; Prise en charge et retour dans le sud de Gran Canaria; Eau.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 8 ans; Déconseillé aux femmes enceintes et aux personnes cardiaques; Déconseillé en cas de problèmes de dos ou respiratoires, d''épilepsie, d''hypertension ou d''opération récente.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner; Photos sous-marines.'
 categoria: agua
 keywords:
 - apprendre à plonger gran canaria

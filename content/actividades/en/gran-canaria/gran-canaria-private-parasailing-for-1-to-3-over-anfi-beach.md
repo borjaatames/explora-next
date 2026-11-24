@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle Anfi del Mar 2, Mogán.'
+- pregunta: 'What is included?'
+  respuesta: 'All taxes; Insurance; Life jacket.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Maximum combined weight 200 kg.'
 categoria: agua
 keywords:
 - parasailing anfi

@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Cancellazione gratuita fino a 24 ore prima dell'inizio; per le cancellazioni successive viene addebitato il 100%.
+preguntasFrecuentes:
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima dell''inizio; per le cancellazioni successive viene addebitato il 100%.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nessun punto d''incontro fisico: attiva il percorso dal tuo telefono con il codice che ricevi dopo l''acquisto, quando e dove vuoi a Cordova.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Accesso al percorso autoguidato di Cordova tramite l''app DareMapp, con codice di riferimento inviato dopo l''acquisto; Audioguida in 6 lingue (spagnolo, inglese, portoghese, francese, italiano, tedesco); Totale libertà di scegliere il ritmo e le tappe, e di mettere in pausa o riprendere quando vuoi; Disponibilità 24 ore su 24, 365 giorni l''anno, senza data di scadenza; Accesso nell''app a consigli su dove mangiare e attività per famiglie.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno; Adatto a sedie a rotelle e passeggini, perché percorri il tragitto liberamente e al tuo ritmo; l''antico quartiere ebraico ha vicoli stretti e acciottolati; Gli animali di assistenza sono ammessi.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Una guida o un accompagnatore in carne e ossa (è un''esperienza completamente autoguidata e indipendente); Trasporto fino all''inizio del percorso; Biglietti d''ingresso a monumenti o musei lungo il percorso (ove previsti).'
 opinionEditorial: 'Il centro storico di Cordova è denso (la Mezquita-Cattedrale, la Judería, il Ponte romano) e il formato autoguidato ti permette di fermarti dove vuoi per tutto il tempo che vuoi, senza dover seguire il ritmo di un gruppo. Con 2 percorsi (quello essenziale e un altro di angoli nascosti) copre sia le tappe imperdibili sia i luoghi meno ovvi. Da sapere: l''ingresso alla Mezquita-Cattedrale non è incluso e va prenotato a parte.'
 categoria: toursCiudad
 keywords:

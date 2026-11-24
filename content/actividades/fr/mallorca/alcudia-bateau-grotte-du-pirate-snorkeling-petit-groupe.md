@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, apportez à manger et à boire."
 - pregunta: "Combien de temps ?"
   respuesta: "Trois heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port d''Alcúdia ou de Can Picafort selon l''option ; le point exact figure dans la réservation.'
 categoria: agua
 guiasRelacionadas:
 - plus-belles-criques-de-majorque

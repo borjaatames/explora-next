@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle français, anglais, espagnol, italien.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerto Colón, ponton 2, Costa Adeje.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Boisson offerte (bière, eau ou soda) et un sandwich; Baignade à El Puertito ou sur la plage de Las Vistas.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '3 heures.'
 categoria: agua
 keywords:
 - observation baleines petit groupe tenerife

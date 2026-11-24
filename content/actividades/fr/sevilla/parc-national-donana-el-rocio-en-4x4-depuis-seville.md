@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Non, les repas et les boissons sont à votre charge."
 - pregunta: "D'où part l'excursion ?"
   respuesta: "De la calle Rastro 12A à Séville, ou de votre hôtel s'il est dans le centre."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Chauffeur-guide professionnel; Prise en charge et retour dans la plupart des hôtels du centre; Transport en 4x4; Excursion en petit groupe.'
 categoria: excursionesDia
 keywords:
 - "doñana depuis séville"

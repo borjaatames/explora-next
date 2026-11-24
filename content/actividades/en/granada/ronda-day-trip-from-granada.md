@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'Because of the transport: Ronda is 185 km from Granada, 2 hours on mountain roads. For a 7-hour day with a private 8-seat vehicle, official guide, insurance and free time, the price reflects the logistics. If you drive yourself, fuel + tolls + parking can add up to €50-70 without a guide.'
 - pregunta: Why is the value for money 3.9 / 5?
   respuesta: Probably because food and entries aren't included, and for visitors expecting an "all-in-one" it can feel light. The price is justified by logistics (transport + guide) but the cultural content of the tour stays in the historic centre — for more depth you need to pay extra entries. It's a question of expectations.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance for a full refund. The operator may cancel if a minimum number of participants isn''t reached.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Discovering Spain office, Plaza de las Descalzas 3, Granada. The operator is Discovering Spain. Departure from central Granada. About 2 hours to Ronda (185 km). The tour requires a minimum number of participants to confirm — book a few days ahead. Pickup at the office only (no hotel pickup).'
 variantes: []
 opinionEditorial: 'Ronda is one of the most photogenic destinations in Andalusia: the city built on a 100-metre cliff with the Puente Nuevo crossing the gorge is one of Spain''s most iconic postcards. For visitors based in Granada, getting there requires 2 hours of mountain road — the organised tour sorts out the transport and logistics.
 

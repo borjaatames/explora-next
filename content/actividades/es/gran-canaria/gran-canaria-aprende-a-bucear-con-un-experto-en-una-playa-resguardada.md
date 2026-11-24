@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo de buceo; Seguro; Cuaderno de inmersiones online; Instructor de buceo; Recogida y regreso en el sur de Gran Canaria; Agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 8 años; No apto para embarazadas ni personas con problemas cardiacos; No apto para personas con problemas de espalda o respiratorios, epilepsia, hipertensión u operación reciente.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo; Fotos submarinas.'
 categoria: agua
 keywords:
 - aprender a bucear gran canaria

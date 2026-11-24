@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "No, posto libero; le porte aprono 20 minuti prima."
 - pregunta: "Quanto dura lo spettacolo?"
   respuesta: "Un'ora."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'La Casa del Flamenco, Calle Ximénez de Enciso, 28, nel quartiere di Santa Cruz.'
 categoria: espectaculos
 keywords:
 - "flamenco siviglia santa cruz"

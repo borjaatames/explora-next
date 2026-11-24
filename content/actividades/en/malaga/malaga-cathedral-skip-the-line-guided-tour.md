@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: No, the rooftop visit is separate.
 - pregunta: How long is it?
   respuesta: An hour and a half.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Málaga Cathedral, old town. The exact spot depends on the option booked: check your voucher. Arrive late and you lose both the tour and the ticket.'
 opinionEditorial: 'The highest-rated visit in Málaga, and rightly so: the guide makes sense of a cathedral that on your own is just big. At €24 including entry, a good buy.'
 guiasRelacionadas:
 - malaga-in-two-days

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, French, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Bring swimwear, a towel and sun cream; you stay barefoot on board.'
+- pregunta: 'What is included?'
+  respuesta: 'Sailing trip; Fresh fruit and sandwiches; Drinks: beer, cava, wine, soft drinks, juice and water; Basic snorkel gear.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - sailing tenerife whales

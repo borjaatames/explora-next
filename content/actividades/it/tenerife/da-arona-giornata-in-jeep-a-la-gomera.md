@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: La guida parla italiano, tedesco, francese, inglese, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Parcheggio gratuito del centro commerciale X-Sur, Calle Lisboa 2, Costa Adeje, alle 08:20.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Autista; Traversata in traghetto; Pranzo.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Porta la carta d''identità o il passaporto originale per il traghetto.'
 categoria: excursionesDia
 keywords:
 - la gomera jeep

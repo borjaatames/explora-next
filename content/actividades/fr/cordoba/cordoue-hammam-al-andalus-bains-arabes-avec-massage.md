@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Seulement un maillot de bain ; les serviettes sont fournies."
 - pregunta: "Les enfants sont-ils admis ?"
   respuesta: "À partir de 5 ans, avec une décharge signée par les parents."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Hammam Al Ándalus, Calle Corregidor Luis de la Cerda, 51, à deux pas de la Mosquée-Cathédrale.'
 categoria: entradas
 keywords:
 - "hammam cordoue"

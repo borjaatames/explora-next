@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, alemán, francés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Segway X2 (versión todoterreno); Casco; Guía; Recogida y regreso al hotel.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 8 años ni embarazadas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida; Propinas.'
 categoria: aventura
 keywords:
 - segway la pared

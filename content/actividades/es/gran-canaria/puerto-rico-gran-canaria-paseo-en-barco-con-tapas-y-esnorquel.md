@@ -38,6 +38,10 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Comida (tapas); Bebidas: cerveza, vino, agua, zumo y refrescos; Esnórquel; Paddle surf.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '4 horas.'
 categoria: agua
 keywords:
 - paseo en barco puerto rico gran canaria

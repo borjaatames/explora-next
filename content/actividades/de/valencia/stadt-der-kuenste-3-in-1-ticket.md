@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Ja. Das Oceanogràfic hat 45.000 Tiere aus 500 Arten in 10 Ökosystemen, darunter den längsten Unterwassertunnel Europas (35 m).
 - pregunta: Lohnt sich das 3-in-1-Ticket gegenüber Einzeltickets?
   respuesta: Ja; die Ersparnis gegenüber drei Einzeltickets ist deutlich, vor allem für Familien.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann das Ticket weder storniert noch geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Ciudad de las Artes y las Ciencias, Av. del Professor López Piñero, 7, 46013 Valencia. EMT-Bus Linien 35, 40 oder 95 ab dem Zentrum von Valencia. Mit dem Rad oder zu Fuß sind es vom historischen Zentrum etwa 20 Minuten. Lösen Sie das Ticket im Oceanogràfic ein (es öffnet als Erstes).'
 opinionEditorial: 'Die Stadt der Künste und Wissenschaften ist der spektakulärste Besuch in Valencia. Das 3-in-1-Ticket ist die klügste Wahl: Das Oceanogràfic allein lohnt den Ausflug, Hemisfèric und Museum runden den Tag ab. Sie brauchen den ganzen Tag und Energie – nicht halbherzig angehen.'
 guiasRelacionadas:
 - stadt-der-kuenste-und-wissenschaften-besichtigen

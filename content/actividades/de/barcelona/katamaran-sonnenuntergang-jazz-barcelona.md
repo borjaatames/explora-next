@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Am Ende der Rambla, neben der Brücke zum Maremagnum."
 - pregunta: "Wie lange dauert die Fahrt?"
   respuesta: "Etwa anderthalb Stunden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Katamaran Orsom am Ende der Rambla, 100 m vom Kolumbusdenkmal, neben der Brücke zum Maremagnum.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-in-2-tagen

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Sì, distano 15 minuti in auto, ma senza auto è scomodo (l'autobus 660 passa di rado). Se vuoi vederli entrambi in un giorno senza guidare, guarda l'escursione organizzata.
 - pregunta: Quanto tempo serve?
   respuesta: Due ore per il percorso ufficiale (palazzo, pantheon, sale capitolari, biblioteca e basilica). Aggiungi un'ora per i giardini e il paese.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: dopo la prenotazione non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Monastero Reale di San Lorenzo de El Escorial, Av. Juan de Borbón y Battemberg. Cercanías C-3 o C-8 da Atocha, Sol o Chamartín fino a El Escorial (50-60 min) e poi 15 minuti a piedi in salita, oppure autobus 661/664 da Moncloa (50 min), che ferma accanto al monastero.'
 opinionEditorial: 'El Escorial è la gita di mezza giornata più seria da Madrid: meno pittoresca di Toledo o Segovia, ma l''edificio impressiona e il Pantheon dei Re resta in mente. Biglietto economico, facile in treno. Prenota in anticipo per evitare la biglietteria nel fine settimana.'
 guiasRelacionadas:
 - madrid-in-3-giorni

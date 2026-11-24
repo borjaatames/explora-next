@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Maske, Schnorchel und Neopren sind inklusive."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Bei Shaka Surf an der Promenade von Los Cristianos."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Kajak, Paddel und Schwimmweste; Neoprenanzug, Maske und Schnorchel (oder Vollgesichtsmaske); Wasser und Snack.'
 categoria: agua
 keywords:
 - "kajak teneriffa süd"

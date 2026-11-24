@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Finca Los Castaños, Agaete. Tours start continuously as visitors arrive; free parking.'
+- pregunta: 'What is included?'
+  respuesta: 'Guided visit to a coffee plantation; Explanation of the coffee process; Coffee tasting; Access to the shop with local products.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not wheelchair accessible; Outdoor activity: wear comfortable shoes.'
 categoria: excursionesDia
 keywords:
 - coffee tour agaete

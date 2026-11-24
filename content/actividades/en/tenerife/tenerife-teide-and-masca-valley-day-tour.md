@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, Italian, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Full-day Teide and Masca tour from the south of Tenerife; Air-conditioned vehicle and local guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'In the north, pick-up is only in Puerto de la Cruz; Costa del Silencio and Las Galletas only on Tuesdays and Thursdays; Bring a warm layer in winter.'
+- pregunta: 'What is not included?'
+  respuesta: 'Tips; Food and drink; Pick-up in Santa Cruz, La Laguna, Abades, Palm-Mar, rural villages and cruise ships.'
 categoria: excursionesDia
 keywords:
 - teide and masca tour

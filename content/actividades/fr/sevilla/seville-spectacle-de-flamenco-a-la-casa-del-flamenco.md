@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, placement libre ; les portes ouvrent 20 minutes avant."
 - pregunta: "Combien de temps dure le spectacle ?"
   respuesta: "Une heure."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'La Casa del Flamenco, Calle Ximénez de Enciso, 28, dans le quartier de Santa Cruz.'
 categoria: espectaculos
 keywords:
 - "flamenco séville santa cruz"

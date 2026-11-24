@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: No, si pagano nei locali.
 - pregunta: Quando ci sono date?
   respuesta: 'In stagione: ora le date partono da maggio 2027.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Le condizioni di cancellazione vengono mostrate alla prenotazione.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Punto di incontro vicino alla spiaggia di Barcellona (confermato alla prenotazione).'
 categoria: nocturno
 keywords:
 - festa rooftop barcellona

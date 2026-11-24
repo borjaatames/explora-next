@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Au kiosque d'information de la Plaza de la Aduana."
 - pregunta: "Entre-t-on dans les monuments ?"
   respuesta: "Non, la visite se fait à l'extérieur."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Visite guidée à pied du centre historique; Passage par le Théâtre romain et l''Alcazaba; Extérieur de la cathédrale.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - que-voir-a-malaga-en-une-journee

@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: No, è un teatro. Il Born è pieno di ristoranti e bar di tapas a pochi minuti.
 - pregunta: Quanto dura?
   respuesta: Un'ora. Arriva quando aprono le porte, 30 minuti prima.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Teatro Flamenco Barcelona, Carrer dels Abaixadors, 10 (08003 Barcelona). Nella Ciutat Vella, a 5 minuti a piedi dalla metro Jaume I (linea 4) e dalla basilica di Santa Maria del Mar. Le porte aprono 30 minuti prima.'
 opinionEditorial: 'Un flamenco di qualità in una sala piccola e a prezzo contenuto, senza la cena obbligatoria dei grandi tablaos. Perfetto da inserire prima di una cena nel Born.'
 atraccionesRelacionadas:
 - flamenco

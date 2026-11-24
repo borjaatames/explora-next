@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle allemand, anglais, espagnol, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Autocar climatisé; Guide; Entrées aux Jameos del Agua et à la Cueva de los Verdes; Musée de l''Aloe Vera; Assurance voyage.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner.'
 categoria: excursionesDia
 keywords:
 - excursion jameos del agua cueva de los verdes

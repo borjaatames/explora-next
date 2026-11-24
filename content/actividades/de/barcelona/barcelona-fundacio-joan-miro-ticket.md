@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Etwa 2 Stunden für die Sammlung und die Sonderausstellung.
 - pregunta: Womit kann ich es verbinden?
   respuesta: Es liegt auf dem Montjuïc, 10 Minuten zu Fuß vom MNAC und neben der Seilbahn.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Fundació Joan Miró, Parc de Montjuïc, Barcelona. Zeig deinen Gutschein an der Rezeption zum Eintauschen. Bus 150 ab Plaça d''Espanya oder die Standseilbahn auf den Montjuïc ab der Metro Paral·lel.'
 opinionEditorial: 'Eines der schönsten Ein-Künstler-Museen Europas: natürliches Licht, Innenhöfe und Mirós Werk so angeordnet, dass es Sinn ergibt. Verbinde es mit dem MNAC und der Seilbahn, und der Montjuïc ist an einem Tag erledigt.'
 guiasRelacionadas:
 - barcelona-in-3-tagen

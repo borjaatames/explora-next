@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Environ 45 minutes avec le vidéoguide, plus le temps que vous voulez passer dans la boutique de chocolat.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Casa Amatller, Passeig de Gràcia 41, Barcelona. Métro Passeig de Gràcia (L2, L3, L4). L''entrée se trouve dans le hall, à côté du café.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Entrée prioritaire à la Casa Amatller; Vidéoguide sur tablette avec écouteurs.'
 opinionEditorial: 'L''alternative tranquille à la Casa Batlló, sur le même îlot. Intérieurs d''origine, petits groupes et 18 € : si vous avez déjà vu Gaudí de l''extérieur, c''est la maison que vous apprécierez le plus à l''intérieur.'
 categoria: entradas
 keywords:

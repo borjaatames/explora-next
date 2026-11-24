@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Yes, from age 4, sharing a kayak with an adult.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Granadella beach, Jávea. About 20 minutes by car from Jávea centre. In summer access to the cove is regulated: check how to get there when booking.'
+- pregunta: 'What is included?'
+  respuesta: 'Kayak and paddle; Life jacket; Snorkeling gear; Guide.'
 opinionEditorial: 'One of the best mornings at sea on the Costa Blanca: cliffs, caves and see-through water. Worth the trip from Alicante.'
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

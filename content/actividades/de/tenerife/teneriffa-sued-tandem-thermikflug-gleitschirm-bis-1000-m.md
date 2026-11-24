@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Ja, wenn Sie möchten, überlässt Ihnen der Pilot ein Stück die Steuerung."
 - pregunta: "Wo werde ich abgeholt?"
   respuesta: "In Las Américas, Costa Adeje, Playa Paraíso und Callao Salvaje; in Los Cristianos nur für den Flug um 10 Uhr."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Parkplatz oberhalb der Playa de La Enramada, Costa Adeje; dort können Sie parken und auf das Team warten.'
 categoria: aventura
 keywords:
 - "gleitschirm thermikflug teneriffa"

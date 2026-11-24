@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "1, 2 ou 3 heures selon l'option."
 - pregunta: "La prise en charge à l'hôtel est-elle incluse ?"
   respuesta: "Non, il faut se rendre à Las Lagunas de Mijas."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Départ : C. El Membrillo 5, 29651 Las Lagunas de Mijas (Málaga).'
 categoria: aventura
 guiasRelacionadas:
 - escapades-depuis-malaga

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Sí, la recogida y el regreso al hotel están incluidos.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto Colón, al principio del muelle junto al cartel «Pantalán Nº4», 15 minutos antes de la salida.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Salida en velero; Recogida y regreso al hotel; Charla de seguridad; Equipo de esnórquel; Bebidas: cava, cerveza, refrescos y agua; Bocadillos, fruta, patatas fritas y frutos secos.'
 categoria: agua
 keywords:
 - velero avistamiento ballenas tenerife

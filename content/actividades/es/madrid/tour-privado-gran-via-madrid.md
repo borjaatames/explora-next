@@ -40,6 +40,17 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: Recorrido a pie accesible para sillas de ruedas y carritos. Dificultad moderada por la distancia caminada.
 politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Maqueta del Centenario, junto a Plaza de España, 28013 Madrid. El tour arranca en la Maqueta del Centenario, en el inicio de la Gran Vía junto a Plaza de España, y termina en Plaza de Callao.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado en directo.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas.'
 opinionEditorial: 'Es un formato muy distinto al de las visitas en grupo grande: aquí el guía es solo para vosotros, así que marcáis el ritmo y podéis preguntar lo que queráis. La Gran Vía da mucho juego contada bien —de avenida pensada como escaparate de la modernidad a los cines y los edificios Art Déco—, y en dos horas se ve con calma. El precio es por grupo privado, no por persona: cuantos más seáis, más sale a cuenta, y para una pareja o una familia es una experiencia a medida más que una visita de masas.'
 atraccionesRelacionadas:
 - tours-a-pie

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up in front of your hotel in the south (Jandía, Costa Calma, La Pared, Tarajalejo); Surf instructor; Wetsuit; Surfboard.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for under-12s, pregnant women or people with heart problems; Bring water, a snack, sun cream and a hat.'
+- pregunta: 'What is not included?'
+  respuesta: 'Drinking water; Sun cream.'
 categoria: agua
 keywords:
 - surf lesson costa calma

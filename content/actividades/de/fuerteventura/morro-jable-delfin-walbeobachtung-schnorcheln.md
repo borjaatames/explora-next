@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Ja, ab 3 Jahren. Das Boot ist schnell, daher wird es Schwangeren und Menschen mit Rückenproblemen nicht empfohlen.
 - pregunta: Ist die Abholung inbegriffen?
   respuesta: Ja, von den Hotels und Abholpunkten im Süden der Insel, die Sie bei der Buchung auswählen.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung im Süden Fuerteventuras; Abfahrt ab dem Hafen von Morro Jable. Den Abholort wählen Sie bei der Buchung (Hotels und Haltestellen im Gebiet von Jandía und Costa Calma). Wenn Sie selbst anreisen, fährt das Boot ab dem Hafen von Morro Jable.'
 opinionEditorial: 'Ein kurzer, abwechslungsreicher Ausflug zu den Delfinen im Süden Fuerteventuras, mit ausgiebigem Schnorcheln und inklusive Abholung. Wenn Sie es ruhiger mögen, sind das Segelboot oder der Katamaran ab Morro Jable gemächlicher.'
 atraccionesRelacionadas:
 - sur

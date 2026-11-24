@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: Sí, las fotos y vídeos de la excursión están incluidos.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Shaka Kayak & SUP, Paseo Marítimo 10, Arona (Los Cristianos). Quedada 30 minutos antes para prepararse.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Kayak con remos y asientos acolchados; Chaleco salvavidas y neopreno de 3 mm; Máscara y tubo; Fotos y vídeos gratis; Vestuarios con duchas; Agua, guía profesional y seguro.'
 categoria: agua
 keywords:
 - kayak esnórquel tenerife

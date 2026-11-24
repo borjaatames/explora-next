@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Ja, der Katamaran hat 16 große Unterwasserfenster.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Katamaran Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Katamaranfahrt; Wal- und Delfinbeobachtung; Essen und Getränke.'
 categoria: agua
 keywords:
 - walbeobachtung puerto colon

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Food and drink at all the park's outlets except the tea house; some alcoholic drinks and sweets are extra.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Siam Park main entrance, Avenida Siam, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Siam Park entry; Lunch with drinks; Towels; Locker; All-inclusive wristband (food and drink at all outlets except the tea house).'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Even with priority access there can be queues in high season; Weight limits apply on some slides.'
 categoria: parques
 keywords:
 - siam park all inclusive

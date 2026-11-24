@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Solo en la opción con paella; la opción más corta incluye bebidas.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Flipper Uno, C. Poblado Marinero, local 20, puerto de Los Gigantes. Llega 30 minutos antes de la salida.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Excursión en barco con guía; Tiempo libre para bañarse; Bebidas: cola, naranja, agua, cerveza y vino tinto; Paella de pollo y verduras (según la opción); Aseos a bordo.'
 categoria: agua
 keywords:
 - barco los gigantes

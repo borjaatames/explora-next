@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Anfi del Mar 2, Mogán.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Alle Steuern; Versicherung; Schwimmweste.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Höchstens 200 kg Gesamtgewicht.'
 categoria: agua
 keywords:
 - parasailing anfi

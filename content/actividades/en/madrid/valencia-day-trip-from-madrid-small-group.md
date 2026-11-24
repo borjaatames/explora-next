@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks Spanish. Explanations in English come through audio or a translation app.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle de Alfonso XI, 2 (next to Retiro Park), Madrid.'
+- pregunta: 'What is included?'
+  respuesta: 'Transport in an air-conditioned Mercedes Vito or similar; Water and snacks; Taxes.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

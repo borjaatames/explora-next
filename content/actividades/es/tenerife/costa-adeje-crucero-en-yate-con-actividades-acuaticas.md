@@ -42,6 +42,12 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Yate de 20 metros, todo incluido; Tripulación profesional; Actividades acuáticas; Comida y bebida.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '3 h 30 min.'
 categoria: agua
 keywords:
 - crucero en yate tenerife

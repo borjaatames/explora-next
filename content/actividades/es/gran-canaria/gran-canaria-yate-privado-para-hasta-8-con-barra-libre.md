@@ -45,6 +45,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Alquiler de yate privado para hasta 8 personas; Barra libre: cerveza, sangría, vino blanco, una botella de cava, agua, refrescos y zumo de manzana; Tapas; Equipo de esnórquel y 2 tablas de paddle surf; Descuentos en moto de agua, parasailing o scooter submarino.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para embarazadas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Moto de agua 40 €/10 min, parasailing 40 €/10 min, scooter submarino 40 €/40 min (no después de las 17:00); Toallas (10 €) y protector solar.'
 categoria: agua
 keywords:
 - yate privado gran canaria

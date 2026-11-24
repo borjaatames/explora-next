@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'En espagnol, français et anglais.'
 - pregunta: 'Voit-on le mihrab ?'
   respuesta: 'Oui, le mihrab de l''agrandissement d''Al-Hakam II, avec ses mosaïques byzantines, est l''un des arrêts principaux.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'À côté de la Mosquée-Cathédrale de Cordoue (le point exact dépend de l''option). Le voucher indique le point de rendez-vous, aux abords de la Mosquée. Arrivez 10 minutes avant.'
 opinionEditorial: 'Une heure et demie très bien expliquée par des spécialistes, avec l''entrée incluse et à un prix raisonnable. C''est l''une des meilleures façons de comprendre le monument le plus important de Cordoue, surtout si vous la faites en français.'
 atraccionesRelacionadas:
 - mezquita-catedral

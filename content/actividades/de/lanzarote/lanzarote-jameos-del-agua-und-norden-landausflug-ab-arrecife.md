@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Drei Stunden ab und bis Hafen."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kreuzfahrtterminal von Arrecife, beim HiperDino Express im Einkaufszentrum Marina Lanzarote (Avenida Olof Palme).'
 categoria: excursionesDia
 keywords:
 - "jameos del agua ausflug"

@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up in the south of Tenerife; Transfers; Lunch; Guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up only in the south of the island.'
+- pregunta: 'How long does it last?'
+  respuesta: '8 hours.'
 categoria: toursGastronomicos
 keywords:
 - tenerife wine tour

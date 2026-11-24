@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle Carmen Jorge Artiles 2, San Bartolomé de Tirajana. A minimum of 6 participants is needed for the trip to run.'
+- pregunta: 'What is included?'
+  respuesta: 'All equipment: kayak, paddle, life jacket, dry bag and insurance; English-speaking guide; Photos; Picnic.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The kayaks have no motor: you paddle.'
 categoria: agua
 keywords:
 - kayak trip gran canaria

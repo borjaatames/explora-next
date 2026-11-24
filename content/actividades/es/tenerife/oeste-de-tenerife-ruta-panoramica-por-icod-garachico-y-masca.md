@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Furgoneta con aire acondicionado; Grupo reducido (máximo 8); Tentempié; Entrada al parque del Drago Milenario; Tiempo libre en Icod, Garachico y Masca; Paradas panorámicas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Baño en Garachico solo si el mar lo permite; La hora exacta de recogida se confirma el día antes; No recomendable si te mareas en carretera.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida o bebida extra.'
 categoria: excursionesDia
 keywords:
 - excursion masca garachico

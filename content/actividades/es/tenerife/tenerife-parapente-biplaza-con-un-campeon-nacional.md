@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel en Costa Adeje, Adeje, Las Américas y Los Cristianos; Casco y equipo de seguridad; 5 fotos de GoPro; Botella de agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'De 6 a 70 años, hasta 110 kg; Recogida en Las Américas y Los Cristianos solo a las 10:00 y a las 12:00; El vuelo depende del viento.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Pack premium de fotos y vídeo GoPro (40 €); Pack VIP Insta360 (80 €).'
 categoria: aventura
 keywords:
 - parapente tenerife

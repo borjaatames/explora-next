@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Tre ore."
 - pregunta: "Il tour è in italiano?"
   respuesta: "Sì, scegliete l'italiano al momento della prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Il punto d''incontro dipende dall''opzione scelta; è indicato alla prenotazione.'
 categoria: visitasGuiadas
 keywords:
 - "tour cordova italiano"

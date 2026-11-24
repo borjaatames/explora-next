@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Paracraft Lanzarote, Paseo Pila de la Barrilla, Puerto del Carmen.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta en buggy con guía experto; Explicación completa antes de salir; Aventura por pistas en rutas panorámicas; Paradas para fotos; Combustible y seguro; Descuentos para grupos.'
 categoria: aventura
 keywords:
 - buggy puerto del carmen

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Quesería Montesdeoca, TF-82 km 44, Tijoco Bajo (Adeje).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada a la granja de cabras y la quesería; Cata de tres quesos premiados.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Visitas de lunes a viernes, de 10:00 a 13:00; Las reservas de 2 o más personas conviene hacerlas con 2 semanas de antelación; Niños de 3 a 11 años pagan tarifa reducida.'
 categoria: toursGastronomicos
 keywords:
 - granja de cabras tenerife

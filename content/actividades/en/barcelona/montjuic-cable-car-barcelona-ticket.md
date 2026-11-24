@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: The ride from the lower station (Mirador) to the castle station is about 10 minutes each way. Plan 1–2 hours total including the wait and the views at the top.
 - pregunta: Can I visit Montjuïc castle from the cable car?
   respuesta: Yes. The upper station is just metres from the castle entrance. The castle ticket is not included — buy it separately at the entrance.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Teleférico de Montjuïc, lower station — Av. de Miramar, Barcelona. Take metro line 2 or 3 to Paral·lel, then the Montjuïc funicular (free with T-Casual). The cable car lower station is at the top of the funicular. The cable car runs from there up to Montjuïc castle.'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip cable car ticket.'
 opinionEditorial: The Montjuïc cable car gives you Barcelona's best panoramic view — better than the Tibidabo for city-and-sea combinations. The 10-minute ride is short but memorable, especially at sunset.
 guiasRelacionadas:
 - barcelona-in-3-days

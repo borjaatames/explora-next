@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, spagnolo, francese, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Porta costume, asciugamano e crema solare; a bordo si sta scalzi.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in barca a vela; Frutta fresca e panini; Bevande: birra, cava, vino, bibite, succhi e acqua; Attrezzatura base da snorkeling.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - barca a vela tenerife balene

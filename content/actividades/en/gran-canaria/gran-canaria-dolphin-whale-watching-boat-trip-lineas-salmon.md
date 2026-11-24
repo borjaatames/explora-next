@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Boat trip.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Departure point depends on the option you book; Children welcome; Not recommended during pregnancy.'
+- pregunta: 'What is not included?'
+  respuesta: 'Drinks (for sale).'
 categoria: agua
 keywords:
 - dolphin watching gran canaria

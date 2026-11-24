@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Snorkelling gear; Unlimited food and drinks (beer, cava, wine and soft drinks).'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up: Costa Calma 10:25, Esquinzo/Butihondo 10:40, Jandía/Morro Jable 10:45; If you come by yourself: 10:50 outside the Cofradía restaurant in the port.'
+- pregunta: 'What is not included?'
+  respuesta: 'Tips (optional).'
 categoria: agua
 keywords:
 - sailing morro jable

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Cerca de 2 horas para a coleção e a exposição temporária.
 - pregunta: Com o que posso combinar?
   respuesta: Fica em Montjuïc, a 10 minutos a pé do MNAC e junto ao teleférico.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Fundação Joan Miró, Parc de Montjuïc, Barcelona. Mostre o voucher na receção para o trocar. Autocarro 150 desde a Plaça d''Espanya ou funicular de Montjuïc desde o metro Paral·lel.'
 opinionEditorial: 'Um dos museus monográficos mais bonitos da Europa: luz natural, pátios e a obra de Miró organizada de forma a fazer sentido. Junte-lhe o MNAC e o teleférico e tem Montjuïc resolvido num dia.'
 guiasRelacionadas:
 - barcelona-em-3-dias

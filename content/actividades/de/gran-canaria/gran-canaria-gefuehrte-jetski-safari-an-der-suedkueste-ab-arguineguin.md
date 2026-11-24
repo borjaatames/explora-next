@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Arguineguín (Plus Code Q847+MRW). 20 Minuten vorher da sein; Zuspätkommende können nicht teilnehmen.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller Guide; Geführte Jetski-Safari; Moderner Jetski; Treibstoff; Schwimmweste; Sicherheitseinweisung.'
 categoria: agua
 keywords:
 - jetski safari gran canaria

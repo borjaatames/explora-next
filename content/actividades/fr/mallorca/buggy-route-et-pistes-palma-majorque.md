@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Un permis voiture (B) original ; conducteurs de 21 ans minimum."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, le tour est proposé en français."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Buggy Tour Mallorca, près de Llucmajor ; l''emplacement exact figure dans la confirmation.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

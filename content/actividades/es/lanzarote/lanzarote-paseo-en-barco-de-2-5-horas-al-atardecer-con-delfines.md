@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Paseo en lancha rápida de 2,5 horas; Explicaciones en directo a bordo; Cava, zumo o agua; Dulces locales.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No se puede garantizar ver fauna; Lleva algo de abrigo: en el mar hace más fresco incluso en verano; No accesible en silla de ruedas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '2 h 30 min.'
 categoria: agua
 keywords:
 - paseo en barco al atardecer lanzarote

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Sì, con l’audioguida. La guida parla inglese e spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 24 ore prima.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo alloggio a Barcellona.'
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 opinionEditorial: L’unico modo sensato per vedere tutti e quattro i luoghi di Dalí in un giorno. Per gli appassionati vale ogni euro.
 atraccionesRelacionadas:
 - otros-barcelona

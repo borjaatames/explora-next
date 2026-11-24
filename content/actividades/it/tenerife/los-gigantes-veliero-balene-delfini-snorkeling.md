@@ -71,6 +71,10 @@ preguntasFrecuentes:
   respuesta: Sul veliero ci sono al massimo dieci persone, con cibo fatto in casa e bevande inclusi e tempo per il bagno. I catamarani portano molti più passeggeri.
 - pregunta: Rischio di soffrire il mal di mare?
   respuesta: Il veliero è stabile, ma se tendi a soffrire il mal di mare prendi qualcosa prima di salire a bordo.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Third Element Charters, Calle Poblado Marinero, 20, Los Gigantes (38683 Santiago del Teide). L''ufficio è nel porto turistico di Los Gigantes. C''è un parcheggio pubblico accanto al porto. Arriva 15 minuti prima della partenza.'
 opinionEditorial: 'È l''uscita di avvistamento meglio valutata di Tenerife, e si vede: gruppo piccolo, servizio cordiale, cibo e bevande inclusi e un bagno sotto le scogliere. Costa più di un catamarano, ma l''esperienza è molto più tranquilla.'
 guiasRelacionadas:
 - avvistamento-balene-tenerife

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: 'In season: right now available dates start in May 2027.'
 - pregunta: What's served on board?
   respuesta: Cava, wine and beer, with snacks.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before. No refund after that.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Barcelona Watersports, at Marina Port Vell.'
 categoria: agua
 privada: true
 precioPorGrupo: true

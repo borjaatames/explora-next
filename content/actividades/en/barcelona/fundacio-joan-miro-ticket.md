@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: About 2 hours for the collection and the temporary show.
 - pregunta: What can I combine it with?
   respuesta: It is on Montjuïc, a 10-minute walk from the MNAC and next to the cable car.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Fundació Joan Miró, Parc de Montjuïc, Barcelona. Show your voucher at reception to exchange it. Bus 150 from Plaça d''Espanya or the Montjuïc funicular from Paral·lel metro.'
 opinionEditorial: 'One of the loveliest single-artist museums in Europe: natural light, courtyards and Miró''s work arranged so it makes sense. Pair it with the MNAC and the cable car and Montjuïc is sorted in a day.'
 guiasRelacionadas:
 - barcelona-in-3-days

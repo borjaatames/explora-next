@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'Non, c''est un théâtre et non un tablao avec dîner. Il y a des bars et des restaurants à quelques pas, dans la calle del Pez elle-même et à Malasaña.'
 - pregunta: 'Faut-il comprendre l''espagnol ?'
   respuesta: 'Non. Le chant est en espagnol, mais le spectacle n''a pas de narration et s''apprécie tout autant sans comprendre les paroles.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant la séance, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Teatro Flamenco Madrid, Calle del Pez, 10 (28004 Madrid). À 3 minutes à pied du métro Noviciado (ligne 2) et à 5 de Callao et Gran Vía. Les portes ouvrent 30 minutes avant la séance : arrivez en avance pour avoir une bonne place. Montrez le voucher sur votre téléphone à l''entrée.'
 opinionEditorial: 'C''est l''option la plus commentée et la mieux notée de Madrid : bonne troupe, petite salle où l''on voit bien depuis n''importe quelle place et prix inférieur à celui des tablaos avec dîner. Si vous voulez dîner devant du flamenco, préférez un tablao comme Las Carboneras ou Torres Bermejas ; si vous voulez seulement le spectacle, c''est la valeur sûre.'
 atraccionesRelacionadas:
 - flamenco

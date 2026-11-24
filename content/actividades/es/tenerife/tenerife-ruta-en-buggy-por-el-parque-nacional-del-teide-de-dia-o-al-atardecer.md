@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, francés, italiano, rumano, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'La Camella (Arona); el punto exacto y el aparcamiento se indican tras reservar.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Recogida y regreso gratis (sur de Tenerife); Aparcamiento gratis en el punto de encuentro; Buggy biplaza; Introducción a la conducción y charla de seguridad; Seguro básico.'
 categoria: aventura
 keywords:
 - buggy teide

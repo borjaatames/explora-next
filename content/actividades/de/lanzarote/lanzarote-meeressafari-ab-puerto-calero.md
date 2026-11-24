@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Sea Safaris Lanzarote, Calle Pantalanes, Jachthafen Puerto Calero.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Schwimmwesten; Bootssafari.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: '8,6-Meter-Motortrimaran, zugelassen für 15 Personen; Nicht für Kinder unter 2 Jahren oder Schwangere.'
 categoria: agua
 keywords:
 - meeressafari lanzarote

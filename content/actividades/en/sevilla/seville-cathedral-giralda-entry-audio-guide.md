@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: It is a mobile app with about 75 minutes of commentary in English, Spanish, Italian, French or German. Download it before you go and bring your own headphones; none are lent.
 - pregunta: Where do I collect the ticket?
   respuesta: At the operator's office on Calle Arfe 3, about 4 minutes from the Cathedral. Arrive 10 minutes before your booked time.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Operator''s office, Calle Arfe 3 (Old Town, Seville). Go first to the office at Calle Arfe 3, about a 4-minute walk from the Cathedral, and arrive 10 minutes before your booked time. Sometimes a staff member walks you to the monument entrance; after that you visit at your own pace.'
+- pregunta: 'What is included?'
+  respuesta: 'Seville Cathedral entry; Giralda entry; Downloadable app audio guide (English, Spanish, Italian, French or German).'
 opinionEditorial: 'It does the job, but it is expensive for what you get and has a low rating (3.9): several travellers say the audio guide falls short. If you just want to get in, the basic Cathedral and Giralda ticket costs less than half; if you want explanations, a guided tour is better value.'
 atraccionesRelacionadas:
 - catedral-giralda

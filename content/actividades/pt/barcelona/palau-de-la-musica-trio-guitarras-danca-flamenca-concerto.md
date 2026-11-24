@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "No Palau de la Música Catalana."
 - pregunta: "Há dança?"
   respuesta: "Sim, flamenco com guitarra e percussão."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Palau de la Música Catalana, carrer Palau de la Música 4-6. Troque o voucher móvel por bilhetes na bilheteira antes de entrar.'
 categoria: espectaculos
 guiasRelacionadas:
 - barcelona-em-2-dias

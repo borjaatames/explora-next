@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Non. Aquópolis Villanueva n’ouvre qu’en été, à peu près de mi-juin à mi-septembre.
 - pregunta: Y a-t-il des zones pour les jeunes enfants ?
   respuesta: Oui, une zone enfants avec de petits toboggans et des bassins peu profonds, parfaite pour les moins de 6 ans.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Aquópolis Villanueva de la Cañada, Ctra. M-600, km 0,500, Villanueva de la Cañada (Madrid). À 20 km à l’ouest de Madrid par l’A-6. Bus depuis Moncloa en été. Entrez directement avec le billet sur votre téléphone.'
 opinionEditorial: 'Aquópolis Villanueva de la Cañada est le parc aquatique de référence à l’ouest de Madrid. La piscine à vagues et les toboggans à grande vitesse en font un incontournable de l’été. L’astuce : y aller en semaine, car les week-ends d’août sont trop fréquentés. Achetez le billet en ligne pour éviter la queue au guichet.'
 guiasRelacionadas:
 - madrid-avec-des-enfants

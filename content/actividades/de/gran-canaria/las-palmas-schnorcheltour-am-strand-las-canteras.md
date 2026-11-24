@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Tour von 3 Stunden; 1 bis 1,5 Stunden Schnorcheln; Qualifizierter Lehrer; Schnorchelausrüstung; Wasser und Obst; Versicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Startzeit hängt von Wetter und Gezeiten ab und wird nach der Buchung bestätigt.'
 categoria: agua
 keywords:
 - schnorcheln las canteras

@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung; bei kurzfristigerer Stornierung werden 100 % berechnet.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung; bei kurzfristigerer Stornierung werden 100 % berechnet.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kein Treffpunkt: Die Route wird auf deinem Handy mit dem Code aktiviert, den du nach dem Kauf erhältst, wann und wo in Tarragona du willst.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Unterwegs in deinem eigenen Tempo, ohne Zeitplan und ohne Gruppe; Freie Wahl der Stopps entlang der Route; Audio jederzeit abrufbar, mit Pause- und Fortsetzen-Funktion; Verfügbarkeit rund um die Uhr an 365 Tagen im Jahr; In die App integrierte Tipps für Essen und Familienaktivitäten.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; App verfügbar auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch; Geeignet für Rollstühle und Kinderwagen; Assistenztiere willkommen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Ein Guide vor Ort (es ist ein komplett selbstgeführtes Erlebnis ohne Begleitung).'
 opinionEditorial: 'Die richtige Wahl, wenn du Tarragona nach deinen eigenen Vorstellungen entdecken willst, ohne Zeitplan und ohne Gruppe: Du startest die Route, wann du Lust hast, und gehst in dem Tempo, das dir passt. Was dir fehlt, sind die Herzlichkeit eines Guides vor Ort, seine Geschichten und die Möglichkeit, direkt Fragen zu stellen – wenn dir das wichtig ist, passt eine Tour mit Guide besser. Für Familien, Individualreisende und alle, die gern gemächlich erkunden, funktioniert sie richtig gut.'
 categoria: toursCiudad
 keywords:

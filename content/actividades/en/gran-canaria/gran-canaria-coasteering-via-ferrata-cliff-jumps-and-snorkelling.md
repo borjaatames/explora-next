@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Playa Medio Almud car park, GC-500, Mogán.'
+- pregunta: 'What is included?'
+  respuesta: 'Guide in English and Spanish; Photos; Harness and helmet; Wetsuit and life jacket; Picnic (cereal bar and isotonic drink); Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 8; Not suitable during pregnancy.'
 categoria: aventura
 keywords:
 - coasteering mogan

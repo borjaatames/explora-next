@@ -50,6 +50,10 @@ preguntasFrecuentes:
   respuesta: "Alla piramide di vetro davanti al Teatro Romano."
 - pregunta: "Si visita anche il Gibralfaro?"
   respuesta: "No, solo l'Alcazaba."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Piramide di vetro davanti al Teatro Romano, calle Alcazabilla 6. Le guide hanno un ombrello rosso.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - cosa-vedere-a-malaga-in-un-giorno

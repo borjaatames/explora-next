@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Finca Tuno Canarias, near Calle Arguamul, Valle de San Lorenzo (Arona).'
+- pregunta: 'What is included?'
+  respuesta: 'Full entry to Finca Tuno Canarias and its plantation; Live guide, with translation in 16+ languages; Tasting of fresh Higo Tinto and farm-made products; Ethnographic museum and short film; Meeting the farm animals; Free parking.'
+- pregunta: 'How long does it last?'
+  respuesta: '1 h 30 min.'
 categoria: toursGastronomicos
 keywords:
 - tuno canarias

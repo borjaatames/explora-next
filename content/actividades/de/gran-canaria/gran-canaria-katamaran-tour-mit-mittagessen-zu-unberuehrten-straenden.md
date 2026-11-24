@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens 30."
 - pregunta: "Gibt es einen Transfer?"
   respuesta: "Ja, von Unterkünften im Süden der Insel."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Unterkünften im Süden; der Hafen wird in der Buchungsbestätigung genannt.'
 categoria: agua
 keywords:
 - "katamaran gran canaria"

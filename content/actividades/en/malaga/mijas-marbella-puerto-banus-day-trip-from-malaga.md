@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: It is a hosted trip with plenty of free time at each stop.
 - pregunta: Is there hotel pickup?
   respuesta: No, it leaves from in front of Málaga City Hall.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'In front of Málaga City Hall, Av. de Cervantes 4. On the Paseo del Parque, by City Hall. Arrive 10 minutes early.'
 opinionEditorial: The cheapest way to see the best of the Costa del Sol without a car. Plenty of coach time and little commentary, but Mijas and Marbella old town make up for it.
 guiasRelacionadas:
 - day-trips-from-malaga

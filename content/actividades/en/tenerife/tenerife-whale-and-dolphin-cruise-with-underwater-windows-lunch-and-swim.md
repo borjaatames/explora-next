@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Yes, the catamaran has 16 large underwater windows.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Royal Delfín catamaran, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
+- pregunta: 'What is included?'
+  respuesta: 'Catamaran cruise; Whale and dolphin watching; Lunch and drinks.'
 categoria: agua
 keywords:
 - whale watching puerto colon

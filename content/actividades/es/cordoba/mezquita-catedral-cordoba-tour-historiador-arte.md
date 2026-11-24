@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: En español, francés e inglés.
 - pregunta: ¿Se ve el mihrab?
   respuesta: Sí, el mihrab de la ampliación de Alhakén II, con sus mosaicos bizantinos, es una de las paradas principales.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Junto a la Mezquita-Catedral de Córdoba (el punto exacto depende de la opción). El voucher indica el punto de encuentro, en el entorno de la Mezquita. Llega 10 minutos antes.'
 opinionEditorial: 'Hora y media muy bien explicada por especialistas, con la entrada incluida y a precio razonable. Es de las mejores maneras de entender el monumento más importante de Córdoba, sobre todo si vas en francés.'
 atraccionesRelacionadas:
 - mezquita-catedral

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer; Kleine Gruppe (max. 16); Klimatisierter Van; Verkostung beim Sonnenuntergang (leichtes Essen); Eine Flasche kaltes Mineralwasser; Zertifizierter lokaler Guide.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 8 oder Menschen mit eingeschränkter Mobilität; In der Höhe ist es kälter, besonders im Winter; Mit kurzen Wegen über Naturboden und Treppen.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '7 Std. 30 Min.'
 categoria: excursionesDia
 keywords:
 - pico de las nieves sonnenuntergang

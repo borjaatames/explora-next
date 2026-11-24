@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Calle Anfi del Mar 2, Mogán.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Todas las tasas; Seguro; Chaleco salvavidas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Peso máximo conjunto 200 kg.'
 categoria: agua
 keywords:
 - parasailing anfi

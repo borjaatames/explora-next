@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: Das Boot fährt an die Meereshöhlen heran, und wenn das Meer es zulässt, kannst du hineinschwimmen oder -paddeln. Es hängt von den Bedingungen am Tag ab.
 - pregunta: Ist die Abholung inbegriffen?
   respuesta: 'Ja: Abholung und Rückfahrt zum Hotel. Die genaue Uhrzeit steht auf deinem Gutschein.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà). Treffpunkt bei Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, Sant Antoni. Abholung und Rückfahrt zum Hotel sind inbegriffen: Die Uhrzeit steht auf deinem Gutschein.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsausflug mit Crew; Schnorchelausrüstung; Paddleboards; Unterwasser-Scooter; Getränke, frisches Obst und Tapas; Handtuch und Sonnencreme.'
 opinionEditorial: 'Ein sehr vollständiger Plan für einen halben Tag in Sant Antoni: Boot, Höhlen, Schnorcheln und Paddleboard mit Tapas, und du musst dich um keinen Transport kümmern.'
 guiasRelacionadas:
 - schoenste-buchten-ibiza

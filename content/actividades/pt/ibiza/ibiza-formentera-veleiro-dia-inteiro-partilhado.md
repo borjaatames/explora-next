@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Gratuitamente até 60 dias antes; depois, sem reembolso.
 - pregunta: Que línguas fala o skipper?
   respuesta: Espanhol, inglês, francês e italiano, não português. Para navegar, nadar e fazer snorkel não é preciso falar a língua.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Lugar num veleiro de 41 pés com skipper; Combustível; Material de snorkel e 2 pranchas de paddle; Casa de banho a bordo.'
 opinionEditorial: 'A forma mais económica de passar um dia inteiro de veleiro em Ibiza: partilha o barco com pouca gente e chega a enseadas onde não se chega por terra.'
 atraccionesRelacionadas:
 - formentera

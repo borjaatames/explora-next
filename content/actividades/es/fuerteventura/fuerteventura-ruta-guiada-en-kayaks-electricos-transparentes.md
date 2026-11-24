@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Ruta guiada; Equipo completo: chalecos, escarpines, walkie-talkie, funda estanca para el móvil; Charla de seguridad; Servicio de lanzadera.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para menores de 6 años; Niños de 6 a 11 años gratis con un adulto (un niño por adulto).'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '1 h 30 min.'
 categoria: agua
 keywords:
 - kayak transparente fuerteventura

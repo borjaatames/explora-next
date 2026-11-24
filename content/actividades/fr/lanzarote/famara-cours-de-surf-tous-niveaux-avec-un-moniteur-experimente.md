@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Planche et combinaison; Moniteur dédié adapté à votre niveau; 5 élèves maximum par moniteur; Photos et vidéos quand les conditions le permettent.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Indiquez votre niveau à la réservation; Déconseillé aux moins de 4 ans et aux femmes enceintes; Apportez serviette, crème solaire et vêtements secs.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '2 heures.'
 categoria: agua
 keywords:
 - cours de surf famara

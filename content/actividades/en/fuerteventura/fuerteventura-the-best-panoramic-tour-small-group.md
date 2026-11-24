@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Air-conditioned luxury minibus; Multilingual local guide; Panoramic views all day; Black- and white-sand beaches; Walk to the Ajuy limestone caves; Time for lunch on the beach.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'No pick-up south of Jandía or at the port; Not suitable if you get motion sickness.'
+- pregunta: 'How long does it last?'
+  respuesta: '6 hours.'
 categoria: excursionesDia
 keywords:
 - fuerteventura island tour small group

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transport to the beach; Soft-top or epoxy surfboard; Billabong wetsuit; Experienced instructor with lifeguard licence.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The beach changes with wind, tide and weather; Send your hotel, mobile number, height and weight after booking; Minimum age 13.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: agua
 keywords:
 - surf lesson fuerteventura south

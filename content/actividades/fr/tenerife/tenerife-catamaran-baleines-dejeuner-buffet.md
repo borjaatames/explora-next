@@ -67,6 +67,12 @@ preguntasFrecuentes:
   respuesta: Généralement des tapas locales, du poisson frais grillé, des salades, du pain et des sodas. Le menu exact varie selon l'opérateur ; confirmez lors de la réservation si vous avez un régime particulier.
 - pregunta: Pourquoi est-ce plus cher que les autres sorties d'observation ?
   respuesta: La durée plus longue (5 à 6 heures contre 2 à 3), le déjeuner buffet inclus et le catamaran haut de gamme expliquent le prix. C'est régulièrement l'observation des cétacés la mieux notée de Tenerife, et le repas inclus la rend comparable à une sortie plus courte suivie d'un déjeuner à part.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port du sud de Tenerife (secteur de Costa Adeje). Confirmé sur le bon. Le port de départ exact est confirmé sur votre bon de réservation. La sortie part de la côte sud de Tenerife. Comptez 15 minutes pour rejoindre le port depuis Las Américas ou Los Cristianos.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie d''une journée en catamaran (5 à 6 heures); Déjeuner buffet à bord; Arrêt baignade; Observation des baleines et des dauphins.'
 opinionEditorial: Si vous voulez observer les cétacés à Tenerife, faites-le bien. La journée complète, le buffet et le temps supplémentaire sur l'eau font de cette sortie la meilleure version de l'expérience. Mieux notée que toute autre sortie d'observation de l'île.
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

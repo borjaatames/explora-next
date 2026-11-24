@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Plaça de Sant Agustí Vell 16, près du Born."
 - pregunta: "Les entrées sont-elles comprises ?"
   respuesta: "Non, les monuments se voient de l'extérieur."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaça de Sant Agustí Vell 16. Arrivez 5 minutes avant pour régler le vélo.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

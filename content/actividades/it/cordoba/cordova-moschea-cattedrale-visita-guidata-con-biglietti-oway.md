@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Tra un'ora e un'ora e mezza."
 - pregunta: "La visita è in italiano?"
   respuesta: "Sì, scegliete l'italiano al momento della prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ufficio di OWAY Tours, Plaza del Triunfo, accanto alla Moschea-Cattedrale.'
 categoria: visitasGuiadas
 keywords:
 - "moschea cordova visita guidata biglietti"

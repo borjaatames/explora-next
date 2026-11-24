@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: En español, inglés, francés e italiano. Eliges el idioma al reservar.
 - pregunta: ¿Cuánto dura?
   respuesta: Dos horas de visita guiada; después puedes quedarte por tu cuenta en los jardines.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Metro Ópera, plaza de Isabel II, frente al Teatro Real (28013 Madrid). El guía espera junto a la salida del metro Ópera (líneas 2, 5 y R) en la plaza de Isabel II, frente al Teatro Real. Desde ahí se cruza la plaza de Oriente hasta el palacio.'
 opinionEditorial: 'El Palacio Real por libre se queda corto: sin explicación, las salas se suceden sin contexto. Con este guía la visita cobra vida y la entrada preferente ahorra la cola de la taquilla. Muy buena relación calidad-precio.'
 atraccionesRelacionadas:
 - palacio-real

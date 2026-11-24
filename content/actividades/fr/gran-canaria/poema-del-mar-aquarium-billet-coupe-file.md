@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Les moins de 3 ans entrent gratuitement. De 3 à 11 ans, il existe un billet enfant.
 - pregunta: Le transport est-il inclus ?
   respuesta: Non. L’aquarium est à Las Palmas ; depuis le sud de l’île, on y va en voiture ou en guagua (bus interurbain).
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Guichets de l’aquarium Poema del Mar, Muelle Sanapú, Las Palmas de Gran Canaria. Présentez votre réservation au guichet de l’aquarium : le billet coupe-file s’y échange. L’aquarium se trouve dans la zone portuaire de Las Palmas, sur le Muelle Sanapú.'
 opinionEditorial: 'C’est l’activité idéale par temps de pluie ou de calima à Gran Canaria, et la vitre incurvée du grand bassin impressionne vraiment. Depuis le sud, comptez une cinquantaine de kilomètres : profitez-en pour combiner avec Vegueta ou la plage de Las Canteras.'
 guiasRelacionadas:
 - que-voir-a-grande-canarie

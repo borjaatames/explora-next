@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "À une minute de la cathédrale."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, les vélos électriques sont faciles à conduire."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Vélo électrique fat tire; Guide; Casque.'
 categoria: toursCiudad
 guiasRelacionadas:
 - que-voir-a-majorque

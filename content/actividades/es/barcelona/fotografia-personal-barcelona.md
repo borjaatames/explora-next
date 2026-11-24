@@ -46,6 +46,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'En uno de los lugares icónicos de Barcelona (Sagrada Familia, Barrio Gótico o Park Güell), a convenir con el fotógrafo al reservar.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: '20-25 fotografías profesionales editadas; Fotógrafo profesional en exclusiva durante 30 minutos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé; Se permiten animales de servicio; Bien comunicado en transporte público.'
 opinionEditorial: Con 104 opiniones a sus espaldas, es la opción con más recorrido de las tres sesiones de este proveedor en Barcelona. La flexibilidad de elegir escenario (Sagrada Familia, Gótico o Park Güell) es su punto fuerte, pero recuerda hablarlo con el fotógrafo al reservar porque no viene fijado de antemano.
 atraccionesRelacionadas:
 - fotos

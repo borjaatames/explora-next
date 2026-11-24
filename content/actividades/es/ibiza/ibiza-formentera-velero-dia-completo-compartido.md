@@ -57,6 +57,12 @@ preguntasFrecuentes:
   respuesta: 'Según el tiempo: Formentera, la isla de Espalmador, las Salinas o Es Vedrà, con varias paradas para nadar.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Gratis hasta 60 días antes; después no hay reembolso.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Plaza en velero de 41 pies con patrón; Combustible; Snorkel y 2 tablas de paddle surf; Baño a bordo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Precio por persona (máximo 7 en el barco); La ruta depende del viento y del mar; No es accesible en silla de ruedas.'
 opinionEditorial: 'La forma más asequible de pasar un día entero en velero en Ibiza: compartes barco con pocas personas y llegas a calas a las que no se llega por tierra.'
 atraccionesRelacionadas:
 - formentera

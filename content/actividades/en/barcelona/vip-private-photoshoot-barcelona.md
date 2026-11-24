@@ -45,6 +45,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Outside the Sagrada Família, Barcelona (the photographer confirms the exact spot when you book).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: '45-50 professionally edited photos; A private professional photographer for 1 hour; A session outside the Sagrada Familia.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Wheelchair and stroller accessible; Service animals welcome; Well connected by public transport.'
 opinionEditorial: 'One hour goes further than it sounds: the photographer knows which angles work around the Sagrada Familia and doesn''t waste time. If you also want to go inside the basilica or Park Güell, book those tickets separately and in advance — they''re not included and they sell out.'
 atraccionesRelacionadas:
 - fotos

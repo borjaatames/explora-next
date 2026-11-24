@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "No, c'è tempo libero per mangiare per conto proprio."
 - pregunta: "Da dove si parte?"
   respuesta: "Da Passeig de Gràcia 17, alle 8:30."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Passeig de Gràcia 17, Barcellona, davanti al Nike Store. Partenza alle 8:30.'
 categoria: excursionesDia
 keywords:
 - "girona e costa brava da barcellona"

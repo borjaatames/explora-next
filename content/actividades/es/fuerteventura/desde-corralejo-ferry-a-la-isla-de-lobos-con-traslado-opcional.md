@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: No. Es gratuito y se pide por internet hasta 5 días antes.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto de Corralejo: busca el barco a Lobos antes de la hora de salida.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Billete de ferry de ida y vuelta; Recogida y regreso al hotel (si se elige).'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El permiso de acceso es gratuito y se pide hasta 5 días antes de la visita; No accesible en silla de ruedas.'
 categoria: excursionesDia
 keywords:
 - ferry lobos corralejo

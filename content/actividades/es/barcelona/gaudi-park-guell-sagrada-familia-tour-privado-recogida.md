@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Sí, la del Park Güell y la de la Sagrada Familia sin colas.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel de Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado con licencia; Entrada al Park Güell; Entrada sin colas a la Sagrada Familia; Transporte desde el hotel y entre monumentos.'
 opinionEditorial: Las dos obras de Gaudí que nadie quiere perderse, sin colas ni metro y con un guía solo para vosotros. Para 4 o más personas el precio por cabeza es razonable.
 atraccionesRelacionadas:
 - sagrada-familia

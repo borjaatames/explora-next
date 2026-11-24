@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: In alta stagione l'accesso in auto privata a Formentor è limitato e il parcheggio della spiaggia si riempie. Con il minibus e la barca non devi pensarci.
 - pregunta: Si arriva al faro?
   respuesta: 'No: l''escursione si ferma al belvedere Es Colomer e alla spiaggia di Formentor, e torna in barca. Il faro del capo non è incluso.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 48 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel nord di Maiorca (a seconda dell''opzione); la barca arriva a Port de Pollença. Il punto di prelievo dipende dall''opzione che scegli al momento della prenotazione (diverse zone del nord di Maiorca). Il minibus va al belvedere Es Colomer e alla spiaggia di Formentor, e il ritorno si fa in barca fino a Port de Pollença.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Minibus panoramico di andata e ritorno; Guida locale; Sosta al belvedere Es Colomer; Barca dalla spiaggia di Formentor a Port de Pollença; Assicurazione di viaggio.'
 opinionEditorial: Il modo più comodo di vedere Formentor in alta stagione, quando l'auto è un problema. Il tratto in barca nella baia è la parte migliore.
 categoria: agua
 keywords:

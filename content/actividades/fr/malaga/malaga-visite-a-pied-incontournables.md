@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Non. On les voit de l'extérieur ; les entrées sont à part.
 - pregunta: Peut-elle être privée ?
   respuesta: Oui, il existe une option groupe privé.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Alameda Principal, 1 (Malaga). Dans le centre, près de la cathédrale et du musée Picasso. Vérifiez l''heure et le point de rendez-vous dans votre confirmation.'
 opinionEditorial: Une bonne première approche de Malaga en deux heures, avec l'avantage de pouvoir la faire en français.
 atraccionesRelacionadas:
 - centro-historico

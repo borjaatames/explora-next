@@ -46,6 +46,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: false
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund (100% charge if cancelled with less notice).'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'The meeting point is arranged in Madrid when you confirm your booking; the ride ends wherever in central Madrid your group chooses.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Admission; Private transport by tuk-tuk; Onboard music experience, chosen by the group.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not wheelchair or stroller accessible; Drinking alcohol during the ride is not permitted; Infants cannot ride in arms and no child seats are available.'
 opinionEditorial: This isn't a cultural tour — it's a party experience meant to get the mood going before a night out or to celebrate something as a group. If you want history and monuments at a relaxed pace, go for the panoramic tuk-tuk instead; if you want music and good energy with your crew, this is the product. Just note there's no alcohol allowed on board.
 atraccionesRelacionadas:
 - tuk-tuk

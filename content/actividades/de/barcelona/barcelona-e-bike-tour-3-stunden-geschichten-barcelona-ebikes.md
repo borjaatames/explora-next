@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Plaça de Sant Agustí Vell 16, beim Born."
 - pregunta: "Sind Eintritte inklusive?"
   respuesta: "Nein, die Bauten sieht man von außen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Plaça de Sant Agustí Vell 16. Fünf Minuten vorher da sein, um das Rad einzustellen.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

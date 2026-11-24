@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel en las zonas turísticas del sur; Equipo de buceo; Seguro de accidentes de buceo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que rellenar un cuestionario médico antes de bucear; Con asma, epilepsia, diabetes, hipertensión o enfermedades cardíacas necesitas autorización médica; Edad mínima: 10 años.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Alquiler de GoPro (20 € por cámara).'
 categoria: agua
 keywords:
 - bautismo de buceo gran canaria

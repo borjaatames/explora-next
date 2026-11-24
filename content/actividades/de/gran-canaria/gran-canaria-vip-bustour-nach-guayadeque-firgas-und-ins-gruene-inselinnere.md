@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Spanisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide; Moderner klimatisierter Bus; Fahrer; Abholung am Hotel oder am nächsten Punkt (Urlaubsorte); Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Route kann sich aus Gründen höherer Gewalt ändern; Genaue Abholzeit und -ort per WhatsApp bestätigen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen.'
 categoria: excursionesDia
 keywords:
 - gran canaria bustour guayadeque

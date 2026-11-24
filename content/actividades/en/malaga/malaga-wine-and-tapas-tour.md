@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: Yes, at each stop you can have beer, a soft drink or water instead of wine.
 - pregunta: What language is it in?
   respuesta: English only.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Calle Marqués de Larios 18, Málaga (in front of Women''Secret). Note: it is the Women''Secret shop, not the Victoria''s Secret at the other end of the street. From 24 November to 6 January, tours after 17:00 start at the Plaza de la Marina tourist office.'
 opinionEditorial: The best-rated food tour in Málaga, with over 1,300 reviews. The quickest way to learn where to eat for the rest of your trip.
 guiasRelacionadas:
 - eating-in-malaga

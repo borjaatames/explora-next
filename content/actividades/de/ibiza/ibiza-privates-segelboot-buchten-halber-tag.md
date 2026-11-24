@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: Kostenlos bis 60 Tage vorher; danach keine Erstattung.
 - pregunta: Welche Sprachen spricht der Skipper?
   respuesta: Spanisch, Englisch, Französisch und Italienisch, nicht Deutsch. Zum Segeln und Baden brauchst du keine Sprachkenntnisse.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 opinionEditorial: Ein halber Tag auf deinem eigenen Segelboot ist die beste Art, die Buchten Ibizas ohne Menschenmassen zu sehen. Mit 5 oder 6 Personen ist der Preis pro Kopf sehr vernünftig.
 atraccionesRelacionadas:
 - calas-barco

@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sim, open bar com cava, vinho, cerveja e refrigerantes."
 - pregunta: "Pode tomar-se banho?"
   respuesta: "Sim, se o tempo permitir."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Esperar na rua em frente ao restaurante MOLO39 (não na esplanada), plaça de Pau Vila 39, lado sul do Palau de Mar (metro Barceloneta, L4). Chegue 15 minutos antes.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-em-2-dias

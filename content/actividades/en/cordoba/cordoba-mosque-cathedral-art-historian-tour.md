@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Spanish, French and English.
 - pregunta: Do you see the mihrab?
   respuesta: Yes, the mihrab from Al-Hakam II's extension, with its Byzantine mosaics, is one of the main stops.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Next to the Mosque-Cathedral of Córdoba (the exact point depends on the option). The voucher shows the meeting point, in the area around the Mosque. Arrive 10 minutes early.'
 opinionEditorial: 'An hour and a half very well explained by specialists, with the ticket included and at a reasonable price. It is one of the best ways to understand Córdoba''s most important monument, especially if you want a tour in French.'
 atraccionesRelacionadas:
 - mezquita-catedral

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, ab 120 cm, wenn sie Rad fahren können."
 - pregunta: "Gibt es E-Bikes?"
   respuesta: "Ja, nach Wahl."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Vor dem Fahrradverleih Tres Gatos (nicht hineingehen, der Guide empfängt Sie draußen). Die genaue Adresse steht in der Buchung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

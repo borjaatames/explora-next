@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Sí, la entrada a la antigua Sinagoga Mayor está incluida.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaça de Sant Jaume, Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía oficial privado; Entrada a la antigua sinagoga.'
 opinionEditorial: 'Una visita muy distinta a las habituales de Barcelona: la historia de su comunidad judía medieval, contada con calma y con la sinagoga incluida.'
 atraccionesRelacionadas:
 - gotico

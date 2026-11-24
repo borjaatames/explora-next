@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Quatre heures."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Caballerizas Reales, près de l''Alcázar.'
 categoria: visitasGuiadas
 keywords:
 - "visite complète cordoue"

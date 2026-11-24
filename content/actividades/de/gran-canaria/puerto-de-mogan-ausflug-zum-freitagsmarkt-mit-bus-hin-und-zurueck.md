@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Spanisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Direktbus hin und zurück vom Urlaubsort zum Markt; Reisebegleitung bei den Transfers; Freizeit in Puerto de Mogán.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht empfohlen für Menschen mit eingeschränkter Mobilität.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Abholung außerhalb der genannten Gebiete (Taurito nicht inklusive).'
 categoria: excursionesDia
 keywords:
 - markt mogan

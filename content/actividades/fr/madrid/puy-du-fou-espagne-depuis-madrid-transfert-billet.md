@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Selon l'option : il existe une formule transfert seul."
 - pregunta: "Peut-on apporter son repas ?"
   respuesta: "Oui, selon le prestataire. Le parc a aussi des restaurants."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Agence Amigo Tours à Madrid ; l''adresse exacte figure dans la confirmation de réservation.'
 categoria: excursionesDia
 guiasRelacionadas:
 - madrid-en-1-jour

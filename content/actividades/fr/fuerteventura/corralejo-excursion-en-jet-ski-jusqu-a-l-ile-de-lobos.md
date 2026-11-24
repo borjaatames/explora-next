@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, on la longe depuis la mer."
 - pregunta: "Faut-il un permis ?"
   respuesta: "Non, la sortie est guidée et ouverte aux débutants."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle La Ballena, 10, à Corralejo, près du port.'
 categoria: agua
 keywords:
 - "jet ski corralejo"

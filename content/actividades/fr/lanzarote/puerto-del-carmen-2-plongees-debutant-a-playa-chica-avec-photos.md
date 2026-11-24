@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Moniteur certifié PADI (3 plongeurs max.); Tout l''équipement de plongée; 2 plongées de 50 minutes; Assurance; Photos et vidéo professionnelles des deux plongées; Certificat numérique.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes, aux personnes cardiaques ou épileptiques; Vous devez parfaitement comprendre le briefing de sécurité dans la langue réservée.'
 categoria: agua
 keywords:
 - plongée playa chica

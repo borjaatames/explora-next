@@ -58,6 +58,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, Spanien.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ein Gratis-Shot in jeder der 4 Locations (3 Bars/Pubs und 1 Nachtclub); Trinkgeld im Preis enthalten; Eintritt in alle 4 Locations der Route.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nur für Erwachsene ab 18 Jahren; Nicht geeignet für Rollstühle oder Kinderwagen, Haustiere sind nicht erlaubt; Nicht empfohlen bei Rücken- oder Herzproblemen sowie in der Schwangerschaft.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Transport; Essen und Getränke über die enthaltenen Shots hinaus.'
 opinionEditorial: 'Im Vergleich zu unserer anderen Kneipentour in Madrid ist das die flexiblere Option: kostenlose Stornierung bis 24 Stunden vorher und ein Guide in sechs Sprachen, eine gute Wahl für internationale Gruppen. Sie hat eine Location weniger (4 statt 5), und der Dresscode ist strenger – keine Sportkleidung, und für die Männer keine Sandalen oder kurzen Hosen.'
 atraccionesRelacionadas:
 - otros-madrid

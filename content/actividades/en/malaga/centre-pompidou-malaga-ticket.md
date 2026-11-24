@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: An hour and a half.
 - pregunta: Are there free days?
   respuesta: Yes, Sundays from 16:00 to closing.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'This activity is non-refundable.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Centre Pompidou Málaga, Muelle Uno, Pasaje Doctor Carrillo Casaux. On Muelle Uno in the port, a 10-minute walk from the cathedral.'
 opinionEditorial: Top-flight modern art in the port for €9. It is smaller than Málaga's Picasso or Thyssen museums, so it suits an afternoon or a rainy day.
 guiasRelacionadas:
 - malaga-in-two-days

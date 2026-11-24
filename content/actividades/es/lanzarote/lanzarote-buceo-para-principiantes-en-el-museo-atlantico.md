@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso en Playa Blanca; Traslado en lancha al Museo Atlántico; Instructor de buceo titulado; Todo el equipo de buceo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 12 años; No apto para embarazadas, usuarios de silla de ruedas ni personas con problemas respiratorios, enfermedades previas o hipertensión; No vueles en al menos 18 horas después.'
 categoria: agua
 keywords:
 - buceo museo atlantico

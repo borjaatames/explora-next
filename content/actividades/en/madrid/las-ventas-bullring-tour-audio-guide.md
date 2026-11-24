@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: In ten languages, including Spanish, English, French, German, Italian and Portuguese.
 - pregunta: How much time do I need?
   respuesta: About 50 minutes for the route, a little longer if you linger in the museum and the simulator.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Las Ventas bullring, Calle de Alcalá, 237 (28028 Madrid). Ventas metro (lines 2 and 5): you come out right in front of the bullring. The tour entrance is at the ticket office on the main façade. Show your voucher and collect the audio guide.'
 opinionEditorial: 'A short, cheap visit to see inside Madrid''s most striking Neo-Mudéjar building and understand what the bullring means to the city, without having to attend a bullfight. The best part is standing in the arena and walking out through the Puerta Grande; the simulator is more of a novelty.'
 atraccionesRelacionadas:
 - otros-madrid

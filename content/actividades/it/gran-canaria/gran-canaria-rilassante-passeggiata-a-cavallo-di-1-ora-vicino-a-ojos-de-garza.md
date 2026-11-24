@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, italiano, francese, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Horse Riding Canaria, Camino del Cardonal, Ojos de Garza (Telde). Indica livello ed età di ogni cavaliere.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Casco e paraschiena.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 5 anni, donne in gravidanza o persone oltre i 65 anni; Massimo 95 kg e 2 m di altezza.'
 categoria: aventura
 keywords:
 - passeggiata a cavallo gran canaria

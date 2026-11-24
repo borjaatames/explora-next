@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: La guida parla francese, inglese, spagnolo, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerto Colón, pontile 2, Costa Adeje.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Bevanda gratuita (birra, acqua o bibita) e un panino; Sosta bagno a El Puertito o alla spiaggia di Las Vistas.'
+- pregunta: 'Quanto dura?'
+  respuesta: '3 ore.'
 categoria: agua
 keywords:
 - avvistamento balene piccolo gruppo tenerife

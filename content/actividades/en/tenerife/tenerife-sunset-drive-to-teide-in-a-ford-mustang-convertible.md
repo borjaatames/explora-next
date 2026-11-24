@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Aperitif and snack; Drink; Hotel transport.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Drivers need a category B licence held for at least 1 year; provisional or paper replacement licences are not accepted; Not suitable if you have dived in the previous 24 hours.'
+- pregunta: 'What is not included?'
+  respuesta: 'Photos; Jackets and coats.'
 categoria: aventura
 keywords:
 - mustang tour teide

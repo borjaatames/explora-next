@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "No, viene proposto un pranzo marocchino a circa 25 € a persona."
 - pregunta: "Il traghetto è incluso?"
   respuesta: "Sì, andata e ritorno da Tarifa."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo hotel o in un punto vicino nel centro di Siviglia. Partenza verso le 8.'
 categoria: excursionesDia
 keywords:
 - "tangeri da siviglia"

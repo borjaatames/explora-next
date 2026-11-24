@@ -54,6 +54,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Secondo il fornitore, la prenotazione non è rimborsabile, quindi controlla bene data e ora prima di pagare.
+preguntasFrecuentes:
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Secondo il fornitore, la prenotazione non è rimborsabile, quindi controlla bene data e ora prima di pagare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Plaza de Cánovas del Castillo (Fontana di Nettuno), di fronte al Museo Thyssen-Bornemisza, 28014 Madrid, Spagna.'
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour privato in tuk-tuk elettrico (fino a 4 persone per tuk-tuk); Audioguida con cuffie in 11 lingue; Acqua fresca, wifi e ricarica del telefono; Seggiolino rialzato per bambini.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Arriva 10 minuti prima; il tuk-tuk aspetta nell''area di sosta di fronte al Museo Thyssen; Età minima 3 anni; Se siete più di 4, prenota un tuk-tuk per ogni gruppo di 4.'
 opinionEditorial: Vedere le luci di Natale in tuk-tuk evita la folla a piedi intorno a Sol e Gran Vía e permette di coprire diverse zone in una sola serata. Si svolge solo nel periodo natalizio e la prenotazione non è rimborsabile; copriti bene, perché il tuk-tuk è aperto ai lati.
 atraccionesRelacionadas:
 - tuk-tuk

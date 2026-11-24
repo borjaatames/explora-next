@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Nein, sie kosten 25 € extra."
 - pregunta: "Gibt es eine Abholung?"
   respuesta: "Ja, nennen Sie Ihr Hotel oder einen Treffpunkt bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Aquatis Diving, Playa de las Cucharas, Lokal 6, Costa Teguise: großes blaues Schild an der Strandpromenade. Start um 8:30 Uhr; Abholung auf Wunsch.'
 categoria: agua
 keywords:
 - "schnuppertauchen lanzarote"

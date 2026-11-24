@@ -46,6 +46,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en barco con patrón; Bebidas: refrescos, cerveza y agua; Comida: tortilla de patatas, ensalada de pasta y queso; Equipo de esnórquel; Tabla de paddle surf.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con movilidad reducida.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '4 horas.'
 categoria: agua
 keywords:
 - avistamiento de delfines mogan

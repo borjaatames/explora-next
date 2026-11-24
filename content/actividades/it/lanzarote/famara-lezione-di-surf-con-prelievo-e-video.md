@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno (zona di Puerto del Carmen fino a Famara); Istruttori certificati; Piccoli gruppi; Muta e tavola; Acqua e frutta; Foto e video.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 10 anni.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo ad Arrecife, Playa Honda, Puerto Calero e Costa Teguise: 15 € extra da pagare all''autista; Mance.'
 categoria: agua
 keywords:
 - lezione di surf famara

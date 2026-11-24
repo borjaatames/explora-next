@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha e regresso em zonas selecionadas do sul; Água e bolachas.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 6 anos, pessoas com mobilidade reduzida ou utilizadores de cadeira de rodas.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Fotos e vídeo; Recolha noutras zonas.'
 categoria: agua
 keywords:
 - passeio de barco snorkel gran canaria

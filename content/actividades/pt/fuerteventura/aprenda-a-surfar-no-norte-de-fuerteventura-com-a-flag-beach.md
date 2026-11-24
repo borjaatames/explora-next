@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha e regresso ao hotel; Prancha e fato de neoprene.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 11 anos; Não recomendado a grávidas; É preciso saber nadar.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '4 horas.'
 categoria: agua
 keywords:
 - flag beach surf

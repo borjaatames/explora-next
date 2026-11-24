@@ -67,6 +67,12 @@ preguntasFrecuentes:
   respuesta: 'Sì: c''è tempo libero a Formentera e a Espalmador. A Formentera puoi noleggiare bici, scooter o auto a prezzo scontato.'
 - pregunta: Si sbarca a Es Vedrà?
   respuesta: 'No. Es Vedrà è un isolotto protetto: la barca si avvicina per le viste e le foto, ma lo sbarco non è permesso.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (punto di Excursiones-Ibiza). Partenza alle 10:00 dal lungomare di Sant Antoni, al punto di Excursiones-Ibiza sul Passeig de ses Fonts. Arriva 20 minuti prima.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Barca con equipaggio; Colazione, pranzo (paella) e cena; Open bar di birra, sangria e bibite; Brindisi con cava al tramonto; Maschera e boccaglio; Tavole da paddle surf.'
 opinionEditorial: 'Se fai una sola gita in barca a Ibiza, questa unisce il meglio: Es Vedrà, l''acqua di Espalmador e Formentera, con tutti i pasti inclusi. È cara, ma è tutta la giornata.'
 guiasRelacionadas:
 - cosa-vedere-a-ibiza

@@ -46,6 +46,17 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: Not wheelchair accessible. Includes walking. Not recommended for people with heart conditions.
 politicaCancelacion: Free cancellation up to the start of the activity, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to the start of the activity, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pick-up in Barcelona (point and time confirmed on booking). The trip starts in Barcelona; the pick-up point and itinerary details are confirmed when you book.'
+- pregunta: 'What is included?'
+  respuesta: 'Accommodation in handpicked hotels; Breakfast and dinner; Admission to the listed monuments; High-speed (AVE) train tickets between cities; Specified airport transfers; Guided walking tours in Barcelona and Madrid.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunches; Tips; Extras and souvenirs.'
+- pregunta: 'How long does it last?'
+  respuesta: '9 days.'
 opinionEditorial: 'This is a "grand tour" of Spain sorted from start to finish: four must-see cities in nine days, travelling by AVE (the most comfortable way between capitals), with hotels, breakfasts, dinners and admissions already included, and a guide on foot in Barcelona and Madrid. The point is that it''s private, so you''re not stuck to a group of 40: there''s structure but also free time. It''s a premium experience (priced per person, minimum 2); for a family or group of friends who want to see the essentials of Spain without organising anything, it makes a lot of sense.'
 atraccionesRelacionadas:
 - otros-barcelona

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Etwa zehn Minuten zu Fuß über die Avinguda de Gaudí."
 - pregunta: "Gibt es Führungen?"
   respuesta: "Ja, je nach gewählter Option."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Carrer de Sant Antoni Maria Claret 167, 08025 Barcelona.'
 categoria: entradas
 guiasRelacionadas:
 - barcelona-in-2-tagen

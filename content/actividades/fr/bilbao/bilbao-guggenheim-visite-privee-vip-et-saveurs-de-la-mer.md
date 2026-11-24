@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, le guide est réservé à votre groupe."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, choisissez le français à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Le point de rendez-vous dépend de l''option ; il est indiqué à la réservation.'
 categoria: visitasGuiadas
 keywords:
 - "visite privée guggenheim bilbao"

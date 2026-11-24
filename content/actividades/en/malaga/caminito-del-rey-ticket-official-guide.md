@@ -69,6 +69,12 @@ preguntasFrecuentes:
   respuesta: The official unguided ticket exists but sells out months in advance. This option with an official guide has its own allocation and, on top of that, the guide explains the history of the hydroelectric plant and the geology of the gorge.
 - pregunta: Is it scary?
   respuesta: The walkways are wide, with railings, 100 metres above the river. It is safe and suitable for families with children from 8, but the final suspension bridge is impressive for anyone with vertigo.
+- pregunta: 'Is transport included?'
+  respuesta: 'No. You get to the north access in Ardales on your own. The shuttle bus between the two entrances is not included either and costs €2.50 on site.'
+- pregunta: 'Can children do it?'
+  respuesta: 'Children under 8 are not admitted. It is also not suitable for people with severe vertigo or reduced mobility: there are stairs and uneven ground.'
+- pregunta: 'What happens if it closes because of the weather?'
+  respuesta: 'The Caminito closes in strong wind or heavy rain. If that happens, you are refunded.'
 avisoReserva: Spring and autumn slots sell out within days
 opinionEditorial: The cheapest way to do the Caminito with guaranteed entry. If you already have a car or plan to take the train, do not pay for the tour with transport. Book the day that suits you and plan your Málaga trip around that date.
 guiasRelacionadas:

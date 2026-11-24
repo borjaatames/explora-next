@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: É um dos melhores em fauna mediterrânica. Para fauna oceânica e tropical, o Oceanogràfic de Valência é maior e mais variado.
 - pregunta: Posso mergulhar com os tubarões?
   respuesta: "Sim, com o mergulho em jaula no tanque dos tubarões: não é preciso certificado nem experiência de mergulho, a idade mínima é 8 anos e custa 175 € por pessoa (inclui equipamento, seguro, formação e entrada para ti e um acompanhante). Dura 2 horas, com um máximo de 4 pessoas por sessão, e reserva-se no site do Aquàrium."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Aquàrium de Barcelona, Moll d''Espanya del Port Vell, 5, 08039 Barcelona. Metro L3 até Drassanes e 15 minutos a pé pelas Ramblas e pelo Port Vell, ou metro L4 até Barceloneta e 10 minutos. Mostre o bilhete no telemóvel.'
 opinionEditorial: 'O Aquàrium de Barcelona tem o túnel de tubarões mais espetacular de Espanha: 80 metros de vidro rodeados de tubarões-touro e raias. A coleção mediterrânica é única. Vale a pena, mesmo com um preço alto: compre online e evita a fila da bilheteira.'
 guiasRelacionadas:
 - barcelona-com-criancas

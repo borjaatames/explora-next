@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Voo de parasailing; Equipamento de segurança certificado; Briefing; Descolagem e aterragem a partir do barco; Seguro da atividade; Assistência da tripulação.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 5 anos, grávidas ou pessoas com problemas cardíacos; Máximo 159 kg; Não recomendado após cirurgia recente ou a utilizadores de cadeira de rodas.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '1 hora.'
 categoria: agua
 keywords:
 - parasailing maspalomas

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, German, French, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Return bus from the meeting point nearest your accommodation; Return ferry between Lanzarote and Fuerteventura; Free time at each stop; Experienced multilingual guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Valid ID or passport required to travel between islands; German-speaking guide on Tuesdays only, Italian on Wednesdays only; Not suitable for people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink.'
 categoria: excursionesDia
 keywords:
 - day trip fuerteventura from lanzarote

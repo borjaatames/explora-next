@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: 'Oui, il y a une carte de plats traditionnels espagnols à prix abordables, à payer séparément.'
 - pregunta: 'Quelle boisson est incluse ?'
   respuesta: 'Une consommation au choix parmi sangria, bière, vin ou soda.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Sala Temple, Cuesta de San Vicente, 40 (28008 Madrid). À 5 minutes à pied de la Plaza de España et du métro Príncipe Pío (lignes 6, 10 et R). Arrivez quelques minutes avant pour choisir votre table et commander votre boisson.'
 opinionEditorial: 'Le flamenco le moins cher et le plus intimiste du centre de Madrid parmi les bien notés. Idéal si vous cherchez l''ambiance authentique d''un petit tablao plutôt qu''un grand spectacle pour touristes.'
 atraccionesRelacionadas:
 - flamenco

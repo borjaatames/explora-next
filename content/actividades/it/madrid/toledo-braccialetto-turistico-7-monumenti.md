@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: No. Una volta ritirato, il braccialetto non ha scadenza, quindi puoi dividere i monumenti in due giorni se dormi a Toledo.
 - pregunta: Include la Cattedrale?
   respuesta: 'No. La Cattedrale ha un biglietto proprio (circa 12 €) e vale la pena da sola. Un piano sensato per un giorno: Cattedrale la mattina, braccialetto il pomeriggio.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Cambio del braccialetto in uno qualsiasi dei 7 monumenti, Toledo. Mostra il voucher sul telefono alla biglietteria di uno qualsiasi dei 7 monumenti e ricevi il braccialetto. Il punto di partenza più comodo è San Ildefonso (Gesuiti): sali sulla torre e poi prosegui verso Santo Tomé e San Juan de los Reyes.'
 opinionEditorial: Il trucco meglio custodito di Toledo. Sette monumenti, tra cui il capolavoro di El Greco e il chiostro più bello della città, al prezzo di un menù del giorno. Se visiti Toledo per conto tuo da Madrid, compralo prima di partire.
 guiasRelacionadas:
 - toledo-da-madrid-in-un-giorno

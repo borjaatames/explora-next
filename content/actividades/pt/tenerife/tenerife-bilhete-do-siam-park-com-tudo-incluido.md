@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Comida e bebida em todos os pontos do parque exceto a casa de chá; algumas bebidas alcoólicas e doces pagam-se à parte.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Entrada principal do Siam Park, Avenida Siam, Costa Adeje.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Mesmo com acesso prioritário pode haver filas na época alta; Alguns escorregas têm limite de peso.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Algumas bebidas alcoólicas, doces, snacks e crepes; Casa de chá.'
 categoria: parques
 keywords:
 - siam park tudo incluido

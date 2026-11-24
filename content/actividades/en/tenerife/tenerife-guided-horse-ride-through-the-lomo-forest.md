@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
+- pregunta: 'What is included?'
+  respuesta: 'Horse ride; Instructor; Helmet and gloves.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Maximum weight 85 kg; Not suitable for children under 5; Not suitable for pregnant women.'
 categoria: aventura
 keywords:
 - horse riding tenerife north

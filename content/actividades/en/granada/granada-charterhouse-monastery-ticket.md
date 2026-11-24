@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: A good hour with the audio guide.
 - pregunta: Can I cancel?
   respuesta: No, the ticket is non-refundable.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Granada. North of the centre, by the Cartuja university campus. City buses 8 and U3 from Gran Vía (about 15 minutes).'
+- pregunta: 'What is included?'
+  respuesta: 'Entry to La Cartuja monastery; Audio guide app on your phone.'
 opinionEditorial: Granada's great unknown. The sacristy is a Baroque riot of marble and stucco that leaves you speechless, and for €10 you almost have it to yourself.
 guiasRelacionadas:
 - granada-in-2-days

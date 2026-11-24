@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle Anfi del Mar 2, Mogán.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tutte le tasse; Assicurazione; Giubbotto salvagente.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Peso complessivo massimo 200 kg.'
 categoria: agua
 keywords:
 - parasailing anfi

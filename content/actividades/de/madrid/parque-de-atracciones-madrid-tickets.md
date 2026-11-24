@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Ja, aber im Winter mit verkürzten Zeiten; in der Nebensaison ist er an manchen Wochentagen geschlossen. Prüfen Sie den Kalender vor dem Kauf.
 - pregunta: Wie viele Fahrgeschäfte gibt es?
   respuesta: Über 45, verteilt auf Adrenalin-, Kinder-, Familien- und Wasserbereiche. Für jeden ist etwas dabei.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann das Ticket weder storniert noch geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Parque de Atracciones de Madrid, Casa de Campo, 28011 Madrid. Metro Linie 10 bis Batán und 10 Minuten zu Fuß oder in der Saison mit der Seilbahn ab Rosales. Einlass mit dem Ticket auf dem Handy.'
 opinionEditorial: Der Parque de Atracciones de Madrid hat nicht die Thematisierung des Parque Warner, doch die Lage in der Casa de Campo und die Mischung aus Fahrgeschäften für jedes Alter machen ihn ideal für einen Familientag. Abismo und Tornado begeistern Adrenalin-Fans, und der Kinderbereich gehört zu den besten Madrids.
 guiasRelacionadas:
 - madrid-mit-kindern

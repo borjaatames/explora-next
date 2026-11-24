@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Non, ils se visitent de l'extérieur."
 - pregunta: "Quelle distance parcourt-on ?"
   respuesta: "Environ 15 km, avec assistance électrique."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'GreenTours Palma, Travessa d''en Ballester 8, centre de Palma. Départ à 10 h.'
 categoria: toursCiudad
 keywords:
 - "vélo électrique palma de majorque"

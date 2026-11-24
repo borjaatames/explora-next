@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Finca Los Castaños, Agaete. Las visitas empiezan de forma continua según llegan los visitantes; aparcamiento gratis.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada a una plantación de café; Explicación del proceso del café; Cata de café; Acceso a la tienda de productos locales.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No accesible en silla de ruedas; Actividad al aire libre: lleva calzado cómodo.'
 categoria: excursionesDia
 keywords:
 - cafe de agaete visita

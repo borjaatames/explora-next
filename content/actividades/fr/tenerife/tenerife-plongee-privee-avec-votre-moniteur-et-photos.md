@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transfert aller-retour depuis votre logement; Moniteur de plongée diplômé; Plongée privée et personnalisée; Briefing de sécurité et explication de l''équipement; Équipement de plongée complet; Photos et vidéos sous-marines.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 8 ans; Déconseillé aux femmes enceintes et aux personnes cardiaques; Ne pas prendre l''avion dans les 24 heures qui suivent.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Assurance plongée personnelle (obligatoire pour les plongeurs certifiés ; les débutants sont couverts); Repas et boissons.'
 categoria: agua
 keywords:
 - plongée privée tenerife

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: De Los Cristianos ou de Puerto Colón (Costa Adeje), selon l'option réservée.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie d''observation des cétacés de deux heures; Guide et commentaires dans la langue de l''option choisie; Courte pause baignade; Eau potable et gobelets réutilisables.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Les observations sont très fréquentes mais pas garanties : les animaux sont sauvages; Le point de rendez-vous dépend de l''option choisie; Si vous êtes sujet au mal de mer, prenez un médicament avant le départ.'
 categoria: agua
 keywords:
 - observation baleines tenerife

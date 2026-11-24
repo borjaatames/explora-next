@@ -55,6 +55,14 @@ politicaCancelacion: 'Non-refundable: once booked, it cannot be cancelled or cha
 preguntasFrecuentes:
 - pregunta: What is Abismo?
   respuesta: Abismo is a roller coaster that climbs a 90-degree lift, ends with a corkscrew and reaches 105 km/h. It's one of the park's most popular rides and has long queues in summer.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Parque de Atracciones de Madrid, Casa de Campo, Madrid. Access via metro line 10 to Batán station, or bus. The park is inside Casa de Campo — follow the signs from Batán.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day entry to Parque de Atracciones.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The park does not open every day in low season — check the calendar before booking; Abismo is the park''s star attraction; expect queues in summer.'
 opinionEditorial: Madrid's local theme park — less glamorous than Parque Warner, more accessible and great value for a half-day. Abismo alone is worth the visit.
 guiasRelacionadas:
 - madrid-with-kids

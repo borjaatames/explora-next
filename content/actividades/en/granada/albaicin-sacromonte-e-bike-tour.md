@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: English, Spanish and French.
 - pregunta: Any height or weight limits?
   respuesta: 'Yes: minimum 1.50 m tall and maximum 120 kg.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de los Cuchilleros, 12 (Granada). By Bar La Trastienda, take the street going up on the right. Check the exact spot in your confirmation.'
 opinionEditorial: The most fun way to explore the Albaicín and Sacromonte, which are tough on foot because of the hills. Very well rated.
 atraccionesRelacionadas:
 - albaicin-sacromonte

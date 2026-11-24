@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Una hora.
 - pregunta: ¿Se combina con la Mezquita?
   respuesta: Sí, están a 5 minutos andando.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerta principal del Alcázar de los Reyes Cristianos, Córdoba. Junto al río y a 5 minutos a pie de la Mezquita-Catedral.'
 opinionEditorial: Los jardines son lo mejor del Alcázar, y con guía entiendes el papel de Córdoba en la Reconquista y en el viaje de Colón. Atento a si el interior está abierto.
 guiasRelacionadas:
 - cordoba-en-un-dia

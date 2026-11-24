@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Eine gute Stunde mit dem Audioguide.
 - pregunta: Kann ich stornieren?
   respuesta: Nein, das Ticket ist nicht erstattbar.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Granada. Nördlich des Zentrums, beim Universitätscampus Cartuja. Stadtbusse 8 und U3 ab der Gran Vía (etwa 15 Minuten).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt ins Kloster La Cartuja; Audioguide-App auf dem Handy.'
 opinionEditorial: Granadas großes Unbekanntes. Die Sakristei ist ein barocker Rausch aus Marmor und Stuck, der dich sprachlos macht, und für 10 € hast du sie fast für dich allein.
 guiasRelacionadas:
 - granada-in-2-tagen

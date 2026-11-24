@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, seul, à deux ou à trois, dans la limite de 180 kg."
 - pregunta: "Se mouille-t-on ?"
   respuesta: "En principe non : décollage et atterrissage se font sur le bateau."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Puerto del Carmen : la cabane du prestataire se trouve à l''entrée du port, face à la station-service.'
 categoria: aventura
 keywords:
 - "parachute ascensionnel lanzarote"

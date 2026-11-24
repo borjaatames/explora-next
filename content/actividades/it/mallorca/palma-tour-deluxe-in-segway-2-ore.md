@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "No, i monumenti si vedono dall'esterno."
 - pregunta: "Serve esperienza?"
   respuesta: "No, la prova iniziale è inclusa."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Carrer del Palau Reial 12, vicino alla cattedrale.'
 categoria: toursCiudad
 keywords:
 - "segway palma"

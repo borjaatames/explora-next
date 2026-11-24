@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Oceanarium Explorer, Barceló Club El Castillo, Caleta de Fuste.'
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Mota de água; Colete salva-vidas; Instrutor.'
 categoria: agua
 keywords:
 - mota de agua caleta de fuste

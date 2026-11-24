@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "No, cibo e bevande sono a tuo carico."
 - pregunta: "Da dove parte l'escursione?"
   respuesta: "Da calle Rastro 12A a Siviglia, o dal tuo hotel se è in centro."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Autista-guida professionale; Prelievo e rientro nella maggior parte degli hotel del centro; Trasporto in 4x4; Escursione in piccolo gruppo.'
 categoria: excursionesDia
 keywords:
 - "doñana da siviglia"

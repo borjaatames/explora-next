@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Decathlon Telde car park (GC-1, km 8), usually at 9:30.'
+- pregunta: 'What is included?'
+  respuesta: 'English-speaking guide; Helmet, wetsuit, harness and safety gear; Insurance; Light picnic: biscuits, bananas and nuts; Water; Digital photos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Ages 12 to 70; Back around 14:30; From November to April the trip may switch to the winter canyon.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

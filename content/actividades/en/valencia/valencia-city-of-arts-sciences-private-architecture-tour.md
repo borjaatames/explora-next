@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: No, it's an outdoor tour. Buy tickets separately if you want to go in afterwards.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Hotel Barceló Valencia, Avenida de Francia 11.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide.'
 opinionEditorial: To understand why this complex is so special you need someone to explain the architecture; two private hours are enough, then go inside wherever you like.
 atraccionesRelacionadas:
 - ciudad-artes

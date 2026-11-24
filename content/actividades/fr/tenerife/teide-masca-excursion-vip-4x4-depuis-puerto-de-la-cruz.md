@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "De Puerto de la Cruz à 8 h 45."
 - pregunta: "Combien de temps ?"
   respuesta: "Environ huit heures."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transport en 4x4; Prise en charge à l''hôtel ou près de Puerto de la Cruz; Chauffeur; Déjeuner.'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-billets-complets

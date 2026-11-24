@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Italiano, spagnolo, inglese e francese.
 - pregunta: Si entra nella cattedrale o nell'Alcázar?
   respuesta: No, si vedono dall'esterno. Il team ti aiuta a prenotare gli ingressi per visitarli dopo.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Plaza de los Refinadores, 7 (Siviglia). Nel quartiere di Santa Cruz, accanto alla statua di Don Juan Tenorio. Il tour termina nello stesso punto.'
 opinionEditorial: Un tour flessibile ed economico per orientarti a Siviglia il primo giorno, in italiano e, se vuoi, in privato.
 atraccionesRelacionadas:
 - tours-a-pie

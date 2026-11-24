@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: No final, tapas e uma bebida num bar do centro, com recomendações do guia para o resto da viagem.
 - pregunta: A partir de que idade podem ir as crianças?
   respuesta: A partir dos 7 anos; há cadeirinhas de bebé para alugar para os mais pequenos.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Tim Bikes, Calle del Espejo, 9 (28013 Madrid). A 5 minutos a pé do metro Ópera, entre a plaza de Ramales e a calle Mayor. Chegue 10 minutos antes para a explicação de segurança.'
 opinionEditorial: 'Três horas que dão para ver meia Madrid sem cansar, por percursos tranquilos e com um guia que recomenda onde comer. Nota muito boa. Se tem receio das subidas, a opção elétrica vale a pena.'
 atraccionesRelacionadas:
 - otros-madrid

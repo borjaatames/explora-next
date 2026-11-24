@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, es gibt zwei Bade- und Schnorchelstopps."
 - pregunta: "Was passiert bei schlechtem Wetter?"
   respuesta: "Die Tour wird verschoben oder erstattet."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Holzkiosk im Hafen von Port de Sóller, gegenüber dem Hotel Miramar.'
 categoria: agua
 guiasRelacionadas:
 - serra-de-tramuntana-soller

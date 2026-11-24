@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: No, el billete (unos 22 €) se paga aparte.
 - pregunta: ¿Hace falta permiso para la cumbre?
   respuesta: Sí, el último tramo al pico exige un permiso que se reserva en Tenerife ON, la web del Cabildo (15 € para quien no reside en Canarias). Tras reservar, confirma con el proveedor si lo incluye o tienes que sacarlo tú.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aparcamiento del teleférico del Teide, Parque Nacional del Teide. Hay que llegar en coche propio o taxi; desde el sur de la isla, cuenta 1 hora.'
 opinionEditorial: La forma más segura de pisar el techo de España. Es cara y exigente, pero el guía marca el ritmo con la altitud y la nota es casi perfecta.
 guiasRelacionadas:
 - subir-al-teide

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No. Las pinturas (algunas de las más antiguas del mundo, de hace unos 40.000 años) están en las galerías altas, cerradas al público para conservarlas. En el museo de Nerja hay reproducciones.
 - pregunta: ¿Es buena idea combinarla con Frigiliana?
   respuesta: 'Sí: Frigiliana está a 10 minutos en coche y es uno de los pueblos blancos más bonitos de Andalucía. Cueva por la mañana, Frigiliana para comer y el Balcón de Europa en Nerja al atardecer.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Cueva de Nerja, Carretera de Maro s/n, Nerja (Málaga). La cueva está en Maro, a 5 km de Nerja por la N-340. En coche, aparcamiento gratuito. En autobús, línea Málaga-Nerja de ALSA (1 h 15) y luego el bus urbano o taxi hasta la cueva. Presenta el voucher en taquilla a la hora reservada.'
 opinionEditorial: 'La Cueva de Nerja es la excursión natural más espectacular de la Costa del Sol: la Sala del Cataclismo, con su columna de 32 metros, deja sin palabras. Entrada barata y con hora; en verano reserva con días de antelación.'
 guiasRelacionadas:
 - escapadas-desde-malaga

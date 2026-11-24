@@ -45,6 +45,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 0
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estatua central de la Plaza de Isabel II (Ópera), Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía profesional; Cata de vinos españoles; Degustación de tapas; Comida.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima para beber alcohol: 18 años; Opción vegetariana disponible si la pides al reservar; Avisa al reservar de alergias o dietas especiales.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas; Recogida y regreso al hotel.'
 opinionEditorial: La versión de mediodía del tour de Native Spanish Tapas, con más peso en el vino. Si os interesa entender los vinos españoles mientras coméis bien, es buena opción; si preferís cenar, el tour nocturno con paella es más completo.
 atraccionesRelacionadas:
 - tapas-madrid

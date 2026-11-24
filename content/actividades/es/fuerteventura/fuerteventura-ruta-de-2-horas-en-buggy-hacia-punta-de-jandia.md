@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Buggy; Guía; Recogida y regreso en Costa Calma, Jandía y Esquinzo.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Recogida fuera de las zonas indicadas.'
 categoria: aventura
 keywords:
 - buggy punta de jandia

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'Não. É válido um ano e cada museu ocupa meio dia. O plano sensato: o Prado num dia, o Thyssen e o Reina Sofía noutro.'
 - pregunta: Qual escolho se só tiver tempo para um?
   respuesta: O Prado. A nossa comparação dos três museus explica qual escolher consoante os seus interesses.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável: depois de reservado, não pode ser cancelado nem alterado.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Museu do Prado, Porta de Goya (Calle Felipe IV), Madrid. Troque o voucher em qualquer um dos três museus. Ficam todos a menos de 10 minutos a pé uns dos outros, no Paseo del Prado. Metro: Banco de España (L2), Atocha (L1) ou Estación del Arte (L1).'
 opinionEditorial: 'Se vai aos três (e numa primeira visita a Madrid deveria ir), o passe é a opção mais prática: um só pagamento, três museus, sem filas. Se só vai a um ou dois, compre bilhetes individuais.'
 guiasRelacionadas:
 - prado-reina-sofia-ou-thyssen-qual-escolher

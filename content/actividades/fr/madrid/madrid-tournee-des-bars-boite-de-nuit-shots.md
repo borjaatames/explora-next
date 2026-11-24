@@ -58,6 +58,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 18
 politicaCancelacion: Annulation gratuite jusqu'à 24 heures avant le début, avec remboursement intégral.
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, Espagne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Un shot offert dans chacun des 4 établissements (3 bars/pubs et 1 boîte de nuit); Pourboires inclus dans le prix; Entrée dans les 4 établissements du parcours.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Réservé aux adultes, à partir de 18 ans; Ne convient pas aux fauteuils roulants ni aux poussettes, et les animaux ne sont pas admis; Déconseillé en cas de problèmes de dos ou cardiaques, ou aux femmes enceintes.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Transport; Nourriture et boissons au-delà des shots inclus.'
 opinionEditorial: 'Par rapport à notre autre tournée des bars à Madrid, c''est l''option la plus flexible : annulation gratuite jusqu''à 24 heures avant et un guide en six langues, un bon choix pour les groupes internationaux. Elle compte un établissement de moins (4 au lieu de 5), et le code vestimentaire est plus strict — pas de tenue de sport, ni sandales ni shorts pour les hommes.'
 atraccionesRelacionadas:
 - otros-madrid

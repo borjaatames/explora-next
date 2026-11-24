@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Cerca de uma hora."
 - pregunta: "Há guia?"
   respuesta: "Não, é uma entrada para visita livre."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Barranco de los Negros s/n, 18010 Granada. Autocarro C2 desde a Plaza Nueva, paragem Sacromonte.'
 categoria: entradas
 guiasRelacionadas:
 - granada-em-2-dias

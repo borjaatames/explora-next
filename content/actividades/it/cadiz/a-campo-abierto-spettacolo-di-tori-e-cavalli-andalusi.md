@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "In auto lungo la A-2228 fino al km 13; il parcheggio è gratuito."
 - pregunta: "È adatto ai bambini?"
   respuesta: "Sì, è uno spettacolo per famiglie."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'A Campo Abierto, Finca El Carrascal, strada A-2228, km 13, Benalup-Casas Viejas (Cadice).'
 categoria: espectaculos
 keywords:
 - "a campo abierto domecq"

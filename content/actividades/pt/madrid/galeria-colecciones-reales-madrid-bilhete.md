@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Cerca de duas horas."
 - pregunta: "Qual é o horário?"
   respuesta: "Segundo o operador, de segunda a sábado das 10h às 20h, domingos e feriados das 10h às 19h."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Segundo o operador, não reembolsável.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Galería de las Colecciones Reales, calle Bailén, ao lado do Palácio Real (metro Ópera, L2 e L5).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-num-dia

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Picarus Sailing Club, marina de Los Gigantes, ponton 1, poste 152 (voiliers Aemon ou Ayla).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Équipement de sécurité (gilets); Masques de snorkeling.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Pour les départs de 13 h et 16 h, arrivez au moins 1 heure avant : le parking à Los Gigantes est saturé; Déconseillé aux moins de 3 ans et au-delà de 140 kg.'
 categoria: agua
 keywords:
 - voilier los gigantes baleines

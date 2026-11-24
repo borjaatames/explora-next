@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Desde Los Cristianos o Puerto Colón (Costa Adeje), según la opción que reserves.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Excursión en barco de dos horas para ver cetáceos; Guía y explicaciones en el idioma de tu opción; Breve parada para bañarse; Agua potable y vasos reutilizables.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Es muy probable ver animales, pero no se puede garantizar: son salvajes; El punto de encuentro depende de la opción elegida; Si te mareas, toma algo antes de embarcar.'
 categoria: agua
 keywords:
 - avistamiento de ballenas tenerife

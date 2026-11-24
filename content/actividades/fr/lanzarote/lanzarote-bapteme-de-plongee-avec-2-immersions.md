@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transport; Prise en charge dans toute l''île; Équipement; Assurance; Rafraîchissements.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Âge minimum 12 ans; Déconseillé aux femmes enceintes et aux personnes ayant des problèmes cardiaques, de dos ou respiratoires, de l''épilepsie, de la claustrophobie, de l''hypertension ou un rhume; Ne prenez pas l''avion dans les 12 à 24 heures suivant la plongée.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Photos.'
 categoria: agua
 keywords:
 - baptême de plongée lanzarote

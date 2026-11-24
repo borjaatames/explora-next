@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Etwa vier Stunden."
 - pregunta: "Wann am besten?"
   respuesta: "Zum Sonnenuntergang wegen des Lichts."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Im Zentrum von Valencia je nach Option; der genaue Treffpunkt steht in der Buchung.'
 categoria: excursionesDia
 guiasRelacionadas:
 - ausfluege-ab-valencia

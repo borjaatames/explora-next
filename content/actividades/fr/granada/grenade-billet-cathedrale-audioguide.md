@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'C''est un autre monde : l''Alhambra est nasride et la cathédrale est la réponse chrétienne, commencée 30 ans après la conquête. Ensemble, elles racontent l''histoire de la ville. Une heure bien investie.'
 - pregunta: Pourquoi la cathédrale est-elle si enclavée ?
   respuesta: Elle a été construite sur la grande mosquée, au centre de la médina, et ses abords n'ont jamais été dégagés. C'est pourquoi il n'y a pas de grande place devant et la façade se voit mieux depuis la Plaza de las Pasiegas.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Cathédrale de Grenade, Calle Gran Vía de Colón 5 (entrée par la Plaza de las Pasiegas). L''entrée des visiteurs se trouve sur la Plaza de las Pasiegas, sur le côté de la cathédrale qui donne sur la Gran Vía. Présentez le voucher au guichet et récupérez l''audioguide.'
 opinionEditorial: 'La cathédrale de Grenade vit dans l''ombre de l''Alhambra et ne le mérite pas : c''est le chef-d''œuvre de la Renaissance andalouse et sa Capilla Mayor est l''une des plus lumineuses d''Espagne. Dix euros avec audioguide ; combinez-la avec la Chapelle royale.'
 guiasRelacionadas:
 - alhambra-comment-la-visiter

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'La guida parla inglese, spagnolo e italiano.'
 - pregunta: 'Posso cancellare?'
   respuesta: 'Sì. La cancellazione è gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Plaza del Emperador Carlos V (Atocha) o prelievo nel punto di Madrid che preferisci.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasporto privato con autista; Guida ufficiale privata; Biglietti salta fila per i monumenti; Prelievo nel punto che preferisci.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

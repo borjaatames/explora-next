@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, ein Menü; Getränke kosten extra."
 - pregunta: "Wo wird man abgeholt?"
   respuesta: "An Unterkünften zwischen Torre del Mar und Nerja."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Unterkünften an der Küste zwischen Torre del Mar und Nerja; andere Orte auf Anfrage.'
 categoria: excursionesDia
 keywords:
 - "weiße dörfer nerja"

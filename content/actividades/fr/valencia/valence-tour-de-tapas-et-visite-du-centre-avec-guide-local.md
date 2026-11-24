@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Non, la réservation se fait à partir de 2 personnes."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Plaza de Santa Catalina, devant l'Horchatería Santa Catalina, à 11 h."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide local; Déjeuner de tapas; Boissons (vin ou bière).'
 categoria: toursGastronomicos
 keywords:
 - "tapas valence"

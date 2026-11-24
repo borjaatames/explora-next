@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: No, it's an outdoor tour; the guide tells you how to visit them afterwards.
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Hotel pickup if you stay in the centre; otherwise the guide confirms the meeting point.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide for 3 hours; Hotel pickup (within the central area).'
 opinionEditorial: Three well-spent hours to understand the old town and find corners you'd miss on your own. Private means you can ask anything.
 atraccionesRelacionadas:
 - gotico

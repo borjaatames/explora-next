@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "À Playa Blanca, Puerto del Carmen, Costa Teguise, Puerto Calero et Arrecife."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, en parallèle d'autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à des points de rendez-vous dans les stations ; lieu et heure sur la confirmation.'
 categoria: excursionesDia
 keywords:
 - "tour de l'ile lanzarote"

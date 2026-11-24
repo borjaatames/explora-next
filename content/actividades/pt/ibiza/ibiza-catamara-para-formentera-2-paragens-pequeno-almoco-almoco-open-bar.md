@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Check-in das 8h15 às 9h00, partida às 9h15."
 - pregunta: "Onde se toma banho?"
   respuesta: "Em Espalmador e Ses Illetes."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Pier 69, Carrer de la Punta 3, Playa d''en Bossa (Ibiza). Check-in das 8h15 às 9h00.'
 categoria: agua
 keywords:
 - "catamarã formentera desde ibiza"

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off in the south; Guide; Transfer; Coffee stop; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'About 8 km with several climbs; Closed shoes and sun protection; it can be windy on the coast; Groups of at most 12; not for children under 9.'
+- pregunta: 'What is not included?'
+  respuesta: 'Extra food and drinks.'
 categoria: aventura
 keywords:
 - ajuy hike

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A Felanitx, nel centro-est di Maiorca, a circa 50 minuti d’auto da Palma.
 - pregunta: Posso cancellare?
   respuesta: Le condizioni sono indicate nel calendario prima del pagamento.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Cantina Es Fangar, Carrer Son Colom 23, Felanitx (Maiorca).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Visita guidata alla cantina; Degustazione di 5 vini premium; Tagliere di salumi e formaggi.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prezzo a persona; Cantina biologica a Felanitx, nel centro di Maiorca: serve l’auto; Visita in italiano, inglese o spagnolo.'
 opinionEditorial: Una degustazione seria in una piccola cantina biologica, lontano dalle visite di massa.
 atraccionesRelacionadas:
 - gastronomia

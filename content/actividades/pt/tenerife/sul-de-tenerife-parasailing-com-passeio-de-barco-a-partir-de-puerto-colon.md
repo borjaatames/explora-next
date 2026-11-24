@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Parascending Tenerife, pontão 4, Puerto Colón, Costa Adeje.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Voo de parasailing; Equipamento; Passeio de barco; Seguro.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a grávidas ou utilizadores de cadeira de rodas.'
 categoria: agua
 keywords:
 - parasailing tenerife

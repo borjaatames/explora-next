@@ -45,6 +45,10 @@ preguntasFrecuentes:
   respuesta: No, es por buggy para hasta 2 personas.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Buggy Can-Am Trail automático de dos plazas; Guía.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Se hace con cualquier tiempo; No apto para menores de 7 años ni embarazadas; Precio por buggy para hasta 2 personas.'
 categoria: aventura
 keywords:
 - buggy lanzarote

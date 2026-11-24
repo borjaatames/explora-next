@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La guida parla francese, inglese, spagnolo, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Veicolo fuoristrada; Trasferimento dall''hotel; Guida nella tua lingua; Piccoli gruppi; Ingresso alla fattoria di aloe vera.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non accessibile in sedia a rotelle.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo; Bevande.'
 categoria: excursionesDia
 keywords:
 - safari el cotillo

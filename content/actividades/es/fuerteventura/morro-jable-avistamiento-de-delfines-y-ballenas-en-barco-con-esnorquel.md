@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en barco de 2,5 horas; Tripulación local con experiencia; Parada de esnórquel (gafas y tubo); 1 refresco o agua; Recogida opcional en el hotel en Costa Calma, Esquinzo, Jandía y alrededores.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Salidas a las 10:00 o a las 12:30 desde Morro Jable; Edad mínima 12 años; No apto para personas con movilidad reducida.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '2 h 30 min.'
 categoria: agua
 keywords:
 - avistamiento de delfines morro jable

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: On your first day. The guide gives you lots of ideas on where to eat and what to see, so the earlier the better.
 - pregunta: Is it a free tour?
   respuesta: No, it is a paid tour with a fixed price and a maximum group size, so you do not need to tip at the end (though you can).
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance for a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Fuente de Orfeo, Plaza de la Provincia, next to Plaza Mayor (28012 Madrid). The exact meeting point depends on the option and is shown on your voucher; the group tour meets at the Orpheus fountain, a few steps from Plaza Mayor. Nearest metro: Sol (lines 1, 2 and 3).'
 opinionEditorial: 'An excellent first-day introduction to Madrid: few tours have such a high rating with so many reviews. The stories are genuinely good, and the restaurant tips make up for the price. A strong choice for Portuguese speakers, who rarely get a guide in their language.'
 guiasRelacionadas:
 - madrid-in-3-days

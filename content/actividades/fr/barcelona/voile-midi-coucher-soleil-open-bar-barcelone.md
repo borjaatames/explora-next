@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Oui, open bar avec cava, vin, bière et sodas."
 - pregunta: "Peut-on se baigner ?"
   respuesta: "Oui, si la météo le permet."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Attendre dans la rue devant le restaurant MOLO39 (pas sur la terrasse), plaça de Pau Vila 39, côté sud du Palau de Mar (métro Barceloneta, L4). Arrivez 15 minutes avant.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

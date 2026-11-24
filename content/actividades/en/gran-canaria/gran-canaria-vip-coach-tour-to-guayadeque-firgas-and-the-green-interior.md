@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Guide; Modern air-conditioned coach; Driver; Pick-up at your hotel or the nearest point (resort areas); Liability insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The itinerary may change for reasons of force majeure; Confirm the exact pick-up time and place on WhatsApp.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch.'
 categoria: excursionesDia
 keywords:
 - gran canaria bus tour guayadeque

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, spagnolo, italiano, tedesco.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour di un giorno Teide e Masca dal sud di Tenerife; Veicolo climatizzato e guida locale.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Al nord il prelievo è solo a Puerto de la Cruz; Costa del Silencio e Las Galletas solo il martedì e il giovedì; In inverno porta una giacca calda.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Mance; Cibo e bevande; Prelievo a Santa Cruz, La Laguna, Abades, Palm-Mar, paesi rurali e navi da crociera.'
 categoria: excursionesDia
 keywords:
 - tour teide e masca

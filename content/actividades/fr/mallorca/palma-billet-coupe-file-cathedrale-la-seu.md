@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: Entre 1904 et 1914, Gaudí a réaménagé l'intérieur de La Seu. On lui doit notamment le spectaculaire baldaquin en fer forgé et en tissu au-dessus du maître-autel, le déplacement des stalles du chœur et plusieurs installations en céramique. L'ensemble est saisissant et très différent d'un intérieur gothique classique.
 - pregunta: Quel est le meilleur moment pour la visiter ?
   respuesta: Tôt le matin (9 h-10 h), avant l'arrivée des groupes de croisiéristes. La rosace est la plus spectaculaire en début d'après-midi, quand elle est éclairée par le soleil.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Cathédrale de Palma, Plaça de la Seu, Palma de Majorque. La cathédrale se trouve dans la vieille ville de Palma, face au Parc de la Mar. Venez à pied depuis le centre (15 minutes depuis le Passeig del Born) ou en bus. Présentez votre billet sur mobile à l''entrée.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Entrée coupe-file à la cathédrale et au musée.'
 opinionEditorial: 'La cathédrale de Palma compte parmi les grands monuments gothiques d''Europe et c''est la première chose que Majorque vous montre depuis le ferry ou l''avion. Évitez la file : la cathédrale se remplit vite en été, et l''expérience à l''intérieur mérite d''être préservée.'
 guiasRelacionadas:
 - que-voir-a-majorque

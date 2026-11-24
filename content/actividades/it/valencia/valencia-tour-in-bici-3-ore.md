@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Sì, si può aggiungere come extra al momento della prenotazione.
 - pregunta: Posso tenere la bici dopo il tour?
   respuesta: Sì, con l'extra di noleggio fino a fine giornata, lasciando una cauzione di 50 € e un documento d'identità.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Doyoubike, Carrer de la Sang, 9 (46002 Valencia). Il negozio è a un minuto da Plaza del Ayuntamiento, vicino a calle San Vicente. Arriva 10 minuti prima per regolare la bici.'
 opinionEditorial: 'La bici è il modo migliore per vedere Valencia, una città pianeggiante con il Turia come grande autostrada verde. In tre ore colleghi il centro storico alla Città delle Arti, cosa che a piedi richiederebbe tutto il giorno. Ottima opzione per il primo giorno.'
 atraccionesRelacionadas:
 - ciudad-artes

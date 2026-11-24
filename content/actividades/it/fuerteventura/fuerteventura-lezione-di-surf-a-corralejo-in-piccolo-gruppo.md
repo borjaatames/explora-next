@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Al massimo 6 per istruttore."
 - pregunta: "L'attrezzatura è inclusa?"
   respuesta: "Sì, tavola, leash e muta sono incluse."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Protest Surfcenter, Calle Drago, Local 1, La Capellanía (a 2 km da Corralejo, sopra il supermercato, vicino alla superstrada).'
 categoria: agua
 keywords:
 - "lezione surf fuerteventura"

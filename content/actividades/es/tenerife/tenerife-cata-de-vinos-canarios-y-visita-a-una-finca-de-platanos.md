@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, alemán, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso en puntos fijos de Tenerife; Guía oficial acreditado por el Gobierno de Canarias; Tour multilingüe: español, inglés, alemán y francés (según disponibilidad); Autocar con aire acondicionado; Visita guiada a la finca de plátanos y degustación; Visita a la bodega con 5 vinos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'La bodega está en altura: lleva calzado cerrado y una chaqueta ligera; Carreteras de montaña con curvas; No disponible para pasajeros de cruceros.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo.'
 categoria: toursGastronomicos
 keywords:
 - cata de vinos tenerife excursion

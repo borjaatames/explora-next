@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento de snorkel; Seguro; Introdução teórica; Instrutor; Recolha e regresso em Costa Teguise, Tahíche e Arrecife.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'É preciso saber nadar; Não recomendado a menores de 8 anos.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Comida e bebidas; Fotos.'
 categoria: agua
 keywords:
 - snorkel costa teguise

@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, German, Italian, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off (selected hotels); Official guide; Ferry tickets; Timanfaya National Park entry; Jameos del Agua entry; Lunch.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Early pick-up: Jandía 05:40–06:10, Costa Calma 06:20–06:55, Caleta de Fuste 06:50–07:35, Corralejo 08:00–08:20; Not wheelchair accessible.'
+- pregunta: 'What is not included?'
+  respuesta: 'Wine tasting.'
 categoria: excursionesDia
 keywords:
 - lanzarote day trip from fuerteventura

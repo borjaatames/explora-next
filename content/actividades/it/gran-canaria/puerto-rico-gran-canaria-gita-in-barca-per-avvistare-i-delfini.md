@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Ricevi un buono per ripetere la gita gratis, valido un anno.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: cerca lo Spirit of the Sea.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita in catamarano di 2,5 ore; Equipaggio professionale; Bibite e acqua; Prelievo facoltativo a San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores e Playa del Cura.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'La barca si muove anche da ferma: se serve, prendi un farmaco contro il mal di mare prima; Nessun avvistamento = buono per una gita gratuita valido un anno.'
 categoria: agua
 keywords:
 - avvistamento delfini gran canaria

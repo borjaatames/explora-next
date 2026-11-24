@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sì. Alla Giralda si sale lungo rampe e non scale, quindi è più facile di quanto sembri.
 - pregunta: Posso cancellare?
   respuesta: Fino a 24 ore prima ti viene rimborsato il 70 %, perché i biglietti sono nominativi. Dopo non c'è rimborso.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Fuente de Indias, next to the Archivo de Indias, Avenida de la Constitución (41004 Seville). La fontana si trova davanti all''Archivo de Indias, tra la Cattedrale e l''Alcázar. Il personale al punto d''incontro fa il check-in e consegna biglietti e auricolari. Porta il passaporto o la carta d''identità: i biglietti sono nominativi.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Visita guidata ufficiale del Real Alcázar, della Cattedrale e della Giralda; Biglietti salta fila per tutti i monumenti; Guida locale con licenza; Sistema di auricolari radio; Assistenza per il check-in al punto d''incontro; Guida digitale di Siviglia.'
 opinionEditorial: 'Il modo meglio recensito per vedere i tre grandi monumenti di Siviglia in una sola mattina, con tutto incluso e un''ampia scelta di orari. Il gruppo è numeroso (fino a 27 persone), ma con gli auricolari funziona. Prenotalo quando le date sono sicure: il rimborso è solo parziale.'
 atraccionesRelacionadas:
 - real-alcazar

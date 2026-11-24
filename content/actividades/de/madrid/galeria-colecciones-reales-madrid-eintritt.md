@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Etwa zwei Stunden."
 - pregunta: "Wann ist geöffnet?"
   respuesta: "Laut Anbieter Montag bis Samstag 10 bis 20 Uhr, sonntags und feiertags 10 bis 19 Uhr."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Laut Anbieter nicht erstattbar.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Galería de las Colecciones Reales, Calle Bailén neben dem Königspalast (Metro Ópera, L2 und L5).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-an-einem-tag

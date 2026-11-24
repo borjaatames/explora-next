@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: La guida parla italiano, francese, tedesco, inglese, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasferimento di andata e ritorno dall''hotel; Trasporto in pullman; Guida locale; Ingresso e visita a una fattoria di aloe vera; Tapas in un ristorante canario tipico; Assicurazione di viaggio.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Bevande.'
 categoria: excursionesDia
 keywords:
 - escursione guayadeque

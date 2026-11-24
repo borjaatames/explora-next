@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Französisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Erklärungen in deiner Sprache; Hotelabholung in den genannten Gebieten; Geschlossener 4x4 für bis zu 6 Gäste plus Fahrer; Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Menschen mit Rückenproblemen oder eingeschränkter Mobilität; Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen.'
 categoria: excursionesDia
 keywords:
 - cofete jeep safari

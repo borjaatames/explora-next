@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: 'Yes: two courses, dessert and a drink.'
 - pregunta: Can I cancel?
   respuesta: No, the booking is non-refundable.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel in Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
 opinionEditorial: 'The best of the Costa Brava in one day: a fishing village, a medieval village and Girona. Private is far more comfortable than a big group, and with lunch included there''s nothing to plan.'
 atraccionesRelacionadas:
 - otros-barcelona

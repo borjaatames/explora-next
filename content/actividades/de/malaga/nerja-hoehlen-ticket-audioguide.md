@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Nein. Die Malereien (einige der ältesten der Welt, rund 40.000 Jahre alt) befinden sich in den oberen Galerien, die zum Schutz für die Öffentlichkeit geschlossen sind. Im Museum von Nerja gibt es Nachbildungen.
 - pregunta: Ist es eine gute Idee, es mit Frigiliana zu verbinden?
   respuesta: 'Ja: Frigiliana liegt 10 Autominuten entfernt und ist eines der schönsten weißen Dörfer Andalusiens. Vormittags die Höhlen, mittags Frigiliana und zum Sonnenuntergang der Balcón de Europa in Nerja.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann nicht storniert oder geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Cueva de Nerja, Carretera de Maro, Nerja (Málaga). Die Höhlen liegen in Maro, 5 km von Nerja an der N-340. Mit dem Auto: kostenloser Parkplatz. Mit dem Bus: ALSA-Linie Málaga-Nerja (1 Std. 15 Min.), dann Ortsbus oder Taxi zu den Höhlen. Zeig deinen Gutschein zur gebuchten Zeit am Schalter.'
 opinionEditorial: 'Die Höhlen von Nerja sind der spektakulärste Naturausflug an der Costa del Sol: Der Saal des Kataklysmus mit seiner 32-Meter-Säule macht sprachlos. Günstiges Ticket mit Zeitfenster; im Sommer mehrere Tage im Voraus buchen.'
 guiasRelacionadas:
 - ausfluege-ab-malaga

@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Sehenswürdigkeiten werden von außen besichtigt."
 - pregunta: "Braucht man Erfahrung?"
   respuesta: "Nein, die Einweisung ist inklusive."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Carrer del Palau Reial 12, nahe der Kathedrale.'
 categoria: toursCiudad
 keywords:
 - "segway palma"

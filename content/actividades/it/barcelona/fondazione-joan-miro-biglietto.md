@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Circa 2 ore per la collezione e la mostra temporanea.
 - pregunta: Con cosa posso abbinarla?
   respuesta: È sul Montjuïc, a 10 minuti a piedi dal MNAC e accanto alla funivia.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Fondazione Joan Miró, Parc de Montjuïc, Barcellona. Mostra il voucher alla reception per cambiarlo. Autobus 150 da Plaça d''Espanya o funicolare del Montjuïc dalla metro Paral·lel.'
 opinionEditorial: 'Uno dei musei monografici più belli d''Europa: luce naturale, cortili e l''opera di Miró ordinata in modo che abbia senso. Abbinala al MNAC e alla funivia e il Montjuïc è sistemato in un giorno.'
 guiasRelacionadas:
 - barcellona-in-3-giorni

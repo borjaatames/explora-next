@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'MPC Yacht Charter, voilier El Mojo Picón, marina de Los Gigantes (C. Poblado Marinero).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Croisière partagée ou privée; Équipement de snorkeling; En-cas et boissons; Repas; Équipement de sécurité.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite ou ayant des problèmes cardiaques.'
 categoria: agua
 keywords:
 - voilier los gigantes

@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "É opcional e só em zonas selecionadas; também pode ir diretamente ao porto."
 - pregunta: "O guia fala português?"
   respuesta: "Sim, entre outros idiomas; escolha-o ao reservar."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto de Ibiza ou recolha no hotel em zonas selecionadas; o local exato é indicado ao reservar.'
 categoria: excursionesDia
 keywords:
 - "excursão formentera desde ibiza"

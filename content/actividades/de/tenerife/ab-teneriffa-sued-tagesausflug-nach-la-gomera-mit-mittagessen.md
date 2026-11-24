@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Französisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer im Süden Teneriffas; Transfers; Schnellfähre; Mittagessen; Mehrsprachiger Guide.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Erklärungen können je nach Gruppe in mehreren Sprachen sein; Warme Kleidung und Ausweis oder Reisepass für die Fähre mitnehmen.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '9 Stunden.'
 categoria: excursionesDia
 keywords:
 - la gomera tagesausflug

@@ -69,6 +69,12 @@ preguntasFrecuentes:
   respuesta: L'opérateur garantit au moins 30 minutes avec les dauphins. Ce sont des animaux sauvages ; vérifiez donc les conditions sur GetYourGuide au cas où ils n'apparaîtraient pas.
 - pregunta: Est-ce adapté aux enfants ?
   respuesta: Oui, à partir de 3 ans. Avec un petit groupe, c'est idéal pour les familles.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Alcudiamar (parking de la marina), Alcúdia. Départ de la marina Alcudiamar à Alcúdia. Il existe une option avec prise en charge et retour à l''hôtel : si vous la choisissez, l''heure figure sur votre bon.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Bateau semi-privé avec capitaine (12 personnes maximum); Carburant et taxes; Au moins 30 minutes avec les dauphins; Côte, falaises et grottes; Baignade à la plage de Coll Baix; Prise en charge et retour à l''hôtel (si cette option est choisie).'
 opinionEditorial: La sortie dauphins la mieux notée de Majorque, avec des milliers d'avis et de petits groupes. Elle vaut le réveil matinal.
 guiasRelacionadas:
 - majorque-avec-des-enfants

@@ -67,6 +67,12 @@ preguntasFrecuentes:
   respuesta: No. The combo ticket gives you one day at each park, which you can use on different days within the validity period. Check the ticket terms when you book for the exact validity window.
 - pregunta: Is Loro Parque ethical?
   respuesta: Loro Parque maintains its own conservation foundation (Loro Parque Fundación) and funds conservation programmes for wild parrots worldwide. The orca programme has been controversial; visitors should form their own view.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Loro Parque, Av. Loro Parque, s/n, Puerto de la Cruz, Tenerife. Loro Parque is in Puerto de la Cruz. Siam Park is on the Costa Adeje, near Los Cristianos. The two parks are on opposite sides of the island (about 1 hour by car or bus). Show your mobile tickets at the entrance to each park.'
+- pregunta: 'What is included?'
+  respuesta: 'Entry to Loro Parque (1 day); Entry to Siam Park (1 day); Free shows included at Loro Parque (dolphins, sea lions, parrots).'
 opinionEditorial: Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip.
 guiasRelacionadas:
 - what-to-see-in-tenerife

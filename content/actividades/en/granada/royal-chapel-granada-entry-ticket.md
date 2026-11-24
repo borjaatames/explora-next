@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Because the conquest of Granada in 1492 was the great achievement of their reign. Isabella set it down in her will and the chapel was built between 1505 and 1517.
 - pregunta: What is in the museum?
   respuesta: 'Isabella''s personal collection: Flemish panels by Memling, Van der Weyden and Bouts, a Botticelli, her crown and sceptre, Ferdinand''s sword and the banners of the conquest.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Royal Chapel, Calle Oficios, Granada. The entrance is on Calle Oficios, between the Cathedral and the Alcaicería, through the Lonja. Show your voucher at the desk.'
 opinionEditorial: 'This is where Spanish history becomes concrete: two monarchs in marble and, below, their lead coffins. Small, intense, with a museum that surprises. Ten euros well spent; do it together with the Cathedral.'
 guiasRelacionadas:
 - granada-in-2-days

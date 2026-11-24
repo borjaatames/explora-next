@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer überall im Süden Teneriffas; Private Tour im klimatisierten Fahrzeug; Professioneller Guide; Frisches Obst und Wasser; Flexible, persönliche Route.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Der Guide meldet sich einige Tage vorher, um die Details zu planen; Nicht geeignet bei Höhenangst.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Nicht genannte Speisen und Getränke; Optionaler Halt in einem kanarischen Restaurant (extra).'
 categoria: excursionesDia
 keywords:
 - private tour anaga

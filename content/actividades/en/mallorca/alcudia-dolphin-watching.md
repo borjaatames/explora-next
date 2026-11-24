@@ -68,6 +68,12 @@ preguntasFrecuentes:
   respuesta: The operator guarantees at least 30 minutes with the dolphins. They are wild animals, so check the conditions on GetYourGuide in case they do not appear.
 - pregunta: Is it suitable for children?
   respuesta: Yes, from age 3. With a small group, it works well for families.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Alcudiamar (marina car park), Alcúdia. Departure from the Alcudiamar marina in Alcúdia. There is an option with hotel pickup and drop-off: if you choose it, the time is on your voucher.'
+- pregunta: 'What is included?'
+  respuesta: 'Semi-private boat with captain (max 12 people); Fuel and taxes; At least 30 minutes with the dolphins; Coast, cliffs and caves; Swim at Coll Baix beach; Hotel pickup and drop-off (if that option is chosen).'
 opinionEditorial: The best-rated dolphin trip in Mallorca, with thousands of reviews and small groups. Worth the early start.
 guiasRelacionadas:
 - mallorca-with-kids

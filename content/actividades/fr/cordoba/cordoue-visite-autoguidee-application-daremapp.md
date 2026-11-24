@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: 'Annulation gratuite jusqu''à 24 heures avant le début ; au-delà, 100 % du montant est facturé.'
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début ; au-delà, 100 % du montant est facturé.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pas de point de rendez-vous physique : activez l''itinéraire depuis votre téléphone avec le code reçu après l''achat, où et quand vous voulez dans Cordoue.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Accès à l''itinéraire autoguidé de Cordoue dans l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos étapes, et faire une pause ou reprendre quand vous le souhaitez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès à des recommandations de restaurants et d''activités en famille dans l''application.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; l''ancienne Juiverie a des rues étroites et pavées; Les animaux d''assistance sont les bienvenus.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Un guide ou accompagnateur physique (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au départ de l''itinéraire; Billets d''entrée aux monuments ou musées sur le parcours (le cas échéant).'
 opinionEditorial: 'Le centre historique de Cordoue est dense — la Mosquée-Cathédrale, la Juiverie, le pont romain — et le format autoguidé vous permet de vous attarder où vous voulez aussi longtemps que vous le souhaitez, sans suivre le rythme d''un groupe. Avec 2 itinéraires (l''essentiel et d''autres trésors cachés), il couvre aussi bien les incontournables que les lieux moins connus. Bon à savoir : l''entrée à la Mosquée-Cathédrale elle-même n''est pas incluse et doit être réservée à part.'
 categoria: toursCiudad
 keywords:

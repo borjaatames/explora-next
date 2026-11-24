@@ -44,6 +44,14 @@ politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso c
 preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Casa de los Balcones, Calle San Francisco 3, La Orotava.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Entrada; Audioguía descargable en francés, inglés, español y alemán.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva tu móvil y auriculares para la audioguía; No accesible en silla de ruedas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '1 hora.'
 categoria: entradas
 keywords:
 - casa de los balcones entradas

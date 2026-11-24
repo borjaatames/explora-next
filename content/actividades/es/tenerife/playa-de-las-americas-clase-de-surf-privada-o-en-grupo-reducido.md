@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, local 11, Playa de las Américas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Monitor de surf titulado; Tabla, neopreno, escarpines y licra; Seguro de accidentes; Taquillas, aseos y duchas; Clase teórica de 20 minutos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Las clases siguen la marea baja, cuando hay mejores condiciones; Los menores de 13 años van en clases privadas o familiares; Hay que saber nadar.'
 categoria: agua
 keywords:
 - clase de surf tenerife

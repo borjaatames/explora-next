@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
+- pregunta: 'What is included?'
+  respuesta: 'Surfboard chosen by the instructor; Wetsuit and booties; Accident insurance; Instructor; Theory (20 min).'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - tilegit surf school

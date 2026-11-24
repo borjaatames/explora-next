@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Os menores de 3 anos entram gratuitamente. Dos 3 aos 11 anos há bilhete infantil.
 - pregunta: Inclui transporte?
   respuesta: Não. O aquário fica em Las Palmas; a partir do sul da ilha chega-se de carro ou de guagua (autocarro interurbano).
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Bilheteiras do aquário Poema del Mar, Muelle Sanapú, Las Palmas de Gran Canaria. Apresente a reserva na bilheteira do aquário; o bilhete sem filas é trocado aí. O aquário fica na zona portuária de Las Palmas, no Muelle Sanapú.'
 opinionEditorial: 'É o programa de dia de chuva ou de calima por excelência em Gran Canária, e a janela curva do tanque principal impressiona a sério. A partir do sul há cerca de 50 km de trajeto: compense combinando-o com Vegueta ou com Las Canteras.'
 categoria: parques
 keywords:

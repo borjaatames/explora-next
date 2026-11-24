@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Surfkurs mit ISA-zertifizierten Lehrern; Theorie und Aufwärmen am Strand; Praxis im Wasser mit ständiger Hilfe; Surfbrett; Neoprenanzug.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer; Essen und Getränke; Reiseversicherung.'
 categoria: agua
 keywords:
 - surfkurs playa de las americas

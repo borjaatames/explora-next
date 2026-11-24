@@ -46,6 +46,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en catamaran; En-cas légers; Sodas, eau, sangria, bière et champagne; Prise en charge à l''hôtel (option avec prise en charge).'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite; Peut être annulé par mer agitée.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Prise en charge (option sans); Pourboires; Autres boissons.'
 categoria: agua
 keywords:
 - catamaran privé lanzarote

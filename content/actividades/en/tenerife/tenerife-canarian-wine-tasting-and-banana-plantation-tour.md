@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off at set points in Tenerife; Official guide certified by the Canary Islands government; Multilingual tour: Spanish, English, German and French (subject to availability); Air-conditioned coach; Guided banana plantation visit and tasting; Winery visit with 5 wines.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The winery is high up: bring closed shoes and a light jacket; Winding mountain roads; Not available for cruise passengers.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch.'
 categoria: toursGastronomicos
 keywords:
 - tenerife wine tasting tour

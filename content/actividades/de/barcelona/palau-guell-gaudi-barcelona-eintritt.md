@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, außer bei Regen."
 - pregunta: "Wo liegt der Palast?"
   respuesta: "In der Carrer Nou de la Rambla, wenige Schritte von der Rambla."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Laut Anbieter keine kostenlose Stornierung; Bedingungen vor der Buchung prüfen.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Palau Güell, Carrer Nou de la Rambla 3-5, nahe der Rambla.'
 categoria: entradas
 guiasRelacionadas:
 - barcelona-in-2-tagen

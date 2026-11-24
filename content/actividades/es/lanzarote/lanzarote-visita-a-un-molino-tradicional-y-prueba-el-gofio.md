@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'La Molina de Lanzarote, Calle Tenderete 20, San Bartolomé.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada al molino; Taller práctico de gofio; Taller de elaboración de pellas de gofio; Degustación.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '1 hora.'
 categoria: talleres
 keywords:
 - molino de gofio lanzarote

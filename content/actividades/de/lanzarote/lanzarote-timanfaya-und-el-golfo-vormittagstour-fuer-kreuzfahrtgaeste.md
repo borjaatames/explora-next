@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Nein, sie kostet extra."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung am Kreuzfahrthafen von Arrecife; der genaue Ort steht in der Buchungsbestätigung.'
 categoria: excursionesDia
 keywords:
 - "timanfaya el golfo tour"

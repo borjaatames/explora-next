@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, allemand, italien, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour (hôtels sélectionnés); Guide officiel; Billets de ferry; Entrée au parc national de Timanfaya; Entrée aux Jameos del Agua; Déjeuner.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prise en charge très tôt : Jandía 5 h 40–6 h 10, Costa Calma 6 h 20–6 h 55, Caleta de Fuste 6 h 50–7 h 35, Corralejo 8 h–8 h 20; Non accessible en fauteuil roulant.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Dégustation de vin.'
 categoria: excursionesDia
 keywords:
 - excursion lanzarote depuis fuerteventura

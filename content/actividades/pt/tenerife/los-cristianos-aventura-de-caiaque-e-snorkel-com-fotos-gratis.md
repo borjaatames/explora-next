@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: O guia fala neerlandês, inglês, francês, alemão, italiano, polaco, russo, espanhol, português.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'C. el Coronel 8, Los Cristianos.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia profissional; Caiaque e remo; Colete salva-vidas; Equipamento de snorkel; Fotos grátis.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Os passeios são sobretudo em inglês; outras línguas conforme o pessoal disponível; É preciso saber nadar.'
 categoria: agua
 keywords:
 - caiaque los cristianos

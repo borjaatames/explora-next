@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'No: dentro se va con audioguía en tu idioma durante una hora.'
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Gran Teatre del Liceu, Rambla, Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado durante 4 horas; Degustaciones en 5 paradas y 3 bebidas; Entrada sin colas a la Sagrada Familia con audioguía; Taxi del Gótico a la Sagrada Familia.'
 opinionEditorial: 'Combina las dos cosas que casi todo el mundo quiere en Barcelona: comer bien y ver la Sagrada Familia. En privado y con el taxi resuelto, es un plan redondo.'
 atraccionesRelacionadas:
 - tapas-barcelona

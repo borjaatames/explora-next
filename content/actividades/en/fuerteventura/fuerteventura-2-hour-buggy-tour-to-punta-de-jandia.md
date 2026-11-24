@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Buggy; Guide; Pick-up and drop-off in Costa Calma, Jandía and Esquinzo.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Pick-up outside the areas listed.'
 categoria: aventura
 keywords:
 - buggy punta de jandia

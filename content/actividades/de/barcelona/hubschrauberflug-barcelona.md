@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Am Tag vorher, nach der Wettervorhersage."
 - pregunta: "Gibt es eine Gewichtsgrenze?"
   respuesta: "Ja, 130 kg; ab 110 kg müssen zwei Plätze gebucht werden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Heliport Barcelona, Moll Adossat 2, im Hafen (Sants-Montjuïc).'
 categoria: aventura
 guiasRelacionadas:
 - barcelona-in-2-tagen

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Ja, ab Valencia und zurück."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 15 Personen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option an einem von vier Treffpunkten in Valencia; die Details werden am Vortag bestätigt.'
 categoria: excursionesDia
 guiasRelacionadas:
 - ausfluege-ab-valencia

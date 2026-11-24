@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'Es otro mundo: la Alhambra es nazarí y la Catedral es la respuesta cristiana, empezada 30 años después de la conquista. Juntas cuentan la historia de la ciudad. Una hora bien invertida.'
 - pregunta: ¿Por qué está la catedral tan encajonada?
   respuesta: Se construyó sobre la mezquita mayor, en el centro de la medina, y nunca se despejó el entorno. Por eso no hay una gran plaza delante y la fachada se ve mejor desde la Plaza de las Pasiegas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Catedral de Granada, Calle Gran Vía de Colón 5 (entrada por Plaza de las Pasiegas). La entrada de visitantes está en la Plaza de las Pasiegas, en el lateral de la catedral que da a la Gran Vía. Presenta el voucher en taquilla y recoge la audioguía.'
 opinionEditorial: 'La Catedral de Granada vive a la sombra de la Alhambra y no lo merece: es la obra maestra del Renacimiento andaluz y la Capilla Mayor es de las más luminosas de España. Diez euros con audioguía; combínala con la Capilla Real.'
 guiasRelacionadas:
 - granada-en-2-dias

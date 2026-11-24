@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Aperitivo e lanche; Bebida; Transporte desde o hotel.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Os condutores precisam de carta B com pelo menos 1 ano; não se aceitam cartas provisórias nem guias em papel; Não recomendado se mergulhou nas 24 horas anteriores.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Fotos; Casacos.'
 categoria: aventura
 keywords:
 - mustang teide

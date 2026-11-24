@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: 173 escalones hasta la cámara oscura y la terraza.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Monumento a Segismundo Moret, plaza de San Juan de Dios, Cádiz. Frente al Ayuntamiento, a 5 minutos a pie de la estación de tren.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía; Entrada a la Torre Tavira; Entrada a la catedral.'
 opinionEditorial: Las dos visitas más importantes de Cádiz en una mañana y con explicación. La cámara oscura sorprende a todo el mundo.
 guiasRelacionadas:
 - cadiz-en-un-dia

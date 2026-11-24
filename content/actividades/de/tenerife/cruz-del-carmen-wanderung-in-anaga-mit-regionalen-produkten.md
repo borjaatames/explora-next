@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Französisch, Deutsch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Rückfahrt zum Startpunkt Cruz del Carmen; Verkostung regionaler Spezialitäten.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nimm eine leichte Jacke mit: In Anaga nieselt es oft; Nicht geeignet bei eingeschränkter Mobilität.'
 categoria: aventura
 keywords:
 - anaga wanderung

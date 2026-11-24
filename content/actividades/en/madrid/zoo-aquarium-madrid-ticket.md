@@ -59,6 +59,12 @@ preguntasFrecuentes:
   respuesta: Yes. Madrid Zoo is one of the few in Europe with giant pandas. Since 2024 it has a pair of giant pandas, Jin Xi and Zhu Yu. The enclosure is one of the most visited spots in the zoo.
 - pregunta: Are there dolphin shows?
   respuesta: "No. The zoo moved its dolphins to another park in January 2025, so there is no dolphin show. The ticket includes the aquarium and the sea lion, bird of prey and exotic bird exhibitions."
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Zoo Aquarium de Madrid, Casa de Campo, Madrid. Take metro line 10 to Casa de Campo, or bus 33 from Príncipe Pío. Show your mobile ticket at the entrance. Arrive at least 30 minutes before the first show you want to see.'
+- pregunta: 'What is included?'
+  respuesta: 'Skip-the-line zoo entry (1 day); Access to all shows included in the ticket.'
 opinionEditorial: Madrid Zoo is the best family day out in the Spanish capital. The giant pandas alone are worth the visit, but the variety of species — over 1,300 animals — keeps adults as engaged as the children.
 guiasRelacionadas:
 - madrid-with-kids

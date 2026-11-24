@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Al terminar, tapas y una bebida en un bar del centro, con recomendaciones del guía para el resto del viaje.
 - pregunta: ¿Desde qué edad pueden ir los niños?
   respuesta: Desde los 7 años; hay sillitas de bebé de alquiler para los más pequeños.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Tim Bikes, Calle del Espejo, 9 (28013 Madrid). A 5 minutos a pie del metro Ópera, entre la plaza de Ramales y la calle Mayor. Llega 10 minutos antes para la explicación de seguridad.'
 opinionEditorial: 'Tres horas que dan para ver medio Madrid sin agotarse, por rutas tranquilas y con un guía que recomienda dónde comer. Muy buena nota. Si te dan miedo las cuestas, la opción eléctrica merece la pena.'
 guiasRelacionadas:
 - madrid-en-3-dias

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, italiano, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Excursión de día completo al Teide y Masca desde el sur de Tenerife; Vehículo con aire acondicionado y guía local.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'En el norte solo se recoge en el Puerto de la Cruz; Costa del Silencio y Las Galletas solo martes y jueves; En invierno lleva algo de abrigo.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas; Comida y bebida; Recogida en Santa Cruz, La Laguna, Abades, Palm-Mar, pueblos rurales y cruceros.'
 categoria: excursionesDia
 keywords:
 - excursion teide y masca

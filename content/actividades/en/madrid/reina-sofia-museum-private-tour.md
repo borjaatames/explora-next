@@ -46,6 +46,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 5
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Reina Sofía Museum entrance, by the Spanish flag (Calle de Santa Isabel, 52, Madrid), or pickup at your hotel.'
+- pregunta: 'What is included?'
+  respuesta: 'Private official guide; Skip-the-line Reina Sofía Museum ticket.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Price per person, with a minimum of 2 people per booking; After booking you''ll get the guide''s contact details; give your hotel name if you''d like to be picked up there; Wheelchair and stroller accessible.'
+- pregunta: 'What is not included?'
+  respuesta: 'Transport.'
 opinionEditorial: 'The Reina Sofía makes far more sense with someone explaining the context: the Civil War, the avant-garde and why Guernica hangs there. Two hours is just right. Minimum 2 people per booking.'
 atraccionesRelacionadas:
 - reina-sofia

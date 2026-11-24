@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Sì, gratuito secondo il fornitore."
 - pregunta: "Vale la pena anche senza passione per le auto?"
   respuesta: "Sì, la moda e l'allestimento meritano."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Museo Automovilístico y de la Moda, avenida Sor Teresa Prat 15, Málaga (edificio La Tabacalera).'
 categoria: entradas
 guiasRelacionadas:
 - malaga-in-due-giorni

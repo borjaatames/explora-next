@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Annulation gratuite jusqu'à 24 heures avant le début, avec remboursement intégral ; 100 % du montant est facturé en cas d'annulation plus tardive.
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début, avec remboursement intégral ; 100 % du montant est facturé en cas d''annulation plus tardive.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pas de point de rendez-vous : l''itinéraire s''active depuis votre téléphone avec le code reçu après l''achat, à l''heure et à l''endroit de votre choix dans Salamanque.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Visite à votre rythme, sans horaire ni groupe; Choix libre des arrêts tout au long du parcours; Écoute de l''audio quand vous le souhaitez, avec possibilité de pause et de reprise; Disponibilité 24 heures sur 24, 365 jours par an; Recommandations de restaurants et d''activités en famille intégrées à l''application.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an; Application disponible en espagnol, anglais, portugais, français, italien et allemand; Adaptée aux fauteuils roulants et aux poussettes ; animaux d''assistance bienvenus.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Un guide en personne (il s''agit d''une expérience entièrement autonome, sans accompagnateur).'
 opinionEditorial: 'C''est le bon choix si vous voulez découvrir Salamanque à votre façon, sans horaire ni groupe : vous lancez l''itinéraire quand vous en avez envie et avancez au rythme qui vous convient. Ce que vous n''aurez pas, c''est la chaleur d''un guide en chair et en os, ses anecdotes ou la possibilité de poser des questions sur place — si c''est ce que vous recherchez, une visite avec un guide en personne vous conviendra mieux. Pour les familles, les voyageurs indépendants ou ceux qui aiment explorer tranquillement, cela fonctionne très bien.'
 categoria: toursCiudad
 keywords:

@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Trasporto; Prelievo in tutta l''isola; Attrezzatura; Assicurazione; Rinfresco.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Età minima 12 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci, alla schiena o respiratori, epilessia, claustrofobia, ipertensione o raffreddore; Non volare nelle 12–24 ore successive all''immersione.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Foto.'
 categoria: agua
 keywords:
 - prova immersione lanzarote

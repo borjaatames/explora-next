@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "Eine mittlere Kondition genügt, der Motor hilft bergauf."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 5 Teilnehmer."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Corralejo, Parkplatz vor dem Eingang des Wasserparks Acua, neben der großen Kinderfigur.'
 categoria: aventura
 keywords:
 - "e-bike tour fuerteventura"

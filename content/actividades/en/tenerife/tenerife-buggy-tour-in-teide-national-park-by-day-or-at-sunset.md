@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French, Italian, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'La Camella (Arona); exact point and parking details after booking.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Professional guide; Free pick-up and drop-off (south of Tenerife); Free parking at the meeting point; Two-seater buggy; Driving introduction and safety briefing; Basic insurance.'
 categoria: aventura
 keywords:
 - buggy tour teide

@@ -42,6 +42,12 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Iate de 20 metros, tudo incluído; Tripulação profissional; Atividades aquáticas; Comida e bebida.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '3 h 30 min.'
 categoria: agua
 keywords:
 - cruzeiro de iate tenerife

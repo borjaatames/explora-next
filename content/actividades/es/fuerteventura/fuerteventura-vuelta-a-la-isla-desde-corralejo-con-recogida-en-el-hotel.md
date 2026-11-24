@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, italiano, español, polaco, alemán, francés, árabe, ruso, maltés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado desde y hasta tu hotel; Agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con vértigo o miedo a las alturas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida.'
 categoria: excursionesDia
 keywords:
 - vuelta a fuerteventura

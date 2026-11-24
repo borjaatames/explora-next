@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, italiano, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Un pequeño aperitivo; Recogida y regreso al hotel; Equipo de esnórquel.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva toalla y bañador para la parada de baño.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Bebida ilimitada.'
 categoria: agua
 keywords:
 - avistamiento de cetaceos lancha rapida tenerife

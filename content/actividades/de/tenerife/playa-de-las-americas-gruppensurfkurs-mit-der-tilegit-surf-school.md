@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Vom Lehrer ausgewähltes Surfbrett; Neoprenanzug und Füßlinge; Unfallversicherung; Lehrer; Theorie (20 Min.).'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Abholung und Rücktransfer.'
 categoria: agua
 keywords:
 - tilegit surfschule

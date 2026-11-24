@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: No. Basta saper nuotare se vuoi entrare in acqua. Il paddle surf e le maschere da snorkeling sono inclusi.
 - pregunta: In che lingua si svolge?
   respuesta: 'GetYourGuide lo offre in inglese, ma l''equipaggio è locale. Non è una visita guidata: ciò che conta sono la navigazione e il bagno.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Marina Miramar, porto turistico di Santa Pola (Muelle Norte). Partenza dal porto turistico Marina Miramar di Santa Pola, Muelle Norte s/n. Arriva 15 minuti prima; lo skipper ti aspetta al pontile della barca a vela.'
 opinionEditorial: 'È il modo più tranquillo per godersi Tabarca: in barca a vela, con poca gente e facendo il bagno dove il traghetto non si ferma. Il ritorno al tramonto è ciò che la rende diversa.'
 categoria: agua
 keywords:

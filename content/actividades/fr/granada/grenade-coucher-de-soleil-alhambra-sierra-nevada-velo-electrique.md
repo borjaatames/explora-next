@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "En fin d'après-midi, selon l'heure du coucher du soleil."
 - pregunta: "Les enfants sont-ils admis ?"
   respuesta: "Oui, à partir de 12 ans avec un adulte."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Cuchilleros 12, centre de Grenade : depuis le bar La Trastienda, prenez la rue qui monte à droite, le local est sur la gauche.'
 categoria: toursCiudad
 keywords:
 - "grenade coucher de soleil vélo électrique"

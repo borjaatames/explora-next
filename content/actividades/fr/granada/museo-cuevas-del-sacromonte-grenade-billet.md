@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Environ une heure."
 - pregunta: "Y a-t-il un guide ?"
   respuesta: "Non, c'est une entrée en visite libre."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Barranco de los Negros s/n, 18010 Granada. Bus C2 depuis la Plaza Nueva, arrêt Sacromonte.'
 categoria: entradas
 guiasRelacionadas:
 - grenade-en-2-jours

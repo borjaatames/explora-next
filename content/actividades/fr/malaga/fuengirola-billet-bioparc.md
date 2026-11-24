@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: En train de banlieue C1 jusqu'à Fuengirola, environ 45 minutes, puis 10 minutes à pied.
 - pregunta: Peut-on annuler ?
   respuesta: Non, le billet n'est pas remboursable.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Train de banlieue (Cercanías) C1 depuis Malaga jusqu''à Fuengirola (terminus), puis 10 minutes à pied.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Entrée au Bioparc Fuengirola.'
 opinionEditorial: Un zoo moderne, de ceux qui misent sur la conservation et les habitats plutôt que sur les cages. Pour une matinée avec des enfants sur la Costa del Sol, c'est l'un des meilleurs choix.
 categoria: parques
 keywords:

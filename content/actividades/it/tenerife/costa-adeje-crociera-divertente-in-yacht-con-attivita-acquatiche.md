@@ -42,6 +42,12 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Yacht di 20 metri tutto incluso; Equipaggio professionale; Attività acquatiche; Cibo e bevande.'
+- pregunta: 'Quanto dura?'
+  respuesta: '3 h 30 min.'
 categoria: agua
 keywords:
 - crociera in yacht tenerife

@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sì, se vuoi il pilota ti lascia i comandi per un tratto."
 - pregunta: "Dove avviene il prelievo?"
   respuesta: "A Las Américas, Costa Adeje, Playa Paraíso e Callao Salvaje; a Los Cristianos solo per il volo delle 10."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Parcheggio sopra la spiaggia di La Enramada, Costa Adeje: puoi lasciare l''auto e aspettare lo staff.'
 categoria: aventura
 keywords:
 - "parapendio termica tenerife"

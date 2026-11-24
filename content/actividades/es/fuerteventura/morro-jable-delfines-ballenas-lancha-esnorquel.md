@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Sí, a partir de 3 años. La lancha es rápida, así que no se recomienda a embarazadas ni a personas con problemas de espalda.
 - pregunta: ¿Incluye recogida?
   respuesta: Sí, desde los hoteles y puntos del sur de la isla que eliges al reservar.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en el sur de Fuerteventura; la salida es desde el puerto de Morro Jable. Eliges el punto de recogida al reservar (hoteles y paradas de la zona de Jandía y Costa Calma). Si vas por tu cuenta, el barco sale del puerto de Morro Jable.'
 opinionEditorial: 'Una salida corta y dinámica para ver delfines en el sur de Fuerteventura, con un buen rato de esnórquel y recogida incluida. Si buscas algo más tranquilo, el velero o el catamarán de Morro Jable son más pausados.'
 atraccionesRelacionadas:
 - sur

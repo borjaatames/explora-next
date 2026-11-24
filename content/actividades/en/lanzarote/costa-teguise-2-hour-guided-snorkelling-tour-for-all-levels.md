@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Snorkelling gear; Insurance; Theory introduction; Instructor; Pick-up and drop-off in Costa Teguise, Tahíche and Arrecife.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'You must be able to swim; Not for children under 8.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Photos.'
 categoria: agua
 keywords:
 - snorkeling costa teguise

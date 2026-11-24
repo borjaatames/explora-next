@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sí, a unos 10-12 km. Desde Maspalomas y Playa del Inglés hay autobús. En coche son unos 15-20 minutos por carretera de montaña.
 - pregunta: ¿Hay show de delfines?
   respuesta: Sí, Palmitos Park tiene delfinario con show incluido en la entrada. Es uno de los pocos lugares en Canarias donde verlos.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Palmitos Park, Barranco de los Palmitos, s/n, Mogán, Gran Canaria. El parque está en el Barranco de los Palmitos, a unos 10 km de Maspalomas. Hay autobús desde Playa del Inglés y Maspalomas. En coche, toma la GC-503 desde la GC-500 (Maspalomas). El parking es gratuito.'
 opinionEditorial: 'Palmitos Park no compite en tamaño con Loro Parque, pero tiene algo que este no tiene: un entorno natural de barranco canario que hace que pasear por el parque sea una experiencia en sí misma. El mariposario tropical es imprescindible.'
 guiasRelacionadas:
 - que-ver-en-gran-canaria

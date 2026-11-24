@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tabla de surf elegida por el monitor; Neopreno y escarpines; Seguro de accidentes; Monitor; Teoría (20 min).'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - tilegit surf school

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aparcamiento de Taurito (Mogán).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía en inglés y español; Equipo de seguridad; Pícnic: fruta, chocolate, frutos secos, galletas y agua; Seguro; Fotos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Ninguna de las actividades (tirolina, vía ferrata, saltos, rápel) es obligatoria; Según el estado del mar, alguna actividad puede no hacerse; Edad mínima 8 años.'
 categoria: aventura
 keywords:
 - coasteering gran canaria

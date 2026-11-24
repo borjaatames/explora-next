@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'Plusieurs tapas à chacune des trois étapes : cela fait souvent un repas.'
 - pregunta: Peut-on annuler ?
   respuesta: Oui, gratuitement jusqu’à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hôtel à Barcelone.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide privé; Tapas dans trois établissements; Boissons.'
 opinionEditorial: Bien manger à Barcelone sans tomber dans les menus touristiques n’est pas si simple ; un guide local en privé règle la question.
 atraccionesRelacionadas:
 - tapas-barcelona

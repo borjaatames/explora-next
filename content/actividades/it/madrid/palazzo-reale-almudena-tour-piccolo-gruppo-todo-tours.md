@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Circa due ore e mezza."
 - pregunta: "In che lingua?"
   respuesta: "In italiano o in spagnolo, a scelta."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione scelta, accanto al Palazzo Reale; il punto esatto è nella conferma.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - palazzo-reale-madrid-biglietti-esauriti

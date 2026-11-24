@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Tauchausrüstung; Versicherung; Online-Logbuch; Tauchlehrer; Kostenlose Abholung und Rücktransfer an bestätigten Punkten auf Teneriffa; Trinkwasser.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 8 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen; Unterwasserfotos.'
 categoria: agua
 keywords:
 - tauchen abades

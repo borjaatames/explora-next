@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up from hotels in Corralejo; Catamaran trip with guide; Paella lunch; Open bar; Snorkelling and paddleboard gear.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable during pregnancy, with back problems or if you can''t swim; Bring a waterproof bag for your things.'
+- pregunta: 'What is not included?'
+  respuesta: 'Personal expenses; Return transfer to the hotel (pick-up only).'
 categoria: agua
 keywords:
 - catamaran corralejo lobos

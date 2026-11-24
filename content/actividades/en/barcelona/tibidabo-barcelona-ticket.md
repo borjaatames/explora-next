@@ -59,6 +59,12 @@ preguntasFrecuentes:
   respuesta: No. Tibidabo typically opens Thursday to Sunday during the main season and weekends only in low season. Always check the official calendar before booking. Closure on certain days is a common source of disappointment.
 - pregunta: How do I get to Tibidabo?
   respuesta: 'Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram, scenic and historic) to the funicular base station, then the funicular to the park entrance. Total journey: about 45 minutes.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Parc d''Atraccions Tibidabo, Pl. del Tibidabo, 3-4, Barcelona. Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram) to the funicular, then the funicular to the top. The journey from the city centre takes about 45 minutes. Check opening hours before visiting — Tibidabo does not open every day.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day entry to Tibidabo.'
 opinionEditorial: 'Tibidabo is unlike any other amusement park: historic, atmospheric, and perched at 512 metres with views that stretch to the horizon. The rides are secondary to the experience. Go on a clear day for the full effect.'
 guiasRelacionadas:
 - barcelona-with-kids

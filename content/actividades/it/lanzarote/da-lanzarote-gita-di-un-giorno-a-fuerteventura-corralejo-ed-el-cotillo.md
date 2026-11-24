@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: La guida parla spagnolo, inglese, tedesco, francese, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Bus di andata e ritorno dal punto più vicino all''alloggio; Traghetto di andata e ritorno tra Lanzarote e Fuerteventura; Tempo libero a ogni tappa; Guida multilingue esperta.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Serve un documento valido o il passaporto per viaggiare tra le isole; Guida in italiano solo il mercoledì; Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande.'
 categoria: excursionesDia
 keywords:
 - gita fuerteventura da lanzarote

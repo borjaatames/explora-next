@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Nein, pro Buggy für bis zu 2 Personen.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer vom Hotel (falls gewählt); Handschuhe, Augenmaske und Jacke; Versicherung; Gratisgetränke; Geführte Tour mit Fotostopps.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Fahrer ab 21 mit gültigem Führerschein; Kinder ab 4 Jahren in der 4-Sitzer-Option, auf den Rücksitzen; Abholgebiet von Golf del Sur bis Callao Salvaje.'
 categoria: aventura
 keywords:
 - teide buggy sonnenuntergang

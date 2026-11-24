@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Parce que la conquête de Grenade en 1492 fut la grande réussite de leur règne. Isabelle l'a laissé écrit dans son testament et la chapelle a été construite entre 1505 et 1517.
 - pregunta: Que trouve-t-on dans le musée ?
   respuesta: 'La collection personnelle d''Isabelle : panneaux flamands de Memling, Van der Weyden et Bouts, un Botticelli, sa couronne et son sceptre, l''épée de Ferdinand et les étendards de la conquête.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Capilla Real, Calle Oficios s/n, Grenade. L''entrée se trouve calle Oficios, entre la cathédrale et l''Alcaicería, par la Lonja. Présentez le voucher au guichet.'
 opinionEditorial: 'C''est le lieu où l''histoire de l''Espagne devient concrète : deux rois en marbre et, en dessous, leurs cercueils de plomb. Petite, intense, et avec un musée qui surprend. Dix euros bien dépensés ; visitez-la avec la cathédrale.'
 guiasRelacionadas:
 - alhambra-comment-la-visiter

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Le spectacle avec un cocktail et le dîner sur le toit-terrasse."
 - pregunta: "Le transport est-il inclus ?"
   respuesta: "Non, pas de prise en charge à l'hôtel."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Tablao Flamenco Las Setas, près de la plaza de la Encarnación (Setas de Sevilla) ; l''adresse exacte figure dans la confirmation.'
 categoria: espectaculos
 guiasRelacionadas:
 - flamenco-seville-quel-tablao-choisir

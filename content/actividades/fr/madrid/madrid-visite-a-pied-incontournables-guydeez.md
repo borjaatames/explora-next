@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, c'est une visite extérieure."
 - pregunta: "Peut-on la faire en privé ?"
   respuesta: "Oui, il existe une option privée."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Dans le centre historique ; le point exact apparaît dans la confirmation.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-en-1-jour

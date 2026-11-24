@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle français, espagnol, anglais, italien.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide et skipper; Bateau; Boisson offerte (bière, eau ou soda); Carburant; Taxes portuaires.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '2 heures.'
 categoria: agua
 keywords:
 - observation baleines costa adeje

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Deutsch, Englisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Aquasports Fuerteventura, Hafen von Morro Jable.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Geführte Bootstour.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Sei pünktlich: Es wird nicht gewartet; Bring einen Pullover und ein Handtuch mit.'
 categoria: agua
 keywords:
 - schnellboot morro jable delfine

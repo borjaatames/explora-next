@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Air-conditioned van; Small group (at most 8); Snack; Entry to the Drago Milenario park; Free time in Icod, Garachico and Masca; Panoramic stops.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Swimming in Garachico only if the sea allows; The exact pick-up time is confirmed the day before; Not suitable if you get motion sickness.'
+- pregunta: 'What is not included?'
+  respuesta: 'Extra food or drinks.'
 categoria: excursionesDia
 keywords:
 - masca garachico tour

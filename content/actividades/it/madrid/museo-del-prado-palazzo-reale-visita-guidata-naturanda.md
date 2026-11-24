@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Sì, gli ingressi salta fila al Prado e al Palazzo Reale."
 - pregunta: "C'è il pranzo?"
   respuesta: "No, cibo e bevande non sono inclusi."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione scelta; il punto esatto è nella conferma.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - museo-del-prado-biglietti-esauriti

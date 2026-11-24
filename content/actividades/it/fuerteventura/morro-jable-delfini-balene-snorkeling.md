@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: Sì, dai 3 anni. Il motoscafo è veloce, quindi non è consigliato a donne in gravidanza né a persone con problemi alla schiena.
 - pregunta: Il prelievo è incluso?
   respuesta: Sì, dagli hotel e dai punti del sud dell'isola che scegli al momento della prenotazione.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel sud di Fuerteventura; la partenza è dal porto di Morro Jable. Scegli il punto di prelievo al momento della prenotazione (hotel e fermate della zona di Jandía e Costa Calma). Se vai per conto tuo, la barca parte dal porto di Morro Jable.'
 opinionEditorial: 'Un''uscita breve e dinamica per vedere i delfini nel sud di Fuerteventura, con un bel po'' di snorkeling e prelievo incluso. Se cerchi qualcosa di più tranquillo, la barca a vela o il catamarano di Morro Jable hanno un ritmo più rilassato.'
 atraccionesRelacionadas:
 - sur

@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Some reviews mention this. The operator (Discovering Spain) actively replies to reviews and seems to prioritise small groups. It's not guaranteed by contract, but the trend is towards small capacities.
 - pregunta: Is there hotel pickup?
   respuesta: Yes, available at booking (check the options on GYG). Some customers mention being dropped back at their hotel even when they weren't expecting it.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance for a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Discovering Spain office, Plaza de las Descalzas 3, Granada (or optional hotel pickup). The Discovering Spain office is at Plaza de las Descalzas 3, in central Granada (Cathedral area). Arrive 10-15 minutes early to check in. Alternatively, hotel pickup is available — some customers mention in reviews that they were picked up and dropped off at their hotel directly, even when they hadn''t expected it.'
 variantes:
 - alpujarra-mountain-villages-day-trip
 opinionEditorial: 'The "premium" version of the Alpujarra day trip: the Originals by GetYourGuide distinction and the operator Discovering Spain make the difference. More expensive than the standard tour (€115 vs €71) but with a smaller group and more personal attention. The operator''s responses in reviews are frequent and personal — a good sign of customer care.

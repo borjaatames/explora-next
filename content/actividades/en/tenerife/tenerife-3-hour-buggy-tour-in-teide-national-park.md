@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Spanish, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off (extra charge); Guide; Safety briefing; Jacket and gloves.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'From October to April bring long trousers and a sweatshirt; Drivers must show a valid licence; Price per buggy.'
 categoria: aventura
 keywords:
 - teide buggy tour

@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Non. Le guide explique les bases avant le départ.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'C. Juan Reverón Sierra 4, à Los Cristianos. Arrivez 20 minutes avant pour l''enregistrement.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide professionnel officiel; Kayak, gilet de sauvetage et boîte étanche; Équipement de snorkeling; Photo de groupe au départ; Assurance.'
 categoria: agua
 keywords:
 - kayak los cristianos

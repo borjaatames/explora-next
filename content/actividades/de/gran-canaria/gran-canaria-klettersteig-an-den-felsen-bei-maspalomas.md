@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Parkplatz Yukan, Bahía Feliz.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide; Gurt, Helm und Klettersteigset; Stirnlampe; Snack; Fotos; Versicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Von 14 bis 60 Jahren, bis 100 kg und mindestens 145 cm; Nicht für Menschen mit Höhenangst oder Schwindel.'
 categoria: aventura
 keywords:
 - klettersteig gran canaria

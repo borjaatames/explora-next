@@ -43,6 +43,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Playa del Duque, Costa Adeje. El fotógrafo confirma el punto exacto tras la reserva.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Sesión de 40 a 90 minutos con un fotógrafo local; Fotos editadas según la opción: 30 (40 min), 50 (60 min) o 75 (90 min); Entrega digital en una galería privada en menos de 24 horas; Asistencia antes y después de la sesión para organizarla.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El precio es por sesión, no por persona; Precios: 89,99 € (40 min), 109,99 € (60 min) y 139,99 € (90 min); Fotógrafo en español o inglés.'
 opinionEditorial: 'Si estás alojado en el sur, es de lo más cómodo: quedas en la playa del Duque y en una hora tienes fotos en la arena, en el paseo y en las rocas volcánicas. Merece la pena cuadrarla con la puesta de sol, que en Costa Adeje cae sobre el mar y La Gomera. Como el precio es por sesión, en pareja o en familia sale mucho más a cuenta.'
 atraccionesRelacionadas:
 - fotos

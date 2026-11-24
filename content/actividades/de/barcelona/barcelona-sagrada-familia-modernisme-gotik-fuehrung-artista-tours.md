@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: "Drei bis vier Stunden."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Vor dem KFC bei der Sagrada Família, bei den blauen Regenschirmen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller lokaler Guide; Führung außen an der Sagrada Família; Turrón-Verkostung; Spaziergang über den Passeig de Gràcia und durch das Gotische Viertel.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

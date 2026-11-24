@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Di solito tra 15 e 25 € rispetto ai biglietti separati, a seconda della stagione. Controlla il prezzo dei biglietti singoli prima di decidere.
 - pregunta: Il Loro Parque ha spettacoli con cetacei?
   respuesta: 'Sì, all''Orca Ocean e al delfinario. Il parco li presenta come dimostrazioni di comportamento e partecipa a progetti di conservazione, ma l''argomento fa discutere: decidi tu se assistere.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Loro Parque: Av. Loro Parque s/n, Puerto de la Cruz. Siam Park: C. Alcojora s/n, Adeje. I due parchi sono in comuni diversi. Il bus ufficiale del Loro Parque parte gratis da Puerto de la Cruz. Il Siam Park ha una fermata della guagua (bus 473 da Costa Adeje). Mostra i biglietti sul telefono in ogni parco.'
 opinionEditorial: Il combinato Loro Parque e Siam Park è l'escursione più popolare di Tenerife e non delude. Il Loro Parque ha una delle collezioni di animali più impressionanti d'Europa e il Siam Park la migliore tematizzazione tra i parchi acquatici spagnoli. Se hai due giorni liberi a Tenerife, è la scelta giusta.
 guiasRelacionadas:
 - cosa-vedere-a-tenerife

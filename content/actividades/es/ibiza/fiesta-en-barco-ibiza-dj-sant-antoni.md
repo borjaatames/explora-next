@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: No. Incluye 3 bebidas (una de bienvenida y dos cervezas o sangrías). El resto se paga a bordo.
 - pregunta: ¿Cuándo es la del atardecer?
   respuesta: La salida al atardecer es los martes y los jueves. El resto de días la fiesta es de día.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Rio Ibiza, Passeig de la Mar 8, Sant Antoni de Portmany. Se empieza con la previa de 2 horas en el local Rio Ibiza, en el paseo marítimo de Sant Antoni. Desde allí el grupo va andando al barco.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Previa de 2 horas en Rio Ibiza; 3 horas de fiesta en barco; 3 bebidas: 1 de bienvenida y 2 cervezas o sangrías; DJ, bailarines, fotógrafo y vídeo.'
 opinionEditorial: 'Para grupos de amigos que van a Sant Antoni de fiesta: previa, barco y espectáculo en una sola entrada. Que nadie espere barra libre: son 3 bebidas.'
 guiasRelacionadas:
 - que-ver-en-ibiza

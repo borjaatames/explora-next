@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Ja, ab 2 Jahren. Es ist eine der beliebtesten Aktivitäten für Familien im Süden Teneriffas.
 - pregunta: Wird man nass?
   respuesta: Nein. Sie sitzen im trockenen Inneren des U-Boots.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Submarine Safaris, Amarilla Marina, San Miguel de Abona (38639 Tenerife). Wenn Sie mit dem Auto kommen, melden Sie sich 30 Minuten vor dem Tauchgang am Hafen zur Registrierung; am Ende des Hafens gibt es kostenlose Parkplätze. Wenn Sie den kostenlosen Bus nutzen, erhalten Sie Abholzeit und -ort per E-Mail oder Telefon.'
 opinionEditorial: 'Der einfachste Weg, den Meeresgrund vor Teneriffa zu sehen, ohne nass zu werden, ideal mit Kindern oder für alle, die nicht schnorcheln. Die Rochen und die Taucher, die die Fische füttern, sind das Beste. Der Preis ist für eine Stunde hoch, aber das Erlebnis ist auf der Insel einzigartig.'
 guiasRelacionadas:
 - was-sehen-auf-teneriffa

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Salida en velero con guía; Avistamiento de cetáceos; Bebidas: agua, vino, cava, cerveza y refrescos; Aperitivos; Equipo de esnórquel.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - velero ballenas tenerife

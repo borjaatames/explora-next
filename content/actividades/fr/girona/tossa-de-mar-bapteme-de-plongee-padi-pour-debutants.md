@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, tout l'équipement et l'assurance sont inclus."
 - pregunta: "À partir de quel âge ?"
   respuesta: "À partir de 10 ans."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'SuperDive Tossa, Carrer Lope Mateo 1, Tossa de Mar. Présentez-vous 15 minutes avant l''heure pour l''enregistrement.'
 categoria: agua
 keywords:
 - "baptême de plongée tossa de mar"

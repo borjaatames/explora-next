@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Diving equipment; Insurance; Online dive log; Dive instructor; Pick-up and drop-off from the south of Gran Canaria; Water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; Not suitable for people with back or breathing problems, epilepsy, high blood pressure or recent surgery.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch; Underwater photos.'
 categoria: agua
 keywords:
 - learn to dive gran canaria

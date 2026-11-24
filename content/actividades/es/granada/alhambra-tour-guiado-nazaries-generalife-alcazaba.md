@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sí, se elige el idioma al reservar. Si un día no hay bastantes personas de un idioma, el guía puede hacer la visita en dos idiomas.
 - pregunta: ¿Qué pasa si llego tarde?
   respuesta: El tour no espera. El guía deja la entrada en el Café-Bar Polinario y puedes hacer la visita por tu cuenta, respetando la hora de los Palacios Nazaríes.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: las entradas de la Alhambra son nominativas y no se pueden cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Entrada de la Alhambra (el punto exacto depende de la opción). El voucher indica el punto exacto, junto a los accesos de la Alhambra. Desde el centro, sube en los autobuses C30 o C32 desde la plaza Isabel la Católica. Llega 15 minutos antes: el tour empieza puntual y la entrada a los Palacios Nazaríes tiene hora fija.'
 opinionEditorial: 'Una buena forma de asegurar la Alhambra con guía en tu idioma cuando las entradas sueltas se han agotado. Tres horas bien aprovechadas. Recuerda que no se puede cancelar: reserva cuando tengas el viaje cerrado.'
 atraccionesRelacionadas:
 - alhambra

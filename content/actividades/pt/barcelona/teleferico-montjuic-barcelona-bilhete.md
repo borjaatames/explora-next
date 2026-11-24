@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: A viagem desde a estação de baixo (Mirador) até à estação do castelo dura cerca de 10 minutos em cada sentido. Conte com 1-2 horas no total, incluindo a espera e as vistas lá em cima.
 - pregunta: Posso visitar o castelo de Montjuïc a partir do teleférico?
   respuesta: Sim. A estação de cima fica a poucos metros da entrada do castelo. O bilhete do castelo não está incluído; compra-se à entrada.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Teleférico de Montjuïc, estação de baixo, Av. de Miramar, Barcelona. Apanhe a linha 2 ou 3 do metro até ao Paral·lel e depois o funicular de Montjuïc (incluído no T-Casual). A estação de baixo do teleférico fica no cimo do funicular, e o teleférico sobe daí até ao castelo de Montjuïc.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete de ida e volta no teleférico.'
 opinionEditorial: O teleférico de Montjuïc dá-lhe a melhor vista panorâmica de Barcelona, melhor do que a do Tibidabo para ver cidade e mar ao mesmo tempo. A viagem de 10 minutos é curta mas memorável, sobretudo ao pôr do sol.
 guiasRelacionadas:
 - barcelona-em-3-dias

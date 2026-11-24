@@ -59,6 +59,12 @@ preguntasFrecuentes:
   respuesta: La guida parla italiano, francese, spagnolo, inglese.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Easy Kayak Tenerife, Avenida El Palm-Mar 94, Palm-Mar.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Kayak doppi stabili e pagaie; Giubbotto salvagente; Attrezzatura da snorkeling; Sacca stagna; Guida locale; Acqua e snack.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 6 anni o donne in gravidanza; Massimo 100 kg.'
 categoria: agua
 keywords:
 - kayak palm mar

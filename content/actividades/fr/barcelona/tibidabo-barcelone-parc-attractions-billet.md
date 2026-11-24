@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Non. En basse saison (automne, hiver et printemps), le Tibidabo n’ouvre que le week-end et les jours fériés. En été, il ouvre aussi en semaine. Consultez le calendrier officiel avant d’acheter.
 - pregunta: Qu’est-ce que l’Avió ?
   respuesta: Une réplique de 1928 de l’avion du premier vol commercial Madrid-Barcelone, suspendue à un bras pivotant qui tourne au-dessus de la ville. C’est l’attraction la plus célèbre et la plus photographiée du parc.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parc d’Atraccions Tibidabo, Plaça del Tibidabo, 3-4, 08035 Barcelone. Depuis la Plaça de Catalunya : bus T2A (Bus Tibidabo) jusqu’au Tramvia Blau ou directement jusqu’au pied du funiculaire. Ensuite, funiculaire jusqu’au sommet (billet à part). Présentez le billet sur votre téléphone à l’entrée du parc.'
 opinionEditorial: 'Le Tibidabo est unique : ce n’est ni le parc le plus moderne ni le plus grand, mais il a quelque chose qu’aucun autre n’a. Son mélange de nostalgie (l’Avió, le Museu d’Autòmates), d’architecture moderniste et de vues imprenables sur Barcelone le rend inimitable. Le prix est élevé ; vérifiez le calendrier d’ouverture avant d’y aller.'
 guiasRelacionadas:
 - barcelone-avec-des-enfants

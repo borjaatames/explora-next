@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Lehrer; Erklärungen und Training; Neoprenanzug, Maske und Flossen; Flasche, Atemregler und Tarierweste; Tauchcomputer und Boje; Tauchgang.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 12 Jahre; Nach dem Tauchen 12 bis 24 Stunden nicht fliegen; Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
 categoria: agua
 keywords:
 - tauchen los cristianos

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: the red Obycat boat at the end of the pier.'
+- pregunta: 'What is included?'
+  respuesta: 'Hotel–port–hotel transfer; Lunch: paella, salad and wrinkled potatoes; Unlimited drinks; Seasonal fruit; Snorkelling (masks and snorkels); Bali beds and floating sundeck.'
+- pregunta: 'What is not included?'
+  respuesta: 'Photos.'
 categoria: agua
 keywords:
 - catamaran gran canaria all inclusive

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Environ 10 heures."
 - pregunta: "Le repas est-il compris ?"
   respuesta: "Non, il y a du temps libre pour déjeuner."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à Séville selon l''option ; le point exact est dans la confirmation.'
 categoria: excursionesDia
 guiasRelacionadas:
 - cordoue-depuis-seville-malaga-grenade

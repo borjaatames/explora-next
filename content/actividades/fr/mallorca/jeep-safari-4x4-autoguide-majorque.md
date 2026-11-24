@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, boîte manuelle."
 - pregunta: "Quelle est la taille du groupe ?"
   respuesta: "19 personnes maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Restaurant-bar Tapas y Más, carretera de l''Arenal 58, Playa de Palma. Le guide vous y attend ; vous pouvez boire un verre à vos frais.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

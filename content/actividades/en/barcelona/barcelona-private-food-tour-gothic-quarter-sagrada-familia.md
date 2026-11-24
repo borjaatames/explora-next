@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'No: inside you use an audio guide in your language for about an hour.'
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Gran Teatre del Liceu, La Rambla, Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private guide for 4 hours; Tastings at 5 stops and 3 drinks; Skip-the-line Sagrada Familia ticket with audio guide; Taxi from the Gothic Quarter to the Sagrada Familia.'
 opinionEditorial: 'It combines the two things almost everyone wants in Barcelona: great food and the Sagrada Familia. Private and with the taxi sorted, it''s a complete plan.'
 atraccionesRelacionadas:
 - tapas-barcelona

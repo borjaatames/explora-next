@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: 'Mínimo 2 días completos: un día para PortAventura World y un día para Ferrari Land + Caribe Aquatic Park. Con 3 días lo disfrutarás sin prisas.'
 - pregunta: '¿Dragon Khan o Shambhala: cuál es mejor?'
   respuesta: Son experiencias distintas. Shambhala es la montaña rusa más alta de Europa (76 m) con velocidad de 134 km/h, muy suave para ser tan grande. Dragon Khan es más clásica con 8 loopings y más brusca. Los aficionados recomiendan hacer ambas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 72 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'PortAventura World, Av. Alcalde Pere Molas, km 2, Vila-seca, Tarragona. El complejo está en Vila-seca, a 10 km de Tarragona. En tren, toma el AVE o Rodalies hasta la estación de PortAventura. En coche, autopista AP-7 salida 35. Aparcamiento disponible (coste extra). Muestra el voucher en la taquilla principal.'
 opinionEditorial: 'PortAventura es el parque de atracciones más grande de España y uno de los mejores de Europa. El combo con Ferrari Land y Caribe añade capas de experiencia que justifican completamente el precio. Si vienes desde lejos, no escatimes en días: este complejo merece tiempo.'
 guiasRelacionadas:
 - portaventura-world-guia

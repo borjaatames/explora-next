@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking de la plage de Famara (Calle Brezo de Mar 1, Urbanización Famara). L''horaire dépend des conditions.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Cours de surf de 2 h 30; Planche et combinaison; Matériel gratuit le reste de la journée après le cours.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Savoir nager est obligatoire; Déconseillé aux moins de 8 ans ; les moins de 10 ans doivent être accompagnés.'
 categoria: agua
 keywords:
 - kalufa surf school

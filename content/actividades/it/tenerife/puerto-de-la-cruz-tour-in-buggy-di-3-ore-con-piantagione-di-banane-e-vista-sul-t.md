@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Carburante; Occhiali fuoristrada; Giacche antivento; Acqua; Snack (arachidi).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Conducenti e passeggeri dai 18 anni; Non adatto a donne in gravidanza.'
 categoria: aventura
 keywords:
 - tour in buggy puerto de la cruz

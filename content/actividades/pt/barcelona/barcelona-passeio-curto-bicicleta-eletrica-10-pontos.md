@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Sim, até 6 anos grátis na cadeira de criança."
 - pregunta: "Onde é o ponto de encontro?"
   respuesta: "Passeig de Lluís Companys 10, junto ao Arc de Triomf."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bicicleta ou bicicleta elétrica (conforme a opção); Guia local; Capacete; Cadeiras de criança a pedido; Depósito de bagagem; Seguro.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-num-dia

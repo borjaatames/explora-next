@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off; Guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum 2 participants; Free time for lunch in a restaurant or a picnic.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks (can be bought); Museum fees.'
 categoria: excursionesDia
 keywords:
 - north tenerife tour

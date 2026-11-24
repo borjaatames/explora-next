@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: About 35 km south, roughly 45 minutes by car or bus. There are direct shuttle buses from Madrid's Estación Sur de Autobuses.
 - pregunta: What's the best ride?
   respuesta: Superman Ride is the park's most popular coaster. Batman Gotham City is more intense. Both have long queues in peak season — arrive at opening.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Parque Warner, San Martín de la Vega, Madrid (50 km south). The park is 50 km from Madrid. There are daily buses from Madrid (Estación Sur de Autobuses). By car, take the A-4 motorway to exit 22. Check the operator for current bus schedules.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day entry to Parque Warner; Access to all included rides and shows.'
 opinionEditorial: Parque Warner is one of Spain's best theme parks, on par with PortAventura for ride quality. The DC and Warner Bros theming is well executed, and the stunt shows are genuinely impressive. A full day well spent.
 guiasRelacionadas:
 - madrid-with-kids

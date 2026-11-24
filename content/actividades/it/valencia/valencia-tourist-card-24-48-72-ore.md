@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "No, c'è solo uno sconto."
 - pregunta: "Per chi conviene?"
   respuesta: "Per chi usa spesso bus e metro e visita più musei."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione: ritiro all''ufficio turistico o carta digitale; dettagli nella prenotazione.'
 categoria: entradas
 guiasRelacionadas:
 - valencia-in-2-giorni

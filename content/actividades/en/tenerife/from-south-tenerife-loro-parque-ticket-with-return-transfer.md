@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: No. The ticket is given out on the coach, so the transfer is compulsory.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off at hotels in the south of Tenerife; Loro Parque entry; Transfers.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up only in the south of the island; Tickets are handed out on the coach: you must use the transfer to get in.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch.'
 categoria: parques
 keywords:
 - loro parque transfer

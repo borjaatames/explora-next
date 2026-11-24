@@ -78,6 +78,10 @@ preguntasFrecuentes:
   respuesta: Son frecuentes en esta costa, pero es fauna salvaje y nunca está garantizada.
 - pregunta: ¿Puedo pedir guía en mi idioma?
   respuesta: Hay guías que hablan francés, italiano y portugués, pero se asignan según disponibilidad. Escribe al operador por WhatsApp antes del día.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Mana Kayak, Calle del Valle Menéndez, 22, local 1, Los Cristianos (38650 Arona). En el centro de Los Cristianos, a 3 minutos a pie de la playa. Si quieres asegurar un guía en un idioma concreto, escríbeles antes por WhatsApp.'
 opinionEditorial: 'De las salidas de kayak mejor valoradas del sur de Tenerife: el tramo hasta la cueva de Palm-Mar es precioso y el equipo va completo. Es más larga y exigente que otras salidas de kayak, así que mejor para quien está en forma.'
 guiasRelacionadas:
 - que-ver-en-tenerife

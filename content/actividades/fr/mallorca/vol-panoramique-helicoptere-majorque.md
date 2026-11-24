@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Entre 8 minutes et 1 heure selon l'option."
 - pregunta: "Y a-t-il une limite de poids ?"
   respuesta: "Oui, 136 kg par passager."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Aérodrome de Son Bonet (Marratxí) : passez la barrière ouverte, tout droit jusqu''au bâtiment, puis à droite, à gauche et à droite jusqu''aux drapeaux « The Helicopter Centre ».'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

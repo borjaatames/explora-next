@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Sea Safaris Lanzarote, Calle Pantalanes, puerto deportivo de Puerto Calero.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Chalecos salvavidas; Safari en barco.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Trimarán a motor de 8,6 metros con licencia para 15 personas; No apto para menores de 2 años ni embarazadas.'
 categoria: agua
 keywords:
 - safari maritimo lanzarote

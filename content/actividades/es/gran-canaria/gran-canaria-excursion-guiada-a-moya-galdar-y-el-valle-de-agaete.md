@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla alemán, francés, italiano, español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en el hotel; Transporte en autocar; Guía local; Entrada, visita y cata en la bodega Los Berrazales; Seguro de viaje; Consejos locales.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas que se mareen en carretera ni con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas.'
 categoria: excursionesDia
 keywords:
 - excursion valle de agaete

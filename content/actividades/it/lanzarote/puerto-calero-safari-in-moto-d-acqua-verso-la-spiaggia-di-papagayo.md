@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle Pantalanes 2, Puerto Calero.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Escursione guidata di 1 ora con istruttore professionista; Assicurazione kasko; Carburante.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Conducenti dai 16 anni; Non adatto a donne in gravidanza; Massimo 110 kg.'
 categoria: agua
 keywords:
 - moto d'acqua puerto calero

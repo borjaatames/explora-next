@@ -42,6 +42,12 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: '20-metre yacht, all inclusive; Professional crew; Water activities; Food and drinks.'
+- pregunta: 'How long does it last?'
+  respuesta: '3 h 30 min.'
 categoria: agua
 keywords:
 - yacht cruise tenerife

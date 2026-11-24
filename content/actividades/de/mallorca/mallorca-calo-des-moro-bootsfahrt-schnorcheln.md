@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Das Boot ankert in der Gegend, und die Badestopps hängen vom Seegang ab.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Cala Figuera (Santanyí). Der genaue Punkt steht auf deinem Gutschein. Parken in Cala Figuera ist im Sommer schwierig: Komm mit Zeitpuffer.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsfahrt; Schnorchelausrüstung; Ein Getränk.'
 opinionEditorial: Der einfachste Weg, die meistfotografierte Bucht Mallorcas zu sehen. Hervorragende Bewertungen und ein fairer Preis für zweieinhalb Stunden auf dem Meer.
 guiasRelacionadas:
 - schoenste-buchten-mallorca

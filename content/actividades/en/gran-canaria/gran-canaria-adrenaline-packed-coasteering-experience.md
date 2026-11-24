@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Car park at Taurito (Mogán).'
+- pregunta: 'What is included?'
+  respuesta: 'Guide in English and Spanish; Safety equipment; Picnic: fruit, chocolate, nuts, biscuits and water; Insurance; Photos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'None of the activities (zip line, via ferrata, jumps, abseil) is compulsory; Some activities may not be possible depending on the sea; Minimum age 8.'
 categoria: aventura
 keywords:
 - coasteering gran canaria

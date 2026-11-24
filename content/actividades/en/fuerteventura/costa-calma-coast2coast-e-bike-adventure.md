@@ -38,6 +38,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'E-bike; Helmet.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 14; The guide gives all explanations in English.'
+- pregunta: 'How long does it last?'
+  respuesta: '3 hours.'
 categoria: aventura
 keywords:
 - e-bike costa calma

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Je nach Option: Es gibt eine Variante nur mit Transfer."
 - pregunta: "Kann man eigenes Essen mitbringen?"
   respuesta: "Ja, laut Anbieter. Im Park gibt es auch Restaurants."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Büro von Amigo Tours in Madrid; die genaue Adresse steht in der Buchungsbestätigung.'
 categoria: excursionesDia
 guiasRelacionadas:
 - madrid-an-einem-tag

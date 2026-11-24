@@ -40,6 +40,17 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: Recorrido a pie no accesible para sillas de ruedas. Dificultad baja.
 politicaCancelacion: Cancelación gratuita; se cobra el 100% si se cancela con 1 día o menos de antelación.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita; se cobra el 100% si se cancela con 1 día o menos de antelación.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Centro de Madrid (punto exacto confirmado al reservar). El recorrido arranca en torno a la Comunidad Judía de Madrid; el punto de encuentro exacto se confirma al hacer la reserva.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado en directo.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas.'
 opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado: el guía adapta el relato a lo que os interese y responde sin prisas. La historia judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia, tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles del catálogo.'
 atraccionesRelacionadas:
 - tours-a-pie

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, quand le temps et la mer le permettent."
 - pregunta: "D'où part le bateau ?"
   respuesta: "Du Port Olympique, Moll de Mestral 20."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en voilier avec skipper; Boissons (cava, bière, sodas) et tapas; Matériel de snorkeling; Enceinte Bluetooth pour votre musique.'
 categoria: agua
 keywords:
 - "voilier barcelone"

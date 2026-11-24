@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Scuba Point, Puerto Colón, Lokal 131 (Erdgeschoss, gegenüber Steg 3), Costa Adeje.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsfahrt zum Tauchplatz; Komplette Tauchausrüstung; Zertifizierter Tauchlehrer; Vollversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nach dem Tauchen am selben Tag nicht über 300 m (Teide oder Flug); Nicht für Kinder unter 8, in der Schwangerschaft oder bei Herz-, Atem- oder Diabetesproblemen; Tierbeobachtungen sind nicht garantiert.'
 categoria: agua
 keywords:
 - schnuppertauchen teneriffa

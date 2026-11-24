@@ -39,6 +39,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à votre hôtel de Corralejo.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux enfants de moins de 14 ans.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '4 heures.'
 categoria: agua
 keywords:
 - cours de surf corralejo prise en charge

@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Sie kostet 30 € vor Ort."
 - pregunta: "Ab welchem Alter darf man mitfahren?"
   respuesta: "Beifahrer ab 3 Jahren."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Büro von Formula Tours in Andratx; 30 Minuten vor Beginn da sein.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'ZooPark Famara Surf, SUP & Kite School, Avenida El Marinero 5, Caleta de Famara.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Todo el equipo: tabla, invento, neopreno y licra.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas; Duchas.'
 categoria: agua
 keywords:
 - clases de surf famara

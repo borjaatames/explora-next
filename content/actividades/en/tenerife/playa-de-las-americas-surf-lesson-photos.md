@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Yes, it is essential.
 - pregunta: What should I bring?
   respuesta: Just swimwear, a towel and sun protection. The school provides the wetsuit, board and booties.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Shaka Surf Tenerife, Calle México, 3, Playa de las Américas (38660 Arona). The school is 30 metres from the beach. For any questions about the meeting point, the school answers on WhatsApp.'
 opinionEditorial: 'One of the best ways to try surfing in the Canary Islands: small groups, patient instructors and souvenir photos at no extra cost. Highly recommended for beginners.'
 guiasRelacionadas:
 - what-to-see-in-tenerife

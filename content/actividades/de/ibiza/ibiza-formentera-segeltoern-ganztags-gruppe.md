@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Kostenlos bis 60 Tage vorher; danach keine Erstattung.
 - pregunta: Welche Sprachen spricht der Skipper?
   respuesta: Spanisch, Englisch, Französisch und Italienisch, nicht Deutsch. Zum Segeln, Baden und Schnorcheln brauchst du keine Sprachkenntnisse.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Platz auf einem 41-Fuß-Segelboot mit Skipper; Treibstoff; Schnorchelausrüstung und 2 Paddleboards; Toilette an Bord.'
 opinionEditorial: 'Die günstigste Art, einen ganzen Tag auf Ibiza zu segeln: Du teilst das Boot mit wenigen Leuten und erreichst Buchten, an die du über Land nicht kommst.'
 atraccionesRelacionadas:
 - formentera

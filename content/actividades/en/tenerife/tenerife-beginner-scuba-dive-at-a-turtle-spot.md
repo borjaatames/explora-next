@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Scuba Point, Puerto Colón, local 131 (ground floor, opposite pontoon 3), Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat ride to the dive site; Full diving equipment; Certified instructor; Full insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'After diving, don''t go above 300 m (Teide or a flight) the same day; Not for children under 8, during pregnancy or with heart, breathing or diabetes problems; Wildlife sightings cannot be guaranteed.'
 categoria: agua
 keywords:
 - try dive tenerife

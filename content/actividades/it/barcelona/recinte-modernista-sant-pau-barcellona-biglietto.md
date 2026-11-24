@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Circa dieci minuti a piedi lungo l'avinguda de Gaudí."
 - pregunta: "Ci sono visite guidate?"
   respuesta: "Sì, secondo l'opzione scelta."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Carrer de Sant Antoni Maria Claret 167, 08025 Barcelona.'
 categoria: entradas
 guiasRelacionadas:
 - barcellona-in-2-giorni

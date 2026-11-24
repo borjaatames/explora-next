@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: Das offizielle Ticket ohne Guide gibt es, aber es ist Monate im Voraus ausverkauft. Diese Option mit offiziellem Guide hat ein eigenes Kontingent, und der Guide erklärt außerdem die Geschichte des Wasserkraftwerks und die Geologie der Schlucht.
 - pregunta: Macht es Angst?
   respuesta: Die Stege sind breit, mit Geländer, 100 Meter über dem Fluss. Es ist sicher und für Familien mit Kindern ab 8 Jahren geeignet, aber die Hängebrücke am Ende ist für Menschen mit Höhenangst eindrucksvoll.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Caminito del Rey, Nordzugang (Ardales), Málaga. Die Strecke ist eine Einbahnstraße und beginnt am Nordzugang in Ardales. Mit dem Auto parkst du im Norden (El Kiosko) oder Süden (El Chorro) und nimmst den Shuttlebus. Mit dem Zug: Cercanías C-2 nach El Chorro-Caminito del Rey (40 Min. ab Málaga). Genauer Treffpunkt auf deinem Gutschein.'
 avisoReserva: Die offiziellen Guides führen auf Spanisch und Englisch; Erklärungen auf Deutsch gibt es nicht. Die Strecke selbst ist gut ausgeschildert.
 opinionEditorial: Der günstigste Weg, den Caminito mit garantiertem Eintritt zu machen. Wenn du schon ein Auto hast oder den Zug nehmen willst, zahl nicht für die Tour mit Transport. Buch den Tag, der dir passt, und plan deine Reise nach Málaga um dieses Datum herum.
 guiasRelacionadas:

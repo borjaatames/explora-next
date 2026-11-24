@@ -38,6 +38,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel de Barcelona (se confirma al reservar).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado en directo; Entrada sin colas y visita guiada por dentro de la Sagrada Família; Visita guiada por Montjuïc, el Barrio Gótico y el Passeig de Gràcia; Transporte privado durante el recorrido; Recogida y regreso al hotel.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida; Propinas.'
 opinionEditorial: 'Es el plan redondo si solo tienes un día: lo imprescindible de Barcelona —Gaudí, Montjuïc y el casco antiguo— en privado, sin colas y sin preocuparte de la logística. Cuantos más seáis, más a cuenta sale el precio por grupo.'
 atraccionesRelacionadas:
 - sagrada-familia

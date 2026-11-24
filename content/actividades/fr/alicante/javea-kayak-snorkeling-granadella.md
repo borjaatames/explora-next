@@ -69,6 +69,10 @@ preguntasFrecuentes:
   respuesta: Oui, à partir de 4 ans, dans un kayak partagé avec un adulte.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 24 heures avant.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plage de la Granadella, Jávea. À environ 20 minutes en voiture du centre de Jávea. En été, l''accès à la crique est réglementé : vérifiez comment y aller lors de la réservation.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Kayak et pagaie; Gilet de sauvetage; Équipement de snorkeling; Guide.'
 opinionEditorial: 'L''une des plus belles matinées en mer de la Costa Blanca : falaises, grottes et eau transparente. Le trajet depuis Alicante en vaut la peine.'
 guiasRelacionadas:
 - excursions-costa-blanca-depuis-alicante

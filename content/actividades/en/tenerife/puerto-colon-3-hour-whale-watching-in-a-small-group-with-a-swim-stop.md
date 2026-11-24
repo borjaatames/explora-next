@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks French, English, Spanish, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón, pontoon 2, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Free drink (beer, water or soft drink) and a sandwich; Swim stop at El Puertito or Las Vistas beach.'
+- pregunta: 'How long does it last?'
+  respuesta: '3 hours.'
 categoria: agua
 keywords:
 - whale watching small group tenerife

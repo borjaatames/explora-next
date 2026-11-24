@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: No; se pagan aparte en cada local.
 - pregunta: ¿Cuándo hay fechas?
   respuesta: 'En temporada: ahora mismo las disponibles empiezan en mayo de 2027.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Las condiciones de cancelación se muestran al reservar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Punto de encuentro junto a la playa de Barcelona (se confirma al reservar).'
 categoria: nocturno
 keywords:
 - fiesta barcelona azotea

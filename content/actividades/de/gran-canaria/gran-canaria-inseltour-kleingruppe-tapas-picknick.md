@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Ja: ein Picknick mit kanarischen Tapas, ein Kaltgetränk und lokale Früchte."
 - pregunta: "Wo werde ich abgeholt?"
   respuesta: "Vor Ihrer Unterkunft in Maspalomas oder Playa del Inglés, kostenlos."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung direkt vor Ihrer Unterkunft in Maspalomas oder Playa del Inglés. Start gegen 9:00 Uhr.'
 categoria: excursionesDia
 keywords:
 - "gran canaria inseltour kleine gruppe"

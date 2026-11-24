@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia de canyoning; Todo o equipamento de canyoning; Seguro de responsabilidade civil e acidentes.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 14 anos; É preciso saber nadar; Só para pessoas em boa forma: inclui 2 horas de caminhada.'
 categoria: aventura
 keywords:
 - canyoning aquatico tenerife

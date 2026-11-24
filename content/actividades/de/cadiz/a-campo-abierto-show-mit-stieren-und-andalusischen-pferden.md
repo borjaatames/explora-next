@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Mit dem Auto über die A-2228 bis km 13; der Parkplatz ist kostenlos."
 - pregunta: "Ist die Show für Kinder geeignet?"
   respuesta: "Ja, sie ist familienfreundlich."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'A Campo Abierto, Finca El Carrascal, Straße A-2228, km 13, Benalup-Casas Viejas (Cádiz).'
 categoria: espectaculos
 keywords:
 - "a campo abierto domecq"

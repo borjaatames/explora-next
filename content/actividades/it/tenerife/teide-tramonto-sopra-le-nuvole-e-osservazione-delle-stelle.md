@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guide professioniste autorizzate; Tramonto e osservazione delle stelle guidati; Trasporto da punti d''incontro selezionati (secondo l''opzione); Costellazioni spiegate con laser verde; Telescopi professionali (opzione telescopio); Picnic al tramonto (opzione picnic).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Porta abiti caldi: di notte fa freddo; Ritorno allo stesso punto d''incontro; Non adatto a donne in gravidanza, a chi ha problemi alla schiena o è in sedia a rotelle.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cena, se non inclusa nell''opzione; Foto professionali; Abiti caldi o coperte.'
 categoria: nocturno
 keywords:
 - tramonto teide tour

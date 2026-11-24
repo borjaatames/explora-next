@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung; bei späterer Stornierung werden 100 % berechnet.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung; bei späterer Stornierung werden 100 % berechnet.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kein Treffpunkt: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst – wann und wo in Málaga du willst.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Unterwegs in deinem eigenen Tempo, ohne feste Zeiten und ohne Gruppe; Freie Wahl der Stopps entlang der Route; Audio hören, wann du willst, mit Pause- und Fortsetzen-Funktion; Verfügbar rund um die Uhr an 365 Tagen im Jahr; Tipps für Essen und Familienaktivitäten direkt in der App.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; App verfügbar auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch; Geeignet für Rollstühle und Kinderwagen; Assistenztiere sind willkommen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Ein Guide vor Ort (es ist ein komplett selbstgeführtes Erlebnis ohne Begleitung).'
 opinionEditorial: 'Das ist die richtige Wahl, wenn du Málaga ganz nach deinen Vorstellungen entdecken willst, ohne feste Zeiten und ohne Gruppe: Du startest die Route, wann du Lust hast, und gehst in dem Tempo, das dir passt. Was dir fehlt, ist die Nähe eines echten Guides, seine Geschichten und die Möglichkeit, direkt Fragen zu stellen – wenn dir das wichtig ist, passt eine Führung mit Guide vor Ort besser. Für Familien, Individualreisende und alle, die gern gemütlich erkunden, funktioniert sie richtig gut.'
 atraccionesRelacionadas:
 - alcazaba

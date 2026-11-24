@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Repas et boissons ne sont pas inclus."
 - pregunta: "D'où part le bateau ?"
   respuesta: "Du port de Palamós."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en bateau de 3 heures; Équipage; Gilets de sauvetage.'
 categoria: agua
 keywords:
 - "sortie bateau palamos"

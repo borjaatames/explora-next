@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Tauchausrüstung; Versicherung; Online-Logbuch; Tauchlehrer; Abholung und Rücktransfer im Süden Gran Canarias; Wasser.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 8 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Nicht bei Rücken- oder Atemproblemen, Epilepsie, Bluthochdruck oder kürzlichen Operationen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen; Unterwasserfotos.'
 categoria: agua
 keywords:
 - tauchen lernen gran canaria

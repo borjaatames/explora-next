@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Avenida Rafael Puig Lluvina 32, Lokal 61, Playa de las Américas (Arona).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller Surflehrer; Theorie und Praxis im Wasser; Softboard; Neoprenanzug; Riffschuhe; Unfallversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Gruppenkurse ab 14; unter 14 nur Privatkurse; Nicht für Schwangere; Du musst schwimmen können.'
 categoria: agua
 keywords:
 - rocky point surf

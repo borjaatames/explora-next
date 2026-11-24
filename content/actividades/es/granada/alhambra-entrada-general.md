@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'No entras a los palacios y no hay devolución. Llega al recinto al menos 30 minutos antes de tu franja: desde la entrada principal hasta los Palacios hay 10-15 minutos andando.'
 - pregunta: ¿Por qué cuesta más que en la web oficial?
   respuesta: La entrada oficial cuesta unos 22 €. Esta opción incluye la gestión y, sobre todo, disponibilidad cuando la web del Patronato ya está agotada, que en temporada es lo habitual.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable. Las entradas de la Alhambra son nominativas y no admiten cambios.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Alhambra, Pabellón de acceso, Granada. El pabellón de acceso está junto al aparcamiento de la Alhambra, en el extremo este del recinto. Microbús C30/C32 desde Plaza Isabel la Católica, o 20-25 minutos a pie subiendo por la Cuesta de Gomérez. Lleva el DNI o pasaporte: la entrada es nominativa.'
 avisoReserva: Las entradas de la Alhambra se agotan con semanas de antelación
 opinionEditorial: 'Si vas por libre y quieres la Alhambra entera, esta es la entrada. Reserva en cuanto tengas fechas: es el monumento más visitado de España y las franjas de mañana vuelan.'
 guiasRelacionadas:

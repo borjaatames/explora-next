@@ -50,6 +50,10 @@ preguntasFrecuentes:
   respuesta: "No, è adatta a chi inizia e a chi ha già provato."
 - pregunta: "La spiaggia è sempre la stessa?"
   respuesta: "No, la scuola sceglie lo spot secondo le onde del giorno."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Centro commerciale Parque Santiago 2, locale 20, Av. Rafael Puig Lluvina 32, Playa de las Américas.'
 categoria: aventura
 keywords:
 - "lezione surf piccolo gruppo tenerife"

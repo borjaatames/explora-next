@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks French, Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Momo Surf School, Calle Brezo de Mar, Urbanización Famara.'
+- pregunta: 'What is included?'
+  respuesta: 'Complete 2-hour surf lesson; Certified instructor; Surfboard matched to your level; Wetsuit; Safety lycra; Liability insurance.'
+- pregunta: 'How long does it last?'
+  respuesta: '2 hours.'
 categoria: agua
 keywords:
 - momo surf school

@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida professionale; Visita guidata; Attrezzatura completa: giubbotti, scarpette, walkie-talkie, custodia impermeabile; Istruzioni di sicurezza; Servizio navetta.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 6 anni; I bambini dai 6 agli 11 anni sono gratis con un adulto (un bambino per adulto).'
+- pregunta: 'Quanto dura?'
+  respuesta: '1 h 30 min.'
 categoria: agua
 keywords:
 - kayak trasparente fuerteventura

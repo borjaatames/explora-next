@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: En español, inglés, francés e italiano.
 - pregunta: ¿Entramos en la catedral o el Alcázar?
   respuesta: No, se ven por fuera. El equipo te ayuda a reservar las entradas si quieres visitarlos después.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de los Refinadores, 7 (Sevilla). En el barrio de Santa Cruz, junto a la estatua de Don Juan Tenorio. El tour termina en el mismo punto.'
 opinionEditorial: Un tour flexible y barato para orientarte el primer día en Sevilla, con la opción de hacerlo en privado y en tu idioma.
 atraccionesRelacionadas:
 - tours-a-pie

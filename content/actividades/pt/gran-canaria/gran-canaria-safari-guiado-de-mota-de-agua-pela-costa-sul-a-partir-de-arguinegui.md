@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Arguineguín (Plus Code Q847+MRW). Chegue 20 minutos antes; quem chegar atrasado não pode participar.'
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia profissional; Safari guiado de mota de água; Mota de água moderna; Combustível; Colete salva-vidas; Briefing de segurança.'
 categoria: agua
 keywords:
 - safari mota de agua gran canaria

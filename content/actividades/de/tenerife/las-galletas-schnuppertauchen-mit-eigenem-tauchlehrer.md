@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, der Tauchlehrer fotografiert Sie unter Wasser."
 - pregunta: "Gibt es eine Abholung?"
   respuesta: "Nein, Treffpunkt ist die Tauchbasis in Las Galletas."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tauchbasis LJ Diving, Calle Consuelo Alfonso Díaz-Flores 16, Las Galletas; kostenlose Parkplätze in der Straße.'
 categoria: agua
 keywords:
 - "schnuppertauchen las galletas"

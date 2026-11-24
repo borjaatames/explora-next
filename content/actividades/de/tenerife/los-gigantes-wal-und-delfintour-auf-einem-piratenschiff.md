@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Nur in der Option mit Paella; die kürzere Option umfasst Getränke.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Flipper Uno, C. Poblado Marinero, Lokal 20, Hafen von Los Gigantes. Sei 30 Minuten vor Abfahrt da.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsfahrt mit Guide; Freie Zeit zum Baden; Getränke: Cola, Fanta, Wasser, Bier und Rotwein; Paella mit Huhn und Gemüse (je nach Option); Toiletten an Bord.'
 categoria: agua
 keywords:
 - los gigantes bootstour

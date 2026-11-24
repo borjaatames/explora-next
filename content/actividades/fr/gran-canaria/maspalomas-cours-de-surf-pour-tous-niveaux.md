@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Planche de surf; Combinaison; Eau et fruits; Assurance accident et responsabilité civile.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Prise en charge à l''hôtel; Transport.'
 categoria: agua
 keywords:
 - cours de surf maspalomas

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, Lokal 11, Playa de las Américas.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Zertifizierter Surflehrer; Brett, Neoprenanzug, Riffschuhe und Lycra; Unfallversicherung; Schließfächer, Toiletten und Duschen; 20 Minuten Theorie.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Kurse richten sich nach der Ebbe, dann sind die Bedingungen am besten; Kinder unter 13 nehmen an Privat- oder Familienkursen teil; Du musst schwimmen können.'
 categoria: agua
 keywords:
 - surfkurs teneriffa

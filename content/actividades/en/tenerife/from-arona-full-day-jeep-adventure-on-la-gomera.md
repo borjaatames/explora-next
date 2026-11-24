@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Italian, German, French, English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Free car park of the X-Sur shopping centre, Calle Lisboa 2, Costa Adeje, at 08:20.'
+- pregunta: 'What is included?'
+  respuesta: 'Driver; Ferry crossing; Lunch.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Bring your original ID or passport for the ferry.'
 categoria: excursionesDia
 keywords:
 - la gomera jeep tour

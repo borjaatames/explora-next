@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'In front of the Magilu restaurant, Av. Ocira 27, Abades.'
+- pregunta: 'What is included?'
+  respuesta: 'Snorkelling tour with guide; Snorkelling gear; Long or short wetsuit; Photos and videos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Non-swimmers see fish but not the turtles, which require a long swim; Glasses can''t be worn under the mask; Not for children under 5 or people with a cold.'
 categoria: agua
 keywords:
 - snorkeling abades

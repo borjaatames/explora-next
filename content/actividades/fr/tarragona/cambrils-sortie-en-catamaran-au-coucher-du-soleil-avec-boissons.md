@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, un arrêt est prévu."
 - pregunta: "D'où part le bateau ?"
   respuesta: "Le lieu dépend de l'option et figure sur la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en catamaran de 2 heures; Capitaine et équipage; Open bar d''eau, sodas, bière et vin; Arrêt baignade.'
 categoria: agua
 keywords:
 - "catamaran cambrils coucher de soleil"

@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "Apenas fato de banho; as toalhas são fornecidas."
 - pregunta: "As crianças podem entrar?"
   respuesta: "A partir dos 5 anos, com termo assinado pelos pais."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Hammam Al Ándalus, Calle Corregidor Luis de la Cerda, 51, a dois passos da Mesquita-Catedral.'
 categoria: entradas
 keywords:
 - "hammam córdova"

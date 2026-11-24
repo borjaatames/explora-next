@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, francese, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Quadhub / Tenerife Quads, Paseo de la Libertad 2, Chío.'
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tour guidato di 3 ore in buggy su strada; Guida professionista; Briefing di sicurezza; Giacca termica e guanti; Soste ai belvedere; Snack e bevanda all''ultima sosta.'
 categoria: aventura
 keywords:
 - buggy teide tramonto

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Empfang am Schnorchelplatz; Wassersportversicherung; Komplette Schnorchelausrüstung; Professioneller Lehrer; Eine halbe Stunde Theorie; 1 Stunde im Wasser.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 6 Jahren; Du musst schwimmen können.'
 categoria: agua
 keywords:
 - schnorcheln playa chica

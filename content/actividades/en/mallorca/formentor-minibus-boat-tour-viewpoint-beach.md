@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: In high season private car access to Formentor is restricted and the beach car park fills up. The minibus and boat take care of that.
 - pregunta: Does it reach the lighthouse?
   respuesta: 'No: the tour stops at the Es Colomer viewpoint and Formentor beach, and returns by boat. The cape lighthouse is not included.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 48 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup in north Mallorca (depending on option); the boat ends in Port de Pollença. The pickup point depends on the option you choose when booking (several areas of north Mallorca). The minibus goes to the Es Colomer viewpoint and Formentor beach, and you return by boat to Port de Pollença.'
+- pregunta: 'What is included?'
+  respuesta: 'Return panoramic minibus; Local guide; Stop at the Es Colomer viewpoint; Boat from Formentor beach to Port de Pollença; Travel insurance.'
 opinionEditorial: The easiest way to see Formentor in high season, when driving is a problem. The boat leg across the bay is the highlight.
 guiasRelacionadas:
 - what-to-see-in-mallorca

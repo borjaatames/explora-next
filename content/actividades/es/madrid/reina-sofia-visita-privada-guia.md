@@ -46,6 +46,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 5
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Entrada del Museo Reina Sofía, junto a la bandera de España (Calle de Santa Isabel, 52, Madrid), o recogida en tu hotel.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía oficial privado; Entrada al Museo Reina Sofía sin colas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Precio por persona con un mínimo de 2 personas por reserva; Tras reservar recibirás el contacto del guía; indica tu hotel si quieres que te recoja allí; Accesible en silla de ruedas y con carrito.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Transporte.'
 opinionEditorial: 'El Reina Sofía se entiende mucho mejor con alguien que explique el contexto: la Guerra Civil, las vanguardias y por qué el Guernica está allí. Dos horas es la medida justa. Mínimo 2 personas por reserva.'
 atraccionesRelacionadas:
 - reina-sofia

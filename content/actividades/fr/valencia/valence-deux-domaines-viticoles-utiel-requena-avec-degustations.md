@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, en véhicule privé depuis la station Empalme."
 - pregunta: "Les enfants sont-ils admis ?"
   respuesta: "Non, l'activité est réservée aux plus de 18 ans."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Parking devant la station de métro Empalme (lignes 1 et 2), à Burjassot. Départ à 9 h 30 et retour au même endroit.'
 categoria: toursGastronomicos
 keywords:
 - "dégustation vin valence"

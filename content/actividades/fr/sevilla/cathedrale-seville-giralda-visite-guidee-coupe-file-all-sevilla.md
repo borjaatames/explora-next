@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "D'une heure à une heure et demie."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Plaza Virgen de los Reyes 4, au drapeau rouge."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Visite guidée de la cathédrale; Billet coupe-file; Accès à la Giralda.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - cathedrale-de-seville-giralda-billets-epuises

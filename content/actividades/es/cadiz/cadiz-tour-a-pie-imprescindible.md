@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Sí, hay opción de grupo privado; el precio cambia según el número de personas.
 - pregunta: ¿Entramos en la catedral?
   respuesta: No. El recorrido pasa por la catedral, pero la entrada no está incluida.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de San Juan de Dios, junto al Ayuntamiento (Cádiz). La ficha de GetYourGuide da como dirección la plaza de las Tortugas y en el texto cita el Ayuntamiento, en la plaza de San Juan de Dios: comprueba el punto exacto en tu confirmación.'
 opinionEditorial: Un recorrido clásico y bien valorado para ubicarte en Cádiz el primer día. Su punto fuerte es que puedes hacerlo en tu idioma y, si viajáis en familia, en privado.
 atraccionesRelacionadas:
 - casco-antiguo

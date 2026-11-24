@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Não. Depois de levantada, a pulseira não tem data de validade, por isso pode dividir os monumentos por dois dias se dormir em Toledo.
 - pregunta: Inclui a Catedral?
   respuesta: 'Não. A Catedral tem bilhete próprio (cerca de 12 €) e vale a pena por si só. Um plano sensato para um dia: Catedral de manhã, pulseira à tarde.'
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Troca da pulseira em qualquer um dos 7 monumentos, Toledo. Mostre o voucher no telemóvel na bilheteira de qualquer um dos 7 monumentos e recebe a pulseira. O começo mais fácil é San Ildefonso (Jesuítas): suba à torre e depois siga para Santo Tomé e San Juan de los Reyes.'
 opinionEditorial: O truque mais bem guardado de Toledo. Sete monumentos, incluindo a obra-prima de El Greco e o claustro mais bonito da cidade, pelo preço de um prato do dia. Se visita Toledo por conta própria a partir de Madrid, compre-a antes de partir.
 guiasRelacionadas:
 - toledo-desde-madrid-num-dia

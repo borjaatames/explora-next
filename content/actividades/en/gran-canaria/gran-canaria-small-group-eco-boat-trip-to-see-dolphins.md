@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pasito Blanco harbour, Ribera pontoon, berth R04. Meet at 09:15, departure 09:30.'
+- pregunta: 'What is included?'
+  respuesta: '3-hour dolphin watching tour; Skipper and marine biologist; Hybrid boat with electric motors; Water, organic drinks, WeWhale beer, fresh fruit and nuts.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people prone to seasickness; Children under 3 go free.'
 categoria: agua
 keywords:
 - eco dolphin trip gran canaria

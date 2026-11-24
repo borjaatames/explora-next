@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado gratis del centro de buceo al punto de inmersión; Explicación de lo básico; Una inmersión de 40 minutos a 1 hora; Equipo de buceo; Botella llena; Seguro de buceo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 10 años; No apto para embarazadas ni personas con problemas cardiacos; No apto para personas con asma o problemas respiratorios.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '3 horas.'
 categoria: agua
 keywords:
 - bautismo de buceo tenerife

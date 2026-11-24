@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Show mit Cocktail und Abendessen auf der Dachterrasse."
 - pregunta: "Gibt es Transport?"
   respuesta: "Nein, Hotelabholung ist nicht inbegriffen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tablao Flamenco Las Setas, nahe der Plaza de la Encarnación (Setas de Sevilla); die genaue Adresse steht in der Bestätigung.'
 categoria: espectaculos
 guiasRelacionadas:
 - flamenco-sevilla-welches-tablao-waehlen

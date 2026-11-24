@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: La barca ha tutte le licenze per l'attività commerciale e porta fino a 8 passeggeri su sedili individuali, con uno skipper professionista e simpatico che racconta la città.
 - pregunta: C'è un'età minima o qualche limitazione?
   respuesta: L'età minima è 12 anni. È sconsigliato a chi ha problemi alla schiena o al cuore e alle donne in gravidanza, perché è un giro ad alta velocità.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Marina Vela, Port Vell, Barcellona.'
 opinionEditorial: 'Per chi vuole qualcosa di più movimentato di una barca a vela: mezz''ora nel Port Vell tra superyacht e basi della America''s Cup, poi mezz''ora in velocità lungo la costa. Breve, intenso e molto divertente.'
 atraccionesRelacionadas:
 - barco

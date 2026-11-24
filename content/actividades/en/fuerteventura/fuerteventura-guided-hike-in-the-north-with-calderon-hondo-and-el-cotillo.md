@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Expert geology guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Easy hiking level; Not suitable for children under 8 or people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Museum.'
 categoria: aventura
 keywords:
 - hiking tour fuerteventura

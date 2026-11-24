@@ -56,6 +56,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Jet Ski Puerto Colón, C.C. Puerto Colón, local 128, Av. de Colón (Costa Adeje).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Safari en jet-ski d''une heure; Briefing de sécurité et instructions; Gilet et équipement de sécurité; Guide sauveteur professionnel; Vestiaires et casiers; Toilettes.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Arrivez au moins 30 minutes avant; Savoir nager un minimum; Déconseillé aux moins de 7 ans, aux femmes enceintes et en cas de problèmes de dos.'
 categoria: agua
 keywords:
 - safari jet ski tenerife

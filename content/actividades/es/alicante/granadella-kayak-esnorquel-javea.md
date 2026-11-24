@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Sí, desde 4 años y acompañados de un adulto en el mismo kayak.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Playa de la Granadella, Jávea. A unos 20 minutos en coche del centro de Jávea. En verano el acceso a la cala se regula: consulta cómo llegar al reservar.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Kayak y remo; Chaleco salvavidas; Equipo de esnórquel; Guía.'
 opinionEditorial: 'Una de las mejores mañanas de mar de la Costa Blanca: acantilados, cuevas y agua transparente. Merece el viaje desde Alicante.'
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante

@@ -54,6 +54,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 6
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Base de Aerodifusión en Segovia (carretera, 40002 Segovia). Opción de recogida en Madrid, en el Hotel Riu Plaza España (Gran Vía).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Vuelo en globo de 1 hora; Desayuno con cava; Certificado de vuelo; Reportaje de fotos de recuerdo; Traslados en 4x4 entre el aterrizaje, el desayuno y la zona de despegue; Seguro de la actividad según la normativa europea EASA.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Precio por persona; Edad mínima 6 años; los menores deben ir acompañados de un adulto; Los horarios son aproximados y pueden cambiar por la meteorología y por límites de peso.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y regreso a Madrid (opcional, 40 € por persona).'
 opinionEditorial: 'Ver Segovia desde un globo es de esas experiencias que se recuerdan: el Acueducto, la Catedral y el Alcázar caben en una sola mirada. No es barato, pero incluye desayuno, fotos y certificado, y la empresa lleva años volando en la zona. Si no tienes coche, merece la pena añadir la recogida en Madrid.'
 atraccionesRelacionadas:
 - segovia

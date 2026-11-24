@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Sercotel Parque, Calle Muelle Las Palmas 2, Las Palmas de Gran Canaria. Arrange the time on WhatsApp.'
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off in the old town; Taxi or minibus transport; Free garden entry; Personal guide in a very small group; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility; Optional hotel pick-up (€20) or from the port (€25).'
 categoria: excursionesDia
 keywords:
 - botanical garden tour las palmas

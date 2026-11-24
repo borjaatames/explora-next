@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Passeig de Lluís Companys 10, près de l'Arc de Triomf."
 - pregunta: "Faut-il de l'expérience ?"
   respuesta: "Non, il y a une initiation avant."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Segway i2; Guide; Initiation; Casque et équipement de sécurité; Assurance.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

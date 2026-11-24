@@ -49,6 +49,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung (100 % Gebühr bei kurzfristigerer Stornierung).
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vor Beginn, mit voller Rückerstattung (100 % Gebühr bei kurzfristigerer Stornierung).'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Plaza de la Villa, 28005 Madrid, Spanien.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt; Privater Transport im Tuk-Tuk für die ganze Route.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 3 Jahre; Babys können nicht auf dem Arm mitfahren; Kindersitze auf Anfrage; Nicht rollstuhlgerecht.'
 opinionEditorial: 'Mit dem Tuk-Tuk siehst du in kurzer Zeit viel von Madrid, aber es ist keine Stadtführung zu Fuß: Erwarte keine langen Stopps oder ausführlichen Erklärungen an jedem Ort. Es passt gut, wenn ihr als Gruppe reist und die Kosten teilen wollt oder wenn jemand nicht lange laufen kann, aber keinen Rollstuhl nutzt.'
 atraccionesRelacionadas:
 - tuk-tuk

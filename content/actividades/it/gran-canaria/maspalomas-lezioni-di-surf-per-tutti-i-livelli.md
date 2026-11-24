@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tavola da surf; Muta; Acqua e frutta; Assicurazione infortuni e RC.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo in hotel; Trasporto.'
 categoria: agua
 keywords:
 - lezione di surf maspalomas

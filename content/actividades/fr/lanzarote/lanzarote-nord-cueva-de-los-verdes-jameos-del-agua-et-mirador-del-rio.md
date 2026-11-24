@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, il est proposé en option pour environ 18 €."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge dans les zones touristiques ; lieu et heure sur la confirmation.'
 categoria: excursionesDia
 keywords:
 - "cueva de los verdes excursion"

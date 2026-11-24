@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "No, la si costeggia dal mare."
 - pregunta: "Serve la patente nautica?"
   respuesta: "No, l'uscita è guidata e aperta ai principianti."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle La Ballena, 10, a Corralejo, vicino al porto.'
 categoria: agua
 keywords:
 - "moto d'acqua corralejo"

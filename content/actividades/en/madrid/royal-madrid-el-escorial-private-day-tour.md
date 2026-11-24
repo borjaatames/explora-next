@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Pickup at your hotel or accommodation in Madrid; the guide waits for you at reception wearing an ID badge.'
+- pregunta: 'What is included?'
+  respuesta: 'Private transport; Private guide; Tickets to the monuments on the itinerary.'
 atraccionesRelacionadas:
 - escorial
 - palacio-real

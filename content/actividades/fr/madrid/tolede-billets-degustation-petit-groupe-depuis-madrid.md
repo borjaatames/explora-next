@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: 'Le guide parle anglais, espagnol et italien. Les explications en allemand, portugais et français se font par audio ou par une application de traduction.'
 - pregunta: 'Puis-je annuler ?'
   respuesta: 'Oui. L''annulation est gratuite jusqu''à 24 heures avant le début, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Musée naval, Paseo del Prado, 3, Madrid.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Transport en Mercedes climatisée; Accompagnateur pendant toute l''excursion; Billets des monuments; Dégustation ibérique; Taxes.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

@@ -56,6 +56,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Jet Ski Puerto Colón, C.C. Puerto Colón, local 128, Av. de Colón (Costa Adeje).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Safari en moto de agua de una hora; Charla de seguridad e instrucciones; Chaleco salvavidas y equipo de seguridad; Guía socorrista profesional; Vestuarios y taquillas; Aseos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Llega al menos 30 minutos antes; Hay que saber nadar un poco; No apto para menores de 7 años, embarazadas ni con problemas de espalda.'
 categoria: agua
 keywords:
 - safari moto de agua tenerife

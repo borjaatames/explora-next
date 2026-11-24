@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: En temporada alta el acceso en coche particular a Formentor está restringido y el aparcamiento de la playa se llena. Con el minibús y el barco te olvidas de eso.
 - pregunta: ¿Se llega al faro?
   respuesta: 'No: la excursión para en el mirador Es Colomer y en la playa de Formentor, y vuelve en barco. El faro del cabo no está incluido.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 48 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en el norte de Mallorca (según la opción); el barco llega a Port de Pollença. El punto de recogida depende de la opción que elijas al reservar (varias zonas del norte de Mallorca). El minibús va al mirador Es Colomer y a la playa de Formentor, y la vuelta se hace en barco hasta Port de Pollença.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Minibús panorámico de ida y vuelta; Guía local; Parada en el mirador Es Colomer; Barco de la playa de Formentor a Port de Pollença; Seguro de viaje.'
 opinionEditorial: La manera más cómoda de ver Formentor en temporada alta, cuando el coche es un problema. El tramo en barco por la bahía es lo mejor.
 guiasRelacionadas:
 - que-ver-en-mallorca

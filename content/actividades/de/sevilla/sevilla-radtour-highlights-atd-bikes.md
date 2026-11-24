@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Im Laden ATD Bikes, Calle Alcalde Isacio Contreras 1."
 - pregunta: "Was passiert bei Regen?"
   respuesta: "Man kann den Termin ändern."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Laden ATD Bikes, Calle Alcalde Isacio Contreras 1, 41003 Sevilla (Fußgängerstraße).'
 categoria: toursCiudad
 guiasRelacionadas:
 - sevilla-in-einem-tag

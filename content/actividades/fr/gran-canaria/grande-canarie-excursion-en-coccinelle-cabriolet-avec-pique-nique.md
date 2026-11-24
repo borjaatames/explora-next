@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, un pique-nique canarien est inclus."
 - pregunta: "Y a-t-il une prise en charge ?"
   respuesta: "Oui, dans les stations du sud de l'île."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Buggy Pirates Outdoor Center, Calle Puntarenas 16, El Tablero. Prise en charge à Bahía Feliz, San Agustín, Playa del Inglés, Maspalomas et alentours. Départ à 8 h.'
 categoria: aventura
 keywords:
 - "coccinelle cabriolet grande canarie"

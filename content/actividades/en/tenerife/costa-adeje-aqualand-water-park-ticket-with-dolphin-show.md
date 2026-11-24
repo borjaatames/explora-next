@@ -47,6 +47,14 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Main ticket office of Aqualand, Avenida Austria 15, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Park entry and all water rides; Dolphin show; Parking.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Opening hours: 10:00–18:00 in July and August, 10:00–17:00 the rest of the year; Last entry at 16:00.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off.'
 categoria: parques
 keywords:
 - aqualand tenerife tickets

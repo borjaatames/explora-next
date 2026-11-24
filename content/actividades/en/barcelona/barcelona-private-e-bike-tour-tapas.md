@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'Not really: it''s an e-bike and your group sets the pace.'
 - pregunta: Can I cancel?
   respuesta: Yes, free up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaça del Teatre, La Rambla, Barcelona.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Licensed guide; E-bike and helmet; Tapas tasting.'
 opinionEditorial: An e-bike covers in a morning what would take a day on foot, and going private means stopping wherever you like. The tapas make a great finish.
 atraccionesRelacionadas:
 - gotico

@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Yes, you can add one as an extra when booking.
 - pregunta: Can I keep the bike afterwards?
   respuesta: Yes, with the rental-until-end-of-day extra, leaving a €50 deposit and an ID document.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Doyoubike, Carrer de la Sang, 9 (46002 Valencia). The shop is one minute from Plaza del Ayuntamiento, next to Calle San Vicente. Arrive 10 minutes early to have your bike adjusted.'
 opinionEditorial: 'A bike is the best way to see Valencia, a flat city with the Turia as its great green highway. In three hours you link the old town with the City of Arts and Sciences, something that would take all day on foot. A very good option for your first day.'
 atraccionesRelacionadas:
 - ciudad-artes

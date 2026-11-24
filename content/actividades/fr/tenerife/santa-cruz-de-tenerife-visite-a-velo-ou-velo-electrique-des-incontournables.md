@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, allemand, italien, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Visite à vélo avec guide local; Vélo classique ou électrique au choix; Arrêts photo; Conseils locaux; Histoire et monuments racontés.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Savoir faire du vélo est obligatoire; Enfants de moins de 6 ans (20 kg, 140 cm max.) gratuits en siège enfant.'
 categoria: aventura
 keywords:
 - visite vélo santa cruz de tenerife

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Boat Celia Cruz, Corralejo harbour (Calle Arena 9).'
+- pregunta: 'What is included?'
+  respuesta: 'Catamaran trip with guide; Lunch; Unlimited drinks; Snorkelling gear; Paddleboard and floats; Landing on Lobos Island.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up available in the north of the island if you choose the option.'
 categoria: agua
 keywords:
 - catamaran lobos island

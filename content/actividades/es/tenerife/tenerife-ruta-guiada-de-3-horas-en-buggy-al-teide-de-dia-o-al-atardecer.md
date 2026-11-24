@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, francés, italiano, rumano, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Quadhub / Tenerife Quads, Paseo de la Libertad 2, Chío.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Ruta guiada en buggy por carretera de 3 horas; Guía profesional; Charla de seguridad; Chaqueta térmica y guantes; Paradas en miradores; Tentempié y bebida en la última parada.'
 categoria: aventura
 keywords:
 - buggy teide atardecer

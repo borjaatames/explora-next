@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Ja, sie können bei der Buchung als Extra hinzugefügt werden.
 - pregunta: Kann ich das Fahrrad danach behalten?
   respuesta: Ja, mit dem Extra für die Miete bis zum Ende des Tages, gegen eine Kaution von 50 € und ein Ausweisdokument.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Doyoubike, Carrer de la Sang, 9 (46002 Valencia). Der Laden liegt eine Minute von der Plaza del Ayuntamiento entfernt, neben der Calle San Vicente. Kommen Sie 10 Minuten früher, um das Fahrrad einzustellen.'
 opinionEditorial: 'Das Fahrrad ist die beste Art, Valencia zu sehen, eine flache Stadt mit dem Turia als großer grüner Schnellstraße. In drei Stunden verbinden Sie die Altstadt mit der Ciudad de las Artes, wofür Sie zu Fuß den ganzen Tag bräuchten. Eine sehr gute Wahl für den ersten Tag.'
 atraccionesRelacionadas:
 - ciudad-artes

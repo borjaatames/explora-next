@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, francés, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso en puntos fijos de toda Tenerife; Guía oficial acreditado por el Gobierno de Canarias; Guía multilingüe: español, inglés, alemán, francés (según disponibilidad); Autocar con aire acondicionado; Grupo de máximo 35.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Se pasa bastante tiempo en carretera entre paradas; No recomendable para personas con movilidad reducida; No disponible para pasajeros de cruceros.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo y bebidas (opcional, se paga aparte).'
 categoria: excursionesDia
 keywords:
 - excursion por tenerife

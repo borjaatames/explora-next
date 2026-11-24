@@ -47,6 +47,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Camel Safari Park La Baranda, route de Fataga km 12.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Balade de 30 minutes; Entrée au parc avec animaux et jardin.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux femmes enceintes; 120 kg maximum.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Boissons; Nourriture pour les animaux.'
 categoria: aventura
 keywords:
 - dromadaire gran canaria

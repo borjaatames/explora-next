@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Au Palau de la Música Catalana."
 - pregunta: "Y a-t-il de la danse ?"
   respuesta: "Oui, du flamenco avec guitare et percussion."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Palau de la Música Catalana, carrer Palau de la Música 4-6. Échangez le bon mobile contre des billets au guichet avant d''entrer.'
 categoria: espectaculos
 guiasRelacionadas:
 - palau-de-la-musica-catalana-billets-epuises

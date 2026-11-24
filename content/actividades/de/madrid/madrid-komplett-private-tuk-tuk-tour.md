@@ -53,6 +53,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Laut Anbieter ist die Buchung nicht erstattungsfähig, prüfe also Datum und Uhrzeit genau, bevor du bezahlst.
+preguntasFrecuentes:
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Laut Anbieter ist die Buchung nicht erstattungsfähig, prüfe also Datum und Uhrzeit genau, bevor du bezahlst.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Plaza de Cánovas del Castillo (Neptunbrunnen), gegenüber dem Museum Thyssen-Bornemisza, 28014 Madrid, Spanien.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; Kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; Kindersitzerhöhung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen; Mindestalter 3 Jahre; Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
 opinionEditorial: Die Tour kombiniert die beiden kurzen Routen von Tuk Tuk Zero in einer. Wenn du wenig Zeit hast und sowohl das Madrid der Habsburger als auch das Bernabéu und das Viertel Salamanca sehen willst, ist das die richtige Wahl. Für nur einen Bereich ist die kürzere Altstadt-Route günstiger. Die Buchung ist nicht erstattungsfähig.
 atraccionesRelacionadas:
 - bernabeu

@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Passeggiata a cavallo; Istruttore; Casco e guanti.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Peso massimo 85 kg; Non adatto a bambini sotto i 5 anni; Non adatto a donne in gravidanza.'
 categoria: aventura
 keywords:
 - passeggiata a cavallo tenerife nord

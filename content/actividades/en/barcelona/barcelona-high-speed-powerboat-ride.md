@@ -61,6 +61,10 @@ preguntasFrecuentes:
   respuesta: The boat is fully licensed for commercial activities and carries up to 8 passengers in individual seats, with a professional, fun skipper who tells you about the city.
 - pregunta: Is there a minimum age or any restrictions?
   respuesta: Minimum age is 12. It is not recommended for people with back problems or heart conditions, or for pregnant travellers, as it is a high-speed ride.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Marina Vela, Port Vell, Barcelona.'
 opinionEditorial: 'For those who want something livelier than a sailboat: half an hour around Port Vell among superyachts and the America''s Cup bases, then half an hour at speed along the coast. Short, intense and great fun.'
 atraccionesRelacionadas:
 - barco

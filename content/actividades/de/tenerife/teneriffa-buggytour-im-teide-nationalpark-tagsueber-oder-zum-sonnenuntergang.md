@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Französisch, Italienisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'La Camella (Arona); genauer Treffpunkt und Parkplatz nach der Buchung.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Professioneller Guide; Kostenlose Abholung und Rücktransfer (Süden Teneriffas); Kostenloser Parkplatz am Treffpunkt; Zweisitzer-Buggy; Fahreinweisung und Sicherheitsinfo; Basisversicherung.'
 categoria: aventura
 keywords:
 - buggy tour teide

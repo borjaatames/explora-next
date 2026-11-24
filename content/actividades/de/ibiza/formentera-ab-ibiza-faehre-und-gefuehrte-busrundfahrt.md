@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Sie ist optional und nur in ausgewählten Zonen möglich; man kann auch direkt zum Hafen kommen."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem; die Sprache wählt man bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Ibiza oder Hotelabholung in ausgewählten Zonen; der genaue Ort wird bei der Buchung angegeben.'
 categoria: excursionesDia
 keywords:
 - "formentera ausflug ab ibiza"

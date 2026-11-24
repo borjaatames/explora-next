@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Ja, laut Anbieter kostenlos."
 - pregunta: "Lohnt es sich auch ohne Interesse an Autos?"
   respuesta: "Ja, die Modesammlung und die Präsentation sind sehr sehenswert."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Museo Automovilístico y de la Moda, Avenida Sor Teresa Prat 15, Málaga (Gebäude La Tabacalera).'
 categoria: entradas
 guiasRelacionadas:
 - malaga-in-zwei-tagen

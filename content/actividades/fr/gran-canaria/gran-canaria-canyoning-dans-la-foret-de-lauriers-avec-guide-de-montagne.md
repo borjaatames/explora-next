@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide de montagne certifié AEGM/UIMLA; Prise en charge et retour à l''hôtel; Équipement de canyoning; Photo souvenir.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Environ 2 km de marche en pente raide jusqu''au ravin : bonne condition physique et chaussures solides et imperméables; Déconseillé aux moins de 12 ans, aux plus de 80 ans, aux femmes enceintes et aux personnes sujettes au vertige.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Repas et boissons; Chaussures imperméables.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

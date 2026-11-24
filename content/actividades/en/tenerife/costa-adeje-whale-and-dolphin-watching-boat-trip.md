@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks French, Spanish, English, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Guide and skipper; Boat; Free drink (beer, water or soft drink); Fuel; Port fees.'
+- pregunta: 'How long does it last?'
+  respuesta: '2 hours.'
 categoria: agua
 keywords:
 - whale watching costa adeje

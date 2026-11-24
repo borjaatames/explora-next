@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: Non. Le catamaran mouille au large des plages ; on se baigne depuis le bateau et on a du temps libre à Caleta de Sebo.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Ferry aller-retour vers La Graciosa; Sortie en catamaran; Coupe de cava, bière, vin et sodas à volonté; En-cas et déjeuner (pâtes); Kayaks et équipement de snorkeling.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Le prestataire confirme l''heure et le lieu de prise en charge après la réservation; On se déchausse à bord du catamaran; Non accessible en fauteuil roulant.'
 categoria: agua
 keywords:
 - la graciosa catamaran

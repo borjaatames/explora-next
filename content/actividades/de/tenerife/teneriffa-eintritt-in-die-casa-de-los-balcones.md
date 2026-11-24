@@ -44,6 +44,14 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Casa de los Balcones, Calle San Francisco 3, La Orotava.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintrittskarte; Audioguide zum Herunterladen auf Französisch, Englisch, Spanisch und Deutsch.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Für den Audioguide brauchst du dein Handy und Kopfhörer; Nicht rollstuhlgerecht.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '1 Stunde.'
 categoria: entradas
 keywords:
 - casa de los balcones tickets

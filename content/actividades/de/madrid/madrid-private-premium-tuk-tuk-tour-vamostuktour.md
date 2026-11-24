@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Von 30 Minuten bis zu mehreren Stunden, je nach Option."
 - pregunta: "Ist sie barrierefrei?"
   respuesta: "Ja, auch für Menschen mit eingeschränkter Mobilität."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option; der Treffpunkt steht in der Buchungsbestätigung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-an-einem-tag

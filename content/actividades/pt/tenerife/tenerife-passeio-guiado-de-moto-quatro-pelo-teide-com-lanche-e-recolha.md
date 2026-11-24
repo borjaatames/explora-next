@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Moto quatro e equipamento de proteção; Guia; Refrescos; Recolha.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Fotos; Caução ou seguro extra.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '3 horas.'
 categoria: aventura
 keywords:
 - passeio guiado de moto quatro teide

@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Both trips access the same cetacean habitat. The key difference is the departure point — this trip leaves from Costa Adeje in the south, making it more convenient for the main south Tenerife resorts. The Los Gigantes trip leaves from the west coast and adds the dramatic cliffs as a backdrop.
 - pregunta: Is there a swimming stop?
   respuesta: Most departures include a swimming stop in calm, clear Atlantic waters. This is weather and sea-condition dependent. Confirm with the operator on booking.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto Colón or Puerto de Los Cristianos, Costa Adeje, Tenerife. Costa Adeje is the main resort area in south Tenerife. Exact departure port (Puerto Colón in Las Américas or Los Cristianos) is confirmed on your voucher. Both ports are well served by local buses from the south resort area.'
+- pregunta: 'What is included?'
+  respuesta: '3-hour catamaran trip; Whale and dolphin watching; Swimming stop (conditions permitting).'
 opinionEditorial: The south Tenerife option for whale watching. Convenient if you're staying in Los Cristianos or Las Américas, with the same excellent pilot whale sighting rates as the Los Gigantes route.
 guiasRelacionadas:
 - whale-watching-tenerife

@@ -66,6 +66,12 @@ preguntasFrecuentes:
   respuesta: Typically includes local tapas, fresh grilled fish, salads, bread, and soft drinks. The exact menu varies by operator — confirm when booking if you have dietary requirements.
 - pregunta: Why is this more expensive than other whale watching trips?
   respuesta: The longer duration (5–6 hours vs 2–3 hours), included buffet lunch, and premium catamaran explain the higher price. It is consistently rated the best whale watching experience in Tenerife, and the included meal makes it comparable in cost to a shorter trip plus lunch separately.
+- pregunta: 'Is transport to the port included?'
+  respuesta: 'No. You make your own way to the port in the south of Tenerife. The exact departure port is confirmed on your booking voucher.'
+- pregunta: 'Can I cancel for free?'
+  respuesta: 'Yes, up to 24 hours before the trip.'
+- pregunta: 'Is it a good choice if I get seasick?'
+  respuesta: 'It is 5 to 6 hours on open water, so it is not recommended for people prone to motion sickness on full-day sea trips. A shorter 2-3 hour trip is a safer bet.'
 opinionEditorial: If you are going to do whale watching in Tenerife, do it properly. The full day, the buffet, and the extra time on the water add up to the best version of this experience. Rated higher than any other whale watching tour on the island.
 guiasRelacionadas:
 - whale-watching-tenerife

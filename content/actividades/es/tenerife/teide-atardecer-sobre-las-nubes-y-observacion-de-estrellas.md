@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, alemán, italiano, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guías profesionales acreditados; Atardecer y observación de estrellas guiados; Transporte desde puntos de encuentro seleccionados (según la opción); Recorrido por las constelaciones con láser verde; Telescopios profesionales (opción con telescopio); Pícnic al atardecer (opción de pícnic en grupo reducido).'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Lleva ropa de abrigo: por la noche hace frío; El regreso es al mismo punto de encuentro; No apto para embarazadas, personas con problemas de espalda ni usuarios de silla de ruedas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Cena, salvo si va incluida en tu opción; Fotos profesionales; Ropa de abrigo o mantas.'
 categoria: nocturno
 keywords:
 - atardecer teide

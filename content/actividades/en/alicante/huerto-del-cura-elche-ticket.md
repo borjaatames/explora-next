@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: One hour.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Huerto del Cura, Carrer Porta de la Morera 49, Elche. From Alicante, C1 commuter train or bus to Elche (about 30 minutes), then a 15-minute walk.'
+- pregunta: 'What is included?'
+  respuesta: 'Entry to the Huerto del Cura.'
 opinionEditorial: An oasis half an hour from Alicante for €7. Pair it with a walk through the Palm Grove and the Basilica of Santa María for a perfect half day.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

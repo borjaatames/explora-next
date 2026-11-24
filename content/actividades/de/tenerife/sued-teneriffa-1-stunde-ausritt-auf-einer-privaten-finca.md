@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ausritt mit professionellen Reitlehrern; Komplette Ausrüstung; Ponyreiten in geschlossener Bahn für Kinder unter 7.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Schwangere; Höchstens 10 Personen pro Ausritt.'
 categoria: aventura
 keywords:
 - reiten süd teneriffa

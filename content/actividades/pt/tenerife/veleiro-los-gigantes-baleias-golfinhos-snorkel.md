@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: No veleiro vão dez pessoas no máximo, com comida caseira e bebida incluídas e tempo para tomar banho. Os catamarãs levam muitos mais passageiros.
 - pregunta: Posso enjoar?
   respuesta: O veleiro é estável, mas se costuma enjoar tome algo antes de embarcar.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Third Element Charters, Calle Poblado Marinero, 20, Los Gigantes (38683 Santiago del Teide). O escritório fica na marina de Los Gigantes. Há estacionamento público junto ao porto. Chegue 15 minutos antes da saída.'
 opinionEditorial: 'A saída de observação mais bem avaliada de Tenerife, e nota-se: grupo pequeno, bom atendimento, comida e bebida incluídas e um banho sob as falésias. Custa mais do que um catamarã, mas a experiência é muito mais tranquila.'
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

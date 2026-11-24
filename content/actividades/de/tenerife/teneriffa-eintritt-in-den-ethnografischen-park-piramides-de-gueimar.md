@@ -41,6 +41,12 @@ politicaCancelacion: Kostenlose Stornierung bis 1 Tag vorher, mit voller Rücker
 preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Pyramiden; Museum; Botanischer Garten; Giftpflanzengarten (Premium-Option); Polynesien-Ausstellung (Premium-Option).'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke; Abholung und Rücktransfer.'
+- pregunta: 'Wie lange dauert es?'
+  respuesta: '2 Stunden.'
 categoria: entradas
 keywords:
 - pyramiden von güímar tickets

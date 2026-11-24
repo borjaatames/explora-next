@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, ils se voient de l'extérieur."
 - pregunta: "À quelle heure part-on ?"
   respuesta: "À 10 h et à 14 h."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Boutique Rent a Bike Sevilla, Plaza de Santa Cruz, 4.'
 categoria: toursCiudad
 keywords:
 - "visite séville à vélo"

@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Food and 2 free drinks.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Pick-up included in the south of the island.'
+- pregunta: 'How long does it last?'
+  respuesta: '3 hours.'
 categoria: agua
 keywords:
 - whale watching luxury boat tenerife

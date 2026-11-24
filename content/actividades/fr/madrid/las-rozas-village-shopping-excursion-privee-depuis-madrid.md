@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Environ 6 heures au total, trajet compris.
 - pregunta: Est-ce une visite guidée ?
   respuesta: 'Non : le chauffeur vous emmène, vous attend et vous ramène.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant. Aucun remboursement ensuite.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hôtel ou logement à Madrid.'
 categoria: excursionesDia
 privada: true
 precioPorGrupo: true

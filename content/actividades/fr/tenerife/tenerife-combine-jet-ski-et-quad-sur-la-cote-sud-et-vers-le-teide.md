@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. L''horaire réservé concerne le quad ; fixez le jet-ski sur WhatsApp.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Gilet de sauvetage; Lunettes; Guide; Boissons; Douche et toilettes; Casiers.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Caution en espèces : 50 € par jet-ski et 100 € par quad; Transferts entre les activités.'
 categoria: aventura
 keywords:
 - jet ski et quad tenerife

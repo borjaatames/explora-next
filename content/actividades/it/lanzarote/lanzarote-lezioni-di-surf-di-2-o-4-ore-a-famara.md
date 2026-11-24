@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'ZooPark Famara Surf, SUP & Kite School, Avenida El Marinero 5, Caleta de Famara.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Tutta l''attrezzatura: tavola, leash, muta e lycra.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande; Docce.'
 categoria: agua
 keywords:
 - lezioni di surf famara

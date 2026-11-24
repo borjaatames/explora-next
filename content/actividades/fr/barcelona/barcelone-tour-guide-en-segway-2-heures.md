@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Non, le parcours suit le front de mer et la Ciutadella."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues ; choisissez-la à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Carrer de Rull, 2, dans la Ciutat Vella, près du port.'
 categoria: toursCiudad
 keywords:
 - "segway barcelone"

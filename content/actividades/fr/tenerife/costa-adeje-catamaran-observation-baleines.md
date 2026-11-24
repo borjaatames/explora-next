@@ -65,6 +65,12 @@ preguntasFrecuentes:
   respuesta: Les deux sorties vont dans le même habitat de cétacés. La différence principale est le point de départ ; celle-ci part de Costa Adeje, dans le sud, ce qui est plus pratique pour les grandes stations du sud de Tenerife. Celle de Los Gigantes part de la côte ouest et ajoute les falaises spectaculaires en toile de fond.
 - pregunta: Y a-t-il un arrêt baignade ?
   respuesta: La plupart des départs comprennent un arrêt baignade dans les eaux calmes et claires de l'Atlantique. Cela dépend de la météo et de l'état de la mer. Confirmez avec l'opérateur lors de la réservation.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Puerto Colón ou port de Los Cristianos, Costa Adeje, Tenerife. Costa Adeje est la principale zone touristique du sud de Tenerife. Le port de départ exact (Puerto Colón à Las Américas ou Los Cristianos) est confirmé sur votre bon. Les deux ports sont bien desservis par les bus locaux depuis les stations du sud.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en catamaran de 3 heures; Observation des baleines et des dauphins; Arrêt baignade (si les conditions le permettent).'
 opinionEditorial: L'option du sud de Tenerife pour observer les cétacés. Pratique si vous logez à Los Cristianos ou à Las Américas, avec le même excellent taux d'observation des globicéphales que l'itinéraire de Los Gigantes.
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

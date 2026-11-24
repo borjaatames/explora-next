@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Il più antico albero drago conosciuto della sua specie, monumento nazionale."
 - pregunta: "Si può combinare?"
   respuesta: "Sì, con Garachico sulla costa nord."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ingresso principale del Parque del Drago a Icod de los Vinos; mostrate il voucher.'
 categoria: entradas
 guiasRelacionadas:
 - cosa-vedere-a-tenerife

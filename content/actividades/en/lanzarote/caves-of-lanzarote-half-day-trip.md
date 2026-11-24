@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks German, English, Spanish, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off; Air-conditioned coach; Guide; Entry to Jameos del Agua and Cueva de los Verdes; Aloe Vera Museum; Travel insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch.'
 categoria: excursionesDia
 keywords:
 - jameos del agua cueva de los verdes tour

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Avenida Rafael Puig Lluvina 32, unit 61, Playa de las Américas (Arona).'
+- pregunta: 'What is included?'
+  respuesta: 'Professional surf instructor; Theory and practice in the water; Foam board; Wetsuit; Reef booties; Accident insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Group lessons from 14; under 14 private lessons only; Not suitable for pregnant women; Must be able to swim.'
 categoria: agua
 keywords:
 - rocky point surf

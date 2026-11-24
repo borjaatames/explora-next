@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "An Tor 2 (Puerta 2)."
 - pregunta: "Kann man stornieren?"
   respuesta: "Laut Anbieter ist das Ticket nicht erstattbar."
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Estadio Ramón Sánchez-Pizjuán, Eingang über Tor 2 (Puerta 2), Stadtteil Nervión.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt ins Museum und Stadion; Audioguide-App.'
 categoria: entradas
 guiasRelacionadas:
 - sevilla-mit-kindern

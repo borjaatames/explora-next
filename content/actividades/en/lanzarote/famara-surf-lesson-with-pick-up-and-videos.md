@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off (Puerto del Carmen area to Famara); Certified instructors; Small groups; Wetsuit and board; Water and fruit; Photos and videos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 10.'
+- pregunta: 'What is not included?'
+  respuesta: 'Pick-up in Arrecife, Playa Honda, Puerto Calero and Costa Teguise: €15 extra, paid to the driver; Tips.'
 categoria: agua
 keywords:
 - surf lesson famara

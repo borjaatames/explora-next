@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Los Gigantes ofrece el añadido de los acantilados pero está más al norte y hay que desplazarse. Costa Adeje es más cómodo para quien se aloja en el sur (Playa de las Américas, Los Cristianos, Adeje). Las especies son similares.
 - pregunta: ¿Se puede nadar en el Atlántico sin peligro?
   respuesta: Sí. La parada de baño se hace en aguas tranquilas y el operador indica zonas seguras. Las aguas del sur de Tenerife son cálidas y claras en verano (22-24 °C).
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto Colón, Costa Adeje, Tenerife Sur. Puerto Colón está en Adeje, en la costa sur de la isla, muy cerca de Playa de Fañabé. Confirma el muelle exacto con el operador al recibir la confirmación. Llega 20 minutos antes de la salida.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Excursión en catamarán (≈2 horas); Guía naturalista; Parada para bañarse.'
 opinionEditorial: La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife

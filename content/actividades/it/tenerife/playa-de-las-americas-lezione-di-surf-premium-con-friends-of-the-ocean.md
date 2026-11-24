@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Lezione di surf di 2 ore (teoria e pratica); Tutta l''attrezzatura: tavola, muta, calzari e assicurazione; Docce, armadietti, caffè e acqua gratis; 1 ora extra di attrezzatura gratis.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Lezioni per tutti i livelli e le età; Gli istruttori parlano spagnolo, inglese, francese, tedesco e russo.'
 categoria: agua
 keywords:
 - lezione di surf playa de las americas

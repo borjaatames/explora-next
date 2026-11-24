@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'PADI-zertifizierter Lehrer (max. 3 Taucher); Komplette Tauchausrüstung; 2 Tauchgänge von 50 Minuten; Versicherung; Professionelle Fotos und Video beider Tauchgänge; Digitales Teilnahmezertifikat.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere, Menschen mit Herzproblemen oder Epilepsie; Du musst die Sicherheitseinweisung in der gebuchten Sprache vollständig verstehen.'
 categoria: agua
 keywords:
 - tauchen playa chica

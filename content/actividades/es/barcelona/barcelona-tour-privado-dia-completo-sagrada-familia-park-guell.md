@@ -49,6 +49,10 @@ preguntasFrecuentes:
   respuesta: Sí, la Sagrada Familia y el Park Güell, ambas sin colas.
 - pregunta: ¿Se puede cancelar?
   respuesta: 'No: el proveedor no admite cancelaciones ni cambios una vez reservada.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu alojamiento de Barcelona (indícalo al reservar).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
 opinionEditorial: 'Es la forma más cómoda de ver Barcelona en un solo día: sin colas, sin transporte público y con un guía que ajusta el ritmo. Sale caro para dos, pero para 4 a 6 personas el precio por cabeza baja mucho.'
 atraccionesRelacionadas:
 - sagrada-familia

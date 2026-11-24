@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Los lunes y de miércoles a sábado de 19:00 a 21:00, y los domingos de 12:30 a 14:30 (los martes cierra). También es gratis algunos días señalados, como el 18 de abril, el 18 de mayo, el 12 de octubre y el 6 de diciembre. Son las franjas con más cola.
 - pregunta: ¿Qué diferencia hay con las visitas guiadas del Reina Sofía?
   respuesta: Esta entrada te deja explorar a tu ritmo. Las visitas guiadas incluyen un experto que contextualiza el Guernica y la colección; ideales si quieres profundizar sin estudiar antes.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Museo Reina Sofía, C/ Santa Isabel, 52, 28012 Madrid. Metro Atocha Renfe (L1). Accede directamente con la entrada en el móvil por cualquiera de las puertas del museo.'
 opinionEditorial: El Reina Sofía es el museo más importante de España del siglo XX y el Guernica su obra cumbre. La entrada base te da acceso a toda la colección permanente a un precio razonable. Si no conoces bien el contexto histórico del Guernica, considera una visita guiada; si ya lo conoces, la entrada sola es suficiente para disfrutar a tu ritmo.
 guiasRelacionadas:
 - prado-reina-sofia-thyssen-comparativa

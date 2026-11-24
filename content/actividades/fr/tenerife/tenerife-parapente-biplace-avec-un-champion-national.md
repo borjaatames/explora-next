@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à Costa Adeje, Adeje, Las Américas et Los Cristianos; Casque et équipement de sécurité; 5 photos GoPro; Bouteille d''eau.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'De 6 à 70 ans, jusqu''à 110 kg; Prise en charge à Las Américas et Los Cristianos seulement à 10 h et 12 h; Le vol dépend du vent.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Pack premium photos et vidéos GoPro (40 €); Pack VIP Insta360 (80 €).'
 categoria: aventura
 keywords:
 - parapente tenerife

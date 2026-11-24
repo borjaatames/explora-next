@@ -45,6 +45,14 @@ politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
 preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
+- pregunta: 'What is included?'
+  respuesta: 'Free shuttle bus in the south of the island.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for pregnant women or people with heart problems; Junior options: 2-seater 160cc kart (1 adult + 1 child up to 5) and 120cc Pony Kart.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: aventura
 keywords:
 - karting tenerife

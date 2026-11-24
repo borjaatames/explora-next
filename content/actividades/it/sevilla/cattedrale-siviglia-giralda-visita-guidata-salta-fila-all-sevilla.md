@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Da un'ora a un'ora e mezza."
 - pregunta: "Dove ci si incontra?"
   respuesta: "In Plaza Virgen de los Reyes 4, alla bandiera rossa."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Plaza Virgen de los Reyes 4, accanto alla statua di papa Giovanni Paolo II. Cercate la bandiera rossa.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - cattedrale-siviglia-giralda-biglietti-esauriti

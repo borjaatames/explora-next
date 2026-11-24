@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Ab 10 Jahren in Begleitung."
 - pregunta: "Kann man allein buchen?"
   respuesta: "Nein, es sind mindestens 2 Teilnehmer nötig."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Mar Mediterráneo, Maspalomas (Meloneras).'
 categoria: toursCiudad
 keywords:
 - "segway maspalomas"

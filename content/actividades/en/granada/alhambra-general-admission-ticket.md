@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'You will not be admitted to the palaces and there is no refund. Arrive at the site at least 30 minutes before your slot: it is a 10-15 minute walk from the main entrance to the palaces.'
 - pregunta: Why is it more expensive than the official website?
   respuesta: The official ticket costs about €22. This option includes the booking service and, above all, availability when the official website is sold out, which is the norm in high season.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable. Alhambra tickets are named and cannot be changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Alhambra, Access Pavilion, Granada. The access pavilion is next to the Alhambra car park, at the eastern end of the complex. Take minibus C30/C32 from Plaza Isabel la Católica, or walk 20-25 minutes up the Cuesta de Gomérez. Bring your passport or ID: tickets are named.'
 avisoReserva: Alhambra tickets sell out weeks in advance
 opinionEditorial: 'If you are visiting independently and want the whole Alhambra, this is the ticket. Book as soon as you have dates: it is Spain''s most visited monument and morning slots go fast.'
 guiasRelacionadas:

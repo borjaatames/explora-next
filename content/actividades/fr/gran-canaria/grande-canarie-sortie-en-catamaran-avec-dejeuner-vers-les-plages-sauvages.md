@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "30 au maximum."
 - pregunta: "Y a-t-il un transfert ?"
   respuesta: "Oui, depuis les hébergements du sud de l'île."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge aux hébergements du sud ; le port est indiqué sur la confirmation.'
 categoria: agua
 keywords:
 - "catamaran grande canarie"

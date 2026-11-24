@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Fahrradverleih und Souvenirladen Gracioserito, C. García Escámez 18, Caleta de Sebo.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Jeeptour durch Norden und Süden von La Graciosa; Besuch der Strände Las Conchas und La Francesa; Strand Montaña Amarilla; Auf Wunsch mehr Zeit am Strand.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nach La Graciosa kommst du vorher mit der Fähre; Sonnencreme, Hut und Wasser mitnehmen; Nicht geeignet in der Schwangerschaft oder bei Rückenproblemen.'
 categoria: excursionesDia
 keywords:
 - la graciosa jeep tour

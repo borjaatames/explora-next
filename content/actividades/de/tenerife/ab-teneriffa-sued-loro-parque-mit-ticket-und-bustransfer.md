@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: Nein. Das Ticket gibt es im Bus, der Transfer ist Pflicht.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt zu Hotels im Süden Teneriffas; Eintritt in den Loro Parque; Transfers.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Abholung nur im Süden der Insel; Die Tickets werden im Bus verteilt: Ohne Transfer kein Eintritt.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen.'
 categoria: parques
 keywords:
 - loro parque transfer

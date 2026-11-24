@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Non. Les peintures (parmi les plus anciennes du monde, datant d'environ 40 000 ans) se trouvent dans les galeries hautes, fermées au public pour les préserver. Le musée de Nerja en présente des reproductions.
 - pregunta: Est-ce une bonne idée de la combiner avec Frigiliana ?
   respuesta: 'Oui : Frigiliana est à 10 minutes en voiture et c''est l''un des plus beaux villages blancs d''Andalousie. La grotte le matin, Frigiliana pour déjeuner et le Balcón de Europa à Nerja au coucher du soleil.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Non remboursable : une fois réservé, le billet ne peut être ni annulé ni modifié.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Cueva de Nerja, Carretera de Maro s/n, Nerja (Malaga). La grotte se trouve à Maro, à 5 km de Nerja par la N-340. En voiture, parking gratuit. En bus, ligne Malaga-Nerja d''ALSA (1 h 15), puis bus urbain ou taxi jusqu''à la grotte. Présentez le voucher au guichet à l''heure réservée.'
 opinionEditorial: 'La grotte de Nerja est l''excursion nature la plus spectaculaire de la Costa del Sol : la salle du Cataclysme, avec sa colonne de 32 mètres, laisse sans voix. Billet bon marché et avec horaire ; en été, réservez plusieurs jours à l''avance.'
 categoria: entradas
 keywords:

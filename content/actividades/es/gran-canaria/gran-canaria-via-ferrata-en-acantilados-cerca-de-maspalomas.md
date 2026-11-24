@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aparcamiento de Yukan Activity, Bahía Feliz.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía; Arnés, casco y kit de vía ferrata; Linterna frontal; Tentempié; Fotos; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'De 14 a 60 años, hasta 100 kg y al menos 145 cm; No apto con vértigo o miedo a las alturas.'
 categoria: aventura
 keywords:
 - via ferrata gran canaria

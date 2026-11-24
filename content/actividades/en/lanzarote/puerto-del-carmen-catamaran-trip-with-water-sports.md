@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Catamaran trip; Paddleboard and kayak; Banana boat and donut ride; Snorkelling gear; Snacks; Soft drinks, water, sangria and beer.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Meet at the harbour entrance, opposite the petrol station; May be cancelled if the sea is rough.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - catamaran puerto del carmen

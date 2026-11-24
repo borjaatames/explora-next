@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Não com este bilhete, válido para passageiros a pé."
 - pregunta: "Tenho de regressar no mesmo dia?"
   respuesta: "Não, o regresso pode ser noutro dia."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto de Playa Blanca (Lanzarote) ou porto de Corralejo (Fuerteventura), conforme a opção escolhida.'
 categoria: agua
 keywords:
 - "ferry lanzarote fuerteventura"

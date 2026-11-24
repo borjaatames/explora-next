@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Yes, there is a menu of traditional Spanish dishes at affordable prices, paid separately.
 - pregunta: Which drink is included?
   respuesta: One drink of your choice from sangria, beer, wine or a soft drink.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Sala Temple, Cuesta de San Vicente, 40 (28008 Madrid). A 5-minute walk from Plaza de España and Príncipe Pío metro (lines 6, 10 and R). Arrive a few minutes early to choose a table and order your drink.'
 opinionEditorial: 'The cheapest and most intimate well-rated flamenco in central Madrid. Ideal if you are after the authentic atmosphere of a small tablao rather than a big show for tourists.'
 guiasRelacionadas:
 - flamenco-madrid-which-tablao-to-choose

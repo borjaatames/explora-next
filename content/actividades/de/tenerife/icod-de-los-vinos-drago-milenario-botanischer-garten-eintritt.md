@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Der älteste bekannte Drachenbaum seiner Art, Nationaldenkmal."
 - pregunta: "Lässt sich das kombinieren?"
   respuesta: "Ja, gut mit Garachico an der Nordküste."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Haupteingang des Parque del Drago in Icod de los Vinos; dort den Gutschein vorzeigen.'
 categoria: entradas
 guiasRelacionadas:
 - was-sehen-auf-teneriffa

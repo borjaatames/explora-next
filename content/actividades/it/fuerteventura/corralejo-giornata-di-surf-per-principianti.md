@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Buendía Corralejo, Calle La Atalaya 2, Corralejo. Concorda l''orario con la scuola su WhatsApp dopo la prenotazione.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Istruttori qualificati (FES, FCS, ISA); Tutta l''attrezzatura; Trasferimento allo spot; Lezione teorica e pratica; Assicurazione RC e infortuni.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 15 anni; Non adatto a donne in gravidanza; Non adatto a persone con problemi cardiaci o in sedia a rotelle.'
 categoria: agua
 keywords:
 - lezione di surf principianti corralejo

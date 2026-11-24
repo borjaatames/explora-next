@@ -38,6 +38,10 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Food (tapas); Drinks: beer, wine, water, juice and soft drinks; Snorkelling; Paddleboard.'
+- pregunta: 'How long does it last?'
+  respuesta: '4 hours.'
 categoria: agua
 keywords:
 - boat trip puerto rico gran canaria

@@ -60,6 +60,12 @@ preguntasFrecuentes:
   respuesta: Between 1904 and 1914, Gaudí redesigned the interior of La Seu. His contributions include the dramatic canopy of wrought iron and fabric above the main altar, repositioned choir stalls, and several ceramic installations. The overall effect is striking and very different from conventional Gothic interiors.
 - pregunta: When is the best time to visit?
   respuesta: Early morning (9–10 AM) before the cruise ship groups arrive. The rose window is at its most spectacular in early afternoon when backlit by the sun.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Catedral de Palma, Plaça de la Seu, Palma de Mallorca. The cathedral is in Palma''s old town, facing the Parc de la Mar. Walk from the city centre (15 minutes from Passeig del Born), or take the bus. Show your mobile ticket at the entrance.'
+- pregunta: 'What is included?'
+  respuesta: 'Skip-the-line entry to the cathedral and museum.'
 opinionEditorial: Palma Cathedral is among the great Gothic monuments of Europe and the first thing Mallorca shows you from the ferry or aircraft. Skip the queue — the cathedral fills up fast in summer, and the experience inside is worth protecting.
 guiasRelacionadas:
 - what-to-see-in-mallorca

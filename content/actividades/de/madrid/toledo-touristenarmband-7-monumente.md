@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Nein. Nach dem Eintausch hat das Armband kein Ablaufdatum, du kannst die Monumente also auf zwei Tage verteilen, wenn du in Toledo übernachtest.
 - pregunta: Ist die Kathedrale inklusive?
   respuesta: 'Nein. Die Kathedrale hat ein eigenes Ticket (ca. 12 €) und lohnt sich für sich allein. Ein sinnvoller Plan für einen Tag: vormittags die Kathedrale, nachmittags das Armband.'
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Ausgabe des Armbands an jedem der 7 Monumente, Toledo. Zeig deinen Handy-Gutschein an der Kasse eines der 7 Monumente, und du bekommst das Armband. Am einfachsten startest du in San Ildefonso (Jesuitenkirche): Steig auf den Turm und geh dann weiter nach Santo Tomé und San Juan de los Reyes.'
 opinionEditorial: Der bestgehütete Trick Toledos. Sieben Monumente, darunter El Grecos Meisterwerk und der schönste Kreuzgang der Stadt, zum Preis eines Mittagsmenüs. Wenn du Toledo auf eigene Faust ab Madrid besuchst, kauf es vor der Abfahrt.
 guiasRelacionadas:
 - tagesausflug-toledo-ab-madrid

@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: Etwa eine Stunde, einschließlich Dachterrasse und Garten.
 - pregunta: Ist es weit von der Sagrada Família entfernt?
   respuesta: Es liegt in Gràcia, etwa 20 Minuten mit der Metro entfernt. Es lässt sich gut mit einem Spaziergang über die Plätze des Viertels oder mit dem Park Güell kombinieren, der 20 Gehminuten entfernt ist.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Casa Vicens, Carrer de les Carolines, 20 (08012 Barcelona). Metro Fontana (Linie 3), 4 Minuten zu Fuß über die Carrer Gran de Gràcia. Gehen Sie zur gebuchten Uhrzeit mit dem Voucher auf dem Handy hinein.'
 opinionEditorial: 'Das am wenigsten überlaufene Gaudí-Haus und eines der fotogensten: Man besichtigt es in Ruhe und ohne die Schlangen der Casa Batlló oder der Pedrera. Wer die großen Bauten schon gesehen hat, für den ist es der logische nächste Halt.'
 atraccionesRelacionadas:
 - otros-barcelona

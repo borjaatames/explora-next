@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: This one covers the full range and the visit is longer; the 5-wine one focuses on premium wines.
 - pregunta: Can I cancel?
   respuesta: The terms are shown in the calendar before you pay.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Es Fangar winery, Carrer Son Colom 23, Felanitx (Mallorca).'
+- pregunta: 'What is included?'
+  respuesta: 'Guided winery tour; Tasting of 6 wines; Cold cuts and cheese board.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Price per person; Organic winery in Felanitx, central Mallorca: you need a car; Tour in English, Spanish or Italian.'
 opinionEditorial: 'For those who want the full picture of a Mallorcan winery: more time on the estate and the whole range in the glass.'
 atraccionesRelacionadas:
 - gastronomia

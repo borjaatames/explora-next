@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Non, on la contourne par les collines."
 - pregunta: "À partir de quel âge ?"
   respuesta: "Dès 8 ans et 40 kg."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Cuchilleros 12, à côté de la Plaza Nueva.'
 categoria: toursCiudad
 keywords:
 - "segway tout-terrain grenade"

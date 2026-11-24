@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: 'En espagnol, anglais, français et italien. Vous choisissez la langue lors de la réservation.'
 - pregunta: 'Combien de temps dure la visite ?'
   respuesta: 'Deux heures de visite guidée ; ensuite, vous pouvez rester librement dans les jardins.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Metro Ópera, plaza de Isabel II, frente al Teatro Real (28013 Madrid). Le guide vous attend à la sortie du métro Ópera (lignes 2, 5 et R), plaza de Isabel II, en face du Teatro Real. De là, on traverse la plaza de Oriente jusqu''au palais.'
 opinionEditorial: 'Visité seul, le Palais royal laisse sur sa faim : sans explications, les salles se succèdent sans contexte. Avec ce guide, la visite prend vie et l''entrée prioritaire évite la file du guichet. Très bon rapport qualité-prix.'
 atraccionesRelacionadas:
 - palacio-real

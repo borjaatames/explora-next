@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: No, solo la Cattedrale e la Giralda. Se vuoi entrambi i monumenti, guarda il tour combinato.
 - pregunta: In quali lingue si svolge?
   respuesta: In spagnolo, inglese, italiano e francese.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellando fino a 24 ore prima viene rimborsato il 60 %. Dopo non è previsto alcun rimborso.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Oficina del operador, Calle Hernando Colón, 6 (41004 Sevilla). L''ufficio è a pochi passi dalla Cattedrale, vicino a Plaza Virgen de los Reyes. Da lì si va a piedi con la guida fino all''ingresso.'
 opinionEditorial: 'Un''opzione breve ed economica se vuoi solo la Cattedrale ben spiegata e ti organizzi l''Alcázar per conto tuo. I difetti sono la cancellazione con rimborso parziale e i gruppi che possono essere numerosi.'
 atraccionesRelacionadas:
 - catedral-giralda

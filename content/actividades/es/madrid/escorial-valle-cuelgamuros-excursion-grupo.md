@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: La basílica excavada en la montaña (262 metros de nave), la cruz de 150 metros, la mayor del mundo, y el paisaje de pinares de la sierra de Guadarrama. El guía explica su historia como monumento de la posguerra y su resignificación actual.
 - pregunta: ¿Hay versión en español?
   respuesta: Sí, hay salidas con guía en español y en inglés. Elige el idioma al reservar.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Centro de Madrid (punto exacto en el voucher). La salida es desde el centro de Madrid a primera hora de la mañana; el punto exacto y la hora se indican en el voucher. Llega 15 minutos antes.'
 opinionEditorial: 'Es la forma eficiente de ver los dos monumentos sin coche: cinco horas, una mañana, y vuelves a Madrid para comer. El Escorial impresiona por el edificio y el Valle por el lugar y la historia. Muy bien valorada por los guías.'
 guiasRelacionadas:
 - madrid-en-3-dias

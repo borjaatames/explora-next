@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 48 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo; Instrucciones y entrenamiento; Salto desde 3.000 metros; Caída libre a más de 200 km/h; Vuelo en paracaídas de 5–8 minutos; Actividad de 90 minutos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Máximo 100 kg (el peso declarado se comprueba al registrarse); No apto para menores de 9 años, embarazadas ni si has buceado en las 24 horas anteriores.'
 categoria: aventura
 keywords:
 - paracaidismo gran canaria

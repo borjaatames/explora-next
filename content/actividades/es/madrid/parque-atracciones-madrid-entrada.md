@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Abre todo el año pero con horario reducido en invierno; cierra algunos días entre semana en temporada baja. Consulta el calendario antes de comprar.
 - pregunta: ¿Cuántas atracciones hay?
   respuesta: Más de 45 atracciones repartidas en zonas de adrenalina, infantil, familiar y de agua. Hay para todos los perfiles.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'No reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Parque de Atracciones de Madrid, Casa de Campo, 28011 Madrid. Metro línea 10 hasta Batán y 10 minutos a pie, o teleférico desde Rosales en temporada. Accede con la entrada en el móvil.'
 opinionEditorial: El Parque de Atracciones de Madrid no tiene la producción temática de Warner, pero su ubicación en la Casa de Campo y su mix de atracciones para todas las edades lo hacen ideal para un día en familia. El Abismo y el Tornado satisfacen a los amantes de la adrenalina, y la zona infantil es una de las mejores de Madrid.
 guiasRelacionadas:
 - madrid-con-ninos

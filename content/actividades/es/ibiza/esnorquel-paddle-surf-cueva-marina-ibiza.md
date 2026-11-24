@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: El barco se acerca a las cuevas marinas y, si el mar lo permite, se puede entrar nadando o en paddle surf. Depende del estado del mar ese día.
 - pregunta: ¿Incluye recogida?
   respuesta: 'Sí: recogida y regreso al hotel. La hora exacta viene en el bono.'
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà). Punto de encuentro en el local de Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, en Sant Antoni. Incluye recogida y regreso al hotel: confirma la hora en el bono.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Paseo en barco con tripulación; Equipo de snorkel; Tablas de paddle surf; Scooter submarino; Bebidas, fruta fresca y tapas; Toalla y crema solar.'
 opinionEditorial: 'Un plan de medio día muy completo para Sant Antoni: barco, cuevas, snorkel y paddle surf con tapas, y sin preocuparte del transporte.'
 guiasRelacionadas:
 - mejores-calas-ibiza

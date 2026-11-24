@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: No. È gratuito e si chiede online fino a 5 giorni prima.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Corralejo: cerca la barca per Lobos prima della partenza.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Biglietto del traghetto andata e ritorno; Prelievo e ritorno in hotel (se scelto).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Il permesso d''accesso è gratuito e si chiede fino a 5 giorni prima; Non accessibile in sedia a rotelle.'
 categoria: excursionesDia
 keywords:
 - traghetto lobos corralejo

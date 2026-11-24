@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "En voiture ou en bus jusqu'à Llucmajor/Algaida, avec prise en charge."
 - pregunta: "Combien de temps ?"
   respuesta: "Environ deux heures et demie."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Centre équestre de la vallée de Randa ; si vous venez en bus, un minibus vous récupère à Llucmajor ou Algaida. Détails dans la réservation.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

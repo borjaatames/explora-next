@@ -40,6 +40,17 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: Walking route not wheelchair accessible. Low difficulty.
 politicaCancelacion: Free cancellation; a 100% fee applies if cancelled 1 day or less before the event.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation; a 100% fee applies if cancelled 1 day or less before the event.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Central Madrid (exact meeting point confirmed on booking). The tour starts around the Jewish Community of Madrid; the exact meeting point is confirmed when you book.'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Live tour guide.'
+- pregunta: 'What is not included?'
+  respuesta: 'Tips.'
 opinionEditorial: 'This is a niche tour, which is exactly why it works so well in private: the guide tailors the story to what interests you and answers at length. Madrid''s Jewish history is little known and closely tied to Spain''s —centuries of coexistence, tension, exile and a 20th-century return— so it deserves to be told with time and context. From €249 per group (about €300 for four) it is one of the more affordable private options in the catalogue.'
 atraccionesRelacionadas:
 - tours-a-pie

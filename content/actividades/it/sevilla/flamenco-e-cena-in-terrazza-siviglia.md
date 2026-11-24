@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Lo spettacolo con cocktail e la cena in terrazza."
 - pregunta: "Il trasporto è incluso?"
   respuesta: "No, il prelievo in hotel non è incluso."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Tablao Flamenco Las Setas, vicino a plaza de la Encarnación (Setas de Sevilla); l''indirizzo esatto è nella conferma.'
 categoria: espectaculos
 guiasRelacionadas:
 - flamenco-siviglia-quale-tablao-scegliere

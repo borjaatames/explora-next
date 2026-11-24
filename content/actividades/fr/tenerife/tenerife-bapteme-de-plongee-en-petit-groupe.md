@@ -54,6 +54,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Équipement de plongée; Assurance plongée; Techniques de base et communication sous l''eau; Une plongée de 40 minutes à 1 heure; Moniteur; Eau et café.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Minimum 2 personnes par réservation; Âge minimum 10 ans; Déconseillé aux femmes enceintes et aux personnes à mobilité réduite.'
 categoria: agua
 keywords:
 - baptême plongée los cristianos

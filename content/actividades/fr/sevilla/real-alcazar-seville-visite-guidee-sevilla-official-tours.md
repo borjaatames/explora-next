@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Environ 1 h 15."
 - pregunta: "Puis-je annuler ?"
   respuesta: "Jusqu'à 24 h avant, avec 53 % de remboursement."
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Près de la Plaza del Triunfo ; le point exact dépend de l''option et figure dans la réservation.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billet d''entrée à l''Alcázar; Accès coupe-file; Guide officiel; Écouteurs si nécessaire; Jardins; Cuarto Real Alto.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alcazar-de-seville-billets-epuises

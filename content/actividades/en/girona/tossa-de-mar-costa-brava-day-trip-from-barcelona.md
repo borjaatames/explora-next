@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Barcelona Nord station at 08:15.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'What is included?'
+  respuesta: 'Transport from Barcelona; Guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Leaves from Barcelona, not Girona; The itinerary may change with the weather.'
 opinionEditorial: 'Nearly 600 reviews at 4.9: one of the best-rated Costa Brava trips. A good choice if you are staying in Barcelona and want a day by the sea without a car.'
 guiasRelacionadas:
 - costa-brava-day-trips-from-girona

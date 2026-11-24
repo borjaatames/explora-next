@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: No, it is a theatre. El Born is full of restaurants and tapas bars a few minutes away.
 - pregunta: How long does it last?
   respuesta: One hour. Arrive when the doors open, 30 minutes beforehand.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Teatro Flamenco Barcelona, Carrer dels Abaixadors, 10 (08003 Barcelona). In Ciutat Vella, a 5-minute walk from Jaume I metro (line 4) and the basilica of Santa Maria del Mar. Doors open 30 minutes beforehand.'
 opinionEditorial: 'Quality flamenco in a small venue at a modest price, without the compulsory dinner of the big tablaos. Perfect to fit in before dinner in El Born.'
 guiasRelacionadas:
 - flamenco-barcelona-which-tablao-to-choose

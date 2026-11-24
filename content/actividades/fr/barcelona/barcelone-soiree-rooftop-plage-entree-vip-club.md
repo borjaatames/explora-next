@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Non, elles se paient sur place.
 - pregunta: Quand a-t-elle lieu ?
   respuesta: 'En saison : actuellement, les dates commencent en mai 2027.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Les conditions d''annulation s''affichent à la réservation.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Point de rendez-vous près de la plage de Barcelone (confirmé à la réservation).'
 categoria: nocturno
 keywords:
 - soirée rooftop barcelone

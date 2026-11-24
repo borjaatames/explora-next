@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'Por el transporte: Ronda está a 185 km de Granada, 2 horas por carretera de montaña. Para 7 horas de jornada con vehículo privado de 8 plazas, guía oficial, seguro y tiempo libre, el precio refleja la logística. Si vas en coche por tu cuenta, gasolina + peajes + parking pueden sumar 50-70 € sin contar guía.'
 - pregunta: ¿Por qué el value for money es 3,9 / 5?
   respuesta: Probablemente porque la comida y las entradas no están incluidas, y para visitantes que esperan un "todo en uno" puede sentirse light. El precio se justifica por la logística (transporte + guía) pero el contenido cultural del tour se queda en el centro histórico — para profundizar hay que pagar entradas extra. Es una cuestión de expectativas.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se alcanza mínimo de participantes.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Oficina Discovering Spain, Plaza de las Descalzas 3, Granada. El operador es Discovering Spain. Salida desde el centro de Granada. Aprox. 2 horas hasta Ronda (185 km). El tour requiere mínimo de participantes para confirmar — conviene reservar con varios días de antelación. Recogida solo en oficina (no en hotel).'
 variantes: []
 opinionEditorial: 'Ronda es uno de los destinos más fotogénicos de Andalucía: la ciudad construida sobre un acantilado de 100 metros con el Puente Nuevo cruzando el Tajo es de las postales más icónicas de España. Para visitantes desde Granada, llegar requiere 2 horas de carretera de montaña — el tour organizado resuelve el transporte y la logística.
 

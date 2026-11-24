@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'Le guide parle français, anglais et espagnol.'
 - pregunta: 'Puis-je annuler ?'
   respuesta: 'Oui. L''annulation est gratuite jusqu''à 24 heures avant le début, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de Isabel II (Ópera), à côté de la statue de la reine.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide officiel privé pendant 3 heures; Billet coupe-file pour le Palais royal; Assistance d''un agent de voyages.'
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

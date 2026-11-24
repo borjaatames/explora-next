@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Na porta 2 (Puerta 2)."
 - pregunta: "Pode cancelar-se?"
   respuesta: "Segundo o operador, o bilhete não é reembolsável."
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Estadio Ramón Sánchez-Pizjuán, entrada pela porta 2 (Puerta 2), bairro de Nervión.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Entrada no museu e no estádio; App de audioguia.'
 categoria: entradas
 guiasRelacionadas:
 - sevilha-com-criancas

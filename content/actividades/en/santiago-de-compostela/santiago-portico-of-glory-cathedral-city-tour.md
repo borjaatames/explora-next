@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: 'It is the summit of European Romanesque: 200 figures carved by Master Mateo in 1188, with the 24 elders of the Apocalypse playing instruments. The restoration brought back the original colour hidden for centuries.'
 - pregunta: How long is it and what else do you see?
   respuesta: 'Two and a half hours: the Portico (30 min), the cathedral interior with the Apostle''s tomb, and the old town squares (Obradoiro, Platerías, Quintana) with the history of the Camino.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza del Obradoiro, Santiago de Compostela (exact point on your voucher). Meet in Plaza del Obradoiro, in front of the cathedral facade. The guide carries ID. Arrive 10 minutes early: the Portico has a fixed entry time.'
 opinionEditorial: The best way into the Portico of Glory, which is hard to get on your own. The guide turns a stone facade into a story you can follow, and the rest of the visit makes sense of the old town. Rated 4.8 for a reason.
 guiasRelacionadas:
 - santiago-cathedral-how-to-visit

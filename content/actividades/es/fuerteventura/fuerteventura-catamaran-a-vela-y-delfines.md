@@ -38,6 +38,10 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado; Comida y bebida; Tripulación profesional con experiencia; Seguro y tasas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '4 h 30 min.'
 categoria: agua
 keywords:
 - catamaran fuerteventura delfines

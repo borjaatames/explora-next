@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Actividad de 3 horas; De 1 a 1,5 horas de esnórquel; Monitor titulado; Equipo de esnórquel; Agua y fruta; Seguro.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'La hora de inicio depende del tiempo y la marea y se confirma tras reservar.'
 categoria: agua
 keywords:
 - esnórquel las canteras

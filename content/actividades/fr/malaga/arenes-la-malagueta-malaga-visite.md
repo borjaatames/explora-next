@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, c'est une visite des arènes et de l'exposition."
 - pregunta: "Combien de temps prévoir ?"
   respuesta: "Environ une heure."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Arènes de La Malagueta, paseo de Reding 8, Málaga.'
 categoria: entradas
 guiasRelacionadas:
 - malaga-en-deux-jours

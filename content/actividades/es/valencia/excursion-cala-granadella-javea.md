@@ -35,6 +35,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Punto de encuentro en Valencia (se confirma al reservar).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte de ida y vuelta desde Valencia; Acompañamiento del guía.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebida; Material de snorkel; Propinas.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: 'Día completo (unas 8 horas).'
 opinionEditorial: 'La Granadella es de esas calas que salen en todas las listas de las mejores de España, y con razón: agua turquesa, pinos hasta la orilla y buen snorkel. Ir con transporte desde Valencia te quita el problema del aparcamiento, que en verano es una odisea.'
 categoria: excursionesDia
 keywords:

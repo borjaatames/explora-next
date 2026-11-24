@@ -34,6 +34,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'The meeting point is in Valencia; the exact spot is given when your booking is confirmed.'
+- pregunta: 'What is included?'
+  respuesta: 'Round-trip bus transport; Guide escort.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink; Tips.'
+- pregunta: 'How long does it last?'
+  respuesta: 'Full day (about 8 hours).'
 opinionEditorial: 'Montanejos is the perfect freshwater swimming plan: the pools stay mild all year and the mountain scenery is gorgeous. The bus option is the cheapest and most hassle-free.'
 categoria: excursionesDia
 keywords:

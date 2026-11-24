@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Transporte; Recolha em toda a ilha; Equipamento; Seguro; Lanche.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 12 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos, de costas ou respiratórios, epilepsia, claustrofobia, hipertensão ou constipação; Não voe nas 12 a 24 horas seguintes ao mergulho.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Fotos.'
 categoria: agua
 keywords:
 - batismo de mergulho lanzarote

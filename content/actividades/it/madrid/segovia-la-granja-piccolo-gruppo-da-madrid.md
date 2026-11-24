@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'La guida parla spagnolo. Le spiegazioni in italiano sono in audio o con un''app di traduzione.'
 - pregunta: 'Posso cancellare?'
   respuesta: 'Sì. La cancellazione è gratuita fino a 24 ore prima dell''inizio, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Calle de Alfonso XII, 2 (accanto al Retiro), Madrid.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Minivan Mercedes Vito o simile con aria condizionata; Ingresso all''Alcázar di Segovia; Ingresso alla chiesa del Corpus Christi; Acqua; Tasse.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

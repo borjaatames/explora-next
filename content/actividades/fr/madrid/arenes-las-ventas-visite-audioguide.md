@@ -68,6 +68,10 @@ preguntasFrecuentes:
   respuesta: 'En dix langues, dont l''espagnol, l''anglais, le français, l''allemand, l''italien et le portugais.'
 - pregunta: 'Combien de temps faut-il prévoir ?'
   respuesta: 'Environ 50 minutes pour le parcours, un peu plus si vous vous attardez au musée et au simulateur.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Plaza de toros de Las Ventas, Calle de Alcalá, 237 (28028 Madrid). Métro Ventas (lignes 2 et 5) : vous sortez juste devant les arènes. L''entrée de la visite se trouve au guichet de la façade principale. Présentez le voucher et récupérez l''audioguide.'
 opinionEditorial: 'Une visite courte et bon marché pour voir de l''intérieur le bâtiment néo-mudéjar le plus spectaculaire de Madrid et comprendre la place des arènes dans la ville, sans avoir à assister à une corrida. Le meilleur moment : fouler la piste et sortir par la Puerta Grande ; le simulateur est plus anecdotique.'
 atraccionesRelacionadas:
 - otros-madrid

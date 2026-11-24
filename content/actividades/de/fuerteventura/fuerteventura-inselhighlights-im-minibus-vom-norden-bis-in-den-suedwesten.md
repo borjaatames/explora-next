@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "An Sammelpunkten, nicht im Süden von Jandía."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Sammelpunkten; nicht im Süden von Jandía und nicht am Hafen.'
 categoria: excursionesDia
 keywords:
 - "fuerteventura inselrundfahrt minibus"

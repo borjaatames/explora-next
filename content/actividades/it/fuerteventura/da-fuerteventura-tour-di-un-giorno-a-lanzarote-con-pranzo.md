@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: La guida parla spagnolo, inglese, tedesco, italiano, francese.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno (hotel selezionati); Guida ufficiale; Biglietti del traghetto; Ingresso al Parco Nazionale di Timanfaya; Ingresso ai Jameos del Agua; Pranzo.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Prelievo molto presto: Jandía 05:40–06:10, Costa Calma 06:20–06:55, Caleta de Fuste 06:50–07:35, Corralejo 08:00–08:20; Non accessibile in sedia a rotelle.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Degustazione di vino.'
 categoria: excursionesDia
 keywords:
 - escursione lanzarote da fuerteventura

@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Enregistrement de 8 h 15 à 9 h, départ à 9 h 15."
 - pregunta: "Où se baigne-t-on ?"
   respuesta: "Devant Espalmador et Ses Illetes."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pier 69, Carrer de la Punta 3, Playa d''en Bossa (Ibiza). Enregistrement de 8 h 15 à 9 h.'
 categoria: agua
 keywords:
 - "catamaran formentera depuis ibiza"

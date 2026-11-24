@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks Spanish and Italian. Explanations in English come through audio or a translation app.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Naval Museum, Paseo del Prado, 3, Madrid.'
+- pregunta: 'What is included?'
+  respuesta: 'Private transport from Madrid; Guide; Water; Taxes.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

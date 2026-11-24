@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giro in buggy nel Parco Nazionale del Teide; Sosta a La Caldera; Guida sopra il mare di nuvole; Visita al paesaggio lunare; Guanti, occhiali e giacca; Spuntino e bevanda.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Il percorso arriva a circa 2.200 metri; Prelievo e rientro gratuiti a Puerto de la Cruz; Prezzo per buggy.'
 categoria: aventura
 keywords:
 - buggy teide puerto de la cruz

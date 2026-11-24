@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tabla de surf; Neopreno; Agua y fruta; Seguro de accidentes y responsabilidad civil.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida en el hotel; Transporte.'
 categoria: agua
 keywords:
 - clase de surf maspalomas

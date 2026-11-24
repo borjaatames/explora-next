@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Passeig de Lluís Companys 10, beim Arc de Triomf."
 - pregunta: "Brauche ich Erfahrung?"
   respuesta: "Nein, vorher gibt es eine Einweisung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Segway i2; Guide; Einweisung; Helm und Sicherheitsausrüstung; Versicherung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

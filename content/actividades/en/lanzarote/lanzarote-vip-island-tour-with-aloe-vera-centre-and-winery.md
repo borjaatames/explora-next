@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, Spanish, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Air-conditioned vehicle; Professional guide; Visit to the aloe vera centre; Stop at a traditional winery; Photo stops at landmarks.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not wheelchair accessible; Wear comfortable clothes and shoes and bring sun cream.'
+- pregunta: 'What is not included?'
+  respuesta: 'Lunch; Personal expenses and optional purchases.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip island tour

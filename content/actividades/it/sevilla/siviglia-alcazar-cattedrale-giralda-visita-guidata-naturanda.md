@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Tre ore-tre ore e mezza."
 - pregunta: "Posso cancellare?"
   respuesta: "Fino a 24 ore prima, con rimborso del 60 %."
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ufficio Naturanda, calle Francos 19. Arrivate 10 minuti prima per la registrazione.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Auricolari; Visita guidata; Biglietti per Alcázar, Cattedrale e Giralda.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - cattedrale-siviglia-giralda-biglietti-esauriti

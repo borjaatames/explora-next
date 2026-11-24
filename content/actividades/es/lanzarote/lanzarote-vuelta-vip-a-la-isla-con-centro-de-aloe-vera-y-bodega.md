@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, alemán, español, neerlandés, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Vehículo con aire acondicionado; Guía profesional; Visita al centro de aloe vera; Parada en una bodega tradicional; Paradas para fotos en lugares emblemáticos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No accesible en silla de ruedas; Lleva ropa y calzado cómodos y protector solar.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo; Gastos personales y compras opcionales.'
 categoria: excursionesDia
 keywords:
 - vuelta vip lanzarote

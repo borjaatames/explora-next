@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Mittagessen und Getränke sind im Preis enthalten."
 - pregunta: "Sieht man Delfine?"
   respuesta: "Oft, aber Sichtungen können nicht garantiert werden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Morro Jable. Abholung im Süden der Insel möglich (zum Beispiel Costa Calma). Abfahrt um 11:00 Uhr.'
 categoria: agua
 keywords:
 - "segeln fuerteventura"

@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: 'É uma das maiores rosáceas góticas do mundo: mede 12,5 metros de diâmetro e tem 1.236 peças de vidro colorido. O fenómeno ótico de 2 de fevereiro (Candelária) é famoso entre os fotógrafos.'
 - pregunta: Qual é a melhor altura para a visitar?
   respuesta: Logo de manhã (à hora de abertura), para evitar grupos turísticos. De manhã, a luz entra melhor pelo lado nascente.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Catedral de Mallorca, Plaça de la Seu, s/n, 07001 Palma. No coração do centro histórico de Palma, em frente à baía. Fácil acesso a partir do Paseo de la Explanada ou do Palau de l''Almudaina.'
 opinionEditorial: A Catedral de Palma é um dos melhores exemplos do gótico mediterrânico e tem a surpresa adicional da intervenção de Gaudí. A combinação de rosácea, baldaquino e vista para o mar é única no mundo. O preço do bilhete é muito razoável para a experiência. Visita imprescindível em Palma.
 categoria: entradas
 keywords:

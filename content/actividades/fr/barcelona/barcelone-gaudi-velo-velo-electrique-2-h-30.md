@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: "2 h 30, puis une heure de vélo gratuite."
 - pregunta: "Taille des groupes ?"
   respuesta: "2 à 15 personnes par guide."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Bureau du prestataire, Passeig de Lluís Companys 10, près de l''Arc de Triomf (métro Arc de Triomf, L1).'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

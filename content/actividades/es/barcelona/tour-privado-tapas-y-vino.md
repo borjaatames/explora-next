@@ -44,6 +44,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Punto de encuentro en el centro de Barcelona, a convenir al reservar (salidas habitualmente por la tarde, sobre las 18:00).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Comida completa: degustación de tapas con maridaje de vinos regionales en 4 bares diferentes; Parada en 4 restaurantes emblemáticos, con comida y bebida en cada uno; Guía local experto en gastronomía, cercano y aficionado a la cocina; Visita guiada privada a pie por la ciudad vieja, solo para tu grupo.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Recorrido disponible en español o inglés; elige el idioma al reservar; Llega al punto de encuentro 10 minutos antes para el registro; Avisa al guía de cualquier alergia o restricción alimentaria al llegar.'
 opinionEditorial: 'El formato privado da mucho juego con la comida: marcáis el ritmo, el guía adapta las paradas a lo que os apetece y podéis preguntar de todo. Para una pareja o un grupo de amigos es una velada a medida.'
 atraccionesRelacionadas:
 - gotico

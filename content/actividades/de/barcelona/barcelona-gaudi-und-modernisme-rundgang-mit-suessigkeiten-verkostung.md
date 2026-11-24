@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Katalanische Schokolade und traditionelle Süßigkeiten."
 - pregunta: "Gibt es die Tour auf Deutsch?"
   respuesta: "Ja, die Sprache wird bei der Buchung gewählt."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Vor dem Rock Shop Sagrada Família, Avinguda de Gaudí 1. Bitte eine Telefonnummer mit WhatsApp angeben.'
 categoria: toursCiudad
 keywords:
 - "gaudi tour barcelona deutsch"

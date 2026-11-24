@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "D'une heure à sept heures, selon l'option."
 - pregunta: "Où est le départ ?"
   respuesta: "Devant la Bourse de Madrid, face au Ritz."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Devant la Bourse de Madrid, face à l''hôtel Ritz (Plaza de la Lealtad).'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

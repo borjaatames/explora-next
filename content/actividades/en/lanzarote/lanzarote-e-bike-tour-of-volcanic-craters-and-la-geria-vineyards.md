@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Bodega Los Bermejos, Camino a Los Bermejos 7, San Bartolomé. After booking, send your height, weight and experience.'
+- pregunta: 'What is included?'
+  respuesta: 'Accredited guide; E-bike; Helmet; Water; Energy bar and gel; Insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for under-13s, over-70s, pregnant women or people with diabetes.'
 categoria: aventura
 keywords:
 - e-bike tour lanzarote

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transfer from and to your accommodation; Certified dive instructor; Private, personalised dive; Safety briefing and equipment explanation; Full diving equipment; Underwater photos and videos.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; Do not fly for 24 hours after diving.'
+- pregunta: 'What is not included?'
+  respuesta: 'Personal dive insurance (required for certified divers; beginners are covered); Food and drinks.'
 categoria: agua
 keywords:
 - private diving tenerife

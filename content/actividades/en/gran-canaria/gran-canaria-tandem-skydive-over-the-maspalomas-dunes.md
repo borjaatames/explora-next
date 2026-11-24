@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 2 days before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
+- pregunta: 'What is included?'
+  respuesta: 'Equipment; Instructions and training; Jump from 3,000 metres; Freefall at more than 200 km/h; 5–8 minute parachute flight; 90-minute activity.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Maximum 100 kg (the declared weight is checked at registration); Not suitable for children under 9, pregnant women or if you have dived in the previous 24 hours.'
 categoria: aventura
 keywords:
 - skydiving gran canaria

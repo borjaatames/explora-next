@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks English, Spanish and Italian. Explanations in German, Portuguese and French come through audio or a translation app.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Naval Museum, Paseo del Prado, 3, Madrid.'
+- pregunta: 'What is included?'
+  respuesta: 'Transport in an air-conditioned Mercedes; Host throughout the tour; Monument tickets; Iberian tasting; Taxes.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

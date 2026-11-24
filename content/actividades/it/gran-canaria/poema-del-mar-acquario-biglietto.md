@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Sotto i 3 anni si entra gratis. Dai 3 agli 11 anni c'è il biglietto bambino.
 - pregunta: Il trasporto è incluso?
   respuesta: No. L'acquario è a Las Palmas; dal sud dell'isola ci si arriva in auto o con la guagua, l'autobus interurbano.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Biglietteria dell''acquario Poema del Mar, Muelle Sanapú, Las Palmas di Gran Canaria. Mostra la prenotazione alla biglietteria dell''acquario, dove si ritira il biglietto salta fila. L''acquario è nella zona portuale di Las Palmas, al Muelle Sanapú.'
 opinionEditorial: 'È il piano per eccellenza nei giorni di pioggia o di calima a Gran Canaria, e la vetrata curva della vasca principale impressiona davvero. Dal sud ci sono circa 50 km di strada: abbinalo a Vegueta o alla spiaggia di Las Canteras.'
 guiasRelacionadas:
 - cosa-vedere-a-gran-canaria

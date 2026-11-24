@@ -46,6 +46,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en bateau avec skipper; Boissons : sodas, bière et eau; Repas : tortilla, salade de pâtes et fromage; Équipement de snorkeling; Paddle.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '4 heures.'
 categoria: agua
 keywords:
 - dauphins mogan

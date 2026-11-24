@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Deutsch, Englisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide; Klimatisierter Bus; Fahrer; Abholung am Hotel oder am nächsten Punkt; Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Abholung in Mogán, Taurito, Puerto Rico, Anfi, Patalavaca, Maspalomas, Playa del Inglés, San Agustín und Bahía Feliz; keine in Las Palmas.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen.'
 categoria: excursionesDia
 keywords:
 - gran canaria bustour

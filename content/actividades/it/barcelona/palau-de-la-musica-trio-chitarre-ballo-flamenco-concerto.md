@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Al Palau de la Música Catalana."
 - pregunta: "C'è il ballo?"
   respuesta: "Sì, flamenco con chitarra e percussioni."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Palau de la Música Catalana, carrer Palau de la Música 4-6. Cambiate il voucher mobile con i biglietti in biglietteria prima di entrare.'
 categoria: espectaculos
 guiasRelacionadas:
 - palau-de-la-musica-catalana-biglietti-esauriti

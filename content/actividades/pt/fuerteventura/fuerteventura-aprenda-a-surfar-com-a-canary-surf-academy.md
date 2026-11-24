@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha no seu hotel ou apartamento (confirme disponibilidade); Fato, prancha e leash; Aula de surf com instrutor certificado; Seguro.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 6 anos; Não recomendado a grávidas; É preciso saber nadar.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Comida e bebidas; Recolha em Costa Calma, Morro Jable e no sul (pode encontrar-se na praia).'
 categoria: agua
 keywords:
 - canary surf academy

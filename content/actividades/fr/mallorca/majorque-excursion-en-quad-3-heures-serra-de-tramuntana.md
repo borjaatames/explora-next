@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "De Santa Ponça, Carrer de Son Bugadelles 33."
 - pregunta: "À quelle heure ?"
   respuesta: "Deux départs : 10 h 30 et 15 h 30."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Quad; Casque; Guide.'
 categoria: aventura
 keywords:
 - "quad majorque"

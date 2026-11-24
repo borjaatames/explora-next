@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Es uno de los mejores en fauna mediterránea. Para fauna oceánica tropical, el Oceanogràfic de Valencia es más grande y variado.
 - pregunta: ¿Puedo bañarme con los tiburones?
   respuesta: "Sí, con la inmersión en jaula en el tanque de los tiburones: no hace falta titulación ni saber bucear, la edad mínima es 8 años y cuesta 175 € por persona (incluye equipo, seguro, formación y la entrada para ti y un acompañante). Dura 2 horas, con un máximo de 4 personas por sesión, y se reserva en la web del Aquàrium."
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aquàrium de Barcelona, Moll d''Espanya del Port Vell, 5, 08039 Barcelona. Metro L3 hasta Drassanes y 15 min a pie por las Ramblas y el Port Vell. Metro L4 hasta Barceloneta y 10 min. Muestra la entrada en el móvil.'
 opinionEditorial: 'El Aquàrium de Barcelona tiene el mejor túnel de tiburones de España: 80 metros de cristal rodeado de arena tiger sharks y rayas manta, sin rival en la Península. La colección mediterránea es única en el mundo. Merece la pena aunque el precio sea elevado; compra online y te evitas las colas de taquilla.'
 guiasRelacionadas:
 - barcelona-con-ninos

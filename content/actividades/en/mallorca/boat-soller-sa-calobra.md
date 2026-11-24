@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: A spectacular narrow limestone gorge carved by a seasonal river. The gorge ends where it meets the sea at Sa Calobra cove. The walk through the gorge takes about 20–30 minutes and involves scrambling over rocks and passing through a narrow tunnel carved through the rock.
 - pregunta: Can I swim at Sa Calobra?
   respuesta: Yes. Sa Calobra has a small pebbly beach at the mouth of the gorge. The water is crystal clear and the setting is outstanding. Bring a swimsuit.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Port de Sóller, Mallorca. Port de Sóller is 30 km north of Palma by the Ma-11 mountain road. By public transport, take the wooden train from Palma to Sóller (one of Mallorca''s most scenic journeys), then the tram down to the port. Confirm the exact departure point with the operator on your voucher.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat trip from Sóller to Sa Calobra and back; Time at Sa Calobra for the gorge walk.'
 opinionEditorial: 'Sa Calobra by boat from Sóller is one of Mallorca''s greatest experiences: the coastal scenery alone is worth it, and the gorge walk at the end makes it unforgettable. Do not take the road instead — the boat approach is completely different.'
 guiasRelacionadas:
 - serra-tramuntana-soller

@@ -39,6 +39,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Recolha e regresso ao seu hotel em Corralejo.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 14 anos.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '4 horas.'
 categoria: agua
 keywords:
 - aula de surf corralejo com recolha

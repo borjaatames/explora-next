@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Seulement dans l'option avec paella ; l'option courte comprend les boissons.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Flipper Uno, C. Poblado Marinero, local 20, port de Los Gigantes. Présentez-vous 30 minutes avant le départ.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en bateau avec guide; Temps libre pour nager; Boissons : cola, soda, eau, bière et vin rouge; Paella poulet et légumes (selon l''option); Toilettes à bord.'
 categoria: agua
 keywords:
 - los gigantes excursion bateau

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "No, l'appuntamento è a Puerto Colón, pontile 4."
 - pregunta: "Bisogna saper nuotare?"
   respuesta: "Indossi giubbotto salvagente e imbrago per tutta l'attività."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Marina di Puerto Colón, pontile 4, di fronte al Café Victoria, Costa Adeje.'
 categoria: aventura
 keywords:
 - "parasailing tenerife"

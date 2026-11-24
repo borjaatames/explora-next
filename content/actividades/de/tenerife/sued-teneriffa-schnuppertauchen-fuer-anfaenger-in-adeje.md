@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Spanisch, Deutsch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'GF Isabel, Avenida de Moscú 2, Costa Adeje.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Komplette Tauchausrüstung: Maske, Neoprenanzug, Füßlinge und Flossen; Tauchgang von 45 Minuten; Begrüßungskaffee; Tauchversicherung; Fahrt zum Tauchplatz und zurück zum Center; Wasser, Obst und Snacks.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere, Menschen mit Epilepsie oder über 70; Nach dem Tauchen 12 bis 24 Stunden nicht fliegen.'
 categoria: agua
 keywords:
 - schnuppertauchen adeje

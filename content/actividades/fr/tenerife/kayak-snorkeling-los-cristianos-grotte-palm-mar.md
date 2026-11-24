@@ -78,6 +78,10 @@ preguntasFrecuentes:
   respuesta: 'Elles sont fréquentes sur cette côte, mais ce sont des animaux sauvages et leur présence n''est jamais garantie.'
 - pregunta: 'Puis-je demander un guide dans ma langue ?'
   respuesta: 'Certains guides parlent français, italien et portugais, mais ils sont attribués selon les disponibilités. Écrivez à l''opérateur sur WhatsApp avant le jour J.'
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Mana Kayak, Calle del Valle Menéndez, 22, local 1, Los Cristianos (38650 Arona). Dans le centre de Los Cristianos, à 3 minutes à pied de la plage. Si vous voulez vous assurer d''avoir un guide dans une langue précise, écrivez-leur avant sur WhatsApp.'
 opinionEditorial: 'L''une des sorties en kayak les mieux notées du sud de Tenerife : le trajet jusqu''à la grotte de Palm-Mar est magnifique et l''équipement est complet. Elle est plus longue et plus exigeante que d''autres sorties en kayak, donc mieux adaptée aux personnes en forme.'
 guiasRelacionadas:
 - que-voir-a-tenerife

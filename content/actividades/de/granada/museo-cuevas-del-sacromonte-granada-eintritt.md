@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Etwa eine Stunde."
 - pregunta: "Gibt es eine Führung?"
   respuesta: "Nein, es ist ein Eintritt für den freien Besuch."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barranco de los Negros s/n, 18010 Granada. Mit dem Bus C2 ab Plaza Nueva bis Haltestelle Sacromonte.'
 categoria: entradas
 guiasRelacionadas:
 - granada-in-2-tagen

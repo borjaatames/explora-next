@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: La guida parla tedesco, francese, italiano, spagnolo, inglese.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo in hotel; Trasporto in pullman; Guida locale; Ingresso, visita e degustazione alla cantina Los Berrazales; Assicurazione di viaggio; Consigli locali.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a chi soffre di mal d''auto o ha mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande.'
 categoria: excursionesDia
 keywords:
 - escursione valle di agaete

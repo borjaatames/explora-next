@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Non, une initiation est incluse."
 - pregunta: "Une boisson est-elle offerte ?"
   respuesta: "Oui."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Magasin Sevilla Bike Tour ; l''adresse exacte figure dans la réservation.'
 categoria: toursCiudad
 guiasRelacionadas:
 - seville-en-1-jour

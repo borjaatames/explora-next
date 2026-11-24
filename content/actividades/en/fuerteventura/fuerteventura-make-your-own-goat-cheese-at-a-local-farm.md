@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Quesería La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
+- pregunta: 'What is included?'
+  respuesta: 'Welcome coffee; Guided cheese-making workshop; Hand and machine milking techniques; Making your own Majorero cheese; All tools and equipment; Breakfast: fresh cheese sandwich, local cheese board, Canarian mojos and home-made jams.'
+- pregunta: 'What is not included?'
+  respuesta: 'Extra drinks.'
 categoria: talleres
 keywords:
 - cheese making fuerteventura

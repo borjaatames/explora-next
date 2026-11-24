@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Französisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: '4x4-Tour im geschlossenen SUV (max. 6 Gäste + Fahrer); Erklärungen in deiner Sprache; Hotelabholung im Süden der Insel; Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Menschen mit Rückenproblemen; Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen.'
 categoria: excursionesDia
 keywords:
 - 4x4 tour norden fuerteventura

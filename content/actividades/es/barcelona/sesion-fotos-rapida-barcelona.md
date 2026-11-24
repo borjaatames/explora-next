@@ -44,6 +44,17 @@ detallesPracticos:
   confirmacionInmediata: true
   accesibleSilla: true
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Cerca de la Sagrada Família, Barcelona (el fotógrafo confirma el punto exacto al reservar).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: '10 fotografías digitales totalmente editadas; Fotógrafo profesional durante 20 minutos; Entrega de las fotos en 24-48 horas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé; Se permiten animales de servicio; Bien comunicado en transporte público.'
 opinionEditorial: 'Para 35 euros y 20 minutos, es la opción lógica si solo quieres un puñado de fotos buenas sin montar una producción. No esperes decenas de escenarios distintos: es una sesión corta y centrada en moverte con naturalidad cerca de la Sagrada Familia.'
 atraccionesRelacionadas:
 - fotos

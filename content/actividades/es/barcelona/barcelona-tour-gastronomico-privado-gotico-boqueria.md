@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Sí, hay opciones sin alcohol y los churros gustan a todos.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Gran Teatre del Liceu, Rambla, Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado durante 3 horas; Degustaciones en 5 paradas; Tres bebidas (con o sin alcohol).'
 opinionEditorial: Un recorrido gastronómico bien pensado por el Gótico, con paradas variadas y sin prisas. En privado se adapta a gustos y alergias.
 atraccionesRelacionadas:
 - tapas-barcelona

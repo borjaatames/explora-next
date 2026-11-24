@@ -78,6 +78,10 @@ preguntasFrecuentes:
   respuesta: An dieser Küste sind sie häufig, aber es sind wilde Tiere, und Sichtungen sind nie garantiert.
 - pregunta: Kann ich einen Guide in meiner Sprache anfragen?
   respuesta: Es gibt Guides, die Französisch, Italienisch und Portugiesisch sprechen, aber sie werden nach Verfügbarkeit eingeteilt. Schreib dem Anbieter vor dem Tag per WhatsApp. Deutsch gehört nicht zu den angebotenen Sprachen.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Mana Kayak, Calle del Valle Menéndez, 22, local 1, Los Cristianos (38650 Arona). Im Zentrum von Los Cristianos, 3 Minuten zu Fuß vom Strand. Wenn du sichergehen willst, einen Guide in einer bestimmten Sprache zu bekommen, schreib vorher per WhatsApp.'
 opinionEditorial: 'Eine der bestbewerteten Kajaktouren im Süden Teneriffas: Die Strecke bis zur Höhle von Palm-Mar ist wunderschön, und die Ausrüstung ist komplett. Sie ist länger und anstrengender als andere Kajaktouren und passt daher besser zu fitten Leuten.'
 guiasRelacionadas:
 - was-sehen-auf-teneriffa

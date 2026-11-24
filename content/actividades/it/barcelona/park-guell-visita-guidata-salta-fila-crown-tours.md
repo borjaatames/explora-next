@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Circa 55 minuti."
 - pregunta: "Dove ci si incontra?"
   respuesta: "Ctra. del Carmel 23, di fronte al parcheggio."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ctra. del Carmel 23, di fronte al parcheggio del Park Güell. Il coordinatore indossa un''uniforme viola e ha una bandiera.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-biglietti-esauriti

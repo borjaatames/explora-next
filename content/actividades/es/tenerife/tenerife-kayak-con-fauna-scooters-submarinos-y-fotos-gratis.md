@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, portugués, italiano.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Equipo de esnórquel; Equipo de kayak; Fotos; Seguro; Taquillas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que saber nadar; No apto para embarazadas, mayores de 70 años ni con más de 110 kg.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - kayak tenerife scooter submarino

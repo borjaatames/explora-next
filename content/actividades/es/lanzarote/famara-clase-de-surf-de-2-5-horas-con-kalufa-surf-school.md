@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Aparcamiento de la playa de Famara (Calle Brezo de Mar 1, Urbanización Famara). La hora depende de las condiciones.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Clase de surf de 2,5 horas; Tabla de surf y neopreno; Material gratis el resto del día tras la clase.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que saber nadar; No apto para menores de 8 años; los menores de 10 necesitan un adulto durante la clase.'
 categoria: agua
 keywords:
 - kalufa surf school

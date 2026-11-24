@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: 550 € por el barco completo, seáis 2 o 7.
 - pregunta: ¿Se puede cancelar?
   respuesta: Gratis hasta 60 días antes; después no hay reembolso.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Velero privado con patrón; Aperitivo y bebidas (1 botella de vino o cava por cada 2 personas); Agua; Equipo de snorkel, paddle surf y kayak.'
 opinionEditorial: Es Vedrà al atardecer es una de las imágenes más famosas de Ibiza, y verla desde un velero propio con una copa de cava es difícil de superar.
 atraccionesRelacionadas:
 - vedra-atardecer

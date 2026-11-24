@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "No, portate cibo e bevande."
 - pregunta: "Quanto dura?"
   respuesta: "Tre ore."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Alcúdia o di Can Picafort secondo l''opzione; il punto esatto è nella prenotazione.'
 categoria: agua
 guiasRelacionadas:
 - migliori-calette-maiorca

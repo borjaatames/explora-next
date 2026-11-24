@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Verificatelo alla prenotazione in base all'opzione."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, tra le altre lingue."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e rientro nel nord (Corralejo, Lajares, Villaverde, El Cotillo); Minibus climatizzato con autista; Guida; Tempo libero in alcune soste.'
 categoria: excursionesDia
 keywords:
 - "tour dell'isola fuerteventura"

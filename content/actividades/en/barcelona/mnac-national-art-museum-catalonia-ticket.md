@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: 'It is something else: this is the context. The MNAC''s Modernisme section (Gaudí furniture, Casas, Rusiñol) explains where La Pedrera and Casa Batlló come from, and for €12 you see a thousand years of Catalan art without queues.'
 - pregunta: How long?
   respuesta: 'Two hours for Romanesque, Gothic and Modernisme. Half an hour more on the terrace: the view from Plaça d''Espanya to Tibidabo is the best free panorama in Barcelona.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'MNAC, Palau Nacional, Parc de Montjuïc, Barcelona. Metro Espanya (L1/L3) then 10 minutes up the escalators on Avinguda de la Reina Maria Cristina. Show your voucher at the desk.'
 opinionEditorial: Barcelona's most underrated museum. The Romanesque frescoes exist nowhere else in the world and the Palau Nacional terrace is worth the ticket on its own. Twelve euros, no queues, ten minutes from the metro.
 guiasRelacionadas:
 - barcelona-in-3-days

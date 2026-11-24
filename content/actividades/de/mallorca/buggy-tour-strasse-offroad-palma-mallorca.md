@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Einen originalen Pkw-Führerschein (Klasse B); Fahrer ab 21 Jahren."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, die Tour wird auf Deutsch angeboten."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Buggy Tour Mallorca, bei Llucmajor; die genaue Lage steht in der Buchungsbestätigung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

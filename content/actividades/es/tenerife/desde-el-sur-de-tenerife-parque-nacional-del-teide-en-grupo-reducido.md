@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, neerlandés, alemán, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso al hotel; Experiencia personalizada; Máximo 8 pasajeros; Hora de salida cómoda.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'El día antes recibes un WhatsApp con la hora exacta de recogida; Recogida solo en el sur: Costa Adeje, Las Américas y Los Cristianos.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Teleférico; Comida, bebidas y snacks.'
 categoria: excursionesDia
 keywords:
 - teide grupo reducido

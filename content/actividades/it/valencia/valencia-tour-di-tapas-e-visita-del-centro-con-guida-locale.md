@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "No, la prenotazione parte da 2 persone."
 - pregunta: "Dov'è il punto d'incontro?"
   respuesta: "Plaza de Santa Catalina, davanti all'Horchatería Santa Catalina, alle 11."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Guida locale; Pranzo di tapas; Bevande (vino o birra).'
 categoria: toursGastronomicos
 keywords:
 - "tapas valencia"

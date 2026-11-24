@@ -53,6 +53,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: 'Según el proveedor, la reserva no es reembolsable: revisa bien la fecha y la hora antes de pagar.'
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Según el proveedor, la reserva no es reembolsable: revisa bien la fecha y la hora antes de pagar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de Cánovas del Castillo (Fuente de Neptuno), frente al Museo Thyssen-Bornemisza, 28014 Madrid.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tour privado en tuk-tuk eléctrico (hasta 4 personas por tuk-tuk); Audioguía con auriculares en 11 idiomas; Agua fresca, wifi y cargador para el móvil; Alzador para niños.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Llega 10 minutos antes; el tuk-tuk espera en la zona de aparcamiento frente al Museo Thyssen; Edad mínima 3 años; Si sois más de 4, reserva un tuk-tuk por cada grupo de 4.'
 opinionEditorial: Suma las dos rutas cortas de Tuk Tuk Zero en una. Si tenéis poco tiempo y queréis ver tanto el Madrid de los Austrias como el Bernabéu y el barrio de Salamanca, es la opción. Para una sola zona, la ruta corta del centro histórico es más barata. La reserva no es reembolsable.
 atraccionesRelacionadas:
 - bernabeu

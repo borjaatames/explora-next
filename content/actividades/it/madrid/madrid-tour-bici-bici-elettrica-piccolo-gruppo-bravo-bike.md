@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Bisogna saper andare in bici; la bici elettrica aiuta in salita."
 - pregunta: "Dove ci si incontra?"
   respuesta: "A 3 minuti da Plaza de España, lato nord-ovest."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'A 3 minuti a piedi da Plaza de España, lato nord-ovest (metro linee 3 e 10).'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-in-1-giorno

@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sì, a circa 10-12 km. Da Maspalomas e Playa del Inglés c'è l'autobus; in auto sono 15-20 minuti di strada di montagna.
 - pregunta: C'è lo spettacolo dei delfini?
   respuesta: Sì, Palmitos Park ha un delfinario con spettacolo incluso nel biglietto.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Palmitos Park, Barranco de los Palmitos s/n, Maspalomas, Gran Canaria. Il parco è nel Barranco de los Palmitos, a circa 10 km da Maspalomas. Ci sono autobus da Playa del Inglés e Maspalomas. In auto, prendi la GC-503 dalla GC-500 (Maspalomas). Il parcheggio è gratuito.'
 opinionEditorial: 'Palmitos Park non compete con il Loro Parque per dimensioni, ma ha qualcosa che quello non ha: un barranco canario naturale che rende la passeggiata un''esperienza in sé. Il farfallario tropicale non va perso.'
 guiasRelacionadas:
 - cosa-vedere-a-gran-canaria

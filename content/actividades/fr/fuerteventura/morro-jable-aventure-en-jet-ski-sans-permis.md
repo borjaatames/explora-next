@@ -48,6 +48,10 @@ preguntasFrecuentes:
   respuesta: Non, par jet-ski pour deux personnes. Pour un jet-ski chacun, réservez pour 3 participants.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Carburant; Guide.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Le prix est pour 2 personnes sur 1 jet-ski; Selon l''état de la mer; La cabane du prestataire est sur le sable, avec un drapeau rose.'
 categoria: agua
 keywords:
 - jet ski morro jable

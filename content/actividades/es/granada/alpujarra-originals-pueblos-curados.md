@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Algunas reseñas lo mencionan. El operador (Discovering Spain) responde activamente a las reseñas y parece priorizar grupos pequeños. No está garantizado por contrato, pero la tendencia es a aforos reducidos.
 - pregunta: ¿Hay recogida en hotel?
   respuesta: Sí, disponible al reservar (consulta las opciones en GYG). Algunos clientes mencionan que les dejaron de vuelta al hotel incluso sin esperarlo.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Discovering Spain office, Plaza de las Descalzas 3, Granada (o recogida opcional en hotel). La oficina de Discovering Spain está en Plaza de las Descalzas 3, en el centro de Granada (zona de la Catedral). Llega 10-15 minutos antes para registrarte. Alternativamente, hay opción de recogida en hotel — algunos clientes mencionan en reseñas que les recogieron y dejaron en el hotel directamente, incluso cuando no lo esperaban.'
 variantes:
 - alpujarra-pueblos-montana
 opinionEditorial: 'La versión "premium" de la excursión a la Alpujarra: la distinción Originals by GetYourGuide y la operadora Discovering Spain marcan la diferencia. Más cara que el tour estándar (115 € vs 71 €) pero con grupo más reducido y mayor atención personal. Las respuestas del operador en reseñas son frecuentes y personales — buen indicio de cuidado con el cliente.

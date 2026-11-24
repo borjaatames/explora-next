@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: Ja, per Audioguide. Der Guide selbst spricht Englisch und Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung in deiner Unterkunft in Barcelona.'
+- pregunta: 'Gilt der Preis pro Person?'
+  respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 opinionEditorial: Die einzige vernünftige Art, alle vier Dalí-Orte an einem Tag zu sehen. Für Dalí-Fans jeden Euro wert.
 atraccionesRelacionadas:
 - otros-barcelona

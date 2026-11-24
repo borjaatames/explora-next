@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Entre une heure et une heure et demie."
 - pregunta: "La visite est-elle en français ?"
   respuesta: "Oui, choisissez le français au moment de réserver."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Bureau d''OWAY Tours, Plaza del Triunfo, à côté de la Mosquée-Cathédrale.'
 categoria: visitasGuiadas
 keywords:
 - "mosquée cordoue visite guidée billets"

@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Transporte até à praia; Prancha de surf macia ou de epóxi; Fato Billabong; Instrutor experiente com curso de nadador-salvador.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'A praia muda conforme o vento, a maré e o tempo; Depois de reservar envie o hotel, telemóvel, altura e peso; Idade mínima: 13 anos.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Comida e bebidas.'
 categoria: agua
 keywords:
 - aula de surf sul de fuerteventura

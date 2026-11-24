@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Drei Stunden."
 - pregunta: "Kann ich stornieren?"
   respuesta: "Bis 24 Stunden vorher mit 50 % Erstattung."
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Je nach Option am Eingang der Alhambra; der genaue Treffpunkt steht in der Buchung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Allgemeines Ticket mit schnellem Einlass; Nasridenpaläste; Offizieller lokaler Guide; Kopfhörer.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-tickets-ausverkauft

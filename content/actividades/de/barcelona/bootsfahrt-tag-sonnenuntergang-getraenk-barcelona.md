@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Am Strand vor dem Pati Vela, an den Fahnen von Catamarán TurTur."
 - pregunta: "Was passiert bei schlechtem Wetter?"
   respuesta: "Neuer Termin oder volle Erstattung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Willkommensgetränk; Kapitän und Crew; Treibstoff, Reinigung, Versicherung und Steuern; WLAN an Bord.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-in-2-tagen

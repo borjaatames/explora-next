@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Strecke ist flach und es gibt Pausen."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Bei Bike Tours Málaga, neben dem Hotel Room Mate Valeria."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fahrrad; Guide.'
 categoria: toursCiudad
 guiasRelacionadas:
 - malaga-sehenswuerdigkeiten-an-einem-tag

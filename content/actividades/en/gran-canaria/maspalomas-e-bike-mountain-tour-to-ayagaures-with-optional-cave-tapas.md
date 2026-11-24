@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Avenida de Alemania 22, Playa del Inglés (San Bartolomé de Tirajana).'
+- pregunta: 'What is included?'
+  respuesta: 'E-bike; Helmet and reflective vest; Local guide; 0.5 l bottle of water; 1 drink: tropical fruit soda, cola, orange soda, iced tea or coffee.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for under-14s, over-70s or people with reduced mobility.'
 categoria: aventura
 keywords:
 - e-bike tour maspalomas

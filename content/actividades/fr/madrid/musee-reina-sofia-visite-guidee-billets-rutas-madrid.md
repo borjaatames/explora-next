@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Oui, c'est le point fort de la visite."
 - pregunta: "Combien de temps ?"
   respuesta: "1 h 30, ou plus avec l'option repas."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Selon l''option ; près du musée Reina Sofía, calle Santa Isabel. Le point exact est dans la confirmation.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - musee-reina-sofia-billets-epuises

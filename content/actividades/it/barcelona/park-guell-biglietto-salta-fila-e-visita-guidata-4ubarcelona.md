@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Sì, quanto volete."
 - pregunta: "Dove ci si incontra?"
   respuesta: "Ctra. del Carmel 22."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Ctra. del Carmel 22, Horta-Guinardó; la visita inizia e finisce qui.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-biglietti-esauriti

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, Italian.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
+- pregunta: 'What is included?'
+  respuesta: 'Sailing trip with guide; Whale watching; Drinks: water, wine, cava, beer and soft drinks; Snacks; Snorkelling gear.'
+- pregunta: 'What is not included?'
+  respuesta: 'Hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - sailing tenerife whales

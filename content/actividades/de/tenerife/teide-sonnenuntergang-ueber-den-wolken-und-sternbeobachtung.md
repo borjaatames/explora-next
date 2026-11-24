@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Lizenzierte, professionelle Guides; Geführter Sonnenuntergang und Sternbeobachtung; Transport ab ausgewählten Treffpunkten (je nach Option); Sternbilder mit grünem Laser erklärt; Profi-Teleskope (Teleskop-Option); Picknick zum Sonnenuntergang (Picknick-Option).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Warme Kleidung mitnehmen: Nachts wird es kalt; Rückfahrt zum selben Treffpunkt; Nicht für Schwangere, bei Rückenproblemen oder im Rollstuhl.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Abendessen, sofern nicht in der Option enthalten; Professionelle Fotos; Warme Kleidung oder Decken.'
 categoria: nocturno
 keywords:
 - teide sonnenuntergang tour

@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Ja, das fertige Stück gehört Ihnen."
 - pregunta: "Ist der Workshop für Kinder geeignet?"
   respuesta: "Ja, ab 3 Jahren in Begleitung eines Erwachsenen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Mosaiccos, Carrer dels Assaonadors 10, Born (Ciutat Vella).'
 categoria: visitasGuiadas
 keywords:
 - "mosaik workshop barcelona"

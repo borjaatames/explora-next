@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
+- pregunta: 'What is included?'
+  respuesta: 'Taxes and fees; Guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Single jet ski from 16 with written parental consent; double jet ski drivers 18+; Passengers from 10; Bring a valid photo ID.'
 categoria: agua
 keywords:
 - 1 hour jet ski tenerife

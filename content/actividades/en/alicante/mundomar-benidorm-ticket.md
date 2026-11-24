@@ -65,6 +65,12 @@ preguntasFrecuentes:
   respuesta: No. The dolphin show is included, but the interactive "swim with dolphins" experience is a separate paid add-on bookable at the park. Prices vary; confirm at the ticket office on arrival.
 - pregunta: What age is Mundomar best for?
   respuesta: Excellent for children aged 3–12 and families with young children. The dolphin and sea lion shows appeal to all ages. The animal enclosures and bird garden are popular with adults too.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Mundomar, Partida de les Fonts, s/n, Benidorm, Alicante. Mundomar shares an access road with Terra Mítica, 5 km from Benidorm centre. The same buses from Benidorm that serve Terra Mítica stop here. By car, take the N-332 towards Finestrat. Parking is shared with Terra Mítica.'
+- pregunta: 'What is included?'
+  respuesta: 'Full-day park entry; Dolphin show; Sea lion show; Access to all animal enclosures and bird areas.'
 opinionEditorial: Mundomar is underrated. The dolphin show is genuinely excellent, the variety of animals is wider than you'd expect, and it's far less crowded than a large theme park. The 4.7 rating with 1,582 reviews says it all.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

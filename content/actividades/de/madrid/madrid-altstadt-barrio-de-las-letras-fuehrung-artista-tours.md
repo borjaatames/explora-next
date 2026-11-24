@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "Vor dem Haus von Lope de Vega, Calle de Cervantes 11."
 - pregunta: "Ist Eintritt inklusive?"
   respuesta: "Nein, die Führung ist draußen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Stadtführung; Lokaler Guide auf Deutsch.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-an-einem-tag

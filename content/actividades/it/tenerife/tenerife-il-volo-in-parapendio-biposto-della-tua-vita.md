@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno da Los Cristianos a Playa Paraíso; Furgone climatizzato da 9 posti; Casco e imbragatura; Volo biposto (15-20 minuti); Istruttore; 5 foto GoPro (chiedile prima del volo).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'I voli dipendono dal meteo, che decide anche il punto di decollo; I gruppi di più di 4 volano in due turni; Non adatto sotto i 4 anni, in gravidanza o oltre i 100 kg.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande; Tutte le foto e i video GoPro (a pagamento).'
 categoria: aventura
 keywords:
 - parapendio taucho

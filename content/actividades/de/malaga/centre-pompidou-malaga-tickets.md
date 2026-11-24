@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Etwa anderthalb Stunden.
 - pregunta: Gibt es Tage mit freiem Eintritt?
   respuesta: Ja, sonntags ab 16:00 Uhr bis zur Schließung.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Diese Aktivität ist nicht erstattungsfähig.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Centre Pompidou Málaga, Muelle Uno, Pasaje Doctor Carrillo Casaux. Am Muelle Uno im Hafen, 10 Gehminuten von der Kathedrale entfernt.'
 opinionEditorial: Moderne Kunst der Spitzenklasse am Hafen für 9 €. Es ist kleiner als Málagas Picasso- oder Thyssen-Museum und eignet sich daher gut für einen Nachmittag oder einen Regentag.
 guiasRelacionadas:
 - malaga-in-zwei-tagen

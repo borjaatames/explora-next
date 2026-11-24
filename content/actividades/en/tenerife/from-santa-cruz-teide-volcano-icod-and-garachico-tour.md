@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Insurance; Local guide; Minivan transport; Pick-up and drop-off.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Teide has high-mountain weather: bring sun cream and warm clothes; Minimum 2 participants; Not suitable with breathing or heart problems, or within 24 hours of diving.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: excursionesDia
 keywords:
 - teide tour from santa cruz

@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Depende da opção: também há a modalidade só com transfer."
 - pregunta: "Pode levar-se comida?"
   respuesta: "Sim, segundo o operador. O parque também tem restaurantes."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Agência Amigo Tours em Madrid; a morada exata vem na confirmação da reserva.'
 categoria: excursionesDia
 guiasRelacionadas:
 - madrid-num-dia

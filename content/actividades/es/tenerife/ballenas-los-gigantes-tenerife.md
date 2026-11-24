@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Sí. Los delfines moteados del Atlántico y el delfín común se avistan con frecuencia, especialmente en verano. Algunos tours también ven tortugas marinas.
 - pregunta: ¿La excursión es apta para niños pequeños?
   respuesta: Sí, pero ten en cuenta que estaréis en un barco durante 2-3 horas. Los niños que tienden a marearse deben tomar precauciones.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Puerto de Los Gigantes, Santiago del Teide, Tenerife Oeste. Los Gigantes está en el suroeste de la isla. Toma la autopista TF-1 hasta Santiago del Teide o el bus 473 desde Adeje. El barco sale del muelle de Los Gigantes; llega 15 minutos antes.'
 opinionEditorial: La combinación de los acantilados de Los Gigantes —los más altos de Europa— con el avistamiento de calderones tropicales en su hábitat natural hace de esta excursión una de las más memorables de toda España. No es un espectáculo sino un encuentro con animales salvajes en libertad.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife

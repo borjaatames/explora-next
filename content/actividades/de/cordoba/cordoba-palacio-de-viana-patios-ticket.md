@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Nein, dieses Ticket umfasst die Innenhöfe und den Garten.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Palacio de Viana, Plaza de Don Gome 2, Córdoba. Im Viertel Santa Marina, etwa 20 Minuten zu Fuß von der Mezquita.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in die Innenhöfe und den Garten.'
 opinionEditorial: 'Zwölf Innenhöfe für 9 €: Wenn du nicht im Mai in Córdoba bist, siehst du hier am besten, warum die Patios zum immateriellen Kulturerbe der UNESCO gehören.'
 guiasRelacionadas:
 - patios-von-cordoba

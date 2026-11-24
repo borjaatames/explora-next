@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Chaleco salvavidas.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Hay que llevar camiseta bajo el chaleco; No apto para menores de 8 años, embarazadas ni personas con movilidad reducida; Máximo 100 kg.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Comida y bebidas.'
 categoria: agua
 keywords:
 - moto de agua playa blanca

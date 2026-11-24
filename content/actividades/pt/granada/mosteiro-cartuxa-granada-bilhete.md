@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Uma hora bem medida com o audioguia.
 - pregunta: É possível cancelar?
   respuesta: Não, o bilhete não é reembolsável.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Granada. A norte do centro, junto ao campus de Cartuja. Autocarros urbanos 8 e U3 a partir da Gran Vía (cerca de 15 minutos).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Bilhete para o Mosteiro da Cartuxa; Audioguia no telemóvel.'
 opinionEditorial: A grande desconhecida de Granada. A sacristia é um delírio barroco de mármore e estuques que deixa qualquer um sem palavras, e por 10 € tem-na quase só para si.
 categoria: entradas
 keywords:

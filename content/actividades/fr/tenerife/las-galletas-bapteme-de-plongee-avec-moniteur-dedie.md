@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Oui, le moniteur vous photographie sous l'eau."
 - pregunta: "Y a-t-il une prise en charge ?"
   respuesta: "Non, le rendez-vous est au centre de plongée de Las Galletas."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Centre de plongée LJ Diving, Calle Consuelo Alfonso Díaz-Flores 16, Las Galletas ; stationnement gratuit dans la rue.'
 categoria: agua
 keywords:
 - "baptême de plongée tenerife"

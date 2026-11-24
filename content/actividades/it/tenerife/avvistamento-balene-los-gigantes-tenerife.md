@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: Nessun operatore può garantire gli avvistamenti, ma i globicefali vivono tutto l'anno al largo della costa ovest di Tenerife (non sono migratori), quindi gli avvistamenti sono molto frequenti. Anche i delfini si vedono nella maggior parte delle uscite.
 - pregunta: Quali balene vedrò?
   respuesta: La specie più comune è il globicefalo di Gray, residente tutto l'anno. Si vedono molto spesso anche tursiopi e stenelle maculate atlantiche. Più rari sono i capodogli e le tartarughe comuni.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Los Gigantes, Tenerife. Los Gigantes si trova sulla costa ovest di Tenerife, a circa 45 km da Santa Cruz e 30 km da Las Américas. Dal sud si prendono le autostrade TF-1 e TF-47. C''è parcheggio al porto. Conferma con l''operatore il punto d''incontro esatto indicato nel voucher.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in barca (2-3 ore); Avvistamento di balene e delfini con una guida naturalista.'
 opinionEditorial: 'Los Gigantes unisce due dei grandi spettacoli naturali di Tenerife: le scogliere più alte di Spagna e i globicefali residenti a poca distanza dalla costa. È uno dei posti migliori d''Europa per l''avvistamento di cetacei.'
 guiasRelacionadas:
 - avvistamento-balene-tenerife

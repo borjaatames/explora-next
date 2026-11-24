@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Canyoning-Guide; Komplette Canyoning-Ausrüstung; Haftpflicht- und Unfallversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Kinder unter 14; Du musst schwimmen können; Nur für sportliche Menschen: inklusive 2 Stunden Wanderung.'
 categoria: aventura
 keywords:
 - canyoning teneriffa

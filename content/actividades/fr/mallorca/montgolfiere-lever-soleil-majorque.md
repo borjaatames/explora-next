@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Le vol peut être annulé ; vous aurez une autre date ou un remboursement."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Au Restaurante Bonanza à Cala Millor, ou ailleurs selon la météo."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: '1 h de vol en montgolfière; Coupe de cava; Photos et vidéos du vol; Certificat de vol; Assurance.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

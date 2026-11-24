@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia profissional; Passeio guiado; Equipamento completo: coletes, sapatilhas de água, walkie-talkie, bolsa estanque para o telemóvel; Briefing de segurança; Serviço de shuttle.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 6 anos; Crianças dos 6 aos 11 anos grátis com um adulto (uma criança por adulto).'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '1 h 30 min.'
 categoria: agua
 keywords:
 - caiaque transparente fuerteventura

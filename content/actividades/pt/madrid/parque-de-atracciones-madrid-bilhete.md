@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Sim, mas no inverno tem horário reduzido e na época baixa fecha alguns dias úteis. Consulte o calendário antes de comprar.
 - pregunta: Quantas atrações há?
   respuesta: Mais de 45, divididas entre adrenalina, famílias, crianças e zona aquática.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Não reembolsável: depois de reservar, não é possível cancelar nem alterar.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Parque de Atracciones de Madrid, Casa de Campo, 28011 Madrid. Metro linha 10 até Batán e depois 10 minutos a pé, ou teleférico desde Rosales na época. Entra com o bilhete no telemóvel.'
 opinionEditorial: O Parque de Atracciones de Madrid não tem a cenografia do Parque Warner, mas a localização na Casa de Campo e a mistura de atrações para todas as idades fazem dele uma ótima opção para um dia em família. O Abismo e o Tornado satisfazem quem procura adrenalina e a zona infantil é das melhores de Madrid.
 guiasRelacionadas:
 - madrid-com-criancas

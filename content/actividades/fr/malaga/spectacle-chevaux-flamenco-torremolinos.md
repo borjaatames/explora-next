@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Oui, selon l'option, en bus depuis les principales localités."
 - pregunta: "Peut-on payer par carte ?"
   respuesta: "Pas au bar ni à la boutique : espèces uniquement."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Centre équestre, senda del Pilar 4, 29620 Torremolinos. Échangez votre billet au guichet ; arrivez en avance.'
 categoria: espectaculos
 guiasRelacionadas:
 - malaga-en-deux-jours

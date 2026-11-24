@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Dal centro commerciale X-Sur di Costa Adeje alle 8:20, o vicino al vostro hotel."
 - pregunta: "Quanto dura?"
   respuesta: "Circa sette ore."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Alle 8:20 nel parcheggio gratuito del centro commerciale X-Sur, calle Lisboa 2, Costa Adeje (o prelievo vicino al vostro hotel a Las Américas).'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-biglietti-esauriti

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
+- pregunta: 'What is included?'
+  respuesta: 'Transfer back to the start at Cruz del Carmen; Local food tasting.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Bring a light jacket: light rain is very common in Anaga; Not suitable for people with reduced mobility.'
 categoria: aventura
 keywords:
 - anaga hike

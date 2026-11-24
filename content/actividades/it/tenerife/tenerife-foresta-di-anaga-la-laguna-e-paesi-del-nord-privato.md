@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: La guida parla inglese, tedesco, italiano, spagnolo.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno in tutto il sud di Tenerife; Tour privato in veicolo climatizzato; Guida professionista in inglese, spagnolo e italiano; Frutta fresca e acqua; Itinerario flessibile e personalizzato.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'La guida ti contatta qualche giorno prima per organizzare i dettagli; Non adatto a chi soffre di vertigini.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Cibo e bevande non indicati; Sosta facoltativa in un ristorante canario (extra).'
 categoria: excursionesDia
 keywords:
 - tour privato anaga

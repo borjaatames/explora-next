@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Buendía Corralejo, Calle La Atalaya 2, Corralejo. Combine a hora com a escola por WhatsApp depois de reservar.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Instrutores certificados (FES, FCS, ISA); Todo o equipamento; Transporte até ao spot; Aula teórica e prática; Seguro de responsabilidade civil e acidentes.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 15 anos; Não recomendado a grávidas; Não recomendado a pessoas com problemas cardíacos ou utilizadores de cadeira de rodas.'
 categoria: agua
 keywords:
 - aula de surf principiantes corralejo

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Clase de surf con monitores titulados por la ISA; Teoría y calentamiento en la playa; Práctica en el agua con ayuda constante; Tabla de surf; Neopreno.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida y regreso al hotel; Comida y bebidas; Seguro de viaje.'
 categoria: agua
 keywords:
 - clase de surf playa de las americas

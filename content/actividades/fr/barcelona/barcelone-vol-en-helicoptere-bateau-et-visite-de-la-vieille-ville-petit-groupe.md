@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, seulement l'extérieur."
 - pregunta: "Combien de personnes dans le groupe ?"
   respuesta: "8 au maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Passatge de la Concepció, 7, dans l''Eixample, près du Passeig de Gràcia.'
 categoria: toursCiudad
 keywords:
 - "vol hélicoptère barcelone"

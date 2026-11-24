@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Aperitivo e snack; Bevanda; Trasporto dall''hotel.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Serve la patente B da almeno 1 anno; non valgono permessi provvisori o sostitutivi cartacei; Non adatto se hai fatto immersioni nelle 24 ore precedenti.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Foto; Giacche e cappotti.'
 categoria: aventura
 keywords:
 - mustang teide

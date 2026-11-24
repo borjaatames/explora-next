@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Oui, café ou thé, sodas et eau."
 - pregunta: "A-t-on les photos ?"
   respuesta: "Oui, toutes les photos de l'excursion sont offertes."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Mar Blanco 6, derrière l''hôtel H10, au restaurant Don Darío (San Bartolomé de Tirajana).'
 categoria: aventura
 keywords:
 - "buggy grande canarie"

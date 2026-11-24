@@ -43,6 +43,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'La Molina de Lanzarote, Calle Tenderete 20, San Bartolomé.'
+- pregunta: 'What is included?'
+  respuesta: 'Guided tour of the mill; Hands-on gofio workshop; Gofio ball (pella) making workshop; Tasting.'
+- pregunta: 'How long does it last?'
+  respuesta: '1 hour.'
 categoria: talleres
 keywords:
 - gofio mill lanzarote

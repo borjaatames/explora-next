@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Jacket for the cold (if needed); Water and cold soft drinks; Expert instructors throughout; Jeep Wrangler for you to drive.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Physical driving licence or the official digital one required; Not suitable for pregnant women or people with back problems.'
+- pregunta: 'What is not included?'
+  respuesta: 'Pick-up and drop-off at your accommodation.'
 categoria: aventura
 keywords:
 - jeep teide sunset

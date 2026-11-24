@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Não, é uma visita à praça e à exposição."
 - pregunta: "Quanto tempo é preciso?"
   respuesta: "Cerca de uma hora."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Praça de touros de La Malagueta, paseo de Reding 8, Málaga.'
 categoria: entradas
 guiasRelacionadas:
 - malaga-em-2-dias

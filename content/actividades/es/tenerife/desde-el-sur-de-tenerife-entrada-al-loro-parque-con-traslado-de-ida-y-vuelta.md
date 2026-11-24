@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: No. La entrada se entrega en el autocar, así que el traslado es obligatorio.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida y regreso en hoteles del sur de Tenerife; Entrada al Loro Parque; Traslados.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Recogida solo en el sur de la isla; Las entradas se entregan en el autocar: hay que usar el traslado para entrar.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzo.'
 categoria: parques
 keywords:
 - loro parque con traslado

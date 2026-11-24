@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, secondo l'opzione."
 - pregunta: "Ci sono limitazioni?"
   respuesta: "Non adatto a donne in gravidanza, allergici agli animali o persone oltre i 110 kg."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Secondo l''opzione: parco dei dromedari vicino a La Camella (Arona), nel sud di Tenerife, o prelievo; dettagli dopo la prenotazione.'
 categoria: parques
 guiasRelacionadas:
 - cosa-vedere-a-tenerife

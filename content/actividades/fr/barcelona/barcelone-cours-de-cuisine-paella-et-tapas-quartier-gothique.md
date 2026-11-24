@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: "Oui, végétarienne et végane sur demande."
 - pregunta: "Les boissons sont-elles comprises ?"
   respuesta: "Oui, le vin local est inclus."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Cook & Taste, Carrer del Paradís 3, quartier gothique, à deux pas de la Plaça Sant Jaume (métro Jaume I, ligne 4, ou Liceu, ligne 3).'
 categoria: toursGastronomicos
 keywords:
 - "cours de cuisine barcelone"

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla francés, inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de Isabel II (Ópera), junto a la estatua de la reina.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía oficial privado durante 3 horas; Entrada sin colas al Palacio Real; Asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

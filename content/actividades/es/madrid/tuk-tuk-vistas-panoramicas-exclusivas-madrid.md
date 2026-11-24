@@ -49,6 +49,17 @@ detallesPracticos:
   accesibleSilla: false
   edadMinima: 3
 politicaCancelacion: Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes del inicio, con reembolso completo (cargo del 100% si se cancela con menos antelación).'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza de la Villa, 28005 Madrid, España.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Entrada/admisión; Transporte privado en tuk-tuk durante todo el recorrido.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 3 años; los bebés no pueden viajar en brazos; Sillas infantiles disponibles bajo petición previa; No accesible para sillas de ruedas.'
 opinionEditorial: 'El tuk-tuk es una forma ágil de ver mucho Madrid en poco tiempo, pero no es un tour a pie: no esperéis paradas largas ni explicaciones profundas de cada monumento. Funciona muy bien si vais en grupo y queréis repartir el coste entre varios, o si alguien del grupo tiene dificultad para caminar largas distancias pero no usa silla de ruedas.'
 atraccionesRelacionadas:
 - tuk-tuk

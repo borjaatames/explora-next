@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: 'O primeiro troço (até à praia) é simples: cerca de 10-15 minutos por um caminho de seixos entre paredes de rocha. Para avançar mais pela garganta é preciso trepar rochas.'
 - pregunta: Vale a pena combinar com o comboio de Sóller?
   respuesta: Sem dúvida. O comboio histórico de madeira Palma-Sóller (1961) + elétrico até ao porto + barco a Sa Calobra é a excursão clássica de Maiorca. Não a perca.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Porto de Port de Sóller, Moll de Pesquers, Port de Sóller, Maiorca. O cais de embarque fica no porto de Sóller. Para chegar a partir de Palma: comboio histórico de madeira Palma-Sóller (1 h, muito recomendável) + elétrico até ao porto. Ou de carro pela Ma-11.'
 opinionEditorial: 'O Torrent de Pareis é um dos recantos mais espetaculares de Espanha e o barco a partir de Sóller é a forma mais cómoda de lá chegar. Combinado com o comboio histórico de madeira Palma-Sóller, tem a excursão de um dia perfeita em Maiorca. Reserve com antecedência na época alta: os barcos enchem.'
 categoria: agua
 keywords:

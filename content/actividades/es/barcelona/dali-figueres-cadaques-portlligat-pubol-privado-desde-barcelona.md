@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: El guía habla español e inglés; hay audioguía en alemán, francés e italiano.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu alojamiento de Barcelona.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
 opinionEditorial: 'Es la única forma razonable de ver los cuatro lugares de Dalí en un día: en transporte público es imposible. Para quien admira al pintor, merece cada euro.'
 atraccionesRelacionadas:
 - otros-barcelona

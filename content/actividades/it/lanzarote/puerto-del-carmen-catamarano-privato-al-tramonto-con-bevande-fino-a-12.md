@@ -46,6 +46,14 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Il prezzo è a persona?'
+  respuesta: 'No. Il prezzo è per gruppo, non a persona.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Uscita in catamarano; Snack leggeri; Bibite, acqua, sangria, birra e champagne; Prelievo in hotel (solo con questa opzione).'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a persone con mobilità ridotta; Può essere cancellato con mare mosso.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Prelievo in hotel (opzione senza); Mance; Altre bevande.'
 categoria: agua
 keywords:
 - catamarano privato lanzarote

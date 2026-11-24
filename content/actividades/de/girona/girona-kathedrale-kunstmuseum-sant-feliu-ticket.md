@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Etwa 3 Stunden für die drei Besuche, aber du hast 48 Stunden, um sie zu verteilen.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Tausch deinen Gutschein am Empfang des Kunstmuseums ein, neben der Treppe der Kathedrale.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in die Kathedrale und ihren Domschatz; Eintritt in die Basilika Sant Feliu; Eintritt ins Kunstmuseum; Audioguide für die Kathedrale.'
 opinionEditorial: Das Wichtigste der Altstadt von Girona mit einem Ticket für 12 €. Allein das Kirchenschiff der Kathedrale und der Schöpfungsteppich rechtfertigen den Preis.
 guiasRelacionadas:
 - girona-in-einem-tag

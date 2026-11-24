@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Deutsch, Englisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Guide; Busfahrt; Abholung in den Urlaubsgebieten im Süden; Haftpflichtversicherung.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'In Las Palmas gibt es keine Abholung; Nicht geeignet für Menschen mit eingeschränkter Mobilität.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen; Abholung und Rückfahrt in Las Palmas; Eintritt in die Kirche von Arucas.'
 categoria: excursionesDia
 keywords:
 - gran canaria inselrundfahrt

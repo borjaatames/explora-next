@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Ja, so lange Sie möchten."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "Ctra. del Carmel 22."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Ticket ohne Anstehen für die Monumentalzone; Zertifizierter Guide; Freier Aufenthalt nach der Führung.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-tickets-ausverkauft

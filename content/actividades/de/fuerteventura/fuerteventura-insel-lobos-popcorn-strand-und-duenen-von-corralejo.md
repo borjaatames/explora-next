@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Nein, bitte etwas zu essen mitnehmen."
 - pregunta: "Wie groß ist die Gruppe?"
   respuesta: "Höchstens 8 Personen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Ihrer Unterkunft in Corralejo oder Caleta de Fuste.'
 categoria: excursionesDia
 keywords:
 - "insel lobos ausflug"

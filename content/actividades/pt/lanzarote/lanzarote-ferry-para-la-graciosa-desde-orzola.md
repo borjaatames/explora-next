@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sim, o estacionamento da Líneas Romero é gratuito."
 - pregunta: "É preciso regressar no mesmo dia?"
   respuesta: "A hora de regresso escolhe-se na reserva; também há bilhetes só de ida."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Líneas Romero, cais de Órzola (Calle La Quemadita), no norte de Lanzarote.'
 categoria: agua
 keywords:
 - "ferry la graciosa"

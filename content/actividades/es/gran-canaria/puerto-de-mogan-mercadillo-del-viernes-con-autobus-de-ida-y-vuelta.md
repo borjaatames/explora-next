@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español, alemán.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Autobús directo de ida y vuelta desde tu zona al mercadillo; Asistente de guía en los traslados; Tiempo libre en Puerto de Mogán.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No recomendable para personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Recogida fuera de las zonas indicadas (Taurito no incluido).'
 categoria: excursionesDia
 keywords:
 - mercadillo de mogan

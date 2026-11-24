@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: No, per buggy for up to 2 people.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off (if selected); Gloves, eye mask and jacket; Insurance; Free drinks; Guided tour with photo stops.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Drivers must be 21+ with a valid licence; Children from 4 in the 4-seat option, in the back seats; Pick-up area from Golf del Sur to Callao Salvaje.'
 categoria: aventura
 keywords:
 - teide buggy sunset

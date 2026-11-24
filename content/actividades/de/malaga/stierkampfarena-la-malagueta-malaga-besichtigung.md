@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Nein, es ist eine Besichtigung der Arena und der Ausstellung."
 - pregunta: "Wie lange braucht man?"
   respuesta: "Etwa eine Stunde."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Stierkampfarena La Malagueta, Paseo de Reding 8, Málaga.'
 categoria: entradas
 guiasRelacionadas:
 - malaga-in-zwei-tagen

@@ -46,6 +46,17 @@ detallesPracticos:
   mascotasPermitidas: false
 accesibilidad: No accesible para sillas de ruedas. Incluye recorridos a pie. No recomendado para personas con problemas cardiacos.
 politicaCancelacion: Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.
+preguntasFrecuentes:
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta el inicio de la actividad, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en Barcelona (punto y hora confirmados al reservar). El viaje arranca en Barcelona; el punto de recogida y los detalles del itinerario se confirman al reservar.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Alojamiento en hoteles seleccionados; Desayuno y cena; Entradas a los monumentos indicados; Trenes de alta velocidad (AVE) entre ciudades; Traslados de aeropuerto indicados; Visitas guiadas a pie en Barcelona y Madrid.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Almuerzos; Propinas; Extras y souvenirs.'
+- pregunta: '¿Cuánto dura?'
+  respuesta: '9 días.'
 opinionEditorial: 'Es un "gran tour" de España resuelto de principio a fin: cuatro ciudades imprescindibles en nueve días, moviéndote en AVE (lo más cómodo entre capitales), con hoteles, desayunos, cenas y entradas ya incluidos, y guía a pie en Barcelona y Madrid. La gracia es que es privado, así que no vas pegado a un grupo de 40 personas: hay estructura pero también tiempo libre. Es una experiencia premium (el precio es por persona, mínimo 2); para una familia o un grupo de amigos que quieren ver lo esencial de España sin organizar nada, tiene mucho sentido.'
 atraccionesRelacionadas:
 - otros-barcelona

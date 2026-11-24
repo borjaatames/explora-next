@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, French, German.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off in the south of Tenerife; Transfers; Fast ferry; Lunch; Multilingual guide.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Commentary may be in several languages depending on the group; Bring warm clothes and your ID or passport for the ferry.'
+- pregunta: 'How long does it last?'
+  respuesta: '9 hours.'
 categoria: excursionesDia
 keywords:
 - la gomera day trip

@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'Es ist eine andere Welt: Die Alhambra ist nasridisch, und die Kathedrale ist die christliche Antwort, begonnen 30 Jahre nach der Eroberung. Zusammen erzählen sie die Geschichte der Stadt. Eine gut genutzte Stunde.'
 - pregunta: Warum ist die Kathedrale so eingezwängt?
   respuesta: Sie wurde an der Stelle der Hauptmoschee mitten in der Medina gebaut, und die Umgebung wurde nie freigeräumt. Deshalb gibt es keinen großen Platz davor, und die Fassade sieht man am besten von der Plaza de las Pasiegas aus.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Nicht erstattungsfähig: Nach der Buchung kann nicht storniert oder geändert werden.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kathedrale von Granada, Calle Gran Vía de Colón 5 (Eingang über die Plaza de las Pasiegas). Der Besuchereingang liegt an der Plaza de las Pasiegas, auf der Seite der Kathedrale, die zur Gran Vía zeigt. Zeig deinen Gutschein am Schalter und hol dir den Audioguide.'
 opinionEditorial: 'Die Kathedrale von Granada steht im Schatten der Alhambra, und das hat sie nicht verdient: Sie ist das Meisterwerk der andalusischen Renaissance, und ihre Capilla Mayor gehört zu den hellsten Spaniens. Zehn Euro mit Audioguide; verbinde sie mit der Capilla Real.'
 guiasRelacionadas:
 - granada-in-2-tagen

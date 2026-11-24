@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Oui, masque, tuba, palmes et combinaison."
 - pregunta: "Combien de personnes par groupe ?"
   respuesta: "6 au maximum."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Nuestra Señora del Carmen, 21, à Morro Jable.'
 categoria: agua
 keywords:
 - "snorkeling morro jable"

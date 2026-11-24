@@ -51,6 +51,10 @@ preguntasFrecuentes:
   respuesta: "De 1 h 45 à 3 h selon l'option."
 - pregunta: "Puis-je annuler ?"
   respuesta: "Jusqu'à 2 jours avant, avec 60 % de remboursement."
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'À côté du Polinario Café Bar, à droite des guichets de l''Alhambra.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide officiel; Billets de l''Alhambra (si option); Système audio.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

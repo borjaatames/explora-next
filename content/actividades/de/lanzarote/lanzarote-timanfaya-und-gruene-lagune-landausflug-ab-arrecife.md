@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Die Tour ist auf die Liegezeiten abgestimmt und endet am Hafen."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, die Sprache wählt man bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kreuzfahrtterminal von Arrecife, beim HiperDino Express im Einkaufszentrum Marina Lanzarote (Avenida Olof Palme).'
 categoria: excursionesDia
 keywords:
 - "landausflug lanzarote arrecife"

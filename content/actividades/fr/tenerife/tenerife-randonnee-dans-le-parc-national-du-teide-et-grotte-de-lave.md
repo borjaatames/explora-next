@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, espagnol, italien, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge à l''hôtel; Transfert en minibus; Visite guidée; Visite d''un tunnel de lave; Pique-nique léger : thé ou jus, douceurs, barre de céréales, fruits secs; Séance photo avec 20 à 30 photos.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prise en charge dans le sud, de Los Gigantes à Los Cristianos; Si votre logement est à l''écart de la route principale, la prise en charge se fait au point le plus proche.'
+- pregunta: 'Combien de temps dure l''activité ?'
+  respuesta: '6 heures.'
 categoria: aventura
 keywords:
 - randonnée teide grotte de lave

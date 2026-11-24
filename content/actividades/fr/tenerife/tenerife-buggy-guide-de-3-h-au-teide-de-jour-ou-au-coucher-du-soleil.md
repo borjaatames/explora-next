@@ -62,6 +62,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, français, italien, espagnol.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Quadhub / Tenerife Quads, Paseo de la Libertad 2, Chío.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Buggy guidé de 3 heures sur route; Guide professionnel; Briefing de sécurité; Veste thermique et gants; Arrêts aux belvédères; En-cas et boisson au dernier arrêt.'
 categoria: aventura
 keywords:
 - buggy teide coucher de soleil

@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Não. O guia explica o básico antes de sair.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Chegue 20 minutos antes para o check-in.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Guia profissional oficial; Caiaque, colete salva-vidas e caixa estanque; Equipamento de snorkel; Foto de grupo no início; Seguro.'
 categoria: agua
 keywords:
 - caiaque los cristianos

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Steuern und Gebühren; Guide.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Einzeljetski ab 16 mit schriftlicher Zustimmung der Eltern; Doppeljetski-Fahrer ab 18; Beifahrer ab 10; Gültigen Lichtbildausweis mitbringen.'
 categoria: agua
 keywords:
 - jetski 1 stunde teneriffa

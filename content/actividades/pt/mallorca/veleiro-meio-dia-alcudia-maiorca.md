@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "No máximo 10 pessoas."
 - pregunta: "De onde parte o barco?"
   respuesta: "Da marina Alcudiamar, pontão 7."
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Diretamente ao barco: marina Alcudiamar, pontão 7, lugar 646, barco NEREIDA. Chegue 30 minutos antes da partida.'
 categoria: agua
 guiasRelacionadas:
 - o-que-ver-em-maiorca

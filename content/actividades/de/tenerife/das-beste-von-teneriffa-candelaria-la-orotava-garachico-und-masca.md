@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Französisch, Deutsch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rückfahrt an festen Punkten auf ganz Teneriffa; Offizieller Guide mit Zertifikat der kanarischen Regierung; Mehrsprachiger Guide: Spanisch, Englisch, Deutsch, Französisch (je nach Verfügbarkeit); Klimatisierter Bus; Gruppe von höchstens 35 Personen.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Zwischen den Stopps wird viel gefahren; Nicht empfohlen bei eingeschränkter Mobilität; Nicht für Kreuzfahrtpassagiere.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Mittagessen und Getränke (optional, extra zu bezahlen).'
 categoria: excursionesDia
 keywords:
 - teneriffa inselrundfahrt

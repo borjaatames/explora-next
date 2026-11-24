@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Sur la plage devant le Pati Vela, aux drapeaux Catamarán TurTur."
 - pregunta: "Et s'il fait mauvais ?"
   respuesta: "Autre date ou remboursement complet."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Boisson de bienvenue; Capitaine et équipage; Carburant, nettoyage, assurance et taxes; Wifi à bord.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

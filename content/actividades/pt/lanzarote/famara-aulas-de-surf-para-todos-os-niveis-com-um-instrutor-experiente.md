@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Prancha de surf e fato; Instrutor dedicado e adaptado ao seu nível; Máximo de 5 alunos por instrutor; Fotos e vídeos quando as condições o permitem.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Indique o seu nível ao reservar; Não recomendado a menores de 4 anos ou grávidas; Leve toalha, protetor solar e roupa seca.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '2 horas.'
 categoria: agua
 keywords:
 - aulas de surf famara

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks Spanish, English, German, Italian, French.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off at hotels in Jandía, Costa Calma, Morro Jable or Esquinzo; Buggy driving lesson and safety talk; Guided buggy tour; Dust goggles.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 7 or pregnant women; Maximum 140 kg.'
 categoria: aventura
 keywords:
 - buggy tour jandia

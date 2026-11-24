@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: No; you pay for them at each venue.
 - pregunta: When does it run?
   respuesta: 'In season: right now available dates start in May 2027.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Cancellation terms are shown when you book.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Meeting point by the beach in Barcelona (confirmed when you book).'
 categoria: nocturno
 keywords:
 - barcelona rooftop party

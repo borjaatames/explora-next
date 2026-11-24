@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'What is included?'
+  respuesta: 'Welcome at the snorkel area; Water sports insurance; Full snorkel gear; Professional instructor; Half an hour of theory; 1 hour in the water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 6; You must be able to swim.'
 categoria: agua
 keywords:
 - snorkelling playa chica

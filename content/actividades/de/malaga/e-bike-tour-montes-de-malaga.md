@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: "Ja, Deutsch, Englisch und Spanisch."
 - pregunta: "Ab welchem Alter?"
   respuesta: "Ab 12 Jahren."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kleiner Platz in der Calle Hoyo de Esparteros, eine Minute vom Mercado Central (Atarazanas). Öffentliche Parkhäuser in der Nähe.'
 categoria: aventura
 guiasRelacionadas:
 - ausfluege-ab-malaga

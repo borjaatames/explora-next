@@ -46,6 +46,14 @@ politicaCancelacion: Annulation gratuite jusqu'à 1 jour avant, avec rembourseme
 preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Aqua Club Termal, Calle Galicia 6, Torviscas Alto (Adeje).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Billet d''entrée; Accès aux 18 espaces du spa.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Déconseillé aux femmes enceintes; Moins de 13 ans : en semaine de 10 h à 12 h et le week-end de 9 h à 10 h uniquement.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Serviette.'
 categoria: entradas
 keywords:
 - aqua club termal

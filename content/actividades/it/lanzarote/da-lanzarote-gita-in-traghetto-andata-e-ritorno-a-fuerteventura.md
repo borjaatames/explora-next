@@ -46,6 +46,14 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Transfer al traghetto e ritorno al punto di prelievo; Biglietto del traghetto andata e ritorno; 5 ore di tempo libero a Fuerteventura.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Il tempo in pullman dipende da dove si trova l''hotel; I taxi non sono coperti; Non adatto a persone con mobilità ridotta.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Pranzo; Bevande; Guida; Autobus o taxi a Corralejo.'
+- pregunta: 'Quanto dura?'
+  respuesta: '9 ore.'
 categoria: excursionesDia
 keywords:
 - gita fuerteventura da lanzarote

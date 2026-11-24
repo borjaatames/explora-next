@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Chez Doyoubike, calle de la Sang 9, près de la mairie."
 - pregunta: "Est-ce difficile ?"
   respuesta: "Non, le parcours est plat."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Vélo; Guide; Casque.'
 categoria: toursCiudad
 guiasRelacionadas:
 - valence-en-2-jours

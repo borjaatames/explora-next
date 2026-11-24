@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. The time you book is for the quad; arrange the jet ski on WhatsApp.'
+- pregunta: 'What is included?'
+  respuesta: 'Life jacket; Goggles; Guide; Drinks; Shower and toilets; Lockers.'
+- pregunta: 'What is not included?'
+  respuesta: 'Cash deposit: €50 per jet ski and €100 per quad; Transfers between the activities.'
 categoria: aventura
 keywords:
 - jet ski and quad tenerife

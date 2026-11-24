@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Elle est en option et limitée à certaines zones ; on peut aussi se rendre directement au port."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, entre autres langues ; choisissez-la à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port d''Ibiza ou prise en charge à l''hôtel dans certaines zones ; le lieu exact est indiqué à la réservation.'
 categoria: excursionesDia
 keywords:
 - "excursion formentera depuis ibiza"

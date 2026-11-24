@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start, with a full refund; a 100% charge applies if cancelled with less notice.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'No meeting point: the route is activated from your phone with the code you receive after purchase, at whatever time and place you choose in Madrid.'
+- pregunta: 'What is included?'
+  respuesta: 'Going at your own pace, with no schedule and no group; Choosing whichever stops you want along the route; Listening to the audio whenever you like, with the option to pause and resume; 24-hour, 365-day-a-year availability; Food and family-activity recommendations built into the app.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Suitable for the whole family: minimum age 1 year; App available in Spanish, English, Portuguese, French, Italian and German; Wheelchair- and stroller-friendly; service animals welcome.'
+- pregunta: 'What is not included?'
+  respuesta: 'A physical guide (this is a fully self-guided experience, with no companion).'
 opinionEditorial: 'This is the right pick if you want to explore Madrid on your own terms, without a schedule or a group: you start the route whenever you feel like it and go at whatever pace suits you. What you won''t get is the warmth of a live guide, their stories, or the chance to ask questions on the spot — if that''s what you''re after, a tour with a physical guide is the better fit. For families, independent travellers, or anyone who likes to explore slowly, it works really well.'
 atraccionesRelacionadas:
 - otros-madrid

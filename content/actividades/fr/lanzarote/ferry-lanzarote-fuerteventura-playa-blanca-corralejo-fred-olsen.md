@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Pas avec ce billet, réservé aux passagers à pied."
 - pregunta: "Dois-je rentrer le même jour ?"
   respuesta: "Non, le retour peut se faire un autre jour."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Port de Playa Blanca (Lanzarote) ou port de Corralejo (Fuerteventura), selon l''option choisie.'
 categoria: agua
 keywords:
 - "ferry lanzarote fuerteventura"

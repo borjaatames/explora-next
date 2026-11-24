@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Non, elles se paient à part."
 - pregunta: "Le guide parle-t-il français ?"
   respuesta: "Oui, choisissez le français à la réservation."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'À votre hébergement dans la ville de Cadix, ou à un point convenu avec le guide.'
 categoria: visitasGuiadas
 keywords:
 - "visite privée cadix"

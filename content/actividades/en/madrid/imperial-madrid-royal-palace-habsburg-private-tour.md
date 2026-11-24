@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: 'The guide speaks French, English and Spanish.'
 - pregunta: 'Can I cancel?'
   respuesta: 'Yes. Cancellation is free up to 24 hours before the start, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de Isabel II (Ópera), next to the statue of the queen.'
+- pregunta: 'What is included?'
+  respuesta: 'Private official guide for 3 hours; Skip-the-line Royal Palace ticket; Support from a travel agent.'
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

@@ -52,6 +52,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte desde Madrid; Entrada a la catedral de Burgos; Entrada al Museo de Burgos; Salvoconducto numerado del Consorcio Camino del Cid; Agua.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

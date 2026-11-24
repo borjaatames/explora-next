@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "An der Puerta del Sol, Carrera de San Jerónimo 2."
 - pregunta: "Sind 4D-Kino und VR inklusive?"
   respuesta: "Ja, laut Anbieter."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Legends, Carrera de San Jerónimo 2, an der Puerta del Sol (Metro Sol).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-an-einem-tag

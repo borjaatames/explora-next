@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Mountain guide certified by AEGM/UIMLA; Hotel pick-up and drop-off; Canyoning equipment; Souvenir photo.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'About 2 km of steep walking to reach the ravine: good fitness and sturdy waterproof shoes needed; Not suitable for under-12s, over-80s, pregnant women or people afraid of heights.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Waterproof footwear.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

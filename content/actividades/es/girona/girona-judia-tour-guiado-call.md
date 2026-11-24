@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Dos horas y media.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaça de Sant Feliu, Girona. Delante de la basílica de Sant Feliu, en el Barri Vell.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía experto.'
 opinionEditorial: La mejor nota de los tours de Girona. El Call se puede pasear solo, pero sin guía es un laberinto bonito; con él entiendes seis siglos de historia.
 guiasRelacionadas:
 - que-ver-en-girona-en-un-dia

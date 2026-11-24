@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Sì, tutta l'attrezzatura e l'assicurazione sono incluse."
 - pregunta: "Da che età?"
   respuesta: "Dai 10 anni."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'SuperDive Tossa, Carrer Lope Mateo 1, Tossa de Mar. Presentati 15 minuti prima dell''orario per la registrazione.'
 categoria: agua
 keywords:
 - "battesimo del mare tossa de mar"

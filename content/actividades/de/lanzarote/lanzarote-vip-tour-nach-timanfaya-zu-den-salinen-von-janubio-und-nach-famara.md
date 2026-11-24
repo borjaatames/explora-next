@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Französisch, Italienisch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Minivan mit 8 Plätzen; Mehrsprachiger lokaler Fahrer-Guide; Haftpflichtversicherung; Abholung in Playa Blanca, Puerto del Carmen und Costa Teguise; Alle Besuche des Programms; Ab Fuerteventura (Option): Fährticket und Abholung in Caleta de Fuste, Corralejo und Puerto del Rosario.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für Menschen mit eingeschränkter Mobilität; Buchungsgutschein ausgedruckt oder auf dem Handy zeigen; für die Fähroption Originalausweis nötig.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Essen und Getränke.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip tour

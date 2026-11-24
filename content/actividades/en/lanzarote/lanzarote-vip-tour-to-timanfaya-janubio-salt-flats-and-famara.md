@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, German, French, Italian, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: '8-seat minivan; Multilingual local driver-guide; Liability insurance; Pick-up in Playa Blanca, Puerto del Carmen and Costa Teguise; All visits in the programme; From Fuerteventura (option): ferry ticket and pick-up in Caleta de Fuste, Corralejo and Puerto del Rosario.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people with reduced mobility; Show your booking voucher, printed or on your phone; original ID needed for the ferry option.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip tour

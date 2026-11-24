@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Pick-up and drop-off in Los Cristianos and Costa Adeje; Experienced guide; Liability insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'The main driver must be 21+ with a valid driving licence; Give your hotel details when booking, or write "No pick-up"'
 categoria: aventura
 keywords:
 - buggy tour masca

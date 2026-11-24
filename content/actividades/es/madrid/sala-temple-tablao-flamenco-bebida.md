@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Sí, hay una carta de platos tradicionales españoles a precios asequibles, que se paga aparte.
 - pregunta: ¿Qué bebida incluye?
   respuesta: Una consumición a elegir entre sangría, cerveza, vino o refresco.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Sala Temple, Cuesta de San Vicente, 40 (28008 Madrid). A 5 minutos a pie de la plaza de España y del metro Príncipe Pío (líneas 6, 10 y R). Llega unos minutos antes para elegir mesa y pedir la bebida.'
 opinionEditorial: 'El flamenco más barato y cercano del centro de Madrid con buena nota. Ideal si buscas un ambiente auténtico de tablao pequeño en lugar de un gran espectáculo para turistas.'
 guiasRelacionadas:
 - flamenco-madrid-que-tablao-elegir

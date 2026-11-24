@@ -48,6 +48,10 @@ preguntasFrecuentes:
   respuesta: Yes, valid ID or a passport is required to travel between the islands.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Timanfaya National Park entry; Wine tasting; Pick-up at meeting points; Return ferry Fuerteventura–Lanzarote; Official guide; Air-conditioned coach.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Guaranteed in English only; other languages need at least 8 people; Bring ID or passport to travel between the islands; Not suitable for people prone to motion sickness.'
 categoria: excursionesDia
 keywords:
 - lanzarote day trip from fuerteventura

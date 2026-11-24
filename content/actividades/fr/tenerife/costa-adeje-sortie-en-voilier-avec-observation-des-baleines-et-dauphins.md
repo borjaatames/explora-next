@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, espagnol, français, italien.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Apportez maillot, serviette et crème solaire ; on reste pieds nus à bord.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Sortie en voilier; Fruits frais et sandwichs; Boissons : bière, cava, vin, sodas, jus et eau; Équipement de snorkeling de base.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Prise en charge à l''hôtel.'
 categoria: agua
 keywords:
 - voilier tenerife baleines

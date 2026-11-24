@@ -50,6 +50,14 @@ politicaCancelacion: Cancelamento gratuito até 24 horas antes, com reembolso to
 preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Café del Puerto, Puerto Calero, 20 minutos antes da partida.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Caiaque; Prancha de paddle; Equipamento de snorkel; Almoço; Bebidas: cerveja, vinho, cava, refrigerantes e água; Combustível.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Sem acesso para cadeiras de rodas.'
+- pregunta: 'Quanto tempo dura?'
+  respuesta: '4 horas.'
 categoria: agua
 keywords:
 - catamara papagayo

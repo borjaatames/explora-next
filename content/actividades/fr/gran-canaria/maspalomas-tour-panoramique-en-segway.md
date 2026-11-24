@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Dès 10 ans, accompagné."
 - pregunta: "Peut-on réserver seul ?"
   respuesta: "Non, il faut au moins 2 participants."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Calle Mar Mediterráneo, Maspalomas (Meloneras).'
 categoria: toursCiudad
 keywords:
 - "segway maspalomas"

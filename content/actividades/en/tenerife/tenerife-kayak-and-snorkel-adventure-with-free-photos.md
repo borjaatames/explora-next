@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: Yes, photos and videos of the trip are included.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Shaka Kayak & SUP, Paseo Marítimo 10, Arona (Los Cristianos). Meet 30 minutes before to get ready.'
+- pregunta: 'What is included?'
+  respuesta: 'Kayak with paddles and padded seats; Life jacket and 3 mm wetsuit; Mask and snorkel; Free photos and videos; Changing rooms with showers; Water, professional guide and insurance.'
 categoria: agua
 keywords:
 - kayak snorkel tenerife

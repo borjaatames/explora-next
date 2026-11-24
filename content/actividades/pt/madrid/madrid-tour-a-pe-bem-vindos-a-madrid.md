@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No primeiro dia. O guia dá-lhe muitas ideias sobre onde comer e o que ver, por isso quanto mais cedo, melhor.
 - pregunta: É um free tour?
   respuesta: Não, é um tour pago com preço fixo e tamanho máximo de grupo, por isso não precisa de dar gorjeta no final (embora possa).
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Fuente de Orfeo, Plaza de la Provincia, junto à Plaza Mayor (28012 Madrid). O ponto de encontro exato depende da opção e aparece no voucher; o tour em grupo encontra-se na fonte de Orfeu, a poucos passos da Plaza Mayor. Metro mais próximo: Sol (linhas 1, 2 e 3).'
 opinionEditorial: 'Uma excelente introdução a Madrid no primeiro dia: poucos tours têm uma nota tão alta com tantas avaliações. As histórias são mesmo boas e as dicas de restaurantes compensam o preço. Uma ótima escolha para quem fala português, que raramente tem guia na sua língua.'
 atraccionesRelacionadas:
 - tours-a-pie

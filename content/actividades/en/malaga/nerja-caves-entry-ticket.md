@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: No. The paintings (some of the oldest in the world, around 40,000 years old) are in the upper galleries, closed to the public for conservation. The Nerja Museum has reproductions.
 - pregunta: Is it a good idea to combine it with Frigiliana?
   respuesta: 'Yes: Frigiliana is 10 minutes away by car and one of the prettiest white villages in Andalusia. Caves in the morning, Frigiliana for lunch and the Balcón de Europa in Nerja at sunset.'
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Non-refundable: once booked, it cannot be cancelled or changed.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Nerja Caves, Carretera de Maro, Nerja (Málaga). The caves are in Maro, 5 km from Nerja on the N-340. By car, free parking. By bus, the ALSA Málaga-Nerja line (1 h 15) then the local bus or a taxi to the caves. Show your voucher at the desk at your reserved time.'
 opinionEditorial: 'The Nerja Caves are the most spectacular natural excursion on the Costa del Sol: the Cataclysm Hall, with its 32-metre column, leaves you speechless. Cheap, timed ticket; in summer book days ahead.'
 guiasRelacionadas:
 - day-trips-from-malaga

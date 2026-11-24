@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: "Oui, gratuits jusqu'à 6 ans dans le siège enfant."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Passeig de Lluís Companys 10, près de l'Arc de Triomf."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Vélo ou vélo électrique (selon l''option); Guide local; Casque; Sièges enfant sur demande; Consigne; Assurance.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

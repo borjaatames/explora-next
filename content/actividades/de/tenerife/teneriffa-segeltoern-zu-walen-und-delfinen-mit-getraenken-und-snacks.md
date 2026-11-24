@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Ja, Abholung und Rücktransfer zum Hotel sind inklusive.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Puerto Colón, oben am Steg beim Schild «Pantalán Nº4», 15 Minuten vor Abfahrt.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Segeltörn; Abholung und Rücktransfer vom Hotel; Sicherheitseinweisung; Schnorchelausrüstung; Getränke: Cava, Bier, Softdrinks und Wasser; Baguettes, Obst, Chips und Nüsse.'
 categoria: agua
 keywords:
 - segeltörn wale teneriffa

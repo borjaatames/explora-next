@@ -67,6 +67,10 @@ preguntasFrecuentes:
   respuesta: Ein Begrüßungsgetränk zusätzlich zum Eintritt.
 - pregunta: Teatro Flamenco Málaga oder Alegría?
   respuesta: Das Theater ist besser, wenn Sie nur Flamenco in der Altstadt sehen möchten; das Alegría an der Malagueta, wenn Sie während der Show lieber Wein und Tapas genießen.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Teatro Flamenco Málaga, Calle Lazcano, 5 (29008 Málaga). In der Altstadt, 5 Gehminuten vom Museo Picasso und 3 Minuten von der Bushaltestelle Carretería - Álamos (Linie 36) entfernt. Das Theater hat keinen Parkplatz.'
 opinionEditorial: 'Der Flamenco, der sich am bequemsten in einen Málaga-Besuch einbauen lässt: zentral, eine Stunde und gute Bewertungen. Ideal vor oder nach dem Abendessen im Zentrum. Wenn Sie während der Show lieber etwas trinken möchten, ist das Alegría die bessere Wahl.'
 guiasRelacionadas:
 - malaga-in-zwei-tagen

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: Circa 6 ore in tutto, viaggio compreso.
 - pregunta: È una visita guidata?
   respuesta: 'No: l''autista ti porta, ti aspetta e ti riporta indietro.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima. Dopo non è previsto rimborso.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo nel tuo hotel o alloggio a Madrid.'
 categoria: excursionesDia
 privada: true
 precioPorGrupo: true

@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Passeggiata con istruttori professionisti; Tutta l''attrezzatura; Pony in recinto chiuso per i bambini sotto i 7 anni.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a donne in gravidanza; Massimo 10 persone per uscita.'
 categoria: aventura
 keywords:
 - passeggiata a cavallo sud tenerife

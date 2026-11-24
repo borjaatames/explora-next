@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Le plus vieux dragonnier connu de son espèce, monument national."
 - pregunta: "Peut-on combiner avec autre chose ?"
   respuesta: "Oui, avec Garachico sur la côte nord."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Entrée principale du Parque del Drago à Icod de los Vinos ; présentez votre bon.'
 categoria: entradas
 guiasRelacionadas:
 - que-voir-a-tenerife

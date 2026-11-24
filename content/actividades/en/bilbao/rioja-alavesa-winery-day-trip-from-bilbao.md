@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Yes, lunch is included.
 - pregunta: Can I cancel?
   respuesta: Yes, free of charge up to 24 hours before.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Meliá Bilbao hotel (09:20) or Sercotel Coliseo hotel, Calle Urquijo 13 (09:30). Choose one of the two points when booking. You don''t need to be staying at those hotels.'
+- pregunta: 'What is included?'
+  respuesta: 'Transport from Bilbao; Guide; Winery visit with tasting; Lunch.'
 opinionEditorial: 'Winery, lunch and two towns for €70: great value compared with going on your own without a car. Laguardia is one of the prettiest towns in the north.'
 guiasRelacionadas:
 - day-trips-from-bilbao

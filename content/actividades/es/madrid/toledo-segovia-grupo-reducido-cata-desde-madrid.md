@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés, español y italiano. Las explicaciones en alemán, portugués y francés van con audio o con una app de traducción.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu alojamiento de Madrid.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Recogida en Madrid; Vehículo premium con wifi y aire acondicionado; Entradas a Santo Tomé, Santa María la Blanca y el Alcázar de Segovia; Cata ibérica con consumición; Agua; Tasas.'
 atraccionesRelacionadas:
 - toledo
 - segovia

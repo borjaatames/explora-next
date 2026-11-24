@@ -47,6 +47,14 @@ politicaCancelacion: Cancellazione gratuita fino a 1 giorno prima, con rimborso 
 preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Camel Safari Park La Baranda, strada per Fataga km 12.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Giro in cammello di 30 minuti; Ingresso al parco con altri animali e giardino.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a donne in gravidanza; Massimo 120 kg.'
+- pregunta: 'Cosa non è incluso?'
+  respuesta: 'Bevande; Cibo per gli animali.'
 categoria: aventura
 keywords:
 - giro in cammello gran canaria

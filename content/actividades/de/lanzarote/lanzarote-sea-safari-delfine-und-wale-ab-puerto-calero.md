@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "In der Marina von Puerto Calero, am Steg zu Ponton H."
 - pregunta: "Ist die Tour für Kinder geeignet?"
   respuesta: "Ja, ab 2 Jahren in Begleitung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Marina von Puerto Calero, Calle Pantalanes, am Schild neben dem Steg zu Ponton H. Bitte 15 Minuten vor Abfahrt da sein.'
 categoria: agua
 keywords:
 - "delfine lanzarote"

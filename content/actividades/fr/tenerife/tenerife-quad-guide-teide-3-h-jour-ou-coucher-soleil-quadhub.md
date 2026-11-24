@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Par quad, conducteur seul ou avec passager."
 - pregunta: "Quel départ choisir ?"
   respuesta: "Le coucher du soleil, avec des vêtements chauds."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Chez QuadHub / Hub Excursions dans le sud de Tenerife ; suivez les panneaux à votre arrivée. L''adresse exacte figure dans la réservation.'
 categoria: aventura
 guiasRelacionadas:
 - teide-billets-complets

@@ -72,6 +72,10 @@ preguntasFrecuentes:
   respuesta: Red Force is the star of Ferrari Land — a vertical launch roller coaster that accelerates from 0 to 180 km/h in 5 seconds and reaches 112 metres in height. It is the tallest and fastest accelerator coaster in Europe.
 - pregunta: Can I do all three parks in one day?
   respuesta: Not comfortably. The combo gives you separate days for each park. PortAventura and Ferrari Land can be combined in one long day (they are adjacent), but Caribe Aquatic Park deserves its own day to enjoy properly.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 72 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'PortAventura World, Av. de l''Alcalde Pere Molas, Vila-seca, Tarragona. PortAventura is 1 hour from Barcelona by train (direct train to PortAventura station from Barcelona Sants). By car, take the AP-7 motorway and exit at PortAventura. Large on-site car parks available. Ferrari Land and Caribe Aquatic Park are within the same resort complex — no transport needed between parks.'
 opinionEditorial: PortAventura is Spain's flagship theme park and one of Europe's best. Ferrari Land is compact but extraordinary — Red Force is worth the trip on its own. The Caribe park completes a full resort experience. An hour from Barcelona, this is Spain's most complete theme park resort.
 guiasRelacionadas:
 - portaventura-world-guide

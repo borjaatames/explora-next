@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "Ja, an Hotels und Unterkünften in Costa Adeje."
 - pregunta: "Sind Fotos im Preis enthalten?"
   respuesta: "Nein, Fotos und Videos können vor Ort dazugebucht werden."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Ihrer Unterkunft in Costa Adeje. Mit eigenem Auto: Parkplatz oberhalb der Playa de La Enramada (Avenida de Las Gaviotas).'
 categoria: aventura
 keywords:
 - "tandem gleitschirm teneriffa"

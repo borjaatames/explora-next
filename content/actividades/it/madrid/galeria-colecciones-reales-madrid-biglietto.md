@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Circa due ore."
 - pregunta: "Che orari ha?"
   respuesta: "Secondo il fornitore, da lunedì a sabato 10-20, domenica e festivi 10-19."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Secondo il fornitore, non rimborsabile.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Galería de las Colecciones Reales, calle Bailén, accanto al Palazzo Reale (metro Ópera, L2 e L5).'
 categoria: entradas
 guiasRelacionadas:
 - madrid-in-1-giorno

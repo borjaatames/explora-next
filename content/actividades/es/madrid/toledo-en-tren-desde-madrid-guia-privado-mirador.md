@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés y español.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'No. Es no reembolsable: una vez reservada no se puede cancelar ni cambiar.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Estación de Madrid-Puerta de Atocha (calle Méndez Álvaro, 1).'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Tren de ida y vuelta Madrid-Toledo; Guía privado durante 3 horas; Taxi desde la estación de Toledo y recorrido panorámico (unos 20 minutos); Asistencia de un agente para elegir horarios.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

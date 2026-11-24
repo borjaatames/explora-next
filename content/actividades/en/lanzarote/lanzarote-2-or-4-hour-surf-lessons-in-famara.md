@@ -44,6 +44,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'ZooPark Famara Surf, SUP & Kite School, Avenida El Marinero 5, Caleta de Famara.'
+- pregunta: 'What is included?'
+  respuesta: 'All equipment: board, leash, wetsuit and lycra.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks; Showers.'
 categoria: agua
 keywords:
 - surf lessons famara

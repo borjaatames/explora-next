@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Scuba Point, Puerto Colón, local 131 (rez-de-chaussée, face au ponton 3), Costa Adeje.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Trajet en bateau jusqu''au site; Équipement de plongée complet; Moniteur certifié; Assurance complète.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Après la plongée, ne pas monter au-dessus de 300 m (Teide ou avion) le même jour; Déconseillé aux moins de 8 ans, aux femmes enceintes et en cas de problèmes cardiaques, respiratoires ou de diabète; L''observation d''animaux n''est pas garantie.'
 categoria: agua
 keywords:
 - baptême plongée tenerife

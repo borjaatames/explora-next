@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Instrutor; Explicações e treino; Fato, máscara e barbatanas; Garrafa, regulador e colete; Computador de mergulho e boia de superfície; Mergulho.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 12 anos; Não voe nas 12 a 24 horas seguintes ao mergulho; É obrigatório um questionário médico; algumas condições exigem atestado médico.'
 categoria: agua
 keywords:
 - mergulho los cristianos

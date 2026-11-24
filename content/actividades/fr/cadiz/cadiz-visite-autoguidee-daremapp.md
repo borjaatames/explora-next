@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Annulation gratuite jusqu'à 24 heures avant le début ; au-delà, 100 % du montant est facturé.
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début ; au-delà, 100 % du montant est facturé.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pas de point de rendez-vous physique : activez le parcours depuis votre téléphone avec le code reçu après l''achat, quand et où vous voulez à Cadix.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Accès au parcours autoguidé de Cadix via l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès dans l''application à des recommandations de restaurants et d''activités en famille.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; la vieille ville est presque plate et facile à parcourir à pied; Les animaux d''assistance sont acceptés.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au début du parcours; Billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
 opinionEditorial: 'Cadix est une ville compacte et agréable à parcourir à pied, le format autoguidé y fonctionne donc bien : vous pouvez vous attarder sur n''importe quelle place ou dans n''importe quelle église sans avoir l''impression de retarder un groupe. Avec 2 parcours et plus de 25 points, elle couvre bien plus que le centre historique de base. Idéal pour les familles ou les voyageurs indépendants ; si vous voulez que l''histoire vous soit racontée par une vraie personne, ce n''est pas le bon produit.'
 categoria: toursCiudad
 keywords:

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: La visita llega hasta el museo, pero la entrada no está incluida; el guía te orienta si quieres entrar después.
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Recogida en tu hotel de Bilbao.'
+- pregunta: '¿El precio es por persona?'
+  respuesta: 'No. El precio es por grupo, no por persona.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Guía privado; Recogida en el hotel.'
 opinionEditorial: 'Una buena primera toma de contacto con Bilbao: lo antiguo y lo nuevo de la ciudad contado por alguien de aquí, a vuestro ritmo.'
 atraccionesRelacionadas:
 - casco-viejo

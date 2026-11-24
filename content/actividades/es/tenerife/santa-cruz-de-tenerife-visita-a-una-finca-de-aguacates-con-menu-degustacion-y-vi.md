@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: El guía habla inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Carretera Tahodio 24, Santa Cruz de Tenerife.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Visita guiada a una finca familiar de aguacates, plátanos y cítricos; Menú degustación: queso fresco, papas arrugadas con mojo verde y rojo, aguacate, miel y fruta de temporada, cochino asado, garbanzas y ensalada de aguacate; 1 copa de vino de Tenerife.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Grupo reducido: 10 personas con almuerzo, 15 solo visita.'
 categoria: toursGastronomicos
 keywords:
 - finca de aguacates tenerife

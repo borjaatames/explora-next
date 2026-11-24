@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Sì. L'Oceanogràfic ospita 45.000 animali di 500 specie in 10 ecosistemi, con un tunnel sottomarino di 35 metri.
 - pregunta: Conviene il 3 in 1 rispetto ai biglietti singoli?
   respuesta: 'Sì: il risparmio rispetto ai tre biglietti separati è notevole, soprattutto per le famiglie.'
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: dopo la prenotazione non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Città delle Arti e delle Scienze, Av. del Professor López Piñero 7, 46013 Valencia. Autobus EMT 35, 40 o 95 dal centro di Valencia. In bici o a piedi dal centro storico sono circa 20 minuti lungo i Giardini del Turia. Inizia dall''Oceanogràfic, che apre per primo.'
 opinionEditorial: 'La Città delle Arti e delle Scienze è la visita più spettacolare di Valencia e il 3 in 1 è la scelta più furba: l''Oceanogràfic da solo vale il viaggio, Hemisfèric e Museo completano la giornata. Serve un giorno intero e un po'' di energia: non provare a farla a metà.'
 guiasRelacionadas:
 - citta-delle-arti-e-delle-scienze-come-visitarla

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, local 11, Playa de las Américas.'
+- pregunta: 'What is included?'
+  respuesta: 'Certified surf instructor; Board, wetsuit, reef booties and rash vest; Accident insurance; Lockers, toilets and showers; 20-minute theory class.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Lessons follow low tide, when conditions are best; Children under 13 join private or family lessons; You must be able to swim.'
 categoria: agua
 keywords:
 - surf lesson tenerife

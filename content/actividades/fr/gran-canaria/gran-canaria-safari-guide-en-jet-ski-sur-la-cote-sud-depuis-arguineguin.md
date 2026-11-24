@@ -58,6 +58,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide ne l''indique pas. Les moniteurs parlent en général anglais et espagnol : demandez au prestataire en réservant.'
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Arguineguín (Plus Code Q847+MRW). Arrivez 20 minutes avant ; les retardataires ne peuvent pas participer.'
+- pregunta: 'Le prix est-il par personne ?'
+  respuesta: 'Non. Le prix est par groupe, et non par personne.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide professionnel; Safari guidé en jet-ski; Jet-ski moderne; Carburant; Gilet de sauvetage; Briefing de sécurité.'
 categoria: agua
 keywords:
 - safari jet ski gran canaria

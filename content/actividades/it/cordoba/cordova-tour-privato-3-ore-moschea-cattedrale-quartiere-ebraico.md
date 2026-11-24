@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: "No, per gruppo: 290 € in totale."
 - pregunta: "La guida parla italiano?"
   respuesta: "Sì, scegliete la lingua al momento della prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Fuente de Santa María, accanto all''ulivo del Patio de los Naranjos della Moschea-Cattedrale (Calle Cardenal Herrero, 18).'
 categoria: visitasGuiadas
 keywords:
 - "tour privato cordova"

@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: 'El guía habla inglés, español y italiano.'
 - pregunta: '¿Puedo cancelar?'
   respuesta: 'Sí. La cancelación es gratuita hasta 24 horas antes del inicio, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Plaza del Emperador Carlos V (Atocha) o recogida en el punto de Madrid que prefieras.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Transporte privado con conductor; Guía oficial privado; Entradas sin colas a los monumentos; Recogida en el punto que prefieras.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

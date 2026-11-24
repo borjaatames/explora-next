@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Sì, dall'Hotel Regina, nel centro di Barcellona."
 - pregunta: "Cosa succede in caso di maltempo?"
   respuesta: "Il volo viene rinviato o rimborsato."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti all''Hotel Regina, Carrer de Bergara 4, Barcellona. L''orario esatto viene confermato due giorni prima del volo.'
 categoria: aventura
 keywords:
 - "mongolfiera barcellona"

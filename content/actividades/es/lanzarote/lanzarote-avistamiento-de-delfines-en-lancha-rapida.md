@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: El guía habla español, inglés, francés.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Barco; Chaleco salvavidas; Patrón; Agua.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No se garantiza ver delfines ni otros animales; No apto para menores de 2 años ni embarazadas.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Propinas; Comida; 5 € extra por persona.'
 categoria: agua
 keywords:
 - avistamiento de delfines lanzarote

@@ -78,6 +78,10 @@ preguntasFrecuentes:
   respuesta: São frequentes nesta costa, mas é fauna selvagem e nunca está garantida.
 - pregunta: Posso pedir um guia no meu idioma?
   respuesta: Há guias que falam francês, italiano e português, mas são atribuídos consoante a disponibilidade. Escreva ao operador por WhatsApp antes do dia.
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Mana Kayak, Calle del Valle Menéndez, 22, local 1, Los Cristianos (38650 Arona). No centro de Los Cristianos, a 3 minutos a pé da praia. Se quer garantir um guia num idioma concreto, escreva-lhes antes por WhatsApp.'
 opinionEditorial: 'Uma das saídas de caiaque mais bem avaliadas do sul de Tenerife: o troço até à gruta de Palm-Mar é lindíssimo e o equipamento é completo. É mais longa e exigente do que outras saídas de caiaque, por isso é melhor para quem está em forma.'
 guiasRelacionadas:
 - o-que-ver-em-tenerife

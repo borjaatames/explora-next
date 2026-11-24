@@ -70,6 +70,10 @@ preguntasFrecuentes:
   respuesta: En el velero vais diez personas como mucho, con comida casera y bebida incluidas y tiempo para bañarse. Los catamaranes llevan muchos más pasajeros.
 - pregunta: ¿Me puedo marear?
   respuesta: El velero es estable, pero si sueles marearte toma algo antes de embarcar.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Third Element Charters, Calle Poblado Marinero, 20, Los Gigantes (38683 Santiago del Teide). La oficina está en el puerto deportivo de Los Gigantes. Hay aparcamiento público junto al puerto. Llega 15 minutos antes de la salida.'
 opinionEditorial: 'La salida de avistamiento mejor valorada de Tenerife y se nota: grupo pequeño, buen trato, comida y bebida incluidas y un baño bajo los acantilados. Cuesta más que un catamarán, pero la experiencia es mucho más tranquila.'
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife

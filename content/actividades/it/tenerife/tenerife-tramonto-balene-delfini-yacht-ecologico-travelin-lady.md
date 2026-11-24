@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Sì, c'è una sosta per bagno e snorkeling."
 - pregunta: "Dove ci si imbarca?"
   respuesta: "A Puerto Colón, molo dei pescatori, zona A."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Porto di Puerto Colón (Costa Adeje), molo dei pescatori, zona escursioni A: seguite la linea blu fino in fondo. Siate lì 30 minuti prima; l''imbarco chiude 5 minuti prima della partenza.'
 categoria: agua
 guiasRelacionadas:
 - avvistamento-balene-tenerife

@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Spanish, English, French and Italian. You choose the language when booking.
 - pregunta: How long does it last?
   respuesta: Two hours of guided tour; afterwards you can stay on your own in the gardens.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Ópera metro, Plaza de Isabel II, opposite the Teatro Real (28013 Madrid). The guide waits next to the exit of Ópera metro station (lines 2, 5 and R) on Plaza de Isabel II, opposite the Teatro Real. From there you cross Plaza de Oriente to the palace.'
 opinionEditorial: 'Visiting the Royal Palace on your own falls short: without explanations, the rooms follow one another with no context. With this guide the visit comes alive, and priority entry saves you the ticket-office queue. Very good value for money.'
 atraccionesRelacionadas:
 - palacio-real

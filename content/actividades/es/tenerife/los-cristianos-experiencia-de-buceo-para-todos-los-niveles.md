@@ -55,6 +55,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Instructor; Explicaciones y entrenamiento; Neopreno, gafas y aletas; Botella, regulador y chaleco; Ordenador de buceo y boya de superficie; Inmersión.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Edad mínima 12 años; No vueles en las 12 a 24 horas siguientes a bucear; Hay que rellenar un cuestionario médico; algunas condiciones requieren certificado médico.'
 categoria: agua
 keywords:
 - buceo los cristianos

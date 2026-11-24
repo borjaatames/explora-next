@@ -61,6 +61,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Spanisch, Englisch, Italienisch, Deutsch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Magilu, Av. Ocira 27, Abades (Ostküste Teneriffas).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Maske, Schnorchel, Flossen, Neoprenschuhe und Neoprenanzug; Mehrsprachige Guides; 50 Minuten geführtes Schnorcheln; Gratisfotos und -videos; Extra-Hilfe für kleine Kinder und ältere Menschen; Versicherung und Wasser.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Du musst schwimmen können; zwischen 30 und 140 kg; Der Anbieter fragt am Vortag per Nachricht nach deinen Größen; Komm schon in Badekleidung.'
 categoria: agua
 keywords:
 - schnorcheln teneriffa

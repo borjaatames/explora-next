@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Komplette Tauchausrüstung; Tauchversicherung; Abholung und Rücktransfer; Anleitung durch ein qualifiziertes Teammitglied; Rabatt auf weitere Kurse.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere; Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Eigenes Mundstück (4 €); Unterwasserfotos (34 €).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

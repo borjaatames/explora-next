@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "No, le riprese GoPro si possono acquistare dopo il volo."
 - pregunta: "Dove avviene il prelievo?"
   respuesta: "Al tuo hotel tra Los Cristianos e Costa Adeje."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Prelievo al tuo hotel nella zona turistica del sud, oppure direttamente al chiringuito Coqueluche Beach Bar sulla Playa de La Enramada, Costa Adeje.'
 categoria: aventura
 keywords:
 - "parapendio costa adeje"

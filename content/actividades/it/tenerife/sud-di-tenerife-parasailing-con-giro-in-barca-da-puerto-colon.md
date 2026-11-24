@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Parascending Tenerife, pontile 4, Puerto Colón, Costa Adeje.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Volo in parasailing; Attrezzatura; Giro in barca; Assicurazione.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a donne in gravidanza o persone in sedia a rotelle.'
 categoria: agua
 keywords:
 - parasailing tenerife

@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Höchstens 2 Gäste pro Gespann."
 - pregunta: "Gibt es eine Abholung?"
   respuesta: "Ja, an Hotels und Apartments in Valencia."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Plaça d''Alfons el Magnànim 2D, Altstadt von Valencia, oder Abholung an Ihrer Unterkunft in der Stadt.'
 categoria: toursCiudad
 keywords:
 - "valencia sidecar tour"

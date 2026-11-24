@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, im Süden Teneriffas gegen etwa 4 € pro Person."
 - pregunta: "Ab welchem Alter?"
   respuesta: "Ab 6 Jahren in Begleitung eines Erwachsenen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Kayaking Tenerife Atlantis, Edificio Guayero 2, Los Cristianos.'
 categoria: agua
 keywords:
 - "kajak schildkröten teneriffa"

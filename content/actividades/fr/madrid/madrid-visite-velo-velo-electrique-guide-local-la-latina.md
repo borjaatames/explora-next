@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Oui, selon l'option choisie."
 - pregunta: "Où commence la visite ?"
   respuesta: "Carrera de San Francisco 7, près du métro La Latina."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide en direct; Vélo ou vélo électrique (selon l''option); Sièges enfant et casques sur demande; Consigne à bagages.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

@@ -47,6 +47,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Transport; Abholung auf der ganzen Insel; Ausrüstung; Versicherung; Erfrischungen.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Mindestalter 12 Jahre; Nicht für Schwangere oder Menschen mit Herz-, Rücken- oder Atemproblemen, Epilepsie, Platzangst, Bluthochdruck oder Erkältung; Nach dem Tauchen 12 bis 24 Stunden nicht fliegen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Fotos.'
 categoria: agua
 keywords:
 - schnuppertauchen lanzarote

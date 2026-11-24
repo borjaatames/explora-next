@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: 'Beide Ausflüge fahren in denselben Lebensraum der Wale und Delfine. Der Hauptunterschied ist der Abfahrtsort: Dieser Ausflug startet in Costa Adeje im Süden und ist damit praktischer für die großen Urlaubsorte im Süden Teneriffas. Der Ausflug ab Los Gigantes startet an der Westküste und bietet die spektakulären Klippen als Kulisse.'
 - pregunta: Gibt es einen Badestopp?
   respuesta: Die meisten Fahrten haben einen Badestopp in ruhigem, klarem Atlantikwasser. Das hängt von Wetter und Seegang ab. Frag bei der Buchung beim Anbieter nach.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Puerto Colón oder Hafen von Los Cristianos, Costa Adeje, Teneriffa. Costa Adeje ist das wichtigste Urlaubsgebiet im Süden Teneriffas. Der genaue Abfahrtshafen (Puerto Colón in Las Américas oder Los Cristianos) steht auf deinem Gutschein. Beide Häfen sind von den Urlaubsorten im Süden gut mit dem Bus erreichbar.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: '3-stündiger Katamaranausflug; Wal- und Delfinbeobachtung; Badestopp (wenn die Bedingungen es zulassen).'
 opinionEditorial: Die Option im Süden Teneriffas zur Walbeobachtung. Praktisch, wenn du in Los Cristianos oder Las Américas wohnst, mit denselben hervorragenden Sichtungsquoten für Grindwale wie die Route ab Los Gigantes.
 guiasRelacionadas:
 - walbeobachtung-teneriffa

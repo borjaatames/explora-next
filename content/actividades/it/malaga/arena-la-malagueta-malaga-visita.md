@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "No, è una visita all'arena e alla mostra."
 - pregunta: "Quanto tempo serve?"
   respuesta: "Circa un'ora."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Arena di La Malagueta, paseo de Reding 8, Málaga.'
 categoria: entradas
 guiasRelacionadas:
 - malaga-in-due-giorni

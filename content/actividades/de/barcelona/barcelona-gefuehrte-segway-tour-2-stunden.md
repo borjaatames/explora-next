@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Route verläuft an der Küste und durch den Ciutadella-Park."
 - pregunta: "Spricht der Guide Deutsch?"
   respuesta: "Ja, unter anderem; die Sprache wählt man bei der Buchung."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Carrer de Rull, 2, in der Ciutat Vella, nahe dem Hafen.'
 categoria: toursCiudad
 keywords:
 - "segway barcelona"

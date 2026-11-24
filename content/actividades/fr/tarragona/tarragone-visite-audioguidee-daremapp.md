@@ -55,6 +55,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Annulation gratuite jusqu'à 24 heures avant le début, avec remboursement intégral ; 100 % du montant est facturé en cas d'annulation plus tardive.
+preguntasFrecuentes:
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant le début, avec remboursement intégral ; 100 % du montant est facturé en cas d''annulation plus tardive.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Pas de point de rendez-vous : le parcours s''active depuis votre téléphone avec le code reçu après l''achat, à l''heure et à l''endroit de votre choix à Tarragone.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'La visite à votre rythme, sans horaire ni groupe; Le choix des arrêts que vous voulez sur le parcours; L''écoute de l''audio quand vous le souhaitez, avec possibilité de pause et de reprise; Disponibilité 24 h/24, 365 jours par an; Des recommandations de restaurants et d''activités en famille intégrées à l''application.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an; Application disponible en espagnol, anglais, portugais, français, italien et allemand; Accessible en fauteuil roulant et en poussette ; animaux d''assistance acceptés.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Un guide en personne (il s''agit d''une expérience entièrement autonome, sans accompagnateur).'
 opinionEditorial: 'C''est le bon choix si vous voulez découvrir Tarragone comme vous l''entendez, sans horaire ni groupe : vous lancez le parcours quand vous en avez envie et avancez au rythme qui vous convient. Ce que vous n''aurez pas, c''est la chaleur d''un guide en chair et en os, ses anecdotes ou la possibilité de poser des questions sur place — si c''est ce que vous cherchez, une visite avec un guide sera plus adaptée. Pour les familles, les voyageurs indépendants ou ceux qui aiment flâner, elle fonctionne vraiment bien.'
 categoria: toursCiudad
 keywords:

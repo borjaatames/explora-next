@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Du port de Pasito Blanco, près de Meloneras."
 - pregunta: "Y a-t-il une prise en charge ?"
   respuesta: "Oui, dans le sud de l'île, à réserver à l'avance."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Capitaine et guide; Open bar : bière, sodas, sangria, eau et jus; Assortiment d''amuse-bouches; Matériel de snorkeling et paddles; Prise en charge dans le sud de l''île (à réserver).'
 categoria: agua
 keywords:
 - "catamaran maspalomas"

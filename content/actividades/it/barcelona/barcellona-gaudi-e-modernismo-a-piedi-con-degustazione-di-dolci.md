@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Cioccolato catalano e dolci tradizionali."
 - pregunta: "Il tour è disponibile in italiano?"
   respuesta: "Sì, la lingua si sceglie al momento della prenotazione."
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Davanti al Rock Shop Sagrada Família, Avinguda de Gaudí 1. Indica un numero raggiungibile su WhatsApp.'
 categoria: toursCiudad
 keywords:
 - "tour gaudi barcellona italiano"

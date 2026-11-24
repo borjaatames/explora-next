@@ -62,6 +62,10 @@ preguntasFrecuentes:
   respuesta: Yes, there is a private group option; the price depends on group size.
 - pregunta: Do we go inside the cathedral?
   respuesta: No. The route passes the cathedral, but entry is not included.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Plaza de San Juan de Dios, by the Town Hall (Cádiz). The GetYourGuide listing gives Plaza de las Tortugas as the address but mentions the Town Hall on Plaza de San Juan de Dios in its description: check the exact spot in your confirmation.'
 opinionEditorial: A classic, well-rated walk to get your bearings in Cádiz on day one. Its strength is that you can do it in your own language and, for families, privately.
 atraccionesRelacionadas:
 - casco-antiguo

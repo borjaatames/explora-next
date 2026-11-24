@@ -66,6 +66,10 @@ preguntasFrecuentes:
   respuesta: Ce n’est pas un parc aquatique à proprement parler, mais il a des attractions aquatiques. Pour un vrai parc aquatique, Aqualandia est tout près, à Benidorm.
 - pregunta: Quand le parc est-il fermé en basse saison ?
   respuesta: Terra Mítica n’ouvre pas tous les jours de l’année. Il ferme une partie de l’hiver et n’ouvre que le week-end ou les jours fériés en moyenne saison. Consultez le calendrier officiel ou confirmez auprès de l’opérateur avant de réserver.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu’à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Terra Mítica, Partida de la Marina, s/n, Benidorm, Alicante. Le parc est à environ 5 km du centre de Benidorm. Une navette part de la ville. En voiture, prenez la sortie Terra Mítica de l’AP-7. Le parking est payant.'
 opinionEditorial: Terra Mítica est le plus grand parc à thème de la Communauté valencienne et un passage presque obligé à Benidorm si vous voyagez avec des ados ou aimez les montagnes russes. Le thème méditerranéen est original et le Magnus Colossus vaut à lui seul la visite.
 guiasRelacionadas:
 - excursions-costa-blanca-depuis-alicante

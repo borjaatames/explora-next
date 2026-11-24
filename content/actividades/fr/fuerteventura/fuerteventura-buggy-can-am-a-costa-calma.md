@@ -53,6 +53,10 @@ preguntasFrecuentes:
   respuesta: Non, par buggy pour 2 personnes maximum.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Prise en charge et retour à l''hôtel; Guide professionnel; Balade en buggy Can-Am; Carburant; Lunettes anti-poussière; Assurance.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Portez des vêtements confortables et sombres, et un foulard; Plus d''1 an de permis exigé pour conduire; Prix par buggy pour 2 personnes maximum.'
 categoria: aventura
 keywords:
 - buggy costa calma

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Ja, es gibt einen Badestopp in einer Bucht."
 - pregunta: "Wo ist der Treffpunkt?"
   respuesta: "In der Carrer Muntanya 5 in S'Arenal."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Erfahrener Guide; Einweisung und Sicherheitsausrüstung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

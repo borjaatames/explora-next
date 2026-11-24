@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Environ 55 minutes."
 - pregunta: "Où est le rendez-vous ?"
   respuesta: "Ctra. del Carmel 23, en face du parking."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Guide local officiel; Billet coupe-file pour le Park Güell; Système audio avec écouteurs.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-billets-epuises

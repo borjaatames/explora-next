@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: Eine Stunde.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 24 Stunden vorher.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Huerto del Cura, Carrer Porta de la Morera 49, Elche. Ab Alicante mit dem Nahverkehrszug C1 oder dem Bus nach Elche (etwa 30 Minuten), dann 15 Minuten zu Fuß.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Eintritt in den Huerto del Cura.'
 opinionEditorial: Eine Oase eine halbe Stunde von Alicante für 7 €. Verbinde sie mit einem Spaziergang durch den Palmenhain und zur Basilika Santa María für einen perfekten halben Tag.
 guiasRelacionadas:
 - costa-blanca-ausfluege-ab-alicante

@@ -48,6 +48,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Spanisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung und Rücktransfer vom Hotel; Persönliche Tour; Höchstens 8 Gäste; Bequeme Startzeit.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Am Vortag kommt per WhatsApp die genaue Abholzeit; Abholung nur im Süden: Costa Adeje, Las Américas und Los Cristianos.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Seilbahn; Essen, Getränke und Snacks.'
 categoria: excursionesDia
 keywords:
 - teide kleingruppe

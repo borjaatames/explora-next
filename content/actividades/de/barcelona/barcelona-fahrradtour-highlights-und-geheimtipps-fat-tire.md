@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Nein, die Strecke ist flach; das E-Bike ist eine Option gegen Aufpreis."
 - pregunta: "Geht man in die Sagrada Família?"
   respuesta: "Nein, alle Stopps sind Außenbesichtigungen."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Fat Tire Tours, Carrer dels Escudellers 48, Gotisches Viertel (gegenüber einem Spielplatz).'
 categoria: toursCiudad
 keywords:
 - "fahrradtour barcelona deutsch"

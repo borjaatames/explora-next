@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: Kein Anbieter kann Tiersichtungen garantieren, aber Grindwale leben das ganze Jahr vor der Westküste Teneriffas (sie ziehen nicht weiter), Sichtungen sind also sehr häufig. Auch Delfine sieht man bei den meisten Fahrten.
 - pregunta: Welche Wale werde ich sehen?
   respuesta: Die häufigste Art ist der Kurzflossen-Grindwal (ganzjährig ansässig). Auch Große Tümmler und Atlantische Fleckendelfine sieht man sehr oft. Seltener sind Pottwale und Unechte Karettschildkröten.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Los Gigantes, Teneriffa. Los Gigantes liegt an der Westküste Teneriffas, etwa 45 km von Santa Cruz und 30 km von Las Américas. Aus dem Süden über die Autobahnen TF-1 und TF-47. Parkplätze am Hafen. Den genauen Treffpunkt bestätigt der Anbieter auf deinem Gutschein.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Bootsausflug (2-3 Stunden); Wal- und Delfinbeobachtung mit Naturführer.'
 opinionEditorial: 'Los Gigantes verbindet zwei der größten Naturschauspiele Teneriffas: die höchsten Meeresklippen Spaniens und ansässige Grindwale direkt vor der Küste. Einer der besten Orte Europas zur Walbeobachtung.'
 guiasRelacionadas:
 - walbeobachtung-teneriffa

@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: 'L''accesso è regolato: scegli l''opzione con permesso incluso.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Nortour, porto di Corralejo.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Biglietti del traghetto andata e ritorno; Assicurazione di viaggio obbligatoria.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Arriva almeno 20 minuti prima; l''imbarco chiude 10 minuti prima della partenza; Porta acqua e cibo: su Lobos non ci sono negozi né acqua potabile; Scegli l''opzione con permesso se vuoi salire su La Caldera.'
 categoria: excursionesDia
 keywords:
 - traghetto isola di lobos

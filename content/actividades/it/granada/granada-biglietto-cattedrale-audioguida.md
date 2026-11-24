@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: 'È un altro mondo: l''Alhambra è nasride e la Cattedrale è la risposta cristiana, iniziata 30 anni dopo la conquista. Insieme raccontano la storia della città. Un''ora ben spesa.'
 - pregunta: Perché la cattedrale è così incassata tra gli edifici?
   respuesta: Fu costruita sulla moschea principale, al centro della medina, e lo spazio intorno non fu mai liberato. Per questo davanti non c'è una grande piazza e la facciata si vede meglio da Plaza de las Pasiegas.
+- pregunta: 'Qual è la politica di cancellazione?'
+  respuesta: 'Non rimborsabile: una volta prenotato non si può cancellare né modificare.'
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Catedral de Granada, Calle Gran Vía de Colón 5 (ingresso da Plaza de las Pasiegas). L''ingresso dei visitatori si trova in Plaza de las Pasiegas, sul lato della cattedrale che dà sulla Gran Vía. Presenta il voucher alla biglietteria e ritira l''audioguida.'
 opinionEditorial: 'La Cattedrale di Granada vive all''ombra dell''Alhambra e non lo merita: è il capolavoro del Rinascimento andaluso e la Cappella Maggiore è tra le più luminose della Spagna. Dieci euro con audioguida; abbinala alla Cappella Reale.'
 guiasRelacionadas:
 - alhambra-come-visitarla

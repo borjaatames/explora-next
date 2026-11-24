@@ -42,6 +42,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Prelievo e ritorno in hotel; Tavola e muta.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Non adatto a bambini sotto i 11 anni; Non adatto a donne in gravidanza; Bisogna saper nuotare.'
+- pregunta: 'Quanto dura?'
+  respuesta: '4 ore.'
 categoria: agua
 keywords:
 - flag beach surf

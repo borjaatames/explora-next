@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Under-3s go free. There's a child ticket for ages 3 to 11.
 - pregunta: Is transport included?
   respuesta: No. The aquarium is in Las Palmas; from the south of the island you can drive or take the "guagua" (intercity bus).
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Poema del Mar ticket office, Muelle Sanapú, Las Palmas de Gran Canaria. Show your booking at the aquarium ticket office, where the skip-the-line ticket is exchanged. The aquarium is in the Las Palmas port area, on the Muelle Sanapú.'
 opinionEditorial: 'It''s Gran Canaria''s go-to plan for a cloudy or calima day, and the curved window onto the main tank is genuinely impressive. From the south it''s about 50 km each way: make it worthwhile by pairing it with Vegueta or Las Canteras.'
 guiasRelacionadas:
 - what-to-see-in-gran-canaria

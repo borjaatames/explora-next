@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: "10 personnes maximum."
 - pregunta: "D'où part le bateau ?"
   respuesta: "De la marina Alcudiamar, quai 7."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Minimum 4 participants; Annulation avec remboursement en cas de pluie, vent fort ou houle; Mal de mer : prenez un comprimé une heure avant ; déconseillé au-delà de 125 kg.'
 categoria: agua
 guiasRelacionadas:
 - que-voir-a-majorque

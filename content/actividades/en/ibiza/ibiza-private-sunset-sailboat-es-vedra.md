@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: €550 for the whole boat, whether you're 2 or 7.
 - pregunta: Can I cancel?
   respuesta: Free up to 60 days before; no refund after that.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per group, not per person.'
+- pregunta: 'What is included?'
+  respuesta: 'Private sailboat with skipper; Snacks and drinks (1 bottle of wine or cava per 2 people); Water; Snorkelling gear, paddle board and kayak.'
 opinionEditorial: Es Vedrà at sunset is one of Ibiza's most famous views, and seeing it from your own sailboat with a glass of cava is hard to beat.
 atraccionesRelacionadas:
 - vedra-atardecer

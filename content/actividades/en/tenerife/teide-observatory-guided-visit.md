@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: Solar telescopes such as GREGOR (the largest in Europe) and THEMIS, plus night and microwave telescopes. You enter one dome and see the rest from outside with the guide's explanation.
 - pregunta: How do I get there?
   respuesta: By your own car on the TF-24 (the beautiful ridge road from La Laguna) or by booking the option with transfer from the south or north of the island.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Teide Observatory, Izaña (TF-24 road), Tenerife. The observatory is at Izaña, 2,390 m, on the TF-24 from La Laguna or the TF-21 from El Portillo. Parking at the entrance; show your voucher to the guide at the reserved time. If you book the transfer option, the pickup point is on your voucher.'
 opinionEditorial: 'A different kind of visit on Teide: frontline science explained by people who work there, and the Sun as you have never seen it. Cheap and an hour and a half; fits with the cable car or sunset at Las Cañadas.'
 guiasRelacionadas:
 - climbing-mount-teide

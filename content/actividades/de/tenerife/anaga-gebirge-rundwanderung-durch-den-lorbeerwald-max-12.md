@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Der Guide spricht Englisch, Deutsch, Französisch.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Los Batanes, Anaga (Santa Cruz de Tenerife).'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Unfallversicherung; Erste-Hilfe-Set; Wanderstöcke und Regenschutz (begrenzte Anzahl).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Etwas Wandererfahrung ist nötig; Nicht für Kinder unter 8 oder bei Herz- oder Atemproblemen.'
 categoria: aventura
 keywords:
 - anaga wanderung deutsch

@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Deux heures."
 - pregunta: "Où est le départ ?"
   respuesta: "Carrer del Correu Vell 6, dans le Barri Gòtic."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Bureau eurosegway.com, Carrer del Correu Vell 6, 08002 Barcelone.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

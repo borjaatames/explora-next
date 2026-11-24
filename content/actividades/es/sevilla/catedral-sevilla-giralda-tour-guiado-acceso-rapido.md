@@ -63,6 +63,10 @@ preguntasFrecuentes:
   respuesta: No, es solo la Catedral y la Giralda. Si quieres los dos monumentos, mira el tour combinado.
 - pregunta: ¿En qué idiomas es?
   respuesta: En español, inglés, italiano y francés.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Si cancelas hasta 24 horas antes se reembolsa el 60 %. Después no hay reembolso.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Oficina del operador, Calle Hernando Colón, 6 (41004 Sevilla). La oficina está a unos pasos de la Catedral, junto a la Plaza Virgen de los Reyes. Desde allí se va andando con el guía hasta la entrada.'
 opinionEditorial: 'Una opción corta y económica si solo quieres la Catedral bien explicada y te organizas el Alcázar por tu cuenta. La pega es la cancelación parcial y que los grupos pueden ser numerosos.'
 atraccionesRelacionadas:
 - catedral-giralda

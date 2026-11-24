@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Nein. Der Guide erklärt vor dem Start die Grundlagen.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Komm 20 Minuten vorher zum Check-in.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Offizieller, professioneller Guide; Kajak, Schwimmweste und wasserdichte Box; Schnorchelausrüstung; Gruppenfoto am Start; Versicherung.'
 categoria: agua
 keywords:
 - kajak los cristianos

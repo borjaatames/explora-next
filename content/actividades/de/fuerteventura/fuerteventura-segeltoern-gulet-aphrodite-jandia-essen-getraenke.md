@@ -55,6 +55,10 @@ preguntasFrecuentes:
   respuesta: "Ja, in Costa Calma, Esquinzo und Jandía, wenn Sie bei der Buchung einen Abholpunkt wählen."
 - pregunta: "Wo legt das Schiff ab?"
   respuesta: "Im Hafen von Morro Jable, um 10:00 Uhr."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Morro Jable, Magic & Sailing. Bitte 30 Minuten vor der Abfahrt im Hafen sein; kostenlose Parkplätze in der Nähe des Schiffs. Abfahrt um 10:00 Uhr.'
 categoria: agua
 keywords:
 - "fuerteventura segeltörn morro jable"

@@ -64,6 +64,10 @@ preguntasFrecuentes:
   respuesta: Aproximadamente 2 horas por autopista hasta Úbeda. Baeza está a solo 9 km de Úbeda. La excursión gestiona el transporte directamente — no hay tren ni autobús cómodo desde Granada, por eso el tour organizado es la opción más eficiente.
 - pregunta: ¿Por qué tan cara (135 €)?
   respuesta: El precio incluye transporte para todo el día (2 horas de ida, 2 de vuelta), guía oficial, sin colas, seguro de viaje y visita guiada en Baeza. Es un día completo con desplazamientos largos. Comparada con otras excursiones de Granada (Alpujarra 71-115 €, Sierra Nevada 75 €), el extra de Úbeda y Baeza está en la lejanía (~150 km) y el doble destino.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes con reembolso íntegro. El operador puede cancelar si no se alcanza el mínimo de participantes.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Oficina Discovering Spain, Plaza de las Descalzas 3, Granada. El operador es Discovering Spain (mismo que el tour Originals de la Alpujarra). La oficina está en Plaza de las Descalzas 3, zona Catedral. Llega 10-15 minutos antes. Ojo: este tour requiere mínimo de participantes para confirmar — conviene reservar con antelación.'
 variantes: []
 opinionEditorial: 'Si valoras el Renacimiento andaluz por encima de la Alhambra (que también es nazarí) o de los pueblos blancos (que son árabe-bereber), Úbeda y Baeza son el destino. Las dos ciudades son Patrimonio de la Humanidad UNESCO y conservan conjuntos arquitectónicos del Siglo de Oro español que en muy pocos sitios de Europa se pueden ver en bloque.
 

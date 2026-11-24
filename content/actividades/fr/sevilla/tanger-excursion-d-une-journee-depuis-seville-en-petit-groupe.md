@@ -58,6 +58,10 @@ preguntasFrecuentes:
   respuesta: "Non, un déjeuner marocain est proposé pour environ 25 € par personne."
 - pregunta: "Le ferry est-il inclus ?"
   respuesta: "Oui, l'aller-retour depuis Tarifa est compris."
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Prise en charge à votre hôtel ou à un point proche dans le centre de Séville. Départ vers 8 h.'
 categoria: excursionesDia
 keywords:
 - "tanger depuis séville"

@@ -60,6 +60,10 @@ preguntasFrecuentes:
   respuesta: Non. La visite se termine devant la cathédrale ; l'entrée est payante et se réserve à part.
 - pregunta: Combien de temps dure-t-elle ?
   respuesta: Environ deux heures, à un rythme tranquille.
+- pregunta: 'Quelles sont les conditions d''annulation ?'
+  respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Monumento a la Constitución de 1812, plaza de España (Cadix). Devant le monument, face à la statue de la femme à l''épée. La visite se termine à la cathédrale.'
 opinionEditorial: 'Pour les francophones, c''est la façon la plus simple de comprendre Cadix sans effort de langue : deux heures, un prix bas et un guide qui raconte la ville plutôt que de réciter des dates.'
 atraccionesRelacionadas:
 - casco-antiguo

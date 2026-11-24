@@ -64,6 +64,12 @@ preguntasFrecuentes:
   respuesta: Los Gigantes oferece o extra das falésias, mas fica mais a norte e é preciso deslocar-se. Costa Adeje é mais cómodo para quem está alojado no sul (Playa de las Américas, Los Cristianos, Adeje). As espécies são semelhantes.
 - pregunta: Pode-se nadar no Atlântico sem perigo?
   respuesta: Sim. A paragem para banho faz-se em águas calmas e o operador indica as zonas seguras. As águas do sul de Tenerife são quentes e límpidas no verão (22-24 °C).
+- pregunta: 'Qual é a política de cancelamento?'
+  respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Puerto Colón, Costa Adeje, Tenerife Sul. Puerto Colón fica em Adeje, na costa sul da ilha, muito perto da Playa de Fañabé. Confirme o cais exato com o operador quando receber a confirmação. Chegue 20 minutos antes da saída.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Excursão de catamarã (≈2 horas); Guia naturalista; Paragem para tomar banho.'
 opinionEditorial: A excursão de catamarã a partir de Puerto Colón é a opção mais cómoda para as famílias alojadas no sul de Tenerife. O catamarã dá estabilidade e a paragem para banho transforma o passeio numa atividade completa de meio dia.
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

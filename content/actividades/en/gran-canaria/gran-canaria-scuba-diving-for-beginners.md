@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up and drop-off from the southern resorts; Diving equipment; Diving accident insurance.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'A medical questionnaire is required before diving; With asthma, epilepsy, diabetes, high blood pressure or heart disease you need a medical clearance; Minimum age 10.'
+- pregunta: 'What is not included?'
+  respuesta: 'GoPro hire (€20 per camera).'
 categoria: agua
 keywords:
 - try dive gran canaria

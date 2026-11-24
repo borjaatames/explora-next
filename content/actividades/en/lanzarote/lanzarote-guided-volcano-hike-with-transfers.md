@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Professional guide; Pick-up and drop-off; Fruit, dried fruit and biscuits; Water.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Children are welcome but must be ready to walk a lot; Not suitable for people with low fitness or heart problems.'
+- pregunta: 'What is not included?'
+  respuesta: 'Meals and drinks.'
 categoria: aventura
 keywords:
 - volcano hike lanzarote

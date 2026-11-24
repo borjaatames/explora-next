@@ -46,6 +46,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Abholung vor deinem Hotel im Süden (Jandía, Costa Calma, La Pared, Tarajalejo); Surflehrer; Neoprenanzug; Surfbrett.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Nicht für unter 12, Schwangere oder Menschen mit Herzproblemen; Wasser, Snack, Sonnencreme und Hut mitbringen.'
+- pregunta: 'Was ist nicht inbegriffen?'
+  respuesta: 'Trinkwasser; Sonnenschutz.'
 categoria: agua
 keywords:
 - surfkurs costa calma

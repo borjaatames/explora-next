@@ -41,6 +41,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O preço é por pessoa?'
+  respuesta: 'Não. O preço é por grupo, não por pessoa.'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Buggy Yamaha de 4 lugares; Recolha e regresso ao seu hotel em Maspalomas; Seguro.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Comida e bebidas.'
 categoria: aventura
 keywords:
 - buggy maspalomas

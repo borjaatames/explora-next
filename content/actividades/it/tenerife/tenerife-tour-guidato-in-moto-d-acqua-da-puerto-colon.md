@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: 'GetYourGuide non lo indica. Di solito gli istruttori parlano inglese e spagnolo: chiedilo all''operatore quando prenoti.'
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Arriva 30 minuti prima.'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Moto d''acqua per una o due persone (secondo l''opzione); Istruzioni passo passo; Barca d''appoggio e guida; Sosta per il bagno; Armadietti gratuiti e giubbotto salvagente.'
+- pregunta: 'Cosa bisogna sapere prima di prenotare?'
+  respuesta: 'Alla guida da soli dai 16 anni, con passeggero dai 18; Carico massimo di circa 160 kg per moto; Non adatto ai bambini sotto i 6 anni e in gravidanza.'
 categoria: agua
 keywords:
 - moto d'acqua tenerife

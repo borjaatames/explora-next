@@ -57,6 +57,17 @@ detallesPracticos:
   accesibleSilla: true
   edadMinima: 1
 politicaCancelacion: Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.
+preguntasFrecuentes:
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before the start; a 100% charge applies for cancellations made later than that.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'No physical meeting point: activate the route from your phone using the code you receive after purchase, whenever and wherever you like in Granada.'
+- pregunta: 'What is included?'
+  respuesta: 'Access to the self-guided Granada route through the DareMapp app, with a reference code sent after purchase; Audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); Complete freedom to set your pace, pick your stops, and pause or resume whenever you like; Availability 24 hours a day, 365 days a year, with no expiry date; Access to food and family-activity recommendations inside the app.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Suitable for the whole family: minimum age 1 year; Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; the Albaicín has steep, cobbled streets, worth bearing in mind if you''re using a wheelchair or stroller; Service animals are welcome.'
+- pregunta: 'What is not included?'
+  respuesta: 'A physical guide or companion (this is a fully self-guided, independent experience); Transport to the start of the route; Admission tickets to monuments or museums along the route (where applicable).'
 opinionEditorial: 'With 3 routes — Essential Granada, Albaicín and Sacromonte, and The Alhambra — this is one of the most flexible listings in the catalogue: you can do just the one you want or spread them over several days, since the access never expires. One important caveat: the Alhambra route is a narrated tour of the surroundings, it does not include entry to the monument itself, which has to be booked separately and well in advance.'
 atraccionesRelacionadas:
 - otros-granada

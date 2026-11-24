@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: This one is self-guided with a leaflet (and an optional audio guide). If you prefer to have it explained, the Palau also offers a guided tour that is booked separately.
 - pregunta: How long does it take?
   respuesta: About 50 minutes at a relaxed pace.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours in advance, with a full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Palau de la Música Catalana, Carrer Palau de la Música, 4-6 (08003 Barcelona). Urquinaona metro (lines 1 and 4), a 3-minute walk. Go in through the visitor entrance in the new building, next to the main façade, at your booked time and show your voucher.'
 opinionEditorial: 'It is the Modernista visit that most surprises people who have already seen the Sagrada Família and Casa Batlló, and it is a good deal cheaper. The concert hall in daylight is spectacular. Book a morning slot, when more light comes through the skylight.'
 atraccionesRelacionadas:
 - otros-barcelona

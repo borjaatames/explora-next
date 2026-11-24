@@ -65,6 +65,10 @@ preguntasFrecuentes:
   respuesta: Esta es por libre con folleto (y audioguía opcional). Si prefieres que te lo expliquen, el Palau tiene también una visita guiada que se reserva aparte.
 - pregunta: ¿Cuánto dura?
   respuesta: Unos 50 minutos a ritmo tranquilo.
+- pregunta: '¿Cuál es la política de cancelación?'
+  respuesta: 'Cancelación gratuita hasta 24 horas antes, con reembolso completo.'
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Palau de la Música Catalana, Carrer Palau de la Música, 4-6 (08003 Barcelona). Metro Urquinaona (líneas 1 y 4), a 3 minutos a pie. Entra por el acceso de visitas del edificio nuevo, junto a la fachada principal, a la hora reservada y enseña el voucher.'
 opinionEditorial: 'Es la visita modernista que más sorprende a quien ya ha visto la Sagrada Família y la Casa Batlló, y bastante más barata. La sala de conciertos con luz de día es espectacular. Reserva por la mañana, cuando entra más luz por la claraboya.'
 atraccionesRelacionadas:
 - otros-barcelona

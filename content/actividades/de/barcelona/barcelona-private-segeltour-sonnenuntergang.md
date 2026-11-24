@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: 'In der Saison: derzeit gibt es Termine ab Mai 2027.'
 - pregunta: Was gibt es an Bord?
   respuesta: Cava, Wein und Bier, dazu Snacks.
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher. Danach keine Erstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Barcelona Watersports in der Marina Port Vell.'
 categoria: agua
 privada: true
 precioPorGrupo: true

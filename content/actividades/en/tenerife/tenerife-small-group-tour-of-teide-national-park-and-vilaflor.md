@@ -45,6 +45,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, French, German, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Transfer and pick-up in the south in a minibus for up to 8; Walking poles in the national park; Child seats available.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drink (you can bring your own); Cable car tickets.'
+- pregunta: 'How long does it last?'
+  respuesta: '5 hours.'
 categoria: excursionesDia
 keywords:
 - teide small group tour

@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle espagnol, anglais, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'C. Poblado Marinero 20, port de Los Gigantes.'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Falaises de Los Gigantes; Arrêts dans des baies et criques; Boisson alcoolisée ou soda; Tapas; Équipement de snorkeling; Skipper et guide.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Options végétariennes et véganes sur demande; 4 enfants maximum par sortie.'
 categoria: agua
 keywords:
 - sortie bateau los gigantes

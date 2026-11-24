@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks English, Spanish.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Casa Forestal, Aguamansa (La Orotava).'
+- pregunta: 'What is included?'
+  respuesta: 'Certified canyoning guide; Accident insurance; Access permits for the natural area; All canyoning equipment; Photos; First aid.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for under-16s, over-60s or pregnant women; Maximum 127 kg; In bad weather you can reschedule, switch activity or get a full refund.'
 categoria: aventura
 keywords:
 - canyoning tenerife

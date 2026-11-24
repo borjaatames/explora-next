@@ -54,6 +54,10 @@ preguntasFrecuentes:
   respuesta: "Bis höchstens 12 Meter."
 - pregunta: "Werde ich abgeholt?"
   respuesta: "Ja, kostenlos im Umkreis von 10 km um die Tauchbasis."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Tauchbasis Ocean Trek, Calle Valencia, Costa Adeje: eine Sackgasse, die zum Meer führt.'
 categoria: agua
 keywords:
 - "schnuppertauchen teneriffa"

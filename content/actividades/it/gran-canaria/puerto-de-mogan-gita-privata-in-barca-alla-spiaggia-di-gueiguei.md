@@ -44,6 +44,10 @@ preguntasFrecuentes:
   respuesta: La guida parla spagnolo, inglese, italiano.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Gita privata in barca con skipper professionista; Percorso personalizzato tra le calette di Mogán; Attrezzatura da snorkeling; Bevande: acqua, bibite e birra; Snack leggeri; Assicurazione RC e dotazioni di sicurezza.'
+- pregunta: 'Quanto dura?'
+  respuesta: '4 ore.'
 categoria: agua
 keywords:
 - gita in barca güigüi

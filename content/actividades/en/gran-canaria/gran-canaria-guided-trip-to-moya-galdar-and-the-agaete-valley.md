@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: The guide speaks German, French, Italian, Spanish, English.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'What is included?'
+  respuesta: 'Hotel pick-up; Coach transport; Local guide; Entry, visit and tasting at Los Berrazales winery; Travel insurance; Local tips.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for people prone to motion sickness or with reduced mobility.'
+- pregunta: 'What is not included?'
+  respuesta: 'Food and drinks.'
 categoria: excursionesDia
 keywords:
 - agaete valley tour

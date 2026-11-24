@@ -57,6 +57,10 @@ preguntasFrecuentes:
   respuesta: "Ja, je nach Option mit Bus aus den wichtigsten Orten."
 - pregunta: "Kann man mit Karte zahlen?"
   respuesta: "An Bar und Shop nicht: nur Bargeld."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Reitanlage in der Senda del Pilar 4, 29620 Torremolinos. An der Kasse das Ticket einlösen; früh kommen.'
 categoria: espectaculos
 guiasRelacionadas:
 - malaga-in-zwei-tagen

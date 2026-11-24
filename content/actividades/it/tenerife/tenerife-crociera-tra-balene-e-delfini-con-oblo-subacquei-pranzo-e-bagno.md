@@ -59,6 +59,10 @@ preguntasFrecuentes:
   respuesta: Sì, il catamarano ha 16 grandi finestre subacquee.
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
+- pregunta: 'Dov''è il punto d''incontro?'
+  respuesta: 'Catamarano Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
+- pregunta: 'Cosa è incluso?'
+  respuesta: 'Crociera in catamarano; Avvistamento di balene e delfini; Pranzo e bevande.'
 categoria: agua
 keywords:
 - avvistamento balene puerto colon

@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide does not list it. The instructors usually speak English and Spanish; ask the operator when you book.
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
+- pregunta: 'What is included?'
+  respuesta: 'Sea Trek helmet with constant air supply; All equipment, no experience needed; Safety briefing and guided underwater walk; Certified instructors throughout; Wetsuit; Lockers and changing rooms.'
+- pregunta: 'What should I know before booking?'
+  respuesta: 'Not suitable for children under 8 or pregnant women.'
 categoria: agua
 keywords:
 - sea trek tenerife

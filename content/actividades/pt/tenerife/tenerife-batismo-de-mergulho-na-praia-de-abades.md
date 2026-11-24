@@ -50,6 +50,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'O que está incluído?'
+  respuesta: 'Equipamento de mergulho; Seguro; Registo de mergulhos online; Instrutor de mergulho; Recolha e regresso grátis em pontos confirmados de Tenerife; Água potável.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Idade mínima 8 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos; É obrigatório um questionário médico; algumas condições exigem atestado médico.'
+- pregunta: 'O que não está incluído?'
+  respuesta: 'Almoço; Fotos subaquáticas.'
 categoria: agua
 keywords:
 - mergulho abades

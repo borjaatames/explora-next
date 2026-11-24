@@ -49,6 +49,12 @@ preguntasFrecuentes:
   respuesta: Nein. Sie ist kostenlos und wird bis 5 Tage vorher online beantragt.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Hafen von Corralejo: Suche vor der Abfahrt das Boot nach Lobos.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Fährticket hin und zurück; Abholung und Rücktransfer vom Hotel (falls gewählt).'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Die Zugangsgenehmigung ist kostenlos und kann bis 5 Tage vorher beantragt werden; Nicht rollstuhlgerecht.'
 categoria: excursionesDia
 keywords:
 - fähre lobos corralejo

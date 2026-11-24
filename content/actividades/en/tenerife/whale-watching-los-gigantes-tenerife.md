@@ -63,6 +63,12 @@ preguntasFrecuentes:
   respuesta: No operator can guarantee wildlife sightings, but pilot whales are resident in the waters off Tenerife's west coast year-round (not migratory), so sightings are very frequent. Dolphins are also seen on most trips.
 - pregunta: Which whales will I see?
   respuesta: The most common species is the short-finned pilot whale (resident year-round). Bottlenose dolphins and Atlantic spotted dolphins are also very frequently seen. Less common sightings include sperm whales and loggerhead turtles.
+- pregunta: 'What is the cancellation policy?'
+  respuesta: 'Free cancellation up to 24 hours before with full refund.'
+- pregunta: 'Where is the meeting point?'
+  respuesta: 'Puerto de Los Gigantes, Tenerife. Los Gigantes is on Tenerife''s west coast, about 45 km from Santa Cruz and 30 km from Las Américas. From the south, take the TF-1 and TF-47 motorways. Parking available at the port. Confirm the exact meeting point with the operator on your voucher.'
+- pregunta: 'What is included?'
+  respuesta: 'Boat trip (2–3 hours); Whale and dolphin watching with a naturalist guide.'
 opinionEditorial: 'Los Gigantes combines two of Tenerife''s greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe.'
 guiasRelacionadas:
 - whale-watching-tenerife

@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: Le guide parle anglais, allemand, espagnol, français.
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Véhicule climatisé; Guide professionnel; Visite du centre d''aloe vera; Arrêt dans une bodega traditionnelle; Arrêts photo aux sites emblématiques.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Non accessible en fauteuil roulant; Prévoir vêtements et chaussures confortables et crème solaire.'
+- pregunta: 'Qu''est-ce qui n''est pas inclus ?'
+  respuesta: 'Déjeuner; Dépenses personnelles et achats.'
 categoria: excursionesDia
 keywords:
 - tour vip lanzarote

@@ -57,6 +57,12 @@ preguntasFrecuentes:
   respuesta: 'Selon la météo : Formentera, l’île d’Espalmador, les Salines ou Es Vedrà, avec plusieurs arrêts baignade.'
 - pregunta: Peut-on annuler ?
   respuesta: Gratuitement jusqu’à 60 jours avant ; ensuite, pas de remboursement.
+- pregunta: 'Où se trouve le point de rendez-vous ?'
+  respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
+- pregunta: 'Qu''est-ce qui est inclus ?'
+  respuesta: 'Place sur un voilier de 41 pieds avec skipper; Carburant; Snorkeling et 2 paddles; Toilettes à bord.'
+- pregunta: 'Que faut-il savoir avant de réserver ?'
+  respuesta: 'Prix par personne (7 max. à bord); L’itinéraire dépend du vent et de la mer; Non accessible en fauteuil roulant.'
 opinionEditorial: La façon la plus abordable de passer une journée entière en voilier à Ibiza.
 atraccionesRelacionadas:
 - formentera

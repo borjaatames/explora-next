@@ -43,6 +43,17 @@ detallesPracticos:
   ticketMovil: true
   confirmacionInmediata: true
 politicaCancelacion: Free cancellation up to 24 hours before the start, with a full refund.
+preguntasFrecuentes:
+- pregunta: 'Is the price per person?'
+  respuesta: 'No. The price is per session, for you or your whole group.'
+- pregunta: 'How many photos do I get, and when?'
+  respuesta: '30 edited photos with the 40-minute option, 50 with the 60-minute option and 75 with the 90-minute option. They are delivered in a private online gallery within 24 hours.'
+- pregunta: 'Where does the session take place?'
+  respuesta: 'Around Playa del Duque in Costa Adeje. The photographer confirms the exact spot after you book.'
+- pregunta: 'What start time should I pick for sunset photos?'
+  respuesta: 'About an hour before sunset.'
+- pregunta: 'Can I cancel for free?'
+  respuesta: 'Yes, up to 24 hours before the session.'
 opinionEditorial: 'If you are staying in the south it could hardly be easier: you meet at Playa del Duque and in an hour you have photos on the sand, the promenade and the volcanic rocks. Time it with the sunset, which in Costa Adeje drops into the sea beside La Gomera. Because the price is per session, it is far better value for couples and families.'
 atraccionesRelacionadas:
 - fotos

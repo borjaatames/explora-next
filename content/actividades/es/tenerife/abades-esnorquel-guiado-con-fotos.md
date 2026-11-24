@@ -51,6 +51,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide no lo indica. Los monitores suelen hablar español e inglés; pregúntalo al reservar.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Dónde es el punto de encuentro?'
+  respuesta: 'Frente al restaurante Magilu, Av. Ocira 27, Abades.'
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Esnórquel con guía; Equipo de esnórquel; Neopreno largo o corto; Fotos y vídeos.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'Quien no sabe nadar ve peces pero no las tortugas, que exigen nadar un buen rato; No se pueden llevar gafas bajo la máscara; No apto para menores de 5 años ni personas resfriadas.'
 categoria: agua
 keywords:
 - esnórquel abades

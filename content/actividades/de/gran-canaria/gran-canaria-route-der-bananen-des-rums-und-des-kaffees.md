@@ -56,6 +56,10 @@ preguntasFrecuentes:
   respuesta: "Ja, der Guide spricht unter anderem Deutsch."
 - pregunta: "Was passiert dienstags?"
   respuesta: "Statt der Kaffeeplantage wird eine Olivenplantage besucht."
+- pregunta: 'Wie sind die Stornierungsbedingungen?'
+  respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Abholung an Sammelpunkten; Ort und Uhrzeit bestätigt der Anbieter per WhatsApp.'
 categoria: toursGastronomicos
 keywords:
 - "gran canaria rum tour"

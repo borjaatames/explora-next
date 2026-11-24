@@ -53,6 +53,12 @@ preguntasFrecuentes:
   respuesta: GetYourGuide gibt es nicht an. Meist sprechen die Lehrer Englisch und Spanisch; frag am besten bei der Buchung nach.
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
+- pregunta: 'Wo ist der Treffpunkt?'
+  respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Komm 30 Minuten vorher.'
+- pregunta: 'Was ist inbegriffen?'
+  respuesta: 'Jetski für eine oder zwei Personen (je nach Option); Einweisung Schritt für Schritt; Begleitboot und Guide; Badestopp; Kostenlose Schließfächer und Schwimmweste.'
+- pregunta: 'Was sollte ich vor der Buchung wissen?'
+  respuesta: 'Allein fahren ab 16, mit Beifahrer ab 18; Maximale Zuladung ca. 160 kg pro Jetski; Nicht für Kinder unter 6 und in der Schwangerschaft.'
 categoria: agua
 keywords:
 - jetski teneriffa

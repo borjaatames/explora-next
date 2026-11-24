@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: El guía habla italiano, francés, alemán, inglés, español.
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
+- pregunta: '¿Qué incluye?'
+  respuesta: 'Traslado de ida y vuelta al hotel; Transporte en autocar; Guía local; Entrada y visita a una granja de aloe vera; Tapas en un restaurante canario típico; Seguro de viaje.'
+- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
+  respuesta: 'No apto para personas con movilidad reducida.'
+- pregunta: '¿Qué no incluye?'
+  respuesta: 'Bebidas.'
 categoria: excursionesDia
 keywords:
 - excursion guayadeque

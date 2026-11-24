@@ -52,6 +52,12 @@ preguntasFrecuentes:
   respuesta: A GetYourGuide não o indica. Os monitores costumam falar espanhol e inglês; pergunte ao reservar.
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
+- pregunta: 'Onde é o ponto de encontro?'
+  respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
+- pregunta: 'O que está incluído?'
+  respuesta: 'Receção na zona de snorkel; Seguro de atividades aquáticas; Equipamento de snorkel completo; Instrutor profissional; Meia hora de teoria; 1 hora na água.'
+- pregunta: 'O que é preciso saber antes de reservar?'
+  respuesta: 'Não recomendado a menores de 6 anos; É preciso saber nadar.'
 categoria: agua
 keywords:
 - snorkel playa chica
