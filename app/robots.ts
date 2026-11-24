@@ -16,9 +16,12 @@ const SITE_URL =
  * `/<idioma>/sem/` por idioma (sin prefijo en español).
  *
  * `meta-externalagent` (rastreador de Meta para entrenar IA) queda excluido:
- * no trae visitas y llegó a ser el 40 % de las peticiones (nov. 2026). No
- * afecta a `facebookexternalhit` (vistas previas de enlaces) ni a
- * `meta-webindexer`.
+ * no trae visitas y llegó a ser el 40 % de las peticiones (nov. 2026).
+ *
+ * `meta-webindexer` (indexador de Meta AI) también: al cerrar el anterior
+ * pasó de 10k a 42k peticiones/día, casi todas a `/_next/image` (24 nov.
+ * 2026). Ninguno de los dos afecta a `facebookexternalhit` (vistas previas
+ * de enlaces en Facebook, Instagram y WhatsApp).
  *
  * `GPTBot` (rastreador de OpenAI para entrenar modelos) también queda fuera:
  * ~17k peticiones/día sin traer visitas (nov. 2026). No afecta a
@@ -48,6 +51,7 @@ export default function robots(): MetadataRoute.Robots {
         ],
       },
       { userAgent: "meta-externalagent", disallow: "/" },
+      { userAgent: "meta-webindexer", disallow: "/" },
       { userAgent: "GPTBot", disallow: "/" },
     ],
     sitemap: `${SITE_URL}/sitemap.xml`,
