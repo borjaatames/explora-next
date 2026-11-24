@@ -1,13 +1,22 @@
 /**
- * Prueba del widget de disponibilidad de GetYourGuide (oct 2026).
+ * Calendario de disponibilidad de GetYourGuide en las fichas.
  *
- * Solo las fichas cuyo tour está en `TOURS_WIDGET_GYG` muestran el widget
- * (las 30 fichas GYG con más usuarios en GA4 entre el 26 jul y el 23 oct
- * de 2026, sumando ES y EN). El resto sigue con <CalendarioReserva>.
- * Para extender la prueba basta con añadir IDs aquí.
+ * Desde el 24 nov de 2026 lo llevan TODAS las fichas de GetYourGuide cuya
+ * URL de reserva trae el ID del tour (`…-t362290/`). Antes era una prueba
+ * con una lista cerrada: 30 tours desde octubre y 59 ese mismo día (la
+ * lista está en el historial de git de este archivo, por si hay que volver).
  *
- * Las reservas del widget se miden en el panel de GYG con la campaña
- * `CAMPANA_WIDGET_GYG`.
+ * Motivo: en el panel de GYG el calendario convertía un 9,6 % frente al
+ * 7,0 % de los enlaces de fichas en inglés (20 oct-18 nov, pocas reservas),
+ * y con fichas de 4-13 visitas una prueba parcial no llega a ser concluyente.
+ *
+ * El precio propio no se quita: va encima del calendario con
+ * `<PrecioDestacado>` (ver `cabecera` en `WidgetDisponibilidadGyg`).
+ *
+ * Se mide con el evento «Widget interaccion» de Vercel y las campañas
+ * `widget-…` del panel de GYG. Referencia antes del cambio (20-24 nov):
+ * 20 personas tocaron un calendario, 30 pulsaron un enlace a GYG y hubo
+ * 4 reservas.
  */
 
 import { GYG_PARTNER_ID } from "./afiliados-gyg";
@@ -19,39 +28,6 @@ export const CAMPANA_WIDGET_GYG = "widget-fichas";
 /** Id del bloque del widget: destino del botón de la barra fija en móvil. */
 export const ANCLA_WIDGET_GYG = "disponibilidad-gyg";
 
-const TOURS_WIDGET_GYG: ReadonlySet<string> = new Set([
-  "171177", // alhambra-grupo-reducido
-  "54011", // visita-guiada-alhambra-generalife
-  "842973", // setas-sevilla-metropol-parasol-entrada-mirador
-  "76003", // flamenco-en-el-teatro-city-hall-mas-vendido
-  "800561", // sevilla-3-monumentos-acceso-prioritario-catedral-giralda-alcazar
-  "67456", // pueblos-blancos-ronda-excursion-dia-desde-sevilla
-  "163878", // mallorca-vuelta-isla-tren-soller-tranvia-barco
-  "632032", // flamenco-cueva-amayas-sacromonte
-  "448209", // ronda-setenil-desde-malaga
-  "405115", // palau-dalmases-flamenco-show-palacio-siglo-xvii
-  "207921", // caminito-del-rey-guiado-desde-malaga
-  "521326", // sevilla-guadalquivir-river-boat-tour
-  "70427", // alhambra-tour-privado
-  "351351", // teide-teleferico-traslado
-  "391310", // wanda-metropolitano-atletico-tour
-  "69761", // flamenco-tablao-las-carboneras
-  "131913", // catedral-sevilla-giralda-entrada-skip-line
-  "700918", // camp-nou-museo-fc-barcelona-pase-total-experience
-  "217542", // tour-teide-masca-icod-garachico
-  "194657", // bernabeu-ticket-acceso
-  "32264", // museo-prado-entrada
-  "149528", // girona-juego-de-tronos-tour-grupo-reducido
-  "418722", // sevilla-1-hora-guadalquivir-eco-crucero
-  "417349", // girona-figueres-dali-cadaques-desde-barcelona
-  "48474", // flamenco-cuevas-tarantos-sacromonte
-  "419", // cuevas-del-drach-desde-alcudia
-  "610177", // taller-paella-sangria-madrid-centro
-  "231887", // tablao-de-carmen-flamenco-cena-poble-espanyol
-  "953643", // universidad-salamanca-visita-guiada
-  "61512", // girona-costa-brava-grupo-reducido-recogida-hotel
-]);
-
 /** Extrae el ID de tour de una URL de GYG (`…-t362290/`). */
 export function extraerTourIdGyg(url: string | undefined): string | null {
   if (!url) return null;
@@ -60,14 +36,14 @@ export function extraerTourIdGyg(url: string | undefined): string | null {
 }
 
 /**
- * Devuelve el ID de tour si la ficha entra en la prueba del widget;
- * `null` en cualquier otro caso (otro proveedor o fuera de la lista).
+ * Devuelve el ID de tour si la ficha es de GetYourGuide y su URL lo trae;
+ * `null` en cualquier otro caso (otro proveedor o URL sin ID), y entonces
+ * la ficha sigue con <CalendarioReserva>.
  */
 export function tourWidgetGyg(
   proveedor: string | undefined,
   urlReserva: string | undefined
 ): string | null {
   if (proveedor !== "getyourguide") return null;
-  const id = extraerTourIdGyg(urlReserva);
-  return id && TOURS_WIDGET_GYG.has(id) ? id : null;
+  return extraerTourIdGyg(urlReserva);
 }
