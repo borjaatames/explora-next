@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Tausch deinen Gutschein am Empfang des Kunstmuseums ein, neben der Treppe der Kathedrale.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt in die Kathedrale und ihren Domschatz; Eintritt in die Basilika Sant Feliu; Eintritt ins Kunstmuseum; Audioguide für die Kathedrale.'
+  respuesta: 'Im Preis inbegriffen: Eintritt in die Kathedrale und ihren Domschatz, Eintritt in die Basilika Sant Feliu, Eintritt ins Kunstmuseum und Audioguide für die Kathedrale.'
 opinionEditorial: Das Wichtigste der Altstadt von Girona mit einem Ticket für 12 €. Allein das Kirchenschiff der Kathedrale und der Schöpfungsteppich rechtfertigen den Preis.
 guiasRelacionadas:
 - girona-in-einem-tag

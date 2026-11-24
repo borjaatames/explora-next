@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrrad; Guide; Helm.'
+  respuesta: 'Im Preis inbegriffen: Fahrrad, Guide und Helm.'
 categoria: toursCiudad
 guiasRelacionadas:
 - valencia-in-2-tagen

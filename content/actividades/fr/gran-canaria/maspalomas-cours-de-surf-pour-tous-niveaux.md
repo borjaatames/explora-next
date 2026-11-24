@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Planche de surf; Combinaison; Eau et fruits; Assurance accident et responsabilité civile.'
+  respuesta: 'Le prix comprend : planche de surf, combinaison, eau et fruits et assurance accident et responsabilité civile.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Prise en charge à l''hôtel; Transport.'
+  respuesta: 'Ne sont pas inclus : prise en charge à l''hôtel et transport.'
 categoria: agua
 keywords:
 - cours de surf maspalomas

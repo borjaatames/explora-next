@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en hoteles seleccionados del sur; Paseo en barco con patrón/guía; Aperitivos y bebidas; Esnórquel; Paddle surf.'
+  respuesta: 'Incluye recogida en hoteles seleccionados del sur, paseo en barco con patrón/guía, aperitivos y bebidas, esnórquel y paddle surf.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Depende del estado del mar y del tiempo.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Parasailing, e-foil y moto de agua (a la venta).'
+  respuesta: 'No incluye parasailing, e-foil y moto de agua (a la venta).'
 categoria: agua
 keywords:
 - paseo en barco puerto rico gran canaria

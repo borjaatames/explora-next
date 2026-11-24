@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo in hotel; Transfer in minibus; Visita guidata; Visita a un tunnel di lava; Picnic leggero: tè o succo, dolcetti, barretta, frutta secca; Servizio fotografico con 20-30 foto.'
+  respuesta: 'Il prezzo include prelievo in hotel; transfer in minibus; visita guidata; visita a un tunnel di lava; picnic leggero: tè o succo, dolcetti, barretta, frutta secca; e servizio fotografico con 20-30 foto.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Prelievo nel sud, da Los Gigantes a Los Cristianos; Se l''alloggio è lontano dalla strada principale, il prelievo è nel punto più vicino.'
+  respuesta: 'Prelievo nel sud, da Los Gigantes a Los Cristianos. Se l''alloggio è lontano dalla strada principale, il prelievo è nel punto più vicino.'
 - pregunta: 'Quanto dura?'
-  respuesta: '6 ore.'
+  respuesta: 'Dura 6 ore.'
 categoria: aventura
 keywords:
 - escursione teide grotta di lava

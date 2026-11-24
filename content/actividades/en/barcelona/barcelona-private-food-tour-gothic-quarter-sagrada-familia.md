@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide for 4 hours; Tastings at 5 stops and 3 drinks; Skip-the-line Sagrada Familia ticket with audio guide; Taxi from the Gothic Quarter to the Sagrada Familia.'
+  respuesta: 'The price includes private guide for 4 hours, tastings at 5 stops and 3 drinks, skip-the-line Sagrada Familia ticket with audio guide, and taxi from the Gothic Quarter to the Sagrada Familia.'
 opinionEditorial: 'It combines the two things almost everyone wants in Barcelona: great food and the Sagrada Familia. Private and with the taxi sorted, it''s a complete plan.'
 atraccionesRelacionadas:
 - tapas-barcelona

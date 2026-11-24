@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Casco Sea Trek con suministro de aire constante; Todo el equipo, sin experiencia previa; Charla de seguridad y paseo submarino guiado; Instructores titulados todo el tiempo; Neopreno; Taquillas y vestuarios.'
+  respuesta: 'Incluye casco Sea Trek con suministro de aire constante; todo el equipo, sin experiencia previa; charla de seguridad y paseo submarino guiado; instructores titulados todo el tiempo; neopreno; y taquillas y vestuarios.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 8 años ni embarazadas.'
 categoria: agua

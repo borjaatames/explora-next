@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel; Tavola e muta.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel e tavola e muta.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a bambini sotto i 11 anni; Non adatto a donne in gravidanza; Bisogna saper nuotare.'
+  respuesta: 'Non adatto a bambini sotto i 11 anni. Non adatto a donne in gravidanza. Bisogna saper nuotare.'
 - pregunta: 'Quanto dura?'
-  respuesta: '4 ore.'
+  respuesta: 'Dura 4 ore.'
 categoria: agua
 keywords:
 - flag beach surf

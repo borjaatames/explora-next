@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Schnuppertauchgang mit Tauchlehrer; Abholung vom Hotel.'
+  respuesta: 'Im Preis inbegriffen: Schnuppertauchgang mit Tauchlehrer und Abholung vom Hotel.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 10, in der Schwangerschaft oder bei Vorerkrankungen.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '2 Std. 30 Min.'
+  respuesta: 'Die Dauer beträgt 2 Std. 30 Min.'
 categoria: agua
 keywords:
 - schnuppertauchen fuerteventura

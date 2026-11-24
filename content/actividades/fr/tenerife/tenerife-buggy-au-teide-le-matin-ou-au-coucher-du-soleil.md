@@ -57,9 +57,9 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à l''hôtel (selon l''option); Gants, masque et veste; Assurance; Boissons offertes; Visite guidée avec arrêts photo.'
+  respuesta: 'Le prix comprend : prise en charge et retour à l''hôtel (selon l''option); gants, masque et veste; assurance; boissons offertes; et visite guidée avec arrêts photo.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Conducteurs de 21 ans minimum avec permis valide; Enfants dès 4 ans dans l''option 4 places, à l''arrière; Prise en charge de Golf del Sur à Callao Salvaje.'
+  respuesta: 'Conducteurs de 21 ans minimum avec permis valide. Enfants dès 4 ans dans l''option 4 places, à l''arrière. Prise en charge de Golf del Sur à Callao Salvaje.'
 categoria: aventura
 keywords:
 - buggy teide coucher de soleil

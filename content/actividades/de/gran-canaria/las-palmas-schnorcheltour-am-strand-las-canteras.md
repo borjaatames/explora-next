@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Tour von 3 Stunden; 1 bis 1,5 Stunden Schnorcheln; Qualifizierter Lehrer; Schnorchelausrüstung; Wasser und Obst; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Tour von 3 Stunden; 1 bis 1,5 Stunden Schnorcheln; Qualifizierter Lehrer; Schnorchelausrüstung; Wasser und Obst; und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Die Startzeit hängt von Wetter und Gezeiten ab und wird nach der Buchung bestätigt.'
 categoria: agua

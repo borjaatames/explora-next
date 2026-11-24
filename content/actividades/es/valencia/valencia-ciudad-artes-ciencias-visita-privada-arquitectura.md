@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado.'
+  respuesta: 'Incluye guía privado.'
 opinionEditorial: Para entender por qué este conjunto es tan especial hace falta alguien que explique la arquitectura; dos horas en privado son suficientes y luego puedes entrar donde quieras.
 atraccionesRelacionadas:
 - ciudad-artes

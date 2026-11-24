@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rückfahrt in ausgewählten Orten im Süden; Wasser und Kekse.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rückfahrt in ausgewählten Orten im Süden und Wasser und Kekse.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 6 Jahren, Menschen mit eingeschränkter Mobilität oder Rollstuhlfahrer.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Fotos und Video; Abholung aus anderen Orten.'
+  respuesta: 'Nicht inbegriffen: Fotos und Video und Abholung aus anderen Orten.'
 categoria: agua
 keywords:
 - schnorchel bootsausflug gran canaria

@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado; Recogida en el hotel.'
+  respuesta: 'Incluye guía privado y recogida en el hotel.'
 opinionEditorial: 'Una buena primera toma de contacto con Bilbao: lo antiguo y lo nuevo de la ciudad contado por alguien de aquí, a vuestro ritmo.'
 atraccionesRelacionadas:
 - casco-viejo

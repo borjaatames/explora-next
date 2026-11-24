@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Pickup at your hotel or accommodation in Madrid; the guide waits for you at reception wearing an ID badge.'
 - pregunta: 'What is included?'
-  respuesta: 'Private transport; Private guide; Tickets to the monuments on the itinerary.'
+  respuesta: 'The price includes private transport, private guide, and tickets to the monuments on the itinerary.'
 atraccionesRelacionadas:
 - escorial
 - palacio-real

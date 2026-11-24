@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasferimento gratuito dal diving al sito di immersione; Briefing sulle basi; Un''immersione da 40 minuti a 1 ora; Attrezzatura da sub; Bombola piena; Assicurazione subacquea.'
+  respuesta: 'Il prezzo include trasferimento gratuito dal diving al sito di immersione, briefing sulle basi, un''immersione da 40 minuti a 1 ora, attrezzatura da sub, bombola piena e assicurazione subacquea.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 10 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci; Non adatto a chi soffre di asma o problemi respiratori.'
+  respuesta: 'Età minima 10 anni. Non adatto a donne in gravidanza o persone con problemi cardiaci. Non adatto a chi soffre di asma o problemi respiratori.'
 - pregunta: 'Quanto dura?'
-  respuesta: '3 ore.'
+  respuesta: 'Dura 3 ore.'
 categoria: agua
 keywords:
 - battesimo del sub tenerife

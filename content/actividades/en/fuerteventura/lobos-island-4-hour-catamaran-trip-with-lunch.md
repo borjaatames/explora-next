@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Boat Celia Cruz, Corralejo harbour (Calle Arena 9).'
 - pregunta: 'What is included?'
-  respuesta: 'Catamaran trip with guide; Lunch; Unlimited drinks; Snorkelling gear; Paddleboard and floats; Landing on Lobos Island.'
+  respuesta: 'The price includes catamaran trip with guide, lunch, unlimited drinks, snorkelling gear, paddleboard and floats, and landing on Lobos Island.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Pick-up available in the north of the island if you choose the option.'
 categoria: agua

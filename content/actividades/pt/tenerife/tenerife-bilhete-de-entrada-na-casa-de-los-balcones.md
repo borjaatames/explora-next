@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Casa de los Balcones, Calle San Francisco 3, La Orotava.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete de entrada; Audioguia descarregável em francês, inglês, espanhol e alemão.'
+  respuesta: 'O preço inclui bilhete de entrada; e audioguia descarregável em francês, inglês, espanhol e alemão.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Leve o seu telemóvel e auriculares para o audioguia; Sem acesso para cadeiras de rodas.'
+  respuesta: 'Leve o seu telemóvel e auriculares para o audioguia. Sem acesso para cadeiras de rodas.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '1 hora.'
+  respuesta: 'Dura 1 hora.'
 categoria: entradas
 keywords:
 - casa de los balcones bilhetes

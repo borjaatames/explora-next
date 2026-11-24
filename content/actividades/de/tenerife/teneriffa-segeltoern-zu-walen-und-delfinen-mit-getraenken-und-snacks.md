@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Puerto Colón, oben am Steg beim Schild «Pantalán Nº4», 15 Minuten vor Abfahrt.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Segeltörn; Abholung und Rücktransfer vom Hotel; Sicherheitseinweisung; Schnorchelausrüstung; Getränke: Cava, Bier, Softdrinks und Wasser; Baguettes, Obst, Chips und Nüsse.'
+  respuesta: 'Im Preis inbegriffen: Segeltörn; Abholung und Rücktransfer vom Hotel; Sicherheitseinweisung; Schnorchelausrüstung; Getränke: Cava, Bier, Softdrinks und Wasser; und Baguettes, Obst, Chips und Nüsse.'
 categoria: agua
 keywords:
 - segeltörn wale teneriffa

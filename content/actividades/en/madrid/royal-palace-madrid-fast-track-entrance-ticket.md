@@ -49,7 +49,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Royal Palace of Madrid, Plaza de la Armería. Show your ticket on your phone at the entrance at your time slot.'
 - pregunta: 'What is included?'
-  respuesta: 'Fast-track entrance ticket to the Royal Palace of Madrid.'
+  respuesta: 'The price includes fast-track entrance ticket to the Royal Palace of Madrid.'
 categoria: entradas
 keywords:
 - royal palace madrid tickets

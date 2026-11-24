@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, local E2, Maspalomas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Todo el material: tabla, invento, top de neopreno y bañador o neopreno largo; Clase de surf; Fruta y agua; Fotos tuyas surfeando; 10 % de descuento en la tienda; Seguro de accidentes a terceros.'
+  respuesta: 'Incluye todo el material: tabla, invento, top de neopreno y bañador o neopreno largo; clase de surf; fruta y agua; fotos tuyas surfeando; 10 % de descuento en la tienda; y seguro de accidentes a terceros.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Los días de surf dependen mucho de las condiciones; No apto para menores de 8 años, personas que no saben nadar ni de más de 110 kg.'
+  respuesta: 'Los días de surf dependen mucho de las condiciones. No apto para menores de 8 años, personas que no saben nadar ni de más de 110 kg.'
 categoria: agua
 keywords:
 - clase de surf playa del ingles

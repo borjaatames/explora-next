@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura da sub; Assicurazione; Logbook online; Istruttore subacqueo; Prelievo e ritorno gratuiti dai punti confermati a Tenerife; Acqua potabile.'
+  respuesta: 'Il prezzo include attrezzatura da sub, assicurazione, logbook online, istruttore subacqueo, prelievo e ritorno gratuiti dai punti confermati a Tenerife e acqua potabile.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 8 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci; Serve un questionario medico; alcune condizioni richiedono un certificato.'
+  respuesta: 'Età minima 8 anni. Non adatto a donne in gravidanza o persone con problemi cardiaci. Serve un questionario medico; alcune condizioni richiedono un certificato.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Pranzo; Foto subacquee.'
+  respuesta: 'Il prezzo non include pranzo né foto subacquee.'
 categoria: agua
 keywords:
 - immersione abades

@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Drink di benvenuto; Capitano ed equipaggio; Carburante, pulizia, assicurazione e tasse; Wifi a bordo.'
+  respuesta: 'Il prezzo include drink di benvenuto; capitano ed equipaggio; carburante, pulizia, assicurazione e tasse; e wifi a bordo.'
 categoria: agua
 guiasRelacionadas:
 - barcellona-in-2-giorni

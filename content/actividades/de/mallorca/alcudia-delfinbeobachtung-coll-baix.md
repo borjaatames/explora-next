@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Alcudiamar (Parkplatz des Yachthafens), Alcúdia. Abfahrt ab dem Yachthafen Alcudiamar in Alcúdia. Es gibt eine Option mit Abholung und Rückfahrt zum Hotel: Wenn du sie wählst, steht die Uhrzeit auf deinem Gutschein.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Halbprivates Boot mit Kapitän (max. 12 Personen); Treibstoff und Steuern; Mindestens 30 Minuten bei den Delfinen; Küste, Klippen und Höhlen; Baden am Strand Coll Baix; Abholung und Rückfahrt zum Hotel (wenn diese Option gewählt wird).'
+  respuesta: 'Im Preis inbegriffen: Halbprivates Boot mit Kapitän (max. 12 Personen); Treibstoff und Steuern; mindestens 30 Minuten bei den Delfinen; Küste, Klippen und Höhlen; Baden am Strand Coll Baix; und Abholung und Rückfahrt zum Hotel (wenn diese Option gewählt wird).'
 opinionEditorial: Die bestbewertete Delfintour auf Mallorca, mit Tausenden Bewertungen und kleinen Gruppen. Das frühe Aufstehen lohnt sich.
 guiasRelacionadas:
 - mallorca-mit-kindern

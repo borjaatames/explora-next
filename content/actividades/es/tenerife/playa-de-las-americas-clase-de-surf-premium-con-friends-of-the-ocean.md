@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Clase de surf de 2 horas (teoría y práctica); Todo el equipo: tabla, neopreno, escarpines y seguro; Duchas, taquillas, café y agua gratis; 1 hora extra de uso gratis del material.'
+  respuesta: 'Incluye clase de surf de 2 horas (teoría y práctica); todo el equipo: tabla, neopreno, escarpines y seguro; duchas, taquillas, café y agua gratis; y 1 hora extra de uso gratis del material.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Clases para todos los niveles y edades; Los monitores hablan español, inglés, francés, alemán y ruso.'
+  respuesta: 'Clases para todos los niveles y edades. Los monitores hablan español, inglés, francés, alemán y ruso.'
 categoria: agua
 keywords:
 - clase de surf playa de las americas

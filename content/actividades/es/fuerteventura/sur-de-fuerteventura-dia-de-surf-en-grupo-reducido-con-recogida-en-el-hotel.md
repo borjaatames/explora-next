@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida frente a tu hotel en el sur (Jandía, Costa Calma, La Pared, Tarajalejo); Monitor de surf; Neopreno; Tabla de surf.'
+  respuesta: 'Incluye recogida frente a tu hotel en el sur (Jandía, Costa Calma, La Pared, Tarajalejo); monitor de surf; neopreno; y tabla de surf.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 12, embarazadas ni personas con problemas cardiacos; Lleva agua, tentempié, protector solar y gorra.'
+  respuesta: 'No apto para menores de 12, embarazadas ni personas con problemas cardiacos. Lleva agua, tentempié, protector solar y gorra.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Agua potable; Protector solar.'
+  respuesta: 'No incluye agua potable ni protector solar.'
 categoria: agua
 keywords:
 - clase de surf costa calma

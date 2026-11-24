@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'No physical meeting point: activate the route from your phone using the code you receive after purchase, whenever and wherever you like in Bilbao.'
 - pregunta: 'What is included?'
-  respuesta: 'Access to the self-guided Bilbao route through the DareMapp app, with a reference code sent after purchase; Audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); Complete freedom to set your pace, pick your stops, and pause or resume whenever you like; Availability 24 hours a day, 365 days a year, with no expiry date; Access to food and family-activity recommendations inside the app.'
+  respuesta: 'The price includes access to the self-guided Bilbao route through the DareMapp app, with a reference code sent after purchase; audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); complete freedom to set your pace, pick your stops, and pause or resume whenever you like; availability 24 hours a day, 365 days a year, with no expiry date; and access to food and family-activity recommendations inside the app.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Suitable for the whole family: minimum age 1 year; Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; a few stretches of the Casco Viejo have gentle slopes; Service animals are welcome.'
+  respuesta: 'Suitable for the whole family: minimum age 1 year. Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; a few stretches of the Casco Viejo have gentle slopes. Service animals are welcome.'
 - pregunta: 'What is not included?'
-  respuesta: 'A physical guide or companion (this is a fully self-guided, independent experience); Transport to the start of the route; Admission tickets to monuments or museums along the route (where applicable).'
+  respuesta: 'The price does not include a physical guide or companion (this is a fully self-guided, independent experience); transport to the start of the route; or admission tickets to monuments or museums along the route (where applicable).'
 opinionEditorial: It works well for combining classic Bilbao (Casco Viejo, palaces, cathedral) with the Guggenheim without depending on guided-tour timetables. With +15 points of interest it's a mid-length route, longer than Girona but shorter than Barcelona. Good for travellers who'd rather move at their own pace and take their time over photos.
 atraccionesRelacionadas:
 - casco-viejo

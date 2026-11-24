@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en puntos seleccionados; Ruta en buggy; Guía profesional; Gafas.'
+  respuesta: 'Incluye recogida y regreso en puntos seleccionados, ruta en buggy, guía profesional y gafas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductores mayores de 18 con carné válido y tarjeta de crédito física; Los pasajeros deben medir al menos 130 cm.'
+  respuesta: 'Conductores mayores de 18 con carné válido y tarjeta de crédito física. Los pasajeros deben medir al menos 130 cm.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: aventura
 keywords:
 - buggy las palmas

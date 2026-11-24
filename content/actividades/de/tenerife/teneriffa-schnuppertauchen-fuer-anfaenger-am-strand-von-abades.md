@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Tauchausrüstung; Versicherung; Online-Logbuch; Tauchlehrer; Kostenlose Abholung und Rücktransfer an bestätigten Punkten auf Teneriffa; Trinkwasser.'
+  respuesta: 'Im Preis inbegriffen: Tauchausrüstung, Versicherung, Online-Logbuch, Tauchlehrer, kostenlose Abholung und Rücktransfer an bestätigten Punkten auf Teneriffa und Trinkwasser.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 8 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
+  respuesta: 'Mindestalter 8 Jahre. Nicht für Schwangere oder Menschen mit Herzproblemen. Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen; Unterwasserfotos.'
+  respuesta: 'Nicht inbegriffen: Mittagessen und Unterwasserfotos.'
 categoria: agua
 keywords:
 - tauchen abades

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, Lokal 11, Playa de las Américas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zertifizierter Surflehrer; Brett, Neoprenanzug, Riffschuhe und Lycra; Unfallversicherung; Schließfächer, Toiletten und Duschen; 20 Minuten Theorie.'
+  respuesta: 'Im Preis inbegriffen: zertifizierter Surflehrer; Brett, Neoprenanzug, Riffschuhe und Lycra; Unfallversicherung; Schließfächer, Toiletten und Duschen; und 20 Minuten Theorie.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Kurse richten sich nach der Ebbe, dann sind die Bedingungen am besten; Kinder unter 13 nehmen an Privat- oder Familienkursen teil; Du musst schwimmen können.'
+  respuesta: 'Die Kurse richten sich nach der Ebbe, dann sind die Bedingungen am besten. Kinder unter 13 nehmen an Privat- oder Familienkursen teil. Du musst schwimmen können.'
 categoria: agua
 keywords:
 - surfkurs teneriffa

@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Occhiali antipolvere; Sconto al ristorante nel porto di Puerto Calero.'
+  respuesta: 'Il prezzo include occhiali antipolvere e sconto al ristorante nel porto di Puerto Calero.'
 categoria: aventura
 keywords:
 - tour in buggy puerto calero

@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
 - pregunta: 'What is included?'
-  respuesta: 'Sea Trek helmet with constant air supply; All equipment, no experience needed; Safety briefing and guided underwater walk; Certified instructors throughout; Wetsuit; Lockers and changing rooms.'
+  respuesta: 'The price includes sea Trek helmet with constant air supply; all equipment, no experience needed; safety briefing and guided underwater walk; certified instructors throughout; wetsuit; and lockers and changing rooms.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 8 or pregnant women.'
 categoria: agua

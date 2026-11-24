@@ -40,11 +40,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off at your hotel in Corralejo.'
+  respuesta: 'The price includes pick-up and drop-off at your hotel in Corralejo.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 14.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - surf lesson corralejo pick up

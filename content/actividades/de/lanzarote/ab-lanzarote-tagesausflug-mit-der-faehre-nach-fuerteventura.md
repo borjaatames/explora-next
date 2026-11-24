@@ -47,13 +47,13 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transfer zur Fähre und zurück zum Abholpunkt; Fährticket hin und zurück; 5 Stunden Freizeit auf Fuerteventura.'
+  respuesta: 'Im Preis inbegriffen: Transfer zur Fähre und zurück zum Abholpunkt, Fährticket hin und zurück und 5 Stunden Freizeit auf Fuerteventura.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Zeit im Bus hängt von der Lage des Hotels ab; Taxikosten werden nicht übernommen; Nicht geeignet bei eingeschränkter Mobilität.'
+  respuesta: 'Die Zeit im Bus hängt von der Lage des Hotels ab. Taxikosten werden nicht übernommen. Nicht geeignet bei eingeschränkter Mobilität.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen; Getränke; Guide; Bus oder Taxi in Corralejo.'
+  respuesta: 'Nicht inbegriffen: Mittagessen, Getränke, Guide und Bus oder Taxi in Corralejo.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '9 Stunden.'
+  respuesta: 'Die Dauer beträgt 9 Stunden.'
 categoria: excursionesDia
 keywords:
 - fuerteventura ausflug ab lanzarote

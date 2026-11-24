@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Sem ponto de encontro físico: ative o percurso no telemóvel com o código que recebe após a compra, quando e onde quiser em Granada.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Acesso ao percurso autoguiado por Granada através da app DareMapp, com código de referência enviado após a compra; Audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); Total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; Disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; Acesso a recomendações de restauração e atividades para famílias dentro da app.'
+  respuesta: 'O preço inclui acesso ao percurso autoguiado por Granada através da app DareMapp, com código de referência enviado após a compra; audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; e acesso a recomendações de restauração e atividades para famílias dentro da app.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Adequado para toda a família: idade mínima de 1 ano; Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; o Albaicín tem ruas íngremes e empedradas, algo a ter em conta se usa cadeira de rodas ou carrinho de bebé; Animais de assistência são bem-vindos.'
+  respuesta: 'Adequado para toda a família: idade mínima de 1 ano. Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; o Albaicín tem ruas íngremes e empedradas, algo a ter em conta se usa cadeira de rodas ou carrinho de bebé. Animais de assistência são bem-vindos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente); Transporte até ao início do percurso; Bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
+  respuesta: 'O preço não inclui guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente), transporte até ao início do percurso nem bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
 opinionEditorial: 'Com 3 percursos — Granada Essencial, Albaicín e Sacromonte, e A Alhambra —, é uma das fichas mais flexíveis do catálogo: pode fazer só o que quiser ou distribuí-los por vários dias, já que o acesso não expira. Uma ressalva importante: o percurso da Alhambra é uma visita narrada pelos arredores e não inclui a entrada no próprio monumento, que tem de ser reservada à parte e com bastante antecedência.'
 atraccionesRelacionadas:
 - otros-granada

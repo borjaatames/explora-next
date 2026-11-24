@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
 - pregunta: 'What is included?'
-  respuesta: 'Fuel; Off-road goggles; Windbreaker jackets; Water; Snack (peanuts).'
+  respuesta: 'The price includes fuel, off-road goggles, windbreaker jackets, water, and snack (peanuts).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers and passengers 18+; Not suitable for pregnant women.'
+  respuesta: 'Drivers and passengers 18+. Not suitable for pregnant women.'
 categoria: aventura
 keywords:
 - buggy tour puerto de la cruz

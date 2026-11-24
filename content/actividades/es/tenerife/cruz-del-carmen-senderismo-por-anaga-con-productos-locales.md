@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado de vuelta al inicio en Cruz del Carmen; Degustación de productos locales.'
+  respuesta: 'Incluye traslado de vuelta al inicio en Cruz del Carmen y degustación de productos locales.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Lleva una chaqueta ligera: en Anaga la llovizna es muy habitual; No apto para personas con movilidad reducida.'
+  respuesta: 'Lleva una chaqueta ligera: en Anaga la llovizna es muy habitual. No apto para personas con movilidad reducida.'
 categoria: aventura
 keywords:
 - senderismo anaga

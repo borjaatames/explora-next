@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Snorkelling gear; Kayak gear; Photos; Insurance; Lockers.'
+  respuesta: 'The price includes snorkelling gear, kayak gear, photos, insurance, and lockers.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You must be able to swim; Not for pregnant women, people over 70 or above 110 kg.'
+  respuesta: 'You must be able to swim. Not for pregnant women, people over 70 or above 110 kg.'
 - pregunta: 'What is not included?'
-  respuesta: 'Hotel pick-up and drop-off.'
+  respuesta: 'The price does not include hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - kayak tenerife underwater scooter

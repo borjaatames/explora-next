@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Erfahrener Guide; Einweisung und Sicherheitsausrüstung.'
+  respuesta: 'Im Preis inbegriffen: Erfahrener Guide und Einweisung und Sicherheitsausrüstung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Plaza del Emperador Carlos V (Atocha) o recogida en el punto de Madrid que prefieras.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte privado con conductor; Guía oficial privado; Entradas sin colas a los monumentos; Recogida en el punto que prefieras.'
+  respuesta: 'Incluye transporte privado con conductor, guía oficial privado, entradas sin colas a los monumentos y recogida en el punto que prefieras.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

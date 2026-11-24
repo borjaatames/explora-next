@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Madrid-Puerta de Atocha station; in Córdoba the guide meets you at the Mosque.'
 - pregunta: 'What is included?'
-  respuesta: 'Round-trip Madrid-Córdoba train; Private guide in Córdoba for 2.5 hours; Mosque-Cathedral ticket; Help from an agent to choose train times.'
+  respuesta: 'The price includes round-trip Madrid-Córdoba train, private guide in Córdoba for 2.5 hours, Mosque-Cathedral ticket, and help from an agent to choose train times.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

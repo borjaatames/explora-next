@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. C1 commuter train from Málaga to Fuengirola (end of the line), then a 10-minute walk.'
 - pregunta: 'What is included?'
-  respuesta: 'Entry to Bioparc Fuengirola.'
+  respuesta: 'The price includes entry to Bioparc Fuengirola.'
 opinionEditorial: A modern zoo focused on conservation and habitats, not cages. For a morning with kids on the Costa del Sol, it is one of the best options.
 guiasRelacionadas:
 - malaga-with-kids

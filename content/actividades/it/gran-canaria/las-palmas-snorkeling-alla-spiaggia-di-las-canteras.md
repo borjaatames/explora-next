@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita di 3 ore; Da 1 a 1,5 ore di snorkeling; Istruttore qualificato; Attrezzatura da snorkeling; Acqua e frutta; Assicurazione.'
+  respuesta: 'Il prezzo include uscita di 3 ore; da 1 a 1,5 ore di snorkeling; istruttore qualificato; attrezzatura da snorkeling; acqua e frutta; e assicurazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'L''orario di inizio dipende da meteo e marea e viene confermato dopo la prenotazione.'
 categoria: agua

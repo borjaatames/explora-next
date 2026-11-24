@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Travesía en lancha rápida de 1,5 horas hasta Lobos; Barco de vuelta a Puerto del Carmen; 2,5 horas de tiempo libre en Lobos; Explicaciones en directo a bordo; Pícnic y bebidas: bocadillos, agua, cerveza o zumo, gazpacho, yogur líquido.'
+  respuesta: 'Incluye recogida y regreso al hotel; travesía en lancha rápida de 1,5 horas hasta Lobos; barco de vuelta a Puerto del Carmen; 2,5 horas de tiempo libre en Lobos; explicaciones en directo a bordo; y pícnic y bebidas: bocadillos, agua, cerveza o zumo, gazpacho, yogur líquido.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No se puede garantizar ver fauna; Pide menú vegetariano o avisa de alergias al menos un día antes; Embarcar y caminar por Lobos puede ser difícil para personas con movilidad reducida.'
+  respuesta: 'No se puede garantizar ver fauna. Pide menú vegetariano o avisa de alergias al menos un día antes. Embarcar y caminar por Lobos puede ser difícil para personas con movilidad reducida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Equipo de esnórquel.'
+  respuesta: 'No incluye equipo de esnórquel.'
 categoria: agua
 keywords:
 - isla de lobos desde lanzarote

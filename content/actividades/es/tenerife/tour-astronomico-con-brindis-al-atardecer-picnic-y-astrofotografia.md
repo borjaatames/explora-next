@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel (sur de Tenerife); Minibús con guía experto; Atardecer panorámico con aperitivo y brindis; Observación solar con filtro profesional; Observación nocturna con telescopios; Astrofotografía en directo (foto de Andrómeda incluida).'
+  respuesta: 'Incluye recogida y regreso al hotel (sur de Tenerife), minibús con guía experto, atardecer panorámico con aperitivo y brindis, observación solar con filtro profesional, observación nocturna con telescopios y astrofotografía en directo (foto de Andrómeda incluida).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El tour sale aunque esté nublado; si no se puede observar no hay reembolso, aunque pueden ofrecerte otra fecha; No apto con problemas cardiacos.'
+  respuesta: 'El tour sale aunque esté nublado; si no se puede observar no hay reembolso, aunque pueden ofrecerte otra fecha. No apto con problemas cardiacos.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Traslados al aeropuerto; Bebidas extra; Propinas.'
+  respuesta: 'No incluye traslados al aeropuerto, bebidas extra ni propinas.'
 categoria: nocturno
 keywords:
 - tour astronomico tenerife

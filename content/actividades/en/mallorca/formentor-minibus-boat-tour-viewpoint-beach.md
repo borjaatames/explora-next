@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Pickup in north Mallorca (depending on option); the boat ends in Port de Pollença. The pickup point depends on the option you choose when booking (several areas of north Mallorca). The minibus goes to the Es Colomer viewpoint and Formentor beach, and you return by boat to Port de Pollença.'
 - pregunta: 'What is included?'
-  respuesta: 'Return panoramic minibus; Local guide; Stop at the Es Colomer viewpoint; Boat from Formentor beach to Port de Pollença; Travel insurance.'
+  respuesta: 'The price includes return panoramic minibus, local guide, stop at the Es Colomer viewpoint, boat from Formentor beach to Port de Pollença, and travel insurance.'
 opinionEditorial: The easiest way to see Formentor in high season, when driving is a problem. The boat leg across the bay is the highlight.
 guiasRelacionadas:
 - what-to-see-in-mallorca

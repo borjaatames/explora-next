@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en el sur de Tenerife; Traslados; Almuerzo; Guía.'
+  respuesta: 'Incluye recogida en el sur de Tenerife, traslados, almuerzo y guía.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Recogida solo en el sur de la isla.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '8 horas.'
+  respuesta: 'Dura 8 horas.'
 categoria: toursGastronomicos
 keywords:
 - ruta de vinos tenerife

@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private sailboat with skipper; Snacks and drinks (1 bottle of wine or cava per 2 people); Water; Snorkelling gear, paddle board and kayak.'
+  respuesta: 'The price includes private sailboat with skipper; snacks and drinks (1 bottle of wine or cava per 2 people); water; and snorkelling gear, paddle board and kayak.'
 opinionEditorial: Es Vedrà at sunset is one of Ibiza's most famous views, and seeing it from your own sailboat with a glass of cava is hard to beat.
 atraccionesRelacionadas:
 - vedra-atardecer

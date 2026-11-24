@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: '10 fotografías digitales totalmente editadas; Fotógrafo profesional durante 20 minutos; Entrega de las fotos en 24-48 horas.'
+  respuesta: 'Incluye 10 fotografías digitales totalmente editadas, fotógrafo profesional durante 20 minutos y entrega de las fotos en 24-48 horas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé; Se permiten animales de servicio; Bien comunicado en transporte público.'
+  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé. Se permiten animales de servicio. Bien comunicado en transporte público.'
 opinionEditorial: 'Para 35 euros y 20 minutos, es la opción lógica si solo quieres un puñado de fotos buenas sin montar una producción. No esperes decenas de escenarios distintos: es una sesión corta y centrada en moverte con naturalidad cerca de la Sagrada Familia.'
 atraccionesRelacionadas:
 - fotos

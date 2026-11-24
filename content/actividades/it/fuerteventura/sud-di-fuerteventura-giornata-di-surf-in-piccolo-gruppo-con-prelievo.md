@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo davanti al tuo hotel nel sud (Jandía, Costa Calma, La Pared, Tarajalejo); Istruttore di surf; Muta; Tavola da surf.'
+  respuesta: 'Il prezzo include prelievo davanti al tuo hotel nel sud (Jandía, Costa Calma, La Pared, Tarajalejo); istruttore di surf; muta; e tavola da surf.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a minori di 12 anni, donne in gravidanza o persone con problemi cardiaci; Porta acqua, uno snack, crema solare e cappello.'
+  respuesta: 'Non adatto a minori di 12 anni, donne in gravidanza o persone con problemi cardiaci. Porta acqua, uno snack, crema solare e cappello.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Acqua potabile; Crema solare.'
+  respuesta: 'Il prezzo non include acqua potabile né crema solare.'
 categoria: agua
 keywords:
 - lezione di surf costa calma

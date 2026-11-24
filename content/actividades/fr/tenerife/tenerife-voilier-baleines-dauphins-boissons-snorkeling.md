@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Une coupe de vin pétillant; Sandwich frais et en-cas; Bière, vin et sodas à volonté; Matériel de snorkeling.'
+  respuesta: 'Le prix comprend : une coupe de vin pétillant; sandwich frais et en-cas; bière, vin et sodas à volonté; et matériel de snorkeling.'
 categoria: agua
 keywords:
 - "observation baleines tenerife voilier"

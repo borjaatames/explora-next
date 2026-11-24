@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Centre de Séville, à côté de la cathédrale (le point exact dépend de l''option). Le point de rendez-vous figure sur le voucher selon l''horaire et la langue choisis ; il se trouve à quelques minutes à pied de la cathédrale. Munissez-vous de votre passeport ou carte d''identité : les billets sont nominatifs.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Visite guidée; Billets coupe-file pour la cathédrale de Séville et montée à la Giralda; Billets coupe-file pour le Real Alcázar et le Patio de las Doncellas.'
+  respuesta: 'Le prix comprend : visite guidée, billets coupe-file pour la cathédrale de Séville et montée à la Giralda et billets coupe-file pour le Real Alcázar et le Patio de las Doncellas.'
 opinionEditorial: 'Elle règle en une matinée les deux visites incontournables de Séville, billets inclus et sans file d''attente. Son point fort est le choix de langues, notamment l''allemand. Le bémol, c''est l''annulation : seule une partie est remboursée.'
 atraccionesRelacionadas:
 - real-alcazar

@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Café del Puerto, Puerto Calero, 20 minutos antes da partida.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Caiaque; Prancha de paddle; Equipamento de snorkel; Almoço; Bebidas: cerveja, vinho, cava, refrigerantes e água; Combustível.'
+  respuesta: 'O preço inclui caiaque; prancha de paddle; equipamento de snorkel; almoço; bebidas: cerveja, vinho, cava, refrigerantes e água; e combustível.'
 - pregunta: 'O que é preciso saber antes de reservar?'
   respuesta: 'Sem acesso para cadeiras de rodas.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: agua
 keywords:
 - catamara papagayo

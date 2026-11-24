@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Autobús lanzadera gratis en el sur de la isla.'
+  respuesta: 'Incluye autobús lanzadera gratis en el sur de la isla.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para embarazadas ni personas con problemas cardiacos; Opciones junior: kart biplaza de 160cc (1 adulto + 1 niño hasta 5 años) y Pony Kart de 120cc.'
+  respuesta: 'No apto para embarazadas ni personas con problemas cardiacos. Opciones junior: kart biplaza de 160cc (1 adulto + 1 niño hasta 5 años) y Pony Kart de 120cc.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: aventura
 keywords:
 - karting tenerife

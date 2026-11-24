@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Catamaran Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Croisière en catamaran; Observation des baleines et dauphins; Repas et boissons.'
+  respuesta: 'Le prix comprend : croisière en catamaran, observation des baleines et dauphins et repas et boissons.'
 categoria: agua
 keywords:
 - observation baleines puerto colon

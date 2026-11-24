@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Professional guide; Free pick-up and drop-off (south of Tenerife); Free parking at the meeting point; Two-seater buggy; Driving introduction and safety briefing; Basic insurance.'
+  respuesta: 'The price includes professional guide, free pick-up and drop-off (south of Tenerife), free parking at the meeting point, two-seater buggy, driving introduction and safety briefing, and basic insurance.'
 categoria: aventura
 keywords:
 - buggy tour teide

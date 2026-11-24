@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: '10 fully edited digital photos; A professional photographer for 20 minutes; Photos delivered within 24-48 hours.'
+  respuesta: 'The price includes 10 fully edited digital photos, a professional photographer for 20 minutes, and photos delivered within 24-48 hours.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wheelchair and stroller accessible; Service animals welcome; Well connected by public transport.'
+  respuesta: 'Wheelchair and stroller accessible. Service animals welcome. Well connected by public transport.'
 opinionEditorial: At 35 euros for 20 minutes, this is the obvious pick if you just want a handful of good photos without staging a production. Don't expect dozens of different backdrops — it's a short, focused session built around moving naturally near the Sagrada Familia.
 atraccionesRelacionadas:
 - fotos

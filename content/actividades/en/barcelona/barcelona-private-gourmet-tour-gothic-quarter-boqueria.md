@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide for 3 hours; Tastings at 5 stops; Three drinks (alcoholic or not).'
+  respuesta: 'The price includes private guide for 3 hours, tastings at 5 stops, and three drinks (alcoholic or not).'
 opinionEditorial: A well-designed food walk through the Gothic Quarter, with varied stops and no rush. Private means it adapts to tastes and allergies.
 atraccionesRelacionadas:
 - tapas-barcelona

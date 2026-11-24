@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer; Professioneller Skipper; Segeltörn von 2,5 Stunden; Getränke und kleine Snacks an Bord; Sicherheitsausrüstung; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer; professioneller Skipper; Segeltörn von 2,5 Stunden; Getränke und kleine Snacks an Bord; Sicherheitsausrüstung; und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 6 oder Rollstuhlfahrer.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Trinkgeld (10–20 % empfohlen); Alkoholische Getränke (an Bord erhältlich).'
+  respuesta: 'Nicht inbegriffen: Trinkgeld (10–20 % empfohlen) und alkoholische Getränke (an Bord erhältlich).'
 categoria: agua
 keywords:
 - segeln sonnenuntergang gran canaria

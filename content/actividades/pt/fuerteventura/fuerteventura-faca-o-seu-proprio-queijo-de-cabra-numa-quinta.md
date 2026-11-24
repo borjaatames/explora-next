@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Quesería La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Café de boas-vindas; Oficina guiada de fabrico de queijo; Técnicas de ordenha manual e mecânica; Elaboração do seu próprio queijo majorero; Todas as ferramentas e equipamento; Pequeno-almoço: sanduíche de queijo fresco, tábua de queijos locais, mojos canários e compotas caseiras.'
+  respuesta: 'O preço inclui café de boas-vindas; oficina guiada de fabrico de queijo; técnicas de ordenha manual e mecânica; elaboração do seu próprio queijo majorero; todas as ferramentas e equipamento; e pequeno-almoço: sanduíche de queijo fresco, tábua de queijos locais, mojos canários e compotas caseiras.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Bebidas extra.'
+  respuesta: 'O preço não inclui bebidas extra.'
 categoria: talleres
 keywords:
 - oficina de queijo fuerteventura

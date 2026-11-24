@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado en directo.'
+  respuesta: 'Incluye guía privado en directo.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Propinas.'
+  respuesta: 'No incluye propinas.'
 opinionEditorial: 'Es una visita de nicho y por eso funciona tan bien en privado: el guía adapta el relato a lo que os interese y responde sin prisas. La historia judía de Madrid es poco conocida y está muy ligada a la de España —siglos de convivencia, tensión, exilio y regreso en el siglo XX—, así que se agradece contarla con tiempo y contexto. Desde 249 € por grupo (300 € para 4 personas), es de las opciones privadas más asequibles del catálogo.'
 atraccionesRelacionadas:
 - tours-a-pie

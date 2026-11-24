@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
 - pregunta: 'What is included?'
-  respuesta: 'Canyoning guide; All canyoning equipment; Liability and accident insurance.'
+  respuesta: 'The price includes canyoning guide, all canyoning equipment, and liability and accident insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 14; Must be able to swim; Only for fit people: includes a 2-hour hike.'
+  respuesta: 'Not suitable for children under 14. Must be able to swim. Only for fit people: includes a 2-hour hike.'
 categoria: aventura
 keywords:
 - water canyoning tenerife

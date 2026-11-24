@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Equipo; Seguro de accidentes; Monitor de seguridad; Aseos; Aparcamiento gratis.'
+  respuesta: 'Incluye equipo, seguro de accidentes, monitor de seguridad, aseos y aparcamiento gratis.'
 categoria: agua
 keywords:
 - moto de agua maspalomas

@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Diving equipment; Insurance; Online dive log; Dive instructor; Pick-up and drop-off from the south of Gran Canaria; Water.'
+  respuesta: 'The price includes diving equipment, insurance, online dive log, dive instructor, pick-up and drop-off from the south of Gran Canaria, and water.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; Not suitable for people with back or breathing problems, epilepsy, high blood pressure or recent surgery.'
+  respuesta: 'Minimum age 8. Not suitable for pregnant women or people with heart problems. Not suitable for people with back or breathing problems, epilepsy, high blood pressure or recent surgery.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Underwater photos.'
+  respuesta: 'The price does not include lunch or underwater photos.'
 categoria: agua
 keywords:
 - learn to dive gran canaria

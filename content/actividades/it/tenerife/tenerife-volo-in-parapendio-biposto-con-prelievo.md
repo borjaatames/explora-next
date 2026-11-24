@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Volo in parapendio biposto; Prelievo a Costa Adeje, Los Cristianos e Las Américas; Trasporto al decollo; Pilota biposto multilingue; Briefing e attrezzatura certificata; Assicurazione RC e infortuni.'
+  respuesta: 'Il prezzo include volo in parapendio biposto; prelievo a Costa Adeje, Los Cristianos e Las Américas; trasporto al decollo; pilota biposto multilingue; briefing e attrezzatura certificata; e assicurazione RC e infortuni.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Il parapendio dipende dal meteo: non prenotare troppo a ridosso della partenza; Non adatto sotto i 4 anni, in gravidanza o oltre i 100 kg.'
+  respuesta: 'Il parapendio dipende dal meteo: non prenotare troppo a ridosso della partenza. Non adatto sotto i 4 anni, in gravidanza o oltre i 100 kg.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Foto e video GoPro (30 €); Cibo e bevande; Prelievo a Los Cristianos dopo le 12 nei giorni feriali; Ritorno in hotel.'
+  respuesta: 'Il prezzo non include foto e video GoPro (30 €), cibo e bevande, prelievo a Los Cristianos dopo le 12 nei giorni feriali né ritorno in hotel.'
 categoria: aventura
 keywords:
 - parapendio tenerife

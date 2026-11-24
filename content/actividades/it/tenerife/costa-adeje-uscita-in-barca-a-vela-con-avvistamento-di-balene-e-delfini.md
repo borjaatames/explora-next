@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Porta costume, asciugamano e crema solare; a bordo si sta scalzi.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita in barca a vela; Frutta fresca e panini; Bevande: birra, cava, vino, bibite, succhi e acqua; Attrezzatura base da snorkeling.'
+  respuesta: 'Il prezzo include uscita in barca a vela; frutta fresca e panini; bevande: birra, cava, vino, bibite, succhi e acqua; e attrezzatura base da snorkeling.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel.'
+  respuesta: 'Il prezzo non include prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - barca a vela tenerife balene

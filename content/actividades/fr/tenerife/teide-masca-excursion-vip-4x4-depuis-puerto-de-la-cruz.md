@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transport en 4x4; Prise en charge à l''hôtel ou près de Puerto de la Cruz; Chauffeur; Déjeuner.'
+  respuesta: 'Le prix comprend : transport en 4x4, prise en charge à l''hôtel ou près de Puerto de la Cruz, chauffeur et déjeuner.'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-billets-complets

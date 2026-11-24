@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Port du sud de Tenerife (secteur de Costa Adeje). Confirmé sur le bon. Le port de départ exact est confirmé sur votre bon de réservation. La sortie part de la côte sud de Tenerife. Comptez 15 minutes pour rejoindre le port depuis Las Américas ou Los Cristianos.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie d''une journée en catamaran (5 à 6 heures); Déjeuner buffet à bord; Arrêt baignade; Observation des baleines et des dauphins.'
+  respuesta: 'Le prix comprend : sortie d''une journée en catamaran (5 à 6 heures), déjeuner buffet à bord, arrêt baignade et observation des baleines et des dauphins.'
 opinionEditorial: Si vous voulez observer les cétacés à Tenerife, faites-le bien. La journée complète, le buffet et le temps supplémentaire sur l'eau font de cette sortie la meilleure version de l'expérience. Mieux notée que toute autre sortie d'observation de l'île.
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

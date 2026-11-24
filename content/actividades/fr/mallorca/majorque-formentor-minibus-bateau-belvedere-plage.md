@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Prise en charge dans le nord de Majorque (selon l''option) ; le bateau termine au port de Pollença. Le point de prise en charge dépend de l''option choisie lors de la réservation (plusieurs secteurs du nord de Majorque). Le minibus va jusqu''au belvédère d''Es Colomer et à la plage de Formentor, et vous rentrez en bateau jusqu''au port de Pollença.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Minibus panoramique aller-retour; Guide local; Arrêt au belvédère d''Es Colomer; Bateau de la plage de Formentor au port de Pollença; Assurance voyage.'
+  respuesta: 'Le prix comprend : minibus panoramique aller-retour, guide local, arrêt au belvédère d''Es Colomer, bateau de la plage de Formentor au port de Pollença et assurance voyage.'
 opinionEditorial: La façon la plus simple de voir Formentor en haute saison, quand y aller en voiture devient un problème. La traversée de la baie en bateau est le meilleur moment.
 guiasRelacionadas:
 - que-voir-a-majorque

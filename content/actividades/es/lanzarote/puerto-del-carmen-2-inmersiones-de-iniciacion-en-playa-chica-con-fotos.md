@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Instructor PADI (máx. 3 buceadores cada uno); Todo el equipo de buceo; 2 inmersiones de 50 minutos; Seguro de la actividad; Fotos y vídeo profesionales de ambas inmersiones; Certificado digital.'
+  respuesta: 'Incluye instructor PADI (máx. 3 buceadores cada uno), todo el equipo de buceo, 2 inmersiones de 50 minutos, seguro de la actividad, fotos y vídeo profesionales de ambas inmersiones y certificado digital.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Edad mínima 10 años; No apto para embarazadas, personas con problemas cardiacos ni epilepsia; Debes entender bien la charla de seguridad en el idioma que reserves.'
+  respuesta: 'Edad mínima 10 años. No apto para embarazadas, personas con problemas cardiacos ni epilepsia. Debes entender bien la charla de seguridad en el idioma que reserves.'
 categoria: agua
 keywords:
 - buceo playa chica

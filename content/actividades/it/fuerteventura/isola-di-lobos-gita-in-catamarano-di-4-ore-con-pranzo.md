@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Barca Celia Cruz, porto di Corralejo (Calle Arena 9).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Gita in catamarano con guida; Pranzo; Bevande illimitate; Attrezzatura da snorkeling; Paddle e galleggianti; Sbarco sull''isola di Lobos.'
+  respuesta: 'Il prezzo include gita in catamarano con guida, pranzo, bevande illimitate, attrezzatura da snorkeling, paddle e galleggianti e sbarco sull''isola di Lobos.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Prelievo disponibile nel nord dell''isola se scegli l''opzione.'
 categoria: agua

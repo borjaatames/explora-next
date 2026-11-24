@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Jet Ski Island Tenerife, pantalán 9, Puerto Colón, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Barco de apoyo; Guía profesional; Moto de agua Yamaha 2024, individual o doble; Chaleco salvavidas; Charla previa; Taquilla.'
+  respuesta: 'Incluye barco de apoyo; guía profesional; moto de agua Yamaha 2024, individual o doble; chaleco salvavidas; charla previa; y taquilla.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductores mayores de 18; con 16 y 17 años solo en moto individual; No apto para menores de 9 años ni menores de 135 cm; Máximo 140 kg.'
+  respuesta: 'Conductores mayores de 18; con 16 y 17 años solo en moto individual. No apto para menores de 9 años ni menores de 135 cm. Máximo 140 kg.'
 categoria: agua
 keywords:
 - moto de agua puerto colon

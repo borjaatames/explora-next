@@ -47,9 +47,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'ZooPark Famara Surf, SUP & Kite School, Avenida El Marinero 5, Caleta de Famara.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tutta l''attrezzatura: tavola, leash, muta e lycra.'
+  respuesta: 'Il prezzo include tutta l''attrezzatura: tavola, leash, muta e lycra.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Docce.'
+  respuesta: 'Il prezzo non include cibo e bevande né docce.'
 categoria: agua
 keywords:
 - lezioni di surf famara

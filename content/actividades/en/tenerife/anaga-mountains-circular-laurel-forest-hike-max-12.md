@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Los Batanes, Anaga (Santa Cruz de Tenerife).'
 - pregunta: 'What is included?'
-  respuesta: 'Accident insurance; First-aid kit; Walking poles and rain protection (limited number).'
+  respuesta: 'The price includes accident insurance, first-aid kit, and walking poles and rain protection (limited number).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Some hiking experience needed; Not for children under 8 or people with heart or breathing problems.'
+  respuesta: 'Some hiking experience needed. Not for children under 8 or people with heart or breathing problems.'
 categoria: aventura
 keywords:
 - anaga hike small group

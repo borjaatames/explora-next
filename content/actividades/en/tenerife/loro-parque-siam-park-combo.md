@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Loro Parque, Av. Loro Parque, s/n, Puerto de la Cruz, Tenerife. Loro Parque is in Puerto de la Cruz. Siam Park is on the Costa Adeje, near Los Cristianos. The two parks are on opposite sides of the island (about 1 hour by car or bus). Show your mobile tickets at the entrance to each park.'
 - pregunta: 'What is included?'
-  respuesta: 'Entry to Loro Parque (1 day); Entry to Siam Park (1 day); Free shows included at Loro Parque (dolphins, sea lions, parrots).'
+  respuesta: 'The price includes entry to Loro Parque (1 day); entry to Siam Park (1 day); and free shows included at Loro Parque (dolphins, sea lions, parrots).'
 opinionEditorial: Two parks consistently ranked number one in the world in their categories. The combo ticket is excellent value — Tenerife is one of the few places on earth where you can combine both on a single trip.
 guiasRelacionadas:
 - what-to-see-in-tenerife

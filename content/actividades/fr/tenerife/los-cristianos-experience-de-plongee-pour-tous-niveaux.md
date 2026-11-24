@@ -58,9 +58,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Moniteur; Explications et entraînement; Combinaison, masque et palmes; Bouteille, détendeur et gilet; Ordinateur de plongée et parachute de palier; Plongée.'
+  respuesta: 'Le prix comprend : moniteur; explications et entraînement; combinaison, masque et palmes; bouteille, détendeur et gilet; ordinateur de plongée et parachute de palier; et plongée.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 12 ans; Ne pas prendre l''avion dans les 12 à 24 heures qui suivent la plongée; Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
+  respuesta: 'Âge minimum 12 ans. Ne pas prendre l''avion dans les 12 à 24 heures qui suivent la plongée. Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
 categoria: agua
 keywords:
 - plongée los cristianos

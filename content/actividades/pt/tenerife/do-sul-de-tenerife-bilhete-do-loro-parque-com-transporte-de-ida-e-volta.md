@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso nos hotéis do sul de Tenerife; Entrada no Loro Parque; Transportes.'
+  respuesta: 'O preço inclui recolha e regresso nos hotéis do sul de Tenerife, entrada no Loro Parque e transportes.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Recolha só no sul da ilha; Os bilhetes são entregues no autocarro: é preciso usar o transporte para entrar.'
+  respuesta: 'Recolha só no sul da ilha. Os bilhetes são entregues no autocarro: é preciso usar o transporte para entrar.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Almoço.'
+  respuesta: 'O preço não inclui almoço.'
 categoria: parques
 keywords:
 - loro parque com transporte

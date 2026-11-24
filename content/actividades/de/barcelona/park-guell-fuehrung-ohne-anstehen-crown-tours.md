@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Lizenzierter lokaler Guide; Ticket ohne Anstehen für den Park Güell; Audiosystem mit Kopfhörern.'
+  respuesta: 'Im Preis inbegriffen: Lizenzierter lokaler Guide, Ticket ohne Anstehen für den Park Güell und Audiosystem mit Kopfhörern.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-tickets-ausverkauft

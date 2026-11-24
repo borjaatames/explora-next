@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Kayak, pagaia e giubbotto; Muta, maschera e boccaglio (o maschera integrale); Acqua e snack.'
+  respuesta: 'Il prezzo include kayak, pagaia e giubbotto; muta, maschera e boccaglio (o maschera integrale); e acqua e snack.'
 categoria: agua
 keywords:
 - "kayak tenerife sud"

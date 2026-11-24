@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt vor Ort: Aktiviere die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst – wann und wo in Barcelona du willst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zugang zur Barcelona-Route auf eigene Faust über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; Verfügbar 24 Stunden am Tag, 365 Tage im Jahr, ohne Ablaufdatum; Tipps zu Essen und Familienaktivitäten in der App.'
+  respuesta: 'Im Preis inbegriffen: Zugang zur Barcelona-Route auf eigene Faust über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; verfügbar 24 Stunden am Tag, 365 Tage im Jahr, ohne Ablaufdatum; und Tipps zu Essen und Familienaktivitäten in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Für Rollstühle und Kinderwagen geeignet, da du die Route in deinem eigenen Tempo gehst; die Route ist überwiegend flach, einige Abschnitte im Zentrum haben aber schmale Gehwege; Assistenzhunde sind willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. Für Rollstühle und Kinderwagen geeignet, da du die Route in deinem eigenen Tempo gehst; die Route ist überwiegend flach, einige Abschnitte im Zentrum haben aber schmale Gehwege. Assistenzhunde sind willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Guide oder Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; Eintrittskarten für Sehenswürdigkeiten oder Museen entlang der Route (falls zutreffend).'
+  respuesta: 'Nicht inbegriffen: Guide oder Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; und Eintrittskarten für Sehenswürdigkeiten oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: 'Mit 3 Routen und mehr als 50 Sehenswürdigkeiten ist das eines der umfangreichsten DareMapp-Angebote im Katalog: Es deckt alles von der Sagrada Família bis zur Casa Batlló und dem Modernisme Barcelonas ab, ohne dass du drei separate Besuche buchen musst. In einer so großen Stadt ist es ein echter Vorteil gegenüber einer Führung mit festem Zeitplan, das eigene Tempo zu bestimmen und jederzeit Pause machen zu können. Was du nicht bekommst, ist bevorzugter Einlass in die Sehenswürdigkeiten oder die Geschichten eines Guides vor Ort.'
 atraccionesRelacionadas:
 - otros-barcelona

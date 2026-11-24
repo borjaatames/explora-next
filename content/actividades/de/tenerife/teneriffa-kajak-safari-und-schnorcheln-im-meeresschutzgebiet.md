@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Komm 20 Minuten vorher zum Check-in.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Offizieller, professioneller Guide; Kajak, Schwimmweste und wasserdichte Box; Schnorchelausrüstung; Gruppenfoto am Start; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: offizieller, professioneller Guide; Kajak, Schwimmweste und wasserdichte Box; Schnorchelausrüstung; Gruppenfoto am Start; und Versicherung.'
 categoria: agua
 keywords:
 - kajak los cristianos

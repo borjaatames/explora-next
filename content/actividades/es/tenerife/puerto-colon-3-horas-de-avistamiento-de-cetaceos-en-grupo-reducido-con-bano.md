@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, pantalán 2, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Bebida gratis (cerveza, agua o refresco) y bocadillo; Parada para bañarse en El Puertito o en la playa de Las Vistas.'
+  respuesta: 'Incluye bebida gratis (cerveza, agua o refresco) y bocadillo; y parada para bañarse en El Puertito o en la playa de Las Vistas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '3 horas.'
+  respuesta: 'Dura 3 horas.'
 categoria: agua
 keywords:
 - avistamiento de cetaceos grupo reducido tenerife

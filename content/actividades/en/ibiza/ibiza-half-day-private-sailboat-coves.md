@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private sailboat with skipper; Fuel; Snorkelling gear and 2 paddle boards.'
+  respuesta: 'The price includes private sailboat with skipper, fuel, and snorkelling gear and 2 paddle boards.'
 opinionEditorial: Half a day on your own sailboat is the best way to see Ibiza's coves without crowds. With 5 or 6 people the price per head is very reasonable.
 atraccionesRelacionadas:
 - calas-barco

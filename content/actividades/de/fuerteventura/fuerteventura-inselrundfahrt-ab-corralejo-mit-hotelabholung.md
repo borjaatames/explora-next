@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transfer von und zum Hotel; Wasser.'
+  respuesta: 'Im Preis inbegriffen: Transfer von und zum Hotel und Wasser.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Menschen mit Höhenangst oder Schwindel.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen.'
+  respuesta: 'Nicht inbegriffen: Essen.'
 categoria: excursionesDia
 keywords:
 - fuerteventura inselrundfahrt

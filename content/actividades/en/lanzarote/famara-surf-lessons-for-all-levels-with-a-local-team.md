@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Momo Surf School, Calle Brezo de Mar, Urbanización Famara.'
 - pregunta: 'What is included?'
-  respuesta: 'Complete 2-hour surf lesson; Certified instructor; Surfboard matched to your level; Wetsuit; Safety lycra; Liability insurance.'
+  respuesta: 'The price includes complete 2-hour surf lesson, certified instructor, surfboard matched to your level, wetsuit, safety lycra, and liability insurance.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 hours.'
+  respuesta: 'It lasts 2 hours.'
 categoria: agua
 keywords:
 - momo surf school

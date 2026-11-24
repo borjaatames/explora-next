@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Paseo Espigón de Las Galletas 1, Arona.'
 - pregunta: 'What is included?'
-  respuesta: 'Food and drink.'
+  respuesta: 'The price includes food and drink.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Arrive 15 minutes before departure; May be cancelled in bad weather; Not wheelchair accessible.'
+  respuesta: 'Arrive 15 minutes before departure. May be cancelled in bad weather. Not wheelchair accessible.'
 categoria: agua
 keywords:
 - whale watching las galletas

@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Museo Nacional Centro de Arte Reina Sofía, Calle Santa Isabel, 52, Madrid. Metro linha 1 até Atocha, ou linhas 1 e 3 até Estación del Arte. O museu fica junto à estação ferroviária de Atocha. Mostre o bilhete no telemóvel na entrada principal.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Entrada no museu sem filas.'
+  respuesta: 'O preço inclui entrada no museu sem filas.'
 opinionEditorial: Em Madrid, o Reina Sofía é obrigatório. Só a Guernica, a obra-prima perturbadora que Picasso pintou em 1937, faz dele uma das grandes peregrinações artísticas do mundo. Conte com 2-3 horas para a coleção principal.
 guiasRelacionadas:
 - prado-reina-sofia-ou-thyssen-qual-escolher

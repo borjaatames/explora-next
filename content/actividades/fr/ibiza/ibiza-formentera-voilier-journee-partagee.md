@@ -60,9 +60,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Place sur un voilier de 41 pieds avec skipper; Carburant; Snorkeling et 2 paddles; Toilettes à bord.'
+  respuesta: 'Le prix comprend : place sur un voilier de 41 pieds avec skipper, carburant, snorkeling et 2 paddles et toilettes à bord.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Prix par personne (7 max. à bord); L’itinéraire dépend du vent et de la mer; Non accessible en fauteuil roulant.'
+  respuesta: 'Prix par personne (7 max. à bord). L’itinéraire dépend du vent et de la mer. Non accessible en fauteuil roulant.'
 opinionEditorial: La façon la plus abordable de passer une journée entière en voilier à Ibiza.
 atraccionesRelacionadas:
 - formentera

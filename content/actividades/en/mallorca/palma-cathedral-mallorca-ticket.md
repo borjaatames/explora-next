@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Catedral de Palma, Plaça de la Seu, Palma de Mallorca. The cathedral is in Palma''s old town, facing the Parc de la Mar. Walk from the city centre (15 minutes from Passeig del Born), or take the bus. Show your mobile ticket at the entrance.'
 - pregunta: 'What is included?'
-  respuesta: 'Skip-the-line entry to the cathedral and museum.'
+  respuesta: 'The price includes skip-the-line entry to the cathedral and museum.'
 opinionEditorial: Palma Cathedral is among the great Gothic monuments of Europe and the first thing Mallorca shows you from the ferry or aircraft. Skip the queue — the cathedral fills up fast in summer, and the experience inside is worth protecting.
 guiasRelacionadas:
 - what-to-see-in-mallorca

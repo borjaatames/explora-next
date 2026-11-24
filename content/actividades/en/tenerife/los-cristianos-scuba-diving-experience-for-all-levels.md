@@ -58,9 +58,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
 - pregunta: 'What is included?'
-  respuesta: 'Instructor; Explanations and training; Wetsuit, mask and fins; Tank, regulator and BCD; Dive computer and surface marker buoy; Dive.'
+  respuesta: 'The price includes instructor; explanations and training; wetsuit, mask and fins; tank, regulator and BCD; dive computer and surface marker buoy; and dive.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 12; Do not fly for 12 to 24 hours after diving; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+  respuesta: 'Minimum age 12. Do not fly for 12 to 24 hours after diving. A medical questionnaire is required; some conditions need a doctor''s certificate.'
 categoria: agua
 keywords:
 - diving los cristianos

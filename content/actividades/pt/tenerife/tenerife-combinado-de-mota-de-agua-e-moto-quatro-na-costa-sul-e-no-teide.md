@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. A hora reservada é a da moto quatro; a mota de água combina-se por WhatsApp.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Colete salva-vidas; Óculos; Guia; Bebidas; Duche e casas de banho; Cacifos.'
+  respuesta: 'O preço inclui colete salva-vidas, óculos, guia, bebidas, duche e casas de banho e cacifos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Caução em dinheiro: 50 € por mota de água e 100 € por moto quatro; Transportes entre as atividades.'
+  respuesta: 'O preço não inclui caução em dinheiro: 50 € por mota de água e 100 € por moto quatro nem transportes entre as atividades.'
 categoria: aventura
 keywords:
 - mota de agua e moto quatro tenerife

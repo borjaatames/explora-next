@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à Jandía, Costa Calma, Morro Jable ou Esquinzo; Leçon de conduite et consignes de sécurité; Excursion guidée en buggy; Lunettes anti-poussière.'
+  respuesta: 'Le prix comprend : prise en charge et retour à Jandía, Costa Calma, Morro Jable ou Esquinzo; leçon de conduite et consignes de sécurité; excursion guidée en buggy; et lunettes anti-poussière.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux moins de 7 ans et aux femmes enceintes; 140 kg maximum.'
+  respuesta: 'Déconseillé aux moins de 7 ans et aux femmes enceintes. 140 kg maximum.'
 categoria: aventura
 keywords:
 - buggy jandia

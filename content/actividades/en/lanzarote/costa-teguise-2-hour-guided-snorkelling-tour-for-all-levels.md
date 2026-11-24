@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Snorkelling gear; Insurance; Theory introduction; Instructor; Pick-up and drop-off in Costa Teguise, Tahíche and Arrecife.'
+  respuesta: 'The price includes snorkelling gear; insurance; theory introduction; instructor; and pick-up and drop-off in Costa Teguise, Tahíche and Arrecife.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You must be able to swim; Not for children under 8.'
+  respuesta: 'You must be able to swim. Not for children under 8.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Photos.'
+  respuesta: 'The price does not include food and drinks or photos.'
 categoria: agua
 keywords:
 - snorkeling costa teguise

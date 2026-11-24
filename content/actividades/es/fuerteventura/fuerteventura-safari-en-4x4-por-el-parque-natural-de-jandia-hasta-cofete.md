@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Explicaciones del guía en tu idioma; Recogida en hoteles de las zonas indicadas; 4x4 cerrado para hasta 6 pasajeros más el conductor; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye explicaciones del guía en tu idioma, recogida en hoteles de las zonas indicadas, 4x4 cerrado para hasta 6 pasajeros más el conductor y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para personas con problemas de espalda o movilidad reducida; Muestra la confirmación de la reserva, impresa o en el móvil.'
+  respuesta: 'No apto para personas con problemas de espalda o movilidad reducida. Muestra la confirmación de la reserva, impresa o en el móvil.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida.'
+  respuesta: 'No incluye comida.'
 categoria: excursionesDia
 keywords:
 - safari jeep cofete

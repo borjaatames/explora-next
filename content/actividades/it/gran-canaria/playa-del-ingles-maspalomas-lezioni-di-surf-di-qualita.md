@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, locale E2, Maspalomas.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tutta l''attrezzatura: tavola, leash, maglia e pantaloncini o muta lunga; Lezione di surf; Frutta e acqua; Foto mentre fai surf; 10% di sconto nel negozio; Assicurazione infortuni verso terzi.'
+  respuesta: 'Il prezzo include tutta l''attrezzatura: tavola, leash, maglia e pantaloncini o muta lunga; lezione di surf; frutta e acqua; foto mentre fai surf; 10% di sconto nel negozio; e assicurazione infortuni verso terzi.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Le giornate di surf dipendono molto dalle condizioni; Non adatto sotto gli 8 anni, a chi non sa nuotare o oltre i 110 kg.'
+  respuesta: 'Le giornate di surf dipendono molto dalle condizioni. Non adatto sotto gli 8 anni, a chi non sa nuotare o oltre i 110 kg.'
 categoria: agua
 keywords:
 - lezione surf playa del ingles

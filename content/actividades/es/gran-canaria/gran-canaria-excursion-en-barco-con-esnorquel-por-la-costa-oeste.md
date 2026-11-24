@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en zonas seleccionadas del sur; Agua y galletas.'
+  respuesta: 'Incluye recogida y regreso en zonas seleccionadas del sur y agua y galletas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 6 años, personas con movilidad reducida ni usuarios de silla de ruedas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos y vídeo; Recogida en otras zonas.'
+  respuesta: 'No incluye fotos y vídeo ni recogida en otras zonas.'
 categoria: agua
 keywords:
 - excursion barco esnórquel gran canaria

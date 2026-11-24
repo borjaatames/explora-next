@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Equipo de esnórquel; Seguro; Introducción teórica; Monitor; Recogida y regreso en Costa Teguise, Tahíche y Arrecife.'
+  respuesta: 'Incluye equipo de esnórquel; seguro; introducción teórica; monitor; y recogida y regreso en Costa Teguise, Tahíche y Arrecife.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Hay que saber nadar; No apto para menores de 8 años.'
+  respuesta: 'Hay que saber nadar. No apto para menores de 8 años.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas; Fotos.'
+  respuesta: 'No incluye comida y bebidas ni fotos.'
 categoria: agua
 keywords:
 - esnórquel costa teguise

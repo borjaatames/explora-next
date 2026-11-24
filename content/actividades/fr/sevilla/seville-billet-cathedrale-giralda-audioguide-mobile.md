@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Bureau de l''opérateur, 3, calle Arfe (vieille ville, Séville). Passez d''abord au bureau du 3, calle Arfe, à environ 4 minutes à pied de la cathédrale, et arrivez 10 minutes avant l''heure réservée. Parfois, un employé vous accompagne jusqu''à l''entrée du monument ; ensuite, vous visitez à votre rythme.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée à la cathédrale de Séville; Entrée à la Giralda; Audioguide téléchargeable dans l''application (français, espagnol, anglais, italien ou allemand).'
+  respuesta: 'Le prix comprend : entrée à la cathédrale de Séville; entrée à la Giralda; et audioguide téléchargeable dans l''application (français, espagnol, anglais, italien ou allemand).'
 opinionEditorial: 'Il fait le travail, mais il est cher pour ce qu''il offre et sa note est basse (3,9) : plusieurs voyageurs trouvent l''audioguide trop succinct. Si vous voulez seulement entrer, le billet simple pour la cathédrale et la Giralda coûte moins de la moitié ; si vous voulez des explications, une visite guidée est plus intéressante.'
 atraccionesRelacionadas:
 - catedral-giralda

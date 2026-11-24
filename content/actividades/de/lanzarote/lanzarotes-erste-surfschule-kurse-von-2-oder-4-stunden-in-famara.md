@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Surf School Lanzarote, C. El Callejón 4, Caleta de Famara.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Surfbrett; Neoprenanzug; ISA-zertifizierter Lehrer; RLSS-zertifizierter Rettungsschwimmer; Transport von der Schule zum Strand.'
+  respuesta: 'Im Preis inbegriffen: Surfbrett, Neoprenanzug, ISA-zertifizierter Lehrer, RLSS-zertifizierter Rettungsschwimmer und Transport von der Schule zum Strand.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Bei der Ganztagsoption Snack oder Mittagessen mitbringen (Pause gegen 12 Uhr); Du musst schwimmen können.'
+  respuesta: 'Bei der Ganztagsoption Snack oder Mittagessen mitbringen (Pause gegen 12 Uhr). Du musst schwimmen können.'
 categoria: agua
 keywords:
 - surfkurs famara

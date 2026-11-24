@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso; Guía.'
+  respuesta: 'Incluye recogida y regreso y guía.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Mínimo 2 participantes; Tiempo libre para comer en un restaurante o hacer pícnic.'
+  respuesta: 'Mínimo 2 participantes. Tiempo libre para comer en un restaurante o hacer pícnic.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas (se pueden comprar); Entradas a museos.'
+  respuesta: 'No incluye comida y bebidas (se pueden comprar) ni entradas a museos.'
 categoria: excursionesDia
 keywords:
 - excursion norte de tenerife

@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transfer from and to your hotel; Water.'
+  respuesta: 'The price includes transfer from and to your hotel and water.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for people with vertigo or fear of heights.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food.'
+  respuesta: 'The price does not include food.'
 categoria: excursionesDia
 keywords:
 - fuerteventura island tour

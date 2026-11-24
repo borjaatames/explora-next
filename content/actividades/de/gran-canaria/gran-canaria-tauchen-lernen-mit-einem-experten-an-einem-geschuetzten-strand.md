@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Tauchausrüstung; Versicherung; Online-Logbuch; Tauchlehrer; Abholung und Rücktransfer im Süden Gran Canarias; Wasser.'
+  respuesta: 'Im Preis inbegriffen: Tauchausrüstung, Versicherung, Online-Logbuch, Tauchlehrer, Abholung und Rücktransfer im Süden Gran Canarias und Wasser.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 8 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Nicht bei Rücken- oder Atemproblemen, Epilepsie, Bluthochdruck oder kürzlichen Operationen.'
+  respuesta: 'Mindestalter 8 Jahre. Nicht für Schwangere oder Menschen mit Herzproblemen. Nicht bei Rücken- oder Atemproblemen, Epilepsie, Bluthochdruck oder kürzlichen Operationen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen; Unterwasserfotos.'
+  respuesta: 'Nicht inbegriffen: Mittagessen und Unterwasserfotos.'
 categoria: agua
 keywords:
 - tauchen lernen gran canaria

@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide privé.'
+  respuesta: 'Le prix comprend : guide privé.'
 opinionEditorial: Pour comprendre pourquoi cet ensemble est si spécial, il faut quelqu’un pour expliquer l’architecture ; deux heures en privé suffisent.
 atraccionesRelacionadas:
 - ciudad-artes

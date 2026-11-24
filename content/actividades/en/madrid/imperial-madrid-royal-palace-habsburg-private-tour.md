@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Plaza de Isabel II (Ópera), next to the statue of the queen.'
 - pregunta: 'What is included?'
-  respuesta: 'Private official guide for 3 hours; Skip-the-line Royal Palace ticket; Support from a travel agent.'
+  respuesta: 'The price includes private official guide for 3 hours, skip-the-line Royal Palace ticket, and support from a travel agent.'
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

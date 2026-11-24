@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off; Guide.'
+  respuesta: 'The price includes pick-up and drop-off and guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum 2 participants; Free time for lunch in a restaurant or a picnic.'
+  respuesta: 'Minimum 2 participants. Free time for lunch in a restaurant or a picnic.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks (can be bought); Museum fees.'
+  respuesta: 'The price does not include food and drinks (can be bought) or Museum fees.'
 categoria: excursionesDia
 keywords:
 - north tenerife tour

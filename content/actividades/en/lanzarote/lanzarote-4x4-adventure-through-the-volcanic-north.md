@@ -54,11 +54,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up from your accommodation; 4x4 tour; Photo stops at Guatiza, Mirador de los Helechos and Mirador de las Nieves; Visit to historic Teguise; Viewpoint stop over the Famara coast; Stop at a tourist office about the volcanic origins.'
+  respuesta: 'The price includes pick-up from your accommodation; 4x4 tour; photo stops at Guatiza, Mirador de los Helechos and Mirador de las Nieves; visit to historic Teguise; viewpoint stop over the Famara coast; and stop at a tourist office about the volcanic origins.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people with reduced mobility; 4x4 vehicles may be shared with other participants.'
+  respuesta: 'Not suitable for people with reduced mobility. 4x4 vehicles may be shared with other participants.'
 - pregunta: 'What is not included?'
-  respuesta: 'Meals; Personal expenses.'
+  respuesta: 'The price does not include meals or personal expenses.'
 categoria: aventura
 keywords:
 - 4x4 tour lanzarote north

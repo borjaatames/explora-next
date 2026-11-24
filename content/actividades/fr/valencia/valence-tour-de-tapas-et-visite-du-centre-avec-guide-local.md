@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide local; Déjeuner de tapas; Boissons (vin ou bière).'
+  respuesta: 'Le prix comprend : guide local, déjeuner de tapas et boissons (vin ou bière).'
 categoria: toursGastronomicos
 keywords:
 - "tapas valence"

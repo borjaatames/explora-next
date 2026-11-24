@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Quesería Montesdeoca, TF-82 km 44, Tijoco Bajo (Adeje).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Visita guiada a la granja de cabras y la quesería; Cata de tres quesos premiados.'
+  respuesta: 'Incluye visita guiada a la granja de cabras y la quesería y cata de tres quesos premiados.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Visitas de lunes a viernes, de 10:00 a 13:00; Las reservas de 2 o más personas conviene hacerlas con 2 semanas de antelación; Niños de 3 a 11 años pagan tarifa reducida.'
+  respuesta: 'Visitas de lunes a viernes, de 10:00 a 13:00. Las reservas de 2 o más personas conviene hacerlas con 2 semanas de antelación. Niños de 3 a 11 años pagan tarifa reducida.'
 categoria: toursGastronomicos
 keywords:
 - granja de cabras tenerife

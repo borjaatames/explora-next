@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Picarus Sailing Club, Los Gigantes marina, pontoon 1, berth 152 (boats Aemon or Ayla).'
 - pregunta: 'What is included?'
-  respuesta: 'Safety equipment (life jackets); Snorkel masks.'
+  respuesta: 'The price includes safety equipment (life jackets) and snorkel masks.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'For 13:00 and 16:00 departures arrive at least 1 hour early: parking in Los Gigantes is very busy; Not for children under 3 or above 140 kg.'
+  respuesta: 'For 13:00 and 16:00 departures arrive at least 1 hour early: parking in Los Gigantes is very busy. Not for children under 3 or above 140 kg.'
 categoria: agua
 keywords:
 - sailing los gigantes whales

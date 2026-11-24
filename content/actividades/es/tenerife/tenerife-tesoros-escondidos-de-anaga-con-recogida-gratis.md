@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Bastones de senderismo; Seguro; Ruta panorámica hasta el Parque Rural de Anaga; Guía; Traslado.'
+  respuesta: 'Incluye bastones de senderismo, seguro, ruta panorámica hasta el Parque Rural de Anaga, guía y traslado.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Elige entre un tour privado tranquilo y una ruta de senderismo en grupo reducido; Los horarios flexibles encajan con los cruceros que atracan en Santa Cruz.'
+  respuesta: 'Elige entre un tour privado tranquilo y una ruta de senderismo en grupo reducido. Los horarios flexibles encajan con los cruceros que atracan en Santa Cruz.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: aventura
 keywords:
 - excursion anaga

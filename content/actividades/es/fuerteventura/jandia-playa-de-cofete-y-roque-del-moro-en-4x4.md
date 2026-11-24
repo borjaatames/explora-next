@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Guía; Ruta todoterreno.'
+  respuesta: 'Incluye recogida y regreso al hotel, guía y ruta todoterreno.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Recogida en puntos seleccionados del sur de Fuerteventura; El operador envía la hora exacta de recogida antes de la excursión.'
+  respuesta: 'Recogida en puntos seleccionados del sur de Fuerteventura. El operador envía la hora exacta de recogida antes de la excursión.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: excursionesDia
 keywords:
 - cofete jeep

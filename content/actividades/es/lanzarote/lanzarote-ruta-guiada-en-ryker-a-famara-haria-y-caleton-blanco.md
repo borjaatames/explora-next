@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta en Ryker; Guía; Casco; Gafas cortavientos; Cortavientos.'
+  respuesta: 'Incluye ruta en Ryker, guía, casco, gafas cortavientos y cortavientos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 10 años ni embarazadas.'
 categoria: aventura

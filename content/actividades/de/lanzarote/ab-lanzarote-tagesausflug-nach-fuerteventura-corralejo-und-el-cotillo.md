@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bus hin und zurück ab dem Treffpunkt nahe deiner Unterkunft; Fähre hin und zurück zwischen Lanzarote und Fuerteventura; Freizeit an jedem Stopp; Erfahrener mehrsprachiger Guide.'
+  respuesta: 'Im Preis inbegriffen: Bus hin und zurück ab dem Treffpunkt nahe deiner Unterkunft, Fähre hin und zurück zwischen Lanzarote und Fuerteventura, Freizeit an jedem Stopp und Erfahrener mehrsprachiger Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Gültiger Ausweis oder Reisepass für Fahrten zwischen den Inseln nötig; Deutschsprachiger Guide nur dienstags; Nicht für Menschen mit eingeschränkter Mobilität.'
+  respuesta: 'Gültiger Ausweis oder Reisepass für Fahrten zwischen den Inseln nötig. Deutschsprachiger Guide nur dienstags. Nicht für Menschen mit eingeschränkter Mobilität.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: excursionesDia
 keywords:
 - tagesausflug fuerteventura ab lanzarote

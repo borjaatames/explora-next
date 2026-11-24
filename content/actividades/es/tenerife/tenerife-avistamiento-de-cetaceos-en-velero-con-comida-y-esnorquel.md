@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Salida en velero con guía; Avistamiento de cetáceos; Bebidas: agua, vino, cava, cerveza y refrescos; Aperitivos; Equipo de esnórquel.'
+  respuesta: 'Incluye salida en velero con guía; avistamiento de cetáceos; bebidas: agua, vino, cava, cerveza y refrescos; aperitivos; y equipo de esnórquel.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida y regreso al hotel.'
+  respuesta: 'No incluye recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - velero ballenas tenerife

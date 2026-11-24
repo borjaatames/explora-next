@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Live private guide; Skip-the-line entry and a guided visit inside the Sagrada Família; Guided tour of Montjuïc, the Gothic Quarter and Passeig de Gràcia; Private transport throughout the tour; Hotel pickup and drop-off.'
+  respuesta: 'The price includes live private guide; skip-the-line entry and a guided visit inside the Sagrada Família; guided tour of Montjuïc, the Gothic Quarter and Passeig de Gràcia; private transport throughout the tour; and hotel pickup and drop-off.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink; Tips.'
+  respuesta: 'The price does not include food and drink or tips.'
 opinionEditorial: 'It''s the perfect plan if you only have one day: Barcelona''s essentials —Gaudí, Montjuïc and the old town— private, skip-the-line and with no logistics to worry about. The more of you there are, the better the value of the per-group price.'
 atraccionesRelacionadas:
 - sagrada-familia

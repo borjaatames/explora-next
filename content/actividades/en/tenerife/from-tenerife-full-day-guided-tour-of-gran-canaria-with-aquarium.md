@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Return transfer to Santa Cruz pier from the north or south (if selected); Ferry ticket; Poema del Mar entry; Walking tour of Vegueta; Guided visit to Arehucas with a rum and liqueur tasting; Official guide.'
+  respuesta: 'The price includes return transfer to Santa Cruz pier from the north or south (if selected), ferry ticket, Poema del Mar entry, walking tour of Vegueta, guided visit to Arehucas with a rum and liqueur tasting, and official guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Reconfirm pick-up time by WhatsApp; Bring ID or passport for the ferry.'
+  respuesta: 'Reconfirm pick-up time by WhatsApp. Bring ID or passport for the ferry.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink.'
+  respuesta: 'The price does not include food and drink.'
 categoria: excursionesDia
 keywords:
 - gran canaria day trip from tenerife

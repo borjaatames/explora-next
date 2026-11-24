@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Naval Museum, Paseo del Prado, 3, Madrid.'
 - pregunta: 'What is included?'
-  respuesta: 'Transport in an air-conditioned Mercedes; Host throughout the tour; Monument tickets; Iberian tasting; Taxes.'
+  respuesta: 'The price includes transport in an air-conditioned Mercedes, host throughout the tour, monument tickets, Iberian tasting, and taxes.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

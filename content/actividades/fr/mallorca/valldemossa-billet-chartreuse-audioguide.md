@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Chartreuse royale de Valldemossa, Plaça de la Cartoixa, Valldemossa. Bus TIB 203 depuis Palma (environ 30 minutes). En voiture, des parkings payants se trouvent à l''entrée du village.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée à la Chartreuse royale et au palais du roi Sanche; Application audioguide sur votre téléphone; Récital de piano (selon le programme).'
+  respuesta: 'Le prix comprend : entrée à la Chartreuse royale et au palais du roi Sanche, application audioguide sur votre téléphone et récital de piano (selon le programme).'
 opinionEditorial: La visite incontournable de Valldemossa. Ce n'est pas un grand musée, mais l'histoire de Chopin, le récital et la vue sur la Tramuntana valent bien les 13 €.
 categoria: entradas
 keywords:

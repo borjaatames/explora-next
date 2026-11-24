@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Porto del sud di Tenerife (zona di Costa Adeje). Confermato nel voucher. Il porto di partenza esatto è indicato nel voucher. L''uscita parte dalla costa sud di Tenerife. Calcola 15 minuti per arrivare al porto dalle zone turistiche di Las Américas o Los Cristianos.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Giornata in catamarano (5-6 ore); Pranzo a buffet a bordo; Sosta per il bagno; Avvistamento di balene e delfini.'
+  respuesta: 'Il prezzo include giornata in catamarano (5-6 ore), pranzo a buffet a bordo, sosta per il bagno e avvistamento di balene e delfini.'
 opinionEditorial: Se fai l'avvistamento di cetacei a Tenerife, fallo per bene. La giornata intera, il buffet e il tempo in più in mare fanno di questa la versione più completa dell'esperienza, con una delle valutazioni più alte dell'isola.
 guiasRelacionadas:
 - avvistamento-balene-tenerife

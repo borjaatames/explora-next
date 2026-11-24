@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en catamarán; Aperitivos ligeros; Refrescos, agua, sangría, cerveza y champán; Recogida en el hotel (solo con la opción con recogida).'
+  respuesta: 'Incluye paseo en catamarán; aperitivos ligeros; refrescos, agua, sangría, cerveza y champán; y recogida en el hotel (solo con la opción con recogida).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para personas con movilidad reducida; Puede cancelarse si hay mala mar.'
+  respuesta: 'No apto para personas con movilidad reducida. Puede cancelarse si hay mala mar.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida en el hotel (opción sin recogida); Propinas; Otras bebidas.'
+  respuesta: 'No incluye recogida en el hotel (opción sin recogida), propinas ni otras bebidas.'
 categoria: agua
 keywords:
 - catamaran privado lanzarote

@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en barco opcional a Puerto de Mogán (si se elige); Recogida en Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín y Bahía Feliz; Guía; Autocar con aire acondicionado y conductor; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye paseo en barco opcional a Puerto de Mogán (si se elige); recogida en Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín y Bahía Feliz; guía; autocar con aire acondicionado y conductor; y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El paseo en barco desde Puerto Rico tiene un coste extra por persona; Confirma hora y lugar de recogida por WhatsApp; no se admiten cambios con menos de 24 horas.'
+  respuesta: 'El paseo en barco desde Puerto Rico tiene un coste extra por persona. Confirma hora y lugar de recogida por WhatsApp; no se admiten cambios con menos de 24 horas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos de recuerdo; Almuerzo.'
+  respuesta: 'No incluye fotos de recuerdo ni almuerzo.'
 categoria: excursionesDia
 keywords:
 - excursion mercadillo mogan

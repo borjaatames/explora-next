@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Real Cartuja de Valldemossa, plaza de la Cartuja, Valldemossa. Autobús TIB 203 desde Palma (unos 30 minutos). En coche, aparcamientos de pago a la entrada del pueblo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada a la Real Cartuja y al palacio del rey Sancho; Audioguía en el móvil; Recital de piano (según horario).'
+  respuesta: 'Incluye entrada a la Real Cartuja y al palacio del rey Sancho, audioguía en el móvil y recital de piano (según horario).'
 opinionEditorial: La visita imprescindible de Valldemossa. No es un gran museo, pero la historia de Chopin, el recital y las vistas de la Tramuntana hacen que valga los 13 €.
 guiasRelacionadas:
 - serra-tramuntana-soller

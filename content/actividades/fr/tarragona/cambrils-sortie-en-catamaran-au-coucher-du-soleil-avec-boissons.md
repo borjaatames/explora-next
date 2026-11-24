@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en catamaran de 2 heures; Capitaine et équipage; Open bar d''eau, sodas, bière et vin; Arrêt baignade.'
+  respuesta: 'Le prix comprend : sortie en catamaran de 2 heures; capitaine et équipage; open bar d''eau, sodas, bière et vin; et arrêt baignade.'
 categoria: agua
 keywords:
 - "catamaran cambrils coucher de soleil"

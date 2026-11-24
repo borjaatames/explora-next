@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Colón, at the top of the pier by the «Pantalán Nº4» sign, 15 minutes before departure.'
 - pregunta: 'What is included?'
-  respuesta: 'Sailing trip; Hotel pick-up and drop-off; Safety briefing; Snorkelling gear; Drinks: cava, beer, soft drinks and water; Baguettes, fruit, crisps and nuts.'
+  respuesta: 'The price includes sailing trip; hotel pick-up and drop-off; safety briefing; snorkelling gear; drinks: cava, beer, soft drinks and water; and baguettes, fruit, crisps and nuts.'
 categoria: agua
 keywords:
 - sailing whale watching tenerife

@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerta del Sol, by the Bear and Strawberry Tree statue (Madrid), or pickup at your hotel.'
 - pregunta: 'What is included?'
-  respuesta: 'Private local guide; Hotel pickup.'
+  respuesta: 'The price includes private local guide and hotel pickup.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Price per person, with a minimum of 2 people per booking; After booking you''ll get the guide''s contact details; give your hotel name if you''d like to be picked up there; Walking tour; wear comfortable shoes.'
+  respuesta: 'Price per person, with a minimum of 2 people per booking. After booking you''ll get the guide''s contact details; give your hotel name if you''d like to be picked up there. Walking tour; wear comfortable shoes.'
 - pregunta: 'What is not included?'
-  respuesta: 'Monument tickets (not needed for the standard route); Transport (the whole tour is on foot).'
+  respuesta: 'The price does not include monument tickets (not needed for the standard route) or transport (the whole tour is on foot).'
 opinionEditorial: A free tour follows a similar route for far less; what you pay for here is a guide for your group alone, starting at your hotel, with time for all your questions. It's best value for families or groups. Minimum 2 people per booking.
 atraccionesRelacionadas:
 - tours-a-pie

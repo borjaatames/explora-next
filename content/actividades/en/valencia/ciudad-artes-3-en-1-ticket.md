@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Ciudad de las Artes y las Ciencias, Valencia. Take bus 35, 95 or the EMT tourist bus from Valencia city centre. Tram lines also serve the complex. Show your ticket at each attraction separately.'
 - pregunta: 'What is included?'
-  respuesta: 'Entry to Oceanogràfic (1 session); Entry to Hemisfèric (1 IMAX screening); Entry to Museu de les Ciències.'
+  respuesta: 'The price includes entry to Oceanogràfic (1 session), entry to Hemisfèric (1 IMAX screening), and entry to Museu de les Ciències.'
 opinionEditorial: The City of Arts and Sciences is Valencia's architectural crown jewel, and the 3-in-1 ticket is the best way to see it properly. The Oceanogràfic's beluga whale enclosure and shark tunnel are world-class.
 guiasRelacionadas:
 - city-of-arts-sciences-how-to-visit

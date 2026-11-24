@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Ingresso del Museo Reina Sofía, accanto alla bandiera spagnola (Calle de Santa Isabel, 52, Madrid), oppure prelievo in hotel.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida ufficiale privata; Biglietto salta fila per il Museo Reina Sofía.'
+  respuesta: 'Il prezzo include guida ufficiale privata e biglietto salta fila per il Museo Reina Sofía.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Prezzo a persona, con un minimo di 2 persone per prenotazione; Dopo la prenotazione riceverai i contatti della guida; indica il nome del tuo hotel se vuoi essere prelevato lì; Accessibile in sedia a rotelle e con passeggino.'
+  respuesta: 'Prezzo a persona, con un minimo di 2 persone per prenotazione. Dopo la prenotazione riceverai i contatti della guida; indica il nome del tuo hotel se vuoi essere prelevato lì. Accessibile in sedia a rotelle e con passeggino.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Trasporto.'
+  respuesta: 'Il prezzo non include trasporto.'
 opinionEditorial: 'Il Reina Sofía ha molto più senso con qualcuno che ti spiega il contesto: la Guerra civile, le avanguardie e perché il Guernica si trova lì. Due ore sono la durata giusta. Minimo 2 persone per prenotazione.'
 atraccionesRelacionadas:
 - reina-sofia

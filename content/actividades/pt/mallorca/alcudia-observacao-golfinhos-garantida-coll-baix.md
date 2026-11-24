@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Alcudiamar (parque de estacionamento da marina), Alcúdia. Partida da marina Alcudiamar, em Alcúdia. Há opção com recolha e regresso ao hotel: se a escolher, a hora vem indicada no voucher.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Barco semiprivado com capitão (máximo de 12 pessoas); Combustível e taxas; Mínimo de 30 minutos com os golfinhos; Percurso pela costa, falésias e grutas; Banho na praia de Coll Baix; Recolha e regresso ao hotel (se escolher essa opção).'
+  respuesta: 'O preço inclui barco semiprivado com capitão (máximo de 12 pessoas); combustível e taxas; mínimo de 30 minutos com os golfinhos; percurso pela costa, falésias e grutas; banho na praia de Coll Baix; e recolha e regresso ao hotel (se escolher essa opção).'
 opinionEditorial: É a atividade com golfinhos mais bem avaliada de Maiorca, com milhares de avaliações e grupos pequenos. Vale a pena madrugar.
 categoria: agua
 keywords:

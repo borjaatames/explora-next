@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Visite privée en tuk-tuk électrique (jusqu''à 4 personnes par tuk-tuk); Audioguide avec écouteurs en 11 langues; Eau fraîche, wifi et recharge de téléphone; Rehausseur pour enfant.'
+  respuesta: 'Le prix comprend : visite privée en tuk-tuk électrique (jusqu''à 4 personnes par tuk-tuk); audioguide avec écouteurs en 11 langues; eau fraîche, wifi et recharge de téléphone; et rehausseur pour enfant.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Arrivez 10 minutes à l''avance ; le tuk-tuk attend sur l''aire de stationnement en face du musée Thyssen; Âge minimum 3 ans; Si vous êtes plus de 4, réservez un tuk-tuk par groupe de 4.'
+  respuesta: 'Arrivez 10 minutes à l''avance ; le tuk-tuk attend sur l''aire de stationnement en face du musée Thyssen. Âge minimum 3 ans. Si vous êtes plus de 4, réservez un tuk-tuk par groupe de 4.'
 opinionEditorial: Voir les illuminations de Noël en tuk-tuk évite la foule à pied autour de Sol et de la Gran Vía et permet de couvrir plusieurs quartiers en une soirée. Elle n'a lieu qu'à la période de Noël et la réservation n'est pas remboursable ; couvrez-vous bien, car le tuk-tuk est ouvert sur les côtés.
 atraccionesRelacionadas:
 - tuk-tuk

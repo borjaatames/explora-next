@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vehículo todoterreno; Traslado desde el hotel; Guía en tu idioma; Grupos reducidos; Entrada a la granja de aloe vera.'
+  respuesta: 'Incluye vehículo todoterreno, traslado desde el hotel, guía en tu idioma, grupos reducidos y entrada a la granja de aloe vera.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No accesible en silla de ruedas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida; Bebidas.'
+  respuesta: 'No incluye comida ni bebidas.'
 categoria: excursionesDia
 keywords:
 - safari el cotillo

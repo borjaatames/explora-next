@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en bateau avec skipper; Boissons : sodas, bière et eau; Repas : tortilla, salade de pâtes et fromage; Équipement de snorkeling; Paddle.'
+  respuesta: 'Le prix comprend : sortie en bateau avec skipper; boissons : sodas, bière et eau; repas : tortilla, salade de pâtes et fromage; équipement de snorkeling; et paddle.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux personnes à mobilité réduite.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '4 heures.'
+  respuesta: 'L''activité dure 4 heures.'
 categoria: agua
 keywords:
 - dauphins mogan

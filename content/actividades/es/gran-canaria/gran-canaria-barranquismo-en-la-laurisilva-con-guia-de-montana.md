@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía de montaña acreditado por la AEGM/UIMLA; Recogida y regreso al hotel; Equipo de barranquismo; Foto de recuerdo.'
+  respuesta: 'Incluye guía de montaña acreditado por la AEGM/UIMLA, recogida y regreso al hotel, equipo de barranquismo y foto de recuerdo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Unos 2 km de caminata con pendiente para llegar al barranco: hace falta buena forma y calzado resistente e impermeable; No apto para menores de 12, mayores de 80, embarazadas ni personas con miedo a las alturas.'
+  respuesta: 'Unos 2 km de caminata con pendiente para llegar al barranco: hace falta buena forma y calzado resistente e impermeable. No apto para menores de 12, mayores de 80, embarazadas ni personas con miedo a las alturas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas; Calzado impermeable.'
+  respuesta: 'No incluye comida y bebidas ni calzado impermeable.'
 categoria: aventura
 keywords:
 - barranquismo gran canaria

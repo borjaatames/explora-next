@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ticket mit schnellem Einlass; Führung von 1,5 Stunden mit offiziellem Guide; Kopfhörer bei Gruppen über 15 Personen.'
+  respuesta: 'Im Preis inbegriffen: Ticket mit schnellem Einlass; Führung von 1,5 Stunden mit offiziellem Guide; und Kopfhörer bei Gruppen über 15 Personen.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-tickets-ausverkauft

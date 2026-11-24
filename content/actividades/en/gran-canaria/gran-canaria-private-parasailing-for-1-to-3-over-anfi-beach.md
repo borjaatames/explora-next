@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle Anfi del Mar 2, Mogán.'
 - pregunta: 'What is included?'
-  respuesta: 'All taxes; Insurance; Life jacket.'
+  respuesta: 'The price includes all taxes, insurance, and life jacket.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Maximum combined weight 200 kg.'
 categoria: agua

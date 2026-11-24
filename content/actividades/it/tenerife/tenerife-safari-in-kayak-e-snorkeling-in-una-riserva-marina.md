@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'C. Juan Reverón Sierra 4, a Los Cristianos. Arriva 20 minuti prima per il check-in.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida professionista ufficiale; Kayak, giubbotto salvagente e contenitore stagno; Attrezzatura da snorkeling; Foto di gruppo alla partenza; Assicurazione.'
+  respuesta: 'Il prezzo include guida professionista ufficiale; kayak, giubbotto salvagente e contenitore stagno; attrezzatura da snorkeling; foto di gruppo alla partenza; e assicurazione.'
 categoria: agua
 keywords:
 - kayak los cristianos

@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Planche choisie par le moniteur; Combinaison et chaussons; Assurance accident; Moniteur; Théorie (20 min).'
+  respuesta: 'Le prix comprend : planche choisie par le moniteur, combinaison et chaussons, assurance accident, moniteur et théorie (20 min).'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons; Prise en charge à l''hôtel.'
+  respuesta: 'Ne sont pas inclus : repas et boissons et prise en charge à l''hôtel.'
 categoria: agua
 keywords:
 - tilegit surf school

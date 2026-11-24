@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'GF Isabel, Avenida de Moscú 2, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Full diving equipment: mask, wetsuit, booties and fins; 45-minute dive; Welcome coffee; Dive insurance; Transport to the dive site and back to the centre; Water, fruit and snacks.'
+  respuesta: 'The price includes full diving equipment: mask, wetsuit, booties and fins; 45-minute dive; welcome coffee; dive insurance; transport to the dive site and back to the centre; and water, fruit and snacks.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 10; Not suitable for pregnant women, people with epilepsy or over 70; Do not fly for 12 to 24 hours after diving.'
+  respuesta: 'Minimum age 10. Not suitable for pregnant women, people with epilepsy or over 70. Do not fly for 12 to 24 hours after diving.'
 categoria: agua
 keywords:
 - beginner diving adeje

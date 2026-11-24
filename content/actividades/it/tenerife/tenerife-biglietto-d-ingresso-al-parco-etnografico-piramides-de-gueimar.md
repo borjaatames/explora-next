@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Piramidi; Museo; Giardino botanico; Giardino delle piante velenose (opzione premium); Mostra polinesiana (opzione premium).'
+  respuesta: 'Il prezzo include piramidi, museo, giardino botanico, giardino delle piante velenose (opzione premium) e mostra polinesiana (opzione premium).'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Prelievo e ritorno in hotel.'
+  respuesta: 'Il prezzo non include cibo e bevande né prelievo e ritorno in hotel.'
 - pregunta: 'Quanto dura?'
-  respuesta: '2 ore.'
+  respuesta: 'Dura 2 ore.'
 categoria: entradas
 keywords:
 - piramidi di güímar biglietti

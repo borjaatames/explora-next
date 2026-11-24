@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Retour au point de départ à Cruz del Carmen; Dégustation de produits locaux.'
+  respuesta: 'Le prix comprend : retour au point de départ à Cruz del Carmen et dégustation de produits locaux.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Prévoyez une veste légère : la bruine est fréquente dans l''Anaga; Déconseillé aux personnes à mobilité réduite.'
+  respuesta: 'Prévoyez une veste légère : la bruine est fréquente dans l''Anaga. Déconseillé aux personnes à mobilité réduite.'
 categoria: aventura
 keywords:
 - randonnée anaga

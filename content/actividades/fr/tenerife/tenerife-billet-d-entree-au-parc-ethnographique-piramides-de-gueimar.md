@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Pyramides; Musée; Jardin botanique; Jardin des plantes vénéneuses (option premium); Exposition polynésienne (option premium).'
+  respuesta: 'Le prix comprend : pyramides, musée, jardin botanique, jardin des plantes vénéneuses (option premium) et exposition polynésienne (option premium).'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons; Prise en charge à l''hôtel.'
+  respuesta: 'Ne sont pas inclus : repas et boissons et prise en charge à l''hôtel.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '2 heures.'
+  respuesta: 'L''activité dure 2 heures.'
 categoria: entradas
 keywords:
 - pyramides de güímar billets

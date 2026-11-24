@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Depends on the option booked (departures from Cádiz province): check your voucher. The departure point and time are on your booking voucher.'
 - pregunta: 'What is included?'
-  respuesta: 'Transport; Guide.'
+  respuesta: 'The price includes transport and guide.'
 opinionEditorial: The wildest stretch of the Costa de la Luz in a day without a car. Baelo Claudia, with the dune behind and Africa ahead, is one of the most beautiful sites in Spain.
 guiasRelacionadas:
 - cadiz-beaches-costa-de-la-luz

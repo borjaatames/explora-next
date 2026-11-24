@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Vélo ou vélo électrique (selon l''option); Guide local; Casque; Sièges enfant sur demande; Consigne; Assurance.'
+  respuesta: 'Le prix comprend : vélo ou vélo électrique (selon l''option), guide local, casque, sièges enfant sur demande, consigne et assurance.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

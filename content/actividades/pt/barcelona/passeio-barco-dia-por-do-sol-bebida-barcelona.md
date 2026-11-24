@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bebida de boas-vindas; Capitão e tripulação; Combustível, limpeza, seguro e taxas; Wi-fi a bordo.'
+  respuesta: 'O preço inclui bebida de boas-vindas; capitão e tripulação; combustível, limpeza, seguro e taxas; e Wi-fi a bordo.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-em-2-dias

@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Royal Delfín catamaran, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
 - pregunta: 'What is included?'
-  respuesta: 'Catamaran cruise; Whale and dolphin watching; Lunch and drinks.'
+  respuesta: 'The price includes catamaran cruise, whale and dolphin watching, and lunch and drinks.'
 categoria: agua
 keywords:
 - whale watching puerto colon

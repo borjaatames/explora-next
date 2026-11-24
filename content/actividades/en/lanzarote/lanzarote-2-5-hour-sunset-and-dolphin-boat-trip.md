@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; 2.5-hour speedboat trip; Live commentary on board; Cava, juice or water; Local sweets.'
+  respuesta: 'The price includes hotel pick-up and drop-off; 2.5-hour speedboat trip; live commentary on board; cava, juice or water; and local sweets.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wildlife sightings cannot be guaranteed; Bring a warm layer: it''s cooler at sea even in summer; Not wheelchair accessible.'
+  respuesta: 'Wildlife sightings cannot be guaranteed. Bring a warm layer: it''s cooler at sea even in summer. Not wheelchair accessible.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 h 30 min.'
+  respuesta: 'It lasts 2 h 30 min.'
 categoria: agua
 keywords:
 - sunset boat trip lanzarote

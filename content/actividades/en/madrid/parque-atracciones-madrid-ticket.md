@@ -60,9 +60,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Parque de Atracciones de Madrid, Casa de Campo, Madrid. Access via metro line 10 to Batán station, or bus. The park is inside Casa de Campo — follow the signs from Batán.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day entry to Parque de Atracciones.'
+  respuesta: 'The price includes full-day entry to Parque de Atracciones.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The park does not open every day in low season — check the calendar before booking; Abismo is the park''s star attraction; expect queues in summer.'
+  respuesta: 'The park does not open every day in low season — check the calendar before booking. Abismo is the park''s star attraction; expect queues in summer.'
 opinionEditorial: Madrid's local theme park — less glamorous than Parque Warner, more accessible and great value for a half-day. Abismo alone is worth the visit.
 guiasRelacionadas:
 - madrid-with-kids

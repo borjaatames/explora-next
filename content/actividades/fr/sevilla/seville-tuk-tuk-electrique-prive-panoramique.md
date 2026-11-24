@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Chauffeur-guide local; Véhicule 100 % électrique; Tuk-tuk privé; Sièges enfant (plus de 2 ans); Guide numérique de Séville par QR.'
+  respuesta: 'Le prix comprend : chauffeur-guide local, véhicule 100 % électrique, tuk-tuk privé, sièges enfant (plus de 2 ans) et guide numérique de Séville par QR.'
 categoria: toursCiudad
 guiasRelacionadas:
 - tuk-tuk-caleche-ou-bus-touristique-seville

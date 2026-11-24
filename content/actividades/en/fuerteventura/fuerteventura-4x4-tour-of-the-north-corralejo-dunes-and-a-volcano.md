@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: '4x4 tour in a closed SUV (max. 6 passengers + driver); Guide explanations in your language; Hotel pick-up in the south of the island; Liability insurance.'
+  respuesta: 'The price includes 4x4 tour in a closed SUV (max. 6 passengers + driver), guide explanations in your language, hotel pick-up in the south of the island, and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people with back problems; Show your booking confirmation, printed or on your phone.'
+  respuesta: 'Not suitable for people with back problems. Show your booking confirmation, printed or on your phone.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food.'
+  respuesta: 'The price does not include food.'
 categoria: excursionesDia
 keywords:
 - 4x4 tour north fuerteventura

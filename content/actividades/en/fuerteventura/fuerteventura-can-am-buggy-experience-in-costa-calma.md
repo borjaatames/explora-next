@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Professional guide; Can-Am buggy ride; Fuel; Dust goggles; Insurance.'
+  respuesta: 'The price includes hotel pick-up and drop-off, professional guide, Can-Am buggy ride, fuel, dust goggles, and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wear comfortable, dark clothes and bring a scarf; Drivers need more than 1 year of driving experience; Price per buggy for up to 2 people.'
+  respuesta: 'Wear comfortable, dark clothes and bring a scarf. Drivers need more than 1 year of driving experience. Price per buggy for up to 2 people.'
 categoria: aventura
 keywords:
 - buggy costa calma

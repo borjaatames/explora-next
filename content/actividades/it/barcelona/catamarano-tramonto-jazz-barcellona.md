@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Giro in catamarano al tramonto; Jazz dal vivo.'
+  respuesta: 'Il prezzo include giro in catamarano al tramonto e jazz dal vivo.'
 categoria: agua
 guiasRelacionadas:
 - barcellona-in-2-giorni

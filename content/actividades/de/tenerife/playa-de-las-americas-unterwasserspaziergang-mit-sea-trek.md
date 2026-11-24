@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Sea-Trek-Helm mit ständiger Luftzufuhr; Komplette Ausrüstung, keine Erfahrung nötig; Sicherheitseinweisung und geführter Unterwasserspaziergang; Zertifizierte Lehrer die ganze Zeit; Neoprenanzug; Schließfächer und Umkleiden.'
+  respuesta: 'Im Preis inbegriffen: Sea-Trek-Helm mit ständiger Luftzufuhr; komplette Ausrüstung, keine Erfahrung nötig; Sicherheitseinweisung und geführter Unterwasserspaziergang; zertifizierte Lehrer die ganze Zeit; Neoprenanzug; und Schließfächer und Umkleiden.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 8 oder Schwangere.'
 categoria: agua

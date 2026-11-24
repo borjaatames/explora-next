@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Aqua Club Termal, Calle Galicia 6, Torviscas Alto (Adeje).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Biglietto d''ingresso; Accesso alle 18 aree della spa.'
+  respuesta: 'Il prezzo include biglietto d''ingresso e accesso alle 18 aree della spa.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a donne in gravidanza; Minori di 13 anni: solo feriali 10-12 e weekend 9-10.'
+  respuesta: 'Non adatto a donne in gravidanza. Minori di 13 anni: solo feriali 10-12 e weekend 9-10.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Asciugamano.'
+  respuesta: 'Il prezzo non include asciugamano.'
 categoria: entradas
 keywords:
 - aqua club termal

@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Pour l''Alhambra : carte murale à côté du guichet, Paseo del Generalife 1F, près du pavillon d''entrée (parapluie blanc). Le rendez-vous de l''Albaicín figure dans la réservation.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Passeport obligatoire : billets nominatifs; L''Alhambra commence toujours à l''heure indiquée sur le billet.'
+  respuesta: 'Passeport obligatoire : billets nominatifs. L''Alhambra commence toujours à l''heure indiquée sur le billet.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

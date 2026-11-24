@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Pas de point de rendez-vous physique : activez l''itinéraire depuis votre téléphone avec le code reçu après l''achat, où et quand vous voulez dans Gérone.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Accès à l''itinéraire autoguidé de Gérone dans l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos étapes, et faire une pause ou reprendre quand vous le souhaitez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès à des recommandations de restaurants et d''activités en famille dans l''application.'
+  respuesta: 'Le prix comprend : accès à l''itinéraire autoguidé de Gérone dans l''application DareMapp, avec un code de référence envoyé après l''achat; audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); liberté totale pour choisir votre rythme et vos étapes, et faire une pause ou reprendre quand vous le souhaitez; disponibilité 24 h/24, 365 jours par an, sans date d''expiration; et accès à des recommandations de restaurants et d''activités en famille dans l''application.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; le quartier du Call a des rues pavées et quelques marches; Les animaux d''assistance sont les bienvenus.'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an. Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; le quartier du Call a des rues pavées et quelques marches. Les animaux d''assistance sont les bienvenus.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Un guide ou accompagnateur physique (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au départ de l''itinéraire; Billets d''entrée aux monuments ou musées sur le parcours (le cas échéant).'
+  respuesta: 'Ne sont pas inclus : un guide ou accompagnateur physique (il s''agit d''une expérience entièrement autoguidée et autonome), transport jusqu''au départ de l''itinéraire et billets d''entrée aux monuments ou musées sur le parcours (le cas échéant).'
 opinionEditorial: 'C''est l''activité la plus courte du catalogue (1 h 30), et c''est logique : la vieille ville de Gérone, avec le Call et la Rambla de la Llibertat, se parcourt facilement en ce temps-là. Idéal si vous êtes de passage en route vers une autre destination, ou si vous combinez la visite avec du temps libre pour les tapas. Ne vous attendez pas à une visite exhaustive de toute la ville.'
 atraccionesRelacionadas:
 - casco-antiguo

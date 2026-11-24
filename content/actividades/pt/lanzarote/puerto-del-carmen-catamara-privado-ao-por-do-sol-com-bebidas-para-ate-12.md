@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'O preço é por pessoa?'
   respuesta: 'Não. O preço é por grupo, não por pessoa.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio de catamarã; Petiscos leves; Refrigerantes, água, sangria, cerveja e champanhe; Recolha no hotel (só na opção com recolha).'
+  respuesta: 'O preço inclui passeio de catamarã; petiscos leves; refrigerantes, água, sangria, cerveja e champanhe; e recolha no hotel (só na opção com recolha).'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Não recomendado a pessoas com mobilidade reduzida; Pode ser cancelado se o mar estiver agitado.'
+  respuesta: 'Não recomendado a pessoas com mobilidade reduzida. Pode ser cancelado se o mar estiver agitado.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Recolha no hotel (opção sem recolha); Gorjetas; Outras bebidas.'
+  respuesta: 'O preço não inclui recolha no hotel (opção sem recolha), gorjetas nem outras bebidas.'
 categoria: agua
 keywords:
 - catamara privado lanzarote

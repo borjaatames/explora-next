@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Car park at Taurito (Mogán).'
 - pregunta: 'What is included?'
-  respuesta: 'Guide in English and Spanish; Safety equipment; Picnic: fruit, chocolate, nuts, biscuits and water; Insurance; Photos.'
+  respuesta: 'The price includes guide in English and Spanish; safety equipment; picnic: fruit, chocolate, nuts, biscuits and water; insurance; and photos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'None of the activities (zip line, via ferrata, jumps, abseil) is compulsory; Some activities may not be possible depending on the sea; Minimum age 8.'
+  respuesta: 'None of the activities (zip line, via ferrata, jumps, abseil) is compulsory. Some activities may not be possible depending on the sea. Minimum age 8.'
 categoria: aventura
 keywords:
 - coasteering gran canaria

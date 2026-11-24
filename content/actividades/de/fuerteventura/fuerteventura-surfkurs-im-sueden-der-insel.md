@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transport zum Strand; Soft- oder Epoxy-Surfbrett; Billabong-Neoprenanzug; Erfahrener Lehrer mit Rettungsschwimmerschein.'
+  respuesta: 'Im Preis inbegriffen: Transport zum Strand, Soft- oder Epoxy-Surfbrett, Billabong-Neoprenanzug und Erfahrener Lehrer mit Rettungsschwimmerschein.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Der Strand richtet sich nach Wind, Gezeiten und Wetter; Schick nach der Buchung Hotel, Handynummer, Größe und Gewicht; Mindestalter 13 Jahre.'
+  respuesta: 'Der Strand richtet sich nach Wind, Gezeiten und Wetter. Schick nach der Buchung Hotel, Handynummer, Größe und Gewicht. Mindestalter 13 Jahre.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: agua
 keywords:
 - surfkurs fuerteventura süden

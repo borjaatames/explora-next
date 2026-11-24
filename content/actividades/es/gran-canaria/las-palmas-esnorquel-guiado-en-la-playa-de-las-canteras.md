@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Actividad de 3 horas; De 1 a 1,5 horas de esnórquel; Monitor titulado; Equipo de esnórquel; Agua y fruta; Seguro.'
+  respuesta: 'Incluye actividad de 3 horas; de 1 a 1,5 horas de esnórquel; monitor titulado; equipo de esnórquel; agua y fruta; y seguro.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'La hora de inicio depende del tiempo y la marea y se confirma tras reservar.'
 categoria: agua

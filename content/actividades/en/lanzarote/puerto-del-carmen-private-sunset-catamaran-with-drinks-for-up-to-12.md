@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Catamaran trip; Light snacks; Soft drinks, water, sangria, beer and champagne; Hotel pick-up (only with the pick-up option).'
+  respuesta: 'The price includes catamaran trip; light snacks; soft drinks, water, sangria, beer and champagne; and hotel pick-up (only with the pick-up option).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people with reduced mobility; May be cancelled if the sea is rough.'
+  respuesta: 'Not suitable for people with reduced mobility. May be cancelled if the sea is rough.'
 - pregunta: 'What is not included?'
-  respuesta: 'Hotel pick-up (option without pick-up); Tips; Other drinks.'
+  respuesta: 'The price does not include hotel pick-up (option without pick-up), tips, or other drinks.'
 categoria: agua
 keywords:
 - private catamaran lanzarote

@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide for 3 hours; Hotel pickup (within the central area).'
+  respuesta: 'The price includes private guide for 3 hours and hotel pickup (within the central area).'
 opinionEditorial: Three well-spent hours to understand the old town and find corners you'd miss on your own. Private means you can ask anything.
 atraccionesRelacionadas:
 - gotico

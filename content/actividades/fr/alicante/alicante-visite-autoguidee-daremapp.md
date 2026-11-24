@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Pas de point de rendez-vous physique : activez le parcours depuis votre téléphone avec le code reçu après l''achat, quand et où vous voulez à Alicante.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Accès au parcours autoguidé d''Alicante via l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès dans l''application à des recommandations de restaurants et d''activités en famille.'
+  respuesta: 'Le prix comprend : accès au parcours autoguidé d''Alicante via l''application DareMapp, avec un code de référence envoyé après l''achat; audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; disponibilité 24 h/24, 365 jours par an, sans date d''expiration; et accès dans l''application à des recommandations de restaurants et d''activités en famille.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; attention toutefois à la montée vers le château de Santa Bárbara, qui est raide; Les animaux d''assistance sont acceptés.'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an. Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; attention toutefois à la montée vers le château de Santa Bárbara, qui est raide. Les animaux d''assistance sont acceptés.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au début du parcours; Billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
+  respuesta: 'Ne sont pas inclus : guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome), transport jusqu''au début du parcours et billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
 opinionEditorial: C'est une façon économique et flexible de découvrir le centre d'Alicante sans s'engager sur un horaire fixe. Avec plus de 10 arrêts, le parcours est plus court que ceux d'autres villes du catalogue, je le recommande donc en complément de vos propres balades plutôt que comme unique activité de la journée. Vous perdrez les anecdotes qu'apporte un guide en chair et en os, mais vous gagnerez une liberté totale.
 categoria: toursCiudad
 keywords:

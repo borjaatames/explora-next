@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Barca a vela privata con skipper; Carburante; Attrezzatura da snorkeling e 2 SUP.'
+  respuesta: 'Il prezzo include barca a vela privata con skipper, carburante e attrezzatura da snorkeling e 2 SUP.'
 opinionEditorial: Mezza giornata sulla propria barca a vela è il modo migliore di vedere le calette di Ibiza senza folla.
 atraccionesRelacionadas:
 - calas-barco

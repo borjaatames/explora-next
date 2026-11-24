@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Sin punto de encuentro: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Tarragona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ir a tu propio ritmo, sin horarios ni grupos; Elegir las paradas que quieras dentro de la ruta; Escuchar el audio cuando quieras, con opción de pausar y reanudar; Disponibilidad 24 horas al día, los 365 días del año; Recomendaciones de gastronomía y actividades familiares dentro de la app.'
+  respuesta: 'Incluye ir a tu propio ritmo, sin horarios ni grupos; elegir las paradas que quieras dentro de la ruta; escuchar el audio cuando quieras, con opción de pausar y reanudar; disponibilidad 24 horas al día, los 365 días del año; y recomendaciones de gastronomía y actividades familiares dentro de la app.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para toda la familia: edad mínima 1 año; App disponible en español, inglés, portugués, francés, italiano y alemán; Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio.'
+  respuesta: 'Apto para toda la familia: edad mínima 1 año. App disponible en español, inglés, portugués, francés, italiano y alemán. Compatible con silla de ruedas y cochecito de bebé; se permiten animales de servicio.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Guía físico (es una experiencia 100% autónoma, sin acompañante).'
+  respuesta: 'No incluye guía físico (es una experiencia 100% autónoma, sin acompañante).'
 opinionEditorial: 'Es la opción ideal si quieres moverte por Tarragona a tu aire, sin depender de horarios ni de un grupo: activas la ruta cuando te apetece y la sigues al ritmo que quieras. Lo que no vas a tener es la cercanía de un guía en vivo, ni sus anécdotas ni la posibilidad de preguntar sobre la marcha — si eso es lo que buscas, mejor un tour con guía físico. Para quien viaja en familia, va a su aire o prefiere explorar con calma, funciona muy bien.'
 categoria: toursCiudad
 keywords:

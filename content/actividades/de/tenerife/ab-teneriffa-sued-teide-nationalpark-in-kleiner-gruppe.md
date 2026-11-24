@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer vom Hotel; Persönliche Tour; Höchstens 8 Gäste; Bequeme Startzeit.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer vom Hotel, persönliche Tour, höchstens 8 Gäste und bequeme Startzeit.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Am Vortag kommt per WhatsApp die genaue Abholzeit; Abholung nur im Süden: Costa Adeje, Las Américas und Los Cristianos.'
+  respuesta: 'Am Vortag kommt per WhatsApp die genaue Abholzeit. Abholung nur im Süden: Costa Adeje, Las Américas und Los Cristianos.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Seilbahn; Essen, Getränke und Snacks.'
+  respuesta: 'Nicht inbegriffen: Seilbahn; und Essen, Getränke und Snacks.'
 categoria: excursionesDia
 keywords:
 - teide kleingruppe

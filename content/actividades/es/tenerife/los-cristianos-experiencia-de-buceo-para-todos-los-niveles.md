@@ -58,9 +58,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Instructor; Explicaciones y entrenamiento; Neopreno, gafas y aletas; Botella, regulador y chaleco; Ordenador de buceo y boya de superficie; Inmersión.'
+  respuesta: 'Incluye instructor; explicaciones y entrenamiento; neopreno, gafas y aletas; botella, regulador y chaleco; ordenador de buceo y boya de superficie; e inmersión.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Edad mínima 12 años; No vueles en las 12 a 24 horas siguientes a bucear; Hay que rellenar un cuestionario médico; algunas condiciones requieren certificado médico.'
+  respuesta: 'Edad mínima 12 años. No vueles en las 12 a 24 horas siguientes a bucear. Hay que rellenar un cuestionario médico; algunas condiciones requieren certificado médico.'
 categoria: agua
 keywords:
 - buceo los cristianos

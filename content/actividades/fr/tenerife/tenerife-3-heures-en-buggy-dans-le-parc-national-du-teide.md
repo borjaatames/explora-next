@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à l''hôtel (en supplément); Guide; Briefing de sécurité; Veste et gants.'
+  respuesta: 'Le prix comprend : prise en charge et retour à l''hôtel (en supplément), guide, briefing de sécurité et veste et gants.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'D''octobre à avril, prévoyez un pantalon long et un sweat; Les conducteurs doivent présenter un permis valide; Prix par buggy.'
+  respuesta: 'D''octobre à avril, prévoyez un pantalon long et un sweat. Les conducteurs doivent présenter un permis valide. Prix par buggy.'
 categoria: aventura
 keywords:
 - buggy teide

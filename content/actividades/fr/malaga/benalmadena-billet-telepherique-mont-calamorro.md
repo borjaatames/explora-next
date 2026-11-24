@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Gare de départ du téléphérique, Av. de Tívoli, Arroyo de la Miel (Benalmádena). À côté de Tívoli World. Train de banlieue (Cercanías) C1 jusqu''à Benalmádena-Arroyo de la Miel, puis 10 minutes à pied.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet de téléphérique.'
+  respuesta: 'Le prix comprend : billet de téléphérique.'
 opinionEditorial: La plus belle vue de la Costa del Sol pour moins de 20 €. Allez-y le matin, quand il y a moins de brume, et si vous aimez marcher, redescendez par l'un des sentiers.
 categoria: entradas
 keywords:

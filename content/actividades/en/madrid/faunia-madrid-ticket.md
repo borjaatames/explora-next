@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Faunia, Av. de las Comunidades, 28, Madrid. Metro line 9 to Valdebernardo, Cercanías C2 to Vicálvaro, or EMT bus 71 from Plaza de Manuel Becerra (stops at the park gate). By car, A-3 exit 6 (Valdebernardo) or M-40 exits 12/13.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day entry to Faunia.'
+  respuesta: 'The price includes full-day entry to Faunia.'
 opinionEditorial: Faunia is Madrid's underrated nature park — more educational and less crowded. The climate-controlled ecosystems are genuinely immersive, and the polar pavilion with six species of penguin is unforgettable.
 guiasRelacionadas:
 - madrid-with-kids

@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'C. La Ballena 10, Corralejo.'
 - pregunta: 'What is included?'
-  respuesta: 'Automatic buggy hire; Professional guide; Safety briefing.'
+  respuesta: 'The price includes automatic buggy hire, professional guide, and safety briefing.'
 categoria: aventura
 keywords:
 - buggy corralejo

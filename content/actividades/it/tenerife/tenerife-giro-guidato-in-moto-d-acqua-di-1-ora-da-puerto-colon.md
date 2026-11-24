@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tasse e commissioni; Guida.'
+  respuesta: 'Il prezzo include tasse e commissioni e guida.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Moto singola dai 16 anni con consenso scritto dei genitori; conducenti di moto doppia dai 18; Passeggeri dai 10 anni; Porta un documento d''identità con foto.'
+  respuesta: 'Moto singola dai 16 anni con consenso scritto dei genitori; conducenti di moto doppia dai 18. Passeggeri dai 10 anni. Porta un documento d''identità con foto.'
 categoria: agua
 keywords:
 - moto d'acqua 1 ora tenerife

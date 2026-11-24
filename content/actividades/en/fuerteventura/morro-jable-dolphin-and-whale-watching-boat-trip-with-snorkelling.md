@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: '2.5-hour boat trip; Experienced local crew; Snorkel stop (mask and snorkel); 1 soft drink or water; Optional hotel pick-up from Costa Calma, Esquinzo, Jandía and nearby.'
+  respuesta: 'The price includes 2.5-hour boat trip; experienced local crew; snorkel stop (mask and snorkel); 1 soft drink or water; and optional hotel pick-up from Costa Calma, Esquinzo, Jandía and nearby.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Departures at 10:00 or 12:30 from Morro Jable; Minimum age 12; Not suitable for people with reduced mobility.'
+  respuesta: 'Departures at 10:00 or 12:30 from Morro Jable. Minimum age 12. Not suitable for people with reduced mobility.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 h 30 min.'
+  respuesta: 'It lasts 2 h 30 min.'
 categoria: agua
 keywords:
 - dolphin watching morro jable

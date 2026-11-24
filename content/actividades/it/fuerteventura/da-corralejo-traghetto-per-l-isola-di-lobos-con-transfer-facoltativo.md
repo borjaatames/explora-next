@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Porto di Corralejo: cerca la barca per Lobos prima della partenza.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Biglietto del traghetto andata e ritorno; Prelievo e ritorno in hotel (se scelto).'
+  respuesta: 'Il prezzo include biglietto del traghetto andata e ritorno e prelievo e ritorno in hotel (se scelto).'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Il permesso d''accesso è gratuito e si chiede fino a 5 giorni prima; Non accessibile in sedia a rotelle.'
+  respuesta: 'Il permesso d''accesso è gratuito e si chiede fino a 5 giorni prima. Non accessibile in sedia a rotelle.'
 categoria: excursionesDia
 keywords:
 - traghetto lobos corralejo

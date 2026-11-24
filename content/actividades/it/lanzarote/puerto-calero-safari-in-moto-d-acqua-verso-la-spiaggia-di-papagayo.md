@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Pantalanes 2, Puerto Calero.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Escursione guidata di 1 ora con istruttore professionista; Assicurazione kasko; Carburante.'
+  respuesta: 'Il prezzo include escursione guidata di 1 ora con istruttore professionista, assicurazione kasko e carburante.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Conducenti dai 16 anni; Non adatto a donne in gravidanza; Massimo 110 kg.'
+  respuesta: 'Conducenti dai 16 anni. Non adatto a donne in gravidanza. Massimo 110 kg.'
 categoria: agua
 keywords:
 - moto d'acqua puerto calero

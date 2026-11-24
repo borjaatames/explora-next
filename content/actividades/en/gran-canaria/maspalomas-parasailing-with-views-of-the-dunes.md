@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Parasailing flight; Certified safety equipment; Briefing; Take-off and landing from the boat; Activity insurance; Crew assistance.'
+  respuesta: 'The price includes parasailing flight, certified safety equipment, briefing, take-off and landing from the boat, activity insurance, and crew assistance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 5, pregnant women or people with heart problems; Maximum 159 kg; Not suitable after recent surgery or for wheelchair users.'
+  respuesta: 'Not suitable for children under 5, pregnant women or people with heart problems. Maximum 159 kg. Not suitable after recent surgery or for wheelchair users.'
 - pregunta: 'How long does it last?'
-  respuesta: '1 hour.'
+  respuesta: 'It lasts 1 hour.'
 categoria: agua
 keywords:
 - parasailing maspalomas

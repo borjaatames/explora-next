@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transfer from and to your accommodation; Certified dive instructor; Private, personalised dive; Safety briefing and equipment explanation; Full diving equipment; Underwater photos and videos.'
+  respuesta: 'The price includes transfer from and to your accommodation; certified dive instructor; private, personalised dive; safety briefing and equipment explanation; full diving equipment; and underwater photos and videos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; Do not fly for 24 hours after diving.'
+  respuesta: 'Minimum age 8. Not suitable for pregnant women or people with heart problems. Do not fly for 24 hours after diving.'
 - pregunta: 'What is not included?'
-  respuesta: 'Personal dive insurance (required for certified divers; beginners are covered); Food and drinks.'
+  respuesta: 'The price does not include personal dive insurance (required for certified divers; beginners are covered) or food and drinks.'
 categoria: agua
 keywords:
 - private diving tenerife

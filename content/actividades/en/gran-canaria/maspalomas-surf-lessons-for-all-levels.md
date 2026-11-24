@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
 - pregunta: 'What is included?'
-  respuesta: 'Surfboard; Wetsuit; Water and fruit; Accident and liability insurance.'
+  respuesta: 'The price includes surfboard, wetsuit, water and fruit, and accident and liability insurance.'
 - pregunta: 'What is not included?'
-  respuesta: 'Hotel pick-up; Transport.'
+  respuesta: 'The price does not include hotel pick-up or transport.'
 categoria: agua
 keywords:
 - surf lesson maspalomas

@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Klimatisiertes Fahrzeug; Professioneller Guide; Besuch des Aloe-Vera-Zentrums; Stopp in einem traditionellen Weingut; Fotostopps an Sehenswürdigkeiten.'
+  respuesta: 'Im Preis inbegriffen: Klimatisiertes Fahrzeug, professioneller Guide, Besuch des Aloe-Vera-Zentrums, Stopp in einem traditionellen Weingut und Fotostopps an Sehenswürdigkeiten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht rollstuhlgerecht; Bequeme Kleidung und Schuhe tragen, Sonnencreme mitnehmen.'
+  respuesta: 'Nicht rollstuhlgerecht. Bequeme Kleidung und Schuhe tragen, Sonnencreme mitnehmen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen; Persönliche Ausgaben und Einkäufe.'
+  respuesta: 'Nicht inbegriffen: Mittagessen und persönliche Ausgaben und Einkäufe.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip inselrundfahrt

@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private electric tuk-tuk tour (up to 4 people per tuk-tuk); Headphone audio guide in 11 languages; Cold water, wifi and phone charging; Child booster seat.'
+  respuesta: 'The price includes private electric tuk-tuk tour (up to 4 people per tuk-tuk); headphone audio guide in 11 languages; cold water, wifi and phone charging; and child booster seat.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Arrive 10 minutes early; the tuk-tuk waits in the parking area opposite the Thyssen Museum; Minimum age 3; If there are more than 4 of you, book one tuk-tuk per group of 4.'
+  respuesta: 'Arrive 10 minutes early; the tuk-tuk waits in the parking area opposite the Thyssen Museum. Minimum age 3. If there are more than 4 of you, book one tuk-tuk per group of 4.'
 opinionEditorial: It combines Tuk Tuk Zero's two short routes into one. If you're short on time and want both Habsburg Madrid and the Bernabéu and Salamanca district, this is the one. For just one area, the shorter historic-centre route is cheaper. The booking is non-refundable.
 atraccionesRelacionadas:
 - bernabeu

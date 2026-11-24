@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transfert aller-retour depuis l''hôtel; Eau.'
+  respuesta: 'Le prix comprend : transfert aller-retour depuis l''hôtel et eau.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux personnes sujettes au vertige.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas.'
+  respuesta: 'Ne sont pas inclus : repas.'
 categoria: excursionesDia
 keywords:
 - tour de l'île fuerteventura

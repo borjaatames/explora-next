@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Prise en charge à votre hébergement à Madrid.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge à Madrid; Véhicule premium avec wifi et climatisation; Billets pour Santo Tomé, Santa María la Blanca et l''Alcázar de Ségovie; Dégustation ibérique avec boisson; Eau; Taxes.'
+  respuesta: 'Le prix comprend : prise en charge à Madrid; véhicule premium avec wifi et climatisation; billets pour Santo Tomé, Santa María la Blanca et l''Alcázar de Ségovie; dégustation ibérique avec boisson; eau; et taxes.'
 atraccionesRelacionadas:
 - toledo
 - segovia

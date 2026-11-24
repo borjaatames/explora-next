@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off from Los Cristianos to Playa Paraíso; Air-conditioned 9-seat van; Helmet and harness; Tandem flight (15–20 minutes); Instructor; 5 GoPro photos (ask for them before the flight).'
+  respuesta: 'The price includes pick-up and drop-off from Los Cristianos to Playa Paraíso, air-conditioned 9-seat van, helmet and harness, tandem flight (15–20 minutes), instructor, and 5 GoPro photos (ask for them before the flight).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Flights depend on the weather, which also decides the take-off area; Groups of more than 4 fly in two turns; Not for children under 4, during pregnancy or above 100 kg.'
+  respuesta: 'Flights depend on the weather, which also decides the take-off area. Groups of more than 4 fly in two turns. Not for children under 4, during pregnancy or above 100 kg.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink; All GoPro photos and videos (extra fee).'
+  respuesta: 'The price does not include food and drink or all GoPro photos and videos (extra fee).'
 categoria: aventura
 keywords:
 - paragliding taucho

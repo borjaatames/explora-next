@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private licensed guide; Skip-the-line Sagrada Familia ticket; Transport between the Gothic Quarter and Sagrada Familia.'
+  respuesta: 'The price includes private licensed guide, skip-the-line Sagrada Familia ticket, and transport between the Gothic Quarter and Sagrada Familia.'
 opinionEditorial: Medieval and Gaudí's Barcelona in one morning, with the transfer sorted. Very practical for a first day in the city.
 atraccionesRelacionadas:
 - sagrada-familia

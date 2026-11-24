@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, local 11, Playa de las Américas.'
 - pregunta: 'What is included?'
-  respuesta: 'Certified surf instructor; Board, wetsuit, reef booties and rash vest; Accident insurance; Lockers, toilets and showers; 20-minute theory class.'
+  respuesta: 'The price includes certified surf instructor; board, wetsuit, reef booties and rash vest; accident insurance; lockers, toilets and showers; and 20-minute theory class.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Lessons follow low tide, when conditions are best; Children under 13 join private or family lessons; You must be able to swim.'
+  respuesta: 'Lessons follow low tide, when conditions are best. Children under 13 join private or family lessons. You must be able to swim.'
 categoria: agua
 keywords:
 - surf lesson tenerife

@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Automatic two-seat Can-Am Trail buggy; Guide.'
+  respuesta: 'The price includes automatic two-seat Can-Am Trail buggy and guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Runs in any weather; Not for children under 7 or during pregnancy; Price per buggy for up to 2 people.'
+  respuesta: 'Runs in any weather. Not for children under 7 or during pregnancy. Price per buggy for up to 2 people.'
 categoria: aventura
 keywords:
 - buggy tour lanzarote

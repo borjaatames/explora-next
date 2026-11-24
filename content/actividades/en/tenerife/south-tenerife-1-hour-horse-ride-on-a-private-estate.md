@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
 - pregunta: 'What is included?'
-  respuesta: 'Ride guided by professional instructors; All equipment; Pony rides in a closed arena for children under 7.'
+  respuesta: 'The price includes ride guided by professional instructors, all equipment, and Pony rides in a closed arena for children under 7.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for pregnant women; Maximum 10 people per ride.'
+  respuesta: 'Not suitable for pregnant women. Maximum 10 people per ride.'
 categoria: aventura
 keywords:
 - horse riding south tenerife

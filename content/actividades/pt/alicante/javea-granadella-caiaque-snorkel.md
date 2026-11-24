@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Praia da Granadella, Jávea. A cerca de 20 minutos de carro do centro de Jávea. No verão, o acesso à enseada é condicionado: informe-se sobre como chegar ao reservar.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Caiaque e remo; Colete salva-vidas; Equipamento de snorkel; Guia.'
+  respuesta: 'O preço inclui caiaque e remo, colete salva-vidas, equipamento de snorkel e guia.'
 opinionEditorial: 'Uma das melhores manhãs de mar da Costa Blanca: falésias, grutas e água transparente. Vale a viagem a partir de Alicante.'
 categoria: agua
 keywords:

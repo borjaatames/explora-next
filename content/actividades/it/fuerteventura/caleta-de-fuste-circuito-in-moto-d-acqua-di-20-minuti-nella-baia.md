@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Moto d''acqua; Giubbotto salvagente; Istruttore.'
+  respuesta: 'Il prezzo include moto d''acqua, giubbotto salvagente e istruttore.'
 categoria: agua
 keywords:
 - moto d'acqua caleta de fuste

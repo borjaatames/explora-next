@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Ryker tour; Guide; Helmet; Windbreak goggles; Windbreaker.'
+  respuesta: 'The price includes Ryker tour, guide, helmet, windbreak goggles, and windbreaker.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 10 or pregnant women.'
 categoria: aventura

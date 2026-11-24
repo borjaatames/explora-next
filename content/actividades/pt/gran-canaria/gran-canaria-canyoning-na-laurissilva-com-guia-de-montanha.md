@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia de montanha certificado pela AEGM/UIMLA; Recolha e regresso ao hotel; Equipamento de canyoning; Foto de recordação.'
+  respuesta: 'O preço inclui guia de montanha certificado pela AEGM/UIMLA, recolha e regresso ao hotel, equipamento de canyoning e foto de recordação.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Cerca de 2 km de caminhada íngreme até ao barranco: é preciso boa forma e calçado resistente e impermeável; Não recomendado a menores de 12, maiores de 80, grávidas ou pessoas com medo das alturas.'
+  respuesta: 'Cerca de 2 km de caminhada íngreme até ao barranco: é preciso boa forma e calçado resistente e impermeável. Não recomendado a menores de 12, maiores de 80, grávidas ou pessoas com medo das alturas.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Comida e bebidas; Calçado impermeável.'
+  respuesta: 'O preço não inclui comida e bebidas nem calçado impermeável.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

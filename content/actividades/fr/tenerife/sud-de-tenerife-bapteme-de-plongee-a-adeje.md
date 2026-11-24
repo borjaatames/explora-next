@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'GF Isabel, Avenida de Moscú 2, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement complet : masque, combinaison, chaussons et palmes; Plongée de 45 minutes; Café d''accueil; Assurance plongée; Trajet jusqu''au site et retour au centre; Eau, fruits et en-cas.'
+  respuesta: 'Le prix comprend : équipement complet : masque, combinaison, chaussons et palmes; plongée de 45 minutes; café d''accueil; assurance plongée; trajet jusqu''au site et retour au centre; et eau, fruits et en-cas.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes, aux personnes épileptiques et aux plus de 70 ans; Ne pas prendre l''avion dans les 12 à 24 heures qui suivent la plongée.'
+  respuesta: 'Âge minimum 10 ans. Déconseillé aux femmes enceintes, aux personnes épileptiques et aux plus de 70 ans. Ne pas prendre l''avion dans les 12 à 24 heures qui suivent la plongée.'
 categoria: agua
 keywords:
 - baptême de plongée adeje

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Nortour, porto de Corralejo.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhetes de ferry de ida e volta para Lobos; Seguro de viagem obrigatório.'
+  respuesta: 'O preço inclui bilhetes de ferry de ida e volta para Lobos e seguro de viagem obrigatório.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Chegue pelo menos 20 minutos antes; o embarque fecha 10 minutos antes da saída; Leve água e comida: em Lobos não há lojas nem água potável; Escolha a opção com autorização se quiser subir à Caldera.'
+  respuesta: 'Chegue pelo menos 20 minutos antes; o embarque fecha 10 minutos antes da saída. Leve água e comida: em Lobos não há lojas nem água potável. Escolha a opção com autorização se quiser subir à Caldera.'
 categoria: excursionesDia
 keywords:
 - ferry ilha de lobos

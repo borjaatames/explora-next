@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en SUV 4x4 fermé (6 passagers max. + chauffeur); Explications dans votre langue; Prise en charge à l''hôtel dans le sud de l''île; Assurance responsabilité civile.'
+  respuesta: 'Le prix comprend : sortie en SUV 4x4 fermé (6 passagers max. + chauffeur), explications dans votre langue, prise en charge à l''hôtel dans le sud de l''île et assurance responsabilité civile.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé en cas de problèmes de dos; Présentez votre confirmation, imprimée ou sur téléphone.'
+  respuesta: 'Déconseillé en cas de problèmes de dos. Présentez votre confirmation, imprimée ou sur téléphone.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas.'
+  respuesta: 'Ne sont pas inclus : repas.'
 categoria: excursionesDia
 keywords:
 - 4x4 nord fuerteventura

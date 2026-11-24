@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt vor Ort: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst – wann und wo in Cádiz du willst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zugang zur selbstgeführten Route durch Cádiz über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, jederzeit pausieren und fortsetzen; Verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; Tipps für Essen und Familienaktivitäten direkt in der App.'
+  respuesta: 'Im Preis inbegriffen: Zugang zur selbstgeführten Route durch Cádiz über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); volle Freiheit bei Tempo und Stopps, jederzeit pausieren und fortsetzen; verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; und Tipps für Essen und Familienaktivitäten direkt in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Geeignet für Rollstühle und Kinderwagen, da du die Route in deinem eigenen Tempo gehst; die Altstadt ist fast eben und leicht zu Fuß zu erkunden; Assistenztiere sind willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. Geeignet für Rollstühle und Kinderwagen, da du die Route in deinem eigenen Tempo gehst; die Altstadt ist fast eben und leicht zu Fuß zu erkunden. Assistenztiere sind willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Ein Guide oder eine Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Start der Route; Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
+  respuesta: 'Nicht inbegriffen: ein Guide oder eine Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Start der Route; und Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: 'Cádiz ist eine kompakte, angenehme Stadt zum Spazierengehen, daher passt das selbstgeführte Format gut: Du kannst an jedem Platz und jeder Kirche verweilen, ohne das Gefühl zu haben, eine Gruppe aufzuhalten. Mit 2 Routen und über 25 Stationen deckt die Tour viel mehr ab als nur die klassische Altstadt. Ideal für Familien und Individualreisende; wenn du die Geschichte von einem echten Menschen erzählt bekommen möchtest, ist das nicht das richtige Produkt.'
 categoria: toursCiudad
 keywords:

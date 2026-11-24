@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en voilier avec skipper; Boissons (cava, bière, sodas) et tapas; Matériel de snorkeling; Enceinte Bluetooth pour votre musique.'
+  respuesta: 'Le prix comprend : sortie en voilier avec skipper; boissons (cava, bière, sodas) et tapas; matériel de snorkeling; et enceinte Bluetooth pour votre musique.'
 categoria: agua
 keywords:
 - "voilier barcelone"

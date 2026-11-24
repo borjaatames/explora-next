@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Plaza de Zocodover, Toledo.'
 - pregunta: 'What is included?'
-  respuesta: 'Private official guide; Monument tickets; Support from a travel agent.'
+  respuesta: 'The price includes private official guide, monument tickets, and support from a travel agent.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Aparcamiento gratuito del centro comercial X-Sur, Calle Lisboa 2, Costa Adeje, a las 08:20.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Conductor; Travesía en ferry; Almuerzo.'
+  respuesta: 'Incluye conductor, travesía en ferry y almuerzo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Lleva el DNI o pasaporte original para el ferry.'
 categoria: excursionesDia

@@ -74,7 +74,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Alcudiamar (parking de la marina), Alcúdia. Départ de la marina Alcudiamar à Alcúdia. Il existe une option avec prise en charge et retour à l''hôtel : si vous la choisissez, l''heure figure sur votre bon.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Bateau semi-privé avec capitaine (12 personnes maximum); Carburant et taxes; Au moins 30 minutes avec les dauphins; Côte, falaises et grottes; Baignade à la plage de Coll Baix; Prise en charge et retour à l''hôtel (si cette option est choisie).'
+  respuesta: 'Le prix comprend : bateau semi-privé avec capitaine (12 personnes maximum); carburant et taxes; au moins 30 minutes avec les dauphins; côte, falaises et grottes; baignade à la plage de Coll Baix; et prise en charge et retour à l''hôtel (si cette option est choisie).'
 opinionEditorial: La sortie dauphins la mieux notée de Majorque, avec des milliers d'avis et de petits groupes. Elle vaut le réveil matinal.
 guiasRelacionadas:
 - majorque-avec-des-enfants

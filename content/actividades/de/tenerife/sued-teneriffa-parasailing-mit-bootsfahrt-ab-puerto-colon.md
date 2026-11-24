@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Parascending Tenerife, Steg 4, Puerto Colón, Costa Adeje.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Parasailing-Flug; Ausrüstung; Bootsfahrt; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Parasailing-Flug, Ausrüstung, Bootsfahrt und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Schwangere oder Rollstuhlfahrer.'
 categoria: agua

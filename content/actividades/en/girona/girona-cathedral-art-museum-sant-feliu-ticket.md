@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Exchange your voucher at the Art Museum reception, next to the cathedral steps.'
 - pregunta: 'What is included?'
-  respuesta: 'Entry to the cathedral and its treasury; Entry to the Basilica of Sant Feliu; Entry to the Art Museum; Cathedral audio guide.'
+  respuesta: 'The price includes entry to the cathedral and its treasury, entry to the Basilica of Sant Feliu, entry to the Art Museum, and Cathedral audio guide.'
 opinionEditorial: The essentials of Girona's old town on a single ticket for €12. The cathedral nave and the Tapestry of Creation alone justify the price.
 guiasRelacionadas:
 - what-to-see-in-girona-in-one-day

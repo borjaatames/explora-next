@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Bodegas Rubicón, Carretera Teguise–Yaiza 2, La Geria.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía local titulado, experto en paisaje, historia y vino; Ruta circular por el paisaje protegido de La Geria; Visita a Bodegas Rubicón con cata de un vino local; Seguro de responsabilidad civil y accidentes.'
+  respuesta: 'Incluye guía local titulado, experto en paisaje, historia y vino; ruta circular por el paisaje protegido de La Geria; visita a Bodegas Rubicón con cata de un vino local; y seguro de responsabilidad civil y accidentes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 10 años ni personas con problemas de espalda, corazón o movilidad.'
 categoria: toursGastronomicos

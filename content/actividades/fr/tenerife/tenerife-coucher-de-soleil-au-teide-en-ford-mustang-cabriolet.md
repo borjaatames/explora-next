@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Apéritif et collation; Boisson; Transport depuis l''hôtel.'
+  respuesta: 'Le prix comprend : apéritif et collation, boisson et transport depuis l''hôtel.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Permis B depuis au moins 1 an obligatoire ; permis provisoire ou papier de remplacement refusés; Déconseillé si vous avez plongé dans les 24 heures précédentes.'
+  respuesta: 'Permis B depuis au moins 1 an obligatoire ; permis provisoire ou papier de remplacement refusés. Déconseillé si vous avez plongé dans les 24 heures précédentes.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Photos; Vestes et manteaux.'
+  respuesta: 'Ne sont pas inclus : photos et vestes et manteaux.'
 categoria: aventura
 keywords:
 - mustang teide

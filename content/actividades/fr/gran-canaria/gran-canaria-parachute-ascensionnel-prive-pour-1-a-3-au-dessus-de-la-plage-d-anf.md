@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Calle Anfi del Mar 2, Mogán.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Toutes taxes; Assurance; Gilet de sauvetage.'
+  respuesta: 'Le prix comprend : toutes taxes, assurance et gilet de sauvetage.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Poids total maximum 200 kg.'
 categoria: agua

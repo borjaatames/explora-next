@@ -63,9 +63,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'C. el Coronel 8, Los Cristianos.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia profissional; Caiaque e remo; Colete salva-vidas; Equipamento de snorkel; Fotos grátis.'
+  respuesta: 'O preço inclui guia profissional, caiaque e remo, colete salva-vidas, equipamento de snorkel e fotos grátis.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Os passeios são sobretudo em inglês; outras línguas conforme o pessoal disponível; É preciso saber nadar.'
+  respuesta: 'Os passeios são sobretudo em inglês; outras línguas conforme o pessoal disponível. É preciso saber nadar.'
 categoria: agua
 keywords:
 - caiaque los cristianos

@@ -47,13 +47,13 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Transporte até ao ferry e regresso ao ponto de recolha; Bilhete de ferry de ida e volta; 5 horas de tempo livre em Fuerteventura.'
+  respuesta: 'O preço inclui transporte até ao ferry e regresso ao ponto de recolha, bilhete de ferry de ida e volta e 5 horas de tempo livre em Fuerteventura.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'O tempo de autocarro depende da localização do hotel; Os táxis não estão incluídos; Não recomendado a pessoas com mobilidade reduzida.'
+  respuesta: 'O tempo de autocarro depende da localização do hotel. Os táxis não estão incluídos. Não recomendado a pessoas com mobilidade reduzida.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Almoço; Bebidas; Guia; Autocarro ou táxi em Corralejo.'
+  respuesta: 'O preço não inclui almoço, bebidas, guia nem autocarro ou táxi em Corralejo.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '9 horas.'
+  respuesta: 'Dura 9 horas.'
 categoria: excursionesDia
 keywords:
 - excursao fuerteventura de lanzarote

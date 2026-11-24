@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Quad and protective gear; Guide; Refreshments; Pick-up.'
+  respuesta: 'The price includes quad and protective gear, guide, refreshments, and pick-up.'
 - pregunta: 'What is not included?'
-  respuesta: 'Photos; Security deposit or extra insurance.'
+  respuesta: 'The price does not include photos or security deposit or extra insurance.'
 - pregunta: 'How long does it last?'
-  respuesta: '3 hours.'
+  respuesta: 'It lasts 3 hours.'
 categoria: aventura
 keywords:
 - guided quad tour teide

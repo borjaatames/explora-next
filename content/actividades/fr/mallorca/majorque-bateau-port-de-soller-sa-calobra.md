@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Port de Sóller, Majorque. Le port de Sóller est à 30 km au nord de Palma par la route de montagne Ma-11. En transports en commun, prenez le train en bois de Palma à Sóller (l''un des trajets les plus pittoresques de Majorque), puis le tramway jusqu''au port. Confirmez le point de départ exact avec l''opérateur indiqué sur votre bon.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Excursion en bateau aller-retour de Sóller à Sa Calobra; Temps libre à Sa Calobra pour la balade dans les gorges.'
+  respuesta: 'Le prix comprend : excursion en bateau aller-retour de Sóller à Sa Calobra et temps libre à Sa Calobra pour la balade dans les gorges.'
 opinionEditorial: "Sa Calobra en bateau depuis Sóller est l'une des plus belles expériences de Majorque : le paysage côtier vaut à lui seul le déplacement, et la balade dans les gorges à l'arrivée la rend inoubliable. Ne prenez pas la route à la place : l'approche en bateau n'a rien à voir."
 guiasRelacionadas:
 - serra-tramuntana-soller

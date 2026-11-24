@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso ao hotel nas zonas turísticas do sul; Equipamento de mergulho; Seguro de acidentes de mergulho.'
+  respuesta: 'O preço inclui recolha e regresso ao hotel nas zonas turísticas do sul, equipamento de mergulho e seguro de acidentes de mergulho.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'É preciso preencher um questionário médico antes de mergulhar; Com asma, epilepsia, diabetes, hipertensão ou doenças cardíacas precisa de autorização médica; Idade mínima: 10 anos.'
+  respuesta: 'É preciso preencher um questionário médico antes de mergulhar. Com asma, epilepsia, diabetes, hipertensão ou doenças cardíacas precisa de autorização médica. Idade mínima: 10 anos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Aluguer de GoPro (20 € por câmara).'
+  respuesta: 'O preço não inclui aluguer de GoPro (20 € por câmara).'
 categoria: agua
 keywords:
 - batismo de mergulho gran canaria

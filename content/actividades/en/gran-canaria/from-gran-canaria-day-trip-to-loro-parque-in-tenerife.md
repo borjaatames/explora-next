@@ -44,13 +44,13 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off at hotels in the south of Gran Canaria; Boat from Agaete to Santa Cruz de Tenerife; Coach from Santa Cruz to Loro Parque; Loro Parque entry.'
+  respuesta: 'The price includes pick-up and drop-off at hotels in the south of Gran Canaria, boat from Agaete to Santa Cruz de Tenerife, coach from Santa Cruz to Loro Parque, and Loro Parque entry.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Bring your ID card or passport: you can''t travel without it; Not suitable for people with reduced mobility.'
+  respuesta: 'Bring your ID card or passport: you can''t travel without it. Not suitable for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink.'
+  respuesta: 'The price does not include food and drink.'
 - pregunta: 'How long does it last?'
-  respuesta: '12 hours.'
+  respuesta: 'It lasts 12 hours.'
 categoria: parques
 keywords:
 - loro parque from gran canaria

@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off at hotels in the south of Tenerife; Loro Parque entry; Transfers.'
+  respuesta: 'The price includes pick-up and drop-off at hotels in the south of Tenerife, Loro Parque entry, and transfers.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Pick-up only in the south of the island; Tickets are handed out on the coach: you must use the transfer to get in.'
+  respuesta: 'Pick-up only in the south of the island. Tickets are handed out on the coach: you must use the transfer to get in.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch.'
+  respuesta: 'The price does not include lunch.'
 categoria: parques
 keywords:
 - loro parque transfer

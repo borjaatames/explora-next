@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guide; Air-conditioned coach; Driver; Pick-up at your hotel or the nearest point; Liability insurance.'
+  respuesta: 'The price includes guide, air-conditioned coach, driver, pick-up at your hotel or the nearest point, and liability insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Pick-up in Mogán, Taurito, Puerto Rico, Anfi, Patalavaca, Maspalomas, Playa del Inglés, San Agustín and Bahía Feliz; none in Las Palmas.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch.'
+  respuesta: 'The price does not include lunch.'
 categoria: excursionesDia
 keywords:
 - gran canaria coach tour

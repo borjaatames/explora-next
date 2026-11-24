@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Palacio de Viana, plaza de Don Gome 2, Córdoba. En el barrio de Santa Marina, a unos 20 minutos a pie de la Mezquita.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada a los patios y el jardín.'
+  respuesta: 'Incluye entrada a los patios y el jardín.'
 opinionEditorial: 'Doce patios por 9 €: si no vas a Córdoba en mayo, es la mejor manera de entender por qué los patios son Patrimonio Inmaterial.'
 guiasRelacionadas:
 - patios-de-cordoba

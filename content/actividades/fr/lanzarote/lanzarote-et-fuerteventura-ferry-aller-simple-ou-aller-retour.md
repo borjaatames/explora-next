@@ -48,13 +48,13 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet de ferry aller simple ou aller-retour (selon l''option); Embarquement prioritaire; Bagages gratuits jusqu''à 20 kg par personne; Planche de surf ou vélo sans supplément; Animaux gratuits dans le salon ou sur le pont.'
+  respuesta: 'Le prix comprend : billet de ferry aller simple ou aller-retour (selon l''option), embarquement prioritaire, bagages gratuits jusqu''à 20 kg par personne, planche de surf ou vélo sans supplément et animaux gratuits dans le salon ou sur le pont.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les cartes d''embarquement arrivent par e-mail (vérifiez les spams); Avec un aller-retour, le retour peut se faire un autre jour; Les horaires peuvent changer selon la météo : remboursement ou nouvel horaire.'
+  respuesta: 'Les cartes d''embarquement arrivent par e-mail (vérifiez les spams). Avec un aller-retour, le retour peut se faire un autre jour. Les horaires peuvent changer selon la météo : remboursement ou nouvel horaire.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons; Prise en charge et retour; Transport de voiture.'
+  respuesta: 'Ne sont pas inclus : repas et boissons, prise en charge et retour et transport de voiture.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '30 min.'
+  respuesta: 'L''activité dure 30 min.'
 categoria: excursionesDia
 keywords:
 - ferry lanzarote fuerteventura

@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Stadtführung; Lokaler Guide auf Deutsch.'
+  respuesta: 'Im Preis inbegriffen: Stadtführung und lokaler Guide auf Deutsch.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-an-einem-tag

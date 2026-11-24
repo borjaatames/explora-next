@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, local E2, Maspalomas.'
 - pregunta: 'What is included?'
-  respuesta: 'All surf gear: board, leash, wetsuit top and shorts or long wetsuit; Surf instruction; Fruit and water; Photos of you surfing; 10% off in the shop; Third-party accident insurance.'
+  respuesta: 'The price includes all surf gear: board, leash, wetsuit top and shorts or long wetsuit; surf instruction; fruit and water; photos of you surfing; 10% off in the shop; and third-party accident insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Surf days depend heavily on conditions; Not for children under 8, non-swimmers or above 110 kg.'
+  respuesta: 'Surf days depend heavily on conditions. Not for children under 8, non-swimmers or above 110 kg.'
 categoria: agua
 keywords:
 - surf lesson playa del ingles

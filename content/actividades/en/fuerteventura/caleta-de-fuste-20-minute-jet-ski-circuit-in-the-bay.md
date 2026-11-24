@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Jet ski; Life jacket; Instructor.'
+  respuesta: 'The price includes jet ski, life jacket, and instructor.'
 categoria: agua
 keywords:
 - jet ski caleta de fuste

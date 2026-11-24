@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: busca el Spirit of the Sea.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Excursión de 2,5 horas en catamarán; Tripulación profesional; Refrescos y agua; Recogida opcional en San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores y Playa del Cura.'
+  respuesta: 'Incluye excursión de 2,5 horas en catamarán; tripulación profesional; refrescos y agua; y recogida opcional en San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores y Playa del Cura.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El barco puede balancearse incluso parado: toma algo para el mareo antes si lo necesitas; Sin avistamiento = bono gratis válido un año.'
+  respuesta: 'El barco puede balancearse incluso parado: toma algo para el mareo antes si lo necesitas. Sin avistamiento = bono gratis válido un año.'
 categoria: agua
 keywords:
 - avistamiento delfines gran canaria

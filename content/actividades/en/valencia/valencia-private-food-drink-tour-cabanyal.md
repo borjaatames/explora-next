@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide for 3 hours; Tastings at 4 stops; Three drinks per person; Churros with chocolate.'
+  respuesta: 'The price includes private guide for 3 hours, tastings at 4 stops, three drinks per person, and churros with chocolate.'
 opinionEditorial: El Cabanyal is Valencia's tastiest neighbourhood and off the tourist circuit; a local guide gets you into places you wouldn't find alone.
 atraccionesRelacionadas:
 - gastronomia

@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Kayak et gilet de sauvetage; Sac étanche et matériel de snorkeling; Photos de l''activité.'
+  respuesta: 'Le prix comprend : kayak et gilet de sauvetage, sac étanche et matériel de snorkeling et photos de l''activité.'
 categoria: agua
 keywords:
 - "kayak maro cerro gordo"

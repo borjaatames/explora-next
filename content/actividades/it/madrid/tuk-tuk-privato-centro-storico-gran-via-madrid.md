@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tour privato in tuk-tuk elettrico (fino a 4 persone per tuk-tuk); Audioguida con cuffie in 11 lingue; Acqua fresca, wifi e ricarica del telefono; Seggiolino rialzato per bambini.'
+  respuesta: 'Il prezzo include tour privato in tuk-tuk elettrico (fino a 4 persone per tuk-tuk); audioguida con cuffie in 11 lingue; acqua fresca, wifi e ricarica del telefono; e seggiolino rialzato per bambini.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Arriva 10 minuti prima; il tuk-tuk aspetta nell''area di sosta di fronte al Museo Thyssen; Età minima 3 anni; Se siete più di 4, prenota un tuk-tuk per ogni gruppo di 4.'
+  respuesta: 'Arriva 10 minuti prima; il tuk-tuk aspetta nell''area di sosta di fronte al Museo Thyssen. Età minima 3 anni. Se siete più di 4, prenota un tuk-tuk per ogni gruppo di 4.'
 opinionEditorial: 'È il percorso breve più completo di Tuk Tuk Zero per una prima visita: copre gran parte della Madrid da cartolina in poco più di un''ora. Tieni presente che il commento arriva tramite cuffie e non da una guida dal vivo, e che la prenotazione non si può cancellare.'
 atraccionesRelacionadas:
 - tuk-tuk

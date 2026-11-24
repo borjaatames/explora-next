@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Hípica Xanadú, Camino Los Gorones 10, Arona.'
 - pregunta: 'What is included?'
-  respuesta: '1- or 2-hour ride (depending on option); Instructor; Helmet.'
+  respuesta: 'The price includes 1- or 2-hour ride (depending on option), instructor, and helmet.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The instructor speaks some English; Spanish is their first language; Not for children under 6 or riders over 91 kg; Small centre: your time may change if the slot is full.'
+  respuesta: 'The instructor speaks some English; Spanish is their first language. Not for children under 6 or riders over 91 kg. Small centre: your time may change if the slot is full.'
 categoria: aventura
 keywords:
 - horse riding tenerife

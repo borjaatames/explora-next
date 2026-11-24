@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: '1 hora de voo de balão; Taça de cava; Fotos e vídeos do voo; Certificado de voo; Seguro.'
+  respuesta: 'O preço inclui 1 hora de voo de balão, taça de cava, fotos e vídeos do voo, certificado de voo e seguro.'
 categoria: aventura
 guiasRelacionadas:
 - o-que-ver-em-maiorca

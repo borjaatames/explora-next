@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Estación base del teleférico, Av. de Tívoli, Arroyo de la Miel (Benalmádena). Junto a Tívoli World. Cercanías C1 hasta Benalmádena-Arroyo de la Miel y 10 minutos a pie.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Billete del teleférico.'
+  respuesta: 'Incluye billete del teleférico.'
 opinionEditorial: La mejor vista de la Costa del Sol por menos de 20 €. Ve por la mañana, que hay menos calima, y si te gusta andar, baja por uno de los senderos.
 guiasRelacionadas:
 - malaga-con-ninos

@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'All diving equipment; Dive insurance; Hotel pick-up and drop-off; Guidance and instruction from a qualified team member; Discount on further courses.'
+  respuesta: 'The price includes all diving equipment, dive insurance, hotel pick-up and drop-off, guidance and instruction from a qualified team member, and discount on further courses.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 10; Not suitable for pregnant women; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+  respuesta: 'Minimum age 10. Not suitable for pregnant women. A medical questionnaire is required; some conditions need a doctor''s certificate.'
 - pregunta: 'What is not included?'
-  respuesta: 'Personal mouthpiece (€4); Underwater photography (€34).'
+  respuesta: 'The price does not include personal mouthpiece (€4) or underwater photography (€34).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

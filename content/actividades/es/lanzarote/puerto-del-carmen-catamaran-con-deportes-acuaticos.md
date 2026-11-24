@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en catamarán; Paddle surf y kayak; Banana y donut; Equipo de esnórquel; Aperitivos; Refrescos, agua, sangría y cerveza.'
+  respuesta: 'Incluye paseo en catamarán; paddle surf y kayak; banana y donut; equipo de esnórquel; aperitivos; y refrescos, agua, sangría y cerveza.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Punto de encuentro en la entrada del puerto, frente a la gasolinera; Puede cancelarse si hay mala mar.'
+  respuesta: 'Punto de encuentro en la entrada del puerto, frente a la gasolinera. Puede cancelarse si hay mala mar.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida y regreso al hotel.'
+  respuesta: 'No incluye recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - catamaran puerto del carmen

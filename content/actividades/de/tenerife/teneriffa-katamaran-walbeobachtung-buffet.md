@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Hafen im Süden Teneriffas (Gegend Costa Adeje). Wird auf dem Gutschein bestätigt. Der genaue Abfahrtshafen steht auf deinem Buchungsgutschein. Der Ausflug startet an der Südküste Teneriffas. Rechne 15 Minuten von Las Américas oder Los Cristianos zum Hafen.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ganztägiger Katamaranausflug (5-6 Stunden); Buffet-Mittagessen an Bord; Badestopp; Wal- und Delfinbeobachtung.'
+  respuesta: 'Im Preis inbegriffen: Ganztägiger Katamaranausflug (5-6 Stunden), Buffet-Mittagessen an Bord, Badestopp und Wal- und Delfinbeobachtung.'
 opinionEditorial: Wenn du auf Teneriffa Wale beobachten willst, dann richtig. Der ganze Tag, das Buffet und die zusätzliche Zeit auf dem Wasser ergeben die beste Version dieses Erlebnisses. Besser bewertet als jede andere Walbeobachtung auf der Insel.
 guiasRelacionadas:
 - walbeobachtung-teneriffa

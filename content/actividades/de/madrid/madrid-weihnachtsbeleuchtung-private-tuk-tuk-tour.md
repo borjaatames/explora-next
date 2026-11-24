@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; Kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; Kindersitzerhöhung.'
+  respuesta: 'Im Preis inbegriffen: private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; und Kindersitzerhöhung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen; Mindestalter 3 Jahre; Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
+  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen. Mindestalter 3 Jahre. Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
 opinionEditorial: Die Weihnachtsbeleuchtung im Tuk-Tuk zu sehen erspart dir das Gedränge zu Fuß rund um Sol und Gran Vía und deckt an einem Abend mehrere Viertel ab. Die Tour gibt es nur in der Weihnachtszeit und die Buchung ist nicht erstattungsfähig; zieh dich warm an, denn das Tuk-Tuk ist an den Seiten offen.
 atraccionesRelacionadas:
 - tuk-tuk

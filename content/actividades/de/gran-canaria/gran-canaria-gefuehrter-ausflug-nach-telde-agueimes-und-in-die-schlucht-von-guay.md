@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Hoteltransfer hin und zurück; Bustransport; Lokaler Guide; Eintritt und Besuch einer Aloe-vera-Farm; Tapas in einem typischen kanarischen Restaurant; Reiseversicherung.'
+  respuesta: 'Im Preis inbegriffen: Hoteltransfer hin und zurück, Bustransport, lokaler Guide, Eintritt und Besuch einer Aloe-vera-Farm, Tapas in einem typischen kanarischen Restaurant und Reiseversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Menschen mit eingeschränkter Mobilität.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Getränke.'
+  respuesta: 'Nicht inbegriffen: Getränke.'
 categoria: excursionesDia
 keywords:
 - guayadeque ausflug

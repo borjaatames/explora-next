@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Fun Teide Quad, estrada TF-51 km 10,75, La Escalona. Chegue 30 minutos antes; atrasos não são reembolsados.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Capacete e luvas.'
+  respuesta: 'O preço inclui capacete e luvas.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'É obrigatória a carta de condução física (não se aceitam fotos); licença internacional para residentes fora da Europa; Condutores com 18 anos ou mais; Máximo 150 kg por moto quatro; 2 bilhetes = 1 moto quatro dupla.'
+  respuesta: 'É obrigatória a carta de condução física (não se aceitam fotos); licença internacional para residentes fora da Europa. Condutores com 18 anos ou mais. Máximo 150 kg por moto quatro; 2 bilhetes = 1 moto quatro dupla.'
 categoria: aventura
 keywords:
 - moto quatro teide por do sol

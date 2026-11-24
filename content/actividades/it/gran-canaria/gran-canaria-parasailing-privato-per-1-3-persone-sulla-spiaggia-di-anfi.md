@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Anfi del Mar 2, Mogán.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tutte le tasse; Assicurazione; Giubbotto salvagente.'
+  respuesta: 'Il prezzo include tutte le tasse, assicurazione e giubbotto salvagente.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Peso complessivo massimo 200 kg.'
 categoria: agua

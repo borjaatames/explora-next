@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado durante 3 horas; Degustaciones en 5 paradas; Tres bebidas (con o sin alcohol).'
+  respuesta: 'Incluye guía privado durante 3 horas, degustaciones en 5 paradas y tres bebidas (con o sin alcohol).'
 opinionEditorial: Un recorrido gastronómico bien pensado por el Gótico, con paradas variadas y sin prisas. En privado se adapta a gustos y alergias.
 atraccionesRelacionadas:
 - tapas-barcelona

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel (con coste); Guía; Charla de seguridad; Chaqueta y guantes.'
+  respuesta: 'Incluye recogida y regreso al hotel (con coste), guía, charla de seguridad y chaqueta y guantes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'De octubre a abril lleva pantalón largo y sudadera; Los conductores deben mostrar un carné válido; Precio por buggy.'
+  respuesta: 'De octubre a abril lleva pantalón largo y sudadera. Los conductores deben mostrar un carné válido. Precio por buggy.'
 categoria: aventura
 keywords:
 - buggy teide

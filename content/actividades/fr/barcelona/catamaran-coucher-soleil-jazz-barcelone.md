@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Balade en catamaran au coucher du soleil; Jazz en direct.'
+  respuesta: 'Le prix comprend : balade en catamaran au coucher du soleil et jazz en direct.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

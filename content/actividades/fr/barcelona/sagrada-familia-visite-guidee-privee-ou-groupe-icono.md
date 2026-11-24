@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet d''entrée rapide; Visite d''1 h 30 avec guide officiel; Écouteurs pour les groupes de plus de 15.'
+  respuesta: 'Le prix comprend : billet d''entrée rapide, visite d''1 h 30 avec guide officiel et écouteurs pour les groupes de plus de 15.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - sagrada-familia-billets-epuises

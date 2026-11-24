@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide local professionnel; Visite extérieure de la Sagrada Família; Dégustation de turrón; Balade sur le Passeig de Gràcia et dans le quartier gothique.'
+  respuesta: 'Le prix comprend : guide local professionnel, visite extérieure de la Sagrada Família, dégustation de turrón et balade sur le Passeig de Gràcia et dans le quartier gothique.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

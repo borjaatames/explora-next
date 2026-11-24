@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transfer from Puerto Calero, Puerto del Carmen, Arrecife and Costa Teguise; Lunch on board with open bar (sangria, beer, soft drinks, water); Entry to LagOmar; Entry to the Mirador del Río; Free time on La Graciosa; Return ferry to La Graciosa with wifi.'
+  respuesta: 'The price includes transfer from Puerto Calero, Puerto del Carmen, Arrecife and Costa Teguise; lunch on board with open bar (sangria, beer, soft drinks, water); entry to LagOmar; entry to the Mirador del Río; free time on La Graciosa; and return ferry to La Graciosa with wifi.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Coeliac and vegetarian meals on request; The itinerary may change with the weather.'
+  respuesta: 'Coeliac and vegetarian meals on request. The itinerary may change with the weather.'
 - pregunta: 'How long does it last?'
-  respuesta: '8 hours.'
+  respuesta: 'It lasts 8 hours.'
 categoria: excursionesDia
 keywords:
 - north lanzarote tour

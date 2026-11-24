@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'L''Aquàrium de Barcelona, Moll d''Espanya del Port Vell, Barcelona. The aquarium is at Port Vell, a 10-minute walk from Las Ramblas or the Columbus monument. Metro line 3 to Drassanes, or line 4 to Barceloneta.'
 - pregunta: 'What is included?'
-  respuesta: 'Full aquarium entry.'
+  respuesta: 'The price includes full aquarium entry.'
 opinionEditorial: Barcelona's aquarium is strong on atmosphere — the 80-metre shark tunnel is genuinely impressive — though the overall collection is smaller than Valencia's Oceanogràfic. Worth it for the tunnel experience alone.
 guiasRelacionadas:
 - barcelona-with-kids

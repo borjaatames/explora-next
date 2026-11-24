@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: el barco rojo de Obycat al final del muelle.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado hotel–puerto–hotel; Almuerzo: paella, ensalada y papas arrugadas; Bebida ilimitada; Fruta de temporada; Esnórquel (gafas y tubos); Camas balinesas y solárium flotante.'
+  respuesta: 'Incluye traslado hotel–puerto–hotel; almuerzo: paella, ensalada y papas arrugadas; bebida ilimitada; fruta de temporada; esnórquel (gafas y tubos); y camas balinesas y solárium flotante.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos.'
+  respuesta: 'No incluye fotos.'
 categoria: agua
 keywords:
 - catamaran gran canaria todo incluido

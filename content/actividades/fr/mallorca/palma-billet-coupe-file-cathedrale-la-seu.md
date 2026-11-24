@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Cathédrale de Palma, Plaça de la Seu, Palma de Majorque. La cathédrale se trouve dans la vieille ville de Palma, face au Parc de la Mar. Venez à pied depuis le centre (15 minutes depuis le Passeig del Born) ou en bus. Présentez votre billet sur mobile à l''entrée.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée coupe-file à la cathédrale et au musée.'
+  respuesta: 'Le prix comprend : entrée coupe-file à la cathédrale et au musée.'
 opinionEditorial: 'La cathédrale de Palma compte parmi les grands monuments gothiques d''Europe et c''est la première chose que Majorque vous montre depuis le ferry ou l''avion. Évitez la file : la cathédrale se remplit vite en été, et l''expérience à l''intérieur mérite d''être préservée.'
 guiasRelacionadas:
 - que-voir-a-majorque

@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasferimento da e per il tuo alloggio; Istruttore subacqueo certificato; Immersione privata e personalizzata; Briefing di sicurezza e spiegazione dell''attrezzatura; Attrezzatura completa; Foto e video subacquei.'
+  respuesta: 'Il prezzo include trasferimento da e per il tuo alloggio, istruttore subacqueo certificato, immersione privata e personalizzata, briefing di sicurezza e spiegazione dell''attrezzatura, attrezzatura completa e foto e video subacquei.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 8 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci; Non volare nelle 24 ore successive.'
+  respuesta: 'Età minima 8 anni. Non adatto a donne in gravidanza o persone con problemi cardiaci. Non volare nelle 24 ore successive.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Assicurazione subacquea personale (obbligatoria per i brevettati; i principianti sono coperti); Cibo e bevande.'
+  respuesta: 'Il prezzo non include assicurazione subacquea personale (obbligatoria per i brevettati; i principianti sono coperti) né cibo e bevande.'
 categoria: agua
 keywords:
 - immersione privata tenerife

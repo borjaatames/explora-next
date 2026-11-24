@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. L''orario prenotato è per il quad; concorda la moto d''acqua su WhatsApp.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Giubbotto salvagente; Occhialini; Guida; Bevande; Doccia e bagni; Armadietti.'
+  respuesta: 'Il prezzo include giubbotto salvagente, occhialini, guida, bevande, doccia e bagni e armadietti.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cauzione in contanti: 50 € per moto d''acqua e 100 € per quad; Trasferimenti tra le attività.'
+  respuesta: 'Il prezzo non include cauzione in contanti: 50 € per moto d''acqua e 100 € per quad né trasferimenti tra le attività.'
 categoria: aventura
 keywords:
 - moto d'acqua e quad tenerife

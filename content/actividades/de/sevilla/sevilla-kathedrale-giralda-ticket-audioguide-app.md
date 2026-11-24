@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Büro des Anbieters, Calle Arfe 3 (Altstadt, Sevilla). Geh zuerst zum Büro in der Calle Arfe 3, etwa 4 Gehminuten von der Kathedrale entfernt, und sei 10 Minuten vor deiner gebuchten Uhrzeit da. Manchmal begleitet dich ein Mitarbeiter bis zum Eingang; danach besichtigst du alles in deinem eigenen Tempo.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt in die Kathedrale von Sevilla; Eintritt in die Giralda; Audioguide als App zum Herunterladen (Deutsch, Englisch, Spanisch, Italienisch oder Französisch).'
+  respuesta: 'Im Preis inbegriffen: Eintritt in die Kathedrale von Sevilla; Eintritt in die Giralda; und Audioguide als App zum Herunterladen (Deutsch, Englisch, Spanisch, Italienisch oder Französisch).'
 opinionEditorial: 'Es erfüllt seinen Zweck, ist aber teuer für das, was du bekommst, und schlecht bewertet (3,9): Mehrere Reisende sagen, dass der Audioguide zu kurz greift. Wenn du nur hineinwillst, kostet das einfache Ticket für Kathedrale und Giralda weniger als die Hälfte; wenn du Erklärungen möchtest, ist eine Führung das bessere Angebot.'
 atraccionesRelacionadas:
 - catedral-giralda

@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide professionnel; Visite guidée; Équipement complet : gilets, chaussures d''eau, talkie-walkie, pochette étanche; Consignes de sécurité; Service de navette.'
+  respuesta: 'Le prix comprend : guide professionnel; visite guidée; équipement complet : gilets, chaussures d''eau, talkie-walkie, pochette étanche; consignes de sécurité; et service de navette.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux enfants de moins de 6 ans; Les enfants de 6 à 11 ans sont gratuits avec un adulte (un enfant par adulte).'
+  respuesta: 'Déconseillé aux enfants de moins de 6 ans. Les enfants de 6 à 11 ans sont gratuits avec un adulte (un enfant par adulte).'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '1 h 30.'
+  respuesta: 'L''activité dure 1 h 30.'
 categoria: agua
 keywords:
 - kayak transparent fuerteventura

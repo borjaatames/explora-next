@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Moto quatro e equipamento de proteção; Guia; Refrescos; Recolha.'
+  respuesta: 'O preço inclui moto quatro e equipamento de proteção, guia, refrescos e recolha.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Fotos; Caução ou seguro extra.'
+  respuesta: 'O preço não inclui fotos nem caução ou seguro extra.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '3 horas.'
+  respuesta: 'Dura 3 horas.'
 categoria: aventura
 keywords:
 - passeio guiado de moto quatro teide

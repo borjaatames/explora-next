@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (Stand von Excursiones-Ibiza). Abfahrt um 10:00 Uhr an der Strandpromenade von Sant Antoni, am Stand von Excursiones-Ibiza am Passeig de ses Fonts. Sei 20 Minuten vorher da.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Boot mit Crew; Frühstück, Mittagessen (Paella) und Abendessen; Open Bar mit Bier, Sangria und Softdrinks; Ein Glas Cava zum Sonnenuntergang; Schnorchelmaske und Schnorchel; Paddleboards.'
+  respuesta: 'Im Preis inbegriffen: Boot mit Crew; Frühstück, Mittagessen (Paella) und Abendessen; Open Bar mit Bier, Sangria und Softdrinks; ein Glas Cava zum Sonnenuntergang; Schnorchelmaske und Schnorchel; und Paddleboards.'
 opinionEditorial: 'Wenn du auf Ibiza nur einen Bootsausflug machst, verbindet dieser das Beste: Es Vedrà, das Wasser von Espalmador und Formentera, mit allen Mahlzeiten inklusive. Er ist nicht billig, aber es ist ein ganzer Tag.'
 guiasRelacionadas:
 - was-sehen-in-ibiza

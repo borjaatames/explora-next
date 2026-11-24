@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Quad und Schutzausrüstung; Guide; Erfrischungen; Abholung.'
+  respuesta: 'Im Preis inbegriffen: Quad und Schutzausrüstung, Guide, Erfrischungen und Abholung.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Fotos; Kaution oder Zusatzversicherung.'
+  respuesta: 'Nicht inbegriffen: Fotos und Kaution oder Zusatzversicherung.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '3 Stunden.'
+  respuesta: 'Die Dauer beträgt 3 Stunden.'
 categoria: aventura
 keywords:
 - geführte quadtour teide

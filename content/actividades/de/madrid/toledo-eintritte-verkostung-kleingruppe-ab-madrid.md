@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Marinemuseum (Museo Naval), Paseo del Prado 3, Madrid.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrt im klimatisierten Mercedes; Begleitung während der ganzen Tour; Eintritte zu den Monumenten; Iberische Verkostung; Steuern.'
+  respuesta: 'Im Preis inbegriffen: Fahrt im klimatisierten Mercedes, Begleitung während der ganzen Tour, Eintritte zu den Monumenten, iberische Verkostung und Steuern.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

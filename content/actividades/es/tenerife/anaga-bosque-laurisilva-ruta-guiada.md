@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Centro de visitantes de Cruz del Carmen, Parque Rural de Anaga. A 20 minutos en coche de La Laguna. También llega la guagua 076 desde La Laguna.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía de senderismo.'
+  respuesta: 'Incluye guía de senderismo.'
 opinionEditorial: 'La otra cara de Tenerife: verde, húmeda y sin turistas. Por 24 € y con un guía que explica el bosque, es de las excursiones con mejor relación calidad-precio de la isla.'
 guiasRelacionadas:
 - que-ver-en-tenerife

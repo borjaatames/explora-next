@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Pickup at your accommodation in Madrid.'
 - pregunta: 'What is included?'
-  respuesta: 'Pickup in Madrid; Premium vehicle with wifi and air conditioning; Tickets to Santo Tomé, Santa María la Blanca and the Alcázar of Segovia; Iberian tasting with a drink; Water; Taxes.'
+  respuesta: 'The price includes pickup in Madrid; premium vehicle with wifi and air conditioning; tickets to Santo Tomé, Santa María la Blanca and the Alcázar of Segovia; Iberian tasting with a drink; water; and taxes.'
 atraccionesRelacionadas:
 - toledo
 - segovia

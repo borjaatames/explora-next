@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Gracioserito bike rental and souvenir shop, C. García Escámez 18, Caleta de Sebo.'
 - pregunta: 'What is included?'
-  respuesta: 'Jeep tour of the north and south of La Graciosa; Visits to Las Conchas and La Francesa beaches; Montaña Amarilla beach; Extra beach time if you want it.'
+  respuesta: 'The price includes jeep tour of the north and south of La Graciosa, visits to Las Conchas and La Francesa beaches, Montaña Amarilla beach, and extra beach time if you want it.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You need to get to La Graciosa by ferry first; Bring sun cream, a hat and water; Not suitable during pregnancy or with back problems.'
+  respuesta: 'You need to get to La Graciosa by ferry first. Bring sun cream, a hat and water. Not suitable during pregnancy or with back problems.'
 categoria: excursionesDia
 keywords:
 - la graciosa jeep tour

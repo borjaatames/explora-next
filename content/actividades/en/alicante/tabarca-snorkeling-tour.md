@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Marina Miramar, Santa Pola marina (North Pier). Departure from the Marina Miramar marina in Santa Pola, North Pier. Arrive 15 minutes early; the skipper meets you at the sailboat berth.'
 - pregunta: 'What is included?'
-  respuesta: 'Sailboat with skipper; Fuel; Food tasting and one drink; Stand-up paddleboards; Snorkel goggles.'
+  respuesta: 'The price includes sailboat with skipper, fuel, food tasting and one drink, stand-up paddleboards, and snorkel goggles.'
 opinionEditorial: 'The most relaxed way to enjoy Tabarca: by sailboat, with few people, swimming where the ferry does not stop. Coming back at sunset is what makes it special.'
 guiasRelacionadas:
 - tabarca-island-how-to-visit

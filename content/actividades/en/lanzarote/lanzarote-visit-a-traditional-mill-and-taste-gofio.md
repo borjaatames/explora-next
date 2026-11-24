@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'La Molina de Lanzarote, Calle Tenderete 20, San Bartolomé.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided tour of the mill; Hands-on gofio workshop; Gofio ball (pella) making workshop; Tasting.'
+  respuesta: 'The price includes guided tour of the mill, hands-on gofio workshop, gofio ball (pella) making workshop, and tasting.'
 - pregunta: 'How long does it last?'
-  respuesta: '1 hour.'
+  respuesta: 'It lasts 1 hour.'
 categoria: talleres
 keywords:
 - gofio mill lanzarote

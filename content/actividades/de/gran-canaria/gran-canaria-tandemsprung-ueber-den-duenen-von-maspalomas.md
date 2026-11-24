@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ausrüstung; Einweisung und Training; Sprung aus 3.000 Metern; Freier Fall mit über 200 km/h; 5–8 Minuten am Fallschirm; Aktivität von 90 Minuten.'
+  respuesta: 'Im Preis inbegriffen: Ausrüstung, Einweisung und Training, Sprung aus 3.000 Metern, freier Fall mit über 200 km/h, 5–8 Minuten am Fallschirm und Aktivität von 90 Minuten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Höchstens 100 kg (das angegebene Gewicht wird beim Check-in geprüft); Nicht für Kinder unter 9, Schwangere oder wenn du in den letzten 24 Stunden getaucht bist.'
+  respuesta: 'Höchstens 100 kg (das angegebene Gewicht wird beim Check-in geprüft). Nicht für Kinder unter 9, Schwangere oder wenn du in den letzten 24 Stunden getaucht bist.'
 categoria: aventura
 keywords:
 - fallschirmspringen gran canaria

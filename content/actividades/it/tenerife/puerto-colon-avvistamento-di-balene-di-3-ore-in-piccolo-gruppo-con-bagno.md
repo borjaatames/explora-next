@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Puerto Colón, pontile 2, Costa Adeje.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Bevanda gratuita (birra, acqua o bibita) e un panino; Sosta bagno a El Puertito o alla spiaggia di Las Vistas.'
+  respuesta: 'Il prezzo include bevanda gratuita (birra, acqua o bibita) e un panino; e sosta bagno a El Puertito o alla spiaggia di Las Vistas.'
 - pregunta: 'Quanto dura?'
-  respuesta: '3 ore.'
+  respuesta: 'Dura 3 ore.'
 categoria: agua
 keywords:
 - avvistamento balene piccolo gruppo tenerife

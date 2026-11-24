@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Porto de Corralejo: procure o barco para Lobos antes da hora de saída.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete de ferry de ida e volta; Recolha e regresso ao hotel (se escolhido).'
+  respuesta: 'O preço inclui bilhete de ferry de ida e volta e recolha e regresso ao hotel (se escolhido).'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'A autorização de acesso é gratuita e pede-se até 5 dias antes da visita; Não acessível em cadeira de rodas.'
+  respuesta: 'A autorização de acesso é gratuita e pede-se até 5 dias antes da visita. Não acessível em cadeira de rodas.'
 categoria: excursionesDia
 keywords:
 - ferry lobos corralejo

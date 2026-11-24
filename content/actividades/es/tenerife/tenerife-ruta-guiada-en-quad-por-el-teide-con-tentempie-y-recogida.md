@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Quad y equipo de protección; Guía; Refrigerio; Recogida.'
+  respuesta: 'Incluye quad y equipo de protección, guía, refrigerio y recogida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos; Fianza o seguro extra.'
+  respuesta: 'No incluye fotos ni fianza o seguro extra.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '3 horas.'
+  respuesta: 'Dura 3 horas.'
 categoria: aventura
 keywords:
 - ruta guiada en quad teide

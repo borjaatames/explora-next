@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Adventurer Catamaran, Avenida Conde de Vallellano, no porto de Alicante.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio de catamarã de 2 horas; Uma cerveja ou um copo de cava, vinho ou tinto de verano; Água, refrigerantes e sumos; Equipamento de snorkel emprestado (mediante documento de identificação).'
+  respuesta: 'O preço inclui passeio de catamarã de 2 horas; uma cerveja ou um copo de cava, vinho ou tinto de verano; água, refrigerantes e sumos; e equipamento de snorkel emprestado (mediante documento de identificação).'
 categoria: agua
 keywords:
 - "catamarã alicante"

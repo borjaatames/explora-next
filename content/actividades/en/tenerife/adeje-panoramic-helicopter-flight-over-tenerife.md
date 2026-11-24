@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Helidream Helicopters, C. Charfa, Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Helicopter flight.'
+  respuesta: 'The price includes helicopter flight.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'With briefing and boarding the whole experience lasts up to 90 minutes; In bad weather the route changes but keeps the minutes booked.'
+  respuesta: 'With briefing and boarding the whole experience lasts up to 90 minutes. In bad weather the route changes but keeps the minutes booked.'
 categoria: aventura
 keywords:
 - helicopter tour tenerife

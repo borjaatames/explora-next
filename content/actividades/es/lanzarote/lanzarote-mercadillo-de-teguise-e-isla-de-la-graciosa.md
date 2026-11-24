@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Visita de 2 horas al mercadillo de Teguise; Ferry de ida y vuelta a La Graciosa; Paseo en barco; Visita guiada a la iglesia de La Graciosa; Almuerzo y bebidas (paella).'
+  respuesta: 'Incluye recogida y regreso al hotel, visita de 2 horas al mercadillo de Teguise, ferry de ida y vuelta a La Graciosa, paseo en barco, visita guiada a la iglesia de La Graciosa y almuerzo y bebidas (paella).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Opciones vegetarianas, veganas y sin marisco bajo petición; La duración total depende de los traslados a los hoteles; No apto para personas con movilidad reducida.'
+  respuesta: 'Opciones vegetarianas, veganas y sin marisco bajo petición. La duración total depende de los traslados a los hoteles. No apto para personas con movilidad reducida.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '7 horas.'
+  respuesta: 'Dura 7 horas.'
 categoria: excursionesDia
 keywords:
 - excursion mercadillo teguise

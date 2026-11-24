@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up in selected areas of southern Tenerife (when available); Return ferry tickets Tenerife–La Gomera; Transfers on La Gomera; Official guide; Group of at most 18.'
+  respuesta: 'The price includes pick-up in selected areas of southern Tenerife (when available), return ferry tickets Tenerife–La Gomera, transfers on La Gomera, official guide, and group of at most 18.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Guests staying in Los Cristianos may be asked to meet at the Fred. Olsen office in the port; Not suitable for people with reduced mobility.'
+  respuesta: 'Guests staying in Los Cristianos may be asked to meet at the Fred. Olsen office in the port. Not suitable for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Drinks; Parking at Los Cristianos port.'
+  respuesta: 'The price does not include lunch, drinks, or parking at Los Cristianos port.'
 categoria: excursionesDia
 keywords:
 - la gomera small group tour

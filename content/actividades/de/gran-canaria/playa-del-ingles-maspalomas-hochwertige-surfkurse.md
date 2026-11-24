@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, Lokal E2, Maspalomas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Komplette Surfausrüstung: Brett, Leash, Neopren-Shirt und kurze oder lange Neoprenhose; Surfunterricht; Obst und Wasser; Fotos von dir beim Surfen; 10 % Rabatt im Shop; Haftpflicht-Unfallversicherung.'
+  respuesta: 'Im Preis inbegriffen: komplette Surfausrüstung: Brett, Leash, Neopren-Shirt und kurze oder lange Neoprenhose; Surfunterricht; Obst und Wasser; Fotos von dir beim Surfen; 10 % Rabatt im Shop; und Haftpflicht-Unfallversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Surftage hängen stark von den Bedingungen ab; Nicht für Kinder unter 8, Nichtschwimmer oder über 110 kg.'
+  respuesta: 'Surftage hängen stark von den Bedingungen ab. Nicht für Kinder unter 8, Nichtschwimmer oder über 110 kg.'
 categoria: agua
 keywords:
 - surfkurs playa del ingles

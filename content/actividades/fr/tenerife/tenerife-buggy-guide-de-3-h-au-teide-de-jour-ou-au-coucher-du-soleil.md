@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Buggy guidé de 3 heures sur route; Guide professionnel; Briefing de sécurité; Veste thermique et gants; Arrêts aux belvédères; En-cas et boisson au dernier arrêt.'
+  respuesta: 'Le prix comprend : buggy guidé de 3 heures sur route, guide professionnel, briefing de sécurité, veste thermique et gants, arrêts aux belvédères et en-cas et boisson au dernier arrêt.'
 categoria: aventura
 keywords:
 - buggy teide coucher de soleil

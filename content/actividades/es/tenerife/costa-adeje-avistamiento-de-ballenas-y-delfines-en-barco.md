@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía y patrón; Barco; Bebida gratis (cerveza, agua o refresco); Combustible; Tasas portuarias.'
+  respuesta: 'Incluye guía y patrón; barco; bebida gratis (cerveza, agua o refresco); combustible; y tasas portuarias.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '2 horas.'
+  respuesta: 'Dura 2 horas.'
 categoria: agua
 keywords:
 - avistamiento ballenas costa adeje

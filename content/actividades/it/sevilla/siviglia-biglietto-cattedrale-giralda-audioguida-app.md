@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Ufficio dell''operatore, calle Arfe 3 (centro storico, Siviglia). Passa prima dall''ufficio in calle Arfe 3, a circa 4 minuti a piedi dalla Cattedrale, e arriva 10 minuti prima dell''orario prenotato. A volte un addetto ti accompagna fino all''ingresso del monumento; poi visiti al tuo ritmo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso alla Cattedrale di Siviglia; Ingresso alla Giralda; Audioguida scaricabile nell''app (italiano, spagnolo, inglese, francese o tedesco).'
+  respuesta: 'Il prezzo include ingresso alla Cattedrale di Siviglia; ingresso alla Giralda; e audioguida scaricabile nell''app (italiano, spagnolo, inglese, francese o tedesco).'
 opinionEditorial: 'Fa il suo lavoro, ma è cara per quello che offre e ha una valutazione bassa (3,9): diversi viaggiatori dicono che l''audioguida è troppo scarna. Se vuoi solo entrare, il biglietto base per la Cattedrale e la Giralda costa meno della metà; se vuoi spiegazioni, conviene di più una visita guidata.'
 atraccionesRelacionadas:
 - catedral-giralda

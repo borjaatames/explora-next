@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller Guide; Kostenlose Abholung und Rücktransfer (Süden Teneriffas); Kostenloser Parkplatz am Treffpunkt; Zweisitzer-Buggy; Fahreinweisung und Sicherheitsinfo; Basisversicherung.'
+  respuesta: 'Im Preis inbegriffen: professioneller Guide, kostenlose Abholung und Rücktransfer (Süden Teneriffas), kostenloser Parkplatz am Treffpunkt, Zweisitzer-Buggy, Fahreinweisung und Sicherheitsinfo und Basisversicherung.'
 categoria: aventura
 keywords:
 - buggy tour teide

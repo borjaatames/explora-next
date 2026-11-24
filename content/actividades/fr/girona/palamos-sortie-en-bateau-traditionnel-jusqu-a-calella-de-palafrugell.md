@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en bateau de 3 heures; Équipage; Gilets de sauvetage.'
+  respuesta: 'Le prix comprend : sortie en bateau de 3 heures, équipage et gilets de sauvetage.'
 categoria: agua
 keywords:
 - "sortie bateau palamos"

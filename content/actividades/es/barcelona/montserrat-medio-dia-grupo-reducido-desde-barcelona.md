@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Estació de França, avinguda del Marquès de l’Argentera 6, Barcelona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte de ida y vuelta desde Barcelona; Visita guiada a la basílica y el monasterio (en inglés).'
+  respuesta: 'Incluye transporte de ida y vuelta desde Barcelona y visita guiada a la basílica y el monasterio (en inglés).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'La explicación es en inglés; Varias salidas al día por la mañana y a mediodía; Precio por persona.'
+  respuesta: 'La explicación es en inglés. Varias salidas al día por la mañana y a mediodía. Precio por persona.'
 opinionEditorial: La forma más práctica y barata de ir a Montserrat sin depender del tren y el cremallera, con tiempo libre suficiente para disfrutar la montaña.
 atraccionesRelacionadas:
 - montserrat

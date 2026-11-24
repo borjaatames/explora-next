@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer vom Hotel; Klimatisierter Bus; Guide; Eintritt Jameos del Agua und Cueva de los Verdes; Aloe-vera-Museum; Reiseversicherung.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer vom Hotel, klimatisierter Bus, Guide, Eintritt Jameos del Agua und Cueva de los Verdes, Aloe-vera-Museum und Reiseversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht geeignet bei eingeschränkter Mobilität.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen.'
+  respuesta: 'Nicht inbegriffen: Mittagessen.'
 categoria: excursionesDia
 keywords:
 - jameos del agua cueva de los verdes ausflug

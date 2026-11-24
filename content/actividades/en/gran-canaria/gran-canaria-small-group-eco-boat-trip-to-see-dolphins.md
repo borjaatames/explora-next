@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Pasito Blanco harbour, Ribera pontoon, berth R04. Meet at 09:15, departure 09:30.'
 - pregunta: 'What is included?'
-  respuesta: '3-hour dolphin watching tour; Skipper and marine biologist; Hybrid boat with electric motors; Water, organic drinks, WeWhale beer, fresh fruit and nuts.'
+  respuesta: 'The price includes 3-hour dolphin watching tour; skipper and marine biologist; hybrid boat with electric motors; and water, organic drinks, WeWhale beer, fresh fruit and nuts.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people prone to seasickness; Children under 3 go free.'
+  respuesta: 'Not suitable for people prone to seasickness. Children under 3 go free.'
 categoria: agua
 keywords:
 - eco dolphin trip gran canaria

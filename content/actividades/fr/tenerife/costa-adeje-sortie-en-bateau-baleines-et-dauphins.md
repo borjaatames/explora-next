@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide et skipper; Bateau; Boisson offerte (bière, eau ou soda); Carburant; Taxes portuaires.'
+  respuesta: 'Le prix comprend : guide et skipper; bateau; boisson offerte (bière, eau ou soda); carburant; et taxes portuaires.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '2 heures.'
+  respuesta: 'L''activité dure 2 heures.'
 categoria: agua
 keywords:
 - observation baleines costa adeje

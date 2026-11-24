@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Fuente de Indias, next to the Archivo de Indias, Avenida de la Constitución (41004 Seville). La fontana si trova davanti all''Archivo de Indias, tra la Cattedrale e l''Alcázar. Il personale al punto d''incontro fa il check-in e consegna biglietti e auricolari. Porta il passaporto o la carta d''identità: i biglietti sono nominativi.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Visita guidata ufficiale del Real Alcázar, della Cattedrale e della Giralda; Biglietti salta fila per tutti i monumenti; Guida locale con licenza; Sistema di auricolari radio; Assistenza per il check-in al punto d''incontro; Guida digitale di Siviglia.'
+  respuesta: 'Il prezzo include visita guidata ufficiale del Real Alcázar, della Cattedrale e della Giralda; biglietti salta fila per tutti i monumenti; guida locale con licenza; sistema di auricolari radio; assistenza per il check-in al punto d''incontro; e guida digitale di Siviglia.'
 opinionEditorial: 'Il modo meglio recensito per vedere i tre grandi monumenti di Siviglia in una sola mattina, con tutto incluso e un''ampia scelta di orari. Il gruppo è numeroso (fino a 27 persone), ma con gli auricolari funziona. Prenotalo quando le date sono sicure: il rimborso è solo parziale.'
 atraccionesRelacionadas:
 - real-alcazar

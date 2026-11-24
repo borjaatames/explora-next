@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Königliche Kartause von Valldemossa, Plaça de la Cartoixa, Valldemossa. TIB-Bus 203 ab Palma (etwa 30 Minuten). Mit dem Auto gibt es kostenpflichtige Parkplätze am Ortseingang.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt in die Königliche Kartause und den Palast von König Sancho; Audioguide-App auf deinem Handy; Klavierkonzert (laut Programm).'
+  respuesta: 'Im Preis inbegriffen: Eintritt in die Königliche Kartause und den Palast von König Sancho, Audioguide-App auf deinem Handy und Klavierkonzert (laut Programm).'
 opinionEditorial: Der Pflichtbesuch in Valldemossa. Es ist kein großes Museum, aber die Geschichte um Chopin, das Konzert und der Blick auf die Tramuntana sind die 13 € wert.
 guiasRelacionadas:
 - serra-de-tramuntana-soller

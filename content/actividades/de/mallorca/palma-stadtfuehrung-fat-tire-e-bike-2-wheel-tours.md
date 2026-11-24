@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fat-Tire-E-Bike; Guide; Helm.'
+  respuesta: 'Im Preis inbegriffen: Fat-Tire-E-Bike, Guide und Helm.'
 categoria: toursCiudad
 guiasRelacionadas:
 - was-sehen-auf-mallorca

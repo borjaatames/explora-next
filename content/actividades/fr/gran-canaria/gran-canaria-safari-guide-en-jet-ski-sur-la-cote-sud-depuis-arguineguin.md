@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide professionnel; Safari guidé en jet-ski; Jet-ski moderne; Carburant; Gilet de sauvetage; Briefing de sécurité.'
+  respuesta: 'Le prix comprend : guide professionnel, safari guidé en jet-ski, jet-ski moderne, carburant, gilet de sauvetage et briefing de sécurité.'
 categoria: agua
 keywords:
 - safari jet ski gran canaria

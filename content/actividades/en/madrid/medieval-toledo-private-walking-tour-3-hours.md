@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Plaza de Zocodover, or the guide meets you at Toledo train station.'
 - pregunta: 'What is included?'
-  respuesta: 'Private official guide; Santa María la Blanca synagogue ticket; San Juan de los Reyes monastery ticket; Santo Tomé church ticket; Skip-the-line access to the cathedral (ticket extra); Support from a travel agent.'
+  respuesta: 'The price includes private official guide, Santa María la Blanca synagogue ticket, San Juan de los Reyes monastery ticket, Santo Tomé church ticket, skip-the-line access to the cathedral (ticket extra), and support from a travel agent.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

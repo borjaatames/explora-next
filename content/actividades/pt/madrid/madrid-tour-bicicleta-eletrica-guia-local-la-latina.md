@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia ao vivo; Bicicleta ou bicicleta elétrica (conforme a opção); Cadeiras de criança e capacetes a pedido; Depósito de bagagem.'
+  respuesta: 'O preço inclui guia ao vivo, bicicleta ou bicicleta elétrica (conforme a opção), cadeiras de criança e capacetes a pedido e depósito de bagagem.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-num-dia

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Wellenkind Surfschool, La Pared. Si les conditions ne le permettent pas, l''école indique un autre point de rendez-vous.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Planche, combinaison et trajet; Douches et vestiaires; Cours de 2 heures sur la plage; Prise en charge et retour à l''hôtel : Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
+  respuesta: 'Le prix comprend : planche, combinaison et trajet; douches et vestiaires; cours de 2 heures sur la plage; et prise en charge et retour à l''hôtel : Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux enfants de moins de 7 ans; Savoir nager est obligatoire; L''horaire dépend de la marée et des conditions ; l''école le confirme.'
+  respuesta: 'Déconseillé aux enfants de moins de 7 ans. Savoir nager est obligatoire. L''horaire dépend de la marée et des conditions ; l''école le confirme.'
 categoria: agua
 keywords:
 - cours de surf la pared

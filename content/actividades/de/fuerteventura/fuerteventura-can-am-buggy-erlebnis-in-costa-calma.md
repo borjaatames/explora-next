@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer vom Hotel; Professioneller Guide; Fahrt im Can-Am-Buggy; Treibstoff; Staubschutzbrille; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer vom Hotel, professioneller Guide, Fahrt im Can-Am-Buggy, Treibstoff, Staubschutzbrille und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Bequeme, dunkle Kleidung und ein Tuch mitnehmen; Fahrer brauchen mehr als 1 Jahr Fahrpraxis; Preis pro Buggy für bis zu 2 Personen.'
+  respuesta: 'Bequeme, dunkle Kleidung und ein Tuch mitnehmen. Fahrer brauchen mehr als 1 Jahr Fahrpraxis. Preis pro Buggy für bis zu 2 Personen.'
 categoria: aventura
 keywords:
 - buggy costa calma

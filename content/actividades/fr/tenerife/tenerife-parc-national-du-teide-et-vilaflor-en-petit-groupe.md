@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transfert et prise en charge dans le sud en minibus de 8 places; Bâtons de marche dans le parc national; Sièges enfants disponibles.'
+  respuesta: 'Le prix comprend : transfert et prise en charge dans le sud en minibus de 8 places, bâtons de marche dans le parc national et sièges enfants disponibles.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons (possibilité d''apporter les vôtres); Billets du téléphérique.'
+  respuesta: 'Ne sont pas inclus : repas et boissons (possibilité d''apporter les vôtres) et billets du téléphérique.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '5 heures.'
+  respuesta: 'L''activité dure 5 heures.'
 categoria: excursionesDia
 keywords:
 - teide petit groupe

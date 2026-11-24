@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Boards Connections Surf School, Calle Acorazado España 10, Corralejo.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Cours de surf tous niveaux.'
+  respuesta: 'Le prix comprend : cours de surf tous niveaux.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux enfants de moins de 4 ans; Déconseillé aux femmes enceintes; Savoir nager est obligatoire.'
+  respuesta: 'Déconseillé aux enfants de moins de 4 ans. Déconseillé aux femmes enceintes. Savoir nager est obligatoire.'
 categoria: agua
 keywords:
 - cours de surf corralejo

@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Chaqueta para el frío (si hace falta); Agua y refrescos fríos; Monitores expertos todo el tiempo; Jeep Wrangler para que lo conduzcas.'
+  respuesta: 'Incluye chaqueta para el frío (si hace falta), agua y refrescos fríos, monitores expertos todo el tiempo y jeep Wrangler para que lo conduzcas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Hace falta el carné de conducir físico o el digital oficial; No apto para embarazadas ni personas con problemas de espalda.'
+  respuesta: 'Hace falta el carné de conducir físico o el digital oficial. No apto para embarazadas ni personas con problemas de espalda.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida y regreso a tu alojamiento.'
+  respuesta: 'No incluye recogida y regreso a tu alojamiento.'
 categoria: aventura
 keywords:
 - jeep teide atardecer

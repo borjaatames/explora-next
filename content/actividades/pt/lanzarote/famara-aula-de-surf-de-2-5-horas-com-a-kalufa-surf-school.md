@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Parque de estacionamento da praia de Famara (Calle Brezo de Mar 1, Urbanización Famara). A hora depende das condições.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Aula de surf de 2,5 horas; Prancha de surf e fato; Material grátis o resto do dia depois da aula.'
+  respuesta: 'O preço inclui aula de surf de 2,5 horas; prancha de surf e fato; e material grátis o resto do dia depois da aula.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'É preciso saber nadar; Não recomendado a menores de 8 anos; menores de 10 precisam de um adulto durante a aula.'
+  respuesta: 'É preciso saber nadar. Não recomendado a menores de 8 anos; menores de 10 precisam de um adulto durante a aula.'
 categoria: agua
 keywords:
 - kalufa surf school

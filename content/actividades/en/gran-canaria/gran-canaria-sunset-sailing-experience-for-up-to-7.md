@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Professional skipper; 2.5-hour sail; Drinks and light snacks on board; Safety equipment; Insurance.'
+  respuesta: 'The price includes hotel pick-up and drop-off, professional skipper, 2.5-hour sail, drinks and light snacks on board, safety equipment, and insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 6 or wheelchair users.'
 - pregunta: 'What is not included?'
-  respuesta: 'Tips (10–20% recommended); Alcoholic drinks (for sale on board).'
+  respuesta: 'The price does not include tips (10–20% recommended) or alcoholic drinks (for sale on board).'
 categoria: agua
 keywords:
 - sunset sailing gran canaria

@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Port de Los Gigantes, Tenerife. Los Gigantes se trouve sur la côte ouest de Tenerife, à environ 45 km de Santa Cruz et 30 km de Las Américas. Depuis le sud, prenez les autoroutes TF-1 et TF-47. Parking disponible au port. Confirmez le point de rendez-vous exact avec l''opérateur indiqué sur votre bon.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en bateau (2 à 3 heures); Observation des baleines et des dauphins avec un guide naturaliste.'
+  respuesta: 'Le prix comprend : sortie en bateau (2 à 3 heures) et observation des baleines et des dauphins avec un guide naturaliste.'
 opinionEditorial: "Los Gigantes réunit deux des plus grands spectacles naturels de Tenerife : les plus hautes falaises maritimes d'Espagne et des globicéphales sédentaires juste au large. L'un des meilleurs sites d'observation des cétacés d'Europe."
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

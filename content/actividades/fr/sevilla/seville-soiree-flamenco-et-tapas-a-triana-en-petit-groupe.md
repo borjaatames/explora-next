@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet pour le spectacle de flamenco; 3 tapas et 3 boissons; Guide local.'
+  respuesta: 'Le prix comprend : billet pour le spectacle de flamenco, 3 tapas et 3 boissons et guide local.'
 categoria: toursGastronomicos
 keywords:
 - "séville flamenco et tapas"

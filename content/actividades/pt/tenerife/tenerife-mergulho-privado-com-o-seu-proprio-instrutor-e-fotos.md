@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Transporte de e para o alojamento; Instrutor de mergulho certificado; Mergulho privado e personalizado; Briefing de segurança e explicação do equipamento; Equipamento de mergulho completo; Fotos e vídeos subaquáticos.'
+  respuesta: 'O preço inclui transporte de e para o alojamento, instrutor de mergulho certificado, mergulho privado e personalizado, briefing de segurança e explicação do equipamento, equipamento de mergulho completo e fotos e vídeos subaquáticos.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Idade mínima 8 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos; Não voe nas 24 horas seguintes ao mergulho.'
+  respuesta: 'Idade mínima 8 anos. Não recomendado a grávidas ou pessoas com problemas cardíacos. Não voe nas 24 horas seguintes ao mergulho.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Seguro de mergulho pessoal (obrigatório para mergulhadores certificados; principiantes estão cobertos); Comida e bebidas.'
+  respuesta: 'O preço não inclui seguro de mergulho pessoal (obrigatório para mergulhadores certificados; principiantes estão cobertos) nem comida e bebidas.'
 categoria: agua
 keywords:
 - mergulho privado tenerife

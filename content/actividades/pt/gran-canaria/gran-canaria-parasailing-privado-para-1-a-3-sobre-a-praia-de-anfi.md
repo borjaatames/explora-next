@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Calle Anfi del Mar 2, Mogán.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Todas as taxas; Seguro; Colete salva-vidas.'
+  respuesta: 'O preço inclui todas as taxas, seguro e colete salva-vidas.'
 - pregunta: 'O que é preciso saber antes de reservar?'
   respuesta: 'Peso máximo combinado de 200 kg.'
 categoria: agua

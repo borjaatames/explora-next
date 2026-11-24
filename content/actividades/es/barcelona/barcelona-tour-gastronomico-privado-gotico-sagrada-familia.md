@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado durante 4 horas; Degustaciones en 5 paradas y 3 bebidas; Entrada sin colas a la Sagrada Familia con audioguía; Taxi del Gótico a la Sagrada Familia.'
+  respuesta: 'Incluye guía privado durante 4 horas, degustaciones en 5 paradas y 3 bebidas, entrada sin colas a la Sagrada Familia con audioguía y taxi del Gótico a la Sagrada Familia.'
 opinionEditorial: 'Combina las dos cosas que casi todo el mundo quiere en Barcelona: comer bien y ver la Sagrada Familia. En privado y con el taxi resuelto, es un plan redondo.'
 atraccionesRelacionadas:
 - tapas-barcelona

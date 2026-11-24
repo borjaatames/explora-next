@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: '45-50 fotografías profesionales editadas; Fotógrafo profesional en exclusiva durante 1 hora; Sesión en el exterior de la Sagrada Familia.'
+  respuesta: 'Incluye 45-50 fotografías profesionales editadas, fotógrafo profesional en exclusiva durante 1 hora y sesión en el exterior de la Sagrada Familia.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé; Se permiten animales de servicio; Bien comunicado en transporte público.'
+  respuesta: 'Apto para sillas de ruedas y cochecitos de bebé. Se permiten animales de servicio. Bien comunicado en transporte público.'
 opinionEditorial: 'Una hora da para bastante más de lo que parece: el fotógrafo conoce los ángulos que funcionan alrededor de la Sagrada Familia y no pierde tiempo. Si quieres entrar también a la basílica o a Park Güell, compra esas entradas aparte y con antelación, porque no están incluidas y se agotan.'
 atraccionesRelacionadas:
 - fotos

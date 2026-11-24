@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Direct return bus from your resort to the market; Guide assistant during transfers; Free time in Puerto de Mogán.'
+  respuesta: 'The price includes direct return bus from your resort to the market, guide assistant during transfers, and free time in Puerto de Mogán.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not recommended for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Pick-up outside the listed areas (Taurito not included).'
+  respuesta: 'The price does not include pick-up outside the listed areas (Taurito not included).'
 categoria: excursionesDia
 keywords:
 - mogan market

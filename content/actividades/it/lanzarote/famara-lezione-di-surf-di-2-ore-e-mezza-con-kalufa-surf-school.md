@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Parcheggio della spiaggia di Famara (Calle Brezo de Mar 1, Urbanización Famara). L''orario dipende dalle condizioni.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Lezione di surf di 2 ore e mezza; Tavola e muta; Attrezzatura gratis per il resto della giornata.'
+  respuesta: 'Il prezzo include lezione di surf di 2 ore e mezza, tavola e muta e attrezzatura gratis per il resto della giornata.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Bisogna saper nuotare; Non adatto a bambini sotto gli 8 anni; sotto i 10 con un adulto.'
+  respuesta: 'Bisogna saper nuotare. Non adatto a bambini sotto gli 8 anni; sotto i 10 con un adulto.'
 categoria: agua
 keywords:
 - kalufa surf school

@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private licensed guide; Park Güell ticket; Skip-the-line Sagrada Familia ticket; Transport from the hotel and between sites.'
+  respuesta: 'The price includes private licensed guide, Park Güell ticket, skip-the-line Sagrada Familia ticket, and transport from the hotel and between sites.'
 opinionEditorial: Gaudí's two must-sees with no queues, no metro and a guide just for you. For 4 or more people the price per head is reasonable.
 atraccionesRelacionadas:
 - sagrada-familia

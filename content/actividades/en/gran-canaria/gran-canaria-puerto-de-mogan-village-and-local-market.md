@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Optional boat trip to Puerto de Mogán (if selected); Pick-up in Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín and Bahía Feliz; Guide; Air-conditioned coach and driver; Liability insurance.'
+  respuesta: 'The price includes optional boat trip to Puerto de Mogán (if selected); pick-up in Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín and Bahía Feliz; guide; air-conditioned coach and driver; and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The boat trip from Puerto Rico costs extra per person; Confirm pick-up time and place by WhatsApp; no changes less than 24 hours before.'
+  respuesta: 'The boat trip from Puerto Rico costs extra per person. Confirm pick-up time and place by WhatsApp; no changes less than 24 hours before.'
 - pregunta: 'What is not included?'
-  respuesta: 'Souvenir photos; Lunch.'
+  respuesta: 'The price does not include souvenir photos or lunch.'
 categoria: excursionesDia
 keywords:
 - mogan market tour

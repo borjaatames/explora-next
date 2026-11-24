@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Segway X2 (off-road version); Helmet; Guide; Hotel pick-up and drop-off.'
+  respuesta: 'The price includes Segway X2 (off-road version), helmet, guide, and hotel pick-up and drop-off.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 8 or pregnant women.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink; Tips.'
+  respuesta: 'The price does not include food and drink or tips.'
 categoria: aventura
 keywords:
 - segway la pared

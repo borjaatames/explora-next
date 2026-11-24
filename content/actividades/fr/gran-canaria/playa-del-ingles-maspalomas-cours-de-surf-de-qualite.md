@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Surf Canaries, Av. 8 de Marzo, C.C. Anexo 2, local E2, Maspalomas.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Tout le matériel : planche, leash, top et short ou combinaison longue; Cours de surf; Fruits et eau; Photos de vous en train de surfer; 10 % de réduction en boutique; Assurance accident responsabilité civile.'
+  respuesta: 'Le prix comprend : tout le matériel : planche, leash, top et short ou combinaison longue; cours de surf; fruits et eau; photos de vous en train de surfer; 10 % de réduction en boutique; et assurance accident responsabilité civile.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les journées de surf dépendent beaucoup des conditions; Déconseillé aux moins de 8 ans, aux non-nageurs et au-delà de 110 kg.'
+  respuesta: 'Les journées de surf dépendent beaucoup des conditions. Déconseillé aux moins de 8 ans, aux non-nageurs et au-delà de 110 kg.'
 categoria: agua
 keywords:
 - cours de surf playa del ingles

@@ -57,9 +57,9 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel (si se elige); Guantes, antifaz y chaqueta; Seguro; Bebidas gratis; Ruta guiada con paradas para fotos.'
+  respuesta: 'Incluye recogida y regreso al hotel (si se elige); guantes, antifaz y chaqueta; seguro; bebidas gratis; y ruta guiada con paradas para fotos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Los conductores deben tener 21 años y carné en vigor; Niños desde 4 años en la opción de 4 plazas, en los asientos traseros; Zona de recogida desde Golf del Sur hasta Callao Salvaje.'
+  respuesta: 'Los conductores deben tener 21 años y carné en vigor. Niños desde 4 años en la opción de 4 plazas, en los asientos traseros. Zona de recogida desde Golf del Sur hasta Callao Salvaje.'
 categoria: aventura
 keywords:
 - buggy teide atardecer

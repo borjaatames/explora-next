@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Sem ponto de encontro físico: ative o percurso no telemóvel com o código que recebe após a compra, quando e onde quiser em Alicante.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Acesso ao percurso autoguiado por Alicante através da app DareMapp, com código de referência enviado após a compra; Audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); Total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; Disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; Acesso a recomendações de restauração e atividades para famílias dentro da app.'
+  respuesta: 'O preço inclui acesso ao percurso autoguiado por Alicante através da app DareMapp, com código de referência enviado após a compra; audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; e acesso a recomendações de restauração e atividades para famílias dentro da app.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Adequado para toda a família: idade mínima de 1 ano; Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; atenção sobretudo à subida ao Castelo de Santa Bárbara, que é íngreme; Animais de assistência são bem-vindos.'
+  respuesta: 'Adequado para toda a família: idade mínima de 1 ano. Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; atenção sobretudo à subida ao Castelo de Santa Bárbara, que é íngreme. Animais de assistência são bem-vindos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente); Transporte até ao início do percurso; Bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
+  respuesta: 'O preço não inclui guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente), transporte até ao início do percurso nem bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
 opinionEditorial: É uma forma barata e flexível de conhecer o centro de Alicante sem se prender a um horário fixo. Com mais de 10 paragens, é um percurso mais curto do que o de outras cidades do catálogo, por isso recomendo-o como complemento aos seus próprios passeios e não como a única atividade do dia. Perde as histórias que um guia ao vivo conta, mas ganha total liberdade.
 categoria: toursCiudad
 keywords:

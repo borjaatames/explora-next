@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Dust goggles; Discount at the restaurant in Puerto Calero marina.'
+  respuesta: 'The price includes dust goggles and discount at the restaurant in Puerto Calero marina.'
 categoria: aventura
 keywords:
 - buggy tour puerto calero

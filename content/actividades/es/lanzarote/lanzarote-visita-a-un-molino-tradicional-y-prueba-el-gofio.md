@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'La Molina de Lanzarote, Calle Tenderete 20, San Bartolomé.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Visita guiada al molino; Taller práctico de gofio; Taller de elaboración de pellas de gofio; Degustación.'
+  respuesta: 'Incluye visita guiada al molino, taller práctico de gofio, taller de elaboración de pellas de gofio y degustación.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '1 hora.'
+  respuesta: 'Dura 1 hora.'
 categoria: talleres
 keywords:
 - molino de gofio lanzarote

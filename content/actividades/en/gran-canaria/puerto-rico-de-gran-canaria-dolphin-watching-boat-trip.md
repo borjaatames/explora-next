@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: look for the Spirit of the Sea.'
 - pregunta: 'What is included?'
-  respuesta: '2.5-hour catamaran trip; Professional crew; Soft drinks and water; Optional pick-up from San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores and Playa del Cura.'
+  respuesta: 'The price includes 2.5-hour catamaran trip; professional crew; soft drinks and water; and optional pick-up from San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores and Playa del Cura.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The boat can roll even when stopped: take seasickness tablets beforehand if you need them; No sighting = free voucher valid for a year.'
+  respuesta: 'The boat can roll even when stopped: take seasickness tablets beforehand if you need them. No sighting = free voucher valid for a year.'
 categoria: agua
 keywords:
 - dolphin watching gran canaria

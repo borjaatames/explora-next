@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Bodega El Lomo, Calle El Lomo 18, Tegueste.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Visita guiada a la bodega, viñedos, jardín de variedades, huerto ecológico, sala de embotellado y bar del vermú El 18; Cata de vinos (1–2 vinos jóvenes y 1–2 de edición limitada, según la opción); Un maridaje local por cada vino.'
+  respuesta: 'Incluye visita guiada a la bodega, viñedos, jardín de variedades, huerto ecológico, sala de embotellado y bar del vermú El 18; cata de vinos (1–2 vinos jóvenes y 1–2 de edición limitada, según la opción); y un maridaje local por cada vino.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Los niños de 6 a 12 años prueban mosto en lugar de vino; menores de 6 gratis.'
 categoria: toursGastronomicos

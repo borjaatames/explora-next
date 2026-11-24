@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Spiegazioni nella tua lingua; Prelievo in hotel nelle zone previste; 4x4 chiuso per 6 passeggeri più autista; Assicurazione RC.'
+  respuesta: 'Il prezzo include spiegazioni nella tua lingua, prelievo in hotel nelle zone previste, 4x4 chiuso per 6 passeggeri più autista e assicurazione RC.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a chi ha problemi alla schiena o mobilità ridotta; Mostra la conferma della prenotazione, stampata o sul telefono.'
+  respuesta: 'Non adatto a chi ha problemi alla schiena o mobilità ridotta. Mostra la conferma della prenotazione, stampata o sul telefono.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo.'
+  respuesta: 'Il prezzo non include cibo.'
 categoria: excursionesDia
 keywords:
 - safari 4x4 cofete

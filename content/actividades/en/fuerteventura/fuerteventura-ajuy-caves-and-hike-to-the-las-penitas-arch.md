@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Outside the Acua water park, Av. Nuestra Señora del Carmen 41, Corralejo, at 8:00.'
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off from the north of Fuerteventura; Transport; Guided hike in the Las Peñitas gorge up to the arch; Visit to the Ajuy caves; Sandwich lunch.'
+  respuesta: 'The price includes pick-up and drop-off from the north of Fuerteventura, transport, guided hike in the Las Peñitas gorge up to the arch, visit to the Ajuy caves, and sandwich lunch.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Cruise passengers: pick-up at 9:15 at Puerto del Rosario port; Cancelled in official weather alerts or with fewer than 2 participants; The Ajuy caves can close in winter during coastal alerts.'
+  respuesta: 'Cruise passengers: pick-up at 9:15 at Puerto del Rosario port. Cancelled in official weather alerts or with fewer than 2 participants. The Ajuy caves can close in winter during coastal alerts.'
 categoria: aventura
 keywords:
 - ajuy caves tour

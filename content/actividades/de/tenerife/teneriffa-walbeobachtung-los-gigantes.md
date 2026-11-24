@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Hafen von Los Gigantes, Teneriffa. Los Gigantes liegt an der Westküste Teneriffas, etwa 45 km von Santa Cruz und 30 km von Las Américas. Aus dem Süden über die Autobahnen TF-1 und TF-47. Parkplätze am Hafen. Den genauen Treffpunkt bestätigt der Anbieter auf deinem Gutschein.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsausflug (2-3 Stunden); Wal- und Delfinbeobachtung mit Naturführer.'
+  respuesta: 'Im Preis inbegriffen: Bootsausflug (2-3 Stunden) und Wal- und Delfinbeobachtung mit Naturführer.'
 opinionEditorial: 'Los Gigantes verbindet zwei der größten Naturschauspiele Teneriffas: die höchsten Meeresklippen Spaniens und ansässige Grindwale direkt vor der Küste. Einer der besten Orte Europas zur Walbeobachtung.'
 guiasRelacionadas:
 - walbeobachtung-teneriffa

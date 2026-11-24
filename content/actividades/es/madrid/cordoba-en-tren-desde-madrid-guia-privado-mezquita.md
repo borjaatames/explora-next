@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Estación de Madrid-Puerta de Atocha; en Córdoba el guía te espera en la Mezquita.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Tren de ida y vuelta Madrid-Córdoba; Guía privado en Córdoba durante 2 horas y media; Entrada a la Mezquita-Catedral; Asistencia de un agente para elegir horarios.'
+  respuesta: 'Incluye tren de ida y vuelta Madrid-Córdoba, guía privado en Córdoba durante 2 horas y media, entrada a la Mezquita-Catedral y asistencia de un agente para elegir horarios.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

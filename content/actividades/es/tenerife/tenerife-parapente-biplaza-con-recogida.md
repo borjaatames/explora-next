@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vuelo en parapente biplaza; Recogida en Costa Adeje, Los Cristianos y Las Américas; Traslado al despegue; Piloto biplaza multilingüe; Charla de seguridad y equipo homologado; Seguro de responsabilidad civil y accidentes.'
+  respuesta: 'Incluye vuelo en parapente biplaza; recogida en Costa Adeje, Los Cristianos y Las Américas; traslado al despegue; piloto biplaza multilingüe; charla de seguridad y equipo homologado; y seguro de responsabilidad civil y accidentes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El parapente depende del tiempo: no lo reserves muy cerca del día de tu vuelta; No apto para menores de 4 años, embarazadas ni con más de 100 kg.'
+  respuesta: 'El parapente depende del tiempo: no lo reserves muy cerca del día de tu vuelta. No apto para menores de 4 años, embarazadas ni con más de 100 kg.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos y vídeos GoPro (30 €); Comida y bebidas; Recogida en Los Cristianos después de las 12:00 entre semana; Regreso al hotel.'
+  respuesta: 'No incluye fotos y vídeos GoPro (30 €), comida y bebidas, recogida en Los Cristianos después de las 12:00 entre semana ni regreso al hotel.'
 categoria: aventura
 keywords:
 - parapente tenerife

@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida privata per 4 ore; Degustazioni in 5 tappe e 3 bevande; Ingresso salta fila alla Sagrada Familia con audioguida; Taxi dal Gotico alla Sagrada Familia.'
+  respuesta: 'Il prezzo include guida privata per 4 ore, degustazioni in 5 tappe e 3 bevande, ingresso salta fila alla Sagrada Familia con audioguida e taxi dal Gotico alla Sagrada Familia.'
 opinionEditorial: 'Unisce le due cose che quasi tutti vogliono a Barcellona: mangiare bene e vedere la Sagrada Familia. In privato e con il taxi incluso, è un piano completo.'
 atraccionesRelacionadas:
 - tapas-barcelona

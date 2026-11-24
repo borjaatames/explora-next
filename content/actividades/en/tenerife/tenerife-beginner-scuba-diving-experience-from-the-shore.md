@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Free transfer from the dive centre to the dive site; Briefing on the basics; One dive of 40 minutes to 1 hour; Diving equipment; Full tank; Dive insurance.'
+  respuesta: 'The price includes free transfer from the dive centre to the dive site, briefing on the basics, one dive of 40 minutes to 1 hour, diving equipment, full tank, and dive insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 10; Not suitable for pregnant women or people with heart problems; Not suitable for people with asthma or breathing problems.'
+  respuesta: 'Minimum age 10. Not suitable for pregnant women or people with heart problems. Not suitable for people with asthma or breathing problems.'
 - pregunta: 'How long does it last?'
-  respuesta: '3 hours.'
+  respuesta: 'It lasts 3 hours.'
 categoria: agua
 keywords:
 - try scuba diving tenerife

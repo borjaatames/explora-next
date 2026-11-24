@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Live tour guide.'
+  respuesta: 'The price includes live tour guide.'
 - pregunta: 'What is not included?'
-  respuesta: 'Tips.'
+  respuesta: 'The price does not include tips.'
 opinionEditorial: 'This is a very different format from large-group visits: here the guide is yours alone, so you set the pace and ask whatever you like. Gran Vía has a great story when it is told well —from an avenue conceived as a showcase of modernity to its cinemas and Art Deco buildings— and two hours is plenty to take it in. The price is per private group, not per person: the more of you there are, the better the value, and for a couple or a family it is a tailor-made experience rather than a mass tour.'
 atraccionesRelacionadas:
 - tours-a-pie

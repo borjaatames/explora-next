@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Recogida en el norte de Mallorca (según la opción); el barco llega a Port de Pollença. El punto de recogida depende de la opción que elijas al reservar (varias zonas del norte de Mallorca). El minibús va al mirador Es Colomer y a la playa de Formentor, y la vuelta se hace en barco hasta Port de Pollença.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Minibús panorámico de ida y vuelta; Guía local; Parada en el mirador Es Colomer; Barco de la playa de Formentor a Port de Pollença; Seguro de viaje.'
+  respuesta: 'Incluye minibús panorámico de ida y vuelta, guía local, parada en el mirador Es Colomer, barco de la playa de Formentor a Port de Pollença y seguro de viaje.'
 opinionEditorial: La manera más cómoda de ver Formentor en temporada alta, cuando el coche es un problema. El tramo en barco por la bahía es lo mejor.
 guiasRelacionadas:
 - que-ver-en-mallorca

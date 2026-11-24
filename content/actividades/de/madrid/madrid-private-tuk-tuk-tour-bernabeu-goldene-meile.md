@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; Kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; Kindersitzerhöhung.'
+  respuesta: 'Im Preis inbegriffen: private Tour im Elektro-Tuk-Tuk (bis zu 4 Personen pro Tuk-Tuk); Audioguide über Kopfhörer in 11 Sprachen; kaltes Wasser, WLAN und Lademöglichkeit fürs Handy; und Kindersitzerhöhung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen; Mindestalter 3 Jahre; Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
+  respuesta: 'Sei 10 Minuten früher da; das Tuk-Tuk wartet auf dem Parkbereich gegenüber dem Museum Thyssen. Mindestalter 3 Jahre. Seid ihr mehr als 4 Personen, buche ein Tuk-Tuk pro Gruppe von 4.'
 opinionEditorial: 'Das Gegenstück zur Altstadt-Route: Hier gibt es keine Plaza Mayor und keinen Königspalast, sondern das Madrid der Prachtboulevards, das Bernabéu und die Geschäfte der Calle Serrano. Sinnvoll, wenn du das Zentrum schon kennst oder Fußball zu deiner Reise gehört. Die Buchung ist nicht erstattungsfähig.'
 atraccionesRelacionadas:
 - bernabeu

@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Bus; Hiking guide; Return hotel transfers from selected areas.'
+  respuesta: 'The price includes bus, hiking guide, and return hotel transfers from selected areas.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wear hiking boots or trainers and bring a jacket, water and food; Not suitable for pregnant women or people with heart, breathing or mobility problems.'
+  respuesta: 'Wear hiking boots or trainers and bring a jacket, water and food. Not suitable for pregnant women or people with heart, breathing or mobility problems.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: aventura
 keywords:
 - anaga la laguna tour

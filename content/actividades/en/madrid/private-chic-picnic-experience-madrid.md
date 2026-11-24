@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'A discreet, secret location in Madrid, revealed once your booking is confirmed; if the host can''t find you on arrival, they''ll call the phone number you provide.'
 - pregunta: 'What is included?'
-  respuesta: 'Full meal: Reserva Serrano ham, artisan cheeses and authentic Spanish delicacies; 0.0% non-alcoholic sparkling wine, snacks, soft drinks and bottled water.'
+  respuesta: 'The price includes full meal: Reserva Serrano ham, artisan cheeses and authentic Spanish delicacies; and 0.0% non-alcoholic sparkling wine, snacks, soft drinks and bottled water.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 3; infants cannot ride in arms; Not recommended for people with severe food intolerances; Stroller accessible; service animals are welcome.'
+  respuesta: 'Minimum age 3; infants cannot ride in arms. Not recommended for people with severe food intolerances. Stroller accessible; service animals are welcome.'
 - pregunta: 'What is not included?'
-  respuesta: 'A menu adapted for severe food intolerances (not recommended in these cases).'
+  respuesta: 'The price does not include a menu adapted for severe food intolerances (not recommended in these cases).'
 opinionEditorial: 'This is the most relaxed option in this group of experiences: less ''touristy'' and more suited to a quiet, stylish afternoon as a couple or with friends. The surprise location is part of the concept, so it''s not for anyone who needs to know exactly where they''ll be beforehand. The menu (ham, cheeses, alcohol-free sparkling wine) is high-end and works well for non-drinkers too, though it''s not a good fit if anyone in the group has severe food intolerances.'
 atraccionesRelacionadas:
 - otros-madrid

@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tour privato in tuk-tuk elettrico (fino a 4 persone per tuk-tuk); Audioguida con cuffie in 11 lingue; Acqua fresca, wifi e ricarica del telefono; Seggiolino rialzato per bambini.'
+  respuesta: 'Il prezzo include tour privato in tuk-tuk elettrico (fino a 4 persone per tuk-tuk); audioguida con cuffie in 11 lingue; acqua fresca, wifi e ricarica del telefono; e seggiolino rialzato per bambini.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Arriva 10 minuti prima; il tuk-tuk aspetta nell''area di sosta di fronte al Museo Thyssen; Età minima 3 anni; Se siete più di 4, prenota un tuk-tuk per ogni gruppo di 4.'
+  respuesta: 'Arriva 10 minuti prima; il tuk-tuk aspetta nell''area di sosta di fronte al Museo Thyssen. Età minima 3 anni. Se siete più di 4, prenota un tuk-tuk per ogni gruppo di 4.'
 opinionEditorial: Unisce in uno solo i due percorsi brevi di Tuk Tuk Zero. Se hai poco tempo e vuoi sia la Madrid degli Asburgo sia il Bernabéu e il quartiere di Salamanca, è quello giusto. Per una sola zona, il percorso più breve del centro storico costa meno. La prenotazione non è rimborsabile.
 atraccionesRelacionadas:
 - bernabeu

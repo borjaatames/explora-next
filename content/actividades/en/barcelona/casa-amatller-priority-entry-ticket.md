@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Casa Amatller, Passeig de Gràcia 41, Barcelona. Metro Passeig de Gràcia (L2, L3, L4). The entrance is in the hallway, next to the café.'
 - pregunta: 'What is included?'
-  respuesta: 'Priority entry to Casa Amatller; Tablet video guide with headphones.'
+  respuesta: 'The price includes priority entry to Casa Amatller and tablet video guide with headphones.'
 opinionEditorial: 'The quiet alternative to Casa Batlló on the same block. Original interiors, small groups and €18: if you have already seen Gaudí from outside, this is the house you will enjoy most inside.'
 guiasRelacionadas:
 - barcelona-in-3-days

@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta en buggy con guía experto; Explicación completa antes de salir; Aventura por pistas en rutas panorámicas; Paradas para fotos; Combustible y seguro; Descuentos para grupos.'
+  respuesta: 'Incluye ruta en buggy con guía experto, explicación completa antes de salir, aventura por pistas en rutas panorámicas, paradas para fotos, combustible y seguro y descuentos para grupos.'
 categoria: aventura
 keywords:
 - buggy puerto del carmen

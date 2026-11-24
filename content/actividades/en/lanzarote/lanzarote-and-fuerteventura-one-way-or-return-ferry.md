@@ -48,13 +48,13 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'One-way or return ferry ticket (depending on option); Priority boarding; Free luggage up to 20 kg per person; Surfboard or bike at no extra cost; Pets travel free in the lounge or on deck.'
+  respuesta: 'The price includes one-way or return ferry ticket (depending on option), priority boarding, free luggage up to 20 kg per person, surfboard or bike at no extra cost, and pets travel free in the lounge or on deck.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Boarding passes arrive by email (check your spam folder); With a return ticket you don''t have to come back the same day; Departures can change with the weather; you get a refund or a new time.'
+  respuesta: 'Boarding passes arrive by email (check your spam folder). With a return ticket you don''t have to come back the same day. Departures can change with the weather; you get a refund or a new time.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Pick-up and drop-off; Car transport.'
+  respuesta: 'The price does not include food and drinks, pick-up and drop-off, or car transport.'
 - pregunta: 'How long does it last?'
-  respuesta: '30 min.'
+  respuesta: 'It lasts 30 min.'
 categoria: excursionesDia
 keywords:
 - ferry lanzarote fuerteventura

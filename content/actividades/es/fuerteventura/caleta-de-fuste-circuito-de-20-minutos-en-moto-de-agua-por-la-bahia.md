@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Moto de agua; Chaleco salvavidas; Monitor.'
+  respuesta: 'Incluye moto de agua, chaleco salvavidas y monitor.'
 categoria: agua
 keywords:
 - moto de agua caleta de fuste

@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Oficina del operador, calle Arfe, 3 (Casco Antiguo, Sevilla). Pasa primero por la oficina de la calle Arfe 3, a unos 4 minutos a pie de la Catedral, y llega 10 minutos antes de la hora reservada. A veces un empleado te acompaña hasta la entrada del monumento; después visitas a tu ritmo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada a la Catedral de Sevilla; Entrada a la Giralda; Audioguía descargable en la app (español, inglés, italiano, francés o alemán).'
+  respuesta: 'Incluye entrada a la Catedral de Sevilla; entrada a la Giralda; y audioguía descargable en la app (español, inglés, italiano, francés o alemán).'
 opinionEditorial: 'Cumple, pero es cara para lo que da y tiene una nota baja (3,9): varios viajeros dicen que la audioguía se queda corta. Si solo quieres entrar, la entrada básica a la Catedral y la Giralda cuesta menos de la mitad; si quieres explicaciones, compensa más una visita con guía.'
 atraccionesRelacionadas:
 - catedral-giralda

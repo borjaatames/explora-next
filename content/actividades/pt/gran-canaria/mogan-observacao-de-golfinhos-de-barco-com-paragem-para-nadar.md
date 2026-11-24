@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio de barco com skipper; Bebidas: refrigerantes, cerveja e água; Comida: tortilha espanhola, salada de massa e queijo; Equipamento de snorkel; Prancha de paddle.'
+  respuesta: 'O preço inclui passeio de barco com skipper; bebidas: refrigerantes, cerveja e água; comida: tortilha espanhola, salada de massa e queijo; equipamento de snorkel; e prancha de paddle.'
 - pregunta: 'O que é preciso saber antes de reservar?'
   respuesta: 'Não recomendado a pessoas com mobilidade reduzida.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: agua
 keywords:
 - observacao de golfinhos mogan

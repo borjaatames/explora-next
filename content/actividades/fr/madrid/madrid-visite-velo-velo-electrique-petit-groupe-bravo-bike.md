@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide dans la langue choisie; Location de vélo à vitesses ou vélo électrique (selon l''option); Casque (obligatoire pour les moins de 16 ans); Sacoche de guidon pour une bouteille.'
+  respuesta: 'Le prix comprend : guide dans la langue choisie, location de vélo à vitesses ou vélo électrique (selon l''option), casque (obligatoire pour les moins de 16 ans) et sacoche de guidon pour une bouteille.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

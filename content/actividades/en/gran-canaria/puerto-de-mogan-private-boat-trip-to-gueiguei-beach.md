@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Private boat trip with professional skipper; Personalised route through the best coves of Mogán; Snorkel gear; Drinks: water, soft drinks and beer; Light snacks; Liability insurance and safety equipment.'
+  respuesta: 'The price includes private boat trip with professional skipper; personalised route through the best coves of Mogán; snorkel gear; drinks: water, soft drinks and beer; light snacks; and liability insurance and safety equipment.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - guigui beach boat trip

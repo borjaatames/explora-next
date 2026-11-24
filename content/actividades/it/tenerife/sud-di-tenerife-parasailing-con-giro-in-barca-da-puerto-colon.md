@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Parascending Tenerife, pontile 4, Puerto Colón, Costa Adeje.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Volo in parasailing; Attrezzatura; Giro in barca; Assicurazione.'
+  respuesta: 'Il prezzo include volo in parasailing, attrezzatura, giro in barca e assicurazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a donne in gravidanza o persone in sedia a rotelle.'
 categoria: agua

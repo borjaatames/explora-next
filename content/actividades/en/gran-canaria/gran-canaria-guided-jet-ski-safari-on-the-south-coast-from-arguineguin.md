@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Professional guide; Guided jet ski safari; Modern jet ski; Fuel; Life jacket; Safety briefing.'
+  respuesta: 'The price includes professional guide, guided jet ski safari, modern jet ski, fuel, life jacket, and safety briefing.'
 categoria: agua
 keywords:
 - jet ski safari gran canaria

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. La hora que reservas es la del quad; la moto de agua se concreta por WhatsApp.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Chaleco salvavidas; Gafas; Guía; Bebidas; Ducha y aseos; Taquillas.'
+  respuesta: 'Incluye chaleco salvavidas, gafas, guía, bebidas, ducha y aseos y taquillas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fianza en efectivo: 50 € por moto de agua y 100 € por quad; Traslados entre las actividades.'
+  respuesta: 'No incluye fianza en efectivo: 50 € por moto de agua y 100 € por quad ni traslados entre las actividades.'
 categoria: aventura
 keywords:
 - moto de agua y quad tenerife

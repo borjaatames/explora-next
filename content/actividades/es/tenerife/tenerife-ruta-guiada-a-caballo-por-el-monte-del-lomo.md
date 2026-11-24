@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta a caballo; Monitor; Casco y guantes.'
+  respuesta: 'Incluye ruta a caballo, monitor y casco y guantes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Peso máximo 85 kg; No apto para menores de 5 años; No apto para embarazadas.'
+  respuesta: 'Peso máximo 85 kg. No apto para menores de 5 años. No apto para embarazadas.'
 categoria: aventura
 keywords:
 - ruta a caballo norte de tenerife

@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Schnorchelausrüstung; Versicherung; Theoretische Einführung; Lehrer; Abholung und Rücktransfer in Costa Teguise, Tahíche und Arrecife.'
+  respuesta: 'Im Preis inbegriffen: Schnorchelausrüstung; Versicherung; Theoretische Einführung; Lehrer; und Abholung und Rücktransfer in Costa Teguise, Tahíche und Arrecife.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Du musst schwimmen können; Nicht für Kinder unter 8.'
+  respuesta: 'Du musst schwimmen können. Nicht für Kinder unter 8.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke; Fotos.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke und Fotos.'
 categoria: agua
 keywords:
 - schnorcheln costa teguise

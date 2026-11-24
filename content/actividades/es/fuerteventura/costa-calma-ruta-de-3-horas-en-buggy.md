@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta de unas 3 horas, por la mañana o por la tarde; Guía.'
+  respuesta: 'Incluye ruta de unas 3 horas, por la mañana o por la tarde; y guía.'
 categoria: aventura
 keywords:
 - buggy costa calma

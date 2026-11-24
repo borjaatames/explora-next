@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía; Transporte en autocar; Recogida en las zonas turísticas del sur; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye guía, transporte en autocar, recogida en las zonas turísticas del sur y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No hay recogida en Las Palmas; No apto para personas con movilidad reducida.'
+  respuesta: 'No hay recogida en Las Palmas. No apto para personas con movilidad reducida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Almuerzo; Recogida y regreso en Las Palmas; Entrada a la iglesia de Arucas.'
+  respuesta: 'No incluye almuerzo, recogida y regreso en Las Palmas ni entrada a la iglesia de Arucas.'
 categoria: excursionesDia
 keywords:
 - excursion gran canaria

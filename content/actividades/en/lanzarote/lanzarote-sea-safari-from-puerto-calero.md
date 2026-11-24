@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Sea Safaris Lanzarote, Calle Pantalanes, Puerto Calero marina.'
 - pregunta: 'What is included?'
-  respuesta: 'Life jackets; Boat safari.'
+  respuesta: 'The price includes life jackets and boat safari.'
 - pregunta: 'What should I know before booking?'
-  respuesta: '8.6-metre motor trimaran licensed for 15 people; Not suitable for children under 2 or pregnant women.'
+  respuesta: '8.6-metre motor trimaran licensed for 15 people. Not suitable for children under 2 or pregnant women.'
 categoria: agua
 keywords:
 - sea safari lanzarote

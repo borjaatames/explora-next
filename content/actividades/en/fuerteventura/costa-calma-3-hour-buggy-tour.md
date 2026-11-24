@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'About 3-hour tour, morning or afternoon; Guide.'
+  respuesta: 'The price includes about 3-hour tour, morning or afternoon; and guide.'
 categoria: aventura
 keywords:
 - buggy costa calma

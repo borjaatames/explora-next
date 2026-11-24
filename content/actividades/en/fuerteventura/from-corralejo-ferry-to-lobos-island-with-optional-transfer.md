@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Corralejo harbour: look for the boat to Lobos before departure time.'
 - pregunta: 'What is included?'
-  respuesta: 'Return ferry ticket; Hotel pick-up and drop-off (if selected).'
+  respuesta: 'The price includes return ferry ticket and hotel pick-up and drop-off (if selected).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The access permit is free and can be requested up to 5 days before your visit; Not wheelchair accessible.'
+  respuesta: 'The access permit is free and can be requested up to 5 days before your visit. Not wheelchair accessible.'
 categoria: excursionesDia
 keywords:
 - lobos ferry corralejo

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Villa Comercial El Campanario, Calle Hibisco 1, Corralejo.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrt zum Strand mit den besten Bedingungen; Brett, Neoprenanzug und Leash; Haftpflicht- und Unfallversicherung; Snack: Obst, Wasser oder Saft.'
+  respuesta: 'Im Preis inbegriffen: Fahrt zum Strand mit den besten Bedingungen; Brett, Neoprenanzug und Leash; Haftpflicht- und Unfallversicherung; und Snack: Obst, Wasser oder Saft.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Kinder unter 6; Nicht für Schwangere; Nicht für Personen über 70 oder nach kürzlichen Operationen.'
+  respuesta: 'Nicht für Kinder unter 6. Nicht für Schwangere. Nicht für Personen über 70 oder nach kürzlichen Operationen.'
 categoria: agua
 keywords:
 - surfkurs 4 stunden corralejo

@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tutta l''attrezzatura da sub; Assicurazione subacquea; Prelievo e ritorno in hotel; Istruzioni da un membro qualificato dello staff; Sconto sui corsi successivi.'
+  respuesta: 'Il prezzo include tutta l''attrezzatura da sub, assicurazione subacquea, prelievo e ritorno in hotel, istruzioni da un membro qualificato dello staff e sconto sui corsi successivi.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 10 anni; Non adatto a donne in gravidanza; Serve un questionario medico; alcune condizioni richiedono un certificato.'
+  respuesta: 'Età minima 10 anni. Non adatto a donne in gravidanza. Serve un questionario medico; alcune condizioni richiedono un certificato.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Boccaglio personale (4 €); Foto subacquee (34 €).'
+  respuesta: 'Il prezzo non include boccaglio personale (4 €) né foto subacquee (34 €).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

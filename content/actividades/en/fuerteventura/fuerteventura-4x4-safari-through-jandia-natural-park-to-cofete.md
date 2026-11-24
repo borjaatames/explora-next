@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guide explanations in your language; Hotel pick-up in designated areas; Closed 4x4 for up to 6 passengers plus driver; Liability insurance.'
+  respuesta: 'The price includes guide explanations in your language, hotel pick-up in designated areas, closed 4x4 for up to 6 passengers plus driver, and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people with back problems or reduced mobility; Show your booking confirmation, printed or on your phone.'
+  respuesta: 'Not suitable for people with back problems or reduced mobility. Show your booking confirmation, printed or on your phone.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food.'
+  respuesta: 'The price does not include food.'
 categoria: excursionesDia
 keywords:
 - cofete jeep safari

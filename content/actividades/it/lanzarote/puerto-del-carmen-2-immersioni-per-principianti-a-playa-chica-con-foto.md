@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Istruttore certificato PADI (max 3 sub); Tutta l''attrezzatura; 2 immersioni di 50 minuti; Assicurazione; Foto e video professionali di entrambe le immersioni; Certificato digitale.'
+  respuesta: 'Il prezzo include istruttore certificato PADI (max 3 sub), tutta l''attrezzatura, 2 immersioni di 50 minuti, assicurazione, foto e video professionali di entrambe le immersioni e certificato digitale.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 10 anni; Non adatto a donne in gravidanza, persone con problemi cardiaci o epilessia; Devi capire perfettamente il briefing di sicurezza nella lingua prenotata.'
+  respuesta: 'Età minima 10 anni. Non adatto a donne in gravidanza, persone con problemi cardiaci o epilessia. Devi capire perfettamente il briefing di sicurezza nella lingua prenotata.'
 categoria: agua
 keywords:
 - immersione playa chica

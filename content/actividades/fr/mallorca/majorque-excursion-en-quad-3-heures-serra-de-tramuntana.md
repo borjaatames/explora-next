@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Quad; Casque; Guide.'
+  respuesta: 'Le prix comprend : quad, casque et guide.'
 categoria: aventura
 keywords:
 - "quad majorque"

@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Puerto Colón, Costa Adeje, Tenerife Sul. Puerto Colón fica em Adeje, na costa sul da ilha, muito perto da Playa de Fañabé. Confirme o cais exato com o operador quando receber a confirmação. Chegue 20 minutos antes da saída.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Excursão de catamarã (≈2 horas); Guia naturalista; Paragem para tomar banho.'
+  respuesta: 'O preço inclui excursão de catamarã (≈2 horas), guia naturalista e paragem para tomar banho.'
 opinionEditorial: A excursão de catamarã a partir de Puerto Colón é a opção mais cómoda para as famílias alojadas no sul de Tenerife. O catamarã dá estabilidade e a paragem para banho transforma o passeio numa atividade completa de meio dia.
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

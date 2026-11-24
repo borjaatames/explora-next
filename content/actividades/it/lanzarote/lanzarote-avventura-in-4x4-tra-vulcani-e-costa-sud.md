@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno; Tragitto in 4x4; Paese di Yaiza; Spiaggia di Papagayo; El Golfo e Charco de los Clicos; Centro visitatori di Timanfaya.'
+  respuesta: 'Il prezzo include prelievo e ritorno, tragitto in 4x4, paese di Yaiza, spiaggia di Papagayo, El Golfo e Charco de los Clicos e centro visitatori di Timanfaya.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Snack; Bevande; Pasti.'
+  respuesta: 'Il prezzo non include snack, bevande né pasti.'
 - pregunta: 'Quanto dura?'
-  respuesta: '6 ore.'
+  respuesta: 'Dura 6 ore.'
 categoria: excursionesDia
 keywords:
 - 4x4 lanzarote

@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Segway i2; Guide; Initiation; Casque et équipement de sécurité; Assurance.'
+  respuesta: 'Le prix comprend : segway i2, guide, initiation, casque et équipement de sécurité et assurance.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelone-en-2-jours

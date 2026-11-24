@@ -56,11 +56,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Lizenzierte, professionelle Guides; Geführter Sonnenuntergang und Sternbeobachtung; Transport ab ausgewählten Treffpunkten (je nach Option); Sternbilder mit grünem Laser erklärt; Profi-Teleskope (Teleskop-Option); Picknick zum Sonnenuntergang (Picknick-Option).'
+  respuesta: 'Im Preis inbegriffen: Lizenzierte, professionelle Guides; geführter Sonnenuntergang und Sternbeobachtung; Transport ab ausgewählten Treffpunkten (je nach Option); Sternbilder mit grünem Laser erklärt; Profi-Teleskope (Teleskop-Option); und Picknick zum Sonnenuntergang (Picknick-Option).'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Warme Kleidung mitnehmen: Nachts wird es kalt; Rückfahrt zum selben Treffpunkt; Nicht für Schwangere, bei Rückenproblemen oder im Rollstuhl.'
+  respuesta: 'Warme Kleidung mitnehmen: Nachts wird es kalt. Rückfahrt zum selben Treffpunkt. Nicht für Schwangere, bei Rückenproblemen oder im Rollstuhl.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abendessen, sofern nicht in der Option enthalten; Professionelle Fotos; Warme Kleidung oder Decken.'
+  respuesta: 'Nicht inbegriffen: Abendessen, sofern nicht in der Option enthalten; professionelle Fotos; und warme Kleidung oder Decken.'
 categoria: nocturno
 keywords:
 - teide sonnenuntergang tour

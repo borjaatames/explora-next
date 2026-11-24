@@ -39,9 +39,9 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado; Comida y bebida; Tripulación profesional con experiencia; Seguro y tasas.'
+  respuesta: 'Incluye traslado, comida y bebida, tripulación profesional con experiencia y seguro y tasas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '4 h 30 min.'
+  respuesta: 'Dura 4 h 30 min.'
 categoria: agua
 keywords:
 - catamaran fuerteventura delfines

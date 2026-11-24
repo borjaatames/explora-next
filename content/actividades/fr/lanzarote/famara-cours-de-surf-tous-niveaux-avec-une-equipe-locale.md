@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Momo Surf School, Calle Brezo de Mar, Urbanización Famara.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Cours de surf complet de 2 heures; Moniteur diplômé; Planche adaptée à votre niveau; Combinaison; Lycra de sécurité; Assurance responsabilité civile.'
+  respuesta: 'Le prix comprend : cours de surf complet de 2 heures, moniteur diplômé, planche adaptée à votre niveau, combinaison, lycra de sécurité et assurance responsabilité civile.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '2 heures.'
+  respuesta: 'L''activité dure 2 heures.'
 categoria: agua
 keywords:
 - momo surf school

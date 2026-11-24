@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. The time you book is for the quad; arrange the jet ski on WhatsApp.'
 - pregunta: 'What is included?'
-  respuesta: 'Life jacket; Goggles; Guide; Drinks; Shower and toilets; Lockers.'
+  respuesta: 'The price includes life jacket, goggles, guide, drinks, shower and toilets, and lockers.'
 - pregunta: 'What is not included?'
-  respuesta: 'Cash deposit: €50 per jet ski and €100 per quad; Transfers between the activities.'
+  respuesta: 'The price does not include cash deposit: €50 per jet ski and €100 per quad or transfers between the activities.'
 categoria: aventura
 keywords:
 - jet ski and quad tenerife

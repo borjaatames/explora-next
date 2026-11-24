@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Carretera a La Escalona 34, El Roque (Granadilla). 30 Minuten vorher da sein: 12:00 für die Tour um 12:30, 16:00 für die Tour um 16:30.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Geführte Tour; Guide; Quad; Sicherheitsausrüstung; Getränke.'
+  respuesta: 'Im Preis inbegriffen: geführte Tour, Guide, Quad, Sicherheitsausrüstung und Getränke.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Personen unter 120 cm.'
 categoria: aventura

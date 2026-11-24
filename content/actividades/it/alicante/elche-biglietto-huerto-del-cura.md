@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Huerto del Cura, c/ Porta de la Morera 49, Elche. Da Alicante, treno regionale Cercanías C1 o autobus fino a Elche (circa 30 minuti) e 15 minuti a piedi.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso all''Huerto del Cura.'
+  respuesta: 'Il prezzo include ingresso all''Huerto del Cura.'
 opinionEditorial: Un'oasi a mezz'ora da Alicante per 7 €. Abbinala a una passeggiata nel Palmeral e alla basilica di Santa María e avrai una mezza giornata perfetta.
 categoria: entradas
 keywords:

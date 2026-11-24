@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Boisson de bienvenue; Capitaine et équipage; Carburant, nettoyage, assurance et taxes; Wifi à bord.'
+  respuesta: 'Le prix comprend : boisson de bienvenue; capitaine et équipage; carburant, nettoyage, assurance et taxes; et wifi à bord.'
 categoria: agua
 guiasRelacionadas:
 - barcelone-en-2-jours

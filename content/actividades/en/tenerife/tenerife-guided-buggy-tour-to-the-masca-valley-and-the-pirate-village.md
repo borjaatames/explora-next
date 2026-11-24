@@ -47,9 +47,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off in Los Cristianos and Costa Adeje; Experienced guide; Liability insurance.'
+  respuesta: 'The price includes pick-up and drop-off in Los Cristianos and Costa Adeje, experienced guide, and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The main driver must be 21+ with a valid driving licence; Give your hotel details when booking, or write "No pick-up"'
+  respuesta: 'The main driver must be 21+ with a valid driving licence. Give your hotel details when booking, or write "No pick-up"'
 categoria: aventura
 keywords:
 - buggy tour masca

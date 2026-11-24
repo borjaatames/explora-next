@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Aperitivo e lanche; Bebida; Transporte desde o hotel.'
+  respuesta: 'O preço inclui aperitivo e lanche, bebida e transporte desde o hotel.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Os condutores precisam de carta B com pelo menos 1 ano; não se aceitam cartas provisórias nem guias em papel; Não recomendado se mergulhou nas 24 horas anteriores.'
+  respuesta: 'Os condutores precisam de carta B com pelo menos 1 ano; não se aceitam cartas provisórias nem guias em papel. Não recomendado se mergulhou nas 24 horas anteriores.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Fotos; Casacos.'
+  respuesta: 'O preço não inclui fotos nem casacos.'
 categoria: aventura
 keywords:
 - mustang teide

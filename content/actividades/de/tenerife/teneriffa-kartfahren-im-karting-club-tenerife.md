@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Kostenloser Shuttlebus im Süden der Insel.'
+  respuesta: 'Im Preis inbegriffen: kostenloser Shuttlebus im Süden der Insel.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Schwangere oder Menschen mit Herzproblemen; Junior-Optionen: Zweisitzer-Kart mit 160 cm³ (1 Erwachsener + 1 Kind bis 5) und Pony Kart mit 120 cm³.'
+  respuesta: 'Nicht für Schwangere oder Menschen mit Herzproblemen. Junior-Optionen: Zweisitzer-Kart mit 160 cm³ (1 Erwachsener + 1 Kind bis 5) und Pony Kart mit 120 cm³.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: aventura
 keywords:
 - kartfahren teneriffa

@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer in den Urlaubsorten im Süden; Tauchausrüstung; Tauchunfallversicherung.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer in den Urlaubsorten im Süden, Tauchausrüstung und Tauchunfallversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Vor dem Tauchen ist ein medizinischer Fragebogen nötig; Bei Asthma, Epilepsie, Diabetes, Bluthochdruck oder Herzerkrankungen brauchst du eine ärztliche Freigabe; Mindestalter 10 Jahre.'
+  respuesta: 'Vor dem Tauchen ist ein medizinischer Fragebogen nötig. Bei Asthma, Epilepsie, Diabetes, Bluthochdruck oder Herzerkrankungen brauchst du eine ärztliche Freigabe. Mindestalter 10 Jahre.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'GoPro-Verleih (20 € pro Kamera).'
+  respuesta: 'Nicht inbegriffen: GoPro-Verleih (20 € pro Kamera).'
 categoria: agua
 keywords:
 - schnuppertauchen gran canaria

@@ -64,11 +64,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, Spain.'
 - pregunta: 'What is included?'
-  respuesta: 'A free shot at each of the 4 venues (3 bars/pubs and 1 nightclub); Tips included in the price; Entry to all 4 venues on the route.'
+  respuesta: 'The price includes a free shot at each of the 4 venues (3 bars/pubs and 1 nightclub), tips included in the price, and entry to all 4 venues on the route.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Adults only, 18+; Not suitable for wheelchairs or strollers, and pets aren''t allowed; Not recommended if you have back or heart problems, or are pregnant.'
+  respuesta: 'Adults only, 18+. Not suitable for wheelchairs or strollers, and pets aren''t allowed. Not recommended if you have back or heart problems, or are pregnant.'
 - pregunta: 'What is not included?'
-  respuesta: 'Transport; Food and drinks beyond the included shots.'
+  respuesta: 'The price does not include transport or food and drinks beyond the included shots.'
 opinionEditorial: 'Compared to our other Madrid pub crawl, this is the more flexible option: free cancellation up to 24h before and a guide in six languages, a good pick for international groups. It has one venue fewer (4 instead of 5), and the dress code is stricter — no sportswear, and no sandals or shorts for the guys.'
 atraccionesRelacionadas:
 - otros-madrid

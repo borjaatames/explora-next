@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Steuern und Gebühren; Guide.'
+  respuesta: 'Im Preis inbegriffen: Steuern und Gebühren und Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Einzeljetski ab 16 mit schriftlicher Zustimmung der Eltern; Doppeljetski-Fahrer ab 18; Beifahrer ab 10; Gültigen Lichtbildausweis mitbringen.'
+  respuesta: 'Einzeljetski ab 16 mit schriftlicher Zustimmung der Eltern; Doppeljetski-Fahrer ab 18. Beifahrer ab 10. Gültigen Lichtbildausweis mitbringen.'
 categoria: agua
 keywords:
 - jetski 1 stunde teneriffa

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off in Playa Blanca; Speedboat transfer to the Museo Atlántico; Certified dive instructor; All diving equipment.'
+  respuesta: 'The price includes pick-up and drop-off in Playa Blanca, speedboat transfer to the Museo Atlántico, certified dive instructor, and all diving equipment.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 12; Not suitable for pregnant women, wheelchair users or people with breathing problems, pre-existing conditions or high blood pressure; Do not fly for at least 18 hours afterwards.'
+  respuesta: 'Minimum age 12. Not suitable for pregnant women, wheelchair users or people with breathing problems, pre-existing conditions or high blood pressure. Do not fly for at least 18 hours afterwards.'
 categoria: agua
 keywords:
 - museo atlantico diving

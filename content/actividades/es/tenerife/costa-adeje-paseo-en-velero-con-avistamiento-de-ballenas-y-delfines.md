@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Blue Jack Sail, Avenida de Colón 5, Puerto Colón, Costa Adeje. Lleva bañador, toalla y protector solar; a bordo se va descalzo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en velero; Fruta fresca y bocadillos; Bebidas: cerveza, cava, vino, refrescos, zumo y agua; Equipo básico de esnórquel.'
+  respuesta: 'Incluye paseo en velero; fruta fresca y bocadillos; bebidas: cerveza, cava, vino, refrescos, zumo y agua; y equipo básico de esnórquel.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida y regreso al hotel.'
+  respuesta: 'No incluye recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - velero tenerife ballenas

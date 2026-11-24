@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto de Los Gigantes, Tenerife. Los Gigantes is on Tenerife''s west coast, about 45 km from Santa Cruz and 30 km from Las Américas. From the south, take the TF-1 and TF-47 motorways. Parking available at the port. Confirm the exact meeting point with the operator on your voucher.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip (2–3 hours); Whale and dolphin watching with a naturalist guide.'
+  respuesta: 'The price includes boat trip (2–3 hours) and whale and dolphin watching with a naturalist guide.'
 opinionEditorial: 'Los Gigantes combines two of Tenerife''s greatest natural spectacles: the tallest sea cliffs in Spain and resident pilot whales just offshore. One of the best whale-watching sites in Europe.'
 guiasRelacionadas:
 - whale-watching-tenerife

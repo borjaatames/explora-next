@@ -64,11 +64,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, España.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Chupito gratis en cada uno de los 4 locales (3 bares/pubs y 1 discoteca); Propinas incluidas en el precio; Entrada a los 4 locales de la ruta.'
+  respuesta: 'Incluye chupito gratis en cada uno de los 4 locales (3 bares/pubs y 1 discoteca), propinas incluidas en el precio y entrada a los 4 locales de la ruta.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Actividad solo para mayores de 18 años; No apta para sillas de ruedas ni cochecitos, ni se admiten mascotas; No recomendada si tienes problemas de espalda o de corazón, o estás embarazada.'
+  respuesta: 'Actividad solo para mayores de 18 años. No apta para sillas de ruedas ni cochecitos, ni se admiten mascotas. No recomendada si tienes problemas de espalda o de corazón, o estás embarazada.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Transporte; Comida y bebida adicional a los chupitos incluidos.'
+  respuesta: 'No incluye transporte ni comida y bebida adicional a los chupitos incluidos.'
 opinionEditorial: 'Frente a la otra ruta de pub crawl que tenemos en Madrid, esta es la opción más flexible: cancelación gratuita hasta 24h antes y guía en seis idiomas, buena elección si viajas en un grupo internacional. Tiene un local menos (4 frente a 5) y el código de vestimenta es más estricto, así que nada de ropa deportiva ni sandalias para ellos.'
 atraccionesRelacionadas:
 - otros-madrid

@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Sem ponto de encontro: a rota é ativada no telemóvel com o código recebido após a compra, à hora e no local de Málaga que preferir.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Visita ao seu ritmo, sem horário e sem grupo; Escolha livre das paragens ao longo da rota; Áudio para ouvir quando quiser, com opção de pausar e retomar; Disponibilidade 24 horas por dia, 365 dias por ano; Recomendações de restaurantes e atividades para famílias integradas na app.'
+  respuesta: 'O preço inclui visita ao seu ritmo, sem horário e sem grupo; escolha livre das paragens ao longo da rota; áudio para ouvir quando quiser, com opção de pausar e retomar; disponibilidade 24 horas por dia, 365 dias por ano; e recomendações de restaurantes e atividades para famílias integradas na app.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Adequado para toda a família: idade mínima de 1 ano; App disponível em espanhol, inglês, português, francês, italiano e alemão; Acessível a cadeiras de rodas e carrinhos de bebé; cães de assistência são bem-vindos.'
+  respuesta: 'Adequado para toda a família: idade mínima de 1 ano. App disponível em espanhol, inglês, português, francês, italiano e alemão. Acessível a cadeiras de rodas e carrinhos de bebé; cães de assistência são bem-vindos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Guia presencial (é uma experiência totalmente autoguiada, sem acompanhante).'
+  respuesta: 'O preço não inclui guia presencial (é uma experiência totalmente autoguiada, sem acompanhante).'
 opinionEditorial: 'É a escolha certa para quem quer explorar Málaga à sua maneira, sem horários nem grupo: começa a rota quando lhe apetecer e avança ao ritmo que lhe convier. O que não tem é a proximidade de um guia ao vivo, as suas histórias ou a possibilidade de fazer perguntas no momento; se é isso que procura, um tour com guia presencial é mais indicado. Para famílias, viajantes independentes ou quem gosta de explorar com calma, funciona muito bem.'
 atraccionesRelacionadas:
 - alcazaba

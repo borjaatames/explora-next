@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Kajak, Paddel und Schwimmweste; Neoprenanzug, Maske und Schnorchel (oder Vollgesichtsmaske); Wasser und Snack.'
+  respuesta: 'Im Preis inbegriffen: Kajak, Paddel und Schwimmweste; Neoprenanzug, Maske und Schnorchel (oder Vollgesichtsmaske); und Wasser und Snack.'
 categoria: agua
 keywords:
 - "kajak teneriffa süd"

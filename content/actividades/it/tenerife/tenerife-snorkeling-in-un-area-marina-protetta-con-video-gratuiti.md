@@ -64,9 +64,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Magilu, Av. Ocira 27, Abades (costa est di Tenerife).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Maschera, boccaglio, pinne, calzari e muta; Istruttori multilingue; 50 minuti di snorkeling guidato; Foto e video gratuiti; Aiuto extra per bambini piccoli e anziani; Assicurazione e acqua.'
+  respuesta: 'Il prezzo include maschera, boccaglio, pinne, calzari e muta; istruttori multilingue; 50 minuti di snorkeling guidato; foto e video gratuiti; aiuto extra per bambini piccoli e anziani; e assicurazione e acqua.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Bisogna saper nuotare; tra 30 e 140 kg; L''operatore ti scrive il giorno prima per chiederti le taglie; Arriva già in costume.'
+  respuesta: 'Bisogna saper nuotare; tra 30 e 140 kg. L''operatore ti scrive il giorno prima per chiederti le taglie. Arriva già in costume.'
 categoria: agua
 keywords:
 - snorkeling tenerife

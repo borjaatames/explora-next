@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Visite à vélo avec guide local; Vélo classique ou électrique au choix; Arrêts photo; Conseils locaux; Histoire et monuments racontés.'
+  respuesta: 'Le prix comprend : visite à vélo avec guide local, vélo classique ou électrique au choix, arrêts photo, conseils locaux et histoire et monuments racontés.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Savoir faire du vélo est obligatoire; Enfants de moins de 6 ans (20 kg, 140 cm max.) gratuits en siège enfant.'
+  respuesta: 'Savoir faire du vélo est obligatoire. Enfants de moins de 6 ans (20 kg, 140 cm max.) gratuits en siège enfant.'
 categoria: aventura
 keywords:
 - visite vélo santa cruz de tenerife

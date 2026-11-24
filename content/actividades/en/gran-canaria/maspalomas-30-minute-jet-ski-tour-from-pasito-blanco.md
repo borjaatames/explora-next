@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Equipment; Accident insurance; Safety instructor; Toilets; Free parking.'
+  respuesta: 'The price includes equipment, accident insurance, safety instructor, toilets, and free parking.'
 categoria: agua
 keywords:
 - jet ski maspalomas

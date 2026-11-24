@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte en vehículo Mercedes con aire acondicionado; Anfitrión durante todo el tour; Entradas a los monumentos; Cata ibérica; Tasas.'
+  respuesta: 'Incluye transporte en vehículo Mercedes con aire acondicionado, anfitrión durante todo el tour, entradas a los monumentos, cata ibérica y tasas.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

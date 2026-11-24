@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Quesería La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Café de bienvenida; Taller guiado de elaboración de queso; Técnicas de ordeño a mano y a máquina; Elaboración de tu propio queso majorero; Todas las herramientas y el equipo; Desayuno: bocadillo de queso fresco, tabla de quesos locales, mojos canarios y mermeladas caseras.'
+  respuesta: 'Incluye café de bienvenida; taller guiado de elaboración de queso; técnicas de ordeño a mano y a máquina; elaboración de tu propio queso majorero; todas las herramientas y el equipo; y desayuno: bocadillo de queso fresco, tabla de quesos locales, mojos canarios y mermeladas caseras.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Bebidas extra.'
+  respuesta: 'No incluye bebidas extra.'
 categoria: talleres
 keywords:
 - taller de queso fuerteventura

@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura; Istruzioni e addestramento; Lancio da 3.000 metri; Caduta libera a oltre 200 km/h; Volo in paracadute di 5-8 minuti; Attività di 90 minuti.'
+  respuesta: 'Il prezzo include attrezzatura, istruzioni e addestramento, lancio da 3.000 metri, caduta libera a oltre 200 km/h, volo in paracadute di 5-8 minuti e attività di 90 minuti.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Massimo 100 kg (il peso dichiarato viene verificato al check-in); Non adatto a bambini sotto i 9 anni, donne in gravidanza o se hai fatto immersioni nelle 24 ore precedenti.'
+  respuesta: 'Massimo 100 kg (il peso dichiarato viene verificato al check-in). Non adatto a bambini sotto i 9 anni, donne in gravidanza o se hai fatto immersioni nelle 24 ore precedenti.'
 categoria: aventura
 keywords:
 - paracadutismo gran canaria

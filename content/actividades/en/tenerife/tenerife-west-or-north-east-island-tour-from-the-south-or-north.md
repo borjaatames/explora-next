@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transport; Specialist guide; Stops at points of interest.'
+  respuesta: 'The price includes transport, specialist guide, and stops at points of interest.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Winding mountain roads at altitude: bear it in mind if you get car-sick; Not for children under 8 or people with reduced mobility.'
+  respuesta: 'Winding mountain roads at altitude: bear it in mind if you get car-sick. Not for children under 8 or people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch.'
+  respuesta: 'The price does not include lunch.'
 categoria: excursionesDia
 keywords:
 - tenerife island tour

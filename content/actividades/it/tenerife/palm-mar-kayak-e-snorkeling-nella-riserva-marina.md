@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Easy Kayak Tenerife, Avenida El Palm-Mar 94, Palm-Mar.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Kayak doppi stabili e pagaie; Giubbotto salvagente; Attrezzatura da snorkeling; Sacca stagna; Guida locale; Acqua e snack.'
+  respuesta: 'Il prezzo include kayak doppi stabili e pagaie, giubbotto salvagente, attrezzatura da snorkeling, sacca stagna, guida locale e acqua e snack.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a bambini sotto i 6 anni o donne in gravidanza; Massimo 100 kg.'
+  respuesta: 'Non adatto a bambini sotto i 6 anni o donne in gravidanza. Massimo 100 kg.'
 categoria: agua
 keywords:
 - kayak palm mar

@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Timanfaya National Park entry; Wine tasting; Pick-up at meeting points; Return ferry Fuerteventura–Lanzarote; Official guide; Air-conditioned coach.'
+  respuesta: 'The price includes Timanfaya National Park entry, wine tasting, pick-up at meeting points, return ferry Fuerteventura–Lanzarote, official guide, and air-conditioned coach.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Guaranteed in English only; other languages need at least 8 people; Bring ID or passport to travel between the islands; Not suitable for people prone to motion sickness.'
+  respuesta: 'Guaranteed in English only; other languages need at least 8 people. Bring ID or passport to travel between the islands. Not suitable for people prone to motion sickness.'
 categoria: excursionesDia
 keywords:
 - lanzarote day trip from fuerteventura

@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Indiquez taille, poids et pointure à la réservation.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement; Moniteurs de plongée PADI; Assurance.'
+  respuesta: 'Le prix comprend : équipement, moniteurs de plongée PADI et assurance.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes; Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
+  respuesta: 'Âge minimum 10 ans. Déconseillé aux femmes enceintes. Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
 categoria: agua
 keywords:
 - baptême de plongée puerto rico gran canaria

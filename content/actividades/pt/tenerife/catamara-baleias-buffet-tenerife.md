@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Porto no sul de Tenerife (confirmado no voucher). O ponto exato de partida é confirmado no voucher. Geralmente na zona de Los Cristianos ou Costa Adeje. Chegue 20-30 minutos antes da saída.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'O buffet distingue este passeio dos restantes; é uma boa opção se saírem logo de manhã; Sendo de 4 horas, têm mais tempo na água e mais tempo de observação; Avaliado com 4,8/5: a melhor pontuação dos passeios de baleias em Tenerife disponíveis no GYG.'
+  respuesta: 'O buffet distingue este passeio dos restantes; é uma boa opção se saírem logo de manhã. Sendo de 4 horas, têm mais tempo na água e mais tempo de observação. Avaliado com 4,8/5: a melhor pontuação dos passeios de baleias em Tenerife disponíveis no GYG.'
 opinionEditorial: O passeio mais completo e mais bem avaliado (4,8★) dos três disponíveis em Tenerife. Se procura uma experiência de meio dia sem se preocupar em levar comida nem bebida, este é o que se destaca.
 guiasRelacionadas:
 - observacao-de-baleias-em-tenerife

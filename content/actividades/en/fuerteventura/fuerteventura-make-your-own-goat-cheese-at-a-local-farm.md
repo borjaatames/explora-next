@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Quesería La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: 'What is included?'
-  respuesta: 'Welcome coffee; Guided cheese-making workshop; Hand and machine milking techniques; Making your own Majorero cheese; All tools and equipment; Breakfast: fresh cheese sandwich, local cheese board, Canarian mojos and home-made jams.'
+  respuesta: 'The price includes welcome coffee; guided cheese-making workshop; hand and machine milking techniques; making your own Majorero cheese; all tools and equipment; and breakfast: fresh cheese sandwich, local cheese board, Canarian mojos and home-made jams.'
 - pregunta: 'What is not included?'
-  respuesta: 'Extra drinks.'
+  respuesta: 'The price does not include extra drinks.'
 categoria: talleres
 keywords:
 - cheese making fuerteventura

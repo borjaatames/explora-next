@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Flipper Uno, C. Poblado Marinero, local 20, port de Los Gigantes. Présentez-vous 30 minutes avant le départ.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en bateau avec guide; Temps libre pour nager; Boissons : cola, soda, eau, bière et vin rouge; Paella poulet et légumes (selon l''option); Toilettes à bord.'
+  respuesta: 'Le prix comprend : sortie en bateau avec guide; temps libre pour nager; boissons : cola, soda, eau, bière et vin rouge; paella poulet et légumes (selon l''option); et toilettes à bord.'
 categoria: agua
 keywords:
 - los gigantes excursion bateau

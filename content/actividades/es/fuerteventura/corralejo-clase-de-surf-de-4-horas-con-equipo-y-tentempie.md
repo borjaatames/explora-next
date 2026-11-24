@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Villa Comercial El Campanario, Calle Hibisco 1, Corralejo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado a la playa con las mejores condiciones; Tabla, neopreno e invento; Seguro de responsabilidad civil y accidentes; Tentempié: fruta, agua o zumo.'
+  respuesta: 'Incluye traslado a la playa con las mejores condiciones; tabla, neopreno e invento; seguro de responsabilidad civil y accidentes; y tentempié: fruta, agua o zumo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 6 años; No apto para embarazadas; No apto para mayores de 70 años ni tras una operación reciente.'
+  respuesta: 'No apto para menores de 6 años. No apto para embarazadas. No apto para mayores de 70 años ni tras una operación reciente.'
 categoria: agua
 keywords:
 - clase de surf 4 horas corralejo

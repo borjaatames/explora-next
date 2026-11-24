@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Nortour, Hafen von Corralejo.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fährtickets hin und zurück; Pflicht-Reiseversicherung.'
+  respuesta: 'Im Preis inbegriffen: Fährtickets hin und zurück und Pflicht-Reiseversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Sei mindestens 20 Minuten vorher da; das Boarding schließt 10 Minuten vor Abfahrt; Wasser und Essen mitnehmen: Auf Lobos gibt es weder Läden noch Trinkwasser; Wähle die Option mit Genehmigung, wenn du auf La Caldera steigen willst.'
+  respuesta: 'Sei mindestens 20 Minuten vorher da; das Boarding schließt 10 Minuten vor Abfahrt. Wasser und Essen mitnehmen: Auf Lobos gibt es weder Läden noch Trinkwasser. Wähle die Option mit Genehmigung, wenn du auf La Caldera steigen willst.'
 categoria: excursionesDia
 keywords:
 - fähre isla de lobos

@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Aquasports Fuerteventura, puerto de Morro Jable.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en barco guiado.'
+  respuesta: 'Incluye paseo en barco guiado.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Sé puntual: no hay margen de espera; Lleva un jersey y una toalla.'
+  respuesta: 'Sé puntual: no hay margen de espera. Lleva un jersey y una toalla.'
 categoria: agua
 keywords:
 - lancha rapida morro jable delfines

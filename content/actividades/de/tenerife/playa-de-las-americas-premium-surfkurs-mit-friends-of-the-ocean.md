@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Surfkurs von 2 Stunden (Theorie und Praxis); Komplette Ausrüstung: Brett, Neoprenanzug, Füßlinge und Versicherung; Duschen, Schließfächer, Gratiskaffee und Wasser; 1 zusätzliche Stunde Material gratis.'
+  respuesta: 'Im Preis inbegriffen: Surfkurs von 2 Stunden (Theorie und Praxis); komplette Ausrüstung: Brett, Neoprenanzug, Füßlinge und Versicherung; Duschen, Schließfächer, Gratiskaffee und Wasser; und 1 zusätzliche Stunde Material gratis.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Kurse für alle Niveaus und Altersgruppen; Lehrer sprechen Spanisch, Englisch, Französisch, Deutsch und Russisch.'
+  respuesta: 'Kurse für alle Niveaus und Altersgruppen. Lehrer sprechen Spanisch, Englisch, Französisch, Deutsch und Russisch.'
 categoria: agua
 keywords:
 - surfkurs playa de las americas

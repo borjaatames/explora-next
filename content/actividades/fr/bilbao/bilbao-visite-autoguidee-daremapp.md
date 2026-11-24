@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Pas de point de rendez-vous physique : activez le parcours depuis votre téléphone avec le code reçu après l''achat, quand et où vous voulez à Bilbao.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Accès au parcours autoguidé de Bilbao via l''application DareMapp, avec un code de référence envoyé après l''achat; Audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); Liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; Disponibilité 24 h/24, 365 jours par an, sans date d''expiration; Accès dans l''application à des recommandations de restaurants et d''activités en famille.'
+  respuesta: 'Le prix comprend : accès au parcours autoguidé de Bilbao via l''application DareMapp, avec un code de référence envoyé après l''achat; audioguide en 6 langues (espagnol, anglais, portugais, français, italien, allemand); liberté totale pour choisir votre rythme et vos arrêts, faire une pause ou reprendre quand vous voulez; disponibilité 24 h/24, 365 jours par an, sans date d''expiration; et accès dans l''application à des recommandations de restaurants et d''activités en famille.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Convient à toute la famille : âge minimum 1 an; Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; quelques tronçons du Casco Viejo présentent de légères pentes; Les animaux d''assistance sont acceptés.'
+  respuesta: 'Convient à toute la famille : âge minimum 1 an. Adapté aux fauteuils roulants et aux poussettes, puisque vous parcourez l''itinéraire à votre rythme ; quelques tronçons du Casco Viejo présentent de légères pentes. Les animaux d''assistance sont acceptés.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome); Transport jusqu''au début du parcours; Billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
+  respuesta: 'Ne sont pas inclus : guide ou accompagnateur sur place (il s''agit d''une expérience entièrement autoguidée et autonome), transport jusqu''au début du parcours et billets d''entrée aux monuments ou musées du parcours (le cas échéant).'
 opinionEditorial: Elle permet de combiner le Bilbao classique (Casco Viejo, palais, cathédrale) et le Guggenheim sans dépendre des horaires des visites guidées. Avec plus de 15 points d'intérêt, c'est un parcours de longueur moyenne, plus long que celui de Gérone mais plus court que celui de Barcelone. Idéal pour les voyageurs qui préfèrent avancer à leur rythme et prendre leur temps pour les photos.
 atraccionesRelacionadas:
 - casco-viejo

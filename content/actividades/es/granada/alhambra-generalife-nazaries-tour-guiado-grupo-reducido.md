@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Junto a la taquilla del Generalife, paseo del Generalife (Granada). Busca al personal con camiseta morada de Crown Tours. Lleva el pasaporte o DNI: la entrada es nominativa.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entradas a la Alhambra con Palacios Nazaríes; Guía oficial; Auriculares.'
+  respuesta: 'Incluye entradas a la Alhambra con Palacios Nazaríes, guía oficial y auriculares.'
 opinionEditorial: 'Una visita completa y muy bien valorada, con entradas incluidas y guía en tu idioma. Su pega es la cancelación: solo devuelven la mitad.'
 atraccionesRelacionadas:
 - alhambra

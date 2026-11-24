@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Avenida de Alemania 22, Playa del Inglés (San Bartolomé de Tirajana).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Bici elettrica; Casco e gilet riflettente; Guida locale; Bottiglia d''acqua da 0,5 l; 1 bibita: soda tropicale, cola, aranciata, tè freddo o caffè.'
+  respuesta: 'Il prezzo include bici elettrica; casco e gilet riflettente; guida locale; bottiglia d''acqua da 0,5 l; e 1 bibita: soda tropicale, cola, aranciata, tè freddo o caffè.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a minori di 14 anni, persone oltre i 70 anni o con mobilità ridotta.'
 categoria: aventura

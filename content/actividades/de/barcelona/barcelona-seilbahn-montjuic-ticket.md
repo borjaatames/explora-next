@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Telefèric de Montjuïc, Talstation, Av. de Miramar, Barcelona. Nimm die Metrolinie 2 oder 3 bis Paral·lel und dann die Standseilbahn auf den Montjuïc (mit T-Casual kostenlos). Die Talstation der Seilbahn liegt oben an der Standseilbahn. Von dort fährt die Seilbahn hinauf zur Burg Montjuïc.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Seilbahnticket hin und zurück.'
+  respuesta: 'Im Preis inbegriffen: Seilbahnticket hin und zurück.'
 opinionEditorial: Die Seilbahn auf den Montjuïc bietet dir den besten Panoramablick Barcelonas, besser als der Tibidabo für die Kombination aus Stadt und Meer. Die 10-minütige Fahrt ist kurz, aber eindrucksvoll, vor allem bei Sonnenuntergang.
 guiasRelacionadas:
 - barcelona-in-3-tagen

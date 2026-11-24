@@ -60,9 +60,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Posto su barca a vela di 41 piedi con skipper; Carburante; Snorkeling e 2 SUP; Bagno a bordo.'
+  respuesta: 'Il prezzo include posto su barca a vela di 41 piedi con skipper, carburante, snorkeling e 2 SUP e bagno a bordo.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Prezzo a persona (max 7 a bordo); L’itinerario dipende da vento e mare; Non accessibile in sedia a rotelle.'
+  respuesta: 'Prezzo a persona (max 7 a bordo). L’itinerario dipende da vento e mare. Non accessibile in sedia a rotelle.'
 opinionEditorial: Il modo più economico per passare un’intera giornata in barca a vela a Ibiza.
 atraccionesRelacionadas:
 - formentera

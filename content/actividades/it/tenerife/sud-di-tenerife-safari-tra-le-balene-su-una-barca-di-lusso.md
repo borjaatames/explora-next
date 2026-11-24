@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel; Cibo e 2 bevande gratuite.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel e cibo e 2 bevande gratuite.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Prelievo incluso nel sud dell''isola.'
 - pregunta: 'Quanto dura?'
-  respuesta: '3 ore.'
+  respuesta: 'Dura 3 ore.'
 categoria: agua
 keywords:
 - balene barca di lusso tenerife

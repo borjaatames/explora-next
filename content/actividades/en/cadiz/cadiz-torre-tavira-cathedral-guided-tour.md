@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Segismundo Moret monument, Plaza de San Juan de Dios, Cádiz. Facing City Hall, a 5-minute walk from the train station.'
 - pregunta: 'What is included?'
-  respuesta: 'Guide; Torre Tavira entry; Cathedral entry.'
+  respuesta: 'The price includes guide, Torre Tavira entry, and Cathedral entry.'
 opinionEditorial: The two key visits in Cádiz in one morning, with commentary. The camera obscura surprises everyone.
 guiasRelacionadas:
 - cadiz-in-one-day

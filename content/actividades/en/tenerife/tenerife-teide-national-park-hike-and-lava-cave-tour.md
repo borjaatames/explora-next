@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up; Minibus transfer; Guided visit; Visit to a lava tube; Light picnic: tea or juice, sweets, cereal bar, nuts and dried fruit; Photo session with 20–30 photos.'
+  respuesta: 'The price includes hotel pick-up; minibus transfer; guided visit; visit to a lava tube; light picnic: tea or juice, sweets, cereal bar, nuts and dried fruit; and photo session with 20–30 photos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Pick-up in the south from Los Gigantes to Los Cristianos; If your accommodation is off the main road, you''re picked up at the nearest convenient point.'
+  respuesta: 'Pick-up in the south from Los Gigantes to Los Cristianos. If your accommodation is off the main road, you''re picked up at the nearest convenient point.'
 - pregunta: 'How long does it last?'
-  respuesta: '6 hours.'
+  respuesta: 'It lasts 6 hours.'
 categoria: aventura
 keywords:
 - teide hike lava cave

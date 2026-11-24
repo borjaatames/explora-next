@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en voilier avec skipper; Open bar avec boissons alcoolisées; Snacks à bord.'
+  respuesta: 'Le prix comprend : sortie en voilier avec skipper, open bar avec boissons alcoolisées et snacks à bord.'
 categoria: agua
 keywords:
 - "voilier barcelone coucher de soleil"

@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Playa de la Granadella, Jávea. A unos 20 minutos en coche del centro de Jávea. En verano el acceso a la cala se regula: consulta cómo llegar al reservar.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Kayak y remo; Chaleco salvavidas; Equipo de esnórquel; Guía.'
+  respuesta: 'Incluye kayak y remo, chaleco salvavidas, equipo de esnórquel y guía.'
 opinionEditorial: 'Una de las mejores mañanas de mar de la Costa Blanca: acantilados, cuevas y agua transparente. Merece el viaje desde Alicante.'
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante

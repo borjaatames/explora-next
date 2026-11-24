@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Parascending Tenerife, pontoon 4, Puerto Colón, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Parasailing flight; Equipment; Boat ride; Insurance.'
+  respuesta: 'The price includes parasailing flight, equipment, boat ride, and insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for pregnant women or wheelchair users.'
 categoria: agua

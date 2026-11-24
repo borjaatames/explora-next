@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ausrüstung; Unfallversicherung; Sicherheitsbetreuer; Toiletten; Kostenloser Parkplatz.'
+  respuesta: 'Im Preis inbegriffen: Ausrüstung, Unfallversicherung, Sicherheitsbetreuer, Toiletten und kostenloser Parkplatz.'
 categoria: agua
 keywords:
 - jetski maspalomas

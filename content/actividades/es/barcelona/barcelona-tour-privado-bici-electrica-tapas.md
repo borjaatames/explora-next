@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía con licencia; Bici eléctrica y casco; Degustación de tapas.'
+  respuesta: 'Incluye guía con licencia, bici eléctrica y casco y degustación de tapas.'
 opinionEditorial: En bici eléctrica se cubre en una mañana lo que a pie llevaría el día, y en privado se para donde queráis. Las tapas del final son un buen cierre.
 atraccionesRelacionadas:
 - gotico

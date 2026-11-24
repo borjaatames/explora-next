@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Velero privado con patrón; Aperitivo y bebidas (1 botella de vino o cava por cada 2 personas); Agua; Equipo de snorkel, paddle surf y kayak.'
+  respuesta: 'Incluye velero privado con patrón; aperitivo y bebidas (1 botella de vino o cava por cada 2 personas); agua; y equipo de snorkel, paddle surf y kayak.'
 opinionEditorial: Es Vedrà al atardecer es una de las imágenes más famosas de Ibiza, y verla desde un velero propio con una copa de cava es difícil de superar.
 atraccionesRelacionadas:
 - vedra-atardecer

@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasporto in Mercedes con aria condizionata; Accompagnatore per tutto il tour; Ingressi ai monumenti; Degustazione iberica; Tasse.'
+  respuesta: 'Il prezzo include trasporto in Mercedes con aria condizionata, accompagnatore per tutto il tour, ingressi ai monumenti, degustazione iberica e tasse.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

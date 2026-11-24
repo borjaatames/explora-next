@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Aperitivo y tentempié; Bebida; Transporte desde el hotel.'
+  respuesta: 'Incluye aperitivo y tentempié, bebida y transporte desde el hotel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Los conductores necesitan carné B con al menos 1 año; no se aceptan carnés provisionales ni resguardos en papel; No apto si has buceado en las 24 horas anteriores.'
+  respuesta: 'Los conductores necesitan carné B con al menos 1 año; no se aceptan carnés provisionales ni resguardos en papel. No apto si has buceado en las 24 horas anteriores.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Fotos; Chaquetas y abrigos.'
+  respuesta: 'No incluye fotos ni chaquetas y abrigos.'
 categoria: aventura
 keywords:
 - mustang teide

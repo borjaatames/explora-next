@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Prelievo nel nord di Maiorca (a seconda dell''opzione); la barca arriva a Port de Pollença. Il punto di prelievo dipende dall''opzione che scegli al momento della prenotazione (diverse zone del nord di Maiorca). Il minibus va al belvedere Es Colomer e alla spiaggia di Formentor, e il ritorno si fa in barca fino a Port de Pollença.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Minibus panoramico di andata e ritorno; Guida locale; Sosta al belvedere Es Colomer; Barca dalla spiaggia di Formentor a Port de Pollença; Assicurazione di viaggio.'
+  respuesta: 'Il prezzo include minibus panoramico di andata e ritorno, guida locale, sosta al belvedere Es Colomer, barca dalla spiaggia di Formentor a Port de Pollença e assicurazione di viaggio.'
 opinionEditorial: Il modo più comodo di vedere Formentor in alta stagione, quando l'auto è un problema. Il tratto in barca nella baia è la parte migliore.
 categoria: agua
 keywords:

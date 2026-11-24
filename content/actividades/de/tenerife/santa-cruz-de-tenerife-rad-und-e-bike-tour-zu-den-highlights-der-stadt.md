@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Radtour mit lokalem Guide; Wahl zwischen normalem Rad und E-Bike; Fotostopps; Lokale Empfehlungen; Geschichten zu Geschichte und Denkmälern.'
+  respuesta: 'Im Preis inbegriffen: Radtour mit lokalem Guide, Wahl zwischen normalem Rad und E-Bike, Fotostopps, lokale Empfehlungen und Geschichten zu Geschichte und Denkmälern.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Du musst Rad fahren können; Kinder unter 6 (max. 20 kg, 140 cm) fahren gratis im Kindersitz.'
+  respuesta: 'Du musst Rad fahren können. Kinder unter 6 (max. 20 kg, 140 cm) fahren gratis im Kindersitz.'
 categoria: aventura
 keywords:
 - radtour santa cruz de tenerife

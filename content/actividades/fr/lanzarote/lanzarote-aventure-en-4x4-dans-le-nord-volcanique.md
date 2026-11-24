@@ -54,11 +54,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge à votre logement; Sortie en 4x4; Arrêts photo à Guatiza, au Mirador de los Helechos et au Mirador de las Nieves; Visite de la ville historique de Teguise; Arrêt panoramique sur la côte de Famara; Arrêt dans un office de tourisme sur les origines volcaniques.'
+  respuesta: 'Le prix comprend : prise en charge à votre logement; sortie en 4x4; arrêts photo à Guatiza, au Mirador de los Helechos et au Mirador de las Nieves; visite de la ville historique de Teguise; arrêt panoramique sur la côte de Famara; et arrêt dans un office de tourisme sur les origines volcaniques.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux personnes à mobilité réduite; Les 4x4 peuvent être partagés avec d''autres participants.'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite. Les 4x4 peuvent être partagés avec d''autres participants.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas; Dépenses personnelles.'
+  respuesta: 'Ne sont pas inclus : repas et dépenses personnelles.'
 categoria: aventura
 keywords:
 - 4x4 nord lanzarote

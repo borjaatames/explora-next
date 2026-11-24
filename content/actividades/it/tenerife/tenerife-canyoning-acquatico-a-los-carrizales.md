@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida di canyoning; Tutta l''attrezzatura da canyoning; Assicurazione RC e infortuni.'
+  respuesta: 'Il prezzo include guida di canyoning, tutta l''attrezzatura da canyoning e assicurazione RC e infortuni.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a bambini sotto i 14 anni; Bisogna saper nuotare; Solo per persone allenate: include 2 ore di cammino.'
+  respuesta: 'Non adatto a bambini sotto i 14 anni. Bisogna saper nuotare. Solo per persone allenate: include 2 ore di cammino.'
 categoria: aventura
 keywords:
 - canyoning tenerife

@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Seville centre, next to the Cathedral (the exact point depends on the option). The meeting point is shown on the voucher according to the time and language you choose; it is a few minutes'' walk from the Cathedral. Bring your passport or ID card: tickets are issued in each visitor''s name.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided tour; Skip-the-line tickets to Seville Cathedral and the climb up the Giralda; Skip-the-line tickets to the Real Alcázar and the Patio de las Doncellas.'
+  respuesta: 'The price includes guided tour, skip-the-line tickets to Seville Cathedral and the climb up the Giralda, and skip-the-line tickets to the Real Alcázar and the Patio de las Doncellas.'
 opinionEditorial: 'It covers Seville''s two must-see visits in one morning, with tickets included and no queues. Its strong point is the choice of languages, especially German. The downside is the cancellation policy: only part of the price is refunded.'
 atraccionesRelacionadas:
 - real-alcazar

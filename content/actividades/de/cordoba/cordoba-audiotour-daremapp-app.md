@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt vor Ort: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst – wann und wo in Córdoba du willst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zugang zur selbstgeführten Route durch Córdoba über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, jederzeit pausieren und fortsetzen; Verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; Tipps für Essen und Familienaktivitäten direkt in der App.'
+  respuesta: 'Im Preis inbegriffen: Zugang zur selbstgeführten Route durch Córdoba über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); volle Freiheit bei Tempo und Stopps, jederzeit pausieren und fortsetzen; verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; und Tipps für Essen und Familienaktivitäten direkt in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Geeignet für Rollstühle und Kinderwagen, da du die Route in deinem eigenen Tempo gehst; im alten Jüdischen Viertel gibt es enge Gassen mit Kopfsteinpflaster; Assistenztiere sind willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. Geeignet für Rollstühle und Kinderwagen, da du die Route in deinem eigenen Tempo gehst; im alten Jüdischen Viertel gibt es enge Gassen mit Kopfsteinpflaster. Assistenztiere sind willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Ein Guide oder eine Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Start der Route; Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
+  respuesta: 'Nicht inbegriffen: ein Guide oder eine Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Start der Route; und Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: 'Die Altstadt von Córdoba ist dicht gepackt – Mezquita-Catedral, Jüdisches Viertel, Römische Brücke –, und mit dem selbstgeführten Format kannst du überall so lange verweilen, wie du willst, ohne dich nach dem Tempo einer Gruppe richten zu müssen. Mit 2 Routen (der klassischen und einer mit versteckten Schätzen) deckt die Tour sowohl die Highlights als auch weniger bekannte Ecken ab. Gut zu wissen: Der Eintritt in die Mezquita-Catedral selbst ist nicht inklusive und muss separat gebucht werden.'
 categoria: toursCiudad
 keywords:

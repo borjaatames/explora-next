@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Offroad-Segway und Helm; Guide; Wasser.'
+  respuesta: 'Im Preis inbegriffen: Offroad-Segway und Helm, Guide und Wasser.'
 categoria: toursCiudad
 keywords:
 - "segway sa coma"

@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement de plongée; Assurance; Carnet de plongée en ligne; Moniteur de plongée; Prise en charge et retour gratuits aux points confirmés à Tenerife; Eau potable.'
+  respuesta: 'Le prix comprend : équipement de plongée, assurance, carnet de plongée en ligne, moniteur de plongée, prise en charge et retour gratuits aux points confirmés à Tenerife et eau potable.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 8 ans; Déconseillé aux femmes enceintes et aux personnes cardiaques; Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
+  respuesta: 'Âge minimum 8 ans. Déconseillé aux femmes enceintes et aux personnes cardiaques. Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Déjeuner; Photos sous-marines.'
+  respuesta: 'Ne sont pas inclus : déjeuner et photos sous-marines.'
 categoria: agua
 keywords:
 - plongée abades

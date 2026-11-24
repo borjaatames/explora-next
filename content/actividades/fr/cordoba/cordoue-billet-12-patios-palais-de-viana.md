@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Palacio de Viana, plaza de Don Gome 2, Cordoue. Dans le quartier de Santa Marina, à environ 20 minutes à pied de la Mezquita.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée aux patios et au jardin.'
+  respuesta: 'Le prix comprend : entrée aux patios et au jardin.'
 opinionEditorial: 'Douze patios pour 9 € : si vous ne venez pas à Cordoue en mai, c''est la meilleure façon de comprendre pourquoi les patios sont inscrits au patrimoine immatériel.'
 guiasRelacionadas:
 - cordoue-en-une-journee

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Port de Pasito Blanco, ponton Ribera, place R04. Rendez-vous à 9 h 15, départ à 9 h 30.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie de 3 heures d''observation des dauphins; Skipper et biologiste marin; Bateau hybride à moteurs électriques; Eau, boissons bio, bière WeWhale, fruits frais et fruits secs.'
+  respuesta: 'Le prix comprend : sortie de 3 heures d''observation des dauphins; skipper et biologiste marin; bateau hybride à moteurs électriques; et eau, boissons bio, bière WeWhale, fruits frais et fruits secs.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux personnes sujettes au mal de mer; Gratuit pour les moins de 3 ans.'
+  respuesta: 'Déconseillé aux personnes sujettes au mal de mer. Gratuit pour les moins de 3 ans.'
 categoria: agua
 keywords:
 - sortie dauphins gran canaria

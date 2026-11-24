@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Recogida en tu alojamiento de Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en Madrid; Vehículo premium con wifi y aire acondicionado; Entradas a Santo Tomé, Santa María la Blanca y el Alcázar de Segovia; Cata ibérica con consumición; Agua; Tasas.'
+  respuesta: 'Incluye recogida en Madrid; vehículo premium con wifi y aire acondicionado; entradas a Santo Tomé, Santa María la Blanca y el Alcázar de Segovia; cata ibérica con consumición; agua; y tasas.'
 atraccionesRelacionadas:
 - toledo
 - segovia

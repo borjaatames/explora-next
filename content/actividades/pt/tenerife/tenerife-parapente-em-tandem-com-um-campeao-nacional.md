@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso ao hotel em Costa Adeje, Adeje, Las Américas e Los Cristianos; Capacete e equipamento de segurança; 5 fotos GoPro; Garrafa de água.'
+  respuesta: 'O preço inclui recolha e regresso ao hotel em Costa Adeje, Adeje, Las Américas e Los Cristianos; capacete e equipamento de segurança; 5 fotos GoPro; e garrafa de água.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Dos 6 aos 70 anos, até 110 kg; Recolha em Las Américas e Los Cristianos só às 10:00 e às 12:00; O voo depende do vento.'
+  respuesta: 'Dos 6 aos 70 anos, até 110 kg. Recolha em Las Américas e Los Cristianos só às 10:00 e às 12:00. O voo depende do vento.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Pack premium de fotos e vídeo GoPro (40 €); Pack VIP Insta360 (80 €).'
+  respuesta: 'O preço não inclui pack premium de fotos e vídeo GoPro (40 €) nem pack VIP Insta360 (80 €).'
 categoria: aventura
 keywords:
 - parapente tenerife

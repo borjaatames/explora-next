@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Casa Forestal, Aguamansa (La Orotava).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía de barranquismo titulado; Seguro de accidentes; Permisos de acceso al espacio natural; Todo el equipo de barranquismo; Fotos; Primeros auxilios.'
+  respuesta: 'Incluye guía de barranquismo titulado, seguro de accidentes, permisos de acceso al espacio natural, todo el equipo de barranquismo, fotos y primeros auxilios.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 16, mayores de 60 ni embarazadas; Máximo 127 kg; Con mal tiempo puedes cambiar de fecha, de actividad o recibir el reembolso completo.'
+  respuesta: 'No apto para menores de 16, mayores de 60 ni embarazadas. Máximo 127 kg. Con mal tiempo puedes cambiar de fecha, de actividad o recibir el reembolso completo.'
 categoria: aventura
 keywords:
 - barranquismo tenerife

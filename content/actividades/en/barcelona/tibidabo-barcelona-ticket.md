@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Parc d''Atraccions Tibidabo, Pl. del Tibidabo, 3-4, Barcelona. Take the FGC train from Plaça de Catalunya to Av. Tibidabo, then the Tramvia Blau (blue tram) to the funicular, then the funicular to the top. The journey from the city centre takes about 45 minutes. Check opening hours before visiting — Tibidabo does not open every day.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day entry to Tibidabo.'
+  respuesta: 'The price includes full-day entry to Tibidabo.'
 opinionEditorial: 'Tibidabo is unlike any other amusement park: historic, atmospheric, and perched at 512 metres with views that stretch to the horizon. The rides are secondary to the experience. Go on a clear day for the full effect.'
 guiasRelacionadas:
 - barcelona-with-kids

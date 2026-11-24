@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria : cherchez le Spirit of the Sea.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en catamaran de 2 h 30; Équipage professionnel; Sodas et eau; Prise en charge en option à San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores et Playa del Cura.'
+  respuesta: 'Le prix comprend : sortie en catamaran de 2 h 30; équipage professionnel; sodas et eau; et prise en charge en option à San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores et Playa del Cura.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Le bateau tangue même à l''arrêt : prenez un médicament contre le mal de mer si besoin; Sans observation, bon pour une sortie gratuite valable un an.'
+  respuesta: 'Le bateau tangue même à l''arrêt : prenez un médicament contre le mal de mer si besoin. Sans observation, bon pour une sortie gratuite valable un an.'
 categoria: agua
 keywords:
 - observation dauphins grande canarie

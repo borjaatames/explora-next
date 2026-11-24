@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Optional pick-up from Costa Adeje, Las Américas, Los Cristianos and Golf del Sur; 3.5-hour tour in 2- to 4-seat buggies; Professional guide; Goggles and a warm layer if needed; Water and a snack; Fuel.'
+  respuesta: 'The price includes optional pick-up from Costa Adeje, Las Américas, Los Cristianos and Golf del Sur; 3.5-hour tour in 2- to 4-seat buggies; professional guide; goggles and a warm layer if needed; water and a snack; and fuel.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers 18+ with a full licence (no provisional permits); Passengers at least 120 cm tall in 2-seat buggies; from 3 years in 4-seat ones; Closed shoes are compulsory.'
+  respuesta: 'Drivers 18+ with a full licence (no provisional permits). Passengers at least 120 cm tall in 2-seat buggies; from 3 years in 4-seat ones. Closed shoes are compulsory.'
 categoria: aventura
 keywords:
 - buggy tour teide

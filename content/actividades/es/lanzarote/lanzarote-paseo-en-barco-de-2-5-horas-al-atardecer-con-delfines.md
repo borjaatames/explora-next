@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Paseo en lancha rápida de 2,5 horas; Explicaciones en directo a bordo; Cava, zumo o agua; Dulces locales.'
+  respuesta: 'Incluye recogida y regreso al hotel; paseo en lancha rápida de 2,5 horas; explicaciones en directo a bordo; cava, zumo o agua; y dulces locales.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No se puede garantizar ver fauna; Lleva algo de abrigo: en el mar hace más fresco incluso en verano; No accesible en silla de ruedas.'
+  respuesta: 'No se puede garantizar ver fauna. Lleva algo de abrigo: en el mar hace más fresco incluso en verano. No accesible en silla de ruedas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '2 h 30 min.'
+  respuesta: 'Dura 2 h 30 min.'
 categoria: agua
 keywords:
 - paseo en barco al atardecer lanzarote

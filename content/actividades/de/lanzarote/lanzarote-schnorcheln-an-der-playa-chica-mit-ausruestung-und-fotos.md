@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Empfang am Schnorchelplatz; Wassersportversicherung; Komplette Schnorchelausrüstung; Professioneller Lehrer; Eine halbe Stunde Theorie; 1 Stunde im Wasser.'
+  respuesta: 'Im Preis inbegriffen: Empfang am Schnorchelplatz, Wassersportversicherung, komplette Schnorchelausrüstung, professioneller Lehrer, eine halbe Stunde Theorie und 1 Stunde im Wasser.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Kinder unter 6 Jahren; Du musst schwimmen können.'
+  respuesta: 'Nicht für Kinder unter 6 Jahren. Du musst schwimmen können.'
 categoria: agua
 keywords:
 - schnorcheln playa chica

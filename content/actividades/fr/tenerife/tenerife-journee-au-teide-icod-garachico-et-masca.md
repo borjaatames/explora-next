@@ -55,11 +55,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour depuis des hôtels sélectionnés; Visite guidée; Parc national de Las Cañadas del Teide; Arrêt à Vilaflor; Garachico; Icod et le Drago Milenario.'
+  respuesta: 'Le prix comprend : prise en charge et retour depuis des hôtels sélectionnés, visite guidée, parc national de Las Cañadas del Teide, arrêt à Vilaflor, Garachico et Icod et le Drago Milenario.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: '40 minutes pour déjeuner ; un repas en option peut être réservé auprès du prestataire; Prévoyez des vêtements confortables, de la crème solaire et de l''eau.'
+  respuesta: '40 minutes pour déjeuner ; un repas en option peut être réservé auprès du prestataire. Prévoyez des vêtements confortables, de la crème solaire et de l''eau.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Déjeuner (supplément en option); Pas de temps pour le téléphérique du Teide.'
+  respuesta: 'Ne sont pas inclus : déjeuner (supplément en option) et pas de temps pour le téléphérique du Teide.'
 categoria: excursionesDia
 keywords:
 - excursion teide masca garachico

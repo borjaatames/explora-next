@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer im Süden; Guide; Transfer; Kaffeepause; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer im Süden, Guide, Transfer, Kaffeepause und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Rund 8 km mit mehreren Anstiegen; Feste Schuhe und Sonnenschutz; an der Küste kann es windig sein; Gruppen bis 12 Personen; nicht für Kinder unter 9.'
+  respuesta: 'Rund 8 km mit mehreren Anstiegen. Feste Schuhe und Sonnenschutz; an der Küste kann es windig sein. Gruppen bis 12 Personen; nicht für Kinder unter 9.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Weitere Speisen und Getränke.'
+  respuesta: 'Nicht inbegriffen: weitere Speisen und Getränke.'
 categoria: aventura
 keywords:
 - ajuy wanderung

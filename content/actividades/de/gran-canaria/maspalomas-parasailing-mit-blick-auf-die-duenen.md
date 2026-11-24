@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Parasailing-Flug; Zertifizierte Sicherheitsausrüstung; Einweisung; Start und Landung vom Boot; Versicherung; Betreuung durch die Crew.'
+  respuesta: 'Im Preis inbegriffen: Parasailing-Flug, zertifizierte Sicherheitsausrüstung, Einweisung, Start und Landung vom Boot, Versicherung und Betreuung durch die Crew.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Kinder unter 5, Schwangere oder Menschen mit Herzproblemen; Höchstens 159 kg; Nicht nach kürzlichen Operationen oder für Rollstuhlfahrer.'
+  respuesta: 'Nicht für Kinder unter 5, Schwangere oder Menschen mit Herzproblemen. Höchstens 159 kg. Nicht nach kürzlichen Operationen oder für Rollstuhlfahrer.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '1 Stunde.'
+  respuesta: 'Die Dauer beträgt 1 Stunde.'
 categoria: agua
 keywords:
 - parasailing maspalomas

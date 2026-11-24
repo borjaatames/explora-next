@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (point Excursiones-Ibiza). Départ à 10 h depuis le front de mer de Sant Antoni, au point Excursiones-Ibiza du Passeig de ses Fonts. Arrivez 20 minutes en avance.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Bateau avec équipage; Petit-déjeuner, déjeuner (paella) et dîner; Open bar de bière, sangria et sodas; Toast au cava au coucher du soleil; Masque et tuba; Planches de paddle.'
+  respuesta: 'Le prix comprend : bateau avec équipage; petit-déjeuner, déjeuner (paella) et dîner; open bar de bière, sangria et sodas; toast au cava au coucher du soleil; masque et tuba; et planches de paddle.'
 opinionEditorial: "Si vous ne faites qu'une sortie en bateau à Ibiza, celle-ci réunit le meilleur : Es Vedrà, l'eau d'Espalmador et Formentera, avec tous les repas inclus. Elle est chère, mais elle occupe toute la journée."
 guiasRelacionadas:
 - que-voir-a-ibiza

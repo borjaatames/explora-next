@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Water Sports Tenerife, Escuela Náutica Puerto Colón, Calle Colón 6, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Taxes and fees; Guide.'
+  respuesta: 'The price includes taxes and fees and guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Single jet ski from 16 with written parental consent; double jet ski drivers 18+; Passengers from 10; Bring a valid photo ID.'
+  respuesta: 'Single jet ski from 16 with written parental consent; double jet ski drivers 18+. Passengers from 10. Bring a valid photo ID.'
 categoria: agua
 keywords:
 - 1 hour jet ski tenerife

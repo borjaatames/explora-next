@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Yukan activity car park, Bahía Feliz.'
 - pregunta: 'What is included?'
-  respuesta: 'Guide; Harness, helmet and via ferrata kit; Head torch; Snack; Photos; Insurance.'
+  respuesta: 'The price includes guide; harness, helmet and via ferrata kit; head torch; snack; photos; and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Ages 14 to 60, up to 100 kg and at least 145 cm; Not for people with vertigo or a fear of heights.'
+  respuesta: 'Ages 14 to 60, up to 100 kg and at least 145 cm. Not for people with vertigo or a fear of heights.'
 categoria: aventura
 keywords:
 - via ferrata gran canaria

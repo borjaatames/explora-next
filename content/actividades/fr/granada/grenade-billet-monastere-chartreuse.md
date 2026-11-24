@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Grenade. Au nord du centre, à côté du campus de Cartuja. Bus urbains 8 et U3 depuis la Gran Vía (environ 15 minutes).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée au monastère de la Chartreuse; Audioguide sur mobile.'
+  respuesta: 'Le prix comprend : entrée au monastère de la Chartreuse et audioguide sur mobile.'
 opinionEditorial: La grande méconnue de Grenade. La sacristie est un délire baroque de marbre et de stucs qui laisse sans voix, et pour 10 € vous l'avez presque pour vous seul.
 categoria: entradas
 keywords:

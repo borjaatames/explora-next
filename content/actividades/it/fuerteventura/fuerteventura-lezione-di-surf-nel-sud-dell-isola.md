@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasporto alla spiaggia; Tavola morbida o epoxy; Muta Billabong; Istruttore esperto con brevetto di bagnino.'
+  respuesta: 'Il prezzo include trasporto alla spiaggia, tavola morbida o epoxy, muta Billabong e istruttore esperto con brevetto di bagnino.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'La spiaggia cambia con vento, marea e meteo; Dopo la prenotazione invia hotel, cellulare, altezza e peso; Età minima 13 anni.'
+  respuesta: 'La spiaggia cambia con vento, marea e meteo. Dopo la prenotazione invia hotel, cellulare, altezza e peso. Età minima 13 anni.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande.'
+  respuesta: 'Il prezzo non include cibo e bevande.'
 categoria: agua
 keywords:
 - lezione surf fuerteventura sud

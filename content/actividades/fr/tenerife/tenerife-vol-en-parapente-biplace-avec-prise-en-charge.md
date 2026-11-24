@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Vol en parapente biplace; Prise en charge à Costa Adeje, Los Cristianos et Las Américas; Transport jusqu''au décollage; Pilote biplace multilingue; Briefing et équipement certifié; Assurance responsabilité civile et accidents.'
+  respuesta: 'Le prix comprend : vol en parapente biplace; prise en charge à Costa Adeje, Los Cristianos et Las Américas; transport jusqu''au décollage; pilote biplace multilingue; briefing et équipement certifié; et assurance responsabilité civile et accidents.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Le parapente dépend de la météo : ne réservez pas trop près de votre départ; Déconseillé aux moins de 4 ans, aux femmes enceintes et au-delà de 100 kg.'
+  respuesta: 'Le parapente dépend de la météo : ne réservez pas trop près de votre départ. Déconseillé aux moins de 4 ans, aux femmes enceintes et au-delà de 100 kg.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Photos et vidéos GoPro (30 €); Repas et boissons; Prise en charge à Los Cristianos après 12 h en semaine; Retour à l''hôtel.'
+  respuesta: 'Ne sont pas inclus : photos et vidéos GoPro (30 €), repas et boissons, prise en charge à Los Cristianos après 12 h en semaine et retour à l''hôtel.'
 categoria: aventura
 keywords:
 - parapente tenerife

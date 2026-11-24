@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Naval Museum, Paseo del Prado, 3, Madrid.'
 - pregunta: 'What is included?'
-  respuesta: 'Private transport from Madrid; Guide; Water; Taxes.'
+  respuesta: 'The price includes private transport from Madrid, guide, water, and taxes.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

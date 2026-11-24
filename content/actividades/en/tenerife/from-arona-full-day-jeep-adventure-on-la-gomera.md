@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Free car park of the X-Sur shopping centre, Calle Lisboa 2, Costa Adeje, at 08:20.'
 - pregunta: 'What is included?'
-  respuesta: 'Driver; Ferry crossing; Lunch.'
+  respuesta: 'The price includes driver, ferry crossing, and lunch.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Bring your original ID or passport for the ferry.'
 categoria: excursionesDia

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
 - pregunta: 'What is included?'
-  respuesta: 'Surf lesson with ISA-certified instructors; Theory and warm-up on the beach; Practice in the water with constant help; Surfboard; Wetsuit.'
+  respuesta: 'The price includes surf lesson with ISA-certified instructors, theory and warm-up on the beach, practice in the water with constant help, surfboard, and wetsuit.'
 - pregunta: 'What is not included?'
-  respuesta: 'Hotel pick-up and drop-off; Food and drinks; Travel insurance.'
+  respuesta: 'The price does not include hotel pick-up and drop-off, food and drinks, or travel insurance.'
 categoria: agua
 keywords:
 - surf lesson playa de las americas

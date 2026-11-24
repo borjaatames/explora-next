@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Ermita de las Nieves, carretera TF-21, La Orotava (en la subida al Teide).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Telescopio; Explicaciones con puntero láser; Fotos gratis.'
+  respuesta: 'Incluye telescopio, explicaciones con puntero láser y fotos gratis.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Necesitas transporte propio hasta el punto de encuentro; En altura hace frío: lleva ropa de abrigo.'
+  respuesta: 'Necesitas transporte propio hasta el punto de encuentro. En altura hace frío: lleva ropa de abrigo.'
 categoria: nocturno
 keywords:
 - observacion estrellas teide

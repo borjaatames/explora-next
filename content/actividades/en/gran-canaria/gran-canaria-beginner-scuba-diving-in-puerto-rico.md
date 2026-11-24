@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Give your height, weight and shoe size when booking.'
 - pregunta: 'What is included?'
-  respuesta: 'Equipment; PADI dive instructors; Insurance.'
+  respuesta: 'The price includes equipment, PADI dive instructors, and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 10; Not suitable for pregnant women; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+  respuesta: 'Minimum age 10. Not suitable for pregnant women. A medical questionnaire is required; some conditions need a doctor''s certificate.'
 categoria: agua
 keywords:
 - beginner diving puerto rico gran canaria

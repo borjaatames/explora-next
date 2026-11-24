@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Surf School Lanzarote, C. El Callejón 4, Caleta de Famara.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Prancha de surf; Fato de neoprene; Instrutor certificado pela ISA; Instrutor nadador-salvador certificado pela RLSS; Transporte da escola até à praia.'
+  respuesta: 'O preço inclui prancha de surf, fato de neoprene, instrutor certificado pela ISA, instrutor nadador-salvador certificado pela RLSS e transporte da escola até à praia.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Leve um lanche ou almoço na opção de dia inteiro (pausa por volta das 12:00); É preciso saber nadar.'
+  respuesta: 'Leve um lanche ou almoço na opção de dia inteiro (pausa por volta das 12:00). É preciso saber nadar.'
 categoria: agua
 keywords:
 - aula de surf famara

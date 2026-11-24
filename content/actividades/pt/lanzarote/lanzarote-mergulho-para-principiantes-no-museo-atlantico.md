@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso em Playa Blanca; Transporte de lancha até ao Museo Atlántico; Instrutor de mergulho certificado; Todo o equipamento de mergulho.'
+  respuesta: 'O preço inclui recolha e regresso em Playa Blanca, transporte de lancha até ao Museo Atlántico, instrutor de mergulho certificado e todo o equipamento de mergulho.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Idade mínima 12 anos; Não recomendado a grávidas, utilizadores de cadeira de rodas ou pessoas com problemas respiratórios, doenças prévias ou hipertensão; Não voe durante pelo menos 18 horas depois.'
+  respuesta: 'Idade mínima 12 anos. Não recomendado a grávidas, utilizadores de cadeira de rodas ou pessoas com problemas respiratórios, doenças prévias ou hipertensão. Não voe durante pelo menos 18 horas depois.'
 categoria: agua
 keywords:
 - mergulho museo atlantico

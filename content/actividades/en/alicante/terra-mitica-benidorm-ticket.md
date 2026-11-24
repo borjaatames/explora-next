@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Terra Mítica, Partida de les Fonts, s/n, Benidorm, Alicante. Terra Mítica is 5 km from Benidorm centre. Buses run from Benidorm''s main bus station and from the main resort beaches. By car, take the N-332 towards Finestrat. Parking is available at the park.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day park entry; All standard rides and attractions; Live shows.'
+  respuesta: 'The price includes full-day park entry, all standard rides and attractions, and live shows.'
 opinionEditorial: The Costa Blanca's best theme park. Terra Mítica punches above its size with a distinctive theme, several impressive coasters, and good live entertainment. Book ahead in summer to avoid sold-out days.
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

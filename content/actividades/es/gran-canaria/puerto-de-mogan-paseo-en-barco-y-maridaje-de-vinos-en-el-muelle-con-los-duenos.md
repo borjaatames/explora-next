@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Yellow Boat Mogán, Explanada del Castillete 163, Playa de Mogán.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Anfitriones locales (los dueños del barco); Paseo en barco de 1 hora por la costa; Menú degustación canario de tres platos; Vino con cada plato (rosado, blanco con crianza, Listán semiseco); Agua y refrescos durante el paseo; Asientos en U a la sombra a bordo.'
+  respuesta: 'Incluye anfitriones locales (los dueños del barco); paseo en barco de 1 hora por la costa; menú degustación canario de tres platos; vino con cada plato (rosado, blanco con crianza, Listán semiseco); agua y refrescos durante el paseo; y asientos en U a la sombra a bordo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Experiencia tranquila y sentada, centrada en comida y vino, no en actividades acuáticas; Si te mareas, toma algo 30 minutos antes.'
+  respuesta: 'Experiencia tranquila y sentada, centrada en comida y vino, no en actividades acuáticas. Si te mareas, toma algo 30 minutos antes.'
 categoria: toursGastronomicos
 keywords:
 - barco mogan vino

@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Plaça de Sant Feliu, Girona. In front of the Basilica of Sant Feliu, in the old town.'
 - pregunta: 'What is included?'
-  respuesta: 'Expert guide.'
+  respuesta: 'The price includes expert guide.'
 opinionEditorial: The top-rated tour in Girona. You can walk the Call alone, but without a guide it is just a pretty maze; with one you understand six centuries of history.
 guiasRelacionadas:
 - what-to-see-in-girona-in-one-day

@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Tabla de surf elegida por el monitor; Neopreno y escarpines; Seguro de accidentes; Monitor; Teoría (20 min).'
+  respuesta: 'Incluye tabla de surf elegida por el monitor, neopreno y escarpines, seguro de accidentes, monitor y teoría (20 min).'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas; Recogida y regreso al hotel.'
+  respuesta: 'No incluye comida y bebidas ni recogida y regreso al hotel.'
 categoria: agua
 keywords:
 - tilegit surf school

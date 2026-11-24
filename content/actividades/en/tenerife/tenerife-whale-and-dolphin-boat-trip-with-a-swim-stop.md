@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Two-hour whale-watching boat trip; Guide and commentary in the language of your option; Short swim stop; Drinking water and reusable cups.'
+  respuesta: 'The price includes two-hour whale-watching boat trip, guide and commentary in the language of your option, short swim stop, and drinking water and reusable cups.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Sightings are very likely but cannot be guaranteed: the animals are wild; The meeting point depends on the option you choose; If you get seasick, take medication before sailing.'
+  respuesta: 'Sightings are very likely but cannot be guaranteed: the animals are wild. The meeting point depends on the option you choose. If you get seasick, take medication before sailing.'
 categoria: agua
 keywords:
 - whale watching tenerife

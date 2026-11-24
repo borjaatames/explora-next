@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Yacht de 20 mètres tout compris; Équipage professionnel; Activités nautiques; Repas et boissons.'
+  respuesta: 'Le prix comprend : yacht de 20 mètres tout compris, équipage professionnel, activités nautiques et repas et boissons.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '3 h 30.'
+  respuesta: 'L''activité dure 3 h 30.'
 categoria: agua
 keywords:
 - croisière yacht tenerife

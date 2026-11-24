@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Statue in the middle of Plaza de Isabel II (Ópera), Madrid, Spain.'
 - pregunta: 'What is included?'
-  respuesta: 'Local guide; Tapas at three traditional bars; Full sit-down dinner with paella, tapas and homemade sangria; Drinks.'
+  respuesta: 'The price includes local guide; tapas at three traditional bars; full sit-down dinner with paella, tapas and homemade sangria; and drinks.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The tour is in English; Vegetarian option available if requested when booking; Minimum drinking age 18.'
+  respuesta: 'The tour is in English. Vegetarian option available if requested when booking. Minimum drinking age 18.'
 - pregunta: 'What is not included?'
-  respuesta: 'Gratuities; Hotel pickup and drop-off.'
+  respuesta: 'The price does not include gratuities or hotel pickup and drop-off.'
 opinionEditorial: 'It''s a long dinner with a walk and stories rather than a quick bar crawl: you finish sitting down to paella and sangria. It''s run in English, so it suits international travelers best. It has lots of reviews on booking platforms, a good sign the experience is consistent.'
 atraccionesRelacionadas:
 - tapas-madrid

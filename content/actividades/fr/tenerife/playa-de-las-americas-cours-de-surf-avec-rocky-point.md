@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Avenida Rafael Puig Lluvina 32, local 61, Playa de las Américas (Arona).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Moniteur de surf professionnel; Théorie et pratique dans l''eau; Planche en mousse; Combinaison; Chaussons de récif; Assurance accident.'
+  respuesta: 'Le prix comprend : moniteur de surf professionnel, théorie et pratique dans l''eau, planche en mousse, combinaison, chaussons de récif et assurance accident.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Cours collectifs dès 14 ans ; avant 14 ans, cours privé uniquement; Déconseillé aux femmes enceintes; Savoir nager est obligatoire.'
+  respuesta: 'Cours collectifs dès 14 ans ; avant 14 ans, cours privé uniquement. Déconseillé aux femmes enceintes. Savoir nager est obligatoire.'
 categoria: agua
 keywords:
 - rocky point surf

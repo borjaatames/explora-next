@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Chegue 20 minutos antes para o check-in.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia profissional oficial; Caiaque, colete salva-vidas e caixa estanque; Equipamento de snorkel; Foto de grupo no início; Seguro.'
+  respuesta: 'O preço inclui guia profissional oficial; caiaque, colete salva-vidas e caixa estanque; equipamento de snorkel; foto de grupo no início; e seguro.'
 categoria: agua
 keywords:
 - caiaque los cristianos

@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'O preço é por pessoa?'
   respuesta: 'Não. O preço é por grupo, não por pessoa.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Equipamento; Seguro de acidentes; Instrutor de segurança; Casas de banho; Estacionamento grátis.'
+  respuesta: 'O preço inclui equipamento, seguro de acidentes, instrutor de segurança, casas de banho e estacionamento grátis.'
 categoria: agua
 keywords:
 - mota de agua maspalomas

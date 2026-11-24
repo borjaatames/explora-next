@@ -60,9 +60,9 @@ preguntasFrecuentes:
 - pregunta: ¿Se puede cancelar?
   respuesta: Sí, gratis hasta 24 horas antes.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte desde Barcelona; Guía.'
+  respuesta: 'Incluye transporte desde Barcelona y guía.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Sale de Barcelona, no de Girona; El itinerario puede cambiar según el tiempo.'
+  respuesta: 'Sale de Barcelona, no de Girona. El itinerario puede cambiar según el tiempo.'
 opinionEditorial: 'Casi 600 opiniones con un 4,9: de las excursiones mejor valoradas de la Costa Brava. Buena opción si estás en Barcelona y quieres un día de mar sin coche.'
 guiasRelacionadas:
 - escapadas-costa-brava-desde-girona

@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Iate de 20 metros, tudo incluído; Tripulação profissional; Atividades aquáticas; Comida e bebida.'
+  respuesta: 'O preço inclui iate de 20 metros, tudo incluído; tripulação profissional; atividades aquáticas; e comida e bebida.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '3 h 30 min.'
+  respuesta: 'Dura 3 h 30 min.'
 categoria: agua
 keywords:
 - cruzeiro de iate tenerife

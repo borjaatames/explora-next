@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Parkplatz am Strand von Famara (Calle Brezo de Mar 1, Urbanización Famara). Die Uhrzeit hängt von den Bedingungen ab.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Surfkurs von 2,5 Stunden; Surfbrett und Neoprenanzug; Material nach dem Kurs den restlichen Tag gratis.'
+  respuesta: 'Im Preis inbegriffen: Surfkurs von 2,5 Stunden; Surfbrett und Neoprenanzug; und Material nach dem Kurs den restlichen Tag gratis.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Du musst schwimmen können; Nicht für Kinder unter 8; unter 10 nur mit Erwachsenem im Kurs.'
+  respuesta: 'Du musst schwimmen können. Nicht für Kinder unter 8; unter 10 nur mit Erwachsenem im Kurs.'
 categoria: agua
 keywords:
 - kalufa surfschule

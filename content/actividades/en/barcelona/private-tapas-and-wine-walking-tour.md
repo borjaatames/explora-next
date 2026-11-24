@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Full meal: tapas tasting paired with regional wines at 4 different bars; Stop at 4 emblematic venues, with food and drink at each one; Knowledgeable, friendly local food-loving guide; Private guided walking tour of the old town, for your group only.'
+  respuesta: 'The price includes full meal: tapas tasting paired with regional wines at 4 different bars; stop at 4 emblematic venues, with food and drink at each one; knowledgeable, friendly local food-loving guide; and private guided walking tour of the old town, for your group only.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Tour available in Spanish or English; choose the language when booking; Arrive at the meeting point 10 minutes early for check-in; Tell your guide about any allergies or dietary restrictions on arrival.'
+  respuesta: 'Tour available in Spanish or English; choose the language when booking. Arrive at the meeting point 10 minutes early for check-in. Tell your guide about any allergies or dietary restrictions on arrival.'
 opinionEditorial: 'The private format works really well with food: you set the pace, the guide tailors the stops to what you fancy, and you can ask anything. For a couple or a group of friends it''s a tailor-made evening.'
 atraccionesRelacionadas:
 - gotico

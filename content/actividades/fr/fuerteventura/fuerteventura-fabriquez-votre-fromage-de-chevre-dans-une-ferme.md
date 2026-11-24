@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Fromagerie La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Café d''accueil; Atelier guidé de fabrication du fromage; Traite à la main et à la machine; Fabrication de votre fromage majorero; Tous les outils et l''équipement; Petit-déjeuner : sandwich au fromage frais, plateau de fromages locaux, mojos et confitures maison.'
+  respuesta: 'Le prix comprend : café d''accueil; atelier guidé de fabrication du fromage; traite à la main et à la machine; fabrication de votre fromage majorero; tous les outils et l''équipement; et petit-déjeuner : sandwich au fromage frais, plateau de fromages locaux, mojos et confitures maison.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Boissons supplémentaires.'
+  respuesta: 'Ne sont pas inclus : boissons supplémentaires.'
 categoria: talleres
 keywords:
 - atelier fromage fuerteventura

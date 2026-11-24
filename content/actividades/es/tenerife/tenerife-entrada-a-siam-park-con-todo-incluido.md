@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Entrada principal de Siam Park, Avenida Siam, Costa Adeje.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Incluso con acceso prioritario puede haber colas en temporada alta; Algunos toboganes tienen límite de peso.'
+  respuesta: 'Incluso con acceso prioritario puede haber colas en temporada alta. Algunos toboganes tienen límite de peso.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Algunas bebidas alcohólicas, dulces, snacks y crepes; Casa de té.'
+  respuesta: 'No incluye algunas bebidas alcohólicas, dulces, snacks y crepes; ni Casa de té.'
 categoria: parques
 keywords:
 - siam park todo incluido

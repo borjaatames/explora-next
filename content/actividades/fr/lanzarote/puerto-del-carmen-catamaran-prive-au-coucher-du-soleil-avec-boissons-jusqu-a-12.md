@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en catamaran; En-cas légers; Sodas, eau, sangria, bière et champagne; Prise en charge à l''hôtel (option avec prise en charge).'
+  respuesta: 'Le prix comprend : sortie en catamaran; en-cas légers; sodas, eau, sangria, bière et champagne; et prise en charge à l''hôtel (option avec prise en charge).'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux personnes à mobilité réduite; Peut être annulé par mer agitée.'
+  respuesta: 'Déconseillé aux personnes à mobilité réduite. Peut être annulé par mer agitée.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Prise en charge (option sans); Pourboires; Autres boissons.'
+  respuesta: 'Ne sont pas inclus : prise en charge (option sans), pourboires et autres boissons.'
 categoria: agua
 keywords:
 - catamaran privé lanzarote

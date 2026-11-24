@@ -41,11 +41,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en Playa Blanca, Puerto del Carmen, Costa Teguise, Arrecife y Puerto Calero; Entrada sin colas al Parque Nacional de Timanfaya; Visita a La Geria; Guía turístico profesional.'
+  respuesta: 'Incluye recogida en Playa Blanca, Puerto del Carmen, Costa Teguise, Arrecife y Puerto Calero; entrada sin colas al Parque Nacional de Timanfaya; visita a La Geria; y guía turístico profesional.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Billetes del paseo en camello.'
+  respuesta: 'No incluye billetes del paseo en camello.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '6 horas.'
+  respuesta: 'Dura 6 horas.'
 categoria: excursionesDia
 keywords:
 - excursion timanfaya

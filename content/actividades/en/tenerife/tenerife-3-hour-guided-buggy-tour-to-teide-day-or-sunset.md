@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: '3-hour guided buggy tour on roads; Professional guide; Safety briefing; Thermal jacket and gloves; Panoramic viewpoint stops; Snack and drink at the last stop.'
+  respuesta: 'The price includes 3-hour guided buggy tour on roads, professional guide, safety briefing, thermal jacket and gloves, panoramic viewpoint stops, and snack and drink at the last stop.'
 categoria: aventura
 keywords:
 - teide buggy tour sunset

@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide; Tapas at three venues; Drinks.'
+  respuesta: 'The price includes private guide, tapas at three venues, and drinks.'
 opinionEditorial: Eating well in Barcelona without falling into tourist menus is harder than it looks; a private local guide solves it and tells you about the city too.
 atraccionesRelacionadas:
 - tapas-barcelona

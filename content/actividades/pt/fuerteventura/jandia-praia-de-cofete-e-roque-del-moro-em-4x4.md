@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso ao hotel; Guia; Percurso todo-o-terreno.'
+  respuesta: 'O preço inclui recolha e regresso ao hotel, guia e percurso todo-o-terreno.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Recolha em pontos selecionados do sul de Fuerteventura; O operador envia a hora exata de recolha antes do passeio.'
+  respuesta: 'Recolha em pontos selecionados do sul de Fuerteventura. O operador envia a hora exata de recolha antes do passeio.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: excursionesDia
 keywords:
 - cofete jipe

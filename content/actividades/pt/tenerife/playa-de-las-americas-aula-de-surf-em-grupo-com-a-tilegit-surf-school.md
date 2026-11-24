@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Prancha de surf escolhida pelo instrutor; Fato e sapatilhas; Seguro de acidentes; Instrutor; Teoria (20 min).'
+  respuesta: 'O preço inclui prancha de surf escolhida pelo instrutor, fato e sapatilhas, seguro de acidentes, instrutor e teoria (20 min).'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Comida e bebidas; Recolha e regresso ao hotel.'
+  respuesta: 'O preço não inclui comida e bebidas nem recolha e regresso ao hotel.'
 categoria: agua
 keywords:
 - tilegit surf school

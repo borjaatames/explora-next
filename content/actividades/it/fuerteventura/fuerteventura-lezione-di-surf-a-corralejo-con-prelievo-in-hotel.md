@@ -40,11 +40,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno al tuo hotel a Corralejo.'
+  respuesta: 'Il prezzo include prelievo e ritorno al tuo hotel a Corralejo.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a bambini sotto i 14 anni.'
 - pregunta: 'Quanto dura?'
-  respuesta: '4 ore.'
+  respuesta: 'Dura 4 ore.'
 categoria: agua
 keywords:
 - lezione di surf corralejo con prelievo

@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Abholung an deiner Unterkunft in Madrid.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung in Madrid; Premium-Fahrzeug mit WLAN und Klimaanlage; Eintritte für Santo Tomé, Santa María la Blanca und den Alcázar von Segovia; Iberische Verkostung mit Getränk; Wasser; Steuern.'
+  respuesta: 'Im Preis inbegriffen: Abholung in Madrid; Premium-Fahrzeug mit WLAN und Klimaanlage; Eintritte für Santo Tomé, Santa María la Blanca und den Alcázar von Segovia; iberische Verkostung mit Getränk; Wasser; und Steuern.'
 atraccionesRelacionadas:
 - toledo
 - segovia

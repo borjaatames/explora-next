@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Roadster de tres ruedas; Guía profesional; Instrucciones de conducción.'
+  respuesta: 'Incluye roadster de tres ruedas, guía profesional e instrucciones de conducción.'
 categoria: aventura
 keywords:
 - slingshot lanzarote

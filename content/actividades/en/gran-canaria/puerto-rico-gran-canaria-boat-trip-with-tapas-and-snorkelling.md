@@ -39,9 +39,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Food (tapas); Drinks: beer, wine, water, juice and soft drinks; Snorkelling; Paddleboard.'
+  respuesta: 'The price includes food (tapas); drinks: beer, wine, water, juice and soft drinks; snorkelling; and paddleboard.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - boat trip puerto rico gran canaria

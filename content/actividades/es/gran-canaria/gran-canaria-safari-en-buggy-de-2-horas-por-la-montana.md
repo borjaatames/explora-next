@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Gafas; Safari en buggy.'
+  respuesta: 'Incluye gafas y safari en buggy.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El conductor necesita carné de conducir en vigor: trae el original; No apto para embarazadas; Precio por buggy para hasta 2 personas.'
+  respuesta: 'El conductor necesita carné de conducir en vigor: trae el original. No apto para embarazadas. Precio por buggy para hasta 2 personas.'
 categoria: aventura
 keywords:
 - safari en buggy gran canaria

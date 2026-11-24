@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour dans les stations du sud; Équipement de plongée; Assurance accident de plongée.'
+  respuesta: 'Le prix comprend : prise en charge et retour dans les stations du sud, équipement de plongée et assurance accident de plongée.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Un questionnaire médical est obligatoire avant de plonger; En cas d''asthme, d''épilepsie, de diabète, d''hypertension ou de maladie cardiaque, un certificat médical est nécessaire; Âge minimum : 10 ans.'
+  respuesta: 'Un questionnaire médical est obligatoire avant de plonger. En cas d''asthme, d''épilepsie, de diabète, d''hypertension ou de maladie cardiaque, un certificat médical est nécessaire. Âge minimum : 10 ans.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Location de GoPro (20 € par caméra).'
+  respuesta: 'Ne sont pas inclus : location de GoPro (20 € par caméra).'
 categoria: agua
 keywords:
 - baptême plongée grande canarie

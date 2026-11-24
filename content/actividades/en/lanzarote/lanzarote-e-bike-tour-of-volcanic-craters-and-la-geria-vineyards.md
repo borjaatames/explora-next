@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Bodega Los Bermejos, Camino a Los Bermejos 7, San Bartolomé. After booking, send your height, weight and experience.'
 - pregunta: 'What is included?'
-  respuesta: 'Accredited guide; E-bike; Helmet; Water; Energy bar and gel; Insurance.'
+  respuesta: 'The price includes accredited guide, e-bike, helmet, water, energy bar and gel, and insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for under-13s, over-70s, pregnant women or people with diabetes.'
 categoria: aventura

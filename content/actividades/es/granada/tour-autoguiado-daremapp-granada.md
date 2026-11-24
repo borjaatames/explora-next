@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Granada.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Acceso a la ruta autoguiada por Granada a través de la app DareMapp, con código de referencia enviado tras la compra; Audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); Libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; Disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; Acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
+  respuesta: 'Incluye acceso a la ruta autoguiada por Granada a través de la app DareMapp, con código de referencia enviado tras la compra; audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; y acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para toda la familia: edad mínima 1 año; Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el Albaicín tiene calles empinadas y empedradas, tenlo en cuenta si vas con silla de ruedas o cochecito; Se permiten animales de servicio.'
+  respuesta: 'Apto para toda la familia: edad mínima 1 año. Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el Albaicín tiene calles empinadas y empedradas, tenlo en cuenta si vas con silla de ruedas o cochecito. Se permiten animales de servicio.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Guía físico o acompañante (es una experiencia 100% autónoma y autoguiada); Transporte hasta el punto de inicio de la ruta; Entradas a monumentos o museos del recorrido (donde aplique).'
+  respuesta: 'No incluye guía físico o acompañante (es una experiencia 100% autónoma y autoguiada), transporte hasta el punto de inicio de la ruta ni entradas a monumentos o museos del recorrido (donde aplique).'
 opinionEditorial: 'Con 3 rutas —Granada Esencial, Albaicín y Sacromonte, y La Alhambra— es de las fichas más flexibles del catálogo: puedes hacer solo la que te interese o repartirlas en varios días, porque el acceso no caduca. Ojo con un matiz importante: la ruta de la Alhambra es un recorrido narrado por el entorno, no incluye la entrada al recinto monumental, que hay que reservar aparte y con antelación.'
 atraccionesRelacionadas:
 - otros-granada

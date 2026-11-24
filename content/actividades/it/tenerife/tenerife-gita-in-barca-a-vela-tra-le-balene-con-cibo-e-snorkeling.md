@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Gita in barca a vela con guida; Avvistamento cetacei; Bevande: acqua, vino, cava, birra e bibite; Snack; Attrezzatura da snorkeling.'
+  respuesta: 'Il prezzo include gita in barca a vela con guida; avvistamento cetacei; bevande: acqua, vino, cava, birra e bibite; snack; e attrezzatura da snorkeling.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel.'
+  respuesta: 'Il prezzo non include prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - barca a vela tenerife balene

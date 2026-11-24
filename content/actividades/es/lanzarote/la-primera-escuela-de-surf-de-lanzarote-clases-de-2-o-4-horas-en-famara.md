@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Surf School Lanzarote, C. El Callejón 4, Caleta de Famara.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Tabla de surf; Neopreno; Monitor titulado por la ISA; Monitor socorrista titulado por la RLSS; Traslado a la playa desde la escuela.'
+  respuesta: 'Incluye tabla de surf, neopreno, monitor titulado por la ISA, monitor socorrista titulado por la RLSS y traslado a la playa desde la escuela.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Lleva un tentempié o comida en la opción de día completo (descanso hacia las 12:00); Hay que saber nadar.'
+  respuesta: 'Lleva un tentempié o comida en la opción de día completo (descanso hacia las 12:00). Hay que saber nadar.'
 categoria: agua
 keywords:
 - clase de surf famara

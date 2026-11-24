@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Diving equipment; Insurance; Online dive log; Dive instructor; Free pick-up and drop-off from confirmed points in Tenerife; Drinking water.'
+  respuesta: 'The price includes diving equipment, insurance, online dive log, dive instructor, free pick-up and drop-off from confirmed points in Tenerife, and drinking water.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 8; Not suitable for pregnant women or people with heart problems; A medical questionnaire is required; some conditions need a doctor''s certificate.'
+  respuesta: 'Minimum age 8. Not suitable for pregnant women or people with heart problems. A medical questionnaire is required; some conditions need a doctor''s certificate.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Underwater photos.'
+  respuesta: 'The price does not include lunch or underwater photos.'
 categoria: agua
 keywords:
 - diving abades

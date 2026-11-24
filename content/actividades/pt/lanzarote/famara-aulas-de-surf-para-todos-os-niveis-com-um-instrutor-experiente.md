@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Prancha de surf e fato; Instrutor dedicado e adaptado ao seu nível; Máximo de 5 alunos por instrutor; Fotos e vídeos quando as condições o permitem.'
+  respuesta: 'O preço inclui prancha de surf e fato, instrutor dedicado e adaptado ao seu nível, máximo de 5 alunos por instrutor e fotos e vídeos quando as condições o permitem.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Indique o seu nível ao reservar; Não recomendado a menores de 4 anos ou grávidas; Leve toalha, protetor solar e roupa seca.'
+  respuesta: 'Indique o seu nível ao reservar. Não recomendado a menores de 4 anos ou grávidas. Leve toalha, protetor solar e roupa seca.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '2 horas.'
+  respuesta: 'Dura 2 horas.'
 categoria: agua
 keywords:
 - aulas de surf famara

@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía profesional; Safari guiado en moto de agua; Moto de agua moderna; Combustible; Chaleco salvavidas; Charla de seguridad.'
+  respuesta: 'Incluye guía profesional, safari guiado en moto de agua, moto de agua moderna, combustible, chaleco salvavidas y charla de seguridad.'
 categoria: agua
 keywords:
 - safari moto de agua gran canaria

@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Tout l''équipement de plongée; Assurance plongée; Prise en charge et retour à l''hôtel; Encadrement par un membre qualifié de l''équipe; Réduction sur les formations suivantes.'
+  respuesta: 'Le prix comprend : tout l''équipement de plongée, assurance plongée, prise en charge et retour à l''hôtel, encadrement par un membre qualifié de l''équipe et réduction sur les formations suivantes.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 10 ans; Déconseillé aux femmes enceintes; Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
+  respuesta: 'Âge minimum 10 ans. Déconseillé aux femmes enceintes. Questionnaire médical obligatoire ; certaines pathologies exigent un certificat médical.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Embout personnel (4 €); Photos sous-marines (34 €).'
+  respuesta: 'Ne sont pas inclus : embout personnel (4 €) et photos sous-marines (34 €).'
 categoria: agua
 keywords:
 - discover scuba diving gran canaria

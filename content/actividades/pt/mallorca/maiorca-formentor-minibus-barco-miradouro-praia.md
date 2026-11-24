@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Recolha no norte de Maiorca (consoante a opção); o barco chega a Port de Pollença. O ponto de recolha depende da opção que escolher ao reservar (várias zonas do norte de Maiorca). O minibus vai ao miradouro Es Colomer e à praia de Formentor, e o regresso faz-se de barco até Port de Pollença.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Minibus panorâmico de ida e volta; Guia local; Paragem no miradouro Es Colomer; Barco da praia de Formentor até Port de Pollença; Seguro de viagem.'
+  respuesta: 'O preço inclui minibus panorâmico de ida e volta, guia local, paragem no miradouro Es Colomer, barco da praia de Formentor até Port de Pollença e seguro de viagem.'
 opinionEditorial: A forma mais cómoda de ver Formentor na época alta, quando o carro é um problema. O troço de barco pela baía é o melhor.
 categoria: agua
 keywords:

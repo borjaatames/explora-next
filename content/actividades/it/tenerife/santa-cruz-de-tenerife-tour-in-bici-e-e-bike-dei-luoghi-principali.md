@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tour in bici con guida locale; Scelta tra bici normale ed elettrica; Soste fotografiche; Consigli locali; Racconti su storia e monumenti.'
+  respuesta: 'Il prezzo include tour in bici con guida locale, scelta tra bici normale ed elettrica, soste fotografiche, consigli locali e racconti su storia e monumenti.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Bisogna saper andare in bici; I bambini sotto i 6 anni (max 20 kg, 140 cm) viaggiano gratis sul seggiolino.'
+  respuesta: 'Bisogna saper andare in bici. I bambini sotto i 6 anni (max 20 kg, 140 cm) viaggiano gratis sul seggiolino.'
 categoria: aventura
 keywords:
 - tour in bici santa cruz de tenerife

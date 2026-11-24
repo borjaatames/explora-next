@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasferimento di andata e ritorno dall''hotel; Trasporto in pullman; Guida locale; Ingresso e visita a una fattoria di aloe vera; Tapas in un ristorante canario tipico; Assicurazione di viaggio.'
+  respuesta: 'Il prezzo include trasferimento di andata e ritorno dall''hotel, trasporto in pullman, guida locale, ingresso e visita a una fattoria di aloe vera, tapas in un ristorante canario tipico e assicurazione di viaggio.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a persone con mobilità ridotta.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Bevande.'
+  respuesta: 'Il prezzo non include bevande.'
 categoria: excursionesDia
 keywords:
 - escursione guayadeque

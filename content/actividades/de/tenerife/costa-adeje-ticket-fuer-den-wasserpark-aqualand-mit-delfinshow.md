@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Hauptkasse des Aqualand, Avenida Austria 15, Costa Adeje.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt und alle Wasserattraktionen; Delfinshow; Parkplatz.'
+  respuesta: 'Im Preis inbegriffen: Eintritt und alle Wasserattraktionen, Delfinshow und Parkplatz.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Öffnungszeiten: Juli und August 10–18 Uhr, sonst 10–17 Uhr; Letzter Einlass um 16 Uhr.'
+  respuesta: 'Öffnungszeiten: Juli und August 10–18 Uhr, sonst 10–17 Uhr. Letzter Einlass um 16 Uhr.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abholung vom Hotel.'
+  respuesta: 'Nicht inbegriffen: Abholung vom Hotel.'
 categoria: parques
 keywords:
 - aqualand teneriffa tickets

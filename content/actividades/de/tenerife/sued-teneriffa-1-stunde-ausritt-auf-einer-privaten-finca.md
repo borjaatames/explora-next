@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ausritt mit professionellen Reitlehrern; Komplette Ausrüstung; Ponyreiten in geschlossener Bahn für Kinder unter 7.'
+  respuesta: 'Im Preis inbegriffen: Ausritt mit professionellen Reitlehrern, komplette Ausrüstung und Ponyreiten in geschlossener Bahn für Kinder unter 7.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Schwangere; Höchstens 10 Personen pro Ausritt.'
+  respuesta: 'Nicht für Schwangere. Höchstens 10 Personen pro Ausritt.'
 categoria: aventura
 keywords:
 - reiten süd teneriffa

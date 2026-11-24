@@ -41,11 +41,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Ruta con 7 paradas clave en Fuerteventura; Almuerzo.'
+  respuesta: 'Incluye recogida y regreso al hotel, ruta con 7 paradas clave en Fuerteventura y almuerzo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No accesible en silla de ruedas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '8 horas.'
+  respuesta: 'Dura 8 horas.'
 categoria: excursionesDia
 keywords:
 - excursion fuerteventura con almuerzo

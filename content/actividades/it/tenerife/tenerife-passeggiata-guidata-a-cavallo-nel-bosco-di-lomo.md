@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Passeggiata a cavallo; Istruttore; Casco e guanti.'
+  respuesta: 'Il prezzo include passeggiata a cavallo, istruttore e casco e guanti.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Peso massimo 85 kg; Non adatto a bambini sotto i 5 anni; Non adatto a donne in gravidanza.'
+  respuesta: 'Peso massimo 85 kg. Non adatto a bambini sotto i 5 anni. Non adatto a donne in gravidanza.'
 categoria: aventura
 keywords:
 - passeggiata a cavallo tenerife nord

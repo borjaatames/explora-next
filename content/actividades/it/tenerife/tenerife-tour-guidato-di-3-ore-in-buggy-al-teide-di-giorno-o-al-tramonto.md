@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tour guidato di 3 ore in buggy su strada; Guida professionista; Briefing di sicurezza; Giacca termica e guanti; Soste ai belvedere; Snack e bevanda all''ultima sosta.'
+  respuesta: 'Il prezzo include tour guidato di 3 ore in buggy su strada, guida professionista, briefing di sicurezza, giacca termica e guanti, soste ai belvedere e snack e bevanda all''ultima sosta.'
 categoria: aventura
 keywords:
 - buggy teide tramonto

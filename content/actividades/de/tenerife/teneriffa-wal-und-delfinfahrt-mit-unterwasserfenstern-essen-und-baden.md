@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Katamaran Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Katamaranfahrt; Wal- und Delfinbeobachtung; Essen und Getränke.'
+  respuesta: 'Im Preis inbegriffen: Katamaranfahrt, Wal- und Delfinbeobachtung und Essen und Getränke.'
 categoria: agua
 keywords:
 - walbeobachtung puerto colon

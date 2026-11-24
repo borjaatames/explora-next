@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Visite guidée à pied du centre historique; Passage par le Théâtre romain et l''Alcazaba; Extérieur de la cathédrale.'
+  respuesta: 'Le prix comprend : visite guidée à pied du centre historique, passage par le Théâtre romain et l''Alcazaba et extérieur de la cathédrale.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - que-voir-a-malaga-en-une-journee

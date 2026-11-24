@@ -51,7 +51,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Calle Anfi del Mar 2, Mogán.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Alle Steuern; Versicherung; Schwimmweste.'
+  respuesta: 'Im Preis inbegriffen: alle Steuern, Versicherung und Schwimmweste.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Höchstens 200 kg Gesamtgewicht.'
 categoria: agua

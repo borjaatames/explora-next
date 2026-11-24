@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Recogida en tu hotel o alojamiento de Madrid (indica dónde te alojas al reservar).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en tu alojamiento de Madrid; Guía oficial privado; Transporte privado de ida y vuelta; Asistencia de un agente de viajes.'
+  respuesta: 'Incluye recogida en tu alojamiento de Madrid, guía oficial privado, transporte privado de ida y vuelta y asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

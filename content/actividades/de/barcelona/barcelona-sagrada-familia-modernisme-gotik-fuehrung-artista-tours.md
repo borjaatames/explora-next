@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller lokaler Guide; Führung außen an der Sagrada Família; Turrón-Verkostung; Spaziergang über den Passeig de Gràcia und durch das Gotische Viertel.'
+  respuesta: 'Im Preis inbegriffen: professioneller lokaler Guide, Führung außen an der Sagrada Família, Turrón-Verkostung und Spaziergang über den Passeig de Gràcia und durch das Gotische Viertel.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

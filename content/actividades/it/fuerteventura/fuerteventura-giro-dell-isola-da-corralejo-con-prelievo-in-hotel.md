@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasferimento da e per l''hotel; Acqua.'
+  respuesta: 'Il prezzo include trasferimento da e per l''hotel e acqua.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a chi soffre di vertigini.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo.'
+  respuesta: 'Il prezzo non include cibo.'
 categoria: excursionesDia
 keywords:
 - giro dell'isola fuerteventura

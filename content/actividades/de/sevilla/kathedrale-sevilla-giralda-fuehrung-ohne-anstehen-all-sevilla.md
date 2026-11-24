@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Führung durch die Kathedrale; Ticket ohne Anstehen; Zugang zur Giralda.'
+  respuesta: 'Im Preis inbegriffen: Führung durch die Kathedrale, Ticket ohne Anstehen und Zugang zur Giralda.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - kathedrale-sevilla-giralda-tickets-ausverkauft

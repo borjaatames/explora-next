@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Buendía Corralejo, Calle La Atalaya 2, Corralejo. Combine a hora com a escola por WhatsApp depois de reservar.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Instrutores certificados (FES, FCS, ISA); Todo o equipamento; Transporte até ao spot; Aula teórica e prática; Seguro de responsabilidade civil e acidentes.'
+  respuesta: 'O preço inclui instrutores certificados (FES, FCS, ISA); todo o equipamento; transporte até ao spot; aula teórica e prática; e seguro de responsabilidade civil e acidentes.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Não recomendado a menores de 15 anos; Não recomendado a grávidas; Não recomendado a pessoas com problemas cardíacos ou utilizadores de cadeira de rodas.'
+  respuesta: 'Não recomendado a menores de 15 anos. Não recomendado a grávidas. Não recomendado a pessoas com problemas cardíacos ou utilizadores de cadeira de rodas.'
 categoria: agua
 keywords:
 - aula de surf principiantes corralejo

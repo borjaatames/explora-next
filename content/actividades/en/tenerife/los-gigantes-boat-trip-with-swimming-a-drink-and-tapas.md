@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'C. Poblado Marinero 20, Los Gigantes harbour.'
 - pregunta: 'What is included?'
-  respuesta: 'Los Gigantes cliffs; Stops in bays and coves; Alcoholic or soft drink; Tapas; Snorkelling gear; Skipper and guide.'
+  respuesta: 'The price includes Los Gigantes cliffs, stops in bays and coves, alcoholic or soft drink, tapas, snorkelling gear, and skipper and guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Vegetarian and vegan options on request; Up to 4 children per trip.'
+  respuesta: 'Vegetarian and vegan options on request. Up to 4 children per trip.'
 categoria: agua
 keywords:
 - boat trip los gigantes

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Davanti al ristorante Magilu, Av. Ocira 27, Abades.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita di snorkeling con guida; Attrezzatura da snorkeling; Muta lunga o corta; Foto e video.'
+  respuesta: 'Il prezzo include uscita di snorkeling con guida, attrezzatura da snorkeling, muta lunga o corta e foto e video.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Chi non sa nuotare vede i pesci ma non le tartarughe, per cui bisogna nuotare a lungo; Non si possono portare occhiali sotto la maschera; Non adatto sotto i 5 anni o con il raffreddore.'
+  respuesta: 'Chi non sa nuotare vede i pesci ma non le tartarughe, per cui bisogna nuotare a lungo. Non si possono portare occhiali sotto la maschera. Non adatto sotto i 5 anni o con il raffreddore.'
 categoria: agua
 keywords:
 - snorkeling abades

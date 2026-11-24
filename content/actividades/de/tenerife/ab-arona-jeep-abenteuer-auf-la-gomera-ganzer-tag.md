@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kostenloser Parkplatz des Einkaufszentrums X-Sur, Calle Lisboa 2, Costa Adeje, um 08:20 Uhr.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrer; Fährüberfahrt; Mittagessen.'
+  respuesta: 'Im Preis inbegriffen: Fahrer, Fährüberfahrt und Mittagessen.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Für die Fähre brauchst du deinen Ausweis oder Reisepass im Original.'
 categoria: excursionesDia

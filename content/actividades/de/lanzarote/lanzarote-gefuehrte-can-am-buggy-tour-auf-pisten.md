@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Automatischer Can-Am-Trail-Buggy für zwei Personen; Guide.'
+  respuesta: 'Im Preis inbegriffen: Automatischer Can-Am-Trail-Buggy für zwei Personen und Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Findet bei jedem Wetter statt; Nicht für Kinder unter 7 und in der Schwangerschaft; Preis pro Buggy für bis zu 2 Personen.'
+  respuesta: 'Findet bei jedem Wetter statt. Nicht für Kinder unter 7 und in der Schwangerschaft. Preis pro Buggy für bis zu 2 Personen.'
 categoria: aventura
 keywords:
 - buggy tour lanzarote

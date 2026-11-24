@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Karting Club Tenerife, Carretera Cho–Las Chafiras, Cho (Arona).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Navette gratuite dans le sud de l''île.'
+  respuesta: 'Le prix comprend : navette gratuite dans le sud de l''île.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux femmes enceintes et aux personnes cardiaques; Options junior : kart biplace 160 cm³ (1 adulte + 1 enfant jusqu''à 5 ans) et Pony Kart 120 cm³.'
+  respuesta: 'Déconseillé aux femmes enceintes et aux personnes cardiaques. Options junior : kart biplace 160 cm³ (1 adulte + 1 enfant jusqu''à 5 ans) et Pony Kart 120 cm³.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons.'
+  respuesta: 'Ne sont pas inclus : repas et boissons.'
 categoria: aventura
 keywords:
 - karting tenerife

@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up at set points in Maspalomas; Walking poles if needed; Light picnic: sandwich and fruit; 2 local guides; Air-conditioned minivan, max. 6 travellers.'
+  respuesta: 'The price includes pick-up at set points in Maspalomas; walking poles if needed; light picnic: sandwich and fruit; 2 local guides; and air-conditioned minivan, max. 6 travellers.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'About 4 km on foot, mostly easy with some rocky or uneven stretches; Not suitable for children under 6 or people with reduced mobility.'
+  respuesta: 'About 4 km on foot, mostly easy with some rocky or uneven stretches. Not suitable for children under 6 or people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Water.'
+  respuesta: 'The price does not include water.'
 categoria: excursionesDia
 keywords:
 - barranco de las vacas tour

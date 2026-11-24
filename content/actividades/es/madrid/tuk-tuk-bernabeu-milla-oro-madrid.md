@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Tour privado en tuk-tuk eléctrico (hasta 4 personas por tuk-tuk); Audioguía con auriculares en 11 idiomas; Agua fresca, wifi y cargador para el móvil; Alzador para niños.'
+  respuesta: 'Incluye tour privado en tuk-tuk eléctrico (hasta 4 personas por tuk-tuk); audioguía con auriculares en 11 idiomas; agua fresca, wifi y cargador para el móvil; y alzador para niños.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Llega 10 minutos antes; el tuk-tuk espera en la zona de aparcamiento frente al Museo Thyssen; Edad mínima 3 años; Si sois más de 4, reserva un tuk-tuk por cada grupo de 4.'
+  respuesta: 'Llega 10 minutos antes; el tuk-tuk espera en la zona de aparcamiento frente al Museo Thyssen. Edad mínima 3 años. Si sois más de 4, reserva un tuk-tuk por cada grupo de 4.'
 opinionEditorial: 'Es el complemento de la ruta del centro histórico: aquí no hay Plaza Mayor ni Palacio Real, sino el Madrid de las avenidas, el Bernabéu y las tiendas de Serrano. Tiene sentido si ya conocéis el centro o si el fútbol es parte del viaje. La reserva no es reembolsable.'
 atraccionesRelacionadas:
 - bernabeu

@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Life jacket.'
+  respuesta: 'The price includes life jacket.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You must wear a T-shirt under the life jacket; Not suitable for children under 8, pregnant women or people with reduced mobility; Maximum 100 kg.'
+  respuesta: 'You must wear a T-shirt under the life jacket. Not suitable for children under 8, pregnant women or people with reduced mobility. Maximum 100 kg.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: agua
 keywords:
 - jet ski playa blanca

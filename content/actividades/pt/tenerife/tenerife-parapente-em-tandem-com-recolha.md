@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Voo de parapente em tandem; Recolha em Costa Adeje, Los Cristianos e Las Américas; Transporte até à descolagem; Piloto de tandem multilingue; Briefing de segurança e equipamento homologado; Seguro de responsabilidade civil e acidentes.'
+  respuesta: 'O preço inclui voo de parapente em tandem; recolha em Costa Adeje, Los Cristianos e Las Américas; transporte até à descolagem; piloto de tandem multilingue; briefing de segurança e equipamento homologado; e seguro de responsabilidade civil e acidentes.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'O parapente depende do tempo: não reserve muito perto do dia do regresso; Não recomendado a menores de 4 anos, grávidas ou acima de 100 kg.'
+  respuesta: 'O parapente depende do tempo: não reserve muito perto do dia do regresso. Não recomendado a menores de 4 anos, grávidas ou acima de 100 kg.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Fotos e vídeos GoPro (30 €); Comida e bebidas; Recolha em Los Cristianos depois das 12:00 nos dias úteis; Regresso ao hotel.'
+  respuesta: 'O preço não inclui fotos e vídeos GoPro (30 €), comida e bebidas, recolha em Los Cristianos depois das 12:00 nos dias úteis nem regresso ao hotel.'
 categoria: aventura
 keywords:
 - parapente tenerife

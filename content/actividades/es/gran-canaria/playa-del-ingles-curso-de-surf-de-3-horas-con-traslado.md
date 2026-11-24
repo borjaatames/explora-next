@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Canary Wave Surf School, Centro Comercial Oasis, Paseo del Faro 1, Maspalomas. La escuela confirma la hora de inicio, normalmente por la mañana.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado desde/hasta tu hotel (solo sur de la isla); Equipo de surf; Monitor.'
+  respuesta: 'Incluye traslado desde/hasta tu hotel (solo sur de la isla), equipo de surf y monitor.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Agua.'
+  respuesta: 'No incluye agua.'
 categoria: agua
 keywords:
 - clase de surf playa del ingles

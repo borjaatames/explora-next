@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide en direct; Vélo ou vélo électrique (selon l''option); Sièges enfant et casques sur demande; Consigne à bagages.'
+  respuesta: 'Le prix comprend : guide en direct, vélo ou vélo électrique (selon l''option), sièges enfant et casques sur demande et consigne à bagages.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-en-1-jour

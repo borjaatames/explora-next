@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle de Alfonso XI, 2 (junto al Retiro), Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte privado desde Madrid; Guía privado; Entrada a la catedral de Cuenca; Entrada al Museo de Arte Abstracto Español; Refresco.'
+  respuesta: 'Incluye transporte privado desde Madrid, guía privado, entrada a la catedral de Cuenca, entrada al Museo de Arte Abstracto Español y refresco.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

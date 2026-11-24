@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Camel Safari Park La Baranda, strada per Fataga km 12.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Giro in cammello di 30 minuti; Ingresso al parco con altri animali e giardino.'
+  respuesta: 'Il prezzo include giro in cammello di 30 minuti e ingresso al parco con altri animali e giardino.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a donne in gravidanza; Massimo 120 kg.'
+  respuesta: 'Non adatto a donne in gravidanza. Massimo 120 kg.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Bevande; Cibo per gli animali.'
+  respuesta: 'Il prezzo non include bevande né cibo per gli animali.'
 categoria: aventura
 keywords:
 - giro in cammello gran canaria

@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Flipper Uno, C. Poblado Marinero, Lokal 20, Hafen von Los Gigantes. Sei 30 Minuten vor Abfahrt da.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt mit Guide; Freie Zeit zum Baden; Getränke: Cola, Fanta, Wasser, Bier und Rotwein; Paella mit Huhn und Gemüse (je nach Option); Toiletten an Bord.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt mit Guide; freie Zeit zum Baden; Getränke: Cola, Fanta, Wasser, Bier und Rotwein; Paella mit Huhn und Gemüse (je nach Option); und Toiletten an Bord.'
 categoria: agua
 keywords:
 - los gigantes bootstour

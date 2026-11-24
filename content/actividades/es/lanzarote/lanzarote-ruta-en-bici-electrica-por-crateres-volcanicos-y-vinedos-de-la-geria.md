@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Bodega Los Bermejos, Camino a Los Bermejos 7, San Bartolomé. Tras reservar, envía tu altura, peso y experiencia.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía acreditado; Bici eléctrica; Casco; Agua; Barrita y gel energéticos; Seguro.'
+  respuesta: 'Incluye guía acreditado, bici eléctrica, casco, agua, barrita y gel energéticos y seguro.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 13, mayores de 70, embarazadas ni personas con diabetes.'
 categoria: aventura

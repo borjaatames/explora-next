@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Minimo 4 partecipanti; Cancellazione con rimborso in caso di pioggia, vento forte o onde; Se soffrite il mal di mare, prendete una pastiglia un''ora prima; non adatto oltre i 125 kg.'
+  respuesta: 'Minimo 4 partecipanti. Cancellazione con rimborso in caso di pioggia, vento forte o onde. Se soffrite il mal di mare, prendete una pastiglia un''ora prima; non adatto oltre i 125 kg.'
 categoria: agua
 guiasRelacionadas:
 - cosa-vedere-a-maiorca

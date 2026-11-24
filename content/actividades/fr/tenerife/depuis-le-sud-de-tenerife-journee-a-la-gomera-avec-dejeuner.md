@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour dans le sud de Tenerife; Transferts; Ferry rapide; Déjeuner; Guide multilingue.'
+  respuesta: 'Le prix comprend : prise en charge et retour dans le sud de Tenerife, transferts, ferry rapide, déjeuner et guide multilingue.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les commentaires peuvent être en plusieurs langues selon le groupe; Prévoyez des vêtements chauds et votre pièce d''identité ou passeport pour le ferry.'
+  respuesta: 'Les commentaires peuvent être en plusieurs langues selon le groupe. Prévoyez des vêtements chauds et votre pièce d''identité ou passeport pour le ferry.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '9 heures.'
+  respuesta: 'L''activité dure 9 heures.'
 categoria: excursionesDia
 keywords:
 - excursion la gomera

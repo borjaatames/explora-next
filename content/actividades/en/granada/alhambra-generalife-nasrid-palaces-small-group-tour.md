@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Next to the Generalife ticket office, Paseo del Generalife (Granada). Look for staff in purple Crown Tours T-shirts. Bring your passport or ID: tickets are in your name.'
 - pregunta: 'What is included?'
-  respuesta: 'Alhambra tickets with Nasrid Palaces; Licensed guide; Headsets.'
+  respuesta: 'The price includes Alhambra tickets with Nasrid Palaces, licensed guide, and headsets.'
 opinionEditorial: 'A complete, highly rated visit with tickets included and a guide in your language. The catch is the cancellation policy: you only get half back.'
 atraccionesRelacionadas:
 - alhambra

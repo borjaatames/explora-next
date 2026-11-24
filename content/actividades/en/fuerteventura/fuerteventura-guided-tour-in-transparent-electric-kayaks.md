@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Professional guide; Guided tour; Full equipment: life jackets, water shoes, walkie-talkie, waterproof phone case; Safety briefing; Shuttle service.'
+  respuesta: 'The price includes professional guide; guided tour; full equipment: life jackets, water shoes, walkie-talkie, waterproof phone case; safety briefing; and shuttle service.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 6; Children aged 6 to 11 go free with an adult (one child per adult).'
+  respuesta: 'Not suitable for children under 6. Children aged 6 to 11 go free with an adult (one child per adult).'
 - pregunta: 'How long does it last?'
-  respuesta: '1 h 30 min.'
+  respuesta: 'It lasts 1 h 30 min.'
 categoria: agua
 keywords:
 - transparent kayak fuerteventura

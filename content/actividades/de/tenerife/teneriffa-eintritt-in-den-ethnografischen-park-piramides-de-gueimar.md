@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Pyramiden; Museum; Botanischer Garten; Giftpflanzengarten (Premium-Option); Polynesien-Ausstellung (Premium-Option).'
+  respuesta: 'Im Preis inbegriffen: Pyramiden, Museum, botanischer Garten, Giftpflanzengarten (Premium-Option) und Polynesien-Ausstellung (Premium-Option).'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke; Abholung und Rücktransfer.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke und Abholung und Rücktransfer.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '2 Stunden.'
+  respuesta: 'Die Dauer beträgt 2 Stunden.'
 categoria: entradas
 keywords:
 - pyramiden von güímar tickets

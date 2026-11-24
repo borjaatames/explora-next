@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'O preço é por pessoa?'
   respuesta: 'Não. O preço é por grupo, não por pessoa.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia profissional; Safari guiado de mota de água; Mota de água moderna; Combustível; Colete salva-vidas; Briefing de segurança.'
+  respuesta: 'O preço inclui guia profissional, safari guiado de mota de água, mota de água moderna, combustível, colete salva-vidas e briefing de segurança.'
 categoria: agua
 keywords:
 - safari mota de agua gran canaria

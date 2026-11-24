@@ -44,9 +44,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: '4-seater Yamaha buggy; Pick-up and drop-off at your hotel in Maspalomas; Insurance.'
+  respuesta: 'The price includes 4-seater Yamaha buggy, pick-up and drop-off at your hotel in Maspalomas, and insurance.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: aventura
 keywords:
 - buggy tour maspalomas

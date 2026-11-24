@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Live-Guide; Rad oder E-Bike (je nach Option); Kindersitze und Helme auf Anfrage; Gepäckaufbewahrung.'
+  respuesta: 'Im Preis inbegriffen: Live-Guide, Rad oder E-Bike (je nach Option), Kindersitze und Helme auf Anfrage und Gepäckaufbewahrung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-an-einem-tag

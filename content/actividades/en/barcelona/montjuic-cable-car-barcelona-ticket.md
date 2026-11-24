@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Teleférico de Montjuïc, lower station — Av. de Miramar, Barcelona. Take metro line 2 or 3 to Paral·lel, then the Montjuïc funicular (free with T-Casual). The cable car lower station is at the top of the funicular. The cable car runs from there up to Montjuïc castle.'
 - pregunta: 'What is included?'
-  respuesta: 'Round-trip cable car ticket.'
+  respuesta: 'The price includes round-trip cable car ticket.'
 opinionEditorial: The Montjuïc cable car gives you Barcelona's best panoramic view — better than the Tibidabo for city-and-sea combinations. The 10-minute ride is short but memorable, especially at sunset.
 guiasRelacionadas:
 - barcelona-in-3-days

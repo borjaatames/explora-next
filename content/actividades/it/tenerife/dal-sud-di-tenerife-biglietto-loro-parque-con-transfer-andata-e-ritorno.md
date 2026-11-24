@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno agli hotel del sud di Tenerife; Ingresso al Loro Parque; Transfer.'
+  respuesta: 'Il prezzo include prelievo e ritorno agli hotel del sud di Tenerife, ingresso al Loro Parque e transfer.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Prelievo solo nel sud dell''isola; I biglietti vengono distribuiti sul pullman: il transfer è obbligatorio per entrare.'
+  respuesta: 'Prelievo solo nel sud dell''isola. I biglietti vengono distribuiti sul pullman: il transfer è obbligatorio per entrare.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Pranzo.'
+  respuesta: 'Il prezzo non include pranzo.'
 categoria: parques
 keywords:
 - loro parque transfer

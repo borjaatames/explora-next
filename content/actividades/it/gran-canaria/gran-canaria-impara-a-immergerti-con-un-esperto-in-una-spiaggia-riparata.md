@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura da sub; Assicurazione; Logbook online; Istruttore subacqueo; Prelievo e ritorno nel sud di Gran Canaria; Acqua.'
+  respuesta: 'Il prezzo include attrezzatura da sub, assicurazione, logbook online, istruttore subacqueo, prelievo e ritorno nel sud di Gran Canaria e acqua.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 8 anni; Non adatto a donne in gravidanza o persone con problemi cardiaci; Non adatto a chi ha problemi alla schiena o respiratori, epilessia, ipertensione o interventi recenti.'
+  respuesta: 'Età minima 8 anni. Non adatto a donne in gravidanza o persone con problemi cardiaci. Non adatto a chi ha problemi alla schiena o respiratori, epilessia, ipertensione o interventi recenti.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Pranzo; Foto subacquee.'
+  respuesta: 'Il prezzo non include pranzo né foto subacquee.'
 categoria: agua
 keywords:
 - imparare a immergersi gran canaria

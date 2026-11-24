@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Colón, pontoon 2, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Free drink (beer, water or soft drink) and a sandwich; Swim stop at El Puertito or Las Vistas beach.'
+  respuesta: 'The price includes free drink (beer, water or soft drink) and a sandwich; and swim stop at El Puertito or Las Vistas beach.'
 - pregunta: 'How long does it last?'
-  respuesta: '3 hours.'
+  respuesta: 'It lasts 3 hours.'
 categoria: agua
 keywords:
 - whale watching small group tenerife

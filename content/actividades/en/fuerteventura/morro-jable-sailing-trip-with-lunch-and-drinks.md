@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Snorkelling gear; Unlimited food and drinks (beer, cava, wine and soft drinks).'
+  respuesta: 'The price includes hotel pick-up and drop-off; snorkelling gear; and unlimited food and drinks (beer, cava, wine and soft drinks).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Pick-up: Costa Calma 10:25, Esquinzo/Butihondo 10:40, Jandía/Morro Jable 10:45; If you come by yourself: 10:50 outside the Cofradía restaurant in the port.'
+  respuesta: 'Pick-up: Costa Calma 10:25, Esquinzo/Butihondo 10:40, Jandía/Morro Jable 10:45. If you come by yourself: 10:50 outside the Cofradía restaurant in the port.'
 - pregunta: 'What is not included?'
-  respuesta: 'Tips (optional).'
+  respuesta: 'The price does not include tips (optional).'
 categoria: agua
 keywords:
 - sailing morro jable

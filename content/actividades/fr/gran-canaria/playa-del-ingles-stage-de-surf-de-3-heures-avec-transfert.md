@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Canary Wave Surf School, Centro Comercial Oasis, Paseo del Faro 1, Maspalomas. L''école confirme l''horaire, généralement le matin.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transfert depuis/vers votre hôtel (sud de l''île uniquement); Matériel de surf; Moniteur.'
+  respuesta: 'Le prix comprend : transfert depuis/vers votre hôtel (sud de l''île uniquement), matériel de surf et moniteur.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Eau.'
+  respuesta: 'Ne sont pas inclus : eau.'
 categoria: agua
 keywords:
 - cours de surf playa del ingles

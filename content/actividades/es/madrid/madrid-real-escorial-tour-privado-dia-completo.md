@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Recogida en tu hotel o alojamiento de Madrid; el guía te espera en la recepción con una acreditación.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte privado; Guía privado; Entradas a los monumentos del itinerario.'
+  respuesta: 'Incluye transporte privado, guía privado y entradas a los monumentos del itinerario.'
 atraccionesRelacionadas:
 - escorial
 - palacio-real

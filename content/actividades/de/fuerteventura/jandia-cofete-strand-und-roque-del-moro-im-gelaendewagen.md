@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer vom Hotel; Guide; Geländewagenfahrt.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer vom Hotel, Guide und Geländewagenfahrt.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Abholung an ausgewählten Orten im Süden Fuerteventuras; Die genaue Abholzeit kommt vor der Tour.'
+  respuesta: 'Abholung an ausgewählten Orten im Süden Fuerteventuras. Die genaue Abholzeit kommt vor der Tour.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '4 Stunden.'
+  respuesta: 'Die Dauer beträgt 4 Stunden.'
 categoria: excursionesDia
 keywords:
 - cofete jeep tour

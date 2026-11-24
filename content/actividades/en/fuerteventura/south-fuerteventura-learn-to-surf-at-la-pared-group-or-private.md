@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Wellenkind Surfschool, La Pared. If conditions do not allow it, the school tells you the alternative meeting point.'
 - pregunta: 'What is included?'
-  respuesta: 'Board, wetsuit and transfer; Showers and changing rooms; 2-hour lesson on the beach; Hotel pick-up and drop-off: Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
+  respuesta: 'The price includes board, wetsuit and transfer; showers and changing rooms; 2-hour lesson on the beach; and hotel pick-up and drop-off: Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 7; Must be able to swim; The start time depends on the tide and conditions; the school confirms it.'
+  respuesta: 'Not suitable for children under 7. Must be able to swim. The start time depends on the tide and conditions; the school confirms it.'
 categoria: agua
 keywords:
 - surf lesson la pared

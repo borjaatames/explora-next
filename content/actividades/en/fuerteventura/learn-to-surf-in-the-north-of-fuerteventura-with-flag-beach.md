@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Board and wetsuit.'
+  respuesta: 'The price includes hotel pick-up and drop-off and board and wetsuit.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 11; Not suitable for pregnant women; Must be able to swim.'
+  respuesta: 'Not suitable for children under 11. Not suitable for pregnant women. Must be able to swim.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - flag beach surf

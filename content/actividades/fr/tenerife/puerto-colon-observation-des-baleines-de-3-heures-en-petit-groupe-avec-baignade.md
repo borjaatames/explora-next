@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón, ponton 2, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Boisson offerte (bière, eau ou soda) et un sandwich; Baignade à El Puertito ou sur la plage de Las Vistas.'
+  respuesta: 'Le prix comprend : boisson offerte (bière, eau ou soda) et un sandwich; et baignade à El Puertito ou sur la plage de Las Vistas.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '3 heures.'
+  respuesta: 'L''activité dure 3 heures.'
 categoria: agua
 keywords:
 - observation baleines petit groupe tenerife

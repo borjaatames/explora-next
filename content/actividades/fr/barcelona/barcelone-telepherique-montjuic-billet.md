@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Téléphérique de Montjuïc, station basse, Av. de Miramar, Barcelone. Prenez le métro ligne 2 ou 3 jusqu''à Paral·lel, puis le funiculaire de Montjuïc (gratuit avec la T-Casual). La station basse du téléphérique se trouve en haut du funiculaire ; de là, le téléphérique monte jusqu''au château de Montjuïc.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet aller-retour en téléphérique.'
+  respuesta: 'Le prix comprend : billet aller-retour en téléphérique.'
 opinionEditorial: Le téléphérique de Montjuïc offre la meilleure vue panoramique de Barcelone, meilleure que le Tibidabo pour embrasser à la fois la ville et la mer. Le trajet de 10 minutes est court mais mémorable, surtout au coucher du soleil.
 guiasRelacionadas:
 - barcelone-en-3-jours

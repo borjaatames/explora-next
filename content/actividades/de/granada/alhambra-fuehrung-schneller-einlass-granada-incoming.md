@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Je nach Option am Eingang der Alhambra; der genaue Treffpunkt steht in der Buchung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Allgemeines Ticket mit schnellem Einlass; Nasridenpaläste; Offizieller lokaler Guide; Kopfhörer.'
+  respuesta: 'Im Preis inbegriffen: Allgemeines Ticket mit schnellem Einlass, Nasridenpaläste, offizieller lokaler Guide und Kopfhörer.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-tickets-ausverkauft

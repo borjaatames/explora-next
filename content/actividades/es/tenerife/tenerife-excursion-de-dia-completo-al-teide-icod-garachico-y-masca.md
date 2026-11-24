@@ -55,11 +55,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en hoteles seleccionados; Visita guiada; Parque Nacional de Las Cañadas del Teide; Parada en Vilaflor; Garachico; Icod y el Drago Milenario.'
+  respuesta: 'Incluye recogida y regreso en hoteles seleccionados, visita guiada, Parque Nacional de Las Cañadas del Teide, parada en Vilaflor, Garachico e Icod y el Drago Milenario.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: '40 minutos para comer; se puede añadir almuerzo opcional a través del operador; Lleva ropa cómoda, protector solar y agua.'
+  respuesta: '40 minutos para comer; se puede añadir almuerzo opcional a través del operador. Lleva ropa cómoda, protector solar y agua.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Almuerzo (suplemento opcional); No hay tiempo para el teleférico del Teide.'
+  respuesta: 'No incluye almuerzo (suplemento opcional) ni no hay tiempo para el teleférico del Teide.'
 categoria: excursionesDia
 keywords:
 - excursion teide masca garachico

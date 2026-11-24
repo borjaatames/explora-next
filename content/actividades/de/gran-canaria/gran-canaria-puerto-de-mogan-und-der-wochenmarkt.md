@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Optionale Bootsfahrt nach Puerto de Mogán (falls gewählt); Abholung in Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín und Bahía Feliz; Guide; Klimatisierter Bus mit Fahrer; Haftpflichtversicherung.'
+  respuesta: 'Im Preis inbegriffen: optionale Bootsfahrt nach Puerto de Mogán (falls gewählt); Abholung in Puerto Rico, Anfi, Patalavaca, Meloneras, Sonnenland, Maspalomas, Playa del Inglés, San Agustín und Bahía Feliz; Guide; klimatisierter Bus mit Fahrer; und Haftpflichtversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Bootsfahrt ab Puerto Rico kostet pro Person extra; Abholzeit und -ort per WhatsApp bestätigen; keine Änderungen weniger als 24 Stunden vorher.'
+  respuesta: 'Die Bootsfahrt ab Puerto Rico kostet pro Person extra. Abholzeit und -ort per WhatsApp bestätigen; keine Änderungen weniger als 24 Stunden vorher.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Erinnerungsfotos; Mittagessen.'
+  respuesta: 'Nicht inbegriffen: Erinnerungsfotos und Mittagessen.'
 categoria: excursionesDia
 keywords:
 - mogan markt ausflug

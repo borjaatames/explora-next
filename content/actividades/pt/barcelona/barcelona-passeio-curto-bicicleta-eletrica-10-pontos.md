@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bicicleta ou bicicleta elétrica (conforme a opção); Guia local; Capacete; Cadeiras de criança a pedido; Depósito de bagagem; Seguro.'
+  respuesta: 'O preço inclui bicicleta ou bicicleta elétrica (conforme a opção), guia local, capacete, cadeiras de criança a pedido, depósito de bagagem e seguro.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-num-dia

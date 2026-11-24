@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Komm 30 Minuten vorher.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Jetski für eine oder zwei Personen (je nach Option); Einweisung Schritt für Schritt; Begleitboot und Guide; Badestopp; Kostenlose Schließfächer und Schwimmweste.'
+  respuesta: 'Im Preis inbegriffen: Jetski für eine oder zwei Personen (je nach Option), Einweisung Schritt für Schritt, Begleitboot und Guide, Badestopp und kostenlose Schließfächer und Schwimmweste.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Allein fahren ab 16, mit Beifahrer ab 18; Maximale Zuladung ca. 160 kg pro Jetski; Nicht für Kinder unter 6 und in der Schwangerschaft.'
+  respuesta: 'Allein fahren ab 16, mit Beifahrer ab 18. Maximale Zuladung ca. 160 kg pro Jetski. Nicht für Kinder unter 6 und in der Schwangerschaft.'
 categoria: agua
 keywords:
 - jetski teneriffa

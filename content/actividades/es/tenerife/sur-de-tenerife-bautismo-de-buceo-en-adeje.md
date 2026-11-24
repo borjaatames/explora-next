@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'GF Isabel, Avenida de Moscú 2, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Equipo de buceo completo: gafas, neopreno, escarpines y aletas; Inmersión de 45 minutos; Café de bienvenida; Seguro de buceo; Transporte al punto de inmersión y vuelta al centro; Agua, fruta y tentempiés.'
+  respuesta: 'Incluye equipo de buceo completo: gafas, neopreno, escarpines y aletas; inmersión de 45 minutos; café de bienvenida; seguro de buceo; transporte al punto de inmersión y vuelta al centro; y agua, fruta y tentempiés.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Edad mínima 10 años; No apto para embarazadas, personas con epilepsia ni mayores de 70 años; No vueles en las 12 a 24 horas siguientes a bucear.'
+  respuesta: 'Edad mínima 10 años. No apto para embarazadas, personas con epilepsia ni mayores de 70 años. No vueles en las 12 a 24 horas siguientes a bucear.'
 categoria: agua
 keywords:
 - bautismo de buceo adeje

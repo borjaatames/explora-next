@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement; Consignes et entraînement; Saut depuis 3 000 mètres; Chute libre à plus de 200 km/h; Vol sous voile de 5 à 8 minutes; Activité de 90 minutes.'
+  respuesta: 'Le prix comprend : équipement, consignes et entraînement, saut depuis 3 000 mètres, chute libre à plus de 200 km/h, vol sous voile de 5 à 8 minutes et activité de 90 minutes.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: '100 kg maximum (le poids déclaré est vérifié à l''enregistrement); Déconseillé aux moins de 9 ans, aux femmes enceintes et si vous avez plongé dans les 24 heures.'
+  respuesta: '100 kg maximum (le poids déclaré est vérifié à l''enregistrement). Déconseillé aux moins de 9 ans, aux femmes enceintes et si vous avez plongé dans les 24 heures.'
 categoria: aventura
 keywords:
 - saut en parachute gran canaria

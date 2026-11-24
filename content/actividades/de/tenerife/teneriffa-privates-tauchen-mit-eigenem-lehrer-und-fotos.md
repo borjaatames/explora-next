@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transfer von und zu deiner Unterkunft; Zertifizierter Tauchlehrer; Privater, persönlicher Tauchgang; Sicherheitseinweisung und Erklärung der Ausrüstung; Komplette Tauchausrüstung; Unterwasserfotos und -videos.'
+  respuesta: 'Im Preis inbegriffen: Transfer von und zu deiner Unterkunft; zertifizierter Tauchlehrer; privater, persönlicher Tauchgang; Sicherheitseinweisung und Erklärung der Ausrüstung; komplette Tauchausrüstung; und Unterwasserfotos und -videos.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 8 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Nach dem Tauchen 24 Stunden nicht fliegen.'
+  respuesta: 'Mindestalter 8 Jahre. Nicht für Schwangere oder Menschen mit Herzproblemen. Nach dem Tauchen 24 Stunden nicht fliegen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Persönliche Tauchversicherung (für zertifizierte Taucher nötig; Anfänger sind versichert); Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: persönliche Tauchversicherung (für zertifizierte Taucher nötig; Anfänger sind versichert) und Essen und Getränke.'
 categoria: agua
 keywords:
 - privat tauchen teneriffa

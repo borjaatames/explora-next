@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso (zona de Puerto del Carmen a Famara); Monitores titulados; Grupos reducidos; Neopreno y tabla; Agua y fruta; Fotos y vídeos.'
+  respuesta: 'Incluye recogida y regreso (zona de Puerto del Carmen a Famara), monitores titulados, grupos reducidos, neopreno y tabla, agua y fruta y fotos y vídeos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 10 años.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida en Arrecife, Playa Honda, Puerto Calero y Costa Teguise: 15 € extra, se pagan al conductor; Propinas.'
+  respuesta: 'No incluye recogida en Arrecife, Playa Honda, Puerto Calero y Costa Teguise: 15 € extra, se pagan al conductor; ni propinas.'
 categoria: agua
 keywords:
 - clase de surf famara

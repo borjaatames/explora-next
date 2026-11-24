@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Picarus Sailing Club, puerto deportivo de Los Gigantes, pantalán 1, amarre 152 (barcos Aemon o Ayla).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Equipo de seguridad (chalecos salvavidas); Gafas de esnórquel.'
+  respuesta: 'Incluye equipo de seguridad (chalecos salvavidas) y gafas de esnórquel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Para las salidas de las 13:00 y las 16:00 llega al menos 1 hora antes: aparcar en Los Gigantes es muy complicado; No apto para menores de 3 años ni con más de 140 kg.'
+  respuesta: 'Para las salidas de las 13:00 y las 16:00 llega al menos 1 hora antes: aparcar en Los Gigantes es muy complicado. No apto para menores de 3 años ni con más de 140 kg.'
 categoria: agua
 keywords:
 - velero los gigantes ballenas

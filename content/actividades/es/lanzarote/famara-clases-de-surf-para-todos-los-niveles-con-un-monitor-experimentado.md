@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Tabla de surf y neopreno; Monitor dedicado y adaptado a tu nivel; Máximo 5 alumnos por monitor; Fotos y vídeos cuando las condiciones lo permiten.'
+  respuesta: 'Incluye tabla de surf y neopreno, monitor dedicado y adaptado a tu nivel, máximo 5 alumnos por monitor y fotos y vídeos cuando las condiciones lo permiten.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Indica tu nivel al reservar; No apto para menores de 4 años ni embarazadas; Lleva toalla, protector solar y ropa seca.'
+  respuesta: 'Indica tu nivel al reservar. No apto para menores de 4 años ni embarazadas. Lleva toalla, protector solar y ropa seca.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '2 horas.'
+  respuesta: 'Dura 2 horas.'
 categoria: agua
 keywords:
 - clases de surf famara

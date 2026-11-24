@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'MPC Yacht Charter, velero El Mojo Picón, puerto de Los Gigantes (C. Poblado Marinero).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Crucero compartido o privado; Equipo de esnórquel; Aperitivos y bebidas; Almuerzo; Equipo de seguridad.'
+  respuesta: 'Incluye crucero compartido o privado, equipo de esnórquel, aperitivos y bebidas, almuerzo y equipo de seguridad.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para personas con movilidad reducida o problemas cardíacos.'
 categoria: agua

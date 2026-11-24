@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Adventurer Catamaran, Avenida Conde de Vallellano, dans le port d''Alicante.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en catamaran de 2 heures; Une bière ou un verre de cava, de vin ou de tinto de verano; Eau, sodas et jus; Matériel de snorkeling prêté (contre une pièce d''identité).'
+  respuesta: 'Le prix comprend : sortie en catamaran de 2 heures; une bière ou un verre de cava, de vin ou de tinto de verano; eau, sodas et jus; et matériel de snorkeling prêté (contre une pièce d''identité).'
 categoria: agua
 keywords:
 - "catamaran alicante"

@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Chauffeur; Prise en charge à l''hôtel ou point proche à Las Américas.'
+  respuesta: 'Le prix comprend : chauffeur et prise en charge à l''hôtel ou point proche à Las Américas.'
 categoria: excursionesDia
 guiasRelacionadas:
 - teide-billets-complets

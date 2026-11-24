@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off (south of Tenerife); Minivan with expert guide; Panoramic sunset with aperitif and toast; Solar observation with a professional filter; Night observation with telescopes; Live astrophotography (Andromeda photo included).'
+  respuesta: 'The price includes hotel pick-up and drop-off (south of Tenerife), minivan with expert guide, panoramic sunset with aperitif and toast, solar observation with a professional filter, night observation with telescopes, and live astrophotography (Andromeda photo included).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The tour runs even if it''s cloudy; if stargazing isn''t possible there is no refund, though another date may be offered; Not suitable with heart problems.'
+  respuesta: 'The tour runs even if it''s cloudy; if stargazing isn''t possible there is no refund, though another date may be offered. Not suitable with heart problems.'
 - pregunta: 'What is not included?'
-  respuesta: 'Airport transfers; Extra drinks; Tips.'
+  respuesta: 'The price does not include airport transfers, extra drinks, or tips.'
 categoria: nocturno
 keywords:
 - astronomy tour tenerife

@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Marina Miramar, port de plaisance de Santa Pola (quai nord). Départ du port de plaisance Marina Miramar de Santa Pola, quai nord. Arrivez 15 minutes en avance ; le skipper vous attend au poste d''amarrage du voilier.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Voilier avec skipper; Carburant; Dégustation et une boisson; Planches de paddle; Lunettes de snorkeling.'
+  respuesta: 'Le prix comprend : voilier avec skipper, carburant, dégustation et une boisson, planches de paddle et lunettes de snorkeling.'
 opinionEditorial: 'La façon la plus détendue de profiter de Tabarca : en voilier, avec peu de monde, en nageant là où le ferry ne s''arrête pas. Le retour au coucher du soleil fait toute la différence.'
 guiasRelacionadas:
 - ile-de-tabarca-comment-la-visiter

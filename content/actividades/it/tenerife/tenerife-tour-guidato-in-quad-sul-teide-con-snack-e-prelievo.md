@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Quad e attrezzatura protettiva; Guida; Rinfreschi; Prelievo.'
+  respuesta: 'Il prezzo include quad e attrezzatura protettiva, guida, rinfreschi e prelievo.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Foto; Deposito cauzionale o assicurazione extra.'
+  respuesta: 'Il prezzo non include foto né deposito cauzionale o assicurazione extra.'
 - pregunta: 'Quanto dura?'
-  respuesta: '3 ore.'
+  respuesta: 'Dura 3 ore.'
 categoria: aventura
 keywords:
 - tour guidato quad teide

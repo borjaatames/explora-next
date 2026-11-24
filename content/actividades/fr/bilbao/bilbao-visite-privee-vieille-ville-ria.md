@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide privé; Prise en charge à l’hôtel.'
+  respuesta: 'Le prix comprend : guide privé et prise en charge à l’hôtel.'
 opinionEditorial: Une excellente première découverte de Bilbao, ancienne et moderne, racontée par quelqu’un du coin.
 atraccionesRelacionadas:
 - casco-viejo

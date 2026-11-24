@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida locale; Materiale stampato lungo il percorso; Link con consigli su Madrid.'
+  respuesta: 'Il prezzo include guida locale, materiale stampato lungo il percorso e link con consigli su Madrid.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-in-1-giorno

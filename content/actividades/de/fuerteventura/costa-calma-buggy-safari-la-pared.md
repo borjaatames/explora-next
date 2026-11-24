@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rückfahrt in Costa Calma; Guide; Helm; Versicherung für Fahrer und Beifahrer.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rückfahrt in Costa Calma, Guide, Helm und Versicherung für Fahrer und Beifahrer.'
 categoria: aventura
 keywords:
 - "buggy costa calma"

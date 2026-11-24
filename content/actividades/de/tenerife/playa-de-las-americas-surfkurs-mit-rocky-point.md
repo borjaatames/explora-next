@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Avenida Rafael Puig Lluvina 32, Lokal 61, Playa de las Américas (Arona).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller Surflehrer; Theorie und Praxis im Wasser; Softboard; Neoprenanzug; Riffschuhe; Unfallversicherung.'
+  respuesta: 'Im Preis inbegriffen: professioneller Surflehrer, Theorie und Praxis im Wasser, Softboard, Neoprenanzug, Riffschuhe und Unfallversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Gruppenkurse ab 14; unter 14 nur Privatkurse; Nicht für Schwangere; Du musst schwimmen können.'
+  respuesta: 'Gruppenkurse ab 14; unter 14 nur Privatkurse. Nicht für Schwangere. Du musst schwimmen können.'
 categoria: agua
 keywords:
 - rocky point surf

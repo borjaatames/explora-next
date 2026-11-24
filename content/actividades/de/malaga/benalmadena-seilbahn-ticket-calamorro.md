@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Talstation der Seilbahn, Av. de Tívoli, Arroyo de la Miel (Benalmádena). Neben Tívoli World. Nahverkehrszug C1 bis Benalmádena-Arroyo de la Miel, dann 10 Minuten zu Fuß.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Seilbahnticket.'
+  respuesta: 'Im Preis inbegriffen: Seilbahnticket.'
 opinionEditorial: Der beste Blick über die Costa del Sol für unter 20 €. Fahr morgens, wenn weniger Dunst ist, und wenn du gern wanderst, geh über einen der Wege hinunter.
 guiasRelacionadas:
 - malaga-mit-kindern

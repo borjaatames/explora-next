@@ -47,9 +47,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en Los Cristianos y Costa Adeje; Guía con experiencia; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye recogida y regreso en Los Cristianos y Costa Adeje, guía con experiencia y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El conductor principal debe tener 21 años o más y carné válido; Indica tu hotel al reservar o escribe "Sin recogida"'
+  respuesta: 'El conductor principal debe tener 21 años o más y carné válido. Indica tu hotel al reservar o escribe "Sin recogida"'
 categoria: aventura
 keywords:
 - buggy masca

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Scuba Point, Puerto Colón, locale 131 (piano terra, di fronte al pontile 3), Costa Adeje.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasferimento in barca al punto d''immersione; Attrezzatura subacquea completa; Istruttore certificato; Assicurazione completa.'
+  respuesta: 'Il prezzo include trasferimento in barca al punto d''immersione, attrezzatura subacquea completa, istruttore certificato e assicurazione completa.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Dopo l''immersione non salire oltre i 300 m (Teide o aereo) lo stesso giorno; Non adatto sotto gli 8 anni, in gravidanza o con problemi cardiaci, respiratori o diabete; L''avvistamento di animali non è garantito.'
+  respuesta: 'Dopo l''immersione non salire oltre i 300 m (Teide o aereo) lo stesso giorno. Non adatto sotto gli 8 anni, in gravidanza o con problemi cardiaci, respiratori o diabete. L''avvistamento di animali non è garantito.'
 categoria: agua
 keywords:
 - battesimo sub tenerife

@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'MPC Yacht Charter, yacht El Mojo Picón, Los Gigantes marina (C. Poblado Marinero).'
 - pregunta: 'What is included?'
-  respuesta: 'Shared or private cruise; Snorkelling gear; Snacks and drinks; Lunch; Safety equipment.'
+  respuesta: 'The price includes shared or private cruise, snorkelling gear, snacks and drinks, lunch, and safety equipment.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for people with reduced mobility or heart problems.'
 categoria: agua

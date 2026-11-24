@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off at selected points; Buggy tour; Professional guide; Goggles.'
+  respuesta: 'The price includes pick-up and drop-off at selected points, buggy tour, professional guide, and goggles.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers 18+ with a valid driving licence and a physical credit card; Passengers must be at least 130 cm tall.'
+  respuesta: 'Drivers 18+ with a valid driving licence and a physical credit card. Passengers must be at least 130 cm tall.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: aventura
 keywords:
 - buggy tour las palmas

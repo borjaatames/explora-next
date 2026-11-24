@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle de Alfonso XII, 2 (junto al Retiro), Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Furgoneta Mercedes Vito o similar con aire acondicionado; Entrada al Alcázar de Segovia; Entrada a la iglesia del Corpus Christi; Agua; Tasas.'
+  respuesta: 'Incluye furgoneta Mercedes Vito o similar con aire acondicionado, entrada al Alcázar de Segovia, entrada a la iglesia del Corpus Christi, agua y tasas.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

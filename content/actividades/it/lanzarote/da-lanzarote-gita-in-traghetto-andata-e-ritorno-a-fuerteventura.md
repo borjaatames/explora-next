@@ -47,13 +47,13 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Transfer al traghetto e ritorno al punto di prelievo; Biglietto del traghetto andata e ritorno; 5 ore di tempo libero a Fuerteventura.'
+  respuesta: 'Il prezzo include transfer al traghetto e ritorno al punto di prelievo, biglietto del traghetto andata e ritorno e 5 ore di tempo libero a Fuerteventura.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Il tempo in pullman dipende da dove si trova l''hotel; I taxi non sono coperti; Non adatto a persone con mobilità ridotta.'
+  respuesta: 'Il tempo in pullman dipende da dove si trova l''hotel. I taxi non sono coperti. Non adatto a persone con mobilità ridotta.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Pranzo; Bevande; Guida; Autobus o taxi a Corralejo.'
+  respuesta: 'Il prezzo non include pranzo, bevande, guida né autobus o taxi a Corralejo.'
 - pregunta: 'Quanto dura?'
-  respuesta: '9 ore.'
+  respuesta: 'Dura 9 ore.'
 categoria: excursionesDia
 keywords:
 - gita fuerteventura da lanzarote

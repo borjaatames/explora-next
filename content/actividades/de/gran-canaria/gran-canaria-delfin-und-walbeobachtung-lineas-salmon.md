@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Der Abfahrtsort hängt von der gebuchten Option ab; Kinder willkommen; Nicht empfohlen in der Schwangerschaft.'
+  respuesta: 'Der Abfahrtsort hängt von der gebuchten Option ab. Kinder willkommen. Nicht empfohlen in der Schwangerschaft.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Getränke (gegen Gebühr).'
+  respuesta: 'Nicht inbegriffen: Getränke (gegen Gebühr).'
 categoria: agua
 keywords:
 - delfinbeobachtung gran canaria

@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Girona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Acceso a la ruta autoguiada por Girona a través de la app DareMapp, con código de referencia enviado tras la compra; Audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); Libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; Disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; Acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
+  respuesta: 'Incluye acceso a la ruta autoguiada por Girona a través de la app DareMapp, con código de referencia enviado tras la compra; audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; y acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para toda la familia: edad mínima 1 año; Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el barrio del Call tiene calles empedradas y algún escalón puntual; Se permiten animales de servicio.'
+  respuesta: 'Apto para toda la familia: edad mínima 1 año. Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el barrio del Call tiene calles empedradas y algún escalón puntual. Se permiten animales de servicio.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Guía físico o acompañante (es una experiencia 100% autónoma y autoguiada); Transporte hasta el punto de inicio de la ruta; Entradas a monumentos o museos del recorrido (donde aplique).'
+  respuesta: 'No incluye guía físico o acompañante (es una experiencia 100% autónoma y autoguiada), transporte hasta el punto de inicio de la ruta ni entradas a monumentos o museos del recorrido (donde aplique).'
 opinionEditorial: 'Es la ficha más corta del catálogo (1h30) y tiene sentido: el casco antiguo de Girona, con el Call y la Rambla de la Llibertat, se recorre bien en poco tiempo. Buena opción si vas de paso camino a otro destino o si combinas el tour con tiempo libre para tapear. No esperes un recorrido exhaustivo por toda la ciudad.'
 atraccionesRelacionadas:
 - casco-antiguo

@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Riscatta il voucher alla reception del Museu d''Art, accanto alla scalinata della cattedrale.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso alla cattedrale e al suo tesoro; Ingresso alla basilica di Sant Feliu; Ingresso al Museu d''Art; Audioguida nella cattedrale.'
+  respuesta: 'Il prezzo include ingresso alla cattedrale e al suo tesoro, ingresso alla basilica di Sant Feliu, ingresso al Museu d''Art e audioguida nella cattedrale.'
 opinionEditorial: L'essenziale del Barri Vell di Girona in un unico biglietto e per 12 €. La navata della cattedrale e l'Arazzo della Creazione giustificano già il prezzo.
 categoria: entradas
 keywords:

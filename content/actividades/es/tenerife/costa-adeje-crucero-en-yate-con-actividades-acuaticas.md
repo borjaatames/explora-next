@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Yate de 20 metros, todo incluido; Tripulación profesional; Actividades acuáticas; Comida y bebida.'
+  respuesta: 'Incluye yate de 20 metros, todo incluido; tripulación profesional; actividades acuáticas; y comida y bebida.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '3 h 30 min.'
+  respuesta: 'Dura 3 h 30 min.'
 categoria: agua
 keywords:
 - crucero en yate tenerife

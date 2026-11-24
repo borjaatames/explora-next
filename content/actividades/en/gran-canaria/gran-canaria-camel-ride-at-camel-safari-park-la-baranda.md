@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Camel Safari Park La Baranda, Fataga road km 12.'
 - pregunta: 'What is included?'
-  respuesta: '30-minute camel ride; Park entry to see more animals and the garden.'
+  respuesta: 'The price includes 30-minute camel ride and Park entry to see more animals and the garden.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for pregnant women; Maximum 120 kg.'
+  respuesta: 'Not suitable for pregnant women. Maximum 120 kg.'
 - pregunta: 'What is not included?'
-  respuesta: 'Drinks; Animal feed.'
+  respuesta: 'The price does not include drinks or animal feed.'
 categoria: aventura
 keywords:
 - camel ride gran canaria

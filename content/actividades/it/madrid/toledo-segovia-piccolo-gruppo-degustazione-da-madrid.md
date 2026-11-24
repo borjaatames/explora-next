@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Prelievo nel tuo alloggio a Madrid.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo a Madrid; Veicolo premium con wifi e aria condizionata; Ingressi a Santo Tomé, Santa María la Blanca e Alcázar di Segovia; Degustazione iberica con consumazione; Acqua; Tasse.'
+  respuesta: 'Il prezzo include prelievo a Madrid; veicolo premium con wifi e aria condizionata; ingressi a Santo Tomé, Santa María la Blanca e Alcázar di Segovia; degustazione iberica con consumazione; acqua; e tasse.'
 atraccionesRelacionadas:
 - toledo
 - segovia

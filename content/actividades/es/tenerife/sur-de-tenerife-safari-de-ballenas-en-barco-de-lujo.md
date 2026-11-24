@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Comida y 2 bebidas gratis.'
+  respuesta: 'Incluye recogida y regreso al hotel y comida y 2 bebidas gratis.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Recogida incluida en el sur de la isla.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '3 horas.'
+  respuesta: 'Dura 3 horas.'
 categoria: agua
 keywords:
 - avistamiento de ballenas barco de lujo tenerife

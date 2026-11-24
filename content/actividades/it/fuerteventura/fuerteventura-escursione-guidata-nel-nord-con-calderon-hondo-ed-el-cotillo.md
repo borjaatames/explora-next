@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel; Guida geologa esperta.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel e guida geologa esperta.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Escursione di livello facile; Non adatto a bambini sotto gli 8 anni o persone con mobilità ridotta.'
+  respuesta: 'Escursione di livello facile. Non adatto a bambini sotto gli 8 anni o persone con mobilità ridotta.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Museo.'
+  respuesta: 'Il prezzo non include cibo e bevande né museo.'
 categoria: aventura
 keywords:
 - trekking fuerteventura

@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pyramids; Museum; Botanical garden; Poisonous plants garden (premium option); Polynesian exhibition (premium option).'
+  respuesta: 'The price includes pyramids, Museum, botanical garden, poisonous plants garden (premium option), and Polynesian exhibition (premium option).'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Hotel pick-up and drop-off.'
+  respuesta: 'The price does not include food and drinks or hotel pick-up and drop-off.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 hours.'
+  respuesta: 'It lasts 2 hours.'
 categoria: entradas
 keywords:
 - piramides de guimar tickets

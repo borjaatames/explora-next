@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Billetterie principale d''Aqualand, Avenida Austria 15, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée et toutes les attractions aquatiques; Spectacle de dauphins; Parking.'
+  respuesta: 'Le prix comprend : entrée et toutes les attractions aquatiques, spectacle de dauphins et parking.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Horaires : 10 h–18 h en juillet et août, 10 h–17 h le reste de l''année; Dernière entrée à 16 h.'
+  respuesta: 'Horaires : 10 h–18 h en juillet et août, 10 h–17 h le reste de l''année. Dernière entrée à 16 h.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Prise en charge à l''hôtel.'
+  respuesta: 'Ne sont pas inclus : prise en charge à l''hôtel.'
 categoria: parques
 keywords:
 - aqualand tenerife billets

@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Pirâmides; Museu; Jardim botânico; Jardim de plantas venenosas (opção premium); Exposição polinésia (opção premium).'
+  respuesta: 'O preço inclui pirâmides, museu, jardim botânico, jardim de plantas venenosas (opção premium) e exposição polinésia (opção premium).'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Comida e bebidas; Recolha e regresso ao hotel.'
+  respuesta: 'O preço não inclui comida e bebidas nem recolha e regresso ao hotel.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '2 horas.'
+  respuesta: 'Dura 2 horas.'
 categoria: entradas
 keywords:
 - piramides de guimar bilhetes

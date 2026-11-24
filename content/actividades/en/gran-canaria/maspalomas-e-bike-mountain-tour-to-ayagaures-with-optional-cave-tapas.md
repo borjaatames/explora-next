@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Avenida de Alemania 22, Playa del Inglés (San Bartolomé de Tirajana).'
 - pregunta: 'What is included?'
-  respuesta: 'E-bike; Helmet and reflective vest; Local guide; 0.5 l bottle of water; 1 drink: tropical fruit soda, cola, orange soda, iced tea or coffee.'
+  respuesta: 'The price includes e-bike; helmet and reflective vest; local guide; 0.5 l bottle of water; and 1 drink: tropical fruit soda, cola, orange soda, iced tea or coffee.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for under-14s, over-70s or people with reduced mobility.'
 categoria: aventura

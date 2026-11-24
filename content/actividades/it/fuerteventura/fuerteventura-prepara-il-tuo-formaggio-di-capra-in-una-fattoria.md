@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Caseificio La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Caffè di benvenuto; Laboratorio guidato di caseificazione; Tecniche di mungitura a mano e a macchina; Preparazione del tuo formaggio majorero; Tutti gli attrezzi e l''attrezzatura; Colazione: panino con formaggio fresco, tagliere di formaggi locali, mojo e marmellate fatte in casa.'
+  respuesta: 'Il prezzo include caffè di benvenuto; laboratorio guidato di caseificazione; tecniche di mungitura a mano e a macchina; preparazione del tuo formaggio majorero; tutti gli attrezzi e l''attrezzatura; e colazione: panino con formaggio fresco, tagliere di formaggi locali, mojo e marmellate fatte in casa.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Bevande extra.'
+  respuesta: 'Il prezzo non include bevande extra.'
 categoria: talleres
 keywords:
 - laboratorio formaggio fuerteventura

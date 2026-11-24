@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Sercotel Parque, Calle Muelle Las Palmas 2, Las Palmas de Gran Canaria. Arrange the time on WhatsApp.'
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off in the old town; Taxi or minibus transport; Free garden entry; Personal guide in a very small group; Insurance.'
+  respuesta: 'The price includes pick-up and drop-off in the old town, taxi or minibus transport, free garden entry, personal guide in a very small group, and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for people with reduced mobility; Optional hotel pick-up (€20) or from the port (€25).'
+  respuesta: 'Not suitable for people with reduced mobility. Optional hotel pick-up (€20) or from the port (€25).'
 categoria: excursionesDia
 keywords:
 - botanical garden tour las palmas

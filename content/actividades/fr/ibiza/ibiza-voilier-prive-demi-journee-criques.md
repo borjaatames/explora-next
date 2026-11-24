@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Voilier privé avec skipper; Carburant; Équipement de snorkeling et 2 paddles.'
+  respuesta: 'Le prix comprend : voilier privé avec skipper, carburant et équipement de snorkeling et 2 paddles.'
 opinionEditorial: Une demi-journée sur son propre voilier, c’est la meilleure façon de voir les criques d’Ibiza sans la foule.
 atraccionesRelacionadas:
 - calas-barco

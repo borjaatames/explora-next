@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'No physical meeting point: activate the route from your phone using the code you receive after purchase, whenever and wherever you like in Cádiz.'
 - pregunta: 'What is included?'
-  respuesta: 'Access to the self-guided Cádiz route through the DareMapp app, with a reference code sent after purchase; Audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); Complete freedom to set your pace, pick your stops, and pause or resume whenever you like; Availability 24 hours a day, 365 days a year, with no expiry date; Access to food and family-activity recommendations inside the app.'
+  respuesta: 'The price includes access to the self-guided Cádiz route through the DareMapp app, with a reference code sent after purchase; audio guide in 6 languages (Spanish, English, Portuguese, French, Italian, German); complete freedom to set your pace, pick your stops, and pause or resume whenever you like; availability 24 hours a day, 365 days a year, with no expiry date; and access to food and family-activity recommendations inside the app.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Suitable for the whole family: minimum age 1 year; Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; the old town is nearly flat and easy to walk; Service animals are welcome.'
+  respuesta: 'Suitable for the whole family: minimum age 1 year. Wheelchair- and stroller-friendly, as you''re free to walk the route at your own pace; the old town is nearly flat and easy to walk. Service animals are welcome.'
 - pregunta: 'What is not included?'
-  respuesta: 'A physical guide or companion (this is a fully self-guided, independent experience); Transport to the start of the route; Admission tickets to monuments or museums along the route (where applicable).'
+  respuesta: 'The price does not include a physical guide or companion (this is a fully self-guided, independent experience); transport to the start of the route; or admission tickets to monuments or museums along the route (where applicable).'
 opinionEditorial: 'Cádiz is a compact, pleasant city to walk, so the self-guided format works well: you can linger at any square or church without feeling like you''re holding up a group. With 2 routes and +25 points it covers a lot more than the basic historic centre. Great for families or independent travellers; if you want the history told by a real person, this isn''t the product.'
 categoria: toursCiudad
 keywords:

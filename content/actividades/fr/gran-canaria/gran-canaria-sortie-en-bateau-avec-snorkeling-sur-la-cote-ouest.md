@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour dans certaines zones du sud; Eau et biscuits.'
+  respuesta: 'Le prix comprend : prise en charge et retour dans certaines zones du sud et eau et biscuits.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux enfants de moins de 6 ans, aux personnes à mobilité réduite et en fauteuil roulant.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Photos et vidéo; Prise en charge depuis d''autres zones.'
+  respuesta: 'Ne sont pas inclus : photos et vidéo et prise en charge depuis d''autres zones.'
 categoria: agua
 keywords:
 - sortie bateau snorkeling gran canaria

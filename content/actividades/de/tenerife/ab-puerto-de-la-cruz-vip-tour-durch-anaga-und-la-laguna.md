@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Büro Tamaran / Volcanic, Calle Aceviño 12, Puerto de la Cruz, um 08:45 Uhr.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrer; Mittagessen; Abholung am Hotel oder an einem nahen Punkt in Puerto de la Cruz; Haftpflichtversicherung.'
+  respuesta: 'Im Preis inbegriffen: Fahrer, Mittagessen, Abholung am Hotel oder an einem nahen Punkt in Puerto de la Cruz und Haftpflichtversicherung.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '8 Stunden.'
+  respuesta: 'Die Dauer beträgt 8 Stunden.'
 categoria: excursionesDia
 keywords:
 - anaga la laguna tour

@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso em zonas selecionadas do sul; Água e bolachas.'
+  respuesta: 'O preço inclui recolha e regresso em zonas selecionadas do sul e água e bolachas.'
 - pregunta: 'O que é preciso saber antes de reservar?'
   respuesta: 'Não recomendado a menores de 6 anos, pessoas com mobilidade reduzida ou utilizadores de cadeira de rodas.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Fotos e vídeo; Recolha noutras zonas.'
+  respuesta: 'O preço não inclui fotos e vídeo nem recolha noutras zonas.'
 categoria: agua
 keywords:
 - passeio de barco snorkel gran canaria

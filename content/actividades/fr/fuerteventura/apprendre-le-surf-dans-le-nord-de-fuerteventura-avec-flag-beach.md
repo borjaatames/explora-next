@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à l''hôtel; Planche et combinaison.'
+  respuesta: 'Le prix comprend : prise en charge et retour à l''hôtel et planche et combinaison.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux enfants de moins de 11 ans; Déconseillé aux femmes enceintes; Savoir nager est obligatoire.'
+  respuesta: 'Déconseillé aux enfants de moins de 11 ans. Déconseillé aux femmes enceintes. Savoir nager est obligatoire.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '4 heures.'
+  respuesta: 'L''activité dure 4 heures.'
 categoria: agua
 keywords:
 - flag beach surf

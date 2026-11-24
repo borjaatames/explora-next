@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Los Batanes, Anaga (Santa Cruz de Tenerife).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Unfallversicherung; Erste-Hilfe-Set; Wanderstöcke und Regenschutz (begrenzte Anzahl).'
+  respuesta: 'Im Preis inbegriffen: Unfallversicherung, Erste-Hilfe-Set und Wanderstöcke und Regenschutz (begrenzte Anzahl).'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Etwas Wandererfahrung ist nötig; Nicht für Kinder unter 8 oder bei Herz- oder Atemproblemen.'
+  respuesta: 'Etwas Wandererfahrung ist nötig. Nicht für Kinder unter 8 oder bei Herz- oder Atemproblemen.'
 categoria: aventura
 keywords:
 - anaga wanderung deutsch

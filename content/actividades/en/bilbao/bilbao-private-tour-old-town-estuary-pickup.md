@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide; Hotel pickup.'
+  respuesta: 'The price includes private guide and hotel pickup.'
 opinionEditorial: 'A great first look at Bilbao: old and new told by a local, at your own pace.'
 atraccionesRelacionadas:
 - casco-viejo

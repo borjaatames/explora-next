@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Secondo l''opzione, all''ingresso dell''Alhambra; il punto esatto è nella prenotazione.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Biglietto generale con accesso rapido; Palazzi Nasridi; Guida ufficiale locale; Auricolari.'
+  respuesta: 'Il prezzo include biglietto generale con accesso rapido, Palazzi Nasridi, guida ufficiale locale e auricolari.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-biglietti-esauriti

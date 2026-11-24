@@ -48,13 +48,13 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fährticket einfach oder hin und zurück (je nach Option); Priority Boarding; Gepäck bis 20 kg pro Person kostenlos; Surfbrett oder Fahrrad ohne Aufpreis; Haustiere reisen kostenlos im Salon oder an Deck.'
+  respuesta: 'Im Preis inbegriffen: Fährticket einfach oder hin und zurück (je nach Option), Priority Boarding, Gepäck bis 20 kg pro Person kostenlos, Surfbrett oder Fahrrad ohne Aufpreis und Haustiere reisen kostenlos im Salon oder an Deck.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Bordkarten kommen per E-Mail (Spam-Ordner prüfen); Mit Rückfahrticket musst du nicht am selben Tag zurück; Abfahrten können sich wetterbedingt ändern; dann gibt es Erstattung oder neue Zeit.'
+  respuesta: 'Die Bordkarten kommen per E-Mail (Spam-Ordner prüfen). Mit Rückfahrticket musst du nicht am selben Tag zurück. Abfahrten können sich wetterbedingt ändern; dann gibt es Erstattung oder neue Zeit.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke; Abholung und Rücktransfer; Autotransport.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke, Abholung und Rücktransfer und Autotransport.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '30 Minuten.'
+  respuesta: 'Die Dauer beträgt 30 Minuten.'
 categoria: excursionesDia
 keywords:
 - fähre lanzarote fuerteventura

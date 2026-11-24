@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Estadio Ramón Sánchez-Pizjuán, ingresso dalla porta 2 (Puerta 2), quartiere di Nervión.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso al museo e allo stadio; App audioguida.'
+  respuesta: 'Il prezzo include ingresso al museo e allo stadio e app audioguida.'
 categoria: entradas
 guiasRelacionadas:
 - siviglia-con-bambini

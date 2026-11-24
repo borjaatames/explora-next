@@ -47,13 +47,13 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transfer to the ferry and back to the pick-up point; Return ferry ticket; 5 hours of free time in Fuerteventura.'
+  respuesta: 'The price includes transfer to the ferry and back to the pick-up point, return ferry ticket, and 5 hours of free time in Fuerteventura.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Time on the coach depends on where your hotel is; Taxi fares are not covered; Not suitable for people with reduced mobility.'
+  respuesta: 'Time on the coach depends on where your hotel is. Taxi fares are not covered. Not suitable for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Drinks; Guide; Bus or taxi in Corralejo.'
+  respuesta: 'The price does not include lunch, drinks, guide, or bus or taxi in Corralejo.'
 - pregunta: 'How long does it last?'
-  respuesta: '9 hours.'
+  respuesta: 'It lasts 9 hours.'
 categoria: excursionesDia
 keywords:
 - fuerteventura day trip from lanzarote

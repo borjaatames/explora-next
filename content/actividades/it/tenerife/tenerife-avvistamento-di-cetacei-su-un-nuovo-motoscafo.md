@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Un piccolo spuntino; Prelievo e rientro in hotel; Attrezzatura da snorkeling.'
+  respuesta: 'Il prezzo include un piccolo spuntino, prelievo e rientro in hotel e attrezzatura da snorkeling.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Porta asciugamano e costume per la sosta bagno.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Bevande illimitate.'
+  respuesta: 'Il prezzo non include bevande illimitate.'
 categoria: agua
 keywords:
 - avvistamento balene motoscafo tenerife

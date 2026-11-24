@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado; Bicicleta y casco.'
+  respuesta: 'Incluye guía privado y bicicleta y casco.'
 opinionEditorial: Valencia es la ciudad perfecta para la bici, y en tres horas se ve del casco antiguo a la Ciudad de las Artes. En privado, además, a vuestro ritmo.
 atraccionesRelacionadas:
 - centro-historico

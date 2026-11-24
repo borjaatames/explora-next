@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rückfahrt an festen Punkten auf Teneriffa; Offizieller Guide mit Zertifikat der kanarischen Regierung; Mehrsprachige Tour: Spanisch, Englisch, Deutsch und Französisch (je nach Verfügbarkeit); Klimatisierter Bus; Führung durch die Bananenplantage mit Verkostung; Besuch der Bodega mit 5 Weinen.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rückfahrt an festen Punkten auf Teneriffa; offizieller Guide mit Zertifikat der kanarischen Regierung; Mehrsprachige Tour: Spanisch, Englisch, Deutsch und Französisch (je nach Verfügbarkeit); klimatisierter Bus; Führung durch die Bananenplantage mit Verkostung; und Besuch der Bodega mit 5 Weinen.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Bodega liegt hoch: feste Schuhe und leichte Jacke mitnehmen; Kurvige Bergstraßen; Nicht für Kreuzfahrtpassagiere.'
+  respuesta: 'Die Bodega liegt hoch: feste Schuhe und leichte Jacke mitnehmen. Kurvige Bergstraßen. Nicht für Kreuzfahrtpassagiere.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Mittagessen.'
+  respuesta: 'Nicht inbegriffen: Mittagessen.'
 categoria: toursGastronomicos
 keywords:
 - teneriffa weinprobe tour

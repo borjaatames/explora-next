@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Passeggiata con istruttori professionisti; Tutta l''attrezzatura; Pony in recinto chiuso per i bambini sotto i 7 anni.'
+  respuesta: 'Il prezzo include passeggiata con istruttori professionisti, tutta l''attrezzatura e pony in recinto chiuso per i bambini sotto i 7 anni.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a donne in gravidanza; Massimo 10 persone per uscita.'
+  respuesta: 'Non adatto a donne in gravidanza. Massimo 10 persone per uscita.'
 categoria: aventura
 keywords:
 - passeggiata a cavallo sud tenerife

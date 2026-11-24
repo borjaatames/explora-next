@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Granada. Al norte del centro, junto al campus de Cartuja. Autobuses urbanos 8 y U3 desde Gran Vía (unos 15 minutos).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada al Monasterio de la Cartuja; Audioguía en el móvil.'
+  respuesta: 'Incluye entrada al Monasterio de la Cartuja y audioguía en el móvil.'
 opinionEditorial: La gran desconocida de Granada. La sacristía es un delirio barroco de mármol y yeserías que deja sin palabras, y por 10 € casi la tienes para ti solo.
 guiasRelacionadas:
 - granada-en-2-dias

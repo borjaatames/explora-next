@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Equipamento de snorkel; Equipamento de caiaque; Fotos; Seguro; Cacifos.'
+  respuesta: 'O preço inclui equipamento de snorkel, equipamento de caiaque, fotos, seguro e cacifos.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'É preciso saber nadar; Não recomendado a grávidas, maiores de 70 anos ou acima de 110 kg.'
+  respuesta: 'É preciso saber nadar. Não recomendado a grávidas, maiores de 70 anos ou acima de 110 kg.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Recolha e regresso ao hotel.'
+  respuesta: 'O preço não inclui recolha e regresso ao hotel.'
 categoria: agua
 keywords:
 - caiaque tenerife scooter subaquatica

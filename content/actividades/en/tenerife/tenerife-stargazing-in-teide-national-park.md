@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Ermita de las Nieves, TF-21 road, La Orotava (on the way up to Teide).'
 - pregunta: 'What is included?'
-  respuesta: 'Telescope; Laser-guided explanations; Free photos.'
+  respuesta: 'The price includes telescope, laser-guided explanations, and free photos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You need your own transport to the meeting point; It gets cold at altitude: bring warm clothes.'
+  respuesta: 'You need your own transport to the meeting point. It gets cold at altitude: bring warm clothes.'
 categoria: nocturno
 keywords:
 - stargazing teide

@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Giro in buggy nel Parco Nazionale del Teide; Sosta a La Caldera; Guida sopra il mare di nuvole; Visita al paesaggio lunare; Guanti, occhiali e giacca; Spuntino e bevanda.'
+  respuesta: 'Il prezzo include giro in buggy nel Parco Nazionale del Teide; sosta a La Caldera; guida sopra il mare di nuvole; visita al paesaggio lunare; guanti, occhiali e giacca; e spuntino e bevanda.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Il percorso arriva a circa 2.200 metri; Prelievo e rientro gratuiti a Puerto de la Cruz; Prezzo per buggy.'
+  respuesta: 'Il percorso arriva a circa 2.200 metri. Prelievo e rientro gratuiti a Puerto de la Cruz. Prezzo per buggy.'
 categoria: aventura
 keywords:
 - buggy teide puerto de la cruz

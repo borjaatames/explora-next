@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha e regresso de Los Cristianos a Playa Paraíso; Carrinha de 9 lugares com ar condicionado; Capacete e arnês; Voo em tandem (15–20 minutos); Instrutor; 5 fotos GoPro (peça-as antes do voo).'
+  respuesta: 'O preço inclui recolha e regresso de Los Cristianos a Playa Paraíso, carrinha de 9 lugares com ar condicionado, capacete e arnês, voo em tandem (15–20 minutos), instrutor e 5 fotos GoPro (peça-as antes do voo).'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Os voos dependem do tempo, que também decide a zona de descolagem; Grupos de mais de 4 voam em dois turnos; Não recomendado a menores de 4 anos, grávidas ou acima de 100 kg.'
+  respuesta: 'Os voos dependem do tempo, que também decide a zona de descolagem. Grupos de mais de 4 voam em dois turnos. Não recomendado a menores de 4 anos, grávidas ou acima de 100 kg.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Comida e bebida; Todas as fotos e vídeos GoPro (pago à parte).'
+  respuesta: 'O preço não inclui comida e bebida nem todas as fotos e vídeos GoPro (pago à parte).'
 categoria: aventura
 keywords:
 - parapente taucho

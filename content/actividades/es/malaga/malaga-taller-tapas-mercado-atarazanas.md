@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Cocina Kulinarea, Av. Manuel Agustín Heredia 24, Málaga. En el Soho de Málaga, frente al aparcamiento de la Marina y a pocos pasos del mercado de Atarazanas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Chef y guía local; Ingredientes y utensilios; Comida que preparas; Sangría y vino, cerveza o refresco; Recetas; Delantal de recuerdo.'
+  respuesta: 'Incluye chef y guía local; ingredientes y utensilios; comida que preparas; sangría y vino, cerveza o refresco; recetas; y delantal de recuerdo.'
 opinionEditorial: 'Más que un tour de tapas: aprendes a hacerlas. Reserva el turno de mañana para no perderte Atarazanas, que es lo que hace especial la experiencia.'
 guiasRelacionadas:
 - comer-en-malaga

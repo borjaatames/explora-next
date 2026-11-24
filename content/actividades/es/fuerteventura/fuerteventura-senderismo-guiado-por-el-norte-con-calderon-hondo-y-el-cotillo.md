@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Guía experto en geología.'
+  respuesta: 'Incluye recogida y regreso al hotel y guía experto en geología.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Nivel de senderismo fácil; No apto para menores de 8 años ni personas con movilidad reducida.'
+  respuesta: 'Nivel de senderismo fácil. No apto para menores de 8 años ni personas con movilidad reducida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebida; Museo.'
+  respuesta: 'No incluye comida y bebida ni Museo.'
 categoria: aventura
 keywords:
 - senderismo fuerteventura

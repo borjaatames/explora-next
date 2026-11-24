@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Jet Ski Island Tenerife, ponton 9, Puerto Colón, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Bateau d''assistance; Guide professionnel; Jet-ski Yamaha 2024, simple ou double; Gilet de sauvetage; Briefing; Casier.'
+  respuesta: 'Le prix comprend : bateau d''assistance; guide professionnel; jet-ski Yamaha 2024, simple ou double; gilet de sauvetage; briefing; et casier.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Pilotes de 18 ans minimum ; les 16-17 ans uniquement en jet-ski simple; Déconseillé aux enfants de moins de 9 ans et aux personnes de moins de 135 cm; 140 kg maximum.'
+  respuesta: 'Pilotes de 18 ans minimum ; les 16-17 ans uniquement en jet-ski simple. Déconseillé aux enfants de moins de 9 ans et aux personnes de moins de 135 cm. 140 kg maximum.'
 categoria: agua
 keywords:
 - jet ski puerto colon

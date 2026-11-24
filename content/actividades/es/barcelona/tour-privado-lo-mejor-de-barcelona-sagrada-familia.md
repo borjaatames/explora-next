@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado en directo; Entrada sin colas y visita guiada por dentro de la Sagrada Família; Visita guiada por Montjuïc, el Barrio Gótico y el Passeig de Gràcia; Transporte privado durante el recorrido; Recogida y regreso al hotel.'
+  respuesta: 'Incluye guía privado en directo; entrada sin colas y visita guiada por dentro de la Sagrada Família; visita guiada por Montjuïc, el Barrio Gótico y el Passeig de Gràcia; transporte privado durante el recorrido; y recogida y regreso al hotel.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebida; Propinas.'
+  respuesta: 'No incluye comida y bebida ni propinas.'
 opinionEditorial: 'Es el plan redondo si solo tienes un día: lo imprescindible de Barcelona —Gaudí, Montjuïc y el casco antiguo— en privado, sin colas y sin preocuparte de la logística. Cuantos más seáis, más a cuenta sale el precio por grupo.'
 atraccionesRelacionadas:
 - sagrada-familia

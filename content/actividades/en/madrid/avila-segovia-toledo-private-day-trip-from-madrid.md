@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Pickup at your hotel or accommodation in Madrid (tell them where you are staying when you book).'
 - pregunta: 'What is included?'
-  respuesta: 'Pickup at your Madrid accommodation; Private official guide; Private round-trip transport; Support from a travel agent.'
+  respuesta: 'The price includes pickup at your Madrid accommodation, private official guide, private round-trip transport, and support from a travel agent.'
 atraccionesRelacionadas:
 - toledo
 - segovia

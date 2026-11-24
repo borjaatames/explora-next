@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, Costa Adeje, Tenerife Sur. Puerto Colón está en Adeje, en la costa sur de la isla, muy cerca de Playa de Fañabé. Confirma el muelle exacto con el operador al recibir la confirmación. Llega 20 minutos antes de la salida.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Excursión en catamarán (≈2 horas); Guía naturalista; Parada para bañarse.'
+  respuesta: 'Incluye excursión en catamarán (≈2 horas), guía naturalista y parada para bañarse.'
 opinionEditorial: La excursión en catamarán desde Puerto Colón es la opción más cómoda para las familias alojadas en el sur de Tenerife. El catamarán da estabilidad, y la parada de baño convierte el tour en una actividad completa de media jornada.
 guiasRelacionadas:
 - avistamiento-ballenas-tenerife

@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Museu Naval, Paseo del Prado, 3, Madrid.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Transporte num Mercedes com ar condicionado; Anfitrião durante todo o tour; Entradas nos monumentos; Degustação ibérica; Taxas.'
+  respuesta: 'O preço inclui transporte num Mercedes com ar condicionado, anfitrião durante todo o tour, entradas nos monumentos, degustação ibérica e taxas.'
 atraccionesRelacionadas:
 - toledo
 - excursiones-desde-madrid

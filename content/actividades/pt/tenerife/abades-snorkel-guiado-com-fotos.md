@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Em frente ao restaurante Magilu, Av. Ocira 27, Abades.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Snorkel com guia; Equipamento de snorkel; Fato comprido ou curto; Fotos e vídeos.'
+  respuesta: 'O preço inclui snorkel com guia, equipamento de snorkel, fato comprido ou curto e fotos e vídeos.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Quem não sabe nadar vê peixes mas não as tartarugas, que exigem nadar bastante; Não se podem usar óculos debaixo da máscara; Não recomendado a menores de 5 anos nem a pessoas constipadas.'
+  respuesta: 'Quem não sabe nadar vê peixes mas não as tartarugas, que exigem nadar bastante. Não se podem usar óculos debaixo da máscara. Não recomendado a menores de 5 anos nem a pessoas constipadas.'
 categoria: agua
 keywords:
 - snorkel abades

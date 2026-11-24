@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en zonas seleccionadas del sur de Tenerife (si está disponible); Billetes de ferry Tenerife–La Gomera de ida y vuelta; Traslados en La Gomera; Guía oficial; Grupo de máximo 18.'
+  respuesta: 'Incluye recogida en zonas seleccionadas del sur de Tenerife (si está disponible), billetes de ferry Tenerife–La Gomera de ida y vuelta, traslados en La Gomera, guía oficial y grupo de máximo 18.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'A quienes se alojan en Los Cristianos se les puede pedir que vayan a la oficina de Fred. Olsen en el puerto; No apto para personas con movilidad reducida.'
+  respuesta: 'A quienes se alojan en Los Cristianos se les puede pedir que vayan a la oficina de Fred. Olsen en el puerto. No apto para personas con movilidad reducida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Almuerzo; Bebidas; Aparcamiento en el puerto de Los Cristianos.'
+  respuesta: 'No incluye almuerzo, bebidas ni aparcamiento en el puerto de Los Cristianos.'
 categoria: excursionesDia
 keywords:
 - la gomera grupo reducido

@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Jet ski fuel; Guide.'
+  respuesta: 'The price includes jet ski fuel and guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The price is for 2 people sharing 1 jet ski; Subject to sea conditions; The operator''s hut is on the sand, with a pink flag.'
+  respuesta: 'The price is for 2 people sharing 1 jet ski. Subject to sea conditions. The operator''s hut is on the sand, with a pink flag.'
 categoria: agua
 keywords:
 - jet ski morro jable

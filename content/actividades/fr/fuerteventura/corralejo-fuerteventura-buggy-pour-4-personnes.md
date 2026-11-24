@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'C. La Ballena 10, Corralejo.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Location de buggy automatique; Guide professionnel; Briefing de sécurité.'
+  respuesta: 'Le prix comprend : location de buggy automatique, guide professionnel et briefing de sécurité.'
 categoria: aventura
 keywords:
 - buggy corralejo

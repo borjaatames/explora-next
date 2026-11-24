@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour (zone de Puerto del Carmen jusqu''à Famara); Moniteurs certifiés; Petits groupes; Combinaison et planche; Eau et fruits; Photos et vidéos.'
+  respuesta: 'Le prix comprend : prise en charge et retour (zone de Puerto del Carmen jusqu''à Famara), moniteurs certifiés, petits groupes, combinaison et planche, eau et fruits et photos et vidéos.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux enfants de moins de 10 ans.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Prise en charge à Arrecife, Playa Honda, Puerto Calero et Costa Teguise : 15 € en plus, à payer au chauffeur; Pourboires.'
+  respuesta: 'Ne sont pas inclus : prise en charge à Arrecife, Playa Honda, Puerto Calero et Costa Teguise : 15 € en plus, à payer au chauffeur; et pourboires.'
 categoria: agua
 keywords:
 - cours de surf famara

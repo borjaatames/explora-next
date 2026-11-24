@@ -50,7 +50,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Carretera Tahodio 24, Santa Cruz de Tenerife.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided visit to a family farm of avocados, bananas and citrus; Tasting menu: fresh cheese, wrinkled potatoes with green and red mojo, avocado, honey and seasonal fruit, roast pork, chickpeas and avocado salad; 1 glass of Tenerife wine.'
+  respuesta: 'The price includes guided visit to a family farm of avocados, bananas and citrus; tasting menu: fresh cheese, wrinkled potatoes with green and red mojo, avocado, honey and seasonal fruit, roast pork, chickpeas and avocado salad; and 1 glass of Tenerife wine.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Small group: 10 people with lunch, 15 for the tour only.'
 categoria: toursGastronomicos

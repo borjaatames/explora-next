@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Balade à cheval; Moniteur; Casque et gants.'
+  respuesta: 'Le prix comprend : balade à cheval, moniteur et casque et gants.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Poids maximum 85 kg; Déconseillé aux enfants de moins de 5 ans; Déconseillé aux femmes enceintes.'
+  respuesta: 'Poids maximum 85 kg. Déconseillé aux enfants de moins de 5 ans. Déconseillé aux femmes enceintes.'
 categoria: aventura
 keywords:
 - balade à cheval tenerife nord

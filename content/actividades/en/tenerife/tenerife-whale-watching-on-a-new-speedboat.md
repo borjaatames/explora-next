@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'A small snack; Hotel pick-up and drop-off; Snorkel gear.'
+  respuesta: 'The price includes a small snack, hotel pick-up and drop-off, and snorkel gear.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Bring a towel and swimwear for the swim stop.'
 - pregunta: 'What is not included?'
-  respuesta: 'Unlimited drinks.'
+  respuesta: 'The price does not include unlimited drinks.'
 categoria: agua
 keywords:
 - whale watching speedboat tenerife

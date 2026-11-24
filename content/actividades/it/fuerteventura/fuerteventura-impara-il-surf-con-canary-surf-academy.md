@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo dal tuo hotel o appartamento (secondo disponibilità); Muta, tavola e leash; Lezione di surf con istruttore qualificato; Assicurazione.'
+  respuesta: 'Il prezzo include prelievo dal tuo hotel o appartamento (secondo disponibilità); muta, tavola e leash; lezione di surf con istruttore qualificato; e assicurazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a bambini sotto i 6 anni; Non adatto a donne in gravidanza; Bisogna saper nuotare.'
+  respuesta: 'Non adatto a bambini sotto i 6 anni. Non adatto a donne in gravidanza. Bisogna saper nuotare.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Prelievo a Costa Calma, Morro Jable e nel sud (ci si può incontrare in spiaggia).'
+  respuesta: 'Il prezzo non include cibo e bevande; né prelievo a Costa Calma, Morro Jable e nel sud (ci si può incontrare in spiaggia).'
 categoria: agua
 keywords:
 - canary surf academy

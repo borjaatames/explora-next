@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado; Tapas en tres locales; Bebidas.'
+  respuesta: 'Incluye guía privado, tapas en tres locales y bebidas.'
 opinionEditorial: Comer bien en Barcelona sin caer en el menú turístico es más difícil de lo que parece; un guía local en privado lo resuelve y de paso cuenta la ciudad.
 atraccionesRelacionadas:
 - tapas-barcelona

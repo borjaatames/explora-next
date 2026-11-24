@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Quesería Montesdeoca, TF-82 km 44, Tijoco Bajo (Adeje).'
 - pregunta: 'What is included?'
-  respuesta: 'Guided tour of the goat farm and cheese dairy; Tasting of three award-winning cheeses.'
+  respuesta: 'The price includes guided tour of the goat farm and cheese dairy and tasting of three award-winning cheeses.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Tours Monday to Friday, 10:00–13:00; Bookings for 2 or more should be made 2 weeks ahead; Children 3–11 pay a reduced rate.'
+  respuesta: 'Tours Monday to Friday, 10:00–13:00. Bookings for 2 or more should be made 2 weeks ahead. Children 3–11 pay a reduced rate.'
 categoria: toursGastronomicos
 keywords:
 - goat farm tenerife

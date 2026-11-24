@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta por el interior de Fuerteventura en minivan o minibús; Visitas a una granja de aloe vera, el faro de La Entallada, una quesería artesanal con cata, las cuevas de Ajuy, el mirador del Risco de las Peñas, Betancuria y el Museo del Queso (entradas incluidas); Explicaciones del guía en tu idioma; Transporte de ida y vuelta desde tu alojamiento en el norte o el sur; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye ruta por el interior de Fuerteventura en minivan o minibús; visitas a una granja de aloe vera, el faro de La Entallada, una quesería artesanal con cata, las cuevas de Ajuy, el mirador del Risco de las Peñas, Betancuria y el Museo del Queso (entradas incluidas); explicaciones del guía en tu idioma; transporte de ida y vuelta desde tu alojamiento en el norte o el sur; y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Horario de 9:30 a 16:00; Muestra la confirmación de la reserva, impresa o en el móvil.'
+  respuesta: 'Horario de 9:30 a 16:00. Muestra la confirmación de la reserva, impresa o en el móvil.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Almuerzo.'
+  respuesta: 'No incluye almuerzo.'
 categoria: excursionesDia
 keywords:
 - excursion quesos fuerteventura

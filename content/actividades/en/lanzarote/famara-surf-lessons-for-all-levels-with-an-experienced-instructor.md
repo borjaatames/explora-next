@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Surfboard and wetsuit; Dedicated instructor adapted to your level; Maximum 5 students per instructor; Photos and videos when conditions allow.'
+  respuesta: 'The price includes surfboard and wetsuit, dedicated instructor adapted to your level, maximum 5 students per instructor, and photos and videos when conditions allow.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Tell them your level when booking; Not suitable for children under 4 or pregnant women; Bring a towel, sun cream and dry clothes.'
+  respuesta: 'Tell them your level when booking. Not suitable for children under 4 or pregnant women. Bring a towel, sun cream and dry clothes.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 hours.'
+  respuesta: 'It lasts 2 hours.'
 categoria: agua
 keywords:
 - surf lessons famara

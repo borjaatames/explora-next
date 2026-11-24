@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Segway X2 (version tout-terrain); Casque; Guide; Prise en charge et retour à l''hôtel.'
+  respuesta: 'Le prix comprend : segway X2 (version tout-terrain), casque, guide et prise en charge et retour à l''hôtel.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux moins de 8 ans et aux femmes enceintes.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons; Pourboires.'
+  respuesta: 'Ne sont pas inclus : repas et boissons et pourboires.'
 categoria: aventura
 keywords:
 - segway la pared

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Carburant; Lunettes tout-terrain; Coupe-vent; Eau; En-cas (cacahuètes).'
+  respuesta: 'Le prix comprend : carburant, lunettes tout-terrain, coupe-vent, eau et en-cas (cacahuètes).'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Conducteurs et passagers de 18 ans minimum; Déconseillé aux femmes enceintes.'
+  respuesta: 'Conducteurs et passagers de 18 ans minimum. Déconseillé aux femmes enceintes.'
 categoria: aventura
 keywords:
 - buggy puerto de la cruz

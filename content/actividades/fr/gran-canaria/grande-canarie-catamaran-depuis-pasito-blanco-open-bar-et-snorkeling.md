@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Capitaine et guide; Open bar : bière, sodas, sangria, eau et jus; Assortiment d''amuse-bouches; Matériel de snorkeling et paddles; Prise en charge dans le sud de l''île (à réserver).'
+  respuesta: 'Le prix comprend : capitaine et guide; open bar : bière, sodas, sangria, eau et jus; assortiment d''amuse-bouches; matériel de snorkeling et paddles; et prise en charge dans le sud de l''île (à réserver).'
 categoria: agua
 keywords:
 - "catamaran maspalomas"

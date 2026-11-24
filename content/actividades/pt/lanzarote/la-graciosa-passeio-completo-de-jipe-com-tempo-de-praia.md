@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Aluguer de bicicletas e loja de lembranças Gracioserito, C. García Escámez 18, Caleta de Sebo.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio de jipe pelo norte e sul de La Graciosa; Visita às praias de Las Conchas e La Francesa; Praia de Montaña Amarilla; Tempo extra de praia, se quiser.'
+  respuesta: 'O preço inclui passeio de jipe pelo norte e sul de La Graciosa; visita às praias de Las Conchas e La Francesa; praia de Montaña Amarilla; e tempo extra de praia, se quiser.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Primeiro é preciso chegar a La Graciosa de ferry; Leve protetor solar, chapéu e água; Não recomendado a grávidas ou com problemas de costas.'
+  respuesta: 'Primeiro é preciso chegar a La Graciosa de ferry. Leve protetor solar, chapéu e água. Não recomendado a grávidas ou com problemas de costas.'
 categoria: excursionesDia
 keywords:
 - la graciosa de jipe

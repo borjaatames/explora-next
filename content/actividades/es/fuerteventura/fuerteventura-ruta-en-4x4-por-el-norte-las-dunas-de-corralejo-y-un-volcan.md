@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta en 4x4 en un todoterreno cerrado (máx. 6 pasajeros + conductor); Explicaciones del guía en tu idioma; Recogida en hoteles del sur de la isla; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye ruta en 4x4 en un todoterreno cerrado (máx. 6 pasajeros + conductor), explicaciones del guía en tu idioma, recogida en hoteles del sur de la isla y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para personas con problemas de espalda; Muestra la confirmación de la reserva, impresa o en el móvil.'
+  respuesta: 'No apto para personas con problemas de espalda. Muestra la confirmación de la reserva, impresa o en el móvil.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida.'
+  respuesta: 'No incluye comida.'
 categoria: excursionesDia
 keywords:
 - ruta 4x4 norte de fuerteventura

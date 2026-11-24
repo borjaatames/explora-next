@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Un pequeño aperitivo; Recogida y regreso al hotel; Equipo de esnórquel.'
+  respuesta: 'Incluye un pequeño aperitivo, recogida y regreso al hotel y equipo de esnórquel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Lleva toalla y bañador para la parada de baño.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Bebida ilimitada.'
+  respuesta: 'No incluye bebida ilimitada.'
 categoria: agua
 keywords:
 - avistamiento de cetaceos lancha rapida tenerife

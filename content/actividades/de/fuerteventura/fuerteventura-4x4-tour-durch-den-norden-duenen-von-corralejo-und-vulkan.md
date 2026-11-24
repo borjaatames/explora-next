@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: '4x4-Tour im geschlossenen SUV (max. 6 Gäste + Fahrer); Erklärungen in deiner Sprache; Hotelabholung im Süden der Insel; Haftpflichtversicherung.'
+  respuesta: 'Im Preis inbegriffen: 4x4-Tour im geschlossenen SUV (max. 6 Gäste + Fahrer), Erklärungen in deiner Sprache, Hotelabholung im Süden der Insel und Haftpflichtversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Menschen mit Rückenproblemen; Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
+  respuesta: 'Nicht für Menschen mit Rückenproblemen. Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen.'
+  respuesta: 'Nicht inbegriffen: Essen.'
 categoria: excursionesDia
 keywords:
 - 4x4 tour norden fuerteventura

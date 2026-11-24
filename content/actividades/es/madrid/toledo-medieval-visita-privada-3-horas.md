@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Plaza de Zocodover, o el guía te recoge en la estación de tren de Toledo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía oficial privado; Entrada a la sinagoga de Santa María la Blanca; Entrada al Monasterio de San Juan de los Reyes; Entrada a la iglesia de Santo Tomé; Acceso sin colas a la catedral (entrada aparte); Asistencia de un agente de viajes.'
+  respuesta: 'Incluye guía oficial privado, entrada a la sinagoga de Santa María la Blanca, entrada al Monasterio de San Juan de los Reyes, entrada a la iglesia de Santo Tomé, acceso sin colas a la catedral (entrada aparte) y asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

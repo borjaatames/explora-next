@@ -59,9 +59,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Jet Ski Puerto Colón, C.C. Puerto Colón, local 128, Av. de Colón (Costa Adeje).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Safari en jet-ski d''une heure; Briefing de sécurité et instructions; Gilet et équipement de sécurité; Guide sauveteur professionnel; Vestiaires et casiers; Toilettes.'
+  respuesta: 'Le prix comprend : safari en jet-ski d''une heure, briefing de sécurité et instructions, gilet et équipement de sécurité, guide sauveteur professionnel, vestiaires et casiers et toilettes.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Arrivez au moins 30 minutes avant; Savoir nager un minimum; Déconseillé aux moins de 7 ans, aux femmes enceintes et en cas de problèmes de dos.'
+  respuesta: 'Arrivez au moins 30 minutes avant. Savoir nager un minimum. Déconseillé aux moins de 7 ans, aux femmes enceintes et en cas de problèmes de dos.'
 categoria: agua
 keywords:
 - safari jet ski tenerife

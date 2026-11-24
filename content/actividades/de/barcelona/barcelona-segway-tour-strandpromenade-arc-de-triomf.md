@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Segway i2; Guide; Einweisung; Helm und Sicherheitsausrüstung; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Segway i2, Guide, Einweisung, Helm und Sicherheitsausrüstung und Versicherung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

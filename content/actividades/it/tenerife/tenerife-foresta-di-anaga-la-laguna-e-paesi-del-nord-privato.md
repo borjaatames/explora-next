@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in tutto il sud di Tenerife; Tour privato in veicolo climatizzato; Guida professionista in inglese, spagnolo e italiano; Frutta fresca e acqua; Itinerario flessibile e personalizzato.'
+  respuesta: 'Il prezzo include prelievo e ritorno in tutto il sud di Tenerife; tour privato in veicolo climatizzato; guida professionista in inglese, spagnolo e italiano; frutta fresca e acqua; e itinerario flessibile e personalizzato.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'La guida ti contatta qualche giorno prima per organizzare i dettagli; Non adatto a chi soffre di vertigini.'
+  respuesta: 'La guida ti contatta qualche giorno prima per organizzare i dettagli. Non adatto a chi soffre di vertigini.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande non indicati; Sosta facoltativa in un ristorante canario (extra).'
+  respuesta: 'Il prezzo non include cibo e bevande non indicati né sosta facoltativa in un ristorante canario (extra).'
 categoria: excursionesDia
 keywords:
 - tour privato anaga

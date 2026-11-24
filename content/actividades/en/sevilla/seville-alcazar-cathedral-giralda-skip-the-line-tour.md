@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Fuente de Indias, next to the Archivo de Indias, Avenida de la Constitución (41004 Seville). The fountain stands in front of the Archivo de Indias, between the Cathedral and the Alcázar. Staff at the meeting point check you in and hand out the tickets and headsets. Bring your passport or ID: tickets are issued in your name.'
 - pregunta: 'What is included?'
-  respuesta: 'Official guided tour of the Real Alcázar, the Cathedral and the Giralda; Skip-the-line tickets for all monuments; Licensed local guide; Radio headset system; Check-in assistance at the meeting point; Digital guide to Seville.'
+  respuesta: 'The price includes official guided tour of the Real Alcázar, the Cathedral and the Giralda; skip-the-line tickets for all monuments; licensed local guide; radio headset system; check-in assistance at the meeting point; and digital guide to Seville.'
 opinionEditorial: 'The best-rated way to see Seville''s three big monuments in a single morning, with everything included and a large choice of times. It is a big group (up to 27), but the headsets make it work. Book it when your dates are fixed: the refund is only partial.'
 atraccionesRelacionadas:
 - real-alcazar

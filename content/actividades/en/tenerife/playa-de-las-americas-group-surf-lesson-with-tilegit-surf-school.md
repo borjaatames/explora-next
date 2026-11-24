@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: 'What is included?'
-  respuesta: 'Surfboard chosen by the instructor; Wetsuit and booties; Accident insurance; Instructor; Theory (20 min).'
+  respuesta: 'The price includes surfboard chosen by the instructor, wetsuit and booties, accident insurance, instructor, and theory (20 min).'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Hotel pick-up and drop-off.'
+  respuesta: 'The price does not include food and drinks or hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - tilegit surf school

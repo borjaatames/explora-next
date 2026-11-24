@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Café del Puerto, Puerto Calero, 20 minutes before departure.'
 - pregunta: 'What is included?'
-  respuesta: 'Kayak; Paddleboard; Snorkelling gear; Lunch; Drinks: beer, wine, cava, soft drinks and water; Fuel.'
+  respuesta: 'The price includes kayak; paddleboard; snorkelling gear; lunch; drinks: beer, wine, cava, soft drinks and water; and fuel.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not wheelchair accessible.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - catamaran papagayo

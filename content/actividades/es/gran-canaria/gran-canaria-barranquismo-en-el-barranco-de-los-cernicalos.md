@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Barranquismo Los Cernícalos, GC-130, Telde.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía; Equipo; Seguro; Fotos; Tentempié.'
+  respuesta: 'Incluye guía, equipo, seguro, fotos y tentempié.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 12, mayores de 70, embarazadas ni personas con vértigo; Máximo 110 kg.'
+  respuesta: 'No apto para menores de 12, mayores de 70, embarazadas ni personas con vértigo. Máximo 110 kg.'
 categoria: aventura
 keywords:
 - barranquismo los cernicalos

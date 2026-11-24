@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Erklärungen in deiner Sprache; Hotelabholung in den genannten Gebieten; Geschlossener 4x4 für bis zu 6 Gäste plus Fahrer; Haftpflichtversicherung.'
+  respuesta: 'Im Preis inbegriffen: Erklärungen in deiner Sprache, Hotelabholung in den genannten Gebieten, geschlossener 4x4 für bis zu 6 Gäste plus Fahrer und Haftpflichtversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Menschen mit Rückenproblemen oder eingeschränkter Mobilität; Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
+  respuesta: 'Nicht für Menschen mit Rückenproblemen oder eingeschränkter Mobilität. Buchungsbestätigung ausgedruckt oder auf dem Handy zeigen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen.'
+  respuesta: 'Nicht inbegriffen: Essen.'
 categoria: excursionesDia
 keywords:
 - cofete jeep safari

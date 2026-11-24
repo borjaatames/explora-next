@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Plaza de Isabel II (Ópera), à côté de la statue de la reine.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide officiel privé pendant 3 heures; Billet coupe-file pour le Palais royal; Assistance d''un agent de voyages.'
+  respuesta: 'Le prix comprend : guide officiel privé pendant 3 heures, billet coupe-file pour le Palais royal et assistance d''un agent de voyages.'
 atraccionesRelacionadas:
 - palacio-real
 categoria: visitasGuiadas

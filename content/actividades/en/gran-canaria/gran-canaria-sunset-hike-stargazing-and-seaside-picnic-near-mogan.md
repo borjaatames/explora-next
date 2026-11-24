@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Playa Medio Almud car park, GC-500, Mogán.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided astronomy hike; Light appetiser; Snack and hot drink; Binoculars.'
+  respuesta: 'The price includes guided astronomy hike, light appetiser, snack and hot drink, and binoculars.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wear suitable clothes and shoes; No telescopes are used.'
+  respuesta: 'Wear suitable clothes and shoes. No telescopes are used.'
 categoria: aventura
 keywords:
 - stargazing hike gran canaria

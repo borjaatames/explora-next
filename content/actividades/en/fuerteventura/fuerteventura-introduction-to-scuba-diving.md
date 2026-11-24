@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Try dive with instructor; Hotel pick-up.'
+  respuesta: 'The price includes try dive with instructor and hotel pick-up.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not for children under 10, during pregnancy or with pre-existing medical conditions.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 h 30 min.'
+  respuesta: 'It lasts 2 h 30 min.'
 categoria: agua
 keywords:
 - try dive fuerteventura

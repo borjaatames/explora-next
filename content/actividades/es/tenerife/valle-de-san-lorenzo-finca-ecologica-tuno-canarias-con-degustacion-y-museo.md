@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Finca Tuno Canarias, junto a la Calle Arguamul, Valle de San Lorenzo (Arona).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada completa a la Finca Tuno Canarias y su plantación; Guía en directo, con traducción a más de 16 idiomas; Degustación de Higo Tinto fresco y productos de la finca; Museo etnográfico y cortometraje; Visita a los animales de la granja; Aparcamiento gratis.'
+  respuesta: 'Incluye entrada completa a la Finca Tuno Canarias y su plantación; guía en directo, con traducción a más de 16 idiomas; degustación de Higo Tinto fresco y productos de la finca; Museo etnográfico y cortometraje; visita a los animales de la granja; y aparcamiento gratis.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '1 h 30 min.'
+  respuesta: 'Dura 1 h 30 min.'
 categoria: toursGastronomicos
 keywords:
 - tuno canarias

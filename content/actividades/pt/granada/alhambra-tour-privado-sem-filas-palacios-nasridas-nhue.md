@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Junto ao Patronato da Alhambra e do Generalife, à entrada principal. O guia segura um papel com o seu nome.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete geral sem filas; Guia oficial privado; Auriculares a partir de 7 pessoas; Entrada nos Palácios Nasridas, Alcazaba e Generalife.'
+  respuesta: 'O preço inclui bilhete geral sem filas; guia oficial privado; auriculares a partir de 7 pessoas; e entrada nos Palácios Nasridas, Alcazaba e Generalife.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-bilhetes-esgotados

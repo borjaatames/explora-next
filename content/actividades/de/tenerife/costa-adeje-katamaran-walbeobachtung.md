@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Puerto Colón oder Hafen von Los Cristianos, Costa Adeje, Teneriffa. Costa Adeje ist das wichtigste Urlaubsgebiet im Süden Teneriffas. Der genaue Abfahrtshafen (Puerto Colón in Las Américas oder Los Cristianos) steht auf deinem Gutschein. Beide Häfen sind von den Urlaubsorten im Süden gut mit dem Bus erreichbar.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: '3-stündiger Katamaranausflug; Wal- und Delfinbeobachtung; Badestopp (wenn die Bedingungen es zulassen).'
+  respuesta: 'Im Preis inbegriffen: 3-stündiger Katamaranausflug, Wal- und Delfinbeobachtung und Badestopp (wenn die Bedingungen es zulassen).'
 opinionEditorial: Die Option im Süden Teneriffas zur Walbeobachtung. Praktisch, wenn du in Los Cristianos oder Las Américas wohnst, mit denselben hervorragenden Sichtungsquoten für Grindwale wie die Route ab Los Gigantes.
 guiasRelacionadas:
 - walbeobachtung-teneriffa

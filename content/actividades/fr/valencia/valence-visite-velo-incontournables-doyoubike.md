@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Vélo; Guide; Casque.'
+  respuesta: 'Le prix comprend : vélo, guide et casque.'
 categoria: toursCiudad
 guiasRelacionadas:
 - valence-en-2-jours

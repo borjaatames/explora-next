@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Fuente de Indias, à côté de l''Archivo de Indias, Avenida de la Constitución (41004 Seville). La fontaine se trouve devant l''Archivo de Indias, entre la cathédrale et l''Alcázar. Le personnel au point de rendez-vous vous enregistre et distribue les billets et les audiophones. Apportez votre passeport ou votre carte d''identité : les billets sont émis à votre nom.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Visite guidée officielle du Real Alcázar, de la cathédrale et de la Giralda; Billets coupe-file pour tous les monuments; Guide local agréé; Système d''audiophones; Assistance à l''enregistrement au point de rendez-vous; Guide numérique de Séville.'
+  respuesta: 'Le prix comprend : visite guidée officielle du Real Alcázar, de la cathédrale et de la Giralda; billets coupe-file pour tous les monuments; guide local agréé; système d''audiophones; assistance à l''enregistrement au point de rendez-vous; et guide numérique de Séville.'
 opinionEditorial: 'La façon la mieux notée de voir les trois grands monuments de Séville en une seule matinée, avec tout inclus et un large choix d''horaires. Le groupe est grand (jusqu''à 27 personnes), mais les audiophones font la différence. Réservez-la quand vos dates sont fixées : le remboursement n''est que partiel.'
 atraccionesRelacionadas:
 - real-alcazar

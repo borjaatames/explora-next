@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Boards Connections Surf School, Calle Acorazado España 10, Corralejo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Clase de surf para todos los niveles.'
+  respuesta: 'Incluye clase de surf para todos los niveles.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 4 años; No apto para embarazadas; Hay que saber nadar.'
+  respuesta: 'No apto para menores de 4 años. No apto para embarazadas. Hay que saber nadar.'
 categoria: agua
 keywords:
 - clase de surf corralejo

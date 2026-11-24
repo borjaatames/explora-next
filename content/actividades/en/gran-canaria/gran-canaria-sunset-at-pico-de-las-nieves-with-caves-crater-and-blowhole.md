@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Small group (max. 16); Air-conditioned van; Local tasting at sunset (light food); A cold bottle of mineral water; Certified local guide.'
+  respuesta: 'The price includes hotel pick-up and drop-off, small group (max. 16), air-conditioned van, local tasting at sunset (light food), a cold bottle of mineral water, and certified local guide.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 8 or people with reduced mobility; It is colder at altitude, especially in winter; Includes short walks on natural ground and stairs.'
+  respuesta: 'Not suitable for children under 8 or people with reduced mobility. It is colder at altitude, especially in winter. Includes short walks on natural ground and stairs.'
 - pregunta: 'How long does it last?'
-  respuesta: '7 h 30 min.'
+  respuesta: 'It lasts 7 h 30 min.'
 categoria: excursionesDia
 keywords:
 - pico de las nieves sunset

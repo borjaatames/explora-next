@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer überall im Süden Teneriffas; Private Tour im klimatisierten Fahrzeug; Professioneller Guide; Frisches Obst und Wasser; Flexible, persönliche Route.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer überall im Süden Teneriffas; private Tour im klimatisierten Fahrzeug; professioneller Guide; frisches Obst und Wasser; und flexible, persönliche Route.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Der Guide meldet sich einige Tage vorher, um die Details zu planen; Nicht geeignet bei Höhenangst.'
+  respuesta: 'Der Guide meldet sich einige Tage vorher, um die Details zu planen. Nicht geeignet bei Höhenangst.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Nicht genannte Speisen und Getränke; Optionaler Halt in einem kanarischen Restaurant (extra).'
+  respuesta: 'Nicht inbegriffen: nicht genannte Speisen und Getränke und optionaler Halt in einem kanarischen Restaurant (extra).'
 categoria: excursionesDia
 keywords:
 - private tour anaga

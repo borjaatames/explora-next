@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado a la playa; Tabla de surf blanda o de epoxi; Neopreno Billabong; Monitor con experiencia y título de socorrista.'
+  respuesta: 'Incluye traslado a la playa, tabla de surf blanda o de epoxi, neopreno Billabong y monitor con experiencia y título de socorrista.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'La playa cambia según el viento, la marea y el tiempo; Tras reservar envía tu hotel, móvil, altura y peso; Edad mínima: 13 años.'
+  respuesta: 'La playa cambia según el viento, la marea y el tiempo. Tras reservar envía tu hotel, móvil, altura y peso. Edad mínima: 13 años.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: agua
 keywords:
 - clase de surf sur de fuerteventura

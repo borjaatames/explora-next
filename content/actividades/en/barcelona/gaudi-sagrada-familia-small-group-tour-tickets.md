@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Statue of Frederic Soler (Pitarra), La Rambla, Barcelona.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Bring headphones for the audio guide and ID for every guest; Non-refundable.'
+  respuesta: 'Bring headphones for the audio guide and ID for every guest. Non-refundable.'
 - pregunta: 'What is not included?'
-  respuesta: 'Sagrada Familia towers; Casa Batlló, La Pedrera and Palau Güell tickets; Tips.'
+  respuesta: 'The price does not include Sagrada Familia towers; Casa Batlló, La Pedrera and Palau Güell tickets; or tips.'
 opinionEditorial: Good value for seeing modernist Barcelona with commentary and getting into the Sagrada Familia without queuing.
 atraccionesRelacionadas:
 - sagrada-familia

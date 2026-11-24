@@ -44,9 +44,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Buggy Yamaha de 4 plazas; Recogida y regreso a tu hotel en Maspalomas; Seguro.'
+  respuesta: 'Incluye buggy Yamaha de 4 plazas, recogida y regreso a tu hotel en Maspalomas y seguro.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: aventura
 keywords:
 - buggy maspalomas

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Avenida Rafael Puig Lluvina 32, unit 61, Playa de las Américas (Arona).'
 - pregunta: 'What is included?'
-  respuesta: 'Professional surf instructor; Theory and practice in the water; Foam board; Wetsuit; Reef booties; Accident insurance.'
+  respuesta: 'The price includes professional surf instructor, theory and practice in the water, foam board, wetsuit, reef booties, and accident insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Group lessons from 14; under 14 private lessons only; Not suitable for pregnant women; Must be able to swim.'
+  respuesta: 'Group lessons from 14; under 14 private lessons only. Not suitable for pregnant women. Must be able to swim.'
 categoria: agua
 keywords:
 - rocky point surf

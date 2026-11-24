@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Bureau Naturanda, calle Francos 19. Arrivez 10 minutes avant pour l''enregistrement.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Écouteurs; Visite guidée; Billets pour l''Alcázar, la cathédrale et la Giralda.'
+  respuesta: 'Le prix comprend : écouteurs; visite guidée; et billets pour l''Alcázar, la cathédrale et la Giralda.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - cathedrale-de-seville-giralda-billets-epuises

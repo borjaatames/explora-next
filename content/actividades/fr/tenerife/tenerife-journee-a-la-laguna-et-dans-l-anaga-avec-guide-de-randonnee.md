@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Bus; Guide de randonnée; Transferts aller-retour depuis l''hôtel dans les zones prévues.'
+  respuesta: 'Le prix comprend : bus, guide de randonnée et transferts aller-retour depuis l''hôtel dans les zones prévues.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Chaussures de randonnée ou baskets, veste, eau et en-cas; Déconseillé aux femmes enceintes et aux personnes souffrant de problèmes cardiaques, respiratoires ou de mobilité.'
+  respuesta: 'Chaussures de randonnée ou baskets, veste, eau et en-cas. Déconseillé aux femmes enceintes et aux personnes souffrant de problèmes cardiaques, respiratoires ou de mobilité.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons.'
+  respuesta: 'Ne sont pas inclus : repas et boissons.'
 categoria: aventura
 keywords:
 - anaga la laguna excursion

@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en barco privado con patrón profesional; Ruta personalizada por las mejores calas de Mogán; Equipo de esnórquel; Bebidas: agua, refrescos y cerveza; Aperitivos ligeros; Seguro de responsabilidad civil y equipo de seguridad.'
+  respuesta: 'Incluye paseo en barco privado con patrón profesional; ruta personalizada por las mejores calas de Mogán; equipo de esnórquel; bebidas: agua, refrescos y cerveza; aperitivos ligeros; y seguro de responsabilidad civil y equipo de seguridad.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: agua
 keywords:
 - barco playa de guigui

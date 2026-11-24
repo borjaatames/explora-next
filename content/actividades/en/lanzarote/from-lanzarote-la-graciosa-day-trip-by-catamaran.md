@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Return ferry to La Graciosa; Catamaran trip; Glass of cava, unlimited beer, wine and soft drinks; Snacks and lunch (pasta); Kayaks and snorkelling gear.'
+  respuesta: 'The price includes hotel pick-up and drop-off; return ferry to La Graciosa; catamaran trip; glass of cava, unlimited beer, wine and soft drinks; snacks and lunch (pasta); and kayaks and snorkelling gear.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The operator confirms pick-up time and place after booking; Shoes off on board the catamaran; Not wheelchair accessible.'
+  respuesta: 'The operator confirms pick-up time and place after booking. Shoes off on board the catamaran. Not wheelchair accessible.'
 categoria: agua
 keywords:
 - la graciosa catamaran

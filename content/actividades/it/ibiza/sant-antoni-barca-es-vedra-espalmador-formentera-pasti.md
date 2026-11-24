@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (punto di Excursiones-Ibiza). Partenza alle 10:00 dal lungomare di Sant Antoni, al punto di Excursiones-Ibiza sul Passeig de ses Fonts. Arriva 20 minuti prima.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Barca con equipaggio; Colazione, pranzo (paella) e cena; Open bar di birra, sangria e bibite; Brindisi con cava al tramonto; Maschera e boccaglio; Tavole da paddle surf.'
+  respuesta: 'Il prezzo include barca con equipaggio; colazione, pranzo (paella) e cena; open bar di birra, sangria e bibite; brindisi con cava al tramonto; maschera e boccaglio; e tavole da paddle surf.'
 opinionEditorial: 'Se fai una sola gita in barca a Ibiza, questa unisce il meglio: Es Vedrà, l''acqua di Espalmador e Formentera, con tutti i pasti inclusi. È cara, ma è tutta la giornata.'
 guiasRelacionadas:
 - cosa-vedere-a-ibiza

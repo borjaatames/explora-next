@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'A 20 to 90-minute session with a local photographer; Edited photos by option: 15 (20 min), 30 (40 min), 50 (60 min) or 75 (90 min); Digital delivery in a private online gallery within 24 hours; Help before and after the session to organise it.'
+  respuesta: 'The price includes a 20 to 90-minute session with a local photographer; edited photos by option: 15 (20 min), 30 (40 min), 50 (60 min) or 75 (90 min); digital delivery in a private online gallery within 24 hours; and help before and after the session to organise it.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The price is per session, not per person, for groups of up to 10; Prices: €59.99 (20 min), €89.99 (40 min), €109.99 (60 min) and €139.99 (90 min); Photographer speaks English or Spanish.'
+  respuesta: 'The price is per session, not per person, for groups of up to 10. Prices: €59.99 (20 min), €89.99 (40 min), €109.99 (60 min) and €139.99 (90 min). Photographer speaks English or Spanish.'
 opinionEditorial: 'The key is the per-session price: for a couple or a family it works out far cheaper than paying per person. Forty minutes is enough for several streets of the Gothic Quarter and El Born; 90 minutes is worth it for a group or if you want a change of outfit. Book first thing in the morning, when the streets are empty and the light is softer.'
 atraccionesRelacionadas:
 - fotos

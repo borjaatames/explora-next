@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Lunettes anti-poussière; Réduction au restaurant de la marina de Puerto Calero.'
+  respuesta: 'Le prix comprend : lunettes anti-poussière et réduction au restaurant de la marina de Puerto Calero.'
 categoria: aventura
 keywords:
 - buggy puerto calero

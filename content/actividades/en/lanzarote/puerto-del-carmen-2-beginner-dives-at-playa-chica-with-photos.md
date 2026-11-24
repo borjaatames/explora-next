@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: 'What is included?'
-  respuesta: 'PADI-certified instructor (max. 3 divers each); All diving equipment; 2 dives of 50 minutes; Activity insurance; Professional photos and video of both dives; Digital completion certificate.'
+  respuesta: 'The price includes PADI-certified instructor (max. 3 divers each), all diving equipment, 2 dives of 50 minutes, activity insurance, professional photos and video of both dives, and digital completion certificate.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 10; Not suitable for pregnant women, people with heart problems or epilepsy; You must fully understand the safety briefing in the language you book.'
+  respuesta: 'Minimum age 10. Not suitable for pregnant women, people with heart problems or epilepsy. You must fully understand the safety briefing in the language you book.'
 categoria: agua
 keywords:
 - diving playa chica

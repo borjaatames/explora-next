@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'PADI-zertifizierter Lehrer (max. 3 Taucher); Komplette Tauchausrüstung; 2 Tauchgänge von 50 Minuten; Versicherung; Professionelle Fotos und Video beider Tauchgänge; Digitales Teilnahmezertifikat.'
+  respuesta: 'Im Preis inbegriffen: PADI-zertifizierter Lehrer (max. 3 Taucher), komplette Tauchausrüstung, 2 Tauchgänge von 50 Minuten, Versicherung, professionelle Fotos und Video beider Tauchgänge und Digitales Teilnahmezertifikat.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere, Menschen mit Herzproblemen oder Epilepsie; Du musst die Sicherheitseinweisung in der gebuchten Sprache vollständig verstehen.'
+  respuesta: 'Mindestalter 10 Jahre. Nicht für Schwangere, Menschen mit Herzproblemen oder Epilepsie. Du musst die Sicherheitseinweisung in der gebuchten Sprache vollständig verstehen.'
 categoria: agua
 keywords:
 - tauchen playa chica

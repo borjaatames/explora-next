@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Café del Puerto, Puerto Calero, 20 Minuten vor Abfahrt.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Kajak; Paddleboard; Schnorchelausrüstung; Mittagessen; Getränke: Bier, Wein, Cava, Softdrinks und Wasser; Treibstoff.'
+  respuesta: 'Im Preis inbegriffen: Kajak; Paddleboard; Schnorchelausrüstung; Mittagessen; Getränke: Bier, Wein, Cava, Softdrinks und Wasser; und Treibstoff.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht rollstuhlgerecht.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '4 Stunden.'
+  respuesta: 'Die Dauer beträgt 4 Stunden.'
 categoria: agua
 keywords:
 - katamaran papagayo

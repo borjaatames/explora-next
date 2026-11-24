@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Tropicana Ibiza, Cala Jondal (Sant Josep de sa Talaia).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Platz auf einem 41-Fuß-Segelboot mit Skipper; Treibstoff; Schnorchelausrüstung und 2 Paddleboards; Toilette an Bord.'
+  respuesta: 'Im Preis inbegriffen: Platz auf einem 41-Fuß-Segelboot mit Skipper, Treibstoff, Schnorchelausrüstung und 2 Paddleboards und Toilette an Bord.'
 opinionEditorial: 'Die günstigste Art, einen ganzen Tag auf Ibiza zu segeln: Du teilst das Boot mit wenigen Leuten und erreichst Buchten, an die du über Land nicht kommst.'
 atraccionesRelacionadas:
 - formentera

@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Katamaranfahrt; Paddleboard und Kajak; Bananenboot und Donut; Schnorchelausrüstung; Snacks; Softdrinks, Wasser, Sangria und Bier.'
+  respuesta: 'Im Preis inbegriffen: Katamaranfahrt; Paddleboard und Kajak; Bananenboot und Donut; Schnorchelausrüstung; Snacks; und Softdrinks, Wasser, Sangria und Bier.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Treffpunkt an der Hafeneinfahrt, gegenüber der Tankstelle; Bei rauer See kann die Fahrt ausfallen.'
+  respuesta: 'Treffpunkt an der Hafeneinfahrt, gegenüber der Tankstelle. Bei rauer See kann die Fahrt ausfallen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abholung vom Hotel.'
+  respuesta: 'Nicht inbegriffen: Abholung vom Hotel.'
 categoria: agua
 keywords:
 - katamaran puerto del carmen

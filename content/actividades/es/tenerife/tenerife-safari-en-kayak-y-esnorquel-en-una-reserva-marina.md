@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Llega 20 minutos antes para registrarte.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía profesional oficial; Kayak, chaleco salvavidas y caja estanca; Equipo de esnórquel; Foto de grupo al inicio; Seguro.'
+  respuesta: 'Incluye guía profesional oficial; kayak, chaleco salvavidas y caja estanca; equipo de esnórquel; foto de grupo al inicio; y seguro.'
 categoria: agua
 keywords:
 - kayak los cristianos

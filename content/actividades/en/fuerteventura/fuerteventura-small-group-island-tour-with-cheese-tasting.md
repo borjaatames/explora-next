@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Tour of inland Fuerteventura by minivan or minibus; Visits to an aloe vera farm, La Entallada lighthouse, an artisan cheese dairy with tasting, the Ajuy caves, Risco de las Peñas viewpoint, Betancuria and the Cheese Museum (entry fees included); Guide explanations in your language; Return transport from your accommodation in the north or south; Liability insurance.'
+  respuesta: 'The price includes tour of inland Fuerteventura by minivan or minibus; visits to an aloe vera farm, La Entallada lighthouse, an artisan cheese dairy with tasting, the Ajuy caves, Risco de las Peñas viewpoint, Betancuria and the Cheese Museum (entry fees included); guide explanations in your language; return transport from your accommodation in the north or south; and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Runs from 9:30 to 16:00; Show your booking confirmation, printed or on your phone.'
+  respuesta: 'Runs from 9:30 to 16:00. Show your booking confirmation, printed or on your phone.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch.'
+  respuesta: 'The price does not include lunch.'
 categoria: excursionesDia
 keywords:
 - fuerteventura cheese tour

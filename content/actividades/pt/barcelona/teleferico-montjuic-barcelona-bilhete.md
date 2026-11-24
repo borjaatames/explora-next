@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Teleférico de Montjuïc, estação de baixo, Av. de Miramar, Barcelona. Apanhe a linha 2 ou 3 do metro até ao Paral·lel e depois o funicular de Montjuïc (incluído no T-Casual). A estação de baixo do teleférico fica no cimo do funicular, e o teleférico sobe daí até ao castelo de Montjuïc.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete de ida e volta no teleférico.'
+  respuesta: 'O preço inclui bilhete de ida e volta no teleférico.'
 opinionEditorial: O teleférico de Montjuïc dá-lhe a melhor vista panorâmica de Barcelona, melhor do que a do Tibidabo para ver cidade e mar ao mesmo tempo. A viagem de 10 minutos é curta mas memorável, sobretudo ao pôr do sol.
 guiasRelacionadas:
 - barcelona-em-3-dias

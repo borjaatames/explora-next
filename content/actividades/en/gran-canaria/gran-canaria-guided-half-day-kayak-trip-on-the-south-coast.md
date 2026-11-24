@@ -49,7 +49,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle Carmen Jorge Artiles 2, San Bartolomé de Tirajana. A minimum of 6 participants is needed for the trip to run.'
 - pregunta: 'What is included?'
-  respuesta: 'All equipment: kayak, paddle, life jacket, dry bag and insurance; English-speaking guide; Photos; Picnic.'
+  respuesta: 'The price includes all equipment: kayak, paddle, life jacket, dry bag and insurance; English-speaking guide; photos; and picnic.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'The kayaks have no motor: you paddle.'
 categoria: agua

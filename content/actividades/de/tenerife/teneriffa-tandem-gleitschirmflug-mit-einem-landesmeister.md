@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer in Costa Adeje, Adeje, Las Américas und Los Cristianos; Helm und Sicherheitsausrüstung; 5 GoPro-Fotos; Flasche Wasser.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer in Costa Adeje, Adeje, Las Américas und Los Cristianos; Helm und Sicherheitsausrüstung; 5 GoPro-Fotos; und Flasche Wasser.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für 6 bis 70 Jahre, bis 110 kg; Abholung in Las Américas und Los Cristianos nur um 10:00 und 12:00 Uhr; Der Flug hängt vom Wind ab.'
+  respuesta: 'Für 6 bis 70 Jahre, bis 110 kg. Abholung in Las Américas und Los Cristianos nur um 10:00 und 12:00 Uhr. Der Flug hängt vom Wind ab.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Premium-Paket mit GoPro-Fotos und -Videos (40 €); Insta360-VIP-Paket (80 €).'
+  respuesta: 'Nicht inbegriffen: Premium-Paket mit GoPro-Fotos und -Videos (40 €) und Insta360-VIP-Paket (80 €).'
 categoria: aventura
 keywords:
 - gleitschirm teneriffa

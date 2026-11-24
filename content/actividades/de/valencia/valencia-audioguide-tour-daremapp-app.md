@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst, wann und wo du willst in Valencia.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Unterwegs in deinem Tempo, ohne feste Uhrzeit und ohne Gruppe; Freie Wahl der Stopps entlang der Route; Audio hören, wann du willst, mit Pause- und Fortsetzen-Funktion; Verfügbarkeit rund um die Uhr an 365 Tagen im Jahr; Tipps zu Essen und Familienaktivitäten direkt in der App.'
+  respuesta: 'Im Preis inbegriffen: unterwegs in deinem Tempo, ohne feste Uhrzeit und ohne Gruppe; freie Wahl der Stopps entlang der Route; Audio hören, wann du willst, mit Pause- und Fortsetzen-Funktion; Verfügbarkeit rund um die Uhr an 365 Tagen im Jahr; und Tipps zu Essen und Familienaktivitäten direkt in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; App auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch verfügbar; Geeignet für Rollstühle und Kinderwagen; Assistenzhunde willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. App auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch verfügbar. Geeignet für Rollstühle und Kinderwagen; Assistenzhunde willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Ein Guide vor Ort (das ist ein komplett selbstgeführtes Erlebnis, ohne Begleitung).'
+  respuesta: 'Nicht inbegriffen: ein Guide vor Ort (das ist ein komplett selbstgeführtes Erlebnis, ohne Begleitung).'
 opinionEditorial: 'Das ist die richtige Wahl, wenn du Valencia ganz nach deinen Vorstellungen erkunden willst, ohne Zeitplan und ohne Gruppe: Du startest die Route, wann du Lust hast, und gehst in dem Tempo, das dir passt. Was du nicht bekommst, ist die Herzlichkeit eines Live-Guides, seine Geschichten oder die Möglichkeit, direkt Fragen zu stellen – wenn dir das wichtig ist, passt eine Tour mit Guide vor Ort besser. Für Familien, unabhängige Reisende oder alle, die gern in Ruhe erkunden, funktioniert sie richtig gut.'
 categoria: toursCiudad
 keywords:

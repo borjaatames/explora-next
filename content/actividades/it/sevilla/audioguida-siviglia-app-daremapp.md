@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Nessun punto d''incontro: il percorso si attiva dal cellulare con il codice che ricevi dopo l''acquisto, all''ora e nel luogo di Siviglia che preferisci.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Visita al tuo ritmo, senza orari e senza gruppo; Libertà di scegliere le tappe che vuoi lungo il percorso; Audio da ascoltare quando vuoi, con possibilità di metterlo in pausa e riprenderlo; Disponibilità 24 ore su 24, 365 giorni all''anno; Consigli su dove mangiare e attività per famiglie integrati nell''app.'
+  respuesta: 'Il prezzo include visita al tuo ritmo, senza orari e senza gruppo; libertà di scegliere le tappe che vuoi lungo il percorso; audio da ascoltare quando vuoi, con possibilità di metterlo in pausa e riprenderlo; disponibilità 24 ore su 24, 365 giorni all''anno; e consigli su dove mangiare e attività per famiglie integrati nell''app.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno; App disponibile in spagnolo, inglese, portoghese, francese, italiano e tedesco; Accessibile in sedia a rotelle e con passeggino; ammessi gli animali di servizio.'
+  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno. App disponibile in spagnolo, inglese, portoghese, francese, italiano e tedesco. Accessibile in sedia a rotelle e con passeggino; ammessi gli animali di servizio.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Una guida in carne e ossa (è un''esperienza completamente autoguidata, senza accompagnatore).'
+  respuesta: 'Il prezzo non include una guida in carne e ossa (è un''esperienza completamente autoguidata, senza accompagnatore).'
 opinionEditorial: 'È la scelta giusta se vuoi esplorare Siviglia a modo tuo, senza orari né gruppo: inizi il percorso quando ne hai voglia e vai al ritmo che preferisci. Quello che non avrai è il calore di una guida dal vivo, i suoi aneddoti o la possibilità di fare domande sul momento: se è questo che cerchi, un tour con guida in carne e ossa fa più al caso tuo. Per famiglie, viaggiatori indipendenti o chi ama esplorare con calma, funziona davvero bene.'
 atraccionesRelacionadas:
 - plaza-espana

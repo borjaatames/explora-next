@@ -63,9 +63,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'C. el Coronel 8, Los Cristianos.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía profesional; Kayak y remo; Chaleco salvavidas; Equipo de esnórquel; Fotos gratis.'
+  respuesta: 'Incluye guía profesional, kayak y remo, chaleco salvavidas, equipo de esnórquel y fotos gratis.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Las salidas son sobre todo en inglés; otros idiomas según el personal disponible; Hay que saber nadar.'
+  respuesta: 'Las salidas son sobre todo en inglés; otros idiomas según el personal disponible. Hay que saber nadar.'
 categoria: agua
 keywords:
 - kayak los cristianos

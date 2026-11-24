@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Camel Safari Park La Baranda, carretera de Fataga km 12.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en camello de 30 minutos; Entrada al parque para ver más animales y el jardín.'
+  respuesta: 'Incluye paseo en camello de 30 minutos y entrada al parque para ver más animales y el jardín.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para embarazadas; Máximo 120 kg.'
+  respuesta: 'No apto para embarazadas. Máximo 120 kg.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Bebidas; Comida para los animales.'
+  respuesta: 'No incluye bebidas ni comida para los animales.'
 categoria: aventura
 keywords:
 - paseo en camello gran canaria

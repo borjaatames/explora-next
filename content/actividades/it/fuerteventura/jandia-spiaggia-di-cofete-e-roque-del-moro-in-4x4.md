@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel; Guida; Escursione in fuoristrada.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel, guida ed escursione in fuoristrada.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Prelievo in punti selezionati del sud di Fuerteventura; L''orario esatto viene comunicato prima del tour.'
+  respuesta: 'Prelievo in punti selezionati del sud di Fuerteventura. L''orario esatto viene comunicato prima del tour.'
 - pregunta: 'Quanto dura?'
-  respuesta: '4 ore.'
+  respuesta: 'Dura 4 ore.'
 categoria: excursionesDia
 keywords:
 - cofete jeep

@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Jetski; Schwimmweste; Lehrer.'
+  respuesta: 'Im Preis inbegriffen: Jetski, Schwimmweste und Lehrer.'
 categoria: agua
 keywords:
 - jetski caleta de fuste

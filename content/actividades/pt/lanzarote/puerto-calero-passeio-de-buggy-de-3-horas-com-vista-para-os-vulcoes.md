@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'O preço é por pessoa?'
   respuesta: 'Não. O preço é por grupo, não por pessoa.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Óculos contra o pó; Desconto no restaurante da marina de Puerto Calero.'
+  respuesta: 'O preço inclui óculos contra o pó e desconto no restaurante da marina de Puerto Calero.'
 categoria: aventura
 keywords:
 - buggy puerto calero

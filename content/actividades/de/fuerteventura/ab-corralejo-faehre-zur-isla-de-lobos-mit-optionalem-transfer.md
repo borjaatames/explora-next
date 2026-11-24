@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Hafen von Corralejo: Suche vor der Abfahrt das Boot nach Lobos.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fährticket hin und zurück; Abholung und Rücktransfer vom Hotel (falls gewählt).'
+  respuesta: 'Im Preis inbegriffen: Fährticket hin und zurück und Abholung und Rücktransfer vom Hotel (falls gewählt).'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Zugangsgenehmigung ist kostenlos und kann bis 5 Tage vorher beantragt werden; Nicht rollstuhlgerecht.'
+  respuesta: 'Die Zugangsgenehmigung ist kostenlos und kann bis 5 Tage vorher beantragt werden. Nicht rollstuhlgerecht.'
 categoria: excursionesDia
 keywords:
 - fähre lobos corralejo

@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Touristeninformation am Parc de la Mar, Palma. Unterhalb der Kathedrale, am See des Parc de la Mar. Der Guide trägt ein orangefarbenes Shirt und hält ein Schild mit dem Namen der Tour. Die Tour endet an der Plaça de Cort.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ortskundiger Guide; Verkostungen: Klostersüßigkeiten, Panades, Sobrasada, Tapas und Ensaimada; Ein Glas regionaler Wein; Wasser; Besuch des Mercat de l''Olivar; Stadtplan.'
+  respuesta: 'Im Preis inbegriffen: Ortskundiger Guide; Verkostungen: Klostersüßigkeiten, Panades, Sobrasada, Tapas und Ensaimada; ein Glas regionaler Wein; Wasser; Besuch des Mercat de l''Olivar; und Stadtplan.'
 opinionEditorial: 'Näher kommst du echter mallorquinischer Küche ohne Palma zu verlassen kaum: Kloster, Markt und Ensaimada an einem Vormittag. Kleine Gruppen und großzügige Portionen.'
 guiasRelacionadas:
 - essen-auf-mallorca

@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Kostenlose Fahrt vom Tauchcenter zum Tauchplatz; Einweisung in die Grundlagen; Ein Tauchgang von 40 Minuten bis 1 Stunde; Tauchausrüstung; Volle Flasche; Tauchversicherung.'
+  respuesta: 'Im Preis inbegriffen: kostenlose Fahrt vom Tauchcenter zum Tauchplatz, Einweisung in die Grundlagen, ein Tauchgang von 40 Minuten bis 1 Stunde, Tauchausrüstung, volle Flasche und Tauchversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere oder Menschen mit Herzproblemen; Nicht für Menschen mit Asthma oder Atemproblemen.'
+  respuesta: 'Mindestalter 10 Jahre. Nicht für Schwangere oder Menschen mit Herzproblemen. Nicht für Menschen mit Asthma oder Atemproblemen.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '3 Stunden.'
+  respuesta: 'Die Dauer beträgt 3 Stunden.'
 categoria: agua
 keywords:
 - schnuppertauchen teneriffa

@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Return hotel transfer; Coach transport; Local guide; Entry and visit to an aloe vera farm; Tapas in a typical Canarian restaurant; Travel insurance.'
+  respuesta: 'The price includes return hotel transfer, coach transport, local guide, entry and visit to an aloe vera farm, tapas in a typical Canarian restaurant, and travel insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Drinks.'
+  respuesta: 'The price does not include drinks.'
 categoria: excursionesDia
 keywords:
 - guayadeque tour

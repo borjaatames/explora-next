@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'À côté de la billetterie du Generalife, paseo del Generalife (Grenade). Cherchez le personnel en t-shirt violet de Crown Tours. Prenez votre passeport ou carte d''identité : le billet est nominatif.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billets pour l''Alhambra avec palais nasrides; Guide officiel; Écouteurs.'
+  respuesta: 'Le prix comprend : billets pour l''Alhambra avec palais nasrides, guide officiel et écouteurs.'
 opinionEditorial: 'Une visite complète et très bien notée, billets inclus et guide en français. Son défaut : on ne récupère que la moitié en cas d''annulation.'
 atraccionesRelacionadas:
 - alhambra

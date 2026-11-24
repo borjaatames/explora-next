@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Paseo Espigón de Las Galletas 1, Arona.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Repas et boissons.'
+  respuesta: 'Le prix comprend : repas et boissons.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Arrivez 15 minutes avant le départ; Peut être annulé en cas de mauvais temps; Non accessible en fauteuil roulant.'
+  respuesta: 'Arrivez 15 minutes avant le départ. Peut être annulé en cas de mauvais temps. Non accessible en fauteuil roulant.'
 categoria: agua
 keywords:
 - baleines las galletas

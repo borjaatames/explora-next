@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off in selected areas of the south; Water and biscuits.'
+  respuesta: 'The price includes pick-up and drop-off in selected areas of the south and water and biscuits.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 6, people with reduced mobility or wheelchair users.'
 - pregunta: 'What is not included?'
-  respuesta: 'Photos and video; Pick-up from other areas.'
+  respuesta: 'The price does not include photos and video or pick-up from other areas.'
 categoria: agua
 keywords:
 - snorkel boat trip gran canaria

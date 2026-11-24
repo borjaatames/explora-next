@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: '1 ora di volo in mongolfiera; Calice di cava; Foto e video del volo; Certificato di volo; Assicurazione.'
+  respuesta: 'Il prezzo include 1 ora di volo in mongolfiera, calice di cava, foto e video del volo, certificato di volo e assicurazione.'
 categoria: aventura
 guiasRelacionadas:
 - cosa-vedere-a-maiorca

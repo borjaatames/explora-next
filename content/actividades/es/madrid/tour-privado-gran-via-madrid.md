@@ -48,9 +48,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado en directo.'
+  respuesta: 'Incluye guía privado en directo.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Propinas.'
+  respuesta: 'No incluye propinas.'
 opinionEditorial: 'Es un formato muy distinto al de las visitas en grupo grande: aquí el guía es solo para vosotros, así que marcáis el ritmo y podéis preguntar lo que queráis. La Gran Vía da mucho juego contada bien —de avenida pensada como escaparate de la modernidad a los cines y los edificios Art Déco—, y en dos horas se ve con calma. El precio es por grupo privado, no por persona: cuantos más seáis, más sale a cuenta, y para una pareja o una familia es una experiencia a medida más que una visita de masas.'
 atraccionesRelacionadas:
 - tours-a-pie

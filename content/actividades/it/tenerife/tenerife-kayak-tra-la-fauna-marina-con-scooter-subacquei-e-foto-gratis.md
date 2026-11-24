@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura da snorkeling; Attrezzatura da kayak; Foto; Assicurazione; Armadietti.'
+  respuesta: 'Il prezzo include attrezzatura da snorkeling, attrezzatura da kayak, foto, assicurazione e armadietti.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Bisogna saper nuotare; Non adatto in gravidanza, oltre i 70 anni o oltre i 110 kg.'
+  respuesta: 'Bisogna saper nuotare. Non adatto in gravidanza, oltre i 70 anni o oltre i 110 kg.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel.'
+  respuesta: 'Il prezzo non include prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - kayak tenerife scooter subacqueo

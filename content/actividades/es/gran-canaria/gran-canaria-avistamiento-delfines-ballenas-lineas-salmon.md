@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en barco.'
+  respuesta: 'Incluye paseo en barco.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El punto de salida depende de la opción que reserves; Niños bienvenidos; No recomendable para embarazadas.'
+  respuesta: 'El punto de salida depende de la opción que reserves. Niños bienvenidos. No recomendable para embarazadas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Bebidas (a la venta).'
+  respuesta: 'No incluye bebidas (a la venta).'
 categoria: agua
 keywords:
 - avistamiento de delfines gran canaria

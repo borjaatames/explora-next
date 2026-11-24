@@ -60,11 +60,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Base de Aerodifusión en Segovia (carretera, 40002 Segovia). Opción de recogida en Madrid, en el Hotel Riu Plaza España (Gran Vía).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vuelo en globo de 1 hora; Desayuno con cava; Certificado de vuelo; Reportaje de fotos de recuerdo; Traslados en 4x4 entre el aterrizaje, el desayuno y la zona de despegue; Seguro de la actividad según la normativa europea EASA.'
+  respuesta: 'Incluye vuelo en globo de 1 hora; desayuno con cava; certificado de vuelo; reportaje de fotos de recuerdo; traslados en 4x4 entre el aterrizaje, el desayuno y la zona de despegue; y seguro de la actividad según la normativa europea EASA.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Precio por persona; Edad mínima 6 años; los menores deben ir acompañados de un adulto; Los horarios son aproximados y pueden cambiar por la meteorología y por límites de peso.'
+  respuesta: 'Precio por persona. Edad mínima 6 años; los menores deben ir acompañados de un adulto. Los horarios son aproximados y pueden cambiar por la meteorología y por límites de peso.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Recogida y regreso a Madrid (opcional, 40 € por persona).'
+  respuesta: 'No incluye recogida y regreso a Madrid (opcional, 40 € por persona).'
 opinionEditorial: 'Ver Segovia desde un globo es de esas experiencias que se recuerdan: el Acueducto, la Catedral y el Alcázar caben en una sola mirada. No es barato, pero incluye desayuno, fotos y certificado, y la empresa lleva años volando en la zona. Si no tienes coche, merece la pena añadir la recogida en Madrid.'
 atraccionesRelacionadas:
 - segovia

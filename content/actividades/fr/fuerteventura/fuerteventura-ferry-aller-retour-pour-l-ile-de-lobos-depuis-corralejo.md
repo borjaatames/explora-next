@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Nortour, port de Corralejo.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billets de ferry aller-retour; Assurance voyage obligatoire.'
+  respuesta: 'Le prix comprend : billets de ferry aller-retour et assurance voyage obligatoire.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Arrivez au moins 20 minutes avant ; l''embarquement ferme 10 minutes avant le départ; Prévoyez eau et nourriture : il n''y a ni boutique ni eau potable sur Lobos; Choisissez l''option avec permis pour monter à La Caldera.'
+  respuesta: 'Arrivez au moins 20 minutes avant ; l''embarquement ferme 10 minutes avant le départ. Prévoyez eau et nourriture : il n''y a ni boutique ni eau potable sur Lobos. Choisissez l''option avec permis pour monter à La Caldera.'
 categoria: excursionesDia
 keywords:
 - ferry île de lobos

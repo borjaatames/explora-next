@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto de Pasito Blanco, pantalán Ribera, amarre R04. Encuentro a las 09:15, salida a las 09:30.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Salida de 3 horas de avistamiento de delfines; Patrón y biólogo marino; Barco híbrido con motores eléctricos; Agua, bebidas ecológicas, cerveza WeWhale, fruta fresca y frutos secos.'
+  respuesta: 'Incluye salida de 3 horas de avistamiento de delfines; patrón y biólogo marino; barco híbrido con motores eléctricos; y agua, bebidas ecológicas, cerveza WeWhale, fruta fresca y frutos secos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para personas que se mareen en el mar; Menores de 3 años gratis.'
+  respuesta: 'No apto para personas que se mareen en el mar. Menores de 3 años gratis.'
 categoria: agua
 keywords:
 - avistamiento de delfines ecologico gran canaria

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Calle Carrizal Bajo 9, Los Carrizales (Buenavista del Norte).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Canyoning-Guide; Komplette Canyoning-Ausrüstung; Haftpflicht- und Unfallversicherung.'
+  respuesta: 'Im Preis inbegriffen: Canyoning-Guide, komplette Canyoning-Ausrüstung und Haftpflicht- und Unfallversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Kinder unter 14; Du musst schwimmen können; Nur für sportliche Menschen: inklusive 2 Stunden Wanderung.'
+  respuesta: 'Nicht für Kinder unter 14. Du musst schwimmen können. Nur für sportliche Menschen: inklusive 2 Stunden Wanderung.'
 categoria: aventura
 keywords:
 - canyoning teneriffa

@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Aperitif und Snack; Getränk; Hoteltransfer.'
+  respuesta: 'Im Preis inbegriffen: Aperitif und Snack, Getränk und Hoteltransfer.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Fahrer brauchen einen Führerschein Klasse B seit mindestens 1 Jahr; vorläufige oder Ersatzpapiere werden nicht akzeptiert; Nicht, wenn du in den letzten 24 Stunden getaucht bist.'
+  respuesta: 'Fahrer brauchen einen Führerschein Klasse B seit mindestens 1 Jahr; vorläufige oder Ersatzpapiere werden nicht akzeptiert. Nicht, wenn du in den letzten 24 Stunden getaucht bist.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Fotos; Jacken und Mäntel.'
+  respuesta: 'Nicht inbegriffen: Fotos und Jacken und Mäntel.'
 categoria: aventura
 keywords:
 - mustang tour teide

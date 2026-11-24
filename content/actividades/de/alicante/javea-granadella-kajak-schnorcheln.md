@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Strand von Granadella, Jávea. Etwa 20 Minuten mit dem Auto vom Zentrum Jáveas. Im Sommer ist der Zugang zur Bucht geregelt: Informier dich bei der Buchung, wie du hinkommst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Kajak und Paddel; Schwimmweste; Schnorchelausrüstung; Guide.'
+  respuesta: 'Im Preis inbegriffen: Kajak und Paddel, Schwimmweste, Schnorchelausrüstung und Guide.'
 opinionEditorial: 'Einer der schönsten Vormittage auf dem Meer an der Costa Blanca: Klippen, Höhlen und glasklares Wasser. Lohnt die Fahrt ab Alicante.'
 guiasRelacionadas:
 - costa-blanca-ausfluege-ab-alicante

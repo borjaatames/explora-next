@@ -63,9 +63,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'C. el Coronel 8, Los Cristianos.'
 - pregunta: 'What is included?'
-  respuesta: 'Professional guide; Kayak and paddle; Life jacket; Snorkelling gear; Free photos.'
+  respuesta: 'The price includes professional guide, kayak and paddle, life jacket, snorkelling gear, and free photos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Tours run mainly in English; other languages depend on staff availability; You must be able to swim.'
+  respuesta: 'Tours run mainly in English; other languages depend on staff availability. You must be able to swim.'
 categoria: agua
 keywords:
 - kayak los cristianos

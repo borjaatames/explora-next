@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transfer zum Hafen Santa Cruz aus dem Norden oder Süden (falls gewählt); Fährticket; Eintritt Poema del Mar; Rundgang durch Vegueta; Führung bei Arehucas mit Rum- und Likörprobe; Offizieller Guide.'
+  respuesta: 'Im Preis inbegriffen: Transfer zum Hafen Santa Cruz aus dem Norden oder Süden (falls gewählt), Fährticket, Eintritt Poema del Mar, Rundgang durch Vegueta, Führung bei Arehucas mit Rum- und Likörprobe und offizieller Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Abholzeit per WhatsApp bestätigen; Ausweis oder Reisepass für die Fähre mitnehmen.'
+  respuesta: 'Abholzeit per WhatsApp bestätigen. Ausweis oder Reisepass für die Fähre mitnehmen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: excursionesDia
 keywords:
 - gran canaria ausflug ab teneriffa

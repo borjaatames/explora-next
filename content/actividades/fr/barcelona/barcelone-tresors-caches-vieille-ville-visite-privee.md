@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide privé pendant 3 heures; Prise en charge à l’hôtel (zone du centre).'
+  respuesta: 'Le prix comprend : guide privé pendant 3 heures et prise en charge à l’hôtel (zone du centre).'
 opinionEditorial: Trois heures bien utilisées pour comprendre la vieille ville et découvrir des coins qu’on rate seul.
 atraccionesRelacionadas:
 - gotico

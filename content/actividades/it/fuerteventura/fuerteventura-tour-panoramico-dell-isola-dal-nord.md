@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e rientro nel nord (Corralejo, Lajares, Villaverde, El Cotillo); Minibus climatizzato con autista; Guida; Tempo libero in alcune soste.'
+  respuesta: 'Il prezzo include prelievo e rientro nel nord (Corralejo, Lajares, Villaverde, El Cotillo); minibus climatizzato con autista; guida; e tempo libero in alcune soste.'
 categoria: excursionesDia
 keywords:
 - "tour dell'isola fuerteventura"

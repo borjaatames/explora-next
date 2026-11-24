@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Hotel Meliá Bilbao (09:20) o Hotel Sercotel Coliseo, c/ Urquijo 13 (09:30). Elige uno de los dos puntos al reservar. No hace falta estar alojado en esos hoteles.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte desde Bilbao; Guía; Visita a bodega con cata; Comida.'
+  respuesta: 'Incluye transporte desde Bilbao, guía, visita a bodega con cata y comida.'
 opinionEditorial: 'Bodega, comida y dos ciudades por 70 €: sale muy a cuenta frente a ir por libre sin coche. Laguardia es de los pueblos más bonitos del norte.'
 guiasRelacionadas:
 - escapadas-desde-bilbao

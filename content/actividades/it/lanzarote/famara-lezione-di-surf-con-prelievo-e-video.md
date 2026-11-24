@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno (zona di Puerto del Carmen fino a Famara); Istruttori certificati; Piccoli gruppi; Muta e tavola; Acqua e frutta; Foto e video.'
+  respuesta: 'Il prezzo include prelievo e ritorno (zona di Puerto del Carmen fino a Famara), istruttori certificati, piccoli gruppi, muta e tavola, acqua e frutta e foto e video.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a bambini sotto i 10 anni.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Prelievo ad Arrecife, Playa Honda, Puerto Calero e Costa Teguise: 15 € extra da pagare all''autista; Mance.'
+  respuesta: 'Il prezzo non include prelievo ad Arrecife, Playa Honda, Puerto Calero e Costa Teguise: 15 € extra da pagare all''autista; né mance.'
 categoria: agua
 keywords:
 - lezione di surf famara

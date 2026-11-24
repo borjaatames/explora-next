@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Kulinarea kitchen, Av. Manuel Agustín Heredia 24, Málaga. In Málaga''s Soho district, opposite the La Marina car park and a few steps from Atarazanas market.'
 - pregunta: 'What is included?'
-  respuesta: 'Chef and local guide; Ingredients and equipment; The meal you cook; Sangria and wine, beer or soft drinks; Recipes; Souvenir apron.'
+  respuesta: 'The price includes chef and local guide; ingredients and equipment; the meal you cook; sangria and wine, beer or soft drinks; recipes; and souvenir apron.'
 opinionEditorial: 'More than a tapas tour: you learn to make them. Book the morning class so you don''t miss Atarazanas, which is what makes it special.'
 guiasRelacionadas:
 - eating-in-malaga

@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Paseo Tarajal 340, Playa de las Américas.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Capacete Sea Trek com fornecimento de ar constante; Todo o equipamento, sem experiência prévia; Briefing de segurança e passeio subaquático guiado; Instrutores certificados sempre presentes; Fato de neoprene; Cacifos e balneários.'
+  respuesta: 'O preço inclui capacete Sea Trek com fornecimento de ar constante; todo o equipamento, sem experiência prévia; briefing de segurança e passeio subaquático guiado; instrutores certificados sempre presentes; fato de neoprene; e cacifos e balneários.'
 - pregunta: 'O que é preciso saber antes de reservar?'
   respuesta: 'Não recomendado a menores de 8 anos ou grávidas.'
 categoria: agua

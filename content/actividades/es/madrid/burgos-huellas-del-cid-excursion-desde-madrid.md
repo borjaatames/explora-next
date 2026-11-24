@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte desde Madrid; Entrada a la catedral de Burgos; Entrada al Museo de Burgos; Salvoconducto numerado del Consorcio Camino del Cid; Agua.'
+  respuesta: 'Incluye transporte desde Madrid, entrada a la catedral de Burgos, entrada al Museo de Burgos, salvoconducto numerado del Consorcio Camino del Cid y agua.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

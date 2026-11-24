@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Estadio Ramón Sánchez-Pizjuán, Eingang über Tor 2 (Puerta 2), Stadtteil Nervión.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt ins Museum und Stadion; Audioguide-App.'
+  respuesta: 'Im Preis inbegriffen: Eintritt ins Museum und Stadion und Audioguide-App.'
 categoria: entradas
 guiasRelacionadas:
 - sevilla-mit-kindern

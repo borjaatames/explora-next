@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Fun Teide Quad, carretera TF-51 km 10,75, La Escalona. Llega 30 minutos antes; si llegas tarde no se devuelve el dinero.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Casco y guantes.'
+  respuesta: 'Incluye casco y guantes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Hace falta el carné de conducir físico (no se aceptan fotos); permiso internacional para residentes fuera de Europa; Conductores mayores de 18; Máximo 150 kg por quad; 2 entradas = 1 quad doble.'
+  respuesta: 'Hace falta el carné de conducir físico (no se aceptan fotos); permiso internacional para residentes fuera de Europa. Conductores mayores de 18. Máximo 150 kg por quad; 2 entradas = 1 quad doble.'
 categoria: aventura
 keywords:
 - quad teide atardecer

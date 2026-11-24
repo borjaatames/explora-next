@@ -72,7 +72,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Palmitos Park, GC-503, km 4.6, Maspalomas, Gran Canaria. Palmitos Park is 15 km north of Maspalomas and Playa del Inglés, in the interior of Gran Canaria. By car, take the GC-1 to Maspalomas and then the GC-503 towards Palmitos. Regular buses run from the Maspalomas and Playa del Inglés resort area — check the timetable with the operator. The journey takes about 30 minutes from the south coast resorts.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day park entry; Dolphin show; Parrot show; Access to all gardens, enclosures, and butterfly house.'
+  respuesta: 'The price includes full-day park entry; dolphin show; parrot show; and access to all gardens, enclosures, and butterfly house.'
 opinionEditorial: Palmitos Park is Gran Canaria's hidden gem — far less visited than the beach resorts, dramatically beautiful in its ravine setting, and with genuinely excellent animal care. The dolphin show and butterfly house are the highlights, but the whole park rewards a full day.
 guiasRelacionadas:
 - what-to-see-in-gran-canaria

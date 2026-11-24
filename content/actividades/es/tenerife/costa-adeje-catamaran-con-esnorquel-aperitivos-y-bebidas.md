@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, Pantalán 4, Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Patrón y marinero; Aperitivos y bebidas: cerveza, refrescos y agua; Equipo de esnórquel; Solárium; Paseo en catamarán de 3 horas; Parada para baño y esnórquel.'
+  respuesta: 'Incluye patrón y marinero; aperitivos y bebidas: cerveza, refrescos y agua; equipo de esnórquel; solárium; paseo en catamarán de 3 horas; y parada para baño y esnórquel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No accesible en silla de ruedas.'
 categoria: agua

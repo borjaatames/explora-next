@@ -59,9 +59,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'SeaThru Kayaks Tenerife, Calle Juan XXIII 27, Los Cristianos.'
 - pregunta: 'What is included?'
-  respuesta: 'Double sit-on-top kayaks; Life jackets and paddles; Snorkel gear (mask and snorkel); Wetsuits (optional); Kayak guide; Office with changing area, safe storage and toilet.'
+  respuesta: 'The price includes double sit-on-top kayaks; life jackets and paddles; snorkel gear (mask and snorkel); wetsuits (optional); kayak guide; and office with changing area, safe storage and toilet.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Children under 11 share a kayak with a parent and do not paddle; Must be able to swim; maximum 100 kg; Not suitable for pregnant women or people prone to seasickness.'
+  respuesta: 'Children under 11 share a kayak with a parent and do not paddle. Must be able to swim; maximum 100 kg. Not suitable for pregnant women or people prone to seasickness.'
 categoria: agua
 keywords:
 - kayak los cristianos

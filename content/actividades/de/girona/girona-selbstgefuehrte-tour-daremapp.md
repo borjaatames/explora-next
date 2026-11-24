@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt vor Ort: Du aktivierst die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst, wann und wo du willst in Girona.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zugang zur selbstgeführten Route durch Girona über die App DareMapp, mit einem Referenzcode, den du nach dem Kauf erhältst; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; Verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; Zugang zu Restaurant- und Familientipps in der App.'
+  respuesta: 'Im Preis inbegriffen: Zugang zur selbstgeführten Route durch Girona über die App DareMapp, mit einem Referenzcode, den du nach dem Kauf erhältst; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; verfügbar rund um die Uhr an 365 Tagen im Jahr, ohne Ablaufdatum; und Zugang zu Restaurant- und Familientipps in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Rollstuhl- und kinderwagenfreundlich, da du die Route in deinem eigenen Tempo gehst; im Viertel Call gibt es Kopfsteinpflaster und vereinzelt Stufen; Assistenztiere sind willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. Rollstuhl- und kinderwagenfreundlich, da du die Route in deinem eigenen Tempo gehst; im Viertel Call gibt es Kopfsteinpflaster und vereinzelt Stufen. Assistenztiere sind willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Ein Guide oder eine Begleitperson vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
+  respuesta: 'Nicht inbegriffen: ein Guide oder eine Begleitperson vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; und Eintrittskarten für Monumente oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: 'Das ist das kürzeste Angebot im Katalog (1,5 Stunden), und das passt: Die Altstadt von Girona mit dem Call und der Rambla de la Llibertat schaffst du in dieser Zeit problemlos. Ideal, wenn du auf der Durchreise bist oder die Tour mit freier Zeit für Tapas kombinierst. Erwarte keinen erschöpfenden Rundgang durch die ganze Stadt.'
 atraccionesRelacionadas:
 - casco-antiguo

@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guide; Coach transport; Pick-up in the tourist areas of the south; Liability insurance.'
+  respuesta: 'The price includes guide, coach transport, pick-up in the tourist areas of the south, and liability insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'There''s no pick-up in Las Palmas; Not suitable for people with reduced mobility.'
+  respuesta: 'There''s no pick-up in Las Palmas. Not suitable for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Pick-up and drop-off in Las Palmas; Entry to the church of Arucas.'
+  respuesta: 'The price does not include lunch, pick-up and drop-off in Las Palmas, or entry to the church of Arucas.'
 categoria: excursionesDia
 keywords:
 - gran canaria island tour

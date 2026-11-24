@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: '20-Meter-Yacht, alles inklusive; Professionelle Crew; Wasseraktivitäten; Essen und Getränke.'
+  respuesta: 'Im Preis inbegriffen: 20-Meter-Yacht, alles inklusive; professionelle Crew; Wasseraktivitäten; und Essen und Getränke.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '3 Std. 30 Min.'
+  respuesta: 'Die Dauer beträgt 3 Std. 30 Min.'
 categoria: agua
 keywords:
 - yachtfahrt teneriffa

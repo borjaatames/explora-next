@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Guide; Off-road trip.'
+  respuesta: 'The price includes hotel pick-up and drop-off, guide, and off-road trip.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Pick-up from selected places in the south of Fuerteventura; The operator sends the exact pick-up time before the tour.'
+  respuesta: 'Pick-up from selected places in the south of Fuerteventura. The operator sends the exact pick-up time before the tour.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: excursionesDia
 keywords:
 - cofete jeep tour

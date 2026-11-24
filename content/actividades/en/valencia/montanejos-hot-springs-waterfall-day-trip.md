@@ -40,9 +40,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Meeting point in Valencia (confirmed when booking).'
 - pregunta: 'What is included?'
-  respuesta: 'Round-trip transport from Valencia; Accompanying guide.'
+  respuesta: 'The price includes round-trip transport from Valencia and accompanying guide.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink; Tips.'
+  respuesta: 'The price does not include food and drink or tips.'
 - pregunta: 'How long does it last?'
   respuesta: 'Full day (about 9 hours).'
 opinionEditorial: "This version adds the Waterfall of the Bride, legend included, to the pool swim, so it offers more than the basic trip. A good plan to combine nature, swimming and a bit of local history."

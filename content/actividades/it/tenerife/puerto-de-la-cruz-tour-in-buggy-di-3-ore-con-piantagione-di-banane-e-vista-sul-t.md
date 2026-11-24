@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Carburante; Occhiali fuoristrada; Giacche antivento; Acqua; Snack (arachidi).'
+  respuesta: 'Il prezzo include carburante, occhiali fuoristrada, giacche antivento, acqua e snack (arachidi).'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Conducenti e passeggeri dai 18 anni; Non adatto a donne in gravidanza.'
+  respuesta: 'Conducenti e passeggeri dai 18 anni. Non adatto a donne in gravidanza.'
 categoria: aventura
 keywords:
 - tour in buggy puerto de la cruz

@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Seguro; Guía local; Transporte en minibús; Recogida y regreso.'
+  respuesta: 'Incluye seguro, guía local, transporte en minibús y recogida y regreso.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El Teide tiene clima de alta montaña: lleva protector solar y ropa de abrigo; Mínimo 2 participantes; No recomendable con problemas respiratorios o cardiacos, ni en las 24 horas siguientes a bucear.'
+  respuesta: 'El Teide tiene clima de alta montaña: lleva protector solar y ropa de abrigo. Mínimo 2 participantes. No recomendable con problemas respiratorios o cardiacos, ni en las 24 horas siguientes a bucear.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: excursionesDia
 keywords:
 - excursion teide desde santa cruz

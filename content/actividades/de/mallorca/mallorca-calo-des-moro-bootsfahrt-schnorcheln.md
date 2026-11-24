@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Hafen von Cala Figuera (Santanyí). Der genaue Punkt steht auf deinem Gutschein. Parken in Cala Figuera ist im Sommer schwierig: Komm mit Zeitpuffer.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt; Schnorchelausrüstung; Ein Getränk.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt, Schnorchelausrüstung und ein Getränk.'
 opinionEditorial: Der einfachste Weg, die meistfotografierte Bucht Mallorcas zu sehen. Hervorragende Bewertungen und ein fairer Preis für zweieinhalb Stunden auf dem Meer.
 guiasRelacionadas:
 - schoenste-buchten-mallorca

@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Escritório do operador, Calle Arfe 3 (centro histórico, Sevilha). Passe primeiro pelo escritório da Calle Arfe 3, a cerca de 4 minutos a pé da Catedral, e chegue 10 minutos antes da hora reservada. Por vezes, um funcionário acompanha-o até à entrada do monumento; depois, visita ao seu ritmo.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Entrada na Catedral de Sevilha; Entrada na Giralda; Audioguia descarregável na app (espanhol, inglês, italiano, francês ou alemão).'
+  respuesta: 'O preço inclui entrada na Catedral de Sevilha; entrada na Giralda; e audioguia descarregável na app (espanhol, inglês, italiano, francês ou alemão).'
 opinionEditorial: 'Cumpre, mas é cara para o que oferece e tem uma nota baixa (3,9): vários viajantes dizem que a audioguia fica aquém. Se só quer entrar, o bilhete básico para a Catedral e a Giralda custa menos de metade; se quer explicações, compensa mais uma visita guiada.'
 atraccionesRelacionadas:
 - catedral-giralda

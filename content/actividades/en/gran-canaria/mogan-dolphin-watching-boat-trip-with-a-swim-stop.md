@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip with skipper; Drinks: soft drinks, beer and water; Food: Spanish omelette, pasta salad and cheese; Snorkelling gear; Paddleboard.'
+  respuesta: 'The price includes boat trip with skipper; drinks: soft drinks, beer and water; food: Spanish omelette, pasta salad and cheese; snorkelling gear; and paddleboard.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for people with reduced mobility.'
 - pregunta: 'How long does it last?'
-  respuesta: '4 hours.'
+  respuesta: 'It lasts 4 hours.'
 categoria: agua
 keywords:
 - dolphin watching mogan

@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Central Madrid (the guide confirms the exact spot after booking) or pickup at your hotel.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide; 2 drinks and 2 tapas per person (at the first and last tavern).'
+  respuesta: 'The price includes private guide and 2 drinks and 2 tapas per person (at the first and last tavern).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Price per person, with a minimum of 2 people per booking; The route may vary and you won''t always go inside every venue; Minimum age 12.'
+  respuesta: 'Price per person, with a minimum of 2 people per booking. The route may vary and you won''t always go inside every venue. Minimum age 12.'
 - pregunta: 'What is not included?'
-  respuesta: 'Transport.'
+  respuesta: 'The price does not include transport.'
 opinionEditorial: 'It''s more a history walk than a food tour: you eat little (2 tapas) and hear a lot. If you''re after dinner, a tapas tour with dinner suits better; if you''re curious about Madrid''s history through its bars, this one is unlike anything else. Minimum 2 people per booking.'
 atraccionesRelacionadas:
 - tapas-madrid

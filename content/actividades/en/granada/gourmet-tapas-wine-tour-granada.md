@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Centro Federico García Lorca, Plaza de la Romanilla, Granada. Meet outside the Centro Federico García Lorca on Plaza de la Romanilla, next to the cathedral. The guide carries a sign.'
 - pregunta: 'What is included?'
-  respuesta: '10 tapas servings; 4 drinks; Local guide; Taxes at the venues.'
+  respuesta: 'The price includes 10 tapas servings, 4 drinks, local guide, and taxes at the venues.'
 opinionEditorial: Granada is the best city in Spain for tapas, and this crawl, rated 4.9, shows you how it works in bars you would not find alone.
 guiasRelacionadas: []
 categoria: toursGastronomicos

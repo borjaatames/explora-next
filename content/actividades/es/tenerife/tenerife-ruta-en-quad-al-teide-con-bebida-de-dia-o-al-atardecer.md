@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Carretera a La Escalona 34, El Roque (Granadilla). Llega 30 minutos antes: a las 12:00 para la ruta de las 12:30 y a las 16:00 para la de las 16:30.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta guiada; Guía; Quad; Equipo de seguridad; Bebidas.'
+  respuesta: 'Incluye ruta guiada, guía, quad, equipo de seguridad y bebidas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 120 cm.'
 categoria: aventura

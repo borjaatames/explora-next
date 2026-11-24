@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Port de Sóller, Mallorca. Port de Sóller is 30 km north of Palma by the Ma-11 mountain road. By public transport, take the wooden train from Palma to Sóller (one of Mallorca''s most scenic journeys), then the tram down to the port. Confirm the exact departure point with the operator on your voucher.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip from Sóller to Sa Calobra and back; Time at Sa Calobra for the gorge walk.'
+  respuesta: 'The price includes boat trip from Sóller to Sa Calobra and back and time at Sa Calobra for the gorge walk.'
 opinionEditorial: 'Sa Calobra by boat from Sóller is one of Mallorca''s greatest experiences: the coastal scenery alone is worth it, and the gorge walk at the end makes it unforgettable. Do not take the road instead — the boat approach is completely different.'
 guiasRelacionadas:
 - serra-tramuntana-soller

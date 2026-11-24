@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Aperitif and snack; Drink; Hotel transport.'
+  respuesta: 'The price includes aperitif and snack, drink, and hotel transport.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers need a category B licence held for at least 1 year; provisional or paper replacement licences are not accepted; Not suitable if you have dived in the previous 24 hours.'
+  respuesta: 'Drivers need a category B licence held for at least 1 year; provisional or paper replacement licences are not accepted. Not suitable if you have dived in the previous 24 hours.'
 - pregunta: 'What is not included?'
-  respuesta: 'Photos; Jackets and coats.'
+  respuesta: 'The price does not include photos or jackets and coats.'
 categoria: aventura
 keywords:
 - mustang tour teide

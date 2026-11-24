@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guide; Convertible Beetle tour; Hotel pick-up and drop-off in set areas; Picnic lunch; 1 soft drink; Insurance.'
+  respuesta: 'The price includes guide, convertible Beetle tour, hotel pick-up and drop-off in set areas, picnic lunch, 1 soft drink, and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers need a valid driving licence; Up to 4 people per car; children from 4.'
+  respuesta: 'Drivers need a valid driving licence. Up to 4 people per car; children from 4.'
 - pregunta: 'How long does it last?'
-  respuesta: '6 hours.'
+  respuesta: 'It lasts 6 hours.'
 categoria: excursionesDia
 keywords:
 - beetle convertible tour gran canaria

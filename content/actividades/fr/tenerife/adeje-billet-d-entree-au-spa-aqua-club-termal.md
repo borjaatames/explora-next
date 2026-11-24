@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Aqua Club Termal, Calle Galicia 6, Torviscas Alto (Adeje).'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet d''entrée; Accès aux 18 espaces du spa.'
+  respuesta: 'Le prix comprend : billet d''entrée et accès aux 18 espaces du spa.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Déconseillé aux femmes enceintes; Moins de 13 ans : en semaine de 10 h à 12 h et le week-end de 9 h à 10 h uniquement.'
+  respuesta: 'Déconseillé aux femmes enceintes. Moins de 13 ans : en semaine de 10 h à 12 h et le week-end de 9 h à 10 h uniquement.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Serviette.'
+  respuesta: 'Ne sont pas inclus : serviette.'
 categoria: entradas
 keywords:
 - aqua club termal

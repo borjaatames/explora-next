@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Rückfahrt zum Startpunkt Cruz del Carmen; Verkostung regionaler Spezialitäten.'
+  respuesta: 'Im Preis inbegriffen: Rückfahrt zum Startpunkt Cruz del Carmen und Verkostung regionaler Spezialitäten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nimm eine leichte Jacke mit: In Anaga nieselt es oft; Nicht geeignet bei eingeschränkter Mobilität.'
+  respuesta: 'Nimm eine leichte Jacke mit: In Anaga nieselt es oft. Nicht geeignet bei eingeschränkter Mobilität.'
 categoria: aventura
 keywords:
 - anaga wanderung

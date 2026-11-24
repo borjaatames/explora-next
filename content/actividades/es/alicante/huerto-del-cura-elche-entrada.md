@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Huerto del Cura, c/ Porta de la Morera 49, Elche. Desde Alicante, tren de Cercanías C1 o autobús hasta Elche (unos 30 minutos) y 15 minutos a pie.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada al Huerto del Cura.'
+  respuesta: 'Incluye entrada al Huerto del Cura.'
 opinionEditorial: Un oasis a media hora de Alicante y por 7 €. Combínalo con un paseo por el Palmeral y la basílica de Santa María y tienes media jornada redonda.
 guiasRelacionadas:
 - escapadas-costa-blanca-desde-alicante

@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Karting Las Américas, Carretera General, Ausfahrt 78, Fañabé (Costa Adeje).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Einzelrennen 10 oder 20 Minuten, Zweisitzer-Kart, Mini Prix oder Grand Prix, je nach Option.'
+  respuesta: 'Im Preis inbegriffen: Einzelrennen 10 oder 20 Minuten, Zweisitzer-Kart, Mini Prix oder Grand Prix, je nach Option.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 6.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: aventura
 keywords:
 - karting las americas

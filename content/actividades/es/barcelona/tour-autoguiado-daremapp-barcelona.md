@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Sin punto de encuentro físico: la ruta se activa desde tu móvil con el código que recibes tras la compra, en el momento y lugar que elijas dentro de Barcelona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Acceso a la ruta autoguiada por Barcelona a través de la app DareMapp, con código de referencia enviado tras la compra; Audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); Libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; Disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; Acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
+  respuesta: 'Incluye acceso a la ruta autoguiada por Barcelona a través de la app DareMapp, con código de referencia enviado tras la compra; audioguía en 6 idiomas (español, inglés, portugués, francés, italiano, alemán); libertad total para elegir el ritmo, las paradas y cuándo pausar o reanudar el recorrido; disponibilidad 24 horas al día, los 365 días del año, sin fecha de caducidad; y acceso a recomendaciones de gastronomía y actividades familiares dentro de la app.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Apto para toda la familia: edad mínima 1 año; Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el trazado es en su mayoría llano, aunque hay tramos de acera estrecha en el centro; Se permiten animales de servicio.'
+  respuesta: 'Apto para toda la familia: edad mínima 1 año. Compatible con silla de ruedas y cochecito para caminar libremente por la ruta; el trazado es en su mayoría llano, aunque hay tramos de acera estrecha en el centro. Se permiten animales de servicio.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Guía físico o acompañante (es una experiencia 100% autónoma y autoguiada); Transporte hasta el punto de inicio de la ruta; Entradas a monumentos o museos del recorrido (donde aplique).'
+  respuesta: 'No incluye guía físico o acompañante (es una experiencia 100% autónoma y autoguiada), transporte hasta el punto de inicio de la ruta ni entradas a monumentos o museos del recorrido (donde aplique).'
 opinionEditorial: 'Con 3 rutas y más de 50 puntos de interés, es de las fichas de DareMapp más completas del catálogo: cubre desde la Sagrada Familia hasta la Casa Batlló y el Modernismo barcelonés sin tener que reservar tres visitas distintas. Para una ciudad tan grande, poder ir a tu ritmo y pausar cuando quieras es una ventaja real frente a un tour guiado con horario fijo. Lo que no vas a tener es acceso prioritario a los monumentos ni las anécdotas de un guía en vivo.'
 atraccionesRelacionadas:
 - otros-barcelona

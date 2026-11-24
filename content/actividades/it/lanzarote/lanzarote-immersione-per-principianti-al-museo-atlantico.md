@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e rientro a Playa Blanca; Trasferimento in motoscafo al Museo Atlántico; Istruttore subacqueo certificato; Tutta l''attrezzatura subacquea.'
+  respuesta: 'Il prezzo include prelievo e rientro a Playa Blanca, trasferimento in motoscafo al Museo Atlántico, istruttore subacqueo certificato e tutta l''attrezzatura subacquea.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 12 anni; Non adatto a donne in gravidanza, persone in sedia a rotelle o con problemi respiratori, patologie preesistenti o ipertensione; Non volare per almeno 18 ore dopo.'
+  respuesta: 'Età minima 12 anni. Non adatto a donne in gravidanza, persone in sedia a rotelle o con problemi respiratori, patologie preesistenti o ipertensione. Non volare per almeno 18 ore dopo.'
 categoria: agua
 keywords:
 - immersione museo atlantico

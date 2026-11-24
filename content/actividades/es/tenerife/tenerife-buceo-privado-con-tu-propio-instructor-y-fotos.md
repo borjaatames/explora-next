@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado desde y hasta tu alojamiento; Instructor de buceo titulado; Inmersión privada y personalizada; Charla de seguridad y explicación del equipo; Equipo de buceo completo; Fotos y vídeos submarinos.'
+  respuesta: 'Incluye traslado desde y hasta tu alojamiento, instructor de buceo titulado, inmersión privada y personalizada, charla de seguridad y explicación del equipo, equipo de buceo completo y fotos y vídeos submarinos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Edad mínima 8 años; No apto para embarazadas ni personas con problemas cardiacos; No vueles en las 24 horas siguientes a bucear.'
+  respuesta: 'Edad mínima 8 años. No apto para embarazadas ni personas con problemas cardiacos. No vueles en las 24 horas siguientes a bucear.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Seguro de buceo personal (obligatorio para buceadores titulados; los principiantes están cubiertos); Comida y bebidas.'
+  respuesta: 'No incluye seguro de buceo personal (obligatorio para buceadores titulados; los principiantes están cubiertos) ni comida y bebidas.'
 categoria: agua
 keywords:
 - buceo privado tenerife

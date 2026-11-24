@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Staubbrille; Rabatt im Restaurant im Hafen Puerto Calero.'
+  respuesta: 'Im Preis inbegriffen: Staubbrille und Rabatt im Restaurant im Hafen Puerto Calero.'
 categoria: aventura
 keywords:
 - buggy tour puerto calero

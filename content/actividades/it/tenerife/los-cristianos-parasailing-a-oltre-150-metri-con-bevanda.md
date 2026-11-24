@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle Espigón del Benchijigua 11A, porto di Los Cristianos.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Volo in parasailing di 10 minuti; Bevande; Skipper esperto; Giro in barca; Assicurazione; Attrezzatura di sicurezza.'
+  respuesta: 'Il prezzo include volo in parasailing di 10 minuti, bevande, skipper esperto, giro in barca, assicurazione e attrezzatura di sicurezza.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a chi soffre di vertigini o mal di mare.'
 categoria: agua

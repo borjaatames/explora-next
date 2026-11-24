@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Per l''Alhambra: mappa murale accanto alla biglietteria, Paseo del Generalife 1F, vicino al padiglione d''ingresso (ombrello bianco). Il punto per l''Albaicín è nella prenotazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Passaporto obbligatorio: biglietti nominativi; L''Alhambra inizia sempre all''ora del biglietto.'
+  respuesta: 'Passaporto obbligatorio: biglietti nominativi. L''Alhambra inizia sempre all''ora del biglietto.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-biglietti-esauriti

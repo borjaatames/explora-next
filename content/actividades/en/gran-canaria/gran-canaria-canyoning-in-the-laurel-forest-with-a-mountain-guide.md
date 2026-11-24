@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Mountain guide certified by AEGM/UIMLA; Hotel pick-up and drop-off; Canyoning equipment; Souvenir photo.'
+  respuesta: 'The price includes mountain guide certified by AEGM/UIMLA, hotel pick-up and drop-off, canyoning equipment, and souvenir photo.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'About 2 km of steep walking to reach the ravine: good fitness and sturdy waterproof shoes needed; Not suitable for under-12s, over-80s, pregnant women or people afraid of heights.'
+  respuesta: 'About 2 km of steep walking to reach the ravine: good fitness and sturdy waterproof shoes needed. Not suitable for under-12s, over-80s, pregnant women or people afraid of heights.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Waterproof footwear.'
+  respuesta: 'The price does not include food and drinks or waterproof footwear.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

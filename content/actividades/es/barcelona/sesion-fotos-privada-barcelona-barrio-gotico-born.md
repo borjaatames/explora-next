@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Sesión de 20 a 90 minutos con un fotógrafo local; Fotos editadas según la opción: 15 (20 min), 30 (40 min), 50 (60 min) o 75 (90 min); Entrega digital en una galería privada en menos de 24 horas; Asistencia antes y después de la sesión para organizarla.'
+  respuesta: 'Incluye sesión de 20 a 90 minutos con un fotógrafo local; fotos editadas según la opción: 15 (20 min), 30 (40 min), 50 (60 min) o 75 (90 min); entrega digital en una galería privada en menos de 24 horas; y asistencia antes y después de la sesión para organizarla.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El precio es por sesión, no por persona; vale para grupos de hasta 10; Precios: 59,99 € (20 min), 89,99 € (40 min), 109,99 € (60 min) y 139,99 € (90 min); Fotógrafo en español o inglés.'
+  respuesta: 'El precio es por sesión, no por persona; vale para grupos de hasta 10. Precios: 59,99 € (20 min), 89,99 € (40 min), 109,99 € (60 min) y 139,99 € (90 min). Fotógrafo en español o inglés.'
 opinionEditorial: 'La clave está en el precio por sesión: para una pareja o una familia sale mucho más a cuenta que pagar por persona. Con 40 minutos ya da para varias calles del Gótico y el Born; los 90 minutos merecen la pena si sois un grupo o queréis cambiar de ropa. Reserva a primera hora de la mañana: las calles están vacías y la luz es más suave.'
 atraccionesRelacionadas:
 - fotos

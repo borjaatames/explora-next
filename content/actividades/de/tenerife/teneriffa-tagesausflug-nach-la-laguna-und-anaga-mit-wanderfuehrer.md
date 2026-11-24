@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bus; Wanderführer; Hoteltransfer hin und zurück aus ausgewählten Gebieten.'
+  respuesta: 'Im Preis inbegriffen: Bus, Wanderführer und Hoteltransfer hin und zurück aus ausgewählten Gebieten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Wanderschuhe oder Turnschuhe tragen, Jacke, Wasser und Verpflegung mitnehmen; Nicht für Schwangere oder Menschen mit Herz-, Atem- oder Mobilitätsproblemen.'
+  respuesta: 'Wanderschuhe oder Turnschuhe tragen, Jacke, Wasser und Verpflegung mitnehmen. Nicht für Schwangere oder Menschen mit Herz-, Atem- oder Mobilitätsproblemen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: aventura
 keywords:
 - anaga la laguna ausflug

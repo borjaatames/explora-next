@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Horse Riding Canaria, Camino del Cardonal, Ojos de Garza (Telde). Indica el nivel y la edad de cada jinete.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Casco y protector de espalda.'
+  respuesta: 'Incluye casco y protector de espalda.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 5 años, embarazadas ni mayores de 65; Máximo 95 kg y 2 m de altura.'
+  respuesta: 'No apto para menores de 5 años, embarazadas ni mayores de 65. Máximo 95 kg y 2 m de altura.'
 categoria: aventura
 keywords:
 - paseo a caballo gran canaria

@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Kontraola Surf School, Calle México, C.C. Las Palmeras, locale 11, Playa de las Américas.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Istruttore di surf certificato; Tavola, muta, calzari e lycra; Assicurazione contro gli infortuni; Armadietti, bagni e docce; 20 minuti di teoria.'
+  respuesta: 'Il prezzo include istruttore di surf certificato; tavola, muta, calzari e lycra; assicurazione contro gli infortuni; armadietti, bagni e docce; e 20 minuti di teoria.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Le lezioni seguono la bassa marea, quando le condizioni sono migliori; I bambini sotto i 13 anni fanno lezioni private o in famiglia; Bisogna saper nuotare.'
+  respuesta: 'Le lezioni seguono la bassa marea, quando le condizioni sono migliori. I bambini sotto i 13 anni fanno lezioni private o in famiglia. Bisogna saper nuotare.'
 categoria: agua
 keywords:
 - lezione di surf tenerife

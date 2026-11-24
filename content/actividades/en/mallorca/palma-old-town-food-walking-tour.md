@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Parc de la Mar tourist office, Palma. Below the cathedral, by the Parc de la Mar lake. The guide wears an orange shirt and holds a sign with the tour name. It ends at Plaça de Cort.'
 - pregunta: 'What is included?'
-  respuesta: 'Local guide; Tastings: convent sweets, panades, sobrasada, tapas and ensaimada; One glass of local wine; Water; Visit to Mercat de l''Olivar; City map.'
+  respuesta: 'The price includes local guide; tastings: convent sweets, panades, sobrasada, tapas and ensaimada; one glass of local wine; water; visit to Mercat de l''Olivar; and city map.'
 opinionEditorial: 'The closest thing to real Mallorcan food without leaving Palma: convent, market and ensaimada in one morning. Small groups and generous portions.'
 guiasRelacionadas:
 - eating-in-mallorca

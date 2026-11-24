@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transfert aller-retour depuis l''hôtel; Transport en autocar; Guide local; Entrée et visite d''une ferme d''aloe vera; Tapas dans un restaurant canarien typique; Assurance voyage.'
+  respuesta: 'Le prix comprend : transfert aller-retour depuis l''hôtel, transport en autocar, guide local, entrée et visite d''une ferme d''aloe vera, tapas dans un restaurant canarien typique et assurance voyage.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux personnes à mobilité réduite.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Boissons.'
+  respuesta: 'Ne sont pas inclus : boissons.'
 categoria: excursionesDia
 keywords:
 - excursion guayadeque

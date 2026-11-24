@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Aula de surf de 2 horas (teoria e prática); Todo o equipamento: prancha, fato, sapatilhas e seguro; Duches, cacifos, café e água grátis; 1 hora extra de uso grátis do material.'
+  respuesta: 'O preço inclui aula de surf de 2 horas (teoria e prática); todo o equipamento: prancha, fato, sapatilhas e seguro; duches, cacifos, café e água grátis; e 1 hora extra de uso grátis do material.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Aulas para todos os níveis e idades; Os instrutores falam espanhol, inglês, francês, alemão e russo.'
+  respuesta: 'Aulas para todos os níveis e idades. Os instrutores falam espanhol, inglês, francês, alemão e russo.'
 categoria: agua
 keywords:
 - aula de surf playa de las americas

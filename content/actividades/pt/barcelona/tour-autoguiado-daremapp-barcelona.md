@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Sem ponto de encontro físico: ative o percurso no telemóvel com o código que recebe após a compra, quando e onde quiser em Barcelona.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Acesso ao percurso autoguiado por Barcelona através da app DareMapp, com código de referência enviado após a compra; Audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); Total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; Disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; Acesso a recomendações de restauração e atividades para famílias dentro da app.'
+  respuesta: 'O preço inclui acesso ao percurso autoguiado por Barcelona através da app DareMapp, com código de referência enviado após a compra; audioguia em 6 idiomas (espanhol, inglês, português, francês, italiano, alemão); total liberdade para definir o ritmo, escolher as paragens e pausar ou retomar quando quiser; disponibilidade 24 horas por dia, 365 dias por ano, sem data de validade; e acesso a recomendações de restauração e atividades para famílias dentro da app.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Adequado para toda a família: idade mínima de 1 ano; Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; o percurso é maioritariamente plano, embora alguns troços do centro tenham passeios estreitos; Animais de assistência são bem-vindos.'
+  respuesta: 'Adequado para toda a família: idade mínima de 1 ano. Acessível a cadeiras de rodas e carrinhos de bebé, já que pode fazer o percurso ao seu ritmo; o percurso é maioritariamente plano, embora alguns troços do centro tenham passeios estreitos. Animais de assistência são bem-vindos.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente); Transporte até ao início do percurso; Bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
+  respuesta: 'O preço não inclui guia presencial ou acompanhante (é uma experiência totalmente autoguiada e independente), transporte até ao início do percurso nem bilhetes de entrada em monumentos ou museus ao longo do percurso (quando aplicável).'
 opinionEditorial: 'Com 3 percursos e mais de 50 pontos de interesse, é uma das fichas DareMapp mais completas do catálogo: cobre desde a Sagrada Família à Casa Batlló e ao modernismo de Barcelona sem ter de reservar três visitas separadas. Numa cidade tão grande, definir o seu próprio ritmo e fazer pausas quando quiser é uma vantagem real face a uma visita guiada com horário fixo. O que não tem é acesso prioritário aos monumentos nem as histórias de um guia ao vivo.'
 atraccionesRelacionadas:
 - otros-barcelona

@@ -54,11 +54,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer (ausgewählte Hotels); Offizieller Guide; Fährtickets; Eintritt Timanfaya-Nationalpark; Eintritt Jameos del Agua; Mittagessen.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer (ausgewählte Hotels), offizieller Guide, Fährtickets, Eintritt Timanfaya-Nationalpark, Eintritt Jameos del Agua und Mittagessen.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Frühe Abholung: Jandía 05:40–06:10, Costa Calma 06:20–06:55, Caleta de Fuste 06:50–07:35, Corralejo 08:00–08:20 Uhr; Nicht rollstuhlgerecht.'
+  respuesta: 'Frühe Abholung: Jandía 05:40–06:10, Costa Calma 06:20–06:55, Caleta de Fuste 06:50–07:35, Corralejo 08:00–08:20 Uhr. Nicht rollstuhlgerecht.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Weinprobe.'
+  respuesta: 'Nicht inbegriffen: Weinprobe.'
 categoria: excursionesDia
 keywords:
 - lanzarote ausflug ab fuerteventura

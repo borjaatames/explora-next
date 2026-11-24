@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Carburant; Guide.'
+  respuesta: 'Le prix comprend : carburant et guide.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Le prix est pour 2 personnes sur 1 jet-ski; Selon l''état de la mer; La cabane du prestataire est sur le sable, avec un drapeau rose.'
+  respuesta: 'Le prix est pour 2 personnes sur 1 jet-ski. Selon l''état de la mer. La cabane du prestataire est sur le sable, avec un drapeau rose.'
 categoria: agua
 keywords:
 - jet ski morro jable

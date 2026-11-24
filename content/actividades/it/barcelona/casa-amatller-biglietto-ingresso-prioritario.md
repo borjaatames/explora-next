@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Casa Amatller, Passeig de Gràcia 41, Barcellona. Metro Passeig de Gràcia (L2, L3, L4). L''ingresso è nell''androne, accanto alla caffetteria.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso prioritario a Casa Amatller; Videoguida su tablet con cuffie.'
+  respuesta: 'Il prezzo include ingresso prioritario a Casa Amatller e videoguida su tablet con cuffie.'
 opinionEditorial: 'L''alternativa tranquilla a Casa Batlló nello stesso isolato. Interni originali, gruppi piccoli e 18 €: se hai già visto Gaudí dall''esterno, questa è la casa che ti godrai di più all''interno.'
 categoria: entradas
 keywords:

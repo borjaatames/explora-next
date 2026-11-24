@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Según la opción reservada (salidas desde la provincia de Cádiz): revisa el bono. El punto y la hora de salida aparecen en el bono de reserva.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte; Guía.'
+  respuesta: 'Incluye transporte y guía.'
 opinionEditorial: La Costa de la Luz más salvaje en un día sin coche. Baelo Claudia, con la duna detrás y África enfrente, es de los yacimientos más bonitos de España.
 guiasRelacionadas:
 - playas-cadiz-costa-de-la-luz

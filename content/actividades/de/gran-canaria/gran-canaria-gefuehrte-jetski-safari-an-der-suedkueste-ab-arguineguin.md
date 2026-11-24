@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller Guide; Geführte Jetski-Safari; Moderner Jetski; Treibstoff; Schwimmweste; Sicherheitseinweisung.'
+  respuesta: 'Im Preis inbegriffen: professioneller Guide, geführte Jetski-Safari, moderner Jetski, Treibstoff, Schwimmweste und Sicherheitseinweisung.'
 categoria: agua
 keywords:
 - jetski safari gran canaria

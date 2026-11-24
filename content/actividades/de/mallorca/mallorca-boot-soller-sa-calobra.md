@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Port de Sóller, Mallorca. Port de Sóller liegt 30 km nördlich von Palma über die Bergstraße Ma-11. Mit öffentlichen Verkehrsmitteln nimmst du den Holzzug von Palma nach Sóller (eine der schönsten Strecken Mallorcas) und dann die Straßenbahn hinunter zum Hafen. Den genauen Abfahrtspunkt bestätigt der Anbieter auf deinem Gutschein.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt von Sóller nach Sa Calobra und zurück; Zeit in Sa Calobra für den Spaziergang durch die Schlucht.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt von Sóller nach Sa Calobra und zurück und Zeit in Sa Calobra für den Spaziergang durch die Schlucht.'
 opinionEditorial: 'Sa Calobra mit dem Boot ab Sóller gehört zu den größten Erlebnissen auf Mallorca: Allein die Küstenlandschaft lohnt sich, und der Spaziergang durch die Schlucht am Ende macht es unvergesslich. Nimm nicht stattdessen die Straße: Die Anfahrt mit dem Boot ist etwas ganz anderes.'
 guiasRelacionadas:
 - serra-de-tramuntana-soller

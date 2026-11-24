@@ -46,9 +46,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Helidream Helicopters, C. Charfa, Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vuelo en helicóptero.'
+  respuesta: 'Incluye vuelo en helicóptero.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Con la charla y el embarque, la experiencia dura hasta 90 minutos; Con mal tiempo cambia la ruta, pero se mantienen los minutos reservados.'
+  respuesta: 'Con la charla y el embarque, la experiencia dura hasta 90 minutos. Con mal tiempo cambia la ruta, pero se mantienen los minutos reservados.'
 categoria: aventura
 keywords:
 - helicoptero tenerife

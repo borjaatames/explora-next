@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Catamarano Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Crociera in catamarano; Avvistamento di balene e delfini; Pranzo e bevande.'
+  respuesta: 'Il prezzo include crociera in catamarano, avvistamento di balene e delfini e pranzo e bevande.'
 categoria: agua
 keywords:
 - avvistamento balene puerto colon

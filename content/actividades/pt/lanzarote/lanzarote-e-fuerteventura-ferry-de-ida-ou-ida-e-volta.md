@@ -48,13 +48,13 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete de ferry de ida ou ida e volta (conforme a opção); Embarque prioritário; Bagagem grátis até 20 kg por pessoa; Prancha de surf ou bicicleta sem custo extra; Animais de estimação viajam grátis no salão ou no convés.'
+  respuesta: 'O preço inclui bilhete de ferry de ida ou ida e volta (conforme a opção), embarque prioritário, bagagem grátis até 20 kg por pessoa, prancha de surf ou bicicleta sem custo extra e animais de estimação viajam grátis no salão ou no convés.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Os cartões de embarque chegam por email (veja a pasta de spam); Com bilhete de ida e volta não precisa de regressar no mesmo dia; As partidas podem mudar com o tempo; recebe o reembolso ou outro horário.'
+  respuesta: 'Os cartões de embarque chegam por email (veja a pasta de spam). Com bilhete de ida e volta não precisa de regressar no mesmo dia. As partidas podem mudar com o tempo; recebe o reembolso ou outro horário.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Comida e bebidas; Recolha e regresso; Transporte de carro.'
+  respuesta: 'O preço não inclui comida e bebidas, recolha e regresso nem transporte de carro.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '30 min.'
+  respuesta: 'Dura 30 min.'
 categoria: excursionesDia
 keywords:
 - ferry lanzarote fuerteventura

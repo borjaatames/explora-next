@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Mirador Cruz del Carmen, Anaga (La Laguna).'
 - pregunta: 'What is included?'
-  respuesta: 'Transfer back to the start at Cruz del Carmen; Local food tasting.'
+  respuesta: 'The price includes transfer back to the start at Cruz del Carmen and local food tasting.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Bring a light jacket: light rain is very common in Anaga; Not suitable for people with reduced mobility.'
+  respuesta: 'Bring a light jacket: light rain is very common in Anaga. Not suitable for people with reduced mobility.'
 categoria: aventura
 keywords:
 - anaga hike

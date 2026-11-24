@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Transfer und Abholung im Süden im Kleinbus für bis zu 8; Wanderstöcke im Nationalpark; Kindersitze verfügbar.'
+  respuesta: 'Im Preis inbegriffen: Transfer und Abholung im Süden im Kleinbus für bis zu 8, Wanderstöcke im Nationalpark und Kindersitze verfügbar.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke (eigene Verpflegung möglich); Seilbahntickets.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke (eigene Verpflegung möglich) und Seilbahntickets.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '5 Stunden.'
+  respuesta: 'Die Dauer beträgt 5 Stunden.'
 categoria: excursionesDia
 keywords:
 - teide tour kleine gruppe

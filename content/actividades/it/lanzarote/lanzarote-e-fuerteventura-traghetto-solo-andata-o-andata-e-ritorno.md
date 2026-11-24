@@ -48,13 +48,13 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Biglietto del traghetto solo andata o andata e ritorno (secondo l''opzione); Imbarco prioritario; Bagaglio gratuito fino a 20 kg a persona; Tavola da surf o bici senza supplemento; Animali gratis nel salone o sul ponte.'
+  respuesta: 'Il prezzo include biglietto del traghetto solo andata o andata e ritorno (secondo l''opzione), imbarco prioritario, bagaglio gratuito fino a 20 kg a persona, tavola da surf o bici senza supplemento e animali gratis nel salone o sul ponte.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Le carte d''imbarco arrivano via e-mail (controlla lo spam); Con andata e ritorno non serve tornare lo stesso giorno; Gli orari possono cambiare per il meteo: rimborso o nuovo orario.'
+  respuesta: 'Le carte d''imbarco arrivano via e-mail (controlla lo spam). Con andata e ritorno non serve tornare lo stesso giorno. Gli orari possono cambiare per il meteo: rimborso o nuovo orario.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Prelievo e ritorno; Trasporto auto.'
+  respuesta: 'Il prezzo non include cibo e bevande, prelievo e ritorno né trasporto auto.'
 - pregunta: 'Quanto dura?'
-  respuesta: '30 min.'
+  respuesta: 'Dura 30 min.'
 categoria: excursionesDia
 keywords:
 - traghetto lanzarote fuerteventura

@@ -51,11 +51,11 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Statue in the middle of Plaza de Isabel II (Ópera), Madrid, Spain.'
 - pregunta: 'What is included?'
-  respuesta: 'Professional guide; Spanish wine tasting; Tapas tasting; Lunch.'
+  respuesta: 'The price includes professional guide, Spanish wine tasting, tapas tasting, and lunch.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum drinking age 18; Vegetarian option available if requested when booking; Mention allergies or special diets when booking.'
+  respuesta: 'Minimum drinking age 18. Vegetarian option available if requested when booking. Mention allergies or special diets when booking.'
 - pregunta: 'What is not included?'
-  respuesta: 'Gratuities; Hotel pickup and drop-off.'
+  respuesta: 'The price does not include gratuities or hotel pickup and drop-off.'
 opinionEditorial: The lunchtime version of Native Spanish Tapas' tour, with more focus on wine. If you want to understand Spanish wines while eating well, it's a good pick; if you'd rather have dinner, the evening tour with paella is more complete.
 atraccionesRelacionadas:
 - tapas-madrid

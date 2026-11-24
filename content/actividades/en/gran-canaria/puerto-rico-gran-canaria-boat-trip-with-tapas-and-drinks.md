@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up from selected hotels in the south; Boat trip with skipper/guide; Snacks and drinks; Snorkelling; Paddleboard.'
+  respuesta: 'The price includes pick-up from selected hotels in the south, boat trip with skipper/guide, snacks and drinks, snorkelling, and paddleboard.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Depends on sea and weather conditions.'
 - pregunta: 'What is not included?'
-  respuesta: 'Parasailing, e-foil and jet ski (for sale).'
+  respuesta: 'The price does not include parasailing, e-foil and jet ski (for sale).'
 categoria: agua
 keywords:
 - boat trip puerto rico gran canaria

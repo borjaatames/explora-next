@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Quad et équipement de protection; Guide; Rafraîchissements; Prise en charge.'
+  respuesta: 'Le prix comprend : quad et équipement de protection, guide, rafraîchissements et prise en charge.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Photos; Caution ou assurance complémentaire.'
+  respuesta: 'Ne sont pas inclus : photos et caution ou assurance complémentaire.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '3 heures.'
+  respuesta: 'L''activité dure 3 heures.'
 categoria: aventura
 keywords:
 - excursion quad guidée teide

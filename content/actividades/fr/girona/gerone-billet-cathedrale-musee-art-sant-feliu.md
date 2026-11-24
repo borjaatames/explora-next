@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Échangez votre bon à l''accueil du Musée d''Art, à côté des marches de la cathédrale.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée à la cathédrale et à son trésor; Entrée à la basilique de Sant Feliu; Entrée au Musée d''Art; Audioguide de la cathédrale.'
+  respuesta: 'Le prix comprend : entrée à la cathédrale et à son trésor, entrée à la basilique de Sant Feliu, entrée au Musée d''Art et audioguide de la cathédrale.'
 opinionEditorial: 'L''essentiel de la vieille ville de Gérone avec un seul billet à 12 €. La nef de la cathédrale et la Tapisserie de la Création justifient à elles seules le prix.'
 categoria: entradas
 keywords:

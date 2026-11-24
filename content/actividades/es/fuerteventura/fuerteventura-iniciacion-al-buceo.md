@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Bautismo de buceo con instructor; Recogida en el hotel.'
+  respuesta: 'Incluye bautismo de buceo con instructor y recogida en el hotel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 10 años, embarazadas ni con enfermedades previas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '2 h 30 min.'
+  respuesta: 'Dura 2 h 30 min.'
 categoria: agua
 keywords:
 - bautismo de buceo fuerteventura

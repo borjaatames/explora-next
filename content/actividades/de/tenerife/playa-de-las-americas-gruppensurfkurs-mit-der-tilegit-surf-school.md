@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Vom Lehrer ausgewähltes Surfbrett; Neoprenanzug und Füßlinge; Unfallversicherung; Lehrer; Theorie (20 Min.).'
+  respuesta: 'Im Preis inbegriffen: vom Lehrer ausgewähltes Surfbrett, Neoprenanzug und Füßlinge, Unfallversicherung, Lehrer und Theorie (20 Min.).'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke; Abholung und Rücktransfer.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke und Abholung und Rücktransfer.'
 categoria: agua
 keywords:
 - tilegit surfschule

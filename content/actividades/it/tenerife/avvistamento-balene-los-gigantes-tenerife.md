@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Porto di Los Gigantes, Tenerife. Los Gigantes si trova sulla costa ovest di Tenerife, a circa 45 km da Santa Cruz e 30 km da Las Américas. Dal sud si prendono le autostrade TF-1 e TF-47. C''è parcheggio al porto. Conferma con l''operatore il punto d''incontro esatto indicato nel voucher.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita in barca (2-3 ore); Avvistamento di balene e delfini con una guida naturalista.'
+  respuesta: 'Il prezzo include uscita in barca (2-3 ore) e avvistamento di balene e delfini con una guida naturalista.'
 opinionEditorial: 'Los Gigantes unisce due dei grandi spettacoli naturali di Tenerife: le scogliere più alte di Spagna e i globicefali residenti a poca distanza dalla costa. È uno dei posti migliori d''Europa per l''avvistamento di cetacei.'
 guiasRelacionadas:
 - avvistamento-balene-tenerife

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge en option à Costa Adeje, Las Américas, Los Cristianos et Golf del Sur; 3 h 30 en buggy de 2 à 4 places; Guide professionnel; Lunettes et veste chaude si besoin; Eau et en-cas; Carburant.'
+  respuesta: 'Le prix comprend : prise en charge en option à Costa Adeje, Las Américas, Los Cristianos et Golf del Sur; 3 h 30 en buggy de 2 à 4 places; guide professionnel; lunettes et veste chaude si besoin; eau et en-cas; et carburant.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Conducteurs de 18 ans et plus avec permis définitif; Passagers d''au moins 120 cm dans les buggies 2 places ; dès 3 ans dans les 4 places; Chaussures fermées obligatoires.'
+  respuesta: 'Conducteurs de 18 ans et plus avec permis définitif. Passagers d''au moins 120 cm dans les buggies 2 places ; dès 3 ans dans les 4 places. Chaussures fermées obligatoires.'
 categoria: aventura
 keywords:
 - buggy teide

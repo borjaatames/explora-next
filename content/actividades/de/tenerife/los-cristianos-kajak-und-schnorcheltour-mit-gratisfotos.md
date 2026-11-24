@@ -63,9 +63,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'C. el Coronel 8, Los Cristianos.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller Guide; Kajak und Paddel; Schwimmweste; Schnorchelausrüstung; Gratisfotos.'
+  respuesta: 'Im Preis inbegriffen: professioneller Guide, Kajak und Paddel, Schwimmweste, Schnorchelausrüstung und Gratisfotos.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Die Touren finden vor allem auf Englisch statt; andere Sprachen je nach verfügbarem Personal; Du musst schwimmen können.'
+  respuesta: 'Die Touren finden vor allem auf Englisch statt; andere Sprachen je nach verfügbarem Personal. Du musst schwimmen können.'
 categoria: agua
 keywords:
 - kajak los cristianos

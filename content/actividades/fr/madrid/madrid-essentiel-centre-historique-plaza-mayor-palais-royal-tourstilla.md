@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide local; Support imprimé pendant le parcours; Lien avec des conseils pour Madrid.'
+  respuesta: 'Le prix comprend : guide local, support imprimé pendant le parcours et lien avec des conseils pour Madrid.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - madrid-en-1-jour

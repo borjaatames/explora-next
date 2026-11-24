@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Nortour, Corralejo harbour.'
 - pregunta: 'What is included?'
-  respuesta: 'Return ferry tickets to Lobos; Compulsory travel insurance.'
+  respuesta: 'The price includes return ferry tickets to Lobos and compulsory travel insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Arrive at least 20 minutes before; boarding closes 10 minutes before departure; Bring water and food: there are no shops or drinking water on Lobos; Choose the option with the permit if you want to hike up La Caldera.'
+  respuesta: 'Arrive at least 20 minutes before; boarding closes 10 minutes before departure. Bring water and food: there are no shops or drinking water on Lobos. Choose the option with the permit if you want to hike up La Caldera.'
 categoria: excursionesDia
 keywords:
 - ferry lobos island

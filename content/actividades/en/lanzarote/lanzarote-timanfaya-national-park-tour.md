@@ -41,11 +41,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up from Playa Blanca, Puerto del Carmen, Costa Teguise, Arrecife and Puerto Calero; Skip-the-line entry to Timanfaya National Park; Visit to La Geria; Professional tour guide.'
+  respuesta: 'The price includes pick-up from Playa Blanca, Puerto del Carmen, Costa Teguise, Arrecife and Puerto Calero; skip-the-line entry to Timanfaya National Park; visit to La Geria; and professional tour guide.'
 - pregunta: 'What is not included?'
-  respuesta: 'Camel ride tickets.'
+  respuesta: 'The price does not include camel ride tickets.'
 - pregunta: 'How long does it last?'
-  respuesta: '6 hours.'
+  respuesta: 'It lasts 6 hours.'
 categoria: excursionesDia
 keywords:
 - timanfaya tour

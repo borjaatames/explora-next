@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Karting Las Américas, Carretera General, salida 78, Fañabé (Costa Adeje).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Carrera individual de 10 o 20 minutos, kart biplaza, Mini Prix o Grand Prix, según la opción.'
+  respuesta: 'Incluye carrera individual de 10 o 20 minutos, kart biplaza, Mini Prix o Grand Prix, según la opción.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para menores de 6 años.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas.'
+  respuesta: 'No incluye comida y bebidas.'
 categoria: aventura
 keywords:
 - karting las americas

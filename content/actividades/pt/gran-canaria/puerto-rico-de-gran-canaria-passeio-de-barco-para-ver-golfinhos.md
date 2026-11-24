@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: procure o Spirit of the Sea.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio de catamarã de 2,5 horas; Tripulação profissional; Refrigerantes e água; Recolha opcional em San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores e Playa del Cura.'
+  respuesta: 'O preço inclui passeio de catamarã de 2,5 horas; tripulação profissional; refrigerantes e água; e recolha opcional em San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores e Playa del Cura.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'O barco pode balançar mesmo parado: tome algo para o enjoo antes, se precisar; Sem avistamento = voucher grátis válido por um ano.'
+  respuesta: 'O barco pode balançar mesmo parado: tome algo para o enjoo antes, se precisar. Sem avistamento = voucher grátis válido por um ano.'
 categoria: agua
 keywords:
 - ver golfinhos gran canaria

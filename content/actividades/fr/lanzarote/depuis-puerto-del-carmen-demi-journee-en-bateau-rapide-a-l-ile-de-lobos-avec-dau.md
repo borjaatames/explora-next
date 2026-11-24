@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à l''hôtel; Traversée de 1 h 30 en bateau rapide jusqu''à Lobos; Retour en bateau à Puerto del Carmen; 2 h 30 de temps libre à Lobos; Commentaires à bord; Pique-nique et boissons : sandwichs, eau, bière ou jus, gaspacho, yaourt à boire.'
+  respuesta: 'Le prix comprend : prise en charge et retour à l''hôtel; traversée de 1 h 30 en bateau rapide jusqu''à Lobos; retour en bateau à Puerto del Carmen; 2 h 30 de temps libre à Lobos; commentaires à bord; et pique-nique et boissons : sandwichs, eau, bière ou jus, gaspacho, yaourt à boire.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'L''observation de la faune n''est pas garantie; Signalez repas végétarien ou allergies la veille au plus tard; L''embarquement et la marche à Lobos peuvent être difficiles en cas de mobilité réduite.'
+  respuesta: 'L''observation de la faune n''est pas garantie. Signalez repas végétarien ou allergies la veille au plus tard. L''embarquement et la marche à Lobos peuvent être difficiles en cas de mobilité réduite.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Équipement de snorkeling.'
+  respuesta: 'Ne sont pas inclus : équipement de snorkeling.'
 categoria: agua
 keywords:
 - île de lobos depuis lanzarote

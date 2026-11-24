@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'In front of the Magilu restaurant, Av. Ocira 27, Abades.'
 - pregunta: 'What is included?'
-  respuesta: 'Snorkelling tour with guide; Snorkelling gear; Long or short wetsuit; Photos and videos.'
+  respuesta: 'The price includes snorkelling tour with guide, snorkelling gear, long or short wetsuit, and photos and videos.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Non-swimmers see fish but not the turtles, which require a long swim; Glasses can''t be worn under the mask; Not for children under 5 or people with a cold.'
+  respuesta: 'Non-swimmers see fish but not the turtles, which require a long swim. Glasses can''t be worn under the mask. Not for children under 5 or people with a cold.'
 categoria: agua
 keywords:
 - snorkeling abades

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Combustible; Gafas para pista; Chaquetas cortavientos; Agua; Tentempié (cacahuetes).'
+  respuesta: 'Incluye combustible, gafas para pista, chaquetas cortavientos, agua y tentempié (cacahuetes).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductores y pasajeros mayores de 18; No apto para embarazadas.'
+  respuesta: 'Conductores y pasajeros mayores de 18. No apto para embarazadas.'
 categoria: aventura
 keywords:
 - buggy puerto de la cruz

@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Café del Puerto, Puerto Calero, 20 minutos antes de la salida.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Kayak; Paddle surf; Equipo de esnórquel; Almuerzo; Bebidas: cerveza, vino, cava, refrescos y agua; Combustible.'
+  respuesta: 'Incluye kayak; paddle surf; equipo de esnórquel; almuerzo; bebidas: cerveza, vino, cava, refrescos y agua; y combustible.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No accesible en silla de ruedas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: agua
 keywords:
 - catamaran papagayo

@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Catedral de Palma, Plaça de la Seu, Palma de Mallorca. Die Kathedrale liegt in der Altstadt von Palma gegenüber dem Parc de la Mar. Geh vom Zentrum zu Fuß (15 Minuten vom Passeig del Born) oder nimm den Bus. Zeig dein Handyticket am Eingang.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt ohne Anstehen in Kathedrale und Museum.'
+  respuesta: 'Im Preis inbegriffen: Eintritt ohne Anstehen in Kathedrale und Museum.'
 opinionEditorial: 'Die Kathedrale von Palma gehört zu den großen gotischen Monumenten Europas und ist das Erste, was Mallorca dir von der Fähre oder dem Flugzeug aus zeigt. Spar dir die Schlange: Im Sommer füllt sich die Kathedrale schnell, und das Erlebnis drinnen ist es wert.'
 guiasRelacionadas:
 - was-sehen-auf-mallorca

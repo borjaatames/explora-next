@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (Excursiones-Ibiza point). Departure at 10:00 from the Sant Antoni seafront, at the Excursiones-Ibiza point on Passeig de ses Fonts. Arrive 20 minutes early.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat with crew; Breakfast, lunch (paella) and dinner; Open bar of beer, sangria and soft drinks; Cava toast at sunset; Snorkel mask and tube; Paddleboards.'
+  respuesta: 'The price includes boat with crew; breakfast, lunch (paella) and dinner; open bar of beer, sangria and soft drinks; cava toast at sunset; snorkel mask and tube; and paddleboards.'
 opinionEditorial: 'If you only do one boat trip in Ibiza, this one combines the best: Es Vedrà, the water at Espalmador and Formentera, with all meals included. It is pricey, but it is the whole day.'
 guiasRelacionadas:
 - what-to-see-in-ibiza

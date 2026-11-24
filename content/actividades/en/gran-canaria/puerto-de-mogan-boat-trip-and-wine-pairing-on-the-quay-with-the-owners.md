@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Yellow Boat Mogán, Explanada del Castillete 163, Playa de Mogán.'
 - pregunta: 'What is included?'
-  respuesta: 'Local hosts (the boat owners); 1-hour boat trip along the coast; Three-course Canarian tasting menu; Wine with each course (rosé, aged white, semi-dry Listán); Water and soft drinks during the cruise; Shaded U-shaped seating on board.'
+  respuesta: 'The price includes local hosts (the boat owners); 1-hour boat trip along the coast; three-course Canarian tasting menu; wine with each course (rosé, aged white, semi-dry Listán); water and soft drinks during the cruise; and shaded U-shaped seating on board.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Calm, sit-down experience focused on food and wine, not water activities; If you get seasick, take a remedy 30 minutes before.'
+  respuesta: 'Calm, sit-down experience focused on food and wine, not water activities. If you get seasick, take a remedy 30 minutes before.'
 categoria: toursGastronomicos
 keywords:
 - mogan boat trip wine

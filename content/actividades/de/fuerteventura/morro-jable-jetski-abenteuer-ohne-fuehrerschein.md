@@ -49,9 +49,9 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Treibstoff; Guide.'
+  respuesta: 'Im Preis inbegriffen: Treibstoff und Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Der Preis gilt für 2 Personen auf 1 Jetski; Abhängig vom Seegang; Die Hütte des Anbieters steht im Sand, mit rosa Fahne.'
+  respuesta: 'Der Preis gilt für 2 Personen auf 1 Jetski. Abhängig vom Seegang. Die Hütte des Anbieters steht im Sand, mit rosa Fahne.'
 categoria: agua
 keywords:
 - jetski morro jable

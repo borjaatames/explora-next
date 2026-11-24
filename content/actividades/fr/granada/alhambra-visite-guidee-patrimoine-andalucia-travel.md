@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'À côté du Polinario Café Bar, à droite des guichets de l''Alhambra.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide officiel; Billets de l''Alhambra (si option); Système audio.'
+  respuesta: 'Le prix comprend : guide officiel, billets de l''Alhambra (si option) et système audio.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel; Guida professionista; Giro in buggy Can-Am; Carburante; Occhiali antipolvere; Assicurazione.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel, guida professionista, giro in buggy Can-Am, carburante, occhiali antipolvere e assicurazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Indossa abiti comodi e scuri e porta un foulard; Serve più di 1 anno di patente; Prezzo per buggy fino a 2 persone.'
+  respuesta: 'Indossa abiti comodi e scuri e porta un foulard. Serve più di 1 anno di patente. Prezzo per buggy fino a 2 persone.'
 categoria: aventura
 keywords:
 - buggy costa calma

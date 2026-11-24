@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida dal vivo; Bici o bici elettrica (secondo l''opzione); Seggiolini e caschi su richiesta; Deposito bagagli.'
+  respuesta: 'Il prezzo include guida dal vivo, bici o bici elettrica (secondo l''opzione), seggiolini e caschi su richiesta e deposito bagagli.'
 categoria: toursCiudad
 guiasRelacionadas:
 - madrid-in-1-giorno

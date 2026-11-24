@@ -45,9 +45,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Colón, Avenida de Colón, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: '20-metre yacht, all inclusive; Professional crew; Water activities; Food and drinks.'
+  respuesta: 'The price includes 20-metre yacht, all inclusive; professional crew; water activities; and food and drinks.'
 - pregunta: 'How long does it last?'
-  respuesta: '3 h 30 min.'
+  respuesta: 'It lasts 3 h 30 min.'
 categoria: agua
 keywords:
 - yacht cruise tenerife

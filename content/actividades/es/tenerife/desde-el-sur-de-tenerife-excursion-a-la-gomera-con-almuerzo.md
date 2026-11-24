@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en el sur de Tenerife; Traslados; Ferry rápido; Almuerzo; Guía multilingüe.'
+  respuesta: 'Incluye recogida y regreso en el sur de Tenerife, traslados, ferry rápido, almuerzo y guía multilingüe.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Las explicaciones pueden ser en varios idiomas según el grupo; Lleva ropa de abrigo y tu DNI o pasaporte para el ferry.'
+  respuesta: 'Las explicaciones pueden ser en varios idiomas según el grupo. Lleva ropa de abrigo y tu DNI o pasaporte para el ferry.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '9 horas.'
+  respuesta: 'Dura 9 horas.'
 categoria: excursionesDia
 keywords:
 - excursion la gomera

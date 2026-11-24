@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Calle de Alfonso XI, 2 (accanto al Retiro), Madrid.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasporto privato da Madrid; Guida privata; Ingresso alla cattedrale di Cuenca; Ingresso al Museo di Arte Astratta Spagnola; Bibita.'
+  respuesta: 'Il prezzo include trasporto privato da Madrid, guida privata, ingresso alla cattedrale di Cuenca, ingresso al Museo di Arte Astratta Spagnola e bibita.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

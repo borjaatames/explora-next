@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado durante 3 horas; Recogida en el hotel (si está en la zona del centro).'
+  respuesta: 'Incluye guía privado durante 3 horas y recogida en el hotel (si está en la zona del centro).'
 opinionEditorial: Tres horas bien aprovechadas para entender el casco antiguo y descubrir rincones que solos se pasan por alto. En privado se puede preguntar todo.
 atraccionesRelacionadas:
 - gotico

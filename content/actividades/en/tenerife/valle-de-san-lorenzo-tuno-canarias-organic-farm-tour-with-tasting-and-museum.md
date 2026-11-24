@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Finca Tuno Canarias, near Calle Arguamul, Valle de San Lorenzo (Arona).'
 - pregunta: 'What is included?'
-  respuesta: 'Full entry to Finca Tuno Canarias and its plantation; Live guide, with translation in 16+ languages; Tasting of fresh Higo Tinto and farm-made products; Ethnographic museum and short film; Meeting the farm animals; Free parking.'
+  respuesta: 'The price includes full entry to Finca Tuno Canarias and its plantation; live guide, with translation in 16+ languages; tasting of fresh Higo Tinto and farm-made products; ethnographic museum and short film; meeting the farm animals; and free parking.'
 - pregunta: 'How long does it last?'
-  respuesta: '1 h 30 min.'
+  respuesta: 'It lasts 1 h 30 min.'
 categoria: toursGastronomicos
 keywords:
 - tuno canarias

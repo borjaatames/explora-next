@@ -54,11 +54,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso: Playa de las Américas, Costa Adeje, Los Cristianos, Golf del Sur, Callao Salvaje y Playa Paraíso; Ruta guiada en quad de 4 horas; Guía-monitor; Casco homologado; Seguro de responsabilidad civil y accidentes; Tiempo libre en Vilaflor y en Boca de Tauce.'
+  respuesta: 'Incluye recogida y regreso: Playa de las Américas, Costa Adeje, Los Cristianos, Golf del Sur, Callao Salvaje y Playa Paraíso; ruta guiada en quad de 4 horas; guía-monitor; casco homologado; seguro de responsabilidad civil y accidentes; y tiempo libre en Vilaflor y en Boca de Tauce.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductores mayores de 21 con al menos 2 años de carné; Niños desde 7 años, solo como pasajeros; Máximo 160 kg por quad.'
+  respuesta: 'Conductores mayores de 21 con al menos 2 años de carné. Niños desde 7 años, solo como pasajeros. Máximo 160 kg por quad.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebidas; Extras: gafas, chaqueta, guantes, braga, fotos.'
+  respuesta: 'No incluye comida y bebidas; ni extras: gafas, chaqueta, guantes, braga, fotos.'
 categoria: aventura
 keywords:
 - safari en quad tenerife

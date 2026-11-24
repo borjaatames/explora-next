@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Ingresso principale del Siam Park, Avenida Siam, Costa Adeje.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Anche con l''accesso prioritario ci possono essere code in alta stagione; Limiti di peso su alcuni scivoli.'
+  respuesta: 'Anche con l''accesso prioritario ci possono essere code in alta stagione. Limiti di peso su alcuni scivoli.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Alcune bevande alcoliche, dolci, snack e crêpe; Casa del tè.'
+  respuesta: 'Il prezzo non include alcune bevande alcoliche, dolci, snack e crêpe; né Casa del tè.'
 categoria: parques
 keywords:
 - siam park tutto incluso

@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso de Los Cristianos a Playa Paraíso; Furgoneta de 9 plazas con aire acondicionado; Casco y arnés; Vuelo biplaza (15–20 minutos); Monitor; 5 fotos GoPro (pídelas antes del vuelo).'
+  respuesta: 'Incluye recogida y regreso de Los Cristianos a Playa Paraíso, furgoneta de 9 plazas con aire acondicionado, casco y arnés, vuelo biplaza (15–20 minutos), monitor y 5 fotos GoPro (pídelas antes del vuelo).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Los vuelos dependen del tiempo, que también decide la zona de despegue; Los grupos de más de 4 vuelan en dos turnos; No apto para menores de 4 años, embarazadas ni con más de 100 kg.'
+  respuesta: 'Los vuelos dependen del tiempo, que también decide la zona de despegue. Los grupos de más de 4 vuelan en dos turnos. No apto para menores de 4 años, embarazadas ni con más de 100 kg.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebida; Todas las fotos y vídeos GoPro (con coste).'
+  respuesta: 'No incluye comida y bebida ni todas las fotos y vídeos GoPro (con coste).'
 categoria: aventura
 keywords:
 - parapente taucho

@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private official guide; Old Synagogue ticket.'
+  respuesta: 'The price includes private official guide and old Synagogue ticket.'
 opinionEditorial: 'A very different Barcelona visit: the story of its medieval Jewish community, told calmly and with the synagogue included.'
 atraccionesRelacionadas:
 - gotico

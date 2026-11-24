@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Wellenkind Surfschool, La Pared. Wenn die Bedingungen es nicht erlauben, nennt die Schule den alternativen Treffpunkt.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Brett, Neoprenanzug und Transfer; Duschen und Umkleiden; 2 Stunden Kurs am Strand; Abholung und Rücktransfer: Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
+  respuesta: 'Im Preis inbegriffen: Brett, Neoprenanzug und Transfer; Duschen und Umkleiden; 2 Stunden Kurs am Strand; und Abholung und Rücktransfer: Las Playitas, Tarajalejo, La Lajita, Costa Calma, La Pared, Esquinzo, Morro Jable.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Kinder unter 7; Du musst schwimmen können; Die Startzeit hängt von Gezeiten und Bedingungen ab; die Schule bestätigt sie.'
+  respuesta: 'Nicht für Kinder unter 7. Du musst schwimmen können. Die Startzeit hängt von Gezeiten und Bedingungen ab; die Schule bestätigt sie.'
 categoria: agua
 keywords:
 - surfkurs la pared

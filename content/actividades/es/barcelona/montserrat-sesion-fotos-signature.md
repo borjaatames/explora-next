@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: '30 fotografías digitales editadas; Fotógrafo profesional en exclusiva durante 1 hora.'
+  respuesta: 'Incluye 30 fotografías digitales editadas y fotógrafo profesional en exclusiva durante 1 hora.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Esta sesión se realiza en Montserrat, a 1 hora de Barcelona; organiza tu propio transporte de ida y vuelta (tren o coche); Apto para sillas de ruedas y cochecitos de bebé; Se permiten animales de servicio.'
+  respuesta: 'Esta sesión se realiza en Montserrat, a 1 hora de Barcelona; organiza tu propio transporte de ida y vuelta (tren o coche). Apto para sillas de ruedas y cochecitos de bebé. Se permiten animales de servicio.'
 opinionEditorial: 'Es la ficha que más se sale del centro de Barcelona: aquí lo que compras es el paisaje de Montserrat, no la ciudad. Ten en cuenta que el transporte hasta la montaña corre por tu cuenta y que la entrada al monasterio se paga aparte; si ya tienes pensada la excursión a Montserrat, añadir esta sesión de fotos le da un recuerdo distinto al resto del viaje.'
 atraccionesRelacionadas:
 - montserrat

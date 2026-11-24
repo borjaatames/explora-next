@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Plaza del Emperador Carlos V (Atocha) o prelievo nel punto di Madrid che preferisci.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasporto privato con autista; Guida ufficiale privata; Biglietti salta fila per i monumenti; Prelievo nel punto che preferisci.'
+  respuesta: 'Il prezzo include trasporto privato con autista, guida ufficiale privata, biglietti salta fila per i monumenti e prelievo nel punto che preferisci.'
 atraccionesRelacionadas:
 - segovia
 - excursiones-desde-madrid

@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía profesional; Recogida y regreso gratis (sur de Tenerife); Aparcamiento gratis en el punto de encuentro; Buggy biplaza; Introducción a la conducción y charla de seguridad; Seguro básico.'
+  respuesta: 'Incluye guía profesional, recogida y regreso gratis (sur de Tenerife), aparcamiento gratis en el punto de encuentro, buggy biplaza, introducción a la conducción y charla de seguridad y seguro básico.'
 categoria: aventura
 keywords:
 - buggy teide

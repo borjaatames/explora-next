@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ticket ohne Anstehen für die Monumentalzone; Zertifizierter Guide; Freier Aufenthalt nach der Führung.'
+  respuesta: 'Im Preis inbegriffen: Ticket ohne Anstehen für die Monumentalzone, zertifizierter Guide und freier Aufenthalt nach der Führung.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-tickets-ausverkauft

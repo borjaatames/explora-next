@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Barcelona Sailing Day, Moll de la Marina 10, Port Olímpic. Von der Carrer de la Marina zwischen den beiden Hochhäusern die Treppe hinunter, an den Läden entlang bis Nummer 10.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Professioneller Skipper; Unbegrenzt Bier, Rot- und Weißwein, Cava und Softdrinks; Tapas: Oliven, Fuet, Käse, Trauben, Cracker und Chips; Wasser, Handtücher und Kissen an Bord.'
+  respuesta: 'Im Preis inbegriffen: professioneller Skipper; unbegrenzt Bier, Rot- und Weißwein, Cava und Softdrinks; Tapas: Oliven, Fuet, Käse, Trauben, Cracker und Chips; und Wasser, Handtücher und Kissen an Bord.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-in-2-tagen

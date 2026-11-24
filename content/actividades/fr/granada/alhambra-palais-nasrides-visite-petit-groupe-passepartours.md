@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Près du panneau « guías » à l''entrée de l''Alhambra. Quelques heures avant, vous recevez le nom et le téléphone du guide.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Entrée à tout le complexe de l''Alhambra; Palais nasrides, Generalife et Alcazaba; Visite en petit groupe; Écouteurs à partir de 6 personnes.'
+  respuesta: 'Le prix comprend : entrée à tout le complexe de l''Alhambra; palais nasrides, Generalife et Alcazaba; visite en petit groupe; et écouteurs à partir de 6 personnes.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

@@ -63,7 +63,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Monasterio de la Cartuja, Paseo de Cartuja, Granada. A nord del centro, accanto al campus di Cartuja. Autobus urbani 8 e U3 dalla Gran Vía (circa 15 minuti).'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso al Monastero della Certosa; Audioguida sul cellulare.'
+  respuesta: 'Il prezzo include ingresso al Monastero della Certosa e audioguida sul cellulare.'
 opinionEditorial: La grande sconosciuta di Granada. La sacrestia è un delirio barocco di marmi e stucchi che lascia senza parole, e per 10 € ce l'hai quasi tutta per te.
 categoria: entradas
 keywords:

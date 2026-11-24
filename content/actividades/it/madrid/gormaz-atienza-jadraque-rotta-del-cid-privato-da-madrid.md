@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Museo Naval, Paseo del Prado, 3, Madrid.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Trasporto privato da Madrid; Guida; Acqua; Tasse.'
+  respuesta: 'Il prezzo include trasporto privato da Madrid, guida, acqua e tasse.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

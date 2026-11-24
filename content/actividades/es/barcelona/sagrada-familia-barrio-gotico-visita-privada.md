@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía oficial privado; Entrada sin colas a la Sagrada Familia; Transporte entre el Gótico y la Sagrada Familia.'
+  respuesta: 'Incluye guía oficial privado, entrada sin colas a la Sagrada Familia y transporte entre el Gótico y la Sagrada Familia.'
 opinionEditorial: Une la Barcelona medieval y la de Gaudí en una mañana, con el traslado resuelto. Para un primer día en la ciudad es de lo más práctico.
 atraccionesRelacionadas:
 - sagrada-familia

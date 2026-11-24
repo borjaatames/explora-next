@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Recogida en tu alojamiento de Madrid; te contactan 24 horas antes para concretar la hora.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso a Madrid; Visita a 2 bodegas con entrada; 2 catas de vino; 2 tapas con vino; Anfitrión durante todo el día.'
+  respuesta: 'Incluye recogida y regreso a Madrid, visita a 2 bodegas con entrada, 2 catas de vino, 2 tapas con vino y anfitrión durante todo el día.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Friends of the Ocean Surf School, Paseo Guadalajara, Playa de las Américas.'
 - pregunta: 'What is included?'
-  respuesta: '2-hour surf lesson (theory and practice); All equipment: board, wetsuit, booties and insurance; Showers, lockers, free coffee and water; 1 extra hour of free gear use.'
+  respuesta: 'The price includes 2-hour surf lesson (theory and practice); all equipment: board, wetsuit, booties and insurance; showers, lockers, free coffee and water; and 1 extra hour of free gear use.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Classes for all levels and ages; Instructors speak Spanish, English, French, German and Russian.'
+  respuesta: 'Classes for all levels and ages. Instructors speak Spanish, English, French, German and Russian.'
 categoria: agua
 keywords:
 - surf lesson playa de las americas

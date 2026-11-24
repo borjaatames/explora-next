@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. Die gebuchte Uhrzeit gilt für das Quad; den Jetski per WhatsApp vereinbaren.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Schwimmweste; Brille; Guide; Getränke; Dusche und Toiletten; Schließfächer.'
+  respuesta: 'Im Preis inbegriffen: Schwimmweste, Brille, Guide, Getränke, Dusche und Toiletten und Schließfächer.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Kaution in bar: 50 € pro Jetski und 100 € pro Quad; Transfers zwischen den Aktivitäten.'
+  respuesta: 'Nicht inbegriffen: Kaution in bar: 50 € pro Jetski und 100 € pro Quad und Transfers zwischen den Aktivitäten.'
 categoria: aventura
 keywords:
 - jetski und quad teneriffa

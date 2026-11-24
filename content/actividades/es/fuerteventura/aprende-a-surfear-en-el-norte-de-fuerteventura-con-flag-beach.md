@@ -43,11 +43,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Tabla y neopreno.'
+  respuesta: 'Incluye recogida y regreso al hotel y tabla y neopreno.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 11 años; No apto para embarazadas; Hay que saber nadar.'
+  respuesta: 'No apto para menores de 11 años. No apto para embarazadas. Hay que saber nadar.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '4 horas.'
+  respuesta: 'Dura 4 horas.'
 categoria: agua
 keywords:
 - flag beach surf

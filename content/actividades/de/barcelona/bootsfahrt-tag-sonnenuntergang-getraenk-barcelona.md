@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Willkommensgetränk; Kapitän und Crew; Treibstoff, Reinigung, Versicherung und Steuern; WLAN an Bord.'
+  respuesta: 'Im Preis inbegriffen: Willkommensgetränk; Kapitän und Crew; Treibstoff, Reinigung, Versicherung und Steuern; und WLAN an Bord.'
 categoria: agua
 guiasRelacionadas:
 - barcelona-in-2-tagen

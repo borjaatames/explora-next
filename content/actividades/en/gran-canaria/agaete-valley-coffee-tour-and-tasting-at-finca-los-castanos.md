@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Finca Los Castaños, Agaete. Tours start continuously as visitors arrive; free parking.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided visit to a coffee plantation; Explanation of the coffee process; Coffee tasting; Access to the shop with local products.'
+  respuesta: 'The price includes guided visit to a coffee plantation, explanation of the coffee process, coffee tasting, and access to the shop with local products.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not wheelchair accessible; Outdoor activity: wear comfortable shoes.'
+  respuesta: 'Not wheelchair accessible. Outdoor activity: wear comfortable shoes.'
 categoria: excursionesDia
 keywords:
 - coffee tour agaete

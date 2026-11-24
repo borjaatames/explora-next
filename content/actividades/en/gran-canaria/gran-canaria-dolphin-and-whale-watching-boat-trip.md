@@ -41,11 +41,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guided marine-life boat trip; Soft drinks and water; Pick-up and drop-off from the south of Gran Canaria (available).'
+  respuesta: 'The price includes guided marine-life boat trip, soft drinks and water, and pick-up and drop-off from the south of Gran Canaria (available).'
 - pregunta: 'What is not included?'
-  respuesta: 'Alcoholic drinks; Food.'
+  respuesta: 'The price does not include alcoholic drinks or food.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 hours.'
+  respuesta: 'It lasts 2 hours.'
 categoria: agua
 keywords:
 - dolphin watching gran canaria

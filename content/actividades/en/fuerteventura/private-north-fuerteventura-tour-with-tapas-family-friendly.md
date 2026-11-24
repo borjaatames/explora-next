@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Private guided tour; Pick-up and drop-off from selected places; Canarian meal at a local restaurant.'
+  respuesta: 'The price includes private guided tour, pick-up and drop-off from selected places, and Canarian meal at a local restaurant.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Bring swimwear if you want a swim at one of the beaches; Not wheelchair accessible.'
+  respuesta: 'Bring swimwear if you want a swim at one of the beaches. Not wheelchair accessible.'
 - pregunta: 'What is not included?'
-  respuesta: 'Drinks at the restaurant.'
+  respuesta: 'The price does not include drinks at the restaurant.'
 categoria: excursionesDia
 keywords:
 - private tour fuerteventura north

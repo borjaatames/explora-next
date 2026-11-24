@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'C. La Ballena 10, Corralejo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Alquiler de buggy automático; Guía profesional; Charla de seguridad.'
+  respuesta: 'Incluye alquiler de buggy automático, guía profesional y charla de seguridad.'
 categoria: aventura
 keywords:
 - buggy corralejo

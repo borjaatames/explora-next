@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Guía profesional; Paseo en buggy Can-Am; Combustible; Gafas antipolvo; Seguro.'
+  respuesta: 'Incluye recogida y regreso al hotel, guía profesional, paseo en buggy Can-Am, combustible, gafas antipolvo y seguro.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Lleva ropa cómoda y oscura y un pañuelo; Los conductores necesitan más de 1 año de carné; Precio por buggy para hasta 2 personas.'
+  respuesta: 'Lleva ropa cómoda y oscura y un pañuelo. Los conductores necesitan más de 1 año de carné. Precio por buggy para hasta 2 personas.'
 categoria: aventura
 keywords:
 - buggy costa calma

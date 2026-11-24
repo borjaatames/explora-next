@@ -64,7 +64,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Museo Nacional Centro de Arte Reina Sofía, Calle Santa Isabel, 52, Madrid. Metro line 1 to Atocha, or lines 1 and 3 to Estación del Arte. The museum is right next to Atocha railway station. Show your mobile ticket at the main entrance.'
 - pregunta: 'What is included?'
-  respuesta: 'Skip-the-line museum entry.'
+  respuesta: 'The price includes skip-the-line museum entry.'
 opinionEditorial: The Reina Sofía is non-negotiable in Madrid. Guernica alone — Picasso's haunting masterpiece painted in 1937 — makes it one of the great artistic pilgrimages in the world. Budget 2–3 hours for the main collection.
 guiasRelacionadas:
 - prado-vs-reina-sofia-vs-thyssen

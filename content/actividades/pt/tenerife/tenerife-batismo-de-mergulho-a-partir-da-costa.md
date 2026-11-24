@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Transporte grátis do centro de mergulho até ao local; Explicação do básico; Um mergulho de 40 minutos a 1 hora; Equipamento de mergulho; Garrafa cheia; Seguro de mergulho.'
+  respuesta: 'O preço inclui transporte grátis do centro de mergulho até ao local, explicação do básico, um mergulho de 40 minutos a 1 hora, equipamento de mergulho, garrafa cheia e seguro de mergulho.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Idade mínima 10 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos; Não recomendado a pessoas com asma ou problemas respiratórios.'
+  respuesta: 'Idade mínima 10 anos. Não recomendado a grávidas ou pessoas com problemas cardíacos. Não recomendado a pessoas com asma ou problemas respiratórios.'
 - pregunta: 'Quanto tempo dura?'
-  respuesta: '3 horas.'
+  respuesta: 'Dura 3 horas.'
 categoria: agua
 keywords:
 - batismo de mergulho tenerife

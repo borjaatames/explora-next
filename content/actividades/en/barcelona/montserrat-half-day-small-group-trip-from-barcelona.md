@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Estació de França, Avinguda del Marquès de l’Argentera 6, Barcelona.'
 - pregunta: 'What is included?'
-  respuesta: 'Return transport from Barcelona; Guided visit of the basilica and monastery.'
+  respuesta: 'The price includes return transport from Barcelona and guided visit of the basilica and monastery.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Several departures each morning and midday; Price per person.'
+  respuesta: 'Several departures each morning and midday. Price per person.'
 opinionEditorial: The most practical, affordable way to reach Montserrat without juggling trains and rack railways, with enough free time to enjoy the mountain.
 atraccionesRelacionadas:
 - montserrat

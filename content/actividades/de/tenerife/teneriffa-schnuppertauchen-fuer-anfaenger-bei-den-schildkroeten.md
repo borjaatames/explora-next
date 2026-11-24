@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Scuba Point, Puerto Colón, Lokal 131 (Erdgeschoss, gegenüber Steg 3), Costa Adeje.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt zum Tauchplatz; Komplette Tauchausrüstung; Zertifizierter Tauchlehrer; Vollversicherung.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt zum Tauchplatz, komplette Tauchausrüstung, zertifizierter Tauchlehrer und Vollversicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nach dem Tauchen am selben Tag nicht über 300 m (Teide oder Flug); Nicht für Kinder unter 8, in der Schwangerschaft oder bei Herz-, Atem- oder Diabetesproblemen; Tierbeobachtungen sind nicht garantiert.'
+  respuesta: 'Nach dem Tauchen am selben Tag nicht über 300 m (Teide oder Flug). Nicht für Kinder unter 8, in der Schwangerschaft oder bei Herz-, Atem- oder Diabetesproblemen. Tierbeobachtungen sind nicht garantiert.'
 categoria: agua
 keywords:
 - schnuppertauchen teneriffa

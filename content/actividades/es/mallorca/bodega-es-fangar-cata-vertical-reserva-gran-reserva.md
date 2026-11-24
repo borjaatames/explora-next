@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Bodega Es Fangar, carrer Son Colom 23, Felanitx (Mallorca).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Cata vertical guiada; Tabla de embutidos y quesos.'
+  respuesta: 'Incluye cata vertical guiada y tabla de embutidos y quesos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Precio por persona; Bodega ecológica en Felanitx, en el centro de Mallorca: hace falta coche; Visita en español, inglés o italiano.'
+  respuesta: 'Precio por persona. Bodega ecológica en Felanitx, en el centro de Mallorca: hace falta coche. Visita en español, inglés o italiano.'
 opinionEditorial: 'La cata más especial de la bodega, para aficionados: probar el mismo vino en años distintos enseña más que cualquier explicación.'
 atraccionesRelacionadas:
 - gastronomia

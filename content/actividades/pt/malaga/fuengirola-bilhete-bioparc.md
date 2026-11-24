@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Comboio suburbano (Cercanías) C1 de Málaga até Fuengirola (fim da linha) e 10 minutos a pé.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete para o Bioparc Fuengirola.'
+  respuesta: 'O preço inclui bilhete para o Bioparc Fuengirola.'
 opinionEditorial: Um jardim zoológico moderno, dos que se centram na conservação e nos habitats, e não em jaulas. Para uma manhã com crianças na Costa del Sol, é do melhor que há.
 categoria: parques
 keywords:

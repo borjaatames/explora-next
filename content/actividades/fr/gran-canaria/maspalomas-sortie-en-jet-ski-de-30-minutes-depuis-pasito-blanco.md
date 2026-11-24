@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement; Assurance accident; Moniteur de sécurité; Toilettes; Parking gratuit.'
+  respuesta: 'Le prix comprend : équipement, assurance accident, moniteur de sécurité, toilettes et parking gratuit.'
 categoria: agua
 keywords:
 - jet ski maspalomas

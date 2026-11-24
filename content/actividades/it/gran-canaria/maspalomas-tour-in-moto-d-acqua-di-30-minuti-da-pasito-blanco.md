@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura; Assicurazione infortuni; Istruttore di sicurezza; Bagni; Parcheggio gratuito.'
+  respuesta: 'Il prezzo include attrezzatura, assicurazione infortuni, istruttore di sicurezza, bagni e parcheggio gratuito.'
 categoria: agua
 keywords:
 - moto d'acqua maspalomas

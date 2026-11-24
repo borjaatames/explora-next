@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Une petite collation; Prise en charge et retour à l''hôtel; Équipement de snorkeling.'
+  respuesta: 'Le prix comprend : une petite collation, prise en charge et retour à l''hôtel et équipement de snorkeling.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Apportez serviette et maillot pour l''arrêt baignade.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Boissons à volonté.'
+  respuesta: 'Ne sont pas inclus : boissons à volonté.'
 categoria: agua
 keywords:
 - observation baleines bateau rapide tenerife

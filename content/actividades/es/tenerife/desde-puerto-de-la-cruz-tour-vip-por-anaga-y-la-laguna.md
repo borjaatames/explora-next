@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Oficina de Tamaran / Volcanic, Calle Aceviño 12, Puerto de la Cruz, a las 08:45.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Conductor; Almuerzo; Recogida en tu hotel o en un punto cercano de Puerto de la Cruz; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye conductor, almuerzo, recogida en tu hotel o en un punto cercano de Puerto de la Cruz y seguro de responsabilidad civil.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '8 horas.'
+  respuesta: 'Dura 8 horas.'
 categoria: excursionesDia
 keywords:
 - excursion anaga la laguna

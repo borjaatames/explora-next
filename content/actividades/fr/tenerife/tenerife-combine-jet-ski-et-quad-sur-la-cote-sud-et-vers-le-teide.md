@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Quad Riders Tenerife, El Junquito, TF-82, Guía de Isora. L''horaire réservé concerne le quad ; fixez le jet-ski sur WhatsApp.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Gilet de sauvetage; Lunettes; Guide; Boissons; Douche et toilettes; Casiers.'
+  respuesta: 'Le prix comprend : gilet de sauvetage, lunettes, guide, boissons, douche et toilettes et casiers.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Caution en espèces : 50 € par jet-ski et 100 € par quad; Transferts entre les activités.'
+  respuesta: 'Ne sont pas inclus : caution en espèces : 50 € par jet-ski et 100 € par quad et transferts entre les activités.'
 categoria: aventura
 keywords:
 - jet ski et quad tenerife

@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Aquasports Fuerteventura, Morro Jable harbour.'
 - pregunta: 'What is included?'
-  respuesta: 'Guided boat trip.'
+  respuesta: 'The price includes guided boat trip.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Be on time: there is no waiting margin; Bring a sweater and a towel.'
+  respuesta: 'Be on time: there is no waiting margin. Bring a sweater and a towel.'
 categoria: agua
 keywords:
 - speedboat morro jable dolphins

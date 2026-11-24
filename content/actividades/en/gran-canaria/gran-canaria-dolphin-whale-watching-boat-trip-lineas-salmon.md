@@ -45,11 +45,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip.'
+  respuesta: 'The price includes boat trip.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Departure point depends on the option you book; Children welcome; Not recommended during pregnancy.'
+  respuesta: 'Departure point depends on the option you book. Children welcome. Not recommended during pregnancy.'
 - pregunta: 'What is not included?'
-  respuesta: 'Drinks (for sale).'
+  respuesta: 'The price does not include drinks (for sale).'
 categoria: agua
 keywords:
 - dolphin watching gran canaria

@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Treno Cercanías C1 da Malaga fino a Fuengirola (capolinea) e 10 minuti a piedi.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso al Bioparc Fuengirola.'
+  respuesta: 'Il prezzo include ingresso al Bioparc Fuengirola.'
 opinionEditorial: Uno zoo moderno, di quelli incentrati sulla conservazione e sugli habitat, non sulle gabbie. Per una mattinata con i bambini sulla Costa del Sol è tra il meglio che ci sia.
 categoria: parques
 keywords:

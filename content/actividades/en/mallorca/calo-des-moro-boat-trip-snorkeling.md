@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Cala Figuera harbour (Santanyí). The exact spot is on your voucher. Parking in Cala Figuera is hard in summer: arrive with time to spare.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip; Snorkeling gear; One drink.'
+  respuesta: 'The price includes boat trip, snorkeling gear, and one drink.'
 opinionEditorial: The easiest way to see Mallorca's most photographed cove. Excellent reviews and a fair price for two and a half hours at sea.
 guiasRelacionadas:
 - best-coves-mallorca

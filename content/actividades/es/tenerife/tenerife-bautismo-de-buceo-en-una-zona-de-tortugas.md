@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Scuba Point, Puerto Colón, local 131 (planta baja, frente al pantalán 3), Costa Adeje.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado en barco al punto de inmersión; Equipo completo de buceo; Instructor titulado; Seguro completo.'
+  respuesta: 'Incluye traslado en barco al punto de inmersión, equipo completo de buceo, instructor titulado y seguro completo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Después de bucear no subas a más de 300 m (Teide o avión) ese día; No apto para menores de 8 años, embarazadas ni con problemas cardíacos, respiratorios o diabetes; No se garantiza ver fauna.'
+  respuesta: 'Después de bucear no subas a más de 300 m (Teide o avión) ese día. No apto para menores de 8 años, embarazadas ni con problemas cardíacos, respiratorios o diabetes. No se garantiza ver fauna.'
 categoria: agua
 keywords:
 - bautismo de buceo tenerife

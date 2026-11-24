@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Operator''s office, Calle Arfe 3 (Old Town, Seville). Go first to the office at Calle Arfe 3, about a 4-minute walk from the Cathedral, and arrive 10 minutes before your booked time. Sometimes a staff member walks you to the monument entrance; after that you visit at your own pace.'
 - pregunta: 'What is included?'
-  respuesta: 'Seville Cathedral entry; Giralda entry; Downloadable app audio guide (English, Spanish, Italian, French or German).'
+  respuesta: 'The price includes Seville Cathedral entry; Giralda entry; and downloadable app audio guide (English, Spanish, Italian, French or German).'
 opinionEditorial: 'It does the job, but it is expensive for what you get and has a low rating (3.9): several travellers say the audio guide falls short. If you just want to get in, the basic Cathedral and Giralda ticket costs less than half; if you want explanations, a guided tour is better value.'
 atraccionesRelacionadas:
 - catedral-giralda

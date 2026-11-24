@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Bus aller-retour depuis le point le plus proche de votre logement; Ferry aller-retour entre Lanzarote et Fuerteventura; Temps libre à chaque arrêt; Guide multilingue expérimenté.'
+  respuesta: 'Le prix comprend : bus aller-retour depuis le point le plus proche de votre logement, ferry aller-retour entre Lanzarote et Fuerteventura, temps libre à chaque arrêt et guide multilingue expérimenté.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Pièce d''identité ou passeport obligatoire entre les îles; Guide francophone : se renseigner sur les jours; Déconseillé aux personnes à mobilité réduite.'
+  respuesta: 'Pièce d''identité ou passeport obligatoire entre les îles. Guide francophone : se renseigner sur les jours. Déconseillé aux personnes à mobilité réduite.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons.'
+  respuesta: 'Ne sont pas inclus : repas et boissons.'
 categoria: excursionesDia
 keywords:
 - excursion fuerteventura depuis lanzarote

@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'C. Juan Reverón Sierra 4, à Los Cristianos. Arrivez 20 minutes avant pour l''enregistrement.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide professionnel officiel; Kayak, gilet de sauvetage et boîte étanche; Équipement de snorkeling; Photo de groupe au départ; Assurance.'
+  respuesta: 'Le prix comprend : guide professionnel officiel; kayak, gilet de sauvetage et boîte étanche; équipement de snorkeling; photo de groupe au départ; et assurance.'
 categoria: agua
 keywords:
 - kayak los cristianos

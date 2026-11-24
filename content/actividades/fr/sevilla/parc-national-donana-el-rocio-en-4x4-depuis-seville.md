@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Chauffeur-guide professionnel; Prise en charge et retour dans la plupart des hôtels du centre; Transport en 4x4; Excursion en petit groupe.'
+  respuesta: 'Le prix comprend : chauffeur-guide professionnel, prise en charge et retour dans la plupart des hôtels du centre, transport en 4x4 et excursion en petit groupe.'
 categoria: excursionesDia
 keywords:
 - "doñana depuis séville"

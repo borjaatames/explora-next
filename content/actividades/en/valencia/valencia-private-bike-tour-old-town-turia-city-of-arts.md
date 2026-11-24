@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide; Bike and helmet.'
+  respuesta: 'The price includes private guide and bike and helmet.'
 opinionEditorial: Valencia is the perfect bike city, and in three hours you go from the old town to the City of Arts. Private means your own pace.
 atraccionesRelacionadas:
 - centro-historico

@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Indica altezza, peso e numero di scarpe alla prenotazione.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura; Istruttori subacquei PADI; Assicurazione.'
+  respuesta: 'Il prezzo include attrezzatura, istruttori subacquei PADI e assicurazione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 10 anni; Non adatto a donne in gravidanza; Serve un questionario medico; alcune condizioni richiedono un certificato.'
+  respuesta: 'Età minima 10 anni. Non adatto a donne in gravidanza. Serve un questionario medico; alcune condizioni richiedono un certificato.'
 categoria: agua
 keywords:
 - battesimo del sub puerto rico gran canaria

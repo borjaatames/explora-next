@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Buendía Corralejo, Calle La Atalaya 2, Corralejo. Arrange the time with the school on WhatsApp after booking.'
 - pregunta: 'What is included?'
-  respuesta: 'Qualified instructors (FES, FCS, ISA); All equipment; Transfer to the surf spot; Theory and practical lesson; Liability and accident insurance.'
+  respuesta: 'The price includes qualified instructors (FES, FCS, ISA); all equipment; transfer to the surf spot; theory and practical lesson; and liability and accident insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 15; Not suitable for pregnant women; Not suitable for people with heart problems or wheelchair users.'
+  respuesta: 'Not suitable for children under 15. Not suitable for pregnant women. Not suitable for people with heart problems or wheelchair users.'
 categoria: agua
 keywords:
 - beginner surf lesson corralejo

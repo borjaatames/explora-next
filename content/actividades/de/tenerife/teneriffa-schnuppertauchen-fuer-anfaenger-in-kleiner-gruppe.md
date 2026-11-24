@@ -57,9 +57,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Tauchausrüstung; Tauchversicherung; Grundtechniken und Unterwasserkommunikation; Ein Tauchgang von 40 Minuten bis 1 Stunde; Lehrer; Wasser und Kaffee.'
+  respuesta: 'Im Preis inbegriffen: Tauchausrüstung, Tauchversicherung, Grundtechniken und Unterwasserkommunikation, ein Tauchgang von 40 Minuten bis 1 Stunde, Lehrer und Wasser und Kaffee.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestens 2 Personen pro Buchung; Mindestalter 10 Jahre; Nicht für Schwangere oder Menschen mit eingeschränkter Mobilität.'
+  respuesta: 'Mindestens 2 Personen pro Buchung. Mindestalter 10 Jahre. Nicht für Schwangere oder Menschen mit eingeschränkter Mobilität.'
 categoria: agua
 keywords:
 - schnuppertauchen los cristianos

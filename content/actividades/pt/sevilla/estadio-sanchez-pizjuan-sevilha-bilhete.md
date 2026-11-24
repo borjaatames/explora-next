@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Estadio Ramón Sánchez-Pizjuán, entrada pela porta 2 (Puerta 2), bairro de Nervión.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Entrada no museu e no estádio; App de audioguia.'
+  respuesta: 'O preço inclui entrada no museu e no estádio e app de audioguia.'
 categoria: entradas
 guiasRelacionadas:
 - sevilha-com-criancas

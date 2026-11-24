@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'O preço é por pessoa?'
   respuesta: 'Não. O preço é por grupo, não por pessoa.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Mota de água; Colete salva-vidas; Instrutor.'
+  respuesta: 'O preço inclui mota de água, colete salva-vidas e instrutor.'
 categoria: agua
 keywords:
 - mota de agua caleta de fuste

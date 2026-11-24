@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Finca Estrella, Camino Fuente de la Vega 24B, Cruz del Camino (Tacoronte).'
 - pregunta: 'What is included?'
-  respuesta: 'Horse ride; Instructor; Helmet and gloves.'
+  respuesta: 'The price includes horse ride, instructor, and helmet and gloves.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Maximum weight 85 kg; Not suitable for children under 5; Not suitable for pregnant women.'
+  respuesta: 'Maximum weight 85 kg. Not suitable for children under 5. Not suitable for pregnant women.'
 categoria: aventura
 keywords:
 - horse riding tenerife north

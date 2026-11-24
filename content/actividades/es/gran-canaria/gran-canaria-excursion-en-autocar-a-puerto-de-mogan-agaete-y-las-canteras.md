@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía; Autocar con aire acondicionado; Conductor; Recogida en tu hotel o en el punto más cercano; Seguro de responsabilidad civil.'
+  respuesta: 'Incluye guía, autocar con aire acondicionado, conductor, recogida en tu hotel o en el punto más cercano y seguro de responsabilidad civil.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Recogida en Mogán, Taurito, Puerto Rico, Anfi, Patalavaca, Maspalomas, Playa del Inglés, San Agustín y Bahía Feliz; no hay recogida en Las Palmas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Almuerzo.'
+  respuesta: 'No incluye almuerzo.'
 categoria: excursionesDia
 keywords:
 - excursion autocar gran canaria

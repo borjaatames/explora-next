@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Equipamento de mergulho; Seguro; Registo de mergulhos online; Instrutor de mergulho; Recolha e regresso no sul de Gran Canaria; Água.'
+  respuesta: 'O preço inclui equipamento de mergulho, seguro, registo de mergulhos online, instrutor de mergulho, recolha e regresso no sul de Gran Canaria e água.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Idade mínima 8 anos; Não recomendado a grávidas ou pessoas com problemas cardíacos; Não recomendado a pessoas com problemas de costas ou respiratórios, epilepsia, hipertensão ou cirurgia recente.'
+  respuesta: 'Idade mínima 8 anos. Não recomendado a grávidas ou pessoas com problemas cardíacos. Não recomendado a pessoas com problemas de costas ou respiratórios, epilepsia, hipertensão ou cirurgia recente.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Almoço; Fotos subaquáticas.'
+  respuesta: 'O preço não inclui almoço nem fotos subaquáticas.'
 categoria: agua
 keywords:
 - aprender a mergulhar gran canaria

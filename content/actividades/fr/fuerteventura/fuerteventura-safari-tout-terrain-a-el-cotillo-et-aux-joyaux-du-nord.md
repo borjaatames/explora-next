@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Véhicule tout-terrain; Transfert depuis l''hôtel; Guide dans votre langue; Petits groupes; Entrée à la ferme d''aloe vera.'
+  respuesta: 'Le prix comprend : véhicule tout-terrain, transfert depuis l''hôtel, guide dans votre langue, petits groupes et entrée à la ferme d''aloe vera.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Non accessible en fauteuil roulant.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas; Boissons.'
+  respuesta: 'Ne sont pas inclus : repas et boissons.'
 categoria: excursionesDia
 keywords:
 - safari el cotillo

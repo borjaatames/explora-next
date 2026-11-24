@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Abholung im Norden Mallorcas (je nach Option); die Bootsfahrt endet in Port de Pollença. Der Abholort hängt von der Option ab, die du bei der Buchung wählst (mehrere Orte im Norden Mallorcas). Der Minibus fährt zum Aussichtspunkt Es Colomer und zum Strand von Formentor, zurück geht es mit dem Boot nach Port de Pollença.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Panorama-Minibus hin und zurück; Ortskundiger Guide; Stopp am Aussichtspunkt Es Colomer; Boot vom Strand von Formentor nach Port de Pollença; Reiseversicherung.'
+  respuesta: 'Im Preis inbegriffen: Panorama-Minibus hin und zurück, Ortskundiger Guide, Stopp am Aussichtspunkt Es Colomer, Boot vom Strand von Formentor nach Port de Pollença und Reiseversicherung.'
 opinionEditorial: Die einfachste Art, Formentor in der Hochsaison zu sehen, wenn das Autofahren zum Problem wird. Die Bootsfahrt über die Bucht ist das Highlight.
 guiasRelacionadas:
 - was-sehen-auf-mallorca

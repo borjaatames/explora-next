@@ -68,7 +68,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'C. Juan Reverón Sierra 4, Los Cristianos. Arrive 20 minutes early to check in.'
 - pregunta: 'What is included?'
-  respuesta: 'Official professional guide; Kayak, life jacket and waterproof box; Snorkelling gear; Group photo at the start; Insurance.'
+  respuesta: 'The price includes official professional guide; kayak, life jacket and waterproof box; snorkelling gear; group photo at the start; and insurance.'
 categoria: agua
 keywords:
 - kayak los cristianos

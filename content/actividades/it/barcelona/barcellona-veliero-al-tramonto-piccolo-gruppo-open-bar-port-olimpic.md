@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita in barca a vela con skipper; Open bar con bevande alcoliche; Snack a bordo.'
+  respuesta: 'Il prezzo include uscita in barca a vela con skipper, open bar con bevande alcoliche e snack a bordo.'
 categoria: agua
 keywords:
 - "barca a vela barcellona tramonto"

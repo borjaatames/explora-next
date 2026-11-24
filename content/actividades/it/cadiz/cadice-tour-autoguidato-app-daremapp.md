@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Nessun punto d''incontro fisico: attivi il percorso dal tuo telefono con il codice che ricevi dopo l''acquisto, quando e dove vuoi a Cadice.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Accesso al percorso autoguidato di Cadice tramite l''app DareMapp, con un codice di riferimento inviato dopo l''acquisto; Audioguida in 6 lingue (spagnolo, inglese, portoghese, francese, italiano, tedesco); Totale libertà di scegliere il ritmo e le tappe, e di mettere in pausa o riprendere quando vuoi; Disponibilità 24 ore su 24, 365 giorni l''anno, senza data di scadenza; Accesso ai consigli su dove mangiare e sulle attività per famiglie all''interno dell''app.'
+  respuesta: 'Il prezzo include accesso al percorso autoguidato di Cadice tramite l''app DareMapp, con un codice di riferimento inviato dopo l''acquisto; audioguida in 6 lingue (spagnolo, inglese, portoghese, francese, italiano, tedesco); totale libertà di scegliere il ritmo e le tappe, e di mettere in pausa o riprendere quando vuoi; disponibilità 24 ore su 24, 365 giorni l''anno, senza data di scadenza; e accesso ai consigli su dove mangiare e sulle attività per famiglie all''interno dell''app.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno; Adatto a sedie a rotelle e passeggini, perché puoi percorrere l''itinerario al tuo ritmo; il centro storico è quasi pianeggiante e facile da girare a piedi; Gli animali di servizio sono i benvenuti.'
+  respuesta: 'Adatto a tutta la famiglia: età minima 1 anno. Adatto a sedie a rotelle e passeggini, perché puoi percorrere l''itinerario al tuo ritmo; il centro storico è quasi pianeggiante e facile da girare a piedi. Gli animali di servizio sono i benvenuti.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Una guida o un accompagnatore in presenza (è un''esperienza completamente autoguidata e indipendente); Trasporto fino all''inizio del percorso; Biglietti d''ingresso a monumenti o musei lungo il percorso (se previsti).'
+  respuesta: 'Il prezzo non include una guida o un accompagnatore in presenza (è un''esperienza completamente autoguidata e indipendente), trasporto fino all''inizio del percorso né biglietti d''ingresso a monumenti o musei lungo il percorso (se previsti).'
 opinionEditorial: 'Cadice è una città compatta e piacevole da girare a piedi, quindi il formato autoguidato funziona bene: puoi soffermarti in qualsiasi piazza o chiesa senza avere la sensazione di far aspettare un gruppo. Con 2 percorsi e oltre 25 punti copre molto più del semplice centro storico. Ottimo per famiglie o per chi viaggia in autonomia; se vuoi che la storia te la racconti una persona in carne e ossa, non è il prodotto giusto.'
 categoria: toursCiudad
 keywords:

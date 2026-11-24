@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Colón, Pantalán 4, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Skipper and deckhand; Snacks and drinks: beer, soft drinks and water; Snorkelling gear; Sundeck; 3-hour catamaran tour; Swim and snorkel stop.'
+  respuesta: 'The price includes skipper and deckhand; snacks and drinks: beer, soft drinks and water; snorkelling gear; sundeck; 3-hour catamaran tour; and swim and snorkel stop.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not wheelchair accessible.'
 categoria: agua

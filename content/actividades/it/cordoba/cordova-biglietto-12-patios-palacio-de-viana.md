@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Palacio de Viana, plaza de Don Gome 2, Cordova. Nel quartiere di Santa Marina, a circa 20 minuti a piedi dalla Mezquita.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Ingresso ai patios e al giardino.'
+  respuesta: 'Il prezzo include ingresso ai patios e al giardino.'
 opinionEditorial: 'Dodici patios per 9 €: se non vai a Cordova a maggio, è il modo migliore per capire perché i patios sono Patrimonio Immateriale.'
 guiasRelacionadas:
 - cordova-in-un-giorno

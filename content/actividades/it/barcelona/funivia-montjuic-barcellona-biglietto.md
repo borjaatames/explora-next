@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Funivia del Montjuïc, stazione di partenza, Av. de Miramar, Barcellona. Prendi la metro linea 2 o 3 fino a Paral·lel, poi la funicolare del Montjuïc (gratuita con la T-Casual). La stazione di partenza della funivia è in cima alla funicolare; da lì la funivia sale fino al castello del Montjuïc.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Biglietto di andata e ritorno in funivia.'
+  respuesta: 'Il prezzo include biglietto di andata e ritorno in funivia.'
 opinionEditorial: La funivia del Montjuïc regala il miglior panorama di Barcellona, più completo del Tibidabo se vuoi città e mare insieme. Il tragitto di 10 minuti è breve ma memorabile, soprattutto al tramonto.
 guiasRelacionadas:
 - barcellona-in-3-giorni

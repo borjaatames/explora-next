@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transport to the beach; Soft-top or epoxy surfboard; Billabong wetsuit; Experienced instructor with lifeguard licence.'
+  respuesta: 'The price includes transport to the beach, soft-top or epoxy surfboard, billabong wetsuit, and experienced instructor with lifeguard licence.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The beach changes with wind, tide and weather; Send your hotel, mobile number, height and weight after booking; Minimum age 13.'
+  respuesta: 'The beach changes with wind, tide and weather. Send your hotel, mobile number, height and weight after booking. Minimum age 13.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: agua
 keywords:
 - surf lesson fuerteventura south

@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Arrivez 30 minutes avant.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Jet-ski pour une ou deux personnes (selon l''option); Explications pas à pas; Bateau d''assistance et guide; Pause baignade; Casiers gratuits et gilet de sauvetage.'
+  respuesta: 'Le prix comprend : jet-ski pour une ou deux personnes (selon l''option), explications pas à pas, bateau d''assistance et guide, pause baignade et casiers gratuits et gilet de sauvetage.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Conduite seul dès 16 ans, avec passager dès 18 ans; Charge maximale d''environ 160 kg par jet-ski; Déconseillé aux moins de 6 ans et aux femmes enceintes.'
+  respuesta: 'Conduite seul dès 16 ans, avec passager dès 18 ans. Charge maximale d''environ 160 kg par jet-ski. Déconseillé aux moins de 6 ans et aux femmes enceintes.'
 categoria: agua
 keywords:
 - jet ski tenerife

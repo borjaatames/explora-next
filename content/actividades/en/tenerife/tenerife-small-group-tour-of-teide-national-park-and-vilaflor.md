@@ -46,11 +46,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Transfer and pick-up in the south in a minibus for up to 8; Walking poles in the national park; Child seats available.'
+  respuesta: 'The price includes transfer and pick-up in the south in a minibus for up to 8, walking poles in the national park, and child seats available.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink (you can bring your own); Cable car tickets.'
+  respuesta: 'The price does not include food and drink (you can bring your own) or cable car tickets.'
 - pregunta: 'How long does it last?'
-  respuesta: '5 hours.'
+  respuesta: 'It lasts 5 hours.'
 categoria: excursionesDia
 keywords:
 - teide small group tour

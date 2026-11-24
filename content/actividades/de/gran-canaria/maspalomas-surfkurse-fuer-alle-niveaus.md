@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Surfbrett; Neoprenanzug; Wasser und Obst; Unfall- und Haftpflichtversicherung.'
+  respuesta: 'Im Preis inbegriffen: Surfbrett, Neoprenanzug, Wasser und Obst und Unfall- und Haftpflichtversicherung.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abholung vom Hotel; Transport.'
+  respuesta: 'Nicht inbegriffen: Abholung vom Hotel und Transport.'
 categoria: agua
 keywords:
 - surfkurs maspalomas

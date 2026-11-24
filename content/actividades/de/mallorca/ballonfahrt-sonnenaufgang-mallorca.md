@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: '1 Stunde Ballonfahrt; Glas Cava; Fotos und Videos vom Flug; Flugzertifikat; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: 1 Stunde Ballonfahrt, Glas Cava, Fotos und Videos vom Flug, Flugzertifikat und Versicherung.'
 categoria: aventura
 guiasRelacionadas:
 - was-sehen-auf-mallorca

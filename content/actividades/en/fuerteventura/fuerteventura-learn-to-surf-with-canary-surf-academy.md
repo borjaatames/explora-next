@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up from your hotel or apartment (check availability); Wetsuit, board and leash; Surf lesson with a qualified instructor; Insurance.'
+  respuesta: 'The price includes pick-up from your hotel or apartment (check availability); wetsuit, board and leash; surf lesson with a qualified instructor; and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 6; Not suitable for pregnant women; Must be able to swim.'
+  respuesta: 'Not suitable for children under 6. Not suitable for pregnant women. Must be able to swim.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Pick-up in Costa Calma, Morro Jable and the south (you can meet at the beach).'
+  respuesta: 'The price does not include food and drinks; or pick-up in Costa Calma, Morro Jable and the south (you can meet at the beach).'
 categoria: agua
 keywords:
 - canary surf academy

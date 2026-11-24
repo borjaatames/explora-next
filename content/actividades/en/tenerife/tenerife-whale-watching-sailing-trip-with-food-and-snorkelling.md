@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Roulette Charters, Av. de Colón 23A, Puerto Colón (Costa Adeje).'
 - pregunta: 'What is included?'
-  respuesta: 'Sailing trip with guide; Whale watching; Drinks: water, wine, cava, beer and soft drinks; Snacks; Snorkelling gear.'
+  respuesta: 'The price includes sailing trip with guide; whale watching; drinks: water, wine, cava, beer and soft drinks; snacks; and snorkelling gear.'
 - pregunta: 'What is not included?'
-  respuesta: 'Hotel pick-up and drop-off.'
+  respuesta: 'The price does not include hotel pick-up and drop-off.'
 categoria: agua
 keywords:
 - sailing tenerife whales

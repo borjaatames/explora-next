@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual è la politica di cancellazione?'
   respuesta: 'Cancellazione gratuita fino a 24 ore prima, con rimborso completo.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida locale; Pranzo di tapas; Bevande (vino o birra).'
+  respuesta: 'Il prezzo include guida locale, pranzo di tapas e bevande (vino o birra).'
 categoria: toursGastronomicos
 keywords:
 - "tapas valencia"

@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à l''hôtel; Autocar climatisé; Guide; Entrées aux Jameos del Agua et à la Cueva de los Verdes; Musée de l''Aloe Vera; Assurance voyage.'
+  respuesta: 'Le prix comprend : prise en charge et retour à l''hôtel, autocar climatisé, guide, entrées aux Jameos del Agua et à la Cueva de los Verdes, musée de l''Aloe Vera et assurance voyage.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux personnes à mobilité réduite.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Déjeuner.'
+  respuesta: 'Ne sont pas inclus : déjeuner.'
 categoria: excursionesDia
 keywords:
 - excursion jameos del agua cueva de los verdes

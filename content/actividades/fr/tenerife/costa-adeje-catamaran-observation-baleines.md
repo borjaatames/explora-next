@@ -70,7 +70,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón ou port de Los Cristianos, Costa Adeje, Tenerife. Costa Adeje est la principale zone touristique du sud de Tenerife. Le port de départ exact (Puerto Colón à Las Américas ou Los Cristianos) est confirmé sur votre bon. Les deux ports sont bien desservis par les bus locaux depuis les stations du sud.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en catamaran de 3 heures; Observation des baleines et des dauphins; Arrêt baignade (si les conditions le permettent).'
+  respuesta: 'Le prix comprend : sortie en catamaran de 3 heures, observation des baleines et des dauphins et arrêt baignade (si les conditions le permettent).'
 opinionEditorial: L'option du sud de Tenerife pour observer les cétacés. Pratique si vous logez à Los Cristianos ou à Las Américas, avec le même excellent taux d'observation des globicéphales que l'itinéraire de Los Gigantes.
 guiasRelacionadas:
 - observation-des-baleines-a-tenerife

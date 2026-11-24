@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso al hotel; Ferry de ida y vuelta a La Graciosa; Paseo en catamarán; Copa de cava, cerveza, vino y refrescos ilimitados; Aperitivos y almuerzo (pasta); Kayaks y equipo de esnórquel.'
+  respuesta: 'Incluye recogida y regreso al hotel; ferry de ida y vuelta a La Graciosa; paseo en catamarán; copa de cava, cerveza, vino y refrescos ilimitados; aperitivos y almuerzo (pasta); y kayaks y equipo de esnórquel.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'El operador confirma hora y lugar de recogida tras la reserva; A bordo del catamarán se va descalzo; No accesible en silla de ruedas.'
+  respuesta: 'El operador confirma hora y lugar de recogida tras la reserva. A bordo del catamarán se va descalzo. No accesible en silla de ruedas.'
 categoria: agua
 keywords:
 - la graciosa catamaran

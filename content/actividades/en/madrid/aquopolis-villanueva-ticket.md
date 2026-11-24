@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Aquópolis Villanueva de la Cañada, Ctra. de Daganzo, Villanueva de la Cañada, Madrid. Villanueva de la Cañada is about 30 km northwest of Madrid. There are buses from Moncloa bus station. By car, take the A-6 towards La Coruña and exit at Villanueva de la Cañada.'
 - pregunta: 'What is included?'
-  respuesta: 'Full-day entry to Aquópolis Villanueva.'
+  respuesta: 'The price includes full-day entry to Aquópolis Villanueva.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The park is only open in summer (June to September); confirm dates before booking; Sunbeds cost extra — bring a towel or arrive early; Can get very crowded on weekends in July and August.'
+  respuesta: 'The park is only open in summer (June to September); confirm dates before booking. Sunbeds cost extra — bring a towel or arrive early. Can get very crowded on weekends in July and August.'
 opinionEditorial: The best waterpark option for visitors staying in Madrid. The Villanueva park is the largest and best maintained of the Aquópolis chain in the Madrid region.
 guiasRelacionadas:
 - madrid-with-kids

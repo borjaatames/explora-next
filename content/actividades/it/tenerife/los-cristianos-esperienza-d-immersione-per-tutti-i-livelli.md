@@ -58,9 +58,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Barbarian Diving Tenerife, Avenida Juan Carlos I 24, Edificio Achacay, Los Cristianos.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Istruttore; Spiegazioni e allenamento; Muta, maschera e pinne; Bombola, erogatore e jacket; Computer subacqueo e pedagno; Immersione.'
+  respuesta: 'Il prezzo include istruttore; spiegazioni e allenamento; muta, maschera e pinne; bombola, erogatore e jacket; computer subacqueo e pedagno; e immersione.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Età minima 12 anni; Non volare nelle 12-24 ore successive all''immersione; Serve un questionario medico; alcune condizioni richiedono un certificato.'
+  respuesta: 'Età minima 12 anni. Non volare nelle 12-24 ore successive all''immersione. Serve un questionario medico; alcune condizioni richiedono un certificato.'
 categoria: agua
 keywords:
 - immersioni los cristianos

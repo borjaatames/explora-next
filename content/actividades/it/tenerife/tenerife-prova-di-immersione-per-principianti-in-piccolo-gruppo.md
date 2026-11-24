@@ -57,9 +57,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Ocean Dreams Tenerife, Calle El Coronel 8, Los Cristianos.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Attrezzatura subacquea; Assicurazione subacquea; Tecniche di base e comunicazione subacquea; Un''immersione da 40 minuti a 1 ora; Istruttore; Acqua e caffè.'
+  respuesta: 'Il prezzo include attrezzatura subacquea, assicurazione subacquea, tecniche di base e comunicazione subacquea, un''immersione da 40 minuti a 1 ora, istruttore e acqua e caffè.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Minimo 2 persone per prenotazione; Età minima 10 anni; Non adatto a donne in gravidanza o persone con mobilità ridotta.'
+  respuesta: 'Minimo 2 persone per prenotazione. Età minima 10 anni. Non adatto a donne in gravidanza o persone con mobilità ridotta.'
 categoria: agua
 keywords:
 - prova immersione los cristianos

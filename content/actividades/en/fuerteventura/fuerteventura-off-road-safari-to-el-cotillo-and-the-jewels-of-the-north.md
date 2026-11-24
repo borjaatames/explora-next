@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Off-road vehicle; Hotel transfer; Guide in your language; Small groups; Entry to the aloe vera farm.'
+  respuesta: 'The price includes off-road vehicle, hotel transfer, guide in your language, small groups, and entry to the aloe vera farm.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not wheelchair accessible.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food; Drinks.'
+  respuesta: 'The price does not include food or drinks.'
 categoria: excursionesDia
 keywords:
 - el cotillo safari

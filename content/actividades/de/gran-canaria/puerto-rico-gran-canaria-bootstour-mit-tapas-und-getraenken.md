@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung von ausgewählten Hotels im Süden; Bootstour mit Kapitän/Guide; Snacks und Getränke; Schnorcheln; Paddleboard.'
+  respuesta: 'Im Preis inbegriffen: Abholung von ausgewählten Hotels im Süden, Bootstour mit Kapitän/Guide, Snacks und Getränke, Schnorcheln und Paddleboard.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Abhängig von See- und Wetterbedingungen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Parasailing, E-Foil und Jetski (gegen Gebühr).'
+  respuesta: 'Nicht inbegriffen: Parasailing, E-Foil und Jetski (gegen Gebühr).'
 categoria: agua
 keywords:
 - bootstour puerto rico gran canaria

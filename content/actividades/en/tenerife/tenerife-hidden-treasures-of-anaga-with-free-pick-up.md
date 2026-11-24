@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Walking poles; Insurance; Scenic drive to Anaga Rural Park; Guide; Transfer.'
+  respuesta: 'The price includes walking poles, insurance, scenic drive to Anaga Rural Park, guide, and transfer.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Choose between a private relaxed tour and a small-group hike; Flexible times suit cruise passengers docking in Santa Cruz.'
+  respuesta: 'Choose between a private relaxed tour and a small-group hike. Flexible times suit cruise passengers docking in Santa Cruz.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: aventura
 keywords:
 - anaga tour

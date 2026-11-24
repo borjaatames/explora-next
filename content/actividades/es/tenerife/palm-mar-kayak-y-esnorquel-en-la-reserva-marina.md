@@ -62,9 +62,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Easy Kayak Tenerife, Avenida El Palm-Mar 94, Palm-Mar.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Kayaks dobles autovaciables estables y palas; Chaleco salvavidas; Equipo de esnórquel; Bolsa estanca; Guía local; Agua y tentempiés.'
+  respuesta: 'Incluye kayaks dobles autovaciables estables y palas, chaleco salvavidas, equipo de esnórquel, bolsa estanca, guía local y agua y tentempiés.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 6 años ni embarazadas; Máximo 100 kg.'
+  respuesta: 'No apto para menores de 6 años ni embarazadas. Máximo 100 kg.'
 categoria: agua
 keywords:
 - kayak palm mar

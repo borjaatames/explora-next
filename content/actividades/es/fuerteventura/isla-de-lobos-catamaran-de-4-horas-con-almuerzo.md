@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Barco Celia Cruz, puerto de Corralejo (Calle Arena 9).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Paseo en catamarán con guía; Almuerzo; Bebida ilimitada; Equipo de esnórquel; Tabla de paddle surf y flotadores; Desembarco en la isla de Lobos.'
+  respuesta: 'Incluye paseo en catamarán con guía, almuerzo, bebida ilimitada, equipo de esnórquel, tabla de paddle surf y flotadores y Desembarco en la isla de Lobos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'Recogida disponible en el norte de la isla si eliges esa opción.'
 categoria: agua

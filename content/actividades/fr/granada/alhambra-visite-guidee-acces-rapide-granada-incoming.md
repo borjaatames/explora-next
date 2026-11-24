@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Selon l''option, à l''entrée de l''Alhambra ; le point exact figure dans la réservation.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet général accès rapide; Palais nasrides; Guide officiel local; Écouteurs.'
+  respuesta: 'Le prix comprend : billet général accès rapide, palais nasrides, guide officiel local et écouteurs.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alhambra-billets-complets

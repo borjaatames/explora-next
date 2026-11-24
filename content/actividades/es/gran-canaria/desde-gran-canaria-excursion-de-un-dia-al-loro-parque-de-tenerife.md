@@ -44,13 +44,13 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso en hoteles del sur de Gran Canaria; Barco de Agaete a Santa Cruz de Tenerife; Autocar de Santa Cruz al Loro Parque; Entrada al Loro Parque.'
+  respuesta: 'Incluye recogida y regreso en hoteles del sur de Gran Canaria, barco de Agaete a Santa Cruz de Tenerife, autocar de Santa Cruz al Loro Parque y entrada al Loro Parque.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Lleva tu DNI o pasaporte: sin él no puedes viajar; No apto para personas con movilidad reducida.'
+  respuesta: 'Lleva tu DNI o pasaporte: sin él no puedes viajar. No apto para personas con movilidad reducida.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebida.'
+  respuesta: 'No incluye comida y bebida.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '12 horas.'
+  respuesta: 'Dura 12 horas.'
 categoria: parques
 keywords:
 - loro parque desde gran canaria

@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón, en haut du ponton près du panneau « Pantalán Nº4 », 15 minutes avant le départ.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en voilier; Prise en charge et retour à l''hôtel; Briefing de sécurité; Équipement de snorkeling; Boissons : cava, bière, sodas et eau; Baguettes, fruits, chips et fruits secs.'
+  respuesta: 'Le prix comprend : sortie en voilier; prise en charge et retour à l''hôtel; briefing de sécurité; équipement de snorkeling; boissons : cava, bière, sodas et eau; et baguettes, fruits, chips et fruits secs.'
 categoria: agua
 keywords:
 - voilier baleines tenerife

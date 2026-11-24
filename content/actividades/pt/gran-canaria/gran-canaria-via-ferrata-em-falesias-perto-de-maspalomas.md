@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Parque de estacionamento da Yukan Activity, Bahía Feliz.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Guia; Arnês, capacete e kit de via ferrata; Lanterna frontal; Lanche; Fotos; Seguro.'
+  respuesta: 'O preço inclui guia; arnês, capacete e kit de via ferrata; lanterna frontal; lanche; fotos; e seguro.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Dos 14 aos 60 anos, até 100 kg e pelo menos 145 cm; Não recomendado a quem tem vertigens ou medo das alturas.'
+  respuesta: 'Dos 14 aos 60 anos, até 100 kg e pelo menos 145 cm. Não recomendado a quem tem vertigens ou medo das alturas.'
 categoria: aventura
 keywords:
 - via ferrata gran canaria

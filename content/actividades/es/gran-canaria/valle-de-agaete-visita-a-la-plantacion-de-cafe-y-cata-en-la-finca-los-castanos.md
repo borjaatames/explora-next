@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Finca Los Castaños, Agaete. Las visitas empiezan de forma continua según llegan los visitantes; aparcamiento gratis.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Visita guiada a una plantación de café; Explicación del proceso del café; Cata de café; Acceso a la tienda de productos locales.'
+  respuesta: 'Incluye visita guiada a una plantación de café, explicación del proceso del café, cata de café y acceso a la tienda de productos locales.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No accesible en silla de ruedas; Actividad al aire libre: lleva calzado cómodo.'
+  respuesta: 'No accesible en silla de ruedas. Actividad al aire libre: lleva calzado cómodo.'
 categoria: excursionesDia
 keywords:
 - cafe de agaete visita

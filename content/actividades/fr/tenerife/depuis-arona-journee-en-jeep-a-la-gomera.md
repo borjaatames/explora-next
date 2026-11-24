@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Parking gratuit du centre commercial X-Sur, Calle Lisboa 2, Costa Adeje, à 8 h 20.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Chauffeur; Traversée en ferry; Déjeuner.'
+  respuesta: 'Le prix comprend : chauffeur, traversée en ferry et déjeuner.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Apportez votre pièce d''identité ou passeport original pour le ferry.'
 categoria: excursionesDia

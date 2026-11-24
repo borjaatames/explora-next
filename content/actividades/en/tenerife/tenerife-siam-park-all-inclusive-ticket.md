@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Siam Park main entrance, Avenida Siam, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Siam Park entry; Lunch with drinks; Towels; Locker; All-inclusive wristband (food and drink at all outlets except the tea house).'
+  respuesta: 'The price includes Siam Park entry, lunch with drinks, towels, locker, and all-inclusive wristband (food and drink at all outlets except the tea house).'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Even with priority access there can be queues in high season; Weight limits apply on some slides.'
+  respuesta: 'Even with priority access there can be queues in high season. Weight limits apply on some slides.'
 categoria: parques
 keywords:
 - siam park all inclusive

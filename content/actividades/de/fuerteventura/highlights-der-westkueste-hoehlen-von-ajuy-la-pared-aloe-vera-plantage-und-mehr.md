@@ -44,11 +44,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer direkt am Hotel; Klimatisierter Minibus; Deutschsprachiger Guide; Führung durch die Aloe-vera-Plantage mit lokalem Personal; Wasser unterwegs.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer direkt am Hotel, klimatisierter Minibus, deutschsprachiger Guide, Führung durch die Aloe-vera-Plantage mit lokalem Personal und Wasser unterwegs.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht rollstuhlgerecht; Abholung nur in bestimmten Orten im Süden wie Costa Calma und Morro Jable; Mindestens 2 Teilnehmer.'
+  respuesta: 'Nicht rollstuhlgerecht. Abholung nur in bestimmten Orten im Süden wie Costa Calma und Morro Jable. Mindestens 2 Teilnehmer.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '6 Std. 30 Min.'
+  respuesta: 'Die Dauer beträgt 6 Std. 30 Min.'
 categoria: excursionesDia
 keywords:
 - westküste fuerteventura ausflug

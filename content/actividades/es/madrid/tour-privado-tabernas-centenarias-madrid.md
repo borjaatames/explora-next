@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Centro de Madrid (el guía te confirma el punto exacto tras la reserva) o recogida en tu hotel.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado; 2 consumiciones y 2 tapas por persona (en la primera y la última taberna).'
+  respuesta: 'Incluye guía privado y 2 consumiciones y 2 tapas por persona (en la primera y la última taberna).'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Precio por persona con un mínimo de 2 personas por reserva; La ruta puede variar y no siempre se entra en todos los locales; Edad mínima 12 años.'
+  respuesta: 'Precio por persona con un mínimo de 2 personas por reserva. La ruta puede variar y no siempre se entra en todos los locales. Edad mínima 12 años.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Transporte.'
+  respuesta: 'No incluye transporte.'
 opinionEditorial: 'Es más un paseo de historia que un tour gastronómico: se come poco (2 tapas) y se cuenta mucho. Si buscáis cenar, mejor un tour de tapas con cena; si os interesa la historia de Madrid a través de sus bares, este es diferente a todo lo demás. Mínimo 2 personas por reserva.'
 atraccionesRelacionadas:
 - tapas-madrid

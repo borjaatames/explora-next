@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bergführer mit AEGM/UIMLA-Zertifikat; Abholung und Rücktransfer; Canyoning-Ausrüstung; Erinnerungsfoto.'
+  respuesta: 'Im Preis inbegriffen: Bergführer mit AEGM/UIMLA-Zertifikat, Abholung und Rücktransfer, Canyoning-Ausrüstung und Erinnerungsfoto.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Rund 2 km steiler Fußweg zur Schlucht: gute Kondition und feste, wasserfeste Schuhe nötig; Nicht für unter 12, über 80, Schwangere oder Menschen mit Höhenangst.'
+  respuesta: 'Rund 2 km steiler Fußweg zur Schlucht: gute Kondition und feste, wasserfeste Schuhe nötig. Nicht für unter 12, über 80, Schwangere oder Menschen mit Höhenangst.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke; Wasserfeste Schuhe.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke und wasserfeste Schuhe.'
 categoria: aventura
 keywords:
 - canyoning gran canaria

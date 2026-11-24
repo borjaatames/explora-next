@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle Espigón del Benchijigua 11A, puerto de Los Cristianos.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vuelo de parasailing de 10 minutos; Bebidas; Patrón con experiencia; Paseo en barco; Seguro; Equipo de seguridad.'
+  respuesta: 'Incluye vuelo de parasailing de 10 minutos, bebidas, patrón con experiencia, paseo en barco, seguro y equipo de seguridad.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para personas con vértigo o que se mareen en el mar.'
 categoria: agua

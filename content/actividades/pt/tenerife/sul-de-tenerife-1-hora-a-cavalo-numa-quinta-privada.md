@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Passeio guiado por instrutores profissionais; Todo o equipamento; Passeios de pónei em pista fechada para menores de 7 anos.'
+  respuesta: 'O preço inclui passeio guiado por instrutores profissionais, todo o equipamento e passeios de pónei em pista fechada para menores de 7 anos.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Não recomendado a grávidas; Máximo de 10 pessoas por passeio.'
+  respuesta: 'Não recomendado a grávidas. Máximo de 10 pessoas por passeio.'
 categoria: aventura
 keywords:
 - passeio a cavalo sul de tenerife

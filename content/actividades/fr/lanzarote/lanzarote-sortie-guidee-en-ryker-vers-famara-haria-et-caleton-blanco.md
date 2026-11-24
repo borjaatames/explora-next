@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en Ryker; Guide; Casque; Lunettes coupe-vent; Coupe-vent.'
+  respuesta: 'Le prix comprend : sortie en Ryker, guide, casque, lunettes coupe-vent et coupe-vent.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux moins de 10 ans et aux femmes enceintes.'
 categoria: aventura

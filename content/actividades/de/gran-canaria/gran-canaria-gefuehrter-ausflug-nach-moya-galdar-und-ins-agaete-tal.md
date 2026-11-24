@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Hotelabholung; Bustransport; Lokaler Guide; Eintritt, Besuch und Verkostung im Weingut Los Berrazales; Reiseversicherung; Lokale Tipps.'
+  respuesta: 'Im Preis inbegriffen: Hotelabholung; Bustransport; lokaler Guide; Eintritt, Besuch und Verkostung im Weingut Los Berrazales; Reiseversicherung; und lokale Tipps.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Menschen mit Reiseübelkeit oder eingeschränkter Mobilität.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: excursionesDia
 keywords:
 - agaete tal ausflug

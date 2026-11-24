@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Plaza de la Cebada, La Latina, Madrid.'
 - pregunta: 'What is included?'
-  respuesta: 'Food; Drinks; Private guide; Support from a travel agent.'
+  respuesta: 'The price includes food, drinks, private guide, and support from a travel agent.'
 atraccionesRelacionadas:
 - tapas-madrid
 categoria: toursGastronomicos

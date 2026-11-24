@@ -63,9 +63,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'C. el Coronel 8, Los Cristianos.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide professionnel; Kayak et pagaie; Gilet de sauvetage; Équipement de snorkeling; Photos offertes.'
+  respuesta: 'Le prix comprend : guide professionnel, kayak et pagaie, gilet de sauvetage, équipement de snorkeling et photos offertes.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les sorties se font surtout en anglais ; les autres langues dépendent du personnel disponible; Il faut savoir nager.'
+  respuesta: 'Les sorties se font surtout en anglais ; les autres langues dépendent du personnel disponible. Il faut savoir nager.'
 categoria: agua
 keywords:
 - kayak los cristianos

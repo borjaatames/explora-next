@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Playa Medio Almud car park, GC-500, Mogán.'
 - pregunta: 'What is included?'
-  respuesta: 'Guide in English and Spanish; Photos; Harness and helmet; Wetsuit and life jacket; Picnic (cereal bar and isotonic drink); Insurance.'
+  respuesta: 'The price includes guide in English and Spanish, photos, harness and helmet, wetsuit and life jacket, picnic (cereal bar and isotonic drink), and insurance.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Minimum age 8; Not suitable during pregnancy.'
+  respuesta: 'Minimum age 8. Not suitable during pregnancy.'
 categoria: aventura
 keywords:
 - coasteering mogan

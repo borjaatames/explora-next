@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Parking de l''activité Yukan, Bahía Feliz.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide; Baudrier, casque et kit de via ferrata; Lampe frontale; En-cas; Photos; Assurance.'
+  respuesta: 'Le prix comprend : guide; baudrier, casque et kit de via ferrata; lampe frontale; en-cas; photos; et assurance.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'De 14 à 60 ans, jusqu''à 100 kg et au moins 145 cm; Déconseillé en cas de vertige ou de peur du vide.'
+  respuesta: 'De 14 à 60 ans, jusqu''à 100 kg et au moins 145 cm. Déconseillé en cas de vertige ou de peur du vide.'
 categoria: aventura
 keywords:
 - via ferrata grande canarie

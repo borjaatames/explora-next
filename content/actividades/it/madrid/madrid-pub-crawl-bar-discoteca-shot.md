@@ -64,11 +64,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Enbabia Infuse Bar, Calle de Núñez de Arce 9, 28012 Madrid, Spagna.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uno shot gratuito in ciascuno dei 4 locali (3 bar/pub e 1 discoteca); Mance incluse nel prezzo; Ingresso a tutti e 4 i locali del percorso.'
+  respuesta: 'Il prezzo include uno shot gratuito in ciascuno dei 4 locali (3 bar/pub e 1 discoteca), mance incluse nel prezzo e ingresso a tutti e 4 i locali del percorso.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Solo maggiorenni, dai 18 anni; Non adatto a sedie a rotelle o passeggini, e non sono ammessi animali; Sconsigliato a chi ha problemi alla schiena o cardiaci, o in gravidanza.'
+  respuesta: 'Solo maggiorenni, dai 18 anni. Non adatto a sedie a rotelle o passeggini, e non sono ammessi animali. Sconsigliato a chi ha problemi alla schiena o cardiaci, o in gravidanza.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Trasporto; Cibo e bevande oltre agli shot inclusi.'
+  respuesta: 'Il prezzo non include trasporto né cibo e bevande oltre agli shot inclusi.'
 opinionEditorial: 'Rispetto all''altro nostro pub crawl a Madrid, questa è l''opzione più flessibile: cancellazione gratuita fino a 24 ore prima e guida in sei lingue, una buona scelta per gruppi internazionali. Ha un locale in meno (4 invece di 5) e il dress code è più severo: niente abbigliamento sportivo, e niente sandali né pantaloncini per i ragazzi.'
 atraccionesRelacionadas:
 - otros-madrid

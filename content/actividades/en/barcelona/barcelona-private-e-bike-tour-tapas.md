@@ -54,7 +54,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Licensed guide; E-bike and helmet; Tapas tasting.'
+  respuesta: 'The price includes licensed guide, e-bike and helmet, and tapas tasting.'
 opinionEditorial: An e-bike covers in a morning what would take a day on foot, and going private means stopping wherever you like. The tapas make a great finish.
 atraccionesRelacionadas:
 - gotico

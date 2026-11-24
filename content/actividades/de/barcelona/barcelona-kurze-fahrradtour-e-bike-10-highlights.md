@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Rad oder E-Bike (je nach Option); Lokaler Guide; Helm; Kindersitze auf Anfrage; Gepäckaufbewahrung; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Rad oder E-Bike (je nach Option), lokaler Guide, Helm, Kindersitze auf Anfrage, Gepäckaufbewahrung und Versicherung.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-in-einem-tag

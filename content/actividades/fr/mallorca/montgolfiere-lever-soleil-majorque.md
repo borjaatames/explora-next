@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: '1 h de vol en montgolfière; Coupe de cava; Photos et vidéos du vol; Certificat de vol; Assurance.'
+  respuesta: 'Le prix comprend : 1 h de vol en montgolfière, coupe de cava, photos et vidéos du vol, certificat de vol et assurance.'
 categoria: aventura
 guiasRelacionadas:
 - que-voir-a-majorque

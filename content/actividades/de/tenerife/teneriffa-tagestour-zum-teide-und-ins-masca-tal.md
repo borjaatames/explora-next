@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ganztagestour Teide und Masca ab dem Süden Teneriffas; Klimatisiertes Fahrzeug und einheimischer Guide.'
+  respuesta: 'Im Preis inbegriffen: Ganztagestour Teide und Masca ab dem Süden Teneriffas und Klimatisiertes Fahrzeug und einheimischer Guide.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Im Norden Abholung nur in Puerto de la Cruz; Costa del Silencio und Las Galletas nur dienstags und donnerstags; Im Winter eine warme Jacke mitnehmen.'
+  respuesta: 'Im Norden Abholung nur in Puerto de la Cruz. Costa del Silencio und Las Galletas nur dienstags und donnerstags. Im Winter eine warme Jacke mitnehmen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Trinkgeld; Essen und Getränke; Abholung in Santa Cruz, La Laguna, Abades, Palm-Mar, ländlichen Dörfern und von Kreuzfahrtschiffen.'
+  respuesta: 'Nicht inbegriffen: Trinkgeld; Essen und Getränke; und Abholung in Santa Cruz, La Laguna, Abades, Palm-Mar, ländlichen Dörfern und von Kreuzfahrtschiffen.'
 categoria: excursionesDia
 keywords:
 - teide und masca tour

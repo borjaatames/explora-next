@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Cable car base station, Av. de Tívoli, Arroyo de la Miel (Benalmádena). Next to Tívoli World. C1 commuter train to Benalmádena-Arroyo de la Miel, then a 10-minute walk.'
 - pregunta: 'What is included?'
-  respuesta: 'Cable car ticket.'
+  respuesta: 'The price includes cable car ticket.'
 opinionEditorial: The best view of the Costa del Sol for under €20. Go in the morning, when there is less haze, and if you like walking, hike down one of the trails.
 guiasRelacionadas:
 - malaga-with-kids

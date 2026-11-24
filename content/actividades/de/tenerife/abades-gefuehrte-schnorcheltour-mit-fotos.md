@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Vor dem Restaurant Magilu, Av. Ocira 27, Abades.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Schnorcheltour mit Guide; Schnorchelausrüstung; Langer oder kurzer Neoprenanzug; Fotos und Videos.'
+  respuesta: 'Im Preis inbegriffen: Schnorcheltour mit Guide, Schnorchelausrüstung, langer oder kurzer Neoprenanzug und Fotos und Videos.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nichtschwimmer sehen Fische, aber nicht die Schildkröten, für die man weit schwimmen muss; Brillen können nicht unter der Maske getragen werden; Nicht für Kinder unter 5 oder bei Erkältung.'
+  respuesta: 'Nichtschwimmer sehen Fische, aber nicht die Schildkröten, für die man weit schwimmen muss. Brillen können nicht unter der Maske getragen werden. Nicht für Kinder unter 5 oder bei Erkältung.'
 categoria: agua
 keywords:
 - schnorcheln abades

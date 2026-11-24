@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta guiada en buggy por carretera de 3 horas; Guía profesional; Charla de seguridad; Chaqueta térmica y guantes; Paradas en miradores; Tentempié y bebida en la última parada.'
+  respuesta: 'Incluye ruta guiada en buggy por carretera de 3 horas, guía profesional, charla de seguridad, chaqueta térmica y guantes, paradas en miradores y tentempié y bebida en la última parada.'
 categoria: aventura
 keywords:
 - buggy teide atardecer

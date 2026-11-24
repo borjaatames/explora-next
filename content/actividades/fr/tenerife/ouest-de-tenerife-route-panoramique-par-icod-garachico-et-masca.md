@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Van climatisé; Petit groupe (8 maximum); En-cas; Entrée au parc du Drago Milenario; Temps libre à Icod, Garachico et Masca; Arrêts panoramiques.'
+  respuesta: 'Le prix comprend : van climatisé; petit groupe (8 maximum); en-cas; entrée au parc du Drago Milenario; temps libre à Icod, Garachico et Masca; et arrêts panoramiques.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Baignade à Garachico seulement si la mer le permet; L''heure exacte de prise en charge est confirmée la veille; Déconseillé en cas de mal des transports.'
+  respuesta: 'Baignade à Garachico seulement si la mer le permet. L''heure exacte de prise en charge est confirmée la veille. Déconseillé en cas de mal des transports.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas ou boissons supplémentaires.'
+  respuesta: 'Ne sont pas inclus : repas ou boissons supplémentaires.'
 categoria: excursionesDia
 keywords:
 - excursion masca garachico

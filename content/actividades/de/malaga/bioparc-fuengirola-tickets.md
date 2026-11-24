@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Mit der Cercanías C1 ab Málaga bis Fuengirola (Endstation) und 10 Minuten zu Fuß.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Eintritt in den Bioparc Fuengirola.'
+  respuesta: 'Im Preis inbegriffen: Eintritt in den Bioparc Fuengirola.'
 opinionEditorial: Ein moderner Zoo, der auf Artenschutz und Lebensräume statt auf Käfige setzt. Für einen Vormittag mit Kindern an der Costa del Sol gehört er zum Besten, was es gibt.
 guiasRelacionadas:
 - malaga-mit-kindern

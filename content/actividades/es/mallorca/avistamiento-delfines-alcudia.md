@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Alcudiamar (aparcamiento del puerto deportivo), Alcúdia. Salida desde el puerto deportivo Alcudiamar, en Alcúdia. Hay opción con recogida y regreso al hotel: si la eliges, la hora viene en el bono.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Barco semiprivado con capitán (máximo 12 personas); Combustible y tasas; Mínimo de 30 minutos con los delfines; Recorrido por la costa, acantilados y cuevas; Baño en la playa de Coll Baix; Recogida y regreso al hotel (si se elige esa opción).'
+  respuesta: 'Incluye barco semiprivado con capitán (máximo 12 personas); combustible y tasas; mínimo de 30 minutos con los delfines; recorrido por la costa, acantilados y cuevas; baño en la playa de Coll Baix; y recogida y regreso al hotel (si se elige esa opción).'
 opinionEditorial: Es la actividad con delfines mejor valorada de Mallorca, con miles de opiniones, y con grupos pequeños. Merece el madrugón.
 guiasRelacionadas:
 - mallorca-con-ninos

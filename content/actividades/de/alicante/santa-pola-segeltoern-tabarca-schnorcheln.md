@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Marina Miramar, Yachthafen von Santa Pola (Nordmole). Abfahrt von der Marina Miramar in Santa Pola, Nordmole. Sei 15 Minuten früher da; der Skipper wartet am Liegeplatz des Segelboots.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Segelboot mit Skipper; Treibstoff; Verkostung und ein Getränk; Stand-up-Paddleboards; Schnorchelbrillen.'
+  respuesta: 'Im Preis inbegriffen: Segelboot mit Skipper, Treibstoff, Verkostung und ein Getränk, Stand-up-Paddleboards und Schnorchelbrillen.'
 opinionEditorial: 'Die entspannteste Art, Tabarca zu genießen: mit dem Segelboot, mit wenigen Leuten, baden, wo die Fähre nicht hält. Die Rückfahrt bei Sonnenuntergang macht es besonders.'
 guiasRelacionadas:
 - isla-de-tabarca-besichtigen

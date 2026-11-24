@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'C.C. Parque Santiago 2, Playa de las Américas.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Tavola scelta dall''istruttore; Muta e calzari; Assicurazione infortuni; Istruttore; Teoria (20 min).'
+  respuesta: 'Il prezzo include tavola scelta dall''istruttore, muta e calzari, assicurazione infortuni, istruttore e teoria (20 min).'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Cibo e bevande; Prelievo e ritorno in hotel.'
+  respuesta: 'Il prezzo non include cibo e bevande né prelievo e ritorno in hotel.'
 categoria: agua
 keywords:
 - tilegit surf school

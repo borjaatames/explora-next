@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Granadella beach, Jávea. About 20 minutes by car from Jávea centre. In summer access to the cove is regulated: check how to get there when booking.'
 - pregunta: 'What is included?'
-  respuesta: 'Kayak and paddle; Life jacket; Snorkeling gear; Guide.'
+  respuesta: 'The price includes kayak and paddle, life jacket, snorkeling gear, and guide.'
 opinionEditorial: 'One of the best mornings at sea on the Costa Blanca: cliffs, caves and see-through water. Worth the trip from Alicante.'
 guiasRelacionadas:
 - costa-blanca-day-trips-from-alicante

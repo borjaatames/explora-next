@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Bioparc Fuengirola, Av. Camilo José Cela 6, Fuengirola. Cercanías C1 desde Málaga hasta Fuengirola (final de línea) y 10 minutos a pie.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Entrada al Bioparc Fuengirola.'
+  respuesta: 'Incluye entrada al Bioparc Fuengirola.'
 opinionEditorial: Un zoo moderno, de los que se centran en conservación y hábitats, y no en jaulas. Para una mañana con niños en la Costa del Sol es de lo mejor que hay.
 guiasRelacionadas:
 - malaga-con-ninos

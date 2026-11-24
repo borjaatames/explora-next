@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Bilhete sem filas para a zona monumental; Guia certificado; Acesso livre depois da visita.'
+  respuesta: 'O preço inclui bilhete sem filas para a zona monumental, guia certificado e acesso livre depois da visita.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - barcelona-em-2-dias

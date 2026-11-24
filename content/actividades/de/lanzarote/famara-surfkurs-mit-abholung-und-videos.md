@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer (Gebiet Puerto del Carmen bis Famara); Zertifizierte Lehrer; Kleine Gruppen; Neoprenanzug und Brett; Wasser und Obst; Fotos und Videos.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer (Gebiet Puerto del Carmen bis Famara), zertifizierte Lehrer, kleine Gruppen, Neoprenanzug und Brett, Wasser und Obst und Fotos und Videos.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht für Kinder unter 10.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abholung in Arrecife, Playa Honda, Puerto Calero und Costa Teguise: 15 € Aufpreis, beim Fahrer zu zahlen; Trinkgeld.'
+  respuesta: 'Nicht inbegriffen: Abholung in Arrecife, Playa Honda, Puerto Calero und Costa Teguise: 15 € Aufpreis, beim Fahrer zu zahlen; und Trinkgeld.'
 categoria: agua
 keywords:
 - surfkurs famara

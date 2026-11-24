@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Pick-up and drop-off anywhere in the south of Tenerife; Private air-conditioned tour; Professional guide in English, Spanish and Italian; Fresh fruit and water; Flexible, personalised itinerary.'
+  respuesta: 'The price includes pick-up and drop-off anywhere in the south of Tenerife; private air-conditioned tour; professional guide in English, Spanish and Italian; fresh fruit and water; and flexible, personalised itinerary.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'The guide contacts you a few days before to plan the details; Not suitable if you''re afraid of heights.'
+  respuesta: 'The guide contacts you a few days before to plan the details. Not suitable if you''re afraid of heights.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drink not mentioned; Optional stop at a Canarian restaurant (extra).'
+  respuesta: 'The price does not include food and drink not mentioned or optional stop at a Canarian restaurant (extra).'
 categoria: excursionesDia
 keywords:
 - private tour anaga

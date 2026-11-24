@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Alcudiamar (parcheggio del porto turistico), Alcúdia. Partenza dal porto turistico Alcudiamar, ad Alcúdia. C''è un''opzione con prelievo e rientro in hotel: se la scegli, l''orario è indicato nel voucher.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Barca semiprivata con capitano (massimo 12 persone); Carburante e tasse; Minimo di 30 minuti con i delfini; Percorso lungo la costa, le scogliere e le grotte; Bagno nella spiaggia di Coll Baix; Prelievo e rientro in hotel (se si sceglie questa opzione).'
+  respuesta: 'Il prezzo include barca semiprivata con capitano (massimo 12 persone); carburante e tasse; minimo di 30 minuti con i delfini; percorso lungo la costa, le scogliere e le grotte; bagno nella spiaggia di Coll Baix; e prelievo e rientro in hotel (se si sceglie questa opzione).'
 opinionEditorial: È l'attività con i delfini più apprezzata di Maiorca, con migliaia di recensioni e gruppi piccoli. Vale la levataccia.
 categoria: agua
 keywords:

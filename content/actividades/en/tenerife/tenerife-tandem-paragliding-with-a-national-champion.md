@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off in Costa Adeje, Adeje, Las Américas and Los Cristianos; Helmet and safety gear; 5 GoPro photos; Bottle of water.'
+  respuesta: 'The price includes hotel pick-up and drop-off in Costa Adeje, Adeje, Las Américas and Los Cristianos; helmet and safety gear; 5 GoPro photos; and bottle of water.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'For ages 6 to 70, up to 110 kg; Pick-up in Las Américas and Los Cristianos only at 10:00 and 12:00; The flight depends on the wind.'
+  respuesta: 'For ages 6 to 70, up to 110 kg. Pick-up in Las Américas and Los Cristianos only at 10:00 and 12:00. The flight depends on the wind.'
 - pregunta: 'What is not included?'
-  respuesta: 'Premium GoPro photo and video pack (€40); Insta360 VIP pack (€80).'
+  respuesta: 'The price does not include premium GoPro photo and video pack (€40) or insta360 VIP pack (€80).'
 categoria: aventura
 keywords:
 - paragliding tenerife

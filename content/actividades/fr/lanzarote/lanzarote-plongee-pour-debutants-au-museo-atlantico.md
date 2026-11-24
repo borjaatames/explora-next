@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Dive College Lanzarote, Centro Comercial La Mulata, Calle Lanzarote 1, Playa Blanca.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour à Playa Blanca; Transfert en bateau rapide au Museo Atlántico; Moniteur de plongée certifié; Tout l''équipement de plongée.'
+  respuesta: 'Le prix comprend : prise en charge et retour à Playa Blanca, transfert en bateau rapide au Museo Atlántico, moniteur de plongée certifié et tout l''équipement de plongée.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 12 ans; Déconseillé aux femmes enceintes, aux personnes en fauteuil roulant et aux personnes ayant des problèmes respiratoires, des pathologies préexistantes ou de l''hypertension; Ne prenez pas l''avion pendant au moins 18 heures après.'
+  respuesta: 'Âge minimum 12 ans. Déconseillé aux femmes enceintes, aux personnes en fauteuil roulant et aux personnes ayant des problèmes respiratoires, des pathologies préexistantes ou de l''hypertension. Ne prenez pas l''avion pendant au moins 18 heures après.'
 categoria: agua
 keywords:
 - plongée museo atlantico

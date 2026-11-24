@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía privado durante 3 horas; Degustaciones en 4 paradas; Tres bebidas por persona; Churros con chocolate.'
+  respuesta: 'Incluye guía privado durante 3 horas, degustaciones en 4 paradas, tres bebidas por persona y churros con chocolate.'
 opinionEditorial: El Cabanyal es el barrio con más sabor de Valencia y está fuera del circuito turístico; con un guía local se entra en sitios a los que no llegarías solo.
 atraccionesRelacionadas:
 - gastronomia

@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel (sud di Tenerife); Minivan con guida esperta; Tramonto panoramico con aperitivo e brindisi; Osservazione del Sole con filtro professionale; Osservazione notturna con telescopi; Astrofotografia dal vivo (foto di Andromeda inclusa).'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel (sud di Tenerife), minivan con guida esperta, tramonto panoramico con aperitivo e brindisi, osservazione del Sole con filtro professionale, osservazione notturna con telescopi e astrofotografia dal vivo (foto di Andromeda inclusa).'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Il tour si fa anche con il cielo coperto; se non si possono vedere le stelle non c''è rimborso, ma può essere proposta un''altra data; Non adatto a chi ha problemi cardiaci.'
+  respuesta: 'Il tour si fa anche con il cielo coperto; se non si possono vedere le stelle non c''è rimborso, ma può essere proposta un''altra data. Non adatto a chi ha problemi cardiaci.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Transfer dall''aeroporto; Bevande extra; Mance.'
+  respuesta: 'Il prezzo non include transfer dall''aeroporto, bevande extra né mance.'
 categoria: nocturno
 keywords:
 - tour astronomico tenerife

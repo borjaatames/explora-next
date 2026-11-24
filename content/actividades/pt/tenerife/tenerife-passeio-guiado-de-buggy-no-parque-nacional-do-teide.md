@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Posso cancelar?
   respuesta: Sim, grátis até 24 horas antes, com reembolso total.
 - pregunta: 'O que está incluído?'
-  respuesta: 'Recolha opcional em Costa Adeje, Las Américas, Los Cristianos e Golf del Sur; Passeio de 3,5 horas em buggies de 2 a 4 lugares; Guia profissional; Óculos e roupa quente se for preciso; Água e snack; Combustível.'
+  respuesta: 'O preço inclui recolha opcional em Costa Adeje, Las Américas, Los Cristianos e Golf del Sur; passeio de 3,5 horas em buggies de 2 a 4 lugares; guia profissional; óculos e roupa quente se for preciso; água e snack; e combustível.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Condutores com mais de 18 anos e carta definitiva (não provisória); Passageiros com pelo menos 120 cm nos buggies de 2 lugares; a partir dos 3 anos nos de 4; Calçado fechado obrigatório.'
+  respuesta: 'Condutores com mais de 18 anos e carta definitiva (não provisória). Passageiros com pelo menos 120 cm nos buggies de 2 lugares; a partir dos 3 anos nos de 4. Calçado fechado obrigatório.'
 categoria: aventura
 keywords:
 - buggy teide

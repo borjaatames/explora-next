@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Avenida Rafael Puig Lluvina 32, local 61, Playa de las Américas (Arona).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Monitor de surf profesional; Teoría y práctica en el agua; Tabla de espuma; Neopreno; Escarpines; Seguro de accidentes.'
+  respuesta: 'Incluye monitor de surf profesional, teoría y práctica en el agua, tabla de espuma, neopreno, escarpines y seguro de accidentes.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Clases en grupo desde 14 años; menores de 14 solo clases privadas; No apto para embarazadas; Hay que saber nadar.'
+  respuesta: 'Clases en grupo desde 14 años; menores de 14 solo clases privadas. No apto para embarazadas. Hay que saber nadar.'
 categoria: agua
 keywords:
 - rocky point surf

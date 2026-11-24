@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
 - pregunta: 'What is included?'
-  respuesta: 'Guide and skipper; Boat; Free drink (beer, water or soft drink); Fuel; Port fees.'
+  respuesta: 'The price includes guide and skipper; boat; free drink (beer, water or soft drink); fuel; and port fees.'
 - pregunta: 'How long does it last?'
-  respuesta: '2 hours.'
+  respuesta: 'It lasts 2 hours.'
 categoria: agua
 keywords:
 - whale watching costa adeje

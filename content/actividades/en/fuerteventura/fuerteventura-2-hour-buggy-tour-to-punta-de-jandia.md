@@ -44,9 +44,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Buggy; Guide; Pick-up and drop-off in Costa Calma, Jandía and Esquinzo.'
+  respuesta: 'The price includes buggy; guide; and pick-up and drop-off in Costa Calma, Jandía and Esquinzo.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks; Pick-up outside the areas listed.'
+  respuesta: 'The price does not include food and drinks or pick-up outside the areas listed.'
 categoria: aventura
 keywords:
 - buggy punta de jandia

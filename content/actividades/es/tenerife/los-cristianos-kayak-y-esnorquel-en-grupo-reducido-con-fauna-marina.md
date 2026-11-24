@@ -59,9 +59,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'SeaThru Kayaks Tenerife, Calle Juan XXIII 27, Los Cristianos.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Kayaks dobles autovaciables; Chalecos y palas; Equipo de esnórquel (gafas y tubo); Neopreno (opcional); Guía de kayak; Oficina con vestuario, consigna y aseo.'
+  respuesta: 'Incluye kayaks dobles autovaciables; chalecos y palas; equipo de esnórquel (gafas y tubo); neopreno (opcional); guía de kayak; y oficina con vestuario, consigna y aseo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Los menores de 11 años van en kayak con un adulto y no reman; Hay que saber nadar; máximo 100 kg; No apto para embarazadas ni personas que se mareen en el mar.'
+  respuesta: 'Los menores de 11 años van en kayak con un adulto y no reman. Hay que saber nadar; máximo 100 kg. No apto para embarazadas ni personas que se mareen en el mar.'
 categoria: agua
 keywords:
 - kayak los cristianos

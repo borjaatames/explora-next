@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung vor deinem Hotel im Süden (Jandía, Costa Calma, La Pared, Tarajalejo); Surflehrer; Neoprenanzug; Surfbrett.'
+  respuesta: 'Im Preis inbegriffen: Abholung vor deinem Hotel im Süden (Jandía, Costa Calma, La Pared, Tarajalejo); Surflehrer; Neoprenanzug; und Surfbrett.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für unter 12, Schwangere oder Menschen mit Herzproblemen; Wasser, Snack, Sonnencreme und Hut mitbringen.'
+  respuesta: 'Nicht für unter 12, Schwangere oder Menschen mit Herzproblemen. Wasser, Snack, Sonnencreme und Hut mitbringen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Trinkwasser; Sonnenschutz.'
+  respuesta: 'Nicht inbegriffen: Trinkwasser und Sonnenschutz.'
 categoria: agua
 keywords:
 - surfkurs costa calma

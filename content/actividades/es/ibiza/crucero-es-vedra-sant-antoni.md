@@ -71,7 +71,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Passeig de ses Fonts, Sant Antoni de Portmany (punto de Excursiones-Ibiza). Salida a las 10:00 desde el paseo marítimo de Sant Antoni, en el punto de Excursiones-Ibiza del Passeig de ses Fonts. Llega 20 minutos antes.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Barco con tripulación; Desayuno, comida (paella) y cena; Barra libre de cerveza, sangría y refrescos; Brindis con cava al atardecer; Gafas y tubo de snorkel; Tablas de paddle surf.'
+  respuesta: 'Incluye barco con tripulación; desayuno, comida (paella) y cena; barra libre de cerveza, sangría y refrescos; brindis con cava al atardecer; gafas y tubo de snorkel; y tablas de paddle surf.'
 opinionEditorial: 'Si solo vas a hacer un barco en Ibiza, este junta lo mejor: Es Vedrà, el agua de Espalmador y Formentera, con todas las comidas incluidas. Es caro, pero es el día entero.'
 guiasRelacionadas:
 - que-ver-en-ibiza

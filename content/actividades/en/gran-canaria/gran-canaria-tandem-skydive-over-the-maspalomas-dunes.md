@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'IJump Gran Canaria, Calle Las Dunas, Maspalomas.'
 - pregunta: 'What is included?'
-  respuesta: 'Equipment; Instructions and training; Jump from 3,000 metres; Freefall at more than 200 km/h; 5–8 minute parachute flight; 90-minute activity.'
+  respuesta: 'The price includes equipment; instructions and training; jump from 3,000 metres; freefall at more than 200 km/h; 5–8 minute parachute flight; and 90-minute activity.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Maximum 100 kg (the declared weight is checked at registration); Not suitable for children under 9, pregnant women or if you have dived in the previous 24 hours.'
+  respuesta: 'Maximum 100 kg (the declared weight is checked at registration). Not suitable for children under 9, pregnant women or if you have dived in the previous 24 hours.'
 categoria: aventura
 keywords:
 - skydiving gran canaria

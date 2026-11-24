@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en hoteles de Corralejo; Paseo en catamarán con guía; Almuerzo de paella; Barra libre; Equipo de esnórquel y paddle surf.'
+  respuesta: 'Incluye recogida en hoteles de Corralejo, paseo en catamarán con guía, almuerzo de paella, barra libre y equipo de esnórquel y paddle surf.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto durante el embarazo, con problemas de espalda o si no sabes nadar; Lleva una bolsa estanca para tus cosas.'
+  respuesta: 'No apto durante el embarazo, con problemas de espalda o si no sabes nadar. Lleva una bolsa estanca para tus cosas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Gastos personales; Regreso al hotel (solo se incluye la recogida).'
+  respuesta: 'No incluye gastos personales ni regreso al hotel (solo se incluye la recogida).'
 categoria: agua
 keywords:
 - catamaran corralejo lobos

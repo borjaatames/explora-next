@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Carretera a La Escalona 34, El Roque (Granadilla). Arrivez 30 minutes avant : 12 h pour le départ de 12 h 30, 16 h pour celui de 16 h 30.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Excursion guidée; Guide; Quad; Équipement de sécurité; Boissons.'
+  respuesta: 'Le prix comprend : excursion guidée, guide, quad, équipement de sécurité et boissons.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Déconseillé aux personnes de moins de 120 cm.'
 categoria: aventura

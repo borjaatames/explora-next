@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Centro de Sevilla, junto a la Catedral (el punto exacto depende de la opción). El punto de encuentro aparece en el voucher según el horario y el idioma que elijas; está a pocos minutos a pie de la Catedral. Lleva el pasaporte o DNI: las entradas son nominativas.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Visita guiada; Entradas sin colas a la Catedral de Sevilla y subida a la Giralda; Entradas sin colas al Real Alcázar y al Patio de las Doncellas.'
+  respuesta: 'Incluye visita guiada, entradas sin colas a la Catedral de Sevilla y subida a la Giralda y entradas sin colas al Real Alcázar y al Patio de las Doncellas.'
 opinionEditorial: 'Resuelve en una mañana las dos visitas imprescindibles de Sevilla, con las entradas incluidas y sin colas. Su punto fuerte es la oferta de idiomas, sobre todo el alemán. La pega es la cancelación: solo devuelven una parte.'
 atraccionesRelacionadas:
 - real-alcazar

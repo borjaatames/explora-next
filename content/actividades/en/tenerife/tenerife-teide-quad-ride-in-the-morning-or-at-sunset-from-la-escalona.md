@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Fun Teide Quad, TF-51 road km 10.75, La Escalona. Arrive 30 minutes before; late arrivals are not refunded.'
 - pregunta: 'What is included?'
-  respuesta: 'Helmet and gloves.'
+  respuesta: 'The price includes helmet and gloves.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Physical driving licence required (photos not accepted); international permit for non-European residents; Drivers 18+; Maximum 150 kg per quad; 2 tickets = 1 double quad.'
+  respuesta: 'Physical driving licence required (photos not accepted); international permit for non-European residents. Drivers 18+. Maximum 150 kg per quad; 2 tickets = 1 double quad.'
 categoria: aventura
 keywords:
 - teide quad sunset

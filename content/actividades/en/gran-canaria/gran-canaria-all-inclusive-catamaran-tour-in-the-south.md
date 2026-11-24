@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: the red Obycat boat at the end of the pier.'
 - pregunta: 'What is included?'
-  respuesta: 'Hotel–port–hotel transfer; Lunch: paella, salad and wrinkled potatoes; Unlimited drinks; Seasonal fruit; Snorkelling (masks and snorkels); Bali beds and floating sundeck.'
+  respuesta: 'The price includes hotel–port–hotel transfer; lunch: paella, salad and wrinkled potatoes; unlimited drinks; seasonal fruit; snorkelling (masks and snorkels); and Bali beds and floating sundeck.'
 - pregunta: 'What is not included?'
-  respuesta: 'Photos.'
+  respuesta: 'The price does not include photos.'
 categoria: agua
 keywords:
 - catamaran gran canaria all inclusive

@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: 'Il prezzo è a persona?'
   respuesta: 'No. Il prezzo è per gruppo, non a persona.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Noleggio privato di uno yacht per massimo 8 persone; Open bar: birra, sangria, vino bianco, una bottiglia di cava, acqua, bibite e succo di mela; Tapas; Attrezzatura da snorkeling e 2 tavole da paddle; Sconti su moto d''acqua, parasailing o sea scooter.'
+  respuesta: 'Il prezzo include noleggio privato di uno yacht per massimo 8 persone; open bar: birra, sangria, vino bianco, una bottiglia di cava, acqua, bibite e succo di mela; tapas; attrezzatura da snorkeling e 2 tavole da paddle; e sconti su moto d''acqua, parasailing o sea scooter.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a donne in gravidanza.'
 - pregunta: 'Cosa non è incluso?'
-  respuesta: 'Moto d''acqua 40 €/10 min, parasailing 40 €/10 min, sea scooter 40 €/40 min (non dopo le 17:00); Asciugamani (10 €) e crema solare.'
+  respuesta: 'Il prezzo non include moto d''acqua 40 €/10 min, parasailing 40 €/10 min, sea scooter 40 €/40 min (non dopo le 17:00); né asciugamani (10 €) e crema solare.'
 categoria: agua
 keywords:
 - yacht privato gran canaria

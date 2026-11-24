@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Villa Comercial El Campanario, Calle Hibisco 1, Corralejo.'
 - pregunta: 'What is included?'
-  respuesta: 'Transfer to the beach with the best conditions; Board, wetsuit and leash; Liability and accident insurance; Snack: fruit, water or juice.'
+  respuesta: 'The price includes transfer to the beach with the best conditions; board, wetsuit and leash; liability and accident insurance; and snack: fruit, water or juice.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not suitable for children under 6; Not suitable for pregnant women; Not suitable for people over 70 or after recent surgery.'
+  respuesta: 'Not suitable for children under 6. Not suitable for pregnant women. Not suitable for people over 70 or after recent surgery.'
 categoria: agua
 keywords:
 - 4 hour surf lesson corralejo

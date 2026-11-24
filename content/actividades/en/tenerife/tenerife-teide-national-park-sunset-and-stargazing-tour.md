@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Guided stargazing; Pick-up and drop-off in the south (transport option); Air-conditioned vehicle (transport option); Three-course meal with soft drinks (meal option); vegetarian, vegan and gluten-free on request; Professional telescopes; Laser pointers for the constellations.'
+  respuesta: 'The price includes guided stargazing; pick-up and drop-off in the south (transport option); air-conditioned vehicle (transport option); three-course meal with soft drinks (meal option); vegetarian, vegan and gluten-free on request; professional telescopes; and laser pointers for the constellations.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'With transport but no meal you have about an hour free at the restaurant while others eat; The date may change if the weather is bad: you are told in advance; It gets cold at altitude: bring warm clothes.'
+  respuesta: 'With transport but no meal you have about an hour free at the restaurant while others eat. The date may change if the weather is bad: you are told in advance. It gets cold at altitude: bring warm clothes.'
 - pregunta: 'What is not included?'
-  respuesta: 'Tips; Pick-up outside the selected points; Jackets or blankets.'
+  respuesta: 'The price does not include tips, pick-up outside the selected points, or jackets or blankets.'
 categoria: nocturno
 keywords:
 - teide sunset stargazing

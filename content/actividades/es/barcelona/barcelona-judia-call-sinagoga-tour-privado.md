@@ -53,7 +53,7 @@ preguntasFrecuentes:
 - pregunta: '¿El precio es por persona?'
   respuesta: 'No. El precio es por grupo, no por persona.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía oficial privado; Entrada a la antigua sinagoga.'
+  respuesta: 'Incluye guía oficial privado y entrada a la antigua sinagoga.'
 opinionEditorial: 'Una visita muy distinta a las habituales de Barcelona: la historia de su comunidad judía medieval, contada con calma y con la sinagoga incluida.'
 atraccionesRelacionadas:
 - gotico

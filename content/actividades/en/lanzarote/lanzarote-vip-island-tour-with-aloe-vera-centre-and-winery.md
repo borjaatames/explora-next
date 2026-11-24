@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Air-conditioned vehicle; Professional guide; Visit to the aloe vera centre; Stop at a traditional winery; Photo stops at landmarks.'
+  respuesta: 'The price includes air-conditioned vehicle, professional guide, visit to the aloe vera centre, stop at a traditional winery, and photo stops at landmarks.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Not wheelchair accessible; Wear comfortable clothes and shoes and bring sun cream.'
+  respuesta: 'Not wheelchair accessible. Wear comfortable clothes and shoes and bring sun cream.'
 - pregunta: 'What is not included?'
-  respuesta: 'Lunch; Personal expenses and optional purchases.'
+  respuesta: 'The price does not include lunch or personal expenses and optional purchases.'
 categoria: excursionesDia
 keywords:
 - lanzarote vip island tour

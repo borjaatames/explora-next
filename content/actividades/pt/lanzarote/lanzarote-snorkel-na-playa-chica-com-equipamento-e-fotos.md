@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Paseo Barrilla 2, Puerto del Carmen (Playa Chica).'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Receção na zona de snorkel; Seguro de atividades aquáticas; Equipamento de snorkel completo; Instrutor profissional; Meia hora de teoria; 1 hora na água.'
+  respuesta: 'O preço inclui receção na zona de snorkel, seguro de atividades aquáticas, equipamento de snorkel completo, instrutor profissional, meia hora de teoria e 1 hora na água.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Não recomendado a menores de 6 anos; É preciso saber nadar.'
+  respuesta: 'Não recomendado a menores de 6 anos. É preciso saber nadar.'
 categoria: agua
 keywords:
 - snorkel playa chica

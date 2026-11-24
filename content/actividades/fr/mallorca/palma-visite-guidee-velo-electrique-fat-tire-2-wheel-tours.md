@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Vélo électrique fat tire; Guide; Casque.'
+  respuesta: 'Le prix comprend : vélo électrique fat tire, guide et casque.'
 categoria: toursCiudad
 guiasRelacionadas:
 - que-voir-a-majorque

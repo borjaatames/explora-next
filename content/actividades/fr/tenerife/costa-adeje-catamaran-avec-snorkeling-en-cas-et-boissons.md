@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Puerto Colón, Pantalán 4, Costa Adeje.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Skipper et matelot; En-cas et boissons : bière, sodas et eau; Équipement de snorkeling; Solarium; Sortie en catamaran de 3 heures; Pause baignade et snorkeling.'
+  respuesta: 'Le prix comprend : skipper et matelot; en-cas et boissons : bière, sodas et eau; équipement de snorkeling; solarium; sortie en catamaran de 3 heures; et pause baignade et snorkeling.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
   respuesta: 'Non accessible en fauteuil roulant.'
 categoria: agua

@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private yacht charter for up to 8 people; Open bar: beer, sangria, white wine, a bottle of cava, water, soft drinks and apple juice; Tapas; Snorkel gear and 2 paddleboards; Discounts on jet ski, parasailing or sea scooter.'
+  respuesta: 'The price includes private yacht charter for up to 8 people; open bar: beer, sangria, white wine, a bottle of cava, water, soft drinks and apple juice; tapas; snorkel gear and 2 paddleboards; and discounts on jet ski, parasailing or sea scooter.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for pregnant women.'
 - pregunta: 'What is not included?'
-  respuesta: 'Jet ski €40/10 min, parasailing €40/10 min, sea scooter €40/40 min (not after 17:00); Towels (€10) and sun cream.'
+  respuesta: 'The price does not include jet ski €40/10 min, parasailing €40/10 min, sea scooter €40/40 min (not after 17:00); or towels (€10) and sun cream.'
 categoria: agua
 keywords:
 - private yacht gran canaria

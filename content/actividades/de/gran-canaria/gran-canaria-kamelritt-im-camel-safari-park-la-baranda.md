@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Camel Safari Park La Baranda, Straße nach Fataga km 12.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: '30 Minuten Kamelritt; Parkeintritt mit weiteren Tieren und Garten.'
+  respuesta: 'Im Preis inbegriffen: 30 Minuten Kamelritt und Parkeintritt mit weiteren Tieren und Garten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Schwangere; Höchstens 120 kg.'
+  respuesta: 'Nicht für Schwangere. Höchstens 120 kg.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Getränke; Tierfutter.'
+  respuesta: 'Nicht inbegriffen: Getränke und Tierfutter.'
 categoria: aventura
 keywords:
 - kamelreiten gran canaria

@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off (extra charge); Guide; Safety briefing; Jacket and gloves.'
+  respuesta: 'The price includes hotel pick-up and drop-off (extra charge), guide, safety briefing, and jacket and gloves.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'From October to April bring long trousers and a sweatshirt; Drivers must show a valid licence; Price per buggy.'
+  respuesta: 'From October to April bring long trousers and a sweatshirt. Drivers must show a valid licence. Price per buggy.'
 categoria: aventura
 keywords:
 - teide buggy tour

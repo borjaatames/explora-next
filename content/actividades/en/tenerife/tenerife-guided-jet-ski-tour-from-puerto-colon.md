@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Arrive 30 minutes early.'
 - pregunta: 'What is included?'
-  respuesta: 'Jet ski for one or two (depending on option); Step-by-step instructions; Support boat and guide; Swim stop; Free lockers and life jacket.'
+  respuesta: 'The price includes jet ski for one or two (depending on option), step-by-step instructions, support boat and guide, swim stop, and free lockers and life jacket.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Drivers alone from 16; with a passenger from 18; Maximum load about 160 kg per jet ski; Not for children under 6 or during pregnancy.'
+  respuesta: 'Drivers alone from 16; with a passenger from 18. Maximum load about 160 kg per jet ski. Not for children under 6 or during pregnancy.'
 categoria: agua
 keywords:
 - jet ski tenerife

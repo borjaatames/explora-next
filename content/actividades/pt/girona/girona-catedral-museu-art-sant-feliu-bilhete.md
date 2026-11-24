@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Museu d''Art de Girona, Pujada de la Catedral 12. Troque o voucher na receção do Museu d''Art, junto à escadaria da catedral.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Entrada na catedral e no seu tesouro; Entrada na basílica de Sant Feliu; Entrada no Museu d''Art; Audioguia na catedral.'
+  respuesta: 'O preço inclui entrada na catedral e no seu tesouro, entrada na basílica de Sant Feliu, entrada no Museu d''Art e audioguia na catedral.'
 opinionEditorial: O essencial do Barri Vell de Girona num só bilhete e por 12 €. A nave da catedral e a Tapeçaria da Criação já justificam o preço.
 guiasRelacionadas:
 - o-que-ver-em-girona-num-dia

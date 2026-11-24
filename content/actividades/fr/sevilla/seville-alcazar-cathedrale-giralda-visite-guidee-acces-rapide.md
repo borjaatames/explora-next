@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Office de tourisme de la Plaza del Triunfo. Le guide porte un parapluie orange.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide; Entrée coupe-file au Real Alcázar; Visite guidée du palais et des jardins; Billets coupe-file pour la cathédrale; Accès à la Giralda (formules avec cathédrale).'
+  respuesta: 'Le prix comprend : guide, entrée coupe-file au Real Alcázar, visite guidée du palais et des jardins, billets coupe-file pour la cathédrale et accès à la Giralda (formules avec cathédrale).'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - alcazar-de-seville-billets-epuises

@@ -58,7 +58,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Buggy tour with an expert guide; Full briefing before departure; Off-road adventure on scenic routes; Photo stops; Fuel and insurance; Group booking discounts.'
+  respuesta: 'The price includes buggy tour with an expert guide, full briefing before departure, off-road adventure on scenic routes, photo stops, fuel and insurance, and group booking discounts.'
 categoria: aventura
 keywords:
 - buggy puerto del carmen

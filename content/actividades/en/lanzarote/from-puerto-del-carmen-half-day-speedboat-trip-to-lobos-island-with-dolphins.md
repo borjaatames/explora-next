@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; 1.5-hour speedboat crossing to Lobos; Return boat to Puerto del Carmen; 2.5 hours of free time on Lobos; Live commentary on board; Picnic and drinks: sandwiches, water, beer or juice, gazpacho, drinking yoghurt.'
+  respuesta: 'The price includes hotel pick-up and drop-off; 1.5-hour speedboat crossing to Lobos; return boat to Puerto del Carmen; 2.5 hours of free time on Lobos; live commentary on board; and picnic and drinks: sandwiches, water, beer or juice, gazpacho, drinking yoghurt.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wildlife sightings cannot be guaranteed; Ask for vegetarian meals or allergies at least a day before; Boarding and walking on Lobos can be hard for people with reduced mobility.'
+  respuesta: 'Wildlife sightings cannot be guaranteed. Ask for vegetarian meals or allergies at least a day before. Boarding and walking on Lobos can be hard for people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Snorkel gear.'
+  respuesta: 'The price does not include snorkel gear.'
 categoria: agua
 keywords:
 - lobos island from lanzarote

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Ika Ika Surf School, Paseo Guadalajara 40, Playa de las Américas.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Surfkurs mit ISA-zertifizierten Lehrern; Theorie und Aufwärmen am Strand; Praxis im Wasser mit ständiger Hilfe; Surfbrett; Neoprenanzug.'
+  respuesta: 'Im Preis inbegriffen: Surfkurs mit ISA-zertifizierten Lehrern, Theorie und Aufwärmen am Strand, Praxis im Wasser mit ständiger Hilfe, Surfbrett und Neoprenanzug.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer; Essen und Getränke; Reiseversicherung.'
+  respuesta: 'Nicht inbegriffen: Abholung und Rücktransfer, Essen und Getränke und Reiseversicherung.'
 categoria: agua
 keywords:
 - surfkurs playa de las americas

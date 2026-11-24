@@ -66,7 +66,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Centro di Siviglia, accanto alla Cattedrale (il punto esatto dipende dall''opzione). Il punto d''incontro è indicato nel voucher in base all''orario e alla lingua scelti; si trova a pochi minuti a piedi dalla Cattedrale. Porta il passaporto o la carta d''identità: i biglietti sono nominativi.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Visita guidata; Biglietti salta fila per la Cattedrale di Siviglia e salita sulla Giralda; Biglietti salta fila per il Real Alcázar e il Patio de las Doncellas.'
+  respuesta: 'Il prezzo include visita guidata, biglietti salta fila per la Cattedrale di Siviglia e salita sulla Giralda e biglietti salta fila per il Real Alcázar e il Patio de las Doncellas.'
 opinionEditorial: 'Risolve in una mattinata le due visite imprescindibili di Siviglia, con biglietti inclusi e senza code. Il suo punto forte è la scelta di lingue, soprattutto il tedesco. Il difetto è la cancellazione: rimborsano solo una parte.'
 atraccionesRelacionadas:
 - real-alcazar

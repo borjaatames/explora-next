@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Wie sind die Stornierungsbedingungen?'
   respuesta: 'Kostenlose Stornierung bis 24 Stunden vorher, mit voller Rückerstattung.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Fahrrad; Guide.'
+  respuesta: 'Im Preis inbegriffen: Fahrrad und Guide.'
 categoria: toursCiudad
 guiasRelacionadas:
 - malaga-sehenswuerdigkeiten-an-einem-tag

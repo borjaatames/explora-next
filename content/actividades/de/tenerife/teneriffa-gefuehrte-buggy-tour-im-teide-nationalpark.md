@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Optionale Abholung in Costa Adeje, Las Américas, Los Cristianos und Golf del Sur; 3,5 Stunden in Buggys für 2 bis 4 Personen; Professioneller Guide; Schutzbrille und bei Bedarf warme Jacke; Wasser und Snack; Treibstoff.'
+  respuesta: 'Im Preis inbegriffen: optionale Abholung in Costa Adeje, Las Américas, Los Cristianos und Golf del Sur; 3,5 Stunden in Buggys für 2 bis 4 Personen; professioneller Guide; Schutzbrille und bei Bedarf warme Jacke; Wasser und Snack; und Treibstoff.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Fahrer ab 18 mit vollem Führerschein (keine vorläufigen); Beifahrer im 2-Sitzer mindestens 120 cm groß; im 4-Sitzer ab 3 Jahren; Geschlossene Schuhe sind Pflicht.'
+  respuesta: 'Fahrer ab 18 mit vollem Führerschein (keine vorläufigen). Beifahrer im 2-Sitzer mindestens 120 cm groß; im 4-Sitzer ab 3 Jahren. Geschlossene Schuhe sind Pflicht.'
 categoria: aventura
 keywords:
 - buggy tour teide

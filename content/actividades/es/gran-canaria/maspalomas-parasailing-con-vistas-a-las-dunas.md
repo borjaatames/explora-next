@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Vuelo de parasailing; Equipo de seguridad homologado; Charla previa; Despegue y aterrizaje desde el barco; Seguro de la actividad; Asistencia de la tripulación.'
+  respuesta: 'Incluye vuelo de parasailing, equipo de seguridad homologado, charla previa, despegue y aterrizaje desde el barco, seguro de la actividad y asistencia de la tripulación.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para menores de 5 años, embarazadas ni personas con problemas cardiacos; Máximo 159 kg; No apto tras una operación reciente ni para usuarios de silla de ruedas.'
+  respuesta: 'No apto para menores de 5 años, embarazadas ni personas con problemas cardiacos. Máximo 159 kg. No apto tras una operación reciente ni para usuarios de silla de ruedas.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '1 hora.'
+  respuesta: 'Dura 1 hora.'
 categoria: agua
 keywords:
 - parasailing maspalomas

@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Guide local officiel; Billet coupe-file pour le Park Güell; Système audio avec écouteurs.'
+  respuesta: 'Le prix comprend : guide local officiel, billet coupe-file pour le Park Güell et système audio avec écouteurs.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-billets-epuises

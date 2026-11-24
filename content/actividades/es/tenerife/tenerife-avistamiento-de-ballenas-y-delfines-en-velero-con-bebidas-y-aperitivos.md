@@ -61,7 +61,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Puerto Colón, al principio del muelle junto al cartel «Pantalán Nº4», 15 minutos antes de la salida.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Salida en velero; Recogida y regreso al hotel; Charla de seguridad; Equipo de esnórquel; Bebidas: cava, cerveza, refrescos y agua; Bocadillos, fruta, patatas fritas y frutos secos.'
+  respuesta: 'Incluye salida en velero; recogida y regreso al hotel; charla de seguridad; equipo de esnórquel; bebidas: cava, cerveza, refrescos y agua; y bocadillos, fruta, patatas fritas y frutos secos.'
 categoria: agua
 keywords:
 - velero avistamiento ballenas tenerife

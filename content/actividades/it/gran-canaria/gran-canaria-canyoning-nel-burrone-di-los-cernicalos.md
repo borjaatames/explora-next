@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Barranquismo Los Cernícalos, GC-130, Telde.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida; Attrezzatura; Assicurazione; Foto; Snack.'
+  respuesta: 'Il prezzo include guida, attrezzatura, assicurazione, foto e snack.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Non adatto a minori di 12 anni, persone oltre i 70, donne in gravidanza o chi soffre di vertigini; Massimo 110 kg.'
+  respuesta: 'Non adatto a minori di 12 anni, persone oltre i 70, donne in gravidanza o chi soffre di vertigini. Massimo 110 kg.'
 categoria: aventura
 keywords:
 - canyoning los cernicalos

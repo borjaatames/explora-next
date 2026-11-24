@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Meet Beach Bar Maspalomas, Paseo del Faro 27, Maspalomas.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Prancha de surf; Fato de neoprene; Água e fruta; Seguro de acidentes e responsabilidade civil.'
+  respuesta: 'O preço inclui prancha de surf, fato de neoprene, água e fruta e seguro de acidentes e responsabilidade civil.'
 - pregunta: 'O que não está incluído?'
-  respuesta: 'Recolha no hotel; Transporte.'
+  respuesta: 'O preço não inclui recolha no hotel nem transporte.'
 categoria: agua
 keywords:
 - aula de surf maspalomas

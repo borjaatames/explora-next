@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Käserei La Casa del Queso Cabrera Pérez, Los Alares (Antigua).'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Begrüßungskaffee; Geführter Käse-Workshop; Melken von Hand und mit der Maschine; Eigenen Majorero-Käse herstellen; Alle Werkzeuge und Geräte; Frühstück: Sandwich mit Frischkäse, regionale Käseplatte, kanarische Mojos und hausgemachte Marmeladen.'
+  respuesta: 'Im Preis inbegriffen: Begrüßungskaffee; geführter Käse-Workshop; Melken von Hand und mit der Maschine; eigenen Majorero-Käse herstellen; alle Werkzeuge und Geräte; und Frühstück: Sandwich mit Frischkäse, regionale Käseplatte, kanarische Mojos und hausgemachte Marmeladen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Weitere Getränke.'
+  respuesta: 'Nicht inbegriffen: weitere Getränke.'
 categoria: talleres
 keywords:
 - käse herstellen fuerteventura

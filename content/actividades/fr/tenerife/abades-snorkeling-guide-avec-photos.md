@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Devant le restaurant Magilu, Av. Ocira 27, Abades.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie snorkeling avec guide; Équipement de snorkeling; Combinaison longue ou courte; Photos et vidéos.'
+  respuesta: 'Le prix comprend : sortie snorkeling avec guide, équipement de snorkeling, combinaison longue ou courte et photos et vidéos.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les non-nageurs voient les poissons, mais pas les tortues, qui demandent de nager longtemps; Pas de lunettes sous le masque; Déconseillé aux moins de 5 ans et en cas de rhume.'
+  respuesta: 'Les non-nageurs voient les poissons, mais pas les tortues, qui demandent de nager longtemps. Pas de lunettes sous le masque. Déconseillé aux moins de 5 ans et en cas de rhume.'
 categoria: agua
 keywords:
 - snorkeling abades

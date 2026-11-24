@@ -51,9 +51,9 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Puerto Colón, Pantalán 2, Costa Adeje.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Guida e skipper; Barca; Bevanda in omaggio (birra, acqua o bibita); Carburante; Tasse portuali.'
+  respuesta: 'Il prezzo include guida e skipper; barca; bevanda in omaggio (birra, acqua o bibita); carburante; e tasse portuali.'
 - pregunta: 'Quanto dura?'
-  respuesta: '2 ore.'
+  respuesta: 'Dura 2 ore.'
 categoria: agua
 keywords:
 - avvistamento balene costa adeje

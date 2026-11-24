@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Quelles sont les conditions d''annulation ?'
   respuesta: 'Annulation gratuite jusqu''à 24 heures avant, avec remboursement intégral.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Billet coupe-file pour la zone monumentale; Guide certifié; Accès libre après la visite.'
+  respuesta: 'Le prix comprend : billet coupe-file pour la zone monumentale, guide certifié et accès libre après la visite.'
 categoria: visitasGuiadas
 guiasRelacionadas:
 - park-guell-billets-epuises

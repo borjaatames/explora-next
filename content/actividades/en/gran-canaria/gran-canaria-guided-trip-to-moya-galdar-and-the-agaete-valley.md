@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up; Coach transport; Local guide; Entry, visit and tasting at Los Berrazales winery; Travel insurance; Local tips.'
+  respuesta: 'The price includes hotel pick-up; coach transport; local guide; entry, visit and tasting at Los Berrazales winery; travel insurance; and local tips.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for people prone to motion sickness or with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks.'
+  respuesta: 'The price does not include food and drinks.'
 categoria: excursionesDia
 keywords:
 - agaete valley tour

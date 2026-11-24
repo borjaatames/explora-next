@@ -67,7 +67,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Carrer Bisbe Cardona 3, Sant Antoni de Portmany (Jet Ski Ibiza Es Vedrà). Meeting point at Jet Ski Ibiza Es Vedrà Tours, Carrer Bisbe Cardona 3, Sant Antoni. Hotel pickup and drop-off are included: check the time on your voucher.'
 - pregunta: 'What is included?'
-  respuesta: 'Boat trip with crew; Snorkelling gear; Paddleboards; Underwater scooter; Drinks, fresh fruit and tapas; Towel and sunscreen.'
+  respuesta: 'The price includes boat trip with crew; snorkelling gear; paddleboards; underwater scooter; drinks, fresh fruit and tapas; and towel and sunscreen.'
 opinionEditorial: 'A very complete half-day plan in Sant Antoni: boat, caves, snorkelling and paddleboarding with tapas, and no transport to worry about.'
 guiasRelacionadas:
 - best-coves-ibiza

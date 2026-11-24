@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida en el hotel; Traslado en minibús; Visita guiada; Visita a un tubo volcánico; Pícnic ligero: té o zumo, dulces, barrita de cereales, frutos secos y fruta deshidratada; Sesión de fotos con 20–30 fotos.'
+  respuesta: 'Incluye recogida en el hotel; traslado en minibús; visita guiada; visita a un tubo volcánico; pícnic ligero: té o zumo, dulces, barrita de cereales, frutos secos y fruta deshidratada; y sesión de fotos con 20–30 fotos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Recogida en el sur, de Los Gigantes a Los Cristianos; Si tu alojamiento está lejos de la carretera principal, te recogen en el punto cómodo más cercano.'
+  respuesta: 'Recogida en el sur, de Los Gigantes a Los Cristianos. Si tu alojamiento está lejos de la carretera principal, te recogen en el punto cómodo más cercano.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '6 horas.'
+  respuesta: 'Dura 6 horas.'
 categoria: aventura
 keywords:
 - senderismo teide cueva de lava

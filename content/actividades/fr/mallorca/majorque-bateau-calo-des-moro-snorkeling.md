@@ -70,7 +70,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Port de Cala Figuera (Santanyí). Le lieu exact figure sur votre bon. Il est difficile de se garer à Cala Figuera en été : arrivez avec de la marge.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Sortie en bateau; Équipement de snorkeling; Une boisson.'
+  respuesta: 'Le prix comprend : sortie en bateau, équipement de snorkeling et une boisson.'
 opinionEditorial: La façon la plus simple de voir la crique la plus photographiée de Majorque. D'excellents avis et un prix juste pour deux heures et demie en mer.
 guiasRelacionadas:
 - plus-belles-criques-de-majorque

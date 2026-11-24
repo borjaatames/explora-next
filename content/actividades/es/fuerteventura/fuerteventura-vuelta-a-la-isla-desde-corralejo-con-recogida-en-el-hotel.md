@@ -52,11 +52,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado desde y hasta tu hotel; Agua.'
+  respuesta: 'Incluye traslado desde y hasta tu hotel y agua.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
   respuesta: 'No apto para personas con vértigo o miedo a las alturas.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida.'
+  respuesta: 'No incluye comida.'
 categoria: excursionesDia
 keywords:
 - vuelta a fuerteventura

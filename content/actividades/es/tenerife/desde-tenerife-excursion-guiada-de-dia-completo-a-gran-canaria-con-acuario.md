@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Traslado de ida y vuelta al muelle de Santa Cruz desde el norte o el sur (si se elige); Billete de ferry; Entrada a Poema del Mar; Paseo a pie por Vegueta; Visita guiada a Arehucas con cata de ron y licores; Guía oficial.'
+  respuesta: 'Incluye traslado de ida y vuelta al muelle de Santa Cruz desde el norte o el sur (si se elige), billete de ferry, entrada a Poema del Mar, paseo a pie por Vegueta, visita guiada a Arehucas con cata de ron y licores y guía oficial.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Reconfirma la hora de recogida por WhatsApp; Lleva DNI o pasaporte para el ferry.'
+  respuesta: 'Reconfirma la hora de recogida por WhatsApp. Lleva DNI o pasaporte para el ferry.'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Comida y bebida.'
+  respuesta: 'No incluye comida y bebida.'
 categoria: excursionesDia
 keywords:
 - excursion gran canaria desde tenerife

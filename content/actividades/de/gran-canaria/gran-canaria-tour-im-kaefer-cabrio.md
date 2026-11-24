@@ -47,11 +47,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Guide; Tour im Käfer-Cabrio; Abholung und Rücktransfer in festgelegten Gebieten; Picknick; 1 Softdrink; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Guide, Tour im Käfer-Cabrio, Abholung und Rücktransfer in festgelegten Gebieten, Picknick, 1 Softdrink und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Fahrer brauchen einen gültigen Führerschein; Bis zu 4 Personen pro Auto; Kinder ab 4 Jahren.'
+  respuesta: 'Fahrer brauchen einen gültigen Führerschein. Bis zu 4 Personen pro Auto; Kinder ab 4 Jahren.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '6 Stunden.'
+  respuesta: 'Die Dauer beträgt 6 Stunden.'
 categoria: excursionesDia
 keywords:
 - käfer cabrio tour gran canaria

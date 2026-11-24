@@ -55,7 +55,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Three-wheeled roadster; Professional guide; Driving instructions.'
+  respuesta: 'The price includes three-wheeled roadster, professional guide, and driving instructions.'
 categoria: aventura
 keywords:
 - slingshot tour lanzarote

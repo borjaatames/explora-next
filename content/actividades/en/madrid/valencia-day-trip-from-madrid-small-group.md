@@ -57,7 +57,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle de Alfonso XI, 2 (next to Retiro Park), Madrid.'
 - pregunta: 'What is included?'
-  respuesta: 'Transport in an air-conditioned Mercedes Vito or similar; Water and snacks; Taxes.'
+  respuesta: 'The price includes transport in an air-conditioned Mercedes Vito or similar, water and snacks, and taxes.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

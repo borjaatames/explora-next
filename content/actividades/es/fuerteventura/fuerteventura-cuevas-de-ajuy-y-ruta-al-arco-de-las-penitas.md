@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Frente al parque acuático Acua, Av. Nuestra Señora del Carmen 41, Corralejo, a las 8:00.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Recogida y regreso desde el norte de Fuerteventura; Transporte; Ruta guiada por el barranco de Las Peñitas hasta el arco; Visita a las cuevas de Ajuy; Almuerzo de bocadillo.'
+  respuesta: 'Incluye recogida y regreso desde el norte de Fuerteventura, transporte, ruta guiada por el barranco de Las Peñitas hasta el arco, visita a las cuevas de Ajuy y almuerzo de bocadillo.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Cruceristas: recogida a las 9:15 en el puerto de Puerto del Rosario; Se cancela con alertas meteorológicas oficiales o con menos de 2 participantes; Las cuevas de Ajuy pueden cerrar en invierno con alertas costeras.'
+  respuesta: 'Cruceristas: recogida a las 9:15 en el puerto de Puerto del Rosario. Se cancela con alertas meteorológicas oficiales o con menos de 2 participantes. Las cuevas de Ajuy pueden cerrar en invierno con alertas costeras.'
 categoria: aventura
 keywords:
 - excursion cuevas de ajuy

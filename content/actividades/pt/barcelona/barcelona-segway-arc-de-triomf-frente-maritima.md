@@ -65,7 +65,7 @@ preguntasFrecuentes:
 - pregunta: 'Qual é a política de cancelamento?'
   respuesta: 'Cancelamento gratuito até 24 horas antes, com reembolso total.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Segway i2; Guia; Treino; Capacete e equipamento de segurança; Seguro.'
+  respuesta: 'O preço inclui segway i2, guia, treino, capacete e equipamento de segurança e seguro.'
 categoria: toursCiudad
 guiasRelacionadas:
 - barcelona-num-dia

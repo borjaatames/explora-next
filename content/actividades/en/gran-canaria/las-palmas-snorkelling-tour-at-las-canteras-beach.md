@@ -52,7 +52,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Emoción Apnea, Calle Olof Palme 2, Las Palmas de Gran Canaria.'
 - pregunta: 'What is included?'
-  respuesta: '3-hour tour; 1 to 1.5 hours of snorkelling; Qualified instructor; Snorkelling gear; Water and fruit; Insurance.'
+  respuesta: 'The price includes 3-hour tour, 1 to 1.5 hours of snorkelling, qualified instructor, snorkelling gear, water and fruit, and insurance.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'The start time depends on weather and tide and is confirmed after booking.'
 categoria: agua

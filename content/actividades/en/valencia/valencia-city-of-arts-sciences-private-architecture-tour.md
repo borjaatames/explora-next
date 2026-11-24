@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: 'Private guide.'
+  respuesta: 'The price includes private guide.'
 opinionEditorial: To understand why this complex is so special you need someone to explain the architecture; two private hours are enough, then go inside wherever you like.
 atraccionesRelacionadas:
 - ciudad-artes

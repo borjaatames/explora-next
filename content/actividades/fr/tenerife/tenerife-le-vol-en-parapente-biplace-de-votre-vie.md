@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Prise en charge et retour de Los Cristianos à Playa Paraíso; Van climatisé de 9 places; Casque et sellette; Vol biplace (15 à 20 minutes); Moniteur; 5 photos GoPro (à demander avant le vol).'
+  respuesta: 'Le prix comprend : prise en charge et retour de Los Cristianos à Playa Paraíso, van climatisé de 9 places, casque et sellette, vol biplace (15 à 20 minutes), moniteur et 5 photos GoPro (à demander avant le vol).'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Les vols dépendent de la météo, qui décide aussi du site de décollage; Les groupes de plus de 4 volent en deux rotations; Déconseillé aux moins de 4 ans, aux femmes enceintes et au-delà de 100 kg.'
+  respuesta: 'Les vols dépendent de la météo, qui décide aussi du site de décollage. Les groupes de plus de 4 volent en deux rotations. Déconseillé aux moins de 4 ans, aux femmes enceintes et au-delà de 100 kg.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Repas et boissons; Toutes les photos et vidéos GoPro (en supplément).'
+  respuesta: 'Ne sont pas inclus : repas et boissons et toutes les photos et vidéos GoPro (en supplément).'
 categoria: aventura
 keywords:
 - parapente taucho

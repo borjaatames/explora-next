@@ -48,11 +48,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Transfert depuis Puerto Calero, Puerto del Carmen, Arrecife et Costa Teguise; Déjeuner à bord avec open bar (sangria, bière, sodas, eau); Entrée à LagOmar; Entrée au Mirador del Río; Temps libre à La Graciosa; Ferry aller-retour vers La Graciosa avec wifi.'
+  respuesta: 'Le prix comprend : transfert depuis Puerto Calero, Puerto del Carmen, Arrecife et Costa Teguise; déjeuner à bord avec open bar (sangria, bière, sodas, eau); entrée à LagOmar; entrée au Mirador del Río; temps libre à La Graciosa; et ferry aller-retour vers La Graciosa avec wifi.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Repas sans gluten et végétariens sur demande; L''itinéraire peut changer selon la météo.'
+  respuesta: 'Repas sans gluten et végétariens sur demande. L''itinéraire peut changer selon la météo.'
 - pregunta: 'Combien de temps dure l''activité ?'
-  respuesta: '8 heures.'
+  respuesta: 'L''activité dure 8 heures.'
 categoria: excursionesDia
 keywords:
 - excursion nord lanzarote

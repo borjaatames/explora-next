@@ -57,9 +57,9 @@ preguntasFrecuentes:
 - pregunta: Posso cancellare?
   respuesta: Sì, gratis fino a 1 giorno prima, con rimborso completo.
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Prelievo e ritorno in hotel (se scelto); Guanti, mascherina per gli occhi e giacca; Assicurazione; Bevande gratuite; Visita guidata con soste per le foto.'
+  respuesta: 'Il prezzo include prelievo e ritorno in hotel (se scelto); guanti, mascherina per gli occhi e giacca; assicurazione; bevande gratuite; e visita guidata con soste per le foto.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
-  respuesta: 'Conducenti dai 21 anni con patente valida; Bambini dai 4 anni nell''opzione da 4 posti, sui sedili posteriori; Zona di prelievo da Golf del Sur a Callao Salvaje.'
+  respuesta: 'Conducenti dai 21 anni con patente valida. Bambini dai 4 anni nell''opzione da 4 posti, sui sedili posteriori. Zona di prelievo da Golf del Sur a Callao Salvaje.'
 categoria: aventura
 keywords:
 - buggy teide tramonto

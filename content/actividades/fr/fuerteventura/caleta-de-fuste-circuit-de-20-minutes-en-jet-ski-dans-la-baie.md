@@ -59,7 +59,7 @@ preguntasFrecuentes:
 - pregunta: 'Le prix est-il par personne ?'
   respuesta: 'Non. Le prix est par groupe, et non par personne.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Jet-ski; Gilet de sauvetage; Moniteur.'
+  respuesta: 'Le prix comprend : jet-ski, gilet de sauvetage et moniteur.'
 categoria: agua
 keywords:
 - jet ski caleta de fuste

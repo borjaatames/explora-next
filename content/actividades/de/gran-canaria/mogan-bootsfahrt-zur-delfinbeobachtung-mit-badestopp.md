@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Bootsfahrt mit Kapitän; Getränke: Softdrinks, Bier und Wasser; Essen: Tortilla, Nudelsalat und Käse; Schnorchelausrüstung; Paddleboard.'
+  respuesta: 'Im Preis inbegriffen: Bootsfahrt mit Kapitän; Getränke: Softdrinks, Bier und Wasser; Essen: Tortilla, Nudelsalat und Käse; Schnorchelausrüstung; und Paddleboard.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
   respuesta: 'Nicht geeignet bei eingeschränkter Mobilität.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '4 Stunden.'
+  respuesta: 'Die Dauer beträgt 4 Stunden.'
 categoria: agua
 keywords:
 - delfinbeobachtung mogan

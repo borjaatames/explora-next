@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Onira Equestrian Center, Fañabé (Plus Code 476J+4J).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta guiada por monitores profesionales; Todo el equipo; Paseos en poni en pista cerrada para menores de 7 años.'
+  respuesta: 'Incluye ruta guiada por monitores profesionales, todo el equipo y paseos en poni en pista cerrada para menores de 7 años.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'No apto para embarazadas; Máximo 10 personas por ruta.'
+  respuesta: 'No apto para embarazadas. Máximo 10 personas por ruta.'
 categoria: aventura
 keywords:
 - paseo a caballo sur de tenerife

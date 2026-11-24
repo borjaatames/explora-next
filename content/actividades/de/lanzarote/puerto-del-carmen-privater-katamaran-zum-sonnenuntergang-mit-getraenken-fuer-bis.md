@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Katamaranfahrt; Leichte Snacks; Softdrinks, Wasser, Sangria, Bier und Champagner; Hotelabholung (nur mit dieser Option).'
+  respuesta: 'Im Preis inbegriffen: Katamaranfahrt; leichte Snacks; Softdrinks, Wasser, Sangria, Bier und Champagner; und Hotelabholung (nur mit dieser Option).'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Nicht für Menschen mit eingeschränkter Mobilität; Kann bei rauer See abgesagt werden.'
+  respuesta: 'Nicht für Menschen mit eingeschränkter Mobilität. Kann bei rauer See abgesagt werden.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Hotelabholung (Option ohne Abholung); Trinkgeld; Weitere Getränke.'
+  respuesta: 'Nicht inbegriffen: Hotelabholung (Option ohne Abholung), Trinkgeld und weitere Getränke.'
 categoria: agua
 keywords:
 - privater katamaran lanzarote

@@ -52,9 +52,9 @@ preguntasFrecuentes:
 - pregunta: 'Onde é o ponto de encontro?'
   respuesta: 'Villa Comercial El Campanario, Calle Hibisco 1, Corralejo.'
 - pregunta: 'O que está incluído?'
-  respuesta: 'Transporte até à praia com as melhores condições; Prancha, fato e leash; Seguro de responsabilidade civil e acidentes; Lanche: fruta, água ou sumo.'
+  respuesta: 'O preço inclui transporte até à praia com as melhores condições; prancha, fato e leash; seguro de responsabilidade civil e acidentes; e lanche: fruta, água ou sumo.'
 - pregunta: 'O que é preciso saber antes de reservar?'
-  respuesta: 'Não recomendado a menores de 6 anos; Não recomendado a grávidas; Não recomendado a maiores de 70 anos ou após cirurgia recente.'
+  respuesta: 'Não recomendado a menores de 6 anos. Não recomendado a grávidas. Não recomendado a maiores de 70 anos ou após cirurgia recente.'
 categoria: agua
 keywords:
 - aula de surf 4 horas corralejo

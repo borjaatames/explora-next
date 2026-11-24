@@ -41,11 +41,11 @@ preguntasFrecuentes:
 - pregunta: ¿Puedo cancelar?
   respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Salida guiada en barco para ver fauna marina; Refrescos y agua; Recogida y regreso en el sur de Gran Canaria (disponible).'
+  respuesta: 'Incluye salida guiada en barco para ver fauna marina, refrescos y agua y recogida y regreso en el sur de Gran Canaria (disponible).'
 - pregunta: '¿Qué no incluye?'
-  respuesta: 'Bebidas alcohólicas; Comida.'
+  respuesta: 'No incluye bebidas alcohólicas ni comida.'
 - pregunta: '¿Cuánto dura?'
-  respuesta: '2 horas.'
+  respuesta: 'Dura 2 horas.'
 categoria: agua
 keywords:
 - avistamiento delfines gran canaria

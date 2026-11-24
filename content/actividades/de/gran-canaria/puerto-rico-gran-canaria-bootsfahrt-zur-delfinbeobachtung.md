@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Puerto Base, Puerto Rico de Gran Canaria: Halte nach der Spirit of the Sea Ausschau.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Katamaranfahrt von 2,5 Stunden; Professionelle Crew; Softdrinks und Wasser; Optionale Abholung in San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores und Playa del Cura.'
+  respuesta: 'Im Preis inbegriffen: Katamaranfahrt von 2,5 Stunden; professionelle Crew; Softdrinks und Wasser; und optionale Abholung in San Agustín, Playa del Inglés, Maspalomas, Meloneras, Taurito, Mogán, Amadores und Playa del Cura.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Das Boot schaukelt auch im Stand: Bei Bedarf vorher Tabletten gegen Seekrankheit nehmen; Keine Sichtung = Gutschein für eine Gratisfahrt, ein Jahr gültig.'
+  respuesta: 'Das Boot schaukelt auch im Stand: Bei Bedarf vorher Tabletten gegen Seekrankheit nehmen. Keine Sichtung = Gutschein für eine Gratisfahrt, ein Jahr gültig.'
 categoria: agua
 keywords:
 - delfinbeobachtung gran canaria

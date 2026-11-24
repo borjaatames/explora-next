@@ -42,11 +42,11 @@ preguntasFrecuentes:
 - pregunta: Can I cancel?
   respuesta: Yes, for free up to 1 day before, with a full refund.
 - pregunta: 'What is included?'
-  respuesta: 'Hotel pick-up and drop-off; Transport; Driver-guide.'
+  respuesta: 'The price includes hotel pick-up and drop-off, transport, and driver-guide.'
 - pregunta: 'What should I know before booking?'
   respuesta: 'Not suitable for children under 2 or people with reduced mobility.'
 - pregunta: 'What is not included?'
-  respuesta: 'Food and drinks (lunch not included).'
+  respuesta: 'The price does not include food and drinks (lunch not included).'
 categoria: excursionesDia
 keywords:
 - sotavento tour from caleta de fuste

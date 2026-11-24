@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle Pantalanes 2, Puerto Calero.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta guiada de 1 hora con monitor profesional; Seguro a todo riesgo; Combustible.'
+  respuesta: 'Incluye ruta guiada de 1 hora con monitor profesional, seguro a todo riesgo y combustible.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductores desde 16 años; No apto para embarazadas; Máximo 110 kg.'
+  respuesta: 'Conductores desde 16 años. No apto para embarazadas. Máximo 110 kg.'
 categoria: agua
 keywords:
 - moto de agua puerto calero

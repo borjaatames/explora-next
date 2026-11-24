@@ -61,11 +61,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt: Die Route wird auf deinem Handy mit dem Code aktiviert, den du nach dem Kauf erhältst, zu jeder Uhrzeit und an jedem Ort in Madrid, den du wählst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Unterwegs in deinem eigenen Tempo, ohne feste Zeiten und ohne Gruppe; Freie Wahl der Stopps entlang der Route; Audio, wann immer du willst, mit Pause- und Fortsetzen-Funktion; Verfügbar 24 Stunden am Tag, 365 Tage im Jahr; In der App integrierte Tipps für Essen und Familienaktivitäten.'
+  respuesta: 'Im Preis inbegriffen: unterwegs in deinem eigenen Tempo, ohne feste Zeiten und ohne Gruppe; freie Wahl der Stopps entlang der Route; Audio, wann immer du willst, mit Pause- und Fortsetzen-Funktion; verfügbar 24 Stunden am Tag, 365 Tage im Jahr; und in der App integrierte Tipps für Essen und Familienaktivitäten.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; App verfügbar auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch; Rollstuhl- und kinderwagengerecht; Assistenztiere willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. App verfügbar auf Spanisch, Englisch, Portugiesisch, Französisch, Italienisch und Deutsch. Rollstuhl- und kinderwagengerecht; Assistenztiere willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Ein Guide vor Ort (es ist ein komplett selbstgeführtes Erlebnis ohne Begleitung).'
+  respuesta: 'Nicht inbegriffen: ein Guide vor Ort (es ist ein komplett selbstgeführtes Erlebnis ohne Begleitung).'
 opinionEditorial: 'Die richtige Wahl, wenn du Madrid nach deinen eigenen Vorstellungen erkunden willst, ohne feste Zeiten und ohne Gruppe: Du startest die Route, wann du Lust hast, und gehst in deinem Tempo. Was du nicht bekommst, ist die Nähe eines Live-Guides, seine Geschichten oder die Möglichkeit, direkt Fragen zu stellen – wenn dir das wichtig ist, passt eine Führung mit Guide vor Ort besser. Für Familien, Individualreisende oder alle, die gern gemütlich erkunden, funktioniert es richtig gut.'
 atraccionesRelacionadas:
 - otros-madrid

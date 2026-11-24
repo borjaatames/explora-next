@@ -50,9 +50,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Famara beach car park (Calle Brezo de Mar 1, Urbanización Famara). The time depends on conditions.'
 - pregunta: 'What is included?'
-  respuesta: '2.5-hour surf lesson; Surfboard and wetsuit; Free gear for the rest of the day after the lesson.'
+  respuesta: 'The price includes 2.5-hour surf lesson, surfboard and wetsuit, and free gear for the rest of the day after the lesson.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Must be able to swim; Not suitable for children under 8; under-10s need an adult during the lesson.'
+  respuesta: 'Must be able to swim. Not suitable for children under 8; under-10s need an adult during the lesson.'
 categoria: agua
 keywords:
 - kalufa surf school

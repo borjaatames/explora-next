@@ -53,11 +53,11 @@ preguntasFrecuentes:
 - pregunta: Kann ich stornieren?
   respuesta: Ja, kostenlos bis 1 Tag vorher, mit voller Rückerstattung.
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Abholung und Rücktransfer; Fahrt im Geländewagen; Dorf Yaiza; Strand von Papagayo; El Golfo und Charco de los Clicos; Besucherzentrum Timanfaya.'
+  respuesta: 'Im Preis inbegriffen: Abholung und Rücktransfer, Fahrt im Geländewagen, Dorf Yaiza, Strand von Papagayo, El Golfo und Charco de los Clicos und Besucherzentrum Timanfaya.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Snacks; Getränke; Mahlzeiten.'
+  respuesta: 'Nicht inbegriffen: Snacks, Getränke und Mahlzeiten.'
 - pregunta: 'Wie lange dauert es?'
-  respuesta: '6 Stunden.'
+  respuesta: 'Die Dauer beträgt 6 Stunden.'
 categoria: excursionesDia
 keywords:
 - jeep tour lanzarote

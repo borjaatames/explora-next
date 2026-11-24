@@ -49,11 +49,11 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Keeper Uno, Explanada del Castillete 180, Playa de Mogán.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Gita in barca con skipper; Bevande: bibite, birra e acqua; Cibo: tortilla, insalata di pasta e formaggio; Attrezzatura da snorkeling; Paddle.'
+  respuesta: 'Il prezzo include gita in barca con skipper; bevande: bibite, birra e acqua; cibo: tortilla, insalata di pasta e formaggio; attrezzatura da snorkeling; e paddle.'
 - pregunta: 'Cosa bisogna sapere prima di prenotare?'
   respuesta: 'Non adatto a persone con mobilità ridotta.'
 - pregunta: 'Quanto dura?'
-  respuesta: '4 ore.'
+  respuesta: 'Dura 4 ore.'
 categoria: agua
 keywords:
 - delfini mogan

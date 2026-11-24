@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle de Alfonso XI, 2 (junto al Retiro), Madrid.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Transporte en furgoneta Mercedes Vito o similar con aire acondicionado; Agua y snacks; Tasas.'
+  respuesta: 'Incluye transporte en furgoneta Mercedes Vito o similar con aire acondicionado, agua y snacks y tasas.'
 atraccionesRelacionadas:
 - excursiones-desde-madrid
 categoria: excursionesDia

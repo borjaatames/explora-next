@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Calle Antonio Ruiz Álvarez, Puerto de la Cruz.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Benzin; Offroad-Brille; Windjacken; Wasser; Snack (Erdnüsse).'
+  respuesta: 'Im Preis inbegriffen: Benzin, Offroad-Brille, Windjacken, Wasser und Snack (Erdnüsse).'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Fahrer und Beifahrer ab 18; Nicht für Schwangere.'
+  respuesta: 'Fahrer und Beifahrer ab 18. Nicht für Schwangere.'
 categoria: aventura
 keywords:
 - buggy tour puerto de la cruz

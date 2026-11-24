@@ -69,7 +69,7 @@ preguntasFrecuentes:
 - pregunta: 'Dov''è il punto d''incontro?'
   respuesta: 'Puerto Colón o porto di Los Cristianos, Costa Adeje, Tenerife. Costa Adeje è la principale zona turistica del sud di Tenerife. Il porto di partenza esatto (Puerto Colón a Las Américas o Los Cristianos) è indicato nel voucher. Entrambi i porti sono ben collegati con gli autobus locali dalle zone turistiche del sud.'
 - pregunta: 'Cosa è incluso?'
-  respuesta: 'Uscita in catamarano di 3 ore; Avvistamento di balene e delfini; Sosta per il bagno (se le condizioni lo permettono).'
+  respuesta: 'Il prezzo include uscita in catamarano di 3 ore, avvistamento di balene e delfini e sosta per il bagno (se le condizioni lo permettono).'
 opinionEditorial: È l'opzione del sud di Tenerife per l'avvistamento di cetacei. Comoda se alloggi a Los Cristianos o a Las Américas, con le stesse ottime probabilità di vedere globicefali del percorso da Los Gigantes.
 guiasRelacionadas:
 - avvistamento-balene-tenerife

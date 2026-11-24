@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
 - pregunta: 'What is included?'
-  respuesta: 'Bike tour with a local guide; Choice of regular bike or e-bike; Photo stops; Local recommendations; Stories about history and monuments.'
+  respuesta: 'The price includes bike tour with a local guide, choice of regular bike or e-bike, photo stops, local recommendations, and stories about history and monuments.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'You must be able to ride a bike; Children under 6 (max. 20 kg, 140 cm) ride free in a child seat.'
+  respuesta: 'You must be able to ride a bike. Children under 6 (max. 20 kg, 140 cm) ride free in a child seat.'
 categoria: aventura
 keywords:
 - bike tour santa cruz de tenerife

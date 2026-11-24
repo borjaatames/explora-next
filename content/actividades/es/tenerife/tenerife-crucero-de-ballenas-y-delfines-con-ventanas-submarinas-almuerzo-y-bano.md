@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Catamarán Royal Delfín, Calle Colón, Pantalán 12, Puerto Colón (Costa Adeje).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Crucero en catamarán; Avistamiento de ballenas y delfines; Almuerzo y bebidas.'
+  respuesta: 'Incluye crucero en catamarán, avistamiento de ballenas y delfines y almuerzo y bebidas.'
 categoria: agua
 keywords:
 - avistamiento ballenas puerto colon

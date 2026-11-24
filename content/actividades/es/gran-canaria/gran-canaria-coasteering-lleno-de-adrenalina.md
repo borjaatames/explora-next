@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Aparcamiento de Taurito (Mogán).'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía en inglés y español; Equipo de seguridad; Pícnic: fruta, chocolate, frutos secos, galletas y agua; Seguro; Fotos.'
+  respuesta: 'Incluye guía en inglés y español; equipo de seguridad; pícnic: fruta, chocolate, frutos secos, galletas y agua; seguro; y fotos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Ninguna de las actividades (tirolina, vía ferrata, saltos, rápel) es obligatoria; Según el estado del mar, alguna actividad puede no hacerse; Edad mínima 8 años.'
+  respuesta: 'Ninguna de las actividades (tirolina, vía ferrata, saltos, rápel) es obligatoria. Según el estado del mar, alguna actividad puede no hacerse. Edad mínima 8 años.'
 categoria: aventura
 keywords:
 - coasteering gran canaria

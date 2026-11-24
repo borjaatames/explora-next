@@ -73,7 +73,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Alcudiamar (marina car park), Alcúdia. Departure from the Alcudiamar marina in Alcúdia. There is an option with hotel pickup and drop-off: if you choose it, the time is on your voucher.'
 - pregunta: 'What is included?'
-  respuesta: 'Semi-private boat with captain (max 12 people); Fuel and taxes; At least 30 minutes with the dolphins; Coast, cliffs and caves; Swim at Coll Baix beach; Hotel pickup and drop-off (if that option is chosen).'
+  respuesta: 'The price includes semi-private boat with captain (max 12 people); fuel and taxes; at least 30 minutes with the dolphins; coast, cliffs and caves; swim at Coll Baix beach; and hotel pickup and drop-off (if that option is chosen).'
 opinionEditorial: The best-rated dolphin trip in Mallorca, with thousands of reviews and small groups. Worth the early start.
 guiasRelacionadas:
 - mallorca-with-kids

@@ -56,7 +56,7 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Plaza de Zocodover, Toledo.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Guía oficial privado; Entradas a los monumentos; Asistencia de un agente de viajes.'
+  respuesta: 'Incluye guía oficial privado, entradas a los monumentos y asistencia de un agente de viajes.'
 atraccionesRelacionadas:
 - toledo
 categoria: visitasGuiadas

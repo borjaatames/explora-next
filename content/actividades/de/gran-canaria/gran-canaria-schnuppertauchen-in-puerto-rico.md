@@ -53,9 +53,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Blue Water Diving, Calle Olímpicos Doreste y Molina, Puerto Rico de Gran Canaria. Bei der Buchung Größe, Gewicht und Schuhgröße angeben.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Ausrüstung; PADI-Tauchlehrer; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Ausrüstung, PADI-Tauchlehrer und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Mindestalter 10 Jahre; Nicht für Schwangere; Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
+  respuesta: 'Mindestalter 10 Jahre. Nicht für Schwangere. Ein medizinischer Fragebogen ist nötig; bei manchen Erkrankungen ein ärztliches Attest.'
 categoria: agua
 keywords:
 - schnuppertauchen puerto rico gran canaria

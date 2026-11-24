@@ -54,9 +54,9 @@ preguntasFrecuentes:
 - pregunta: 'Is the price per person?'
   respuesta: 'No. The price is per group, not per person.'
 - pregunta: 'What is included?'
-  respuesta: '20-25 professionally edited photos; A private professional photographer for 30 minutes.'
+  respuesta: 'The price includes 20-25 professionally edited photos and a private professional photographer for 30 minutes.'
 - pregunta: 'What should I know before booking?'
-  respuesta: 'Wheelchair and stroller accessible; Service animals welcome; Well connected by public transport.'
+  respuesta: 'Wheelchair and stroller accessible. Service animals welcome. Well connected by public transport.'
 opinionEditorial: With 104 reviews behind it, this is the most established of this provider's three Barcelona sessions. The flexibility to pick your backdrop — Sagrada Familia, Gothic Quarter or Park Güell — is its strength, but agree it with the photographer when you book, since it isn't fixed in advance.
 atraccionesRelacionadas:
 - fotos

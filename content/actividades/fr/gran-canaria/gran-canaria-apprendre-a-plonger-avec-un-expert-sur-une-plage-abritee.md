@@ -50,11 +50,11 @@ preguntasFrecuentes:
 - pregunta: Puis-je annuler ?
   respuesta: Oui, gratuitement jusqu'à 1 jour avant, avec remboursement intégral.
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Équipement de plongée; Assurance; Carnet de plongée en ligne; Moniteur de plongée; Prise en charge et retour dans le sud de Gran Canaria; Eau.'
+  respuesta: 'Le prix comprend : équipement de plongée, assurance, carnet de plongée en ligne, moniteur de plongée, prise en charge et retour dans le sud de Gran Canaria et eau.'
 - pregunta: 'Que faut-il savoir avant de réserver ?'
-  respuesta: 'Âge minimum 8 ans; Déconseillé aux femmes enceintes et aux personnes cardiaques; Déconseillé en cas de problèmes de dos ou respiratoires, d''épilepsie, d''hypertension ou d''opération récente.'
+  respuesta: 'Âge minimum 8 ans. Déconseillé aux femmes enceintes et aux personnes cardiaques. Déconseillé en cas de problèmes de dos ou respiratoires, d''épilepsie, d''hypertension ou d''opération récente.'
 - pregunta: 'Qu''est-ce qui n''est pas inclus ?'
-  respuesta: 'Déjeuner; Photos sous-marines.'
+  respuesta: 'Ne sont pas inclus : déjeuner et photos sous-marines.'
 categoria: agua
 keywords:
 - apprendre à plonger gran canaria

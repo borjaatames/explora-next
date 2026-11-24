@@ -44,9 +44,9 @@ preguntasFrecuentes:
 - pregunta: 'Gilt der Preis pro Person?'
   respuesta: 'Nein. Der Preis gilt pro Gruppe, nicht pro Person.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Yamaha-Buggy mit 4 Sitzen; Abholung und Rücktransfer zu deinem Hotel in Maspalomas; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Yamaha-Buggy mit 4 Sitzen, Abholung und Rücktransfer zu deinem Hotel in Maspalomas und Versicherung.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Essen und Getränke.'
+  respuesta: 'Nicht inbegriffen: Essen und Getränke.'
 categoria: aventura
 keywords:
 - buggy tour maspalomas

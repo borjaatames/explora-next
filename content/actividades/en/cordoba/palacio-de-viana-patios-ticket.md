@@ -62,7 +62,7 @@ preguntasFrecuentes:
 - pregunta: 'Where is the meeting point?'
   respuesta: 'Palacio de Viana, Plaza de Don Gome 2, Córdoba. In the Santa Marina district, about a 20-minute walk from the Mosque.'
 - pregunta: 'What is included?'
-  respuesta: 'Entry to the patios and garden.'
+  respuesta: 'The price includes entry to the patios and garden.'
 opinionEditorial: 'Twelve patios for €9: if you are not in Córdoba in May, it is the best way to see why the patios are on UNESCO''s intangible heritage list.'
 guiasRelacionadas:
 - cordoba-patios

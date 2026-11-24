@@ -60,7 +60,7 @@ preguntasFrecuentes:
 - pregunta: 'Où se trouve le point de rendez-vous ?'
   respuesta: 'Shaka Kayak & SUP, Paseo Marítimo 10, Arona (Los Cristianos). Rendez-vous 30 minutes avant pour se préparer.'
 - pregunta: 'Qu''est-ce qui est inclus ?'
-  respuesta: 'Kayak avec pagaies et sièges rembourrés; Gilet de sauvetage et combinaison de 3 mm; Masque et tuba; Photos et vidéos offertes; Vestiaires avec douches; Eau, guide professionnel et assurance.'
+  respuesta: 'Le prix comprend : kayak avec pagaies et sièges rembourrés; gilet de sauvetage et combinaison de 3 mm; masque et tuba; photos et vidéos offertes; vestiaires avec douches; et eau, guide professionnel et assurance.'
 categoria: agua
 keywords:
 - kayak snorkeling tenerife

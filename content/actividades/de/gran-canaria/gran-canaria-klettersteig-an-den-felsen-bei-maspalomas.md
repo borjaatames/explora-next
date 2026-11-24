@@ -55,9 +55,9 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Parkplatz Yukan, Bahía Feliz.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Guide; Gurt, Helm und Klettersteigset; Stirnlampe; Snack; Fotos; Versicherung.'
+  respuesta: 'Im Preis inbegriffen: Guide; Gurt, Helm und Klettersteigset; Stirnlampe; Snack; Fotos; und Versicherung.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Von 14 bis 60 Jahren, bis 100 kg und mindestens 145 cm; Nicht für Menschen mit Höhenangst oder Schwindel.'
+  respuesta: 'Von 14 bis 60 Jahren, bis 100 kg und mindestens 145 cm. Nicht für Menschen mit Höhenangst oder Schwindel.'
 categoria: aventura
 keywords:
 - klettersteig gran canaria

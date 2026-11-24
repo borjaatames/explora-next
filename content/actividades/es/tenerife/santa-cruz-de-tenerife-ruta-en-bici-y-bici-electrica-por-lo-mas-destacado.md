@@ -61,9 +61,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Calle Doctor Allart 17, Santa Cruz de Tenerife.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Ruta en bici con guía local; A elegir bici normal o eléctrica; Paradas para fotos; Recomendaciones locales; Historias sobre la historia y los monumentos.'
+  respuesta: 'Incluye ruta en bici con guía local, a elegir bici normal o eléctrica, paradas para fotos, recomendaciones locales e historias sobre la historia y los monumentos.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Hay que saber montar en bici; Los menores de 6 años (máx. 20 kg y 140 cm) van gratis en sillita.'
+  respuesta: 'Hay que saber montar en bici. Los menores de 6 años (máx. 20 kg y 140 cm) van gratis en sillita.'
 categoria: aventura
 keywords:
 - ruta en bici santa cruz de tenerife

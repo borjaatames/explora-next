@@ -56,9 +56,9 @@ preguntasFrecuentes:
 - pregunta: '¿Dónde es el punto de encuentro?'
   respuesta: 'Jet Ski Racing Tenerife, Puerto Colón, Pantalán Nº 10 (Costa Adeje). Llega 30 minutos antes.'
 - pregunta: '¿Qué incluye?'
-  respuesta: 'Moto de agua individual o doble (según la opción); Instrucciones paso a paso; Barco de apoyo y guía; Parada para bañarse; Taquillas gratis y chaleco salvavidas.'
+  respuesta: 'Incluye moto de agua individual o doble (según la opción), instrucciones paso a paso, barco de apoyo y guía, parada para bañarse y taquillas gratis y chaleco salvavidas.'
 - pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Conductor solo desde 16 años; con pasajero desde 18; Carga máxima de unos 160 kg por moto; No apto para menores de 6 años ni durante el embarazo.'
+  respuesta: 'Conductor solo desde 16 años; con pasajero desde 18. Carga máxima de unos 160 kg por moto. No apto para menores de 6 años ni durante el embarazo.'
 categoria: agua
 keywords:
 - moto de agua tenerife

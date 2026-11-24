@@ -63,11 +63,11 @@ preguntasFrecuentes:
 - pregunta: 'Wo ist der Treffpunkt?'
   respuesta: 'Kein Treffpunkt vor Ort: Aktiviere die Route auf deinem Handy mit dem Code, den du nach dem Kauf erhältst – wann und wo in Granada du willst.'
 - pregunta: 'Was ist inbegriffen?'
-  respuesta: 'Zugang zur Granada-Route auf eigene Faust über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); Volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; Verfügbar 24 Stunden am Tag, 365 Tage im Jahr, ohne Ablaufdatum; Tipps zu Essen und Familienaktivitäten in der App.'
+  respuesta: 'Im Preis inbegriffen: Zugang zur Granada-Route auf eigene Faust über die DareMapp-App, mit Referenzcode nach dem Kauf; Audioguide in 6 Sprachen (Spanisch, Englisch, Portugiesisch, Französisch, Italienisch, Deutsch); volle Freiheit bei Tempo und Stopps, Pausieren und Fortsetzen jederzeit möglich; verfügbar 24 Stunden am Tag, 365 Tage im Jahr, ohne Ablaufdatum; und Tipps zu Essen und Familienaktivitäten in der App.'
 - pregunta: 'Was sollte ich vor der Buchung wissen?'
-  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr; Für Rollstühle und Kinderwagen geeignet, da du die Route in deinem eigenen Tempo gehst; der Albaicín hat allerdings steile Gassen mit Kopfsteinpflaster, was du mit Rollstuhl oder Kinderwagen bedenken solltest; Assistenzhunde sind willkommen.'
+  respuesta: 'Für die ganze Familie geeignet: Mindestalter 1 Jahr. Für Rollstühle und Kinderwagen geeignet, da du die Route in deinem eigenen Tempo gehst; der Albaicín hat allerdings steile Gassen mit Kopfsteinpflaster, was du mit Rollstuhl oder Kinderwagen bedenken solltest. Assistenzhunde sind willkommen.'
 - pregunta: 'Was ist nicht inbegriffen?'
-  respuesta: 'Guide oder Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; Eintrittskarten für Sehenswürdigkeiten oder Museen entlang der Route (falls zutreffend).'
+  respuesta: 'Nicht inbegriffen: Guide oder Begleitung vor Ort (es ist ein komplett selbstgeführtes, unabhängiges Erlebnis); Anfahrt zum Startpunkt der Route; und Eintrittskarten für Sehenswürdigkeiten oder Museen entlang der Route (falls zutreffend).'
 opinionEditorial: 'Mit 3 Routen – Granada Essenziell, Albaicín und Sacromonte sowie Die Alhambra – ist das eines der flexibelsten Angebote im Katalog: Du kannst nur die Route machen, die dich interessiert, oder sie auf mehrere Tage verteilen, da der Zugang nie verfällt. Ein wichtiger Hinweis: Die Alhambra-Route ist eine erzählte Tour durch die Umgebung und beinhaltet nicht den Eintritt in das Monument selbst, der separat und rechtzeitig im Voraus gebucht werden muss.'
 atraccionesRelacionadas:
 - otros-granada
