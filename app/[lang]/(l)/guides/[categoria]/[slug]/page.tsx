@@ -346,7 +346,11 @@ export default async function GuiaPage({ params }: Props) {
         ]}
         meta={[
           ...(guia.autor ? [`${dict.guias.autorPor} ${guia.autor}`] : []),
-          ...(guia.fecha ? [formatearFecha(guia.fecha, lang)] : []),
+          ...(guia.fecha_actualizacion && guia.fecha_actualizacion !== guia.fecha
+            ? [`${dict.guias.actualizadoEl} ${formatearFecha(guia.fecha_actualizacion, lang)}`]
+            : guia.fecha
+              ? [formatearFecha(guia.fecha, lang)]
+              : []),
           `${guia.tiempoLectura} ${dict.guias.minutosLectura}`,
         ]}
       />

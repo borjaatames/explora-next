@@ -41,6 +41,7 @@ export type Diccionario = {
     descripcionIndice: string;
     minutosLectura: string;
     publicadoEl: string;
+    actualizadoEl: string;
     autorPor: string;
     relacionadas: string;
     volverAGuias: string;
