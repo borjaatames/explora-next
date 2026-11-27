@@ -4,7 +4,7 @@ descripcion: "Itinerario di 7 giorni in Andalusia in treno: 2 notti a Siviglia, 
 categoria: "sevilla"
 slug: "andalusia-in-7-giorni"
 fecha: "2026-06-06"
-fecha_actualizacion: "2026-09-23"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -86,7 +86,7 @@ Compra i treni sul sito di Renfe appena hai le date: i prezzi bassi spariscono m
 
 ## Giorni 1 e 2: Siviglia
 
-**Giorno 1, mattina.** **Real Alcázar** alle 9:30, prima fascia (aperto dalle 9:30 alle 17:00 da ottobre a marzo e fino alle 19:00 da aprile a settembre): 2 h 30 con i giardini. Di fronte, la **Cattedrale e la Giralda** (1 h 30), aperte dal lunedì al sabato dalle 10:45 alle 19:00 e la domenica dalle 14:30. Se vuoi che ti spieghino entrambi i monumenti senza fare nessuna coda, con una guida solo per voi:
+**Giorno 1, mattina.** **Real Alcázar** alle 9:30, prima fascia (aperto dalle 9:30 alle 17:00 da ottobre a marzo e fino alle 19:00 da aprile a settembre): 2 h 30 con i giardini. Di fronte, la **Cattedrale e la Giralda** (1 h 30), aperte dal lunedì al sabato dalle 10:45 alle 18:00 e la domenica dalle 14:30. Dal 4 al 7 dicembre 2026 la visita ha orari speciali per un congresso internazionale di confraternite e l'8 dicembre è sospesa: controlla il sito della Cattedrale se vai in quei giorni. Se vuoi che ti spieghino entrambi i monumenti senza fare nessuna coda, con una guida solo per voi:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

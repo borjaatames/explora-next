@@ -4,7 +4,7 @@ descripcion: "Navidad en Sevilla 2026: mapping de San Francisco (18:30-23:00), F
 categoria: "sevilla"
 slug: "navidad-sevilla"
 fecha: "2026-05-14"
-fecha_actualizacion: "2026-09-24"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -118,7 +118,7 @@ La **zambomba** es una fiesta de villancicos flamencos con panderetas, botellas 
 | Catedral y Giralda | Según cultos | Según cultos | Según cultos | Según cultos |
 
 - **Real Alcázar:** de octubre a marzo, de 9:30 a 17:00.
-- **Catedral:** de lunes a sábado de 10:45 a 18:00 y domingos de 14:30 a 19:00; 13 € en línea. En fiestas litúrgicas la visita cultural puede cambiar: consulta la agenda de catedraldesevilla.es antes de ir.
+- **Catedral:** de lunes a sábado de 10:45 a 18:00 y domingos de 14:30 a 19:00; 13 € en línea. Del 4 al 7 de diciembre de 2026 la visita tiene horario especial por un congreso internacional de hermandades y el 8 de diciembre se suspende: mira la web de la Catedral si vas esos días. En fiestas litúrgicas la visita cultural puede cambiar: consulta la agenda de catedraldesevilla.es antes de ir.
 
 Con las entradas de diciembre muy demandadas, la **visita privada al Alcázar con guía oficial** te asegura el día y la hora.
 

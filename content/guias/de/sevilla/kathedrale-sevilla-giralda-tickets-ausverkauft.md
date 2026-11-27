@@ -5,7 +5,7 @@ metaTitle: 'Kathedrale Sevilla Tickets: Preis und Giralda'
 categoria: sevilla
 slug: kathedrale-sevilla-giralda-tickets-ausverkauft
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ Die Kathedrale von Sevilla verkauft ihre Tickets **mit fester Einlasszeit und be
 
 ## 1. Die offizielle Website und die Kasse an der Puerta del Príncipe
 
-Der offizielle Verkauf läuft über `catedraldesevilla.es`, das auf die eigene Ticketplattform verlinkt. Das reguläre Ticket für Kathedrale und Giralda kostet **13 € online und 14 € an der Kasse** (ermäßigt 7 € bzw. 8 €) und schließt auch die **Iglesia del Salvador** ein. Die Kathedrale ist Montag bis Samstag von **10:45 bis 19:00 Uhr** und sonntags von **14:30 bis 19:00 Uhr** geöffnet. Wenn dein Datum ausverkauft ist:
+Der offizielle Verkauf läuft über `catedraldesevilla.es`, das auf die eigene Ticketplattform verlinkt. Das reguläre Ticket für Kathedrale und Giralda kostet **13 € online und 14 € an der Kasse** (ermäßigt 7 € bzw. 8 €) und schließt auch die **Iglesia del Salvador** ein. Die Kathedrale ist Montag bis Samstag von **10:45 bis 18:00 Uhr** und sonntags von **14:30 bis 19:00 Uhr** geöffnet. Vom 4. bis 7. Dezember 2026 gelten wegen eines internationalen Bruderschaftskongresses Sonderzeiten, und am 8. Dezember fällt die Besichtigung aus: Schau auf der Website der Kathedrale nach, wenn du an diesen Tagen kommst. Wenn dein Datum ausverkauft ist:
 
 - **Geh alle Uhrzeiten des Tages durch:** Jede Einlasszeit hat ihr eigenes Kontingent, und die am Nachmittag halten meist länger.
 - **Geh zur Kasse:** Sie liegt an der **Puerta del Príncipe** und schließt um **18:00 Uhr**, eine Stunde vor der Kirche. Wer online gekauft hat, geht durch die Puerta del Lagarto hinein. Die Kapazität ist begrenzt, an vollen Tagen gibt es also keine Garantie: Je früher du da bist, desto besser.

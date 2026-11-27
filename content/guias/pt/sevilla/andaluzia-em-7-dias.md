@@ -4,7 +4,7 @@ descripcion: "Roteiro de 7 dias pela Andaluzia de comboio: 2 noites em Sevilha, 
 categoria: "sevilla"
 slug: "andaluzia-em-7-dias"
 fecha: "2026-06-06"
-fecha_actualizacion: "2026-09-23"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -86,7 +86,7 @@ Compre os comboios no site da Renfe assim que tiver datas: os preços baixos des
 
 ## Dias 1 e 2: Sevilha
 
-**Dia 1, manhã.** **Real Alcázar** às 9h30, primeiro período (abre das 9h30 às 17h00 de outubro a março e até às 19h00 de abril a setembro): 2h30 com os jardins. Em frente, a **Catedral e a Giralda** (1h30), que abrem de segunda a sábado das 10h45 às 19h00 e aos domingos a partir das 14h30. Se quiser que lhe expliquem os dois monumentos sem fazer nenhuma fila, com guia só para vocês:
+**Dia 1, manhã.** **Real Alcázar** às 9h30, primeiro período (abre das 9h30 às 17h00 de outubro a março e até às 19h00 de abril a setembro): 2h30 com os jardins. Em frente, a **Catedral e a Giralda** (1h30), que abrem de segunda a sábado das 10h45 às 18h00 e aos domingos a partir das 14h30. De 4 a 7 de dezembro de 2026 a visita tem horário especial devido a um congresso internacional de irmandades e a 8 de dezembro é suspensa: consulte o site da Catedral se for nesses dias. Se quiser que lhe expliquem os dois monumentos sem fazer nenhuma fila, com guia só para vocês:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

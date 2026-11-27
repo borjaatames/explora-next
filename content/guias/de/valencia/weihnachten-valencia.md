@@ -4,7 +4,7 @@ descripcion: "Weihnachten in Valencia 2026: Feuerwerk samstags 18:30 Uhr auf der
 categoria: "valencia"
 slug: "weihnachten-valencia"
 fecha: "2026-07-30"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -27,10 +27,10 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-respuestaCorta: "Weihnachten in Valencia dreht sich um die **Plaza del Ayuntamiento**: Einschalten mit Feuerwerk Ende November (2025 am 21.), **kostenlose Feuerwerk-Musik-Shows jeden Samstag um 18:30 Uhr**, ein 25 Meter hoher Baum und die städtische Krippe. Fünf Minuten entfernt liegt der **Kunsthandwerksmarkt auf der Plaza de la Reina** (2025 vom 29. November bis 6. Januar). Mit Kindern: **Expojove** vom **26. Dezember 2026 bis 4. Januar 2027**, ab 3 €. Der **Dreikönigsumzug** startet am 5. Januar um 17:30 Uhr."
+respuestaCorta: "Weihnachten in Valencia dreht sich um die **Plaza del Ayuntamiento**: Einschalten mit Feuerwerk (2026 am **Freitag, 4. Dezember, um 19:00 Uhr**), **kostenlose Feuerwerk-Musik-Shows jeden Samstag um 18:30 Uhr**, ein 25 Meter hoher Baum und die städtische Krippe. Fünf Minuten entfernt liegt der **Kunsthandwerksmarkt auf der Plaza de la Reina** (2025 vom 29. November bis 6. Januar). Mit Kindern: **Expojove** vom **26. Dezember 2026 bis 4. Januar 2027**, ab 3 €. Der **Dreikönigsumzug** startet am 5. Januar um 17:30 Uhr."
 faq:
   - pregunta: "Wann gehen die Weihnachtslichter in Valencia 2026 an?"
-    respuesta: "Das Datum für 2026 ist noch nicht offiziell. 2025 war das Einschalten am Freitag, 21. November, um 19:30 Uhr auf der Plaza del Ayuntamiento, mit Livemusik, Feuerwerk und einem 25 Meter hohen Baum. Es gab über 300 Lichtbögen und 45 Weihnachtsbäume in den Stadtteilen."
+    respuesta: "2026 werden die Lichter am **Freitag, 4. Dezember, zwischen 19:00 und 20:00 Uhr** auf der Plaza del Ayuntamiento eingeschaltet; die Busse werden ab 17:00 Uhr umgeleitet. 2025 war es am 21. November um 19:30 Uhr, mit Livemusik, Feuerwerk und einem 25 Meter hohen Baum. Es gab über 300 Lichtbögen und 45 Weihnachtsbäume in den Stadtteilen."
   - pregunta: "Wo sind die Weihnachtsmärkte in Valencia?"
     respuesta: "2025 waren die wichtigsten: der Kunsthandwerksmarkt auf der Plaza de la Reina (29. November bis 6. Januar, 30 Holzbuden), der traditionelle Markt in der Calle Hospital und der Avenida del Oeste (10. Dezember bis 4. Januar, 9:00–22:00 Uhr), der Markt an der Stadt der Künste und Wissenschaften beim Umbracle (12. Dezember bis 6. Januar, 50 Stände) und die im Mercado de Colón."
   - pregunta: "Wann ist Expojove 2026?"
@@ -53,7 +53,7 @@ actividades:
 
 | Was | Wo | Wann (Ausgabe 2025/26) | Preis |
 | --- | --- | --- | --- |
-| Einschalten der Lichter mit Feuerwerk | Plaza del Ayuntamiento | 21. November, 19:30 Uhr | Kostenlos |
+| Einschalten der Lichter mit Feuerwerk | Plaza del Ayuntamiento | **4. Dezember 2026, 19:00 Uhr** | Kostenlos |
 | Piromusicales (Feuerwerk mit Musik) | Plaza del Ayuntamiento | Samstags 18:30 Uhr bis 3. Januar, dazu 5. Januar | Kostenlos |
 | 25-m-Baum und städtische Krippe | Plaza del Ayuntamiento | Vom Einschalten bis Dreikönig | Kostenlos |
 | Weihnachts-Kunsthandwerksmarkt | Plaza de la Reina | 29. November – 6. Januar | Kostenlos |
@@ -65,7 +65,7 @@ actividades:
 | Ankunft der Könige per Schiff | Plaza de la Sal, Marina Norte | 5. Januar, 16:30 Uhr | Kostenlos |
 | Dreikönigsumzug | Puente de las Flores – Plaza del Ayuntamiento | 5. Januar, 17:30 Uhr | Kostenlos |
 
-Außer bei Expojove, das seine Termine für 2026 schon veröffentlicht hat, sind das die Daten von 2025/26. Die Stadt stellt ihr Programm im November vor, dann aktualisieren wir den Artikel.
+Das Einschalten (4. Dezember) und Expojove haben schon ihre Termine für 2026; die übrigen sind die von 2025/26, bis die Stadt das ganze Programm 2026/27 veröffentlicht. Prüfe sie vor deinem Besuch.
 
 ## Lichter und Feuerwerk auf der Plaza del Ayuntamiento
 

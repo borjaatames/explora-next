@@ -5,7 +5,7 @@ metaTitle: 'Cattedrale Siviglia biglietti: prezzo e orari'
 categoria: sevilla
 slug: cattedrale-siviglia-giralda-biglietti-esauriti
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ La Cattedrale di Siviglia vende i biglietti **con orario di accesso e posti limi
 
 ## 1. Il sito ufficiale e la biglietteria della Puerta del Príncipe
 
-La vendita ufficiale avviene da `catedraldesevilla.es`, che rimanda alla sua piattaforma di biglietteria. Il biglietto intero per la Cattedrale e la Giralda costa **13 € online e 14 € in biglietteria** (ridotto, 7 € e 8 €) e include anche la **Iglesia del Salvador**. La Cattedrale è aperta dal lunedì al sabato dalle **10:45 alle 19:00** e la domenica dalle **14:30 alle 19:00**. Se la tua data risulta esaurita:
+La vendita ufficiale avviene da `catedraldesevilla.es`, che rimanda alla sua piattaforma di biglietteria. Il biglietto intero per la Cattedrale e la Giralda costa **13 € online e 14 € in biglietteria** (ridotto, 7 € e 8 €) e include anche la **Iglesia del Salvador**. La Cattedrale è aperta dal lunedì al sabato dalle **10:45 alle 18:00** e la domenica dalle **14:30 alle 19:00**. Dal 4 al 7 dicembre 2026 la visita ha orari speciali per un congresso internazionale di confraternite e l'8 dicembre è sospesa: controlla il sito della Cattedrale se vai in quei giorni. Se la tua data risulta esaurita:
 
 - **Controlla tutti gli orari del giorno:** ogni orario di accesso ha la sua quota, e quelli del pomeriggio di solito resistono di più.
 - **Vai in biglietteria:** si trova alla **Puerta del Príncipe** e chiude alle **18:00**, un'ora prima della chiesa. Chi compra online entra dalla Puerta del Lagarto. I posti sono limitati, quindi nei giorni di punta non c'è garanzia: prima arrivi, meglio è.

@@ -5,7 +5,7 @@ metaTitle: 'Entradas Catedral Sevilla y Giralda: precio'
 categoria: sevilla
 slug: catedral-sevilla-giralda-entradas-agotadas
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ La Catedral de Sevilla vende sus entradas **con hora de acceso y aforo limitado*
 
 ## 1. La web oficial y la taquilla de la Puerta del Príncipe
 
-La venta oficial se hace desde `catedraldesevilla.es`, que enlaza a su plataforma de entradas. La entrada general a la Catedral y la Giralda cuesta **13 € online y 14 € en taquilla** (reducida, 7 € y 8 €) e incluye también la **Iglesia del Salvador**. La Catedral abre de lunes a sábado de **10:45 a 19:00** y los domingos de **14:30 a 19:00**. Si tu fecha sale agotada:
+La venta oficial se hace desde `catedraldesevilla.es`, que enlaza a su plataforma de entradas. La entrada general a la Catedral y la Giralda cuesta **13 € online y 14 € en taquilla** (reducida, 7 € y 8 €) e incluye también la **Iglesia del Salvador**. La Catedral abre de lunes a sábado de **10:45 a 18:00** y los domingos de **14:30 a 19:00**. Del 4 al 7 de diciembre de 2026 la visita tiene horario especial por un congreso internacional de hermandades y el 8 de diciembre se suspende: mira la web de la Catedral si vas esos días. Si tu fecha sale agotada:
 
 - **Mira todas las horas del día:** cada hora de acceso tiene su propio cupo, y las de la tarde suelen aguantar más.
 - **Ve a la taquilla:** está en la **Puerta del Príncipe** y cierra a las **18:00**, una hora antes que el templo. Quien compra online entra por la Puerta del Lagarto. El aforo es limitado, así que en días fuertes no hay garantía: cuanto antes llegues, mejor.

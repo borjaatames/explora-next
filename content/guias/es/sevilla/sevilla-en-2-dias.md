@@ -4,7 +4,7 @@ descripcion: "Sevilla en 2 días: Alcázar a las 9:30 (15,50 €), Catedral y Gi
 categoria: "sevilla"
 slug: "sevilla-en-2-dias"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Dos días bastan para la Sevilla imprescindible si el primero lo dedicas a los m
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Catedral y Giralda**, cruzando la plaza (2 minutos). Abre de lunes a sábado de 10:45 a 19:00 y los domingos de 14:30 a 19:00. La tumba de Colón, el retablo mayor y la subida a la Giralda por rampas, sin escaleras: 1 h 30. La entrada incluye también la iglesia del Salvador, que puedes dejar para el día 2. Si prefieres no preocuparte de horas ni colas y que un guía oficial os explique los dos monumentos solo a vosotros, este tour lo resuelve en 3 horas con las entradas:
+**12:30 — Catedral y Giralda**, cruzando la plaza (2 minutos). Abre de lunes a sábado de 10:45 a 18:00 y los domingos de 14:30 a 19:00. Del 4 al 7 de diciembre de 2026 la visita tiene horario especial por un congreso internacional de hermandades y el 8 de diciembre se suspende: mira la web de la Catedral si vas esos días. La tumba de Colón, el retablo mayor y la subida a la Giralda por rampas, sin escaleras: 1 h 30. La entrada incluye también la iglesia del Salvador, que puedes dejar para el día 2. Si prefieres no preocuparte de horas ni colas y que un guía oficial os explique los dos monumentos solo a vosotros, este tour lo resuelve en 3 horas con las entradas:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

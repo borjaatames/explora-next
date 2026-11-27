@@ -5,7 +5,7 @@ metaTitle: 'Catedral de Sevilha bilhetes: preço e Giralda'
 categoria: sevilla
 slug: catedral-de-sevilha-giralda-bilhetes-esgotados
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ A Catedral de Sevilha vende os seus bilhetes **com hora de acesso e lotação li
 
 ## 1. O site oficial e a bilheteira da Puerta del Príncipe
 
-A venda oficial faz-se a partir de `catedraldesevilla.es`, que tem ligação para a sua plataforma de bilhetes. O bilhete geral para a Catedral e a Giralda custa **13 € online e 14 € na bilheteira** (reduzido, 7 € e 8 €) e inclui também a **Igreja do Salvador**. A Catedral abre de segunda a sábado das **10h45 às 19h00** e aos domingos das **14h30 às 19h00**. Se a sua data estiver esgotada:
+A venda oficial faz-se a partir de `catedraldesevilla.es`, que tem ligação para a sua plataforma de bilhetes. O bilhete geral para a Catedral e a Giralda custa **13 € online e 14 € na bilheteira** (reduzido, 7 € e 8 €) e inclui também a **Igreja do Salvador**. A Catedral abre de segunda a sábado das **10h45 às 18h00** e aos domingos das **14h30 às 19h00**. De 4 a 7 de dezembro de 2026 a visita tem horário especial devido a um congresso internacional de irmandades e a 8 de dezembro é suspensa: consulte o site da Catedral se for nesses dias. Se a sua data estiver esgotada:
 
 - **Veja todas as horas do dia:** cada hora de acesso tem a sua própria quota, e as da tarde costumam aguentar mais.
 - **Vá à bilheteira:** fica na **Puerta del Príncipe** e fecha às **18h00**, uma hora antes do templo. Quem compra online entra pela Puerta del Lagarto. A lotação é limitada, por isso em dias fortes não há garantia: quanto mais cedo chegar, melhor.

@@ -5,7 +5,7 @@ metaTitle: 'Museu do Prado bilhetes: preço e horário'
 categoria: madrid
 slug: museu-do-prado-bilhetes-esgotados
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-10-31"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -89,7 +89,7 @@ A coleção permanente é **grátis nas duas últimas horas de cada dia**: de se
 
 Os bilhetes gratuitos levantam-se **na bilheteira até esgotar a lotação**, e aí está o problema: a fila. Começa a formar-se muito antes da hora grátis e aos domingos e feriados pode ultrapassar uma hora de espera. Se for, chegue com tempo e leve uma lista curta de obras: em hora e meia dá para Velázquez, Goya e Bosch, pouco mais. Também é grátis todo o dia a **18 de maio** (Dia dos Museus) e a **19 de novembro** (aniversário do museu).
 
-Outra opção menos conhecida é **El Prado de noche**: no **primeiro sábado de cada mês**, das **20h30 às 23h30**, o museu abre gratuitamente parte das suas salas, com entrada pela porta de los Jerónimos e até esgotar a lotação. A próxima edição é no sábado, 7 de novembro.
+Outra opção menos conhecida é **El Prado de noche**: no **primeiro sábado de cada mês**, das **20h30 às 23h30**, o museu abre gratuitamente parte das suas salas, com entrada pela porta de los Jerónimos e até esgotar a lotação. A próxima edição é no sábado, 5 de dezembro (o museu confirma cada data no seu site).
 
 ## 4. Um bilhete de revenda ou uma visita guiada
 

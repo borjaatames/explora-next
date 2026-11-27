@@ -4,7 +4,7 @@ descripcion: "Natale a Siviglia 2026: mapping di Plaza de San Francisco (18:30-2
 categoria: "sevilla"
 slug: "natale-a-siviglia"
 fecha: "2026-05-14"
-fecha_actualizacion: "2026-09-24"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -118,7 +118,7 @@ La **zambomba** è una festa di canti natalizi flamenchi con tamburelli, bottigl
 | Cattedrale e Giralda | In base alle funzioni | In base alle funzioni | In base alle funzioni | In base alle funzioni |
 
 - **Real Alcázar:** da ottobre a marzo, dalle 9:30 alle 17:00.
-- **Cattedrale:** dal lunedì al sabato dalle 10:45 alle 18:00 e la domenica dalle 14:30 alle 19:00; 13 € online. Nelle feste liturgiche la visita culturale può cambiare: consulta il calendario su catedraldesevilla.es prima di andare.
+- **Cattedrale:** dal lunedì al sabato dalle 10:45 alle 18:00 e la domenica dalle 14:30 alle 19:00; 13 € online. Dal 4 al 7 dicembre 2026 la visita ha orari speciali per un congresso internazionale di confraternite e l'8 dicembre è sospesa: controlla il sito della Cattedrale se vai in quei giorni. Nelle feste liturgiche la visita culturale può cambiare: consulta il calendario su catedraldesevilla.es prima di andare.
 
 Con i biglietti di dicembre molto richiesti, la **visita privata all'Alcázar con guida ufficiale** ti garantisce giorno e ora.
 

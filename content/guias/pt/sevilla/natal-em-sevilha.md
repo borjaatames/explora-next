@@ -4,7 +4,7 @@ descripcion: "Natal em Sevilha 2026: mapping de San Francisco (18h30-23h00), Fei
 categoria: "sevilla"
 slug: "natal-em-sevilha"
 fecha: "2026-05-14"
-fecha_actualizacion: "2026-09-24"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -118,7 +118,7 @@ A **zambomba** é uma festa de cânticos de Natal flamencos com pandeiretas, gar
 | Catedral e Giralda | Consoante o culto | Consoante o culto | Consoante o culto | Consoante o culto |
 
 - **Real Alcázar:** de outubro a março, das 9h30 às 17h00.
-- **Catedral:** de segunda a sábado das 10h45 às 18h00 e aos domingos das 14h30 às 19h00; 13 € online. Nas festas litúrgicas a visita cultural pode mudar: consulte a agenda de catedraldesevilla.es antes de ir.
+- **Catedral:** de segunda a sábado das 10h45 às 18h00 e aos domingos das 14h30 às 19h00; 13 € online. De 4 a 7 de dezembro de 2026 a visita tem horário especial devido a um congresso internacional de irmandades e a 8 de dezembro é suspensa: consulte o site da Catedral se for nesses dias. Nas festas litúrgicas a visita cultural pode mudar: consulte a agenda de catedraldesevilla.es antes de ir.
 
 Com os bilhetes de dezembro muito procurados, a **visita privada ao Alcázar com guia oficial** garante-lhe o dia e a hora.
 

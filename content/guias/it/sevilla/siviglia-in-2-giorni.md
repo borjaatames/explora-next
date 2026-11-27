@@ -4,7 +4,7 @@ descripcion: "Siviglia in 2 giorni: Alcázar alle 9:30 (15,50 €), Cattedrale e
 categoria: "sevilla"
 slug: "siviglia-in-2-giorni"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Due giorni bastano per la Siviglia imperdibile se il primo lo dedichi ai monumen
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Cattedrale e Giralda**, attraversando la piazza (2 minuti). Aperta dal lunedì al sabato dalle 10:45 alle 19:00 e la domenica dalle 14:30 alle 19:00. La tomba di Colombo, la pala dell'altare maggiore e la salita alla Giralda su rampe, senza scale: 1 h 30. Il biglietto include anche la chiesa del Salvador, che puoi lasciare per il giorno 2. Se preferisci non preoccuparti di orari né di code e farti spiegare i due monumenti da una guida ufficiale solo per voi, questo tour risolve tutto in 3 ore con i biglietti:
+**12:30 — Cattedrale e Giralda**, attraversando la piazza (2 minuti). Aperta dal lunedì al sabato dalle 10:45 alle 18:00 e la domenica dalle 14:30 alle 19:00. Dal 4 al 7 dicembre 2026 la visita ha orari speciali per un congresso internazionale di confraternite e l'8 dicembre è sospesa: controlla il sito della Cattedrale se vai in quei giorni. La tomba di Colombo, la pala dell'altare maggiore e la salita alla Giralda su rampe, senza scale: 1 h 30. Il biglietto include anche la chiesa del Salvador, che puoi lasciare per il giorno 2. Se preferisci non preoccuparti di orari né di code e farti spiegare i due monumenti da una guida ufficiale solo per voi, questo tour risolve tutto in 3 ore con i biglietti:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

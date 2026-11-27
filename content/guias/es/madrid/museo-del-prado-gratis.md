@@ -5,7 +5,7 @@ metaTitle: 'Museo del Prado gratis: horario y cola'
 categoria: madrid
 slug: museo-del-prado-gratis
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-27"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -84,9 +84,9 @@ Hay que **enseñar en taquilla un documento vigente** que lo acredite el mismo d
 
 ## Días gratis todo el día y El Prado de noche
 
-Algunos días el Prado no cobra en todo el horario. Los habituales son el **18 de mayo** (Día Internacional de los Museos), el **12 de octubre** y el **19 de noviembre**, aniversario del museo; este año, el 19 cae en jueves. El museo los confirma cada año en su web, así que compruébalo antes de organizar el viaje en torno a ellos. Esos días la cola es la más larga del año.
+Algunos días el Prado no cobra en todo el horario. Los habituales son el **18 de mayo** (Día Internacional de los Museos), el **12 de octubre** y el **19 de noviembre**, aniversario del museo. El museo los confirma cada año en su web, así que compruébalo antes de organizar el viaje en torno a ellos. Esos días la cola es la más larga del año.
 
-La alternativa menos conocida es **El Prado de noche**: el **primer sábado de cada mes**, de **20:30 a 23:30**, abre gratis las salas del edificio Jerónimos, con entrada por la **puerta de los Jerónimos** y último acceso a las 23:00. No hay entrada: se pasa por orden de llegada hasta completar aforo. La próxima edición es el **sábado 7 de noviembre**.
+La alternativa menos conocida es **El Prado de noche**: el **primer sábado de cada mes**, de **20:30 a 23:30**, abre gratis las salas del edificio Jerónimos, con entrada por la **puerta de los Jerónimos** y último acceso a las 23:00. No hay entrada: se pasa por orden de llegada hasta completar aforo. La próxima edición es el **sábado 5 de diciembre (el museo confirma cada fecha en su web)**.
 
 ## La cola real: a qué hora llegar
 

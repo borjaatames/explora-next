@@ -4,7 +4,7 @@ descripcion: "Noël à Valence 2026 : piromusicales le samedi à 18 h 30 sur la 
 categoria: "valencia"
 slug: "noel-a-valence"
 fecha: "2026-07-30"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -28,10 +28,10 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-respuestaCorta: 'Le Noël valencien tourne autour de la **Plaza del Ayuntamiento** : allumage avec pyrotechnie fin novembre (le 21 en 2025), **piromusicales gratuits chaque samedi à 18 h 30**, sapin de 25 mètres et crèche municipale. À cinq minutes, la **Foire d''artisanat de la Plaza de la Reina** (du 29 novembre au 6 janvier en 2025). Avec des enfants, **Expojove** a lieu **du 26 décembre 2026 au 4 janvier 2027**, à partir de 3 €. Le **défilé des Rois mages** part le 5 janvier à 17 h 30.'
+respuestaCorta: 'Le Noël valencien tourne autour de la **Plaza del Ayuntamiento** : allumage avec pyrotechnie (en 2026, le **vendredi 4 décembre à 19 h**), **piromusicales gratuits chaque samedi à 18 h 30**, sapin de 25 mètres et crèche municipale. À cinq minutes, la **Foire d''artisanat de la Plaza de la Reina** (du 29 novembre au 6 janvier en 2025). Avec des enfants, **Expojove** a lieu **du 26 décembre 2026 au 4 janvier 2027**, à partir de 3 €. Le **défilé des Rois mages** part le 5 janvier à 17 h 30.'
 faq:
   - pregunta: "Quand s'allument les illuminations de Noël de Valence en 2026 ?"
-    respuesta: "La date 2026 n'est pas encore officielle. En 2025, l'allumage a eu lieu le vendredi 21 novembre à 19 h 30 sur la Plaza del Ayuntamiento, avec musique live, un piromusical et un sapin de 25 mètres. Il y avait plus de 300 arches et 45 sapins de Noël répartis dans les quartiers et les hameaux."
+    respuesta: "En 2026, l'allumage a lieu le **vendredi 4 décembre, de 19 h à 20 h**, sur la Plaza del Ayuntamiento ; les bus sont déviés dès 17 h. En 2025, c'était le 21 novembre à 19 h 30, avec musique live, un piromusical et un sapin de 25 mètres. Il y avait plus de 300 arches et 45 sapins de Noël répartis dans les quartiers et les hameaux."
   - pregunta: "Où se trouvent les marchés de Noël à Valence ?"
     respuesta: "Les principaux en 2025 étaient la Foire d'artisanat de la Plaza de la Reina (du 29 novembre au 6 janvier, avec 30 chalets en bois), le marché populaire de la calle Hospital et de l'avenida del Oeste (du 10 décembre au 4 janvier, de 9 h à 22 h), le marché de la Ciutat de les Arts près de l'Umbracle (du 12 décembre au 6 janvier, avec 50 stands) et ceux du Mercado de Colón."
   - pregunta: "Quand a lieu Expojove 2026 ?"
@@ -54,7 +54,7 @@ actividades:
 
 | Quoi | Où | Quand (édition 2025-26) | Prix |
 | --- | --- | --- | --- |
-| Allumage des illuminations et piromusical | Plaza del Ayuntamiento | 21 novembre, 19 h 30 | Gratuit |
+| Allumage des illuminations et piromusical | Plaza del Ayuntamiento | **4 décembre 2026, 19 h** | Gratuit |
 | Piromusicales | Plaza del Ayuntamiento | Le samedi à 18 h 30, jusqu'au 3 janvier, et le 5 janvier | Gratuit |
 | Sapin de 25 m et crèche municipale | Plaza del Ayuntamiento | De l'allumage jusqu'à l'Épiphanie | Gratuit |
 | Foire d'artisanat de Noël | Plaza de la Reina | 29 novembre – 6 janvier | Gratuit |
@@ -66,7 +66,7 @@ actividades:
 | Arrivée des Rois mages par la mer | Plaza de la Sal, Marina Norte | 5 janvier, 16 h 30 | Gratuit |
 | Défilé des Rois mages | Puente de las Flores – Plaza del Ayuntamiento | 5 janvier, 17 h 30 | Gratuit |
 
-Sauf pour Expojove, qui a déjà publié ses dates 2026, ce sont celles de l'édition 2025-26. La mairie présente le programme en novembre et nous mettrons le guide à jour dès sa parution.
+L'allumage (4 décembre) et Expojove ont déjà leurs dates 2026 ; les autres sont celles de l'édition 2025-26, en attendant le programme complet 2026-27 de la mairie. Vérifiez-les avant de partir.
 
 ## Illuminations et pyrotechnie sur la Plaza del Ayuntamiento
 

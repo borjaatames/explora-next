@@ -4,7 +4,7 @@ descripcion: "Sevilha em 2 dias: Alcázar às 9h30 (15,50 €), Catedral e Giral
 categoria: "sevilla"
 slug: "sevilha-em-2-dias"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Dois dias chegam para a Sevilha imprescindível se dedicar o primeiro aos monume
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12h30 — Catedral e Giralda**, atravessando a praça (2 minutos). Abre de segunda a sábado das 10h45 às 19h00 e aos domingos das 14h30 às 19h00. O túmulo de Colombo, o retábulo-mor e a subida à Giralda por rampas, sem escadas: 1h30. O bilhete inclui também a igreja do Salvador, que pode deixar para o dia 2. Se preferir não se preocupar com horas nem filas e que um guia oficial vos explique os dois monumentos só a vocês, este tour resolve tudo em 3 horas com os bilhetes:
+**12h30 — Catedral e Giralda**, atravessando a praça (2 minutos). Abre de segunda a sábado das 10h45 às 18h00 e aos domingos das 14h30 às 19h00. De 4 a 7 de dezembro de 2026 a visita tem horário especial devido a um congresso internacional de irmandades e a 8 de dezembro é suspensa: consulte o site da Catedral se for nesses dias. O túmulo de Colombo, o retábulo-mor e a subida à Giralda por rampas, sem escadas: 1h30. O bilhete inclui também a igreja do Salvador, que pode deixar para o dia 2. Se preferir não se preocupar com horas nem filas e que um guia oficial vos explique os dois monumentos só a vocês, este tour resolve tudo em 3 horas com os bilhetes:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

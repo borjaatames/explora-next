@@ -5,7 +5,7 @@ metaTitle: 'Billet cathédrale de Séville et Giralda'
 categoria: sevilla
 slug: cathedrale-de-seville-giralda-billets-epuises
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ La cathédrale de Séville vend ses billets **avec une heure d'accès et une jau
 
 ## 1. Le site officiel et le guichet de la Puerta del Príncipe
 
-La vente officielle se fait depuis `catedraldesevilla.es`, qui renvoie vers sa plateforme de billetterie. Le billet plein tarif pour la cathédrale et la Giralda coûte **13 € en ligne et 14 € au guichet** (réduit, 7 € et 8 €) et comprend aussi l'**église del Salvador**. La cathédrale ouvre du lundi au samedi de **10 h 45 à 19 h** et le dimanche de **14 h 30 à 19 h**. Si votre date est complète :
+La vente officielle se fait depuis `catedraldesevilla.es`, qui renvoie vers sa plateforme de billetterie. Le billet plein tarif pour la cathédrale et la Giralda coûte **13 € en ligne et 14 € au guichet** (réduit, 7 € et 8 €) et comprend aussi l'**église del Salvador**. La cathédrale ouvre du lundi au samedi de **10 h 45 à 18 h** et le dimanche de **14 h 30 à 19 h**. Du 4 au 7 décembre 2026, la visite a des horaires spéciaux en raison d'un congrès international de confréries, et elle est suspendue le 8 décembre : consultez le site de la cathédrale si vous y allez ces jours-là. Si votre date est complète :
 
 - **Regardez toutes les heures de la journée :** chaque heure d'accès a son propre quota, et celles de l'après-midi tiennent généralement plus longtemps.
 - **Allez au guichet :** il se trouve à la **Puerta del Príncipe** et ferme à **18 h**, une heure avant l'édifice. Ceux qui achètent en ligne entrent par la Puerta del Lagarto. La jauge est limitée : les jours d'affluence, il n'y a aucune garantie, alors plus vous arrivez tôt, mieux c'est.

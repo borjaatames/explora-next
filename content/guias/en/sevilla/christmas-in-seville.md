@@ -4,7 +4,7 @@ descripcion: "Christmas in Seville 2026: free Plaza de San Francisco light show 
 categoria: "sevilla"
 slug: "christmas-in-seville"
 fecha: "2026-05-14"
-fecha_actualizacion: "2026-09-24"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -117,7 +117,7 @@ A **zambomba** is a party of flamenco Christmas carols, with tambourines, anís 
 | Cathedral and Giralda | Depends on services | Depends on services | Depends on services | Depends on services |
 
 - **Real Alcázar:** October to March, 9:30 to 17:00.
-- **Cathedral:** Monday to Saturday 10:45 to 18:00 and Sundays 14:30 to 19:00; €13 online. On major feast days the visit can change, so check the calendar on catedraldesevilla.es before you go.
+- **Cathedral:** Monday to Saturday 10:45 to 18:00 and Sundays 14:30 to 19:00; €13 online. From 4 to 7 December 2026 the visit has special hours for an international congress of brotherhoods, and on 8 December it is suspended: check the cathedral website if you go those days. On major feast days the visit can change, so check the calendar on catedraldesevilla.es before you go.
 
 December tickets are in high demand, so the **private Alcázar tour with an official guide** locks in your day and time.
 

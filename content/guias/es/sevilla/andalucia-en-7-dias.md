@@ -4,7 +4,7 @@ descripcion: "Ruta de 7 días por Andalucía en tren: 2 noches en Sevilla, 1 en 
 categoria: "sevilla"
 slug: "andalucia-en-7-dias"
 fecha: "2026-06-06"
-fecha_actualizacion: "2026-09-23"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -86,7 +86,7 @@ Compra los trenes en la web de Renfe en cuanto tengas fechas: los precios bajos 
 
 ## Días 1 y 2: Sevilla
 
-**Día 1, mañana.** **Real Alcázar** a las 9:30, primera franja (abre de 9:30 a 17:00 de octubre a marzo y hasta las 19:00 de abril a septiembre): 2 h 30 con los jardines. Enfrente, la **Catedral y la Giralda** (1 h 30), que abren de lunes a sábado de 10:45 a 19:00 y los domingos desde las 14:30. Si quieres que te expliquen los dos monumentos sin hacer ninguna cola, con guía solo para vosotros:
+**Día 1, mañana.** **Real Alcázar** a las 9:30, primera franja (abre de 9:30 a 17:00 de octubre a marzo y hasta las 19:00 de abril a septiembre): 2 h 30 con los jardines. Enfrente, la **Catedral y la Giralda** (1 h 30), que abren de lunes a sábado de 10:45 a 18:00 y los domingos desde las 14:30. Del 4 al 7 de diciembre de 2026 la visita tiene horario especial por un congreso internacional de hermandades y el 8 de diciembre se suspende: mira la web de la Catedral si vas esos días. Si quieres que te expliquen los dos monumentos sin hacer ninguna cola, con guía solo para vosotros:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

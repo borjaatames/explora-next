@@ -4,7 +4,7 @@ descripcion: "Séville en 2 jours : Alcázar à 9 h 30 (15,50 €), cathédrale 
 categoria: "sevilla"
 slug: "seville-en-2-jours"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Deux jours suffisent pour la Séville incontournable si vous consacrez le premie
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12 h 30 — Cathédrale et Giralda**, de l'autre côté de la place (2 minutes). Ouverte du lundi au samedi de 10 h 45 à 19 h et le dimanche de 14 h 30 à 19 h. Le tombeau de Christophe Colomb, le grand retable et la montée à la Giralda par des rampes, sans escaliers : 1 h 30. Le billet comprend aussi l'église del Salvador, que vous pouvez garder pour le jour 2. Si vous préférez ne pas vous soucier des horaires ni des files et qu'un guide officiel vous explique les deux monuments rien qu'à vous, cette visite règle tout en 3 heures avec les entrées :
+**12 h 30 — Cathédrale et Giralda**, de l'autre côté de la place (2 minutes). Ouverte du lundi au samedi de 10 h 45 à 18 h et le dimanche de 14 h 30 à 19 h. Du 4 au 7 décembre 2026, la visite a des horaires spéciaux en raison d'un congrès international de confréries, et elle est suspendue le 8 décembre : consultez le site de la cathédrale si vous y allez ces jours-là. Le tombeau de Christophe Colomb, le grand retable et la montée à la Giralda par des rampes, sans escaliers : 1 h 30. Le billet comprend aussi l'église del Salvador, que vous pouvez garder pour le jour 2. Si vous préférez ne pas vous soucier des horaires ni des files et qu'un guide officiel vous explique les deux monuments rien qu'à vous, cette visite règle tout en 3 heures avec les entrées :
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

@@ -4,7 +4,7 @@ descripcion: "Seville in 2 days: the Alcázar at 9:30 (€15.50), Cathedral and 
 categoria: "sevilla"
 slug: "seville-in-2-days"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Two days covers the essential Seville if you give the first to the ticketed monu
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Cathedral and Giralda**, across the square (2 minutes). Open Monday to Saturday 10:45-19:00 and Sundays 14:30-19:00. Columbus's tomb, the high altarpiece and the climb up the Giralda by ramps rather than stairs: 1 h 30. The ticket also covers the Church of El Salvador, which you can leave for day 2. If you'd rather not juggle time slots and queues, and want an official guide just for your group, this 3-hour tour covers both monuments with tickets:
+**12:30 — Cathedral and Giralda**, across the square (2 minutes). Open Monday to Saturday 10:45-18:00 and Sundays 14:30-19:00. From 4 to 7 December 2026 the visit has special hours for an international congress of brotherhoods, and on 8 December it is suspended: check the cathedral website if you go those days. Columbus's tomb, the high altarpiece and the climb up the Giralda by ramps rather than stairs: 1 h 30. The ticket also covers the Church of El Salvador, which you can leave for day 2. If you'd rather not juggle time slots and queues, and want an official guide just for your group, this 3-hour tour covers both monuments with tickets:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

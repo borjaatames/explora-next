@@ -5,7 +5,7 @@ metaTitle: 'Prado kostenlos: Gratiszeiten und Schlange'
 categoria: madrid
 slug: prado-museum-kostenlos
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-27"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -83,9 +83,9 @@ Du musst **an der Kasse einen gültigen Nachweis** vorzeigen, am Tag des Besuchs
 
 ## Gratistage und El Prado de noche
 
-An einigen Tagen verlangt der Prado den ganzen Tag keinen Eintritt. Üblich sind der **18. Mai** (Internationaler Museumstag), der **12. Oktober** und der **19. November**, der Jahrestag des Museums; dieses Jahr fällt er auf einen Donnerstag. Das Museum bestätigt die Termine jedes Jahr auf seiner Website, also prüf das, bevor du deine Reise danach planst. An diesen Tagen sind die Schlangen am längsten.
+An einigen Tagen verlangt der Prado den ganzen Tag keinen Eintritt. Üblich sind der **18. Mai** (Internationaler Museumstag), der **12. Oktober** und der **19. November**, der Jahrestag des Museums. Das Museum bestätigt die Termine jedes Jahr auf seiner Website, also prüf das, bevor du deine Reise danach planst. An diesen Tagen sind die Schlangen am längsten.
 
-Weniger bekannt ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Jerónimos-Gebäude von **20:30 bis 23:30 Uhr** kostenlos, mit Einlass durch die **Puerta de los Jerónimos** und letztem Einlass um 23:00 Uhr. Tickets gibt es nicht: Wer zuerst kommt, kommt zuerst rein, bis die Kapazität erreicht ist. Der nächste Termin ist **Samstag, der 7. November**.
+Weniger bekannt ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Jerónimos-Gebäude von **20:30 bis 23:30 Uhr** kostenlos, mit Einlass durch die **Puerta de los Jerónimos** und letztem Einlass um 23:00 Uhr. Tickets gibt es nicht: Wer zuerst kommt, kommt zuerst rein, bis die Kapazität erreicht ist. Der nächste Termin ist **Samstag, der 5. Dezember (das Museum bestätigt jeden Termin auf seiner Website)**.
 
 ## Die echte Schlange: wann du da sein solltest
 

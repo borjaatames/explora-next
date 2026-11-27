@@ -4,7 +4,7 @@ descripcion: "Natale a Valencia 2026: piromusicales il sabato alle 18:30 in Plaz
 categoria: "valencia"
 slug: "natale-a-valencia"
 fecha: "2026-07-30"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -28,10 +28,10 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-respuestaCorta: 'Il Natale valenciano ruota intorno a **Plaza del Ayuntamiento**: accensione con fuochi d''artificio a fine novembre (il 21 nel 2025), **piromusicales gratuiti ogni sabato alle 18:30**, albero di 25 metri e presepe comunale. A cinque minuti, la **Fiera dell''Artigianato di Plaza de la Reina** (dal 29 novembre al 6 gennaio nel 2025). Con i bambini, **Expojove** va dal **26 dicembre 2026 al 4 gennaio 2027**, da 3 €. La **Cabalgata** parte il 5 gennaio alle 17:30.'
+respuestaCorta: 'Il Natale valenciano ruota intorno a **Plaza del Ayuntamiento**: accensione con fuochi d''artificio (nel 2026, **venerdì 4 dicembre alle 19:00**), **piromusicales gratuiti ogni sabato alle 18:30**, albero di 25 metri e presepe comunale. A cinque minuti, la **Fiera dell''Artigianato di Plaza de la Reina** (dal 29 novembre al 6 gennaio nel 2025). Con i bambini, **Expojove** va dal **26 dicembre 2026 al 4 gennaio 2027**, da 3 €. La **Cabalgata** parte il 5 gennaio alle 17:30.'
 faq:
   - pregunta: "Quando si accendono le luci di Natale a Valencia nel 2026?"
-    respuesta: "La data del 2026 non è ancora ufficiale. Nel 2025 l'accensione è stata venerdì 21 novembre alle 19:30 in Plaza del Ayuntamiento, con musica dal vivo, un piromusical e un albero di 25 metri. Ci sono stati più di 300 archi luminosi e 45 alberi di Natale distribuiti tra quartieri e frazioni."
+    respuesta: "Nel 2026 l'accensione è **venerdì 4 dicembre, dalle 19:00 alle 20:00**, in Plaza del Ayuntamiento; gli autobus vengono deviati dalle 17:00. Nel 2025 è stata il 21 novembre alle 19:30, con musica dal vivo, un piromusical e un albero di 25 metri. Ci sono stati più di 300 archi luminosi e 45 alberi di Natale distribuiti tra quartieri e frazioni."
   - pregunta: "Dove sono i mercatini di Natale a Valencia?"
     respuesta: "I principali nel 2025 sono stati la Fiera dell'Artigianato di Plaza de la Reina (dal 29 novembre al 6 gennaio, con 30 casette di legno), il mercatino popolare di calle Hospital e avenida del Oeste (dal 10 dicembre al 4 gennaio, dalle 9:00 alle 22:00), il mercato della Ciutat de les Arts vicino all'Umbracle (dal 12 dicembre al 6 gennaio, con 50 bancarelle) e quelli del Mercado de Colón."
   - pregunta: "Quando è Expojove 2026?"
@@ -54,7 +54,7 @@ actividades:
 
 | Cosa | Dove | Quando (edizione 2025-26) | Prezzo |
 | --- | --- | --- | --- |
-| Accensione delle luci e piromusical | Plaza del Ayuntamiento | 21 novembre, 19:30 | Gratis |
+| Accensione delle luci e piromusical | Plaza del Ayuntamiento | **4 dicembre 2026, 19:00** | Gratis |
 | Piromusicales | Plaza del Ayuntamiento | Il sabato alle 18:30, fino al 3 gennaio, e il 5 gennaio | Gratis |
 | Albero di 25 m e presepe comunale | Plaza del Ayuntamiento | Dall'accensione fino all'Epifania | Gratis |
 | Fiera dell'Artigianato di Natale | Plaza de la Reina | 29 novembre – 6 gennaio | Gratis |
@@ -66,7 +66,7 @@ actividades:
 | Arrivo dei Re Magi dal mare | Plaza de la Sal, Marina Norte | 5 gennaio, 16:30 | Gratis |
 | Cabalgata dei Re Magi | Puente de las Flores – Plaza del Ayuntamiento | 5 gennaio, 17:30 | Gratis |
 
-Tranne Expojove, che ha già pubblicato le date del 2026, sono quelle dell'edizione 2025-26. Il Comune presenta il programma a novembre e aggiorneremo la guida quando esce.
+L'accensione (4 dicembre) ed Expojove hanno già le date del 2026; le altre sono quelle dell'edizione 2025-26, in attesa del programma completo 2026-27 del Comune. Controllale prima di andare.
 
 ## Luci e fuochi d'artificio in Plaza del Ayuntamiento
 

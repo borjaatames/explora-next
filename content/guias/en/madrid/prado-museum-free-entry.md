@@ -5,7 +5,7 @@ metaTitle: 'Prado Museum free hours and free entry'
 categoria: madrid
 slug: prado-museum-free-entry
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-27"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -84,9 +84,9 @@ You need to **show valid proof at the box office** on the day. Over-65s, youth c
 
 ## Free days and El Prado de noche
 
-On a few days the Prado doesn't charge at all. The usual ones are **18 May** (International Museum Day), **12 October** and **19 November**, the museum's anniversary; this year the 19th is a Thursday. The museum confirms them each year on its website, so check before planning your trip around them. Those are the longest queues of the year.
+On a few days the Prado doesn't charge at all. The usual ones are **18 May** (International Museum Day), **12 October** and **19 November**, the museum's anniversary. The museum confirms them each year on its website, so check before planning your trip around them. Those are the longest queues of the year.
 
-The lesser-known option is **El Prado de noche**: on the **first Saturday of every month**, from **20:30 to 23:30**, the Jerónimos building opens for free, with entry through the **Jerónimos Gate** and last entry at 23:00. There are no tickets: it's first come, first served until capacity is reached. The next one is **Saturday 7 November**.
+The lesser-known option is **El Prado de noche**: on the **first Saturday of every month**, from **20:30 to 23:30**, the Jerónimos building opens for free, with entry through the **Jerónimos Gate** and last entry at 23:00. There are no tickets: it's first come, first served until capacity is reached. The next one is **Saturday 5 December (the museum confirms each date on its website)**.
 
 ## The real queue: when to get there
 

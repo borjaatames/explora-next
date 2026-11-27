@@ -5,7 +5,7 @@ metaTitle: 'Entradas Museo del Prado: precio y horario'
 categoria: madrid
 slug: museo-del-prado-entradas-agotadas
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-10-31"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -89,7 +89,7 @@ La colección permanente es **gratis las dos últimas horas de cada día**: de l
 
 Las entradas gratuitas se recogen **en taquilla hasta completar aforo**, y ahí está el problema: la cola. Empieza a formarse mucho antes de la hora gratis y en domingos y festivos puede superar la hora de espera. Si vas, llega con tiempo y lleva una lista corta de obras: en hora y media da para Velázquez, Goya y El Bosco, poco más. También es gratis todo el día el **18 de mayo** (Día de los Museos) y el **19 de noviembre** (aniversario del museo).
 
-Otra opción menos conocida es **El Prado de noche**: el **primer sábado de cada mes**, de **20:30 a 23:30**, el museo abre gratis parte de sus salas, con entrada por la puerta de los Jerónimos y hasta completar aforo. La próxima edición es el sábado 7 de noviembre.
+Otra opción menos conocida es **El Prado de noche**: el **primer sábado de cada mes**, de **20:30 a 23:30**, el museo abre gratis parte de sus salas, con entrada por la puerta de los Jerónimos y hasta completar aforo. La próxima edición es el sábado 5 de diciembre (el museo confirma cada fecha en su web).
 
 ## 4. Una entrada de reventa o una visita guiada
 

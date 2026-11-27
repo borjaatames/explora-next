@@ -5,7 +5,7 @@ metaTitle: 'Museu do Prado grátis: horário e fila'
 categoria: madrid
 slug: museu-do-prado-gratis
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-27"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -83,9 +83,9 @@ Se faz parte de um destes grupos, não precisa da hora grátis: entra quando qui
 
 ## Dias grátis e El Prado de noche
 
-Em alguns dias o Prado não cobra durante todo o horário. Os habituais são **18 de maio** (Dia Internacional dos Museus), **12 de outubro** e **19 de novembro**, aniversário do museu; este ano, o dia 19 calha a uma quinta-feira. O museu confirma-os todos os anos no seu site, por isso verifique antes de organizar a viagem à volta deles. São os dias com a fila mais longa do ano.
+Em alguns dias o Prado não cobra durante todo o horário. Os habituais são **18 de maio** (Dia Internacional dos Museus), **12 de outubro** e **19 de novembro**, aniversário do museu. O museu confirma-os todos os anos no seu site, por isso verifique antes de organizar a viagem à volta deles. São os dias com a fila mais longa do ano.
 
-A alternativa menos conhecida é **El Prado de noche**: no **primeiro sábado de cada mês**, das **20h30 às 23h30**, o edifício Jerónimos abre grátis, com entrada pela **porta de los Jerónimos** e último acesso às 23h00. Não há bilhete: entra-se por ordem de chegada até esgotar a lotação. A próxima edição é no **sábado, 7 de novembro**.
+A alternativa menos conhecida é **El Prado de noche**: no **primeiro sábado de cada mês**, das **20h30 às 23h30**, o edifício Jerónimos abre grátis, com entrada pela **porta de los Jerónimos** e último acesso às 23h00. Não há bilhete: entra-se por ordem de chegada até esgotar a lotação. A próxima edição é no **sábado, 5 de dezembro (o museu confirma cada data no seu site)**.
 
 ## A fila real: a que horas chegar
 

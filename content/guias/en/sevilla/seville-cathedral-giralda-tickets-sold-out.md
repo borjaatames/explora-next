@@ -5,7 +5,7 @@ metaTitle: 'Seville Cathedral tickets: price and Giralda'
 categoria: sevilla
 slug: seville-cathedral-giralda-tickets-sold-out
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-09-20"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -70,7 +70,7 @@ Seville Cathedral sells tickets **with a set entry time and limited capacity**, 
 
 ## 1. The official website and the Prince's Gate box office
 
-Official tickets are sold from `catedraldesevilla.es`, which links to its ticket platform. General admission to the Cathedral and the Giralda is **€13 online and €14 at the box office** (reduced €7 and €8) and also includes the **Church of El Salvador**. The Cathedral opens Monday to Saturday from **10:45 to 19:00** and on Sundays from **14:30 to 19:00**. If your date shows as sold out:
+Official tickets are sold from `catedraldesevilla.es`, which links to its ticket platform. General admission to the Cathedral and the Giralda is **€13 online and €14 at the box office** (reduced €7 and €8) and also includes the **Church of El Salvador**. The Cathedral opens Monday to Saturday from **10:45 to 18:00** and on Sundays from **14:30 to 19:00**. From 4 to 7 December 2026 the visit has special hours for an international congress of brotherhoods, and on 8 December it is suspended: check the cathedral website if you go those days. If your date shows as sold out:
 
 - **Check every time that day:** each entry time has its own allocation, and the afternoon ones tend to last longer.
 - **Go to the box office:** it's at the **Prince's Gate** (Puerta del Príncipe) and closes at **18:00**, an hour before the building. Online ticket holders go in through the Lagarto Gate. Capacity is limited, so on busy days nothing is guaranteed: the earlier you arrive, the better.

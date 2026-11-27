@@ -4,7 +4,7 @@ descripcion: "Noël à Séville 2026 : mapping de la Plaza de San Francisco (18 
 categoria: "sevilla"
 slug: "noel-a-seville"
 fecha: "2026-05-14"
-fecha_actualizacion: "2026-09-24"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -118,7 +118,7 @@ La **zambomba** est une fête de chants de Noël flamencos avec tambourins, bout
 | Cathédrale et Giralda | Selon les offices | Selon les offices | Selon les offices | Selon les offices |
 
 - **Real Alcázar :** d'octobre à mars, de 9 h 30 à 17 h.
-- **Cathédrale :** du lundi au samedi de 10 h 45 à 18 h et le dimanche de 14 h 30 à 19 h ; 13 € en ligne. Lors des fêtes liturgiques, la visite culturelle peut changer : consultez l'agenda de catedraldesevilla.es avant d'y aller.
+- **Cathédrale :** du lundi au samedi de 10 h 45 à 18 h et le dimanche de 14 h 30 à 19 h ; 13 € en ligne. Du 4 au 7 décembre 2026, la visite a des horaires spéciaux en raison d'un congrès international de confréries, et elle est suspendue le 8 décembre : consultez le site de la cathédrale si vous y allez ces jours-là. Lors des fêtes liturgiques, la visite culturelle peut changer : consultez l'agenda de catedraldesevilla.es avant d'y aller.
 
 Les billets de décembre étant très demandés, la **visite privée de l'Alcázar avec un guide officiel** vous garantit le jour et l'heure.
 

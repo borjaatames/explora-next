@@ -4,7 +4,7 @@ descripcion: "A 7-day Andalusia itinerary by train: 2 nights in Seville, 1 in C�
 categoria: "sevilla"
 slug: "andalusia-7-day-itinerary"
 fecha: "2026-06-06"
-fecha_actualizacion: "2026-09-23"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -86,7 +86,7 @@ Book trains on Renfe's website as soon as your dates are fixed: cheap fares disa
 
 ## Days 1 and 2: Seville
 
-**Day 1, morning.** The **Real Alcázar** at 9:30, the first slot (open 9:30-17:00 October to March and until 19:00 April to September): 2 h 30 including the gardens. Opposite, the **Cathedral and Giralda** (1 h 30), open Monday to Saturday 10:45-19:00 and Sundays from 14:30. If you'd like both explained without queuing, with a guide just for your group:
+**Day 1, morning.** The **Real Alcázar** at 9:30, the first slot (open 9:30-17:00 October to March and until 19:00 April to September): 2 h 30 including the gardens. Opposite, the **Cathedral and Giralda** (1 h 30), open Monday to Saturday 10:45-18:00 and Sundays from 14:30. From 4 to 7 December 2026 the visit has special hours for an international congress of brotherhoods, and on 8 December it is suspended: check the cathedral website if you go those days. If you'd like both explained without queuing, with a guide just for your group:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 
@@ -132,7 +132,7 @@ A slow morning in Granada (the Realejo or the Cartuja monastery, €7) and the *
 
 Bus from Málaga bus station (1 h 45 to 2 h, about eight a day; fewer direct services at weekends) or a tour. The Puente Nuevo over the gorge, the bullring, the old town and the walk down to the viewpoints; back to Málaga in the evening. All the options are in [Ronda from Málaga](/en/guides/malaga/ronda-from-malaga):
 
-- **Group tour:** [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), from €34.
+- **Group tour:** [Ronda and Setenil de las Bodegas](/en/cities/malaga/activities/ronda-setenil-day-trip-from-malaga), from €35.
 - **Private with pick-up:** [private day trip to Ronda](/en/cities/malaga/activities/ronda-private-day-trip-from-malaga), from €580 per group; for 4 people that's about €180 each.
 
 Málaga airport is 12 minutes from the centre on the C-1 commuter train (€1.80), so you can fly out on the evening of day 7 or the morning of day 8.

@@ -5,7 +5,7 @@ metaTitle: 'Prado Museum tickets: price and opening hours'
 categoria: madrid
 slug: prado-museum-tickets-sold-out
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-10-31"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -89,7 +89,7 @@ The permanent collection is **free for the last two hours of every day**: Monday
 
 Free tickets are handed out **at the box office until capacity is reached**, and that's the problem: the queue. It starts forming well before the free slot and on Sundays and holidays the wait can go past an hour. If you go, get there early and bring a short list: an hour and a half is enough for Velázquez, Goya and Bosch, not much more. It's also free all day on **18 May** (International Museum Day) and **19 November** (the museum's anniversary).
 
-A lesser-known option is **El Prado de noche**: on the **first Saturday of every month**, from **20:30 to 23:30**, the museum opens some of its galleries for free, with entry through the Jerónimos Gate until capacity is reached. The next one is Saturday 7 November.
+A lesser-known option is **El Prado de noche**: on the **first Saturday of every month**, from **20:30 to 23:30**, the museum opens some of its galleries for free, with entry through the Jerónimos Gate until capacity is reached. The next one is Saturday 5 December (the museum confirms each date on its website).
 
 ## 4. A resold ticket or a guided tour
 

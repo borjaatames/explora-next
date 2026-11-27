@@ -5,7 +5,7 @@ metaTitle: 'Museo del Prado gratis: orari e coda'
 categoria: madrid
 slug: museo-del-prado-gratis-orari
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-27"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: '2026-11-03'
 autor: Borja
 publicada: true
@@ -83,9 +83,9 @@ Bisogna **mostrare in biglietteria un documento valido** il giorno della visita.
 
 ## Giornate gratis e El Prado de noche
 
-In alcuni giorni il Prado è gratis tutto il giorno. Di solito sono il **18 maggio** (Giornata internazionale dei musei), il **12 ottobre** e il **19 novembre**, anniversario del museo; quest'anno il 19 cade di giovedì. Il museo le conferma ogni anno sul suo sito, quindi controlla prima di organizzare il viaggio in base a queste date. Sono i giorni con la coda più lunga dell'anno.
+In alcuni giorni il Prado è gratis tutto il giorno. Di solito sono il **18 maggio** (Giornata internazionale dei musei), il **12 ottobre** e il **19 novembre**, anniversario del museo. Il museo le conferma ogni anno sul suo sito, quindi controlla prima di organizzare il viaggio in base a queste date. Sono i giorni con la coda più lunga dell'anno.
 
-L'opzione meno conosciuta è **El Prado de noche**: il **primo sabato di ogni mese**, dalle **20:30 alle 23:30**, l'edificio Jerónimos apre gratis, con ingresso dalla **Porta dei Jerónimos** e ultimo accesso alle 23:00. Non c'è biglietto: si entra in ordine di arrivo fino a esaurimento posti. La prossima edizione è **sabato 7 novembre**.
+L'opzione meno conosciuta è **El Prado de noche**: il **primo sabato di ogni mese**, dalle **20:30 alle 23:30**, l'edificio Jerónimos apre gratis, con ingresso dalla **Porta dei Jerónimos** e ultimo accesso alle 23:00. Non c'è biglietto: si entra in ordine di arrivo fino a esaurimento posti. La prossima edizione è **sabato 5 dicembre (il museo conferma ogni data sul suo sito)**.
 
 ## La coda vera: a che ora arrivare
 

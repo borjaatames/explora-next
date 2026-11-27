@@ -4,7 +4,7 @@ descripcion: "Christmas in Valencia 2026: free Saturday fireworks at 18:30 on Pl
 categoria: "valencia"
 slug: "christmas-in-valencia"
 fecha: "2026-07-30"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -28,10 +28,10 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-respuestaCorta: "Christmas in Valencia revolves around **Plaza del Ayuntamiento**: a switch-on with fireworks in late November (the 21st in 2025), **free firework-and-music shows every Saturday at 18:30**, a 25-metre tree and the city nativity scene. Five minutes away is the **Plaza de la Reina crafts market** (29 November to 6 January in 2025). With kids, **Expojove** runs from **26 December 2026 to 4 January 2027**, from €3. The **Three Kings Parade** sets off on 5 January at 17:30."
+respuestaCorta: "Christmas in Valencia revolves around **Plaza del Ayuntamiento**: a switch-on with fireworks (in 2026, **Friday 4 December at 19:00**), **free firework-and-music shows every Saturday at 18:30**, a 25-metre tree and the city nativity scene. Five minutes away is the **Plaza de la Reina crafts market** (29 November to 6 January in 2025). With kids, **Expojove** runs from **26 December 2026 to 4 January 2027**, from €3. The **Three Kings Parade** sets off on 5 January at 17:30."
 faq:
   - pregunta: "When do the Valencia Christmas lights go on in 2026?"
-    respuesta: "The 2026 date isn't official yet. In 2025 the switch-on was on Friday 21 November at 19:30 on Plaza del Ayuntamiento, with live music, a firework show and a 25-metre tree. There were more than 300 light arches and 45 Christmas trees spread across the districts."
+    respuesta: "In 2026 the switch-on is on **Friday 4 December, from 19:00 to 20:00**, on Plaza del Ayuntamiento; buses are diverted from 17:00. In 2025 it was on 21 November at 19:30, with live music, a firework show and a 25-metre tree. There were more than 300 light arches and 45 Christmas trees spread across the districts."
   - pregunta: "Where are the Christmas markets in Valencia?"
     respuesta: "The main ones in 2025 were the Christmas crafts fair on Plaza de la Reina (29 November to 6 January, with 30 wooden stalls), the traditional market on Calle Hospital and Avenida del Oeste (10 December to 4 January, 9:00 to 22:00), the market at the City of Arts and Sciences by the Umbracle (12 December to 6 January, with 50 stalls) and those at the Mercado de Colón."
   - pregunta: "When is Expojove 2026?"
@@ -54,7 +54,7 @@ actividades:
 
 | What | Where | When (2025-26 edition) | Price |
 | --- | --- | --- | --- |
-| Lights switch-on and fireworks | Plaza del Ayuntamiento | 21 November, 19:30 | Free |
+| Lights switch-on and fireworks | Plaza del Ayuntamiento | **4 December 2026, 19:00** | Free |
 | Piromusicales (firework shows) | Plaza del Ayuntamiento | Saturdays at 18:30 until 3 January, plus 5 January | Free |
 | 25 m tree and city nativity scene | Plaza del Ayuntamiento | From the switch-on until Epiphany | Free |
 | Christmas crafts fair | Plaza de la Reina | 29 November – 6 January | Free |
@@ -66,7 +66,7 @@ actividades:
 | Kings arrive by sea | Plaza de la Sal, Marina Norte | 5 January, 16:30 | Free |
 | Three Kings Parade | Puente de las Flores – Plaza del Ayuntamiento | 5 January, 17:30 | Free |
 
-Apart from Expojove, which has already published its 2026 dates, these are the 2025-26 dates. The city presents its programme in November and we'll update this guide when it does.
+The switch-on (4 December) and Expojove already have their 2026 dates; the rest are the 2025-26 dates while the city publishes the full 2026-27 programme. Check again before you go.
 
 ## Lights and fireworks on Plaza del Ayuntamiento
 

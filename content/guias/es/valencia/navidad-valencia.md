@@ -4,7 +4,7 @@ descripcion: "Navidad en Valencia 2026: piromusicales los sábados a las 18:30 e
 categoria: "valencia"
 slug: "navidad-valencia"
 fecha: "2026-07-30"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -28,10 +28,10 @@ slugs:
   it: natale-a-valencia
   pt: natal-em-valencia
 reservasArriba: true
-respuestaCorta: 'La Navidad valenciana gira en torno a la **Plaza del Ayuntamiento**: encendido con pólvora a finales de noviembre (el 21 en 2025), **piromusicales gratis cada sábado a las 18:30**, árbol de 25 metros y belén municipal. A cinco minutos, la **Feria de Artesanía de la Plaza de la Reina** (del 29 de noviembre al 6 de enero en 2025). Con niños, **Expojove** va del **26 de diciembre de 2026 al 4 de enero de 2027**, desde 3 €. La **Cabalgata** sale el 5 de enero a las 17:30.'
+respuestaCorta: 'La Navidad valenciana gira en torno a la **Plaza del Ayuntamiento**: encendido con pólvora (en 2026, el **viernes 4 de diciembre a las 19:00**), **piromusicales gratis cada sábado a las 18:30**, árbol de 25 metros y belén municipal. A cinco minutos, la **Feria de Artesanía de la Plaza de la Reina** (del 29 de noviembre al 6 de enero en 2025). Con niños, **Expojove** va del **26 de diciembre de 2026 al 4 de enero de 2027**, desde 3 €. La **Cabalgata** sale el 5 de enero a las 17:30.'
 faq:
   - pregunta: "¿Cuándo se encienden las luces de Navidad de Valencia en 2026?"
-    respuesta: "La fecha de 2026 aún no es oficial. En 2025 el encendido fue el viernes 21 de noviembre a las 19:30 en la Plaza del Ayuntamiento, con música en directo, un piromusical y un árbol de 25 metros. Hubo más de 300 arcos y 45 árboles de Navidad repartidos por distritos y pedanías."
+    respuesta: "En 2026 el encendido es el **viernes 4 de diciembre, de 19:00 a 20:00**, en la Plaza del Ayuntamiento; la EMT desvía sus líneas desde las 17:00. En 2025 fue el 21 de noviembre a las 19:30, con música en directo, un piromusical y un árbol de 25 metros. Hubo más de 300 arcos y 45 árboles de Navidad repartidos por distritos y pedanías."
   - pregunta: "¿Dónde están los mercadillos de Navidad en Valencia?"
     respuesta: "Los principales en 2025 fueron la Feria de Artesanía de la Plaza de la Reina (del 29 de noviembre al 6 de enero, con 30 casetas de madera), el mercadillo popular de la calle Hospital y la avenida del Oeste (del 10 de diciembre al 4 de enero, de 9:00 a 22:00), el mercado de la Ciutat de les Arts junto al Umbracle (del 12 de diciembre al 6 de enero, con 50 puestos) y los del Mercado de Colón."
   - pregunta: "¿Cuándo es Expojove 2026?"
@@ -54,7 +54,7 @@ actividades:
 
 | Qué | Dónde | Cuándo (edición 2025-26) | Precio |
 | --- | --- | --- | --- |
-| Encendido de luces y piromusical | Plaza del Ayuntamiento | 21 de noviembre, 19:30 | Gratis |
+| Encendido de luces y piromusical | Plaza del Ayuntamiento | **4 de diciembre de 2026, 19:00** | Gratis |
 | Piromusicales | Plaza del Ayuntamiento | Sábados a las 18:30, hasta el 3 de enero, y el 5 de enero | Gratis |
 | Árbol de 25 m y belén municipal | Plaza del Ayuntamiento | Desde el encendido hasta Reyes | Gratis |
 | Feria de Artesanía de Navidad | Plaza de la Reina | 29 de noviembre – 6 de enero | Gratis |
@@ -66,7 +66,7 @@ actividades:
 | Llegada de los Reyes por mar | Plaza de la Sal, Marina Norte | 5 de enero, 16:30 | Gratis |
 | Cabalgata de Reyes | Puente de las Flores – Plaza del Ayuntamiento | 5 de enero, 17:30 | Gratis |
 
-Salvo Expojove, que ya ha publicado sus fechas de 2026, son las de la edición 2025-26. El Ayuntamiento presenta el programa en noviembre y actualizaremos la guía cuando salga.
+El encendido (4 de diciembre) y Expojove ya tienen fecha de 2026; el resto son las de la edición 2025-26 mientras el Ayuntamiento publica el programa completo de 2026-27. Compruébalo antes de ir.
 
 ## Luces y pólvora en la Plaza del Ayuntamiento
 

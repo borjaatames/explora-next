@@ -4,7 +4,7 @@ descripcion: "Sevilla in 2 Tagen: Alcázar um 9:30 (15,50 €), Kathedrale und G
 categoria: "sevilla"
 slug: "sevilla-in-2-tagen"
 fecha: "2026-07-09"
-fecha_actualizacion: "2026-09-30"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-13"
 autor: Borja
 publicada: true
@@ -76,7 +76,7 @@ Zwei Tage reichen für das unverzichtbare Sevilla, wenn du den ersten den Monume
 
 [actividad: real-alcazar-sevilla-entrada]
 
-**12:30 — Kathedrale und Giralda**, über den Platz (2 Minuten). Geöffnet Mo-Sa von 10:45 bis 19:00 und sonntags von 14:30 bis 19:00. Das Grab von Kolumbus, der Hauptaltar und der Aufstieg auf die Giralda über Rampen, ohne Treppen: 1 Std. 30. Das Ticket umfasst auch die Kirche El Salvador, die du für Tag 2 lassen kannst. Wenn du dir keine Gedanken um Zeiten oder Schlangen machen willst und ein offizieller Guide euch beide Monumente nur für euch erklärt, löst das diese Tour in 3 Stunden mit den Tickets:
+**12:30 — Kathedrale und Giralda**, über den Platz (2 Minuten). Geöffnet Mo-Sa von 10:45 bis 18:00 und sonntags von 14:30 bis 19:00. Vom 4. bis 7. Dezember 2026 gelten wegen eines internationalen Bruderschaftskongresses Sonderzeiten, und am 8. Dezember fällt die Besichtigung aus: Schau auf der Website der Kathedrale nach, wenn du an diesen Tagen kommst. Das Grab von Kolumbus, der Hauptaltar und der Aufstieg auf die Giralda über Rampen, ohne Treppen: 1 Std. 30. Das Ticket umfasst auch die Kirche El Salvador, die du für Tag 2 lassen kannst. Wenn du dir keine Gedanken um Zeiten oder Schlangen machen willst und ein offizieller Guide euch beide Monumente nur für euch erklärt, löst das diese Tour in 3 Stunden mit den Tickets:
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 

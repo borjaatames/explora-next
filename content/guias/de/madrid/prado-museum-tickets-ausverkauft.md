@@ -5,7 +5,7 @@ metaTitle: 'Prado Museum Tickets: Preis und Tipps'
 categoria: madrid
 slug: prado-museum-tickets-ausverkauft
 fecha: "2026-06-04"
-fecha_actualizacion: "2026-10-31"
+fecha_actualizacion: "2026-11-27"
 autor: Borja
 publicada: true
 destacada: false
@@ -90,7 +90,7 @@ Die Dauerausstellung ist **in den letzten zwei Stunden jedes Tages kostenlos**: 
 
 Die Gratistickets gibt es **an der Kasse, solange die Kapazität reicht**, und genau da liegt das Problem: die Schlange. Sie bildet sich lange vor Beginn der Gratiszeit, und an Sonn- und Feiertagen kann die Wartezeit über eine Stunde betragen. Wenn du gehst, sei früh da und nimm dir eine kurze Liste mit Werken vor: Anderthalb Stunden reichen für Velázquez, Goya und Bosch, viel mehr nicht. Den ganzen Tag kostenlos ist der Eintritt außerdem am **18. Mai** (Internationaler Museumstag) und am **19. November** (Jahrestag des Museums).
 
-Eine weniger bekannte Option ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Museum von **20:30 bis 23:30 Uhr** einen Teil seiner Säle kostenlos, mit Einlass durch die Puerta de los Jerónimos und solange die Kapazität reicht. Der nächste Termin ist Samstag, der 7. November.
+Eine weniger bekannte Option ist **El Prado de noche**: Am **ersten Samstag jedes Monats** öffnet das Museum von **20:30 bis 23:30 Uhr** einen Teil seiner Säle kostenlos, mit Einlass durch die Puerta de los Jerónimos und solange die Kapazität reicht. Der nächste Termin ist Samstag, der 5. Dezember (das Museum bestätigt jeden Termin auf seiner Website).
 
 ## 4. Ein Ticket über einen Wiederverkäufer oder eine Führung
 

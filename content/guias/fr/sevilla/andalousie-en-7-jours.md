@@ -4,7 +4,7 @@ descripcion: "Itinéraire de 7 jours en Andalousie en train : 2 nuits à Sévill
 categoria: "sevilla"
 slug: "andalousie-en-7-jours"
 fecha: "2026-06-06"
-fecha_actualizacion: "2026-09-23"
+fecha_actualizacion: "2026-11-27"
 datosComprobados: "2026-11-01"
 autor: Borja
 publicada: true
@@ -86,7 +86,7 @@ Achetez les trains sur le site de la Renfe dès que vous avez vos dates : les pe
 
 ## Jours 1 et 2: Séville
 
-**Jour 1, matin.** **Real Alcázar** à 9 h 30, premier créneau (ouvert de 9 h 30 à 17 h d'octobre à mars et jusqu'à 19 h d'avril à septembre) : 2 h 30 avec les jardins. En face, la **cathédrale et la Giralda** (1 h 30), ouvertes du lundi au samedi de 10 h 45 à 19 h et le dimanche à partir de 14 h 30. Si vous voulez qu'on vous explique les deux monuments sans faire la queue, avec un guide rien que pour vous :
+**Jour 1, matin.** **Real Alcázar** à 9 h 30, premier créneau (ouvert de 9 h 30 à 17 h d'octobre à mars et jusqu'à 19 h d'avril à septembre) : 2 h 30 avec les jardins. En face, la **cathédrale et la Giralda** (1 h 30), ouvertes du lundi au samedi de 10 h 45 à 18 h et le dimanche à partir de 14 h 30. Du 4 au 7 décembre 2026, la visite a des horaires spéciaux en raison d'un congrès international de confréries, et elle est suspendue le 8 décembre : consultez le site de la cathédrale si vous y allez ces jours-là. Si vous voulez qu'on vous explique les deux monuments sans faire la queue, avec un guide rien que pour vous :
 
 [actividad: real-alcazar-catedral-sevilla-tour-privado-entradas]
 
