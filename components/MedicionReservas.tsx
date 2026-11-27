@@ -19,6 +19,12 @@ type Proveedor = "getyourguide" | "viator" | "bokun" | "whatsapp" | "ficha";
  * «Widget interaccion» con el proveedor y posicion «widget». Se detecta
  * porque la ventana pierde el foco y el elemento activo pasa a ser el iframe.
  *
+ * Los enlaces a una ficha que no son de reserva (portada, listados, páginas
+ * de ciudad y de atracción, fichas relacionadas) se cuentan aparte, como
+ * «Ficha clic», para no inflar «Reserva clic». Propiedades:
+ *   - origen: portada | listado | atraccion | ciudad | privados | ficha | guia | otro
+ *   - posicion: «barra» si el enlace está en un elemento fijo; si no, «pagina».
+ *
  * Un único listener delegado en captura: no toca ningún componente ni la
  * composición de la página. Las visitas internas y los robots de medición
  * se descartan en el `beforeSend` de AnaliticaVercel, que también filtra
@@ -42,6 +48,41 @@ function proveedorDe(href: string): Proveedor | null {
   return null;
 }
 
+type OrigenFicha =
+  | "portada"
+  | "listado"
+  | "atraccion"
+  | "ciudad"
+  | "privados"
+  | "ficha"
+  | "guia"
+  | "otro";
+
+const PREFIJO_IDIOMA = /^\/(?:en|de|fr|it|pt)(?=\/|$)/;
+
+/** Ruta de una ficha concreta (no un listado ni una categoría). */
+function esRutaFicha(ruta: string): boolean {
+  return /\/(?:actividades|activities)\/(?!c\/)[^/]+\/?$/.test(ruta);
+}
+
+function origenDe(ruta: string): OrigenFicha {
+  const sinIdioma = ruta.replace(PREFIJO_IDIOMA, "") || "/";
+  if (sinIdioma === "/") return "portada";
+  if (/^\/(?:ciudades|cities)\/[^/]+\/(?:atracciones|attractions)(?:\/|$)/.test(sinIdioma)) {
+    return "atraccion";
+  }
+  if (/^\/(?:ciudades|cities)\/[^/]+\/(?:excursiones-privadas|private-tours)(?:\/|$)/.test(sinIdioma)) {
+    return "privados";
+  }
+  if (esRutaFicha(sinIdioma)) return "ficha";
+  if (/^\/(?:ciudades|cities)\/[^/]+\/(?:actividades|activities)(?:\/|$)/.test(sinIdioma)) {
+    return "listado";
+  }
+  if (/^\/(?:ciudades|cities)\/[^/]+\/?$/.test(sinIdioma)) return "ciudad";
+  if (/^\/(?:guias|guides)(?:\/|$)/.test(sinIdioma)) return "guia";
+  return "otro";
+}
+
 function estaEnElementoFijo(elemento: Element): boolean {
   let actual: Element | null = elemento;
   while (actual && actual !== document.body) {
@@ -63,7 +104,15 @@ export default function MedicionReservas() {
       // Un enlace a otra ficha solo cuenta si está marcado como reserva
       // (guías); los enlaces internos normales no son clics de reserva.
       const marcado = enlace.closest<HTMLElement>("[data-reserva]");
-      if (proveedor === "ficha" && !marcado) return;
+      if (proveedor === "ficha" && !marcado) {
+        const destino = new URL(enlace.href, window.location.href).pathname;
+        if (!esRutaFicha(destino) || destino === window.location.pathname) return;
+        track("Ficha clic", {
+          origen: origenDe(window.location.pathname),
+          posicion: estaEnElementoFijo(enlace) ? "barra" : "pagina",
+        });
+        return;
+      }
       const posicion = marcado?.dataset.reserva ?? (estaEnElementoFijo(enlace) ? "barra" : "pagina");
       track("Reserva clic", { proveedor, posicion });
     }
