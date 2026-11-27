@@ -108,24 +108,36 @@ export function campanaConCanal(campana: string): string {
 }
 
 /**
+ * Devuelve la URL con el canal añadido a su `cmp` si es un enlace a
+ * GetYourGuide con campaña; cualquier otra URL se devuelve sin tocar.
+ */
+export function urlGygConCanal(href: string): string {
+  let url: URL;
+  try {
+    url = new URL(href);
+  } catch {
+    return href;
+  }
+  if (!url.hostname.endsWith("getyourguide.com")) return href;
+  const cmp = url.searchParams.get("cmp");
+  if (!cmp) return href;
+  url.searchParams.set("cmp", campanaConCanal(cmp));
+  return url.toString();
+}
+
+/**
  * Escucha los clics en enlaces a GetYourGuide y añade el canal a su `cmp`
  * justo antes de salir. Devuelve la función para quitar el listener.
+ *
+ * Solo cubre los enlaces que navegan con su propio `href`. Los que abren la
+ * URL por código (`window.open`) deben llamar a `urlGygConCanal`.
  */
 export function etiquetarEnlacesGyg(): () => void {
   const alPulsar = (evento: MouseEvent): void => {
     const destino = evento.target instanceof Element ? evento.target.closest("a[href]") : null;
     if (!(destino instanceof HTMLAnchorElement)) return;
-    let url: URL;
-    try {
-      url = new URL(destino.href);
-    } catch {
-      return;
-    }
-    if (!url.hostname.endsWith("getyourguide.com")) return;
-    const cmp = url.searchParams.get("cmp");
-    if (!cmp) return;
-    url.searchParams.set("cmp", campanaConCanal(cmp));
-    destino.href = url.toString();
+    const conCanal = urlGygConCanal(destino.href);
+    if (conCanal !== destino.href) destino.href = conCanal;
   };
   // Captura para ir antes que cualquier otro manejador del enlace.
   document.addEventListener("click", alPulsar, true);

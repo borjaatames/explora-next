@@ -3,6 +3,7 @@
 import { useCallback, useMemo, useState } from "react";
 import type { Idioma } from "@/lib/i18n/types";
 import { construirUrlViatorFicha } from "@/lib/sem/url-builder-ficha";
+import { urlGygConCanal } from "@/lib/canalVisita";
 import SelloProveedor from "./SelloProveedor";
 import type { ProveedorActividad } from "@/lib/afiliados";
 
@@ -315,7 +316,11 @@ export default function CalendarioReserva({
       const slug =
         window.location.pathname.split("/").filter(Boolean).pop() ?? "unknown";
 
-      const url = construirUrlViatorFicha(urlReservaBase, slug, gclid);
+      // El enlace se abre por código, así que el listener global de canal no
+      // llega a tiempo: hay que añadir aquí el canal al `cmp` de GYG.
+      const url = urlGygConCanal(
+        construirUrlViatorFicha(urlReservaBase, slug, gclid),
+      );
 
       // Dominio y URL de destino del clic de salida. Sin esto, GA4 registra
       // el evento outbound_click pero con link_domain/link_url vacíos,
