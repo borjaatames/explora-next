@@ -137,7 +137,20 @@ export const GUIAS_DE_INDEXABLES: ReadonlySet<string> = new Set([
   "/de/guides/valencia/valencia-in-2-tagen",
   "/de/guides/valencia/valencia-kreuzfahrt-landgang",
   "/de/guides/valencia/valencia-mit-kindern",
-  "/de/guides/valencia/weihnachten-valencia/de/guides/madrid/madrid-tapas-nach-gericht",
+  "/de/guides/valencia/weihnachten-valencia",
+  "/de/guides/madrid/madrid-tapas-nach-gericht",
+  "/de/guides/barcelona/barcelona-in-2-tagen",
+  "/de/guides/barcelona/montserrat-tickets-ausverkauft",
+  "/de/guides/granada/flamenco-hoehle-sacromonte-welche-waehlen",
+  "/de/guides/granada/granada-in-einem-tag",
+  "/de/guides/madrid/madrid-an-einem-tag",
+  "/de/guides/madrid/madrid-in-2-tagen",
+  "/de/guides/madrid/toledo-tickets-ausverkauft",
+  "/de/guides/malaga/caminito-del-rey-allein-gruppe-oder-privat",
+  "/de/guides/malaga/granada-alhambra-ab-malaga",
+  "/de/guides/malaga/ronda-ab-malaga",
+  "/de/guides/sevilla/ausfluege-ab-sevilla",
+  "/de/guides/sevilla/sevilla-in-2-tagen",
 ]);
 
 /** `ruta` es un path absoluto del sitio, sin dominio (p. ej. `/de/guides/mallorca/x`). */
