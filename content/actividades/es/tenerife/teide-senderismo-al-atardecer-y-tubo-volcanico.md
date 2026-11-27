@@ -83,12 +83,22 @@ imagenAlt: 'Grupo viendo el atardecer desde un pico volcánico del Teide'
 galeria:
 - src: https://imgcdn.bokun.tools/7cb81069-161f-455e-8403-a77d488e36c2.jpg
   alt: 'Senderistas en laderas volcánicas rojas del Parque Nacional del Teide'
+- src: /images/actividades/tenerife/teide/pico-viejo-volcan.webp
+  alt: 'El volcán Pico Viejo'
 - src: https://imgcdn.bokun.tools/decb0edd-dd83-4ff6-9969-e6c1575f7c9d.jpg
   alt: 'Montaña volcánica roja bajo el cielo azul'
+- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
+  alt: 'Panorámica de Las Cañadas del Teide'
 - src: https://imgcdn.bokun.tools/b433e879-6c72-4fa7-adcb-96e9baa83146.jpg
   alt: 'Coladas de lava y pinar vistos desde arriba'
+- src: /images/actividades/tenerife/estrellas/atardecer-pinos.webp
+  alt: 'Pinos al atardecer en el Teide'
 - src: https://imgcdn.bokun.tools/4f90d791-91a4-416f-8a47-2b2a7175cf9d.jpg
   alt: 'Guía con un grupo en el paisaje volcánico'
+- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
+  alt: 'Atardecer sobre las nubes en el Teide'
+- src: /images/actividades/tenerife/estrellas/atardecer-islas.webp
+  alt: 'Atardecer con otras islas en el horizonte'
 atraccionesRelacionadas:
 - 'teide'
 publicada: true

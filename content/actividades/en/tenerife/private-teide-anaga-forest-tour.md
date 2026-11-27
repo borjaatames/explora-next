@@ -77,12 +77,22 @@ imagenAlt: 'Teide rising above La Laguna and the green north'
 galeria:
 - src: https://imgcdn.bokun.tools/a052d11f-84b3-43aa-8189-4dbf1a458f54.jpg
   alt: 'Guide and travellers in the misty Anaga forest'
+- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
+  alt: 'Teide above the sea of clouds'
 - src: https://imgcdn.bokun.tools/104fa18f-c80c-4b64-a85e-b40fba38c29d.jpg
   alt: 'Rock formations in Teide National Park'
+- src: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
+  alt: 'The road beside the Roques de García'
 - src: https://imgcdn.bokun.tools/eeaa13ba-a0fc-4ffc-a92a-6e71041830a4.jpg
   alt: 'Lava slopes below the summit of Teide'
+- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
+  alt: 'Laurel forest in Anaga'
 - src: https://imgcdn.bokun.tools/0b8f630b-5cec-4f0d-a016-b68f1b85b348.jpg
   alt: 'Cliffs of the north coast of Tenerife'
+- src: /images/actividades/tenerife/ciudad/la-laguna-calle.webp
+  alt: 'A street in the old town of La Laguna'
+- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
+  alt: 'Benijo beach in Anaga'
 atraccionesRelacionadas:
 - 'teide'
 - 'anaga'

@@ -78,12 +78,20 @@ imagenAlt: 'Natural rock pool on the north coast of Tenerife'
 galeria:
 - src: https://imgcdn.bokun.tools/b7cca203-4089-4586-aa93-7f5c2b5fafc8.jpeg
   alt: 'Church tower and rooftops of Garachico by the Atlantic'
+- src: /images/actividades/tenerife/garachico/castillo-san-miguel.webp
+  alt: 'The Castillo de San Miguel in Garachico'
 - src: https://imgcdn.bokun.tools/63d942d6-8913-4dfe-b5de-287f0c31326c.jpeg
   alt: 'The Dragon Tree of Icod de los Vinos among palm trees'
+- src: /images/actividades/tenerife/icod/drago-milenario.webp
+  alt: 'The ancient Dragon Tree of Icod de los Vinos'
 - src: https://imgcdn.bokun.tools/172e7c20-db93-4ed1-a2ce-f033b4657d75.jpeg
   alt: 'Church domes and colourful houses in La Orotava'
+- src: /images/actividades/tenerife/orotava/balcones-madera.webp
+  alt: 'Wooden balconies in La Orotava'
 - src: https://imgcdn.bokun.tools/41db359b-d7a5-475e-aa50-c6df9d40a7e4.jpeg
   alt: 'Coastal path through banana plantations at Rambla de Castro'
+- src: /images/actividades/tenerife/teide/canadas-lava.webp
+  alt: 'Lava flows in Las Cañadas del Teide'
 - src: https://imgcdn.bokun.tools/66d2ce9f-7cb1-4ba0-b058-f16aeb6e06c5.jpeg
   alt: 'Green cliffs and black-sand shore on the north coast'
 - src: https://imgcdn.bokun.tools/bab3fe1e-39e1-43aa-a9f9-a46f80190643.jpeg

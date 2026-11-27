@@ -79,12 +79,20 @@ imagenAlt: 'Mountain road cutting through layers of volcanic rock on the way to 
 galeria:
 - src: https://imgcdn.bokun.tools/0dc42f70-571d-4419-8453-7f3f1e9feb33.jpeg
   alt: 'Arco de Tajao, a natural rock arch with cardón cacti'
+- src: /images/actividades/tenerife/guimar/terrazas-pueblo-guimar.webp
+  alt: 'Farming terraces in the Güímar Valley'
 - src: https://imgcdn.bokun.tools/314fdc9e-798f-4f05-92c8-3c0011550f80.jpeg
   alt: 'Inside one of the man-made caves of Chimiche'
+- src: /images/actividades/tenerife/bodega/ftc-racimos-uva-tinta-vina.webp
+  alt: 'Grapes on a vineyard in Tenerife'
 - src: https://imgcdn.bokun.tools/2bac46f7-c72a-4acd-9a2c-cbee1807b40f.jpeg
   alt: 'The abandoned Presa del Río dam in a dry valley'
+- src: /images/actividades/tenerife/observatorio/observatorio-teide-01.webp
+  alt: 'The domes of the Izaña Observatory'
 - src: https://imgcdn.bokun.tools/94ec6e11-db0a-4c92-944b-e53ec58ac8da.jpeg
   alt: 'Graffiti inside the church of the unfinished Abades leprosarium'
+- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
+  alt: 'Panorama of Las Cañadas del Teide'
 - src: https://imgcdn.bokun.tools/eb9499a3-4bfd-44c9-a0f7-f42be35c9e80.jpeg
   alt: 'Empty room in an abandoned building of the leprosarium'
 - src: https://imgcdn.bokun.tools/7d016a68-7ecf-4792-9e9c-00a847fa5295.jpeg

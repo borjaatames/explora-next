@@ -78,12 +78,20 @@ imagenAlt: 'Hiker by a stream in the jungle-like Teno ravine'
 galeria:
 - src: https://imgcdn.bokun.tools/c412baef-a434-4141-90d9-9ea4e1938e0b.jpeg
   alt: 'Guide explaining the plants to a group among ferns'
+- src: /images/actividades/tenerife/masca/barranco-masca-luz.webp
+  alt: 'Light on the walls of the Masca Gorge'
 - src: https://imgcdn.bokun.tools/d5768dea-fb45-425b-ab49-22059a37aaf2.jpeg
   alt: 'Hiker in a narrow rocky gorge'
+- src: /images/actividades/tenerife/masca/ftc-palmeras-masca.webp
+  alt: 'Palm trees in the Masca valley'
 - src: https://imgcdn.bokun.tools/a52fd2e3-943d-40ed-8000-3ed08d75ee9e.jpeg
   alt: 'Hiker among ferns in a deep gorge'
+- src: /images/actividades/tenerife/masca/ftc-macizo-teno-masca-panoramica.webp
+  alt: 'Panorama of the Teno massif and Masca'
 - src: https://imgcdn.bokun.tools/972a4325-a747-4c52-8b5d-1629ffdc2792.jpeg
   alt: 'Terraced fields and mountains in Teno'
+- src: /images/actividades/tenerife/platano/platano-pixabay-2424299.webp
+  alt: 'Banana plantations in Tenerife'
 - src: https://imgcdn.bokun.tools/37ee08d9-5155-46b4-9d31-65b758b46122.jpeg
   alt: 'Teide seen across green hills'
 atraccionesRelacionadas:

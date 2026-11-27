@@ -82,10 +82,16 @@ imagenAlt: 'Cave houses carved into a cliff above a green Anaga valley'
 galeria:
 - src: https://imgcdn.bokun.tools/49e4ad09-36f7-40d2-b89f-9abbb0e592ee.jpg
   alt: 'Guide and hikers in the Anaga laurel forest'
+- src: /images/actividades/tenerife/anaga/anaga-02.webp
+  alt: 'A Canary lizard basking on a rock in Anaga'
 - src: https://imgcdn.bokun.tools/61d1360e-6772-4cba-a894-cbde4a81a547.jpg
   alt: 'Group at a viewpoint above the clouds'
+- src: /images/actividades/tenerife/ciudad/roque-taborno.webp
+  alt: 'The Roque de Taborno in Anaga'
 - src: https://imgcdn.bokun.tools/cbe1b836-6373-44bd-9d60-b1c0f596d40f.jpg
   alt: 'Teide seen from the Anaga mountains'
+- src: /images/actividades/tenerife/anaga/anaga-04.webp
+  alt: 'Green slopes of Anaga'
 - src: https://imgcdn.bokun.tools/77ed432e-fba0-4c66-b66e-21e90d114222.jpg
   alt: 'Green ridges and rock pinnacles in Anaga'
 - src: https://imgcdn.bokun.tools/3ae2e5b8-be99-42ec-aa4b-304db90cf85b.jpg

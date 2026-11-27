@@ -77,14 +77,24 @@ imagenAlt: 'The village of Masca below its rock pinnacles'
 galeria:
 - src: https://imgcdn.bokun.tools/aefe4f49-b63f-44a7-a053-549ef5453b65.jpg
   alt: 'Guide with travellers at a map in Teide National Park'
+- src: /images/actividades/tenerife/teide/teide-canadas.webp
+  alt: 'Teide seen from Las Cañadas'
 - src: https://imgcdn.bokun.tools/e3d7331d-fe4a-4975-8ddb-ffe8cd26f458.jpg
   alt: 'Snow-capped Teide above green hills'
+- src: /images/actividades/tenerife/teide/roques-garcia-vista.webp
+  alt: 'The Roques de García in Teide National Park'
 - src: https://imgcdn.bokun.tools/09a977ed-fbab-4320-acda-e28a951ff883.jpg
   alt: 'Church tower and palm trees in a village square'
+- src: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
+  alt: 'The hamlet of Masca in its valley'
 - src: https://imgcdn.bokun.tools/d39afb1a-bef2-4aeb-af77-a095ac8a1895.jpg
   alt: 'Cliffs and coastline in the north of Tenerife'
+- src: /images/actividades/tenerife/masca/barranco-masca-atardecer.webp
+  alt: 'The Masca Gorge at sunset'
 - src: https://imgcdn.bokun.tools/fec6d41a-3190-402a-bc97-3afb1f70d2ca.jpg
   alt: 'Volcanic rock formations in Teide National Park'
+- src: /images/actividades/tenerife/garachico/garachico-costa.webp
+  alt: 'The coast of Garachico in the north of Tenerife'
 atraccionesRelacionadas:
 - 'teide'
 - 'masca-gigantes'

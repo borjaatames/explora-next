@@ -2,19 +2,22 @@
 titulo: "Lanzarote : randonnée guidée parmi les volcans des éruptions de Timanfaya"
 slug: lanzarote-randonnee-volcans-timanfaya-blackstone-treks
 ciudad: lanzarote
-descripcion: "Randonnée guidée de 4 à 5 h (transferts compris) dans le parc naturel de Los Volcanes : cônes, cratères et coulées des éruptions du XVIIIe siècle, en groupe de 8 à 10 personnes. Notée 4,9/5 sur 264 avis. Dès 44 €."
+descripcion: "Randonnée guidée de 4 à 5 h (transferts compris) dans le parc naturel de Los Volcanes : cônes, cratères et coulées des éruptions du XVIIIe siècle, en groupe de 8 à 10 personnes. Notée 4,9/5 sur 264 avis. Dès 42 €."
 slugs:
+  es: lanzarote-senderismo-guiado-por-los-volcanes-con-traslados
+  en: lanzarote-guided-volcano-hike-with-transfers
   fr: lanzarote-randonnee-volcans-timanfaya-blackstone-treks
 duracion: "4 à 5 h"
 duracionMinutos: 270
-precioDesde: 44
+precioDesde: 42
 moneda: EUR
 idiomas:
 - es
 - en
 - fr
-proveedor: viator
-urlReserva: https://www.viator.com/tours/Lanzarote/Fire-Mountains-Hiking-among-Volcanoes-and-Lava-Flows/d5482-10936P1
+proveedor: bokun
+bokunProductId: 483000
+urlReserva: ''
 cancelacionGratuita: true
 horasCancelacion: 24
 ratingProveedor: 4.9

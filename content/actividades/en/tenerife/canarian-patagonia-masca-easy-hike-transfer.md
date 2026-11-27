@@ -78,10 +78,16 @@ imagenAlt: 'Punta de Teno, the westernmost tip of Tenerife'
 galeria:
 - src: https://imgcdn.bokun.tools/c14c8a2f-2db8-4f29-830e-0bcd7971123d.jpg
   alt: 'Guide with hikers on a mountainside in Teno'
+- src: /images/actividades/tenerife/masca/ftc-macizo-teno-masca-panoramica.webp
+  alt: 'Panorama of the Teno massif and Masca'
 - src: https://imgcdn.bokun.tools/aa05b50e-2e80-4b46-9f80-85bf1d7b8cdf.jpg
   alt: 'Terraced valley below the Teno mountains'
+- src: /images/actividades/tenerife/masca/masca-teno.webp
+  alt: 'The ridges of the Teno massif'
 - src: https://imgcdn.bokun.tools/00928e89-6f12-458b-bb80-65b49640a2e2.jpg
   alt: 'Green highland plateau in the Teno Rural Park'
+- src: /images/actividades/tenerife/masca/ftc-masca-roque-barranco-mar.webp
+  alt: 'The Masca Gorge running down to the sea'
 - src: https://imgcdn.bokun.tools/8409e1b1-ace8-4cd1-b2ef-551e8197ac1e.jpg
   alt: 'Hikers walking past ochre rock formations'
 - src: https://imgcdn.bokun.tools/d6014872-a70c-44b8-b76c-b663de84980a.jpg

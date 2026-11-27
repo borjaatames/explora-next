@@ -81,12 +81,20 @@ imagenAlt: 'Waterfall and natural pool in a narrow Teno ravine'
 galeria:
 - src: https://imgcdn.bokun.tools/c1e532b0-bc0e-4cdb-83eb-b88fd3a42e63.jpg
   alt: 'Hikers helping each other over rocks in the ravine'
+- src: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
+  alt: 'The walls of the Masca Gorge'
 - src: https://imgcdn.bokun.tools/18e2d590-4258-462c-a454-6c2e58a39c17.jpg
   alt: 'Hiker in a narrow gorge between rock walls'
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
+  alt: 'Laurel forest with ferns and mist in Teno'
 - src: https://imgcdn.bokun.tools/c9e5110b-157d-41ce-b0d9-5281df5b7768.jpg
   alt: 'Hiker next to the stream in the green ravine'
+- src: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
+  alt: 'The hamlet of Masca in its valley'
 - src: https://imgcdn.bokun.tools/54ea53c4-3e2d-4fba-878a-d42c1e986e1e.jpg
   alt: 'The rock pinnacles of Masca'
+- src: /images/actividades/tenerife/masca/ftc-palmeras-masca.webp
+  alt: 'Palm trees in the Masca valley'
 - src: https://imgcdn.bokun.tools/d51a3243-3117-4c6d-8ec3-aef1d5a5d62c.jpg
   alt: 'The Masca valley and its winding road'
 atraccionesRelacionadas:

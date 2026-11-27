@@ -81,12 +81,20 @@ imagenAlt: 'Cascada y poza natural en un barranco estrecho de Teno'
 galeria:
 - src: https://imgcdn.bokun.tools/c1e532b0-bc0e-4cdb-83eb-b88fd3a42e63.jpg
   alt: 'Senderistas ayudándose a pasar las rocas del barranco'
+- src: /images/actividades/tenerife/masca/barranco-masca-paredes.webp
+  alt: 'Paredes del barranco de Masca'
 - src: https://imgcdn.bokun.tools/18e2d590-4258-462c-a454-6c2e58a39c17.jpg
   alt: 'Senderista en un barranco estrecho entre paredes de roca'
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
+  alt: 'Laurisilva con helechos y niebla en Teno'
 - src: https://imgcdn.bokun.tools/c9e5110b-157d-41ce-b0d9-5281df5b7768.jpg
   alt: 'Senderista junto al arroyo en el barranco verde'
+- src: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
+  alt: 'El caserío de Masca en su valle'
 - src: https://imgcdn.bokun.tools/54ea53c4-3e2d-4fba-878a-d42c1e986e1e.jpg
   alt: 'Los roques de Masca'
+- src: /images/actividades/tenerife/masca/ftc-palmeras-masca.webp
+  alt: 'Palmeras en el valle de Masca'
 - src: https://imgcdn.bokun.tools/d51a3243-3117-4c6d-8ec3-aef1d5a5d62c.jpg
   alt: 'El valle de Masca y su carretera de curvas'
 atraccionesRelacionadas:

@@ -82,10 +82,16 @@ imagenAlt: 'Casas cueva excavadas en un risco sobre un valle verde de Anaga'
 galeria:
 - src: https://imgcdn.bokun.tools/49e4ad09-36f7-40d2-b89f-9abbb0e592ee.jpg
   alt: 'Guía y senderistas en la laurisilva de Anaga'
+- src: /images/actividades/tenerife/anaga/anaga-02.webp
+  alt: 'Lagarto canario tomando el sol sobre una roca en Anaga'
 - src: https://imgcdn.bokun.tools/61d1360e-6772-4cba-a894-cbde4a81a547.jpg
   alt: 'Grupo en un mirador sobre las nubes'
+- src: /images/actividades/tenerife/ciudad/roque-taborno.webp
+  alt: 'El Roque de Taborno, en Anaga'
 - src: https://imgcdn.bokun.tools/cbe1b836-6373-44bd-9d60-b1c0f596d40f.jpg
   alt: 'El Teide visto desde las montañas de Anaga'
+- src: /images/actividades/tenerife/anaga/anaga-04.webp
+  alt: 'Laderas verdes de Anaga'
 - src: https://imgcdn.bokun.tools/77ed432e-fba0-4c66-b66e-21e90d114222.jpg
   alt: 'Crestas verdes y roques en Anaga'
 - src: https://imgcdn.bokun.tools/3ae2e5b8-be99-42ec-aa4b-304db90cf85b.jpg

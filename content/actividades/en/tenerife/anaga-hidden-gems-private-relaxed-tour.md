@@ -75,14 +75,24 @@ imagenAlt: 'Rocky coastline and beach in Anaga under a blue sky'
 galeria:
 - src: https://imgcdn.bokun.tools/ad890bf6-81f4-4187-9e24-f2fd5d955c4d.jpg
   alt: 'White village on a ridge above the sea in Anaga'
+- src: /images/actividades/tenerife/ciudad/anaga-montes.webp
+  alt: 'The Anaga mountains'
 - src: https://imgcdn.bokun.tools/8ff8ea9e-9bb8-4760-9cae-8b32399b9343.jpg
   alt: 'Sunbeams through the misty laurel forest'
+- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
+  alt: 'Laurel forest in Anaga'
 - src: https://imgcdn.bokun.tools/eee85a67-b5bd-4c6c-a665-21613347a8ce.jpg
   alt: 'Snow-capped Teide above La Laguna'
+- src: /images/actividades/tenerife/anaga/anaga-01.webp
+  alt: 'Landscape of the Anaga massif'
 - src: https://imgcdn.bokun.tools/6667cdf6-ad32-4e44-8b57-5df910456c2c.jpg
   alt: 'Travellers at a viewpoint over the Anaga valleys'
+- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
+  alt: 'Benijo beach in Anaga'
 - src: https://imgcdn.bokun.tools/554ab402-3378-4dd1-9b05-bbf2906bbd71.jpg
   alt: 'Winding road along the Anaga ridges'
+- src: /images/actividades/tenerife/anaga/anaga-03.webp
+  alt: 'Ridges and ravines of Anaga'
 atraccionesRelacionadas:
 - 'anaga'
 publicada: true

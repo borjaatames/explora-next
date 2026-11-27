@@ -77,14 +77,24 @@ imagenAlt: 'El pueblo de Masca bajo sus roques'
 galeria:
 - src: https://imgcdn.bokun.tools/aefe4f49-b63f-44a7-a053-549ef5453b65.jpg
   alt: 'Guía con viajeros junto a un mapa en el Parque Nacional del Teide'
+- src: /images/actividades/tenerife/teide/teide-canadas.webp
+  alt: 'El Teide desde Las Cañadas'
 - src: https://imgcdn.bokun.tools/e3d7331d-fe4a-4975-8ddb-ffe8cd26f458.jpg
   alt: 'El Teide nevado sobre colinas verdes'
+- src: /images/actividades/tenerife/teide/roques-garcia-vista.webp
+  alt: 'Los Roques de García en el Parque Nacional del Teide'
 - src: https://imgcdn.bokun.tools/09a977ed-fbab-4320-acda-e28a951ff883.jpg
   alt: 'Torre de iglesia y palmeras en la plaza de un pueblo'
+- src: /images/actividades/tenerife/masca/ftc-caserio-masca-valle.webp
+  alt: 'El caserío de Masca en su valle'
 - src: https://imgcdn.bokun.tools/d39afb1a-bef2-4aeb-af77-a095ac8a1895.jpg
   alt: 'Acantilados y costa en el norte de Tenerife'
+- src: /images/actividades/tenerife/masca/barranco-masca-atardecer.webp
+  alt: 'El barranco de Masca al atardecer'
 - src: https://imgcdn.bokun.tools/fec6d41a-3190-402a-bc97-3afb1f70d2ca.jpg
   alt: 'Formaciones de roca volcánica en el Parque Nacional del Teide'
+- src: /images/actividades/tenerife/garachico/garachico-costa.webp
+  alt: 'La costa de Garachico, en el norte de Tenerife'
 atraccionesRelacionadas:
 - 'teide'
 - 'masca-gigantes'

@@ -80,12 +80,22 @@ imagenAlt: 'Sunset over the jagged Masca mountains'
 galeria:
 - src: https://imgcdn.bokun.tools/fd9f3390-6042-45f5-b14a-f7ddafe1d4dd.jpg
   alt: 'Group walking along a forest trail'
+- src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
+  alt: 'Canary pine forest with Teide behind'
 - src: https://imgcdn.bokun.tools/7a64635c-953e-433a-930a-c5bb954a57be.jpg
   alt: 'Guide pointing out the view to hikers'
+- src: /images/actividades/tenerife/masca/ftc-masca-casas-ladera.webp
+  alt: 'Houses of Masca on the hillside'
 - src: https://imgcdn.bokun.tools/79ad181c-713d-4af4-b91c-576a33894e29.jpg
   alt: 'Hiker at a cliff edge above the clouds'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'The hamlet of Masca'
 - src: https://imgcdn.bokun.tools/88e32359-5d31-4a88-95d3-995e8d4a07a3.jpg
   alt: 'Misty laurel forest in Teno'
+- src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
+  alt: 'A trail through the laurel forest'
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-troncos-musgo.webp
+  alt: 'Moss-covered trunks in the laurel forest'
 atraccionesRelacionadas:
 - 'masca-gigantes'
 publicada: true

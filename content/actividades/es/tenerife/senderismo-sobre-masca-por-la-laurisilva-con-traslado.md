@@ -80,12 +80,22 @@ imagenAlt: 'Atardecer sobre las montañas de Masca'
 galeria:
 - src: https://imgcdn.bokun.tools/fd9f3390-6042-45f5-b14a-f7ddafe1d4dd.jpg
   alt: 'Grupo caminando por un sendero de bosque'
+- src: /images/actividades/tenerife/teno/ftc-pinar-canario-teide.webp
+  alt: 'Pinar canario con el Teide al fondo'
 - src: https://imgcdn.bokun.tools/7a64635c-953e-433a-930a-c5bb954a57be.jpg
   alt: 'Guía señalando el paisaje a los senderistas'
+- src: /images/actividades/tenerife/masca/ftc-masca-casas-ladera.webp
+  alt: 'Casas de Masca en la ladera'
 - src: https://imgcdn.bokun.tools/79ad181c-713d-4af4-b91c-576a33894e29.jpg
   alt: 'Senderista al borde de un risco sobre las nubes'
+- src: /images/actividades/tenerife/masca/masca-caserio.webp
+  alt: 'El caserío de Masca'
 - src: https://imgcdn.bokun.tools/88e32359-5d31-4a88-95d3-995e8d4a07a3.jpg
   alt: 'Laurisilva con niebla en Teno'
+- src: /images/actividades/tenerife/teno/ftc-sendero-laurisilva.webp
+  alt: 'Sendero por la laurisilva'
+- src: /images/actividades/tenerife/teno/ftc-laurisilva-troncos-musgo.webp
+  alt: 'Troncos cubiertos de musgo en la laurisilva'
 atraccionesRelacionadas:
 - 'masca-gigantes'
 publicada: true

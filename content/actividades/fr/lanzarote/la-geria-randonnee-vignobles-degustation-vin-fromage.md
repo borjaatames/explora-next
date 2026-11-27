@@ -15,8 +15,9 @@ idiomas:
 - en
 - fr
 - es
-proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/activity-t116668/?partner_id=C71NOAW
+proveedor: bokun
+bokunProductId: 482999
+urlReserva: ''
 cancelacionGratuita: true
 reservaSinPagar: true
 horasCancelacion: 24

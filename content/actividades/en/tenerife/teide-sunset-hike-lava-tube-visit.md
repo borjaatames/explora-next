@@ -83,12 +83,22 @@ imagenAlt: 'Group watching the sunset from a volcanic peak on Teide'
 galeria:
 - src: https://imgcdn.bokun.tools/7cb81069-161f-455e-8403-a77d488e36c2.jpg
   alt: 'Hikers on red volcanic slopes in Teide National Park'
+- src: /images/actividades/tenerife/teide/pico-viejo-volcan.webp
+  alt: 'The Pico Viejo volcano'
 - src: https://imgcdn.bokun.tools/decb0edd-dd83-4ff6-9969-e6c1575f7c9d.jpg
   alt: 'Red volcanic hill under a blue sky'
+- src: /images/actividades/tenerife/teide/canadas-panoramica.webp
+  alt: 'Panorama of Las Cañadas del Teide'
 - src: https://imgcdn.bokun.tools/b433e879-6c72-4fa7-adcb-96e9baa83146.jpg
   alt: 'Lava fields and pine forest seen from above'
+- src: /images/actividades/tenerife/estrellas/atardecer-pinos.webp
+  alt: 'Pine trees at sunset on Teide'
 - src: https://imgcdn.bokun.tools/4f90d791-91a4-416f-8a47-2b2a7175cf9d.jpg
   alt: 'Guide with a group in the volcanic landscape'
+- src: /images/actividades/tenerife/estrellas/atardecer-teide-nubes.webp
+  alt: 'Sunset above the clouds on Teide'
+- src: /images/actividades/tenerife/estrellas/atardecer-islas.webp
+  alt: 'Sunset with other islands on the horizon'
 atraccionesRelacionadas:
 - 'teide'
 publicada: true

@@ -75,14 +75,24 @@ imagenAlt: 'Costa rocosa y playa de Anaga bajo un cielo azul'
 galeria:
 - src: https://imgcdn.bokun.tools/ad890bf6-81f4-4187-9e24-f2fd5d955c4d.jpg
   alt: 'Pueblo blanco en una ladera sobre el mar en Anaga'
+- src: /images/actividades/tenerife/ciudad/anaga-montes.webp
+  alt: 'Las montañas de Anaga'
 - src: https://imgcdn.bokun.tools/8ff8ea9e-9bb8-4760-9cae-8b32399b9343.jpg
   alt: 'Rayos de sol entre la niebla de la laurisilva'
+- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
+  alt: 'Bosque de laurisilva en Anaga'
 - src: https://imgcdn.bokun.tools/eee85a67-b5bd-4c6c-a665-21613347a8ce.jpg
   alt: 'El Teide nevado sobre La Laguna'
+- src: /images/actividades/tenerife/anaga/anaga-01.webp
+  alt: 'Paisaje del macizo de Anaga'
 - src: https://imgcdn.bokun.tools/6667cdf6-ad32-4e44-8b57-5df910456c2c.jpg
   alt: 'Viajeros en un mirador sobre los valles de Anaga'
+- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
+  alt: 'La playa de Benijo, en Anaga'
 - src: https://imgcdn.bokun.tools/554ab402-3378-4dd1-9b05-bbf2906bbd71.jpg
   alt: 'Carretera serpenteando por las crestas de Anaga'
+- src: /images/actividades/tenerife/anaga/anaga-03.webp
+  alt: 'Montes y barrancos de Anaga'
 atraccionesRelacionadas:
 - 'anaga'
 publicada: true

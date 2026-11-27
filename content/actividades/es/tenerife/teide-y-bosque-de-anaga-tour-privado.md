@@ -77,12 +77,22 @@ imagenAlt: 'El Teide sobre La Laguna y el norte verde'
 galeria:
 - src: https://imgcdn.bokun.tools/a052d11f-84b3-43aa-8189-4dbf1a458f54.jpg
   alt: 'Guía y viajeros en el bosque de Anaga con niebla'
+- src: /images/actividades/tenerife/teide/teide-mar-nubes.webp
+  alt: 'El Teide sobre el mar de nubes'
 - src: https://imgcdn.bokun.tools/104fa18f-c80c-4b64-a85e-b40fba38c29d.jpg
   alt: 'Formaciones rocosas en el Parque Nacional del Teide'
+- src: /images/actividades/tenerife/teide/roques-garcia-carretera.webp
+  alt: 'La carretera junto a los Roques de García'
 - src: https://imgcdn.bokun.tools/eeaa13ba-a0fc-4ffc-a92a-6e71041830a4.jpg
   alt: 'Laderas de lava bajo la cima del Teide'
+- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
+  alt: 'Bosque de laurisilva en Anaga'
 - src: https://imgcdn.bokun.tools/0b8f630b-5cec-4f0d-a016-b68f1b85b348.jpg
   alt: 'Acantilados de la costa norte de Tenerife'
+- src: /images/actividades/tenerife/ciudad/la-laguna-calle.webp
+  alt: 'Calle del casco histórico de La Laguna'
+- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
+  alt: 'La playa de Benijo, en Anaga'
 atraccionesRelacionadas:
 - 'teide'
 - 'anaga'
