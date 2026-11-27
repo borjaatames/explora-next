@@ -1,92 +1,121 @@
 ---
-titulo: 'Tenerife: Hidden Treasures of Anaga with Free Pick-Up'
+titulo: 'Tenerife: Anaga hidden gems hike with free pickup from the south'
 slug: tenerife-hidden-treasures-of-anaga-with-free-pick-up
 ciudad: tenerife
-descripcion: 'Day trip to Anaga Rural Park with a guide and transfer: panoramic viewpoints, a relict laurel forest and a village where locals live in caves, as an active small-group hike or a relaxed private tour with beaches; flexible times for cruise passengers in Santa Cruz. Rated 4.9/5 from 104 reviews. From €123.'
+descripcion: 'Small-group guided hike in Anaga Rural Park, a UNESCO Biosphere Reserve: three viewpoints, a relict laurel forest and a 5.5 km walk through a gorge along centuries-old water channels. Free door-to-door pickup in the south. Guide in English or Spanish. From €112 per person.'
 slugs:
-  es: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
   en: tenerife-hidden-treasures-of-anaga-with-free-pick-up
-duracion: 7 h 30 min
+  es: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
+duracion: '7 h 30 min with pickup'
 duracionMinutos: 450
-precioDesde: 123
+precioDesde: 112
 moneda: EUR
 idiomas:
-- en
-- ru
-- es
-proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/activity-t1073782/?partner_id=C71NOAW
+- 'en'
+- 'es'
+proveedor: bokun
+bokunProductId: 1167740
+urlReserva: ''
 cancelacionGratuita: true
-horasCancelacion: 24
 ratingProveedor: 4.9
 numeroOpiniones: 104
 highlights:
-- Stunning panoramic viewpoints
-- A walk through relict laurel forest
-- A village where locals live in caves
-- Small-group hike or relaxed private tour
+- 'Three panoramic viewpoints over the Anaga mountains and the coast'
+- 'A walk through relict laurel forest'
+- 'About 4 hours of hiking: 5.5 km and 300 m of elevation change'
+- 'A mountain gorge with centuries-old water channels and tunnels'
+- 'Small group of up to 8 people'
+- 'Free door-to-door pickup in the south of Tenerife'
 incluye:
-- Walking poles
-- Insurance
-- Scenic drive to Anaga Rural Park
-- Guide
-- Transfer
+- 'Hiking guide in English or Spanish'
+- 'Air-conditioned vehicle with pickup and return'
+- 'Trekking poles'
+- 'Civil liability insurance'
 noIncluye:
-- Food and drinks
+- 'Meals'
+- 'Bottled water'
+- 'Coffee or tea'
+puntoEncuentro:
+  texto: 'Door-to-door pickup in the south of Tenerife, from Santiago del Teide to Santa Cruz'
+  descripcionGuia: 'Pickup areas include Los Gigantes and Santiago del Teide, Costa Adeje, Playa de las Américas, Los Cristianos, Costa del Silencio and Las Galletas, Golf del Sur and El Médano. The operator confirms the exact time and point after booking.'
+  latitud: 28.5423
+  longitud: -16.2147
+  zoom: 11
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
+  accesibleSilla: false
 informacionImportante:
+  queTraer:
+  - 'Hiking boots or trainers with good grip'
+  - 'A light jacket: the weather in Anaga changes quickly'
+  - 'Water and snacks'
+  noAptoPara:
+  - 'Wheelchair users and pushchairs'
+  - 'People with reduced mobility'
   aTenerEnCuenta:
-  - Choose between a private relaxed tour and a small-group hike
-  - Flexible times suit cruise passengers docking in Santa Cruz
-politicaCancelacion: Free cancellation up to 1 day before, with a full refund.
+  - 'Price in January 2027: €158 for one person, €272 for two (€136 each) and €448 for four (€112 each); small group of up to 8'
+  - 'Moderate difficulty: about 4 hours of walking'
+accesibilidad: 'Not wheelchair or pushchair accessible.'
+politicaCancelacion: 'Free cancellation up to 24 hours before the start.'
+opinionEditorial: 'The best introduction to Anaga for people who like to walk: viewpoints, laurel forest and a gorge with old water channels in one day, with a guide who knows the area and pickup from the southern resorts, which saves a long drive. The group is small and the price drops a lot if you are 3 or 4. If you would rather see Anaga without hiking, the same operator runs a relaxed private tour with the cave village and Benijo beach.'
 preguntasFrecuentes:
-- pregunta: What language is the guide?
-  respuesta: The guide speaks English, Spanish.
-- pregunta: Can I cancel?
-  respuesta: Yes, for free up to 1 day before, with a full refund.
-- pregunta: 'What is included?'
-  respuesta: 'The price includes walking poles, insurance, scenic drive to Anaga Rural Park, guide, and transfer.'
-- pregunta: 'What should I know before booking?'
-  respuesta: 'Choose between a private relaxed tour and a small-group hike. Flexible times suit cruise passengers docking in Santa Cruz.'
-- pregunta: 'What is not included?'
-  respuesta: 'The price does not include food and drinks.'
+- pregunta: 'How much does it cost?'
+  respuesta: '€158 for one person, €272 for two and €448 for four (January 2027). The calendar shows the exact price for your date.'
+- pregunta: 'Where is the pickup?'
+  respuesta: 'Door to door in the south of Tenerife: Los Gigantes, Costa Adeje, Las Américas, Los Cristianos, Las Galletas, Golf del Sur, El Médano and other areas up to Santa Cruz.'
+- pregunta: 'How hard is the hike?'
+  respuesta: 'Moderate: about 4 hours of walking, 5.5 km with 300 m of elevation change.'
+- pregunta: 'Which languages does the guide speak?'
+  respuesta: 'English and Spanish (also Russian).'
+- pregunta: 'Can I cancel?'
+  respuesta: 'Yes, free of charge up to 24 hours before the start.'
+guiasRelacionadas:
+- 'what-to-see-in-tenerife'
 categoria: aventura
 keywords:
-- anaga tour
-- anaga hike pick-up
-- anaga cruise excursion santa cruz
-imagen: /images/actividades/tenerife/ciudad/roque-taborno.webp
-imagenAlt: Roque de Taborno in the Anaga mountains
+- 'anaga hike pick-up'
+- 'anaga hidden gems hike'
+- 'anaga guided hike from the south'
+imagen: https://imgcdn.bokun.tools/11d49a77-a2a4-4fb3-b4d8-eb9702aa197e.jpg
+imagenAlt: 'Cave houses carved into a cliff above a green Anaga valley'
 galeria:
-- src: /images/actividades/tenerife/anaga/anaga-04.webp
-  alt: Green valleys of the Anaga massif
-- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
-  alt: Laurel forest in Anaga
-- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
-  alt: Benijo beach on the coast of Anaga
-- src: /images/actividades/tenerife/anaga/anaga-06.webp
-  alt: Trail in Anaga Rural Park
-- src: /images/actividades/tenerife/ciudad/anaga-montes.webp
-  alt: The Anaga mountains
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Ridges of the Anaga massif
-- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
-  alt: Ferns and moss in a misty laurel forest
-- src: /images/actividades/tenerife/prov-trektenerife/roques-de-anaga-y-la-costa-norte-desde-un-mirador.webp
-  alt: 'Roques de Anaga and the north coast from a viewpoint'
-- src: /images/actividades/tenerife/prov-trektenerife/senderistas-descansando-sobre-los-acantilados-de-anaga.webp
-  alt: 'Hikers resting above the Anaga cliffs'
-- src: /images/actividades/tenerife/prov-trektenerife/grupo-caminando-por-un-sendero-de-laurisilva.webp
-  alt: 'Group walking along a laurel forest trail'
-- src: /images/actividades/tenerife/prov-trektenerife/paso-entre-rocas-en-un-barranco-de-anaga.webp
-  alt: 'Scrambling between rocks in an Anaga ravine'
-- src: /images/actividades/tenerife/prov-trektenerife/crestas-verdes-del-macizo-de-anaga.webp
-  alt: 'Green ridges of the Anaga massif'
-- src: /images/actividades/tenerife/prov-trektenerife/senderistas-frente-a-las-montanas-de-anaga.webp
-  alt: 'Hikers facing the Anaga mountains'
+- src: https://imgcdn.bokun.tools/49e4ad09-36f7-40d2-b89f-9abbb0e592ee.jpg
+  alt: 'Guide and hikers in the Anaga laurel forest'
+- src: https://imgcdn.bokun.tools/61d1360e-6772-4cba-a894-cbde4a81a547.jpg
+  alt: 'Group at a viewpoint above the clouds'
+- src: https://imgcdn.bokun.tools/cbe1b836-6373-44bd-9d60-b1c0f596d40f.jpg
+  alt: 'Teide seen from the Anaga mountains'
+- src: https://imgcdn.bokun.tools/77ed432e-fba0-4c66-b66e-21e90d114222.jpg
+  alt: 'Green ridges and rock pinnacles in Anaga'
+- src: https://imgcdn.bokun.tools/3ae2e5b8-be99-42ec-aa4b-304db90cf85b.jpg
+  alt: 'Hikers next to an old cave dwelling'
+- src: https://imgcdn.bokun.tools/b17b9b55-92cc-4999-b036-ea28c7017397.jpg
+  alt: 'Hiker on a rock above the ravine'
+atraccionesRelacionadas:
+- 'anaga'
 publicada: true
 destacada: false
 fecha: '2026-11-22'
 ---
+
+## What you will do
+
+A guided hike in **Anaga Rural Park**, a **UNESCO Biosphere Reserve** in the north-east of Tenerife and one of the oldest natural areas in the Canary Islands. After the morning pickup you stop at **three viewpoints** over the mountains and the Atlantic, then walk into the **relict laurel forest**.
+
+The main hike lasts about **4 hours (5.5 km, 300 m of elevation change)**, starting at 420 m: you go through a mountain gorge and follow **water channels and tunnels carved centuries ago**, with plenty of stops for photos and stories.
+
+## How it works
+
+Pickup is **door to door in the south of Tenerife**, from Santiago del Teide to Santa Cruz; the operator confirms the time after booking. The group is **small, up to 8 people**, and the day lasts about **7.5 hours**. Prices go down per person as the group grows: €158 for one, €272 for two and €448 for four. Trekking poles and insurance are included; bring water and snacks. Free cancellation up to 24 hours before.
+
+## Who I recommend it to
+
+- If you like hiking and want to see the wildest side of Tenerife.
+- If you are staying in the south and do not want to drive to Anaga.
+- Couples or small groups who want a guided, uncrowded walk.
+
+## Who I do not recommend it to
+
+- If you prefer viewpoints without much walking: choose the relaxed private Anaga tour.
+- People with reduced mobility.

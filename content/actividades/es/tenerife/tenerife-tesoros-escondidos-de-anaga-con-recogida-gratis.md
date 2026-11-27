@@ -1,92 +1,121 @@
 ---
-titulo: 'Tenerife: tesoros escondidos de Anaga con recogida gratis'
+titulo: 'Tenerife: senderismo por los tesoros escondidos de Anaga con recogida en el sur'
 slug: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
 ciudad: tenerife
-descripcion: 'Excursión de un día al Parque Rural de Anaga con guía y traslado: miradores panorámicos, laurisilva relicta y un pueblo donde los vecinos viven en cuevas, como ruta de senderismo activa en grupo reducido o tour privado tranquilo con playas; horarios flexibles para cruceristas en Santa Cruz. Valoración de 4,9/5 en 104 opiniones. Desde 123 €.'
+descripcion: 'Ruta guiada en grupo reducido por el Parque Rural de Anaga, Reserva de la Biosfera: tres miradores, laurisilva y 5,5 km por un barranco junto a antiguos canales de agua. Recogida gratis puerta a puerta en el sur. Guía en español o inglés. Desde 112 € por persona.'
 slugs:
-  es: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
   en: tenerife-hidden-treasures-of-anaga-with-free-pick-up
-duracion: 7 h 30 min
+  es: tenerife-tesoros-escondidos-de-anaga-con-recogida-gratis
+duracion: '7 h 30 min con recogida'
 duracionMinutos: 450
-precioDesde: 123
+precioDesde: 112
 moneda: EUR
 idiomas:
-- en
-- ru
-- es
-proveedor: getyourguide
-urlReserva: https://www.getyourguide.com/es-es/activity-t1073782/?partner_id=C71NOAW
+- 'es'
+- 'en'
+proveedor: bokun
+bokunProductId: 1167740
+urlReserva: ''
 cancelacionGratuita: true
-horasCancelacion: 24
 ratingProveedor: 4.9
 numeroOpiniones: 104
 highlights:
-- Miradores panorámicos espectaculares
-- Paseo por la laurisilva relicta
-- Un pueblo donde los vecinos viven en cuevas
-- Senderismo en grupo reducido o tour privado tranquilo
+- 'Tres miradores sobre las montañas de Anaga y la costa'
+- 'Paseo por un bosque de laurisilva'
+- 'Unas 4 horas de caminata: 5,5 km y 300 m de desnivel'
+- 'Un barranco con canales y túneles de agua de hace siglos'
+- 'Grupo reducido de hasta 8 personas'
+- 'Recogida gratis puerta a puerta en el sur de Tenerife'
 incluye:
-- Bastones de senderismo
-- Seguro
-- Ruta panorámica hasta el Parque Rural de Anaga
-- Guía
-- Traslado
+- 'Guía de senderismo en español o inglés'
+- 'Vehículo con aire acondicionado, recogida y regreso'
+- 'Bastones de trekking'
+- 'Seguro de responsabilidad civil'
 noIncluye:
-- Comida y bebidas
+- 'Comidas'
+- 'Agua embotellada'
+- 'Café o té'
+puntoEncuentro:
+  texto: 'Recogida puerta a puerta en el sur de Tenerife, de Santiago del Teide a Santa Cruz'
+  descripcionGuia: 'Entre las zonas de recogida están Los Gigantes y Santiago del Teide, Costa Adeje, Playa de las Américas, Los Cristianos, Costa del Silencio y Las Galletas, Golf del Sur y El Médano. El operador confirma la hora y el punto exactos después de reservar.'
+  latitud: 28.5423
+  longitud: -16.2147
+  zoom: 11
 detallesPracticos:
   ticketMovil: true
-  confirmacionInmediata: true
+  confirmacionInmediata: false
+  accesibleSilla: false
 informacionImportante:
+  queTraer:
+  - 'Botas de montaña o zapatillas con buen agarre'
+  - 'Chaqueta ligera: en Anaga el tiempo cambia rápido'
+  - 'Agua y algo de comer'
+  noAptoPara:
+  - 'Usuarios de silla de ruedas y carritos'
+  - 'Personas con movilidad reducida'
   aTenerEnCuenta:
-  - Elige entre un tour privado tranquilo y una ruta de senderismo en grupo reducido
-  - Los horarios flexibles encajan con los cruceros que atracan en Santa Cruz
-politicaCancelacion: Cancelación gratuita hasta 24 horas antes, con reembolso completo.
+  - 'Precio en enero de 2027: 158 € una persona, 272 € dos (136 € cada una) y 448 € cuatro (112 € cada una); grupo reducido de hasta 8'
+  - 'Dificultad moderada: unas 4 horas caminando'
+accesibilidad: 'No accesible en silla de ruedas ni con carrito.'
+politicaCancelacion: 'Cancelación gratuita hasta 24 horas antes del inicio.'
+opinionEditorial: 'La mejor forma de conocer Anaga si te gusta caminar: miradores, laurisilva y un barranco con antiguos canales de agua en un día, con un guía que conoce la zona y recogida en el sur, lo que ahorra un trayecto largo. El grupo es pequeño y el precio baja mucho si sois 3 o 4. Si prefieres ver Anaga sin caminar tanto, el mismo operador tiene un tour privado tranquilo con el pueblo de las cuevas y la playa de Benijo.'
 preguntasFrecuentes:
-- pregunta: ¿En qué idioma es el guía?
-  respuesta: El guía habla inglés, ruso, español.
-- pregunta: ¿Puedo cancelar?
-  respuesta: Sí, gratis hasta 24 horas antes, con reembolso completo.
-- pregunta: '¿Qué incluye?'
-  respuesta: 'Incluye bastones de senderismo, seguro, ruta panorámica hasta el Parque Rural de Anaga, guía y traslado.'
-- pregunta: '¿Qué hay que tener en cuenta antes de reservar?'
-  respuesta: 'Elige entre un tour privado tranquilo y una ruta de senderismo en grupo reducido. Los horarios flexibles encajan con los cruceros que atracan en Santa Cruz.'
-- pregunta: '¿Qué no incluye?'
-  respuesta: 'No incluye comida y bebidas.'
+- pregunta: '¿Cuánto cuesta?'
+  respuesta: '158 € una persona, 272 € dos y 448 € cuatro (enero de 2027). El calendario muestra el precio exacto de tu fecha.'
+- pregunta: '¿Dónde es la recogida?'
+  respuesta: 'Puerta a puerta en el sur de Tenerife: Los Gigantes, Costa Adeje, Las Américas, Los Cristianos, Las Galletas, Golf del Sur, El Médano y otras zonas hasta Santa Cruz.'
+- pregunta: '¿Es dura la ruta?'
+  respuesta: 'Moderada: unas 4 horas caminando, 5,5 km y 300 m de desnivel.'
+- pregunta: '¿En qué idiomas es el guía?'
+  respuesta: 'Español e inglés (también ruso).'
+- pregunta: '¿Se puede cancelar?'
+  respuesta: 'Sí, gratis hasta 24 horas antes del inicio.'
+guiasRelacionadas:
+- 'que-ver-en-tenerife'
 categoria: aventura
 keywords:
-- excursion anaga
-- senderismo anaga con recogida
-- excursion crucero anaga santa cruz
-imagen: /images/actividades/tenerife/ciudad/roque-taborno.webp
-imagenAlt: El Roque de Taborno en el macizo de Anaga
+- 'senderismo anaga con recogida'
+- 'ruta guiada anaga desde el sur'
+- 'anaga laurisilva excursión'
+imagen: https://imgcdn.bokun.tools/11d49a77-a2a4-4fb3-b4d8-eb9702aa197e.jpg
+imagenAlt: 'Casas cueva excavadas en un risco sobre un valle verde de Anaga'
 galeria:
-- src: /images/actividades/tenerife/anaga/anaga-04.webp
-  alt: Valles verdes del macizo de Anaga
-- src: /images/actividades/tenerife/ciudad/anaga-laurisilva.webp
-  alt: Laurisilva en Anaga
-- src: /images/actividades/tenerife/ciudad/playa-benijo.webp
-  alt: La playa de Benijo en la costa de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-06.webp
-  alt: Sendero en el Parque Rural de Anaga
-- src: /images/actividades/tenerife/ciudad/anaga-montes.webp
-  alt: Las montañas de Anaga
-- src: /images/actividades/tenerife/anaga/anaga-03.webp
-  alt: Crestas del macizo de Anaga
-- src: /images/actividades/tenerife/teno/ftc-laurisilva-helechos-niebla.webp
-  alt: Helechos y musgo en un bosque de laurisilva con niebla
-- src: /images/actividades/tenerife/prov-trektenerife/roques-de-anaga-y-la-costa-norte-desde-un-mirador.webp
-  alt: 'Roques de Anaga y la costa norte desde un mirador'
-- src: /images/actividades/tenerife/prov-trektenerife/senderistas-descansando-sobre-los-acantilados-de-anaga.webp
-  alt: 'Senderistas descansando sobre los acantilados de Anaga'
-- src: /images/actividades/tenerife/prov-trektenerife/grupo-caminando-por-un-sendero-de-laurisilva.webp
-  alt: 'Grupo caminando por un sendero de laurisilva'
-- src: /images/actividades/tenerife/prov-trektenerife/paso-entre-rocas-en-un-barranco-de-anaga.webp
-  alt: 'Paso entre rocas en un barranco de Anaga'
-- src: /images/actividades/tenerife/prov-trektenerife/crestas-verdes-del-macizo-de-anaga.webp
-  alt: 'Crestas verdes del macizo de Anaga'
-- src: /images/actividades/tenerife/prov-trektenerife/senderistas-frente-a-las-montanas-de-anaga.webp
-  alt: 'Senderistas frente a las montañas de Anaga'
+- src: https://imgcdn.bokun.tools/49e4ad09-36f7-40d2-b89f-9abbb0e592ee.jpg
+  alt: 'Guía y senderistas en la laurisilva de Anaga'
+- src: https://imgcdn.bokun.tools/61d1360e-6772-4cba-a894-cbde4a81a547.jpg
+  alt: 'Grupo en un mirador sobre las nubes'
+- src: https://imgcdn.bokun.tools/cbe1b836-6373-44bd-9d60-b1c0f596d40f.jpg
+  alt: 'El Teide visto desde las montañas de Anaga'
+- src: https://imgcdn.bokun.tools/77ed432e-fba0-4c66-b66e-21e90d114222.jpg
+  alt: 'Crestas verdes y roques en Anaga'
+- src: https://imgcdn.bokun.tools/3ae2e5b8-be99-42ec-aa4b-304db90cf85b.jpg
+  alt: 'Senderistas junto a una antigua casa cueva'
+- src: https://imgcdn.bokun.tools/b17b9b55-92cc-4999-b036-ea28c7017397.jpg
+  alt: 'Senderista sobre una roca encima del barranco'
+atraccionesRelacionadas:
+- 'anaga'
 publicada: true
 destacada: false
-fecha: '2026-11-23'
+fecha: '2026-11-22'
 ---
+
+## Qué vas a hacer
+
+Una ruta guiada por el **Parque Rural de Anaga**, **Reserva de la Biosfera de la UNESCO** en el noreste de Tenerife y uno de los espacios naturales más antiguos de Canarias. Tras la recogida paras en **tres miradores** sobre las montañas y el Atlántico y entras en la **laurisilva**.
+
+La caminata principal dura unas **4 horas (5,5 km y 300 m de desnivel)** y empieza a 420 m: recorre un barranco siguiendo **canales y túneles de agua excavados hace siglos**, con paradas para fotos y explicaciones.
+
+## Cómo funciona
+
+La recogida es **puerta a puerta en el sur de Tenerife**, de Santiago del Teide a Santa Cruz; el operador confirma la hora después de reservar. El grupo es **reducido, de hasta 8 personas**, y el día dura unas **7 horas y media**. El precio por persona baja cuanto más sois: 158 € una persona, 272 € dos y 448 € cuatro. Incluye bastones y seguro; lleva agua y algo de comer. Cancelación gratuita hasta 24 horas antes.
+
+## A quién se lo recomiendo
+
+- Si te gusta caminar y quieres ver la cara más salvaje de Tenerife.
+- Si te alojas en el sur y no quieres conducir hasta Anaga.
+- Parejas o grupos pequeños que buscan una ruta guiada y sin aglomeraciones.
+
+## A quién no se lo recomiendo
+
+- Si prefieres miradores sin caminar mucho: elige el tour privado tranquilo por Anaga.
+- Personas con movilidad reducida.
