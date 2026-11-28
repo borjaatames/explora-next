@@ -3,14 +3,15 @@
 import { useEffect } from "react";
 import { track } from "@vercel/analytics";
 
-type Proveedor = "getyourguide" | "viator" | "bokun" | "whatsapp" | "ficha";
+type Proveedor = "getyourguide" | "viator" | "bokun" | "whatsapp" | "iberostar" | "ficha";
 
 /**
  * Cuenta los clics de reserva en Vercel Web Analytics (evento personalizado
  * «Reserva clic»), sin cookies: incluye a quien rechaza el banner, que GA4
  * casi no ve. Vercel guarda la ruta de la página con cada evento, así que
  * bastan dos propiedades (el plan Pro admite dos):
- *   - proveedor: getyourguide | viator | bokun | whatsapp | ficha (guía → ficha)
+ *   - proveedor: getyourguide | viator | bokun | whatsapp | iberostar (hoteles,
+ *     enlace directo o de CJ) | ficha (guía → ficha)
  *   - posicion: valor de `data-reserva` si lo hay; si no, «barra» cuando el
  *     enlace está dentro de un elemento fijo (barras de móvil) o «pagina».
  *
@@ -30,6 +31,9 @@ type Proveedor = "getyourguide" | "viator" | "bokun" | "whatsapp" | "ficha";
  * se descartan en el `beforeSend` de AnaliticaVercel, que también filtra
  * los eventos.
  */
+/** Dominios de los enlaces de afiliado de CJ (Iberostar). */
+const CJ_HOSTS = ["anrdoezrs.net", "dpbolvw.net", "jdoqocy.com", "kqzyfj.com", "tkqlhce.com"];
+
 function proveedorDe(href: string): Proveedor | null {
   let url: URL;
   try {
@@ -42,6 +46,7 @@ function proveedorDe(href: string): Proveedor | null {
   if (host.endsWith("viator.com")) return "viator";
   if (host.endsWith("bokun.io")) return "bokun";
   if (host === "wa.me" || host.endsWith("whatsapp.com")) return "whatsapp";
+  if (host.endsWith("iberostar.com") || CJ_HOSTS.some((h) => host.endsWith(h))) return "iberostar";
   if (host === window.location.hostname && /\/(actividades|activities)\//.test(url.pathname)) {
     return "ficha";
   }

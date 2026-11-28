@@ -35,6 +35,13 @@ import {
   urlHubPrivados,
   urlPrivadasDeCiudad,
 } from "@/lib/privados";
+import {
+  IDIOMAS_HOTELES,
+  obtenerCiudadesConHoteles,
+  obtenerHotelesDeCiudad,
+  urlHotelesSiExiste,
+  urlHotelSiExiste,
+} from "@/lib/hoteles";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -299,6 +306,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
         priority: 0.8,
         alternates: alternatesPara((l) => privadasSiExiste(l, ciudad)),
       });
+    }
+  }
+
+  // ─── Hoteles: listado por ciudad y ficha de cada hotel (ES y EN) ─────────
+  for (const lang of IDIOMAS_HOTELES) {
+    for (const ciudad of obtenerCiudadesConHoteles(lang)) {
+      const hoteles = obtenerHotelesDeCiudad(lang, ciudad);
+      const masReciente = hoteles.map((h) => h.fecha).sort().pop();
+      entries.push({
+        url: `${SITE_URL}${urlHotelesSiExiste(lang, ciudad)}`,
+        lastModified: masReciente ? new Date(masReciente) : undefined,
+        changeFrequency: "monthly",
+        priority: 0.7,
+        alternates: alternatesPara((l) => urlHotelesSiExiste(l, ciudad)),
+      });
+      for (const h of hoteles) {
+        entries.push({
+          url: `${SITE_URL}${h.url}`,
+          lastModified: new Date(h.fecha),
+          changeFrequency: "monthly",
+          priority: 0.6,
+          alternates: alternatesPara((l) => urlHotelSiExiste(l, ciudad, h.slug)),
+        });
+      }
     }
   }
 

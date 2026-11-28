@@ -219,6 +219,12 @@ const nextConfig = {
         hostname: "imgcdn.bokun.tools",
         pathname: "/**",
       },
+      {
+        // Fotos de hoteles Iberostar (permiso de CJ para afiliados, nov 2026).
+        protocol: "https",
+        hostname: "apiimg.iberostar.com",
+        pathname: "/uploads/image/**",
+      },
     ],
     // Solo WebP: AVIF duplicaba las transformaciones (y el coste) para un ahorro
     // de peso pequeño, porque las fotos locales ya son WebP 1600×1200.
