@@ -71,6 +71,7 @@ export default async function PrivateToursCityPage({ params }: Props) {
 
   return (
     <PaginaPrivados
+      ciudadBarra={params.ciudad}
       idioma={lang}
       titulo={t.ciudadTitulo(ciudad.nombre)}
       intro={t.ciudadIntro(actividades.length)}

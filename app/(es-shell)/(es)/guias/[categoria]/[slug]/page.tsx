@@ -14,6 +14,8 @@ import {
   rutasPorIdioma,
   urlActividadesDeCiudad,
   urlGuia,
+  urlCiudad,
+  urlGuiasDeCiudad,
 } from "@/lib/i18n/utils";
 import FaqActividad from "@/components/FaqActividad";
 import ActividadesRecomendadasGuia from "@/components/guia/ActividadesRecomendadasGuia";
@@ -39,6 +41,7 @@ import {
   slugsInline,
 } from "@/lib/guiasReservas";
 import { tituloSeoGuia } from "@/lib/tituloSeo";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -152,6 +155,14 @@ export default async function GuiaPage({ params }: Props) {
   const nombreCiudad =
     obtenerListaCiudades("es").find((c) => c.slug === guia.categoria)?.nombre ??
     guia.categoria.charAt(0).toUpperCase() + guia.categoria.slice(1);
+  // Guía de una ciudad: las migas pasan por la ciudad y sus guías.
+  const esGuiaDeCiudad = obtenerListaCiudades("es").some((c) => c.slug === guia.categoria);
+  const migasCiudad = esGuiaDeCiudad
+    ? [
+        { label: nombreCiudad, href: urlCiudad("es", guia.categoria) },
+        { label: "Guías", href: urlGuiasDeCiudad("es", guia.categoria) },
+      ]
+    : [{ label: "Guías", href: "/guias" }];
 
   // Imagen absoluta para JSON-LD (Google la requiere completa).
   const imagenRelativa =
@@ -196,15 +207,15 @@ export default async function GuiaPage({ params }: Props) {
         name: "Inicio",
         item: SITE_URL,
       },
+      ...migasCiudad.map((m, i) => ({
+        "@type": "ListItem",
+        position: i + 2,
+        name: m.label,
+        item: `${SITE_URL}${m.href}`,
+      })),
       {
         "@type": "ListItem",
-        position: 2,
-        name: "Guías",
-        item: `${SITE_URL}/guias`,
-      },
-      {
-        "@type": "ListItem",
-        position: 3,
+        position: migasCiudad.length + 2,
         name: guia.titulo,
         item: `${SITE_URL}${guia.url}`,
       },
@@ -264,6 +275,7 @@ export default async function GuiaPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white">
+      <BarraCiudad idioma="es" ciudad={params.categoria} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
@@ -288,7 +300,7 @@ export default async function GuiaPage({ params }: Props) {
         migasLabel="Migas de pan"
         migas={[
           { label: "Inicio", href: "/" },
-          { label: "Guías", href: "/guias" },
+          ...migasCiudad,
           { label: guia.titulo },
         ]}
         meta={[

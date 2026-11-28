@@ -15,6 +15,7 @@ import {
   urlAtraccionesDeCiudad,
   urlCiudad,
 } from "@/lib/i18n/utils";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -85,6 +86,7 @@ export default async function AtraccionesCiudadPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white">
+      <BarraCiudad idioma="es" ciudad={params.ciudad} activa="que-ver" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}

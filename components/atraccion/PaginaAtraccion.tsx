@@ -9,6 +9,7 @@ import { prefijoIdioma, urlAtraccionesDeCiudad } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
 import type { GuiaListItem } from "@/lib/guias";
 import type { Atraccion, OpcionAtraccion, TipoOpcion } from "@/lib/atracciones";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
@@ -183,6 +184,7 @@ export default function PaginaAtraccion({ idioma, atraccion, ciudad, opciones, g
 
   return (
     <main className="min-h-screen bg-white">
+      <BarraCiudad idioma={idioma} ciudad={ciudad.slug} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(atraccionLd) }} />
       {faqLd ? (

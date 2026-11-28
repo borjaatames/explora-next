@@ -36,6 +36,7 @@ import ActividadesFiltradas, {
   type EnlaceCategoria,
 } from "@/components/ciudad/ActividadesFiltradas";
 import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -227,6 +228,7 @@ export default async function ActividadesCiudadIndicePage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white">
+      <BarraCiudad idioma="es" ciudad={params.ciudad} activa="actividades" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }}

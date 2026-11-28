@@ -31,6 +31,7 @@ import {
 import type { Idioma } from "@/lib/i18n/types";
 import HeroCiudad, { DatosClaveCiudad } from "@/components/ciudad/HeroCiudad";
 import { ampliarDescripcion, resumenActividades, resumenGuias } from "@/lib/metaDescripcion";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -286,6 +287,7 @@ export default async function CiudadPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white">
+      <BarraCiudad idioma={lang} ciudad={params.ciudad} activa="resumen" />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

@@ -4,6 +4,7 @@ import type { Idioma } from "@/lib/i18n/types";
 import { aCardData } from "@/lib/cardActividad";
 import { CardActividad } from "@/components/ciudad/ActividadesFiltradas";
 import FaqActividad from "@/components/FaqActividad";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
 
@@ -26,6 +27,8 @@ type Props = {
   faq: PreguntaFrecuente[];
   /** Máximo de tarjetas por grupo (hub); sin límite en la página de ciudad. */
   maxPorGrupo?: number;
+  /** Ciudad de la página (no en el hub): muestra la barra de la ciudad. */
+  ciudadBarra?: string;
 };
 
 type TextosPagina = {
@@ -74,7 +77,7 @@ const TEXTOS: Record<Idioma, TextosPagina> = {
   },
 };
 
-export default function PaginaPrivados({ idioma, titulo, intro, migas, grupos, faq, maxPorGrupo }: Props) {
+export default function PaginaPrivados({ idioma, titulo, intro, migas, grupos, faq, maxPorGrupo, ciudadBarra }: Props) {
   const t = TEXTOS[idioma];
   const todas = grupos.flatMap((g) => g.actividades);
 
@@ -101,6 +104,7 @@ export default function PaginaPrivados({ idioma, titulo, intro, migas, grupos, f
 
   return (
     <main className="min-h-screen bg-white">
+      {ciudadBarra ? <BarraCiudad idioma={idioma} ciudad={ciudadBarra} activa="privados" /> : null}
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbsLd) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListLd) }} />
 

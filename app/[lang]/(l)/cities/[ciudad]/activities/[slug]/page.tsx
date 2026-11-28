@@ -56,6 +56,7 @@ import OtrasVersiones from "@/components/ficha/OtrasVersiones";
 import AvisoEntradasAgotadas, { AvisoComparativaPrivada } from "@/components/ficha/AvisoEntradasAgotadas";
 import AlternativaReserva from "@/components/ficha/AlternativaReserva";
 import { tituloSeoGuia } from "@/lib/tituloSeo";
+import BarraCiudad from "@/components/ciudad/BarraCiudad";
 
 const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || "https://www.exploraspain.com";
@@ -389,6 +390,7 @@ export default async function ActividadPage({ params }: Props) {
 
   return (
     <main className="min-h-screen bg-white pb-24 lg:pb-0">
+      <BarraCiudad idioma={lang} ciudad={params.ciudad} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(productLd) }}

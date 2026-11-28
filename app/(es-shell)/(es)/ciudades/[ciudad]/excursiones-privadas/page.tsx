@@ -57,6 +57,7 @@ export default async function PrivadasCiudadPage({ params }: Props) {
 
   return (
     <PaginaPrivados
+      ciudadBarra={params.ciudad}
       idioma="es"
       titulo={`Excursiones y tours privados en ${ciudad.nombre}`}
       intro={`${actividades.length} excursiones y visitas solo para tu grupo, con recogida y horario según cada una. Te mostramos lo que sale por persona según cuántos seáis para que puedas compararlas con los tours en grupo.`}
