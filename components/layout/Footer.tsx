@@ -10,7 +10,6 @@ import {
   urlCookies,
   urlCiudad,
 } from "@/lib/i18n/utils";
-import { urlListadoActividadesSiExiste } from "@/lib/actividades";
 import { urlProveedores } from "@/lib/proveedores";
 import { urlPlanificador } from "@/lib/planificador";
 import { idiomaConCruceros, urlCruceros } from "@/lib/descubrir";
@@ -315,10 +314,7 @@ export default function Footer({ idioma }: Props) {
               {CIUDADES_TOP.map((c) => (
                 <li key={c.slug}>
                   <Link
-                    href={
-                      urlListadoActividadesSiExiste(idioma, c.slug) ??
-                      urlCiudad(idioma, c.slug)
-                    }
+                    href={urlCiudad(idioma, c.slug)}
                     prefetch={false}
                     className="text-piedra-300 hover:text-white transition-colors"
                   >

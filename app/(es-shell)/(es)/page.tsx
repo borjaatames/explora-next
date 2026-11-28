@@ -11,7 +11,7 @@ import {
   formatearFecha,
   hreflangAlternates,
   prefijoIdioma,
-  urlActividadesDeCiudad,
+  urlCiudad,
   urlIndiceCiudades,
 } from "@/lib/i18n/utils";
 import SelloProveedor from "@/components/SelloProveedor";
@@ -130,7 +130,7 @@ export default function HomePage() {
         idioma={"es"}
         opciones={ciudades.map((c) => ({
           nombre: c.nombre,
-          url: urlActividadesDeCiudad("es", c.slug),
+          url: urlCiudad("es", c.slug),
         }))}
         urlTodos={urlIndiceCiudades("es")}
         anclaDestinos="#destinos"
@@ -157,7 +157,7 @@ export default function HomePage() {
             {destinosHome.map((ciudad) => (
               <Link
                 key={ciudad.url}
-                href={urlActividadesDeCiudad("es", ciudad.slug)}
+                href={urlCiudad("es", ciudad.slug)}
                 className="group relative block h-56 md:h-64 rounded-xl overflow-hidden shadow-sm"
               >
                 <Image

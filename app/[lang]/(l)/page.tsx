@@ -10,7 +10,6 @@ import { obtenerListaCiudades } from "@/lib/ciudades";
 import {
   obtenerActividadesHome,
   obtenerListaActividades,
-  urlListadoActividadesSiExiste,
   type ActividadListItem,
 } from "@/lib/actividades";
 import {
@@ -380,9 +379,7 @@ export default function HomePage({ params }: Props) {
         idioma={lang}
         opciones={ciudades.map((c) => ({
           nombre: c.nombre,
-          url:
-            urlListadoActividadesSiExiste(lang, c.slug) ??
-            urlCiudad(lang, c.slug),
+          url: urlCiudad(lang, c.slug),
         }))}
         urlTodos={urlIndiceCiudades(lang)}
         anclaDestinos="#destinations"
@@ -407,10 +404,7 @@ export default function HomePage({ params }: Props) {
             {destinosHome.map((ciudad) => (
               <Link
                 key={ciudad.url}
-                href={
-                  urlListadoActividadesSiExiste(lang, ciudad.slug) ??
-                  urlCiudad(lang, ciudad.slug)
-                }
+                href={urlCiudad(lang, ciudad.slug)}
                 className="group relative block h-56 md:h-64 rounded-xl overflow-hidden shadow-sm"
               >
                 <Image

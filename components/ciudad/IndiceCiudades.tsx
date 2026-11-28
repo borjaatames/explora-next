@@ -5,7 +5,6 @@ import { obtenerListaActividadesPorCiudad } from "@/lib/actividades";
 import { obtenerGuiasDeCiudad } from "@/lib/guias";
 import {
   prefijoIdioma,
-  urlActividadesDeCiudad,
   urlIndiceCiudades,
 } from "@/lib/i18n/utils";
 import type { Idioma } from "@/lib/i18n/types";
@@ -135,7 +134,7 @@ function conCifras(idioma: Idioma, ciudad: CiudadListItem): CiudadConCifras {
     ...ciudad,
     numActividades,
     numGuias,
-    href: numActividades > 0 ? urlActividadesDeCiudad(idioma, ciudad.slug) : ciudad.url,
+    href: ciudad.url,
   };
 }
 
