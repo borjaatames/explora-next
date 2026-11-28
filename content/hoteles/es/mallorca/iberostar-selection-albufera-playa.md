@@ -56,10 +56,10 @@ distancias:
   - { lugar: "Parque natural de s'Albufera", valor: "Al lado" }
   - { lugar: "Aeropuerto de Palma", valor: "43 min en coche" }
 fotos:
-  - { src: "84419.jpg", alt: "Sombrillas en Playa de Muro junto al hotel" }
-  - { src: "78068.jpeg", alt: "Iberostar Selection Albufera Playa" }
-  - { src: "77947.jpeg", alt: "Instalaciones del Albufera Playa" }
-  - { src: "75187.jpeg", alt: "Zona exterior del hotel" }
+  - { src: "84419.jpg", alt: "Beach club en Playa de Muro junto al hotel" }
+  - { src: "78068.jpeg", alt: "Pareja en la piscina con vistas a la bahía" }
+  - { src: "77947.jpeg", alt: "Pareja en la piscina" }
+  - { src: "75187.jpeg", alt: "Vista aérea de las piscinas" }
   - { src: "77957.jpeg", alt: "Pareja en una mesa del restaurante" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido?"

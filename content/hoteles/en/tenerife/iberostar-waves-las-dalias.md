@@ -53,11 +53,11 @@ distancias:
   - { lugar: "El Bobo beach", valor: "10 min walk" }
   - { lugar: "Playa de las Américas", valor: "24 min walk" }
 fotos:
-  - { src: "90499.jpeg", alt: "Iberostar Waves Las Dalias in Costa Adeje" }
-  - { src: "90503.jpeg", alt: "Facilities at the Iberostar Waves Las Dalias" }
-  - { src: "90502.jpeg", alt: "Outdoor area at Las Dalias" }
-  - { src: "90500.jpeg", alt: "Another view of the Iberostar Waves Las Dalias" }
-  - { src: "90501.jpeg", alt: "Spaces at the Las Dalias hotel" }
+  - { src: "90503.jpeg", alt: "Pools at the Iberostar Waves Las Dalias" }
+  - { src: "90499.jpeg", alt: "Lounge at the Iberostar Waves Las Dalias" }
+  - { src: "90502.jpeg", alt: "Hotel lobby" }
+  - { src: "90500.jpeg", alt: "The hotel's kids' club" }
+  - { src: "90501.jpeg", alt: "Hotel reception" }
 faq:
   - pregunta: "What does the Las Dalias all-inclusive cover?"
     respuesta: "The three main meals with drinks, snacks at the bars and a wide range of local-brand drinks."

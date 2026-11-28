@@ -60,8 +60,8 @@ fotos:
   - { src: "51587.jpeg", alt: "The Iberostar Selection Anthelia by the beach, with palm trees" }
   - { src: "51596.jpeg", alt: "Large pool at the Anthelia" }
   - { src: "39832.jpeg", alt: "Pool with the Adeje mountains behind" }
-  - { src: "85676.jpg", alt: "Children's area with a slide" }
-  - { src: "51594.jpeg", alt: "Sun loungers in the hotel gardens" }
+  - { src: "85676.jpg", alt: "Indoor kids' area" }
+  - { src: "51594.jpeg", alt: "Pool with loungers facing the sea" }
   - { src: "85085.jpg", alt: "Room at the Iberostar Selection Anthelia" }
 faq:
   - pregunta: "What does the Anthelia's all-inclusive cover?"

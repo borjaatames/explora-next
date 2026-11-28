@@ -54,11 +54,11 @@ distancias:
   - { lugar: "Playa de Muro beach", valor: "Direct access" }
   - { lugar: "S'Albufera Natural Park", valor: "Nearby" }
 fotos:
-  - { src: "48304.jpeg", alt: "Pool at the Playa de Muro Village by the sea" }
-  - { src: "48302.jpeg", alt: "The hotel's pool area" }
-  - { src: "48318.jpeg", alt: "The sea at Playa de Muro" }
-  - { src: "61441.jpeg", alt: "Loungers in the gardens" }
-  - { src: "68614.jpeg", alt: "Bedroom in a family suite" }
+  - { src: "48318.jpeg", alt: "Pool among the pines" }
+  - { src: "48304.jpeg", alt: "Children's play room" }
+  - { src: "48302.jpeg", alt: "Playground by the beach" }
+  - { src: "61441.jpeg", alt: "Dish at the hotel restaurant" }
+  - { src: "68614.jpeg", alt: "Restaurant by the beach" }
   - { src: "79578.jpeg", alt: "Couple at a restaurant table" }
 faq:
   - pregunta: "Is it on the beach?"

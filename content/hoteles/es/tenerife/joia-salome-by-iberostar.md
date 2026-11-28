@@ -54,7 +54,7 @@ fotos:
   - { src: "37321.jpeg", alt: "Piscina del JOIA Salomé frente al edificio del hotel" }
   - { src: "37312.jpeg", alt: "Piscina con vistas al mar" }
   - { src: "37291.jpeg", alt: "Palmeras junto a la piscina" }
-  - { src: "85708.jpg", alt: "Pasarela junto al agua" }
+  - { src: "85708.jpg", alt: "Piscina con tarima y vistas al mar" }
   - { src: "37310.jpeg", alt: "Dormitorio de una suite del JOIA Salomé" }
   - { src: "37315.jpeg", alt: "Café en la terraza del desayuno" }
 faq:

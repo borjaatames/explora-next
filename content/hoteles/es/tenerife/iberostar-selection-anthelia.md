@@ -60,8 +60,8 @@ fotos:
   - { src: "51587.jpeg", alt: "El Iberostar Selection Anthelia junto a la playa, con palmeras" }
   - { src: "51596.jpeg", alt: "Piscina grande del Anthelia" }
   - { src: "39832.jpeg", alt: "Piscina con las montañas de Adeje al fondo" }
-  - { src: "85676.jpg", alt: "Zona infantil con tobogán" }
-  - { src: "51594.jpeg", alt: "Tumbonas en los jardines del hotel" }
+  - { src: "85676.jpg", alt: "Zona infantil interior" }
+  - { src: "51594.jpeg", alt: "Piscina con tumbonas frente al mar" }
   - { src: "85085.jpg", alt: "Habitación del Iberostar Selection Anthelia" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido del Anthelia?"

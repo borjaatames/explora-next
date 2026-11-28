@@ -55,10 +55,10 @@ distancias:
   - { lugar: "Campo de golf", valor: "Traslado gratuito" }
 fotos:
   - { src: "33899.jpeg", alt: "El Iberostar Selection Andalucía Playa junto a la playa de La Barrosa" }
-  - { src: "80334.jpeg", alt: "Tumbona frente al mar" }
-  - { src: "80330.jpeg", alt: "Niña jugando en el agua" }
+  - { src: "80334.jpeg", alt: "Piscina con camas balinesas" }
+  - { src: "80330.jpeg", alt: "Pareja en la piscina" }
   - { src: "25910.jpeg", alt: "Iberostar Selection Andalucía Playa" }
-  - { src: "68727.jpeg", alt: "Habitación con ventanal" }
+  - { src: "68727.jpeg", alt: "Vestíbulo del hotel" }
   - { src: "76024.jpeg", alt: "Instalaciones del hotel" }
 faq:
   - pregunta: "¿Está en la playa?"

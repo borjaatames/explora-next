@@ -56,7 +56,7 @@ distancias:
 fotos:
   - { src: "69509.jpeg", alt: "The Iberostar Selection Santa Eulalia on the seafront at s'Argamassa" }
   - { src: "85286.jpg", alt: "Pool with parasols and tables" }
-  - { src: "69557.jpeg", alt: "The Mediterranean in front of the hotel" }
+  - { src: "69557.jpeg", alt: "Pool facing the Mediterranean" }
   - { src: "89117.jpeg", alt: "Guests having a drink on the loungers" }
   - { src: "69580.jpeg", alt: "Exclusive Star Prestige area" }
   - { src: "69565.jpeg", alt: "Swimmers in the sea" }

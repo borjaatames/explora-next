@@ -56,7 +56,7 @@ distancias:
 fotos:
   - { src: "69509.jpeg", alt: "El Iberostar Selection Santa Eulalia frente al mar en s'Argamassa" }
   - { src: "85286.jpg", alt: "Piscina con sombrillas y mesas" }
-  - { src: "69557.jpeg", alt: "El Mediterráneo frente al hotel" }
+  - { src: "69557.jpeg", alt: "Piscina frente al Mediterráneo" }
   - { src: "89117.jpeg", alt: "Huéspedes tomando algo en las tumbonas" }
   - { src: "69580.jpeg", alt: "Zona exclusiva Star Prestige" }
   - { src: "69565.jpeg", alt: "Bañistas en el mar" }

@@ -58,7 +58,7 @@ fotos:
   - { src: "84567.jpg", alt: "Dos personas sentadas en la Playa de Palma" }
   - { src: "89824.jpeg", alt: "Camas balinesas en una terraza con vistas al mar" }
   - { src: "84566.jpg", alt: "Pareja en la piscina del hotel" }
-  - { src: "89823.jpeg", alt: "Habitación con cama y mesa" }
+  - { src: "89823.jpeg", alt: "Piscina infinita de la azotea" }
   - { src: "74703.jpeg", alt: "Iberostar Selection Playa de Palma" }
 faq:
   - pregunta: "¿A qué distancia está la playa?"

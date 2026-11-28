@@ -59,8 +59,8 @@ fotos:
   - { src: "66161.jpeg", alt: "Main pool at the Iberostar Waves Club Cala Barca" }
   - { src: "66162.jpeg", alt: "Pool with the beach and pines behind" }
   - { src: "65633.jpeg", alt: "One of the resort's ten pools" }
-  - { src: "66164.jpeg", alt: "Swimmers in one of the hotel pools" }
-  - { src: "65637.jpeg", alt: "The sea by the hotel at Cala Barca" }
+  - { src: "66164.jpeg", alt: "Aerial view of the resort among the pines" }
+  - { src: "65637.jpeg", alt: "Pool among the pines" }
   - { src: "83153.jpeg", alt: "Room at the Club Cala Barca" }
 faq:
   - pregunta: "What does the all-inclusive cover?"

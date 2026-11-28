@@ -55,8 +55,8 @@ distancias:
 fotos:
   - { src: "84348.jpg", alt: "Piscina y jardines del Iberostar Waves Gaviotas Park" }
   - { src: "84179.jpg", alt: "Playa de aguas transparentes en Jandía" }
-  - { src: "84177.jpg", alt: "Adulto y niño en la piscina" }
-  - { src: "84182.jpg", alt: "Suite con piscina entre árboles" }
+  - { src: "84177.jpg", alt: "Niño en el tobogán de la piscina" }
+  - { src: "84182.jpg", alt: "Piscina infantil" }
   - { src: "84244.jpg", alt: "Pareja mirando el mar" }
   - { src: "84180.jpg", alt: "Comedor del hotel" }
 faq:

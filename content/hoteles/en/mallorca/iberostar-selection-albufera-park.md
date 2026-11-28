@@ -54,11 +54,11 @@ distancias:
   - { lugar: "Playa de Muro beach", valor: "Direct access" }
   - { lugar: "S'Albufera Natural Park", valor: "Nearby" }
 fotos:
-  - { src: "77836.jpeg", alt: "Iberostar Selection Albufera Park in Playa de Muro" }
-  - { src: "74998.jpeg", alt: "The hotel's pool area" }
-  - { src: "77850.jpeg", alt: "Facilities at the Albufera Park" }
-  - { src: "84620.jpg", alt: "Adult and child by the pool" }
-  - { src: "84621.jpg", alt: "Family playing in the sandpit" }
+  - { src: "74998.jpeg", alt: "Pool with a slide" }
+  - { src: "77836.jpeg", alt: "Hotel lobby" }
+  - { src: "77850.jpeg", alt: "Family on a jetty by the sea" }
+  - { src: "84620.jpg", alt: "Decorative detail at the hotel" }
+  - { src: "84621.jpg", alt: "Children playing in the kids' area" }
   - { src: "84416.jpg", alt: "Guests relaxing on an outdoor sofa" }
 faq:
   - pregunta: "Are pets allowed?"

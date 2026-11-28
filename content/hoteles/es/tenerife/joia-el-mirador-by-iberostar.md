@@ -52,11 +52,11 @@ salida: "12:00"
 distancias:
   - { lugar: "Playa del Duque", valor: "Acceso directo" }
 fotos:
-  - { src: "46622.jpeg", alt: "Piscina del JOIA El Mirador junto a la Playa del Duque" }
+  - { src: "46622.jpeg", alt: "Piscinas del JOIA El Mirador vistas desde arriba" }
   - { src: "90120.jpeg", alt: "Piscina rodeada de jardines y edificios del hotel" }
-  - { src: "90119.jpeg", alt: "Tumbonas con palmeras en la playa" }
-  - { src: "90117.jpeg", alt: "Terraza junto a la piscina" }
-  - { src: "39018.jpeg", alt: "Edificio del JOIA El Mirador con su piscina" }
+  - { src: "90119.jpeg", alt: "Piscina con palmeras" }
+  - { src: "90117.jpeg", alt: "Tumbonas en el jardín" }
+  - { src: "39018.jpeg", alt: "Jacuzzi exterior con vistas al mar" }
   - { src: "90126.jpeg", alt: "Vista de la playa junto al océano" }
 faq:
   - pregunta: "¿JOIA El Mirador es el antiguo Iberostar Grand El Mirador?"

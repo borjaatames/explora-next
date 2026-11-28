@@ -57,9 +57,9 @@ distancias:
 fotos:
   - { src: "8928.jpeg", alt: "The Iberostar Selection Lanzarote Park on the beach in Playa Blanca" }
   - { src: "81799.jpeg", alt: "Palm trees by the sea" }
-  - { src: "81815.jpeg", alt: "Swimmers in the pool" }
-  - { src: "81793.jpeg", alt: "The ocean by the hotel" }
-  - { src: "81804.jpeg", alt: "Couple by the water" }
+  - { src: "81815.jpeg", alt: "Children's pool with slides" }
+  - { src: "81793.jpeg", alt: "Hotel pools by the ocean" }
+  - { src: "81804.jpeg", alt: "Family playing in the water" }
   - { src: "59298.jpeg", alt: "Loungers in the garden" }
 faq:
   - pregunta: "Is it open all year?"

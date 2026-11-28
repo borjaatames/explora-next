@@ -55,8 +55,8 @@ distancias:
   - { lugar: "Campos de golf", valor: "5 en la zona" }
 fotos:
   - { src: "55648.jpeg", alt: "El Jardín del Sol Suites junto al mar en Costa de la Calma" }
-  - { src: "69716.jpeg", alt: "Piscina con tumbonas y sombrillas junto al mar" }
-  - { src: "90141.jpeg", alt: "Huésped en una tumbona junto a la piscina" }
+  - { src: "69716.jpeg", alt: "Restaurante con vistas al mar" }
+  - { src: "90141.jpeg", alt: "Huésped en la piscina con vistas al mar" }
   - { src: "60560.jpeg", alt: "Zona exclusiva Star Prestige" }
   - { src: "90139.jpeg", alt: "Piscina entre árboles" }
   - { src: "88974.jpeg", alt: "Bañista en las rocas de la cala" }

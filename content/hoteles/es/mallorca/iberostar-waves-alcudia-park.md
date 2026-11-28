@@ -55,10 +55,10 @@ distancias:
   - { lugar: "Parque natural de s'Albufera", valor: "Cerca" }
 fotos:
   - { src: "35740.jpeg", alt: "El Iberostar Waves Alcudia Park frente a la bahía de Alcudia" }
-  - { src: "36794.jpeg", alt: "Piscina grande del hotel" }
+  - { src: "36794.jpeg", alt: "Piscina infantil con tobogán" }
   - { src: "84207.jpg", alt: "Familia jugando en la piscina" }
-  - { src: "84209.jpg", alt: "Bañistas en la piscina" }
-  - { src: "36746.jpeg", alt: "Habitación con escritorio" }
+  - { src: "84209.jpg", alt: "Zona acuática infantil" }
+  - { src: "36746.jpeg", alt: "Zona infantil interior" }
   - { src: "25886.jpeg", alt: "Iberostar Waves Alcudia Park" }
 faq:
   - pregunta: "¿Está en la playa?"

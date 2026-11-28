@@ -55,9 +55,9 @@ distancias:
 fotos:
   - { src: "69647.jpeg", alt: "The Iberostar Waves Cala Domingos by the sea" }
   - { src: "69643.jpeg", alt: "The resort's large pool" }
-  - { src: "68867.jpeg", alt: "Beachgoers at Cala Domingos" }
+  - { src: "68867.jpeg", alt: "Children's splash area" }
   - { src: "68860.jpeg", alt: "Families in the pool" }
-  - { src: "30159.jpeg", alt: "Boat moored in the cove" }
+  - { src: "30159.jpeg", alt: "Aerial view of Cala Domingos" }
   - { src: "68854.jpeg", alt: "The complex's gardens" }
 faq:
   - pregunta: "What does the all-inclusive cover?"

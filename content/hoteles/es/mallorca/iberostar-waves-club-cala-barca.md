@@ -59,8 +59,8 @@ fotos:
   - { src: "66161.jpeg", alt: "Piscina principal del Iberostar Waves Club Cala Barca" }
   - { src: "66162.jpeg", alt: "Piscina con la playa y los pinos al fondo" }
   - { src: "65633.jpeg", alt: "Una de las diez piscinas del resort" }
-  - { src: "66164.jpeg", alt: "Bañistas en una piscina del hotel" }
-  - { src: "65637.jpeg", alt: "El mar junto al hotel en Cala Barca" }
+  - { src: "66164.jpeg", alt: "Vista aérea del resort entre pinos" }
+  - { src: "65637.jpeg", alt: "Piscina entre pinos" }
   - { src: "83153.jpeg", alt: "Habitación del Club Cala Barca" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido?"

@@ -60,7 +60,7 @@ fotos:
   - { src: "84907.jpg", alt: "Piscina con tumbonas y sombrillas del Grand Mencey" }
   - { src: "82806.jpeg", alt: "Pareja descansando junto a la piscina del hotel" }
   - { src: "78016.jpeg", alt: "Habitación con cama grande en el Grand Mencey" }
-  - { src: "10035.jpeg", alt: "Jardín de la entrada del hotel" }
+  - { src: "10035.jpeg", alt: "Jardín del hotel con vistas a Santa Cruz" }
   - { src: "46923.jpeg", alt: "Sala de estar de una suite" }
 faq:
   - pregunta: "¿Qué régimen tiene el Iberostar Heritage Grand Mencey?"

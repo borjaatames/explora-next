@@ -52,11 +52,10 @@ salida: "12:00"
 distancias:
   - { lugar: "Playa", valor: "Traslado gratis en verano" }
 fotos:
-  - { src: "85839.jpg", alt: "Piscina con sombrillas del Iberostar Selection Es Trenc" }
-  - { src: "85959.jpg", alt: "Piscina grande junto al mar" }
-  - { src: "87395.jpg", alt: "Huésped junto a la piscina" }
-  - { src: "85928.jpg", alt: "Pareja en una playa cerca de Colonia de Sant Jordi" }
-  - { src: "85836.jpg", alt: "Embarcadero con sillas junto al mar" }
+  - { src: "85839.jpg", alt: "Piscina con vistas al mar del Iberostar Selection Es Trenc" }
+  - { src: "85959.jpg", alt: "Habitación con vistas al mar" }
+  - { src: "85928.jpg", alt: "Salón de una suite" }
+  - { src: "85836.jpg", alt: "Restaurante con vistas al mar" }
   - { src: "85954.jpg", alt: "Habitación con cama y salida a la terraza" }
 faq:
   - pregunta: "¿Cuándo se renovó el hotel?"

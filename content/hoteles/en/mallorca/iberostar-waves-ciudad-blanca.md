@@ -56,9 +56,9 @@ distancias:
 fotos:
   - { src: "8637.jpeg", alt: "Pool at the Iberostar Waves Ciudad Blanca" }
   - { src: "18440.jpeg", alt: "Iberostar Waves Ciudad Blanca on Alcudia Bay" }
-  - { src: "56908.jpeg", alt: "Palm trees on the beach" }
-  - { src: "8641.jpg", alt: "Hotel exterior" }
-  - { src: "11641.jpg", alt: "Apartment at the Ciudad Blanca" }
+  - { src: "56908.jpeg", alt: "Children's pool with inflatables" }
+  - { src: "8641.jpg", alt: "Chill-out area" }
+  - { src: "11641.jpg", alt: "Playground" }
   - { src: "19648.jpeg", alt: "Hotel room" }
 faq:
   - pregunta: "Does it have apartments?"

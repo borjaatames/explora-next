@@ -58,7 +58,7 @@ fotos:
   - { src: "84567.jpg", alt: "Two people sitting on Playa de Palma beach" }
   - { src: "89824.jpeg", alt: "Daybeds on a terrace with sea views" }
   - { src: "84566.jpg", alt: "Couple in the hotel pool" }
-  - { src: "89823.jpeg", alt: "Room with bed and table" }
+  - { src: "89823.jpeg", alt: "Rooftop infinity pool" }
   - { src: "74703.jpeg", alt: "Iberostar Selection Playa de Palma" }
 faq:
   - pregunta: "How far is the beach?"

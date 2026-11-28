@@ -56,9 +56,9 @@ distancias:
 fotos:
   - { src: "8637.jpeg", alt: "Piscina del Iberostar Waves Ciudad Blanca" }
   - { src: "18440.jpeg", alt: "Iberostar Waves Ciudad Blanca en la bahía de Alcudia" }
-  - { src: "56908.jpeg", alt: "Palmeras en la playa" }
-  - { src: "8641.jpg", alt: "Exterior del hotel" }
-  - { src: "11641.jpg", alt: "Apartamento del Ciudad Blanca" }
+  - { src: "56908.jpeg", alt: "Piscina infantil con hinchables" }
+  - { src: "8641.jpg", alt: "Zona chill-out" }
+  - { src: "11641.jpg", alt: "Parque infantil" }
   - { src: "19648.jpeg", alt: "Habitación del hotel" }
 faq:
   - pregunta: "¿Tiene apartamentos?"

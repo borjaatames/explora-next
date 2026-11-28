@@ -58,9 +58,9 @@ distancias:
 fotos:
   - { src: "32498.jpeg", alt: "Iberostar Waves Cristina en Playa de Palma" }
   - { src: "85277.jpg", alt: "Bañista en la piscina del hotel" }
-  - { src: "77245.jpeg", alt: "Instalaciones del Iberostar Waves Cristina" }
-  - { src: "74805.jpeg", alt: "Zona exterior del hotel Cristina" }
-  - { src: "77246.jpeg", alt: "Otra vista del Iberostar Waves Cristina" }
+  - { src: "77245.jpeg", alt: "Piscina vista desde una terraza" }
+  - { src: "74805.jpeg", alt: "Entrada del hotel" }
+  - { src: "77246.jpeg", alt: "Salón del hotel" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido?"
     respuesta: "Desayuno, almuerzo y cena buffet con bebidas. La media pensión incluye el desayuno y la cena buffet."

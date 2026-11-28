@@ -56,9 +56,9 @@ distancias:
   - { lugar: "Centro de Marbella", valor: "5 km" }
 fotos:
   - { src: "36322.jpeg", alt: "Piscina con palmeras del Marbella Coral Beach" }
-  - { src: "89393.jpeg", alt: "Habitación con patio y acceso a piscina" }
-  - { src: "77802.jpeg", alt: "Vista de la costa de Marbella" }
-  - { src: "66564.jpeg", alt: "Barco amarrado en Puerto Banús" }
+  - { src: "89393.jpeg", alt: "Salón con vistas al mar" }
+  - { src: "77802.jpeg", alt: "Vista aérea del hotel" }
+  - { src: "66564.jpeg", alt: "Pareja en bicicleta junto al mar" }
   - { src: "75104.jpeg", alt: "Iberostar Selection Marbella Coral Beach" }
 faq:
   - pregunta: "¿Está en la playa?"

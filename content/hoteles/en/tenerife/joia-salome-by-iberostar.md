@@ -54,7 +54,7 @@ fotos:
   - { src: "37321.jpeg", alt: "Pool at JOIA Salomé in front of the hotel building" }
   - { src: "37312.jpeg", alt: "Pool with sea views" }
   - { src: "37291.jpeg", alt: "Palm trees by the pool" }
-  - { src: "85708.jpg", alt: "Walkway by the water" }
+  - { src: "85708.jpg", alt: "Pool with decking and sea views" }
   - { src: "37310.jpeg", alt: "Bedroom in a JOIA Salomé suite" }
   - { src: "37315.jpeg", alt: "Coffee on the breakfast terrace" }
 faq:

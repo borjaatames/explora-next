@@ -58,9 +58,9 @@ distancias:
 fotos:
   - { src: "32498.jpeg", alt: "Iberostar Waves Cristina in Playa de Palma" }
   - { src: "85277.jpg", alt: "Swimmer in the hotel pool" }
-  - { src: "77245.jpeg", alt: "Facilities at the Iberostar Waves Cristina" }
-  - { src: "74805.jpeg", alt: "Outdoor area at the Cristina" }
-  - { src: "77246.jpeg", alt: "Another view of the Iberostar Waves Cristina" }
+  - { src: "77245.jpeg", alt: "Pool seen from a terrace" }
+  - { src: "74805.jpeg", alt: "Hotel entrance" }
+  - { src: "77246.jpeg", alt: "Hotel lounge" }
 faq:
   - pregunta: "What does the all-inclusive cover?"
     respuesta: "Buffet breakfast, lunch and dinner with drinks. Half board includes buffet breakfast and dinner."

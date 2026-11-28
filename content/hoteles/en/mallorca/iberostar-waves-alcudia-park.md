@@ -55,10 +55,10 @@ distancias:
   - { lugar: "S'Albufera Natural Park", valor: "Nearby" }
 fotos:
   - { src: "35740.jpeg", alt: "The Iberostar Waves Alcudia Park on Alcudia Bay" }
-  - { src: "36794.jpeg", alt: "The hotel's large pool" }
+  - { src: "36794.jpeg", alt: "Children's pool with a slide" }
   - { src: "84207.jpg", alt: "Family playing in the pool" }
-  - { src: "84209.jpg", alt: "Swimmers in the pool" }
-  - { src: "36746.jpeg", alt: "Room with a desk" }
+  - { src: "84209.jpg", alt: "Children's splash area" }
+  - { src: "36746.jpeg", alt: "Indoor kids' area" }
   - { src: "25886.jpeg", alt: "Iberostar Waves Alcudia Park" }
 faq:
   - pregunta: "Is it on the beach?"

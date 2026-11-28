@@ -60,7 +60,7 @@ fotos:
   - { src: "84907.jpg", alt: "Pool with loungers and parasols at the Grand Mencey" }
   - { src: "82806.jpeg", alt: "Couple relaxing by the hotel pool" }
   - { src: "78016.jpeg", alt: "Bedroom with a large bed at the Grand Mencey" }
-  - { src: "10035.jpeg", alt: "Garden at the hotel entrance" }
+  - { src: "10035.jpeg", alt: "Hotel garden with views of Santa Cruz" }
   - { src: "46923.jpeg", alt: "Living room in a suite" }
 faq:
   - pregunta: "What board options does the Iberostar Heritage Grand Mencey offer?"

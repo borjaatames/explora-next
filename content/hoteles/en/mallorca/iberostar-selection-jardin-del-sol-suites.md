@@ -55,8 +55,8 @@ distancias:
   - { lugar: "Golf courses", valor: "5 in the area" }
 fotos:
   - { src: "55648.jpeg", alt: "Jardín del Sol Suites by the sea in Costa de la Calma" }
-  - { src: "69716.jpeg", alt: "Pool with loungers and parasols by the sea" }
-  - { src: "90141.jpeg", alt: "Guest on a lounger by the pool" }
+  - { src: "69716.jpeg", alt: "Restaurant with sea views" }
+  - { src: "90141.jpeg", alt: "Guest in the pool with sea views" }
   - { src: "60560.jpeg", alt: "Exclusive Star Prestige area" }
   - { src: "90139.jpeg", alt: "Pool among the trees" }
   - { src: "88974.jpeg", alt: "Swimmer on the rocks of the cove" }

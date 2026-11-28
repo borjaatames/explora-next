@@ -52,11 +52,11 @@ salida: "12:00"
 distancias:
   - { lugar: "Playa del Duque", valor: "Direct access" }
 fotos:
-  - { src: "46622.jpeg", alt: "Pool at JOIA El Mirador next to Playa del Duque" }
+  - { src: "46622.jpeg", alt: "JOIA El Mirador's pools seen from above" }
   - { src: "90120.jpeg", alt: "Pool surrounded by gardens and hotel buildings" }
-  - { src: "90119.jpeg", alt: "Sun loungers and palm trees on the beach" }
-  - { src: "90117.jpeg", alt: "Terrace by the pool" }
-  - { src: "39018.jpeg", alt: "JOIA El Mirador building with its pool" }
+  - { src: "90119.jpeg", alt: "Pool with palm trees" }
+  - { src: "90117.jpeg", alt: "Loungers in the garden" }
+  - { src: "39018.jpeg", alt: "Outdoor jacuzzi with sea views" }
   - { src: "90126.jpeg", alt: "View of the beach by the ocean" }
 faq:
   - pregunta: "Is JOIA El Mirador the former Iberostar Grand El Mirador?"

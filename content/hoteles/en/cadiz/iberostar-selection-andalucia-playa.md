@@ -55,10 +55,10 @@ distancias:
   - { lugar: "Golf course", valor: "Free shuttle" }
 fotos:
   - { src: "33899.jpeg", alt: "The Iberostar Selection Andalucía Playa by La Barrosa beach" }
-  - { src: "80334.jpeg", alt: "Lounger facing the sea" }
-  - { src: "80330.jpeg", alt: "Girl playing in the water" }
+  - { src: "80334.jpeg", alt: "Pool with daybeds" }
+  - { src: "80330.jpeg", alt: "Couple in the pool" }
   - { src: "25910.jpeg", alt: "Iberostar Selection Andalucía Playa" }
-  - { src: "68727.jpeg", alt: "Room with a large window" }
+  - { src: "68727.jpeg", alt: "Hotel lobby" }
   - { src: "76024.jpeg", alt: "Hotel facilities" }
 faq:
   - pregunta: "Is it on the beach?"

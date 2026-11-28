@@ -54,11 +54,11 @@ distancias:
   - { lugar: "Playa de Muro", valor: "Acceso directo" }
   - { lugar: "Parque natural de s'Albufera", valor: "Cerca" }
 fotos:
-  - { src: "48304.jpeg", alt: "Piscina del Playa de Muro Village junto al mar" }
-  - { src: "48302.jpeg", alt: "Zona de piscinas del hotel" }
-  - { src: "48318.jpeg", alt: "El mar en Playa de Muro" }
-  - { src: "61441.jpeg", alt: "Tumbonas en los jardines" }
-  - { src: "68614.jpeg", alt: "Dormitorio de una suite familiar" }
+  - { src: "48318.jpeg", alt: "Piscina entre pinos" }
+  - { src: "48304.jpeg", alt: "Sala de juegos infantil" }
+  - { src: "48302.jpeg", alt: "Parque infantil junto a la playa" }
+  - { src: "61441.jpeg", alt: "Plato en el restaurante del hotel" }
+  - { src: "68614.jpeg", alt: "Restaurante junto a la playa" }
   - { src: "79578.jpeg", alt: "Pareja en una mesa del restaurante" }
 faq:
   - pregunta: "¿Está en la playa?"

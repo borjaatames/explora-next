@@ -56,9 +56,9 @@ distancias:
   - { lugar: "Marbella centre", valor: "5 km" }
 fotos:
   - { src: "36322.jpeg", alt: "Palm-lined pool at the Marbella Coral Beach" }
-  - { src: "89393.jpeg", alt: "Room with patio and pool access" }
-  - { src: "77802.jpeg", alt: "View of the Marbella coast" }
-  - { src: "66564.jpeg", alt: "Boat moored in Puerto Banús" }
+  - { src: "89393.jpeg", alt: "Lounge with sea views" }
+  - { src: "77802.jpeg", alt: "Aerial view of the hotel" }
+  - { src: "66564.jpeg", alt: "Couple cycling by the sea" }
   - { src: "75104.jpeg", alt: "Iberostar Selection Marbella Coral Beach" }
 faq:
   - pregunta: "Is it on the beach?"

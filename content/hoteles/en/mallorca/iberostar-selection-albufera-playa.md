@@ -55,10 +55,10 @@ distancias:
   - { lugar: "S'Albufera Natural Park", valor: "Next door" }
   - { lugar: "Palma airport", valor: "43 min drive" }
 fotos:
-  - { src: "84419.jpg", alt: "Parasols on Playa de Muro beach by the hotel" }
-  - { src: "78068.jpeg", alt: "Iberostar Selection Albufera Playa" }
-  - { src: "77947.jpeg", alt: "Facilities at the Albufera Playa" }
-  - { src: "75187.jpeg", alt: "The hotel's outdoor area" }
+  - { src: "84419.jpg", alt: "Beach club on Playa de Muro by the hotel" }
+  - { src: "78068.jpeg", alt: "Couple in the pool overlooking the bay" }
+  - { src: "77947.jpeg", alt: "Couple in the pool" }
+  - { src: "75187.jpeg", alt: "Aerial view of the pools" }
   - { src: "77957.jpeg", alt: "Couple at a restaurant table" }
 faq:
   - pregunta: "What does the all-inclusive cover?"

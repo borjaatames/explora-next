@@ -52,11 +52,10 @@ salida: "12:00"
 distancias:
   - { lugar: "Beach", valor: "Free shuttle in summer" }
 fotos:
-  - { src: "85839.jpg", alt: "Pool with parasols at the Iberostar Selection Es Trenc" }
-  - { src: "85959.jpg", alt: "Large pool by the sea" }
-  - { src: "87395.jpg", alt: "Guest by the pool" }
-  - { src: "85928.jpg", alt: "Couple on a beach near Colonia de Sant Jordi" }
-  - { src: "85836.jpg", alt: "Jetty with chairs by the sea" }
+  - { src: "85839.jpg", alt: "Pool with sea views at the Iberostar Selection Es Trenc" }
+  - { src: "85959.jpg", alt: "Room with sea views" }
+  - { src: "85928.jpg", alt: "Suite living room" }
+  - { src: "85836.jpg", alt: "Restaurant with sea views" }
   - { src: "85954.jpg", alt: "Room with bed and terrace door" }
 faq:
   - pregunta: "When was the hotel renovated?"

@@ -55,11 +55,11 @@ distancias:
   - { lugar: "Aeropuerto de Palma", valor: "4 km" }
   - { lugar: "Centro de Palma", valor: "15 min en coche" }
 fotos:
-  - { src: "84046.jpg", alt: "Piscina del Iberostar Selection Llaut Palma" }
+  - { src: "84046.jpg", alt: "Cama balinesa junto a la piscina" }
   - { src: "84656.jpg", alt: "Pareja junto a la piscina" }
   - { src: "84654.jpg", alt: "Pareja comiendo al aire libre en el hotel" }
-  - { src: "39287.jpeg", alt: "Vista de la bahía de Palma desde el hotel" }
-  - { src: "44865.jpeg", alt: "Habitación con ventanal" }
+  - { src: "39287.jpeg", alt: "Piscina de la azotea con vistas a la bahía de Palma" }
+  - { src: "44865.jpeg", alt: "Restaurante buffet" }
   - { src: "84812.jpg", alt: "Persona saltando a la piscina" }
 faq:
   - pregunta: "¿Qué tiene el spa?"

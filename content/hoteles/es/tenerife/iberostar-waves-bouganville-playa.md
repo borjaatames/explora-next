@@ -56,10 +56,10 @@ distancias:
   - { lugar: "Aeropuerto Tenerife Sur", valor: "16 km · 12 min en coche" }
 fotos:
   - { src: "49286.jpeg", alt: "Edificio blanco del Iberostar Waves Bouganville Playa con su piscina" }
-  - { src: "49284.jpeg", alt: "Piscina del hotel con una pirámide en el centro" }
-  - { src: "49291.jpeg", alt: "Piscina grande del Bouganville Playa" }
-  - { src: "65724.jpeg", alt: "El mar frente al hotel en San Eugenio" }
-  - { src: "49290.jpeg", alt: "Bañistas en la playa junto al hotel" }
+  - { src: "49284.jpeg", alt: "Piscina con vistas al mar" }
+  - { src: "49291.jpeg", alt: "Piscina infantil con toboganes" }
+  - { src: "65724.jpeg", alt: "El hotel junto al mar en San Eugenio" }
+  - { src: "49290.jpeg", alt: "Zona infantil con toboganes y palmeras" }
   - { src: "38894.jpeg", alt: "Tumbonas en la zona de piscina" }
 faq:
   - pregunta: "¿A qué distancia está la playa?"

@@ -55,9 +55,9 @@ distancias:
 fotos:
   - { src: "69647.jpeg", alt: "El Iberostar Waves Cala Domingos junto al mar" }
   - { src: "69643.jpeg", alt: "Piscina grande del resort" }
-  - { src: "68867.jpeg", alt: "Bañistas en Cala Domingos" }
+  - { src: "68867.jpeg", alt: "Zona acuática infantil" }
   - { src: "68860.jpeg", alt: "Familias en la piscina" }
-  - { src: "30159.jpeg", alt: "Barca amarrada en la cala" }
+  - { src: "30159.jpeg", alt: "Vista aérea de Cala Domingos" }
   - { src: "68854.jpeg", alt: "Jardines del complejo" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido?"

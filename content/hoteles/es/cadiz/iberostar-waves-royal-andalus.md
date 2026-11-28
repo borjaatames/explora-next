@@ -56,9 +56,9 @@ distancias:
 fotos:
   - { src: "55656.jpeg", alt: "El Iberostar Waves Royal Andalus junto a la playa de La Barrosa" }
   - { src: "68840.jpeg", alt: "Palmeras junto a la piscina" }
-  - { src: "68843.jpeg", alt: "Playa con palmeras frente al hotel" }
-  - { src: "78600.jpeg", alt: "La playa de La Barrosa" }
-  - { src: "69756.jpeg", alt: "Paseantes en la playa" }
+  - { src: "68843.jpeg", alt: "Zona acuática infantil Aquafun" }
+  - { src: "78600.jpeg", alt: "Recepción del hotel" }
+  - { src: "69756.jpeg", alt: "Pasarela a la playa al atardecer" }
   - { src: "28622.jpeg", alt: "Iberostar Waves Royal Andalus" }
 faq:
   - pregunta: "¿Qué incluye el todo incluido?"

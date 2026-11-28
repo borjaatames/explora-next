@@ -56,10 +56,10 @@ distancias:
   - { lugar: "Tenerife South airport", valor: "16 km · 12 min drive" }
 fotos:
   - { src: "49286.jpeg", alt: "White building of the Iberostar Waves Bouganville Playa with its pool" }
-  - { src: "49284.jpeg", alt: "Hotel pool with a pyramid in the middle" }
-  - { src: "49291.jpeg", alt: "Large pool at the Bouganville Playa" }
-  - { src: "65724.jpeg", alt: "The sea in front of the hotel in San Eugenio" }
-  - { src: "49290.jpeg", alt: "Beachgoers on the beach by the hotel" }
+  - { src: "49284.jpeg", alt: "Pool with sea views" }
+  - { src: "49291.jpeg", alt: "Children's pool with slides" }
+  - { src: "65724.jpeg", alt: "The hotel by the sea in San Eugenio" }
+  - { src: "49290.jpeg", alt: "Kids' area with slides and palm trees" }
   - { src: "38894.jpeg", alt: "Sun loungers in the pool area" }
 faq:
   - pregunta: "How far is the beach?"

@@ -55,11 +55,11 @@ distancias:
   - { lugar: "Palma airport", valor: "4 km" }
   - { lugar: "Palma city centre", valor: "15 min drive" }
 fotos:
-  - { src: "84046.jpg", alt: "Pool at the Iberostar Selection Llaut Palma" }
+  - { src: "84046.jpg", alt: "Daybed by the pool" }
   - { src: "84656.jpg", alt: "Couple by the pool" }
   - { src: "84654.jpg", alt: "Couple eating outdoors at the hotel" }
-  - { src: "39287.jpeg", alt: "View of the Bay of Palma from the hotel" }
-  - { src: "44865.jpeg", alt: "Room with a large window" }
+  - { src: "39287.jpeg", alt: "Rooftop pool overlooking the Bay of Palma" }
+  - { src: "44865.jpeg", alt: "Buffet restaurant" }
   - { src: "84812.jpg", alt: "Person jumping into the pool" }
 faq:
   - pregunta: "What does the spa offer?"

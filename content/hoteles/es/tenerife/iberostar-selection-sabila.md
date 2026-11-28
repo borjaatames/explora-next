@@ -56,11 +56,11 @@ distancias:
   - { lugar: "Golf Costa Adeje", valor: "12 km" }
   - { lugar: "Aeropuerto Tenerife Sur", valor: "18 km · 12 min en coche" }
 fotos:
-  - { src: "37904.jpg", alt: "Vista aérea de la piscina principal del Iberostar Selection Sábila" }
-  - { src: "71620.jpeg", alt: "Piscina rodeada de árboles en el Sábila" }
-  - { src: "77906.jpeg", alt: "Pareja paseando por la playa cerca del hotel" }
-  - { src: "37981.jpeg", alt: "Rocas junto al océano en Costa Adeje" }
-  - { src: "31181.jpeg", alt: "Mesa en uno de los restaurantes del hotel" }
+  - { src: "37981.jpeg", alt: "Vista aérea de la piscina del Iberostar Selection Sábila" }
+  - { src: "71620.jpeg", alt: "Vista aérea de la costa junto al hotel" }
+  - { src: "37904.jpg", alt: "Bar exterior con vistas al mar" }
+  - { src: "77906.jpeg", alt: "Restaurante del hotel" }
+  - { src: "31181.jpeg", alt: "Piscina con tumbonas frente al mar" }
   - { src: "77905.jpeg", alt: "Bañista en el mar frente al hotel" }
 faq:
   - pregunta: "¿El Iberostar Selection Sábila es solo para adultos?"
